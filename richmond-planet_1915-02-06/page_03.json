@@ -1,0 +1,857 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 2268,
+  "height": 2802,
+  "processed_at": "2026-03-06T14:19:47.957883+00:00",
+  "processing_time": 67.8,
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "ocr_workers": 1
+  },
+  "layout": {
+    "raw_detections": 127,
+    "after_gap_fill": 139,
+    "after_merge": 76
+  },
+  "regions": [
+    {
+      "bbox": [
+        134,
+        343,
+        418,
+        446
+      ],
+      "label": "doc_title",
+      "text": "5 DEAD,8 INJURED ON U. S. CRUISER",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        128,
+        580,
+        418,
+        611
+      ],
+      "label": "paragraph_title",
+      "text": "SOME OF INJURED WILL DIE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        88,
+        648,
+        417,
+        1384
+      ],
+      "label": "text",
+      "text": "Accident Occurs During Steam Trials of Warship in Pacific Off Mexican Coast.\n\nFive men were killed and eight others seriously injured on board the armored cruiser San Diego, formerly the California, when a boiler tube blew out after a steaming trial of four hours had been completed off La Paz, Mexico, in the Pacific.\n\nThe dead are: Oscar J. Wyatt, El Contro, Cal.; Ambus L. Hardee, Joppe, Mo.; William F. Ellott, Brooklyn, N. Y.; Clifford A. Western, Davenport, Cal.; and George Ohm, Yutan, Neb. All were firemen.\n\nThe injured are: R. B. Glidden, Indianapolis; Ernest A. Ledwith, Pueblo, Colo.; William H. Miller, Downs, Kan.; Charles W. Petersen, Racine, Wits.; B. A. Tucker, Lead Mine, Mo.; and Darrell L. Varnado, Port Arthur, Tex., all firemen. Also Patrick A. Merriam, Wolbach, Neb., coal passer, and Emanuel Shappi, Laporte, Ind., seaman.\n\nThe San Diego is the flagship of the Pacific fleet. Rear Admiral Howard having transferred his flag as commander of the Pacific fleet from the West Virginia to the San Diego on Nov. 25.\n\nThe vessel, which cost $6,000,000 and was built at the Union from Works, San Francisco, is one of the fastest and best of that type in the navy. She formerly was the cruiser California.\n\nShe has a displacement of 15,680 tons. Her dimensions are: Length, 502 feet; beam, 70 feet; draft, 26 feet. She carries four eight-inch guns, fourteen six-inch, eighteen-three-inch and twelve three-pounders. Captain Ashley H. Robertson is her commander.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        225,
+        1388,
+        300,
+        1399
+      ],
+      "label": "paragraph_title",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        102,
+        1405,
+        402,
+        2183
+      ],
+      "label": "text",
+      "text": "U. S. Has Right to Sell to Any Nation\n\nThe United States government is sued a lengthy defense of its interpretation of the rights and duties of a neutral in the European war.\n\nA document prepared by President Wilson, Secretary Bryan and Counselor Robert Laing, of the state department, after several days of consultation, was made public in the form of a letter from the secretary of state to Senator Stone, of Missouri, chairman of the senate committee on foreign relations.\n\nAfter answering nineteen separate and specific charges and calling attention to the fact that the United States had promptly taken to tussle Great Britain, as well as Germany and every government which in any way has infringed upon the rights of this country, the letter concludes with the following declaration on the much-discussed question of exportation of war munitions:\n\n\"If any American citizens, partisans of Germany and Austria-Hungary, feel that this administration is acting in a way injurious to the cause of those countries, this feeling results from the fact that on the high seas the German and Austria-Hungarian naval power is thus inferior to the British. It is the business of a belligerent operating on the high seas, not the duty of a neutral, to prevent contraband from reaching an enemy. Those in this country who sympathize with Germany and Austria-Hungary appear to assume that some obligation rests on this government, in the performance of its neutral duty, to prevent all trade in contraband, and thus to equalize the difference due to the relative naval strength of the belligerents. No such obligation exists; it would be an unneutral cat, an act of partiality on the part of this government, to adopt such a policy, if the executive had the power to do so.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        99,
+        2182,
+        389,
+        2306
+      ],
+      "label": "text",
+      "text": "\"If Germany and Austria-Hungary cannot import contraband from this country, it is not, because of this fact, the duty of the United States to close its markets to the allies. The markets of this country are open to equal terms to all the world, to every nation, belligerent or neutral.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        150,
+        2332,
+        333,
+        2346
+      ],
+      "label": "paragraph_title",
+      "text": "Brother Killed In War.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        92,
+        2345,
+        384,
+        2693
+      ],
+      "label": "text",
+      "text": "A cablegram that was received in West Chester, Pa., by a Martin and Rudolph Lorkes, young business men, announces the death of their brother, Gustave Adolph Lorkes, who was fighting, with the German army on the Russian frontier.\n\nYoung Lorkes was a member of a scouting party at the time. He was nineteen years old. Six other brothers are serving with the Germans, one of them being an officer. The parents of the brothers live in Germany.\n\nKilie His Wife and Himself.\nLong-standing domestic difficulties eliminated in a double tragedy when Abraham McCleary, a one armed telegraph engineer, employed by the Pennsylvania Railroad company in Memphis, Pa., shot his wife and then committed suicide.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        420,
+        704,
+        709,
+        847
+      ],
+      "label": "text",
+      "text": "Photo by American Press Association.\n\nThe Nordischeutsche Allgemeine Zeitung, the German official newspaper, announces that General Erich von Falkernayn, who succeeded General von Moltke as chief of the German general staff, has resigned as mutter of war and that the kaiser has no appointment. General Wild von Hohenborn to the post.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        419,
+        845,
+        709,
+        870
+      ],
+      "label": "text",
+      "text": "The kalser has sent the following message to Von Falkenhayn:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        418,
+        868,
+        709,
+        982
+      ],
+      "label": "text",
+      "text": "\"I agree with your reasons regarding the appointment of a new war minister and relieve you according to your wish. I express my hearty accolades for the services in this important post by leaving you in your office of chief of the general staff and appointing you a general of infantry.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        455,
+        997,
+        664,
+        1011
+      ],
+      "label": "paragraph_title",
+      "text": "Germany Warne Bumpla.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        416,
+        1012,
+        707,
+        1139
+      ],
+      "label": "text",
+      "text": "The Paris Temps prints the following from Petrograd: \"Germany, in a note to Humania, declares that the measures undertaken by the latter country are tantamount to mobilization orders, and its encouragement of a revolutionary propaganda in Transylvania, are hostile acts.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        446,
+        1158,
+        664,
+        1186
+      ],
+      "label": "paragraph_title",
+      "text": "A VERY QUEER BIRD.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        390,
+        1193,
+        709,
+        2483
+      ],
+      "label": "text",
+      "text": "The One Young Mark Twain Sprung Upon the Scientists.\n\nMark Twain's father was an ornithologist. He had several friends who were also enthusiasts on the subject of birds. Whenever any one of them discovered a rara avis it was the custom to have a consultation. Mark had been a witness of several of these bird inquests and had noted the delight the old men took. In discussing a new found specimen, one day it occurred to him to provide the Hannibal ornithologists with a real census in the form of a bird. He killed a crow and also garrigard rooster. Plucking out the tail feathers of both the crow and the rooster, he substituted the rooster's tail feathers for those of the cow, producing a unique effect. When he had the specimen nicely prepared he went to his father and, handing it to him, said:\n\n\"Here, father, is a very curious bird I shot. I thought you would be interested in it.\"\n\nThe old gentleman gazed upon the specimen with astonishment. That\n\n\"WHY, JUST LOOK HERE,\" he said, evening the ornithologists of Hannibal were assembled in Mr. Clemens' parlor. The rare specimen was put before them. The discussion was long and learned. The opinions expressed were various. One thought the bird was an offshoot of the bird of paradise family; others had equally ridiculous notions as to its ancestry. But there was one who refused to be awerved by the peculiarity of the bird's tail from the judgment that it was of the crow family.\n\n\"Why, just look here,\" he said, lifting the bird by its tail feathers. He got no further. The feathers came out. There was a quick closing of a door, and Mr. Clemens started to leave the room.\n\n\"Gentlemen,\" he said, \"please excuse me a few moments. I will see Samuel first and explain later.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        494,
+        2502,
+        573,
+        2515
+      ],
+      "label": "paragraph_title",
+      "text": "Be Genial.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        390,
+        2517,
+        709,
+        2782
+      ],
+      "label": "text",
+      "text": "Life is made up not of great sacrifices or duties, but of little things in which emiles and kindness and small obligations, given habitually, are what win and preserve the heart and serene comfort\u2014Mr Humphry Duncan.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        721,
+        51,
+        1015,
+        403
+      ],
+      "label": "text",
+      "text": "on for a baby, each remembering that she was the mother of it. The judge remembered Holoman, and, having a court attendant present a bowle kuffle, declared that he would give half to each. The women were shocked, but had no doubt of the authority and purpose of the judge to make the proposed compromise. \"Don't do that, boos,\" they both screamed in unison. \"You can keep it yourself.\"\n\nOne Answer Too Many.\nA coal dealer asked some law students if they could guess what legal authority was the favorite of his trade. One answered \"Coke.\" \"Right,\" said the coal dealer. Another suggested \"Blackstone.\" \"Good too!\" said the questioner. Then another said \"Littleton-\" and the coal dealer was annoyed.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        796,
+        416,
+        933,
+        430
+      ],
+      "label": "paragraph_title",
+      "text": "Painful Ignorance.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        716,
+        432,
+        1007,
+        782
+      ],
+      "label": "text",
+      "text": "two pickpockets, notorious thieves were on trial. None the loss, they contrived somehow to put up a good defense, thanks mainly to the cleverness of the lawyer whom they employed. The detective who had effected the arrest spent a miserable twenty minutes in the witness box contradicting himself repeatedly. \"Then what made you suspect the men?\" asked the lawyer. \"As I said before, one of them was wearing an overcoat with a silt in the lining, so that he might operate more easily.\" \"Come, come,\" said the lawyer. \"Would you arrest me if you saw me wearing such an overcoat?\" \"No, sir. I happen to know who you are. You're a lawyer.\" \"Well, what's the difference between a lawyer and a pickpocket.\" The detective shook his head. \"I really don't know,\" he muttered.\u2014Argonaut.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        795,
+        799,
+        926,
+        812
+      ],
+      "label": "paragraph_title",
+      "text": "Up to His Tricks.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        716,
+        814,
+        1002,
+        896
+      ],
+      "label": "text",
+      "text": "Lord Rosslyn at a dinner in New York once said of a notorious London spendthrift:\n\"When he was at Oxford he wired once to his mule, whose heir he was:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        716,
+        886,
+        1001,
+        987
+      ],
+      "label": "text",
+      "text": "outside to his suite, whose he was:\n\"If you don't send me a hundred by\nSaturday I'll blow my brains out.\"\n\"His uncle wired back:\n\"You telegraphed me that before,\nand when I forwarded you my best\nfellow you went and inquired.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        809,
+        1022,
+        901,
+        1034
+      ],
+      "label": "paragraph_title",
+      "text": "At the Door.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        719,
+        1035,
+        986,
+        1211
+      ],
+      "label": "text",
+      "text": "I thought myself indeed secure,\nSo for the door to do firm the lock;\nBut he be holding come to lure\nMy parent ear with timorous knock.\n\nMy heart were stone could I withstand\nThe sweetness of my baby's plea,\nThat thornous, taby knocking and.\n\"Please at me in it's only mo\"\n\nI three awake the unfinished book,\nRegardless of its temping charma,\nKid, opening with the door, I took\nMy turgging startling in my arms.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        720,
+        1257,
+        978,
+        1334
+      ],
+      "label": "text",
+      "text": "Beyond the Heavenly Father's gates\n\nAnd will that the heavenly Father feed\nThe trumpet said slaying cry\nAs at the outer door I plead,\nTresus Father I plead.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        790,
+        1366,
+        910,
+        1379
+      ],
+      "label": "paragraph_title",
+      "text": "A Shining Mark",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        699,
+        1380,
+        992,
+        1777
+      ],
+      "label": "text",
+      "text": "A lady grievously gormented with a corn on her toe was advised by one of her friends to amount it with phosphorus, which men weak moment she did, but forgot to tell her husband he felt retiring at night. It had just turned 12 when the husband awoke and was started to see something sparking at the foot of the bed. He had never heard of a fire in the locality nor did he ever remember seeing such a terrible looking object as the tooe presented. Reaching carefully our bedtill he found one of his slippers, he raised it high in the air and brought it down with great force upon the mysterious night.\n\nA stress and an availance of bed clothing, and all was ever. When at last he released himself from the bedclothes he discovered his wife gripping her toe and grooming in a corner of the bedroom, but she had got of that phosphated corn\u2014London graphic.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        780,
+        1796,
+        906,
+        1810
+      ],
+      "label": "paragraph_title",
+      "text": "Naming a Horse.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        694,
+        1810,
+        983,
+        2060
+      ],
+      "label": "text",
+      "text": "Commenting on the curious names often given to racehouses, a writer in a London daily recalled the historic case of Poloquesson. The Kart of Egremont had a horse he intended to call Potatoes, and in going around the stable one evening he gave the stable boy to charge of the horse a piece of chalk and tool film to write the name on the corn bin. The toy white pot and then evidently in some doubt as to the correct spelling, insisted the word by repeating the letter \"oe\" eight times. This so allowed Lord Egremont, and his friends, that the horse was so named for town.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1018,
+        65,
+        1304,
+        419
+      ],
+      "label": "text",
+      "text": "Guests Stand the Needle.\n\nHe was a college boy, home for vacation, and his mother's cook had provided upon him to lend her $8 for two weeks. Much to the surprise of the family, cook departed from her practice of keeping, such funds indefinitely and paid the debt promptly. When questioned about it she said:\n\n\"No; dat boy never once ask me for dat money. He never dun' me at all, but when I serve his late breakfast in de mornin' he always leave five blacuts on de plate when he used to eat 'em all. an' he tells me he likes five lumps of sugar in his coffee when everybody knows dats' too sweet. Den when I goes in my kitchen I finds five raw potatoes on my table an' five lumps of coal laid by my stove. Dem gives five watchfully hints me, so I pags him.\" - New York Post.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1050,
+        441,
+        1257,
+        455
+      ],
+      "label": "paragraph_title",
+      "text": "Airmen In Flight to Death",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1013,
+        453,
+        1297,
+        568
+      ],
+      "label": "text",
+      "text": "In a battle 3000 feet in the air between an Austrian and a Russian gyrator on Wednesday, both airmen were killed. The combat took place near Przemysl. The Russian rammed the Austrian's machine and both fell to their death.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1047,
+        587,
+        1257,
+        602
+      ],
+      "label": "paragraph_title",
+      "text": "Obregon Near Mexico City",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1005,
+        601,
+        1294,
+        973
+      ],
+      "label": "text",
+      "text": "The Carranza agency in Washington issued the following statement: \"Vera Cruz reports that General Obregon, with a large force, it within a short distance of the capital and is expected to occupy the place almost immediately.\"\n\nFired First Shot at Gettysburg.\nColonel T. Denton Kelley, seventy six years old, who, it is claimed, fired the first shot at Gettysburg, Pa., is dead at the home of his daughter, Mrs. George A. Brigham, at Rutland, Vermont.\n\nSays Russians Have Lost 1,800,000.\nThe Munich Post prints a letter said to have been written by a Russian princess, saying it is estimated that the Russian losses from Aug. 1 to Nov. 30 have been 500,000 killed and 1,300,000 wounded.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1002,
+        1000,
+        1242,
+        1021
+      ],
+      "label": "paragraph_title",
+      "text": "GENERAL MARKETS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1057,
+        1000,
+        1241,
+        1018
+      ],
+      "label": "paragraph_title",
+      "text": "GENERAL MARKETS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1001,
+        1029,
+        1286,
+        1114
+      ],
+      "label": "text",
+      "text": "PHIHA.DELPHIA \u2014 FLOUR firm,\nwinter clear, $5.50 4; city mills,\nfancy, $7.25 7.50.\nRYE FLOUR firm, per barrel, $6.50\n\u00a2.05.\nWHEAT quiet No. 2 red, $1.45\n1.48",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        999,
+        1110,
+        1287,
+        1176
+      ],
+      "label": "text",
+      "text": "CORN firm; No. 220200, M151800,\nOATS firm; No. 2 white, M151800,\ngrown grades, J64.\nPOTATOES steady; at 634765c, per bushel.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1001,
+        1171,
+        1285,
+        1261
+      ],
+      "label": "text",
+      "text": "POULTRY: Live steady, hens, 135, 136; old roosters, 10, 137; Grassed firm; choice fowls, 136; old roosters, 12c. BUTTER firm; farm, fancy, cream, 34c. EGGS steady; selected, 40c, 42c. nearly, 34c, western, 35c.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1076,
+        1278,
+        1213,
+        1292
+      ],
+      "label": "paragraph_title",
+      "text": "Live Stock Prices.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        999,
+        1293,
+        1286,
+        1424
+      ],
+      "label": "text",
+      "text": "CHICAGO 1023, lower, mixed\nand butchers, $6.55/70, good heavy,\n$6.75/70, rom h heavies, $4.00/70,\nlight, $6.75/71, pl. $6.75/70, bulk\nof pales, $5.75/70\n\nCATTLE blicker, towns, $6.2/40;\ncows and butchers, $6.2/25, stock\ntrades, $6.2/25, Texas,\n$6.75/40, pl. $6.75/40\n\nSHEEP blicker, native and western,\n$3.00/60, lumber, $6.85/50",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        999,
+        1296,
+        1285,
+        1408
+      ],
+      "label": "text",
+      "text": "CHICAGO HOPES lower, mixed and butchers, $5,575.00 good heavy, $6,575.00 run heavy, $9,575.00 butcher, $10,575.00 bulk of salads, $15,750.00\nCATTLE higher, stores, $6,940.00 cows and butchers, $12,750 stockers and teachers, $18,500.00 Texans, $6,770.00 calves, $8,750.00",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1000,
+        1402,
+        1284,
+        1427
+      ],
+      "label": "text",
+      "text": "SHEEP fisher, native and western.\n$3,990.640, lumber. $6,850.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1007,
+        1479,
+        1282,
+        1544
+      ],
+      "label": "paragraph_title",
+      "text": "Have you lost anything?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        993,
+        1552,
+        1284,
+        2018
+      ],
+      "label": "text",
+      "text": "Don't sit down and mourn with a \"I'll never get it back\" expression on your face.\n\nCheer up! Put out a dragnet for it.\n\nThat means use a lost and found ad. in this paper.\n\nMost people are honest, and few want rewards, so the cost to you is trifling.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1329,
+        141,
+        1872,
+        226
+      ],
+      "label": "text",
+      "text": "OFFICE ROOM, NO. 405, MECHANIC OF SAVINGS BANK BUILDING\n*Phone, Monroe\u20142637*\nResidence, 610 N. 1st St.\u2014Shop in Rear. *Phone, Monroe-2166*\nSpecial Attention Paid to the Taking of Contracts for Building of\nAny Style of Architecture. Job Work a Specialty.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1305,
+        492,
+        1880,
+        610
+      ],
+      "label": "text",
+      "text": "BEAUTIFUL HEAD OF HAIR IS A LADY'S CROWNING GLORY.--And every lady can have it if she will use the Magic. The Magic will dry the half after a shampoo or kath, and straighten the earliest head of hair. It will also stimulate its growth. The Aluminum Comb can mimic the hair, because it is never heated direct, but takes its heat from the heating bar which is heated on our Alcohol Heater, or any other heater. We advice the use of Hairy Hair Pams. Beat on the market. Price per box. $5e. Alcohol Heater, price $5e. Liberal terms to agents.\n\nWrite for Literature today.\n\nMAGIC AMPOO DRIER COMPANY, MINNEAPOLIS, MINNESOTA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1311,
+        697,
+        1857,
+        791
+      ],
+      "label": "text",
+      "text": "We offer you, the Least and Most Artistic Photos, at a More\nModerate Figure than you can obtain elsewhere.\nSpecial Attention Paid to Children. Enlarging and Copying\nInterior View Work.\nWe will also be Pleased to Quote you Prices on Exterior and\nFrom (Nld Photos. A Specialty.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1310,
+        911,
+        1868,
+        961
+      ],
+      "label": "doc_title",
+      "text": "Mme. T. D. PERKINS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1304,
+        998,
+        1868,
+        1169
+      ],
+      "label": "text",
+      "text": "4630 W 35th Avenue, Denver, Colo.\n\nMadam T. D. Perkins, of Denver, Colo, who has spent five years in study of the scalp, is now interacting women all over the globe in the care of the hair and scalp. No matter how dark your skin is, Madam Perkins matchless scalp preparations and scientific method of treatment for cultivating, beautifying and growing the hair will grow your hair if there is no physical alliment to prevent. Her treatments have been successful where all others have failed. Have you written her? If not, and you want hair like her own, write her to-day. Be sure to enclose a $9-cent stamp and write your name and address very plain if you expect a reply. Don't write unless you mean business.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1334,
+        1522,
+        1822,
+        1552
+      ],
+      "label": "text",
+      "text": "If a Woman have long hair, it is a Glory to Her; I Cor. 11-15.\nEvery Woman Can Have that Glory If she Wishes it.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1287,
+        1817,
+        1854,
+        2027
+      ],
+      "label": "text",
+      "text": "ends, removes dandruff and scalp scurf, causes the hair to grow long, no matter how short; soft, no matter how harsh; thick, no matter how thin; straight from the bulbs, no matter how kinky. First treatment will show wonderful improvement. Do not wait if you are interested in your hair. I give treatments all over the United States by mail. Write me at once. I send booklet concerning the care of the hair, and testimonials of those taking my treatments when a 4-cent stamp is enclosed. I do not have agents. I need a personal history of your hair and scalp and your physical condition.\n\nAll mail promptly answered when a 4-cent stamp is enclosed. I am the only woman of the race growing hair to-day who can show the public the real length my hair was when I first began treating it: Send for booklet if you mean business. You can secure these preparations only from me. None like them made in the world. The T. D. P. Scientific Scalp Preparation, Madam Perkins, sole agent.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1267,
+        1568,
+        1551,
+        2061
+      ],
+      "label": "text",
+      "text": "This is for you, but soft, long, beau not be put on the Do you want this write for particulars kins, the Scientific Denver, Colo., who world with her won hair.\n\nMy own hair is meant. With these grew 17 inches in malmed one length years. What I did doing for hundreds do for you with my Scalp Preparations, falling hair or break ends, removes dandruff and scalp matter how short; soft, no matter straight from the bulbs, no matter wonderful improvement. Do not I give treatments all over the Un I send booklet concerning the care taking my treatments when a 4-agents. I need a personal history condition.\n\nAll mail promptly answered by the only woman of the race grown the real length my hair was when let if you mean business. You came. None like them made in the Preparation, Madam Perkins, sole a",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1283,
+        2061,
+        1465,
+        2088
+      ],
+      "label": "paragraph_title",
+      "text": "THE ECONOMY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1267,
+        2088,
+        1551,
+        2782
+      ],
+      "label": "text",
+      "text": "FINE\nTAILORING\nCLEANING DYING AND REPAIRING.\nCBITMAN M. WHITE,\nPrepiston.\n\nA. Hayes,\nOffice and Ware-Room\u00b9,\n727 NORTH SECOND STREET,\nBradford\u2014726 North Street (sq.\n\nFirst-class Radio and Cinema of All Description. I have a spare room for Bedroom, when the Family have not a profitable place. All Country Orders are Given Special Attention. Your Special Attention is guided to the New Style GAK CAMEREL. Call and see me and you shall be visited on individually.\n\nPlease Mail 591.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1534,
+        677,
+        1639,
+        694
+      ],
+      "label": "paragraph_title",
+      "text": "PHOTOS.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1534,
+        694,
+        1639,
+        2212
+      ],
+      "label": "text",
+      "text": "D. P.\nSCALP\nAvenue, K\nDenver, Colorado\nroasting women\ntatter hat dark\nand scientific\ning the hair with\nHer treatment\nyou written he\nay. Be sure t\nvery plain if you\n\nWAIT,\nwair, it is a Glory\nHave that Glory\n\nhelp scurf, cause\nhow harsh\ntatter how kinky\nnot wait if you\nUnited States\ncare of the ha\n4-cent stamp\nvery of your hair\n\n1 when a 4-cent\nwing hair to do\non I first began\ncan secure the\nthe world. Th\no agent.\n\nOther\nJust\nYou\nNo",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1534,
+        1821,
+        1857,
+        2661
+      ],
+      "label": "text",
+      "text": "alp surf, causes the hair to grow long, no\nfer how harsh; thick, no matter how thin;\nter how kinky. First treatment will show\nnot wait if you are interested in your hair.\nUnited States by mail. Write me at once.\ncare of the hair, and testimonials of those\n4-cent stamp is enclosed. I do not have\nry of your hair and scalp and your physical\n1 when a 4-cent stamp is enclosed. I am\nwing hair to-day who can show the public\nin first began treating it. Send for book-\ncan secure these preparations only from\nthe world. The T. D. P. Scientific Scalp\nagent.\n\nOther People\nJudge You by\nYour Furniture\nNow\n\nWhen you can get FURNITURE\nand RUGS from an Old established\nhouse like JURGENS\u2014that' known\nto sell the best quality goods, just as\nreasonable as elsewhere\u2014why not\ngive your friends a good impression;\nit will give us the greatest pleasure\nto show you our wonderful stock of\nhome-making comfort giving Furniture\nand Rugs and\u2014don't fall to ask\nour selenment about our banking plan\nwhich gives you 5, 10 or 15 months\nin which to pay for any purchase.\n\nCHAS. G.\nJURGENS SON,\nESTABLISHED 1860.\nADAMS AND BROAD.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1561,
+        2403,
+        1857,
+        2528
+      ],
+      "label": "text",
+      "text": "CHAS. G.\nJURGENS SON,",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1698,
+        1568,
+        1857,
+        1821
+      ],
+      "label": "text",
+      "text": "No more froned hair,\ntiful hair that need\ndresser on retiring\nkind of hair? If so,\nto Madam T. D. Per-\nscalp Specialist of\nis astonishing the\nderful art of growing\nmy best advertise-\ntreatments my hair\ntwo years. It had re-\n(four inches) for 15\nfor my hair I am\nof others, and will\nMatchless Scientific\nMy treatment stops\noff, cures split",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1888,
+        169,
+        2192,
+        452
+      ],
+      "label": "text",
+      "text": "Leave Richmond\n*4.50 A.H. Byrd St. Ha. 4.50 A.H. Byrd St. Ha.\n*4.66 A.H. Byrd St. Ha. 4.66 A.H. Byrd St. Ha.\n*4.77 A.H. Bain St. Ha. 4.77 A.H. Bain St. Ha.\n*4.80 A.H. Bain St. Ha. 4.80 A.H. Bain St. Ha.\n*4.85 A.H. Byrd St. Ha. 4.85 A.H. Byrd St. Ha.\n*4.90 A.H. Byrd St. Ha. 4.90 A.H. Byrd St. Ha.\n*4.95 A.H. Byrd St. Ha. 4.95 A.H. Byrd St. Ha.\n*1.50 K. Ha. Byrd St. Ha. 1.50 K. Ha. Byrd St. Ha.\n*1.50 P. H. Byrd St. Ha. 1.50 P. H. Byrd St. Ha.\n*1.50 P. H. Kia Motors. 1.50 P. H. Kia Motors.",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1890,
+        484,
+        2182,
+        516
+      ],
+      "label": "paragraph_title",
+      "text": "N. & W.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1890,
+        523,
+        2192,
+        651
+      ],
+      "label": "text",
+      "text": "ONLY ALL RAIL LINE TO NORFOLK.\n\nSchedule in Effect December 1, 1928\nLeave Byrd St. Station, Richmond, FED\n9:20 A.M. 9:20 P.M. 9:40 P.M.\nFOR LYONCHAM AND VERNYWET: 9:15 A.\n9:20 A.M. 9:20 P.M.\nArrive Richmond From Norfolk: 7:10 A.\n9:20 P.M. 7:10 P.M. From the Wavy\n9:20 A.M. 8:10 P.M. 8:10 P.M.\nP.M. 9:20 P.M.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1894,
+        650,
+        2178,
+        691
+      ],
+      "label": "text",
+      "text": "W. C. BURLEY\nW. C. BURLEY\nW. C. BURLEY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1893,
+        727,
+        2177,
+        749
+      ],
+      "label": "paragraph_title",
+      "text": "ATLANTIC COAST LINE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1888,
+        790,
+        2180,
+        831
+      ],
+      "label": "text",
+      "text": "TRAINS LAVE BACKWARD BAILY,\nTRAINS LAVE BACKWARD BAILY,\nSoutheast: 8125 A. M. and 8000\nP. M. 12:50 A.M.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1876,
+        826,
+        2180,
+        1017
+      ],
+      "label": "text",
+      "text": "For Norfolk: 8:00 A.M. 8:00 P.M. 4:10 P.M.\nFor N. & W. Rye: West: 8:00 A.M. 8:00 A.M.\n8:00 P.M. 9:00 P.M.\nFor Portsmouth: 12:00 A.M. 6:15 A.M. 8:15\nA.M. W. 9:00 A.M. 8:00 P.M.\n4:10 P.M. 9:00 P.M.\nFor Goldsboro and Fayetteville: *4:10 P.M.\nFor Pilgrims Airline Richmond Daily: 8:00 A.M.\n10:15 A.M. 8:00 A.M. *7:00 A.M.\n11:14 A.M. 8:15 A.M. *7:40 A.M.\n8:05 P.M. 8:25 P.M. 8:00 P.M. 8:00 P.M.\n11:30 P.M. P.M.\nFor Sunday, *Sunday only.\nTime of arrival and departure and connections\nnot guaranteed.\nC. S. CAMPELL, D. P. A. 200 Mile 59",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1878,
+        1059,
+        2161,
+        1102
+      ],
+      "label": "paragraph_title",
+      "text": "SOUTHERN RAILWAY,\nPremier Carrier of the South",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1904,
+        1114,
+        2148,
+        1142
+      ],
+      "label": "paragraph_title",
+      "text": "Premier Carrier of the South.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1874,
+        1149,
+        2176,
+        1299
+      ],
+      "label": "text",
+      "text": "Trailside Lave Richmond - Main Street Burlington\nTrailside schedule (updates) published\nas information available on the trail\nFor the North - Daily: 5:00 A.M. M.-Local: M:00\nA.M. E-Express: 6:00 P.M. M.-Brygman with Atlantic\nLake Bridge for Alkamus and\nRimingham. 12:30 P.M. M.-Brygman. Work Sunday\nP.M. M.-Local. LIVE LINE.\n5:00 P.M. M.-Roscommon River. M-Local: M:00\nSunday; no local stop. 4:15 P.M. M-Local: M-On-Assessing\nfor Burlington, daily, except\nSunday.\nTRAIN ARRIVING",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1862,
+        1290,
+        2192,
+        1528
+      ],
+      "label": "text",
+      "text": "TRAIN ARIVER BOUNDARY\nFrom East 7:00 A.M. 7:00 A.M. and 8:00 A.M.\n2:15 P.M. 8:00 P.M. daily (no train bound)\nFrom West Point: 8:45 A. (no train bound)\ndaily except Monday: 0:45 A. M. daily; 0:45\nP. M. except Monday:\nH. L. BROWP, D. P. A.,\n907 K. Main St., Phone Madison St.\n\nC. & O.\n\n7:15 A.-Local-Daily-Newport News.\n7:40 A.-Local-Daily-Chattotocville, Brace\nPonday, Thurday.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1862,
+        1527,
+        2192,
+        1779
+      ],
+      "label": "text",
+      "text": "19 00 A. Ex.-Daily-Norfolk and Old Peck.\n9 10 A. -Local-Daily-Lycoming, Lostingham,\nClyde.\n12 15 Nose Ex.-Daily-Norfolk, Old Peck.\n12 19 P. Ex.-Daily-Norfolk, Lostingham.\n14 00 P. Ex.-Daily-Norfolk, Old Peck.\n8 00 P. -Local-Dy-Norton News, Old Peck\n6 10 P. -Local-Ex.-Sunday-Gordesville.\n5 15 P. -Local-Days-Lycoming.\n5 15 P. -Local-Ex.-Sunday-Lycoming and\nClifton Forges.\n6 50 P. -Simplified-Daily-Ocracinnati, Chicago\nand St. Louis.\n12 10 P. -Simplified-Daily-Ocracinnati, Louisville\n*Sleeps*\n1 P. Palmer Cars\nTRAINING ARRIVES RICHMOND-Local Train\nEast: 10 15 A. M.; 8 10 P. M. Through Train\nEast: 11 30 A. M.; 8 00 P. M. 6 00 P. M.\nEast: 11 30 W. A. M.; 8 10 P. M. *10 10 W. M.\nand 7 40 P. M. Through: 8 10 A. M.; 11 30 W. M.\nand 8 00 P. M.\nJames River Line: *8 10 A. M.; 8 00 P. M.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1863,
+        1767,
+        2161,
+        1796
+      ],
+      "label": "text",
+      "text": "Jamee River Line: \"8:08 A. M., 6:00 P. M.\ndaily.\nMonday Sunday",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1866,
+        1829,
+        2155,
+        1852
+      ],
+      "label": "paragraph_title",
+      "text": "SEABOARD AIR LINE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1862,
+        1860,
+        2192,
+        2233
+      ],
+      "label": "text",
+      "text": "Northbound trains scheduled to leave Richmond daily: 8:00 A. M.-Local to Norfolk, 1:15 P. Millegrove and Oakden, Athens, Birmingham, Havana, Birmingham, Hull, M. -Shipyard and coaches, Atlanta, Birmingham, Memphis, 1:15 A. M.-Millegrove and coaches, Jacksonville.\n\nNorthbound trains scheduled to arrive in Richmond daily: 8:45 A. M., 7:49 A. M., 8:05 P. M., 6:40 P. M. Local.\n\nSubscribe to the Richmond Planet.\n\nALPHEUS SCOTT\nCIRCUMB HILL\nFuneral Director and Embalmer\nOPEN DAY AND NIGHT.\nOffice, 2006 P St, Phlox Blvd. 2007\nRoadside, 1035 E. 21st St.",
+      "status": "ok"
+    }
+  ]
+}
