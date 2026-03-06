@@ -1,0 +1,418 @@
+{
+  "page": 7,
+  "image": "images/page_07.jpg",
+  "width": 1725,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        93,
+        266,
+        885,
+        466
+      ],
+      "label": "doc_title",
+      "text": "Our Flag Is Still There WHY NOT BE A Knight of Pythias?"
+    },
+    {
+      "bbox": [
+        95,
+        508,
+        891,
+        634
+      ],
+      "label": "text",
+      "text": "There is no need to be unduly Alarmed concerning Negro fraternal societies as they will live despite adverse conditions. The Knights of Pythias N. A., S. A., E., A. and A. offer unexceptional advantages to those who care to belong to an energetic organization that \"does things.\""
+    },
+    {
+      "bbox": [
+        53,
+        835,
+        333,
+        931
+      ],
+      "label": "paragraph_title",
+      "text": "JONES & HOPKINS MFG. CO."
+    },
+    {
+      "bbox": [
+        54,
+        954,
+        333,
+        1179
+      ],
+      "label": "text",
+      "text": "TELEPHONE EXCHANGE\nMAIN 2270 & 2271\nWHOLESALE AND RETAIL DEAL E\nStoves, Ranges and Household\nGoods\nHard Wood Mantels and Furna-\nces, Guttering and Roofing"
+    },
+    {
+      "bbox": [
+        57,
+        1105,
+        332,
+        1253
+      ],
+      "label": "text",
+      "text": "Hard Wood Mantels and Furnaces, Guttering and Roofing\n\nSales Department, Factory and Shops\n207 THIRD AVENUE, N."
+    },
+    {
+      "bbox": [
+        82,
+        1331,
+        310,
+        1375
+      ],
+      "label": "paragraph_title",
+      "text": "Distilled Water"
+    },
+    {
+      "bbox": [
+        80,
+        1407,
+        318,
+        1529
+      ],
+      "label": "text",
+      "text": "Is the Doctor that prevents Disease. Its perfect cleanliness alone is enough to cause any particular person to use it exclusively."
+    },
+    {
+      "bbox": [
+        85,
+        1565,
+        316,
+        1597
+      ],
+      "label": "paragraph_title",
+      "text": "DAINTY and PALATABLE"
+    },
+    {
+      "bbox": [
+        49,
+        1936,
+        352,
+        2164
+      ],
+      "label": "text",
+      "text": "WANTED-An elderly, colored, single man to look after two horses, and small place for physician. Salary $15.00 per month, board and room. Must have good character. Write\nW. J. F. Kirk, M. D.,\nKimmswick, Mo."
+    },
+    {
+      "bbox": [
+        118,
+        2213,
+        287,
+        2231
+      ],
+      "label": "paragraph_title",
+      "text": "CULLEOKA NOTES."
+    },
+    {
+      "bbox": [
+        51,
+        2237,
+        351,
+        2600
+      ],
+      "label": "text",
+      "text": "Miss Birdie Hunt, M. B. Huggins and Ella M. Hunt went to Columbia last Monday to attend the Maury County Institute, and returned last Thursday. Miss Lula M. Ford and Mr. Jim Ballafant were quietly married at the home of Mr. Anderson Hughes Sunday morning. Rev. M. C. Skillern officiated. Mr. Johnnie Abernathy and Miss Sallie McBride were quietly married at the home of the bride, Sunday evening. Rev. C. W. Norman officiated. The bride and groom and a host of friends went from there up to Mr. Will Reed's, where Mr. Bruce Fitzpatrick and Miss Rebecca Wilerford and Mr. Tom Abernathy and Miss Ethel Wilerford were married under the same ceremony, the latter couples receiving quite a number of pres"
+    },
+    {
+      "bbox": [
+        347,
+        819,
+        649,
+        1149
+      ],
+      "label": "text",
+      "text": "ents. Mrs. Josie Wilks is quite ill at this writing. Mr. W. D. Dean and Mrs. Amanda Harris made a flying trip to Chicago, Ill., where they will spend a few months visiting their children and friends. Mrs. Ann Hughes was called to Columbia Sunday morning to visit her invalid sister, Mrs. Ella Moore. Miss Ella M. Hunt and Miss Birdie Hunt have been elected to teach the Culleoka public school. Mr. Rob Lundon and Mr. Eli Amos fought a duel on the railroad crossing Sunday night. Mr. Amos was found on the railroad crossing in a very bad pericardic. Mrs. Jane Bolton has been busy for a fortnight making soap; she is an expert soap maker."
+    },
+    {
+      "bbox": [
+        394,
+        1170,
+        600,
+        1188
+      ],
+      "label": "paragraph_title",
+      "text": "CENTERVILLE NOTES."
+    },
+    {
+      "bbox": [
+        353,
+        1192,
+        655,
+        1862
+      ],
+      "label": "text",
+      "text": "The long dry spell was broken here Saturday night and Sunday morning by a very good rain which was gladly received by all. The barbecue given Friday and Saturday by Messrs. Hurt and Posey was in all respects a marked success. The members and pastor of Mt. Lebanon Baptist Church laid the corner-stone of their church Saturday. Rev. Spradlin, of Ripley, preached a special sermon on this occasion. He also officiated in the ceremony of laying the corner-stone. On Sunday Rev. Spradlin preached in the morning and evening. At 3 in the afternoon Rev. M. A. Halerburton preached a very good sermon. Rev. W. H. Shelby, of the A. M. E. Church, was to have preached, but was not able to be present. Mr. J. H. Hurt, the popular tailor, is making quite an improvement in the interior of his shop. Miss Ella Hurt, of Nashville, spent a few days of this week visiting her parents on South Columbia avenue. Miss Ethel Ross, of Riverside, spent a few days of this week visiting Miss Nettie Booker, of South Columbia avenue. Mr. Jesse Lenson, of Allen's Creek, spent a few days here this week. Cupid on last Sunday afternoon caused to unite the hearts of Mrs. Hattle B. Wilkins and Mr. John Ward. Rev. M. A. Halerburton, of Dean Switch, officiated. The members of Mt. Zion A. M. E. Church will give a rally Sunday for their pastor. Rev. W. H. Shelby."
+    },
+    {
+      "bbox": [
+        418,
+        1884,
+        599,
+        1901
+      ],
+      "label": "paragraph_title",
+      "text": "EAGLEVILLE NOTES"
+    },
+    {
+      "bbox": [
+        359,
+        1905,
+        659,
+        2594
+      ],
+      "label": "text",
+      "text": "The sad news of the almost sudden death of Mrs. Sarah McDowell came as a shock to us all. She died at her home in Nashville last Saturday and was brought to this place last Sunday for burial. Her funeral was conducted by Rev. B. Manler, the pastor, assisted by Rev. Small, of Nashville. Mr. Joe Pucket, one of the oldest citizens of our community, died last Saturday. His funeral was conducted at the same time and place as that of Mrs. McDowell's. This is something very unusual, as we seldom have two corpses for funeral services at the same time. Mr. James Sharber, a brother of the deceased Mrs. McDowell, and Miss Alice McDowell, her daughter, both of Henderson, Kentucky, arrived Sunday to attend the funeral. Mr. and Mrs. Tom Hendrix, of Nashville, are visiting the latter's mother, Mrs. Bell Swancy. Mr. Will Hendrix and wife, Mr. and Mrs. Henry Dier, all of Nashville, are visiting relatives and friends here. On their way here they stopped over at Nolensville, where they were royally entertained by Mr. Tucker Holford, who is running a restaurant there in connection with his stable. Mr. Jack Hendrix had the misfortune to swallow a chicken bone a few days ago. The bone lodged in his throat and has given him much misery. The members of Cedar Grove Baptist Church are planning to have a rally in the near future for the benefit of their pastor. Mr. F. T. Holford, of"
+    },
+    {
+      "bbox": [
+        726,
+        709,
+        893,
+        736
+      ],
+      "label": "text",
+      "text": "Nashville, Tenn."
+    },
+    {
+      "bbox": [
+        654,
+        820,
+        949,
+        889
+      ],
+      "label": "text",
+      "text": "Nolensville, visited home folks last week. Mr. R. S. Hendrix and wife, of Arrington, attended the funeral of Mrs. Sarah McDowell Monday."
+    },
+    {
+      "bbox": [
+        662,
+        902,
+        903,
+        921
+      ],
+      "label": "paragraph_title",
+      "text": "SHELBYVILLE NOTES."
+    },
+    {
+      "bbox": [
+        657,
+        920,
+        955,
+        1598
+      ],
+      "label": "text",
+      "text": "The Maronics' picnic, held last Saturday on Turner Normal campus, was interrupted by a big shower of rain, although a large crowd was in attendance. A lively game of baseball was in progress between Bellbickle and Haley, with \"Buckle\" in the lead. The observance of St. John's Day by the Masons Lad to be postponed Sunday on account of excessive rain. Mrs. Ella Burns, of Ohio, and former resident of this place, is visiting her parent, Mrs. Evan. She has her five children with her. The Shelbyville people, both white and colored, are still in high hopes of retaining the Turner Normal College at this place. They are still working hard to establish sufficient inducements to the Board to allow the school to remain. Dr. J. A. Jones has returned from a trip to Franklin, where he went to attend the District Conference of the South Nashville District, A. M. E. Church. He also stopped in Pulaski to look in on the State Teachers' Institute. Dr. Jones reports the session in fine condition under the direction of Prof. Hale and his corps of instructors. The new pews having been installed in the A. M. E Church here gives the interior the appearance of a new church altogether. The assignment of the county teachers to their respective schools has not yet been made. In the meantime the applicants are busy looking after their interests."
+    },
+    {
+      "bbox": [
+        738,
+        1608,
+        889,
+        1625
+      ],
+      "label": "paragraph_title",
+      "text": "ORLINDA NOTES."
+    },
+    {
+      "bbox": [
+        665,
+        1623,
+        962,
+        2415
+      ],
+      "label": "text",
+      "text": "The grand anniversary which was celebrated at Mt. Pleasant Church was quite a success. A soul-stirring sermon was preached by Rev. J. W. Crocker, the pastor. A large crowd from different places was present, Collection, $32.00 Dinner was served on the ground. Owing to rain Saturday evening, the ice cream supper given by the Willing Workers' Club was not a large success as had been planned. Those present had quite an enjoyable time. A deal of cream was sold. There was a grand picnic given at Friendship Church on the 17th. Mr. Greenie Yates, of Crossplains, is very ill. Mr. Leonard Payne, who has been very sick, is thought to be better. Mrs. Cain Smiley, of Indianapolis, Ind., was called home to the bedside of her sister. Miss Verniner Key, who is very sick. Mr. Johnnie Cole, of Nashville, is visiting here for a few months. Misses Arvella Young, Jeanie C. Payne, Blancheie Gee, Maggie L. Crocker and Leland S. Crocker have returned home from the teacher' institute at Springfield. Several of the men of this vicinity went to Louisville, Ky., on June, the 24th. Rev. J. C. Payne is on the sick list. Miss Charlsetta Gilbert called on Mrs. Andrew Fisher last Sunday. Mrs. Will Patterson called on Miss Lillie Givens on last Sunday. Rev. G. C. Crocker preached for Rev. G. W. Hampton in Springfield on the 18th Mr. T. C. Hughes and Mr. C. E. Babb called on Misses Maggie L. Crocker and Leland S. Crocker recently. Messrs. Gentry, Brewer and B. W. L. Dowing are planning to attend the grand rally at Franklin, Ky., this week. Mr. Leemon Neblett called on Miss John Etho. Moore last Sunday."
+    },
+    {
+      "bbox": [
+        690,
+        2430,
+        937,
+        2448
+      ],
+      "label": "paragraph_title",
+      "text": "ALLENSVILLE (KY.) NOTES."
+    },
+    {
+      "bbox": [
+        664,
+        2449,
+        962,
+        2590
+      ],
+      "label": "text",
+      "text": "The ladies of Spillman's Chapel C. M. E. Church, of this place, are planning to give a grand picnic and barbecue, on Saturday, July 1. The proceeds will go towards beautifying the church property. Rev. P. J. Coleman, of Clarksville, Tenn., was in Altenville Sunday. He also preached"
+    },
+    {
+      "bbox": [
+        947,
+        212,
+        1250,
+        762
+      ],
+      "label": "text",
+      "text": "for Rev. W. C. Smith. of Spillman's Chapel at 11:30 a. m. Mr. and Mrs. Chas. Head. of this place, visited friends and relatives in Ocksville, Ky., Sunday. Mrs. Lucy A. Cummins, who has seen on the sick list for some time, is slowly improving. Mrs. Katie Miller and sons, Harold and Charles Lee, of Paris, Ky., are visiting friends and relatives in Allensville, Ky. Messrs. Frank Taylor and Jr., and Winston Sims, of Elkton, Ky., were in Allensville, Sunday. The many rains which fell here Friday, Saturday and Sunday broke the drought which had prevailed over Allensville for several weeks. The farmers of this place are busy with tobacco and wheat-threshing. Mrs. Ada Thomas, who has been on the sick list for some time, is reported to be rapidly improving. Mr. H. H. Smith left for his home in Paris, Ky., last week after a brief visit to his parents, Mr. and Mrs. P. S. Smith. The grocery firm of Holt & Son is preparing to remove from their present quarters into a first-class store on Church street. The Epworth League of Allensville has been invited to participate in a discussion on to be held in Elkton, Ky., the second week in July."
+    },
+    {
+      "bbox": [
+        1020,
+        771,
+        1185,
+        788
+      ],
+      "label": "paragraph_title",
+      "text": "HORTENSE NOTES"
+    },
+    {
+      "bbox": [
+        958,
+        792,
+        1256,
+        1391
+      ],
+      "label": "text",
+      "text": "There was an ice cream supper given here Saturday night which was quite a success. Mrs. L. C. Dickerson left here Saturday morning, enroute to Clarksville to visit Mrs. A. J. Moore. Mrs. Ibble Mallory, of Cedar Hill, Tenn., is visiting relatives. Mrs. E Bell and Mrs. Sallie Esters returned home to Adams, Tenn. Friday, after spending a day or two with Mrs. Quencey Carney, who has been very ill, but is now improving. Mrs. Maggie Hutcherson, of Clarksville, is here visiting her father. She brought with her her two nieces, Misses Mabel and Nannie Hutcherson. Miss Maudie Mallory and Miss Rosalce Jackson and Mr. J. W. Maneace, Mr. George F. Teasley, Mr. Oscar Washington, Mr. Dave McConnie and Asa Lant were the guests of Mrs. Loudie Pennington Sunday afternoon. Misses M. V. Dickerson and C. R. Washington were the guests of Mrs. Delia Dickerson in the afternoon, also Mr. W. O. Jones and father, Richard Long and Mr. G. B. Suggs were the guests of Mr. C. H Dickerson in the afternoon Sunday, Mrs. Caroline Mallory is up and about again. Mr. Jerry Mallory, Mrs. Obbie Mallory, Mr. George Darden were the guests of Mrs. Victoria Maneace Sunday. Little Olivia Young is up and rapidly improving."
+    },
+    {
+      "bbox": [
+        1034,
+        1405,
+        1192,
+        1424
+      ],
+      "label": "paragraph_title",
+      "text": "MADISON NOTES."
+    },
+    {
+      "bbox": [
+        966,
+        1422,
+        1264,
+        1962
+      ],
+      "label": "text",
+      "text": "The rally a the A. M. E. Church last Sunday at Dry Creek. Tenn., was a success from start to finish. Rev. Tyree White preached two splendid sermons, one at 11:30 a. m., and the other at 8 p. m. Dr. Wm. Sampson Brooks, the pastor of St. Paul Chapel, Nashville, filled the pulpit at 3 p. m. and delivered to the people one of the most powerful sermons from the book of Acts, 27:29, we ever heard \"Then firing lest we should have fallen upon rocks, they cast four anchors.\" Dr. Brooks gave a brief sketch of the Apostle Paul's voyage toward Rome, also of the waters upon which the man of God sailed. The theme of the text was the four Christian anchors. 1. The Anchor of promise. 2. The Anchor of Faith. 3. The Anchor of Hope. 4. The Anchor of Peace. The handsome sum realized from the rally is wonderful and the pastor and members of the church are under many obligations to the preachers and friends for an excellent collection. Dr. T. W. Haigler and the Boy Preacher were present. The Boy Preacher also spoke to a full house in the afternoon from the subject \"Hold out you light.\""
+    },
+    {
+      "bbox": [
+        1005,
+        1973,
+        1229,
+        1991
+      ],
+      "label": "paragraph_title",
+      "text": "MURFREESBORO NOTES."
+    },
+    {
+      "bbox": [
+        969,
+        1986,
+        1268,
+        2594
+      ],
+      "label": "text",
+      "text": "Mr. Laurence Miller died at the home of his mother and father, Mr. and Mrs. Rick Miller, last Friday. Mr. Miller made his home in Paris, Tenn., for the past twenty years. A few months ago he was taken ill and came to his mother. He was an active member of the K. of P. and Masonic Lodges of Paris, Tenn. The K. of P.'s turned out to pay the last tribute of respect Sunday. Mrs. Helen Thomas spent about ten days in Nashville last week, visiting her mother and daughters. Miss Carrie Lee Hill, of Davidson County, was the guest of Miss Mary Lee Rucker last week. Mr. and Mrs. Walter Rucker and little niece were the guests of Rev and Mrs. H. W. Rucker last Sunday. Mr. J. M. Windrow has made his beautiful home look more attractive by having a cement pavement laid all around his premises. Dr. G. C. Harden has purchased the \"All-Hail\" Homestead on Spring street.\" The Murfreesoro brass band went to Tulahoma last week to play at a big picnic. Dr. J. W. Whitfield went to Mt. Pleasant last week on business. Mrs. Mary Holden, who has been sick for several weeks, is no better. Mrs. Maria Smith is also on the sick list. Mrs. Tom Watkins, who has been ill for several days, is improving."
+    },
+    {
+      "bbox": [
+        1258,
+        457,
+        1557,
+        567
+      ],
+      "label": "text",
+      "text": "411 Fourth Avenue, North,\nNASHVILLE, TENNESSEE\n\nW. A. ATTAWAY, M. D. Pres. W. W. CON, Cashier.\nW. H. COATS, Vice Pres. M. B. BURNETT, Ass't Cashier."
+    },
+    {
+      "bbox": [
+        1261,
+        574,
+        1558,
+        611
+      ],
+      "label": "paragraph_title",
+      "text": "Delta Penny Savings Bank"
+    },
+    {
+      "bbox": [
+        1260,
+        626,
+        1566,
+        1094
+      ],
+      "label": "text",
+      "text": "INCORPORATED OCT., 1904\n\nCAPITAL..... $ 37,000.00\nRESOURCES OVER..... 100,000.00\n\nDoes a General Banking Business. Makes Loans\non Approved Securities. Pays interest on Deposits.\nCollects Rent. Pay Taxes. Handles Real Estate.\netc. Correspond with us. Your Business, however\nsmall, is solicited. We Pay Four Per Cent. Interest\non Time Deposits.\n\nINDIANOLA, : : MISSISSIPPL\n\nPeople's Bank & Trust Co.\nCAPITAL, $25,000.00,\nMUSKOGEE, - OKLAHOMA.\n\n4 Per Cent Interest\nOn Time Deposits\n\nDeposits Guaranteed.\n\nT. V. COR.\nPresident.\n\nJ. E. JOHNSON,\nCashies"
+    },
+    {
+      "bbox": [
+        1262,
+        822,
+        1562,
+        869
+      ],
+      "label": "paragraph_title",
+      "text": "People's Bank & Trust Co."
+    },
+    {
+      "bbox": [
+        1267,
+        1279,
+        1571,
+        1733
+      ],
+      "label": "text",
+      "text": "W. R. PETTIFORD, President.\nJ. O. DIFFAY, Vice President.\nB. H. HUDSON, Cashier.\nP. F. CLARK, Assistant Cashier.\n\n217 NORTH EIGHTEENTH ST.\n\nThe People's Investment and Banking Company,\nBIRMINGHAM, ALA.\nCAPITAL STOCK $50,000\n\nDoing a regular banking business. Collections solicited. Depository for the Great Southern Industrial Home Insurance Company.\n\nW. L. LAUDERDALE, President\nDR. R. D. MACKLIN, Vice-President\nDR. S. H. THOMPSON, Cashier\nREV. S. J. JACKSON, Teller and acting Cashier."
+    },
+    {
+      "bbox": [
+        1276,
+        1918,
+        1574,
+        2055
+      ],
+      "label": "text",
+      "text": "OFFICERS:\n\nR. R. CHURCH, President\nT. N. HAYES, 1st Vice-President\nJ. W. SANFORD, 2nd Vice-President\nM. L. CLAY, 3rd Vice-President\nH. H. PACE, Cashier\nB. M. RODDY, Assistant Cashier\nJ. T. SETTLE, Attorney"
+    },
+    {
+      "bbox": [
+        1279,
+        2080,
+        1575,
+        2104
+      ],
+      "label": "paragraph_title",
+      "text": "B. E. GREEN & CO."
+    },
+    {
+      "bbox": [
+        1278,
+        2150,
+        1575,
+        2237
+      ],
+      "label": "text",
+      "text": "Twin, Iron and Asphalt Roofing, Gutte-\ning, Valleys and Stoves Repairing\nSpecial attention given to all work.\n608 Twelfth Avenue, North, Nashville, TN"
+    },
+    {
+      "bbox": [
+        1279,
+        2263,
+        1564,
+        2298
+      ],
+      "label": "paragraph_title",
+      "text": "RICHARD HILL"
+    },
+    {
+      "bbox": [
+        1273,
+        2304,
+        1576,
+        2604
+      ],
+      "label": "text",
+      "text": "NOTARY PUBLIC,\nReal Estate, Loans, Liens notes bought and sold.\nWill sell you a home like paying rent. Pension\nCases a specialty.\nTELEPHONES { Office: Main 1889\nMiss one, call the other Res. Hemlock 1940\n410 1-2 CEDAR ST., NASHVILLE, TENN.\nRobt. H. Fite Harry L. Albright\nTheo. W. Eckhardt\nFITE, ECKHARDT & CO.\nGENERAL INSURANCE\nNashville, Tenn.,\nPhone, Main 602 302 Third A-"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1790,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        141,
+        254,
+        673,
+        644
+      ],
+      "label": "doc_title",
+      "text": "HILL'S 26 STORES Can Supply Your Needs"
+    },
+    {
+      "bbox": [
+        143,
+        720,
+        673,
+        899
+      ],
+      "label": "paragraph_title",
+      "text": "Make Your Picnic or Outings a Joy by Having a Good Spread of Eatables."
+    },
+    {
+      "bbox": [
+        155,
+        2494,
+        684,
+        2589
+      ],
+      "label": "text",
+      "text": "H. G. Hill Grocery & Baking Co. Big Store IOI Public Square. Phones, Main 435-1232"
+    },
+    {
+      "bbox": [
+        157,
+        954,
+        391,
+        1004
+      ],
+      "label": "paragraph_title",
+      "text": "Canned Goods"
+    },
+    {
+      "bbox": [
+        168,
+        1368,
+        393,
+        1410
+      ],
+      "label": "paragraph_title",
+      "text": "Bakery Specials"
+    },
+    {
+      "bbox": [
+        147,
+        1419,
+        410,
+        1517
+      ],
+      "label": "text",
+      "text": "Hot From Our Own Ovens Daily Our Breads are without any equal both in quality and size of loaf."
+    },
+    {
+      "bbox": [
+        150,
+        1735,
+        368,
+        1900
+      ],
+      "label": "text",
+      "text": "Grandma's Rolls, 10-cents\nvalue, per dozen ...\n\nSalt Rising, just like homemade, large loaf ...\n\nRye Bread, largest loaf in\nthe city ...\n\nOur Big Dandy, a mam\nloaf of white, flaky,\nbrown-crust Bread, each"
+    },
+    {
+      "bbox": [
+        154,
+        1926,
+        408,
+        1964
+      ],
+      "label": "paragraph_title",
+      "text": "Fresh Cakes Daily"
+    },
+    {
+      "bbox": [
+        421,
+        959,
+        674,
+        1013
+      ],
+      "label": "paragraph_title",
+      "text": "Picnic Specials"
+    },
+    {
+      "bbox": [
+        484,
+        1833,
+        630,
+        1881
+      ],
+      "label": "paragraph_title",
+      "text": "Sardines"
+    },
+    {
+      "bbox": [
+        874,
+        2223,
+        1493,
+        2331
+      ],
+      "label": "text",
+      "text": "The difference in cost now and a month hence is startling. Let us figure with you-It means a big saving. Clean Coal. Freshly Mined-Full Weight-Promptly Delivery."
+    },
+    {
+      "bbox": [
+        832,
+        2537,
+        1091,
+        2567
+      ],
+      "label": "text",
+      "text": "OFFICE 4 ARCADE"
+    },
+    {
+      "bbox": [
+        714,
+        225,
+        1015,
+        546
+      ],
+      "label": "text",
+      "text": "PARIS NOTES.\nThe work of the Henry County Institute closed Thursday afternoon, the 22nd, with favorable results. Friday and Saturday were examination days. The teachers were entertained with a one-course menu, which was refreshing and enjoyed by all. Mr. Robert Woodson, one of the honorary members of the institute who has recently returned from Atlanta Baptist College, delivered an address on \"The Circulation of the Blood\" Mrs. Ruth Dumas, of East Paris, is seriously ill. Mr. Tobe Porter continue ill. Mrs. T. W. Hampton left for Columbia, where she goes to the bedside of her mother, who continues ill."
+    },
+    {
+      "bbox": [
+        716,
+        561,
+        891,
+        579
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS."
+    },
+    {
+      "bbox": [
+        716,
+        583,
+        1015,
+        721
+      ],
+      "label": "text",
+      "text": "Johnnie H. White, who is a member of class 1911, Pearl High School, wishes to express her deep appreciation by a vote of thanks to her relatives and friends for the many valuable and useful presents of which she was the recipient at her graduation."
+    },
+    {
+      "bbox": [
+        789,
+        734,
+        943,
+        752
+      ],
+      "label": "paragraph_title",
+      "text": "CORDOVA NOTES."
+    },
+    {
+      "bbox": [
+        715,
+        751,
+        1029,
+        1865
+      ],
+      "label": "text",
+      "text": "The crops are looking nicely since the rain. The Pythians and Calanthians of this portion of the state desire that everybody know that Dr. W. T. Horton, the efficient deputy, has done much to promote the cause of the order. He is worthy of any promotion that the Grand Lodge may fit to give. West Tennessee is unqualifiedly for him. We believe that right and justice demand the recognition of his claims for Grand Medical Register. All West Tennessee is behind Dr. W. T. Horton.\n\nYOUNG MAN DIES.\n\nWilliam Jackson Norman, age 25 years, died very suddenly Thursday morning, June 22. He was born in Columbia, Tenn., November 5, 1886. When four years old he came with his parents to Nashville, where he has resided. He was married to Miss Tennie Davis Rhodes, March 27, 1911. He leaves to mourn his loss a devoted wife, a son, a brother, a sister and loving mother and father. He was a trusted son and companion to his father; a devoted and dutiful husband to his wife. His character was exemplary, being generous to a fault he naturally attracted friends and held them by his friendliness. His fellow-workmen sold him in the highest regard. He will be sadly missed not only by his immediate family but by a legion of friends. In his infancy he was christened at St. Paul A. M. E. Church at Columbia; since his marriage he has been a constant worshipper at St. Eli Baptist Church. He was a bricklayer by profession, working for the firm of Norman and Rhodes. His death came like a thunderbolt in the clear sky. On the morning of his death he had prepared breakfast for his sick wife, sat down to read the morning paper, and when his wife came looking for him she found that he was dead. His remains were interred at Mt. Ararat Cemetery Monday afternoon; funeral was held at Mt. Eli Baptist Church by Revs. Sam Bryant and Sampson Brooks.\n\nINQUIRY FOR GRANDMOTHER.\n\nEditor Nashville Globe, Dear Sir;\n\nI have or had a grandmother living in that city by the name of Mrs. Celtie Burns, but I have been unable to hear from her for about three years. I was told that you could locate her; if so, let me know, and oblige, yours very truly."
+    },
+    {
+      "bbox": [
+        1063,
+        1303,
+        1611,
+        1348
+      ],
+      "label": "paragraph_title",
+      "text": "\"WHITE'S SPECIFIC\""
+    },
+    {
+      "bbox": [
+        1063,
+        1373,
+        1612,
+        1553
+      ],
+      "label": "text",
+      "text": "A wonderful FACE CREAM that positively does all that is claimed for it. Cures Pimples and Ringworms, removes Tan, Freckles, Sunburn, Liver Biotches and other Facial discolorations. A perfect BLEACH that beautifies the Complexion, without injury to the most delicate skin. Its merit has given it a national reputation. \"ONCE USED ALWAYS USED,\" has been the experience of our thousands of customers. A trial will convince you.\n\nPRICE 25c AT ALL DRUGGISTS.\n\nWHITE'S SPECIFIC TOILET COMPANY,\nNASHVILLE, TENN."
+    },
+    {
+      "bbox": [
+        1058,
+        1740,
+        1610,
+        1794
+      ],
+      "label": "text",
+      "text": "PARIOD ROOFING USED BY U. S. GOVERNMENT GUARANTEED FOR TEN YEARS."
+    },
+    {
+      "bbox": [
+        1023,
+        225,
+        1322,
+        381
+      ],
+      "label": "text",
+      "text": "ARTHUR THOMAS BURNS.\n2005 State street, Chicago, Ill.\nP. S.\u2014When last heard from she\nwas living at 66 South Fillmore\nstreet.\nAny one who can give information\nabout the above named Mrs. Burns\nwill please send same to Nashville\nGlobe, 447 Fourth avenue, North."
+    },
+    {
+      "bbox": [
+        1131,
+        402,
+        1206,
+        424
+      ],
+      "label": "paragraph_title",
+      "text": "DEATHS."
+    },
+    {
+      "bbox": [
+        1029,
+        946,
+        1326,
+        1261
+      ],
+      "label": "text",
+      "text": "Robert Tolbert and Irene Robertson.\nJohn R. Watson and Elizabeth Collins.\nBrown Gillens and Katherine Simms.\nCharley Sumner and Malinda Ann Lyons.\nAlfred Mason and Eva Talley.\nJoe Frame and Mattie Mason.\nOscar Stevenson and Maggie May Sneed.\nRobert Robertson and Sarah Gurley.\nMelvin W. Wade, Masonic Home, 8 years.\nGrannie Harding, Neal avenue, 118 years."
+    },
+    {
+      "bbox": [
+        1059,
+        1812,
+        1257,
+        1836
+      ],
+      "label": "text",
+      "text": "325 Broadway"
+    },
+    {
+      "bbox": [
+        1356,
+        247,
+        1608,
+        318
+      ],
+      "label": "paragraph_title",
+      "text": "MAKE YOUR SELECTIONS EARLY"
+    },
+    {
+      "bbox": [
+        1349,
+        327,
+        1610,
+        640
+      ],
+      "label": "text",
+      "text": "You'll want nice Slippers on the day the eagle screams. About 300 pairs Ladies' Oxfords, Ties and Slippers, $2.50 and $3.00 grade, at only $1.65 J. S. HOPKINS SHOE CO. ON THE SQUARE"
+    },
+    {
+      "bbox": [
+        1335,
+        1048,
+        1633,
+        1084
+      ],
+      "label": "text",
+      "text": "Wm. Brinkle, 1010 Ivy street, 50 years."
+    },
+    {
+      "bbox": [
+        1333,
+        1050,
+        1634,
+        1257
+      ],
+      "label": "text",
+      "text": "Wm. Brinkle, 1010 Ivy street, 50 years.\nInfant of Carrie Goodman, 47 Lincoln street.\nPriscilla Swanson, 1302 Twelfth avenue, South, 36 years.\nJames Jennings, rear 1605 Third avenue, North, 18 years.\nAlma Carter, 1514 Tenth avenue, South, 3 months.\nJoseph Holt, 24 East Hill street, 21 years."
+    },
+    {
+      "bbox": [
+        1334,
+        1220,
+        1632,
+        1257
+      ],
+      "label": "text",
+      "text": "Joseph Holt, 24 East Hill street. 21 years."
+    },
+    {
+      "bbox": [
+        1371,
+        1807,
+        1612,
+        1833
+      ],
+      "label": "text",
+      "text": "Nashville, Tenn."
+    },
+    {
+      "bbox": [
+        1331,
+        2540,
+        1536,
+        2568
+      ],
+      "label": "text",
+      "text": "Phone Main 43"
+    }
+  ]
+}
