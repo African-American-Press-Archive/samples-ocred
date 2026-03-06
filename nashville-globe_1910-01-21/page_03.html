@@ -5,93 +5,13 @@
 <meta name="ocr-system" content="GLM-OCR via MLX + PP-DocLayout_plus-L">
 <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line">
 <title>nashville-globe_1910-01-21 — Page 3</title>
+<link rel="stylesheet" href="../viewer.css">
 <script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1/build/openseadragon/openseadragon.min.js"></script>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: 'Georgia', 'Times New Roman', serif; background: #f4f1eb; color: #2a2a2a; overflow: hidden; }
-
-  /* Header */
-  #header {
-    height: 44px; background: #2a2622; color: #e8e0d4; border-bottom: 2px solid #8b7355;
-    display: flex; align-items: center; padding: 0 16px; gap: 12px;
-  }
-  #header h1 { font-size: 14px; font-weight: 600; letter-spacing: 0.3px; }
-  #header .nav { font-size: 18px; display: flex; gap: 8px; }
-  #header .nav a { color: #c9b896; text-decoration: none; padding: 2px 6px; border-radius: 3px; }
-  #header .nav a:hover { background: rgba(255,255,255,0.1); }
-  #header .dis { color: #5a5248; padding: 2px 6px; }
-  #header .page-info { font-size: 12px; color: #9a8b74; }
-  #header .spacer { flex: 1; }
-  #header .controls { display: flex; gap: 10px; align-items: center; }
-  #header .controls label { font-size: 12px; color: #9a8b74; cursor: pointer; user-select: none; }
-  #header .controls input { cursor: pointer; }
-  .idx-link { color: #c9b896; text-decoration: none; font-size: 12px; padding: 3px 8px;
-    border: 1px solid #5a5248; border-radius: 3px; }
-  .idx-link:hover { background: rgba(255,255,255,0.1); border-color: #8b7355; }
-
-  /* Split layout */
-  #split { display: flex; height: calc(100vh - 44px); }
-  #image-pane { flex: 1; min-width: 0; background: #e8e0d4; position: relative; }
-  #viewer { width: 100%; height: 100%; }
-  #text-pane {
-    width: 420px; min-width: 320px; max-width: 50vw;
-    overflow-y: auto; padding: 24px 28px;
-    background: #faf8f4; border-left: 1px solid #d4cabb;
-    font-size: 15px; line-height: 1.7;
-  }
-  #text-pane::-webkit-scrollbar { width: 6px; }
-  #text-pane::-webkit-scrollbar-thumb { background: #c9b896; border-radius: 3px; }
-
-  /* Text blocks */
-  .block-title { font-size: 22px; font-weight: 800; margin: 20px 0 10px; line-height: 1.3;
-    font-family: 'Georgia', serif; color: #1a1a1a; cursor: pointer;
-    padding: 4px 0; border-bottom: 2px solid #8b7355; }
-  .block-title:first-child { margin-top: 0; }
-  .block-subtitle { font-size: 17px; font-weight: 700; margin: 18px 0 8px; line-height: 1.3;
-    font-family: 'Georgia', serif; color: #3a3020; cursor: pointer; }
-  .block-text { margin: 8px 0; cursor: pointer; color: #3a3020; }
-  .block-text:hover, .block-title:hover, .block-subtitle:hover { background: rgba(139,115,85,0.08); border-radius: 3px; }
-  .block-highlight { background: rgba(139,115,85,0.15) !important; border-radius: 3px;
-    outline: 2px solid rgba(139,115,85,0.3); outline-offset: 2px; }
-
-  /* Resize handle */
-  #resize-handle {
-    width: 5px; cursor: col-resize; background: #d4cabb;
-    transition: background 0.15s; flex-shrink: 0;
-  }
-  #resize-handle:hover, #resize-handle.active { background: #8b7355; }
-
-  /* Image overlays */
-  .region-overlay {
-    position: absolute; cursor: pointer;
-    border: 1.5px solid transparent;
-    transition: border-color 0.15s, background 0.15s;
-  }
-  .region-overlay:hover, .region-overlay.active {
-    border-width: 2px;
-  }
-  .show-boxes .region-overlay {
-    border-color: var(--border-color); background: var(--bg-color);
-  }
-  .show-boxes .region-overlay:hover, .show-boxes .region-overlay.active {
-    background: var(--bg-hover);
-  }
-
-  /* hOCR (hidden) */
-  .ocr_page { display: none; }
-
-  @media (max-width: 768px) {
-    #split { flex-direction: column; }
-    #image-pane { height: 50vh; }
-    #text-pane { width: 100%; max-width: 100%; height: 50vh; }
-    #resize-handle { display: none; }
-  }
-</style>
 </head>
 <body>
 <div id="header">
   <h1>nashville-globe_1910-01-21</h1>
-  <div class="nav"><a href="page_02.html" title="Previous page (Left arrow)">&larr;</a> <a href="page_04.html" title="Next page (Right arrow)">&rarr;</a></div>
+  <div class="nav"><a href="page_02.html">&larr;</a> <a href="page_04.html">&rarr;</a></div>
   <span class="page-info">Page 3 of 8</span>
   <div class="spacer"></div>
   <div class="controls">
@@ -99,7 +19,6 @@
   </div>
   <a href="index.html" class="idx-link">Index</a>
 </div>
-
 <div id="split">
   <div id="image-pane"><div id="viewer"></div></div>
   <div id="resize-handle"></div>
@@ -107,8 +26,6 @@
     <p class="block-text" data-idx="0">On Thursday night in the office of St. Paul A. M. E. Church, the teachers and officers met for the annual election. The pastor, Rev. W. Sampson Brooks, presided and the following were elected for the ensuing year: Mr. J. H. Adams, Superintendent; Mrs. Ida M. Sharber, Assistant Superintendent and organist; Miss G. A. Cayton, secretary; Mr. N. Berry, treasurer; Miss Alberta Davis, chorister; Mrs. J. C. Caldwell, assistant organist; Mr. Sam. L. Rhodes, librarian; Mr. Nathan W. Mitchem, assistant librarian.<br><br>Teachers—Class No. 1, N. Berry; class No. 2, C. S. Randals; class No. 3, Mrs. J. H. Adams; class No. 4, E. Lee Kinzer; class No. 5, Mrs. P. J. Ewing; class No. 6, Mrs. Wm. J. Glover; class No. 7, Miss Willie Cooper; class No. 8, Mrs. W. S. Brooks; class No. 9, Mrs. J. H. Hale; class No. 10, Dr. C. V. Roman; class No. 11, Mrs. Addie Wiles; class No. 12, Miss G. A. Cayton; class No. 13, —; class No. 14, Miss Hattie Hill; class No. 15, Dr. R. H. Early; class No. 16, Miss Bessie Martin; class No. 17, Mrs. J. C. Caldwell; class No. 18, Mrs. Cornelia Jones.<br><br>Mr. Horace D. Slatter, the newspaper correspondent, spent Tuesday in the city en route South, where he goes to report several conferences. Mr. Slatter is from Hopkinsville, Ky, which he makes his headquarters.</p><h3 class="block-subtitle" data-idx="1">---</h3><h3 class="block-subtitle" data-idx="2">WHAT&#x27;S IN McCLURES.</h3><p class="block-text" data-idx="3">A well-known novelist who withholds his name, tells a most interesting and valuable story in the February McClure&#x27;s of his experience as a moderate drinker.<br><br>Prof. Hugo Munsterberg, who recently told the readers of McClures how psychology could be applied to commerce with beneficial results, tells how it could and should be utilized by young America in the chosing of a career; Xavier Paoli, &quot;the Guardian of Kings,&quot; writes delightfully of the courtship of King Alphonso and Princess Ena; W. H. Riding contributes another chapter of his reminiscences of noted writers; L. S. Brownell tells of the great work Canada is doing for her farmers, and Percival Gibbon describes Louis Brennan&#x27;s latest experiments with his mono-rail car. There are stories by Alice Perrin, Helen Green, George Kibbe Turner, E. B. Waterworth, and Mabel Food Martin. The number also contains another installment of Arnold Bennett&#x27;s amusing satire, &quot;What the Public Wants.&quot;<br><br>Rev. Wm. Beckham left the city Saturday for Clarksville, Louisville, Memphis and a few points in the west, but will return to the city within eight or ten days.</p><h3 class="block-subtitle" data-idx="4">MARRIAGES.</h3><p class="block-text" data-idx="5">Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley. John Stewart and Alice Miller. George Yowell and Orlean E. Patterson. Edgar Stovall and Amanda Willis. Cal Timmons and Sadie Pointer. William Brown and Bettie White Henderson Scales and Sadie Spann.</p><p class="block-text" data-idx="6">Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley John Stewart and Alice Miller.</p><h3 class="block-subtitle" data-idx="7">DEATHS.</h3><p class="block-text" data-idx="8">Walter Harper, corner Webster and Spring streets, 57 years. Ora Belle Dozier, Drakes Creek, 3 years.</p><p class="block-text" data-idx="9">White Myers, 1002 Stevens street. 26 years.</p><p class="block-text" data-idx="10">Amanda McCullough, 629 Woods alley.</p><p class="block-text" data-idx="11">Mary A. Watson, 523 Sixth avenue, South.<br>Moses Young, 80 years, Bordeaux, Tenn.<br>Jane Mays, 71 years, 532 Tewenty-fourth avenue, North.<br>Henry White, 46 years, Charlotte plke.</p><p class="block-text" data-idx="12">Howard Cartwright, 23 years, 232<br>Eighth street.</p><p class="block-text" data-idx="13">Marguerite Bowman, 89 years,<br>County Hospital.</p><p class="block-text" data-idx="14">FRANKLIN NOTES.<br>Miss Beulah Perkins, of Brentwood, Tennl, was here to the meeting of the county institute Saturday.<br>Mrs. M. C. Nevils, of South Franklin, was in town Saturday.<br>Mrs. W. B. Redmond and W. B. Jr., of Liberty Pike, spent Monday with her mother, Mrs. A. N. C. Williams.<br>Mr. and Mrs. James Church have a fine baby girl.</p><p class="block-text" data-idx="15">Mr. and Mrs. James Church have a fine baby girl.<br>Rev. Inman, of Lebanon, preached Sunday morning and night at the Mission.<br>Miss Fannie H. Southall, is visiting in Nashville this week.<br>We regret very much to hear of the illness of Mrs. Sallie Southail Webster, of Nashville, Tenn.<br>Mrs. Mary Parks, is on the sick list.<br>Mrs. Willie Banks and little daughter Julia, were out the guests of their grandmother, Mrs. Cisew Ewing.<br>Mrs. Mary Amos, of Chicago, will spend the winter and summer here the guest of her brother, Rev. D. J. Mitchell, of Columbia.<br>Mrs. Dillie Mitchell is very sick.<br>Mesdames F. L. Woldridge and D. J. Mitchell were down to the bedside of Mrs. Sallie Webster Wednesday.<br>Mrs. Johnson, of Chicago, will spend the winter with her sister, Mrs. John Wilkins.<br>Mrs. John W. Reddick is sick with pneumonia.<br>Dr. Whitfield passed through from Nashville en route to his home, Mt. Pleasant, Monday.<br>Mr. Garfield Thompson has returned to his home, Chattanooga, Tenn. Mrs. Thompson was here as storekeeper and grocer at Womack Distillery.<br>Mr. and Mrs. Willie Baugh, who have been sick for some time, are slowly improving.<br>Mr. Anderson Robinson, of St. Louis, is here to spend the winter with his mother, Mrs. Hannah Robinson.<br>Mr. Ross Sparkman died last Friday and was buried Sunday.<br>Mr. John Kinnard is on the sick list this week.</p><p class="block-text" data-idx="16">Mr. Fred J. Ewing, of Nashville, was out Sunday on business.<br><br>The V. P. C.&#x27;s Quartette have been engaged to sing for the B. G. A. basket ball games this season; members: F. D. Williams, 1st tenor; T. W. House, 2nd tenor; R. T. Murdick, baritone; O. B. Williams, bass; W. F. Farmer, manager.<br><br>Mr. Joseph Hodge, Jr., is on the sick list this week.<br><br>Mr. Robert Murdick was sick last week, but is able to be out now.<br><br>Mrs. Josephine Merrill has gone to Pulaski, Tenn.<br><br>Mr. Ghee, of Pulaski, Tenn., the liveryman, passed through Tuesday en route to Nashville with Dr. Fowler&#x27;s horse, who is now located there.<br><br>Miss Jessie Church is on the sick list this week.<br><br>Rev. Maury has returned home from Columbia, Tenn., where he went to attend to some business.<br><br>Mr. Abe Adkissam is very sick.<br><br>Miss Fannie Joe Woldridge is slowly improving.<br><br>Tom Cannon, of Nashville, was out Sunday.<br><br>Rev. N. H. Pius, the Superintendent of the Teacher-Training Service of the National Baptist Publishing Board, after an absence of about a month in the state of Ohio, where he has organized classes, is back in his office. His family is expected to reach the city some time next week.</p><h3 class="block-subtitle" data-idx="17">SUNSHINE HOME NOTES.</h3><p class="block-text" data-idx="18">The Christian Workers&#x27; Foreign Missionary Society will hold their regular monthly meeting Monday night, Jan. 24, at which time reports of Christmas offering to the work will be made. We want to thank our many friends who have already responded to our appeal and those who will do so.<br><br>Miss Burnett, who has been suffering from an attack of la grippe, is convalescing slowly.<br><br>Thursday, January 13, quite a number of friends gathered at the Home as a surprise to Miss S. E. Moore in the celebration of her birthday. Miss Moore knew nothing of it until the guests were in the house and had been for some time. At first she was almost overcome by surprise, she was soon composed, however, and was delighted with the affair. A delightful evening was spent and the hours sped all too swiftly. The guest list included Misses N. E. Perkins, H. C. Claybrooks, T. A. Gee, N. J. and A. P. McIntosh, B. J. and Cora Ridgeley, Prof. and Mrs. F. E. Dawson, Miss Grimes Glenvs, teacher; Miss C. Moore, student, and Prof. Jeffries of Roger Williams University, Drs. Redd, Russell Mitchell, Rosbey, Rainey, Grant and Mr. Hall. Miss Moore received valuable gifts. Each guest was presented with a souvenir stamped with the name of the home, and in which an appropriate Bible verse, corresponding to the shape of the souvenir was written.</p><h2 class="block-title" data-idx="19">CHURCH DIRECTORY.</h2><p class="block-text" data-idx="20">PENTECOSTAL CHURCHES.<br>Holiness, 605 Twelfth Avenue, N.—Rev.<br>James B. Crosby, pastor. Sunday services<br>11:30 a. m, and 7 p. m.<br><br>PLEASANT VALLEY, Edechill St.—Sunday<br>school 9:30 a. m.; preaching 11:30 a. m. and<br>8 p. m. Sundays. Rev. Henry Ewing, pastor.<br>WEST NASHVILLE. Sunday-school 9:30<br>nights; preaching Thursday nights; commu</p><h3 class="block-subtitle" data-idx="21">SEVENTH DAY ADVENTISTS<br>CHURCH.</h3><p class="block-text" data-idx="22">SEVENTH DAY ADVENTISTS<br>CHURCH.<br><br>SEVENTH DAY ADVENTIST No 2, 711 Winter<br>Street.—Services Saturday 10 a. m. to<br>12 m.</p><h3 class="block-subtitle" data-idx="23">CATHOLIC CHURCH.</h3><p class="block-text" data-idx="24">Holy FAMILY, 458 3d Ave., N.-Rev<br>Thomas J. Plumket, rector. Sunday services<br>10:30 a.m.</p><h3 class="block-subtitle" data-idx="25">THE CHURCH OF GOD.</h3><p class="block-text" data-idx="26">THE CHURCH of God, 534 4th Ave., S.<br>-Sunday-school; preaching at eight 8 p. m.<br>.M. Workers; church Tuesday nights;<br>preaching at River Club Society at 3:30<br>p. m. Rev. A, W. Thompson, pastor.</p><h3 class="block-subtitle" data-idx="27">A. M. E. ZION CHURCHES.</h3><p class="block-text" data-idx="28">ZION CHURCH SUNDAY-SCHOOL. Howerton Ave., near Fifth.-Rev. B. R. Scott, pastor. Sunday services 11 a. m. and 7:30 p. m.</p><h3 class="block-subtitle" data-idx="29">CONGREGATIONAL CHURCHES</h3><p class="block-text" data-idx="30">HOWARD CHAPEL, 12th Ave., N—Sunday-school 10 a.m.; m. preaching services 11 a.m. Sunday; Y. P. S. C. E. 6:00 p. m.; Rev. G. I. Lines, pastor.<br>UNION, Fisk University Campus—Preaching at 11 a.m. followed by Sunday-school; Y. M. C. A. and C. E. meetings at 9 a.m.; mission Sunday-school 2 p.m.; prayer-meeting Wednesday at 6:40 p.m.</p><h3 class="block-subtitle" data-idx="31">EPISCOPAL.</h3><p class="block-text" data-idx="32">HOLY TRINITY, S. 6th and Ewing Aves.—Sunday-school 9:30; preaching services 11:30 a. m. and 7:30 p. m. Sunday. Rev. Father Coombs, rector.<br>HOFFMAN HALL, Hoffman Hall Building.—Sunday-school 9:30 a. m.; preaching 11:30 a. m. Sunday; praise services 7 p. m. Rev. E. J. Batty, pastor.<br>HANNINGTON CHAPEL, Hoffman Hall.—Sunday services 7:30 and 11 a. m. and 4 p. m.<br>COLORED METHODIST EPISCOPAL CHURCHES.<br>LANE TABERNACLE.—Sunday-school 9:30 a. m.; preaching 11:30 a. m. and 8 p. m.; Epworth League meeting at 6:30 p. m.; prayer meeting every Wednesday at 8 o&#x27;clock. Rev. I. H. Jones, pastor, No. 27. Spring street, East Nantucket. B. P. Jones Superintendent.<br>CAPERS CHAPEL, Church St. Viaduct.—Sunday-school 9:30 a. m.; preaching services 11 a. m. and 8 p. m.; prayer-meeting Tuesday and Friday nights; C. E. 7 p. m. Sunday. Rev. Amos, pastor.</p><h3 class="block-subtitle" data-idx="33">PRESBYTERIAN CHURCH</h3><p class="block-text" data-idx="34">St. ANDREW, 8th Ave., N.—Rev. Spencer Jackson, pastor. Sunday services 11 a. m. and 7:30 p. m.<br><br>CUMBERLAND PRESBYTERIAN.<br>FIRST CHURCH, 1507 Hamilton St.-J. M. Disshon, pastor. Sunday services 11 a. m. and 7:30 p. m.</p><h3 class="block-subtitle" data-idx="35">CHRISTIAN CHURCHES.</h3><p class="block-text" data-idx="36">LEA AVENUE, 713 Lea Avenue —Sunday-school 9:30 a.m.; preaching services 11 a.m. and 8 p.m. Sundays, C. E. 7 p.m. Sunday evening; prayer-meeting Wednesday night. Rev. Preston Taylor, pastor, 449 Fourth avenue, north.<br><br>GAY STREET —Preaching 11 a.m. and 8 p.m.; Sunday-school, 9:30; Christian Endeavor 7 p.m. Eld. S. D. Cottrell, pastor.<br><br>WILLOW STREET, S. Hill, S. W. Cor. First avenue.—Rev. A. J. Lawrence, pastor. Sunday service 7:30 p.m.<br><br>METHODIST EPISCOPAL.<br><br>CLARK MEMORIAL, 308 Franklin St.—Rev. Thomas W. Johnson, pastor. Sunday-school 5:30 a.m.; Sunday services 11 a.m. and</p><h3 class="block-subtitle" data-idx="37">STAG PARTY.</h3><p class="block-text" data-idx="38">Messrs. Herbert Thompson and Charlie Powers entertained with a stag party at the residence of Mr. Robert Sumner, 631 Webster street, Tuesday evening. Those who enjoyed the hospitality were Messrs. Arthur Taylor, Robert Sumner, Jackson Johnson, Alexander Tipton, Walter Phillips, Levy Allison, Anderson Fort, Robert Banks, Edward Stockell, Daniel Batts, Arthur Ware, Martin Brown, James Brice, Samuel Whiteside, Herbert Thompson, Charlie Powers. At a late hour a fourcourse menu was served.</p><h3 class="block-subtitle" data-idx="39">FIRST BAPTIST CHURCH</h3><p class="block-text" data-idx="40">&quot;The Secret of Happiness&quot; will be the subject of Rev. W. S. Ellington&#x27;s discourse Sunday morning.</p><p class="block-text" data-idx="41">PLEASANT VALLEY, Edithchl St.-Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 8 p.m. Sundays. Rev. Henry Ewing, pastor. WEST NASHVILLE. Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 7:30 p.m. prayer-meeting night. Rev. T. V. Thatcher, pastor.</p><p class="block-text" data-idx="42">THE UNITED PRIMITIVE BAPTIST, S. E. Cor.<br>Walker St., N. W.—Sunday-school 9:30<br>a. m.; preaching 11:30 a. m. and 8 p. m.<br>Sundays, Rev. Robert Estleman, pastor.</p><h3 class="block-subtitle" data-idx="43">AFRICAN METHODIST EPISCOPAL CHURCHES</h3><p class="block-text" data-idx="44">St. JOHN, cor. 8th Ave. N., and Cedar St.-Sunday services 11:30 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m.; Christian Endeavor 7:00 p.m.; prayer and class meeting Tuesday night. Rev. A. Brooks, pastor, residence 923 Jackson street.<br><br>St. PAUL, Cor. 4th Ave. S., and Franklin St.-Sunday services 11:00 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m.</p><p class="block-text" data-idx="45">The Baracas will augment the study of the regular Sunday-school Lesson by the discussion of the apostles as individuals. Prof. J. D. Crenshaw, who was reelected superintendent of the Sunday-school last Sunday, will appoint his teachers and give a brief outline of his plans for the year&#x27;s work.</p><h3 class="block-subtitle" data-idx="46">---</h3><p class="block-text" data-idx="47">Invitations are out announcing the annual banquet of the Railway Employees&#x27; Protective Association. This will be the fifth annual affair. The invitation says it will be given in the hall of the association Monday night, Jan. 24, at 8 o&#x27;clock, corner of Tenth avenue North, and Cedar street. President Humphrey Bowling is working as untiringly as horetofore to make this a success.</p><p class="block-text" data-idx="48">SECOND, Stevens St., Cor. Deluge—Sunday-school 9:30 a.m.; services 11:30 a.m. and 8:30 p.m. Sundays; prayer meetings Tuesday nights; preaching Thursday nights; communion services every first Sunday. Rev. G. B. Taylor, pastor.<br><br>5TH AVE.—Sunday-school 9:30 a.m.</p><p class="block-text" data-idx="49">Church and School Work a Specialty.</p><h3 class="block-subtitle" data-idx="50">E. E. GREEN &amp; CO.<br>THE TINNER.</h3><p class="block-text" data-idx="51">Tin, Iron and Asphalt Roofing, Guttering and Valleys and Stoves Repaired Special attention given to all work.<br>607 Twelfth Avenue, North, Nashville, Tenn.</p>
   </div>
 </div>
-
-<!-- hOCR (machine-readable) -->
 <div class="ocr_page" id="page_1" title="bbox 0 0 1782 2800; image images/page_03.jpg; ppageno 2">
 <div class="ocr_carea" title="bbox 85 165 389 799" data-label="text"><p class="ocr_par"><span class="ocr_line">On Thursday night in the office of St. Paul A. M. E. Church, the teachers and officers met for the annual election. The pastor, Rev. W. Sampson Brooks, presided and the following were elected for the ensuing year: Mr. J. H. Adams, Superintendent; Mrs. Ida M. Sharber, Assistant Superintendent and organist; Miss G. A. Cayton, secretary; Mr. N. Berry, treasurer; Miss Alberta Davis, chorister; Mrs. J. C. Caldwell, assistant organist; Mr. Sam. L. Rhodes, librarian; Mr. Nathan W. Mitchem, assistant librarian.
 
@@ -218,110 +135,13 @@ St. PAUL, Cor. 4th Ave. S., and Franklin St.-Sunday services 11:00 a.m. and 8:00
 THE TINNER.</span></p></div><div class="ocr_carea" title="bbox 1315 2449 1617 2538" data-label="text"><p class="ocr_par"><span class="ocr_line">Tin, Iron and Asphalt Roofing, Guttering and Valleys and Stoves Repaired Special attention given to all work.
 607 Twelfth Avenue, North, Nashville, Tenn.</span></p></div>
 </div>
-
 <script>
 const REGIONS = [{"bbox": [85, 165, 389, 799], "label": "text", "text": "On Thursday night in the office of St. Paul A. M. E. Church, the teachers and officers met for the annual election. The pastor, Rev. W. Sampson Brooks, presided and the following were elected for the ensuing year: Mr. J. H. Adams, Superintendent; Mrs. Ida M. Sharber, Assistant Superintendent and organist; Miss G. A. Cayton, secretary; Mr. N. Berry, treasurer; Miss Alberta Davis, chorister; Mrs. J. C. Caldwell, assistant organist; Mr. Sam. L. Rhodes, librarian; Mr. Nathan W. Mitchem, assistant librarian.\n\nTeachers\u2014Class No. 1, N. Berry; class No. 2, C. S. Randals; class No. 3, Mrs. J. H. Adams; class No. 4, E. Lee Kinzer; class No. 5, Mrs. P. J. Ewing; class No. 6, Mrs. Wm. J. Glover; class No. 7, Miss Willie Cooper; class No. 8, Mrs. W. S. Brooks; class No. 9, Mrs. J. H. Hale; class No. 10, Dr. C. V. Roman; class No. 11, Mrs. Addie Wiles; class No. 12, Miss G. A. Cayton; class No. 13, \u2014; class No. 14, Miss Hattie Hill; class No. 15, Dr. R. H. Early; class No. 16, Miss Bessie Martin; class No. 17, Mrs. J. C. Caldwell; class No. 18, Mrs. Cornelia Jones.\n\nMr. Horace D. Slatter, the newspaper correspondent, spent Tuesday in the city en route South, where he goes to report several conferences. Mr. Slatter is from Hopkinsville, Ky, which he makes his headquarters.", "order": 0}, {"bbox": [215, 804, 279, 816], "label": "paragraph_title", "text": "---", "order": 1}, {"bbox": [136, 822, 345, 838], "label": "paragraph_title", "text": "WHAT'S IN McCLURES.", "order": 2}, {"bbox": [90, 842, 394, 1416], "label": "text", "text": "A well-known novelist who withholds his name, tells a most interesting and valuable story in the February McClure's of his experience as a moderate drinker.\n\nProf. Hugo Munsterberg, who recently told the readers of McClures how psychology could be applied to commerce with beneficial results, tells how it could and should be utilized by young America in the chosing of a career; Xavier Paoli, \"the Guardian of Kings,\" writes delightfully of the courtship of King Alphonso and Princess Ena; W. H. Riding contributes another chapter of his reminiscences of noted writers; L. S. Brownell tells of the great work Canada is doing for her farmers, and Percival Gibbon describes Louis Brennan's latest experiments with his mono-rail car. There are stories by Alice Perrin, Helen Green, George Kibbe Turner, E. B. Waterworth, and Mabel Food Martin. The number also contains another installment of Arnold Bennett's amusing satire, \"What the Public Wants.\"\n\nRev. Wm. Beckham left the city Saturday for Clarksville, Louisville, Memphis and a few points in the west, but will return to the city within eight or ten days.", "order": 3}, {"bbox": [191, 1437, 300, 1451], "label": "paragraph_title", "text": "MARRIAGES.", "order": 4}, {"bbox": [95, 1453, 393, 1680], "label": "text", "text": "Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley. John Stewart and Alice Miller. George Yowell and Orlean E. Patterson. Edgar Stovall and Amanda Willis. Cal Timmons and Sadie Pointer. William Brown and Bettie White Henderson Scales and Sadie Spann.", "order": 5}, {"bbox": [97, 1454, 392, 1556], "label": "text", "text": "Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley John Stewart and Alice Miller.", "order": 6}, {"bbox": [210, 1705, 285, 1722], "label": "paragraph_title", "text": "DEATHS.", "order": 7}, {"bbox": [98, 1727, 396, 1794], "label": "text", "text": "Walter Harper, corner Webster and Spring streets, 57 years. Ora Belle Dozier, Drakes Creek, 3 years.", "order": 8}, {"bbox": [100, 2031, 395, 2061], "label": "text", "text": "White Myers, 1002 Stevens street. 26 years.", "order": 9}, {"bbox": [98, 2130, 395, 2162], "label": "text", "text": "Amanda McCullough, 629 Woods alley.", "order": 10}, {"bbox": [100, 2231, 397, 2364], "label": "text", "text": "Mary A. Watson, 523 Sixth avenue, South.\nMoses Young, 80 years, Bordeaux, Tenn.\nJane Mays, 71 years, 532 Tewenty-fourth avenue, North.\nHenry White, 46 years, Charlotte plke.", "order": 11}, {"bbox": [102, 2400, 398, 2431], "label": "text", "text": "Howard Cartwright, 23 years, 232\nEighth street.", "order": 12}, {"bbox": [102, 2501, 400, 2533], "label": "text", "text": "Marguerite Bowman, 89 years,\nCounty Hospital.", "order": 13}, {"bbox": [392, 145, 688, 338], "label": "text", "text": "FRANKLIN NOTES.\nMiss Beulah Perkins, of Brentwood, Tennl, was here to the meeting of the county institute Saturday.\nMrs. M. C. Nevils, of South Franklin, was in town Saturday.\nMrs. W. B. Redmond and W. B. Jr., of Liberty Pike, spent Monday with her mother, Mrs. A. N. C. Williams.\nMr. and Mrs. James Church have a fine baby girl.", "order": 14}, {"bbox": [392, 308, 694, 1100], "label": "text", "text": "Mr. and Mrs. James Church have a fine baby girl.\nRev. Inman, of Lebanon, preached Sunday morning and night at the Mission.\nMiss Fannie H. Southall, is visiting in Nashville this week.\nWe regret very much to hear of the illness of Mrs. Sallie Southail Webster, of Nashville, Tenn.\nMrs. Mary Parks, is on the sick list.\nMrs. Willie Banks and little daughter Julia, were out the guests of their grandmother, Mrs. Cisew Ewing.\nMrs. Mary Amos, of Chicago, will spend the winter and summer here the guest of her brother, Rev. D. J. Mitchell, of Columbia.\nMrs. Dillie Mitchell is very sick.\nMesdames F. L. Woldridge and D. J. Mitchell were down to the bedside of Mrs. Sallie Webster Wednesday.\nMrs. Johnson, of Chicago, will spend the winter with her sister, Mrs. John Wilkins.\nMrs. John W. Reddick is sick with pneumonia.\nDr. Whitfield passed through from Nashville en route to his home, Mt. Pleasant, Monday.\nMr. Garfield Thompson has returned to his home, Chattanooga, Tenn. Mrs. Thompson was here as storekeeper and grocer at Womack Distillery.\nMr. and Mrs. Willie Baugh, who have been sick for some time, are slowly improving.\nMr. Anderson Robinson, of St. Louis, is here to spend the winter with his mother, Mrs. Hannah Robinson.\nMr. Ross Sparkman died last Friday and was buried Sunday.\nMr. John Kinnard is on the sick list this week.", "order": 15}, {"bbox": [398, 1142, 700, 1854], "label": "text", "text": "Mr. Fred J. Ewing, of Nashville, was out Sunday on business.\n\nThe V. P. C.'s Quartette have been engaged to sing for the B. G. A. basket ball games this season; members: F. D. Williams, 1st tenor; T. W. House, 2nd tenor; R. T. Murdick, baritone; O. B. Williams, bass; W. F. Farmer, manager.\n\nMr. Joseph Hodge, Jr., is on the sick list this week.\n\nMr. Robert Murdick was sick last week, but is able to be out now.\n\nMrs. Josephine Merrill has gone to Pulaski, Tenn.\n\nMr. Ghee, of Pulaski, Tenn., the liveryman, passed through Tuesday en route to Nashville with Dr. Fowler's horse, who is now located there.\n\nMiss Jessie Church is on the sick list this week.\n\nRev. Maury has returned home from Columbia, Tenn., where he went to attend to some business.\n\nMr. Abe Adkissam is very sick.\n\nMiss Fannie Joe Woldridge is slowly improving.\n\nTom Cannon, of Nashville, was out Sunday.\n\nRev. N. H. Pius, the Superintendent of the Teacher-Training Service of the National Baptist Publishing Board, after an absence of about a month in the state of Ohio, where he has organized classes, is back in his office. His family is expected to reach the city some time next week.", "order": 16}, {"bbox": [436, 1873, 663, 1889], "label": "paragraph_title", "text": "SUNSHINE HOME NOTES.", "order": 17}, {"bbox": [402, 1898, 702, 2536], "label": "text", "text": "The Christian Workers' Foreign Missionary Society will hold their regular monthly meeting Monday night, Jan. 24, at which time reports of Christmas offering to the work will be made. We want to thank our many friends who have already responded to our appeal and those who will do so.\n\nMiss Burnett, who has been suffering from an attack of la grippe, is convalescing slowly.\n\nThursday, January 13, quite a number of friends gathered at the Home as a surprise to Miss S. E. Moore in the celebration of her birthday. Miss Moore knew nothing of it until the guests were in the house and had been for some time. At first she was almost overcome by surprise, she was soon composed, however, and was delighted with the affair. A delightful evening was spent and the hours sped all too swiftly. The guest list included Misses N. E. Perkins, H. C. Claybrooks, T. A. Gee, N. J. and A. P. McIntosh, B. J. and Cora Ridgeley, Prof. and Mrs. F. E. Dawson, Miss Grimes Glenvs, teacher; Miss C. Moore, student, and Prof. Jeffries of Roger Williams University, Drs. Redd, Russell Mitchell, Rosbey, Rainey, Grant and Mr. Hall. Miss Moore received valuable gifts. Each guest was presented with a souvenir stamped with the name of the home, and in which an appropriate Bible verse, corresponding to the shape of the souvenir was written.", "order": 18}, {"bbox": [721, 159, 1554, 208], "label": "doc_title", "text": "CHURCH DIRECTORY.", "order": 19}, {"bbox": [697, 216, 1596, 301], "label": "text", "text": "PENTECOSTAL CHURCHES.\nHoliness, 605 Twelfth Avenue, N.\u2014Rev.\nJames B. Crosby, pastor. Sunday services\n11:30 a. m, and 7 p. m.\n\nPLEASANT VALLEY, Edechill St.\u2014Sunday\nschool 9:30 a. m.; preaching 11:30 a. m. and\n8 p. m. Sundays. Rev. Henry Ewing, pastor.\nWEST NASHVILLE. Sunday-school 9:30\nnights; preaching Thursday nights; commu", "order": 20}, {"bbox": [722, 309, 963, 336], "label": "paragraph_title", "text": "SEVENTH DAY ADVENTISTS\nCHURCH.", "order": 21}, {"bbox": [698, 309, 993, 383], "label": "text", "text": "SEVENTH DAY ADVENTISTS\nCHURCH.\n\nSEVENTH DAY ADVENTIST No 2, 711 Winter\nStreet.\u2014Services Saturday 10 a. m. to\n12 m.", "order": 22}, {"bbox": [764, 393, 929, 407], "label": "paragraph_title", "text": "CATHOLIC CHURCH.", "order": 23}, {"bbox": [699, 408, 993, 453], "label": "text", "text": "Holy FAMILY, 458 3d Ave., N.-Rev\nThomas J. Plumket, rector. Sunday services\n10:30 a.m.", "order": 24}, {"bbox": [757, 463, 939, 478], "label": "paragraph_title", "text": "THE CHURCH OF GOD.", "order": 25}, {"bbox": [699, 481, 995, 550], "label": "text", "text": "THE CHURCH of God, 534 4th Ave., S.\n-Sunday-school; preaching at eight 8 p. m.\n.M. Workers; church Tuesday nights;\npreaching at River Club Society at 3:30\np. m. Rev. A, W. Thompson, pastor.", "order": 26}, {"bbox": [728, 559, 949, 573], "label": "paragraph_title", "text": "A. M. E. ZION CHURCHES.", "order": 27}, {"bbox": [702, 575, 997, 619], "label": "text", "text": "ZION CHURCH SUNDAY-SCHOOL. Howerton Ave., near Fifth.-Rev. B. R. Scott, pastor. Sunday services 11 a. m. and 7:30 p. m.", "order": 28}, {"bbox": [728, 629, 971, 642], "label": "paragraph_title", "text": "CONGREGATIONAL CHURCHES", "order": 29}, {"bbox": [703, 648, 999, 770], "label": "text", "text": "HOWARD CHAPEL, 12th Ave., N\u2014Sunday-school 10 a.m.; m. preaching services 11 a.m. Sunday; Y. P. S. C. E. 6:00 p. m.; Rev. G. I. Lines, pastor.\nUNION, Fisk University Campus\u2014Preaching at 11 a.m. followed by Sunday-school; Y. M. C. A. and C. E. meetings at 9 a.m.; mission Sunday-school 2 p.m.; prayer-meeting Wednesday at 6:40 p.m.", "order": 30}, {"bbox": [808, 780, 899, 793], "label": "paragraph_title", "text": "EPISCOPAL.", "order": 31}, {"bbox": [705, 796, 1004, 1138], "label": "text", "text": "HOLY TRINITY, S. 6th and Ewing Aves.\u2014Sunday-school 9:30; preaching services 11:30 a. m. and 7:30 p. m. Sunday. Rev. Father Coombs, rector.\nHOFFMAN HALL, Hoffman Hall Building.\u2014Sunday-school 9:30 a. m.; preaching 11:30 a. m. Sunday; praise services 7 p. m. Rev. E. J. Batty, pastor.\nHANNINGTON CHAPEL, Hoffman Hall.\u2014Sunday services 7:30 and 11 a. m. and 4 p. m.\nCOLORED METHODIST EPISCOPAL CHURCHES.\nLANE TABERNACLE.\u2014Sunday-school 9:30 a. m.; preaching 11:30 a. m. and 8 p. m.; Epworth League meeting at 6:30 p. m.; prayer meeting every Wednesday at 8 o'clock. Rev. I. H. Jones, pastor, No. 27. Spring street, East Nantucket. B. P. Jones Superintendent.\nCAPERS CHAPEL, Church St. Viaduct.\u2014Sunday-school 9:30 a. m.; preaching services 11 a. m. and 8 p. m.; prayer-meeting Tuesday and Friday nights; C. E. 7 p. m. Sunday. Rev. Amos, pastor.", "order": 32}, {"bbox": [756, 1147, 955, 1160], "label": "paragraph_title", "text": "PRESBYTERIAN CHURCH", "order": 33}, {"bbox": [709, 1166, 1005, 1283], "label": "text", "text": "St. ANDREW, 8th Ave., N.\u2014Rev. Spencer Jackson, pastor. Sunday services 11 a. m. and 7:30 p. m.\n\nCUMBERLAND PRESBYTERIAN.\nFIRST CHURCH, 1507 Hamilton St.-J. M. Disshon, pastor. Sunday services 11 a. m. and 7:30 p. m.", "order": 34}, {"bbox": [766, 1298, 953, 1311], "label": "paragraph_title", "text": "CHRISTIAN CHURCHES.", "order": 35}, {"bbox": [707, 1317, 1011, 2143], "label": "text", "text": "LEA AVENUE, 713 Lea Avenue \u2014Sunday-school 9:30 a.m.; preaching services 11 a.m. and 8 p.m. Sundays, C. E. 7 p.m. Sunday evening; prayer-meeting Wednesday night. Rev. Preston Taylor, pastor, 449 Fourth avenue, north.\n\nGAY STREET \u2014Preaching 11 a.m. and 8 p.m.; Sunday-school, 9:30; Christian Endeavor 7 p.m. Eld. S. D. Cottrell, pastor.\n\nWILLOW STREET, S. Hill, S. W. Cor. First avenue.\u2014Rev. A. J. Lawrence, pastor. Sunday service 7:30 p.m.\n\nMETHODIST EPISCOPAL.\n\nCLARK MEMORIAL, 308 Franklin St.\u2014Rev. Thomas W. Johnson, pastor. Sunday-school 5:30 a.m.; Sunday services 11 a.m. and", "order": 36}, {"bbox": [798, 2173, 915, 2188], "label": "paragraph_title", "text": "STAG PARTY.", "order": 37}, {"bbox": [708, 2194, 1005, 2447], "label": "text", "text": "Messrs. Herbert Thompson and Charlie Powers entertained with a stag party at the residence of Mr. Robert Sumner, 631 Webster street, Tuesday evening. Those who enjoyed the hospitality were Messrs. Arthur Taylor, Robert Sumner, Jackson Johnson, Alexander Tipton, Walter Phillips, Levy Allison, Anderson Fort, Robert Banks, Edward Stockell, Daniel Batts, Arthur Ware, Martin Brown, James Brice, Samuel Whiteside, Herbert Thompson, Charlie Powers. At a late hour a fourcourse menu was served.", "order": 38}, {"bbox": [742, 2465, 970, 2480], "label": "paragraph_title", "text": "FIRST BAPTIST CHURCH", "order": 39}, {"bbox": [709, 2487, 1007, 2536], "label": "text", "text": "\"The Secret of Happiness\" will be the subject of Rev. W. S. Ellington's discourse Sunday morning.", "order": 40}, {"bbox": [999, 240, 1292, 334], "label": "text", "text": "PLEASANT VALLEY, Edithchl St.-Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 8 p.m. Sundays. Rev. Henry Ewing, pastor. WEST NASHVILLE. Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 7:30 p.m. prayer-meeting night. Rev. T. V. Thatcher, pastor.", "order": 41}, {"bbox": [1000, 333, 1292, 387], "label": "text", "text": "THE UNITED PRIMITIVE BAPTIST, S. E. Cor.\nWalker St., N. W.\u2014Sunday-school 9:30\na. m.; preaching 11:30 a. m. and 8 p. m.\nSundays, Rev. Robert Estleman, pastor.", "order": 42}, {"bbox": [1005, 397, 1290, 424], "label": "paragraph_title", "text": "AFRICAN METHODIST EPISCOPAL CHURCHES", "order": 43}, {"bbox": [1001, 428, 1307, 2143], "label": "text", "text": "St. JOHN, cor. 8th Ave. N., and Cedar St.-Sunday services 11:30 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m.; Christian Endeavor 7:00 p.m.; prayer and class meeting Tuesday night. Rev. A. Brooks, pastor, residence 923 Jackson street.\n\nSt. PAUL, Cor. 4th Ave. S., and Franklin St.-Sunday services 11:00 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m.", "order": 44}, {"bbox": [1010, 2174, 1306, 2329], "label": "text", "text": "The Baracas will augment the study of the regular Sunday-school Lesson by the discussion of the apostles as individuals. Prof. J. D. Crenshaw, who was reelected superintendent of the Sunday-school last Sunday, will appoint his teachers and give a brief outline of his plans for the year's work.", "order": 45}, {"bbox": [1145, 2336, 1180, 2349], "label": "paragraph_title", "text": "---", "order": 46}, {"bbox": [1012, 2352, 1309, 2539], "label": "text", "text": "Invitations are out announcing the annual banquet of the Railway Employees' Protective Association. This will be the fifth annual affair. The invitation says it will be given in the hall of the association Monday night, Jan. 24, at 8 o'clock, corner of Tenth avenue North, and Cedar street. President Humphrey Bowling is working as untiringly as horetofore to make this a success.", "order": 47}, {"bbox": [1298, 237, 1614, 2143], "label": "text", "text": "SECOND, Stevens St., Cor. Deluge\u2014Sunday-school 9:30 a.m.; services 11:30 a.m. and 8:30 p.m. Sundays; prayer meetings Tuesday nights; preaching Thursday nights; communion services every first Sunday. Rev. G. B. Taylor, pastor.\n\n5TH AVE.\u2014Sunday-school 9:30 a.m.", "order": 48}, {"bbox": [1315, 2280, 1611, 2326], "label": "text", "text": "Church and School Work a Specialty.", "order": 49}, {"bbox": [1316, 2380, 1613, 2436], "label": "paragraph_title", "text": "E. E. GREEN & CO.\nTHE TINNER.", "order": 50}, {"bbox": [1315, 2449, 1617, 2538], "label": "text", "text": "Tin, Iron and Asphalt Roofing, Guttering and Valleys and Stoves Repaired Special attention given to all work.\n607 Twelfth Avenue, North, Nashville, Tenn.", "order": 51}];
 const imgW = 1782;
-
-const COLORS = {
-  doc_title:       { bg: "rgba(180,60,60,0.12)", hover: "rgba(180,60,60,0.22)", border: "rgba(180,60,60,0.5)" },
-  paragraph_title: { bg: "rgba(60,90,160,0.12)", hover: "rgba(60,90,160,0.22)", border: "rgba(60,90,160,0.5)" },
-  text:            { bg: "rgba(80,120,60,0.10)", hover: "rgba(80,120,60,0.20)", border: "rgba(80,120,60,0.4)" },
-  figure_title:    { bg: "rgba(160,110,40,0.12)", hover: "rgba(160,110,40,0.22)", border: "rgba(160,110,40,0.5)" },
-};
-
-// --- OpenSeadragon ---
-const viewer = OpenSeadragon({
-  id: "viewer",
-  prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@4.1/build/openseadragon/images/",
-  tileSources: { type: "image", url: "images/page_03.jpg" },
-  showNavigationControl: true,
-  maxZoomPixelRatio: 4,
-  animationTime: 0.3,
-  gestureSettingsMouse: { clickToZoom: false },
-});
-
-const overlays = [];
-const textBlocks = document.getElementById("text-pane").querySelectorAll("[data-idx]");
-
-viewer.addHandler("open", function() {
-  REGIONS.forEach((r, i) => {
-    const [x1, y1, x2, y2] = r.bbox;
-    const c = COLORS[r.label] || COLORS.text;
-    const el = document.createElement("div");
-    el.className = "region-overlay";
-    el.dataset.idx = i;
-    el.style.setProperty("--bg-color", c.bg);
-    el.style.setProperty("--bg-hover", c.hover);
-    el.style.setProperty("--border-color", c.border);
-
-    el.addEventListener("click", () => highlightRegion(i));
-
-    const rect = new OpenSeadragon.Rect(x1/imgW, y1/imgW, (x2-x1)/imgW, (y2-y1)/imgW);
-    viewer.addOverlay({ element: el, location: rect });
-    overlays.push(el);
-  });
-  document.getElementById("viewer").classList.toggle("show-boxes", document.getElementById("toggleBoxes").checked);
-});
-
-// --- Click text block → zoom to region on image ---
-textBlocks.forEach(el => {
-  el.addEventListener("click", () => {
-    const idx = parseInt(el.dataset.idx);
-    highlightRegion(idx);
-    // Zoom to the region on the image
-    const r = REGIONS[idx];
-    const [x1, y1, x2, y2] = r.bbox;
-    const rect = new OpenSeadragon.Rect(x1/imgW, y1/imgW, (x2-x1)/imgW, (y2-y1)/imgW);
-    viewer.viewport.fitBounds(rect.rotate(0), false);
-  });
-});
-
-let activeIdx = -1;
-function highlightRegion(idx) {
-  // Clear old
-  overlays.forEach(o => o.classList.remove("active"));
-  textBlocks.forEach(t => t.classList.remove("block-highlight"));
-  // Set new
-  if (idx === activeIdx) { activeIdx = -1; return; }
-  activeIdx = idx;
-  if (overlays[idx]) overlays[idx].classList.add("active");
-  const tb = document.getElementById("text-pane").querySelector(`[data-idx="${idx}"]`);
-  if (tb) {
-    tb.classList.add("block-highlight");
-    const pane = document.getElementById("text-pane");
-    const top = tb.offsetTop - pane.offsetTop - pane.clientHeight / 2 + tb.clientHeight / 2;
-    pane.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
-  }
-}
-
-// --- Controls ---
-document.getElementById("toggleBoxes").addEventListener("change", (e) => {
-  document.getElementById("viewer").classList.toggle("show-boxes", e.target.checked);
-});
-
-// --- Keyboard nav ---
-document.addEventListener("keydown", (e) => {
-  if (e.key === "ArrowLeft" && 3 > 1) window.location = "page_02.html";
-  if (e.key === "ArrowRight" && 3 < 8) window.location = "page_04.html";
-});
-
-// --- Resize handle ---
-const handle = document.getElementById("resize-handle");
-const textPane = document.getElementById("text-pane");
-let resizing = false;
-handle.addEventListener("mousedown", (e) => {
-  resizing = true; handle.classList.add("active");
-  e.preventDefault();
-});
-document.addEventListener("mousemove", (e) => {
-  if (!resizing) return;
-  const w = document.body.clientWidth - e.clientX - 5;
-  textPane.style.width = Math.max(200, Math.min(w, document.body.clientWidth * 0.6)) + "px";
-});
-document.addEventListener("mouseup", () => {
-  resizing = false; handle.classList.remove("active");
-});
+const IMG_URL = "images/page_03.jpg";
+const PAGE_NUM = 3;
+const TOTAL_PAGES = 8;
 </script>
+<script src="../viewer.js"></script>
 </body>
 </html>

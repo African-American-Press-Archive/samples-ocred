@@ -1,0 +1,568 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1870,
+  "height": 2497,
+  "regions": [
+    {
+      "bbox": [
+        45,
+        172,
+        562,
+        624
+      ],
+      "label": "text",
+      "text": "ST. LOUIS ARGUS PUBLISHING CO.\n1841 MARKET ST. ST. LOUIS, MO.\nPhone: Beement 1462\n\nJ. E. MITCHELL MANAGING EDITOR\nHERBERT T. MEADOWS CITY EDITOR and ADV. MGR.\n\nSUBSCRIPTION HATES\nOne Year $2.00\nSix Months 1.25\nThree Months 7.5\nAngle Copy .05\n\nAdvertising Hates Furnished On Request\n\nEntered as second class matter April 6, 1911 at the Post Office at Saint Louis, Missouri, under the act of March 3, 1970\n\nMEMBER\nMISSOURI PRESS ASSOCIATION ASSOCIATED NEGRO PRESS\nNATIONAL NEGRO PRESS ASSOCIATION\nForeign Advertising Representatives\nW. B. Ziff Co., 698 South Dearborn St., Chicago, Ill.\n\nTHE ST. LOUIS PUBLIC SCHOOLS\nIn his speech accepting the presidency of the Board of Education, the Hon. John C. Tohn had some things today which were of great interest to the colored people of the city. Some of the things he said have been watched by us with a deal of interest. Particularly his reference to better school facilities for our children."
+    },
+    {
+      "bbox": [
+        43,
+        621,
+        556,
+        651
+      ],
+      "label": "text",
+      "text": "Despite this declaration of the present needs as expressed by President Tobin, the real need is action by the Board."
+    },
+    {
+      "bbox": [
+        43,
+        649,
+        562,
+        732
+      ],
+      "label": "text",
+      "text": "We are informed that there is a shortage of teachers even in our High School. We do not know the reason for this, but we do know this condition ought to be speedily corrected and since the bond issue, we know it is not due to a shortage of funds."
+    },
+    {
+      "bbox": [
+        40,
+        731,
+        562,
+        875
+      ],
+      "label": "text",
+      "text": "The colgored people of the city would like to have the condition corrected so that, seventh and eighth grade students would not have to go entirely across the city and pay car fare to get this instructon at John Marshall school. They believe these grades should be taught in the district schools, and it might be possible to make another Harris Teachers College out of John Marshall or turn it into other equally as serviceable use, where our teachers can get the very best supplementary training for their work."
+    },
+    {
+      "bbox": [
+        41,
+        873,
+        562,
+        1743
+      ],
+      "label": "text",
+      "text": "We believe Mr. Tolan has voiced the sentiment of the majority of the Board in his advocacy of additional High School facilities. In this connection we stand committed to the policy of either a real Junior High School centrally located to relieve the congestion of Summer, or better still another High School centrally located. It is an unquestioned hardship for the majority of the children to have to ride entirely across the city to get all their High School training.\n\nThe colored population has increased 58 per cent, in the last 10 years, and this has aggravated the attendance situation. This also needs attention badly. No two men, or super-men however efficient as attendance officers, can give this work the attention it needs; no two men can look after the needs of the school children in a colored population of 69,603\u2014a population the majority of whom have not had the advantage of school facilities themselves; yet the State compulsory educational law contemplates the elimination of truancy and not a percentage attendance. This problem is much more difficult among the colored people than others for a number of reasons. That it should be speedily corrected because it is one of the crying needs, goes without saying.\n\nWhile we St. Louisans boast of our schools and its great system, yet we can't but call the Board's attention to their weakness in matters affecting the colored children, believing that by so doing we shall have rendered the Board a service as well as the children and patrons of our group.\n\nLet us have more teachers, another. High School, a real Teachers' College, more Attendance Officers, a seventh and eighth grade in every district school and with a little additional space in school buildings, as one, hundred per cent efficiency cannot be had in over crowded schools, saying nothing about the menace to health, then, we will approach the status a city the size St. Louis should occupy.\n\nWHO ARE DRIFTING?\n\nWhen we think of the results of the recent election, and the part, the colored electorate played in said election, we can't but see a wide change in the Negro's political status in America.\n\nIt is charged by some that the Negro is drifting from the Republican party. The truth of such a statement must be determined by the facts in the case. The facts are: The Negro is just beginning to wake-up to the realization that the Republican party of today, is not the party as founded by the forefathers; men like Lincoln, Grant and Roosevelt. The Negro has chung to the Republican party because of a principle: a principle of all men up, and, none down; a principle that all men are created free and equal; a principle that the government owes to every one equal protection of the law. These are the principles that represent one hundred percent American. The Negro believes in those principles heart and soul, and thus we claim for ourselves to be the only one-hundred per cent Republicans in the party.\n\nThe present-day leaders have left the principles of the party, and have carried the name with them. They are sailing under false colors, and that is why many of the thinking men and women of the Race have refused to follow."
+    },
+    {
+      "bbox": [
+        46,
+        1742,
+        560,
+        1818
+      ],
+      "label": "text",
+      "text": "Those among us who are independent, have assisted upon the party leaders astring to the Republican principles. This they have refused to do. But have turned to the Lily Whites of the South. This, of course, is like flaunting the red flag in a bull's tags, far as the Nerro is concerned."
+    },
+    {
+      "bbox": [
+        49,
+        1817,
+        563,
+        1871
+      ],
+      "label": "text",
+      "text": "The Republican party might as well know now, that the Negro will never by the consent of his real leaders, even dilly daily with the Lily Whites of the South."
+    },
+    {
+      "bbox": [
+        98,
+        1914,
+        531,
+        1966
+      ],
+      "label": "text",
+      "text": "What some fellows want is a berth--so that they can sleep at their job. But sooner or later they fall out and hit the earth hard."
+    },
+    {
+      "bbox": [
+        91,
+        2017,
+        547,
+        2267
+      ],
+      "label": "text",
+      "text": "We have too many \"funds\" nowadays, but the Franklin K. Lane one deserves the support of every patriotic citizen. Lane died poor through serving his country rather than serve his own pocket.\n\nAre you a go-getter or a goat-getter?\n\nCongress is imposing another tax, a tax on the patience of taxpayers.\n\nFate pursues cowards: Fortune pursues the courageous.\n\nWhat you take in is determined by what you pay out."
+    },
+    {
+      "bbox": [
+        92,
+        2368,
+        538,
+        2441
+      ],
+      "label": "text",
+      "text": "Business men write off bad debts. Uncle Sam should do the same-and promptly. Other strong governments would follow suit, and the effect would be invigorating all around."
+    },
+    {
+      "bbox": [
+        89,
+        1893,
+        218,
+        1910
+      ],
+      "label": "paragraph_title",
+      "text": "WITH FORBES"
+    },
+    {
+      "bbox": [
+        258,
+        403,
+        352,
+        421
+      ],
+      "label": "paragraph_title",
+      "text": "MEMBER"
+    },
+    {
+      "bbox": [
+        582,
+        93,
+        1039,
+        242
+      ],
+      "label": "text",
+      "text": "Insanity, suicide and divorces are more rife among the idle rich than the industrious poor.\n\nIf you don't enjoy your work you're not wealthy.\n\nTo get anywhere, strike out for somewhere, otherwise you'll get nowhere.\n\nThe crooked path leads downhill."
+    },
+    {
+      "bbox": [
+        592,
+        285,
+        1046,
+        552
+      ],
+      "label": "text",
+      "text": "It's better to buy a home before buying an auto.\n\nDon't seek things. Seek to serve. Then and then only can you become rich in mind and soul.\n\nHard going trains you to climb.\n\nI would rather have a big burden and a strong back than a weak back and a caddy to carry life's luggage.\u2014I lbert Hubbard.\n\nA man is rich in proportion to the things he can afford to let alone.\u2014Thoreau.\n\nA man with push can get there, but it takes the man with character to stay there.\u2014Shepard."
+    },
+    {
+      "bbox": [
+        590,
+        591,
+        1067,
+        1102
+      ],
+      "label": "text",
+      "text": "The liberal New York weekly, The Nation, which has so long been demanding complete equality for the Negro and which only last week published a new chapter in the history of crimes against the Negro Republic of Haiti, now congratulates President Harding on his courageous speeches in the South. It condemns, however, in an eloquent editorial, the President's reference to \"social equality.\" This unfortunate utterance, in the opinion of The Nation, \"played into the hands of all who justify any discrimination against the Negro.\"\n\nThis very reservation about social equality is used, The Nation points out, to excuse unending discrimination, humiliation, and actual physical torture; and adds that even Mr. Harding had in mind inter-marriage only, and even if he had said so, his words could have done great harm, shece the laws against intermarriage in the South serve only to promote immorality. \"We may rest assured,\" says The Nation, \"that/if racial intermarriage is socially unwise and racially destructive, nature herself will ****** control it without men's having to resort to crime to check it.\"\n\nThe Nation is published weekly at 20 Vesey street, New York. The editorial quoted appears in the issue of November 16.\n\nM POWELL POST 77\nTHE AMERICAN LEGION\nWILL RECEIVE COLORS\n\nMuse: Prayer, Henry Moseley) Master of Ceremonies, Jim Nails) The Misses Allie Moseley stones and Dorothy Sillmons officialized at the pinnacle. Wake up ex-servicemen. Join the Legion any Sunday, 4:30 p.m. at head quarters."
+    },
+    {
+      "bbox": [
+        821,
+        1110,
+        1069,
+        1199
+      ],
+      "label": "paragraph_title",
+      "text": "COLORED UNDERTAKERS ARE BEING DISTURBED BY ANONYMOUS CALLS"
+    },
+    {
+      "bbox": [
+        821,
+        1110,
+        1069,
+        1199
+      ],
+      "label": "doc_title",
+      "text": "COLORED UNDERTAKERS ARE BEING DISTURBED BY ANONYMOUS CALLS"
+    },
+    {
+      "bbox": [
+        819,
+        1263,
+        1073,
+        1652
+      ],
+      "label": "text",
+      "text": "Notice to the Public: On several occasions recently some practical jokers have been at work calling up various undertakers, over telephone and sending them out on 'fake' calls. They usually select some well known person and inform the undertaker that Mr. So and So is dead, to come at once and take charge, of the body. Sometimes as many as four or five different people, upon arrival find that no such person has died.\n\nPerhaps if the joker knew this is a crime and punishable by law, the nefarious practice would cause. On several occasions, such culprits as these have been caught and sent to prison. In order to put a top to this practice and present annoyance and hupiness to our patronage as well as harbours and inconvenience to ourselves, the St. Louis Colored Undertakers Assemble here hereby give notice of the well after delivery of $50 for the arrest and conviction of any person found guilty of this crime.\n\nSt. Louis Colored Undertakers Association J. H. Harrison, president Chas Gaines, secretary."
+    },
+    {
+      "bbox": [
+        593,
+        576,
+        709,
+        592
+      ],
+      "label": "paragraph_title",
+      "text": "THE NATION"
+    },
+    {
+      "bbox": [
+        560,
+        1003,
+        812,
+        1101
+      ],
+      "label": "doc_title",
+      "text": "TOM POWELL POST 77\nTHE AMERICAN LEGION\nWILL RECEIVE COLORS"
+    },
+    {
+      "bbox": [
+        560,
+        1003,
+        812,
+        1101
+      ],
+      "label": "paragraph_title",
+      "text": "TOM POWELL POST 77\nTHE AMERICAN LEGION\nWILL RECEIVE COLORS"
+    },
+    {
+      "bbox": [
+        559,
+        1103,
+        818,
+        1811
+      ],
+      "label": "text",
+      "text": "Presentation Will Be Made At The Central Baptist Church Sunday, Oct. 27.\n\nTom Powell Post No. 77 of the American Legion will be presented with a standard of colors at Central Baptist Church on Sunday afternoon, November 27. The colors consist of a beautiful silk American flag tinged with gold and a Post Standard of the materials. They were purchased by donations from retirees and were used by the Post in the funeral and members of the Post militia parade in review. Mr. Powell also presented other affiliations at Kansas City the early part of the month.\n\nA unique program has been presented for the occasion and St. Louis for the first time will be able to witness the beautiful Army in choreography in the presentation of the colors and standards. The Colored service in it were well represented by Tom Powell Post No. 77 American Legion at the monastery Ashley day celebration and parade and the colored men and their white clothing. The band with the sounds of candles and pet songs which were learned by many of the patrons at a time when they never cared again to be the center of attraction to a large crowd of their friends and relatives.\n\nFollowing the parade that assembled veterans listened to an address by one of the Legionaries. The high aim of the Legion is to see that the rightful honor of service men be given by a reluctant government. More forceful spoken of and the power of the Legion was seen as the liberation for which they served in France.\n\nFollowing the parade and the speaking at the Coliseum Tom Powell Post entertained a large number of friends at the Marjorie Palace at a dance and entertainment."
+    },
+    {
+      "bbox": [
+        628,
+        1810,
+        761,
+        1822
+      ],
+      "label": "paragraph_title",
+      "text": "To Give A Spoker"
+    },
+    {
+      "bbox": [
+        562,
+        1819,
+        821,
+        2133
+      ],
+      "label": "text",
+      "text": "As a result of the interest around Legion circles by I. r. received Missouri bonds legislation and the right which still is on for the national bonds. Commander Louis Bortolli of Tom Powell, first called an executive meeting at the post headquarters 2003 Market St. for the purpose of evolving a program to be more off of the 1000-collected service men. Louis Bortolli was apperized of the waiting Amer- icans for membership. Attorney George I. Vaughan, an ardent Legion man, made a suggestion for immediate action which was accepted by the committee with the result that a plant smoker, free to all service men, will be held Saturday evening December 1. At this smoker there will be served the double purpose of getting acquainted and informing the men assembled of the meetings and possibilities of the Legion."
+    },
+    {
+      "bbox": [
+        596,
+        2144,
+        775,
+        2160
+      ],
+      "label": "paragraph_title",
+      "text": "CALVIN RUDE POST"
+    },
+    {
+      "bbox": [
+        566,
+        2173,
+        826,
+        2447
+      ],
+      "label": "text",
+      "text": "The Caitlin Hyde Post of the American Legion, renders the following program before a large and very appreciative audience. Award justice night, November 11, 8:30 a.m. m. at their headquarters, 2281 Chestnut Street.\nMy Country 'tis of Three Associates, Piano, Sobh, Nathaniel Muscle; Original War Poetry, Haims, Universal Peace, McRae Jones; Redaction, Wmn. Wm. V. Spencer; Reception, Mms. Mrs. Thro, Haines; Carrot Sole, Master Wm. T. Sawyer; American Legion globes War; George Goad; General War, Ogren Goad; General Sole, Ernest C. Gady; Universal War, Capt. Jameset Brown; Vocal Sole, Clant Williams; A War Daring Soldier, Earl Foster; Remarks, Ed. Mkinsey; Remarks, Wmn. T. Spencer, Sr. Vocal Dust, Morma, Williams"
+    },
+    {
+      "bbox": [
+        825,
+        1209,
+        1068,
+        1256
+      ],
+      "label": "text",
+      "text": "Association Office's Howard For Arrest And Conviction Of Persons Found Guilty"
+    },
+    {
+      "bbox": [
+        827,
+        1661,
+        1074,
+        1747
+      ],
+      "label": "doc_title",
+      "text": "MAX YERGAN TO SAIL FOR AFRICA TO LOOK AFTER Y. M. C. A. WORK"
+    },
+    {
+      "bbox": [
+        827,
+        1661,
+        1074,
+        1747
+      ],
+      "label": "paragraph_title",
+      "text": "MAX YERGAN TO SAIL FOR AFRICA TO LOOK AFTER Y. M. C. A. WORK"
+    },
+    {
+      "bbox": [
+        826,
+        1757,
+        1079,
+        2304
+      ],
+      "label": "text",
+      "text": "Will Be First Permanent Secretary\nTo That Continent. Will\nBe Accompanied By\nHis Wife.\n\nNEW YORK CITY, Nov. 23 \u2014 A feature of the forthcoming twentieth national conference of Chicago, December 1 to 4, of the Colored Men's Department of the Young Men's Christian Associations of North America, will be the announcement that Max Yergan has started for Africa as the first permanent secretary of the Y. M. C. A., to that continent. Yergan will sail on November 26th. Yergan is a native of North Carolina (Raleigh) and an honor graduate in 1914 of Shaw University, where he played on the baseball nike and was class president and president of the Student's Union.\n\nAlthough May Yergan will not be thirty years of age until next year, the story of his life is a veritable romance. It is so his friends point out, because the passionate ambition of his life has been to serve his fellowmen. At a Y. M. C. A. conference of Colored students at King's Mountain, N. C., during his college days, Max and some of his friends climbed to the peak of Kings' Mountain and there after traversing together, each one-dedicated himself to go wherever he believed had how several times by sun stroke God-wished him to go in work of Christian service. Three of those young men, including Yergan, have since been called into tasks of Christian leadership."
+    },
+    {
+      "bbox": [
+        830,
+        2303,
+        1081,
+        2448
+      ],
+      "label": "text",
+      "text": "At the International Convention of the Y/M.C.A. in Cleveland in 1916, J. Baird an appeal made for volunteers to go to fast Africa, where the work involved extraordinary hardships. He reached there after a brief stay in India, where he made work on orchids, but he was urged to return there eventually for a permanent service. He finally reached Germany."
+    },
+    {
+      "bbox": [
+        1068,
+        91,
+        1321,
+        171
+      ],
+      "label": "text",
+      "text": "East Africa, on board a troop ships and three served with both white and colored soldiers for many months suffering many hardships and being leased by several times by sun stroke and fever."
+    },
+    {
+      "bbox": [
+        1068,
+        169,
+        1322,
+        276
+      ],
+      "label": "text",
+      "text": "No loss a pioneer, Susie Wiseman\nVergan, also a product of Swau\nUniversity, where she taught for three\nyears following graduation. Is pre-\npending to accompany her husband in\nthe long voyage. They expect to re-\nmain in South Africa six years be-\nfore returning."
+    },
+    {
+      "bbox": [
+        1073,
+        283,
+        1321,
+        370
+      ],
+      "label": "doc_title",
+      "text": "MANY REPRESENTATIVES SUPPORT THE FEDERAL ANTI-LYNCHING BILL"
+    },
+    {
+      "bbox": [
+        1073,
+        283,
+        1321,
+        370
+      ],
+      "label": "paragraph_title",
+      "text": "MANY REPRESENTATIVES SUPPORT THE FEDERAL ANTI-LYNCHING BILL"
+    },
+    {
+      "bbox": [
+        1066,
+        382,
+        1330,
+        1316
+      ],
+      "label": "text",
+      "text": "The National Association for the Advancement of Colored People, 70 Fifth Avenue, New York, today made public reports of many representatives in Congress to a letter sent to them asking for a statement of their position on the Dyer Federal Anti-Lynching Bill, H. R. 13.\n\nAmong the many replies received were the following:\n\n\"I am in favor of the enactment of the Dyer Anti-Lynching Bill, known as H. R. 31 into law.\"\n\nM. O. McLaughlin (Nebraska)\n\n\"I am heartily in favor of the Dyer Anti-Lynching"
+    },
+    {
+      "bbox": [
+        1079,
+        1325,
+        1329,
+        1381
+      ],
+      "label": "paragraph_title",
+      "text": "UNVEILS BRONZE TABLEZ TO HAMPTON HEROES"
+    },
+    {
+      "bbox": [
+        1078,
+        1395,
+        1331,
+        1554
+      ],
+      "label": "text",
+      "text": "The Associated-Negro Press\nHAMPTON. Va. Nov. 27. \"The world's greatest heroes are not those who have hungered and thirsted for fame,\" declared Dr. James E. Gress, principal of Hampton Institute, in his Arnoldis Day address, which was delivered at the unveiling, in the vestibule of the Memorial Church, of a handsome bronze tablet \"in memory of the men from Hampton Institute who died in the World War.\""
+    },
+    {
+      "bbox": [
+        1095,
+        1553,
+        1327,
+        1577
+      ],
+      "label": "text",
+      "text": "List of Hampton Men Who Died\nIn the World War"
+    },
+    {
+      "bbox": [
+        1080,
+        1573,
+        1338,
+        2281
+      ],
+      "label": "text",
+      "text": "L. Ralph, K. Need, i.instructor, entered Service Dec. 10, 1917, 23rd Infantry, 23rd Division, Hunc, Mont., Oct. 23, 1918, awarded the Croix de Guerre with Palm. For conspicuous gallantry in action; Sergeant Rufus C. Stokes, 367 Inf. Class of 1917, Camp Upton, N. Y. Mar. 19, 1918; Sergeant Upton, K. Young, 21 Tr. Br., Class 1914; Camp-Lace, Va. Jan. 29, 1918; Sergeant Garron, Wright, France, Sept. 19, 1918; Sergeant Waldrum, France, 12 Tr. Br. Camp Sherman, O. Oct. 10, 1918; Corp. Joseph Metosen, 9 Am. Tr. Camp McChelan-Ala. Jan. 11, 1919; Charles W. Bailey U. S. S. Virginia. Camp Devens, Mass., Sept. 20, 1918; Samuel H. Booker, 152 Dep. Camp Upton, N. Y. Oct. 10, 1918; Booker T. W. Griffin, 540 Eng. France, Dec. 26, 1918; Marins C. Lemon, 545 Eng. France, Oct. 16, 1918; Romie T. Skidelsky, and another by William Anthony Avery, \"Negro Teachers Cooperate in South, Carolina,\" which gives an account of the summer conference with the author of a history of that school. Those interested in work for girls will find two helpful articles, one on \"Home Economies for Negro Girls\" by Carry A. Lyford, and the other, \"American games for Girls\" by Melvin R. Gilmore.\n\nThe Inter-special Commission, the Negro Organization Society, the Employment Conference, the National Negro Business League, and the Student Editorial Council confer with editorial officers a mode of the excellent work of the Philadelphia Armstrong Association and of the exhibits sent by the Agricultural school of Hampton Institute to the Virginia fall this fall."
+    },
+    {
+      "bbox": [
+        1087,
+        2288,
+        1337,
+        2322
+      ],
+      "label": "paragraph_title",
+      "text": "CLOSE TIMES HIT ORPHANAGE\nHEAVY BLOW."
+    },
+    {
+      "bbox": [
+        1085,
+        2324,
+        1339,
+        2446
+      ],
+      "label": "text",
+      "text": "The close times and informal population, have dealt the Christian Home Orphanage of Council Bluffs, Iowa, a heavy blow. This institution cures for an average of 250 little children. It also conducts a department for children in a department for deprived and criminal children. The institution was founded"
+    },
+    {
+      "bbox": [
+        1325,
+        80,
+        1576,
+        405
+      ],
+      "label": "text",
+      "text": "60 in 1902, and since that time has provided for an average of 500 homeless, people annually. The institution is at present struggling under a heavy debt and with winter at hand, and calls from the needy rapidly increase, efforts are being made to wipe the debt by a Thanksgiving begging. This institution is the only one that hundreds of destitute children and aged women women know. The Home is supported entirely by voluntary contributions of charitable people. It receives children from any part of the country, employs no tracing agents and is absolutely non-sectarian. This great institution needs your help now. Send them a Thanksgiving donation and help them pay off the old debts and care for many hundreds who will seek food and shelter there this winter. All dress. The Christian Home Orphanage Council Bluffs, Iowa."
+    },
+    {
+      "bbox": [
+        1329,
+        411,
+        1579,
+        470
+      ],
+      "label": "paragraph_title",
+      "text": "CENTER OF MEDICAL ACTIVITY IS IN THE DIST. OF COLUMBIA"
+    },
+    {
+      "bbox": [
+        1329,
+        490,
+        1579,
+        629
+      ],
+      "label": "text",
+      "text": "The Associated Negro Press\nWASHINGTON, D. C. Nov. 23-\nPraise has been given the work of the\nFreshman's Hospital of Washington,\nwhich is under the management of\nSurgonet chief of Warfield,\nAssistant Surgeon Thomas E.\nJones. The Freedman's Hospital is\nthe largest hospital in the United\nStates which is under the management\nof Colored men."
+    },
+    {
+      "bbox": [
+        1330,
+        628,
+        1580,
+        967
+      ],
+      "label": "text",
+      "text": "Among the institutions of the District of Columbia which were given a place on the \"approved list\" of the hospitals of the United States and Canada, the Freedman's Hospital was included along with the Garthold Memorial Hospital the George Washington University Hospital, the Georgetown University Hospital, the George Washington Hospital, and the Central Dispensary and Emergency Hospital. Dr Franklin H. Martin, secretary general of the American College of Surgeons, declared \"the institutions above proved that they are giving the best of scientific medical care to their patients.\" \"Aided by one of the great educational foundations, we have carried on actual visits to hospitals, made by trained medical men who see working conditions as they are, our report for 1921 showed that our hospitals with regards to service, the country over, and places the District of Columbia in the forefront of states which are active in medical progress.\""
+    },
+    {
+      "bbox": [
+        1336,
+        977,
+        1581,
+        1062
+      ],
+      "label": "paragraph_title",
+      "text": "HARVARD PROFESSOR HAS NOTABLE GATHERING ON \"RACIAL CO-OPERATION\""
+    },
+    {
+      "bbox": [
+        1333,
+        1074,
+        1588,
+        1579
+      ],
+      "label": "text",
+      "text": "Eugene Kincide Jones Among TIGE\nGuests Entertained.\n\nAssociated Negro Press\nNEW YORK CITY: Nov. 23.-Last week\u62a5, Paul J. Sacks of the Egger Art Museum of Harvard University, and Treasurer of the Cambridge Union League had a notable gathering of professors of Harvard University. Deans of Colleges and their wives together with many leading citizens of Boston at his home, \"Shady Hill\" III, learned about the importance of learning at first hand what is being done throughout the country by leading social service movements to establish justice for all and to secure larger opportunity for the Negro.\n\nThe principal speakers were Eugene Kincide Jones, Executive Secretary of the National Urban Lenge and Moore Field Storey, former President of the Par Association and President of the National Association for the Advancement of Colored People. Mr. Wm. A. Lee Secretary of the Cambridge Flight Station and an outline of the accomplishments for the past year an obituary for the extension during the ongoing fiscal year.\n\nAmong those present were Mr. and Mrs. Paul J. Sacks, John L. E. R. Briggs, Mr. and Mrs. John F. Moore, Mrs Alice Taplay, Miss Louise W. Brooks, and Prof. Albert Busschuh Hirr."
+    },
+    {
+      "bbox": [
+        1337,
+        1590,
+        1584,
+        1680
+      ],
+      "label": "paragraph_title",
+      "text": "U. S. Senate Committee Goes To Haiti And Will Continue Investigations"
+    },
+    {
+      "bbox": [
+        1338,
+        1692,
+        1589,
+        1960
+      ],
+      "label": "text",
+      "text": "The Associated Negro Press\nWASHINGTON, D. C. Nov. 23.\u2014The Committee of United States Senators, headed by Senator Medill M. Cornick, Republican, Illinois, have sailed for Haiti, on a United States Cruiser, where for one month they will purchase their investigations of conditions in the Island Republic. In an interview for the As Associated Negro Press, Senator McCormick said before sailing: \"We are very anxious to bring about happier relations in Haiti. There are fifteen years for the treaty. We desire to be helpful in Haiti we have been in the Philippines. There are room for much constructive work and all should join in bringing it to an accomplishment.\""
+    },
+    {
+      "bbox": [
+        1590,
+        628,
+        1834,
+        671
+      ],
+      "label": "paragraph_title",
+      "text": "Full Jointed Composition Distinctive Beauty"
+    },
+    {
+      "bbox": [
+        1586,
+        825,
+        1834,
+        919
+      ],
+      "label": "text",
+      "text": "The H. A. SMITH\nFURNISHING GOODS CO.\n2343 Market-4267 W. Finney\nST. LOUIS, MO"
+    },
+    {
+      "bbox": [
+        1617,
+        960,
+        1812,
+        1020
+      ],
+      "label": "paragraph_title",
+      "text": "Do You Need Money?"
+    },
+    {
+      "bbox": [
+        1601,
+        1041,
+        1827,
+        1365
+      ],
+      "label": "text",
+      "text": "Is your income large enough to all the demands put upon it?\nIf not, let us show you how you may easily increase your income during your little months, looking after the interest of the 'Clean Sweep Broom in your locality.\n$25.00 to $50.00 may be earned each month, without interfering with your regular work.\nCall, write or phone.\n\nA. W. LLORO, President\nCLEAN SWEEP BROOM\nMANUFACTURING CO.\nPHONE BOMONT 1451\n3137 PINE ST.\nST. LOUIS, MO."
+    },
+    {
+      "bbox": [
+        1592,
+        1440,
+        1842,
+        1462
+      ],
+      "label": "paragraph_title",
+      "text": "Why Suffer With Headache"
+    },
+    {
+      "bbox": [
+        1590,
+        1470,
+        1855,
+        1963
+      ],
+      "label": "text",
+      "text": "When It Can Be Curied with Properly Fitted Glasses?\n\nWhen you have that dull ache in the front and lack of the head you become pererous and irritable and very often melancholy, with a desire to be alone, it is then time to have your eyes examined.\n\nDefective eyes are often the cause of many other bodily lils, therefore it pays to have your eyes examined at least once a year. You have the advantage of my five years experience in this particular line. Stop in and have your eyes examined today. I make no charges for examination. It is FREE.\n\nI retry a complete line of eygeless and spectacles of the very latest to select from.\n\nDR. A. S. MORGAN\nOptometrist and Optician\n1912 N. SARAH ST.\nPhone Lindell 6220. Near West Belle\n\nIs not the day at hand when we shall produce more men of intellectual strength and fewer educated cocombs?\n\nWe would discover Self comes second in Japan."
+    }
+  ]
+}

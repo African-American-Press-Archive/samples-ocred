@@ -5,93 +5,13 @@
 <meta name="ocr-system" content="GLM-OCR via MLX + PP-DocLayout_plus-L">
 <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line">
 <title>nashville-globe_1910-01-21 — Page 5</title>
+<link rel="stylesheet" href="../viewer.css">
 <script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1/build/openseadragon/openseadragon.min.js"></script>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: 'Georgia', 'Times New Roman', serif; background: #f4f1eb; color: #2a2a2a; overflow: hidden; }
-
-  /* Header */
-  #header {
-    height: 44px; background: #2a2622; color: #e8e0d4; border-bottom: 2px solid #8b7355;
-    display: flex; align-items: center; padding: 0 16px; gap: 12px;
-  }
-  #header h1 { font-size: 14px; font-weight: 600; letter-spacing: 0.3px; }
-  #header .nav { font-size: 18px; display: flex; gap: 8px; }
-  #header .nav a { color: #c9b896; text-decoration: none; padding: 2px 6px; border-radius: 3px; }
-  #header .nav a:hover { background: rgba(255,255,255,0.1); }
-  #header .dis { color: #5a5248; padding: 2px 6px; }
-  #header .page-info { font-size: 12px; color: #9a8b74; }
-  #header .spacer { flex: 1; }
-  #header .controls { display: flex; gap: 10px; align-items: center; }
-  #header .controls label { font-size: 12px; color: #9a8b74; cursor: pointer; user-select: none; }
-  #header .controls input { cursor: pointer; }
-  .idx-link { color: #c9b896; text-decoration: none; font-size: 12px; padding: 3px 8px;
-    border: 1px solid #5a5248; border-radius: 3px; }
-  .idx-link:hover { background: rgba(255,255,255,0.1); border-color: #8b7355; }
-
-  /* Split layout */
-  #split { display: flex; height: calc(100vh - 44px); }
-  #image-pane { flex: 1; min-width: 0; background: #e8e0d4; position: relative; }
-  #viewer { width: 100%; height: 100%; }
-  #text-pane {
-    width: 420px; min-width: 320px; max-width: 50vw;
-    overflow-y: auto; padding: 24px 28px;
-    background: #faf8f4; border-left: 1px solid #d4cabb;
-    font-size: 15px; line-height: 1.7;
-  }
-  #text-pane::-webkit-scrollbar { width: 6px; }
-  #text-pane::-webkit-scrollbar-thumb { background: #c9b896; border-radius: 3px; }
-
-  /* Text blocks */
-  .block-title { font-size: 22px; font-weight: 800; margin: 20px 0 10px; line-height: 1.3;
-    font-family: 'Georgia', serif; color: #1a1a1a; cursor: pointer;
-    padding: 4px 0; border-bottom: 2px solid #8b7355; }
-  .block-title:first-child { margin-top: 0; }
-  .block-subtitle { font-size: 17px; font-weight: 700; margin: 18px 0 8px; line-height: 1.3;
-    font-family: 'Georgia', serif; color: #3a3020; cursor: pointer; }
-  .block-text { margin: 8px 0; cursor: pointer; color: #3a3020; }
-  .block-text:hover, .block-title:hover, .block-subtitle:hover { background: rgba(139,115,85,0.08); border-radius: 3px; }
-  .block-highlight { background: rgba(139,115,85,0.15) !important; border-radius: 3px;
-    outline: 2px solid rgba(139,115,85,0.3); outline-offset: 2px; }
-
-  /* Resize handle */
-  #resize-handle {
-    width: 5px; cursor: col-resize; background: #d4cabb;
-    transition: background 0.15s; flex-shrink: 0;
-  }
-  #resize-handle:hover, #resize-handle.active { background: #8b7355; }
-
-  /* Image overlays */
-  .region-overlay {
-    position: absolute; cursor: pointer;
-    border: 1.5px solid transparent;
-    transition: border-color 0.15s, background 0.15s;
-  }
-  .region-overlay:hover, .region-overlay.active {
-    border-width: 2px;
-  }
-  .show-boxes .region-overlay {
-    border-color: var(--border-color); background: var(--bg-color);
-  }
-  .show-boxes .region-overlay:hover, .show-boxes .region-overlay.active {
-    background: var(--bg-hover);
-  }
-
-  /* hOCR (hidden) */
-  .ocr_page { display: none; }
-
-  @media (max-width: 768px) {
-    #split { flex-direction: column; }
-    #image-pane { height: 50vh; }
-    #text-pane { width: 100%; max-width: 100%; height: 50vh; }
-    #resize-handle { display: none; }
-  }
-</style>
 </head>
 <body>
 <div id="header">
   <h1>nashville-globe_1910-01-21</h1>
-  <div class="nav"><a href="page_04.html" title="Previous page (Left arrow)">&larr;</a> <a href="page_06.html" title="Next page (Right arrow)">&rarr;</a></div>
+  <div class="nav"><a href="page_04.html">&larr;</a> <a href="page_06.html">&rarr;</a></div>
   <span class="page-info">Page 5 of 8</span>
   <div class="spacer"></div>
   <div class="controls">
@@ -99,7 +19,6 @@
   </div>
   <a href="index.html" class="idx-link">Index</a>
 </div>
-
 <div id="split">
   <div id="image-pane"><div id="viewer"></div></div>
   <div id="resize-handle"></div>
@@ -107,8 +26,6 @@
     <h2 class="block-title" data-idx="0">A Monster Clothing Movement</h2><p class="block-text" data-idx="1">Our entire line of High-Grade Suits and Overcoats, for Men and Boys, is thrown into the greatest sacrifice sale in the history of this firm. Our new spring stock is arriving daily. We are compelled to sell out our present stock to make room for these goods.</p><h3 class="block-subtitle" data-idx="2">ALL SUITS AND OVERCOATS FOR MEN AND BOYS</h3><h3 class="block-subtitle" data-idx="3">THE STOCK IS NOW READY FOR SELLING</h3><p class="block-text" data-idx="4">We will bend every energy to close out this entire stock in the shortest time possible. SO DON&#x27;T DELAY. COME TODAY.</p><p class="block-text" data-idx="5">Terms Cash</p><p class="block-text" data-idx="6">Men&#x27;s and Youths Overcoats, Rain Coats, Top Coats</p><p class="block-text" data-idx="7">325<br>UNION<br>STREET</p><p class="block-text" data-idx="8">Our original prices are plainly marked. No changes or &quot;Sale Prices&quot; on our price tickets. Just figure 1-3 off the original prices yourself, thus making your own prices.</p><p class="block-text" data-idx="9">Glothiers, Hatters and Furnishers</p><h3 class="block-subtitle" data-idx="10">Men&#x27;s and Youths&#x27; Suits</h3><p class="block-text" data-idx="11">BOYS&#x27; OVERCOATS and TOP COATS SAME PRICES AS ABOVE.</p><p class="block-text" data-idx="12">Terms Cash</p><h3 class="block-subtitle" data-idx="13">Men&#x27;s Odd Trousers</h3><p class="block-text" data-idx="14">In this lot you will find such good values that it will pay you to buy now. An extra or two pairs of trousers are always in order.</p><p class="block-text" data-idx="15">325<br>UNION<br>STREET</p>
   </div>
 </div>
-
-<!-- hOCR (machine-readable) -->
 <div class="ocr_page" id="page_1" title="bbox 0 0 1760 2800; image images/page_05.jpg; ppageno 4">
 <div class="ocr_carea" title="bbox 148 251 1541 393" data-label="doc_title"><p class="ocr_par"><span class="ocr_line">A Monster Clothing Movement</span></p></div><div class="ocr_carea" title="bbox 201 489 1489 812" data-label="text"><p class="ocr_par"><span class="ocr_line">Our entire line of High-Grade Suits and Overcoats, for Men and Boys, is thrown into the greatest sacrifice sale in the history of this firm. Our new spring stock is arriving daily. We are compelled to sell out our present stock to make room for these goods.</span></p></div><div class="ocr_carea" title="bbox 411 843 1284 1040" data-label="paragraph_title"><p class="ocr_par"><span class="ocr_line">ALL SUITS AND OVERCOATS FOR MEN AND BOYS</span></p></div><div class="ocr_carea" title="bbox 243 1238 1475 1332" data-label="paragraph_title"><p class="ocr_par"><span class="ocr_line">THE STOCK IS NOW READY FOR SELLING</span></p></div><div class="ocr_carea" title="bbox 169 2135 1563 2225" data-label="text"><p class="ocr_par"><span class="ocr_line">We will bend every energy to close out this entire stock in the shortest time possible. SO DON&#x27;T DELAY. COME TODAY.</span></p></div><div class="ocr_carea" title="bbox 185 1116 459 1185" data-label="text"><p class="ocr_par"><span class="ocr_line">Terms Cash</span></p></div><div class="ocr_carea" title="bbox 181 1394 507 1572" data-label="text"><p class="ocr_par"><span class="ocr_line">Men&#x27;s and Youths Overcoats, Rain Coats, Top Coats</span></p></div><div class="ocr_carea" title="bbox 196 2338 317 2519" data-label="text"><p class="ocr_par"><span class="ocr_line">325
 UNION
@@ -116,110 +33,13 @@ STREET</span></p></div><div class="ocr_carea" title="bbox 503 1094 1200 1213" da
 UNION
 STREET</span></p></div>
 </div>
-
 <script>
 const REGIONS = [{"bbox": [148, 251, 1541, 393], "label": "doc_title", "text": "A Monster Clothing Movement", "order": 0}, {"bbox": [201, 489, 1489, 812], "label": "text", "text": "Our entire line of High-Grade Suits and Overcoats, for Men and Boys, is thrown into the greatest sacrifice sale in the history of this firm. Our new spring stock is arriving daily. We are compelled to sell out our present stock to make room for these goods.", "order": 1}, {"bbox": [411, 843, 1284, 1040], "label": "paragraph_title", "text": "ALL SUITS AND OVERCOATS FOR MEN AND BOYS", "order": 2}, {"bbox": [243, 1238, 1475, 1332], "label": "paragraph_title", "text": "THE STOCK IS NOW READY FOR SELLING", "order": 3}, {"bbox": [169, 2135, 1563, 2225], "label": "text", "text": "We will bend every energy to close out this entire stock in the shortest time possible. SO DON'T DELAY. COME TODAY.", "order": 4}, {"bbox": [185, 1116, 459, 1185], "label": "text", "text": "Terms Cash", "order": 5}, {"bbox": [181, 1394, 507, 1572], "label": "text", "text": "Men's and Youths Overcoats, Rain Coats, Top Coats", "order": 6}, {"bbox": [196, 2338, 317, 2519], "label": "text", "text": "325\nUNION\nSTREET", "order": 7}, {"bbox": [503, 1094, 1200, 1213], "label": "text", "text": "Our original prices are plainly marked. No changes or \"Sale Prices\" on our price tickets. Just figure 1-3 off the original prices yourself, thus making your own prices.", "order": 8}, {"bbox": [566, 2480, 1165, 2542], "label": "text", "text": "Glothiers, Hatters and Furnishers", "order": 9}, {"bbox": [526, 1392, 848, 1527], "label": "paragraph_title", "text": "Men's and Youths' Suits", "order": 10}, {"bbox": [881, 1987, 1203, 2094], "label": "text", "text": "BOYS' OVERCOATS and TOP COATS SAME PRICES AS ABOVE.", "order": 11}, {"bbox": [1259, 1107, 1523, 1174], "label": "text", "text": "Terms Cash", "order": 12}, {"bbox": [1254, 1390, 1506, 1522], "label": "paragraph_title", "text": "Men's Odd Trousers", "order": 13}, {"bbox": [1218, 1543, 1544, 1684], "label": "text", "text": "In this lot you will find such good values that it will pay you to buy now. An extra or two pairs of trousers are always in order.", "order": 14}, {"bbox": [1425, 2339, 1546, 2518], "label": "text", "text": "325\nUNION\nSTREET", "order": 15}];
 const imgW = 1760;
-
-const COLORS = {
-  doc_title:       { bg: "rgba(180,60,60,0.12)", hover: "rgba(180,60,60,0.22)", border: "rgba(180,60,60,0.5)" },
-  paragraph_title: { bg: "rgba(60,90,160,0.12)", hover: "rgba(60,90,160,0.22)", border: "rgba(60,90,160,0.5)" },
-  text:            { bg: "rgba(80,120,60,0.10)", hover: "rgba(80,120,60,0.20)", border: "rgba(80,120,60,0.4)" },
-  figure_title:    { bg: "rgba(160,110,40,0.12)", hover: "rgba(160,110,40,0.22)", border: "rgba(160,110,40,0.5)" },
-};
-
-// --- OpenSeadragon ---
-const viewer = OpenSeadragon({
-  id: "viewer",
-  prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@4.1/build/openseadragon/images/",
-  tileSources: { type: "image", url: "images/page_05.jpg" },
-  showNavigationControl: true,
-  maxZoomPixelRatio: 4,
-  animationTime: 0.3,
-  gestureSettingsMouse: { clickToZoom: false },
-});
-
-const overlays = [];
-const textBlocks = document.getElementById("text-pane").querySelectorAll("[data-idx]");
-
-viewer.addHandler("open", function() {
-  REGIONS.forEach((r, i) => {
-    const [x1, y1, x2, y2] = r.bbox;
-    const c = COLORS[r.label] || COLORS.text;
-    const el = document.createElement("div");
-    el.className = "region-overlay";
-    el.dataset.idx = i;
-    el.style.setProperty("--bg-color", c.bg);
-    el.style.setProperty("--bg-hover", c.hover);
-    el.style.setProperty("--border-color", c.border);
-
-    el.addEventListener("click", () => highlightRegion(i));
-
-    const rect = new OpenSeadragon.Rect(x1/imgW, y1/imgW, (x2-x1)/imgW, (y2-y1)/imgW);
-    viewer.addOverlay({ element: el, location: rect });
-    overlays.push(el);
-  });
-  document.getElementById("viewer").classList.toggle("show-boxes", document.getElementById("toggleBoxes").checked);
-});
-
-// --- Click text block → zoom to region on image ---
-textBlocks.forEach(el => {
-  el.addEventListener("click", () => {
-    const idx = parseInt(el.dataset.idx);
-    highlightRegion(idx);
-    // Zoom to the region on the image
-    const r = REGIONS[idx];
-    const [x1, y1, x2, y2] = r.bbox;
-    const rect = new OpenSeadragon.Rect(x1/imgW, y1/imgW, (x2-x1)/imgW, (y2-y1)/imgW);
-    viewer.viewport.fitBounds(rect.rotate(0), false);
-  });
-});
-
-let activeIdx = -1;
-function highlightRegion(idx) {
-  // Clear old
-  overlays.forEach(o => o.classList.remove("active"));
-  textBlocks.forEach(t => t.classList.remove("block-highlight"));
-  // Set new
-  if (idx === activeIdx) { activeIdx = -1; return; }
-  activeIdx = idx;
-  if (overlays[idx]) overlays[idx].classList.add("active");
-  const tb = document.getElementById("text-pane").querySelector(`[data-idx="${idx}"]`);
-  if (tb) {
-    tb.classList.add("block-highlight");
-    const pane = document.getElementById("text-pane");
-    const top = tb.offsetTop - pane.offsetTop - pane.clientHeight / 2 + tb.clientHeight / 2;
-    pane.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
-  }
-}
-
-// --- Controls ---
-document.getElementById("toggleBoxes").addEventListener("change", (e) => {
-  document.getElementById("viewer").classList.toggle("show-boxes", e.target.checked);
-});
-
-// --- Keyboard nav ---
-document.addEventListener("keydown", (e) => {
-  if (e.key === "ArrowLeft" && 5 > 1) window.location = "page_04.html";
-  if (e.key === "ArrowRight" && 5 < 8) window.location = "page_06.html";
-});
-
-// --- Resize handle ---
-const handle = document.getElementById("resize-handle");
-const textPane = document.getElementById("text-pane");
-let resizing = false;
-handle.addEventListener("mousedown", (e) => {
-  resizing = true; handle.classList.add("active");
-  e.preventDefault();
-});
-document.addEventListener("mousemove", (e) => {
-  if (!resizing) return;
-  const w = document.body.clientWidth - e.clientX - 5;
-  textPane.style.width = Math.max(200, Math.min(w, document.body.clientWidth * 0.6)) + "px";
-});
-document.addEventListener("mouseup", () => {
-  resizing = false; handle.classList.remove("active");
-});
+const IMG_URL = "images/page_05.jpg";
+const PAGE_NUM = 5;
+const TOTAL_PAGES = 8;
 </script>
+<script src="../viewer.js"></script>
 </body>
 </html>
