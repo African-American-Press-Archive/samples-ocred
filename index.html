@@ -79,8 +79,8 @@
 
 <div class="controls">
   <input type="search" id="search" placeholder="Filter by newspaper name or date...">
-  <button class="sort-btn active" data-sort="name">A-Z</button>
-  <button class="sort-btn" data-sort="date">By Date</button>
+  <button class="sort-btn" data-sort="name">A-Z</button>
+  <button class="sort-btn active" data-sort="date">By Date</button>
   <button class="sort-btn" data-sort="paper">By Paper</button>
   <span class="count" id="count"></span>
 </div>
@@ -93,7 +93,7 @@
 
 <script>
 let issues = [];
-let currentSort = 'name';
+let currentSort = 'date';
 
 function parseIssue(name) {
   // e.g. "baltimore-afro-american_1915-09-25"
