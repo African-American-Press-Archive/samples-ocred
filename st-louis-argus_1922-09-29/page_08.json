@@ -1,0 +1,848 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 2114,
+  "height": 2719,
+  "regions": [
+    {
+      "bbox": [
+        187,
+        182,
+        358,
+        308
+      ],
+      "label": "text",
+      "text": "Business and Pro-\nCards, Business\nFor Sale or Rent\nStores, Flats, Help\nSituations Wanted,\nRooms, Rooms and\nper line; minimum"
+    },
+    {
+      "bbox": [
+        55,
+        352,
+        363,
+        2665
+      ],
+      "label": "text",
+      "text": "FOR RENT\u2014Two unfurnished rooms. Lindell 1746 M.\n\nFOR RENT\u2014Two garages, one brick, 4222 Enright. Phone Lindell 1022 W. (9-29-2).\n\nFOR RENT\u2014Nearly furnished room for gentelman or couple, 4472 Enright Ave. (9-29-2).\n\nFOR RENT\u2014Furnished room for two gentlemen, 4028 W. Belle. Lindell 4587 J. (9-29-4).\n\nFOR RENT\u2014Furnished rooms. Modern conveniences. Lindell 2611 M. 4066 Cook. (9-29-4).\n\nFOR RENT\u2014Two furnished rooms, $2.75 and $8.50 per week. Phone Lindell 5313 R. 3822 W. Belle.\n\nFOR RENT\u2014Nearly furni"
+    },
+    {
+      "bbox": [
+        366,
+        90,
+        653,
+        640
+      ],
+      "label": "text",
+      "text": "FOR RENT\u2014Front room with conveniences. 3216\u00bd Morgan St. (9-15-4)\n\nFOR RENT\u2014Furnished or unfurnished. 4318 Cook. Lindell 1505. (9-8-Ind)\n\nFOR RENT\u2014Neatly furnished rooms, newly decorated. 3117 Washington. (7-28-Ind.)\n\nFOR SALE\u2014On Washington Avenue, a twelve room rooming house all filled. Call Lindell 4079-W. (9-8-4)\n\nFOR RENT\u2014a room for gentleman in private family. All conveniences. 1049 Enright. Lindell 2633-J. (9-14-4)\n\nFOR RENT\u2014One unfurnished room for working couple. Kitchen privileges. Mrs. Z. Thomas. 4022a West Belle. (9-22-4)\n\nFOR RENT\u2014Furnished and unfurnished rooms. All modern conveniences. 908 N. Leonard avenue Bomont 2138-R. (9-22-2)\n\nFOR RENT\u2014Neatly furnished room in private family. All conveniences. Couple or single lady. Phone Lindell 3391-W. 4211 W. Belso. (9-22-2)\n\nSEE\u2014John Whitlock for special pipe fitting and plumbing work and repurging. Phone Lindell 1837. 4320 Washington Blvd. rear. (9-22-8)"
+    },
+    {
+      "bbox": [
+        460,
+        660,
+        543,
+        674
+      ],
+      "label": "paragraph_title",
+      "text": "PENSIONS"
+    },
+    {
+      "bbox": [
+        366,
+        688,
+        637,
+        718
+      ],
+      "label": "text",
+      "text": "All wars. J. S. Detwiler, 200 E. St.\nWashington, D. C."
+    },
+    {
+      "bbox": [
+        361,
+        774,
+        635,
+        888
+      ],
+      "label": "text",
+      "text": "We take care of you on First and\nSecond Loans at reasonable rates. See\nus for homes in our out-of-thecity\nimproved property, and lots in the\ncounty. Business address, 810 Chest-\nnut street! Phone, Main 5757. Residence,\n4422 Enright. Phone, Forest\n6564 W."
+    },
+    {
+      "bbox": [
+        425,
+        899,
+        568,
+        922
+      ],
+      "label": "paragraph_title",
+      "text": "AGENTS WANTED"
+    },
+    {
+      "bbox": [
+        356,
+        932,
+        630,
+        1066
+      ],
+      "label": "text",
+      "text": "MEN AND WOMEN: Establish an exclusive and permanent business of your own. Our products must give satisfaction or we promptly refund purchase price. Experience unnecessary sury, with energy and enthusiasm no trouble to earn $50 to $100 weekly. Write RED MING MFG. CO., 6th and Mound St., Cincinnati, Ohio. (9-15-4)"
+    },
+    {
+      "bbox": [
+        355,
+        1085,
+        627,
+        1114
+      ],
+      "label": "paragraph_title",
+      "text": "FOR SALE AT A BARGAIN"
+    },
+    {
+      "bbox": [
+        352,
+        1132,
+        627,
+        1218
+      ],
+      "label": "text",
+      "text": "3806 Cook Ave, eight room dwellings furnace heat, hot and cold water, bath ete. Lot 25x140. Part Cash, balance monthly like rent.Get card of admission from Mr. Betts. 1725 Morgan."
+    },
+    {
+      "bbox": [
+        352,
+        1231,
+        626,
+        1266
+      ],
+      "label": "paragraph_title",
+      "text": "BUSINESS PROPERTY STACK OR BONDS"
+    },
+    {
+      "bbox": [
+        351,
+        1274,
+        624,
+        1334
+      ],
+      "label": "text",
+      "text": "Get in Business or sell your stock bonds of property through the ST.\nLOUIS EXCHANGE, 709 Victoria Bidg.\n(8-25-10)"
+    },
+    {
+      "bbox": [
+        397,
+        1345,
+        578,
+        1366
+      ],
+      "label": "paragraph_title",
+      "text": "UPHOLSTERING"
+    },
+    {
+      "bbox": [
+        348,
+        1381,
+        623,
+        1455
+      ],
+      "label": "text",
+      "text": "Upholstering, refinishing, repairing\ndining chairs seats $1.25. Mattresses\nmade over. Get our prices. MASTERCRAFT UPHOLSTERING Shoppe\n1915. Olive St. Bonont 1454 (9-1-Ind)"
+    },
+    {
+      "bbox": [
+        441,
+        1471,
+        533,
+        1485
+      ],
+      "label": "paragraph_title",
+      "text": "TEACHERS"
+    },
+    {
+      "bbox": [
+        346,
+        1487,
+        619,
+        1556
+      ],
+      "label": "text",
+      "text": "We filled two good principalships\nthis week. Enroll with us. Mid\nMidwest Colored Teachers Bureau, P. O.\nBox 321, Jefferson City, Mo. (6.30-\nind.)"
+    },
+    {
+      "bbox": [
+        375,
+        1570,
+        595,
+        1586
+      ],
+      "label": "paragraph_title",
+      "text": "SANITARY SUBBER GOODS"
+    },
+    {
+      "bbox": [
+        338,
+        1598,
+        653,
+        2167
+      ],
+      "label": "text",
+      "text": "FOR SALE\nBEST BUSINESS BUILDING\nIN WEST END\nN. E. Corner\nWest Belle And Whittier\nSuitable For Any Business\nPRICE REASONABLE\nSMALL CASH DEPOSIT\nPhone, Forest 6281-7.\n\nCHURCHES\nSPIRITUAL CHRISTIAN UNION\nCHURCH\n2727 Lawton Avenue\nThe Spiritual Christian Union\nChurch. 2727 Lawton avenue, holds divine spiritual services every Sunday\nFriday and Tuesday with sermons and demonstration of the spirit forces. All services begin promptly at 8 p.m. J.\nS. Weatherford, rector, assisted by I.\nCooper, secretary\n(11-25 Ind)"
+    },
+    {
+      "bbox": [
+        343,
+        2188,
+        618,
+        2220
+      ],
+      "label": "paragraph_title",
+      "text": "REDEMPTION OF SOUTS\nSPIRITUALIST CHURCH"
+    },
+    {
+      "bbox": [
+        401,
+        2230,
+        554,
+        2244
+      ],
+      "label": "paragraph_title",
+      "text": "815 N. Beaumont St."
+    },
+    {
+      "bbox": [
+        338,
+        2241,
+        615,
+        2402
+      ],
+      "label": "text",
+      "text": "Order of Services, Sunday: Sunday School at 9 a. m.; Preaching 11 a. m. and 8 p. m.; Messages and Laying on hands; Rescue Club 6:30 to 7:30 p. m. Monday, Developing Class at 8 p. m.; Tuesday and Friday Scence 8 p. m.; Wednesday, Redemption Prayer Meeting 8 p. m.; Thursday Laying on of hands and messages. Mrs. Julia Y. Johnson, Oracle; Rev. Henry Green, pastor;"
+    },
+    {
+      "bbox": [
+        341,
+        2411,
+        612,
+        2430
+      ],
+      "label": "paragraph_title",
+      "text": "MT. CALVARY BAPTIST CHURCH"
+    },
+    {
+      "bbox": [
+        338,
+        2449,
+        613,
+        2554
+      ],
+      "label": "text",
+      "text": "Sunday School at 9:30. Preaching\nservices at 11:30 a.m. Our pastor\nread for a lesson 3rd Chapter of\nMatthew. Song and prayer by Pro-\nWilliams. We had a wonderfully\nspiritual meeting. Evening services\nwere good."
+    },
+    {
+      "bbox": [
+        338,
+        2553,
+        653,
+        2699
+      ],
+      "label": "text",
+      "text": "Mollie Wyatt, Reporter, Rev. J. W.\nFletcher, Pastor.\nLANE TARERNACLE\nNewstead and Euright\nMrs. Annie-Mac Payne, of 4925\nLawton avenue, member of Lane"
+    },
+    {
+      "bbox": [
+        641,
+        96,
+        929,
+        832
+      ],
+      "label": "text",
+      "text": "Tabernacle and daughter of Mrs. Laura Chapelle crossed the \"great divide\" and was laid to rest from Lane Tabernacle last Sunday afternoon. A mound of beautiful floral wreaths came from the organizations of which she was a faithful member. Among them was the Trustee Auxiliary Board of Lane Tabernacle, and the Court of Calantha, Rev. N. L. Smith said the flowers represented the quiet and beautiful life of the deceased. He paid high tribute to Mrs. Laura Chapelle, mother of Mrs. Payne who for many years has been an ardent worker of Senior Stewardess Board.\n\nJust as shocking as his sermons was the annual installation of Lane Tabernacle officials presided over by Presiding Elder William (Shocking Bill) Crane last Tuesday evening. It was the second time Dr. Crane had installed Lane Tabernacle officials and the most touching. The officials presented Dr. Crane with a cash present of $50.00.\n\nMen and women of Lane Tabernacle will contest one another in attendance and general collection Sunday morning and night. A special committee of ladies and gents will represent each side. The men's popularity contest promoted by the Good Samaritan club is growing rath or interesting. A group of ladies from the Good Samaritan Club will represent each centestant. The winner will receive a gold watch. Last Sunday closed three months hard work for the Sunday School. The Morning Star and Young Men's Bible Classes finished by dividing the banners. The Stars made 18 Gold stars for the quarter, the New Progressives made five and the young men made three.\n\nThe New Progressives made a strong attempt to take the Punctuality Banner at the opening of Sunday School last Sunday but failed"
+    },
+    {
+      "bbox": [
+        640,
+        843,
+        915,
+        861
+      ],
+      "label": "paragraph_title",
+      "text": "CENTENNIAL CHRISTIAN CHURCH"
+    },
+    {
+      "bbox": [
+        715,
+        872,
+        842,
+        889
+      ],
+      "label": "paragraph_title",
+      "text": "429 W. Kennerly"
+    },
+    {
+      "bbox": [
+        635,
+        888,
+        913,
+        1012
+      ],
+      "label": "text",
+      "text": "Rev. L. H. Crawford was in his best preaching mood in both services Sunday at his church and the three v'clock meeting at the Bell Glade Church. At that time the choir rendered their services also. Watch for the two big events soon to come: the carnival and the anniversary celebration."
+    },
+    {
+      "bbox": [
+        638,
+        1031,
+        909,
+        1064
+      ],
+      "label": "paragraph_title",
+      "text": "McPHEETERS MEMORIAL\nPRESHYTERIAN CHURCH"
+    },
+    {
+      "bbox": [
+        632,
+        1078,
+        911,
+        1223
+      ],
+      "label": "text",
+      "text": "Sunday, October 1st sermon at 11:00 A.M. \"The Cross our Hope and Glory.\" The church school, our obligation and opportunity. W. W. Buck, Superintendent. \"The Christian Endeavor our quality.\" Augustine Hall, President. Chas. E. Graves, Topic Leader. \"The Woman's Auxiliary our Joy.\" Lille, Lindsay, President."
+    },
+    {
+      "bbox": [
+        632,
+        1197,
+        909,
+        1225
+      ],
+      "label": "text",
+      "text": "\"The Woman's Auxiliary our Joy,\" Lillie Lindsay, President."
+    },
+    {
+      "bbox": [
+        648,
+        1236,
+        889,
+        1260
+      ],
+      "label": "paragraph_title",
+      "text": "CENTRAL BAPTIST CHURCH"
+    },
+    {
+      "bbox": [
+        622,
+        1267,
+        906,
+        1703
+      ],
+      "label": "text",
+      "text": "Pastor Stevens was present last Sunday morning but did not preach. Quite a large number of the parish was out to look in his face, if they could not shake his hand.\n\nRev. S. J. Branch held the congregation in rapt attention while he delivered the message from the text, \"He that saveth his life shall lose it; and he that loseth his life for my sake, shall save it.\" Sunday night his theme was \"God's attitude toward the pretender.\" He gives such wonderful messages that when we reflect, it is hard to determine which was the best.\n\nLast Friday night groups Nos. 19, 26 and 29 were out and conducted a lovely prayer meeting.\n\nThis coming Friday night, Groups Nos. 24, 25 and 28 will lead the Prayer and Praise Meeting.\n\nMonday night the presidents of groups, Deacons and Deaconsesses, met out to the Pastor's home for the purpose of formulating plans for the \"Mock Convention.\" to be held on the first ten days of November. A very enjoyable time was had. Refreshments were served to the delight of all."
+    },
+    {
+      "bbox": [
+        624,
+        1589,
+        903,
+        1646
+      ],
+      "label": "text",
+      "text": "Monday night the presidents of groups, Deceens and Deceensess, met out to the Pastor's homes for the purpose of formulating plans for the"
+    },
+    {
+      "bbox": [
+        622,
+        1704,
+        903,
+        1824
+      ],
+      "label": "text",
+      "text": "Sunday School is growing under the leadership of Bro. Jos, P. Harr, B. Y. P. C. listened to a very interesting Missionary Paper, read by one of its workers. Bro. G. W. King gave a Black Board illustration which was highly appreciated by the Union."
+    },
+    {
+      "bbox": [
+        625,
+        1838,
+        897,
+        1855
+      ],
+      "label": "paragraph_title",
+      "text": "MOUNT OLIVE BAPTIST CHURCH"
+    },
+    {
+      "bbox": [
+        622,
+        1869,
+        897,
+        2145
+      ],
+      "label": "text",
+      "text": "Good attendance. Scripture reading by Rev. Hill from acts 2:1-22. Prayer by Rev. Atterbury. Sacrament sermon by the pastor. 1:00 P. M. funeral of Bro. J. Williams was held at St. Paul Church. The funeral was largely attended. Bro. Williams was a faithful Christian 25 years and was a member of T. W. Stringer Lodge, K. of P. \"His brother, Mr. Dock Williams of Oklahoma City, attended the funeral *** The second anniversary of our pastor was celebrated Sept. 18th to 22nd. A splendid program every night. *** Madame Rhodia will lecture on Wednesday evening. Oct. 4 at 8:00 P. M. *** Mission Circle entertainment Saturday evening. Oct. 14 at 12:00 N. 15th St."
+    },
+    {
+      "bbox": [
+        652,
+        2156,
+        868,
+        2174
+      ],
+      "label": "paragraph_title",
+      "text": "SEVENTH CHURCH UNION"
+    },
+    {
+      "bbox": [
+        621,
+        2186,
+        894,
+        2327
+      ],
+      "label": "text",
+      "text": "The Seventh Church Union met Monday night at the U. P. B. Church, 2618 Laclede. Rev. Jackson, of St. Charles, preached a soul-stirring sermon. His subject was: \"What Evil Has He Done?\" The next meeting will be held at 23rd and Wash. Rev. Donaldson, Pastor; Rev. B. Roberson, President.\n\nSISTER L. FANER, Reporter"
+    },
+    {
+      "bbox": [
+        623,
+        2339,
+        894,
+        2358
+      ],
+      "label": "paragraph_title",
+      "text": "BEREAN PRESBYTERIAN CHURCH"
+    },
+    {
+      "bbox": [
+        616,
+        2379,
+        894,
+        2667
+      ],
+      "label": "text",
+      "text": "Next Sunday will be communion day. If Paul so appreciated the passover \"I must by all means keep this feast.\" Surely our appreciation of this feast, celebrating a greater deliverance, is greater.\n\nOur church is raising ten million dollars as a pension fund for the faith- servants of Jesus Christ when the shall have served the church at least thirty years. Mrs. Annie M. Malone has made a contribution of five hundred dollars to this fund. For a minister to know a modest pension is awaiting him is to rob the future of much of its spenace.\n\nThe men's meeting was lively and optimistic. All glad to see President Cohbert back."
+    },
+    {
+      "bbox": [
+        936,
+        102,
+        1214,
+        134
+      ],
+      "label": "text",
+      "text": "Praise is a high form of worship. That\ninward prompting\u2014how fine!"
+    },
+    {
+      "bbox": [
+        935,
+        132,
+        1213,
+        261
+      ],
+      "label": "text",
+      "text": "The session has put new guttering around the church, needed plumbing and other repairs done out of the rally. Contract has been let for work on the parsonage and for coal. Some of this is on faith that all pledges will be paid. Make preparations for coming to the Lord's table. \"Let a man examine himself.\""
+    },
+    {
+      "bbox": [
+        956,
+        273,
+        1181,
+        294
+      ],
+      "label": "paragraph_title",
+      "text": "UNION MEMORIAL NOTES"
+    },
+    {
+      "bbox": [
+        930,
+        304,
+        1209,
+        523
+      ],
+      "label": "text",
+      "text": "Do not forget the Sunday morning services start at 11 o'clock sharp. The organ prelude gets you into the spirit of the real services. Last Sunday was promotion day in the Sunday School. This Sunday will be raily day not only financially but also for memberships. If you have not started since your vacation, start this Sunday. Our meetings for the \"Diamond Jubilee\" are still in session Monday night for the older people and Friday nights for the young people. (Rev.) B. F. Abbott. pastor; (Miss) E. Smith, reporter."
+    },
+    {
+      "bbox": [
+        951,
+        535,
+        1180,
+        551
+      ],
+      "label": "paragraph_title",
+      "text": "SAMARITAN M. E. CHURCH"
+    },
+    {
+      "bbox": [
+        926,
+        564,
+        1203,
+        696
+      ],
+      "label": "text",
+      "text": "All churches and lodges are cordially invited to the cornerstone laying of the Sanmartan M. E. Church. 4168 W. Relle, Sunday next, October 1st at 2:00 P. M. Fing raising by Old Soldiers. Stone laid by Master Masons, and Knights Templar. J. S. GREGORY, Chairman; Rev. A. L. Reynolds, Pastor."
+    },
+    {
+      "bbox": [
+        943,
+        708,
+        1178,
+        723
+      ],
+      "label": "paragraph_title",
+      "text": "WAYMAN A. M. E. CHURCH"
+    },
+    {
+      "bbox": [
+        1004,
+        738,
+        1121,
+        751
+      ],
+      "label": "paragraph_title",
+      "text": "23rd and Wash"
+    },
+    {
+      "bbox": [
+        916,
+        752,
+        1199,
+        1144
+      ],
+      "label": "text",
+      "text": "A good attendance at Sunday School at 9:00 a.m. Prayer meeting, at 10:45, was conducted by Brother Palmer, Hyvann No. 226 was sung for the opening service at 11:00 a.m. Scripture lesson, 14th chapter of Numbers 1 to 10.\n\nThe pastor preached a wonderful and inspiring sermon to a large congregation. New members added, 4. Visiting preachers, 2. Local preachers present, 2.\n\nThe recital given at 3:00 p.m. by the Sunday School for the benefit of Christian Education was a grand success. Its beautiful solos, vocal and instrumental, and recitations so ably rendered were enjoyed by all present. Rev. Dr. Williams was present and responded with encouraging remarks on the success and good cause of the effort.\n\nA splendid sermon at 8:00 p.m. by Rev. Claybrook marked a day of splendid service and good attendance.\n\nREV. A. R. DOBBINS, Pastor.\nWM. E. BERRY, Reporter."
+    },
+    {
+      "bbox": [
+        917,
+        1156,
+        1191,
+        1216
+      ],
+      "label": "paragraph_title",
+      "text": "YOU ARE ALWAYS PROUD OF YOUR TOWN"
+    },
+    {
+      "bbox": [
+        917,
+        1156,
+        1191,
+        1216
+      ],
+      "label": "doc_title",
+      "text": "YOU ARE ALWAYS PROUD OF YOUR TOWN"
+    },
+    {
+      "bbox": [
+        910,
+        1227,
+        1188,
+        1637
+      ],
+      "label": "text",
+      "text": "Preston News Service:\nMost people boast of the things produced in their town. Did you ever stop to think of the thing in your town which does more to show the real progress you are making than anything else? If you have, we are sure that you soon found out that it was your newspaper. The way for an outsider to tell just how live and active the people of a town are is by observing their newspaper. If it is full of advertising, brimfull of news of progressive activity among our people; contains strong race achievement; and news of racial activity for betterment and development, you can bet your sweet life that the people of the town are wideawake. The editor cannot do this alone. You business men must give him your advertisements and pay for them; the readers must pay their subscriptions, and everybody must let the editor know what he or she is doing for race progress. Stand by your paper in a co-operative manner and let the world know you are doing big things in your town."
+    },
+    {
+      "bbox": [
+        909,
+        1644,
+        1184,
+        1708
+      ],
+      "label": "paragraph_title",
+      "text": "NATIONAL FOODS ARE AN INTERESTING STUDY"
+    },
+    {
+      "bbox": [
+        909,
+        1644,
+        1184,
+        1708
+      ],
+      "label": "doc_title",
+      "text": "NATIONAL FOODS ARE AN INTERESTING STUDY"
+    },
+    {
+      "bbox": [
+        896,
+        1725,
+        1183,
+        2675
+      ],
+      "label": "text",
+      "text": "Associated Negro Press.\nNEW HAVEN, Conn. Sept. 27.\u2014\"What people eat is becoming a most important question.\" declares the Scientist of Yale University in a recent discussion of this matter. Continuing this authority states:\n\"National foods are a most interesting study. Scotland's food is cats, taken in \"parrish\" form. Why oats? Because they are heating and Scotland is a cool country, Ireland's national food is the potato. Why? Because Irish soil suits its cultivation. England's national food is roast beef. Why? Well\u2014the English were ever a breechening race and the fighter always required red meat.\n\"The Hindu's natural food is rice, because it supplies in small form an extraordinary amount of energy and staying power. That is exactly what a hot country requires.\n\"The national food of Germany is pork\u2014in any form\u2014because pork is always the chosen food of the clever and stern.\n\"Our French friends have no outstanding national food but are the greatest vegetables in the world. That unfortunately, is a sign of loss of national virility. Historians and scientists have commented on the fact when investigating the decline and fall of nations.\n\"Italians like oily foods. That is they are not great meat eaters, and they make up the deficiency of protein and carbohydrates with oil.\n\"Russia's national food is rye. That is due to economic circumstances. It is easy to grow, cheap, and nourishing. It has been called \"serf food,\" and that explains much.\n\"America has national food; but it is queer to note how universal is the demand for prepared food, quickly eaten and quickly digested. That indicates the \"nation in a hurry.\"\nAs nothing is said to distinguish the Negro from the other American elements, it is a fair presumption to feel that, despite the \"color problems\" the colored man and brother is also \"in a hurry.\"\nAssociated Negro Press.\nMACON, Ga. Sept. 27.\u2014Federal Prohibition Agent Ed. Newberry and County Officer Wise Birdson and Will Mosley put in a profitable day when on their way to a fish fry they captured a Buick touring car, two Negroes and a gallon of whiskey and following the fish fry found and destroyed 40 gallon capacity still and 1000 gallons of smoker meat been"
+    },
+    {
+      "bbox": [
+        1226,
+        110,
+        1486,
+        139
+      ],
+      "label": "text",
+      "text": "IMPROVED UNIFORM INTERNATIONAL"
+    },
+    {
+      "bbox": [
+        1222,
+        141,
+        1490,
+        259
+      ],
+      "label": "doc_title",
+      "text": "SundaySchool Lesson"
+    },
+    {
+      "bbox": [
+        1221,
+        263,
+        1489,
+        319
+      ],
+      "label": "text",
+      "text": "(By REV. P. B. FITZWATER. D. D.\nTeacher of English Bible in the Moody\nBible Institute of Chicago).\nCopyright. 1922. Western Newspaper Union."
+    },
+    {
+      "bbox": [
+        1246,
+        334,
+        1460,
+        355
+      ],
+      "label": "paragraph_title",
+      "text": "LESSON FOR OCTOBER 1"
+    },
+    {
+      "bbox": [
+        1217,
+        367,
+        1488,
+        389
+      ],
+      "label": "text",
+      "text": "BIRTH OF JOHN THE BAPTIST"
+    },
+    {
+      "bbox": [
+        1216,
+        455,
+        1486,
+        481
+      ],
+      "label": "text",
+      "text": "REFERENCE MATERIAL-Isa. 40.3-5:\nMal. 3:4-6"
+    },
+    {
+      "bbox": [
+        1215,
+        478,
+        1486,
+        507
+      ],
+      "label": "text",
+      "text": "PRIMARY TOPIC-An Angel Brings\nGood News"
+    },
+    {
+      "bbox": [
+        1214,
+        506,
+        1486,
+        556
+      ],
+      "label": "text",
+      "text": "JUNIOR TOPIC\u2014The Birth of John the Baptist.\nINTERMEDIATE AND SENIOR TOPIC\u2014Proportion for the Congregation of Christ."
+    },
+    {
+      "bbox": [
+        1210,
+        535,
+        1485,
+        732
+      ],
+      "label": "text",
+      "text": "INTERMEDIATE AND SENIOR TOPIC\n- Preparation for the Coming of Christ.\n- YOUNG PEOPLE AND ADULT TOPIC\n- The Place and Work of John the Baptist.\n\nWe are today entering upon a six months' course of study in the Gospel of Luke, whose general subject is \"Jesus the World's Savior.\" Today's lesson concerns the birth of John the Baptist, the forerunner of Christ.\n\nI. The Parents of John the Baptist (iv, 5.7)"
+    },
+    {
+      "bbox": [
+        1185,
+        709,
+        1483,
+        2314
+      ],
+      "label": "text",
+      "text": "1. The Parents of John the Baptist (vv. 5-7).\n\n1. When They Lived (v. 5). \"In the days of Herod the King.\" They lived in a day when ungodliness was rife. The priesthood was very corrupt and the ruling classes were wicked. Zacharias and his wife lived in a time when it was not so easy to be godly.\n\n2. Their Character (v. 6). They were righteous before God. To be righteous before God is a high tribute. Many appear to be righteous before men who are not righteous before God. Their lives were so mated that they walked in the commandments of the Lord blameless. How beautiful it is when husband and wife are united in the Lord and walk together in fellowship with God.\n\n3. They Were Childless (v. 7). Though this godly couple were well mated and they possessed the joy of the Lord in their souls, there was a real lack in that home.\n\nII. The Birth of John Promised (vv. 8-17).\n\n1. By Whom (vv. 11; cf. v. 19). The angel Gabriel appeared and made known the good news to Zacharias. This exalted being, the special messenger of God, was sent to make this disclosure.\n\n2. When (vv. 8-14). While officiating as priest this good news came to him. Zacharias must have been definitely praying about this very matter (v. 13). As he burned incense, which typified prayer, the multitude without were praying.\n\n3. Characteristics of the Child (vv. 15-17). (1) Shall be great in the sight of the Lord (v. 15). Though the people did not greatly esteem him he was highly esteemed by the Lord. This is infinitely better than if he had been greatly esteemed in the eyes of men or in his own eyes. This is the esteem for which we all should long and pray. (2) Shall drink neither wine nor strong drink (v. 15). The child shall become a Nazarite, separating himself from the sensuous things and dedicating himself to the service of the Lord. (3) Be filled with the Holy Ghost (v. 15). The energy of the divine Spirit would enable him to lead the people to repentance (v. 16). (4) Shall go in the spirit and power of Elijah (v. 17). In this power he was to prepare the people for the coming of the Savior and the salvation which He was to bring.\n\nIII. Zacharias Asking for a Sign (vv. 18-23).\n\nAlthough the aged priest was earnestly praying for the salvation of Israel the gracious promise of the angel, which was the beginning of that salvation, staggered his faith. He was unable to believe that that for which he fondly hoped and prayed would be realized. The angel gave Zacharias a sign. He was smitten with dumbrex which was to continue until the fulfillment of the promise. Because he refused to praise God in faith for this gracious promise God caused his tongue to be silent until the promise was fulfilled and his lips could open in thanksgiving and praise. Though he was thus rebuked, at the same time his faith was strengthened by the manifestation of the supernatural God wants us to trust Him, to believe his promises, no matter how contrary to reason they may seem.\n\nIV. The Promise Fulfilled (vv. 57-63).\n\nWhen the time came for the birth of John, Elizabeth brought forth a son and the neighbors rejoiced with her. On the eighth day they circumcised the child and gave him a name according to the instruction of the angel (v. 13). The name John was contrary to the family custom. By means of writing Zacharias made known the name which he would have by divine instruction. At this time God opened the mouth of Zacharias and he offered up praise."
+    },
+    {
+      "bbox": [
+        1179,
+        2346,
+        1456,
+        2569
+      ],
+      "label": "text",
+      "text": "In my youth I thought of writing a satire on mankind; but now in my age I think I should write an apology for them\u2014Walpole.\n\nLenity and Mercy.\nWhen lenity and mercy play for a kingdom, the grifter gamester is the soonest winner\u2014Shakespeare.\n\nHeaven Often Smites.\nHeaven often smites in mercy, even when the blow is severest\u2014Joanna Bailille."
+    },
+    {
+      "bbox": [
+        1470,
+        290,
+        2040,
+        755
+      ],
+      "label": "text",
+      "text": "Lost Art Found in LILLY WHITE HAIR PREPARATIONS\n\nWE MANUFACTURE OUR OWN PREPARATIONS Will positively promote the growth of Hair in 3 months. Cures Tetter, Removes Dandruff and stops Hair from Falling out. Will make if Long Soft and Glossy. Phone, Bomont 1734w\n\nLilly White Hair Grower ..... 50\nAdelia Vanishing Cream ..... 35\nAdalia Face Powder ..... 50\nLilly White Special Oil ..... $1.00\nAGENTS WANTED\nMADAM A. D. GRAVES\n3351 Morgan St., St. Louis\n\nWILSON HAT WORKS\nAll Kinds of Old Hats Made New\nOne Day Service\n2316 MARKET STREET ST. LOUIS, MO."
+    },
+    {
+      "bbox": [
+        1757,
+        543,
+        2040,
+        755
+      ],
+      "label": "text",
+      "text": "WILSON HAT WORKS\nOne Day Service\nSTREET ST. LOUIS, MO."
+    },
+    {
+      "bbox": [
+        1611,
+        755,
+        1934,
+        851
+      ],
+      "label": "doc_title",
+      "text": "STRAIT-TEX\nHAIR TONIO"
+    },
+    {
+      "bbox": [
+        1470,
+        851,
+        1934,
+        1442
+      ],
+      "label": "text",
+      "text": "A Refining and Straightening Tenile for Primer\nKinky or Coarse, Stubborn Hair.\n\nWill Positively Refine, Straighten and Give Luster\nto the Hair in from Two to Three Applications.\n\nSEVEN REASONS WHY YOU SHOULD USE\nSTRAIT-TEX\n\n1. Straightens the hair and keeps it straight.\n2. Will not injure the hair or the scalp.\n3. Will not leave the hair greasy to sell your hair\nor collar.\n4. Refines and gives luster to your hair.\n5. It is mild and straightens the hair gently.\n6. Constant use does not harm the hair or scalp.\n7. You can treat your hair yourself.\n- Stop using pastes, creams or greases and use\nproven scientific preparation.\n\nIf your hairdresser or druggist cannot supply you\norder direct from us. Send $1.00 for a bottle of\nSTRAIT-TEX. Sent postpaid anywhere in the United\nStates.\n\nAGENTS WANTED; WRITE FOR TERMS\n\nThe Strait-Tex Chemical Company\n600 Fifth Avenue\nPittsburgh, Penn\n\nSTRAIT-TEX"
+    },
+    {
+      "bbox": [
+        1757,
+        851,
+        2040,
+        1446
+      ],
+      "label": "text",
+      "text": "Lightening Tonie for Primy,\nCorn Hair.\nStraighten and Give Luster\nto Three Applications.\n\nWHY YOU SHOULD USE\nSTRAIT-TEX\nand keeps it straight.\nhair or the scalp.\nhair greasy to sell your hat\nater to your hair.\nintens the hair gently.\nt harm the hair or scalp.\nhair yourself.\ngrams or greases and use a\ntion.\ndruggist cannot supply you.\nSend $1.00 for a bottle of\npaid anywhere in the United\n\nWRITE FOR TERMS\n\nChemical Company\nPittsburgh, Penna.\n\nT-TEX"
+    },
+    {
+      "bbox": [
+        1574,
+        873,
+        1954,
+        936
+      ],
+      "label": "text",
+      "text": "A Refining and Straightening Tonie for Friary,\nKinky or Coarse, Stubborn Hair.\nWill Positively Refine, Straighten and Give Luster\nto the Hair in from Two to Three Applications."
+    },
+    {
+      "bbox": [
+        1824,
+        1446,
+        2013,
+        1471
+      ],
+      "label": "paragraph_title",
+      "text": "Kln. Central 5532"
+    },
+    {
+      "bbox": [
+        1598,
+        1485,
+        1929,
+        1592
+      ],
+      "label": "doc_title",
+      "text": "PROSSER'S Furniture and Storage Co."
+    },
+    {
+      "bbox": [
+        1470,
+        1592,
+        1934,
+        1847
+      ],
+      "label": "text",
+      "text": "3318-30 Olive St., St. Louis\n\nNew and Used Furniture Floor Covering\nStoves and Ranges Talking N\n\n\"Credit to Reliable People\"\n\nMoving, Storage Packing, Shipping\n\nDon't Overlook Our Bargains. See\nSave Money\nWe loan money on Household goods stored in our Wareh"
+    },
+    {
+      "bbox": [
+        1757,
+        1592,
+        2040,
+        1847
+      ],
+      "label": "text",
+      "text": "St., St. Louls\nFloor Coverings\nTalking Machines\n\"Unable People\"\nPacking. Shipping\nArgains. See Us and\nMoney\nGoods stored in our Warehouse."
+    },
+    {
+      "bbox": [
+        1566,
+        1599,
+        1944,
+        1623
+      ],
+      "label": "text",
+      "text": "3318-30 Olive St., St. Louis"
+    },
+    {
+      "bbox": [
+        1500,
+        1738,
+        2007,
+        1791
+      ],
+      "label": "text",
+      "text": "Don't Overlook Our Bargains. See Us and Save Money We loan money on Household goods stored in our Warehouses"
+    },
+    {
+      "bbox": [
+        1470,
+        1847,
+        2040,
+        2535
+      ],
+      "label": "text",
+      "text": "The L. Erdle Bakery & Confectionery\nFRESH BAKED GOODS DAILY\n2806 MARKET STREET\n\nLouis Hencken, Grocer\n2601 Market St.\nHandles a First-class Line of Goods.\nNew Ribbon Cane and Sorghum\nMolasses.\n\nPROF. GLADSTONE\nSPIRIT MEDIUM\nReads your life from cradle to grave.\nReadings 50s\nHours 12 a.m to 3 p.m.\n6124 FASTON AVE.\n\n\"FORSHAW\"\nREPAIRS FOR\n\"ANY OLD\"\nSTOVE\n111 NORTH 12th STREET\nCENTRAL, L 2491-R MAIN 2043\n\nLEVY GREEN & BRO.\nCLOTHING CLEANED, DYED\nALTERED AND REPAIRED\nSecond Hand Clothing For Sale\nFULL DRESS SUITS FOR RENT\nSanitary, Steam Pressing\n612 MORGAN ST.\n\nThe East India Hair Grower\nWill Pre-\npare A Fall\nGrowth Of Hair.\nWill Also\nRestore\nThe Hair-\nthrough-\nthe\nVitality\nAnd\nThe\nLuxury\nOf The Hair.\nIF YOUR\nHAIR IS\nDRY AND\nWIRY TRY\nEast India\nHair Grower\nIf you are bothered by\nfalling Hair, massage it\ntaking Scalp, or any Hair Trou-\nbles we want you to try 3 or\n4 times India Hair Grower.\nThe race"
+    },
+    {
+      "bbox": [
+        1534,
+        249,
+        1774,
+        290
+      ],
+      "label": "text",
+      "text": "Hourn: 8 a m. to 4 p. m.\nMRS. LUCY W. LOWE-HUTT"
+    },
+    {
+      "bbox": [
+        1509,
+        414,
+        1766,
+        525
+      ],
+      "label": "text",
+      "text": "WE MANUFACTURE OUR\nOWN PREPARATIONS\nWill positively promote the growth\nof Hair in 3 months. Cures Tetter,\nRemoves Dandruff and stops Hair\nfrom Falling out. Will make if Long\nSoft and Gleesy.\nPhone: 1844"
+    },
+    {
+      "bbox": [
+        1505,
+        1442,
+        1665,
+        1466
+      ],
+      "label": "paragraph_title",
+      "text": "Bell Bom. 807"
+    },
+    {
+      "bbox": [
+        1470,
+        1985,
+        1740,
+        2237
+      ],
+      "label": "text",
+      "text": "Louis Hencken, Grocer\n2601 Market St.\nHandles a First-class Line of Goods.\nNew Ribbon Cane and Sorghum\nMolasses.\n\nPROF. GLADSTONE\nSPIRIT MEDIUM\nReads your life from\ncradle to grave.\nReadings 50s\nHours 12 noon to 3 p.m.\n6124 FASTON AVE."
+    }
+  ]
+}

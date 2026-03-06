@@ -1,0 +1,268 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2118,
+  "height": 2785,
+  "regions": [
+    {
+      "bbox": [
+        61,
+        205,
+        347,
+        242
+      ],
+      "label": "paragraph_title",
+      "text": "ENTERTAINING VAUDEVILLE AT\nBOOKER WASHINGTON THEATRE"
+    },
+    {
+      "bbox": [
+        57,
+        250,
+        348,
+        369
+      ],
+      "label": "text",
+      "text": "Frank Tauzel helps the vanderville program in a rush at the Booker Washington Theatre this week. He takes the house by storm and then puts over a parody and an eccentric daned. His monologue is full of fun and his song and dance finale is a good climax."
+    },
+    {
+      "bbox": [
+        57,
+        368,
+        345,
+        531
+      ],
+      "label": "text",
+      "text": "Bruce and Skinner is second with an excellent singing act, Madam Beatrix Bruce is featured in \"I'll Forget You\" and \"He Me May Be Your Man But He Calis To See Me Sometimes\", Mr. Skinner sings \"Love Will Find A Way\". As a duet: \"Leave Me With a Smile\" is especially commendable. Good singing voices that blend harmoniously make this a very pleasing combination."
+    },
+    {
+      "bbox": [
+        57,
+        530,
+        343,
+        736
+      ],
+      "label": "text",
+      "text": "La Joy and La Joy, the Jow and the Maid is a talented team. Mr. La Joy is one of the best characters impersonators on the stage. His works is so typically exact that one can hardly realize he is not in truth the character he depicts. Their opening is a sketch on the trials of a landlord and a tenant. Its brimming full of real humor. Mr. La Joy scores a hit with his dog song and the lady songs and dances herself into the favor of the audience. The team closes strong."
+    },
+    {
+      "bbox": [
+        55,
+        734,
+        342,
+        1020
+      ],
+      "label": "text",
+      "text": "Sparrow and Sparrow close the show.\nBennie Sparrow, the make member of this team, is an old. St. Louis boy and lays elgim to be the first local son to put on vandebeer here. This was in 1905 during the days of Preston's theatre. He left St. Louis in 1906 and his engagement this week is the first in sixteen years. He is a finished comedian and is scoring a big hit with a lively song and dance, followed with bark-like pathos. Mr. Sparrow then sing and does an eccentric dance that his funny bone. The female member scores a bit with \"Steffling\" and a good dance. The cycle of buck dancing, by the team at the end, leaves the hoist screaming."
+    },
+    {
+      "bbox": [
+        57,
+        1030,
+        339,
+        1066
+      ],
+      "label": "paragraph_title",
+      "text": "VEILED PROPHET WILL BE AT.\nJAZZLAND TUESDAY NIGHT"
+    },
+    {
+      "bbox": [
+        57,
+        1075,
+        345,
+        1195
+      ],
+      "label": "text",
+      "text": "The Fourth, Annual Velvet Prophet Ball will be given at Jazzfest next Tuesday night October 3. His mysterious honor. The Prophet will be the guest in the assemblage and salute the Queen and six maids who will rule over the spirit of joyfulness during the ensuing year."
+    },
+    {
+      "bbox": [
+        58,
+        1194,
+        343,
+        1240
+      ],
+      "label": "text",
+      "text": "The identity of the Prophet will remain a secret until the ceremonies which precede the Grand Ball."
+    },
+    {
+      "bbox": [
+        78,
+        1253,
+        336,
+        1275
+      ],
+      "label": "paragraph_title",
+      "text": "NEXT WEEK AT THE B. W."
+    },
+    {
+      "bbox": [
+        58,
+        1284,
+        345,
+        1522
+      ],
+      "label": "text",
+      "text": "Another good vaudeville program has been booked for the Basker Washington Theatre next week. On the bill will be Esther Bigean the talented singing soprano; Ollie Young with an entertaining novelty; Bell and Bell; and Rhodes and Jenkins two crack-a-jack doubles. Monday will be \"Pay Day\" for the patrons, when every one entering the theatre will receive an envelope containing some sum of money from 1c to $5. Trading stamps to $40 in value or passes. Tuesday nights first show will start just after the Velled Propet Parade passes the doors."
+    },
+    {
+      "bbox": [
+        71,
+        1533,
+        335,
+        1565
+      ],
+      "label": "paragraph_title",
+      "text": "THE PICTURE THEATRES"
+    },
+    {
+      "bbox": [
+        58,
+        1602,
+        350,
+        1809
+      ],
+      "label": "text",
+      "text": "\"Always The Woman,\" The Sheik of Araby\" And \"Don't Doubt Your Wife.\" At Star Bettie Compson in \"Always The Woman\" will be the feature at the Star Theatre this Saturday. It is a throbbing, pulsating picture queen of romance, with heroes and villains of various kinds, and races. Its settings are unusual and picture-size and afford a background to the rapid action which is always pleasing to the eye."
+    },
+    {
+      "bbox": [
+        63,
+        1808,
+        353,
+        1985
+      ],
+      "label": "text",
+      "text": "On Sunday, H. B. Warner will be seen in \"The Sheik of Aratry.\" The production depicts in vivid drama the sweep of the sands the color and picturesequences of the desert domains. It is loaded with gripping action and glowing romance. It is generally reported to be one of the best of all, the Sheik stories, the popularity of which among readers of fiction finds lovers of the photoplay has gripped the civilized world."
+    },
+    {
+      "bbox": [
+        62,
+        1983,
+        353,
+        2249
+      ],
+      "label": "text",
+      "text": "A Double program, including \"Mr. Barnes of New York\" and \"Let Katy Do It\" will be offered on Velvet Prophet day and night.\n\nOn Thursday and Friday, Leah Baird will be seen in \"Don't Doubt Your Wife.\" It is a domestic drama, an original story by Miss Baird in which she plays the role of a wife who, to be happy, needs to play. Edward Ped is the husband, a self-made business man who loves his wife, but neglects to tell her so. Emory Johnson is the rich young idiot who never could understand why she had not chosen him for her husband. A womdefully staged night rainstorm adds thrills and complications to the plot."
+    },
+    {
+      "bbox": [
+        71,
+        2260,
+        353,
+        2308
+      ],
+      "label": "paragraph_title",
+      "text": "\"Home Talent.\" \"The Prodigal Judge\"\n\"Bliss Of Life\" And \"Blood And\nSand\" At The Comet"
+    },
+    {
+      "bbox": [
+        71,
+        2318,
+        356,
+        2524
+      ],
+      "label": "text",
+      "text": "The Comet Theatre offers a double bill at bargain prices this Sunday. Charles Jones will be present in \"Trooper O'Neil,\" a thrilling western with plenty of gum excitement. The other feature will be, Mack Sennett's five-part comedy, \"Home-Talent.\" Ben Turpin, Charlie Murray, James Finlanson, \"Boot,\" Parkley Eddie Griffon, Kaila, Pasha and Mildred. June are some of the principal contributors to the fun while Phillips Haver plays a part that demands the expressiveness of legitimate art."
+    },
+    {
+      "bbox": [
+        70,
+        2523,
+        360,
+        2761
+      ],
+      "label": "text",
+      "text": "On Monday, 'The fortune will be 'The Prodigial Judge.' The story deals with the old South, the South of 1853, when slavery and corn whiskey were still permitted by the Constitution. The cast is headed by Jean Paige, of Friday, V. T. Pay, Wesley Harry and Lon Chaney will be presented in \"Bits of Life.\" It is a decided novel in the way of motion picture entertainment, in much as it presents four separate and distinct stories, which are combined in such a way that the same truong dramatic theme runs through the entire produce."
+    },
+    {
+      "bbox": [
+        359,
+        2324,
+        934,
+        2395
+      ],
+      "label": "text",
+      "text": "If you had to choose between riches and cafees on one hand, and a flat fireside and delicatessen meals on the other, which would-you decide upon?\n\nNEE- This happy story of the beautiful little chalk model who renamed the gay life and found happiness in the most unexpected manner."
+    },
+    {
+      "bbox": [
+        348,
+        516,
+        644,
+        2281
+      ],
+      "label": "text",
+      "text": "SPECIAL FOR\nSATURDAY, SEPT. 30\n\nSpecial Two Feature Program\u2014\nADMISSION\n\nWILLIAM FOX\nPRESENTS\n\nCHARLES JONES\nTROOPER O'NEIL\n\nStraight as a gun barrel, strong,\nsilent, immovable as the mountain\nranges he guarded\u2014he went out to\n\"get his man.\"\n\nRET\nTheatre and\n20th and Ma\n\nSTAR\nSPECIAL FEATURE\u2014\nBetty Compson in\n\"Always\nThe Woman\"\nA FLAMING ROMANCE\nOF THE DESERT\n\nThe story of a courageous little\nAmerican actress who pitted Yankee\nstrategy against the ruthless cunning\nof an amorous Egyptian Sheik.\n\nThe Drama of a Chorus Girl Who Once\nWas Earp's Queen.\nTo Those Who Have Lived and Loved!\nAlways the Woman-Love Eternal!\nThe Story of a Deathless Love.\n\nALSO SHORT SUBJECTS\n\nMONDAY, OCT. 2\n\nMarie P."
+    },
+    {
+      "bbox": [
+        634,
+        707,
+        921,
+        801
+      ],
+      "label": "text",
+      "text": "Ben Turpin, Kalla Pasha Phyllis Haver, Chas. Murray And All The MACK SENNET COMEDIANS in"
+    },
+    {
+      "bbox": [
+        1579,
+        1670,
+        2013,
+        1712
+      ],
+      "label": "paragraph_title",
+      "text": "SPECIAL\u2014THURS. & FRIDAY-OCT. 5, 6."
+    },
+    {
+      "bbox": [
+        1520,
+        1723,
+        1802,
+        1890
+      ],
+      "label": "text",
+      "text": "Don't Doubt Your Wife with Leah Baird"
+    },
+    {
+      "bbox": [
+        929,
+        1827,
+        1511,
+        1912
+      ],
+      "label": "text",
+      "text": "Beautiful Nautch girls, lithe and sinuous in Oriental attire\u2014real Arabians in death-defying nets of horsemanship\u2014desert battles between British troops and Bodenin bandits\u2014and a story fast and furious with action and loaded with thrills."
+    },
+    {
+      "bbox": [
+        1520,
+        1890,
+        1802,
+        2664
+      ],
+      "label": "text",
+      "text": "Temperature Is Always\nJUST RIGHT\nIN ALL KINDS OF WEATHER\nSUNDAY OCTOBER 1\near Call\""
+    },
+    {
+      "bbox": [
+        1786,
+        387,
+        2093,
+        1652
+      ],
+      "label": "text",
+      "text": "Actual scenes of bullfighting in a real arena. Scenes of love and passion never approached before on the screen. Scenes of dancing and revelry filled with breathless thrills!\n\nThe Picture That Broke All Records Of Attendance At The New Grand Central\n\nThe Most Expensive Picture We've Ever Shown.\n\nFirst Time In The U. S. To Be Shown At Popular Prices\n\nFROM THE FAMOUS NOVEL BY VICENTE BLASCO IBANEZ, Author of \"The Four Horsemen of The Apocalypse.\"\n\nWhat a lover! What a picture! You'll quake as Valentino risks his life in the most dangerous sport known to man\u2014bullfighting. You'll thrill at his impassioned love-making. Eight gorgeous, breathless reels you'll never forget.\n\nFrom A Photoplay Dealing With The Social Trials Of A Young Actress, In A Small Western Town.\n\nALSO\u2014\"WOLVES OF THE RANCH\"\nFIVE PART WESTERN DRAMA\n\nFirst Time This Master Picture To Be Shown For 10c and 5c\n\nGOOD MUSIC\nUNDER THE DIRECTION OF Miss Birdie E. Doudy"
+    },
+    {
+      "bbox": [
+        1786,
+        1724,
+        2093,
+        2425
+      ],
+      "label": "text",
+      "text": "A drama of intimate married life portraying, with vital force, how jealousy, suspicion and deceit may wreck a home and wreak unhappiness.\n\nLeah Baird, that fascinating black eyed beauty, charming in her wondrous gowns, adorable in her many moods, gives a performance regal yet throbbing.\n\nSee this drama. See Miss Baird. See the blinding rainstorm. See the gay life scenes.\n\nIf in doubt about photoplays see\n\n\"DON'T DOUBT YOUR WIFE\"\n\nAlso Other Good Subjects"
+    }
+  ]
+}
