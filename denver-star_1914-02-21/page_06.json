@@ -1,0 +1,548 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 2086,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        250,
+        153,
+        656,
+        190
+      ],
+      "label": "doc_title",
+      "text": "Houses and Rooms"
+    },
+    {
+      "bbox": [
+        146,
+        229,
+        752,
+        306
+      ],
+      "label": "text",
+      "text": "All \"ads\" appearing in these columns are at the rate of 5c per line if run by the issue, or 50c monthly, to be paid in advance, as we have no collector for this depart ment. No \"ads\" taken over the phone."
+    },
+    {
+      "bbox": [
+        224,
+        327,
+        679,
+        346
+      ],
+      "label": "paragraph_title",
+      "text": "The Best List in the City to Choose From."
+    },
+    {
+      "bbox": [
+        145,
+        365,
+        450,
+        1077
+      ],
+      "label": "text",
+      "text": "FOR RENT\u2014Furnished rooms by day, week or month. Rates reasonable. Phone Main 5011, 2347 Arapahce St. Mrs. Person, Prop.\n\nWANTED\u2014T. Ernest McClain, A. B. D. D. S.-Sundays and nights by appointment. Office hours, 8 a.m. to 12 m., 1 p.m. to 6 p.m. Office, 2802 Welton St., Rondelein Bldg., phone Main 7416. Res., 822 32nd St., phone Main 8297.\n\nThe O. K. Barber Shop, 1834 Arapahoe St., baths. R. B. Bolden, foreman; F. L. Caldwell and Ed. Fountain, prop. Phone Champa 2571.\n\nThe Elite Barber Shop and bath rooms, 1223 19th St. Geo. C. and Lillian Sample, props.\n\nCarrie & Carrie\u2014Tonsorial parlor, hand and electrical face massage. Call 1225 21st street. Phone, Res. York 7335. J. W. Carrie, Sr., and J. W. Carrie, Jr., props.\n\nThe Jewel Barber Shop, 1022 19th St. First-class tonsorial artists. G. B. Richardson and D. O. Simpson.\n\nAnderson & Son, express, coal and wood, 2239 Washington St., phone Champa 1174. Residence, 2431 Court Rl., Denver, Colo.\n\nFor Rent\u2014Three unfurnished rooms. $5.00 a month 709 31st street.\n\nFor Rent\u2014One furnished room $2.00 a week. 709 31st street."
+    },
+    {
+      "bbox": [
+        274,
+        1085,
+        326,
+        1097
+      ],
+      "label": "paragraph_title",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        145,
+        1108,
+        450,
+        1357
+      ],
+      "label": "text",
+      "text": "We rent and sell anything from a STABLE to a MANSION. Bring your business, whether large or small. You will find our service the best. The Colored American Loan and Realty Co., 913 Twenty-first street.\n\nI will sell you the best massage vibrator, the White Cross, for $10.00, as good as any $25.00 machine made. Call or write to Vibrator Co., 538 14th street.\n\nNicely furnished front room, strictly modern, near car line. 2926 Glenarm Place. Call Main 2175. Mrs. Watkins."
+    },
+    {
+      "bbox": [
+        216,
+        1374,
+        384,
+        1391
+      ],
+      "label": "paragraph_title",
+      "text": "HOTEL HILDRETH."
+    },
+    {
+      "bbox": [
+        145,
+        1403,
+        450,
+        2780
+      ],
+      "label": "text",
+      "text": "Nice, clean, airy rooms, strictly modern house, close in; rooms from $150 up. 2152 Arapahoe. Phone Main 7007. Mrs. Lillian Horn, Prop.\n\nFOR SALE\u2014A 5-lot corner in University Park, bargain. Call Main 5554, The Colored American Loan & Realty Co., 912 21st St.\n\nFOR RENT\u2014Nice 4-room house on St. Paul street, in 1400, modern except bath; rent $14. See The Colored American Loan & Realty Co., 912 21st St.\n\nFOR RENT\u2014Furnished rooms in modern house, very close in. 629 22d St. Mrs. Sanford, phone Champa 761.\n\nFOR RENT\u2014Neatly furnished rooms in strictly modern home, suitable for man and wife or ladies who work out. Call at 2350 Ogden St., or phone York 4701., Mrs. Jesse T. Willis. 10-4\n\nNicely furnished rooms in modern house, suitable for single or married persons, $1.50 per week and upward. Phone Champa 3517. Mrs. E. Fugitt, 2856 Welton St.\n\nFOR RENT\u2014Two nice warm rooms with winter rates for gentleman. Cheap, with bath; homelike place, between six car lines. 1663 Lafayette st. Phone York 3067. Mrs. R. A. Duncan.\n\nFOR RENT\u2014Furnished rooms, permanent and transient. Mrs. Singleton. 2443 Tremont Place. Phone Champa 278.\n\nParticular rooms to rent to particular people in a particular neighborhood. Rates reasonable. Car service, modern accommodations. Mrs. Turner, phone York 1633, 2504 Clarkson. 9-6-13.\n\nFOR RENT\u2014Furnished rooms in a modern house. Gentleman preferred. Blue 2285. Residence 2456 Marion st.\n\nFURNISHED ROOMS FOR RENT\u2014Mrs. Nannie Johnson, 2431 Ogden St. Phone Main 5840.\n\nFOR RENT\u2014Two nicely furnished rooms at 2809 Welton St. On car line. Rates reasonable.\n\nFurnished rooms for rent for gentlemen only. 2231 Arapahoe street. Mrs. Gehm. Phone Main 3796.\n\nNice large front room for rent in modern house. Mrs. Nellie Steele 2222 Curtis street. Telephone Olive 1608.\n\nTwo nicely furnished rooms, suitable for gentlemen or man or wife. One front room, modern conveniences. Call Mrs. Annie Walker. Phone York 6685. 2507 Clarkston st.\n\nFOR RENT\u2014Elegant furnished room in private home, modern, convenient, for man and wife or single man. Phone Olive 570. Mrs. T. S. Clinkscale. 2508 Tremont place."
+    },
+    {
+      "bbox": [
+        462,
+        363,
+        753,
+        397
+      ],
+      "label": "text",
+      "text": "It must be so; I read it in The Den\never Star."
+    },
+    {
+      "bbox": [
+        533,
+        409,
+        676,
+        424
+      ],
+      "label": "paragraph_title",
+      "text": "THE DE LUXE."
+    },
+    {
+      "bbox": [
+        455,
+        428,
+        756,
+        1853
+      ],
+      "label": "text",
+      "text": "Furnished apartments. Two and three rooms, with hot and cold water in each kitchen. Also front room, single, electric lights and gas. Modern throughout. Rates very reasonable, 2352-2358 Ogden street, corner Twenty-fourth avenue. Phone York 6707. Mrs. R. M. Blakey.\n\nFOR RENT\u2014Two nicely furnished rooms in modern house, bath and gas. Phone York 7663. Mrs. Ollie Simpson 1910 Washington street.\n\nPhone South 1701 for Herron's express. He will make the price right. Freight bills and trunk checks called for free.\n\nFor Rent\u2014Furnished room in a modern house. Gentleman preferred. 1746 Humboldt street.\n\nFOR RENT\u2014Modern rooms in a modern house, near car line; gentleman preferred. At 2515 Clarkson St. York 5522. Mrs. Minnie Robinson.\n\nFURNISHED ROOMS\u2014Modern conveniences: in private family. 2447 Tremont Place. Champa 1856. Mrs. Perkins.\n\nYOUR EYES\n\nTell the story of the care you give them. : Don't take chances; those headaches, that nervousness, and many other complaints, all come from eye strain. : A scientific examination and good glasses will bring relief.\n\nTry Us\n\nDEVOTED EXCLUSIVELY TO THE EXAMINATION OF THE EYES. THE FITTING AND MANUFACTURING OF GLASSES.\n\nThe Swigert Bros. Optical Co.\nDENVER'S RELIABLE OPTICIANS\n1550 CALIFORNIA ST. NEAR SIXTEENTH ST.\n\nJOSEPH CARTER\n\nCoal and Wood Express\n2425 WASHINGTON STREET\nPhone Main 6544 Prompt Delivery\n\nstern Senior Coo. P. Sargent of New York\nWheel Chairs for Sale or Rent"
+    },
+    {
+      "bbox": [
+        460,
+        1918,
+        752,
+        2038
+      ],
+      "label": "text",
+      "text": "MAKER OF ALL KINDS OF\nORTHOPEDIC APPLIANCES\nTrusses, Braces, Abdominal Supports\nElastic Hosiery, Crutches, Ete.\nPhone Main 7702"
+    },
+    {
+      "bbox": [
+        455,
+        2091,
+        756,
+        2673
+      ],
+      "label": "text",
+      "text": "Tables for Ladies and Gentlemen. Everybody Welcome Open All Night\n\nMike's\nLunch Room\nMIKE RUVO, Prop.\nMEALS 5, 10, 15 & 20c.\nGive Us A Trial\n2116 Larimer St. Denver\n\nLUNG DISEASE\n\"After four in our family had died of consumption. I was taken with a frightful cenh and lung trouble, but my life was saved and I gained 87 pounds through using\nDR. KING'S\nNEW\nDISCOVERY\nW. R. Patterson, Wellington, Tex.\nPRICE 50c and \u00a31.00 AT ALL DRUGISTS."
+    },
+    {
+      "bbox": [
+        778,
+        142,
+        1356,
+        215
+      ],
+      "label": "doc_title",
+      "text": "Keystone Social Club Triumphs In Last Smoker. 700 Men and Women Present"
+    },
+    {
+      "bbox": [
+        759,
+        244,
+        1060,
+        2234
+      ],
+      "label": "text",
+      "text": "Kid Bell offers to fight anyone at his weight, 124 pounds, weighing at 3 p. m., or anyone at 133 pounds weighing at ringside.\n\nIn this fight Brown was all the more aggressive. The first round was fast and furious. Several blows were given and taken and they fought every moment of the round. Second round showed Knockout Brown to be determined for a quick finish. He bored in and left his stomach unprotected and, as quick as a flash, Bell had two left uppercuts which reeled Brown, and after he tottered, Bell sent him down and out for the count with a stiff left to the jaw. The fight was over, the contest decided, and all who appeared Brown's rooters yelled as lustily for Bell, who was dancing and tangoing around the ring to the music. \"You Made Me Do It.\"\n\nIn the last contest, given by the Keystone Social club in form of a smoker, there were more attractive features and interesting and exciting events than has ever been given by the club. One Round Hogan and Alexander boxed a lively five-round mill resulting in a foul, with Alexander knocked out. Then came the battle royal of five bantam featherweights. Five 15-year-old boys were put into the ring and told to go after each other. The fun which they produced cannot be imagined. One ran out of the ring, one rolled out of the ring and one was pushed down and out, while the two Hill brothers had the finals to themselves, and the older, Ralph, with a left swing, lightly touched his brother and pushed him down and held him there for the count. The house roared and the orchestra played \"I Want a Little More Lovin'.\" Scottie Williams and Roy Brown mixed it quite actively when Brown closed Scottie's eye and staggered Scottie two or three times. Then Scottie with a fearful left uppercut closed Brown's eye completely, and after that Brown was at Scottie's mercy. Scottie says this is his last bout.\n\nCharles \"Kid\" Bell, who was born in Colorado Springs, Colo., in 1886, proved himself undoubtedly the greatest scientific featherweight boxer of color in the West. While his size, reach and height may be against him, whatever may be his disadvantages, he overcomes all by his almost impregnable defense, his quick wittedness and his all-times alertness. He simply knows the fighting game. Yet he is charitable and broad enough to say that \"Knockout\" Brown is the gamest and toughest boy he has ever had to box. His staying qualities are wonderful, his punch is hard and he has a good infighting defense. \"He came at me as hard the third fight, even though I had been previously given a decision and a draw, as he did in the former fight. He never weakened, and by his defeat Kid Bell made an enviable record."
+    },
+    {
+      "bbox": [
+        816,
+        2242,
+        997,
+        2258
+      ],
+      "label": "paragraph_title",
+      "text": "KID BELL'S RECORD"
+    },
+    {
+      "bbox": [
+        759,
+        2271,
+        1060,
+        2661
+      ],
+      "label": "text",
+      "text": "K. O.\u2014Kid Wilson, 2 rounds, D. A.\nC., Denver, Colo.\nLost Dec.\u201420 rounds, Dago Mike,\nLeadville, Colo.\nDraw.\u20146 rounds, Skinny Casady,\nColorado Springs, Colo.\nK. O.\u2014Jim McGuire, 7 rounds, Denver,\nColo.\nK. O.\u2014Kid Bufke, 3 rounds, Denver,\nColo."
+    },
+    {
+      "bbox": [
+        762,
+        2272,
+        1058,
+        2306
+      ],
+      "label": "text",
+      "text": "K. O.\u2014Kid Wilson, 2 rounds, D. A.\nC., Denver, Colo."
+    },
+    {
+      "bbox": [
+        759,
+        2661,
+        1060,
+        2780
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        1064,
+        244,
+        1368,
+        503
+      ],
+      "label": "text",
+      "text": "Won\u20148 rounds, Chancey Rumford,\nColorado City, Colo.\n\nWon\u20144 rounds, Kid Hughes, Colorado City, Colo.\n\nWon\u201415 rounds, Kid Gassague, Aspen, Colo.\n\nK. O.\u2014Hock Morreles, 1 round, Stockton, Calif.\n\nK. O.\u2014Kid Franks, 1 round, Oakland, Calif.\n\nLost\u20144 rounds, Abe Label, Oakland, Calif.\n\nWon\u20144 rounds, Abe Label, Oakland, Calif.\n\nK. O.\u2014Kid Benson, 1 round, Oakland, Calif."
+    },
+    {
+      "bbox": [
+        1066,
+        501,
+        1369,
+        562
+      ],
+      "label": "text",
+      "text": "Lost\u201410 rounds, Muggsy Shoals,\nPueblo, Colo.\nK. O.\u2014George Deming, 2 rounds,\nPueblo, Colo."
+    },
+    {
+      "bbox": [
+        1067,
+        560,
+        1369,
+        594
+      ],
+      "label": "text",
+      "text": "Draw\u20146 rounds, Young Kenney,\nDenver, Colo."
+    },
+    {
+      "bbox": [
+        1067,
+        591,
+        1369,
+        653
+      ],
+      "label": "text",
+      "text": "K. O.\u2014Young Bradley, 3 rounds, D.\nA. C., Denver.\nK. O.\u2014Kid Selby, 7 rounds, Salt\nLake City, Utah."
+    },
+    {
+      "bbox": [
+        1066,
+        650,
+        1369,
+        678
+      ],
+      "label": "text",
+      "text": "No Decision\u201410 rounds, Danny Webster, Los Angeles, Calif."
+    },
+    {
+      "bbox": [
+        1066,
+        677,
+        1370,
+        710
+      ],
+      "label": "text",
+      "text": "K. O.\u2014Frank Sheek, 15 rounds, Los Angeles, Calif."
+    },
+    {
+      "bbox": [
+        1065,
+        709,
+        1368,
+        739
+      ],
+      "label": "text",
+      "text": "Lost\u2014Leonard Lander, 15 rounds,\nLos Angeles. Calif."
+    },
+    {
+      "bbox": [
+        1064,
+        798,
+        1372,
+        2780
+      ],
+      "label": "text",
+      "text": "Won\u20146 rounds, Abe Label, Oakland, Calif.\nLost\u20144 rounds, Frankie Edwards, Oakland, Calif.\nWon\u20144 rounds, Danny Cullen, Los Angeles, Calif.\nLost\u20146 rounds, Benny Solomon, Los Angeles, Calif.\nLost\u20144 rounds, Pye Davis, Salt Lake City, Utah.\nK. O.\u2014Pye Davis, 1 round, Salt Lake City, Uta"
+    },
+    {
+      "bbox": [
+        1372,
+        140,
+        1671,
+        479
+      ],
+      "label": "text",
+      "text": "bout for this season and he feels justly proud over his success in every point, because he has produced what nobody else has done, in all of the smokers staged, not a single fight, an unpleasant word, rowdy or boisterous conduct was witnessed and at each event from 100 to 200 ladies were present and about the same number of white men. These events filled a niche in the lives of the clubmen and their followers. Mr. Stewart desires to most ardently thank the police department and the higher officials who gave him the opportunity to demonstrate his ability as a promoter, as well as all the loyal, enthusiastic men and women friends who stuck to him and his events, making them repeated successes. Thus the curtain rings down on these events for a while.\n\nBy Claude F. Davis"
+    },
+    {
+      "bbox": [
+        1418,
+        499,
+        1634,
+        528
+      ],
+      "label": "paragraph_title",
+      "text": "FERN HALL"
+    },
+    {
+      "bbox": [
+        1371,
+        536,
+        1698,
+        992
+      ],
+      "label": "text",
+      "text": "2711 WELTON STREET\nFOR RENT for all occasions\nreasonable. Large and airy\nante-rooms and check rooms,\ncomplete, neat and clean, see\nDAVID CLIFFORD,\nat Hall, or at\nCRESCENT THEATRE,\n2715 Welton Street\nBest Little Show in town\nPictures and Vaudeville\n\nPOMADE FOR\n\nWe wish to advise our friends and\nline of Toilet Preparations, Perfum\nqt every description, Toilet Soaps,\n\nThe Denver Bar"
+    },
+    {
+      "bbox": [
+        1458,
+        830,
+        1890,
+        854
+      ],
+      "label": "paragraph_title",
+      "text": "POMADE FOR THE HAIR"
+    },
+    {
+      "bbox": [
+        1405,
+        874,
+        1944,
+        930
+      ],
+      "label": "text",
+      "text": "We wish to advise our friends and customers that we have a full line of Toilet Preparations, Perfumes, Manicure Supplies, Brushes qt every description, Toilet Soaps, Cutlery, etc."
+    },
+    {
+      "bbox": [
+        1568,
+        992,
+        1790,
+        1017
+      ],
+      "label": "text",
+      "text": "1527 Glenarm Street"
+    },
+    {
+      "bbox": [
+        1371,
+        1060,
+        1698,
+        1156
+      ],
+      "label": "text",
+      "text": "POMADE FOR"
+    },
+    {
+      "bbox": [
+        1383,
+        1156,
+        1698,
+        1185
+      ],
+      "label": "paragraph_title",
+      "text": "WHY BE BALD ?"
+    },
+    {
+      "bbox": [
+        1371,
+        1185,
+        1698,
+        1344
+      ],
+      "label": "text",
+      "text": "By using my special treatm hair on every persons head twenty-five years. Stop h promote new growth in six to gray or faded hair with Will grow short hair long. teed or money refunded,"
+    },
+    {
+      "bbox": [
+        1422,
+        1199,
+        1921,
+        1335
+      ],
+      "label": "text",
+      "text": "By using my special treatmen I promise to grow hair on every persons head who has been bald twenty-five years. Stop hair from falling out, promote new growth in six weeks, restore color to gray or faded hair without the use of dye. Will grow short hair long. Satisfaction guaranteed or money refunded."
+    },
+    {
+      "bbox": [
+        1556,
+        1344,
+        1785,
+        1365
+      ],
+      "label": "paragraph_title",
+      "text": "E. WILLIAMS"
+    },
+    {
+      "bbox": [
+        1371,
+        1365,
+        1698,
+        1468
+      ],
+      "label": "text",
+      "text": "1914 ARAPAHOE STREET"
+    },
+    {
+      "bbox": [
+        1382,
+        1374,
+        1955,
+        1400
+      ],
+      "label": "text",
+      "text": "1914 ARAPAHOE STREET DENVER, COLO."
+    },
+    {
+      "bbox": [
+        1371,
+        1468,
+        1698,
+        1740
+      ],
+      "label": "text",
+      "text": "For Signs, Show Cards\nAll Kinds of Lettering\nSEE\nROY BROWN\n2451 LARIMER STREET"
+    },
+    {
+      "bbox": [
+        1380,
+        1740,
+        1663,
+        1772
+      ],
+      "label": "paragraph_title",
+      "text": "ABE SOLBEURG"
+    },
+    {
+      "bbox": [
+        1371,
+        1772,
+        1698,
+        2351
+      ],
+      "label": "text",
+      "text": "POOL HALL\nCigars, Tobacco and Candy\nALL WELCOME\n2112 Larimer St., Denver\n\nPhone Main 8407 C. W. BRIDGES, Prop.\n\nTrunks Moved On Sunday\nAt Regular Prices\n\nSTAR FUEL, FEED AND\nEXPRESS\n\nHard and Soft Coal, Hay and Grain\nFurniture Moving\nEXPRESS No. 59\nStand 27th and Welton Sts.\n619 27th STREET"
+    },
+    {
+      "bbox": [
+        1376,
+        2214,
+        1675,
+        2263
+      ],
+      "label": "text",
+      "text": "Hard and Soft Coal, Hay and Grain Furniture Moving"
+    },
+    {
+      "bbox": [
+        1371,
+        2405,
+        1698,
+        2744
+      ],
+      "label": "text",
+      "text": "BEAM\nPool Hall and\nCIGA\nShoes Shined\n51 CHAMPA STREET"
+    },
+    {
+      "bbox": [
+        1604,
+        2540,
+        1744,
+        2574
+      ],
+      "label": "paragraph_title",
+      "text": "CIGARS"
+    },
+    {
+      "bbox": [
+        1420,
+        2593,
+        1969,
+        2664
+      ],
+      "label": "text",
+      "text": "Shoes Shined By Experts\nCHAMPA STREET DENVER, COLORADO"
+    },
+    {
+      "bbox": [
+        1407,
+        1034,
+        1593,
+        1060
+      ],
+      "label": "text",
+      "text": "Phone Main 7221"
+    },
+    {
+      "bbox": [
+        1377,
+        2382,
+        1578,
+        2405
+      ],
+      "label": "paragraph_title",
+      "text": "PHONEMAIN 6159"
+    },
+    {
+      "bbox": [
+        1676,
+        305,
+        1990,
+        1699
+      ],
+      "label": "text",
+      "text": "TO THE CLUB WOMEN OF THE CITY.\n\nThe Star will publish a monthly list of the meeting places of the various clubs of the city during the different months, if furnished with same by the first Wednesday in each month.\n\n60 YEARS' EXPERIENCE\n\nPATENTS\n\nTRADE MARKS DESIGN COPYRIGHTS & C.\n\nAnyone sending a sketch and description may quickly\u59a5\u59a5 our opinion free whether an invention is probably patentable. Communications only confidential. HANDS ON. In Practice. Old agency for teaching patents. Patents taken through Munn & Co. receive specializes, without charge, in the Scientific American.\n\nA handroom filtration system. In association of any science journal. Terms is a year four months, $1.50 paid by all new subscribers.\n\nMUNN & Co. 301 Broadway, New York Brance Office. 650 F St., Washington, D.C.\n\nR THE HAIR\n\nand customers that we have a fullumes, Manicure Supplies, Brushes, Cutlery, etc.\n\nDerber Supply Co.\n\nCharm Street\n\nDenver, Colorado\n\nR THE HAIR\n\n?\n\ntmen I promise to grow bad who has been bald hair from falling out, six weeks, restore color without the use of dye. Satisfaction guaran.\n\nWLIAMS\n\nT DENVER, COLO.\n\nIN TIME OF TROUBLE CALL CHAMPA 2955\n\nM. C. BRADLEY PLUMBER\n\nGas and Steam Fitter\n\nRepairing Promptly Attended to"
+    },
+    {
+      "bbox": [
+        1691,
+        1526,
+        1967,
+        1697
+      ],
+      "label": "text",
+      "text": "M. C. BRADLEY PLUMBER Gas and Steam Fitter Repairing Promptly Attended to"
+    },
+    {
+      "bbox": [
+        1680,
+        1657,
+        1983,
+        2358
+      ],
+      "label": "text",
+      "text": "Repairing Promptly Attended to\n609 1-2 27th St., Denver, Colo.\n\nDecker Light & Fixture\nCompany\n1432 CURTIS ST.\nWe Rent and Sell\nGas Arc Lights\nMantles, Gas Plates and\nGlass Ware\nPHONE CHAMPA 944\n\nFive Points\nHardware Co.\nand Tinshop\nEverything in Hardware, Paints,\nOils, and Glass at right prices\nAlso Furnace work, Cutting and\nall kinds of Tin and Sheet Metal\nwork at Reasonable prices.\n2643 Welton St.\nPhone Champa 2078."
+    },
+    {
+      "bbox": [
+        1676,
+        2415,
+        1990,
+        2731
+      ],
+      "label": "text",
+      "text": "AN'S\nBarber Shop\nARS\nBy Experts\nDENVER, COLORADO"
+    },
+    {
+      "bbox": [
+        1802,
+        2388,
+        1969,
+        2415
+      ],
+      "label": "text",
+      "text": "T. W. BEAN, Prop."
+    }
+  ]
+}

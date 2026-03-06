@@ -1,0 +1,588 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 2059,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        151,
+        253,
+        733,
+        453
+      ],
+      "label": "text",
+      "text": "THE. High Brown, Lincoln Brunette, Pink and White Face Powders. Also Ro-Zol and High Brown Face Bleach, Medicated Cucumber and High Brown Soaps. These articles are manufactured by a well-known Eastern Negro firm. These articles are manufactured from the best material by experienced people and are free from irritating and objectionable properties usually found in such articles. Phone Main 7635 mornings before 10 o'clock, or drop card 2925 Glenarm"
+    },
+    {
+      "bbox": [
+        139,
+        525,
+        599,
+        1566
+      ],
+      "label": "text",
+      "text": "Send an old magazine to Dr. H. H. Jones, Missionary to Klay, t.iberia and Africa, and help him to enjoy his work. Hear the Macedonian cry.\n\nMax M. Ship\nThe Ta\nis now located at 800 Phone York\nWork Called For\nWith each order a\nor Necktie Clean\nDown Town Price\nGUARANTEED\nClass LADIES\nSpecial for Xmas. M.\n$45 Suits $18 to $25\nLadies' Suits from $25\nfrom $35 to $45.\n\nPhone Champa\nKEYST\nSOCIAI\nEverything for\nof Gent\nBUFFET CO\n1859 CHAMFA\n[or 910\nSYL. STEW\nJAS. F. CL"
+    },
+    {
+      "bbox": [
+        415,
+        673,
+        731,
+        745
+      ],
+      "label": "paragraph_title",
+      "text": "Max M. Silverman The Tailor"
+    },
+    {
+      "bbox": [
+        401,
+        752,
+        746,
+        866
+      ],
+      "label": "text",
+      "text": "is now located at 807 E. 22nd Ave. Phone York 5165.\n\nWork Called For and Delivered With each order a pair of Gloves or Necktie Cleaned FREE"
+    },
+    {
+      "bbox": [
+        400,
+        926,
+        746,
+        1429
+      ],
+      "label": "text",
+      "text": "Special for Xmas. Men's $35, $40,\n$45 Suits $18 to $25 until Xmas only.\nLadies' Suits from $25 to $35, worth\nfrom $35 to $45.\n\nPhone Champa 1379\n\nKEYSTONE\nSOCIAL CLUB\n\nEverything for the Pleasure\nof Gentlemen.\n\nBUFFET CONNECTED\n\n1859 CHAMPA STREET\n\n[or 910 19th STREET]"
+    },
+    {
+      "bbox": [
+        400,
+        1485,
+        746,
+        1655
+      ],
+      "label": "text",
+      "text": "PHNOE MAIN 6612\n\nFine Repairing a Specialty"
+    },
+    {
+      "bbox": [
+        142,
+        1566,
+        438,
+        1637
+      ],
+      "label": "paragraph_title",
+      "text": "Paris City Cleaning Works"
+    },
+    {
+      "bbox": [
+        142,
+        1646,
+        438,
+        1748
+      ],
+      "label": "text",
+      "text": "Dry Cleaning Dyeing, Pressing, Repairing and Steam Cleaning Ladies' and Gentlemen's Clothing at reasonable prices."
+    },
+    {
+      "bbox": [
+        141,
+        1746,
+        435,
+        1835
+      ],
+      "label": "text",
+      "text": "Work called for and delivered\nP. J. Porter, J. R. Jackson\n601 W. ELEVENTH AVE.\nPhone Main 2033"
+    },
+    {
+      "bbox": [
+        400,
+        1826,
+        746,
+        1926
+      ],
+      "label": "text",
+      "text": "RS OF A GARMENT"
+    },
+    {
+      "bbox": [
+        139,
+        1835,
+        510,
+        1925
+      ],
+      "label": "text",
+      "text": "NINE PRAYERS OF A"
+    },
+    {
+      "bbox": [
+        248,
+        1892,
+        636,
+        1915
+      ],
+      "label": "paragraph_title",
+      "text": "NINE PRAYERS OF A GARMENT"
+    },
+    {
+      "bbox": [
+        141,
+        1925,
+        439,
+        2068
+      ],
+      "label": "text",
+      "text": "No matter what your vocation in life, you cannot afford to keep me soiled and unpressed Clean and pressed clothes aid you to gain audience in business as well as in society."
+    },
+    {
+      "bbox": [
+        139,
+        2113,
+        656,
+        2780
+      ],
+      "label": "text",
+      "text": "If I need cleaning or pressing or repairing bring me or telephone to this original tailor and cleaner. He knows how to handle me.\n\nDon't send me to an amatuer, when he is trying to learn the trade on me; he will kill me, before my time expires.\n\nThis tailor and cleaner will satisfy you with his low price\n\nIf you notice a little me, don't delay. Ye a little tear will grow send me to his shop ately.\n\nIf you want to make order, also give him. He is a tailor for over and he knows my from \"A to Z.\"\n\nSuits Sponged and Pressed for 35 Cents\n\nFrench Dry or Steam Cleaned Dresses, Gowns, Ladies' Suits, etc., $1.0\n\nWe also clean furs, portiers, waists, gloves, hats e call for and deliver. Phone Main 2091. 2144 Sto\n\nThe Southern Tailoring and Cleaning Works"
+    },
+    {
+      "bbox": [
+        400,
+        2486,
+        746,
+        2780
+      ],
+      "label": "text",
+      "text": "ners, waists, gloves, hats etc. Will one Main 2091. 2144 Stout street\nn Tailoring and\ning Works"
+    },
+    {
+      "bbox": [
+        139,
+        2508,
+        741,
+        2667
+      ],
+      "label": "text",
+      "text": "We also clean furs, portiers, waists, gloves, hats etc. Will call for and deliver. Phone Main 2091. 2144 Stout street The Southern Tailoring and Cleaning Works"
+    },
+    {
+      "bbox": [
+        462,
+        1429,
+        726,
+        1485
+      ],
+      "label": "text",
+      "text": "SYL. STEWART, Pres. JAS. F. CLARK, Mgr."
+    },
+    {
+      "bbox": [
+        477,
+        1655,
+        716,
+        1686
+      ],
+      "label": "paragraph_title",
+      "text": "J. Q. BROWN"
+    },
+    {
+      "bbox": [
+        446,
+        1697,
+        743,
+        1826
+      ],
+      "label": "text",
+      "text": "Sewed Soles, - 65c and 75c\nLadies' Rubber Heels, 35c\nMen's \" \" 40c-50c\n426 15TH STREET"
+    },
+    {
+      "bbox": [
+        445,
+        1926,
+        743,
+        2374
+      ],
+      "label": "text",
+      "text": "and first-class work anyhow, for my sake give him a trial, and I am sure that you will always bring me to his shop. If am born white or any light shade don't put any perfumes on my outside, for you will spot me for life. If you notice a little tear on me, don't delay. You know a little tear will grow larger: send me to his shop immediately. If you want to make me to order, also give him a trial. He is a tailor for over 22 years and he knows my anatomy from \"A to Z.\""
+    },
+    {
+      "bbox": [
+        801,
+        187,
+        1314,
+        392
+      ],
+      "label": "doc_title",
+      "text": "CITY NEWS"
+    },
+    {
+      "bbox": [
+        753,
+        437,
+        1046,
+        472
+      ],
+      "label": "text",
+      "text": "MEETINGS OF THE CARNATION ART CLUB."
+    },
+    {
+      "bbox": [
+        751,
+        467,
+        1048,
+        708
+      ],
+      "label": "text",
+      "text": "Mrs. Barnes, 2938 Glenarm Place,\nFeb. 27.\nMrs. Josie Andrews, 2630 So. Logan,\nMarch 6.\nMrs. Franklin, 2301 Karney St., March\n13.\nMrs. Brusard, 768 Navajo, March 20.\nMrs. Edison, 1402 E. 24th Ave., March\n27.\nMrs. Lampkins, 1760 Downing Ave.,\nApril 3.\nMiss Jennie Smith, 1760 Downing\nAve., April 10.\nMrs. Taylor, 523 E. 12th Ave., Apr. 17.\nMrs. Fletcher, 1019 Logan, April 24."
+    },
+    {
+      "bbox": [
+        752,
+        573,
+        1049,
+        674
+      ],
+      "label": "text",
+      "text": "Mrs. Brusard, 768 Navajo, March 20.\nMrs. Edison, 1402 E. 24th Ave., March 27.\nMrs. Lampkins, 1760 Downing Ave., April 3.\nMiss Jennie Smith, 1760 Downing Ave., April 10."
+    },
+    {
+      "bbox": [
+        752,
+        673,
+        1047,
+        713
+      ],
+      "label": "text",
+      "text": "Mrs. Taylor, 523 E. 12th Ave, April 17.\nMrs. Fletcher, 1019 Logan, April 24."
+    },
+    {
+      "bbox": [
+        754,
+        730,
+        1048,
+        762
+      ],
+      "label": "paragraph_title",
+      "text": "SOME JUICY TURKEY DINNER,\nFEB. 26TH."
+    },
+    {
+      "bbox": [
+        753,
+        775,
+        1049,
+        1077
+      ],
+      "label": "text",
+      "text": "At the home of Mrs. Nannie Johnson, 2431 Ogden street, Feb. 26th, Thursday night, at 8 p. m., there will be served by the Willing Workers of Zion Baptist church, one hot, juice, inviting turkey dinner, with all the palatable trimmings. You know\u2014sweet potatoes, apple sauce, cranberries and red hot hot biscuits\u2014umph. Just come, smell the cooking, get hungry, pay 25c and go away satisfied and commending the Willing Workers for their blessings.\n\nMiss Ethel Miner, who is now with the Williams' Jubilee singers, is creating a deep musical impression in the East. Miss Miner formerly lived in Colorado Springs and Denver. Congratulations, Miss Miner."
+    },
+    {
+      "bbox": [
+        753,
+        1093,
+        1047,
+        1127
+      ],
+      "label": "paragraph_title",
+      "text": "STUBBORN, ANNOYING COUGHS CURED."
+    },
+    {
+      "bbox": [
+        748,
+        1093,
+        1048,
+        1340
+      ],
+      "label": "text",
+      "text": "STUBBORN, ANNOYING COUGHS CURED.\n\n'My husband had a cough for 15 years and my son for eight years. Dr. King's New Discovery completely cured them, for which I am most thankful,' writes Mrs. David Moor, of Saginaw, Ala. What Dr. King's New Discovery did for these men, it will do for you. Dr. King's New Discovery should be in every home. Stops hacking coughs, relieves la gripe and all throat and lung ailments. Money back if it fails. All druggists. Price 50c, and $1.00."
+    },
+    {
+      "bbox": [
+        750,
+        1339,
+        1049,
+        1754
+      ],
+      "label": "text",
+      "text": "H. E. Bucklen & Co., Philadelphia or St. Louis.\n\nMrs. Reed Stewart has gone to Boulder for an indefinite stay.\n\nMrs. M. E. Fornia sends her regards to all of her friends and says Goodbye too and Cleveland, Ohio, is her home-\n\nThe home of Mrs. J. W. McVey of Boulder was destroyed by fire last Wednesday night.\n\nAnnouncement cards announcing the marriage of Rev. T. H. Wiseman and Miss Claudia E. Jenkins of Kansas City have been received in this city. The place of marriage was Okmulgee, Okla.\n\nMr. Alest Campbell is ill."
+    },
+    {
+      "bbox": [
+        753,
+        1775,
+        1045,
+        1807
+      ],
+      "label": "paragraph_title",
+      "text": "IMPORTANT NOTICE TO OUR SUB-\nSCRIBERS."
+    },
+    {
+      "bbox": [
+        748,
+        1821,
+        1048,
+        2361
+      ],
+      "label": "text",
+      "text": "We wish to urge upon our subscribers the importance of notifying this office of any change of address to insure a prompt delivery of their papers. We are anxious that each one receive their papers promptly and regularly, but unless you assist us in this way it is impossible for us to obtain the desired results.\n\nDuring the holiday rush at the post-office our papers were delayed and many subscribers became impatient over it, but the majority understood the situation and made the allowance for it, for which we wish to thank them heartily.\n\nTry Mrs. Jessie Carter's wonderful Hair Grower, \"it's a wizard.\" Scientific scalp treatments. Residence, 2759 Glenarm PI. Phone Champa 865.\n\nThe Widow's Mutual. Aid and Benefit club will meet Thursday Feb. 26, at the home of Widow Wade, 1919 Clarkson street.\n\nThe Boulder news items report Mrs. Jack Morrison as being seriously ill. Mrs. Goodall stopped over to visit a few friends while en route to her port Collins home from Denver."
+    },
+    {
+      "bbox": [
+        753,
+        2376,
+        1046,
+        2396
+      ],
+      "label": "paragraph_title",
+      "text": "HORRIBLE BLOTCHES OF ECZEMA"
+    },
+    {
+      "bbox": [
+        745,
+        2407,
+        1047,
+        2676
+      ],
+      "label": "text",
+      "text": "Quickly cured by Dr. Hobson's Eczema Ointment. C. P. Caldwell, of New Orleans, La., states: \"Mr. doctor advised me to try 'Dr. Hobson's Eczema Salve'. I used three boxes of Ointment and three cakes of Dr. Hobson's Derma Zema Soap. Today I have not a spot anywhere on my body and can say I am cured.\" It will do the same for you. Its soothing, healing, antiseptic action will rid you of all skin humors, blackheads, pimples, eczema blotches, red, unsightly sores, and leaves your skin clean and healthy. Get a box today. Guaranteed. All drummets, 50c., or by mail. Pfeiffer Chemical Co., Philadelphia and St. Louis"
+    },
+    {
+      "bbox": [
+        1055,
+        435,
+        1360,
+        810
+      ],
+      "label": "text",
+      "text": "THE GRAND THEATRE'S WEEKLY\nPROGRAM.\n\nCut Out and Paste on Wall for\nThe Grand Quartet will sing at the\nGrand theater, 2017 Larimer, Sunday\nevening. It is simply a dream to hear\nthem.\n\nFRIDAY, FEB. 20TH \u2014 Mutual\nWeekly 59; Fate's Decree; A Robust\nRomeo. SATURDAY, FEB. 21ST\n\u2014The Arrowmaker's Daughter; The\nSkating Master. SUNDAY, FEB. 22.\n\u2014The Yellow Flame (2-reel feature);\nOur Mutual Girl. MONDAY, FEB. 23\n\u2014Baffles, Gentleman Burglar (2-reel\nfeature, an excellent story, full of excitement); The Clerk. TUESDAY, FEB. 24TH\u2014The Leak in the Foreign\nOffice (2-reel feature); An Interrupted\nSeance. WEDNESDAY, FEB. 25TH\u2014\nThe Play's the Thing (2-reel feature);\nA Thief Catcher. THURSDAY, FEB.\n26TH\u2014The Cricket on the Health (2\nreel feature); A Can of Baked Beans."
+    },
+    {
+      "bbox": [
+        1058,
+        841,
+        1360,
+        873
+      ],
+      "label": "paragraph_title",
+      "text": "ODD FELLOWS TO LAY BROTHER TO REST."
+    },
+    {
+      "bbox": [
+        1056,
+        884,
+        1361,
+        1068
+      ],
+      "label": "text",
+      "text": "Mr. Chas, C. Monroe, a member of Denver lodge of Odd Fellows and a member of the Past Grand Master's Council, died at his home, 1919 Welton street, last Sunday night. His funeral will be Sunday from the Zion Baptist church. All brothers of the order in good standing are requested to meet in their regalia at Arapahoe hall at 1:30 Sunday afternoon. All three lodges will be present and represented."
+    },
+    {
+      "bbox": [
+        1119,
+        1103,
+        1302,
+        1125
+      ],
+      "label": "paragraph_title",
+      "text": "THREE PRIZES"
+    },
+    {
+      "bbox": [
+        1055,
+        1132,
+        1362,
+        2780
+      ],
+      "label": "text",
+      "text": "Washington's Birthday will be celebrated Monday Eve., Feb. 23rd at Fern Hall. The Parisienne Dancing Academy will introduce the imperial Schottische and Galloping Two-Step. Prizes to the best couples dancing the Tango, Rag, Texas Tommy and the Hesitation Waltz.\n\nMiss Gladys Whitney, one of our Colorado girls, has won exceptional honor while at Howard University. She is leading her class and was elected as assistant secretary. Mr. Clarence Holmes, so the information goes, has been successful in keeping ahead of his class ever since he entered Howard. Colorado schools certainly make the parents and taxpayers proud of their graduates.\n\nSupt. Stripling, presiding elder of the Lincoln Conference of the M. E. church, will hold his regular quarter Sunday afternoon at Scott church. A special musical program has been prepared by the choir. Every person is invited to hear a good religious sermon.\n\nMrs. James Clay of Boulder was called to Alamosa, Colo., on account of the serious illness of her mother.\n\nThe Self-Improvement Social club has issued invitations to a formal reception and dance at Fern Hall, Feb. 24.\n\nMay Start Mercantile Concern Again. John H. Atkins, former head of the Metropolitan Mercantile and Realty company, which failed a few years ago, is making an attempt to reorganize the concern, which has had branches in Baltimore and other cities. In speaking of the affairs of the defunct company Mr. Atkins is reported as saying that the concern received (presumably) in money for stock. $455,000; that $100,080 was lost on the building the company had in Forty-sixth street, New York, and that the stockholders owed the company about $200,000.\n\nWE Install all kinds of Electring Wiring on EASY TERMS\n$5 DOWN and $1 A WEEK\nColorado Electric Wiring Co.\n515 18th Street\nPhone Main 2598\n\nWATCH THIS SPACE\nnext issue for announcement\n\nGrand Official\nEaster Monday\nInformal Ball\nTO BE AT FERN HALL"
+    },
+    {
+      "bbox": [
+        1512,
+        154,
+        1833,
+        1507
+      ],
+      "label": "text",
+      "text": "PHONE MAIN 6123\nDAY OR NIGHT\nTHE DOUGLASS\nUNDERTAKING\nCOMPANY\nParlors 1830 A\n\nWhite Swan Drug\nSuccessors to\nHamilton Drug Comp\nor Hotel 27th and\nThe Brightest pot at Five Points\nEverything the Best and Just a Little Cheapest Delivery Service in the\nMain 2305--Get It?\n\nSANITARY\nTHES CLEAN\nWE PLEASE THE BEST DRESSERS\nSPECIAL PRICE LIST\nAgent's Suits Steam or Dry Cleaner\nCleaned and Pressed,\nPressed and Pressed'\nd and Pressed,\nd and Pressed,\nRatisfaction Guaranteed to Every Customer\nN 1800 2622 WELTC\nCall and Deliveries Made\n\nTHE\nACEO CAL\ne Cream, Soda Fountain Drinks\nShort Order Meals at all hours\nthe place for Ladies and Ge\nF. S. DENTON, Prop."
+    },
+    {
+      "bbox": [
+        1367,
+        530,
+        1616,
+        1276
+      ],
+      "label": "text",
+      "text": "Ambulance and Carriages\nFurnished for All Occasions:\n\nThe White\nThe Hamilt\nNew Baxter Hotel\nThe Bright\nEverything the B\nThe Fastest Del\nAny Time Main\n\nSAY\nCLOTHES\nWE PLEASE\nSPECIAL\nLadies' and Gent's Suits,\nOvercoats Cleaned and L\nDresses Cleaned and Pro\nSkirts Cleaned and Press\nSuits Sponged and Press\n\nSatisfaction Gu\n\nPHONE MAIN 1800\nCall an"
+    },
+    {
+      "bbox": [
+        1369,
+        587,
+        1992,
+        639
+      ],
+      "label": "paragraph_title",
+      "text": "The White Swan Drug Co."
+    },
+    {
+      "bbox": [
+        1367,
+        658,
+        1989,
+        845
+      ],
+      "label": "text",
+      "text": "The Hamilton Drug Company\nNew Baxter Hotel 27th and Welton St.\nThe Brightest pot at Five Points\nEverything the Best and Just a Little Cheaper\nThe Fastest Delivery Service in the City\nAny Time Main 2305--Get It? Anywhere"
+    },
+    {
+      "bbox": [
+        1369,
+        1046,
+        1974,
+        1232
+      ],
+      "label": "text",
+      "text": "Ladies' and Gent's Suits Steam or Dry Cleaned. $ .75\nOvercoats Cleaned and Pressed, .75\nDresses Cleaned and Pressed' .75\nSkirts Cleaned and Pressed, .50\nSuits Sponged and Pressed, .35\n\nSatisfaction Guaranteed to Every Customer\n\nPHONE MAIN 1800 2622 WELTON STREET\nCall and Deliveries Made"
+    },
+    {
+      "bbox": [
+        1367,
+        1312,
+        1616,
+        1507
+      ],
+      "label": "text",
+      "text": "MACE\nFinest Ice Cream, S\nShort Ord\nThis is the place\nF. S."
+    },
+    {
+      "bbox": [
+        1367,
+        1388,
+        1919,
+        1834
+      ],
+      "label": "text",
+      "text": "Finest Ice Cream, Soda Fountain Drinks, Cigars.\nShort Order Meals at all hours\nThis is the place for Ladies and Gentlemen\nF. S. DENTON, Prop.\n2721 Welton St. Denver, Co\n\nYouman's Fur Co\n422-424 Fifteenth Street\nDENVER, COLO.\n\nOnly Exclusive Fur Store in Denv"
+    },
+    {
+      "bbox": [
+        1512,
+        1533,
+        1833,
+        1732
+      ],
+      "label": "text",
+      "text": "man's Fur 22-424 Fifteenth Street"
+    },
+    {
+      "bbox": [
+        1512,
+        1834,
+        1833,
+        1930
+      ],
+      "label": "text",
+      "text": "OUR PRICES UNE QUALLE\nStylish Fur Sets $7.50 and up\nStylish Fur Coats $15.00 and up"
+    },
+    {
+      "bbox": [
+        1367,
+        1930,
+        1616,
+        2346
+      ],
+      "label": "text",
+      "text": "Call and Inspect Our S\nCourteous Salesladie\nREMEMBER\n1422-424 FIRE\nNEAR GL\nRea. Phone York 4431\nPHOTO\nNOLLI\nVANS, EXP\nCoal. All I\nSATISFACTI"
+    },
+    {
+      "bbox": [
+        1512,
+        1930,
+        1833,
+        2196
+      ],
+      "label": "text",
+      "text": "REMEBER THE NUMBER\n4424 FIFTEENTH STREET\nCAR GLENARM STREET\nork 4431 Expert I\nPHONE MAIN 6239"
+    },
+    {
+      "bbox": [
+        1385,
+        1943,
+        1955,
+        2097
+      ],
+      "label": "text",
+      "text": "Call and Inspect Our Stock Before Purchasing Elsewhere Courteous Salesladies will Give You Every Attention REMEMBER THE NUMBER 1422-424 FIFTEENTH STREET NEAR GLENARM STREET"
+    },
+    {
+      "bbox": [
+        1367,
+        2130,
+        1975,
+        2702
+      ],
+      "label": "text",
+      "text": "Rea. Phone York 4431 Expert Piano Moving\n\nPHONE MAIN 6239\n\nNOLLE R. SMITH\nVANS, EXPRESS AND MOVING\nCoal. All Kinds of Team Work\n\nSATISFACTION GUARANTEED\n\nOffice Stand\n2561 Washington St. 27th and Welton Sts.\n\nWalter E. Ewing, Sec. and Mgr.\nLuther H. Walton, Pres. and Treas.\n\nCash Process Grocery Store\nFancy and Staple Groceries and Chickens\nWe Deliver Anywhere in the City. Our Prices Always Right\n\nPhone Champa 2989 2824 Welton Street"
+    },
+    {
+      "bbox": [
+        1376,
+        2433,
+        1957,
+        2685
+      ],
+      "label": "text",
+      "text": "Walter E. Ewing, Sec. and Mgr.\nLuther H. Walton, Pres. and Treas.\n\nCash Process Grocery Store\n\nFancy and Staple Groceries and Chickens\nWe Deliver Anywhere in the City. Our Prices Always Right\n\nPhone Champa 2989 2824 Welton Street"
+    },
+    {
+      "bbox": [
+        1367,
+        415,
+        1509,
+        491
+      ],
+      "label": "text",
+      "text": "LICENSEC EMBLMER\nFRANK ROGERS\nAust. Funeral Director"
+    },
+    {
+      "bbox": [
+        1380,
+        1276,
+        1479,
+        1312
+      ],
+      "label": "text",
+      "text": "Phone Champa\n2570"
+    },
+    {
+      "bbox": [
+        1749,
+        1511,
+        1973,
+        1834
+      ],
+      "label": "text",
+      "text": "Denver, Colo.\n\nur Co.\nn Street\nO.\nore in Denver"
+    },
+    {
+      "bbox": [
+        1749,
+        1930,
+        1973,
+        2549
+      ],
+      "label": "text",
+      "text": "Purchasing Elsewhere\nYou Every Attention\nNUMBER\nI STREET\nI STREET\n\nExpert Piano Moving\n239\n\nSMITH\nMOVING\nTeam Work\n\nGUARANTEED\nStand\n27th and Welton Sts.\n\nton, Pres. and Treas.\ncery Store"
+    },
+    {
+      "bbox": [
+        1576,
+        1732,
+        1768,
+        1758
+      ],
+      "label": "text",
+      "text": "DENVER, COLO."
+    }
+  ]
+}

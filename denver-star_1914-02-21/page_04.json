@@ -1,0 +1,408 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2087,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        178,
+        185,
+        743,
+        244
+      ],
+      "label": "doc_title",
+      "text": "The Denver Star"
+    },
+    {
+      "bbox": [
+        345,
+        260,
+        576,
+        319
+      ],
+      "label": "text",
+      "text": "CHAS. S. MUSE, Editor.\nG. G. ROSS, Associate Editor"
+    },
+    {
+      "bbox": [
+        140,
+        319,
+        450,
+        807
+      ],
+      "label": "text",
+      "text": "PHONE CH\n1026 Nineteenth St\n\nSUBSCRIPT\n\nOne Year\nSix Months\nThree Months\n\nTo get advantage of the $1.50 cash within 30 days after date of expira\n\nIt occasionally happens that paper in case you do not receive any number and we will cheerfully forward a dupe.\n\nRemittances should be made by the Order, Registered Letter or Bank Drawn same as cash for the fractional part of taken.\n\nSend all remittances\n\nCommunications to receive attention, plainly written only upon one returned unless stamps are sent for post.\n\nEntered as second class matter in Colorado."
+    },
+    {
+      "bbox": [
+        247,
+        341,
+        679,
+        441
+      ],
+      "label": "text",
+      "text": "PHONE CHAMPA 2962\n\n1026 Nineteenth Street, Denver, Colorado\n\nSUBSCRIPTION RATES:"
+    },
+    {
+      "bbox": [
+        357,
+        425,
+        561,
+        441
+      ],
+      "label": "paragraph_title",
+      "text": "SUBSCRIPTION RATES:"
+    },
+    {
+      "bbox": [
+        152,
+        442,
+        764,
+        777
+      ],
+      "label": "text",
+      "text": "One Year ..... $2.00\nSix Months ..... 1.00\nThree Months ..... 5.00\nTo get advantage of the $1.50 cash rate, all subscriptions must be paid within 30 days after date of expira-tion.\n\nIt occasionally happens that papers sent to subscribers are lost or stolen in case you do not receive any number when due, inform us by postal card and we will cheerfully forward a duplicate of the missing number.\n\nRemittances should be made by Express Money Order, Postoffice Money Order, Registered Letter or Bank Draft. Postage stamps will be received the same as cash for the fractional part of a dollar. Only 1-cent and 2-cent stamps taken. Send all remittances to THE DEN-VER STAR.\n\nCommunications to receive attention must be newsy, upon important sub-jects, plainly written only upon one side of the paper. No manuscript returned unless stamps are sent for postage.\n\nEntered as second class matter at the postoffice in the city of Denver, Colorado."
+    },
+    {
+      "bbox": [
+        192,
+        807,
+        412,
+        823
+      ],
+      "label": "paragraph_title",
+      "text": "THE WATER ELECTION."
+    },
+    {
+      "bbox": [
+        141,
+        833,
+        450,
+        1558
+      ],
+      "label": "text",
+      "text": "The people of Denver have spoken and by their votes have determined that the retail plan should at this time be rejected. We did not nor do we agree with the majority of the people's judgment. However, we accept the result for the best of Denver's welfare and interest. We only hope that the people were right, thoroughly understood what they were doing and did not make a grievous mistake. The Star endeavored to show its patrons the two paths that were open to them, one the straight path of peace, of freedom, of progress, advancement, justice and health; the other, the sinuous path of litigation, confusion, graft, retrogression and business stagnation. We attempted to present the truth to our readers, such truth that would shine out in darkness and locate the seeming fair appearance of disguised bitterness and strife placed along the voter's pathway. One thing beyond all others we are glad of, and that is, in Districts J, H, and T, where the bulk of the Negroes are, they showed their strength by the returns from the precincts. Of this we are gladly proud of their demonstration of the approval of the retail plan. And like soldiers to battle, we in the future will march alike doing what we can for Denver's best interest, her general welfare and common prosperity, discharging our varied duties and obligations. While the Negro, along with the Star, desired the success of the retail plan, yet we bow most willingly to the will of the majority and join hands for a \"Bigger, Brighter and Better\" Denver."
+    },
+    {
+      "bbox": [
+        149,
+        1594,
+        442,
+        1617
+      ],
+      "label": "paragraph_title",
+      "text": "HAMPTON INSTITUTE NORTH."
+    },
+    {
+      "bbox": [
+        140,
+        1631,
+        445,
+        2701
+      ],
+      "label": "text",
+      "text": "Noted Speakers Praise Work of Well Known Southern School.\n\nThe meetings held under the auspices of the Armstrong association in the Brooklyn Academy of Music Monday evening, Jan. 26, and at Carnegie hall, New York, Tuesday, Jan. 27, in the interest of the Hampton (Va.) institute were each largely attended and enthusiastic. The plantation songs and other melodies sung by the Hampton students were well rendered and highly enjoyed by the audience at both meetings.\n\nBesides the popularity of the speakers and what they said, the most interesting feature of the meetings was the moving pictures showing step by step the success of John Henry, a typical country boy from the time he left his home in Kentucky until his graduation from Hampton. The Hon. Job E. Hedges was the chief speaker at the Brooklyn meeting. He was followed by Major R. R. Moton, who made a brief address.\n\nMr. Hedges in giving his impressions of Hampton Institute said, \"Hampton is a good place for white people because it makes them whiter. There you find a sanctity of emotion that makes you ashamed. At Hampton true religion is to be found. We sometimes go to church because it is decent. They go because they've got to have it.\" he said. He spoke glowingly of Robert C. Ogden. \"I know of no place where a dollar will breed more dollars of value than at Hampton.\"\n\nMajor Robert R. Moton, disciplinary officer at Hampton, said: \"The most serious problem of the nation is the adjustment of the relations of the two races. Hampton Institute affords a common platform for all men, black and white, north and south, to meet on \"Slavery,\" declared Mr. Moton, \"left the Negro with the impression that work with the hands was degrading and to be despised. But Hampton is doing away with this thought. The white race taught us that anything black was to be despised. Hampton has taught my race to be proud of itself. God intended that the Negro should be as good as any other race. And what will go a great way toward the solving of the problem is a belief of white people in the colored man and a belief by the colored man in the white person.\"\n\nThe Hon. George McAney, president of the board of aldermen, was the chief speaker at the Carnegie hall meeting in New York."
+    },
+    {
+      "bbox": [
+        453,
+        441,
+        755,
+        1078
+      ],
+      "label": "text",
+      "text": "in rate, all subscriptions must be paid\non sent to subscribers are lost or stolen\nwhen due, inform us by postal card\noricate of the missing number.\n\nExpress Money Order, Postoffice Money.\nPostage stamps will be received th\na dollar. Only 1-cent and 2-cent stamps\nto THE DEN-VER STAR.\n\nOn must be newsy, upon important su\nside of the paper. No manuscript re\nage.\n\nat the postoffice in the city of Denver\n\nWELL QUALIFIED\nFOR LIFE'S WORK\n\nWide Influence Exerted by Dr.\nH. Roger Williams.\n\nMAN OF LIBERAL TRAINING."
+    },
+    {
+      "bbox": [
+        453,
+        1112,
+        755,
+        2780
+      ],
+      "label": "text",
+      "text": "Success of a Former Instructor at Gilber Academy In Louisiana, Who Forsook the Trades For a Professional Career\u2014Author of Several Books and Poems of Merit.\n\nMobile, Ala.\u2014H. Rogers Williams, M. D., one of the most progressive men of his profession in this city, was born of slave parents on a sugar plantation in Franklin parish, La. While quite a lad he was taken north by a family of white people and given a high school education. He is a splendid example of the possibilities of one who possesses a liberal education, coupled with good common sense and backed by a strong Christian character.\n\nAlthough he labors under the usual disadvantages of race discrimination and the sentiment which generally prevails against members of his race in this section, he has by persistence and honesty devoted himself to the work of racial uplift in this community for the past fourteen years. He is highly respected and well known. He learned the printer's trade in connection with his literary training, which gave him a practical knowledge along business lines.\n\nIn 1887 Dr. Williams was appointed to teach printing in Gilber academy, Balwin, La., which is just five miles from the place where he was born. During his spare hours he pursued the preparation course for college. It was during the fall of 1890 that he had his first blow, because at this time his mother died. With a determination to better prepare himself for usefulness, he resigned the position at Gilber academy and went to Walden university, Nashville, Tenn., for the purpose of pursuing a college course and a course in medicine. Just as soon as he had completed the college course he was admitted to Meharry Medical college.\n\nAfter faithfully applying himself to his studies he graduated in 1900 as a doctor of medicine. He came to Mobile shortly after graduating and located here after taking the state board examination. Dr. Williams married Miss Fannie Cook, who was then a teacher in the public schools of Huntsville, Ala. Two children have blessed their union. During the many years he has been practicing medicine in Mobile he has made many friends among his own people and some of the best white people. He has invested in real estate and now owns some of the best property in the heart of the city.\n\nDr. Williams is an enthusiastic optimist. He is known for doing the impossible. Nothing discourages or makes him afraid. He is a firm believer in the ultimate survival of the fittest and looks at everything from a philosophical viewpoint. His success has been phenomenal, and he has been honored in a great many ways.\n\nBeing a member of the Methodist Episcopal church, he was elected as a delegate to the general conference of his church which met in Los Angeles in 1894. For the past three years he has served as president of the Emancipation association in succession and is state grand medical director for the Order of the Court of Calanthe, the female branch of the Knights of Pythias, and holds a like position with the Knights of Honor and the Knights and Ladies of Honor and is local medical examiner for the Knights of Pythias and several other societies. In the uniform rank of the Knights of Pythias he is assistant surgeon general on the brigadier general's staff."
+    },
+    {
+      "bbox": [
+        776,
+        191,
+        1064,
+        304
+      ],
+      "label": "doc_title",
+      "text": "LEADING CITY IN THE SOUTHWEST"
+    },
+    {
+      "bbox": [
+        775,
+        340,
+        1066,
+        413
+      ],
+      "label": "text",
+      "text": "Progress of Afro-Americans In Little Rock, Ark."
+    },
+    {
+      "bbox": [
+        773,
+        443,
+        1062,
+        474
+      ],
+      "label": "paragraph_title",
+      "text": "BIG REAL ESTATE VALUES."
+    },
+    {
+      "bbox": [
+        773,
+        443,
+        1062,
+        474
+      ],
+      "label": "text",
+      "text": "BIG REAL ESTATE VALUES."
+    },
+    {
+      "bbox": [
+        772,
+        509,
+        1064,
+        596
+      ],
+      "label": "text",
+      "text": "Encouraging Report Concerning Our Success In Business, Facilities For Education and Growth In Religious Culture\u2014Mrs. J. S. Pankey Heads Group of Energetic Women."
+    },
+    {
+      "bbox": [
+        833,
+        607,
+        1009,
+        622
+      ],
+      "label": "paragraph_title",
+      "text": "By RALPH W. TYLER."
+    },
+    {
+      "bbox": [
+        761,
+        624,
+        1066,
+        2682
+      ],
+      "label": "text",
+      "text": "Little Rock, Ark.\u2014About four hours' ride out of Memphis almost due west brings one to this metropolitan of Arkansas, a city in which the 20,000 colored people who live and thrive constitute nearly one-half of the total population. Little Rock is so far in the southwest, so far off among the pines and hills of the state whose name, part French and part Indian, implies \"bend of the smoky water,\" that but few of us who live east of the Mississippi know how rapidly our race is forging to the front in this section.\n\nThe per capita wealth of the colored people in Little Rock averages $92.10. When you consider that Arkansas is still largely a farming state, that this little city with about 45,000 population is the most pretentious municipality.\n\nJOHN E. BUSH.\n\nin the state and that our race is but fifty years removed from slavery and only twenty years removed from a period when school facilities stood only as the antonym for encouragement, this per capita wealth is a wonderful achievement. It also emphasizes the good results of education.\n\nTo prove that our race in Little Rock is as eager for brain wealth as it is for material wealth there are seven public schools and two colleges for \"higher education.\" In this community of 20,000 colored people there are seventy-eight teachers in the public schools and fifty instructors in the two colleges. There are fifteen Baptist twelve Methodist churches and one each of the Roman Catholic, Congregational, Presbyterian and Episcopal denominations to inculcate Christianity and high moral ideals.\n\nThe race in this city is engaged in practically every line of business found among the white people except banking. This success is due largely because of co-operation and race pride. The colored people have $350,000 invested in business enterprises and own a trifle over $1,000,000 worth of real estate\u2014a very encouraging showing indeed.\n\nThere are three lawyers, who enjoy a splendid practice; ten physicians, who are the equal of any other ten that might be picked from among any other race; three skillful dentists and ten retail merchants, not including a jeweler and the three very excellent drug stores conducted by colored men.\n\nLittle Rock has the only full fledged, active colored female real estate dealer and broker I have met up with in my travels in the person of Mrs. J. S. Pankey. There is also a number of grocery stores conducted here by men of the race. Luther Moore is president of the Local Negro Business league. Mrs. Helen Fleetwood, Mrs. Jennie Miller and Mrs. M. E. Jeffries, with Mrs. Pankey, form a quartet of energetic, intelligent and successful business women.\n\nIn my more than 10,000 miles traveled I have only met up with two colored men engaged as wholesale commission merchants, and Little Rock has one of these two, who does a business of about $60,000 annually.\n\nJohn E. Bush, national grand secretary of the Mosaic Templars of America, is reputed to be the wealthiest as well as one of the most public spirted and progressive men in this community among our people. The splendid Mosaic temple, but recently dedicated and rivaling the fine Odd Fellows temple at Atlanta, is a tribute to the energies and race interest of Mr. Busia. Few communities can boost of such public spirted men as John E. Bush, Attorney Scipio A. Jones, C. R. Jordan, B. W. Jackson, Luther Moore and W. T. Taylor. In the Local Negro Business league Little Rock has a fine organization for the promotion not only of business among the race, but in assisting to advance the race along every honorable and desirable line. The progress being made by the race here is most encouraging, and it demonstrates the power in organization and co-operation."
+    },
+    {
+      "bbox": [
+        762,
+        2680,
+        1059,
+        2713
+      ],
+      "label": "text",
+      "text": "One who visits Little Rock should not leave without calling upon that old"
+    },
+    {
+      "bbox": [
+        1070,
+        190,
+        1378,
+        969
+      ],
+      "label": "text",
+      "text": "patrilarch, one of the three remaining \"old guard,\" Judge Mifflin W. Gibbs. More than ninety years have rendered the judge's motor members\u2014his legs\u2014a bit weak and uncertain, but his mind, still unclouded by years, is as keen as ever. I dropped in on him while here and listened to his story of Little Rock's growth from almost a pine forest when he located here, to a most pretentious commercial city; listened to his story of the progress of the race and the part he has played in it from the time he was one of the \"forty-niners\" who went with the \"California or bust\" crowd in 1840 in quest of gold nuggets down to the present time, when his race controls more than $1,000,000 of real estate in this city.\n\nBefore the judge retired, and that was a number of years ago, he was reputed to be one of the wealthiest Negroes in the United States. He had $50,000 when he married, more than sixty years ago, and has not had a dollar less since. A Philadelphiaian by birth, a rugged westerner by adoption, he possesses still all the charm and conservatism of the natives of the City of Brotherly Love. From him I learned much about Little Rock, much about the finest, most hospitable and most progressive of our race who are registering a high water mark of business success.\n\nThe many beautiful homes owned and occupied by Negroes here, the splendid business houses in Ninth street in the vicinity of the Mosaic temple owned and operated by men and women of the race and the high order of intelligence to be found among these 20,000 Negroes are evidence of a wonderful progress, of which but few of us who reside east of the Mississippi have any idea. Race prejudice only serves to redouble the southern Negro's efforts."
+    },
+    {
+      "bbox": [
+        1072,
+        986,
+        1370,
+        1006
+      ],
+      "label": "paragraph_title",
+      "text": "HOWARD. UNIVERSITY NOTES."
+    },
+    {
+      "bbox": [
+        1066,
+        1022,
+        1371,
+        1671
+      ],
+      "label": "text",
+      "text": "Happenings Among the Students of Well Known Institution.\n\nDr. H. T. Kealing, president of Western university, Kansas City, Kan., addressed the student body of Howard university in Washington, recently on the subject of \"The Content, Intent and Extent of Man\" under the auspices of the staff of the Commercial College Outlook.\n\nThe January issue of the Howard University Record is the teachers' college number. It contains a full list of graduates, attractive careers for college men and women and the Teachers' College Catechism, illustrated.\n\nThe Commercial college of the university is beginning a study of the Negro in business. George W. Hines is the collaborator.\n\nA great deal of interest was manifest in the department of English of the School of Liberal Arts in the recent contest for the Hon. J. Edward Barry prize of $10 for the best declaration. The prize was won by Miss Kitty Bruce of the freshman college class.\n\nThe season of basket ball is now on, and Howard is making her usual winning record. Recently Howard outplayed and easily defeated the great Loendi club of Pittsburgh, with a score of 27 to 14 at the True Reformers' hall. It is said that the greatest game of basket ball ever witnessed in the city of New York between two colored teams was that played between Howard and Hampton the latter part of January, which resulted in a score of 27 to 24 in favor of Howard."
+    },
+    {
+      "bbox": [
+        1069,
+        1685,
+        1366,
+        1729
+      ],
+      "label": "paragraph_title",
+      "text": "WORK OF NATIONAL BAPTIST FOREIGN MISSION BOARD"
+    },
+    {
+      "bbox": [
+        1067,
+        1753,
+        1369,
+        2515
+      ],
+      "label": "text",
+      "text": "Needs of Field Workers Presented by Secretary L. G. Jordan.\n\nRev. Dr. L. G. Jordan, corresponding secretary of the foreign mission board of the national Baptist convention, is to be congratulated upon the success of the work in the foreign field during his administration. He is a tireless worker and has traveled in all sections of the country in the interest of the foreign mission work of the denominations from year to year.\n\nIt is doubtful whether his equal could be found in the denomination so far as ambition, love for the work and experience in the many exacting details of missionary management are concerned. Dr. Jordan is now making an effort to raise sufficient money to meet the needs of the workers in the foreign field by April 15. The churches and Sunday schools of the denomination throughout the jurisdiction of the convention are asked to make offerings for missions on Easter Sunday.\n\nIn speaking of the importance of paying the missionaries their salaries promptly Dr. Jordan says: \"Of course our work is too scattered to do what should be done with the small amount of money raised yearly. Think of trying to push work in West Africa with three missionaries, work in South Africa with no more than twenty workers, work in Central Africa with five workers, work in East Africa with four workers and work in the West Indies with seven workers! At every point there are debts and, at many, unfinished houses. It will take $50,000 this year to adequately put our stations in first class shape and pay our workers. If we can get $15,000 from our Easter rally we can greatly relieve many of our pressing needs.\""
+    },
+    {
+      "bbox": [
+        1070,
+        2532,
+        1368,
+        2548
+      ],
+      "label": "paragraph_title",
+      "text": "Progress of the Gibbons High School."
+    },
+    {
+      "bbox": [
+        1068,
+        2534,
+        1370,
+        2708
+      ],
+      "label": "text",
+      "text": "Progress of the Gibbons High School. The progress of the Gibbons high school in Dallas, Tex., is attracting the attention of educators throughout the state on account of the industry of the students, the proficiency of the teachers and the large enrollment for the present term. The enrollment of students is over 600, and there is a large number of applicants waiting to be admitted."
+    },
+    {
+      "bbox": [
+        1414,
+        396,
+        1959,
+        430
+      ],
+      "label": "text",
+      "text": "UNION HEALTH and ACCIDENT POLICIES ALWAYS SATISFY"
+    },
+    {
+      "bbox": [
+        1381,
+        462,
+        1907,
+        1032
+      ],
+      "label": "text",
+      "text": "CAPITAL AND SURPLUS $150,000.00\n\nBirmingham, Ala., Feb. 2, 1914.\nUnion Health & Accident Co.,\nDenver, Colo.\nGentlemen:\nYour check for $141.65 in payment of my claim for injury to head, shoulder and hip, due to a fall, has been received. I want to thank you for your prompt action in this matter. You have a very large membership in Birmingham and it will continue to increase, as the claims are always satisfactorily adjusted.\n\nAgain thanking you, and wishing you the very best success, which you certainly deserve. I remain.\n\nS. L. STEINBACK.\n\nBERT PATRICK\nPhone York 6514 2439 Ogden\n\nGeo. Morrison's New Orchestra\n[COLORED]\n\nJ. H. BIGG\n1417 E. 24th AVI"
+    },
+    {
+      "bbox": [
+        1535,
+        749,
+        1832,
+        936
+      ],
+      "label": "text",
+      "text": "BERT PATRICK\nork 6514 2439 C"
+    },
+    {
+      "bbox": [
+        1408,
+        792,
+        1956,
+        847
+      ],
+      "label": "text",
+      "text": "BERT PATRICK\nPhone York 6514 2439 Ogden St."
+    },
+    {
+      "bbox": [
+        1381,
+        1032,
+        1675,
+        1331
+      ],
+      "label": "text",
+      "text": "TEACHER OF VIOLIN\nUp-to-date Music and Harmony furnished for all occasions.\n\nGEO. MORRISON, Director and Mgr.\nPhone Hickory 1418\n4242 Tejon St. Denver\n\nKnight &"
+    },
+    {
+      "bbox": [
+        1535,
+        1223,
+        1832,
+        2195
+      ],
+      "label": "text",
+      "text": "Right & Land\nal Company\nSt St. Phone Ma\nQuick Delivery. Full Weigh\n$3.75\n\nCoal,\nCoal,\n\nIn Phone Orders amounting to\n\nREO CLUB\nTHE POINTS PLEASURE\nrooms for all Gentlemen Organi-\nfree. Library, Reading, Correx\nBatn Rooms. Private Teleph\nL HALL AND BARBER SH\nIN CONNECTION\nBton St.\nKEY, Pres.-Sec. E. R. PAGE,"
+    },
+    {
+      "bbox": [
+        1377,
+        1294,
+        1981,
+        1492
+      ],
+      "label": "text",
+      "text": "Knight & Landers Coal Company . .\n915-21st St. Phone Main 8359\nQuick Delivery. Full Weight"
+    },
+    {
+      "bbox": [
+        1376,
+        1724,
+        1980,
+        1754
+      ],
+      "label": "text",
+      "text": "Nickel back on Phone Orders amounting to $1.00 or over."
+    },
+    {
+      "bbox": [
+        1385,
+        1821,
+        1975,
+        2137
+      ],
+      "label": "text",
+      "text": "REO CLUB\n\"THE FIVE POINTS PLEASURE HOUSE\"\nPrivate Rooms for all Gentlemen Organization and\nMeetings, Free. Library, Reading, Correspondence,\nWhist and Batn Rooms. Private Telephone Room\nPOOL HALL AND BARBER SHOP\nIN CONNECTION\n2710-12 Welton St. Phone Main 2759\nF. D. RATLEY, Pres.-Sec. E. R. PAGE, Mgr.-Treas."
+    },
+    {
+      "bbox": [
+        1535,
+        2365,
+        1832,
+        2644
+      ],
+      "label": "text",
+      "text": "EMMETT WILLIAMS,\nProp.\n\nThe Star Barb\nand POOL\n\nFirst Class in every H"
+    },
+    {
+      "bbox": [
+        1681,
+        749,
+        2001,
+        2451
+      ],
+      "label": "text",
+      "text": "J. H. BIGGINS\n1417 E. 24th AVENUE\nFURNITURE\nREPAIRING\nSECOND-HAND FURNITURE\nBOUGHT AND SOLD\nPhone, York 7602\n\nLanders\nmpany . .\nPhone Main 8359\n\nFull Weight\n\n$3.75 and $4.25 Ton\n6.50 Ton\n6.00 Ton\n$1.00\n25\u00a2\n10\u00a2\nis amounting to $1.00 or over.\n\nCLUB\n\"PLEASURE HOUSE\"\nIntlemen Organization and\nReading, Correspondence,\nPrivate Telephone Room\nD BARBER SHOP\nNECTION\nPhone Main 2759\nE. R. PAGE, Mgr.-Treas.\n\nMake it your business to trade with\nthe store that employs colored help,\nor that advertises in the colored press,\nor that is friendly disposed toward the\nNegro. Put sense and power in the\nspending of your money.\n\nThe STAR stands by the people.\nWill the people stand by the STAR?\nIf so, give us your job printing and\nadvertising."
+    },
+    {
+      "bbox": [
+        1681,
+        2486,
+        2001,
+        2780
+      ],
+      "label": "text",
+      "text": "Star Barber Shop\n1 POOL ROOM\nClass in every Particular\nGIVE US A TRIAL\nSt. Denver, Colo."
+    },
+    {
+      "bbox": [
+        1826,
+        2451,
+        1951,
+        2486
+      ],
+      "label": "text",
+      "text": "HENRY FLOWERS Mgr."
+    }
+  ]
+}
