@@ -1,0 +1,358 @@
+{
+  "page": 2,
+  "image": "images/page_02.jpg",
+  "width": 2120,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        291,
+        175,
+        597,
+        205
+      ],
+      "label": "paragraph_title",
+      "text": "THE FORUM"
+    },
+    {
+      "bbox": [
+        265,
+        279,
+        632,
+        358
+      ],
+      "label": "text",
+      "text": "Entered as second-class matter, February 24, 1904, at the postoffice at Springfield, Ill., under the Act of Congress of March 3, 1879."
+    },
+    {
+      "bbox": [
+        293,
+        813,
+        623,
+        840
+      ],
+      "label": "text",
+      "text": "Saturday, February 12, 1910"
+    },
+    {
+      "bbox": [
+        333,
+        878,
+        564,
+        899
+      ],
+      "label": "paragraph_title",
+      "text": "SEPARATE SCHOOLS."
+    },
+    {
+      "bbox": [
+        260,
+        946,
+        634,
+        1442
+      ],
+      "label": "text",
+      "text": "Several prominent colored men think separate schools for colored children in the districts where the colored population is so large will be a good thing. The logic used in the argument is sound. The claim is that colored teachers will serve to change the atmosphere and not only inspire but elevate the colored youth. The claimants point to several cities where colored schools or separate schools are in vogue. This does not mean that it will be practicable to have all ward schools separate, as there are but few colored people in some wards. This idea does not mean to interfere with the high school either. These ideas are good ones"
+    },
+    {
+      "bbox": [
+        286,
+        1492,
+        609,
+        1513
+      ],
+      "label": "paragraph_title",
+      "text": "THE BENEFITS OF CRITICISM."
+    },
+    {
+      "bbox": [
+        264,
+        1561,
+        637,
+        2486
+      ],
+      "label": "text",
+      "text": "Friendly criticism at all times tends to make ones efforts better, more conscientious; that is, when made for that specific purpose. Some of us make palpable blunders in many ways, they are varigated and diversified, and we stumble and keep right on regardless. In our home life, our church, lodge and literary affairs, much criticism is wont to be made and if given at the opportunity time and in the proper spirit, will be a remedial panacea for all the little ills that crop out in our every day life. Apropos the above, we wish to say that the Negro newspaper extols many things done by the race when they know that way down deep under the left side of our vests, censure should be made without reserve. This has its cause, you know\u2014his subscription list keeps him mute. All literary productions are criticised. Who has not heard of Jenette Guder, or W. L. Hubbard, the musical critic of the Chicago Tribune? Then there is our own Sylvester Russell who has done so much to bring the Negro stage performers to such an attitude of excellence. For our part, we intend to say things advisedly and our prime object shall be for the betterment of all concerned. Friendly criticism will be a boor to us."
+    },
+    {
+      "bbox": [
+        270,
+        2530,
+        645,
+        2670
+      ],
+      "label": "text",
+      "text": "It is sometimes with the church as it is with nations, 'War must sometimes be carried on in order to establish a sound and durable peace at last.'-N.B Union."
+    },
+    {
+      "bbox": [
+        646,
+        170,
+        1033,
+        1151
+      ],
+      "label": "text",
+      "text": "We met the governor early last fall and on first sight, he impressed us as being perfectly trustworthy, fair and conscientious; we had faith in him because of his clear and concise manner of expressing himself, his countenance as was expressed through his facial contour at once made us lose any fear or ill-att-easiness we had contemplated, superinduced by individuals who are averse to the governor and who have said that he was cold and not approachable. Not an atom of the marble heart, nor a tint or scintilla of the iceberginess no refrigerator greeting, no evaseness, but the direct antithesis met us; cordial, pleasant and businesslike. We were agreeably surprised, as we had felt all along that the governor was friendly toward us. From now on we shall feel that Charles S. Deneen whether governor of this great state, or United States Senator, President, minister extraordinary plenipotentiary to the Court of St. James, we shall abide in our faith of his friendship for the Negro. Guess everyone has read of the Cairo hellishness, well the governor's stand in that affair magnifies our already well-founded and premeditated impressions of his magnanimity.\u2014W.H.B."
+    },
+    {
+      "bbox": [
+        643,
+        1194,
+        1021,
+        1408
+      ],
+      "label": "text",
+      "text": "The required number of signatures to the petition of the local option advocates having been secured, a real and genuine combat is to ensue. The petition is: Shall Springfield become local option territory? Those who are for it will vote yes in the square and the contrary no."
+    },
+    {
+      "bbox": [
+        645,
+        1449,
+        1022,
+        1638
+      ],
+      "label": "text",
+      "text": "Adversity is not necessarily an evil. To be thrown upon one's own resources is to be cast in the very lap of fortune, for our faculties then undergo a development and display an energy of which they were previously unsusceptible.\u2014N. B. Union."
+    },
+    {
+      "bbox": [
+        694,
+        1685,
+        972,
+        1706
+      ],
+      "label": "paragraph_title",
+      "text": "OUR REPRESENTATIVES."
+    },
+    {
+      "bbox": [
+        647,
+        1735,
+        1023,
+        2187
+      ],
+      "label": "text",
+      "text": "The people of this congressional district, two years ago, elected men to legislate for them of the highest political and moral integrity\u2014men to whom they can point to with some degree of pride These men have stood for sound legislation and for the popular bills versed by their constituents\u2014the primary, deep waterways, the commission farm and safe mining bills. These men on the Republican side are: Messrs. Logan Hay, in the senate; Thos. E. Lyon and Harry W. Wilson representatives. The future of these young men is bright. These men may be depended on on all sane measures."
+    },
+    {
+      "bbox": [
+        650,
+        2218,
+        1027,
+        2259
+      ],
+      "label": "paragraph_title",
+      "text": "Rev. Wilson Preaches Able Sermon"
+    },
+    {
+      "bbox": [
+        650,
+        2264,
+        1028,
+        2525
+      ],
+      "label": "text",
+      "text": "Rev. R. L. Wilson of the Episcopal church (St. Luke) preached a most able and classic sermon last Sunday-all of his sermons are masterly ones but the one last Sunday was especially good. The Sunday school is increasing and the instructions are thorough. Last Sunday was A-sh Wednesday and services were held at the edifice."
+    },
+    {
+      "bbox": [
+        654,
+        2572,
+        1034,
+        2668
+      ],
+      "label": "text",
+      "text": "Mrs. Clark Thompson is in Chicago and will spend a week buying her spring stock of millinery goods."
+    },
+    {
+      "bbox": [
+        1069,
+        167,
+        1759,
+        224
+      ],
+      "label": "doc_title",
+      "text": "TUCKER'S PLACE."
+    },
+    {
+      "bbox": [
+        1067,
+        324,
+        1762,
+        467
+      ],
+      "label": "text",
+      "text": "First class accommodations Regular meals at regular meal hours."
+    },
+    {
+      "bbox": [
+        1327,
+        649,
+        1760,
+        684
+      ],
+      "label": "text",
+      "text": "H TUCKER, Proprietor."
+    },
+    {
+      "bbox": [
+        1067,
+        586,
+        1325,
+        613
+      ],
+      "label": "text",
+      "text": "New Telepnone, 1478."
+    },
+    {
+      "bbox": [
+        1089,
+        1567,
+        1351,
+        1592
+      ],
+      "label": "text",
+      "text": "For Fine Commercial Work"
+    },
+    {
+      "bbox": [
+        1075,
+        1935,
+        1370,
+        1958
+      ],
+      "label": "paragraph_title",
+      "text": "OUR ADVERTISING RATES."
+    },
+    {
+      "bbox": [
+        1036,
+        1975,
+        1407,
+        2263
+      ],
+      "label": "text",
+      "text": "For display matter one time, 15c the inch; over one time, 10c, 6 months or one year, special prices made.\n\nReading matter, one time, 7c the line; seven words to the line; over one time 5c; for long articles or church advertising, some reduction.\n\nFor clubs, socials, ect., when matter contains over 75 words and under 200, send 50 cents if you desire it published in full. MANAGER."
+    },
+    {
+      "bbox": [
+        1047,
+        2597,
+        1421,
+        2668
+      ],
+      "label": "text",
+      "text": "You can always depend on The Forum to stand for principle above all else."
+    },
+    {
+      "bbox": [
+        1441,
+        741,
+        1763,
+        770
+      ],
+      "label": "text",
+      "text": "You won't find styles like the"
+    },
+    {
+      "bbox": [
+        1442,
+        820,
+        1760,
+        863
+      ],
+      "label": "paragraph_title",
+      "text": "IMPERIAL"
+    },
+    {
+      "bbox": [
+        1436,
+        893,
+        1761,
+        1349
+      ],
+      "label": "text",
+      "text": "You won't find styles near as swagger. You won't find Imperial $3 Hats at any other store because we have the exclusive agency for this town. We believe it's the best $3 Hat made. That's why we secured the exclusive agency for them. You'll think so when you see the new winter shapes that are ready."
+    },
+    {
+      "bbox": [
+        1421,
+        1562,
+        1796,
+        1610
+      ],
+      "label": "text",
+      "text": "$1.50 to East St. Louis every Saturday and Sunday"
+    },
+    {
+      "bbox": [
+        1424,
+        1658,
+        1797,
+        1739
+      ],
+      "label": "text",
+      "text": "Call at this office for type-writing, work. $ 3 0 5 \\frac {1}{2} $ So. 6th St. Old phone 998. short hand and general stenographic"
+    },
+    {
+      "bbox": [
+        1509,
+        1769,
+        1712,
+        1791
+      ],
+      "label": "paragraph_title",
+      "text": "TO THE LAWYER."
+    },
+    {
+      "bbox": [
+        1422,
+        1808,
+        1795,
+        1978
+      ],
+      "label": "text",
+      "text": "Special\u2014The Forum will be pleased to have that legal notice, divorces, etc. It is a paper of general circulation; careful in reading proof; no errors shall occur. Published regularly and out on time."
+    },
+    {
+      "bbox": [
+        1493,
+        2066,
+        1728,
+        2097
+      ],
+      "label": "paragraph_title",
+      "text": "C. H. JONES"
+    },
+    {
+      "bbox": [
+        1425,
+        2108,
+        1802,
+        2385
+      ],
+      "label": "text",
+      "text": "CONTRACTOR AND BUILDER Real Estate, Rentals and Investment Loans H. Henshaw, Solicitor TERRE HAUTE, IND Special services at Episcopal church Sunday-don't miss it Everybody invited. 7:30, out by 8:45 or 9 P.M."
+    },
+    {
+      "bbox": [
+        1561,
+        2432,
+        1678,
+        2455
+      ],
+      "label": "paragraph_title",
+      "text": "Call at The"
+    },
+    {
+      "bbox": [
+        1430,
+        2491,
+        1812,
+        2663
+      ],
+      "label": "text",
+      "text": "New millinery shop for the latest style hats. Best courtiies given all and your patronage is solicited. Come one and all.\u2014Mattie Tucker, Prop., 206 N. 14th St."
+    }
+  ]
+}

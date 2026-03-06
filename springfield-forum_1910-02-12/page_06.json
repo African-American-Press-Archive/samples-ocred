@@ -1,0 +1,298 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 2138,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        284,
+        825,
+        656,
+        896
+      ],
+      "label": "paragraph_title",
+      "text": "of the State Insurance Department."
+    },
+    {
+      "bbox": [
+        283,
+        913,
+        658,
+        1060
+      ],
+      "label": "text",
+      "text": "Capt. Byrd will introduce Dr. Booker T. Wa hington to the large audience at the arsenal and who will deliver an address before the audience tonight at the Union Baptist church."
+    },
+    {
+      "bbox": [
+        314,
+        1103,
+        627,
+        1135
+      ],
+      "label": "paragraph_title",
+      "text": "Chancery Notice."
+    },
+    {
+      "bbox": [
+        278,
+        1150,
+        654,
+        1271
+      ],
+      "label": "text",
+      "text": "STATE OF ILLINOIS |\nSangamon Co. |\nss.\n\nCharles S. Gibbs, Complainant's Solicitor,\nCircuit Court, March Term, A. D. 1910.\nRobert White"
+    },
+    {
+      "bbox": [
+        284,
+        1307,
+        657,
+        1655
+      ],
+      "label": "text",
+      "text": "Afidavit of the non residence of Sadie White, defendant above named, having been filed in the office of the Clerk of the Circuit Court of said county, notice is hereby given to the said Sadie White that the complainant filed his bill of complaint in said court in the Chancery side thereof, on the 27th day of January, A. D. 1910, and that a summons issued out of said court against said defendant, returnable on the first Monday of March next, 1910, as is by law required.\n\nNow, unless you, the said Sadie White, shall be and appear before the Sangamon County Circuit Court on the first day of the next term thereof, to be holden at the Court House in the City of Springfield, on the first Monday of March, A. D. 1910, and plead, answer and demur to said complainant's bill of complaint, the same and the matters and things therein charged and stated will be taken as confessed, and a decree entered against you according to the prayer of said bill."
+    },
+    {
+      "bbox": [
+        456,
+        1654,
+        641,
+        1668
+      ],
+      "label": "text",
+      "text": "S. T. JONES, Clerk."
+    },
+    {
+      "bbox": [
+        374,
+        1712,
+        571,
+        1730
+      ],
+      "label": "paragraph_title",
+      "text": "SECRET SOCIETIES."
+    },
+    {
+      "bbox": [
+        288,
+        1751,
+        658,
+        1864
+      ],
+      "label": "text",
+      "text": "Central Lodge No. 3, A. F. and A. M.\nMeets every first and fourth Wednesday night at Masonic Hall, 119 North Eighth street.\nM. VANTREACE, W. M.\nWYATT JOHNSON, Sec'y."
+    },
+    {
+      "bbox": [
+        291,
+        1898,
+        659,
+        1975
+      ],
+      "label": "text",
+      "text": "St. John's Chapter No. 2, H. R. A. M.\nMeets every third Wednesday night at\nMasonic Hall, 119 North Eighth St.\nTHOMAS DONNIGAN, See'y."
+    },
+    {
+      "bbox": [
+        290,
+        2011,
+        659,
+        2126
+      ],
+      "label": "text",
+      "text": "Ivanhoe Commandery No. 3,\nKnights Templar.\nMeets every fourth Friday night at\nMasonic Hall, 119 North Eighth St.\nWM. NOBLE, E. C.\nTHOMAS DONNIGAN, Rec'dr."
+    },
+    {
+      "bbox": [
+        291,
+        2160,
+        665,
+        2645
+      ],
+      "label": "text",
+      "text": "Charles Young Lodge No. 103,\nI. B. P. O. E.\nMeets every first and third Tuesday at\nMasonic Hall, 119 North Eighth St.\nJ. W. GRADY, Sec'y.\n\nLincoln Monument Lodge No. 1,\nG. U. O. O. F.\nMeets every first and third Tuesday at\nThirteenth and Madison Sts.\nGEO. ROLLINS, N. G.\nJOS. DOUGLAS, Sec'y.\n\nGolden Gate Temple No. 2,\nKnights of Tabor.\nMeets every first and third Monday at\nMasonic Hall, 119 North Eighth St.\nF. H. HART, C. M.\nTHOMAS WARRICK, C. S.\n\nU. B. F.\nMeets every second and fourth Tuesday\nat Masonic Hall, 119 N. Eighth St.\nBENJ. LUCAS, W. M.\n\nCapitol City No. 12, K. of P.\nMeets at Masonic Hall, 119 N. Eighth\nSt., every second and fourth Monday.\nH. SALLIE, C. C."
+    },
+    {
+      "bbox": [
+        675,
+        178,
+        1051,
+        303
+      ],
+      "label": "text",
+      "text": "WANTED-Colored girls for cooks and house work. Apply at Illinois Free Employment Bureau. 3054 S.6th St."
+    },
+    {
+      "bbox": [
+        686,
+        548,
+        1035,
+        639
+      ],
+      "label": "text",
+      "text": "Anyone sending a sketch and description may quickly ascertain our opinion free whether an invention is probably patentable. Communications strictly confidential. HANDBOOK on Patents seeks patenting patents. Patents taken through Munn & receive special notice, without charge, in the"
+    },
+    {
+      "bbox": [
+        702,
+        640,
+        1014,
+        675
+      ],
+      "label": "paragraph_title",
+      "text": "Scientific American."
+    },
+    {
+      "bbox": [
+        684,
+        677,
+        1035,
+        759
+      ],
+      "label": "text",
+      "text": "A handsomely illustrated weekly. Largest circulation of any scientific journal. Terms, $3 a year; four months. $1. Sold by all newsdealers. MUNN & Co. 361 Broadway, New York Branch Office, 625 F. St., Washington, D. C."
+    },
+    {
+      "bbox": [
+        670,
+        795,
+        1045,
+        863
+      ],
+      "label": "doc_title",
+      "text": "This Space"
+    },
+    {
+      "bbox": [
+        790,
+        900,
+        915,
+        927
+      ],
+      "label": "text",
+      "text": "I $ \\cap $ FOR"
+    },
+    {
+      "bbox": [
+        753,
+        969,
+        956,
+        1023
+      ],
+      "label": "text",
+      "text": "YOU"
+    },
+    {
+      "bbox": [
+        671,
+        1069,
+        1039,
+        1094
+      ],
+      "label": "text",
+      "text": "Nothing Pays Like Advertising"
+    },
+    {
+      "bbox": [
+        755,
+        1135,
+        1026,
+        1242
+      ],
+      "label": "text",
+      "text": "THE FORUM Will be offered for the next"
+    },
+    {
+      "bbox": [
+        671,
+        1643,
+        1046,
+        1768
+      ],
+      "label": "text",
+      "text": "To all who pay in advance when name is given."
+    },
+    {
+      "bbox": [
+        673,
+        1810,
+        1045,
+        1840
+      ],
+      "label": "text",
+      "text": "Gov. Chas. S. Deneen"
+    },
+    {
+      "bbox": [
+        675,
+        2474,
+        1055,
+        2644
+      ],
+      "label": "text",
+      "text": "Is taking the stump in defense of his idea of the importance of the deep water ways and a primary bill whereby the people may directly name the men for political office and is being enthusiastically applauded."
+    },
+    {
+      "bbox": [
+        1065,
+        178,
+        1445,
+        239
+      ],
+      "label": "paragraph_title",
+      "text": "Judge Murray Visits the Schools."
+    },
+    {
+      "bbox": [
+        1052,
+        285,
+        1442,
+        1889
+      ],
+      "label": "text",
+      "text": "Judge George W. Murray's work in the juvenile court has been so fruitful, so benificent, so deserving of commendation, that the schools of this county and other counties are soliciting his services in a series of lectures to their scholars. The object being to instruct the pupils the way of right living. We take the following from the January number of the monthly publication, entitled, \"Sangamon School Interests,\" which is a very creditable publication, devoted to the Sangamon County School interests, published every month by the County Superintendent of the Sangamon County Schools; the State Officers support this journal, and we are informed have attended several of the lectures of Judge Murray to the school children named below:\n\nHon George W. Murray, Judge of the Juvenile Court on invitation of the County Superintendent has been doing a great work for the boys and girls of our county, and it is not making statements too strong to say that this kind of education for right living and the up building of moral principles in the youth of the land is not surpassed by any Juvenile Court Judge in the United States.\n\nThe lecture on the \"Two Ways\" illustrated by a handsome chart, has been delivered by Judge Murray at the following places during the month of December:\n\nDecember 3. New City, when Mr. P. H. Fitzsimmon's room had 22 present and Miss Craig's with a like number; South Cotton Hill, with Miss Priscilla Nave and 11 pupils; Miss Mildred Tobin, from Cascade School came with 8 pupils, Miss Edna Nutt, teacher at Rienzi School came with 17 pupils and the Colean district was represented by 6 pupils.\n\nThis meeting was held in the M. E. church and was attended by more than 150 people. It was a decided success.\n\nOn the evening of December 9, a fine meeting was held at the"
+    },
+    {
+      "bbox": [
+        1263,
+        2014,
+        1590,
+        2077
+      ],
+      "label": "text",
+      "text": "No matter what your physician calls for in the"
+    },
+    {
+      "bbox": [
+        1447,
+        183,
+        1834,
+        1449
+      ],
+      "label": "text",
+      "text": "Douglas Avenue M. E. church under the auspices of the Mothers' Club of the Dubois Scyool and was presided over by Mrs Cy Morrow, President of the Club A program by pupils of the school was given prior to the lecture.\n\nOn the afternoon of December 10, a meeting was held at the M.E. church at Lowder, for the schools in Talkington township.\n\nMr. Oscar Mounce, principal of the Lowder Schoool and Miss Mary Muckleston, primary teacher were present with 24 pupils each. The Prospect School was represented by W. A. Taylor, teacher and 11 pupils. The Sherman School sent 9 pupils and teacher, Miss Hattie Goass. The Victory School had 18 pupils and teacher, Miss Maude Caswell. John's Creek School was represented by Miss Bertha Bullard teacher. The County Line had 10 pupils, with Miss Anna Smith teacher, present. The Larrabee School sent 15 pupils with William Wilson, director. The Bumgardner had 4 pupils and teacher, Miss Ida Ramsey, present. The Prosperity School sent one pupil, and teacher, Miss Mayre Bailey.\n\nOn December 17, Educational Day for the schools of Logan County, Judge Murray spoke at Lincoln to boys, girls and teachers. The meeting was held in the Circuit Court room which was too small for the large audience attending.\n\nLarge crowds greeted the Judge at meetings held at Loami and Glenarn during the month."
+    },
+    {
+      "bbox": [
+        1485,
+        1489,
+        1790,
+        1513
+      ],
+      "label": "paragraph_title",
+      "text": "The Program at Grace M. M."
+    },
+    {
+      "bbox": [
+        1449,
+        1535,
+        1832,
+        1883
+      ],
+      "label": "text",
+      "text": "The program rendered at Grace M. E. church last Tuesday, was highly commeddable. Mrs. E. L. Rogers and assistants are praised for the marked success, both from a literary and financial standpoint. The church was crowded. The numbers on the program by Mesdames Yates, Brown, Gaddie, Warrick, Rogers and Misses Anna Carey and Wiola Alexander, were exceptionally good.\n\nSubscribe for The Forum and keep posted."
+    }
+  ]
+}
