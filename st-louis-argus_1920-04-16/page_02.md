@@ -1,0 +1,234 @@
+The St. Louis Argus
+PUBLISHED WEEKLY
+BY THE ARGUS PUB. CO:
+2341 MARKET ST.
+ST. LOUIS, Mo.
+Subscription $2.00 One Year
+
+## CHURCHES
+
+SPIRITUAL CHRISTIAN
+UNION CHURCH.
+2727 Lawton Ave.
+
+The Spiritual Christian Union
+church 2727 Lawton Avenue, holds
+divine spiritual services every Sunday
+Friday and Tuesday with sermon and
+dedication of the spirit forces.
+All services begin promptly at 8 p.m.
+J. S. Worthingford's doctor, assisted by
+L. J. Worthingford's secretary.
+
+## TEN DAYS RALLY AND GRAND OPENING
+
+Grant services at Moriah Baptist
+Church from April 25 to May 2.
+Power service conducted
+by Deacon Board
+
+Sunday School
+11:30 a.m. in Speech School by Pastor.
+1:30 p.m. We will march from the
+cafeteria to the Place of service
+at our new church, 1429
+North 12th Street
+
+Program For the Evening
+1:00 p.m. With the many speakers,
+10:00 a.m. Maxwell, D. D.
+10:30 p.m. W. Durant, mod.
+10:30 a.m. Rev J. Brown, pas-
+10:30 a.m. Mr. Zion, Rev R. C.
+10:30 a.m. Rev J. W. Fletcher
+Rev S. A. Mossey, D. D.
+Rev J. H. Smith, Rev L. H.
+Harris, Rev Wm. Harris,
+Rev J. K. Parker, Rev H.
+2:30 Turner Rev G. W. Clem-
+mons. All are welcome.
+A. S. Stoller, pastor, J. Boon.
+
+Monday Night: April 26
+Sunday School
+Scripture Reading.
+Pastor
+
+All will please be present.
+All Sunday Rev. John Smith, Sept.
+Sunday School
+
+Shelter by the Chair
+Address by Nester S A Norman, Pres.
+Sermon by Rev J Brown, Mr Zlon
+& Barthe Church
+
+Wednesday Night, April 28, Mission
+Circle Night
+
+All Clerks are asked to be present on
+the night.
+
+Scripture Reading
+Prayer
+
+Sermon by Rev Wm Harris
+Thursday Night, April 29, Deacons
+Night.
+
+We ask all clerks to plea to send a
+representation on this night.
+
+Sermon Reading and Prayer
+
+Ephesus from the many Deacons.
+
+Sermon by Rev R. C. Clopton, Rev.
+D. W. Morris.
+
+Friday Night, April 30, Preachers
+Night
+
+Education from the many Preachers
+The students will be at the will of the
+Their teachers.
+
+## PLEASANT GREEN BAPT. CHURCH
+Elliott Ave. and Wash St.
+
+The continuation of Pleasant Green Baptist Church's Easter baptism was held Sunday, April 11 at the foot of Franklin ave. Twelve were immersed at M. I. a. m. Rev. G. J. Miphell of Columbus Ohio, proached an excellent sermon. The following is a continuation of those who gave the paper dollar in the interest of the Easter revival: Luther Webb, Mafy Harrington, Alfred Polley, Lisa Cagge, Elina Carpain, C. D. deJuge, William Allen, A. Jarratt, Felow. Ptats, Estella Gosalovich, Bessie Marshall, Stephen Mitchell. Will Alexander. The Sunday School is doing well. The Primary department is surprisingly made by its growth under the superintendent, Chase Dixon. The Mission Vicle is progressing gently. Michael Thurgmann presides and invites every Tuesday night. All are welcome. The 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 80
+
+## SHRINING LIGHT RAPTIST
+111 Wash Street
+
+Key A. Simpson presided Sunday morning. Rev G. A. Anderson presided on Sunday night from J. Kings J. H. There will be a grand rally. Sunday afternoon. All are invited. Rev G. P. Anderson, pastor. G. Anderson, pastor.
+
+MY OLIVE BAPTIST CHURCH
+1532 WALK Street
+
+Surrey a well known benefactor of the church from 1890 to 1910. Parishman H. A. Sower, Senior School at Vernon, to Teachers, and Hilda Class every Tuesday at 10:30 a.m. Parishioner H. R. W. S. Stirling, from Mary H. There will be a rally on the fourth Sunday at 10:30 a.m. All Worship and their convocations, given by W. A. Lippop, pastor, Storer G. Miller, repentant.
+
+CHRISTIAN BAPTIST CHURCH
+107, Ancloe Street
+
+A Sunday service like no morning service at 10 a.m. Surrey readily for the reader after which Rev A. J. M. A. Arkansas delivered a hurricane message from Mary 1973, last "from this rock I will build my church." Revival is now in progress and we are driving to take night for Christ. B. Y. P. at 6 o'clock. The evening service was conducted by the pastor Come and join us—Rev E. A. Robinson pastor.
+
+# AT GERBER'S
+
+# You Save From 10 to 25 Percent By Being Your Own Clerk
+
+Our Store is being Remodeled and will be Opened Next Tuesday, April 20, Under The New Modern System Of Wait On Yourself, Cash and Carry. You Don't Have To Pay For Clerk Hire. You Save Money For Yourself.
+
+## EVERYTHING CHEAPER
+
+Watch For Our Circular And Note The Low Prices. Anyhow, Come To GERBER'S And You Will See The Difference In Prices.
+
+In Addition To Our Low Prices, We Will Continue To Give The Valuable EAGLE STAMPS with All Meats, Vegetables and Groceries.
+
+# FREE $2 Worth of Eagle Stamps will be Given to Every Lady attending our Opening, Tuesday, April 20 No purchases required.
+
+Sunday school open 9 o'clock in every Sunday at 11 o'clock. Mr. Alexs presided for all. His supporter makes an offering his trunks. At noon he wears a rally. At night he has prepared for us from the text. At 11 o'clock it was "A good soldier of Jesus Church. We will start our recess Sunday April 4th. Everyone is welcome. Prayer meeting every night this week. Performing every night first week. B. Y. P. J. most Sunday at 5:30. The Methodists night every Thursday at 5 p.m. The W. C. Simpson pastor. Beatrice Hay reporter.
+
+M. PLEASANT BAPSTEST CHURCH
+1817 N. Broadway
+
+The Mt. Pleasant Bapstest Church had a fifty Sunday afternoon. Good presiding was heard all day from the different pastors. Colleagues like Mrs. S. J. Waller presided at 1 a.m. every day.
+
+SOUTH KINLOCK PAER, MO.
+Second Bapstest Church
+
+The novel members and friends feel it is worthwhile to attend a friend's little church. Attendance was good every auxiliary Sunday under the leadership of our pastor, Rev. M. A. Marshall, the mission is dedicated to women and women with no. The priest, Rev. Patrament, will preside for 11 a.m. and praised the work and the wonderful development. The Lord's Sinner will be observed at 5 p.m. We are lined up for a new office.
+
+Keep in on us when in Kinloch—Rev.
+A. Harrold, pastor; Sister Ethella
+Gordon, secretary
+
+## GRATIOT ST. MISSION
+
+The GroundStreet Mission is providing along all lines. This pastor has at his best Sunday, at 11 o'clock. Everyday welcome. Rev. J. H. Payte pastor.
+
+## WOMAN'S UNION AUXILIARY
+
+The Woman's Palace, Ambulatory will
+work at the Pilgrim Hospital, Friday
+Sunday April 18 at 2:30 p.m. Mrs.
+Silverge, president, Miss. Quinten
+from secretary.
+
+Saturday, April 11 at 9:30 a.m. at Skipping School school 9, present 25 visitors 7. We were very pleased to have our general secretary of mission, Bet A. N. Vaughn as a guest. Bet Vaughn gathered our Sunday school with encouragement deserves. At 11 a.m., short lunch, for our extraordinary counselor, Eldrey B. P. Button. At 1 a.m. Bet Vaughn mentored an obnoxious and so tolerated, work which gave birth to our great people. At 6:30 a.m., Women's Home Mission meeting well attended and a new life was born on. Elder B. P. Button our working consultant in the field of the society. At 6:30 a.m. our own Bet Vaughn,防护员 next offering sermon service." A baseball agent. We have launched a direct festival. On Friday night of Fat work of our local proaches in the pub.
+
+son of Rev. John Patterson, preached a short, spiritual sermon, subject "The treaty law." We also had a glorious class meeting, two joined the church. Welcome to bachary—Miss Pattie Griffin, reporter) Rev. N. A: Ward, pastor.
+
+The attendance at Mr. Airy was good Sunday and the services impress. Sunny School began at its usual time 6:20 by our superintendent H. Burton. Services began at 13:30 in. The pastor took a text from Ann A. Smith, a school-self-taught son was parished. We were told that we are all agents for Curley and must carry a good stock of goods in our hearts if we wish to motor show. Our parishes. Night services began at 6:30 in. The pastor read for a test, Luke 23:24. His text was "immediately after death, present with God." Don't forget our revival which is to beoma May 1. Bring your sons and daughters and offer them to God our pastor is pleased with the wonderful advancement of his church. Rev. P. R. Rorstey, pastor; R. Junton, clerk; Magnolia Truss reporter.
+
+2800-2 MARKET ST. Corner Leffingwell
+
+tor from John 10:11. On Saturday
+August 17, Martha's Pride club
+No. 2 will entertain at Sister Dayae
+Wesley's residence, 1450 Paul St.
+In Wednesday night, the pastor will
+move to 224 Adams street—Rev J.
+W. Hutcher, pastor; C. M. Fletcher,
+reporter.
+
+## S7. PAUL BAPTIST CHURCH
+19th and Morgan St.
+
+The 8th Paul Baptist Church is enjoying a new year of success in building up its membership. Rev. J. J. Chaffes, the pastor, delivered an excellent Sunday night. April 11. "Endure hardness as a good soldier."
+
+FIRST BAPTIST CHURCH—Nimwood Park, Ma.
+
+Good services were enjoyed all day at the First Baptist Church. At 11 o'clock, the pastor imparted from a text, Mark 6:10, "Do of good cheer, it is J. he not afraid." The W. H. Church Circle entertained with a tangle at the church in honor of the prefect, Sister Martha. Martha was conducted by the newly elected president in the person of sister S. Dillon. A total solo was rendered by Sister Mary Scott. Every oration by Sister C. Mallison. Recitation by Sister Jancie Cuffa. Sister Marchee was presented with a hand-cone set of knives and forks with very decorating remarks by Sister Dillon. B. Y. P. as usual at 6:30 was very interesting. Scripture reading at 8:30 by Rev. W. J. Catlin. Sermon by Rev. Phillips.—Rev. T. W. Lee, pastor.
+
+TRUELIGHT BAY TIST CHURCH
+10th and Popular Siree
+
+Sunday School convened at 9:30 a.m. with good attendance. The pastor pronounced a spiritual sermon Sunday morning from the 1st Edgell of Peter 2:21, subject "Jesus born off of our sins." He so beautifully explained how Jesus brought him back in favor with God, and with such power that one soul confessed and rebelled, he felt as he had never before. Several others returned to the fold. How old hearts did burn; our spiritual strength renewed, even at the constant meeting in the afternoon. The R. Y, P. U. was interesting. The pastor pronounced a wonderful sermon at night and administered the Lord's Supper. All pastors and their congregations are coeli, lily invited to attend the congregation taking off our new church at 10th and Clark avenue 14th. Rev. J. K. Parker of Please, our Green Baptist Church will preserve us at 11 a.m. sharp. At 1:30 p.m. we shall march to our new church ground. Men with intellectual abilities are on program. Rev. P. W. Drewson, moderator of Anderson Association will be master of congregations. The laryng of the congregants at 3:30 chant be the St. Lord's House Lodge of 601, Pelham No. 2177. Don't miss this grand affair; show R. Clopton pastor; Bortha Waller reporter.
+
+Dr. J. L. Griffith who has been on
+discharging the winning campaign at
+the central Baptist Church will end
+part of the long campaigns on Sunday
+night. He will deliver a lecture
+
+on Monday night before leaving the city. His subject is Grant Sunday morning will be "The Lord's Return," the afternoon there will be most meeting of women, at 8 o'clock. The subject of his message to them will be "Motha and Wearers." His welcoming speech on Sunday night will be manounced until that hour. The meetings at Booker Washington Theatre have been wonderfully blessed in bringing young men to Christ. Baptism will be held on the fourth Sunday in the morning. One of the most notable revival periods in Central's history is about to close for the fling being. Pastor and members are rejoicing. Dr. T. L. Griffith has made a splendid impression on the hearts of the whole community.
+
+There will be a special evangelistic service in the Sunday School at 9:30 a.m.
+
+Pastor Morris preached at 11 and 8 o'clock respectively last Sunday. His theme at 11 a. m. was the "Holy City," text, and there shall be no night there. Rev. 22:5. At night, "the woman at the well," text, "come see a man which fold me all things." John 4:21. These sermons were soul comforting, and being delivered with such admirable skill, did all hearers a world of good and are not soon forgotten. Through the goodness of God we enjoyed one more of our old-time covenant meetings and at night held Holy Communion. For the next two weeks we will war once more with Satan in a revival, looking to Christ for the victory. All Christian friends cordially invited to pitch your tents here with us for these few nights; warfare preceding our sojourn to Fairfax avenue, our future. Help us to fight a good fight that this community may well remember Mt. Olive No. 1, which soon changes to Fairfax Avenue Baptist Church. All friends are requested to take a part in the procession that that will start from here at 12:30 high noon Sunday. April 25, lead by the Odd Fellows Band, we will march home. The sisters will join our ranks at the Mother church. Bell and Cardinal avenues—D. W. Morris, pastor.
+
+## KINLOCH PARK—First Baptist-Church
+
+The services of the First Baptist Church were largely attended throughout the day last Sunday. The 5 a.m. prayer meeting was at a high stage. The Rev. Bell of Burling Bush Baptist preached an able sermon, full of power at 11:30 a.m. to a commendable audience. At 2:30 p.m. the oldtime congregation met began. A good congregation was present and this meeting proved to be very beneficial. The revival spirit is at high tide. Much good is being accomplished, souls are being saved. Rev. E. G. Goldsbay is conducting the meeting. The revival will continue through next week. Rev. P. Hople will preach Sunday at 11 a.m. April 18. At 3 p.m., pastor Johnson will preach a blackboard sermon. Come and go with us and learn of God.—Rev. W. L. Johnson, pastor; Sister A. E. Gibson, Recording secretary.
+
+## GRATIOT STREET MISSION
+
+The Gratiot Street Mission is pro-
+gressing along all lines. The pastor
+was at his best Sunday, at 11 o'clock
+Payne, pastor.
+
+## NATIONAL BAPTISTS TO RAISE LARGEST INTERCHURCH BUDGET
+
+By Associated Negro Press.
+
+NEW York, N. Y., April 7—A total of $10,729,263 included in the budget of the communions co-operating in the Interchurch Movement is for the educational, missionary and benevolent work among our people to be done by four communions whose membership aggregate more than 4,000,000 of, the race of this country.
+
+Most of the money to be raised for work among our group is in the budget of the National Baptist Convention. The total of asking of this denomination amounting to $10,850,000 is made up of the following items: Foreign Missions, $2,200,000; home missions, $3,850,000; American education, $2,900,000; American religious education, $635,000; American ministerial support and relief, $350,000; special work by women, $500,000 and items of a general nature amounting to $60,000. The askins of this denomination covers a five year programme; $2,050,000 of this amount is to be paid during 1026.
+
+The $250,000 asked for the work of the Colored Methodist Episcopal Church is for colleges and schools supported by this body. The African Methodist Episcopal Zion Church, with askins for $212,000 will distribute the amounts as follows: Foreign missions, $523,000; Home missions, $50,000; American education, $60,000; American ministerial support and relief, $40,000 and miscellaneous work $19,000.
+
+Florida Active
+
+TAMPA Fla., April 7—A mass meeting in the interest of the Interchurch World-Moment was held recently, at St. Paul A. M. E. Church. All ministers of the city, superintendents of Sunday Schools and presidents of young people's societies participated.
+
+The Movement At Tuskegee
+
+TUSKEGEE, Ala. April 7—Dr. Plato Dirbach, Dean of the Theological Department of Emery University, Atlanta, Ga., speaking in the Institute Chapel last week, opened the campaign for the Student Life Work of Conference of the Interchurch World Movement, which was held here March 24 to 29. In introducing Dr. Durham, Principal Motion of his connections with the Inter-Racial Committee in Atlanta, and of Dr. Durham's leadership and courageous stand for justice and the square deal for the Negro, A feature of the program was the address of Dr. P. C. Changzey, secretary of the Chinese Educational Composition, which is visiting the Institute; also an address by Dr. P. C. Chen, President of the Peking Teachers College, Peking, China, and Chairman of the Educational Commission, both of whom sold most beautiful tributes in Tuskegee, Becker T. Washington, and Principal Maton, At the conclusion of the event, Dr. Changzey, presented to Tuskegee Institute a silk Chinese drap upon which was a sentimental and the signature of the members written in Chinese. The flag will be hung in the museum.
+
+THE WOMAN'S UNION AUXILIARY
+
+The Woman's Union Auxiliary will meet at Pilgrim Baptist Church, Sunday April 18 at 2:30 p.m. at Mrs. A. Shivers, president; Miss Beatrice Coet, secretary.
+
+(Condensed)

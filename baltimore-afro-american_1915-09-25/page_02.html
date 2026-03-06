@@ -230,7 +230,7 @@ const viewer = OpenSeadragon({
 });
 
 const overlays = [];
-const textBlocks = document.querySelectorAll("[data-idx]");
+const textBlocks = document.getElementById("text-pane").querySelectorAll("[data-idx]");
 
 viewer.addHandler("open", function() {
   REGIONS.forEach((r, i) => {
@@ -274,7 +274,7 @@ function highlightRegion(idx) {
   if (idx === activeIdx) { activeIdx = -1; return; }
   activeIdx = idx;
   if (overlays[idx]) overlays[idx].classList.add("active");
-  const tb = document.querySelector(`[data-idx="${idx}"]`);
+  const tb = document.getElementById("text-pane").querySelector(`[data-idx="${idx}"]`);
   if (tb) {
     tb.classList.add("block-highlight");
     const pane = document.getElementById("text-pane");
