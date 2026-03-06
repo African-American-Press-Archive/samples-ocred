@@ -1,0 +1,1537 @@
+{
+  "issue": "twin-city-star_1912-05-25",
+  "pages": [
+    {
+      "page": 1,
+      "image": "images/page_01.jpg",
+      "width": 2175,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            309,
+            432,
+            624,
+            459
+          ],
+          "label": "text",
+          "text": "VOL. 2 Single Copies 5 Cents"
+        },
+        {
+          "bbox": [
+            548,
+            478,
+            818,
+            744
+          ],
+          "label": "text",
+          "text": "He is a prominent lodge man, being especially prominent as an Elk. of which he is grand exalted ruler. In the courts of New York Mr. Wheaton is considered one of the most brilliant lawyers at the bar, and his record in criminal cases is especially fine. Mr. Wheaton is a man of pleasing address and has a forceful personality. He easily makes friends and has a wide circle of friends among the business and professional class. His present activity in New York includes the presidency of the equity congress, a civil organization that is doing much good for the civic betterment of the race."
+        },
+        {
+          "bbox": [
+            550,
+            756,
+            815,
+            804
+          ],
+          "label": "paragraph_title",
+          "text": "WOMEN PREFER PARTY OF ACTION TO ONE OF PROMISE"
+        },
+        {
+          "bbox": [
+            549,
+            828,
+            817,
+            1754
+          ],
+          "label": "text",
+          "text": "Anti-lynching Society Questions Sincerity of National Republican Party.\n\nBoston.-The Anti-lynching society, of which Mrs. M. C. Simpson is president, is not only working to create sentiment against the lynching of human beings as a substitute for punishment for offenders against the law instead of punishment according to law, but is welding a potent influence along political lines. The society is taking a leading part with those persons and organizations which have for their aim the securing of the franchise to those of our male citizens who in many sections of the country are denied the exercise of their suffrage rights according to the amendments to the constitution of the United States.\n\nThe members of the organization are in favor of a party of action rather than a party of promise\u2014a political party that has the courage of its convictions, a party that will carry out as far as possible within the bounds of law its platform of principles in respect to securing just legislation for the benefit of the body politic and not simply as a means to personal ends for a few. Surely if this is the work which the women of the Anti-lynching society is endeavoring to do they deserve the hearty commendation and support of all persons of whatever race or political creed who favor equal justice and protection for all American citizens.\n\nIn a recent circular letter issued by the society to Afro-American voters particularly attention is called to some of the unfulfilled pledges made by the Republican national convention in its platform four years ago in Chicago. Portions of the platform alluded to are the following: \"We demand equal justice for all men without regard to race or color. We declare again and without reservation for the enforcement in letter and spirit of the thirteenth, fourteenth and fifteenth amendments to the constitution, which were designed for the protection and advancement of the Negro, and condemn all devices that have for their real aim his disfranchisement for reason of color alone as unfair, un-American and repugnant to the supreme law of the land."
+        },
+        {
+          "bbox": [
+            267,
+            1517,
+            624,
+            1988
+          ],
+          "label": "text",
+          "text": "Portions of\nthe follow-\ntice for all\nor color.\nout reserve\nletter and\nfourteenth\nto the con-\nced for the\nof the Neg-\nthat have\nfranchisen\nalone as a\npugnant t\nland.\n\n\"The Re-\nmore than\nfriend of t\nhim freed\ninto the o\nthat procli-\nrights and\nnoteworth\nindustry a\ned the en-\nAs the\nthirteenth\namendment\ncondemned\nagainst th"
+        },
+        {
+          "bbox": [
+            548,
+            1753,
+            817,
+            2631
+          ],
+          "label": "text",
+          "text": "\"The Republican party has been for more than fifty years the consistent friend of the American Negro. It gave him freedom and citizenship. It wrote into the organic law the declarations that proclaim for his civil and political rights and believes today that his noteworthy progress in intelligence, industry and good citizenship has earned the encouragement of the nation.\" As the party has not enforced the thirteenth, fourteenth and fifteenth amendments to the constitution or condemned all devices (advisedly) against the disfranchisement of colored citizens nor enforced or made laws to prevent their being lynched, the society asks for what purpose such declarations were made.\n\nMajor Cunningham's Work Appreciated The colored people of Cadiz, O. were quick to recognize the efficient services of Major David Cunningham, member of the Ohio state constitutional convention, in his contention to have the word \"white\" stricken from the new constitution, which will come up for adoption at the fall election this year. Major Cunningham is a believer in equal rights and justice for all citizens without regard to race, color or creed. His success in the convention is the success of all Americans who believe in justice and equality according to law. Hon. Harry C. Smith also deserves much credit for the part which he has taken in co-operating with Major Cunningham in matters of legislation.\n\nNecessity For Educational Clubs. The organization of educational clubs in the large cities and rural districts for the purpose of encouraging public school attendance, as recently suggested by President John O. Spencer of Morgan college would be a direct benefit to our educational interests. It would not only encourage those who are in school, but would inspire many who are indifferent to take advantage of the opportunities for obtaining an education which are open to them. The suggestion is most timely, and the need for such organizations is imperative."
+        },
+        {
+          "bbox": [
+            267,
+            2636,
+            624,
+            2780
+          ],
+          "label": "text",
+          "text": "---"
+        },
+        {
+          "bbox": [
+            272,
+            479,
+            541,
+            584
+          ],
+          "label": "doc_title",
+          "text": "SUCCESS OF AN ABLE LAWYER"
+        },
+        {
+          "bbox": [
+            272,
+            618,
+            540,
+            690
+          ],
+          "label": "paragraph_title",
+          "text": "Case In Which J. Frank Wheaton Proved His Ability."
+        },
+        {
+          "bbox": [
+            273,
+            716,
+            538,
+            748
+          ],
+          "label": "text",
+          "text": "WELL KNOWN AS STATESMAN."
+        },
+        {
+          "bbox": [
+            272,
+            779,
+            542,
+            1162
+          ],
+          "label": "text",
+          "text": "Former Member of Minnesota Legislature and Private Secretary to Congressman McComas Rated as One of New York's Foremost Attorneys. Won Victory In Recent Murder Trial.\n\nBy CLEVELAND G. ALLEN.\n\nNew York.--Among the foremost colored lawyers of this city is J. Frank Wheaton, who has made an excellent record for efficiency in handling many difficult cases. His recent victory in clearing William D. Simms of a murder charge in Schenectady, N. Y., has won for Mr. Wheaton new laurels. Simms shot and killed one George Brodt in Schenectady in self defense. The murder of Brodt caused widespread alarm, as both Simms and Brodt were well known men in the community. Fear fell upon the little town as the news of the tragedy became known."
+        },
+        {
+          "bbox": [
+            267,
+            1161,
+            542,
+            1517
+          ],
+          "label": "text",
+          "text": "Realizing that the keenest legal ability had to be exercised in the defense, Simms sent for his old friend Wheaton to take up the case in his defense. Mr. Wheaton, on taking charge of the case, made a complete and thorough investigation of the case and secured some of the most prominent white citizens, including the chief of police, as witnesses, who testified to the good character of Simms. Mr. Wheaton discovered from reliable persons that Simms shot Brodt as the last resort in self defense. With this evidence to work upon Attorney Wheaton set about with energy to clear his client.\n\nThe trial lasted for three days. The little courtroom was crowded during the three days' session of the trial, and the minds of the spectators centered upon the brilliant Negro lawyer who defended Simms. When Mr."
+        },
+        {
+          "bbox": [
+            270,
+            1988,
+            540,
+            2636
+          ],
+          "label": "text",
+          "text": "ATTORNEY J. FRANK WHEATON.\n\nWheaton made his address to the jury he was listened to with marked attention as he made a stifling review of the case. When Judge Mayon, before whom the case was tried, made his charge to the jury eager ears waited the verdict.\n\nThe jury retired and after a deliberation of seven and one-half hours returned with a verdict of not guilty. Mr. Wheaton came in for a large share of praise for his victory. The winning of this case by Mr. Wheaton adds another star to the long and brilliant record of his legal career. He has long figured in the national life of the country, and few lawyers of the race can boast of a similar legal career. He is well educated and thoroughly prepared for his life's work. It was in the west, before taking up his practice in New York, that he made his start as a lawyer.\n\nIn Minnesota he was one of the most notable and interesting figures in the state. He won his spurs when a student in the State University of Minnesota, of which school he is a graduate in law, class of 1894. He was class orator and the first colored graduate of the school. His rise in the prominence of the state was rapid. He was appointed reading clerk in the state legislature in 1895. He was elected a member of the state legislature in Minnesota from the wealthiest district in the state and where but few colored voters resided. This testified to the wide influence of Mr. Wheaton among the white voters of the state."
+        },
+        {
+          "bbox": [
+            827,
+            479,
+            1097,
+            692
+          ],
+          "label": "doc_title",
+          "text": "NEW LIGHT ON WEST AFRICA Research Society Hears Thrilling Story by Dr. Reid."
+        },
+        {
+          "bbox": [
+            825,
+            777,
+            1097,
+            2641
+          ],
+          "label": "text",
+          "text": "President of the College of West Africa Gives Historical Sketch of Habits and Customs of Tribal Life on Dark Continent\u2014Influence of Colored Americans.\n\nYonkers, N. Y.\u2014The Negro Society For Historical Research and its friends were highly entertained at a recent meeting by Dr. J. H. Reid of Monrovia, Liberia, president of the College of West Africa and editor of Liberia and West Africa, who delivered an interesting and instructive address, in which he sketched the progress which has been made by the little republic since it was founded in 1847. The first emigrants, he said, sailed from New York in the ship Elizabeth Feb. 5, 1820, and numbered eighty-eight souls. This was later followed with another and smaller expedition in 1821, which settled in Sierra Leone (Fourish bay), where they remained till January, 1822, when some of them were brought to Providence island, at the mouth of the Mesurdo river.\n\nOther expeditions followed so that now there is a native population of 2,000,000 representing many interior tribes, notably the Mandingoes, Pesseh, Greboes, Kroemen, Veys, etc. The recent aggressions of the French government in Liberia, which is seven degrees north of the equator, has brought that down from 45,000 to 3,000 square miles. The delimitation of the territory by a foreign power is still a subject of diplomatic correspondence, and since Liberia is the last chance of the Negro to demonstrate his capacity for self government, it is sincerely hoped that no unfair advantage will be taken of the little struggling republic.\n\nThere are 15,000 Americo-Liberians in Liberia, which means that they are the descendants of former emigrants from the United States, and they constitute a force in the social, religious and industrial life of the republic which cannot be ignored. This contact of the American Negro with the aborigines of Africa is doing more to bring Africa to the front than Dreadnoughts and Mauser rifles. The public school system of Liberia is under the direction of a board of nine members, one from each county in Liberia. While it has not reached the perfection desired, due to lack of sufficient funds, it is the aim of the board when the $60,000 fund will have become available to enlarge the scope of the present plans.\n\nThe people of Liberia are still imbued with the thought expressed on the tomb of an early white missionary teacher who for many years devoted his life and his talents to the mental and moral unfit of the African people. \"Let a thousand fall, but let not Africa be given up.\" The leading men of Africa today have, many of them, received the foundation of their education in the College of West Africa.\n\nAfricans are not as is generally supposed in some quarters backward as students. Their minds are receptive, and they readily absorb knowledge. The natives are remarkably quick to learn. Particularly is this true of the Mandingoes Kroos, who are splendid mathematicians and linguists. They are fond of the study of abstruse problems, and their knowledge of astronomy is wonderfully accurate.\n\nThere are many languages spoken in Liberia, due to the presence of various African tribes from the interior and of foreign races engaged in business among us. The Mandingoes are most highly cultured tribes among us, and they speak and write Arabic with great fluency and precision. It is the testimony of all African travelers that the native Africans are the most hospitable of people. An African civilized or uncivilized will show the utmost courtesy to the stranger within their gate and give him the best they have without money and without price. He is the most grateful and the most spiritual and optimistic of all the races of mankind, and it may truly be said of us that we \"write our benefits in marble and our injuries in dust.\"\n\nThe ancients recognized these qualities and loved to descent on them. They seemed to regard the fear and love of God as the peculiar gift of the darker rakes. No one can accurately estimate the extent of the material resources of Africa. Its soil is practically virgin, and its possibilities are almost beyond human calculation. There are gold and silver and iron and precious stones and an infinite variety of every species of flora and fauna"
+        },
+        {
+          "bbox": [
+            1102,
+            479,
+            1370,
+            745
+          ],
+          "label": "text",
+          "text": "and live stock.\n\nDr. Reid said that he was proud of the Negro Society For Historical Research, which is doing a needed work and a good work in bringing to public notice the achievements of Negroes throughout the world. When he returned to Africa he would co-operate with it gladly and interest some of the leaders of thought in the fatherland in its race uplifting work. There are sixteen or seventeen weekly and monthly newspapers published in Africa, among them West Africa and Liberia, edited by Dr. Reid and set up by the students of the College of West Africa."
+        },
+        {
+          "bbox": [
+            1107,
+            759,
+            1368,
+            810
+          ],
+          "label": "paragraph_title",
+          "text": "ALUMNI WORK AT HOWARD SHOWS SPLENDID RESULTS"
+        },
+        {
+          "bbox": [
+            1101,
+            832,
+            1369,
+            1960
+          ],
+          "label": "text",
+          "text": "Effort to Raise Funds For Gymnasium Building Succeeds.\n\nThe Alumni association of Howard university, in Washington, recently reached high water mark in its campaign for the gymnasium fund, which has been going on for some time in all sections of the country where graduates of the school are found. The general officers of the central gymnasium committee are Professor Kelly Miller, chairman; Mr. Robert A. Pelham, secretary-treasurer, and Mr. Shelby J. Davidson, financial agent.\n\nSince the first of the year the committee has been conducting a systematic correspondence with members of the Alumni association throughout the country, appealing to them as to the necessity for the building of the gymnasium, for which the trustees of the university have promised a donation of $15,000 on the condition that the alumni raise $13,000, the building to be known as the alumni building.\n\nThe responses from the alumni and friends have been encouraging, and at the recent rally Mr. Shelby J. Davidson, financial agent, reported that since the inauguration of the campaign the amount of pledges has been raised from about $3,000 at that time to more than $4,900. Of the cash in hand at the outset be reports that an addition of $500 has been made, making the total collections about $1,000. The effort to personally reach as many of the alumni is being tried with much success.\n\nThe alumni of Philadelphia has pledged $1,000 toward the gymnasium fund. Preparations are under way in Baltimore for a meeting in the alumni, and it is believed that with the outcome will be favorable to the gymnasium proposition.\n\nWith the graduates of the university numbering more than 3,000, many, if not all of them, deeply indebted to Howard university for what they have accomplished in life, there seems no reason why the gymnasium as a tangible evidence of the alumni interest should not prove a success. Surely no one who has been through Howard university in its earlier days will hesitate not only to contribute his quota, but will go out of his way to speak a word of encouragement for the project.\n\nJune 5 has been designated as commencement day as well as alumni day. Plans are on foot for one of the greatest commencements and alumni gatherings in the history of the university. Every alumnus is invited to come back. Each class which has gone from the university is expected to be represented. There will be a grand class march, and Howard university, with a united alumni at its back, will take its place among the colleges of the country."
+        },
+        {
+          "bbox": [
+            1102,
+            1971,
+            1367,
+            1992
+          ],
+          "label": "paragraph_title",
+          "text": "THE COATESVILLE LYNCHING."
+        },
+        {
+          "bbox": [
+            1102,
+            2007,
+            1369,
+            2640
+          ],
+          "label": "text",
+          "text": "Court Holds No One Responsible For Murder of Zachariah Walker.\n\nThe district attorney of Chester county, Pa., has thrown up his hands in despair, declaring it impossible to get a conviction in any of the cases growing out of the burning of Zack Walker at Contesville, and has caused the last one of the several indictments to be taken from the list. And Pennsylvania rightfully takes her place in the line of mob and lynch law, says the Pittsburgh Courier.\n\nWhen it is remembered that simultaneously with this action in Chester county a southern grand jury returned indictments against white men for a southern lynching, the shame and disgrace of Pennsylvania stand out all the more prominently. There is no escaping the shame.\n\nThe whole state must shoulder the curse. Until a change of venue was demanded and refused the public eye was directed to Chester county only, but the refusal of a petition to change the venue, together with the failure of a Chester county jury to convict a single participant, spreads the infamy throughout the state.\n\nThe rabble of Coatesville have sown the seed. We have but to await the harvest. Meanwhile let it not be forgotten that the blood of Zack Walker will be required at the hands of white men.\n\nREAD THE STAR\u2014IT'S NEWS."
+        },
+        {
+          "bbox": [
+            1377,
+            781,
+            1645,
+            2637
+          ],
+          "label": "text",
+          "text": "Brooklyn Women Hold Enthusiastic Meeting In the Interest of the National Association For the Advancement of Colored People\u2014Spingarn, Morton and Stewart Plead Cause.\n\nBy Mrs. LYDIA G SMITH\n\nBrooklyn. - Interest in the work of the National Association For the Advancement of Colored People continues to grow in public favor among both races. Besides the lectures by Dr. W. E. B. Du Bols in various sections of the country from time to time, mass meetings are regularly held in the large cities of the country, in which the organization maintains branch headquarters.\n\nActing upon the initiative of the Equal Suffrage league of this city, a committee of women, with Dr. V. Morton-Jones as president, recently held an enthusiastic meeting in the Bridge A. M. E. church, famed as a former underground railroad station, which was largely attended. The Rev. Dr. C. P. Cole, pastor of the church, acted as temporary chairman. After the singing of Julia Ward Howe's \"Battle Hymn of the Republic\" Dr. Cole introduced Mr. George E. Wibecan as master of ceremonies.\n\nThe principal speakers were James F. Morton, lawyer and author; Professor F. Morton, lawgirl and author; Professor and Mr. G\u6c2fchrist Stewart of the vigilance committee. Mr. Emory Jones was the soldier of the evening, and Miss Eva Jackson was at the plano. Upon taking the chair Mr. Wibecan said: \"These men who are to speak tonight are among the best citizens of this country. They are giving their time and money to aid in this movement to bring about a better understanding between the races in order that justice may be accorded to all alike. Personally they gain nothing but their work for human rights, which benefits the nation.\"\n\nLawyer Morton said that the national association is not theoretical, but eminently practical in its aim to create right and just conditions. Prejudice is not only in the south, but right here in our northern cities. Ours is an organization of enlightenment to save both races. One ounce of justice is worth a ton of charity. Segregation on account of race or color should have no place in the work for human advancement, but every man or race should be given a chance to earn an honest livelihood and enjoy the blessings of our free institutions.\n\nProfessor J. N. Spingarn, who had just returned in time for the meeting from an extended trip south, said: \"I feel now that the Americans need the organization more than any specific race. I wish I could tell you of the knowledge that I have gained by investigation. I have seen the colored people, from the medical college president down through nearly every form of business and the laborer, and have noted the marvelous progress made by them in forty-eight years against organized money. I have noted the accumulation of money and property, but the accumulation of wealth alone will save no race, for all can be taken away in a minute if it has no political rights.\"\n\nMr. G\u6c2fchrist Stewart, who with Professor Spingarn and other members of the vigilance committee secured the first conviction in New York city of a theatrical manager for violation of the civil rights law for refusing orchestra seats to an Afro-American, also made a strong plea for fairness and urged our people to stand by the organization and thereby show to the wealthy and influential white people who are working for the race through the national association as did the abolitionists for the freedom of the slaves.\n\nCongressman William M. Calder sent a letter of regret that he could not be present, but heartily approved of the work which the organization is doing for the advancement of American citizenship. Rev. George Frazier Miller, Dr. William L. Hunter and the Rev. J. Ernest Robinson also took part in the program. The officers in charge of the meeting were Dr. V. Morton-Jones, president; Mrs. A. W. Neey, vice president; Mrs. D. Lydia C. Smith, secretary; Mrs. M. C. Lawton, assistant secretary; and Mrs. Peter Harrison, treasurer. The committee has raised $100 for the association within the past three months. This sum was presented at a meeting held at the Bethany Baptist church on Tuesday evening, May 21"
+        },
+        {
+          "bbox": [
+            1803,
+            438,
+            1879,
+            459
+          ],
+          "label": "text",
+          "text": "No. 40."
+        },
+        {
+          "bbox": [
+            1650,
+            519,
+            1917,
+            551
+          ],
+          "label": "text",
+          "text": "People of Muukoges Please With Mrs\nM. C. Tercell's Work."
+        },
+        {
+          "bbox": [
+            1649,
+            547,
+            1920,
+            1820
+          ],
+          "label": "text",
+          "text": "Muskogee, Okla. \u2014 The citizens of this far western town will not soon forget the masterly, eloquent and instructive address delivered here on Thursday, May 16, by Mrs. Mary Church Terrell of Washington. Mrs. Terrell is well known throughout the country as an able speaker and one of the leading women of the race. In a recent review of some of Mrs. Terrell's activities the Muskogee Climeter carried a column of matter dealing with facts and incidents in her splendid career for the past decade.\n\nMrs. Terrell was a member of the board of education in Washington for eleven years. She is an ex-president of the National Association of Colored Women's Clubs. She was one of the speakers at the international congress of women in Berlin in 1904. Her address was considered to be one of the best delivered by any woman on the program during the sessions of the congress. Her plea for justice and\n\nMRS. MARY CHURCH TERRELL\n\nequality of opportunity for her race in the United States moved many persons in the audience to tears.\n\nIn recognition of her long and valued services to the race on the board of education the citizens of Washington recently tendered Mrs. Terrell a magnificent testimonial. The people of Oklahoma join those in other states of the country in high appreciation of the work which Mrs. Terrell is doing for the race in creating correct and favorable sentiment for fair treatment of our people in respect to their civil and political rights.\n\nMrs. Terrell's treatment of the race problem was inspiring. She is optimistic and presented convincing facts as to the present status of the race, its progress and future possibilities. She believes in liberal education for our young people and also urged our citizens to support the business enterprises among us."
+        },
+        {
+          "bbox": [
+            1660,
+            1835,
+            1908,
+            1855
+          ],
+          "label": "paragraph_title",
+          "text": "WELL QUALIFIED TEACHER."
+        },
+        {
+          "bbox": [
+            1653,
+            1871,
+            1918,
+            1900
+          ],
+          "label": "text",
+          "text": "Mrs. Julia K. Shaw's Work Highly Appreciated by Students."
+        },
+        {
+          "bbox": [
+            1653,
+            1871,
+            1918,
+            1900
+          ],
+          "label": "paragraph_title",
+          "text": "Mrs. Julia K. Shaw's Work Highly Appreciated by Students."
+        },
+        {
+          "bbox": [
+            1649,
+            1902,
+            1920,
+            2780
+          ],
+          "label": "text",
+          "text": "Mrs Julia K. Shaw, directress of domestic science in the Armstrong Manual Training school, in Washington, is one of the District's most active educational forces. She is a firm believer in the efficacy of domestic science in the promotion of human happiness and takes a lively interest in all that tends to present its virtues in an attractive light to the people of every kind and condition. She will turn out an excellent class in June. Her pupils are all loud in their praise of her because of the sympathetic attention she has given them throughout the long and exacting course.\n\nMrs. Shaw has been invited to take charge of the domestic science work this summer at the Institute For Colored Youths at Cheyney, Pa., and may decide to accept. A better qualified instructor could not be found.\n\nMiggins-Woods Nuptials Announced.\n\nCards have been received in Washington through Mr. and Mrs. George Woods of Chicago announcing the recent marriage of their daughter, Fannie Consulelo, to Dr. Henry M. Higgins, Jr. Dr. Higgins is a popular Cincinnati boy, and his brilliant career has been followed with pride by the people of Ohio and Illinois. He is twenty-one years of age. Immediately after taking his degree at the Ohio State university, specializing in veterinary surgery, he was appointed to a position in Chicago as a veterinary inspector under the government. Miss Woods (that was) is a beautiful and accomplished young lady, a society belle of Chicago and is a graduate of the Chicago university.\n\nSmoke the Reliable\n\n5c SIGHT DRAFT CIGAR 5c"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "image": "images/page_02.jpg",
+      "width": 2165,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            233,
+            197,
+            479,
+            230
+          ],
+          "label": "doc_title",
+          "text": "MINNEAPOLIS"
+        },
+        {
+          "bbox": [
+            222,
+            258,
+            491,
+            436
+          ],
+          "label": "text",
+          "text": "We BEG that those who send notes will Write Faits Plitihy\u2014On One Side of the Paper\u2014Leave a Space between each Item; and Use Common Sense. This is very important.\n\nSt. Peter's A. M. E. Church, May 26. 11 A. M. Rev. Robert Jones of North Carolina. 8 P. M. Dr. Thomas of Baltimore, Mr."
+        },
+        {
+          "bbox": [
+            238,
+            455,
+            482,
+            491
+          ],
+          "label": "paragraph_title",
+          "text": "BETHESDA BAPTIST CHURCH.\n1120 8th St. SC."
+        },
+        {
+          "bbox": [
+            221,
+            493,
+            494,
+            1807
+          ],
+          "label": "text",
+          "text": "Rev. T. J. Carter, Pastor.\nRally Day, May 26.\n\nLast Sunday being a disagreeable day the rally was continued. All members and friends who are interested in Bethesda will please bring or send your money next Sunday.\n\nRemember that on next Sunday able ministers from the General Conference will officiate at Bethesda Baptist church.\n\nSunday 11 A. M., Dr. J. W. Robinson, pastor of St. Mark M. E. Church Chicago, Ill.\n\n8 P. M., Dr. C. A. Tindley, pastor of Calvary M. E. Church, Philadelphia, Pa.\n\nThe public should hear these able divines.\n\nAll are invited to attend the Sunday school at Bethesda church. Mrs. Jennie Watson, the Supt. invites all who attend morning services to remain during the Sunday school session.\n\nNext Sunday will be a Big Rally at Bethesda given by the Church Clubs.\n\nZION BAPTIST CHURCH.\nSermon 11 A. M. by Rev. G. W. Butler, D. D., Holly Springs, Miss.\nSermon 8 P. M., Rev. J. W. Turner, D. D., District Sup., South New Orleans Dist. Conference.\n\nThe Zion Sunday School invites you to attend their sessions each Sunday. The Teachers are Miss Bessie Wealch, Miss Annie Smith and Miss Isabella Singleton.\n\nTHE DAUGHTERS OF ISIS WILL GIVE A SHIRT WASTE AND DOLL CONTEST AT TSCHIDA HALL ST. PAUL, JUNE 3RD, 1912. TICKETS 36c, INCLUDING CHECKING.\n\nTHE SPINSTER CONVENTION.\n\nThe Spinster Convention which was rendered at Bethesda Church will be repeated at Zion Church, Wednesday evening May 29th, under the auspices of the Busy Bee Circle. Mrs. M. L. Starks, President.\n\nMr. Frank Peoples has been suffering with a cold this week.\n\nMrs. Richard Newton is gradually improving at her home in Topeka, Kans., where she is spending the summer.\n\nMr. Nathaniel Darby of Cotton Plant, Ark., a lay delegate to the Conference, will return home Tuesday. He has been while in the city a guest of his brother, Mr. James Darby, 102 Bryant Ave. No. and has enjoyed his visit immensely.\n\nMr. and Mrs. Chas. Hardin, 1710 6th Ave. No. left Tuesday for a visit to Atlanta, Ga., stopping enroute in Chicago and Nashville. Mr. and Mrs. Hardin have recently completed their beautiful residence in this city. They will be away several weeks."
+        },
+        {
+          "bbox": [
+            220,
+            1862,
+            493,
+            2609
+          ],
+          "label": "text",
+          "text": "You can make money by taking advantage of the opportunities offered at Pearces' down-town 'store, where they are cutting prices on account of going out of business at that location. Not one article will be moved into the up-town store, and for this reason they are daily offering their entire stock at greatly reduced prices. If you want a safe investment, attend their removal sale which is to run until the entire stock is sold.\n\nMr. Thos. Gilbreath has recovered from his recent illness.\n\nThe Nygren Printing Co., where the Twin City Star is printed, has moved to 1402 Washington Ave. So. DEATH OF MISS EFFIE BUFORD. Dr. Milton W. Judy, the dentist, will occupy his new residence at 3533 4th Ave. So., next month. Dr. Judy's residence is thoroughly modern in architecture and appointments, containing 9 rooms and in one of the best locations in the residential district.\n\nMarienhoff, the tailor, 318 Hennepin.\n\nMr. Henry Keyes, 1411 Washington Ave., has returned home from the Soo, and will remain in the city.\n\nMr. Edw. Hammond has contracted with Mr. F. Peoples, the Negro contractor, for the erection of a, dwelling at 39th and Clinton Ave. Work will begin at once.\n\nMr. Geo. Barnett met with a painful accident last week on his trip from the coast. A window fell on his finger and he received a painful, but not serious wound."
+        },
+        {
+          "bbox": [
+            496,
+            201,
+            767,
+            867
+          ],
+          "label": "text",
+          "text": "SUBSCRIBE FOR THE STAR.\n\nAll news much reach us before Thursday.\n\nDon't forget that we want all news sent to 1419 Wash. Ave. So., Minne.\n\nTHE SECOND EMANCIPATION:\n\nDr. Mason Lectures at St. Peters.\n\nDr. M. C. B. Mason, See'y. of the Methodist Book Concern, lectured to an appreciative audience on May 17, at St. Peters Church. It was his first opportunity to talk to his people, and in his remarks he outlined the intellectual, economic, ethical and moral progress of this Negro race. His timely advice, statistical information and mild censure brought forth rounds of applause. Dr. Mason did not fail to condemn us for our lack of race pride. He said, that many Negroes were trying to get out of the race, and were imitating the vices of the white race, instead of emulating their virtues. He made it plain that the Negro had advanced greatly in the economic and intellectual realm but had not done his part along ethical and moral lines. The people of the Twin Cities have been greatly benefitted by the much needed advice given them, and they have always flocked to hear their eloquent and influential divine, whenever he lectures.\n\nDr. Mason has lectured in many of our white churches to overwhelming audiences."
+        },
+        {
+          "bbox": [
+            502,
+            893,
+            765,
+            926
+          ],
+          "label": "paragraph_title",
+          "text": "RECEPTION TO VISITING DELEGATES."
+        },
+        {
+          "bbox": [
+            500,
+            928,
+            769,
+            1276
+          ],
+          "label": "text",
+          "text": "A reception was given by some of the citizens at Wesley M. E. church (white) on May 21, to the Negro delegates attending the Conference. Dr. Read introduced Dr. R. S. Brown as Master of Ceremonies. Mr. B. S. Smith spoke on behalf of the citizens. Mrs. Hattie Loomis-Oliver, Mrs. Addie Minor, Mrs. Bismarck Archer, and Miss Alberta Bell were the St. Paul contributors to the musical program. Misses Nettie Scott and Ada Lewis represented the local talent. Mrs. Ione E. Gibbs, Pres. State Women's Clubs made an excellent address representing the women. The visiting speakers were Bishop Scott, Dr. Ernest Lyon and Dr. Bowen. Refreshments were served by the ladies of Wesley Church."
+        },
+        {
+          "bbox": [
+            498,
+            1310,
+            770,
+            2608
+          ],
+          "label": "text",
+          "text": "The Mus-o-Lit Club will entertain the ladies attending the Conference at the residence of Mrs. R. S. Brown on May 27. Invitations have been issued.\n\nMrs. Geo. Barnett, 3421 Oakland Ave. entertained at 6 o'clock dinner May 133, in honor of Dr. Gilliam of Columbus, O. Dr. E. M. Jones and Dr. Redrick of Central, Ala., and Prof. Moses of Anniston, Ala.\n\nDr. E. J. K. Anderson of Monrovia, Liberla, was entertained at dinner last week by Mr. and Mrs. J. B. Hudson, 1102 E. 28th St.\n\nMrs. William Bridges was hostess at a dinner party on last Sunday in honor of Dr. Abbett of St. Louis, Mo., and Miss Garrison of Gainsville, Fla.\n\nThe ladies of the M. T. C. Art Club entertained from 8 to 10 at the home of Mrs. S. Sample, Columbus Ave., on Friday evening, for the M. E. Delegates.\n\nMrs. James Eddings, 32000 31 Ave. So., entertained on Tuesday at lunchon for Dr. and Mrs. M. B. C. Mason of Cincinnati, Ohio. Covers were laid for six.\n\nMrs. Jasper Gibbs, 2844 12th Ave. So., entertained on Friday afternoon for the lady delegates of the M. E. Conference.\n\nMr. and Mrs. J. C. Trevan 603 Fremont Ave. No. will give a dinner in honor of Dr. E. J. K. Anderson and other delegates to the Conference.\n\nMiss Eva Gordon, foster daughter of Mr. and Mrs. Isaac Newton, was released from the Home School for Girls at Sauk Center on application of Atty. W. H. H. Franklin. The prompt action of the Board is appreciated by many of our citizens.\n\nMrs. Chas. S. Smith returned home after a visit to her mother in Roxbury, Mass., where she spent the winter.\n\nMr. Chas. T. White of Vancouver, B. C., passed through the Twin Cities last week enroute to Chicago, to arrange for his Excursion to the Pacific which he will personally conduct See add in another column.\n\nYou Are Welcome to visit the exhibits at Wesley M. E. Church on Grant St., and the T. B. Walker Art gallery, 8th and Hennepin.\n\nMr. E. J. Sawyer, who is attending the Methodist Conference is a Delegate from South Carolina to the Chicago Convention.\n\nMrs. G. P. Simms, 2622 12th Ave. S., received word Wednesday of the death of her daughter, Miss Effie Buford, who resides in Oakland, Cal.\n\nEVERYBODY'S DOING IT NOW.\nBuying at Pearce's, 407 Nicollet.\nREMOVAL SALE. REDUCED PRICES.\n\nREAD THE STAR\u2014IT'S NEWS."
+        },
+        {
+          "bbox": [
+            828,
+            206,
+            990,
+            239
+          ],
+          "label": "paragraph_title",
+          "text": "ST. PAUL"
+        },
+        {
+          "bbox": [
+            773,
+            278,
+            1042,
+            338
+          ],
+          "label": "text",
+          "text": "We beg that those who are indebted to us, send us their subscription by P. O. Order."
+        },
+        {
+          "bbox": [
+            772,
+            384,
+            1047,
+            1437
+          ],
+          "label": "text",
+          "text": "The Forum will arrange a special program on May 26th in honor of the visiting Delegates.\n\nRemember the hour, 3:30 P. M.\n\nST. JAMES CHURCH LAST SUNDAY.\n\nBishop I. B. Scott, who is the Missionary Bishop to Africa, was exceedingly interesting in his sermon at St. James Church yesterday morning. Owing to the very wet weather only a fair sized congregation greeted him. His talk on Africa was very instructive indeed and opened the understanding of the hearers to the enormous work yet to be accomplished in Africa. He told of the eagerness of the natives for the light of education and advancement and how rapidly they assimulate, the things taught them.\n\nIn the afternoon the meeting under the direction of the Culture Club and the West End Branch of the Y. W. C. A., at St. James Church was well attended, and the speakers, Dr. R. E. Jones, Mrs. M. C. B. Mason, Dr. Samuel Virgil, Dr. W. H. Brooks, were listened to with a great deal of interest. Miss Edith Leonard was in charge of the occasion and handled the affair very creditable. The Pilgrim Choir sang very well, and Mr. Lloyd Hickman sang the song of Prof. W. A. Weir to the author's accompaniment in good voice.\n\nMiss Leonard was very highly eulogized by Dr. Brooks, her former pastor at St. Marks' Church, New York.\u2014The Guide, May 20.\n\nThere will be another platform meeting at St. James A. M. E. Church, St. Paul, Sunday afternoon at four o'clock. Addresses by the o'clock will be a feature.\n\nRev. Jones of St. James Church has been right on the job supplying his pulpit with the leading divines of the Conference.\n\nRev. J. S. Strong is on the sick list this week.\n\nRev. Tolliver of Washington is conducting meetings at Pilgrim Baptist Church.\n\nCOPY MUST REACH US BY WEDNESDAY."
+        },
+        {
+          "bbox": [
+            780,
+            1460,
+            1044,
+            1493
+          ],
+          "label": "paragraph_title",
+          "text": "DISTINGUISHED VISITORS ENTER- TAINED."
+        },
+        {
+          "bbox": [
+            778,
+            1496,
+            1045,
+            1885
+          ],
+          "label": "text",
+          "text": "A delightful dinner was given the following distinguished visitors to the M. E. Conference by Attorney W. T. Francis at his beautiful home in St. Paul last Saturday. Bishop I. B. Scott, of Liberia; Dr. Ernest W. Lyons, of Baltimore, Ex-Minister to Liberia; Dr. W. H. Brooks, Pastor of St. Mark's Church, New York City; Dr. Bowen, of Gammon Theological Seminary, Atlanta, Ga.; and E. H. McKissick, Secretary and Treasurer, Odd Fellows Endowment Bureau of Mississippi.\n\nMrs. F. B. Simpson, 578 St. Anthony Ave. is sick.\n\nMrs. Edw. DeBaptist is ill with pneumonia. Her many friends hope for her recovery.\n\nThe infant baby of Mrs. Grace Douglass is very sick."
+        },
+        {
+          "bbox": [
+            779,
+            1881,
+            1043,
+            1916
+          ],
+          "label": "text",
+          "text": "Mr. M. B. Bolling has been elected\n2nd Vice Pres. of the B. Y. P. U."
+        },
+        {
+          "bbox": [
+            775,
+            1986,
+            1045,
+            2499
+          ],
+          "label": "text",
+          "text": "Dr. Bowen of Atlanta, Ga., lectured at Dyer's Music Hall in St. Paul on Friday night, Subject: \"Three feet make one yard.\" His subject wasably handled and his hearers were impressed by his eloquent and logical address.\n\nMr. Phil. Reid entertained his friends, Mr. and Mrs. Charles Johnson of Minneapolis, the international toplines of Vaudeville, at a dinner at the residence of Mr. and Mrs. John Hirshfield, 721 Aurora Ave. The Johnsons are known in the theatrical world as Johnson and Dean.\n\nREAD THE STAR\u2014IT'S NEWS.\n\nWe go to press on Thursday evening.\n\nMr. Alex. Tucker is improving.\n\nPrincess Oziel Chapter No. 45, Order of Eastern Star will hold their Annual Queen Esther Service on Sunday, June 2nd.\n\nRevival at Pilgrim Church this week. Don't fail to attend these services. They will be of extraordinary interest\n\nMr. and Mrs. Jose H. Sherwood have moved to 971 St. Anthony Ave."
+        },
+        {
+          "bbox": [
+            770,
+            2492,
+            1040,
+            2613
+          ],
+          "label": "text",
+          "text": "Mr. Chas. Lazenbury is quite ill Furnished Rooms, Good Meals, SOUTHERN KITCHEN, Mrs. Virginia Tailor, Prop., Home cooking a specialty. 204 Plymouth Avenue No. Phone Nlc. 858. Minneapolis, Minn."
+        },
+        {
+          "bbox": [
+            1049,
+            218,
+            1320,
+            1069
+          ],
+          "label": "text",
+          "text": "THE SUNDAY FORUM.\n\nThe meeting was opened with a song by the Forum, and prayer by the Chaplain. A short business session preceded the program. By request of the President, Atty, Frank B. Smith of New Orleans, presided during the rendition of the program, which was as follows: Song by the Forum; Address, Dr. Pierre Landry, Dist. Supt. Lake Charles District, Louisiana Conference. Short talks were given by Dr. Chinn of New Orleans, Rev. Coggans of the Conference, Dr. E. Sumner Williams, Dist. Supt. Washington District, and Prof. Geo. A. Owens, Prin. Public School No. 106, Baltimore, Md. Song by the Forum. The program was excellent and great enthusiasm was shown on the part of both members and visiting delegates. Dr. Landry emphasized the value of gold in connection with Christianity. His appeal to his people was to, \"Wake up, and get ahold of some property.\" Dr. Chinn, further emphasized the Negroes' need of Economic Sense. Prof. Owens gave us an insight of what the Negroes were doing in Baltimore, and Dr. Williams and Rev. Coggans talked along similar lines, stating the progress of the Negro in other sections of the country.\n\nAtty. Smith and every speaker highly endorsed and encouraged the work of the Forum, and complimented the citizens of Minneapolis for fostering such a movement; and the Forum highly appreciates being praised by such honorable men\n\nSPECIAL MEETING MAY 26.\n\nA special meeting of the Minneapolis Forum will be held Sunday, May 26. By order of the President the meeting will be held in Bethesda Baptist Church at 3:30 P. M.\n\nPlans have been completed for the grandest meeting of the month."
+        },
+        {
+          "bbox": [
+            1154,
+            1072,
+            1222,
+            1085
+          ],
+          "label": "paragraph_title",
+          "text": "Program."
+        },
+        {
+          "bbox": [
+            1052,
+            1088,
+            1320,
+            2056
+          ],
+          "label": "text",
+          "text": "Music by the Episcopal Choir; Address, Dr. R. E. Jones, Editor of the Southwestern Christian Advocate, New Orleans; Solo (vocal), M. S. Davage, manager Southwestern Christian Advocate, New Orleans. Five minute talks by other brilliant men of the Conference. Music. The Conference Quartette, Prof. Scales, Guthrie, Okla.; Dr. Williams, Washington, D. C.; Dr. Thompson, Washington and Prof. Owens, Baltimore.\n\nThe meeting will begin at 3:30 promptly. Come early if you want a seat.\n\nThe President has asked Dr. R. S. Lovinggood of Texas to preside.\n\n\"We are delighted,\" says the President, \"to have our places on the program and in the chair filled with such illustrious characters. We have worked hard to keep our little organization together in the mad rush of a mighty city and we need the rest. Our visitors find rest in a change and not in the absence of labor, so they are glad to relieve us for a short while. But more than the rest, we need the inspiration which these men are bringing to us, the enthusiasm which they are kindling in our midst; and we welcome and appreciate opportunities, realizing as we do, that it will be many years before such opportunities will rap at our Northwestern doors again.\"\n\nMrs. M. C. B. Mason, wife of Dr. Mason, of Cincinnati arrived in St. Paul on May 14th, and is the house guest of Mr. and Mrs. J. Edgar Murphy, 1354 Thomas St., during the Methodist Conference.\n\nTHE DAUGHTERS OF ISIS WILL GIVE A SHIRT WASTE AND DOLL CONTEST AT TSCHIDA HALL ST. PAUL, JUNE 3RD, 1912. TICKETS 35c, INCLUDING CHECKING.\n\nThe State Ex. Board of the Women's Clubs will meet at the residence of Mrs. Nellie Francis Wednesday, May 29. This is the last meeting prior to the Annual Board meeting."
+        },
+        {
+          "bbox": [
+            1051,
+            1969,
+            1318,
+            2357
+          ],
+          "label": "text",
+          "text": "The State Ex. Board of the Women's Clubs will meet at the residence of Mrs. Nellie Francis Wednesday, May 29. This is the last meeting prior to the Annual Board meeting.\n\nThe Editor of the Star was unable to attend many of the civic and social functions during the past week on account of an accident. He appreciates the many cordial invitations received.\n\nThe Zion African Presbyterian church, Rev. E. W. Gilles, Pastor, has moved to 458 Western Ave. St. Paul. Attorney Francis was in Thief River Falls last Monday trying a case for the Railway Co.\n\nProf. Shaw, wife and little daughter are among the latest arrivals to the Conference.\n\nMrs. Chas. James and daughter Lucille left Wednesday to reside in Chicago, Ill."
+        },
+        {
+          "bbox": [
+            1052,
+            2060,
+            1319,
+            2144
+          ],
+          "label": "text",
+          "text": "The Editor of the Star was unable to attend many of the civic and social functions during the past week on account of an accident. He appreciates the many cordial invitations received."
+        },
+        {
+          "bbox": [
+            1052,
+            2306,
+            1317,
+            2358
+          ],
+          "label": "text",
+          "text": "Mrs. Chas. James and daughter Lucille left Wednesday to reside in Chicago, ill."
+        },
+        {
+          "bbox": [
+            1083,
+            2384,
+            1279,
+            2400
+          ],
+          "label": "paragraph_title",
+          "text": "EMPLOYMENT BUREAU."
+        },
+        {
+          "bbox": [
+            1049,
+            2406,
+            1318,
+            2617
+          ],
+          "label": "text",
+          "text": "Walters' and Porters' Free Information Bureau.\n\nHelp of all kinds furnished. We make a specialty of furnishing waiters for Banquets and Parties. Hotel in connection. Lee Johnson & Ben O. McRay, props. Phone Cedar 8413. 45 E. 3rd ST., ST. PAUL, MINN.\n\nThe Governor has issued a call for a Special Session of the Legislature to enact a Direct Primary Law."
+        },
+        {
+          "bbox": [
+            1328,
+            643,
+            1588,
+            752
+          ],
+          "label": "text",
+          "text": "LIEUT. Wm. H. DALLAS,\nCo. 1, 8th Illinois Regiment, Born Feb\n28, 1876, Quincy, III. Died May 19,\n1911, Williston, N. D. Served\nIn Cuba During Spanish-\nAmerican War."
+        },
+        {
+          "bbox": [
+            1327,
+            818,
+            1597,
+            1653
+          ],
+          "label": "text",
+          "text": "Rev. J. R. White has received from many prominent Negroes of national reputation their acceptance of an invitation to attend the Negro Congress this summer.\n\nSt. Paul, Minn., May 22, 1912. Editor C. S. Smith, Twin City Star,\nDear Sir: Please note some of the names sent for publication by J. Silas Harris, President of the Congress, who will positively appear during the Congress.\n\nDr Reverdy C. Ransom, of New York, Ed. A. M. E. Review and the most distinguished orator in America.\n\nDr. A. Henry Attaway, Pres. of Edward Waters College, Jacksonville, Florida, an educator and orator of National renown.\n\nProf. E. L. Blackshear, President of Prairie View State Normal and Industrial College of Prairie View, Texas.\n\nDr. R. S. Wilkinson, Pres., State College, Orangeburg, S. C. He is a graduate of Harvard and West Point, and one of the leading educators of the country.\n\nDr. Wm. J. Tomkins an eminent physician of Kansas City. The White Plague Specialist.\n\nAttorney Wm. H. Harrison of Oklahoma and Vice Pres. of the Congress and an orator of great force.\n\nRev. E. J. Fisher, D. D., pastor of Olivet Baptist Church, Chicago, Ill.\n\nProf. H. M. Tarver, Supt., of Public Schools, San Antonio, Texas.\n\nHon. T. A. Spraggins, Jersey City, N. J., Attorney at Law.\n\nDr. W. T. Amiger, Louisville, Pres. Baptist University.\n\nDr. J. T. Caston, Grand Master, U. B. F. and S. M. T., Missouri.\n\nThere will be many other prominent men and women to speak during the Congress."
+        },
+        {
+          "bbox": [
+            1392,
+            1696,
+            1532,
+            1712
+          ],
+          "label": "paragraph_title",
+          "text": "The Gang is on top."
+        },
+        {
+          "bbox": [
+            1327,
+            1716,
+            1597,
+            2780
+          ],
+          "label": "text",
+          "text": "The Twin City Protective League, i.e. the Select Society for Social Prominence and Publicity, or in the vernacular \"the gang\" which is composed of nearly 20 members, represented the people of the Twin Cities during the past week. They had the material, our visiting delegates, but the people know that these Negroes inter se are the dross on the top of the melting pot, which is at present boiling over.\n\nSubscribe to the Star.\nEverybody's News\u2014Everybody's Paper.\n\nMr. Paul, the white headwaiter of the Hotel Andrews has resigned. Mr. W. H. Walker has accepted the position and has employed under him 2 offices, 11 waiters and 2 bussmen. Mr. E. B. James, 2nd waiter and Mr. Thos. Jeter, Captain. Mr. Walker opened the Andrews as 2nd waiter, and things have been going smoothly with the boys under his management.\n\nMessrs. Al. Moss and Wm. Stirman are at the Rogers Hotel, where Mr. W. H. Boody, formerly of the National is manager.\n\nMr. John W. Scott has again taken charge as Headwaiter at the West Hotel. Mrs. Woods has again taken the hotel and Mr. Scott and his efficient crew are in their old time form. The West is the political centre during this campaign and the boys have all they can do.\n\nYou can Cook, Wash, Iron, Press, and Bathe, These Privileges go with your room\u2014from $150 per week upwards. 1304 Wash. Ave. So., or 15 2nd St. No. Tel. Nic. 2176. (adv.)\n\nTHE HOTEL CHASE.\n1822 Washington Avenue So.\nConveniently Located. Sanitary, Modern. Chas. S. Chase, Prop.\nTelephone Nic. 9854."
+        },
+        {
+          "bbox": [
+            1604,
+            303,
+            1875,
+            760
+          ],
+          "label": "text",
+          "text": "TWIN CITY RAZORS\nfull hollow ground, guaranteed, $1.35\neach. A full line of Table Cutlery,\nCarvers, Manicure, Scissors and Tools\nCutlery grinding.\n\nSYLVESTER W. OLIVER.\n\nWorking Men's Social Club\nOLIVER BROS., Managers\n\nPHONE: Nicollet 9506\n\n206 So. Second St. Minneapolis, Minn."
+        },
+        {
+          "bbox": [
+            1605,
+            737,
+            1873,
+            762
+          ],
+          "label": "text",
+          "text": "206 So. Second St. Minneapolis, Minn."
+        },
+        {
+          "bbox": [
+            1647,
+            799,
+            1830,
+            835
+          ],
+          "label": "paragraph_title",
+          "text": "PAEGEL"
+        },
+        {
+          "bbox": [
+            1605,
+            842,
+            1875,
+            1011
+          ],
+          "label": "text",
+          "text": "802 NICOLLET AVE.\n\nWILL MAKE YOUR WATCH KEEP TIME.\n\nWe do the best WATCH, CLOCK and JEWELRY REPAIRING in the city at lowest prices.\n\nSPECIAL AGENTS for the HAMILTON, ELGIN, WALTHAM and ROCKFORD RAILROAD WATCHES."
+        },
+        {
+          "bbox": [
+            1607,
+            1049,
+            1873,
+            1090
+          ],
+          "label": "text",
+          "text": "A GOOD HAIR-CUT AND SHAVE.\nWHERE CAN I GET IT? GO TO"
+        },
+        {
+          "bbox": [
+            1604,
+            1152,
+            1875,
+            1880
+          ],
+          "label": "text",
+          "text": "Barber Shop and Pool Room\nJOHN W. TYLER, Manager.\n725 WASHINGTON AVE. SOUTH.\nPOOL 2\u00bdc PER CUE. BILLIARDS\n15c. The best pool-room in the city.\n\nThos. H. Lyles\n322 Wabasha St., St. Paul.\n\nUndertaker and Embalmer\nLady Assistant When Desired.\nFree Service of Chapel and Organ\nResidence, 673 St. Anthony Ave.,\nTel.: Dale 2947.\nCalls answered Day or Night\nIN MINNEAPOLIS OR ST. PAUL\nBoth Phones 508.\n\nPhone T. S. Center 4085.\n\nH. Larson Photo Studio\n313 Washington Ave. So.\nMy Work for the Colored People has\nAlways Given Satisfaction.\n\nSMOKE THE BEST\nSight Draft\n5C CIGAR\nW. S CONRAD CO., Distributors\n8 NORTH SIXTH STREET"
+        },
+        {
+          "bbox": [
+            1606,
+            1912,
+            1874,
+            2062
+          ],
+          "label": "text",
+          "text": "Peterson, The Druggist 1501 Washington Ave. So. TOILET ARTICLES, DRUGS, PRESCRIPTIONS. He Sollicits Your Patronage."
+        },
+        {
+          "bbox": [
+            1604,
+            2093,
+            1875,
+            2780
+          ],
+          "label": "text",
+          "text": "Southern Theatre\nSevenCorners\n15th and Washington Avenues So.\nRefined Vaudeville\nMoving Picture Shows\nContinous Performance\nAdmission 10 Cents\nChildren 5 Cents\n\nPOPULAR PRIGED SHOE REPAIRING\nWE FIX 'EM WHILE YOU WIN\n\nMen's Sewed Soils, .....75e\nLadies \" \" .....85e\nMen's Nailed \" .....50 and 60e\nRubber Heels, \" .....40e\nLadies and Boys' nailed soils .....40e\n\nSEVEN CORNERS SHOE REPAIR SHOP\n1424 WASHINGTON AVENUE SOUTH\n\nSpecial Sunday Dinner 35c.\nSt. Louis Kitchen, St. Paul."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "image": "images/page_03.jpg",
+      "width": 2175,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            267,
+            284,
+            811,
+            503
+          ],
+          "label": "text",
+          "text": "I am arranging to run a Personally Conducted Excursion of Pullman Tourist Sleepers and Dining Car from Chicago, Ill., via the Soo-Pacific Railway to\n\nPACIFIC COAST AND RETURN.\n\nThe Excursion will start in July, 1912, stopping 3 days in St. Paul, Minn., for the party to attend the\n\nNATIONAL NEGRO EDUCATIONAL CONGRESS,\n\nwhich convenes on July 15, 1912.\n\nThe Return Trip will be made via Mt. Shasta Route to Oakland and San Francisco, Cal., and through the grand scenery on the line of the Denver and Rio Grande Railway, stopping at Salt Lake City, Denver, Colorado Springs, Kansas City and St. Louis."
+        },
+        {
+          "bbox": [
+            412,
+            512,
+            668,
+            529
+          ],
+          "label": "paragraph_title",
+          "text": "TRIP COMPRISES 30 DAYS."
+        },
+        {
+          "bbox": [
+            546,
+            529,
+            815,
+            960
+          ],
+          "label": "text",
+          "text": "stockles\" to enjoy the beauties of nature, less sides.\n\nMILEAGE, BERTH AND\n.....$228.75\n\nIC. MILEAGE, BERTH.....$195.85\nserved in our special dining car.\n\nS OPPORTUNITY.\n\nWHITE,\nVANCOUVER, B. C.\n\nHOFF FASHIONABLE TAILOR\n318 HENNEPIN AVE,\nat Moderate Prices\nSPRING and SUMMER"
+        },
+        {
+          "bbox": [
+            269,
+            539,
+            811,
+            643
+          ],
+          "label": "text",
+          "text": "Ample time will be given in the \"Rockles\" to enjoy the beauties of nature, both on the Canadian and United States sides.\n\nFIRST CLASS TICKET INC. MILEAGE, BERTH AND MEALS ..... $228.75\n\nSECOND CLASS TICKET INC. MILEAGE, BERTH..."
+        },
+        {
+          "bbox": [
+            281,
+            826,
+            802,
+            943
+          ],
+          "label": "text",
+          "text": "BEN. MARIENHOFF FASHIONABLE TAILOR Phone N. W-4498 318 HENNEPIN AVE. Makes Good Clothes at Moderate Prices SPECIAL DESIGNS for SPRING and SUMMER"
+        },
+        {
+          "bbox": [
+            550,
+            960,
+            811,
+            1039
+          ],
+          "label": "paragraph_title",
+          "text": "L. S. DONALDSON COMPANY"
+        },
+        {
+          "bbox": [
+            546,
+            1039,
+            815,
+            1333
+          ],
+          "label": "text",
+          "text": "Invites Your Personal Inspection of their"
+        },
+        {
+          "bbox": [
+            556,
+            1345,
+            807,
+            1409
+          ],
+          "label": "paragraph_title",
+          "text": "Great Department Store"
+        },
+        {
+          "bbox": [
+            546,
+            1417,
+            815,
+            1708
+          ],
+          "label": "text",
+          "text": "to take advantage of the many conveniences including\n\nPOST OFFICE\n\nREST ROOMS\n\nTELEPHONE'S\n\nCHECKING ROOM\n\nBUREAU OF INFORMATION\n\nETC. ETC. ETC."
+        },
+        {
+          "bbox": [
+            582,
+            1708,
+            780,
+            1724
+          ],
+          "label": "paragraph_title",
+          "text": "IT PAYS TO ADVERTISE."
+        },
+        {
+          "bbox": [
+            546,
+            1726,
+            815,
+            2277
+          ],
+          "label": "text",
+          "text": "We claim to be the best advertising medium of the Twin Cities, and when you're not advertised in the Twin City Star, you need not show\u2014that's all. Because the people read the Star for the news, especially in Minneapolis. The day of the Town Crier is past. Be up-to-date, Advertise and Pay for it. A newspaper is the best medium. It reaches the homes and firesides of people who attend public entertainments. These people never go out and lotter around and read hand-bills and hang-up notices. They read the Twin City Star.\n\nREAD THE STAR\u2014IT'S NEWS."
+        },
+        {
+          "bbox": [
+            287,
+            2509,
+            799,
+            2629
+          ],
+          "label": "text",
+          "text": "THE BEER THAT RIVALS IMPORTED Many People never liked Beer until they tried \"GRAIN BELT\" GET A TASTE OF THIS SUPERB BEER"
+        },
+        {
+          "bbox": [
+            269,
+            962,
+            539,
+            1272
+          ],
+          "label": "text",
+          "text": "THE RECALL.\n\n\"Now, Johnny,\" piped the teacher to a freckled-featured yap\n\nWho was wondering how Wagner, hit the ball,\n\n\"Will you kindly rise a moment from your daily nap\n\nAnd tell us what they mean by \"the recall.\"\"\n\nAnd Johnny, set a record, for he didn't dally long\n\nAs he rose up with the answer, void of doubt:\n\n\"It's not we hand de pitcher wen dey're gettin' to 'im strong\u2014\n\nTake 'im out! Take 'im out! Take 'im out!\""
+        },
+        {
+          "bbox": [
+            266,
+            1081,
+            540,
+            1820
+          ],
+          "label": "text",
+          "text": "And tell us what they mean by \"the recall.\"\n\nAnd Johnny, set a record, for he didn't dally long\nAs he rose up with the answer, void of doubt:\n\"It's wot we hand de pitcher wen dey're getin' to 'im strong\u2014Take 'im out! Take 'im out! Take 'im out!\"\n\u2014GRANTLAND RICE.\n\nThe Twin City Star has always advocated organization, and today we have an organization. The Negro Independent Club is destined to be a political factor in the future campaigns of Hennepin Co., as well as a civic body of great importance, which is necessary for advancement among Negroes in this community. This Club was organized at the home of the Star, and has grown rapidly. It is earnestly hoped that all voters will interest themselves in this Club. Its membership is unlimited, and every member has a voice and a vote. Let the Negroes of Hennepin Co., give credit to those who have taken the initiative, and made an attempt to cause our citizens to realize that they are entitled to more recognition than a few jobs dispensed as the patronage due the Republican voters.\n\nThe items from the classes, make the news of the masses. Read the Twin City Star.\n\nMUSIC EVERY EVENING.\nDICKERSON'S 208 HENNEPIN AVE."
+        },
+        {
+          "bbox": [
+            273,
+            1783,
+            537,
+            1820
+          ],
+          "label": "paragraph_title",
+          "text": "MUSIC EVERY EVENING.\nDICKERSON'S 208 HENNEPIN AVE"
+        },
+        {
+          "bbox": [
+            271,
+            1844,
+            538,
+            2038
+          ],
+          "label": "text",
+          "text": "Johnson and Dean who own their home at 3603 Chicago Ave. are building on an adjoining lot. Charlie says \"he will soon be too old for Stageland and may find this a valuable help should he return to an elevator operator or Hotel employee.\"\n\nAll copy not inserted will be returned upon receipt of sender's address and postage."
+        },
+        {
+          "bbox": [
+            819,
+            212,
+            1092,
+            1664
+          ],
+          "label": "text",
+          "text": "ST. PAUL LADIES ENTERTAIN.\n\nA committee of fifty of the ladies of St. Paul gave a delightful reception to the delegates and visitors to the M. E. Conference at the home of Lowyer W. T. Francis in St. Paul last Monday evening. All of the delegates were present and all of St. Paul turned out to welcome and receive them. It was the social event of the Conference. From eight o'clock to 12:30 the spacious rooms were crowded with delegates and visitors to the Conference, and local Minneapolitans and St. Paulites. The perfect appointments, the beautifully gowned ladies, the strangers beaming with smiles of pleasure and satisfaction at the great honor done them by this brilliant affair, together with the beautiful setting of the artistic home of the hostesses, all lent splendor to a function which could not be surpassed. Attorney Francis was missed from the gathering, being absent on legal business for the N. P. Ry. Co. The complete list of assisting ladies being too large for publication, the Star notes the following: Mesdames Saml. Hatcher, J. E. Johnson, Chas. Booker, T. H. Lyles, J. H. Dillingham, G. W. James, V. D. Turner, F. B. Simpson, F. D. Parker, R. B. Chapman, J. H. Charleston, W. V. Howard, W. A. Hilyard, Edw. Hall, E. O. James, Cleat Oliver, J. B. Johnson, Geo. Wills, Frank Wright, J. Milton, J. H. Hickman, J. Martin, Emma Harding, Alex. Payne, Lloyd Maxwell, Henry High, Flowers, Billiams, Geraldine White, J. R. White, Will Reynolds, Kennedy, A. Bell, Chas. Stanley, Jennie Watson, Tyler and Brown. Misses Ida Johnson, Clara and Gertrude Howard, May Williams, Ruth McGhee, Ethel Howard, Gladys Wright, Vivian and Zelma Hunter, Floretta Turner, Alberta Bell, Pearl Duncan and others.\n\nMesdames Cleat Oliver, E. O. James, Edw. Hall, Chas. Stanley, Misses Ida Johnson, Albreta Bell, and W. A. Hilyard, furnished entertaining musical numbers.\n\nA number of the delegates who just missed the 12:30 car Monday evening after the reception were entertained at the beautiful home of Mrs. Geraldine White, University Ave., until the arrival of the next \"owl.\" Mr. and Mrs. White proved excellent hosts on this impromptu occasion, and the visitors were delighted at the hospitality extended them.\n\nSeveral select luncheons were arranged at some of the leading hotels and cafes during the past week.\n\nBishop Scott, Dr. Ernest Lyons, Dr. J. E. Bowen, Dr. Brooks, I. Garland Penn, and Prof. McMissick are among the most popular of the delegates to the Conference.\n\nMr. and Mrs. Thos. H. Lyles, 678 St. Anthony Ave., will entertain at dinner on May 26, in honor of Rev. M. J. Nailer of Baltimore, Md. Rev. Nailer is District Superintendent of the Baltimore Conference and Pastor of the Sharp St. M. E. Church, and a delegate to the Methodist Conference."
+        },
+        {
+          "bbox": [
+            827,
+            1688,
+            1090,
+            1722
+          ],
+          "label": "paragraph_title",
+          "text": "MR. AND MRS. J. EDGAR MURPHY ENTERTAIN."
+        },
+        {
+          "bbox": [
+            821,
+            1727,
+            1091,
+            2296
+          ],
+          "label": "text",
+          "text": "A Musical and Social Affair.\n\nLast Thursday night Mr. and Mrs. J. Edgar Murphy received at their beautiful residence, 1354 Thomas St. St. Paul, in honor of Dr. and Mrs. M. C. B. Mason, Bishop Scott, Dr. R. E. Jones, Dr. W. Scott Chinn and Mr. Richard Crolley who are attending the Conference. During the entire evening many of the residents of the Twin Cities called to honor the distinguished guests. A musical program was rendered. Madame A. C. Minor sang several solos. Mrs. B. C. Archer, Soprano Solo\u2014If I forget; Mr. and Mrs. Thos. H. Lyles, Duett; Messrs. John H. Jr., and Lloyd Hickman, Barytone Solos. The evening was most enjoyably spent. Dainty refreshments were served. Mrs. John Sellers of Minneapolis, gave a dialect reading\u2014\"An ante-bellum sermon\" which was rendered to the delight of her hearers amid rounds of laughter. Mrs. Murphy proved an admirable hostess, and was assisted by Mesdames Kitty Terrell, B. C. Archer, R. B. Chapman, Addie C. Minor, Emma Hood, James Lee. Miss Mary Fletcher attended the punch bowl. It was an another occasion where our visiting friends were shown the hospitality and esteem of our best residents."
+        },
+        {
+          "bbox": [
+            843,
+            2317,
+            1068,
+            2366
+          ],
+          "label": "paragraph_title",
+          "text": "THE FORUM, Sunday, May 26 Reception to Delegates. A Farewell Reception."
+        },
+        {
+          "bbox": [
+            814,
+            2368,
+            1089,
+            2630
+          ],
+          "label": "text",
+          "text": "The Delegates attending the Conference will be given a farewell reception at Bethesda Baptist Church on Sunday, May 26 by the Forum, the recognized body representing the people of Minneapolis\n\nThe Twin City Star Cost less than any other local Negro paper. Then, spend your money as you like. Each issue speaks for its self.\n\nDickerson has announced that he has put on his \"Special Spring Service.\" Cholest American and Chinese Dishes."
+        },
+        {
+          "bbox": [
+            1098,
+            212,
+            1368,
+            1669
+          ],
+          "label": "text",
+          "text": "CONFERENCE TO CONTINUE.\n\nPermanent Committee Named to Arrange For Meeting in 1915.\n\nAt the final session of the international conference on the Negro, held at Tuskegee, Ala., in April, the matter of appointing a committee to carry out the suggestions of the committee on declarations to provide for a continuance of these international meetings was referred back to the original committee with power to act.\n\nThis committee after due deliberation agreed to name Dr. Booker T. Washington, who served as presiding officer of the first conference, and Emmett J. Scott, its secretary, together with Dr. Hollis B. Frissell of Hampton, Va., and Robert E. Park of Wollaston, Mass., as members of this committee and authorized them to add three others to their number, these to serve as a permanent executive committee of a general committee, referred to further on, for the purpose of making the necessary arrangements for a second international conference on the Negro three years hence.\n\nIt was agreed that this general committee shall consist of the members of the executive, including the three others to be named, together with the members of the committee on declara-\n\nBISHOP ISAIAH B. SCOTT.\n\ntions and other members to be nominated by the executive committee within the next twelve months. As finally constituted it is intended that the general committee shall represent, if possible, all the countries in which the Negro constitutes any considerable portion of the population as well as all the interests that are concerned in any way with the education, moral or religious, of the Negro or the investigation and study of Negro life or the employment of Negro labor.\n\nThe report is signed by J. R. Williams, director of education of Jamaica; W. I. Thomas, professor of sociology, University of Chicago; Maurice S. Evans, representative of the British African society, London, England; James Denton, principal of the Fourth Bay college, Sierra Leone, Africa; Isaiah B. Scott, bishop of the Methodist Episcopal church, Monrovia, Liberia; Washington Harper, representative from Barbados, B. W. I., and Robert E. Park, former secretary of the Kongo Reform Association in America."
+        },
+        {
+          "bbox": [
+            1172,
+            1695,
+            1299,
+            1709
+          ],
+          "label": "paragraph_title",
+          "text": "CONTENTMENT."
+        },
+        {
+          "bbox": [
+            1119,
+            1710,
+            1350,
+            1808
+          ],
+          "label": "text",
+          "text": "One contented with what he has done stands but small chance of becoming famous for what he will do. He has lain down to die. The grass is already growing over him.-Bovee."
+        },
+        {
+          "bbox": [
+            1110,
+            1833,
+            1355,
+            1854
+          ],
+          "label": "paragraph_title",
+          "text": "AFRO-AMERICANS IN CUBA."
+        },
+        {
+          "bbox": [
+            1098,
+            1867,
+            1368,
+            2780
+          ],
+          "label": "text",
+          "text": "Promoter Nelson Busy With Inquiries From Prospective Settlers.\n\nHavana.\u2014The interest taken in commercial and agricultural pursuits by colored Americans is causing some uneasiness among some of the white people from the southern states of America. The influence of Mr. George Davis and family, who recently arrived from Bessemer, Ala., has given new impetus to the situation. Mr. Davis has already deposited $15,000 in the National Bank of Cuba. He has purchased eighty-three acres as the nucleus for other landholdings for the accommodation of fifteen families from his former home in Bessemer.\n\nThe aggregate wealth of the fifteen families is placed at $250,000. Arrangements are being made for their arrival, which is scheduled for the latter part of July.\n\nR. M. R. Nelson Listp, Havana, says his mail is large and growing; that he has over $50,000 worth of buyers promised and thirty-seven pledged excursionists to visit Havana this summer with a view of investing if the \"look over\" proves satisfactory to them.\n\nIndications point to an awakening of the thinking Negro. He is slowly seeing that there are riches in Cuba and great opportunities without color barriers. The Clerks' club of Havana, with one of the world's finest ballrooms, has 25,000 members, several of whom are colored.\n\nAny Afro-American who knows mules and horses has before him an opportunity in Cuba.\n\nTen thousand Afro-American colonists will need many mules and horses. Young George Davis, late of Bessemer, Ala., will take up the study of law at the University of Havana that he may be able to serve capably those who may need legal aid. Young Davis has a working knowledge of the Spanish language already."
+        },
+        {
+          "bbox": [
+            1577,
+            1999,
+            1920,
+            2165
+          ],
+          "label": "text",
+          "text": "OVER 65 YEARS' EXPERIENCE\nPATENTS\nTRADE MARKS DESIGNS"
+        },
+        {
+          "bbox": [
+            1577,
+            2326,
+            1920,
+            2780
+          ],
+          "label": "text",
+          "text": "THE MAGIC SHAMPOO DRIER AND HAIR-STRAIGHTENER\n\nMAILED ANYWHERE IN U.S. $ 100 PER TIME PAID. SEND MONEY BY POST OFFICE MONEY ORDER.\n\nEvery lady can have a beautiful and luxurious head of hair if she uses a MAGIC. After a shampoo or bath the Magic dries the hair, removing the dandruff; and it will straighten the coilest head of hair.\n\nThe hair, because the comb is never heated. The steel heatput into the flame of the alcohol or gas heater.\n\nDetached from the nesting bar, then, after the bar is heatable and held by a turn of the handle.\n\nFor curling irons, has a cover and can be carried in a 00. Magic Alcohol Heater $0.50. Liberal terms to agents.\n\nCo. Minneapolis, Minnesota.\n\nDRUG STORE. Cor. 4th St. and 2nd Ave. 8c"
+        },
+        {
+          "bbox": [
+            1374,
+            234,
+            1640,
+            691
+          ],
+          "label": "text",
+          "text": "ST. THOMAS EPISCOPAL SCURCH\n5th Ave. So. and 27th St. Minn.\nRev A. H. Lealtad, Rector.\nService at 8 o'clock P. M.\nAll are invited. Come.\n\nST. PETERS A. M. E. CHURCH, 224 St.\nNorth Ave. So. 16th Aves. Services\nevery Sunday at 3:30 p.m. and 8:00 p.m.\nSunday school at 12:30. Rev. F. M.\nLewis, Pastor.\n\nST. JAMES A. M. E. CHURCH, 1120\nEighth Ave. So. Sunday services at 11\na.m. 8 p.m. Sunday School at 1 p.m.\nRev. E. R. Edwards, Pastor.\n\nBETHESDA BAPSTIT CHURCH, 1120\nEighth Street So. Preaching every\nSunday morning and evening. Rev. T.\nJ. Carter, Pastor.\n\nZION BAPSTIT CHURCH, 6th Avenue\nN and Nth St. Services morning and\nevening each Sunday. Rev. M. W.\nWithers, Pastor.\n\nST. PAUL.\n\nSt. James A. M. E. Church, Rev. H.\nP. Jones, Pastor, Cor. Jay and Fuller\nSts. All are welcome.\n\nZION PRESBYTERIAN CHURCH\n458 WESTERN AVE. ST. PAUL.\nRev. E. W. Gilles, Temporary Pastor"
+        },
+        {
+          "bbox": [
+            1411,
+            716,
+            1606,
+            731
+          ],
+          "label": "paragraph_title",
+          "text": "POLITICAL INACTIVITY."
+        },
+        {
+          "bbox": [
+            1373,
+            733,
+            1644,
+            1234
+          ],
+          "label": "text",
+          "text": "Our leaders stand by and see the \"machine\" pack the caucuses, and control primaries in Negro districts. They get the money to deliver the vote and use no effort to do so. If they did, the Negro districts of the 5th and 6th wards would have Negro representatives. Old Negro leaders do not believe in Young Men's Political Clubs. They fear their own undoing.\n\nThe Negro is due some political representation as a matter of right, not as a matter of favor. Numerically we are strong enough to demand this. If we get together.\n\nThe Negroes of Hennepin County have secured little representation, except empty honors for an apparent leader.\n\nProf. Kelly Miller in the \"Political Capacity of the Negro,\" says that elimination of the Negro from office means his elimination from politics.\n\nThe Negro should have a voice in the affairs governmental, both local and national, in proportion to the support he gives that government."
+        },
+        {
+          "bbox": [
+            1376,
+            1167,
+            1641,
+            1234
+          ],
+          "label": "text",
+          "text": "The Negro should have a voice in the affairs governmental, both local and national, in proportion to the support he gives that government."
+        },
+        {
+          "bbox": [
+            1392,
+            1255,
+            1616,
+            1270
+          ],
+          "label": "paragraph_title",
+          "text": "UNLIMITED LAWLESSNESS"
+        },
+        {
+          "bbox": [
+            1376,
+            1273,
+            1643,
+            1522
+          ],
+          "label": "text",
+          "text": "The sentiment of the American public knows no bounds. They chose any time or place to perform any ceremonies which may appeal to their fads or fancies. \u2014 The lynching of Negroes by white men is prevalent, yet the lynching of white men by white men has proven that this lawlessness is not born of prejudice alone, but out of a custom practiced by these public executioners, who disregard the written laws of the land and hold justice as a mockery."
+        },
+        {
+          "bbox": [
+            1422,
+            1545,
+            1595,
+            1560
+          ],
+          "label": "paragraph_title",
+          "text": "A REAL NEWSPAPER."
+        },
+        {
+          "bbox": [
+            1373,
+            1564,
+            1643,
+            2139
+          ],
+          "label": "text",
+          "text": "A newspaper isn't simply a bare chronicler of events. It is a personality. It comes into your house almost as a member of your family.\n\nWhat sort of a person do you like to have visit you?\n\nHe ought to be honest, courageous, no hypocrite, and a gentleman, with a real interest in you, ready to lend a hand if you need help. Cheerfulness and good humor are excellent qualities, and a wide range of interests.\n\nWhat do you find in The Star?\n\nIt has opinions, of course, and it speaks them out freely. They are its own and they are not influenced by outside interests. The square deal is its platform.\n\nIn handling news it observes the decencies and amenities of life. It never wantonly brings shame or sorrow to any home. Its advertisements are clean.\n\nIf the Twin City Star does not bring you something of interest in any particular issue, it has failed by so much that week. It takes of its hat and apologizes for having bored you as a visitor.\n\nBut it trusts this doesn't often happen. Not often, does it?"
+        },
+        {
+          "bbox": [
+            1427,
+            2164,
+            1586,
+            2178
+          ],
+          "label": "paragraph_title",
+          "text": "THE NEGRO'S DUTY."
+        },
+        {
+          "bbox": [
+            1373,
+            2183,
+            1641,
+            2322
+          ],
+          "label": "text",
+          "text": "\"What the Negro must do is to contend for his rights in the best spirit without losing his head and he will find the genuine white people the world over respecting them. First, let him respect himself and others will respect him.\"\u2014(Charleston, S. C. Messenger.)"
+        },
+        {
+          "bbox": [
+            1647,
+            238,
+            1917,
+            472
+          ],
+          "label": "text",
+          "text": "The honest merchant is a Successful merchant; the Successful merchant Knows the Advantage of Advertising what he has for sale. Stores and business places advertising in THE TWIN CITY STAR are the best places at which to spend your money and get your money's worth. We therefore recommend to the trading public those business places carrying an Ad. in THE TWIN CITY STAR."
+        },
+        {
+          "bbox": [
+            1710,
+            482,
+            1856,
+            497
+          ],
+          "label": "paragraph_title",
+          "text": "ADVERTISEMENTS"
+        },
+        {
+          "bbox": [
+            1652,
+            516,
+            1920,
+            1002
+          ],
+          "label": "text",
+          "text": "SUITS OR OVERCOATS MADE TO ORDER.\nLADIES' AND GENTS' CLOTHES CLEANED, PRESSED AND REPAIRED.\nCalled for and Dellvered.\nGOLDEN RULE TAILORS.\nS. W. Stock, Mgr.\n1311 WASHINGTON AVENUE SO.\nN. W. Phone, Nlc. 3350.\n\nDO YOU WANT TO BE WELL DRESSED? THEN I AM YOUR TAILOR.\n\nLet me make your Spring Suit or Overcoat from from my Choice of Latest Patterns. Perfect Fit. Quality and Work man ship Guaranteed. Reasonable Prices.\n\nSpecial attention given to repairing, cleaning,"
+        },
+        {
+          "bbox": [
+            1651,
+            1001,
+            1918,
+            1266
+          ],
+          "label": "text",
+          "text": "and pressing. Tel. N. W. Cedar 3488.\nCLIFFORD A. SMITH.\n109 E. 8th ST., ST. PAUL, MINN.\n\nRAILROAD MEN'S REST CLUB.\n505 W. Madison St., Chicago, Ill.\nOpp. New Northwestern Depot.\nLibrary, Barber Shop, Dining Room.\nCheck Room and Sleeping apartment.\nChas. Lytle Pres. B. T. Blbb, Mgr.\nRich'd Drew Sec. Tel. Franklin 2839\n\nTo subscribe is to pay.\nSubscribe now.\nTwo Dollars a Year."
+        },
+        {
+          "bbox": [
+            1688,
+            1307,
+            1879,
+            1340
+          ],
+          "label": "text",
+          "text": "Real Estate, Farms Lands, Desirable City Property."
+        },
+        {
+          "bbox": [
+            1650,
+            1318,
+            1918,
+            1810
+          ],
+          "label": "text",
+          "text": "New Estate, Parris Linds, Desirable City Property.\n\nFrom 10, 15, 20, 30 and 40 acres and upwards, Ten Blocks from N. P. R. R. Station. 10 acre plots $10 down and $5.00 per month. 40 acres\u2014$25 down and $8 per month. I can give you a safe investment. Call or write for information to.\n\nREV. JOS. S. STRONG.\nR. 27-28 UNION BLOCK, ST. PAUL, MINN.\n\nAGENTS WANTED:\u2014Male or Female, to handle our specialties, $3.00 to $4.00 a day can be easily made. If you are not satisfied working for others, why not become our agent? Try it before giving up your present position and see how easy you can earn money selling our articles. No experience necessary, they sell on sight. Splendid opportunity for active members of societies. Send stamped self addressed envelopes for particulars.\n\nS. J. Davis Manufacturing Co.,\nP. O. Box 201, New Rochelle, N. Y."
+        },
+        {
+          "bbox": [
+            1649,
+            1842,
+            1916,
+            1999
+          ],
+          "label": "text",
+          "text": "MONEY TO LOAN\u2014The J. & M.\nLoan Co., will loan you money on any-\nthing of value, or on your plain note,\nat rates you can afford to pay. All\ntransactions strictly confidential.\nHours: 11 a. m. to 1 and 5 to 7 p. m.\nRoom 28 Union Block. Tel. Cedar\n5552. Res. phone Dale 872. J. H.\nDillingham, manager."
+        },
+        {
+          "bbox": [
+            1657,
+            2165,
+            1908,
+            2326
+          ],
+          "label": "text",
+          "text": "COPYRIGHTS & C.\nAnyone sending a sketch and description must accurately assert our common free warranty whether strictly commercial, HANDSHORE on Patents, strictly commercial, HANDSHORE on Patents, taken through Munn & Co. for special notice, without charge, in the Scientific American.\nA handsomely illustrated weekly journal, publication of any scientific journal. Ten copies a year; four months, $L. Sold by all newadditions.\nMUNN & Co. 361 Broadway, New York\nBranch Office, 85 F. St. Washington, D.C."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image": "images/page_04.jpg",
+      "width": 2165,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            229,
+            187,
+            501,
+            440
+          ],
+          "label": "text",
+          "text": "THE TWIN CITY STAR\nIndependent Republican.\nNo. 40 Saturday, May 25, 1912\n\nEntered in the Post office at Minneapolis, June 23, as second class matter.\n\nPublished Every Saturday by\nCHARLES SUMNER SMITH,\n1419 Washington Ave. So., Minneapolis, Minn."
+        },
+        {
+          "bbox": [
+            229,
+            472,
+            497,
+            567
+          ],
+          "label": "text",
+          "text": "Subscription by Mail, Postpaid.\nONE YEAR ..... $2.00\nSIX MONTHS ..... 1.85\n8 MONTHS ..... $.75\nCANADIAN SUBSCRIPTION $2.50."
+        },
+        {
+          "bbox": [
+            228,
+            566,
+            495,
+            937
+          ],
+          "label": "text",
+          "text": "Advertising rate per inch 50c. Special rates furnished on application\n\nSubscribers are earnestly requested to report to the office any irregularities in the delivery of their paper; also any change of address.\n\nSubscribers wishing to the 'Twin City Star' discontinued at the expiration of their subscriptions should notify us to that effect; otherwise we shall consider it their wish to have it continued. Order for discontinuance must be accompanied by payment of all arrears.\n\nAll personal advertisements in the local columns must be paid for in advance.\n\nAll public comment inserted only over the author's signature\n\nForeign subscriptions solicited."
+        },
+        {
+          "bbox": [
+            225,
+            928,
+            493,
+            1658
+          ],
+          "label": "text",
+          "text": "Foreign subscription has solicited.\n\nUnsigned notices will not be inserted in these columns.\n\nAll matter must reach us by Wednesday for insertion.\n\nPAID UP SUBSCRIBERS are our best \"Boosters\" Are you one?\n\nVOTE FOR ROOSEVELT.\n\nThe man who believes in the right of the people to rule.\n\nWho has never closed the door of hope in the face of the Negro.\n\nRoosevelt said \"that he would read out of the Republican party any man who corrupted the principles of the party.\"\n\nThe presence of our visiting Churchmen has raised the standard of the Negro among the people of Minnesota.\n\nWe are living in an atmosphere of intelligence. Congratulations to visiting delegates who are so admirably conducting themselves during their stay in our midst.\n\nThe National Negro Educational Congress will bring many more such men of our race, of whom we are proud, when it meets in St. Paul in July next.\n\nWe wish to state that announcements of candidates are not endorsements\u2014just political advertisements for candidates and news for our readers.\n\nThe Negroes of Hennepin Co. should interest themselves in the State tickets."
+        },
+        {
+          "bbox": [
+            248,
+            1678,
+            472,
+            1693
+          ],
+          "label": "paragraph_title",
+          "text": "THE CUBAN INSURRECTION."
+        },
+        {
+          "bbox": [
+            221,
+            1689,
+            492,
+            2215
+          ],
+          "label": "text",
+          "text": "THE CUBAN INSURCTION. The Negro insurrection in Cuba has developed seriously, and the War Department has become active. The blacks of Cuba had it hard during the Spanish reign, and the American invasion has doubtlessly made the situation more intolerable. We were in Cuba during 1898, the only American Negro in the City of Havana, and from the blacks were informed of caste conditions and color prejudices. There were exceptional cases, where blacks were recognized on account of wealth or intellect, but the blacks were considered the menial class. The purpose of the Nation might have been to \"Free Cuba,\" but the result now shows that it was the intent of the American capitalist and the Southern invader to conditionally enslave the Negro. May they fight for a just cause and win.. Nations will point with pride to their achievement, while we bow our heads in shame wearing the yoke of oppression, fearing from cowardice and lack of unity to assert our rights, even kissing the hand that will always smite us, till we rebel by concerted effort."
+        },
+        {
+          "bbox": [
+            246,
+            2236,
+            463,
+            2252
+          ],
+          "label": "paragraph_title",
+          "text": "OUR SOULLESS LAWYERS."
+        },
+        {
+          "bbox": [
+            222,
+            2250,
+            491,
+            2601
+          ],
+          "label": "text",
+          "text": "Bryan spoke of soulless lawyers in his lecture at the Auditorium. Many who heeard or read his remarks knows that there are some Negro lawyers, in the Twin Cities worthy of that classification. One in St. Paul stole $400 from a Negro orphan girl, who has brought the matter up for investigation, and another in Minneapolis is attempting to dissuade the delegates from attending the Negro Educational Congress by means of personal letters condemning the character of its president. The reputation and character of these Negroes is known in the Twin Cities. These cannibals thrive on the flesh of their beneficiors, and hold social prominence by virtue of means gained by treachery and fraud."
+        },
+        {
+          "bbox": [
+            498,
+            1154,
+            768,
+            2017
+          ],
+          "label": "text",
+          "text": "The Brownsville agitators should remember that President Taft refused to appoint Hon. Joseph Benson Foraker, the friend of the Negro, the advocate of the discharged soldiers, and the benefactor of the President, to the Supreme Bench. Yet they would say that Taft is the only God of their salvation.\n\nOhio was the Gettysburg of the Taft campaign\u2014and Chicago will be its Appomattox, where Roosevelt will demand \"unconditional surrender.\" Shall the Negro be emancipated from political bondage, and be given his constitutional rights throughout the Southland? Not while the Doctrine of States Rights overrides the Constitution of the United States.\n\nGov. Eberhart has been forced to call an extra session, and gets no credit for doing so.\n\nTHE SOUTHERN REPUBLICAN SCANDAL.\n\nThe president is like the high-minded president of a public service corporation who wants his general manager or counsel to get results in council and legislature, but is unwilling to hear anything about the necessary means.\n\nWe do not hear of any refusal of the president to permit Southern delegates to the Republican national convention to vote for him, but he is taking great pains to pass on the other side of all unpleasant details involved in arranging for this support of his candidacy.\n\nThe Republican party in the South is a permanent scandal. It has no following, since its Negroes have been disfranchised and its whites ostracised, and only leaders enough to fill the federal and organization offices. Extracts from Minneapolis Tribune. It's a year old, but true."
+        },
+        {
+          "bbox": [
+            499,
+            1987,
+            765,
+            2018
+          ],
+          "label": "text",
+          "text": "Extracts from Minneapolis Tribune\nIt's a year old, but true."
+        },
+        {
+          "bbox": [
+            497,
+            2049,
+            766,
+            2296
+          ],
+          "label": "text",
+          "text": "The asphalt pavement along University Ave. is being repaired, the work is being done mostly by Negroes. It is worthy of mention that many of our residents are taking to this work which has been done formerly by imported Negroes. The past hard winter has taught many of us the value and dignity of labor. The Negro, who is ashamed to labor with pick and shovel is generally indentified with the loafing and criminal class\u2014the destructive element of the race."
+        },
+        {
+          "bbox": [
+            569,
+            2312,
+            695,
+            2326
+          ],
+          "label": "paragraph_title",
+          "text": "MEMORIAL DAY"
+        },
+        {
+          "bbox": [
+            497,
+            2351,
+            767,
+            2600
+          ],
+          "label": "text",
+          "text": "Memorial Exercises in honor of the Fallen Heroes of the Negro Race\" should be observed. The Star suggests that services be held on June 1, in our churches. This is a matter of vital importance. We have many relatives and friends among the departed, whose memory is dear to us, but there is one whose services to his country won for our race its highest honors. Shall we forget the American Negro Soldiers?\n\nEDUCATE, AGITATE AND EMANCIPATE."
+        },
+        {
+          "bbox": [
+            775,
+            1152,
+            1043,
+            1222
+          ],
+          "label": "text",
+          "text": "The Negro Independent Progressive Club is the first Negro organization in the State of Minnesota to endorse the candidacy of Roosevelt."
+        },
+        {
+          "bbox": [
+            785,
+            1258,
+            1042,
+            1297
+          ],
+          "label": "paragraph_title",
+          "text": "RECORD OF THE REPUBLICAN PARTY."
+        },
+        {
+          "bbox": [
+            774,
+            1302,
+            1048,
+            1934
+          ],
+          "label": "text",
+          "text": "Colored Americans having been permitted to be disfranchised in the Southern States under Republican rule.\n\nThe appointment of ex-Confederates and Southern Democrats upon the Supreme Court. of the United States.\n\nThe appointment of ex-Confederates and Southern Democrats in the Cabinet by President Taft.\n\nThe declaration of President Taft that he would appoint no colored man to office who may be objectionable to the white people.\n\nRace discrimination permitted upon the railroads South, and the enactment of \"Jim Crow\" car laws.\n\nThe removal of Southern colored office holders in the South from office and the appointment of Democrats and ex-Confederates in their stead.\n\nWith such a record for the Republican party to go to the country on in 1912 to capture the colored vote will be bound to be effective. The colored voters throughout the country have opened their eyes, and between now and 1912 they will keep them open.\u2014The Bee, Wash. D. C.\n\nThe Editor of the Bee, W. Calvin Chase is a delegate to the Republican Convention. The record remains the same. What are you going to do about it?"
+        },
+        {
+          "bbox": [
+            774,
+            1970,
+            1043,
+            2092
+          ],
+          "label": "text",
+          "text": "Many of our exchanges refer to Taft and Roosevelt as \"the two evils.\" We know that both have done many good things for the Negro. However, we reserve that phraseology for our Democratic Presidential Possibilities."
+        },
+        {
+          "bbox": [
+            1062,
+            337,
+            1317,
+            381
+          ],
+          "label": "text",
+          "text": "The Very Latest Ideas in all that pertains to Women's 'Wear. $ ^{8}$"
+        },
+        {
+          "bbox": [
+            1057,
+            424,
+            1323,
+            464
+          ],
+          "label": "text",
+          "text": "Just opened Desirable Location\nOn All Car Lines"
+        },
+        {
+          "bbox": [
+            1062,
+            514,
+            1312,
+            647
+          ],
+          "label": "text",
+          "text": "1308-10 WASHINGTON AVE. SO.\n28 Newly Furnished Rooms.\nBy Day, Week or Month.\nSpecial Rates to Theatrical People.\nMrs. Alice (Mother) Carver, Prop.\nN. W. Phone Main 863\nBARBER SHOP AND BATHS."
+        },
+        {
+          "bbox": [
+            1055,
+            704,
+            1321,
+            756
+          ],
+          "label": "paragraph_title",
+          "text": "WE HAVE JUST OPENED THE RED MOON BARBER SHOP"
+        },
+        {
+          "bbox": [
+            1045,
+            759,
+            1323,
+            1099
+          ],
+          "label": "text",
+          "text": "EXPERIENCED ARTISTS\nSANITARY SERVICE\nWALKER WILLIAMS, A. C. LYLES,\nLINCOLN OVERALL.\n124 EAST 3rd ST. ST. PAUL.\n\nT. S. Phone 3073 N. W. Main 9592\n\nThe\nPorters and Waiters Club\nIncorporated\nGLOVER SHULL, President\n\nWaiters for Parties Furnished\nAlso Porters\n\n311 Hennepin Ave. Mpls."
+        },
+        {
+          "bbox": [
+            1054,
+            1143,
+            1318,
+            1329
+          ],
+          "label": "text",
+          "text": "THE BUSY CORNER.\nis now open for business.\n381 RONDO ST. COR. WESTERN AV.\nST. PAUL, MINN.\n\nFIRST CLASS RESTAURANT\nA La Carte From 7 A. M. to 12 P. M.\n\nA. J. McMURRAY GROCERY CO.\n381 RONDO ST., ST. PAUL.\nN. W. Phone Dale 3601."
+        },
+        {
+          "bbox": [
+            1047,
+            1382,
+            1316,
+            1529
+          ],
+          "label": "paragraph_title",
+          "text": "Mmc. M. L. JOHNSON GRADUATE SCALP SPECIALIST AND HAIR CULTURIST Manlouring, Facial, Scalp Message and Scientific Scalp Treating."
+        },
+        {
+          "bbox": [
+            1045,
+            1382,
+            1323,
+            2780
+          ],
+          "label": "text",
+          "text": "Mmc. M. L. JOHNSON\nGRADUATE SCALP SPECIALIST AND\nHAIR CULTURIST\nManlouring, Facial, Scalp Message and Scientific\nScalp Treating.\n\nThe above cut represents Mmc. Johnson as she is today, with her own NATURAL HAIR cultivated by the use of our own Hair Remedies. She can do for you what she has done for herself and thousands of others in every part of this country.\n\nUse Johnson's Hair Food, for growing Hair on bald heads and bare temples. It makes hard, dry hair; soft, moist, glossy and luxurient. Per Jar. 50c.\n\nUse Johnson's Hair Grower, for Invigorating, Strengthening, Nourishing the Roots and Stimulating the Hair growth. Per Bottle. 50c.\n\nUse Johnson's Dandruff Cure. It cleans the Scalp of gum, grit, dandruff, scales and dirt, and leaves it healthy and pure. Per Jar. 25c.\n\nUse Johnson's Itch Cure. It will stop that Itching Scalp. Per Jar. 25c.\n\nUse Johnson's Shampoo Cream, for shampooing the scalp and hair. It cleanses and beautifies. Per Jar. 25c.\n\nUse Johnson's Medicated Soap, for the complexion, shaving, shampooing and skin diseases. Per Cake. 25c.\n\nUse Johnson's Cream of Camphor. It beautifies the face, hands and neck. Relieves headache and neuralgia and will gradually lighten the skin. Per Bot. 50c.\n\nUse Johnson's Sure Hair Dye. Changes the grayest hair dark after a few applications. Per Bottle. $1.00\n\nWe are the Pioneer manufacturers of Scientific Hair Preparations in the United States. We also make Wigs, Switches, Pomps, Coronet Braids, Puffs and front Parts to match your hair. Best workmanship. Lowest prices.\n\nSend 10c for a large sample jar of Johnson's Hair Food and terms to Agents.\n\nWrite your letter to\n\nDR. W. ALEXANDER JOHNSON\nOR\nMme. MARY L. JOHNSON\n\nScalp Specialists\n\nCS1 Shawmut Avenue, Boston, Mass.\n\nPlease mention this paper."
+        },
+        {
+          "bbox": [
+            1403,
+            234,
+            1813,
+            276
+          ],
+          "label": "doc_title",
+          "text": "THE DICKERSON CAFE"
+        },
+        {
+          "bbox": [
+            1353,
+            283,
+            1862,
+            1685
+          ],
+          "label": "text",
+          "text": "CHINESE AND AMERICAN DISHES.\nJ. A. DICKERSON, PROP.\nPHONE MAIN 9058.\n\nA DINING ROOM CELEBRATED FOR ITS SERVICE.\n\nIt is worth your while to plan to attend the Dickerson Cafe to enhance the joys of the Spring Season.\n\nA splendid assortment of delicacies includes Chinese and American dishes.\n\nThe little things which add so much to the appearance specially planned for our visiting guests.\n\nTwo years of satisfaction has been our gift to our patrons. This satisfaction rests upon the quality of our merchandise and our service.\n\nQuality considered, prices are lower here than elsewhere. Investigation will prove that our culinary arrangements are such as will enable us to give you exceptional service, that make a direct appeal to critical and discriminating diners, with all the conveniences and privileges of a modern Cafe.\n\nTHE ONE PLACE IN THE NORTHWEST WHERE CATERING IS AN ART.\n\n208 HENNEPIN AVE. MINNEAPOLIS\n\nTEL. NORTH WEST MAIN 537 OPEN FROM 6 A. M. to 9 P. M. M. G. RUTLEDGE, PROP\n\"Senator Foraker's Political Life is an Open book\"\n\nTHE FORAKER CAFE\nELECTRIC LIGHTED\n(ESTABLISHED 1908)\n511 FOURTH AVE. SO.\n\nSpecial Sunday Dinner 35c Business Men's Lunch 20c\nFROM 12 TO 3 P. M. FROM 11 TO 2 P. M.\n\nB. FINK MERCANTILE CO.\nHeadquarters for Railroad Men\nCor. Third and Robert St., ST. PAUL\n\nSPECIAL SALE OF WINES AND LIQUORS\n2.20-Four full quarts Old Style Bottled in Bond Montrose Whiskey-5 years old.\n2.00-per gallon Pure California Brandy-Aged in Bond.\n2.50-Four full quarts Old Hickory Grove Whiskey.\n2.50-per gallon Old Port, Sherry, Tokay or Catawaba.\n2.50-Four large bottles Virginia Dare Wine-Garrett & Co.\n2.25-per gallon Pure Grain Alcohol, full strength.\n2.00-per gallon Golden Gate Apricot Brandy.\noney refunded if not satisfied. Send postal for price list.\n\nEXPRESS PRE-PAID to all points in Minnesota, Wisconsin, Iowa, North and South Dakotas and Montana.\n\nOut-of-town mail orders shipped the day received.\n\nFLORSHEIM SHOES\nrepresent perfection in fine shoemaking\n\nGet acquainted with COMFORT and become one of our SATISFIED CUSTOMERS.\n\nSTANLEY SHOE COMPANY\n422 NICOLLET AVENUE\n\nReal Estate\nRentals\nLoans, & Insurance"
+        },
+        {
+          "bbox": [
+            1396,
+            354,
+            1812,
+            775
+          ],
+          "label": "text",
+          "text": "A DINING ROOM CELEBRATED FOR ITS SERVICE.\n\nIt is worth your while to plan to attend the Dickerson Cafe to enhance the joys of the Spring Season.\n\nA splendid assortment of delicacies includes Chinese and American dishes.\n\nThe little things which add so much to the appearance specially planned for our visiting guests.\n\nTwo years of satisfaction has been our gift to our patrons. This satisfaction rests upon the quality of our merchandise and our service.\n\nQuality considered, prices are lower here than elsewhere. Investigation will prove that our culinary arrangements are such as will enable us to give you exceptional service, that make a direct appeal to critical and discriminating diners, with all the conveniences and privileges of a modern Cafe.\n\nTHE ONE PLACE IN THE NORTHWEST WHERE CATERING IS AN ART.\n\n208 HENNEPIN AVE. MINNEAPOLIS"
+        },
+        {
+          "bbox": [
+            1338,
+            847,
+            1863,
+            976
+          ],
+          "label": "text",
+          "text": "TEL. NORTH WEST MAIN 537 OPEN FROM 6 A. M. 10 9 P. M. M. G. RUTLEDGE, PROP\n\"Senator Foraker's Political Life is an Open book\"\nTHE FORAKER CAFE\nELECTRIC LIGHTED\n(ESTABLISHED 1908)\n511 FOURTH AVE. SO.\nBEST SERVICE\nSpecial Sunday Dinner 35c\nFROM 12 TO 3 P. M.\nBusiness Men's Lunch 20c\nFROM 11 TO 2 P. M."
+        },
+        {
+          "bbox": [
+            1344,
+            849,
+            1861,
+            902
+          ],
+          "label": "text",
+          "text": "TEL. NORTH WEST MAIN 537 OPEN FROM 6 A.M. to 9 P.M. M. G. RUTLEDGE, PROP \"Senator Foraker's Political Life is an Open book\" THE FORAKER CAFE"
+        },
+        {
+          "bbox": [
+            1335,
+            1079,
+            1862,
+            1283
+          ],
+          "label": "text",
+          "text": "COR. Third and Robert St., ST. PAUL\n\nSPECIAL SALE OF WINES AND LIQUORS\n$3.20\u2014Four full quarts Old Style Bottled in Bond Montrose Whiskey\u20145 years old.\n$3.00\u2014per gallon Pure California Brandy\u2014Aged in Bond.\n$2.50\u2014Four full quarts Old Hickory Grove Whiskey.\n$1.50\u2014per gallon Old Port, Sherry, Tokay or Catawaba.\n$2.50\u2014Four large bottles Virginia Dare Wine\u2014Garrett & Co.\n$3.25\u2014per gallon Pure Grain Alcohol, full strength.\n$3.00\u2014per gallon Golden Gate Apricot Brandy.\nMoney refunded if not satisfied. Send postal for price list.\n\nEXPRESS PRE.\nPAID to all points in Minnesota, Wisconsin, Iowa, North and South Dakotas and Montana.\nOut-of-town mail orders shipped the day received."
+        },
+        {
+          "bbox": [
+            1734,
+            1097,
+            1862,
+            1283
+          ],
+          "label": "text",
+          "text": "EXPRESS PRE-PAID to all points in Minnesota, Wisconsin, Iowa, North and South Dakotas and Montana.\nOut-of-town mail orders shipped the day received."
+        },
+        {
+          "bbox": [
+            1349,
+            1323,
+            1849,
+            1364
+          ],
+          "label": "paragraph_title",
+          "text": "FLORSHEIM SHOES"
+        },
+        {
+          "bbox": [
+            1360,
+            1368,
+            1828,
+            1485
+          ],
+          "label": "text",
+          "text": "represent perfection in fine shoemaking Get acquainted with COMFORT and become one of our SATISFIESD CUSTOMERS. STANLEY SHOE COMPANY 422 NICOLLET AVENUE"
+        },
+        {
+          "bbox": [
+            1462,
+            1540,
+            1546,
+            1573
+          ],
+          "label": "text",
+          "text": "Real Estate Rentals"
+        },
+        {
+          "bbox": [
+            1660,
+            1541,
+            1731,
+            1575
+          ],
+          "label": "text",
+          "text": "Loans, & Insurance"
+        },
+        {
+          "bbox": [
+            1353,
+            1685,
+            1862,
+            2011
+          ],
+          "label": "text",
+          "text": "F. PEOPLES REAL ESTATE CO.\nContracting and Building\n236 BOSTON BLOCK. MINNEAPOLIS\nOffice Phone ....N. W. Nic. 2188\n\nHochsteiner\nLAGER\n\nThe Beer of Quality\n& Flavor"
+        },
+        {
+          "bbox": [
+            1596,
+            2063,
+            1805,
+            2128
+          ],
+          "label": "text",
+          "text": "\"PURITY\" brew is the\nBeeer \"for the summer,\nIn spring and winter\nAnd fall it's a hummer!"
+        },
+        {
+          "bbox": [
+            1353,
+            2160,
+            1862,
+            2594
+          ],
+          "label": "text",
+          "text": "Brewed and Bottled Exclusively by\nThe Leading Bottle Beer Brewery\n\nPURITY BREWING\nCOMPANY\nMINNEAPOLIS,\nMINN.\n\nAdvertise in\n\nTHE TWIN CITY STAR\n\nand Get Results"
+        }
+      ]
+    }
+  ]
+}
