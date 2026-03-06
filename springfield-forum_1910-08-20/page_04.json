@@ -1,0 +1,358 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2049,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        293,
+        204,
+        997,
+        362
+      ],
+      "label": "doc_title",
+      "text": "The J. P. Roberts Shoe Company 1707 E. Capitol Ave."
+    },
+    {
+      "bbox": [
+        285,
+        414,
+        1000,
+        758
+      ],
+      "label": "text",
+      "text": "Is now offering a limited number of common and preferred Shares of the Capital Stock for Sale. Call and investigate.\n\nThis is a Joint Stock Company and you can realize a good profit on the investment.\n\nThe Company is already doing a good business with the amount invested and shall soon order a large stock of Shoes for the fall and winter trade.\n\nDo not wait until the price of shares advance\u2014take one or more shares now\n\nThis is to be the leading Negro enterprise in the city. under good management."
+    },
+    {
+      "bbox": [
+        508,
+        780,
+        992,
+        822
+      ],
+      "label": "paragraph_title",
+      "text": "J. P. ROBERTS, Mg $ 1. $"
+    },
+    {
+      "bbox": [
+        264,
+        822,
+        643,
+        1443
+      ],
+      "label": "text",
+      "text": "PATI\n\nPrize Offers from L\n\nBook on patents. \"Hints to\n\"Why some inventors fail.\"\nsearch of Patent Office records\nActing Commissioner of Patent\nthe U. S. Patent Office.\n\nGREELEY &\nPATENT A\nWASHING"
+    },
+    {
+      "bbox": [
+        508,
+        822,
+        1025,
+        1448
+      ],
+      "label": "text",
+      "text": "PATENTS\ners from Leading Manufacturers\nts. \"Hints to inventors.\" \"Inventions needed.\"\nPatents fail.\" Send rough sketch or model for\nOffice records. Our Mr. Greeley was formerly,\nowner of Patents, and as such had full charge of\nOffice.\n\nBELEY & McINTIRE\nPATENT ATTORNEYS\nWASHINGTON, D. C."
+    },
+    {
+      "bbox": [
+        323,
+        1121,
+        985,
+        1380
+      ],
+      "label": "text",
+      "text": "Book on patents. \"Hints to inventors.\" \"Inventions needed.\" \"Why some inventors fail.\" Send rough sketch or model for search of Patent Office records. Our Mr. Greeley was formerly. Acting Commissioner of Patents, and as such had full charge of the U. S. Patent Office.\n\nGREELEY & McINTIRE\nPATENT ATTORNEYS\nWASHINGTON, D. C."
+    },
+    {
+      "bbox": [
+        267,
+        1519,
+        639,
+        1564
+      ],
+      "label": "text",
+      "text": "SO-CALLED OCTOPUS AND INDEPENDENTS FIGHTING"
+    },
+    {
+      "bbox": [
+        266,
+        1608,
+        638,
+        1652
+      ],
+      "label": "text",
+      "text": "The People\u2014Not the Circus Benefit While the Cruel Circus War Lasts-"
+    },
+    {
+      "bbox": [
+        264,
+        1700,
+        640,
+        2315
+      ],
+      "label": "text",
+      "text": "On August 25th the great Sells-Floto Shows with all their magnificent paraphernalia and extra added attractions, will arrive in this city for a one day engagement.\n\nEvery one conversant with the happenings of the amusement world are aware of the wonderful success which has crowned the triumphal tour of the Sells-Floto circus this season. While the circus proper has been enlarged and comes back to us more magnificient than ever before, the price of admission has been cut in half. A great circus war is raging between certain combined circuses on one side and the independent Sells-Floto people on the other. The latter are carrying the battle to their opponents and the people are benefiting thereby. That the move has been a popular one is attested to by the fact that in every big city visit, ed this season the management wa unable to provide room for its patrons."
+    },
+    {
+      "bbox": [
+        267,
+        2385,
+        643,
+        2633
+      ],
+      "label": "text",
+      "text": "We are carrying a choice line of hats suitable for all occasions, with prices to suit the hard times and the high cost for foodstuffs.\n\nWe trim hats to your taste. Call and see our supply.\n\nMRS. MATTIE TUCKER,\n\n206 N. Fourteenth Street"
+    },
+    {
+      "bbox": [
+        508,
+        2630,
+        1025,
+        2780
+      ],
+      "label": "text",
+      "text": "Street"
+    },
+    {
+      "bbox": [
+        264,
+        2633,
+        643,
+        2780
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        315,
+        1443,
+        592,
+        1473
+      ],
+      "label": "paragraph_title",
+      "text": "The Circus War"
+    },
+    {
+      "bbox": [
+        376,
+        2345,
+        538,
+        2372
+      ],
+      "label": "paragraph_title",
+      "text": "Millinerv."
+    },
+    {
+      "bbox": [
+        652,
+        1448,
+        1025,
+        1516
+      ],
+      "label": "paragraph_title",
+      "text": "Not in any\nCircus Trust"
+    },
+    {
+      "bbox": [
+        652,
+        1448,
+        1025,
+        1516
+      ],
+      "label": "text",
+      "text": "Not in any\nCircus Trust"
+    },
+    {
+      "bbox": [
+        654,
+        1559,
+        1022,
+        1651
+      ],
+      "label": "text",
+      "text": "The Storm Center of Circus Octopus Warfare May Occur in Your City as No Time or Place Has Been Too Sacred."
+    },
+    {
+      "bbox": [
+        648,
+        1698,
+        1023,
+        2303
+      ],
+      "label": "text",
+      "text": "Having broken all records in the big cities of the coast, which includes San Francisco, Los Angeles, Portland, Seattle, Tacoma and Vancouver the great Sells-Floto Shows come to Springfield for one days engagement on August 25th.\n\nThe wonderful success which has rewarded the proprietors of this magnificient attraction this year may be traced to two sources. In the first place, the character of the performance given is such as to return full values for the money. In the second place, these Western showmen have become converts to the idea of popular prices.\n\nFor the nominal sum of twenty-five cents it is possible to see this great attraction in its entirety. This is something which has never before been attempted in the history of the big shows, and the results have more than proved the truth of an argument in its favor."
+    },
+    {
+      "bbox": [
+        653,
+        2342,
+        1022,
+        2483
+      ],
+      "label": "text",
+      "text": "Call at Thompson's, 1100 East Washington st for colored papers.\n\nYou may give news matter or money you have for the Forum to Miss Daisy Donaldson; also all kinds of typewriting; orders for colored papers."
+    },
+    {
+      "bbox": [
+        652,
+        2550,
+        1021,
+        2630
+      ],
+      "label": "text",
+      "text": "If you desire special write-ups of social or church affairs, with all details, no condensation, etc., see the manager, as there will be some charges."
+    },
+    {
+      "bbox": [
+        1066,
+        184,
+        1369,
+        217
+      ],
+      "label": "paragraph_title",
+      "text": "DRESS AKING"
+    },
+    {
+      "bbox": [
+        1065,
+        259,
+        1373,
+        306
+      ],
+      "label": "text",
+      "text": "MRS. E. L. ROGERS 1505 South Seventeenth Street"
+    },
+    {
+      "bbox": [
+        1033,
+        360,
+        1407,
+        455
+      ],
+      "label": "text",
+      "text": "FOR RENT\u2014One 6 room house at 14th and Adams sts Apply at 318 N. 5th st. Phones\u2014old 4864 and 2812, new 811."
+    },
+    {
+      "bbox": [
+        1030,
+        496,
+        1404,
+        607
+      ],
+      "label": "text",
+      "text": "FIRST CLASS upholstering and general furniture repairing. James B. Bondman, 2020 E. Kansas street. New phone 420."
+    },
+    {
+      "bbox": [
+        1040,
+        672,
+        1406,
+        961
+      ],
+      "label": "text",
+      "text": "We make a Specialty of Cleaning and Pressing Ladies' Garments KingCleaning Co. Colored Odd Fellows Building 13 and Madison Sts. WALTER KING, Proprietor Old Phone 1563"
+    },
+    {
+      "bbox": [
+        1030,
+        1010,
+        1413,
+        1217
+      ],
+      "label": "text",
+      "text": "SUBSCRIBE FOR THE FORUM, the organ of the race.\n\nThe Best T ing for"
+    },
+    {
+      "bbox": [
+        1065,
+        1153,
+        1783,
+        1361
+      ],
+      "label": "doc_title",
+      "text": "The Best T ing for the Most Troubles WI-DA-ME SALVE Useful in any home and useful every day"
+    },
+    {
+      "bbox": [
+        1058,
+        1375,
+        1783,
+        1697
+      ],
+      "label": "text",
+      "text": "Made by Wi-da-me Co., Fairmount, Ind.\n\nFOR\u2014Catarrh, Croyd, Colds, Coughs, Lagrippe, Quinzy, Tonsilitis, Sore Throat Congestion of Lungs and Pneumonia, Hayfever, Asthma, Rheumatism, Neuralgia, Pains, Lame Pack, Sprains, Bruises, Stiff or Sore Muscles, Blood Poison Ucers, Old Sores, Carbuncles, Boils, Cuts, Wounds, Fever Blisters, Sores in Mouth Insect Bites, Burns, Scalds, Eczema, Earache, Headache, Tooth ache, Teething, Frosted Feet, Corns, Bunions, Female Diseases, Childbirth, Fever, Sleeplessness Sore Eyes, Lumbago and Kidney Trouble, Pils, Tetter, Ringworm, Itch, Ivy Poison, Complexion and Pimples, Cracked or Chapped Hands, Sore Breast and Nipples, Erysipelas, Sore or Itching Scalp, and Cold, Sweating Burning or Aching Feet.\n\nPRICE, 50c"
+    },
+    {
+      "bbox": [
+        1058,
+        1918,
+        1770,
+        1963
+      ],
+      "label": "text",
+      "text": "1506 S.17 St., Springfield, Ill."
+    },
+    {
+      "bbox": [
+        1171,
+        2085,
+        1667,
+        2238
+      ],
+      "label": "paragraph_title",
+      "text": "J. B. OSBY ...Real Estate..."
+    },
+    {
+      "bbox": [
+        1075,
+        2281,
+        1761,
+        2353
+      ],
+      "label": "text",
+      "text": "Farm and City Property, Bought, Sold and Exchanged"
+    },
+    {
+      "bbox": [
+        1073,
+        2385,
+        1759,
+        2461
+      ],
+      "label": "text",
+      "text": "If you are Thinking of Buying a FARM or city HOME please call and see me"
+    },
+    {
+      "bbox": [
+        1075,
+        2494,
+        1762,
+        2607
+      ],
+      "label": "text",
+      "text": "522 $ _{1/2} $ E. Adams St. Bell Tel. 423 SPRINGFIELD, ILL."
+    },
+    {
+      "bbox": [
+        1416,
+        206,
+        1794,
+        1093
+      ],
+      "label": "text",
+      "text": "Central Lodge No. 3, A. F. and A. M.\nMeets every first and fourth Wednesday night at Masonic Hall, 119 North Eighth street.\nM. VANTREACE, W. M.\nWYATT JOHNSON, Sec'y.\nSt. John's Chapter No. 2, H. R. A. M.\nMeets every third Wednesday night at Masonic Hall, 119 N"
+    },
+    {
+      "bbox": [
+        1503,
+        157,
+        1700,
+        179
+      ],
+      "label": "paragraph_title",
+      "text": "SECRET SOCIETIES."
+    }
+  ]
+}

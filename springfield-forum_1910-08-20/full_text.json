@@ -1,0 +1,3279 @@
+{
+  "issue": "springfield-forum_1910-08-20",
+  "pages": [
+    {
+      "page": 1,
+      "image": "images/page_01.jpg",
+      "width": 2075,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            221,
+            181,
+            1747,
+            317
+          ],
+          "label": "doc_title",
+          "text": "THE FORUM"
+        },
+        {
+          "bbox": [
+            216,
+            398,
+            491,
+            430
+          ],
+          "label": "text",
+          "text": "Vol. 7. NO. 23."
+        },
+        {
+          "bbox": [
+            215,
+            456,
+            591,
+            494
+          ],
+          "label": "paragraph_title",
+          "text": "Hon. C. S. Deneen"
+        },
+        {
+          "bbox": [
+            211,
+            494,
+            599,
+            1198
+          ],
+          "label": "text",
+          "text": "Governor who may be Republican standard.bearer for another term, also a fit man for the Presidency."
+        },
+        {
+          "bbox": [
+            215,
+            1227,
+            584,
+            1296
+          ],
+          "label": "paragraph_title",
+          "text": "W. H. York to Give Piano Recital"
+        },
+        {
+          "bbox": [
+            211,
+            1346,
+            588,
+            1724
+          ],
+          "label": "text",
+          "text": "W. H. York, one of our most amiable young men, is to give a piano recital supplemented by other numbers from local talent. He will also defend the affirmative in a debate, \"Resolved, that the enslaved in the United States 1619 1865 was a blessing rather than a curse,\" while B. H. Bellamy will uphold the negative. This recital and program is given for the benefit of the Y. M. and Y. W. C. A. of Wilberforce University and will take place at Masonic Hall August 30. It promises to be a rare treat."
+        },
+        {
+          "bbox": [
+            215,
+            1766,
+            588,
+            1805
+          ],
+          "label": "paragraph_title",
+          "text": "MORTUARY."
+        },
+        {
+          "bbox": [
+            214,
+            1818,
+            594,
+            2473
+          ],
+          "label": "text",
+          "text": "MRS. BIRDSONG\n\nThe monster death knocked at the door of O. G. Birdsong and when admitted at 5:30 a.m. Monday, August 15th, bore away on the wings of death his beloved wife, Mrs. Fannie Maud Birdsong, aged 30 years.\n\nShe is survived by her husband, O. G. Birdsong, 3 sons and 2 daughters of this city, her parents John Harper and wife of Omstead. One brother, Edw. Five sisters. Mrs. Lena Hogan and Katie Harper of this city, Mrs. Oweal of Mound City and the Misses Bessie and Myra Harper.\n\nHer beloved husband, in his sad bereavement, has the heartfelt sympathy of all good people. He proved to be an ideal husband, as he fought heroically for the life of his wife (to whom he was much devoted) to the bitter end."
+        },
+        {
+          "bbox": [
+            211,
+            2510,
+            599,
+            2780
+          ],
+          "label": "text",
+          "text": "Mesdames Spiller and Fero are visiting friends in Indiana.\n\nC. F, White arrived here last week from the University of Pennsylvania, where he has been attending school."
+        },
+        {
+          "bbox": [
+            629,
+            465,
+            957,
+            497
+          ],
+          "label": "paragraph_title",
+          "text": "Old Settlers' Picnic"
+        },
+        {
+          "bbox": [
+            605,
+            546,
+            980,
+            619
+          ],
+          "label": "text",
+          "text": "The Old Settlers enjoyed their annual picnic at Irwin's Park last Thursday."
+        },
+        {
+          "bbox": [
+            605,
+            654,
+            979,
+            775
+          ],
+          "label": "text",
+          "text": "Mrs. Louisa Blakeman N. 2nd St. entertained Chicago guests Friday evening. Mrs. Blakeman served a unique four o'clock dinner."
+        },
+        {
+          "bbox": [
+            644,
+            820,
+            936,
+            847
+          ],
+          "label": "paragraph_title",
+          "text": "MATTOON NEWS"
+        },
+        {
+          "bbox": [
+            598,
+            902,
+            980,
+            2156
+          ],
+          "label": "text",
+          "text": "Sunday, August 14th will be a day long remembered at Davis' chapel God's Spirit was with us all day. In the afternoon about thirty-five communed one person was baptized and one read in the church. Rev. Cottman, presiding elder delivered sermons at each service. The afternoon service was an old time meeting and the shaking of hand. The collection excelled any of the preceeding quarterly meetings. May God's blessing be with Rev. Cooper for his earnest work and be with us again next year.\n\nMrs. Arthur Portee and daughter Ona of Charleston and guest Miss Leta Stokes of Danville spent Sunday in the city, the guests of Misses Iva and Zetta Smith.\n\nMrs. Mary Scott is improuing nicely after a few weeks illness.\n\nBe ready for the annual S. S. picnic on Labor Day.\n\nMr. and Mrs. Oscar Portee of Charleston and their guest Miss Jennie Portee of Shawneesown attended the quarterly meeting Sunday.\n\nThe lawn social given at the home of Mr. and Mrs. Charles Woodfork was quite a success.\n\nGrand Master George Jesse was in Danville Thursday.\n\nDon't forget Thursday, August 25, the Fair and musical at David's chapel.\n\nMiss Izetta Smith returned Sunday from Danville.\n\nMrs. Eliza Denning of Brookport passed through the city enroute to Indianapolis.\n\nMrs. M. M Nickens has returned home from Boston, Miss.\n\nMrs. Howard Brown and children of Charleston spent Sunday with Rev. and Mrs. Wm Lee.\n\nMrs. Asque of Charlesoon was a Sunday caller."
+        },
+        {
+          "bbox": [
+            700,
+            2197,
+            904,
+            2227
+          ],
+          "label": "paragraph_title",
+          "text": "City Locals"
+        },
+        {
+          "bbox": [
+            598,
+            2261,
+            983,
+            2780
+          ],
+          "label": "text",
+          "text": "According to reports the session of the U. B. F. and S, M. T's was a grand success in Peoria last week.\n\nTomorrow at 7:30 p. m. before the R. Y. P. U. at Zion Baptist church E. L. Rogers will read a short paper, subject, \"Christianity, What is it?\"\n\nMrs. Clark, a lady minister of the gospel from Missouai preached at Grace M. E. Church last Sunday and Tuesday evenings.\n\nRev. J. M. Smalley, wife and Miss Alice Giles left this week for Clarksville, Mo., to attend the M. E. district conference."
+        },
+        {
+          "bbox": [
+            997,
+            447,
+            1366,
+            518
+          ],
+          "label": "paragraph_title",
+          "text": "First Ward Committeemen."
+        },
+        {
+          "bbox": [
+            989,
+            562,
+            1367,
+            1159
+          ],
+          "label": "text",
+          "text": "There seems to be a general skirmish for Precinct Committee man in the Second Precinct of the First Ward, the famous \"black belt.\" To our knowledge there are 5 candidates. Conspicuous and well known among this galaxy of politicians is Attorney Chas. S.Gibbs. Mr.Gibbs made the race two years ago against Wm. Burton, who was elected.\n\nIn the Sixth Ward it is very likely that in the Fourth and Fifth Precincts there will be colored men out for the places, especially in the Fourth, another \"black belt.\" We commend these precincts and advise the colored men to a spire for these places and let the capable men take the initiative.\n\nThis is going to be an eventful campaign."
+        },
+        {
+          "bbox": [
+            990,
+            1219,
+            1357,
+            1259
+          ],
+          "label": "paragraph_title",
+          "text": "L. L. FLINN."
+        },
+        {
+          "bbox": [
+            987,
+            1316,
+            1371,
+            2303
+          ],
+          "label": "text",
+          "text": "Lawrence L. Flinn, a young man of sterling qualities a stanch Republican and a man of unstinted moral character is out for State Senator from this, the 45th Senatorial District, comprising the county of Sangamon and Morgan,\n\nMr. Flinn served 3 years as Alderman from the Fifth Ward and left at a time when the peo-\n\nLawrence L. Flinn."
+        },
+        {
+          "bbox": [
+            994,
+            2349,
+            1368,
+            2477
+          ],
+          "label": "paragraph_title",
+          "text": "Republican Candidate For State Senate from Forty-fifth Senatorial District."
+        },
+        {
+          "bbox": [
+            987,
+            2349,
+            1371,
+            2780
+          ],
+          "label": "text",
+          "text": "Republican Candidate\nFor State Senate from\nForty-fifth Senator-\nial District.\n\nple wanted his services continued\u2014the highest testimonial of a man's popularity and fitness for public service.\n\nHe showed, while Alderman, what manner of man he is, and"
+        },
+        {
+          "bbox": [
+            1375,
+            391,
+            1756,
+            1443
+          ],
+          "label": "text",
+          "text": "by his stand taken on the various public questions, emplanted into the people implicit confidence in as being not only a true and stanch Republican, but a fit man to represent his constituents. When a man \"makes good\" and is lauded and admired for what he did at one time, it stands to reason as a logical consequence, that, were he similarly placed in another public trust, like results would be obtained.\n\nTherefore, the Republican voters and the people in general, may feel that Mr. Flinn is preeminently capable of, and will, if nominated and elected, make a good and able Senator.\n\nMr. Flinn is a married man and resides at 1130 South Seventh Street.\n\nThis is a position where the man is, in every sense of the word, the true representative of the people; there are many things and much attention to be given the constituents. Mr. Flinn is an affable, brave courteous young man, who never shrinks from duty and always stands by his friends.\n\nIn this primary election he is running on his own merits. He is allied with no clique nor clan\u2014simply trying, honorably and fairly to be nominated as is his privilege and prerogative. We commend him to the voters and especially our readers and ask for him your consideration."
+        },
+        {
+          "bbox": [
+            1442,
+            1489,
+            1683,
+            1517
+          ],
+          "label": "paragraph_title",
+          "text": "Buffalo News"
+        },
+        {
+          "bbox": [
+            1375,
+            1531,
+            1751,
+            1771
+          ],
+          "label": "text",
+          "text": "James Watts, of Buffalo, Ill., entertained a number of guests at the residence of his parents Mr. and Mrs. Charles Watts Sat. Aug. 13th, in honor of his 19th birthday. A large number were present and a grand and glorious time was had by all who were present."
+        },
+        {
+          "bbox": [
+            1374,
+            1827,
+            1759,
+            2665
+          ],
+          "label": "text",
+          "text": "Atty. Williams attended the National Negro Business League Convert on this week in New York City.\n\nMrs. Etta Gibson was away last week attending the Grand Session of the Household of Ruth at Ruth at Metropolis. She also visited in Paducah, Kentucky.\n\nMiss Adams succeeds Miss Donaldson in The Forum office.\n\nWm Reddick and Robert Terrill were visitors to Chicago last Saturday and Sunday.\n\nWe are pleased to note that the Gem Cafe is a success, filling a long felt want.\n\nMessrs Frank Burns and Geoage Hastings of the Leland hotel are now assisting at Camp Deneen, Peoria, Ill.\n\nDo not forget that New Hope church gives its basket picnic tomorrow at Mildred,\n\nMr. and Mrs. Thos. Gibson were visitors at Peoria last Sunday and Monday.\n\nHear Prof. Geo-Jones, of wilberforce University in piano recital at masonic hall Tuesday, AUGUST 30 th"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "image": "images/page_02.jpg",
+      "width": 2042,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            341,
+            188,
+            591,
+            218
+          ],
+          "label": "paragraph_title",
+          "text": "THE FORUM"
+        },
+        {
+          "bbox": [
+            271,
+            244,
+            646,
+            619
+          ],
+          "label": "text",
+          "text": "A weekly magazine paper devoted to the interests of the whole people.\n\nEntered as second-class mail matter\nFebruary 24, 1904, at the postoffice\nat Springfield, Ill., under the Act of\nCongress of March 3, 1879.\n\nROGERS & OSBY - Proprietors\n\nOne Year ..... $1.50\nOne Month ..... 15c\nPer Copy ..... c\n\nOFFICE: 305 1-2 S Sixth St. Phone Main 998"
+        },
+        {
+          "bbox": [
+            279,
+            575,
+            645,
+            692
+          ],
+          "label": "text",
+          "text": "OFFICE: 305 1-2 S Sixth St. Phone Main 998\n\nTHE FORUM'S STAFF\n\nE. L. Rogers, Editor and Manager.\nJ. B. Osby, Associate Editor."
+        },
+        {
+          "bbox": [
+            350,
+            766,
+            575,
+            796
+          ],
+          "label": "paragraph_title",
+          "text": "EDITORIAL"
+        },
+        {
+          "bbox": [
+            298,
+            834,
+            614,
+            860
+          ],
+          "label": "text",
+          "text": "Saturday, August 20, 1910"
+        },
+        {
+          "bbox": [
+            276,
+            908,
+            644,
+            979
+          ],
+          "label": "text",
+          "text": "Political monstrosities should be felled as soon as they appear in the arena."
+        },
+        {
+          "bbox": [
+            273,
+            1023,
+            642,
+            1094
+          ],
+          "label": "text",
+          "text": "We beg leave to ask The Register, \"When did the Democrats become semi protectionist?"
+        },
+        {
+          "bbox": [
+            272,
+            1140,
+            643,
+            1235
+          ],
+          "label": "text",
+          "text": "What's the matter with August? Wasn't the weather warm enough in July to thaw out the ground?"
+        },
+        {
+          "bbox": [
+            271,
+            1281,
+            646,
+            1510
+          ],
+          "label": "text",
+          "text": "One crying need among our people is business sense. That is sense enough to do business.\n\nSense"
+        },
+        {
+          "bbox": [
+            406,
+            1436,
+            507,
+            1466
+          ],
+          "label": "paragraph_title",
+          "text": "Sense"
+        },
+        {
+          "bbox": [
+            271,
+            1510,
+            639,
+            1720
+          ],
+          "label": "text",
+          "text": "In every body of colored men, from the church down to a social club, sense is wanting. We consume too much time over \"parliamentary\" usages. What does the average man know about parliamentarism? Eliminate the technicalities and let us do business."
+        },
+        {
+          "bbox": [
+            274,
+            1773,
+            638,
+            1840
+          ],
+          "label": "paragraph_title",
+          "text": "Misrepresentation of Celebrations"
+        },
+        {
+          "bbox": [
+            271,
+            1884,
+            646,
+            2780
+          ],
+          "label": "text",
+          "text": "We desire to denounce these so called celebrations of the Emancipation Proclamation held over the country at all periods and put on by people who are seeking self aggrandizement. The people have rights that even the fakir should respect. We advise the public to be not deceived by these impostors on the regular day that we celebrate.\n\nOf course, any one has the right to give something and style it a \"celebration,\" but no one has a right to fake the people and fool them to a place and not give them what they pay for. Such is receiving money under false pretenses and the persons guilty of such practices are liable, according to the statutory laws of our state.\n\nIt appears that the public has been decieved on several occasions here by men who advertised things that they never had, and apparently, never intended to have. The people are not able to pay out their hard earned dimes for things which appear to be but are not."
+        },
+        {
+          "bbox": [
+            663,
+            192,
+            1023,
+            337
+          ],
+          "label": "paragraph_title",
+          "text": "Farming and Gardening are Steadily Gaining Prominence."
+        },
+        {
+          "bbox": [
+            652,
+            381,
+            1025,
+            1146
+          ],
+          "label": "text",
+          "text": "We note with pleasure the fact that colored people have turned more attention to farming, truck gardening and horticulture This is a good sign. What we need in the North is more farmers, in the South we need skilled farmers, more scientific farmers. The claim that the Negro should not come North because of the unique labor problem is erroneous. We need thousands of Negros here in this county from Mississippi. Arkansas, Texas Louisiana and Alabama. We do not advise them to come to the city, but we implore them to come here and farm, raise chickens, etc.\n\nWe also need more of the industrious Southern colored men to come here and open up businesses We have only one or two blacksmith shops, not one dry goods or drug store, only one small shoe store and one half enough groceries. So do not feel that this is not a good place to live, for it is the best city on the face of the globe, despite our little unpleasantness a few years ago."
+        },
+        {
+          "bbox": [
+            739,
+            1192,
+            946,
+            1223
+          ],
+          "label": "paragraph_title",
+          "text": "Recognition"
+        },
+        {
+          "bbox": [
+            651,
+            1266,
+            1021,
+            1454
+          ],
+          "label": "text",
+          "text": "A man should not be forced to beg for recognition when he deserves it from his conduct and services rendered the community in which he lives. As a general rule people get recognition when they really deserve it, but there are exceptions to the rule."
+        },
+        {
+          "bbox": [
+            654,
+            1504,
+            1020,
+            1568
+          ],
+          "label": "paragraph_title",
+          "text": "Business Men and Farmers Wanted."
+        },
+        {
+          "bbox": [
+            651,
+            1615,
+            1023,
+            2038
+          ],
+          "label": "text",
+          "text": "Colored farmers and experienced business men from the South to come to this part of Illinois to live. Our soil is rich, winters are long but mild, hogs and chickens are as profitable as cotton raising. School facilities are good, laws are congenial, the races get along amicably together, a man is recognized on his worth, there is no infringement of political suffrage\u2014all a man has to do is to be a man and live a decent life, attend to his own business, save his money, start a bank account and white as well as colored people, will respect you."
+        },
+        {
+          "bbox": [
+            656,
+            2082,
+            1023,
+            2150
+          ],
+          "label": "paragraph_title",
+          "text": "From the Head\nTo The Heart."
+        },
+        {
+          "bbox": [
+            651,
+            2191,
+            1023,
+            2637
+          ],
+          "label": "text",
+          "text": "Those of the heavenly host who sat in the pews at St. Paul's A. M. E. church last Sunday, listened to one of the most in spiring and spiritual sermons ever delivered by one of Christ's disciples. The message which Rev. Price brought his flock was so spiritual, powerful and beautiful in its rendition that it had the assurance of leaving earth and started toward heaven. Goodness and mercy is so instilled in the pastor's life that those who belong to Satan's host can't stand the pure atmosphere and whole some inspiration so they flee from the sanctuary with all manner of idolatrous excuses,"
+        },
+        {
+          "bbox": [
+            1149,
+            210,
+            1629,
+            252
+          ],
+          "label": "paragraph_title",
+          "text": "PAUL L. DUNBAR'S"
+        },
+        {
+          "bbox": [
+            1103,
+            328,
+            1701,
+            366
+          ],
+          "label": "text",
+          "text": "Complete Life Work for Only $1.75"
+        },
+        {
+          "bbox": [
+            1111,
+            438,
+            1694,
+            475
+          ],
+          "label": "text",
+          "text": "For sale by E. L. ROGERS, Agent"
+        },
+        {
+          "bbox": [
+            1031,
+            542,
+            1594,
+            1773
+          ],
+          "label": "text",
+          "text": "Should be in every intelligent h\nthe land.\n\nNo poet sings so sweet, no poet is so humurous no\nDunbar. While celestial ages shall roll on,\nof his greatuess shall become knowe\n\nYou won't find\n\nIMPEE\n\nYou won't fi\nas swagger. Y\n\nImperial\nat any other s\nwe have t\nagency for thi\n\nWe believe\n$3 Hat made,\nwe secured t\nagency for t\nthink so whe\nnew summers\nready.\n\nImperial 5 Hats\n\nPETER MYERS & C\n\n529 North Side"
+        },
+        {
+          "bbox": [
+            1210,
+            574,
+            1786,
+            937
+          ],
+          "label": "text",
+          "text": "e in every intelligent home over the land.\n\nso sweet, no poet is so humurous nor pathetic than\nWhile celestial ages shall roll on, the glory\nof his greatuess shall become known"
+        },
+        {
+          "bbox": [
+            1049,
+            624,
+            1756,
+            688
+          ],
+          "label": "text",
+          "text": "Should be in every intelligent home over the land"
+        },
+        {
+          "bbox": [
+            1051,
+            749,
+            1756,
+            834
+          ],
+          "label": "text",
+          "text": "No poet sings so sweet, no poet is so humurous nor pathetic than Dunbar. While celestial ages shall roll on, the glory of his greatuess shall become known"
+        },
+        {
+          "bbox": [
+            1210,
+            1532,
+            1786,
+            1660
+          ],
+          "label": "text",
+          "text": "TER MYERS & CO."
+        },
+        {
+          "bbox": [
+            1141,
+            1602,
+            1663,
+            1643
+          ],
+          "label": "paragraph_title",
+          "text": "PETER MYERS & CO."
+        },
+        {
+          "bbox": [
+            1325,
+            1660,
+            1752,
+            1693
+          ],
+          "label": "text",
+          "text": "529 North Side Square"
+        },
+        {
+          "bbox": [
+            1031,
+            1773,
+            1406,
+            1999
+          ],
+          "label": "text",
+          "text": "For Fine Commercial Work\nHAMANN The\nPrinter\n305 SOUTH SIXTH ST."
+        },
+        {
+          "bbox": [
+            1031,
+            1972,
+            1406,
+            2506
+          ],
+          "label": "text",
+          "text": "305 SOUTH SIXTH ST.\n\nPhone 998\n\nOUR ADVERTISING RATES.\n\nFor display matter one time, 15c the inch; over one time, 10c, 6 month or one year, special prices made.\n\nReading matter, one time, 7c the line; seven words to the line; over one time 5c; for long articles or church advertising, some reduction.\n\nFor clubs, socials, ect., when matter contains over 75 words and under 200, send 50 cents if you desire it published in full. MANAGER."
+        },
+        {
+          "bbox": [
+            1031,
+            2567,
+            1406,
+            2780
+          ],
+          "label": "text",
+          "text": "You can always depend on The Forum to stand for principle above all else."
+        },
+        {
+          "bbox": [
+            1210,
+            2637,
+            1786,
+            2780
+          ],
+          "label": "text",
+          "text": "---"
+        },
+        {
+          "bbox": [
+            1435,
+            937,
+            1751,
+            963
+          ],
+          "label": "text",
+          "text": "You won't find styles like the"
+        },
+        {
+          "bbox": [
+            1436,
+            1014,
+            1747,
+            1056
+          ],
+          "label": "paragraph_title",
+          "text": "IMPERIAL"
+        },
+        {
+          "bbox": [
+            1430,
+            1088,
+            1749,
+            1532
+          ],
+          "label": "text",
+          "text": "You won't find styles near as swagger. You won't find Imperial $3 Hats at any other store because we have the exclusive agency for this town. We believe it's the best $3 Hat made. That's why we secured the exclusive agency for them. You'll think so when you see the new summershapes that are ready."
+        },
+        {
+          "bbox": [
+            1418,
+            1760,
+            1786,
+            1815
+          ],
+          "label": "text",
+          "text": "$1.50 to East St. Louis every Saturday and Sunday"
+        },
+        {
+          "bbox": [
+            1418,
+            1812,
+            1785,
+            1945
+          ],
+          "label": "text",
+          "text": "ILLINOIS TRACTION SYSTEM Call at this office for type-writing. work. 305 1/2 So. 6th St. Old phone 998. short hand and general stenographic"
+        },
+        {
+          "bbox": [
+            1498,
+            1988,
+            1701,
+            2010
+          ],
+          "label": "paragraph_title",
+          "text": "TO THE LAWYER."
+        },
+        {
+          "bbox": [
+            1414,
+            2024,
+            1785,
+            2189
+          ],
+          "label": "text",
+          "text": "Special-The Forum will be pleased to have that legal notice, etc. It is a paper of general circulation; careful in reading proof; no errors shall occur. Published regularly and out on time."
+        },
+        {
+          "bbox": [
+            1425,
+            2428,
+            1769,
+            2513
+          ],
+          "label": "text",
+          "text": "Anyone sending a sketch and description may quickly ascertain our opinion free whether an invention is probably patentable. Communications strictly confidential. HANDBOOK on Patents sent free. Oldest agency for securing patents. Receive special notice, without charge, in the"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "image": "images/page_03.jpg",
+      "width": 2037,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            184,
+            218,
+            563,
+            782
+          ],
+          "label": "text",
+          "text": "Rev. J. M. Smalley\n\nPastor of Grace M. E. Church\nwho is doing a great work"
+        },
+        {
+          "bbox": [
+            184,
+            728,
+            563,
+            2780
+          ],
+          "label": "text",
+          "text": "August\nClearance\nSale\nat\nLittle\nPrices\n\nBig Bargains\n\nMen's\nStraw\nHats\n\nNegligee\nShirts\n\nNeckwear\n\nUnd'rwear\n\nHalf Hose\n\nJOHN LUTZ\n\n204 So. 6th St."
+        },
+        {
+          "bbox": [
+            628,
+            229,
+            888,
+            262
+          ],
+          "label": "paragraph_title",
+          "text": "Decatur News."
+        },
+        {
+          "bbox": [
+            568,
+            299,
+            951,
+            2541
+          ],
+          "label": "text",
+          "text": "POLITICAL ANNOUNCEMENT.\n\nFor Sheriff\u2014The Forum is authorized to announce Charles E. Tandy a candidate for Sheriff of Macon county, subject to the action of the Republican primaries, Sept. 15, 1910.\n\nThe streets of Decatur are perfectly beautiful, since they are cleaned every evening, and when the flusher comes, Decatur streets will shine as they never shone before.\n\nThe Buffalo Club, which was organized about a month ago, was accused of selling liquor in the club room. No evidence was found against the club, and it seems as if the charge because they were Negroes. Atty Hewson defended the club and said it at one could not take a shotgun and drive the city officers in the white clubs with Mayor Borcher as a staunch leader.\n\nMrs S. T. Claietore has purchased the 8 room house at 437 Spring avenue. Would that more Negroes would buy instead of constantly renting.\n\nA very nice pool room has been opened at 318 East Main St. by Gus Smith, who hopes to conduct it in a first class manner.\n\nAs time is drawing near for politics in Macon county, it behooves all Negroes to get together and take a serious part and demand something.\n\nAlderman Hagens of the Fourth Ward is just taking his wedding trip. He has been married ten years. It is to be hoped that if Alderman Hagens is re-elected he shall have the pleasure of taking a vacation each year.\n\nMayor Borcher went from a little charm to the Mayor's chair on the Law and Order ticket and received a salary of $1500 per year. After serving one year he is able to buy a lot for $2000 and build a home for $5000. \"Good morning, Mr. Law and Order,\" where did you get the money?\n\nIn Decatur last week a white man raped a girl 13 years old. It is strange indeed that the city papers mentioned the crime just once. Officers arrested a man on suspicion because he had blood on his shirt and scratches about the face. The girl failed to identify him and he was set free. What would have been the result had this man been a Negro? A mob and a riot and plenty of lynching.\n\nAll this year there have been no arrests. What is wrong with Mayor Borcher's police and detective force? Is it because they are not suited for the position or do not care to enforce the law? All we ask is a fair deal, with justice and good will to all.\n\nMiss Vena Smith of Springfield is visiting the Misses Branton, 1042 N. Union St.\n\nDr. Ganaway was in Champaign, Ill., last Saturday on business.\n\nMiss Johnette Clanton went on visit to her sister in Chicago last Monday."
+        },
+        {
+          "bbox": [
+            570,
+            2579,
+            947,
+            2658
+          ],
+          "label": "text",
+          "text": "If you desire special write-ups of social or church affairs, with all details, no condensation, etc., see the manager, as there will be some charges."
+        },
+        {
+          "bbox": [
+            983,
+            212,
+            1707,
+            739
+          ],
+          "label": "doc_title",
+          "text": "We Wire Your House for\nELECTRIC LIGHTS\non Easy Payments\n\nWE ALSO\nSell Gas Stoves..\non Easy Payments\n\nDecatur Railway Light Co.\n124 So. Water St. Decatur, Ill."
+        },
+        {
+          "bbox": [
+            1154,
+            800,
+            1545,
+            837
+          ],
+          "label": "paragraph_title",
+          "text": "PILSNER BEER"
+        },
+        {
+          "bbox": [
+            968,
+            837,
+            1345,
+            1870
+          ],
+          "label": "text",
+          "text": "Pilsner Beer just names the\nIt is a splendid tonic. relieves\nstrength and brings back real he\nIt was made with the utmost o\nrials and under the most sani\nhealthful. Better beer cannot b\nYour case will be sent to yo\nyour order.\n\nDECATUR BE\nWe are sole distributors for the Pa\nand Export Beer\n\nGet Re\nOur great m\nPolitical an\n...EDIT\nof the B\nOut Aug.\n\nTo contain from 25 to 40 pages\ncolors.\n\nThis will be a great opportunity for\nits life, its growth and its present c\nnown business among our people"
+        },
+        {
+          "bbox": [
+            1154,
+            837,
+            1545,
+            1870
+          ],
+          "label": "text",
+          "text": "or just names the most delicious drink acid tonic, relieves the nervous stu-\nrings back real health.\nwith the utmost care, of the purest\nover the most sanitary conditions.\nbetter beer cannot be made.\nwill be sent to your door as soon as\n\nATUR BREWING\nDistributors for the Pabst Brewing Company\n\nGet Ready for\ngreat midsum\npolitical and Industri\n...EDITION...\n\nof the FORUM\nAug. 27th,\n\nFrom 25 to 40 pages Illustrated with Cut\n\na great opportunity for every Church to gi\nwth and its present condition, also every\nmong our people"
+        },
+        {
+          "bbox": [
+            986,
+            850,
+            1708,
+            1053
+          ],
+          "label": "text",
+          "text": "Pilsner Beer just names the most delicious drink to be found. It is a splendid tonic. relieves the nervous strain. adds new strength and brings back real health.\n\nIt was made with the utmost care, of the purest and best materials and under the most sanitary conditions. It is clean and healthful. Better beer cannot be made.\n\nYour case will be sent to your door as soon as you telephone your order."
+        },
+        {
+          "bbox": [
+            1031,
+            1063,
+            1661,
+            1100
+          ],
+          "label": "paragraph_title",
+          "text": "DECATUR BREWING CO."
+        },
+        {
+          "bbox": [
+            986,
+            1110,
+            1710,
+            1154
+          ],
+          "label": "text",
+          "text": "We are sole distributors for the Pabst Brewing Company's Blue Ribbon and Export Beer."
+        },
+        {
+          "bbox": [
+            985,
+            1240,
+            1709,
+            1668
+          ],
+          "label": "doc_title",
+          "text": "Get Ready for Ourgreat midsummer Political and Industrial ...EDITION... of the FORUM Out Aug. 27th, 1910"
+        },
+        {
+          "bbox": [
+            989,
+            1689,
+            1707,
+            1818
+          ],
+          "label": "text",
+          "text": "To contain from 25 to 40 pages Illustrated with Cuts and Printed in colors.\n\nThis will be a great opportunity for every Church to give a brief history its life, its growth and its present condition, also every Lodge and every nown busine s among our people"
+        },
+        {
+          "bbox": [
+            1036,
+            1870,
+            1278,
+            1892
+          ],
+          "label": "paragraph_title",
+          "text": "DECATUR, ILL., NEWS."
+        },
+        {
+          "bbox": [
+            998,
+            1918,
+            1314,
+            1940
+          ],
+          "label": "paragraph_title",
+          "text": "ANTIOCH BAPTIST CHURCH."
+        },
+        {
+          "bbox": [
+            968,
+            1955,
+            1345,
+            2237
+          ],
+          "label": "text",
+          "text": "620 Spring Ave.\nRev. J. A. Crockett, Pastor,\nRes. 846 West Decatur St.\nR. Oliphant, Church Clerk,\nRes. 920 Clinton St.\nEdward Motley, Superintendent Sunday School.\nMiss Bedith Bell, Secretary Sunday School, Res. 827 W. Maritta St.\n\nSUNDAY SERVICES.\nSunday School ..... 9:30 a.m.\nPreaching ..... 11:00 a.m.\nB. Y. P. U. ..... 6:30 p.m.\nPreaching ..... 8:00 p.m."
+        },
+        {
+          "bbox": [
+            1058,
+            2249,
+            1255,
+            2268
+          ],
+          "label": "paragraph_title",
+          "text": "WEEK MEETINGS."
+        },
+        {
+          "bbox": [
+            968,
+            2282,
+            1345,
+            2527
+          ],
+          "label": "text",
+          "text": "Willing Workers, Tuesday...3:00 p.m.\nPrayer Meeting, Wednesday..8:00 p.m.\nSewing Circle, Friday.....2:30 p.m.\nChoir Meeting, Friday.....7:30 p.m.\nMrs. Mollie Medlock, President Willing\nWorkers.\nMrs. Felta Thompson, President Sewing\nCircle.\nMrs. M. Kemp, Secretary Sewing\nCircle.\nMrs. Bertha Benton, Church Chorister.\nMiss Willie Pearson, Church Organist."
+        },
+        {
+          "bbox": [
+            968,
+            2282,
+            1344,
+            2391
+          ],
+          "label": "text",
+          "text": "Willing Workers, Tuesday.....3:00 p.m.\nPrayer Meeting, Wednesday.....8:00 p.m.\nSewing Circle, Friday.....2:30 p.m.\nChoir Meeting, Friday.....7:30 p.m.\nMrs. Mollie Medlock, President Willing\nWorkers."
+        },
+        {
+          "bbox": [
+            968,
+            2558,
+            1345,
+            2780
+          ],
+          "label": "text",
+          "text": "ST. PETER'S A. M. E. CHURCH.\n536 Spring Ave.\nJ. T. Morrow, Pastor,\nRes., Parsonage."
+        },
+        {
+          "bbox": [
+            1154,
+            2642,
+            1545,
+            2780
+          ],
+          "label": "text",
+          "text": "---"
+        },
+        {
+          "bbox": [
+            1355,
+            837,
+            1732,
+            1879
+          ],
+          "label": "text",
+          "text": "most delicious drink to be found. the nervous strain adds new health. are, of the purest and best mate- mary conditions. It is clean and made. our door as soon as you telephone\n\nBREWING CO.\nBest Brewing Company's Blue Ribbon\n\nady for\nnidsummer\nd Industrial\nTION...\nFORUM\n27th, 1910\nIllustrated with Cuts and Printed in\nfor every Church to give a brief history condition, also every Lodge and every"
+        },
+        {
+          "bbox": [
+            1434,
+            1879,
+            1648,
+            1899
+          ],
+          "label": "paragraph_title",
+          "text": "SUNDAY SERVICES."
+        },
+        {
+          "bbox": [
+            1355,
+            1912,
+            1727,
+            2029
+          ],
+          "label": "text",
+          "text": "Allen Junior League..... 9:30 a. m.\nPreaching..... 10:45 a. m.\nClass Meetings..... 12:15 p. m.\nSunday School..... 2:30 p. m.\nAllen Senior League..... 6:30 p. m.\nPreaching..... 7:45 p. m."
+        },
+        {
+          "bbox": [
+            1356,
+            2078,
+            1730,
+            2271
+          ],
+          "label": "text",
+          "text": "Secretary Trustee Board\u2014Rev. J. W.\nWoodford; Residence, 509 E. Wagnor\nSt.\n\nSecretary Steward Board\u2014D. W. Mc-\nMurray; Residence, 1209 W. Decatur\nSt.\n\nSUNDAY SCHOOL OFFICERS.\n\nCarl L. Watkins.....Superintendent\n\nMiss Caddie Kelley.....Secretary\n\nRes., 848 Colfax St."
+        },
+        {
+          "bbox": [
+            1355,
+            2079,
+            1730,
+            2271
+          ],
+          "label": "text",
+          "text": "Secretary Trustee Board\u2014Rev. J. W.\nWoodford; Residence, 509 E. Wagnor\nSt.\n\nSecretary Steward Board\u2014D. W. Mc-\nMurray; Residence, 1209 W. Decatur\nSt.\n\nSUNDAY SCHOOL OFFICERS.\nCarl L. Watkins.....Superintendent\nMiss Caddle Kelley.....Secretary\nRes.. 848 Colfax St."
+        },
+        {
+          "bbox": [
+            1451,
+            2286,
+            1633,
+            2305
+          ],
+          "label": "paragraph_title",
+          "text": "LITERARY CLUB."
+        },
+        {
+          "bbox": [
+            1357,
+            2334,
+            1730,
+            2374
+          ],
+          "label": "text",
+          "text": "Mark Cummings . . . . . . . . President\nA. D. Cicel . . . . . . . . Secretary"
+        },
+        {
+          "bbox": [
+            1447,
+            2385,
+            1638,
+            2404
+          ],
+          "label": "paragraph_title",
+          "text": "CHOIR OFFICERS."
+        },
+        {
+          "bbox": [
+            1357,
+            2408,
+            1731,
+            2451
+          ],
+          "label": "text",
+          "text": "Mrs. E. N. Morrow.....Chorister\nMiss Corrine Blanton.....Organist"
+        },
+        {
+          "bbox": [
+            1442,
+            2462,
+            1644,
+            2482
+          ],
+          "label": "paragraph_title",
+          "text": "WEEK MEETINGS."
+        },
+        {
+          "bbox": [
+            1357,
+            2485,
+            1732,
+            2594
+          ],
+          "label": "text",
+          "text": "Official Board, Monday.....8:00 p. m.\nPrayer Meeting, Tuesday.....8:00 p. m.\nLiterary Club, Thursday.....8:00 p. m.\nChoir Meeting, Friday.....7:30 p. m.\nSewing Circle, Friday.....2:30 p. m."
+        },
+        {
+          "bbox": [
+            1355,
+            2587,
+            1732,
+            2780
+          ],
+          "label": "text",
+          "text": "SEWING CIRCLE OFFICERS.\nMrs. Jane King.....President\nMrs. Annie Browner.....Secretary"
+        },
+        {
+          "bbox": [
+            1486,
+            2043,
+            1602,
+            2062
+          ],
+          "label": "paragraph_title",
+          "text": "OFFICERS."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image": "images/page_04.jpg",
+      "width": 2049,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            293,
+            204,
+            997,
+            362
+          ],
+          "label": "doc_title",
+          "text": "The J. P. Roberts Shoe Company 1707 E. Capitol Ave."
+        },
+        {
+          "bbox": [
+            285,
+            414,
+            1000,
+            758
+          ],
+          "label": "text",
+          "text": "Is now offering a limited number of common and preferred Shares of the Capital Stock for Sale. Call and investigate.\n\nThis is a Joint Stock Company and you can realize a good profit on the investment.\n\nThe Company is already doing a good business with the amount invested and shall soon order a large stock of Shoes for the fall and winter trade.\n\nDo not wait until the price of shares advance\u2014take one or more shares now\n\nThis is to be the leading Negro enterprise in the city. under good management."
+        },
+        {
+          "bbox": [
+            508,
+            780,
+            992,
+            822
+          ],
+          "label": "paragraph_title",
+          "text": "J. P. ROBERTS, Mg $ 1. $"
+        },
+        {
+          "bbox": [
+            264,
+            822,
+            643,
+            1443
+          ],
+          "label": "text",
+          "text": "PATI\n\nPrize Offers from L\n\nBook on patents. \"Hints to\n\"Why some inventors fail.\"\nsearch of Patent Office records\nActing Commissioner of Patent\nthe U. S. Patent Office.\n\nGREELEY &\nPATENT A\nWASHING"
+        },
+        {
+          "bbox": [
+            508,
+            822,
+            1025,
+            1448
+          ],
+          "label": "text",
+          "text": "PATENTS\ners from Leading Manufacturers\nts. \"Hints to inventors.\" \"Inventions needed.\"\nPatents fail.\" Send rough sketch or model for\nOffice records. Our Mr. Greeley was formerly,\nowner of Patents, and as such had full charge of\nOffice.\n\nBELEY & McINTIRE\nPATENT ATTORNEYS\nWASHINGTON, D. C."
+        },
+        {
+          "bbox": [
+            323,
+            1121,
+            985,
+            1380
+          ],
+          "label": "text",
+          "text": "Book on patents. \"Hints to inventors.\" \"Inventions needed.\" \"Why some inventors fail.\" Send rough sketch or model for search of Patent Office records. Our Mr. Greeley was formerly. Acting Commissioner of Patents, and as such had full charge of the U. S. Patent Office.\n\nGREELEY & McINTIRE\nPATENT ATTORNEYS\nWASHINGTON, D. C."
+        },
+        {
+          "bbox": [
+            267,
+            1519,
+            639,
+            1564
+          ],
+          "label": "text",
+          "text": "SO-CALLED OCTOPUS AND INDEPENDENTS FIGHTING"
+        },
+        {
+          "bbox": [
+            266,
+            1608,
+            638,
+            1652
+          ],
+          "label": "text",
+          "text": "The People\u2014Not the Circus Benefit While the Cruel Circus War Lasts-"
+        },
+        {
+          "bbox": [
+            264,
+            1700,
+            640,
+            2315
+          ],
+          "label": "text",
+          "text": "On August 25th the great Sells-Floto Shows with all their magnificent paraphernalia and extra added attractions, will arrive in this city for a one day engagement.\n\nEvery one conversant with the happenings of the amusement world are aware of the wonderful success which has crowned the triumphal tour of the Sells-Floto circus this season. While the circus proper has been enlarged and comes back to us more magnificient than ever before, the price of admission has been cut in half. A great circus war is raging between certain combined circuses on one side and the independent Sells-Floto people on the other. The latter are carrying the battle to their opponents and the people are benefiting thereby. That the move has been a popular one is attested to by the fact that in every big city visit, ed this season the management wa unable to provide room for its patrons."
+        },
+        {
+          "bbox": [
+            267,
+            2385,
+            643,
+            2633
+          ],
+          "label": "text",
+          "text": "We are carrying a choice line of hats suitable for all occasions, with prices to suit the hard times and the high cost for foodstuffs.\n\nWe trim hats to your taste. Call and see our supply.\n\nMRS. MATTIE TUCKER,\n\n206 N. Fourteenth Street"
+        },
+        {
+          "bbox": [
+            508,
+            2630,
+            1025,
+            2780
+          ],
+          "label": "text",
+          "text": "Street"
+        },
+        {
+          "bbox": [
+            264,
+            2633,
+            643,
+            2780
+          ],
+          "label": "text",
+          "text": "---"
+        },
+        {
+          "bbox": [
+            315,
+            1443,
+            592,
+            1473
+          ],
+          "label": "paragraph_title",
+          "text": "The Circus War"
+        },
+        {
+          "bbox": [
+            376,
+            2345,
+            538,
+            2372
+          ],
+          "label": "paragraph_title",
+          "text": "Millinerv."
+        },
+        {
+          "bbox": [
+            652,
+            1448,
+            1025,
+            1516
+          ],
+          "label": "paragraph_title",
+          "text": "Not in any\nCircus Trust"
+        },
+        {
+          "bbox": [
+            652,
+            1448,
+            1025,
+            1516
+          ],
+          "label": "text",
+          "text": "Not in any\nCircus Trust"
+        },
+        {
+          "bbox": [
+            654,
+            1559,
+            1022,
+            1651
+          ],
+          "label": "text",
+          "text": "The Storm Center of Circus Octopus Warfare May Occur in Your City as No Time or Place Has Been Too Sacred."
+        },
+        {
+          "bbox": [
+            648,
+            1698,
+            1023,
+            2303
+          ],
+          "label": "text",
+          "text": "Having broken all records in the big cities of the coast, which includes San Francisco, Los Angeles, Portland, Seattle, Tacoma and Vancouver the great Sells-Floto Shows come to Springfield for one days engagement on August 25th.\n\nThe wonderful success which has rewarded the proprietors of this magnificient attraction this year may be traced to two sources. In the first place, the character of the performance given is such as to return full values for the money. In the second place, these Western showmen have become converts to the idea of popular prices.\n\nFor the nominal sum of twenty-five cents it is possible to see this great attraction in its entirety. This is something which has never before been attempted in the history of the big shows, and the results have more than proved the truth of an argument in its favor."
+        },
+        {
+          "bbox": [
+            653,
+            2342,
+            1022,
+            2483
+          ],
+          "label": "text",
+          "text": "Call at Thompson's, 1100 East Washington st for colored papers.\n\nYou may give news matter or money you have for the Forum to Miss Daisy Donaldson; also all kinds of typewriting; orders for colored papers."
+        },
+        {
+          "bbox": [
+            652,
+            2550,
+            1021,
+            2630
+          ],
+          "label": "text",
+          "text": "If you desire special write-ups of social or church affairs, with all details, no condensation, etc., see the manager, as there will be some charges."
+        },
+        {
+          "bbox": [
+            1066,
+            184,
+            1369,
+            217
+          ],
+          "label": "paragraph_title",
+          "text": "DRESS AKING"
+        },
+        {
+          "bbox": [
+            1065,
+            259,
+            1373,
+            306
+          ],
+          "label": "text",
+          "text": "MRS. E. L. ROGERS 1505 South Seventeenth Street"
+        },
+        {
+          "bbox": [
+            1033,
+            360,
+            1407,
+            455
+          ],
+          "label": "text",
+          "text": "FOR RENT\u2014One 6 room house at 14th and Adams sts Apply at 318 N. 5th st. Phones\u2014old 4864 and 2812, new 811."
+        },
+        {
+          "bbox": [
+            1030,
+            496,
+            1404,
+            607
+          ],
+          "label": "text",
+          "text": "FIRST CLASS upholstering and general furniture repairing. James B. Bondman, 2020 E. Kansas street. New phone 420."
+        },
+        {
+          "bbox": [
+            1040,
+            672,
+            1406,
+            961
+          ],
+          "label": "text",
+          "text": "We make a Specialty of Cleaning and Pressing Ladies' Garments KingCleaning Co. Colored Odd Fellows Building 13 and Madison Sts. WALTER KING, Proprietor Old Phone 1563"
+        },
+        {
+          "bbox": [
+            1030,
+            1010,
+            1413,
+            1217
+          ],
+          "label": "text",
+          "text": "SUBSCRIBE FOR THE FORUM, the organ of the race.\n\nThe Best T ing for"
+        },
+        {
+          "bbox": [
+            1065,
+            1153,
+            1783,
+            1361
+          ],
+          "label": "doc_title",
+          "text": "The Best T ing for the Most Troubles WI-DA-ME SALVE Useful in any home and useful every day"
+        },
+        {
+          "bbox": [
+            1058,
+            1375,
+            1783,
+            1697
+          ],
+          "label": "text",
+          "text": "Made by Wi-da-me Co., Fairmount, Ind.\n\nFOR\u2014Catarrh, Croyd, Colds, Coughs, Lagrippe, Quinzy, Tonsilitis, Sore Throat Congestion of Lungs and Pneumonia, Hayfever, Asthma, Rheumatism, Neuralgia, Pains, Lame Pack, Sprains, Bruises, Stiff or Sore Muscles, Blood Poison Ucers, Old Sores, Carbuncles, Boils, Cuts, Wounds, Fever Blisters, Sores in Mouth Insect Bites, Burns, Scalds, Eczema, Earache, Headache, Tooth ache, Teething, Frosted Feet, Corns, Bunions, Female Diseases, Childbirth, Fever, Sleeplessness Sore Eyes, Lumbago and Kidney Trouble, Pils, Tetter, Ringworm, Itch, Ivy Poison, Complexion and Pimples, Cracked or Chapped Hands, Sore Breast and Nipples, Erysipelas, Sore or Itching Scalp, and Cold, Sweating Burning or Aching Feet.\n\nPRICE, 50c"
+        },
+        {
+          "bbox": [
+            1058,
+            1918,
+            1770,
+            1963
+          ],
+          "label": "text",
+          "text": "1506 S.17 St., Springfield, Ill."
+        },
+        {
+          "bbox": [
+            1171,
+            2085,
+            1667,
+            2238
+          ],
+          "label": "paragraph_title",
+          "text": "J. B. OSBY ...Real Estate..."
+        },
+        {
+          "bbox": [
+            1075,
+            2281,
+            1761,
+            2353
+          ],
+          "label": "text",
+          "text": "Farm and City Property, Bought, Sold and Exchanged"
+        },
+        {
+          "bbox": [
+            1073,
+            2385,
+            1759,
+            2461
+          ],
+          "label": "text",
+          "text": "If you are Thinking of Buying a FARM or city HOME please call and see me"
+        },
+        {
+          "bbox": [
+            1075,
+            2494,
+            1762,
+            2607
+          ],
+          "label": "text",
+          "text": "522 $ _{1/2} $ E. Adams St. Bell Tel. 423 SPRINGFIELD, ILL."
+        },
+        {
+          "bbox": [
+            1416,
+            206,
+            1794,
+            1093
+          ],
+          "label": "text",
+          "text": "Central Lodge No. 3, A. F. and A. M.\nMeets every first and fourth Wednesday night at Masonic Hall, 119 North Eighth street.\nM. VANTREACE, W. M.\nWYATT JOHNSON, Sec'y.\nSt. John's Chapter No. 2, H. R. A. M.\nMeets every third Wednesday night at Masonic Hall, 119 N"
+        },
+        {
+          "bbox": [
+            1503,
+            157,
+            1700,
+            179
+          ],
+          "label": "paragraph_title",
+          "text": "SECRET SOCIETIES."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "image": "images/page_05.jpg",
+      "width": 2049,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            292,
+            156,
+            478,
+            179
+          ],
+          "label": "paragraph_title",
+          "text": "The Forum's Staff."
+        },
+        {
+          "bbox": [
+            194,
+            189,
+            571,
+            441
+          ],
+          "label": "text",
+          "text": "E. L. Rogers, Editor-in-Chief and Business Mgr.\nJ. B. OSBY,\nAssociate Editor.\nMISS DAISY DONALDSON.\nProof Reader and Stenographer.\nAddress matter for the paper to The Forum, 305\u00bd So. Sixth St.\nMatters of business or information to E. L. Rogers, Mgr."
+        },
+        {
+          "bbox": [
+            198,
+            390,
+            571,
+            441
+          ],
+          "label": "text",
+          "text": "Matters of business or information to E. L. Rogers, Mgr."
+        },
+        {
+          "bbox": [
+            189,
+            509,
+            571,
+            953
+          ],
+          "label": "text",
+          "text": "For Representative Vote For\n\nThomas E Lyon.\n\n45th Senatorial District.\n\nSangamon and Morgan Counies."
+        },
+        {
+          "bbox": [
+            318,
+            953,
+            445,
+            984
+          ],
+          "label": "paragraph_title",
+          "text": "Notice."
+        },
+        {
+          "bbox": [
+            190,
+            1019,
+            567,
+            1211
+          ],
+          "label": "text",
+          "text": "We find that space will not allow us to publish free of charge, the many church programs that are brought us, and for fear that some programs will be left out, and showing some partiality, we have decided to charge for ALL programs."
+        },
+        {
+          "bbox": [
+            190,
+            1260,
+            567,
+            1377
+          ],
+          "label": "text",
+          "text": "If the average colored person will expend as many dollars in some kind of business as he will readily do for lodges and socials, his children will have a job when they grow up, eh?"
+        },
+        {
+          "bbox": [
+            190,
+            1429,
+            562,
+            1671
+          ],
+          "label": "text",
+          "text": "\"Oh, Douglas! Thou hast passed bet yond the shore,\n\nBut still thy voice is ringing o'er the gale\u2014\n\nThou'st taught thy race how high her hope may soar,\n\nAnd bid them seek the heights, nor faint nor fall.\"\n\nPaul Laurence Dunbar on Frec Douglass."
+        },
+        {
+          "bbox": [
+            192,
+            1724,
+            559,
+            1750
+          ],
+          "label": "paragraph_title",
+          "text": "Nothing Pays Like Adverstising"
+        },
+        {
+          "bbox": [
+            190,
+            1797,
+            560,
+            1906
+          ],
+          "label": "text",
+          "text": "Don't wait to hear what the public thinks before you express your opinion. Say what you think if you believe you are right."
+        },
+        {
+          "bbox": [
+            190,
+            1950,
+            562,
+            1994
+          ],
+          "label": "text",
+          "text": "We are with the right, as was Lincoln, and the right will win."
+        },
+        {
+          "bbox": [
+            192,
+            2065,
+            450,
+            2087
+          ],
+          "label": "paragraph_title",
+          "text": "PRICES FOR POLITICAL"
+        },
+        {
+          "bbox": [
+            189,
+            2090,
+            564,
+            2270
+          ],
+          "label": "text",
+          "text": "ANNOUNCEMENTS.\nState and National offices.....$10.00\nCounty offices ..... 5.00\nMayor of Springfield ..... 5.00\nRegular write-ups, 10 cents per\nline. Ten-line notice one time."
+        },
+        {
+          "bbox": [
+            191,
+            2324,
+            564,
+            2406
+          ],
+          "label": "text",
+          "text": "Parties will please enter into no business transactions for this paper with anyone save authorized agents"
+        },
+        {
+          "bbox": [
+            192,
+            2451,
+            564,
+            2501
+          ],
+          "label": "text",
+          "text": "Please don't put the collectors off When the collectors come, pay them."
+        },
+        {
+          "bbox": [
+            189,
+            2550,
+            571,
+            2780
+          ],
+          "label": "text",
+          "text": "The Negro Business Men's League meets every two weeks. We have extended an invitation to all manner of business people and you have no excuse."
+        },
+        {
+          "bbox": [
+            657,
+            153,
+            885,
+            172
+          ],
+          "label": "paragraph_title",
+          "text": "CHURCH DIRECTORY."
+        },
+        {
+          "bbox": [
+            582,
+            196,
+            957,
+            386
+          ],
+          "label": "text",
+          "text": "REV. R. L. WILSON, Rector.\nSunday School ..... 10:00 a. m.\nMorning Prayer and Sermon.11:00 a. m.\nEvening Prayer and Sermon.. 8:00 p. m.\nCelebration of Holy Commun-\nion, first Sunday of each\nmonth at ..... 11:00 a. m.\nLitany with instruction every\nWednesday at ..... 8:00 p. m.\nLadies' Guild Meets every\nFriday at ..... 2:00 p. m.\nPrincipal Saints' Days are observed\nby the celebration of Holy Communion."
+        },
+        {
+          "bbox": [
+            583,
+            197,
+            956,
+            276
+          ],
+          "label": "text",
+          "text": "REV. R. L. WILSON, Rector.\nSunday School .....10:00 a.m.\nMorning Prayer and Sermon.11:00 a.m.\nEvening Prayer and Sermon .....8:00 p.m.\nCelebration of Holy Commun-"
+        },
+        {
+          "bbox": [
+            583,
+            343,
+            957,
+            617
+          ],
+          "label": "text",
+          "text": "Friday at ..... 2:00 p. m.\nPrincipal Saints' Days are observed by the celebration of Holy Communion.\n\n**St. Paul's A. M. E. Church,**\nREV. THEOPHILUS PRICE, Pastor.\nPreaching every Sunday at ..... 10:45 a. m.\nand ..... 7:45 p. m.\nSunday School at ..... 2:45 p. m.\nAlien Christian Endeavor at.. 6:30 p. m.\nClass every Sunday at ..... 12:00 noon\n\n**Pleasant Grove Baptist Church.**\nEighteenth and Cass Sts.\nREV. D. W. BLOODWURTH, Pastor.\nServices, Sunday at ..... 11:00 a. m.\nSunday School at ..... 2:00 p. m.\nEvening Service at ..... 7:30 p. m.\nPrayer meeting Wednesday\nat ..... 8:00 p. m."
+        },
+        {
+          "bbox": [
+            674,
+            625,
+            867,
+            643
+          ],
+          "label": "paragraph_title",
+          "text": "Grace M. E. Church,"
+        },
+        {
+          "bbox": [
+            580,
+            653,
+            957,
+            863
+          ],
+          "label": "text",
+          "text": "Fourteenth and Brown Sts.\nREV. J. M. SMALLEY, Pastor.\nServices, Sunday at .....11:00 a. m.\nSunday School at .....9:30 a. m.\nEvening Service at .....8:00 p. m.\nPrayer meeting Wednesday at. 8:00 p. m.\n\nUnion Baptist Church,\nTwelfth and Mason Streets.\nREV. B. L. IVORY, Pastor.\nServices, Sunday at .....11:00 a. m.\nB. Y. P. U. at .....7:00 p. m.\nSermon at .....8:00 p. m.\nPrayer Meeting Wednesday at 8:00 p. m.\nHoly Communion first Sunday of each"
+        },
+        {
+          "bbox": [
+            672,
+            872,
+            866,
+            889
+          ],
+          "label": "paragraph_title",
+          "text": "Zion Baptist Church."
+        },
+        {
+          "bbox": [
+            580,
+            896,
+            953,
+            995
+          ],
+          "label": "text",
+          "text": "Ninth and Carpenter Streets.\nREV. A. W. WILLIAMS, Pastor.\nSunday Service at ... 11:00 a. m.\nSunday School at ... 1:00 p. m.\nB. Y. P. U. at ... 6:00 p. m.\nEvening Service at ... 8:00 p. m.\nPrayer Meeting Wednesday at 8:00 p. m."
+        },
+        {
+          "bbox": [
+            578,
+            1026,
+            951,
+            1104
+          ],
+          "label": "text",
+          "text": "Palm and Main Streets\nREV. D. J. TATE, Pastor.\nSunday Services at .....11:00 a. m\nSunday School at .....9:15 a. m\nSermon at .....8:00 p. m\nPrayer Meeting Wednesday at 8:00 p. m"
+        },
+        {
+          "bbox": [
+            643,
+            1110,
+            887,
+            1126
+          ],
+          "label": "paragraph_title",
+          "text": "St. John A. M. E. Church."
+        },
+        {
+          "bbox": [
+            579,
+            1126,
+            954,
+            1290
+          ],
+          "label": "text",
+          "text": "REV. G. W. JONES, Pastor.\nSunday Services at ..... 10:45 a. m.\nSunday School at ..... 2:30 p. m.\nEvening Service at ..... 7:45 p. m.\nOfficial Board Meeting Mondays at ..... 8:00 p. m.\nPrayer and Praise Meeting\nWednesdays at ..... 8:00 p. m.\nSunday School Teachers'\nMeeting Thursdays at ..... 8:00 p. m.\nChoir Rehearsal Fridays at ..... 8:00 p. m."
+        },
+        {
+          "bbox": [
+            579,
+            1324,
+            952,
+            1400
+          ],
+          "label": "text",
+          "text": "REV. N. GRIFFIN, In Charge.\nSunday Services ..... 10:30 a. m.\nSunday School ..... 1:30 p. m.\nPreaching ..... 3:00 p. m. and 7:30 p. m.\nPrayer Meeting, Tuesday ..... 8:00 p. m."
+        },
+        {
+          "bbox": [
+            582,
+            1416,
+            948,
+            1459
+          ],
+          "label": "paragraph_title",
+          "text": "SECOND SEVENTH DAY ADVENT\nIST CHURCH."
+        },
+        {
+          "bbox": [
+            583,
+            1473,
+            952,
+            1515
+          ],
+          "label": "paragraph_title",
+          "text": "Fifteenth Street, Between Brown and Stuart Streets-Elder L. W."
+        },
+        {
+          "bbox": [
+            576,
+            1525,
+            957,
+            2454
+          ],
+          "label": "text",
+          "text": "Sabbath School 10:00 a.m.\nSabbath Service 11:00 a.m.\nMissionary Volunteer Society Meeting 3:30 p.m.\nPrayer Meeting, Wednesday 8:00 p.m.\nSunday Evening Service... 8:00 p.m.\n\nMr. Cardwell, who was a cn spcuous figure at Old settlers' picnic."
+        },
+        {
+          "bbox": [
+            639,
+            2473,
+            894,
+            2499
+          ],
+          "label": "paragraph_title",
+          "text": "Dr. S. A. WARE."
+        },
+        {
+          "bbox": [
+            576,
+            2505,
+            957,
+            2780
+          ],
+          "label": "text",
+          "text": "PHYSICIANS AND SURGEONS.\nOFFICE:\u2014627\u00bd East Adams street.\nHOURS: 10 a. m. to 12 m.\n2 p. m. to 4 p. m.\nTelephone: (old). Office; 3329\nRes., 1607-r-2\nCalls promptly made."
+        },
+        {
+          "bbox": [
+            965,
+            158,
+            1343,
+            866
+          ],
+          "label": "text",
+          "text": "WANTED\u2014Colored girls for cooks and house work Apply at Illinois Free Employment Bureau, 305\u00bd S. 6th St.\n\nEDWAD BAUMANN\n\nCHAS. T. BAUMANN\n\nBaumann Bros....\n\nPrescription Druggists.\n(Deutsche Apotheke)\n\nCorner 7th and Washington Sts\n\nBoth Phones 654\n\nYour Patronage solicited."
+        },
+        {
+          "bbox": [
+            973,
+            866,
+            1336,
+            967
+          ],
+          "label": "paragraph_title",
+          "text": "Public stenography."
+        },
+        {
+          "bbox": [
+            980,
+            995,
+            1328,
+            1028
+          ],
+          "label": "text",
+          "text": "Done at This Office."
+        },
+        {
+          "bbox": [
+            965,
+            1063,
+            1337,
+            1352
+          ],
+          "label": "text",
+          "text": "Short-hand. typewriting and amanuensis work. Business letters, accounts itemized, Essays. speeches or Sermons written on machine."
+        },
+        {
+          "bbox": [
+            967,
+            1405,
+            1337,
+            1585
+          ],
+          "label": "text",
+          "text": "Give us a Trial.\nThe FORUM. 305 S. 6\nMISS DAISY DONALDSON,\nStenographer.\nOld 'Phone, 998. Springfield Illinois"
+        },
+        {
+          "bbox": [
+            976,
+            1405,
+            1331,
+            1445
+          ],
+          "label": "paragraph_title",
+          "text": "Jive us a Trial."
+        },
+        {
+          "bbox": [
+            965,
+            1585,
+            1343,
+            2780
+          ],
+          "label": "text",
+          "text": "FORD'S\nHAIR POMADE\n\nTHE OLD RELIABLE DRESSING FOR\nKINKY OR CURLY HAIR. IT'S USE MAKES\nSTUBBORN, HARSH HAIR SOFTER, MORE\nPLIABLE AND GLOSSY, EASY TO COMB AND\nPUT UP IN ANY STYLE THE LENGTH WILL\nPERMIT. WRITE FOR TESTIMONIES, TELLING\nHOW THIS REMARKABLE REMEDY MAKES\nSHORT, KINKY HAIR GROW LONG AND\nWAVY. BEST POMADE ON THE MARKET\nFOR DANDRUFF, ITCHING OF THE SCALP\nAND FALLING OUT OF THE HAIR.\nBEWARE OF IMITATIONS, GET THE\nGENUINE, PUT UP IN 25\u00a2 AND 50\u00a2 BOTTLES\nWITH CHARLES FORD'S\nNAME ON EVERY PACKAGE.\n\nSOLD BY DRUGGISTS.\nIF YOUR DRUGGIST CANNOT SUPPLY\nYOU, WE WILL SEND IT TO YOU DIRECT\nAT THE FOLLOWING PRICES, SMALL SIZED\nBOTTLE, 25\u00a2 LARGE SIZED BOTTLE, 50\u00a2\nTHE OZONIZED OX MARROW CO.\n216 LAKE ST., DEPT. 58 CHICAGO, ILL.\nAGENTS WANTED."
+        },
+        {
+          "bbox": [
+            1351,
+            398,
+            1729,
+            988
+          ],
+          "label": "text",
+          "text": "ILLINOIS TRACTION SYSTEM\u2014CARS\n\nleave Springfield:\n\nEast. North. South.\n5:00 a.m. 5:00 a.m. *5:00 a.m.\n6:00 a.m. *6:40 a.m. 6:00 a.m.\n*7:00 a.m. 7:15 a.m. *7:00 a.m.\n8:00 a.m. *8:40 a.m. 7:30 a.m.\n*9:00 a.m. 10:00 a.m. *9:00 a.m.\n10:00 a.m. 10:40 a.m. 9:30 a.m.\n*11:00 a.m. *12:40 p.m. *11:00 a.m.\n12:00 m. 2:00 p.m. 11:30 a.m.\n*1:00 p.m. *2:40 p.m. *1:00 p.m.\n2:00 p.m. *4:40 p.m. 1:30 p.m.\n*3:00 p.m. 6:00 p.m. *3:00 p.m.\n4:00 p.m. *6:40 p.m. 3:30 p.m.\n*5:00 p.m. 9:25 p.m. *5:00 p.m.\n6:00 p.m. 11:40 p.m. 6:00 p.m.\n*7:00 p.m. *7:00 p.m.\n8:30 p.m. 9:00 p.m.\n10:00 p.m. 11:20 p.m.\n11:00 p.m. \u202011:30 p.m.\n\n*Limited. \u2020Sleeper. All others local.\n\nNO DUST DIRT SMOKE CINDER\n\n\"It is no benefit to have given me something, but it is a benefit to have enabled me to obtain something for myself.\"\u2014Emerson."
+        },
+        {
+          "bbox": [
+            1407,
+            1011,
+            1665,
+            1057
+          ],
+          "label": "paragraph_title",
+          "text": "J. W. WATKINS"
+        },
+        {
+          "bbox": [
+            1349,
+            1077,
+            1729,
+            1244
+          ],
+          "label": "text",
+          "text": "CONTRACTOR\nCement Side Walksand Cistern Building, Etc.\n1007 S.17th St.\nSpringfield,- Illinois\nOld Phone 3802"
+        },
+        {
+          "bbox": [
+            1346,
+            1288,
+            1729,
+            1604
+          ],
+          "label": "text",
+          "text": "Bell 'Phone: 2156 7th & Adams Sts\nOffice Hours: 9 to 12\nRoom No. 1 2 to 5 P. M.\nUpstairs. 7 to 9 P.M.\n\nDr. N. B. FORD,\nPHYSICIAN and SURGEON.\nSpecial Attention Given Diseases of\nWomen. Children add General surgery.\nN. W. Corner 7th & Adams, Room 1.\nSpringfield, Illinois."
+        },
+        {
+          "bbox": [
+            1351,
+            1666,
+            1609,
+            1687
+          ],
+          "label": "paragraph_title",
+          "text": "Meet Me at Irwin's Park"
+        },
+        {
+          "bbox": [
+            1462,
+            1705,
+            1721,
+            1730
+          ],
+          "label": "paragraph_title",
+          "text": "Every Wednesday Night"
+        },
+        {
+          "bbox": [
+            1348,
+            1758,
+            1730,
+            2163
+          ],
+          "label": "text",
+          "text": "The Terpischorean Dancing Club has commenced its regular weekly dances. Trains leave Illinois Traction Station at 6:00 p. m., 8:20 p. m. and 9:00 p. m., returning about 11:45 p. m. Round trip only 25c. Trains stop and tickets can also be purchased at Spring and Allen Streets. The dances are bigger and better than ever. Ladies admitted to dance hall free until further notice.\n\nCommittee\nThos. Nix\nJack Gray\nBert Smith\nRenpick Vires"
+        },
+        {
+          "bbox": [
+            1552,
+            2068,
+            1730,
+            2163
+          ],
+          "label": "text",
+          "text": "Thos. Nix\nJack Gray\nBert Smith\nRennick Vires"
+        },
+        {
+          "bbox": [
+            1350,
+            2204,
+            1732,
+            2373
+          ],
+          "label": "text",
+          "text": "The pastor and members of St. John A. M. E. church extend a standing invitation to you, one and all, to attend their services every Sunday. Services open promptly at 11 o'clock and you are out by 12:10 p. m."
+        },
+        {
+          "bbox": [
+            1350,
+            2421,
+            1738,
+            2660
+          ],
+          "label": "text",
+          "text": "Office Phone Residence Phone\n2322 2819-R 3\n\norris Williams\nAttorney at Law,\nWILLIAMS' BLDG.\n11th and Washington Sts.\n\nSpringfield, - Illinois"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "image": "images/page_06.jpg",
+      "width": 2058,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            666,
+            163,
+            1381,
+            260
+          ],
+          "label": "text",
+          "text": "After today our Business Office headquar. ters will be located at"
+        },
+        {
+          "bbox": [
+            666,
+            443,
+            1383,
+            564
+          ],
+          "label": "text",
+          "text": "Over Tobin & Canham's Jewelry Store, Room 4"
+        },
+        {
+          "bbox": [
+            749,
+            664,
+            1301,
+            703
+          ],
+          "label": "text",
+          "text": "Remember the Place and Phone"
+        },
+        {
+          "bbox": [
+            1049,
+            2055,
+            1774,
+            2150
+          ],
+          "label": "text",
+          "text": "you can get better Shoes for less money, at"
+        },
+        {
+          "bbox": [
+            1054,
+            2255,
+            1773,
+            2629
+          ],
+          "label": "text",
+          "text": "They are a set of polite, courteous, affable men who treat you right. When you want Shoes go ta F. M. Legg Shoe Co. 125 W. Side Square"
+        },
+        {
+          "bbox": [
+            257,
+            176,
+            638,
+            209
+          ],
+          "label": "paragraph_title",
+          "text": "Political Announcement"
+        },
+        {
+          "bbox": [
+            256,
+            266,
+            637,
+            351
+          ],
+          "label": "text",
+          "text": "I hereby announce my candidacy for the Republican nomination for representative in the Forty-fifth senatorial district. THOMAS E. LYON."
+        },
+        {
+          "bbox": [
+            365,
+            387,
+            532,
+            410
+          ],
+          "label": "paragraph_title",
+          "text": "FOR TREASURER"
+        },
+        {
+          "bbox": [
+            258,
+            425,
+            637,
+            548
+          ],
+          "label": "text",
+          "text": "I hereby announce myself a candidate for County Treasurer, subject to the decision of the Republican primary, Sept. 15, 1910 CHAS. H. EDMANDS, Jr."
+        },
+        {
+          "bbox": [
+            361,
+            600,
+            534,
+            621
+          ],
+          "label": "paragraph_title",
+          "text": "COUNTY JUDGE."
+        },
+        {
+          "bbox": [
+            260,
+            625,
+            637,
+            712
+          ],
+          "label": "text",
+          "text": "I hereby announce myself as a candidate for Judge of the County Court of Sangamon County, subject to the decision of the Republican primaries.\n\nJ. B. WEAVER."
+        },
+        {
+          "bbox": [
+            330,
+            755,
+            563,
+            779
+          ],
+          "label": "paragraph_title",
+          "text": "FOR COUNTY JUDGE"
+        },
+        {
+          "bbox": [
+            666,
+            780,
+            847,
+            817
+          ],
+          "label": "text",
+          "text": "Old Phone"
+        },
+        {
+          "bbox": [
+            252,
+            790,
+            638,
+            888
+          ],
+          "label": "text",
+          "text": "I hereby announce myself a cand date for County Judge of Sangamon County, subject to the decision of the Democratic primary, September 15, 1910."
+        },
+        {
+          "bbox": [
+            408,
+            887,
+            613,
+            909
+          ],
+          "label": "text",
+          "text": "GEORGE W. MURRAY."
+        },
+        {
+          "bbox": [
+            281,
+            961,
+            610,
+            985
+          ],
+          "label": "paragraph_title",
+          "text": "For County Superintendent"
+        },
+        {
+          "bbox": [
+            252,
+            990,
+            1020,
+            1205
+          ],
+          "label": "text",
+          "text": "I hereby announce myself a candidate for County Superintendent of Schools for Sangamon County, subject to the decision of the Republican primaries, Sept. 15th, 1910.\n\nE. C. PRUITT.\n\nFOR SHERIFF."
+        },
+        {
+          "bbox": [
+            468,
+            1111,
+            633,
+            1133
+          ],
+          "label": "text",
+          "text": "E. C. PRUITT."
+        },
+        {
+          "bbox": [
+            367,
+            1175,
+            526,
+            1199
+          ],
+          "label": "paragraph_title",
+          "text": "FOR SHERIFF."
+        },
+        {
+          "bbox": [
+            256,
+            1205,
+            635,
+            1287
+          ],
+          "label": "text",
+          "text": "I hereby announce myself a candidate for Sheriff of Sangamon county, subject to the decision of the Democratic primary."
+        },
+        {
+          "bbox": [
+            432,
+            1284,
+            614,
+            1306
+          ],
+          "label": "text",
+          "text": "FRED. W. LONG."
+        },
+        {
+          "bbox": [
+            252,
+            1287,
+            1020,
+            1378
+          ],
+          "label": "text",
+          "text": "FRED. W. LONG.\n\nFor Sheriff\n\nOffice: 305 1-2 S\nTELEPHONE MAIN 998\nWRITE ALL MATTE"
+        },
+        {
+          "bbox": [
+            377,
+            1348,
+            513,
+            1372
+          ],
+          "label": "paragraph_title",
+          "text": "For Sheriff"
+        },
+        {
+          "bbox": [
+            253,
+            1378,
+            635,
+            1472
+          ],
+          "label": "text",
+          "text": "I hereby announce myself as a candidate for Sheriff of Sangamon county, subject to the decision of the Republican primaries. WILLIAM CHILDERS"
+        },
+        {
+          "bbox": [
+            323,
+            1519,
+            569,
+            1544
+          ],
+          "label": "paragraph_title",
+          "text": "FOR PROBATE JUDGE"
+        },
+        {
+          "bbox": [
+            644,
+            1565,
+            1015,
+            1606
+          ],
+          "label": "text",
+          "text": "Charles S. Gibbs, Complainant's Solicitor,\nSTATE OF ILLINOIS, ss"
+        },
+        {
+          "bbox": [
+            255,
+            1567,
+            633,
+            1687
+          ],
+          "label": "text",
+          "text": "I hereby announce myself as a candidate for the office of Judge of the Probate Court of Sangamon county, subject to the decision of the Republican primaries, H. E.Fullenwider"
+        },
+        {
+          "bbox": [
+            643,
+            1608,
+            1018,
+            1849
+          ],
+          "label": "text",
+          "text": "Sangamon County.\nCircuit Court September Term, A. D., 1910.\nRobert Oakley\nvs. In Chancery.\nMayme Oakley\nAffldavit of the unknown residence of Mayme Oakley, defendant above named, having been filed in the office of the Clerk of the Circuit Court of said County, notice is hereby given to the said Mayme Oakley that the complainant filed his bill of complaint in said Court, in the Chancery side thereof, on the 27th day of July, A. D. 1910, and that a summons issued out of said Court against said defendant, returnable on the first Monday of September, next, 1910, as is by law required."
+        },
+        {
+          "bbox": [
+            253,
+            1732,
+            633,
+            1829
+          ],
+          "label": "text",
+          "text": "I hereby announce my candidacy for the Republican nomination for Probate Judge of Sangamon county.\n\nHarry B. Harts."
+        },
+        {
+          "bbox": [
+            645,
+            1848,
+            1020,
+            1922
+          ],
+          "label": "text",
+          "text": "Now, unless you, the said Mayme Oakley, shall be and appear before the Sangamon County Circuit Court, on the first day of the next term thereof, to be holden at the Court House in the City of"
+        },
+        {
+          "bbox": [
+            252,
+            1868,
+            1020,
+            2780
+          ],
+          "label": "text",
+          "text": "FOR SALE\n\nDAILY COLORED NEWSPAPERS\n\nAT\n\nG. E. OUSLEY'S RESTAURANT\n819 E. Washington St.\n\nJ. E. THOMPSON'S\n11th and Washington Sts.\n\nUNION GROCERY STORE\n18th and Cass Sts.\n\nJ. P. ROBERT'S SHOE STORE\n1907 E. Capitol Ave.\n\nAlso Dunbar's Books and other Literature"
+        },
+        {
+          "bbox": [
+            290,
+            2596,
+            1012,
+            2638
+          ],
+          "label": "text",
+          "text": "Also Dunbar's Books and other Literature"
+        },
+        {
+          "bbox": [
+            1029,
+            782,
+            1406,
+            1724
+          ],
+          "label": "text",
+          "text": "HEAD\nFORUM\nD WEEKLY\nShared Circulation in\nper annum. $150;\nadvance. 40 cents;\ns.\n\nSouth Sixth Street.\nS, INTER-STATE 1092.\nR TO THE FORUM.\nL. ROGERS,\nManager.\n\nSpringfield, on the first Monday of September, A. D. 1910, and plead, answer and demur to said compainant's bill of complaint, the same and the matters and things therein charged and stated will be taken as confessed, and a decree entered against you, according to the prayer of said bill.\n\nS. T. JONES, Clerk."
+        },
+        {
+          "bbox": [
+            1029,
+            1773,
+            1406,
+            2007
+          ],
+          "label": "text",
+          "text": "Hon. H. Clay Wilson is unable to leave his home, due to the poor condition of his eyes."
+        },
+        {
+          "bbox": [
+            1411,
+            171,
+            1794,
+            425
+          ],
+          "label": "text",
+          "text": "The PEERLESS Ice Cream Parlor AND"
+        },
+        {
+          "bbox": [
+            1542,
+            358,
+            1656,
+            390
+          ],
+          "label": "text",
+          "text": "\u2014AND\u2014"
+        },
+        {
+          "bbox": [
+            1467,
+            425,
+            1730,
+            474
+          ],
+          "label": "paragraph_title",
+          "text": "Restaurant"
+        },
+        {
+          "bbox": [
+            1411,
+            516,
+            1794,
+            780
+          ],
+          "label": "text",
+          "text": "Doing a Regular Good, Steady Business\n\nFish! Fish! Fish!!\n\nServed in Any Style"
+        },
+        {
+          "bbox": [
+            1414,
+            840,
+            1786,
+            890
+          ],
+          "label": "paragraph_title",
+          "text": "1325 E Mason St."
+        },
+        {
+          "bbox": [
+            1448,
+            915,
+            1750,
+            963
+          ],
+          "label": "text",
+          "text": "NIX & FISHER, Props."
+        },
+        {
+          "bbox": [
+            1459,
+            994,
+            1745,
+            1051
+          ],
+          "label": "paragraph_title",
+          "text": "HON. J. W. FOLK"
+        },
+        {
+          "bbox": [
+            1411,
+            1051,
+            1794,
+            2097
+          ],
+          "label": "text",
+          "text": "of Missouri\nMay be Democratic Candidate for President.\n\nMrs. Susan Davis, N. 4th Street, has as honored guests, Mrs. Addie Brown and daughter Susie, of Chicago."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "image": "images/page_07.jpg",
+      "width": 2048,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            206,
+            216,
+            553,
+            272
+          ],
+          "label": "paragraph_title",
+          "text": "SENATOR HAY ANNOUN CES."
+        },
+        {
+          "bbox": [
+            206,
+            216,
+            553,
+            272
+          ],
+          "label": "text",
+          "text": "SENATOR HAY ANNOUN CES."
+        },
+        {
+          "bbox": [
+            191,
+            316,
+            562,
+            991
+          ],
+          "label": "text",
+          "text": "Senator Logan Hay, in this is sue of our paper, makes his announcement for re-election as state senator from this, the 45th Senatorial district. He has served in this capacity for 4 years, during which time he was recognized as a man of sterling qualities, being chairman of important committees.\n\nAs a legislator he was authority on several important bills.\n\nHe is well known throughout Sangamon and Morgan counties and has always been looked up on as a man of the highest type and a good citizen.\n\nAs a candidate for reelection, he offers his record, his services rendered his constituents, his ability to fill the place, etc. as a sufficient guaranty of good faith.\n\nMr. Hay was formerly alderman from the 5th ward, serving until he moved into the 4th\u2014he is a lawyer of repute and stands for progressiveness He is too well known to need extenuated laudation."
+        },
+        {
+          "bbox": [
+            273,
+            1054,
+            478,
+            1083
+          ],
+          "label": "paragraph_title",
+          "text": "Doctor Ford"
+        },
+        {
+          "bbox": [
+            188,
+            1095,
+            561,
+            1444
+          ],
+          "label": "text",
+          "text": "Dr. N. 3. Ford will not be able to attend the National Medical convention, which is to be held at Washington, D.C., next week, beginning Monday, Aug. 22nd, on account of the illness of Mrs. Ford, who has been confined at St. John's hospital for one week. Dr. Ford regrets his inability to attend, as this is the greatest association of its kind in the world. The doctor has been a regular attendant at these conventions since the organization."
+        },
+        {
+          "bbox": [
+            189,
+            1505,
+            559,
+            1538
+          ],
+          "label": "paragraph_title",
+          "text": "H. Wilson and T. Lyon"
+        },
+        {
+          "bbox": [
+            186,
+            1578,
+            559,
+            1883
+          ],
+          "label": "text",
+          "text": "We unhesitatingly and unsparingly recommend to our readers, T. E. Lyon and Harry Wilson, and any other men who stand for the same ideals and measures that these men stand for and stood for while in the General Assembly; but not politically only, do we refer to their sterling qualities, but also as ordinary good citizens, who believe in rendering favors to a man on his merits, no matter who he is."
+        },
+        {
+          "bbox": [
+            232,
+            1952,
+            517,
+            1980
+          ],
+          "label": "paragraph_title",
+          "text": "Dunbar, the Poet"
+        },
+        {
+          "bbox": [
+            187,
+            2025,
+            558,
+            2295
+          ],
+          "label": "text",
+          "text": "Compliment paid by the Globe Democrat to Paul Laurence Dunbar, the Negro poet:\n\n\"He did that in his brief time which makes it certain that, could he have lived longer, the light that never was on sea nor land would have bathed him in whiteness. His shadow would have fled before the sun of his genius when at its zenith.\""
+        },
+        {
+          "bbox": [
+            203,
+            2356,
+            546,
+            2389
+          ],
+          "label": "paragraph_title",
+          "text": "Educate your Child."
+        },
+        {
+          "bbox": [
+            186,
+            2431,
+            562,
+            2780
+          ],
+          "label": "text",
+          "text": "We advise you to keep your children in school. Send them to the colleges and universities and business colleges. The day is at hand for colored men and women of accomplishments."
+        },
+        {
+          "bbox": [
+            577,
+            208,
+            945,
+            278
+          ],
+          "label": "paragraph_title",
+          "text": "Do You Think You Could do This?"
+        },
+        {
+          "bbox": [
+            572,
+            352,
+            943,
+            844
+          ],
+          "label": "text",
+          "text": "The Tuskegee Messenger tells of a colored woman in Macon county, Alabama, who raised 137 spring chickens this year, has 35 dozen eggs to be hatched, sold $8 worth of eggs and $3 worth of chickens, gave 6 chickens to the sick, has five acres of knee high cotton, two acres of corn and one acre of peas. She does all of her farm work herself except the plowing, cares for her two cows, does her own housework and makes 75c each week washing. and has enough spare time to lead in the church and entertain a large host of friends who visit her frequently. Her name is Mrs Irene Smith, and she lives at Zion Hill, Alabama. \u2014 Free man."
+        },
+        {
+          "bbox": [
+            573,
+            911,
+            938,
+            982
+          ],
+          "label": "paragraph_title",
+          "text": "Sunday Services at the Y.M.C.A."
+        },
+        {
+          "bbox": [
+            571,
+            1026,
+            943,
+            1489
+          ],
+          "label": "text",
+          "text": "At their new quarters, 8191 E. Washington Street the Y. M. C. A. held their first religious services Sunday at 4 p. m., with a large number present.\n\nDr. N. B. Ford was the orator of the occasion, but was only able to begin his speech and close, on account of the illness of his wife.\n\nScripture lesson was read and prayer offered by Rev. Jones of St. John's A. M. E. church. Remarks were made by Revs. H. Sallie and T. Price.\n\nTomorrow at 4 o'clock Bible services will be conducted by Dr, J. H. Magee."
+        },
+        {
+          "bbox": [
+            574,
+            1548,
+            942,
+            1615
+          ],
+          "label": "paragraph_title",
+          "text": "Services at St. Luke's Episcopal Church."
+        },
+        {
+          "bbox": [
+            570,
+            1624,
+            943,
+            1761
+          ],
+          "label": "text",
+          "text": "Confirmation services were largely attended at St. Luke's Episcopal church last Sunday. The services were beautiful and solemn, Bishop Osborne offiated."
+        },
+        {
+          "bbox": [
+            579,
+            1813,
+            905,
+            1841
+          ],
+          "label": "paragraph_title",
+          "text": "FOR COMMITTEEMAN"
+        },
+        {
+          "bbox": [
+            568,
+            1884,
+            942,
+            2118
+          ],
+          "label": "text",
+          "text": "Wm. L. Wright. 1720 East Reynolds St., a life long resident of this city and county, and a resident of the 2nd precinct of his ward, the First, for 15 years, is a candidate for committee man. He has been a loyal supporter of his party all of his life and now asks the support of his friends."
+        },
+        {
+          "bbox": [
+            627,
+            2171,
+            878,
+            2201
+          ],
+          "label": "paragraph_title",
+          "text": "Elkhart News."
+        },
+        {
+          "bbox": [
+            568,
+            2241,
+            946,
+            2780
+          ],
+          "label": "text",
+          "text": "Misses Hazel Davis and Minnie Smith were the guest of Miss Ethel Artis; of Elkhart, Ill., during last week.\n\nRev. H. Lackey and wife, of Lincoln, were the honored guests of Mr. Aartis and wife, last Friday the 12.\n\nF. Bass of this dity was the honored guest also of Miss Ethel Artis on last Sunday.\n\nMiss E. Artis had the great pleasure of visiting friends in Lincoln last Tuesday."
+        },
+        {
+          "bbox": [
+            1072,
+            243,
+            1577,
+            303
+          ],
+          "label": "paragraph_title",
+          "text": "GEM CAFE"
+        },
+        {
+          "bbox": [
+            953,
+            328,
+            1519,
+            1411
+          ],
+          "label": "text",
+          "text": "819 E. Washington St.\n\nIs Now Doing a Flourishing Business\n\nWe are striving to work this up to\nClass Place\n\nIce Cream Served Daily\n\nA meal with us will convince you\nsuperiority---Ladies Specially\nSpecial attention given Sunday o\nand visitors.\n\nG. E. OUSLEY\n\nLet us practice Eco-\nSobriety, Refinement and\nactuality--these three esses\nmake the man and the we\nPatronize the Firm\nadvertise."
+        },
+        {
+          "bbox": [
+            1135,
+            366,
+            1519,
+            1411
+          ],
+          "label": "text",
+          "text": "How Doing a Flourish Business\ndriving to work this up to\nClass Place\nThe Cream Served Day\nwith us will convince you\nty---Ladies Specially\nattention given Sunday o\nors.\nG. E. OUSLEY\n\nus practice Economy, Refinement and\nthese three esses\nthe man and the we\nronize the Firm\nse."
+        },
+        {
+          "bbox": [
+            976,
+            507,
+            1676,
+            583
+          ],
+          "label": "text",
+          "text": "We are striving to work this up to a First- Class Place"
+        },
+        {
+          "bbox": [
+            1058,
+            606,
+            1593,
+            652
+          ],
+          "label": "paragraph_title",
+          "text": "Ice Cream Served Daily"
+        },
+        {
+          "bbox": [
+            970,
+            606,
+            1680,
+            882
+          ],
+          "label": "text",
+          "text": "Ice Cream Served Daily A meal with us will convince you of our superiority---Ladies Specially Invited--- Special attention given Sunday customers and visitors. G. E. OUSLEY, Prop."
+        },
+        {
+          "bbox": [
+            966,
+            993,
+            1679,
+            1327
+          ],
+          "label": "text",
+          "text": "Let us practice Economy, Sobriety, Refinement and Punctuality--these three essentials make the man and the woman. Patronize the Firms that advertise."
+        },
+        {
+          "bbox": [
+            954,
+            1411,
+            1325,
+            1598
+          ],
+          "label": "text",
+          "text": "Hall For Rent\nI have a large hall 38x48, convenient for society, church or club meetings. Will fix up hall to suit tenant.\nJAS. B. BONDMAN.\n2204 E. Kansas St."
+        },
+        {
+          "bbox": [
+            954,
+            1548,
+            1322,
+            1598
+          ],
+          "label": "text",
+          "text": "JAS. B. BONDMAN.\n2204 E. Kansas St."
+        },
+        {
+          "bbox": [
+            1068,
+            1643,
+            1219,
+            1672
+          ],
+          "label": "paragraph_title",
+          "text": "Political"
+        },
+        {
+          "bbox": [
+            956,
+            1680,
+            1324,
+            1741
+          ],
+          "label": "text",
+          "text": "ANNOUNCEMENTS. (Continued from another page.)"
+        },
+        {
+          "bbox": [
+            953,
+            1775,
+            1325,
+            1923
+          ],
+          "label": "text",
+          "text": "FOR COUNTY CLERK\n\nI HEREBY announce myself as a candidate for county clerk, subject to the decision of the Republican primaries Sept. 15 1910.\n\nCHARLES W. BYERS"
+        },
+        {
+          "bbox": [
+            1050,
+            1963,
+            1234,
+            1987
+          ],
+          "label": "paragraph_title",
+          "text": "FOR SENATOR."
+        },
+        {
+          "bbox": [
+            956,
+            2017,
+            1325,
+            2111
+          ],
+          "label": "text",
+          "text": "I hereby announce my candidacy for the Repnbilcan nomination for state senator in the Forty-fifth senatorial district. LOGAN HAY."
+        },
+        {
+          "bbox": [
+            955,
+            2151,
+            1326,
+            2265
+          ],
+          "label": "text",
+          "text": "I hereby announce myself a candidate for the office of state senator from the Forty-fifth senatorial district of Illinois subject to the Republican primary election to be held Thursday, September 15:"
+        },
+        {
+          "bbox": [
+            995,
+            2263,
+            1241,
+            2285
+          ],
+          "label": "text",
+          "text": "LAWRENCE L FLINN."
+        },
+        {
+          "bbox": [
+            1018,
+            2337,
+            1269,
+            2419
+          ],
+          "label": "paragraph_title",
+          "text": "For Sheriff Wm. Childers"
+        },
+        {
+          "bbox": [
+            959,
+            2442,
+            1325,
+            2489
+          ],
+          "label": "text",
+          "text": "Republican candidate, election Sept. 15 1910."
+        },
+        {
+          "bbox": [
+            953,
+            2532,
+            1326,
+            2780
+          ],
+          "label": "text",
+          "text": "Subscribe for The Forum."
+        },
+        {
+          "bbox": [
+            1135,
+            2559,
+            1519,
+            2780
+          ],
+          "label": "text",
+          "text": "```markdown\n\n```"
+        },
+        {
+          "bbox": [
+            1335,
+            366,
+            1710,
+            1417
+          ],
+          "label": "text",
+          "text": "a Flourishing\nness\nork this up to a First-\nPlace\nserved Daily\nconvince you of our\nSpecially Invited---\non Sunday customers\nDUSLEY, Prop.\n\nJustice Economy,\nment and Pun-\nthree essentials\nand the woman.\nthe Firms that"
+        },
+        {
+          "bbox": [
+            1343,
+            1417,
+            1710,
+            1491
+          ],
+          "label": "paragraph_title",
+          "text": "We want your patron- age"
+        },
+        {
+          "bbox": [
+            1339,
+            1511,
+            1709,
+            1564
+          ],
+          "label": "paragraph_title",
+          "text": "The Union Grocery Co."
+        },
+        {
+          "bbox": [
+            1335,
+            1598,
+            1707,
+            2001
+          ],
+          "label": "text",
+          "text": "Is a new enterprise, opened in the Colored center of the population and guarantees to sell as cheap if not a little cheaper than up town stores. Our service is good. Will you please call or telephone and let us have the next order? We are making places for your high school, business and college girls and boys\u2014see.\n\nOUR GOODS ARE FRESH DAILY\n\nThe Union Grocery Co\n\n18th and Cass Sts."
+        },
+        {
+          "bbox": [
+            1340,
+            2098,
+            1706,
+            2130
+          ],
+          "label": "paragraph_title",
+          "text": "REISCH BREWERY CO"
+        },
+        {
+          "bbox": [
+            1379,
+            2148,
+            1699,
+            2402
+          ],
+          "label": "text",
+          "text": "City Brewery Their Bottle Beer is Fine Bock's Special Can't be Beat Try it!"
+        },
+        {
+          "bbox": [
+            1335,
+            2463,
+            1710,
+            2780
+          ],
+          "label": "text",
+          "text": "For all kinds of Job work done, by the day or Contract, Call on, or telephone, Oscar Peandrews, 931 So. Pasfield St Tel, old: 4290"
+        },
+        {
+          "bbox": [
+            1447,
+            2022,
+            1590,
+            2048
+          ],
+          "label": "text",
+          "text": "Tel. Old 1849"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "image": "images/page_08.jpg",
+      "width": 2040,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            440,
+            245,
+            815,
+            304
+          ],
+          "label": "doc_title",
+          "text": "Talk of the Town"
+        },
+        {
+          "bbox": [
+            235,
+            304,
+            619,
+            423
+          ],
+          "label": "text",
+          "text": "Rev. McDavis Here."
+        },
+        {
+          "bbox": [
+            237,
+            468,
+            617,
+            584
+          ],
+          "label": "text",
+          "text": "Rev. McDavid, formerly pastor of the Lutheran church here, but now of Charlotte, North Carolina, is in the city, the guest of Richard Ross."
+        },
+        {
+          "bbox": [
+            236,
+            676,
+            615,
+            820
+          ],
+          "label": "text",
+          "text": "Tomorrow St. John will hold her last quarterly meeting for this conference year. The pastor expects to make it the best he has had, and therefore urges all members and friends out."
+        },
+        {
+          "bbox": [
+            313,
+            851,
+            615,
+            901
+          ],
+          "label": "text",
+          "text": "ADDITIONAL\nAPPOINTTEES"
+        },
+        {
+          "bbox": [
+            235,
+            946,
+            614,
+            1112
+          ],
+          "label": "text",
+          "text": "Gov. Deneen has appointed the following men as representatives to the Nationai Negro Educational Congress to be held in St. Louis: J. M. Smalley. S. J. Williams. R. Nelson, G. Gaskin."
+        },
+        {
+          "bbox": [
+            237,
+            1162,
+            613,
+            1229
+          ],
+          "label": "paragraph_title",
+          "text": "Negroes to Organize Political Club"
+        },
+        {
+          "bbox": [
+            238,
+            1256,
+            615,
+            1579
+          ],
+          "label": "text",
+          "text": "After the primaries we shall organize a colored County and Congressional Club for the purpose of getting together the Negro vote, and that class of Negroes who will not sell out for any price.\n\nIt shall be the purpose of the club to support and work for the election of men who stand for the unequivocal rights and privileges of all men and the just recognition of all."
+        },
+        {
+          "bbox": [
+            240,
+            1626,
+            618,
+            1877
+          ],
+          "label": "text",
+          "text": "Mr. Thomas Gibson and wife entertained Sunday afternoon at 5 o'clock by giving a luncheon in honor of the following guests:\n\nMesdames Walls, Lucia Smith and Young of St. Louis; Mrs. A. Brown and daughter of Chicago; Mrs. S. Davidson, Pearl Nelson, Ida Woods and Mary Workes of this city."
+        },
+        {
+          "bbox": [
+            255,
+            1930,
+            607,
+            1969
+          ],
+          "label": "paragraph_title",
+          "text": "N. POSKOVER"
+        },
+        {
+          "bbox": [
+            244,
+            2013,
+            619,
+            2057
+          ],
+          "label": "paragraph_title",
+          "text": "High Class Shoe Repairing"
+        },
+        {
+          "bbox": [
+            244,
+            2081,
+            619,
+            2182
+          ],
+          "label": "text",
+          "text": "And all kinds of Hand Made Shoes to Order\n\nShoes Made for Cripples at reasonable Prices"
+        },
+        {
+          "bbox": [
+            235,
+            2265,
+            619,
+            2780
+          ],
+          "label": "text",
+          "text": "KEEP COOL\nAT\nSouth End Ice Cream\n...Parlors...\nIce Cream and Cool Soft Drinks\nFISH A SPECIALTY\u2014SATUDAYS\nGive us a Call\n922 S. 18th St. (near P. G. Church)\nWARRICK & BARNETT, Proprietresses"
+        },
+        {
+          "bbox": [
+            320,
+            637,
+            540,
+            662
+          ],
+          "label": "paragraph_title",
+          "text": "LAST QUARTER"
+        },
+        {
+          "bbox": [
+            315,
+            2234,
+            548,
+            2265
+          ],
+          "label": "text",
+          "text": "110 N. 7th St."
+        },
+        {
+          "bbox": [
+            631,
+            376,
+            1006,
+            446
+          ],
+          "label": "text",
+          "text": "Hair braids made to order 2127 E. Kansas St. Prices reasonable."
+        },
+        {
+          "bbox": [
+            715,
+            502,
+            914,
+            532
+          ],
+          "label": "text",
+          "text": "AMERICAN"
+        },
+        {
+          "bbox": [
+            644,
+            708,
+            992,
+            752
+          ],
+          "label": "text",
+          "text": "Shampoo Soap"
+        },
+        {
+          "bbox": [
+            709,
+            792,
+            927,
+            819
+          ],
+          "label": "text",
+          "text": "25c a Jar and 25c a Cake"
+        },
+        {
+          "bbox": [
+            680,
+            859,
+            955,
+            882
+          ],
+          "label": "text",
+          "text": "For Sale by a'l Druggists"
+        },
+        {
+          "bbox": [
+            640,
+            921,
+            994,
+            954
+          ],
+          "label": "text",
+          "text": "Springfield, Illinois"
+        },
+        {
+          "bbox": [
+            641,
+            1035,
+            988,
+            1140
+          ],
+          "label": "text",
+          "text": "SPRINGFIELD CONSOLIDATED RAILWAY COMPANY"
+        },
+        {
+          "bbox": [
+            643,
+            1178,
+            994,
+            1654
+          ],
+          "label": "text",
+          "text": "City Car Service at Frequent Intervals to All Parts of the City\n\nKeep Cool by taking an Open Car Ride in the Evening to Mildred Park\nWASHINGTON PARK\nLINCOLN PARK or the Country Club\n\nWHITE CITY\nNow Open Every Day\nDANCING\nTuesday and Thursday Evenings &\nSunday afternoon and Evening\nMOVING PICTURES\nEvery Evening"
+        },
+        {
+          "bbox": [
+            660,
+            1685,
+            977,
+            1862
+          ],
+          "label": "text",
+          "text": "SPECIAL\nEVENING EXCURSIONS\nA 25 Mile Ride\nFor a 15c Fare\n\nFOR INFORMATION\nTel. Either Phone 1771"
+        },
+        {
+          "bbox": [
+            635,
+            1930,
+            894,
+            1952
+          ],
+          "label": "paragraph_title",
+          "text": "Meet Me at Irwin's Park"
+        },
+        {
+          "bbox": [
+            743,
+            1968,
+            1003,
+            1992
+          ],
+          "label": "paragraph_title",
+          "text": "Every Wednesday Night."
+        },
+        {
+          "bbox": [
+            629,
+            2023,
+            1007,
+            2425
+          ],
+          "label": "text",
+          "text": "The Terpischorean Dancing Club has commenced its regular weekly dances. Trains leave Illinois Traction Station at 6:00 p. m., 8:20 p. m. and 9:00 p. m., returning about 11:45 p. m. Round trip only 25c. Trains stop and tickets can also be purchased at Spring and Allen Streets. The dances are bigger and better than ever. Ladies admitted to dance hall free until further notice.\n\nCommittee Thos. Nix Jack Gray Bert Smith Rennick Vires"
+        },
+        {
+          "bbox": [
+            633,
+            2463,
+            1010,
+            2648
+          ],
+          "label": "text",
+          "text": "Mrs Dave Williams of Chatham entertained Mrs. Brown and daughter of Chicago Thursday evening, having a delicious sixo'clock dinner.\n\nToday is Saturday, pay for the Forum."
+        },
+        {
+          "bbox": [
+            1053,
+            204,
+            1786,
+            282
+          ],
+          "label": "paragraph_title",
+          "text": "From Union Comes Strength"
+        },
+        {
+          "bbox": [
+            1317,
+            325,
+            1793,
+            1009
+          ],
+          "label": "text",
+          "text": "No matter where you live\u2014or what you do\u2014you should investigate the many important advantages of membership in The International Liberty Union of the World. Over 1,000 Unions instituted\u2014more than 60,000 memberships issued\u2014now growing by leaps and bounds, and\n\nAn Injury to One is the Concern of All\n\nA small sum each month will carry a full membership with cash benefits for sickness\u2014according to $100,000 on deposit at State House to safe and guarantee fulfillment of contracts. A suitable loan, high or low. Beautiful Membership Certifi-FREE to members. The secret signs, grips, and you\u2014and gain you friends and assistance in many places. Your right to universal recognition, and enable you to com-mit. It will add to your standing and prominence in the com-mery way we guarantee satisfaction.\n\nRepresentatives Wanted\n\nOur friends during spare moments. No experience necessary liking. Makes it plain that every man and woman between their advantage to become members. It should aid you in live of this sound and substantial Union. Will pay you well\u2014st member from your community gets this appointment\u2014(coin or stamps) for Union Journal Magazine three months, ans for securing a Beneficial Protective membership with home office.\n\nNAL LIBERTY UNION\nTHE WORLD\nDayton, Ohio,\nU. S. A."
+        },
+        {
+          "bbox": [
+            1064,
+            576,
+            1758,
+            698
+          ],
+          "label": "text",
+          "text": "dents\u2014injuries and deaths. $100,000 on deposit at State House to safeguard members' interests and guarantee fulfillment of contracts. A suitable membership for every person, high or low. Beautiful Membership Certificate, suitable for framing, FREE to members. The secret signs, grips, and pass words, will protect your life\u2014you and your children\u2014and give you access to many places. Your Official Button will proclaim your right to universal recognition, and enable you to command and enjoy the respect of all. It will add to your standing and prominence in the community to be a member, and In every way we guarantee satisfaction."
+        },
+        {
+          "bbox": [
+            1151,
+            703,
+            1673,
+            728
+          ],
+          "label": "paragraph_title",
+          "text": "Member Representatives Wanted"
+        },
+        {
+          "bbox": [
+            1063,
+            737,
+            1765,
+            940
+          ],
+          "label": "text",
+          "text": "In every community to interest their friends during spare moments. No experience necessary as our literature does its own talking. Makes it plain that every man and woman between 15 and 60 will find it greatly to their advantage to become members. It should aid you in many ways to be the representative of this sound and substantial Union. Will pay you well beijing holding a good time. First member from your community gets this appointment\u2014SO HURRY. Write QUICK. Enclose 10c (coin or stamps) for Union Journal Magazine three months, and complete plans and directions for securing a Beneficial Protective membership with agency appointment. Address the home office.\n\nINTERNATIONAL LIBERTY UNION\nOF THE WORLD\n\n329 Union Temple, Dayton, Ohio,\nU. S. A."
+        },
+        {
+          "bbox": [
+            1317,
+            1910,
+            1793,
+            2147
+          ],
+          "label": "text",
+          "text": "ady and Webster"
+        },
+        {
+          "bbox": [
+            1059,
+            2308,
+            1754,
+            2622
+          ],
+          "label": "text",
+          "text": "If it is Tonsorial Work see the Line of Tonsorialists\n\nChair No. 1 John Davis, Chair No. 2 S. P. Webster, Chair No. 3 J. W. Grady, Chair No. 4. Prof. G. A Barksdale\n\nWe make a Specialty of Hair Cutting, Shampooing, Facial Massage and Bleaching\n\nE. H. Mitchell. Chiropodist H. Terrell, Shoe Shining Artist\n\n821 E Washington Street SPRINGFIELD, ILLINOIS"
+        },
+        {
+          "bbox": [
+            1030,
+            1007,
+            1409,
+            2048
+          ],
+          "label": "text",
+          "text": "AFTER TODAY YOU WILL FIND OUR BUSINESS HEAD QUARTERS AT 522\u00bd EAST ADAMS ST., OVER JEWELRY STORE, ROOM 4\n\nMrs. E. J. Cradd ek is much improved\n\nRem mber the Forum's Great Mid-Summer Political and Industrial Edition will be out August 27\n\nGet your cut and matter ready\n\nGrady"
+        },
+        {
+          "bbox": [
+            1533,
+            1009,
+            1689,
+            1038
+          ],
+          "label": "paragraph_title",
+          "text": "NOTICE"
+        },
+        {
+          "bbox": [
+            1415,
+            1086,
+            1791,
+            1417
+          ],
+          "label": "text",
+          "text": "DO NOT FAIL to get in our midsummer edition. Ads in the Forum brings results and that is what you want. We are running on our own merits. You people, and not us, are to be the judges. We are out regularly every Saturday and go in every corner of the city. We feel that the people get value received whey advertise with us. You know cream from sour milk, you are not fools. We want your assistance and can assist you."
+        },
+        {
+          "bbox": [
+            1440,
+            1478,
+            1767,
+            1662
+          ],
+          "label": "text",
+          "text": "CHAS. S. GIBBS\nAttorney and Counsellor\nat Law.\nNOTARY PUBLIC.\nOffice 2231 S. 5th St\nRear of White Dental Parlors.\nOld Phone 1963"
+        },
+        {
+          "bbox": [
+            1447,
+            1521,
+            1761,
+            1661
+          ],
+          "label": "text",
+          "text": "Attorney and Counsellor at Law.\nNOTARY PUBLIC.\nOffice 223 J S. 5th St\nRear of White Dental Parlors.\nOld Phone 1963"
+        },
+        {
+          "bbox": [
+            1417,
+            1720,
+            1793,
+            1910
+          ],
+          "label": "text",
+          "text": "You can purchase colored papers at Ousley's Restaurant, 819 E. Washington street; Thompson's store, 11th and Washington; Robert's Shoe Store, 1707 E. Capitol Ave; Union Grocery Store, 18th and Cass Sis. and at the Forum office, $305 \\frac{1}{2}$ So. 6th."
+        }
+      ]
+    }
+  ]
+}

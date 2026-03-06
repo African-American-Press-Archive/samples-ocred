@@ -1,0 +1,498 @@
+{
+  "page": 7,
+  "image": "images/page_07.jpg",
+  "width": 2048,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        206,
+        216,
+        553,
+        272
+      ],
+      "label": "paragraph_title",
+      "text": "SENATOR HAY ANNOUN CES."
+    },
+    {
+      "bbox": [
+        206,
+        216,
+        553,
+        272
+      ],
+      "label": "text",
+      "text": "SENATOR HAY ANNOUN CES."
+    },
+    {
+      "bbox": [
+        191,
+        316,
+        562,
+        991
+      ],
+      "label": "text",
+      "text": "Senator Logan Hay, in this is sue of our paper, makes his announcement for re-election as state senator from this, the 45th Senatorial district. He has served in this capacity for 4 years, during which time he was recognized as a man of sterling qualities, being chairman of important committees.\n\nAs a legislator he was authority on several important bills.\n\nHe is well known throughout Sangamon and Morgan counties and has always been looked up on as a man of the highest type and a good citizen.\n\nAs a candidate for reelection, he offers his record, his services rendered his constituents, his ability to fill the place, etc. as a sufficient guaranty of good faith.\n\nMr. Hay was formerly alderman from the 5th ward, serving until he moved into the 4th\u2014he is a lawyer of repute and stands for progressiveness He is too well known to need extenuated laudation."
+    },
+    {
+      "bbox": [
+        273,
+        1054,
+        478,
+        1083
+      ],
+      "label": "paragraph_title",
+      "text": "Doctor Ford"
+    },
+    {
+      "bbox": [
+        188,
+        1095,
+        561,
+        1444
+      ],
+      "label": "text",
+      "text": "Dr. N. 3. Ford will not be able to attend the National Medical convention, which is to be held at Washington, D.C., next week, beginning Monday, Aug. 22nd, on account of the illness of Mrs. Ford, who has been confined at St. John's hospital for one week. Dr. Ford regrets his inability to attend, as this is the greatest association of its kind in the world. The doctor has been a regular attendant at these conventions since the organization."
+    },
+    {
+      "bbox": [
+        189,
+        1505,
+        559,
+        1538
+      ],
+      "label": "paragraph_title",
+      "text": "H. Wilson and T. Lyon"
+    },
+    {
+      "bbox": [
+        186,
+        1578,
+        559,
+        1883
+      ],
+      "label": "text",
+      "text": "We unhesitatingly and unsparingly recommend to our readers, T. E. Lyon and Harry Wilson, and any other men who stand for the same ideals and measures that these men stand for and stood for while in the General Assembly; but not politically only, do we refer to their sterling qualities, but also as ordinary good citizens, who believe in rendering favors to a man on his merits, no matter who he is."
+    },
+    {
+      "bbox": [
+        232,
+        1952,
+        517,
+        1980
+      ],
+      "label": "paragraph_title",
+      "text": "Dunbar, the Poet"
+    },
+    {
+      "bbox": [
+        187,
+        2025,
+        558,
+        2295
+      ],
+      "label": "text",
+      "text": "Compliment paid by the Globe Democrat to Paul Laurence Dunbar, the Negro poet:\n\n\"He did that in his brief time which makes it certain that, could he have lived longer, the light that never was on sea nor land would have bathed him in whiteness. His shadow would have fled before the sun of his genius when at its zenith.\""
+    },
+    {
+      "bbox": [
+        203,
+        2356,
+        546,
+        2389
+      ],
+      "label": "paragraph_title",
+      "text": "Educate your Child."
+    },
+    {
+      "bbox": [
+        186,
+        2431,
+        562,
+        2780
+      ],
+      "label": "text",
+      "text": "We advise you to keep your children in school. Send them to the colleges and universities and business colleges. The day is at hand for colored men and women of accomplishments."
+    },
+    {
+      "bbox": [
+        577,
+        208,
+        945,
+        278
+      ],
+      "label": "paragraph_title",
+      "text": "Do You Think You Could do This?"
+    },
+    {
+      "bbox": [
+        572,
+        352,
+        943,
+        844
+      ],
+      "label": "text",
+      "text": "The Tuskegee Messenger tells of a colored woman in Macon county, Alabama, who raised 137 spring chickens this year, has 35 dozen eggs to be hatched, sold $8 worth of eggs and $3 worth of chickens, gave 6 chickens to the sick, has five acres of knee high cotton, two acres of corn and one acre of peas. She does all of her farm work herself except the plowing, cares for her two cows, does her own housework and makes 75c each week washing. and has enough spare time to lead in the church and entertain a large host of friends who visit her frequently. Her name is Mrs Irene Smith, and she lives at Zion Hill, Alabama. \u2014 Free man."
+    },
+    {
+      "bbox": [
+        573,
+        911,
+        938,
+        982
+      ],
+      "label": "paragraph_title",
+      "text": "Sunday Services at the Y.M.C.A."
+    },
+    {
+      "bbox": [
+        571,
+        1026,
+        943,
+        1489
+      ],
+      "label": "text",
+      "text": "At their new quarters, 8191 E. Washington Street the Y. M. C. A. held their first religious services Sunday at 4 p. m., with a large number present.\n\nDr. N. B. Ford was the orator of the occasion, but was only able to begin his speech and close, on account of the illness of his wife.\n\nScripture lesson was read and prayer offered by Rev. Jones of St. John's A. M. E. church. Remarks were made by Revs. H. Sallie and T. Price.\n\nTomorrow at 4 o'clock Bible services will be conducted by Dr, J. H. Magee."
+    },
+    {
+      "bbox": [
+        574,
+        1548,
+        942,
+        1615
+      ],
+      "label": "paragraph_title",
+      "text": "Services at St. Luke's Episcopal Church."
+    },
+    {
+      "bbox": [
+        570,
+        1624,
+        943,
+        1761
+      ],
+      "label": "text",
+      "text": "Confirmation services were largely attended at St. Luke's Episcopal church last Sunday. The services were beautiful and solemn, Bishop Osborne offiated."
+    },
+    {
+      "bbox": [
+        579,
+        1813,
+        905,
+        1841
+      ],
+      "label": "paragraph_title",
+      "text": "FOR COMMITTEEMAN"
+    },
+    {
+      "bbox": [
+        568,
+        1884,
+        942,
+        2118
+      ],
+      "label": "text",
+      "text": "Wm. L. Wright. 1720 East Reynolds St., a life long resident of this city and county, and a resident of the 2nd precinct of his ward, the First, for 15 years, is a candidate for committee man. He has been a loyal supporter of his party all of his life and now asks the support of his friends."
+    },
+    {
+      "bbox": [
+        627,
+        2171,
+        878,
+        2201
+      ],
+      "label": "paragraph_title",
+      "text": "Elkhart News."
+    },
+    {
+      "bbox": [
+        568,
+        2241,
+        946,
+        2780
+      ],
+      "label": "text",
+      "text": "Misses Hazel Davis and Minnie Smith were the guest of Miss Ethel Artis; of Elkhart, Ill., during last week.\n\nRev. H. Lackey and wife, of Lincoln, were the honored guests of Mr. Aartis and wife, last Friday the 12.\n\nF. Bass of this dity was the honored guest also of Miss Ethel Artis on last Sunday.\n\nMiss E. Artis had the great pleasure of visiting friends in Lincoln last Tuesday."
+    },
+    {
+      "bbox": [
+        1072,
+        243,
+        1577,
+        303
+      ],
+      "label": "paragraph_title",
+      "text": "GEM CAFE"
+    },
+    {
+      "bbox": [
+        953,
+        328,
+        1519,
+        1411
+      ],
+      "label": "text",
+      "text": "819 E. Washington St.\n\nIs Now Doing a Flourishing Business\n\nWe are striving to work this up to\nClass Place\n\nIce Cream Served Daily\n\nA meal with us will convince you\nsuperiority---Ladies Specially\nSpecial attention given Sunday o\nand visitors.\n\nG. E. OUSLEY\n\nLet us practice Eco-\nSobriety, Refinement and\nactuality--these three esses\nmake the man and the we\nPatronize the Firm\nadvertise."
+    },
+    {
+      "bbox": [
+        1135,
+        366,
+        1519,
+        1411
+      ],
+      "label": "text",
+      "text": "How Doing a Flourish Business\ndriving to work this up to\nClass Place\nThe Cream Served Day\nwith us will convince you\nty---Ladies Specially\nattention given Sunday o\nors.\nG. E. OUSLEY\n\nus practice Economy, Refinement and\nthese three esses\nthe man and the we\nronize the Firm\nse."
+    },
+    {
+      "bbox": [
+        976,
+        507,
+        1676,
+        583
+      ],
+      "label": "text",
+      "text": "We are striving to work this up to a First- Class Place"
+    },
+    {
+      "bbox": [
+        1058,
+        606,
+        1593,
+        652
+      ],
+      "label": "paragraph_title",
+      "text": "Ice Cream Served Daily"
+    },
+    {
+      "bbox": [
+        970,
+        606,
+        1680,
+        882
+      ],
+      "label": "text",
+      "text": "Ice Cream Served Daily A meal with us will convince you of our superiority---Ladies Specially Invited--- Special attention given Sunday customers and visitors. G. E. OUSLEY, Prop."
+    },
+    {
+      "bbox": [
+        966,
+        993,
+        1679,
+        1327
+      ],
+      "label": "text",
+      "text": "Let us practice Economy, Sobriety, Refinement and Punctuality--these three essentials make the man and the woman. Patronize the Firms that advertise."
+    },
+    {
+      "bbox": [
+        954,
+        1411,
+        1325,
+        1598
+      ],
+      "label": "text",
+      "text": "Hall For Rent\nI have a large hall 38x48, convenient for society, church or club meetings. Will fix up hall to suit tenant.\nJAS. B. BONDMAN.\n2204 E. Kansas St."
+    },
+    {
+      "bbox": [
+        954,
+        1548,
+        1322,
+        1598
+      ],
+      "label": "text",
+      "text": "JAS. B. BONDMAN.\n2204 E. Kansas St."
+    },
+    {
+      "bbox": [
+        1068,
+        1643,
+        1219,
+        1672
+      ],
+      "label": "paragraph_title",
+      "text": "Political"
+    },
+    {
+      "bbox": [
+        956,
+        1680,
+        1324,
+        1741
+      ],
+      "label": "text",
+      "text": "ANNOUNCEMENTS. (Continued from another page.)"
+    },
+    {
+      "bbox": [
+        953,
+        1775,
+        1325,
+        1923
+      ],
+      "label": "text",
+      "text": "FOR COUNTY CLERK\n\nI HEREBY announce myself as a candidate for county clerk, subject to the decision of the Republican primaries Sept. 15 1910.\n\nCHARLES W. BYERS"
+    },
+    {
+      "bbox": [
+        1050,
+        1963,
+        1234,
+        1987
+      ],
+      "label": "paragraph_title",
+      "text": "FOR SENATOR."
+    },
+    {
+      "bbox": [
+        956,
+        2017,
+        1325,
+        2111
+      ],
+      "label": "text",
+      "text": "I hereby announce my candidacy for the Repnbilcan nomination for state senator in the Forty-fifth senatorial district. LOGAN HAY."
+    },
+    {
+      "bbox": [
+        955,
+        2151,
+        1326,
+        2265
+      ],
+      "label": "text",
+      "text": "I hereby announce myself a candidate for the office of state senator from the Forty-fifth senatorial district of Illinois subject to the Republican primary election to be held Thursday, September 15:"
+    },
+    {
+      "bbox": [
+        995,
+        2263,
+        1241,
+        2285
+      ],
+      "label": "text",
+      "text": "LAWRENCE L FLINN."
+    },
+    {
+      "bbox": [
+        1018,
+        2337,
+        1269,
+        2419
+      ],
+      "label": "paragraph_title",
+      "text": "For Sheriff Wm. Childers"
+    },
+    {
+      "bbox": [
+        959,
+        2442,
+        1325,
+        2489
+      ],
+      "label": "text",
+      "text": "Republican candidate, election Sept. 15 1910."
+    },
+    {
+      "bbox": [
+        953,
+        2532,
+        1326,
+        2780
+      ],
+      "label": "text",
+      "text": "Subscribe for The Forum."
+    },
+    {
+      "bbox": [
+        1135,
+        2559,
+        1519,
+        2780
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```"
+    },
+    {
+      "bbox": [
+        1335,
+        366,
+        1710,
+        1417
+      ],
+      "label": "text",
+      "text": "a Flourishing\nness\nork this up to a First-\nPlace\nserved Daily\nconvince you of our\nSpecially Invited---\non Sunday customers\nDUSLEY, Prop.\n\nJustice Economy,\nment and Pun-\nthree essentials\nand the woman.\nthe Firms that"
+    },
+    {
+      "bbox": [
+        1343,
+        1417,
+        1710,
+        1491
+      ],
+      "label": "paragraph_title",
+      "text": "We want your patron- age"
+    },
+    {
+      "bbox": [
+        1339,
+        1511,
+        1709,
+        1564
+      ],
+      "label": "paragraph_title",
+      "text": "The Union Grocery Co."
+    },
+    {
+      "bbox": [
+        1335,
+        1598,
+        1707,
+        2001
+      ],
+      "label": "text",
+      "text": "Is a new enterprise, opened in the Colored center of the population and guarantees to sell as cheap if not a little cheaper than up town stores. Our service is good. Will you please call or telephone and let us have the next order? We are making places for your high school, business and college girls and boys\u2014see.\n\nOUR GOODS ARE FRESH DAILY\n\nThe Union Grocery Co\n\n18th and Cass Sts."
+    },
+    {
+      "bbox": [
+        1340,
+        2098,
+        1706,
+        2130
+      ],
+      "label": "paragraph_title",
+      "text": "REISCH BREWERY CO"
+    },
+    {
+      "bbox": [
+        1379,
+        2148,
+        1699,
+        2402
+      ],
+      "label": "text",
+      "text": "City Brewery Their Bottle Beer is Fine Bock's Special Can't be Beat Try it!"
+    },
+    {
+      "bbox": [
+        1335,
+        2463,
+        1710,
+        2780
+      ],
+      "label": "text",
+      "text": "For all kinds of Job work done, by the day or Contract, Call on, or telephone, Oscar Peandrews, 931 So. Pasfield St Tel, old: 4290"
+    },
+    {
+      "bbox": [
+        1447,
+        2022,
+        1590,
+        2048
+      ],
+      "label": "text",
+      "text": "Tel. Old 1849"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 2075,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        221,
+        181,
+        1747,
+        317
+      ],
+      "label": "doc_title",
+      "text": "THE FORUM"
+    },
+    {
+      "bbox": [
+        216,
+        398,
+        491,
+        430
+      ],
+      "label": "text",
+      "text": "Vol. 7. NO. 23."
+    },
+    {
+      "bbox": [
+        215,
+        456,
+        591,
+        494
+      ],
+      "label": "paragraph_title",
+      "text": "Hon. C. S. Deneen"
+    },
+    {
+      "bbox": [
+        211,
+        494,
+        599,
+        1198
+      ],
+      "label": "text",
+      "text": "Governor who may be Republican standard.bearer for another term, also a fit man for the Presidency."
+    },
+    {
+      "bbox": [
+        215,
+        1227,
+        584,
+        1296
+      ],
+      "label": "paragraph_title",
+      "text": "W. H. York to Give Piano Recital"
+    },
+    {
+      "bbox": [
+        211,
+        1346,
+        588,
+        1724
+      ],
+      "label": "text",
+      "text": "W. H. York, one of our most amiable young men, is to give a piano recital supplemented by other numbers from local talent. He will also defend the affirmative in a debate, \"Resolved, that the enslaved in the United States 1619 1865 was a blessing rather than a curse,\" while B. H. Bellamy will uphold the negative. This recital and program is given for the benefit of the Y. M. and Y. W. C. A. of Wilberforce University and will take place at Masonic Hall August 30. It promises to be a rare treat."
+    },
+    {
+      "bbox": [
+        215,
+        1766,
+        588,
+        1805
+      ],
+      "label": "paragraph_title",
+      "text": "MORTUARY."
+    },
+    {
+      "bbox": [
+        214,
+        1818,
+        594,
+        2473
+      ],
+      "label": "text",
+      "text": "MRS. BIRDSONG\n\nThe monster death knocked at the door of O. G. Birdsong and when admitted at 5:30 a.m. Monday, August 15th, bore away on the wings of death his beloved wife, Mrs. Fannie Maud Birdsong, aged 30 years.\n\nShe is survived by her husband, O. G. Birdsong, 3 sons and 2 daughters of this city, her parents John Harper and wife of Omstead. One brother, Edw. Five sisters. Mrs. Lena Hogan and Katie Harper of this city, Mrs. Oweal of Mound City and the Misses Bessie and Myra Harper.\n\nHer beloved husband, in his sad bereavement, has the heartfelt sympathy of all good people. He proved to be an ideal husband, as he fought heroically for the life of his wife (to whom he was much devoted) to the bitter end."
+    },
+    {
+      "bbox": [
+        211,
+        2510,
+        599,
+        2780
+      ],
+      "label": "text",
+      "text": "Mesdames Spiller and Fero are visiting friends in Indiana.\n\nC. F, White arrived here last week from the University of Pennsylvania, where he has been attending school."
+    },
+    {
+      "bbox": [
+        629,
+        465,
+        957,
+        497
+      ],
+      "label": "paragraph_title",
+      "text": "Old Settlers' Picnic"
+    },
+    {
+      "bbox": [
+        605,
+        546,
+        980,
+        619
+      ],
+      "label": "text",
+      "text": "The Old Settlers enjoyed their annual picnic at Irwin's Park last Thursday."
+    },
+    {
+      "bbox": [
+        605,
+        654,
+        979,
+        775
+      ],
+      "label": "text",
+      "text": "Mrs. Louisa Blakeman N. 2nd St. entertained Chicago guests Friday evening. Mrs. Blakeman served a unique four o'clock dinner."
+    },
+    {
+      "bbox": [
+        644,
+        820,
+        936,
+        847
+      ],
+      "label": "paragraph_title",
+      "text": "MATTOON NEWS"
+    },
+    {
+      "bbox": [
+        598,
+        902,
+        980,
+        2156
+      ],
+      "label": "text",
+      "text": "Sunday, August 14th will be a day long remembered at Davis' chapel God's Spirit was with us all day. In the afternoon about thirty-five communed one person was baptized and one read in the church. Rev. Cottman, presiding elder delivered sermons at each service. The afternoon service was an old time meeting and the shaking of hand. The collection excelled any of the preceeding quarterly meetings. May God's blessing be with Rev. Cooper for his earnest work and be with us again next year.\n\nMrs. Arthur Portee and daughter Ona of Charleston and guest Miss Leta Stokes of Danville spent Sunday in the city, the guests of Misses Iva and Zetta Smith.\n\nMrs. Mary Scott is improuing nicely after a few weeks illness.\n\nBe ready for the annual S. S. picnic on Labor Day.\n\nMr. and Mrs. Oscar Portee of Charleston and their guest Miss Jennie Portee of Shawneesown attended the quarterly meeting Sunday.\n\nThe lawn social given at the home of Mr. and Mrs. Charles Woodfork was quite a success.\n\nGrand Master George Jesse was in Danville Thursday.\n\nDon't forget Thursday, August 25, the Fair and musical at David's chapel.\n\nMiss Izetta Smith returned Sunday from Danville.\n\nMrs. Eliza Denning of Brookport passed through the city enroute to Indianapolis.\n\nMrs. M. M Nickens has returned home from Boston, Miss.\n\nMrs. Howard Brown and children of Charleston spent Sunday with Rev. and Mrs. Wm Lee.\n\nMrs. Asque of Charlesoon was a Sunday caller."
+    },
+    {
+      "bbox": [
+        700,
+        2197,
+        904,
+        2227
+      ],
+      "label": "paragraph_title",
+      "text": "City Locals"
+    },
+    {
+      "bbox": [
+        598,
+        2261,
+        983,
+        2780
+      ],
+      "label": "text",
+      "text": "According to reports the session of the U. B. F. and S, M. T's was a grand success in Peoria last week.\n\nTomorrow at 7:30 p. m. before the R. Y. P. U. at Zion Baptist church E. L. Rogers will read a short paper, subject, \"Christianity, What is it?\"\n\nMrs. Clark, a lady minister of the gospel from Missouai preached at Grace M. E. Church last Sunday and Tuesday evenings.\n\nRev. J. M. Smalley, wife and Miss Alice Giles left this week for Clarksville, Mo., to attend the M. E. district conference."
+    },
+    {
+      "bbox": [
+        997,
+        447,
+        1366,
+        518
+      ],
+      "label": "paragraph_title",
+      "text": "First Ward Committeemen."
+    },
+    {
+      "bbox": [
+        989,
+        562,
+        1367,
+        1159
+      ],
+      "label": "text",
+      "text": "There seems to be a general skirmish for Precinct Committee man in the Second Precinct of the First Ward, the famous \"black belt.\" To our knowledge there are 5 candidates. Conspicuous and well known among this galaxy of politicians is Attorney Chas. S.Gibbs. Mr.Gibbs made the race two years ago against Wm. Burton, who was elected.\n\nIn the Sixth Ward it is very likely that in the Fourth and Fifth Precincts there will be colored men out for the places, especially in the Fourth, another \"black belt.\" We commend these precincts and advise the colored men to a spire for these places and let the capable men take the initiative.\n\nThis is going to be an eventful campaign."
+    },
+    {
+      "bbox": [
+        990,
+        1219,
+        1357,
+        1259
+      ],
+      "label": "paragraph_title",
+      "text": "L. L. FLINN."
+    },
+    {
+      "bbox": [
+        987,
+        1316,
+        1371,
+        2303
+      ],
+      "label": "text",
+      "text": "Lawrence L. Flinn, a young man of sterling qualities a stanch Republican and a man of unstinted moral character is out for State Senator from this, the 45th Senatorial District, comprising the county of Sangamon and Morgan,\n\nMr. Flinn served 3 years as Alderman from the Fifth Ward and left at a time when the peo-\n\nLawrence L. Flinn."
+    },
+    {
+      "bbox": [
+        994,
+        2349,
+        1368,
+        2477
+      ],
+      "label": "paragraph_title",
+      "text": "Republican Candidate For State Senate from Forty-fifth Senatorial District."
+    },
+    {
+      "bbox": [
+        987,
+        2349,
+        1371,
+        2780
+      ],
+      "label": "text",
+      "text": "Republican Candidate\nFor State Senate from\nForty-fifth Senator-\nial District.\n\nple wanted his services continued\u2014the highest testimonial of a man's popularity and fitness for public service.\n\nHe showed, while Alderman, what manner of man he is, and"
+    },
+    {
+      "bbox": [
+        1375,
+        391,
+        1756,
+        1443
+      ],
+      "label": "text",
+      "text": "by his stand taken on the various public questions, emplanted into the people implicit confidence in as being not only a true and stanch Republican, but a fit man to represent his constituents. When a man \"makes good\" and is lauded and admired for what he did at one time, it stands to reason as a logical consequence, that, were he similarly placed in another public trust, like results would be obtained.\n\nTherefore, the Republican voters and the people in general, may feel that Mr. Flinn is preeminently capable of, and will, if nominated and elected, make a good and able Senator.\n\nMr. Flinn is a married man and resides at 1130 South Seventh Street.\n\nThis is a position where the man is, in every sense of the word, the true representative of the people; there are many things and much attention to be given the constituents. Mr. Flinn is an affable, brave courteous young man, who never shrinks from duty and always stands by his friends.\n\nIn this primary election he is running on his own merits. He is allied with no clique nor clan\u2014simply trying, honorably and fairly to be nominated as is his privilege and prerogative. We commend him to the voters and especially our readers and ask for him your consideration."
+    },
+    {
+      "bbox": [
+        1442,
+        1489,
+        1683,
+        1517
+      ],
+      "label": "paragraph_title",
+      "text": "Buffalo News"
+    },
+    {
+      "bbox": [
+        1375,
+        1531,
+        1751,
+        1771
+      ],
+      "label": "text",
+      "text": "James Watts, of Buffalo, Ill., entertained a number of guests at the residence of his parents Mr. and Mrs. Charles Watts Sat. Aug. 13th, in honor of his 19th birthday. A large number were present and a grand and glorious time was had by all who were present."
+    },
+    {
+      "bbox": [
+        1374,
+        1827,
+        1759,
+        2665
+      ],
+      "label": "text",
+      "text": "Atty. Williams attended the National Negro Business League Convert on this week in New York City.\n\nMrs. Etta Gibson was away last week attending the Grand Session of the Household of Ruth at Ruth at Metropolis. She also visited in Paducah, Kentucky.\n\nMiss Adams succeeds Miss Donaldson in The Forum office.\n\nWm Reddick and Robert Terrill were visitors to Chicago last Saturday and Sunday.\n\nWe are pleased to note that the Gem Cafe is a success, filling a long felt want.\n\nMessrs Frank Burns and Geoage Hastings of the Leland hotel are now assisting at Camp Deneen, Peoria, Ill.\n\nDo not forget that New Hope church gives its basket picnic tomorrow at Mildred,\n\nMr. and Mrs. Thos. Gibson were visitors at Peoria last Sunday and Monday.\n\nHear Prof. Geo-Jones, of wilberforce University in piano recital at masonic hall Tuesday, AUGUST 30 th"
+    }
+  ]
+}
