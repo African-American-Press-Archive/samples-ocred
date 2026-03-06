@@ -1,0 +1,2687 @@
+{
+  "issue": "iowa-bystander_1920-05-07",
+  "pages": [
+    {
+      "page": 1,
+      "image": "images/page_01.jpg",
+      "width": 2125,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            307,
+            205,
+            1692,
+            324
+          ],
+          "label": "doc_title",
+          "text": "THE BYSTANDER"
+        },
+        {
+          "bbox": [
+            151,
+            353,
+            320,
+            378
+          ],
+          "label": "text",
+          "text": "XXVI No.45"
+        },
+        {
+          "bbox": [
+            101,
+            419,
+            344,
+            497
+          ],
+          "label": "paragraph_title",
+          "text": "Farmer leaves $100,000."
+        },
+        {
+          "bbox": [
+            101,
+            419,
+            344,
+            497
+          ],
+          "label": "doc_title",
+          "text": "Farmer leaves $100,000."
+        },
+        {
+          "bbox": [
+            97,
+            505,
+            391,
+            694
+          ],
+          "label": "text",
+          "text": "BRENHAM, Tex. - The will of Miles Motly, nn aged farmer who recently died near Cdappell Hill has been wade public and discloses an estate to the value of $100, 000 half of which belonged to the deceased and half to his wife. He left his share to his wife."
+        },
+        {
+          "bbox": [
+            100,
+            729,
+            387,
+            763
+          ],
+          "label": "paragraph_title",
+          "text": "MAN RE:CUED FROM\nSLAVERY BY ATTONEY"
+        },
+        {
+          "bbox": [
+            95,
+            772,
+            388,
+            1006
+          ],
+          "label": "text",
+          "text": "JACKSON, Miss., April 8- Quite a sensation was sprung here when Perry W. Howard and W L. Moon, two race attorneys filed a petition for writ habeas corpus to rescue Dock Holloway from a delta planter, who had him in chains under arrest taking him back tothe Delta, under charge that he had jumped a contract Howard and Moon won the case, he Dock Holloway released and had Delta planter under arrest on a charge of peonage."
+        },
+        {
+          "bbox": [
+            103,
+            1022,
+            376,
+            1125
+          ],
+          "label": "paragraph_title",
+          "text": "THE FIRST ANNUAL BUSINESS MEETING CROCKER ST. BRANCH Y. M. C. A."
+        },
+        {
+          "bbox": [
+            91,
+            1133,
+            384,
+            1403
+          ],
+          "label": "text",
+          "text": "The first annual meeting of the Crocker St. Branch Y. M. C. A. will be help Saturbay evening, May 1st at Union Congregational Church, 10&Park S19. Every memder anb friend is askeb to de present. A chance to come anb express your views on the whole situation. The committee of management for the next year will de electeb dy all eligible memders. The meeting deigns promptly at 8:30 oclock."
+        },
+        {
+          "bbox": [
+            96,
+            1431,
+            276,
+            1447
+          ],
+          "label": "paragraph_title",
+          "text": "HITS OPERATION OF"
+        },
+        {
+          "bbox": [
+            92,
+            1447,
+            382,
+            1699
+          ],
+          "label": "text",
+          "text": "WASHINGTON SCHOOLS\nWashington, D. C., May 7.\u2014The dual system of control of Washington schools should be ended, and the colored schools should be operated independently of the white, declared John B. Larner, former member of the Board of Education, before the Senate investigating sub-committee. He said this would do away with many of the embarrassments now confronting the board, and declared that the colored people in the district were of an average high enough to run their schools efficiently without outside aid. Mr. Larner declared also that either the President or the District Commissioners should appoint the members of the Board of Education."
+        },
+        {
+          "bbox": [
+            94,
+            1713,
+            269,
+            1728
+          ],
+          "label": "paragraph_title",
+          "text": "FINED FOR HAVING"
+        },
+        {
+          "bbox": [
+            92,
+            1736,
+            381,
+            1870
+          ],
+          "label": "text",
+          "text": "COLored WITH\nRiehmond, Va., April 22.\u2014Fred Grant\nwhite and Carrie Fife-Grant, colored\nwere fined $50 each for living together.\nGrant is very white and Mrs. Grant is\nvery black. They were married in\nMaine some time ago. The Virginia law\nprohibits intermarriage but cannot pro-\nhibit colored and white while living to\ngether. They appealed the case."
+        },
+        {
+          "bbox": [
+            95,
+            1903,
+            270,
+            1917
+          ],
+          "label": "paragraph_title",
+          "text": "THE LATEST FARCE"
+        },
+        {
+          "bbox": [
+            92,
+            1920,
+            383,
+            2396
+          ],
+          "label": "text",
+          "text": "FROM THE Y. M. C. A. Cleveland, O.\u2014May 5, 1920\u2014Colored delegates attending the National convention of the Young Women's Christian Association in this city last week were all \"het up\" over the action of the committee in passing the \"buck\" to the Stattler hotel waiters for the committee's failure to stand firm when southern delegates objected to the presence of colored delegates at the annual banquet at Hotel Stattler. It is reported that the committee graciously told the Colored delegates that at the \"waiters at Hotel Stattler threatened to strike\" if Colored guests were brought to the banquet. The statement is so \"darned\" far-fetched and ludicrous that it will not bear investigation. Folks wonder if the officials concerned imagined that they \"bluffed\" the Colored delegates.\n\nThe action of the two big institutions\u2014Young Men's Christian Association and Young Women's, is becoming more ridiculous every day, as some new evidence of their scorn of Colored people is given. What little work they happen to do is being discounted by the unChristian attitude they assume. \"How long will these institutions continue to prostitute the word 'Christian' in their appulation,\" is the query most thinking Colored people are making."
+        },
+        {
+          "bbox": [
+            94,
+            2495,
+            385,
+            2649
+          ],
+          "label": "text",
+          "text": "Seated In First Balcony Buffalo, N. Y., Mav 7\u2014The Gayetty theatre paid over to Charles W. Brown $750 for refusing to seat him in the orchestra circle after he had purchased tickets. Mr. Brown entered suit on three accounts of $500 cach. $1,500 in all His attorney, R. E. Jacebson, pushed the case and the company was glad to compromise for one half."
+        },
+        {
+          "bbox": [
+            399,
+            408,
+            688,
+            484
+          ],
+          "label": "paragraph_title",
+          "text": "Presidential Candidates Dodge Questionnaire"
+        },
+        {
+          "bbox": [
+            391,
+            608,
+            688,
+            1228
+          ],
+          "label": "text",
+          "text": "New York City April 22.\u2014Fifteen of the seventeen presidential candidates fail eeplying to a questionnaire sent them by the N.A.A.C.P. on February 18 asked which colored people regard as fundamental-\n\nThe same questionare was sent them again on March 12th but only Senators Harding and Poindexter replied.\n\nPoindexter declared himself for the rights and the opportunities of all citizens reardless of color. Harding declared that he would stand solidly behind any platform that the convention made but would not answer the questions asked by the Association.\n\nThe questionaire asked, \"If elected president;\u20141 Will you favor laws making lynching a Federal offense? 2. What is your attitude against distranchisement of Americans of Negro descent? 3. Will you endeavor to bring about abolition of Jim Crow cars? 4. Will you with draw armed force Haiti? 5. Will you urge National aid for elementary education? 6. Will you pledge the proper ratio of Negro Soldiers and officers with armed forces of the United States? 7. Will you abolish racial prejudice in the Civil Service of the United States?\"\n\nHebert Hoover, Franklin Lowen Hiram Johason, General Wood and General Pershing were among the number who refused to answer the questionaire."
+        },
+        {
+          "bbox": [
+            457,
+            1247,
+            623,
+            1259
+          ],
+          "label": "paragraph_title",
+          "text": "---"
+        },
+        {
+          "bbox": [
+            462,
+            1269,
+            612,
+            1282
+          ],
+          "label": "paragraph_title",
+          "text": "V. W. G. A NOTES"
+        },
+        {
+          "bbox": [
+            390,
+            1284,
+            685,
+            1662
+          ],
+          "label": "text",
+          "text": "The girls work committee met Wednesday May 5 at the center.\nThe provisional committee meets, Thursday May 6.\nOn Monday evening, April 26 the \"Wide Awake\" corps of girl reserves gathered at the center in a farewell party in honor of one of their number in the person of Esther Stovall who left the city May 1. May of the mothers were special guests. The corps presented Esther with a girl reserve pin. A very happy evening was spent. We are all loathe to have Esther leave us and hope to meet her at the Y. W. C. A. camp.\nMrs. Clayda Williams Y W. C. A. National worker arrived in Des Moines Monday to spend one week putting on a recreational program at the Tenth street Y. W. C. A center. We hope to have Miss Williams meet all groups and committees while in Des Moines. Miss Virginia Robinson, secretary of the Tenth street center returned to her duties Tuesday after having spent a week at her home in Cleveland."
+        },
+        {
+          "bbox": [
+            395,
+            1674,
+            538,
+            1690
+          ],
+          "label": "paragraph_title",
+          "text": "A VISIT TO NEW"
+        },
+        {
+          "bbox": [
+            513,
+            1696,
+            679,
+            1710
+          ],
+          "label": "paragraph_title",
+          "text": "MUNICIPAL COURT."
+        },
+        {
+          "bbox": [
+            390,
+            1711,
+            681,
+            1897
+          ],
+          "label": "text",
+          "text": "A Bystander freeroster was taken through the new municipal court in a very interesting tour of inspection by Mrs. Mary Coalson, policewoman. Mrs. Coalson who has been her own private office in this building looks after scores of girls who have come under the surveillance of the police court. It is indeed gratifying to see a woman of our race holding such a responsible position and it is hoped that places will be found for other competent women in the future."
+        },
+        {
+          "bbox": [
+            453,
+            1917,
+            618,
+            1936
+          ],
+          "label": "paragraph_title",
+          "text": "WATERLOO ITEMS"
+        },
+        {
+          "bbox": [
+            391,
+            1944,
+            680,
+            2138
+          ],
+          "label": "text",
+          "text": "Services were well attended at Antioch Baptist church Sunday, Lie. Torpley preached in the morning and the pastor Rev. W, W. Ewing filled the pubil at the evening services.\n\nMrs. Leota Ewing spent two days in Des Moines attending the wedding of Miss Dorothy Quail and Werter Gross and attending the executive board meetings of the state and western convention.\n\nMrs. Will Jefferson cast seventh street is quite sick.\n\nMrs. Charles Campbell's father is vice pastor on Glendale street."
+        },
+        {
+          "bbox": [
+            391,
+            2195,
+            681,
+            2407
+          ],
+          "label": "text",
+          "text": "Mr. Mills one of Buxton's young men has moved to Waterloo and has opened up a confectionery store. We wish him success.\n\nMr. Charles Rhodes of Buxton was a visitor in our city Saturday and Sunday.\n\nThe church is planning a big rally and basket meeting of the third Sunday.\n\nRobert Potts who was seriously ill is out again.\n\nThe Mission circle of Antioch gave a fish fry last week and realized a neat sum."
+        },
+        {
+          "bbox": [
+            464,
+            2419,
+            609,
+            2435
+          ],
+          "label": "paragraph_title",
+          "text": "OSCEOLA ITEMS."
+        },
+        {
+          "bbox": [
+            392,
+            2448,
+            683,
+            2639
+          ],
+          "label": "text",
+          "text": "Mr. Robert D. Durr, representative and agent of the Bystander was in the city Thursday in the interest of his super and while in the city he called on the pastor. The ladies of the St. Paul A. M. E. church met last Thursday afternoon and organized a sewing circle the following officers were elected will be announced next week. Mrs. Lizzie Draden was a passenger to Des Moines Saturday morning to spend a few days with her son. Mr."
+        },
+        {
+          "bbox": [
+            705,
+            414,
+            1273,
+            647
+          ],
+          "label": "doc_title",
+          "text": "Official Program of the Iowa Federation Colored Womens' Clubs Held in Davenport Iowa May 24-25 and 26 19th Annual Session"
+        },
+        {
+          "bbox": [
+            695,
+            657,
+            987,
+            762
+          ],
+          "label": "text",
+          "text": "MEETINGS TO BE HELD AT\nBETHEL A. M. B. CHURCH,\nELEVENTH AND RIFFEY STS.\nBoard meetings 4 p. m., Y. W. C. A.\ncenter, 1522 Harrison street.\nMotto\u2014Sowing seeds of kindness; lifting\nas we climb."
+        },
+        {
+          "bbox": [
+            698,
+            819,
+            986,
+            859
+          ],
+          "label": "text",
+          "text": "Report of program committee\u2014Outlines\nheads of departments for en-\nsigning"
+        },
+        {
+          "bbox": [
+            744,
+            1104,
+            931,
+            1117
+          ],
+          "label": "paragraph_title",
+          "text": "Tuesday A. M.. May 25."
+        },
+        {
+          "bbox": [
+            693,
+            1124,
+            983,
+            1209
+          ],
+          "label": "text",
+          "text": "Devotional exercises\u2014Led by Chaplain\nMrs. Mary Baker, Buxton, Iowa.\nSong\u2014America.\nReport of Credential Committee\u2014By\nChairman, Mrs. Alberta Carter, Davenport."
+        },
+        {
+          "bbox": [
+            693,
+            1206,
+            981,
+            1248
+          ],
+          "label": "text",
+          "text": "Minutes of Board Meeting.\nReport of State officers\u2014District meet\nings"
+        },
+        {
+          "bbox": [
+            693,
+            1222,
+            981,
+            1265
+          ],
+          "label": "text",
+          "text": "Report of State officers\u2014District meet ings. Announcement of committees."
+        },
+        {
+          "bbox": [
+            691,
+            1263,
+            986,
+            1333
+          ],
+          "label": "text",
+          "text": "Paper \u2014 Parent Teacher's Association,\nMrs. Lillian Sillian, Des Moines, Iowa,\nMusic,\nTwo minutes talk from club presidents.\n(4) The Church and the Club."
+        },
+        {
+          "bbox": [
+            692,
+            1330,
+            987,
+            1457
+          ],
+          "label": "text",
+          "text": "(b) How Can I Serve My Club Successfully and Not Neglect My Home.\n(c) The Advancement of Colored People.\nPaper\u2014Delegate from F. B. W. club,\nBuxton, Iowa.\nAddress on Art.....Mrs. E. H. Hall\nPaper\u2014Delegate from P. L. O. club,\nMarshalltown, Iowa."
+        },
+        {
+          "bbox": [
+            750,
+            1470,
+            924,
+            1484
+          ],
+          "label": "paragraph_title",
+          "text": "Tuesday P. M. May 25."
+        },
+        {
+          "bbox": [
+            692,
+            1504,
+            982,
+            1608
+          ],
+          "label": "text",
+          "text": "Invocation\u2014Chaplain.\nRoll Call\u2014Quotations miscellaneous.\nPaper\u2014Delegate L. P. club, Oskaloosa.\nReport of Iowa Federation Home at Iowa City.\nBy state chairman of committee\u2014Mrs.\nH. Downey, Ottumwa."
+        },
+        {
+          "bbox": [
+            697,
+            1606,
+            981,
+            1632
+          ],
+          "label": "text",
+          "text": "By the secretary of committee\u2014Mrs,\nS. Young, Des Moines."
+        },
+        {
+          "bbox": [
+            694,
+            1628,
+            981,
+            1659
+          ],
+          "label": "text",
+          "text": "By the treasure of committee\u2014Mrs. J. McClain, Des Moines."
+        },
+        {
+          "bbox": [
+            691,
+            1690,
+            982,
+            1837
+          ],
+          "label": "text",
+          "text": "Mrs. E. Hicks, Mrs. M. Wright.\nPiano Solo\u2014Mrs. Alice Thompson, Muscatine, Iowa.\nDiscussion of Work of Committee\u2014By assembly.\nPiano Solo\nHis Alberta Robinson, Hoecking\nDiscussion of Plans, Rules and Regulations, Improvements, Finances.\nSelection of members of committee for L.E. home for ensuing year."
+        },
+        {
+          "bbox": [
+            690,
+            1836,
+            979,
+            1922
+          ],
+          "label": "text",
+          "text": "Roll call of clubs\u2014Respond with con-ribution for Iowa Federation home at Iowa City.\nReport of state chairman.\nHousehold Economics\u2014Mrs. M. Scott.\nDes Moines, Iowa."
+        },
+        {
+          "bbox": [
+            687,
+            1919,
+            982,
+            2259
+          ],
+          "label": "text",
+          "text": "Education\u2014Mrs. E. Gresham, Cedar Rapids, Iowa.\nTemperature\u2014Mrs. Delia Thomas, Albia, Paper\u2014Delegate, Institute club, Mason City, Iowa.\n\nJohn Draden left for Des Moines to join his wife and spend a few days visiting relatives and friends.\nMrs. Luhu Crews and daughter after spending two weeks with her father and mother Mr. and Mrs. George Jackson departed for home Monday morning.\nIf you have any news for the Bystander send them to the reporter before Tuesday morning news goes to press Tuesday afternoon of each week.\nOur regular Sunday service will be held at St. Paul A. M. E. church Sunday May 2 at 11 a. m. At 8:50 p. m. subject to serve God, Ruth 1-16. Night, Paul glorified in Christ, Romans 6:23. We invite all to both services."
+        },
+        {
+          "bbox": [
+            755,
+            2255,
+            902,
+            2268
+          ],
+          "label": "paragraph_title",
+          "text": "OSCEOLA ITEMS"
+        },
+        {
+          "bbox": [
+            689,
+            2270,
+            981,
+            2456
+          ],
+          "label": "text",
+          "text": "Mrs. Robert Harris was a passenger to Des Moines Monday morning to spend a few days with her sister and mother who has been teaching school in the southern state.\nMrs. Holder and Robert Harris visited i; Des Moines Wednesday and returned home on the afternoon train. Mrs. Harris also returned home.\nWe are expecting Mrs. Hazel Peniston the latter part of the week from Trenton, Mo. to join her husband, Mr. Milton Peniston in his new field of labor."
+        },
+        {
+          "bbox": [
+            689,
+            2455,
+            981,
+            2563
+          ],
+          "label": "text",
+          "text": "The pastor preached Sunday morning April25. Subject Christian armour, Romans 8:35. Service at 10:30 a. m. Chariton, Iowa at 8:00 p. m. subject, Christ crucified, 1 Corinthians 15:17. The Rystander representative was in Osceola Thursday to look after the interests of the paper."
+        },
+        {
+          "bbox": [
+            689,
+            2524,
+            982,
+            2563
+          ],
+          "label": "text",
+          "text": "The Rewstander representative was in Osceola Thursday to look after the institute."
+        },
+        {
+          "bbox": [
+            754,
+            2588,
+            917,
+            2604
+          ],
+          "label": "paragraph_title",
+          "text": "CLARINDA ITEMS."
+        },
+        {
+          "bbox": [
+            992,
+            660,
+            1286,
+            977
+          ],
+          "label": "text",
+          "text": "Tuesday Evening, May 25.\nPatriotic music.\nInvocation.\nMinutes of previous meeting.\nPiano Solo\u2014Miss Ruth Brown, Marshalltown, Iowa.\nPresident's Address\u2014Mrs. Martha P. White, Indianola, Iowa.\nPiano Solo\nMrs. Harry Stewart, Moline, Ill.\nReport of Scholarship and Loan Fund\u2014Mrs. H. Downey, Ottumwa, Iowa.\nPaper\u2014Delegate C. R. & B. club, Cedar Rapids, Iowa.\nPaper on Suffrage\nY. P. P. Club\nVocal solo\u2014Collection.\nAnnouncements.\n\nWednesday, A. M., May 26.\nFifteen minutes devotional.\nRoll call.\nMinutes of previous meeting."
+        },
+        {
+          "bbox": [
+            991,
+            971,
+            1286,
+            1182
+          ],
+          "label": "text",
+          "text": "Hands-on previews meeting.\nPaper\u2014Delegate, W. W. club, Hoeing, Iowa.\nMusic.\nClub reports.\nParliamentary Drill\u2014Mrs. Mattie Warrick, parliamentarian, Des Moines, Iowa.\nVocal Solo.....Mrs. Emma Harris\nReports of chairmen continued.\nSocial Service\u2014Mrs. Gus Nichols, Des Moines, Iowa.\nHealth\u2014Mrs. W. C. Marshall, Des Moines, Iowa.\nPaper\u2014Delegate from Washington, Iowa"
+        },
+        {
+          "bbox": [
+            993,
+            1181,
+            1283,
+            1270
+          ],
+          "label": "text",
+          "text": "Child Welfare\u2014Mrs. Maud Brewton,\nMason City, Iowa.\nCivics\u2014Mrs. Genevieve Phillips, Bux-\nton, Iowa.\nPaper \u2014 Health\nFrom Madam Walker Club"
+        },
+        {
+          "bbox": [
+            1033,
+            1276,
+            1240,
+            1292
+          ],
+          "label": "paragraph_title",
+          "text": "Wednesday P.M., May 26."
+        },
+        {
+          "bbox": [
+            990,
+            1366,
+            1281,
+            1390
+          ],
+          "label": "text",
+          "text": "Report of Music Chairman\u2014Miss Marie Williams, Cedar Rapids"
+        },
+        {
+          "bbox": [
+            992,
+            1443,
+            1222,
+            1488
+          ],
+          "label": "text",
+          "text": "Wooods, Les Monies, Iowa\nReport of auditing committee.\nReport of program committee.\nReport of finance committee."
+        },
+        {
+          "bbox": [
+            1018,
+            1495,
+            1242,
+            1510
+          ],
+          "label": "paragraph_title",
+          "text": "Wednesday Evening, May 26."
+        },
+        {
+          "bbox": [
+            989,
+            1558,
+            1280,
+            1700
+          ],
+          "label": "text",
+          "text": "Reading of minutes of previous meeting.\n\nVocal Solo\nMrs. Edith Stewart, Moline, Illinois\nViolin Solo\u2014Mrs. Johnnie Shaw, Des Moines, Iowa.\nReport of Statistician\u2014Mrs. Winnie Grey.\nVocal Solo\u2014Miss Marjorie Lee, Cedar Rapids, Iowa."
+        },
+        {
+          "bbox": [
+            987,
+            1694,
+            1285,
+            2535
+          ],
+          "label": "text",
+          "text": "Suffrage\u2014Miss Adah Hyde, Des Moines, Iowa.\nCollection from Glee Club.\nCollection.\nViolin and Piano Duett.....Mrs.\nMartha Hocker and Hert, Davenport Installation of officers\u2014Mrs. Gertrude Rush, Des Moines, Iowa, honorary president of I, F, C, W, C.\nVocal Solo\n.....Mrs. Clara Shepherd, Davenport Reading\n.....Mrs. Dr. Davis, Rock Island, II.\nVocal Duett\n.....Mrs. Leathea Culherson and Smith, Davenport Announcements.\nAdjournment.\nProgram committee\u2014Mrs. Mable Robinson, Hocking, Iowa; Mrs. Esther Stocker, Davenport, Iowa; Miss Lelia Downey, Ottumwa, Iowa.\n\nTo be very progressive. Among the business enterprises are the Busy Bee Hotel L. W. Williams Cafe and Hon. Carriers painting establishment. The two churches pastored by Rev. Reynolds and Mauley are lively up-to-date religious centers. At 12:30 Sunday I delivered a lecture at the Baptist church and afterward addressed the Sunday School at which I received noble tribute by Miss Vjola Walker, superintendent of the school, one that was magnificently rendered and very appropriate. Miss Walker will graduate this year at the high school of Clarinda. She is in high standing there with both white and black and is very promising leader for the future. One fact that the colored race should be proud of. The peacefulness of that city was marred by the death of Mrs. Heady, a very prominent matron of the Eastern Star of that city. A memorial was held by that chapter on the 24 inst which I attended.\n\nThe push and get-up these people must to have is quite inspiring to see. I must also say that I was cordially received at the Methodist church Sunday at which time the pastor gave me bis whole hour to deliver my address. Which everyone seemed to enjoy\u2014bidding the Bystander Godspeed and fervently exclaiming that we are going to make it the greatest paper in this country.\u2014Hurrah for Clarinda. Robert D. Durr, circulation department."
+        },
+        {
+          "bbox": [
+            1051,
+            2547,
+            1223,
+            2560
+          ],
+          "label": "paragraph_title",
+          "text": "* Worth While Habit*"
+        },
+        {
+          "bbox": [
+            991,
+            2564,
+            1281,
+            2628
+          ],
+          "label": "text",
+          "text": "\"It is worth a thousand pounds a year to have the labit of looking on the bright side of things.\"\u2014Samuel Johnson."
+        },
+        {
+          "bbox": [
+            1354,
+            2293,
+            1806,
+            2549
+          ],
+          "label": "text",
+          "text": "ATTORNEY JAMES B. MORRIS Wishes to announce that in connection with his law and real estate business, he is also writing all kinds of fire insurance, and is able to furnish his many friends with the best protection obtainable at a particularly low rate. Insure your house and furniture to-day."
+        },
+        {
+          "bbox": [
+            1358,
+            2547,
+            1804,
+            2573
+          ],
+          "label": "text",
+          "text": "Phone W. 718 907 Walnut St."
+        },
+        {
+          "bbox": [
+            1299,
+            418,
+            1586,
+            513
+          ],
+          "label": "paragraph_title",
+          "text": "Association would collect damages"
+        },
+        {
+          "bbox": [
+            1289,
+            569,
+            1586,
+            1004
+          ],
+          "label": "text",
+          "text": "New York, May 7, 1920.\u2014The National Association for the Advancement of Colored People, 70 Fifth avenue, New York, made public last night a telegram sent to Governor Robert A. Cooper of South Carolina, in which the Association suggests that all the power of the Governor's office be used to bring to trial the members of the mob which lynched George Robertson, Negro, on April 2, taking him from the Laursen county jail, and that the state legal department proceed against Laursen county under the provision of the state Constitution which provides for the collection of exemplary damages of not less than $2,000 to be paid in such cases to the legal representative of the person lynched.\n\nThe association in its telegram states that the suggested lines of action would letter lynching mobs and stimulate county authorities to proper protection of prisoners and would greatly encourage believers in law and order all over the country,\" and that due to South Carolina's comparatively favorable lynching record, it believes that the action suggested would be more possible in South Carolina than in many other States."
+        },
+        {
+          "bbox": [
+            1289,
+            1068,
+            1580,
+            1525
+          ],
+          "label": "text",
+          "text": "Where Contending For Delegates, Fight For Representation At National Convention May Lead To Bitterness And Splits. (Staff Correspondence)\n\nWashington, May 7.\u2014Though Leonard Wood, Herbert Hoover, Frank O. Lowden, Hiram Johnson and Harding have many supporters among the Colored leaders of the country, there seems to be lacking any great deal of enthusiasm for any of the candidates. Plains are being picked in the candidacy of each when it comes to the race.\n\nThe World War and its results, the growing consciousness of the race and a generally prevalent opinion that the Colored people should be treated as are other classes are factors in the lack of enthusiasm. That there will be strong BYSTANDER night MAY 5, 1920 demands made by the race at the approaching Republican National Convention for a declaration in favor of the war amendments and federal legislation against lynching is most uneasy. Out of the south comes rumors that the race political leaders there are fighting against \"illy white\" conditions within the state and against apparent disposition of Republican leaders to help the Negro."
+        },
+        {
+          "bbox": [
+            1289,
+            1281,
+            1581,
+            1526
+          ],
+          "label": "text",
+          "text": "The World War and its results, the growing consciousness of the race and a generally prevalent opinion that the Colored people should be treated as are other classes are factors in the lack of enthusiasm. That there will be strong BYSTANDER night MAY 5, 1920, demands made by the race at the approaching Republican National Convention for a declaration in favor, of the war amendments and federal legislation against lynching is most uneasy. Out of the south comes rumors that the race political leaders there are fighting against \"lilly white\" conditions within the party and against apparent disposition of Republican leaders to shelve the Negro."
+        },
+        {
+          "bbox": [
+            1336,
+            1528,
+            1529,
+            1541
+          ],
+          "label": "paragraph_title",
+          "text": "GEORGIA LEADS OFF"
+        },
+        {
+          "bbox": [
+            1286,
+            1542,
+            1579,
+            1903
+          ],
+          "label": "text",
+          "text": "The recent factional fight in Georgia for control of the party machinery there is one indication. There the faction led by Henry Lincoln Johnson and Benjamin J. Davis elected candidates to the Republican convention, as did also the \"billy whites\" led by Roscoe Pickett, white. Johnson was endorsed for Republican National Committeeman, it should be recalled, however that Johnson and Davis were the leaders in the movement which resulted in Capt. Judson H. Lyons, of Augusta, being displeased by a white man as national committeeman a few years ago.\n\nFIGHTING IN MISSISSIPPI, Perry W. Howard, of Mississippi, is in the race for national committeeman and his friends believe that he will be the first Colored representative from that state since the days of the late James Hill. There will be colored delegates from that state to Chicago. Walter L. Cohen will be one of the delegates from Louisiana, South Carolina will have a mixed delegation."
+        },
+        {
+          "bbox": [
+            1318,
+            1940,
+            1543,
+            1971
+          ],
+          "label": "paragraph_title",
+          "text": "Notice Subscribers"
+        },
+        {
+          "bbox": [
+            1285,
+            1987,
+            1576,
+            2182
+          ],
+          "label": "text",
+          "text": "The horrible explosion which occurred at the gas plant last week and which resulted in the loss of several lives, and thousands of dollars worth of damage to property has worked hardship on the newspapers as well. Owing to the fact that the melting pots on the line-type machines are heated by gas all the newspapers have been handicapped in their issues the past week. On this account the Bystander was forced to suspend publication last week. However the trouble was remedied in time for the Bystander to appear as usual."
+        },
+        {
+          "bbox": [
+            1287,
+            2181,
+            1578,
+            2223
+          ],
+          "label": "text",
+          "text": "We wish to thank the public for their patience and consideration during this suspension."
+        },
+        {
+          "bbox": [
+            1633,
+            361,
+            1842,
+            386
+          ],
+          "label": "text",
+          "text": "Price Five Cents"
+        },
+        {
+          "bbox": [
+            1589,
+            520,
+            1888,
+            1020
+          ],
+          "label": "text",
+          "text": "The M. E. General conference which convened in this city May 1 for a thirty day session is still another evidence of the well established place of Des Moines as a convention city.\n\nDelegates are in attendance from all parts of the globe and great questions of importance to the entire world will be threshed out here. There are nearly one hundred negro delegates present from all parts of the United States and two from Africa.\n\nPerhaps the most important questions to come up concerning the colored contingent are the unification of the North and South branches of the church which separated over the question of slavery over seventy years ago, and the election of a bishop to have episcopal supervision over the members of African descent in the Methodist Episcopal church. Much discussion is also expected to come up over the question of amusements that certain laws now in existence should be modified or removed.\n\nAn interesting fact of the conference is that one of the delegates in the person of Dr. Brooks of New York City, the only Negro member of his conference leads the delegation.\n\nIn connection with the other features of the conference a four weeks lecture course by a number of distinguished speakers will be held at the various churches."
+        },
+        {
+          "bbox": [
+            1645,
+            1032,
+            1822,
+            1062
+          ],
+          "label": "paragraph_title",
+          "text": "CONFERENCE NEWS Dr. Tindly Speaks"
+        },
+        {
+          "bbox": [
+            1589,
+            1064,
+            1882,
+            1339
+          ],
+          "label": "text",
+          "text": "Perhaps the most interesting figure in attendance at the M. E. general conference is Dr. C. A. Tindley of Philadelphia who is now pastor of the church of which he is formerly janitor Dr. Tindley who is an orator of the first rank has been widely sought during his stay at the convention. On last Sunday scores of people white and black visited from church to church hoping to hear Dr. Tindley. On Sunday night he was presented to the audience at the auditorium and at the close of his remarks, shouts of \"Go on!\" Go On!\" rang through the auditorium. Dr. Tindley lectured at the St. Paul's A. M. E. church Thursday night as the first number of the four weeks lecture course."
+        },
+        {
+          "bbox": [
+            1640,
+            1340,
+            1827,
+            1352
+          ],
+          "label": "paragraph_title",
+          "text": "REVIVAL CAMPAIGN"
+        },
+        {
+          "bbox": [
+            1587,
+            1353,
+            1881,
+            1716
+          ],
+          "label": "text",
+          "text": "The members of Asbury M. E. church are conducting services every evening in a tent at Seventh and Grand avenue, Rev. J. W. C. Coggin of Washington D.C will be the speaker. Good singing every night. Everybody welcome.\n\nASK FOR NEGRO BISHOPS.\n\nA resolution calling for the appointment of Negro bishops in the United States to have episcopal supervision over the 350,000 members of African descent in the Methodist Episcopal church was presented by the Rev. W. W. Lucas representing the conference favorably received.\n\nThe Freedman's Aid society in charge of Dr. I. Garland Penn conducted a Monday morning. The resolution was special program at the auditorium Thurs day afternoon. All of the colored delegates in attendance at the conference participated in the program. The Claflin university quintet rendered music. A number of delegates will fill pulpits in the various local churches both white and colored Sunday."
+        },
+        {
+          "bbox": [
+            1587,
+            1728,
+            1878,
+            1798
+          ],
+          "label": "doc_title",
+          "text": "Tindley of Philadelphia speaks for N. A. A. C. P"
+        },
+        {
+          "bbox": [
+            1587,
+            1805,
+            1880,
+            1959
+          ],
+          "label": "text",
+          "text": "The N. A. C. P. will hold a free public meeting at West high school auditorium at Fifteenth and Center street Dr. C. A. Tindley of Philadelphia, pastor of the largest congregation in Wednesday May 12, 1920, the state will give the principal address following the Prof. C. H. Kiah, principal of Princess Ann academy of Princess Ann, Mr. A musical program will be given by local talent."
+        },
+        {
+          "bbox": [
+            1687,
+            1978,
+            1784,
+            1992
+          ],
+          "label": "paragraph_title",
+          "text": "Y. M. C. A."
+        },
+        {
+          "bbox": [
+            1586,
+            1993,
+            1878,
+            2217
+          ],
+          "label": "text",
+          "text": "First annual meeting of the Crocker street branch of Y, M, C, A. to be held Saturday night, May 15.\n\nAll members and friends who received notification of our annual meeting which was to have been held Saturday night May 1 will kindly respond to same Saturday night, May 15. Letters were relayed at Post Office which prevented our meeting May 1 as scheduled. Every body who has a complaint or boost, is urgently requested to be present. Election of committee management will be held. Meeting will be called to order at 8:30 at Union Congregational church at Tenth and Park streets."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "image": "images/page_02.jpg",
+      "width": 2029,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            165,
+            181,
+            750,
+            224
+          ],
+          "label": "doc_title",
+          "text": "THE BYSTANDER"
+        },
+        {
+          "bbox": [
+            163,
+            233,
+            754,
+            428
+          ],
+          "label": "text",
+          "text": "Published every Friday by the Bystander Publishing Company Des Moines,\nIowa. Office in Chemical Building, Corner of Seventh and Mulberry streets.\nPhone Walnut 899.\nEntered at the Post Office of Des Moines, Iowa, as Second Class matter.\n\nEMERALD E. MASH ..... Managing Editor\n\nSUBSCRIPTION RATES:\n\nTo any part of the United States one year, postage paid ..... $1.50\nSix Months ..... .75\n\nADVERTISING RATES.\n\nDisplay, per inch ..... $.50\nReading Notices, per line ..... .10\nContract rates given upon applications.\nAll Advertisements paid for in advance."
+        },
+        {
+          "bbox": [
+            163,
+            468,
+            749,
+            504
+          ],
+          "label": "text",
+          "text": "Weekly news letters must be received not later than Wednesday of each week."
+        },
+        {
+          "bbox": [
+            174,
+            1348,
+            713,
+            1433
+          ],
+          "label": "doc_title",
+          "text": "How much should I give to make this a better world?"
+        },
+        {
+          "bbox": [
+            187,
+            1451,
+            684,
+            2332
+          ],
+          "label": "text",
+          "text": "ACERTAIN man in New York filled out his income tax report.\n\nIt showed an income so large that his tax was 53%. And his total gifts to church and charity for the year were $148.\n\nThink of it\u2014thousands spent for luxuries and pleasure for himself; and $148 to leave the world a little better than he found it!\n\nMost of us do better than that; but not so very much better.\n\nOur average daily gift for all church causes is\n\n\u2014less than we spend for daily papers\n\u2014less than a local telephone call\n\u2014less than a third of the day's car fare\n\u2014less than 3 cents a day\n\nNo wonder that 80% of the ministers of America are paid less than $20 a week. No wonder that the church hospitals turn away thousands of sick people a year. No wonder that China has only one doctor for every 400,000 people. No wonder that every church board and charity society is forever meeting deficits, forever passing the hat.\n\nIt isn't because we are selfish; it isn't because we don't want to help. It's just because no one has ever put up a great big program to us, and asked us to think of the work of the church in a systematic businesslike way.\n\nThe Interchurch World Movement represents the united program of thirty denominations. They have surveyed their whole task, no business could have done it better.\n\nThey have budgeted their needs; no business could have a more scientific budget. They have united to prevent the possibility of waste and duplication. At least a million dollars will be saved by the fact that thirty individual campaigns are joined in one united effort.\n\nAnd they come to the men or women who love America\u2014to you\u2014this week asking you to use them as the channel through which a certain definite part of your income can be be applied to make this a better world.\n\nOnly you can determine what part of your income that should be.\n\nIt's a good time right now to answer that question. We're passing through the world just once; how much better will the world be because you passed through?"
+        },
+        {
+          "bbox": [
+            189,
+            2456,
+            711,
+            2620
+          ],
+          "label": "text",
+          "text": "The INTERCHURCH World Movement of North America The publication of this advertisement is made possible through the cooperation of thirty denominations."
+        },
+        {
+          "bbox": [
+            205,
+            528,
+            414,
+            542
+          ],
+          "label": "paragraph_title",
+          "text": "MOTHER'S DAY. MAY 9."
+        },
+        {
+          "bbox": [
+            161,
+            554,
+            454,
+            808
+          ],
+          "label": "text",
+          "text": "Sunday May 9, is Mother's day. Let us all write her a letter, telling her of our love and deep appreciation, for all she has done for us. Also, whether at home or away, let us go to church, at least once on Sunday. If our mothers are alive, let us wear a red flower. If she is no longer alive, let us wear a white one. Let us do something for her, or do it in her name and to her memory. John D. Rochefeller, Jr. gave four million dollars to the Interchurch world Movement in honor of his mother. We cannot do such big things but we can do the little ones in a big way. Let us live as she lived and let us pray as she prayed."
+        },
+        {
+          "bbox": [
+            174,
+            843,
+            410,
+            860
+          ],
+          "label": "paragraph_title",
+          "text": "CURED HER FITS"
+        },
+        {
+          "bbox": [
+            145,
+            866,
+            440,
+            1059
+          ],
+          "label": "text",
+          "text": "Mrs. Fauir Gram, residing at 916 Fourth Street, Milwaukee, Wis., recently gave out the following statement: \"I had suffered with Fits (Epilepsy) for over fourteen years. Doctors and medicine did me no good. It seemed that I was beyond all hope of relief, when at last I secured a preparation that cured me sound and well. Over ten years have passed and the attacks have not returned. I wish everyone who suffers from this terrible disease would write to L. Lepso, 1941 Island Avenue, Milwaukee, Wis., and ask for a bottle of the same kind of medicine which he gave me. He has generously promised to send it prepaid, free, to anyone who writes him.\"\u2014Adv."
+        },
+        {
+          "bbox": [
+            460,
+            570,
+            757,
+            964
+          ],
+          "label": "text",
+          "text": "Mr. Idell Lewis of Peoria, Ill., is visiting at the parental B. T. Lewis home in Alba.\n\nMrs. Allie Bowman of Des Moines, is visiting her daughter, Mrs. Joe Hollingworth in Alba for a few weeks.\n\nThe Alba branch of the N. A. A. C. P. association to the number of about ten visited in Ottumwa on Thursday April 15 and reported a most delightful as well as instructive meeting of this organization. The Ottumwa branch of the N. A. A. C. P. association to the number of about thirty-five or forty visited in Alba on Thursday April 22. The Alba people prepared supper and lunch at the A. M. E. church, Mrs. E. Butler and Mrs. Charles Washington also a program by Alba Young people committee, and in which some of the Ottumwa talent took part. Speaker Rev. Edwadds, Mr. See. Recitation and piano recital by Miss Wilson. Also Ottumwa quartet. Amount of money receiver $30. We have a gang of colored sextons en the road in Alba.\n\nMr. Son Morris is working at the Alba Packing House."
+        },
+        {
+          "bbox": [
+            461,
+            960,
+            751,
+            987
+          ],
+          "label": "text",
+          "text": "Mr. Bernice Gordon errand boy at Hollingsworth Dry goods store."
+        },
+        {
+          "bbox": [
+            459,
+            983,
+            753,
+            1070
+          ],
+          "label": "text",
+          "text": "Still heavy rain falls and cold weather in this section. The Social Six, entertained Thursday night in the home of George Jones and wife on N. Seventh street as a farewell to Miss Doris Barquette of"
+        },
+        {
+          "bbox": [
+            817,
+            488,
+            1300,
+            639
+          ],
+          "label": "doc_title",
+          "text": "Now My Hair is Lovely!\""
+        },
+        {
+          "bbox": [
+            836,
+            678,
+            1280,
+            1046
+          ],
+          "label": "text",
+          "text": "\"When I think of the years I spent with coarse and stubborn hair that I could not dress and could hardly comb, I am filled with gratitude for Palmer's \"HAIR-SUCCESS\" Dressing, which has done so much to give me beautiful, soft; silky hair. I positively look like another person since using it.\"\n\nOf course you want beautiful hair. Your druggist will tell you that Palmer's \"HAIR-SUCCESS\" Dressing has been a standard article for many years, and that it is the best thing for the purpose he has ever handled. Go and ask him."
+        },
+        {
+          "bbox": [
+            830,
+            1308,
+            1298,
+            1395
+          ],
+          "label": "text",
+          "text": "Palmer's SKIN-SUCCESS Ointment\u201435c-75c Palmer's HAIR-SUCCESS Dressing\u201435c Palmer's SKIN-SUCCESS Soap\u201425c The Morgan Drug Co., Brooklyn, N. Y."
+        },
+        {
+          "bbox": [
+            761,
+            1447,
+            1058,
+            1908
+          ],
+          "label": "text",
+          "text": "Minneapolis, Supper cards and dineing and a jolly good time was the program of the evening.\n\nMiss Barrette left Friday for Minneapolis returning to service with the Minneapolis Athletic club where she has had employment for two years.\n\nRev, R. P, Palmer, of the Second Baptist church, trustees and members began their drive for $500.00 Tuesday morning. The amount raised to be used in the completion of their new church.\n\nSunday was rally day at the Second Baptist church. The sermons delivered by Rev. Palmer. The singing and the financial part went for the completion of the church and friends.\n\nSECOND BAPSTIST CHURCH DRIVE.\nRev, R. P, Palmer of the Second Baptist church and trustees will begin their drive for $500 Tuesday morning at 9 o'clock and will continue until aid amount is raised. This amount will be used for the completion of the new church on B. Avenue west.\n\nSunday May 2 is general rally day, $67 was raised Sunday April 25, by the members and friends in our afternoon meeting at the church. Many thanks to the pastor and members of the Shorty A, M. E, church for their co-operation. We hope to go over the top."
+        },
+        {
+          "bbox": [
+            825,
+            1922,
+            995,
+            1936
+          ],
+          "label": "paragraph_title",
+          "text": "MASON CITY ITEMS"
+        },
+        {
+          "bbox": [
+            763,
+            1965,
+            1062,
+            2501
+          ],
+          "label": "text",
+          "text": "Mr. Andrew Dammons is visiting friends in the south part of the state. The Social Evening club was entertained by Mr. and Mrs. Wingston and Mr. and Mrs. Harvey Spencer. They served light refreshments and later gave a very clever fortune telling sance. The Spencer Brothers are very busy on the foundation of a large new number vard. The Just Right club met with Mrs. Maude Brewton. A fruit shower was given for the Delta Sigma Theta girls of Iowa City. Miss Irma Caldwell has left for an her home in Minneapolis. Mrs. Vergil Warren is slightly under the weather. A very enjoyable Leap Year party was given by Mrs. Harvey Spencer adn Mrs. Ernest Gooden. The ladies for the evening usurped all the privileges generally granted to the men. The lovely home of the Goodens was most tastefully arranged for the occasion. A dainty luncheon was served at a late hour. Mr. Virgel recently sold his home in the southwest part of the city. The King's Daughters held their weekly meeting at the home of Mrs. Paul Scott. Miss Irma Calrwell has left for an indefinite stay in western Canada. Mrs. Maude Brewton was taken suddenly ill last Saturday and has been confined to her home ever since."
+        },
+        {
+          "bbox": [
+            767,
+            2498,
+            1061,
+            2528
+          ],
+          "label": "text",
+          "text": "Mrs. John Taylor is the new president of the Just Rite club."
+        },
+        {
+          "bbox": [
+            818,
+            2539,
+            1006,
+            2553
+          ],
+          "label": "paragraph_title",
+          "text": "NOTICE IN PROBATE."
+        },
+        {
+          "bbox": [
+            765,
+            2564,
+            1066,
+            2652
+          ],
+          "label": "text",
+          "text": "You are hereby notified to appear at the court house in Polk county, Iowa, or the 25th day of May, A. D. 1920, at 10 o'clock a. m., to attend the probate of an instrument purporting to be the last will, and testament of Robert"
+        },
+        {
+          "bbox": [
+            1061,
+            1455,
+            1352,
+            1570
+          ],
+          "label": "text",
+          "text": "Luce, deceased late of Polk county, Iowa, at which time and place, you will a hearer, and show cause, if any, why said will should not be admitted to probate. In witness whereof, I have hereunto set my hand and affixed the seal of the District Court, at Des Moines, this 26th day of April, A. D., 1920."
+        },
+        {
+          "bbox": [
+            1528,
+            161,
+            1790,
+            225
+          ],
+          "label": "doc_title",
+          "text": "ASPIRIN"
+        },
+        {
+          "bbox": [
+            1361,
+            319,
+            1648,
+            412
+          ],
+          "label": "text",
+          "text": "You want genuine Aspirin\u2014the Aspirin prescribed by physicians for nineteen years. The name \"Bayer\" means the true, world-famous Aspirin, proved safe by millions of people. (Perry)"
+        },
+        {
+          "bbox": [
+            1361,
+            411,
+            1941,
+            474
+          ],
+          "label": "text",
+          "text": "Each unbroken package of \"bayer\nTablets of Aspirin\" contains proper\ndirections for Colds, Headache, Tooth-\nache, Fever, Neuralgia, Lumbago,\nsell larger packages."
+        },
+        {
+          "bbox": [
+            1411,
+            472,
+            1912,
+            499
+          ],
+          "label": "text",
+          "text": "Earache, Neuritis\nAmuria is trade mark of Bayer Manufacture Mononectic acidester of Salicylic acid"
+        },
+        {
+          "bbox": [
+            1359,
+            766,
+            1644,
+            829
+          ],
+          "label": "text",
+          "text": "In the District Court of the state of\nTown, in and for Polk county, July\nterm, A. D., 1929.\nLillian Minor."
+        },
+        {
+          "bbox": [
+            1357,
+            896,
+            1646,
+            1136
+          ],
+          "label": "text",
+          "text": "You are hereby notified that the petition of the philipint in the above entitled cause is filed in the office of the clerk of the District Court of the state of Iowa, in and for Polk county, Iowa, claiming of you an absolute divorce from the band of marriancy on the grounds of desertion.\n\nFor further particulars see petition, and unless you appear thereto and defend before moon of the second day of the next term, being the July term of said court, which will commence at Des Moines, Polk county, Iowa, on the fifth day of July, 1920, default will be counted against you and judgment and decree rendered thereon."
+        },
+        {
+          "bbox": [
+            1434,
+            1135,
+            1629,
+            1177
+          ],
+          "label": "text",
+          "text": "his 61st day of May, 1920.\nGERTRUDE E. RUSHL\nAttorney for Plaintiff."
+        },
+        {
+          "bbox": [
+            1377,
+            1193,
+            1622,
+            1218
+          ],
+          "label": "paragraph_title",
+          "text": "CLASS \"B\" CASE ORIGINAL\nNOTICE"
+        },
+        {
+          "bbox": [
+            1359,
+            1222,
+            1645,
+            1282
+          ],
+          "label": "text",
+          "text": "In the Municipal Court of the City of Des Moines, Polk county, Iowa, fifth floor of Observatory Building Fourth and Locust streets."
+        },
+        {
+          "bbox": [
+            1359,
+            1346,
+            1647,
+            1593
+          ],
+          "label": "text",
+          "text": "To the above named defendant:\nYou are hereby notified that the plaintiff above named claims of you the sum of Fifty-three ($53.00) dollars, as justly due from you, from the 15th day of March, 1920, also legal attorney's fee, on account of money justly due and unpaid to plaintiff for unpaid house rent.\nFor further particulars see petition now on file.\nAnd that unless you appear in said court on the sixth day of May 1920, at nine o'clock in the forenoon of that day, and make defense to said claim, judgment will be rendered against you for that amount and costs."
+        },
+        {
+          "bbox": [
+            1358,
+            1586,
+            1646,
+            1642
+          ],
+          "label": "text",
+          "text": "Dated at Des Moines, Town, April 6,\n1920.\n\nJOHN L. THOMPSON.\nAttorney for Plaintiff."
+        },
+        {
+          "bbox": [
+            1653,
+            341,
+            1941,
+            412
+          ],
+          "label": "text",
+          "text": "generally\nAlways say \"Bayer\" when buying\nAspirin. Then look for the safety\n\"Bayer Cross\" on the package and on\nthe tablets."
+        },
+        {
+          "bbox": [
+            1724,
+            533,
+            1934,
+            560
+          ],
+          "label": "paragraph_title",
+          "text": "TUBERCULOSIS"
+        },
+        {
+          "bbox": [
+            1722,
+            563,
+            1933,
+            721
+          ],
+          "label": "text",
+          "text": "It was when physicians said it was impossible for J. M. Miller, Ohio Druggist to survive the ravage of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as A D D I LINE. An one with coughs showing tubercular tendency or your name and address in LUMBERS, ottio"
+        },
+        {
+          "bbox": [
+            1659,
+            749,
+            1931,
+            767
+          ],
+          "label": "paragraph_title",
+          "text": "POLITICAL ANNOUNCEMENTS."
+        },
+        {
+          "bbox": [
+            1651,
+            788,
+            1942,
+            1009
+          ],
+          "label": "text",
+          "text": "C. W. Rhonds candidate for county auditor, Twelve years deputy auditor, Subject to Republican primaries.\n\nJ. G. Cooke.\nJ. G. Cook, now first deputy county auditor, republican candidate for county auditor, Polk county, subject to June primaries. Your vote will be appreciated.\n\nJohn W. Stewart,\nJohn W. Stewart, for sheriff of Polk county, a friend of every man, rich or poor. Subject to Republican primaries."
+        },
+        {
+          "bbox": [
+            1731,
+            1005,
+            1864,
+            1017
+          ],
+          "label": "paragraph_title",
+          "text": "Charles Saverude."
+        },
+        {
+          "bbox": [
+            1655,
+            1017,
+            1940,
+            1048
+          ],
+          "label": "text",
+          "text": "Charles Saveride, Republican candidate for sherriff of Iolk county, Iowa"
+        },
+        {
+          "bbox": [
+            1729,
+            1057,
+            1865,
+            1069
+          ],
+          "label": "paragraph_title",
+          "text": "Homer Thompson"
+        },
+        {
+          "bbox": [
+            1653,
+            1070,
+            1941,
+            1149
+          ],
+          "label": "text",
+          "text": "Candidate for coroner, subject to Republican primaries. During the sickness and death of Claude Koons I did the work as a Justice of the Peace (substitute) and understand it thoroughly."
+        },
+        {
+          "bbox": [
+            1735,
+            1151,
+            1863,
+            1162
+          ],
+          "label": "paragraph_title",
+          "text": "W S Manbeck"
+        },
+        {
+          "bbox": [
+            1651,
+            1164,
+            1941,
+            1209
+          ],
+          "label": "text",
+          "text": "Vote for W. S. Manbeek for sheriff of Park county subject to Republican primaries June 7."
+        },
+        {
+          "bbox": [
+            1730,
+            1216,
+            1867,
+            1230
+          ],
+          "label": "paragraph_title",
+          "text": "W. M. Hammill."
+        },
+        {
+          "bbox": [
+            1653,
+            1232,
+            1941,
+            1352
+          ],
+          "label": "text",
+          "text": "W. M. Hammill announces his candidacy for county treasurer subject to Republican primaries June 7, 1920.\n\nJames B. Weaver\nI hereby announce my candidacy for reelection as state representative subject to the approval of the Republican voters of Poins county."
+        },
+        {
+          "bbox": [
+            1733,
+            1358,
+            1860,
+            1370
+          ],
+          "label": "paragraph_title",
+          "text": "F. R. BENNETT"
+        },
+        {
+          "bbox": [
+            1654,
+            1371,
+            1941,
+            1412
+          ],
+          "label": "text",
+          "text": "Candidate for County Treasurer of\nPolk county, subject to primaries June"
+        },
+        {
+          "bbox": [
+            1730,
+            1425,
+            1868,
+            1438
+          ],
+          "label": "paragraph_title",
+          "text": "E. A. Lingeufelter"
+        },
+        {
+          "bbox": [
+            1656,
+            1441,
+            1939,
+            1501
+          ],
+          "label": "text",
+          "text": "E. A. Lingenfelter candidate for election as state representative subject to Republican primaries June 7. Fifteen years practice of law in Des Moines, IA"
+        },
+        {
+          "bbox": [
+            1738,
+            776,
+            1855,
+            788
+          ],
+          "label": "paragraph_title",
+          "text": "C. W. Rhoads."
+        },
+        {
+          "bbox": [
+            1754,
+            841,
+            1846,
+            853
+          ],
+          "label": "paragraph_title",
+          "text": "J. G. Cooke"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "image": "images/page_03.jpg",
+      "width": 2094,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            98,
+            155,
+            386,
+            250
+          ],
+          "label": "text",
+          "text": "E. TRACY BLAGBURN CO.\nNotary Public\nBEAL ESTATE AGENT\nVacant Lots and Improved Property\n1627 Jefferson Ave. Phone Drake 774\nDes Moines, Iowa"
+        },
+        {
+          "bbox": [
+            90,
+            293,
+            388,
+            806
+          ],
+          "label": "text",
+          "text": "Attorney at Law and Notary Public Abstracts Examined, Real Estate for Sale.\n\n907 Walnut. Phone W. 6135\nAdv.\n\nCUT RATE DRUG CO.\nWillis Wolfe, Ph. G. Prop.\nVery Best Drugs in City\n1000 Center St. Des Moines, Iowa\n\nRooms to Rend by Day or Week.\nPhone Walnut 5779.\nHUSTLERS HOTEL AND CAFE\nMeals at all hours\nH. D. Williams, Prop.\nN. W. Corner W. 2nd & Chestnut Sts.\n\u00bdBlock N. Interurban Station,\nDes Moines, Iowa.\n\nJOHNSON'S CAFE\nMeals at All Hours\nPopular Prices\nMrs. Ethel Johnson, Prop.\n308 W. Grand Ave. Phone Wal. 3545.\n\nBERT JOHNSON,\nCleaner and Dyer\nCleaning, Pressing, Altering, Repairing\nWork Called for and Delivered.\nWe do first class work. Ph. Wal. 7374\n1108 Center St. Des Moines, Iowa"
+        },
+        {
+          "bbox": [
+            95,
+            963,
+            375,
+            1058
+          ],
+          "label": "text",
+          "text": "ATHLETIC BARBER SHOP\nHair Cutting by Electricity\nCigars and Soft Drinks\nShoe Shining\n919 Center\nO WELDON & STONE BROS., Props"
+        },
+        {
+          "bbox": [
+            155,
+            1076,
+            305,
+            1091
+          ],
+          "label": "paragraph_title",
+          "text": "C. M. E. CHURCH"
+        },
+        {
+          "bbox": [
+            85,
+            1094,
+            380,
+            1416
+          ],
+          "label": "text",
+          "text": "Question: Where do they worship?\nAnswer: In the Congregational church, northwest corner of Tenth and Park streets.\n\nLOOK FOR THE SIGN.\nWere you ever a member of this church? If so why not come and worship with us now? We ask all members and friends of the C. M. E. church to meet with us each Sabbath as we have a message from God to you.\u2014R. P. Tyler.\n\nA New Soft Water\nWet Wash\nPhone D. 572"
+        },
+        {
+          "bbox": [
+            105,
+            1447,
+            359,
+            1565
+          ],
+          "label": "doc_title",
+          "text": "Portia Robinson Hair Culturist and Manicuring"
+        },
+        {
+          "bbox": [
+            105,
+            1572,
+            359,
+            1643
+          ],
+          "label": "text",
+          "text": "Mme. C. J. Walker's System Residence Work a Specialty"
+        },
+        {
+          "bbox": [
+            105,
+            1573,
+            358,
+            1704
+          ],
+          "label": "text",
+          "text": "Mme. C. J. Walker's System\nResidence Work a\nSpecialty\nCall Walnut 6272\nResidence 853 6th Ave."
+        },
+        {
+          "bbox": [
+            95,
+            1744,
+            368,
+            1888
+          ],
+          "label": "text",
+          "text": "FOWLER BROS.\nFuneral Directors\n117 East Walnut Street\nPhone Maple 2548\nLADY ATTENDANT"
+        },
+        {
+          "bbox": [
+            96,
+            1812,
+            367,
+            1939
+          ],
+          "label": "text",
+          "text": "117 East Walnut Street\nPhone Maple 2548\nLADY ATTENDANT\nOur Motto is \"Service\""
+        },
+        {
+          "bbox": [
+            100,
+            1993,
+            361,
+            2230
+          ],
+          "label": "text",
+          "text": "THE FAMOUS\nIowa Cleaning Co.\nCleaning, Pressing\nand Repairing\nHats Cleaned and Re-blocked\nShining Parlors for\nLadies and Gents.\nAuto Delivery Service\n414 E.Walnut St. Phone M.462\nCHAS. O. WHITE, Mgr."
+        },
+        {
+          "bbox": [
+            104,
+            2059,
+            360,
+            2228
+          ],
+          "label": "text",
+          "text": "Cleaning, Pressing and Repairing\nHats Cleaned and Re-blocoded\nShining Parlors for\nLadies and Gents.\nAuto Delivery Service\n414 E.Walnut St. Phone M.462\nCHAS. O. WHITE, Mgr."
+        },
+        {
+          "bbox": [
+            171,
+            2268,
+            290,
+            2288
+          ],
+          "label": "text",
+          "text": "COME TO"
+        },
+        {
+          "bbox": [
+            84,
+            2298,
+            375,
+            2407
+          ],
+          "label": "doc_title",
+          "text": "McCree's Drug Store"
+        },
+        {
+          "bbox": [
+            84,
+            2415,
+            378,
+            2671
+          ],
+          "label": "text",
+          "text": "For\nCareful Prescription Service,\nMadam Walker's Hair Grower,\nKashmir Preparations,\nHigh Brown Goods, Black and\nWhite Preparations, and\nStraightening Combs. . .\nPrompt Mail Order Service.\n11th and Center St, Des Moines\nMarket 1485\nWADE H. McCREE\nPrescription Druggist"
+        },
+        {
+          "bbox": [
+            398,
+            166,
+            987,
+            274
+          ],
+          "label": "doc_title",
+          "text": "CITY NEWS"
+        },
+        {
+          "bbox": [
+            466,
+            213,
+            916,
+            267
+          ],
+          "label": "doc_title",
+          "text": "CITY NEWS"
+        },
+        {
+          "bbox": [
+            624,
+            286,
+            760,
+            300
+          ],
+          "label": "text",
+          "text": "By Ada F. Hyde"
+        },
+        {
+          "bbox": [
+            390,
+            344,
+            686,
+            1419
+          ],
+          "label": "text",
+          "text": "Mrs. Elhona Gresham, of Cedar Rapids grand register of deeds of the Court of Calanthe, arrived in the city Monday on business in connection with the grand court which convenes in this city, June 22. While here she is the guest of Mrs. S. B. Bryant, 1012 Eighth St. Miss Victoria Epperson, sister of Miss Pinkie Epperson left Friday, April 23 for a four months visit in West Virginia.\n\nMr. and Mrs. Wells of Moberly, Mo. are the house guests of Mrs. Chas. Wilson, 304 Arthur avenue\n\nMr. and Mrs. Sam Winnerow left Tuesday night to make their future home in Aitchison, Kansas, where he will enter the grocery business with his brother. They have resided in Des Moines for the past five years and have made many friends here who will regret their going.\n\nMr. A. A. Alexander left Monday night for a several days stay in Kansas City, Mo.\n\nMrs. Helen Ricks Merritt of Iowa Falls, Iowa, who was the house guest of Miss Adah Hydie left week returned to her home Saturday night. Miss Hyde invited a few friends to meet Mrs. Merritt Friday night.\n\nMr. H. E. Jacobs, 1238 Twentieth street is quite ill at his home.\n\nMrs. W. H. Lowery, who underwent an operation last week is rapidly recovering and is expected to leave the hospital this week.\n\nMrs. Louise Gray of Chicago arrived in the city Wednesday morning for a several week's visit with her father. Mr. Henry Clay, 1055 Seventeenth street.\n\nFriends in the city will be very sorry to learn that Mrs. William McGrander was taken to the Clarinda hospital for treatment last Tuesday. It is hoped that she will soon recover and be able to return to her home.\n\nMrs. Brown, coronetist and Mr. Anderson, trap drummer both of the Peek-A-Boo show and Mr. George Bell, noted violinist with Dysart's synecopated jazz orchestra were dinner guests of Mr. and Mrs. Raymond Dysart of 945 Fourteenth street Monday night.\n\nNOTICE.\n\nRev. Liles, pastor of Union Congregational church will preach at the morning services Sunday at 11 a.m. Vesper services will be held at 6:45 p. m.\n\nAMERICAN LEGION DANCE.\n\nLincoln post No. 126 of the American Legion will give a dance at Gibson hall, Seventh and Locust streets Friday evening, May 14, 1920. Music by Dysart's orchestra.\n\nMiss Virginia Robinson, secretary of the Tenth street branch Y, W. C. A. is spending a week's vacation with relatives and friends at Cleveland, O. Mrs. I. R. Willis is in charge of the center during her absence.\n\nMrs. May Pride and son, Mr. Fenton Pride of Chicago are visiting their mother and grandmother, Mrs. Charles Burnaugh of 1039 Thirteenth street."
+        },
+        {
+          "bbox": [
+            387,
+            1415,
+            680,
+            1593
+          ],
+          "label": "text",
+          "text": "Rev. G. W. Robinson spent several days this week in Kansas City.\n\nNOTICE.\n\nRev. E. A. Liles, pastor of Union Congregational church is quite ill and his pulpit will be filled Sunday by Rev. Redmond, a very able device from Cleveland, Ohio.\n\nMrs. Martha White of Indiana, state president of the Iowa Federation of Colored Women's club was in the city this week on a brief business for afternoon at off-court Saturday for"
+        },
+        {
+          "bbox": [
+            387,
+            1622,
+            678,
+            1689
+          ],
+          "label": "doc_title",
+          "text": "5 ROOM HOUSE FOR SALE"
+        },
+        {
+          "bbox": [
+            389,
+            1701,
+            676,
+            1737
+          ],
+          "label": "text",
+          "text": "Water and gas, Price $1700 $200\n'own $20 per month call:"
+        },
+        {
+          "bbox": [
+            391,
+            1920,
+            669,
+            2091
+          ],
+          "label": "text",
+          "text": "We arrange loans quickly and strictly privately on farnithre, pianos, and other personal property, without removal.\n\nPAY YOUR DEBTS with our money, and rep us in easy monthly payments. Write call or phone us for prompt, confidential and courteous service."
+        },
+        {
+          "bbox": [
+            394,
+            2218,
+            669,
+            2273
+          ],
+          "label": "text",
+          "text": "812 Century Bldg. Wal. 1456\n17 Wall Street Over Frankels'\nClothing Store."
+        },
+        {
+          "bbox": [
+            389,
+            2366,
+            677,
+            2400
+          ],
+          "label": "paragraph_title",
+          "text": "Loans from $15 to $300"
+        },
+        {
+          "bbox": [
+            390,
+            2410,
+            679,
+            2666
+          ],
+          "label": "text",
+          "text": "Money to any resident of this city on short time notice. Don't worry about security. Just prove to us that your intentions are right.\nPay in small monthly or week payments\nSee us today.\nM. ALIBER & CO.\n312-5 Utica Bldg.\nMarket 693"
+        },
+        {
+          "bbox": [
+            502,
+            1119,
+            571,
+            1131
+          ],
+          "label": "paragraph_title",
+          "text": "NOTICE."
+        },
+        {
+          "bbox": [
+            421,
+            1841,
+            638,
+            1906
+          ],
+          "label": "doc_title",
+          "text": "Do You Need Money?"
+        },
+        {
+          "bbox": [
+            427,
+            2177,
+            631,
+            2211
+          ],
+          "label": "text",
+          "text": "DES MOINES LOAN CO.\nEstablished 1904"
+        },
+        {
+          "bbox": [
+            688,
+            323,
+            989,
+            780
+          ],
+          "label": "text",
+          "text": "St. Louis where he is a delegate to the general conference of the A, M, E. church. Rev. Birt heads the delegation from his district.\n\nMrs. C, B. Lewis of Kansas City, Mo., spent several days in our city week before last.\n\nMr. George Edmonds has returned to Birmingham, Ala., after a several week's stay in Des Moines.\n\nMr. Avery Miller of Minneapolis spent several days last week with his sister, Mrs. Claude Harris. He was enroute home from Chicago where he went to bury his father.\n\nMiss Garnett Magee, a trained nurse of Chicago visited her sister, Mrs. Emerald Mush Saturday, April 24. Miss Magee is a visiting nurse for the city of Chicago.\n\nDr. Scott Chinn of Louisiana will deliver the morning sermon at the Corinthian Baptist church Sunday morning. Rev. G, W. Robinson and Rev. S. Bates spent a few days in Kansas City, Kan., this week on business.\n\nMr. Bert Patrick of Chicago, traveling representative for the Kashmir Chemical Co., was in our city last week.\n\nMrs. Arthur Esters was called to Alba, Iowa, last week on account of the illness of her nephew."
+        },
+        {
+          "bbox": [
+            689,
+            839,
+            985,
+            1010
+          ],
+          "label": "text",
+          "text": "An interesting wedding that took place on Palm Sunday March 28 was that of Mrs. Rhoda Fluelen and Mr. Colvin Howard. Rev. James Terrie grandson of the bride served as best man. The bride who came from Alabama about six months ago is the mother of Mrs. Retta Tounsse. The groom is a prominent citizen of Des Moines. They will be at home in the Keister Flats on West Eighteenth street."
+        },
+        {
+          "bbox": [
+            690,
+            1009,
+            985,
+            1216
+          ],
+          "label": "text",
+          "text": "ROOSEVELT CLUB ENTERTAINS\nOne of the most delightful affairs of the past week was the dancing party given by the Roosevelt club at Masonic ball Wednesday night. A large number of the friends of the club members enjoyed the dancing from nine until one. Dyarts Synecopated jazz orchestra furnished music for the dancing, Mr. Keckoon trap summer with the Peck-aboo band. A feature of the orchestra as well as the wonderful playing of George Bell, the noted violinist. Punch was survived throughout the evening."
+        },
+        {
+          "bbox": [
+            690,
+            1145,
+            986,
+            1259
+          ],
+          "label": "text",
+          "text": "Peck-aboo show was an interesting feature of the orchestra as well as the wonderful playing of George Bell, the noted violinist. Punch was served throughout the evening. Mrs. George Young entertained forty guests at a card party Tuesday afternoon at her home on Sixteenth street."
+        },
+        {
+          "bbox": [
+            687,
+            1221,
+            985,
+            1824
+          ],
+          "label": "text",
+          "text": "Mrs. George Young entertained forty guests at a card party Tuesday afternoon at her home on Sixteenth street. Eight tables were arranged for progressive whist, the prizes for which were won by Mrs. Colleen Jones, a sterling silver individual suit and pepper shaker for first prize, a cut glass berry bowl by Mrs. Azalia Mitchell for first prize and a candle holder and candle by Mrs. Harry Shaw for booby prize. At the close of the afternoon delicious sultana rolls, ice cream, angel food and sunshine cakes and coffee were served by the hostess, Mrs. Elnora Gresham of Cedar Rapids and Mrs. Pride of Chicago were out of town guests.\n\nBENEFIT CARD PARTY.\n\nThe young ladies of the Terpisciorian club gave a benefit card party at Musonie hall on Friday night April 30. An enjoyable time was had by those present although the attendance was not as large as had been hoped for. Progressive whist was played at coeve tables. The prizes for high scores were awarded to Mrs. Andra Alexander, set of salad forks and a box of cigars to Mr. Alex Corcloud, Mrs. Naomi Booker and Mr. Hal Estes received the booby prizes a bottle of toilet water and an ash tray. Punch was served during the evening.\n\nNOTICE.\n\nC. C. Johnson, G. C. for the Iowa jurisdiction A. F. and A M. will make official visits to the following lodges on the following dates, with Cedar Grove No 18 May 11, Marble Grove, No. 16, May 12, Golden Star, No. 4, May 12 Union No. 1, May 14."
+        },
+        {
+          "bbox": [
+            688,
+            1856,
+            983,
+            1912
+          ],
+          "label": "text",
+          "text": "Born to Mr. and Mrs. Joe Manning\na nine pound boy, William Manning.\nMrs. Mary Manning is now a smiling\ngrand mother."
+        },
+        {
+          "bbox": [
+            689,
+            1911,
+            982,
+            1966
+          ],
+          "label": "text",
+          "text": "To Mr. and Mrs. Geo, Hayes, 1:21\nPremont street a boy.\nTo Mr. and Mrs. Robert Redrick, 811\nSoutheast Tenth street a boy."
+        },
+        {
+          "bbox": [
+            685,
+            1998,
+            985,
+            2366
+          ],
+          "label": "text",
+          "text": "The Mary Church Terrell club met Monday night April 30 with Mrs. Johninie Shay on Chester ave. A very interesting meeting was held and Mrs. Edward Guerrero was admitted to membership. The next meeting will be Monday eight, May 3 with Mrs. J. B. Thompson, 2849 Forest drive.\n\nThe Calander club met Friday at the home of Mrs. Burdette, 1716 Walker street.\n\nThe Mary B. Talbert club will meet with Mrs. George Young on Sixteenth street, Tuesday May 4. All members are requested to be present. The club is planning to have a popularity contest May 10. The program will be announced later.\n\nAt the last meeting of the Callanan industrial club at the home of Mrs. R N. Hyde, Mrs. J. A. Jefferson and Mrs. Steward were elected delegates to the state federation\n\nThe club held a very successful dinner Monday at the home of the president, Mrs. R. N. Hyde."
+        },
+        {
+          "bbox": [
+            686,
+            2365,
+            987,
+            2650
+          ],
+          "label": "text",
+          "text": "POPULARITY CONTEST.\nThe Mary B. Talbert club will hold a popularity contest at the community center Monday night May 10. In connection with the contest the following program will be rendered.\nSelection, community center juvenile orchestra No. 2 solo, Mr. Edward Guerrero, instrumental solo, Miss Enola Thompson, reading, Mrs. Mary Woods, quartet under the direction of Miss Etchel Bowmer, trio, Mr. and Mrs. Jackson and Mrs. W. H. Hughes, vocal solo, Mrs. Anna Griffith, vocal solo, Mrs. Joburners Kelso. The fledging event of the evening will be the crowning of the most popular lady as the queen of May.\nThe Mary Church Terrell club met at the Y. W. C. A. center Monday night"
+        },
+        {
+          "bbox": [
+            777,
+            795,
+            900,
+            836
+          ],
+          "label": "paragraph_title",
+          "text": "SOCIETY.\nWEDDINGS.\nFluenc-Howard"
+        },
+        {
+          "bbox": [
+            799,
+            1710,
+            873,
+            1724
+          ],
+          "label": "paragraph_title",
+          "text": "NOTICE."
+        },
+        {
+          "bbox": [
+            800,
+            1840,
+            875,
+            1854
+          ],
+          "label": "paragraph_title",
+          "text": "BIRTHS."
+        },
+        {
+          "bbox": [
+            804,
+            1984,
+            863,
+            1997
+          ],
+          "label": "paragraph_title",
+          "text": "CLUBS"
+        },
+        {
+          "bbox": [
+            993,
+            164,
+            1294,
+            1004
+          ],
+          "label": "text",
+          "text": "with Mrs. Pearl Thompson as hostess, Mrs Colleen Jones was elected delegate to the Iowa State Federation of Colored Women's club at Davenport and Mrs. Emerald Mash was elected alternate, Plans were made for a musicale to be given in the near future.\n\nThe Booster club gave a program Wednesday night which was well rendered consisting of a solo by Mrs. Joe Perrine Kelso. Remarks by Hon. H. Wright and a paper by Mr. N. C. Marshall. After which refreshments were served to the wives and visitors.\n\nThe Intellectual Improvement club met Friday afternoon April 30 at the home of Mrs. S. Joe Brown, 1058 5 St. Mrs. S. Joe Brown, 1058 Fifth street. Mrs. Brown conducted the lesson on the suffrage outline. Mrs. Ralph Burnaugh was elected delegate and Mrs. William Bailey alternate to the Iowa state federation at Davenport.\n\nThe Mary B. Talbert club entertained their friends at the Y. W. C. A, center Friday night, April 30 at a leap year party. Quite a large number enjoyed the pleasant evening, Refreshments were served.\n\nThe regular meeting of the club was held Tuesday night at the home of Mrs."
+        },
+        {
+          "bbox": [
+            1105,
+            1016,
+            1178,
+            1028
+          ],
+          "label": "paragraph_title",
+          "text": "NOTICE"
+        },
+        {
+          "bbox": [
+            998,
+            1029,
+            1289,
+            1098
+          ],
+          "label": "text",
+          "text": "I wish to thank the Pan Des Meines\nclub and the Citizens clubs and the\nmany personal commendations for my\nwork as police woman,\u2014Mary Coal-"
+        },
+        {
+          "bbox": [
+            1017,
+            1109,
+            1264,
+            1122
+          ],
+          "label": "paragraph_title",
+          "text": "MERRITT RECITAL SUCCESS"
+        },
+        {
+          "bbox": [
+            995,
+            1123,
+            1290,
+            1349
+          ],
+          "label": "text",
+          "text": "The recital given by Mrs. Helen Rieks Merritt on Thursday Jevening April 22 at St. Paul's the Y, M, E, church, or the benefit of the A, W, W, C a summer camp, was a decided success. In quite of the inclevent weather a large crowd was in attendance and enjoyed the very excellent program, Mrs. Merritt who is a talented impersonator of child characters delighted her audience. The musical numbers of the various local talent were of very high character and reflected much credit on Des Moines. The proceeds of the entertainment made quite a good foundation for the camp fund"
+        },
+        {
+          "bbox": [
+            999,
+            1362,
+            1208,
+            1378
+          ],
+          "label": "paragraph_title",
+          "text": "CORINTHIAN BAPTIST"
+        },
+        {
+          "bbox": [
+            995,
+            1387,
+            1288,
+            1687
+          ],
+          "label": "text",
+          "text": "Rev, G. W. Robinson, D. D. Pastor\nRev, Scott Chinn, D D will deliver the morning sermon at Corinthian church tomorrow, Dr. Chinn is one of the lending ministers of the M. E. church. He's the one who led in the fight in the city of New Orleans against discrimination. You should and must hear him. The choir which is considered the best in the state will render the music.\nAll the visitors of the city are welcome to Corinthian. If you want to stay at home come to Corinthian. Just take any car and transfer to Ingersoll or Valley Junction, get off at Fifthth street, walk one block north.\nThe Claflin quartet will render a concert at Corinthian Monday night. This is considered one of the best groups of singers in America. You must hear them. Admission fifteen cents."
+        },
+        {
+          "bbox": [
+            995,
+            1685,
+            1286,
+            1900
+          ],
+          "label": "text",
+          "text": "THE COMMUNITY SERVICE BAND.\nThe Community service band made its initial appearance Sunday afternoon by furnishing music for the Knights of Cythians anniversary. The band did credit to the occasion and handed the garride in excellent order. Des Moines has been without the services of a collared band four years and the absence of an organization of this kind has been keenly felt when occasions demanded music. Let every organization in the city remember the community service band and give the boys a chance to show their good work."
+        },
+        {
+          "bbox": [
+            1084,
+            1913,
+            1187,
+            1926
+          ],
+          "label": "paragraph_title",
+          "text": "OBITUARY."
+        },
+        {
+          "bbox": [
+            994,
+            1926,
+            1286,
+            2413
+          ],
+          "label": "text",
+          "text": "William Robert Drew born in Charlottesville, Albamare county, Virginia January 3, 1863 died May 3 1920 age 66 years and four months.\nWe can only repeat with the Holy writ that \"In the midst of life we are in death.\"\nBrother Drew was a man of a loveable and peaceful disposition and a good husband, a loving father, a devoted brother. He always provided for his family.\nBro. Drew was installed as a trustee of St. Paul A. M. e church March 7, 1920. He expressed himself as having learned to love his work in so short a time. We believe Bro. Drew was installed in Glory May the 3 Just.\nHe leaves to mourn his death one sister, five nephews, four nieces and a host of friends.\nWeep not for a brother deceased.\nOur loss is his infinite gain\nA soul out of prison released\nAnd freed from its bodily chain.\nWith song let us follow his flight\nAnd mount with his spirit above\nEscape to the mansion of light\nAnd lodged in the Eden of love.\nThere all the ship's company meet\nWho sailed the Savior beneth\nWith shouting each other to greet"
+        },
+        {
+          "bbox": [
+            994,
+            2406,
+            1289,
+            2579
+          ],
+          "label": "text",
+          "text": "With triumph o'er sorrow and death.\n\nTThe voyage of life at an end\nThe mortal collection is passed\nThe age that in heaven they spend\nForever and ever shall last.\nMrs. Emma Pittman wife of Edward W. Pittman died Wednesday night at her home, 927 Twelfth street. She was fifty-one years of age.\nNo definite arrangements have been made for the funeral."
+        },
+        {
+          "bbox": [
+            1059,
+            2588,
+            1226,
+            2600
+          ],
+          "label": "paragraph_title",
+          "text": "CARD OF THANKS"
+        },
+        {
+          "bbox": [
+            996,
+            2600,
+            1294,
+            2646
+          ],
+          "label": "text",
+          "text": "We wish to thank you for the kindness of your notices and through the columns of your valuable paper we wish"
+        },
+        {
+          "bbox": [
+            1600,
+            161,
+            1898,
+            390
+          ],
+          "label": "text",
+          "text": "race in Fort Dodge. Two amusement gardens, employing colored waitress. The Green Mill gardens and the Crystal gardens.\n\nThose employed at the Green Mill gardens are, Mrs. Fred Coleman, Mrs Ressjie Turner, Mrs. Thelma Jackson and Mrs. Ella Medley.\n\nThose employed at the Crystal gardens are, Mrs. Myrtle Coffman, Mrs. George Perkins, Mrs. Nannie Owens, Mrs. Goldie Tolliver.\n\nMrs. Clearance Dishman is indesposed.\n\nServices were well attended at both Baptist and A. M. E. churches Sunday."
+        },
+        {
+          "bbox": [
+            1598,
+            452,
+            1894,
+            836
+          ],
+          "label": "text",
+          "text": "[Rev. H. C. Calybrook.]\nGreat spiritual awakening at Bethel A M E church East Des Moines, Iowa. Rev. S. C. Crutcher, world wide evangelist, born in the state of Tennessee was educated at Lineino institute, Jefferson City and Wilberforce university, Mr. Crutcher has spent ten years in Europe and South Africa as an evangelist and missionary to the Zulus and also labored extensively in America and in Canada. He has travelled by land and sea more miles perhaps than any evangelist of his race. His preaching is mostly Bible stories with power and has led thousands to Christ, in many lands and countries. He labors among both white and black people, small as well as large churches with same good effect. The first night Rev. Crutcher started preaching at Bethel there was one convert. He preaches the gospel. The attendance has increased from the first night wonderfully. There has been a good number reclaimed and joined the church. The spiritual tide ran high all day Sunday. There were eight up for prayer Sunday evening."
+        },
+        {
+          "bbox": [
+            1599,
+            834,
+            1896,
+            878
+          ],
+          "label": "text",
+          "text": "You are cordially invited to attend the services. Song and praise service begin at 7:30 p. m."
+        },
+        {
+          "bbox": [
+            1588,
+            1140,
+            1887,
+            1181
+          ],
+          "label": "text",
+          "text": "We have a large number of places for sale and houses to rent."
+        },
+        {
+          "bbox": [
+            1320,
+            1286,
+            1868,
+            1328
+          ],
+          "label": "doc_title",
+          "text": "Soething You Can Call Your Own"
+        },
+        {
+          "bbox": [
+            1443,
+            1340,
+            1867,
+            1643
+          ],
+          "label": "text",
+          "text": "siness Worth While:\nThe American Co-operative Investment Co. has been in operation over six months, and has shown by its word that colored people can do business collectively.\n\nNow that spring has come business will be better than ever. Besides your trade we are anxious to interest you in promoting the Company. Stock may be purchased at ten dollars per share.\n\nWhen visitors come to town you point this place out one of the coloured business houses of Des Moines The purchase by you of one or more shares of stock will enable you to say \"our business\" and a real credit to Des Moines"
+        },
+        {
+          "bbox": [
+            1390,
+            1653,
+            1711,
+            1673
+          ],
+          "label": "paragraph_title",
+          "text": "You Can Do Your Part By:"
+        },
+        {
+          "bbox": [
+            1323,
+            1679,
+            1863,
+            1821
+          ],
+          "label": "text",
+          "text": "Phoning or writing for information about stock, by telling others of the business and by trading at the store. American Co-operative Investment Co. Inc. 919 Center Street Des Moines, Iowa"
+        },
+        {
+          "bbox": [
+            1484,
+            1781,
+            1697,
+            1821
+          ],
+          "label": "text",
+          "text": "919 Center Street\nDes Moines, Iowa"
+        },
+        {
+          "bbox": [
+            1324,
+            1871,
+            1863,
+            1983
+          ],
+          "label": "text",
+          "text": "JOHN L. THOMPSON\nATTY.-AT-LAW\nREAL ESTATE A SPECIALTY\nBuy Sell and Rent Property\nRoom 202 Watrous Block 6th and Mulberry"
+        },
+        {
+          "bbox": [
+            1300,
+            2033,
+            1879,
+            2169
+          ],
+          "label": "text",
+          "text": "AGENTS. WANTED!\n$3 to $12 Per Day made selling PROF. KELLY MILLER's new\nProgress of Colored People\nTeachers, students, male or female, ministers, widows, married women, any one with spare time, can\nmake $1 per hour. Everybody buys; it's easy to sell. Send for terms and outfit at once; act today.\nAUSTIN JENKINS COMPANY, 525 Ninth Street WASHINGTON, D.C."
+        },
+        {
+          "bbox": [
+            1299,
+            2085,
+            1878,
+            2168
+          ],
+          "label": "text",
+          "text": "$3 to $12 per Day made selling PROF. KELLY MILLER's new Progress of Colored People Teachers, students, male or female, ministers, widows, married women, any one with spare time, can make $1 per hour. Everybody buys; it's easy to sell. Send for terms and outfit at once; act today. AUSTIN JENKINS COMPANY, $25 19th Street WASHINGTON, D.C."
+        },
+        {
+          "bbox": [
+            1363,
+            2315,
+            1850,
+            2382
+          ],
+          "label": "text",
+          "text": "Has re-organized The Fastest Colored Ball Club in the State of Iowa"
+        },
+        {
+          "bbox": [
+            1300,
+            2425,
+            1901,
+            2620
+          ],
+          "label": "text",
+          "text": "We fill engagements for Home Comings Carnivals or any kind of Attraction with a clean Exhibition.\n\nAddress all Communications To:\nM. J. Bradford, Manager. 757 West 9th Street\nDES MOINES, IOWA"
+        },
+        {
+          "bbox": [
+            1301,
+            162,
+            1596,
+            372
+          ],
+          "label": "text",
+          "text": "to express to all of our many acquaintances and friends our fervent thanks and deep appreciation for all kinds of offices shown and services rendered and the splendid floral tributes, telegrams, letters and messages received on the sad occasion of the death of the late Louisa B. Foster. In this irreparable less we have found consolation in the remembrance of these friends. The list is long and the names are numerous. Please accept these words of thanks from our humble hearts in this hour of our continued deep grief\u2014C. R. Foster and family, Buxton, Iowa."
+        },
+        {
+          "bbox": [
+            1363,
+            385,
+            1529,
+            399
+          ],
+          "label": "paragraph_title",
+          "text": "CARD OF THANKS"
+        },
+        {
+          "bbox": [
+            1297,
+            402,
+            1595,
+            628
+          ],
+          "label": "text",
+          "text": "Mr. Frank Scott one of our beloved citizens passed away Friday April 23, 1920. He was well known in the city having resided here for ten years. He was always willing to help in the uplift of his race was a true born Christian and we all hope to meet him in the great beyond. We wish to extend thank to the K. of P. lodge for their kindness and floral offering and also the many friends for their kindness and floral offerings. Interment was made Sunday April 25 in Glendale cemetery.\u2014Mrs. Jannie L. Scott his wife, Mr. Harry J. Scott, his son, Misses Minnie L. and Harriet S. B. Jones, neices."
+        },
+        {
+          "bbox": [
+            1362,
+            643,
+            1526,
+            657
+          ],
+          "label": "paragraph_title",
+          "text": "FT. DODGE ITEMS."
+        },
+        {
+          "bbox": [
+            1297,
+            657,
+            1591,
+            882
+          ],
+          "label": "text",
+          "text": "Mrs. E. Washington of St. Joseph,\nMo., is playing with the Perkins or\norchestra at the Green Mill Gardens.\nMr. and Mrs. G. Taylor of Boone,\nIowa were the guests of Mr. and Mrs.\nFred Coleman for four days left Wed-\nnesday for Los Angeles, California\nwhere they will make their future home.\nMrs. L. Watson is sick.\nMr. and Mrs. Butchere was called\nto St. Joseph, Mo., to the bedside of\nhis mother who is very ill.\nMrs. L. Blair and children of St. Paul\nMinnesota are visiting her sister, Mrs.\nFrank Hill.\nOpportunities are very good for the"
+        },
+        {
+          "bbox": [
+            1321,
+            1966,
+            1513,
+            1982
+          ],
+          "label": "text",
+          "text": "Room 202 Watrous Block"
+        },
+        {
+          "bbox": [
+            1635,
+            429,
+            1853,
+            445
+          ],
+          "label": "paragraph_title",
+          "text": "BETHEL A. M. E. CHURCH"
+        },
+        {
+          "bbox": [
+            1673,
+            1199,
+            1806,
+            1217
+          ],
+          "label": "text",
+          "text": "Phone W. 6254"
+        },
+        {
+          "bbox": [
+            1730,
+            1966,
+            1862,
+            1983
+          ],
+          "label": "text",
+          "text": "6th and Mulberry"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image": "images/page_04.jpg",
+      "width": 2066,
+      "height": 2800,
+      "regions": [
+        {
+          "bbox": [
+            223,
+            220,
+            445,
+            262
+          ],
+          "label": "doc_title",
+          "text": "IOWA NEWS"
+        },
+        {
+          "bbox": [
+            193,
+            270,
+            489,
+            576
+          ],
+          "label": "text",
+          "text": "SIOUX CITY ITEMS.\n(Last Week's News.)\nMr. C, C. Johnson of Des Moines,\nIowa, R. W. G. Custodian of the M. W.\nUnited Grand lodge of Iowa A. F. of\nA. M. made his official visit to Decatur\nlodge Uo. 14 A. F. and A. M. on April\n19. He found the lodge in a prosperous\ncondition and his lecture was very\ninstructive and enjoyed by the members\nof the order. Ed Askew, W. M.\nand Mr. Johnson were the guests\nof Mr. and Mrs. A. Askew, 1408\nRiverside avenue after which he\ntook his leave at 4:20 a. m. t. Tuesday\nvia C. N. W. for Clarinda, Iowa.\nMalone A. M. E. church services,\nMorning 11 a. m. Sunday school 1 p.\nm. Christian Endeavor from six to\nseven. Evening services at 7:30 p. m.\nAll are cordially invited. Rev. P. Lewis\nrestor. 613\u00bd Main street."
+        },
+        {
+          "bbox": [
+            196,
+            575,
+            491,
+            785
+          ],
+          "label": "text",
+          "text": "The Mt. Zion Baptist Aid met last Thursday afternoon at the residence of Mrs. John Shores, 2406 Hamilton street. The official officers were elected, Mrs. Carrie Gordon, *president, Mrs. Cora Harrison, treasurer, Mrs. John Cpushon, secretary, Rev. Cushon, chaplain. After a very enjoyable visit the guests were served with a two course repast. Mr. James Askew, 123 Prescott avenue who has been sick for the last keeve is improving. Mr. Adison Lee has returned from Yankton, S. D. where he buried his wife Monday the 19."
+        },
+        {
+          "bbox": [
+            265,
+            797,
+            428,
+            834
+          ],
+          "label": "paragraph_title",
+          "text": "IOWA CITY ITEM.\nKappa Alpha Psi.\n(Kappa Alpha Icons)"
+        },
+        {
+          "bbox": [
+            266,
+            797,
+            424,
+            812
+          ],
+          "label": "paragraph_title",
+          "text": "IOWA CITY ITEM."
+        },
+        {
+          "bbox": [
+            197,
+            837,
+            499,
+            1386
+          ],
+          "label": "text",
+          "text": "We are being favored or disfavored (according to the opinion of the individual) with an unusual number of April showers. The soil of our little city has been thoroughly saturated with the many fast falling raindrops, Bro. Scott, Hill, Allen, Donaldson and Mr. Washington, on becoming displeased with our wet surroundings took a car to Cedar Rapids last Saturday evening to locate dry quarters for the week end. The Colored Voter's league of Iowa City was called to order at 8:30 p. m. last Friday April 23,1920 by the chairman. A stirring program was rendered. After the meeting was concluded, ice cream was served and everybody had a grand time. The next meeting will be May 7.\n\nMrs. Gresham of Cedar Rapids and Mrs. Lewis of Providence were visitors in the city last week.\n\nMrs. Elizabeth Bell one of the oldest citizens of the city was buried here last Saturday April 24, 1920.\n\nMrs. Bell died in Rock Island at the home of her niece, Mrs. Davis. The whole city mourns her departure.\n\nBros. Slater, Bush and Mr. Jackson went to Des Moines last Saturday to attend the Drake relays and see the great Howard Drew take his place in his favorite event. All Iowa City is planning on viewing Drew in the Iowa Drake dual meet here next Saturday, May, 1, 1920.\n\nBros. London and Titus were in Des Moines Sunday April 25 and they report a great trip."
+        },
+        {
+          "bbox": [
+            248,
+            1395,
+            455,
+            1414
+          ],
+          "label": "paragraph_title",
+          "text": "MT. PLEASANT ITEMS."
+        },
+        {
+          "bbox": [
+            206,
+            1422,
+            501,
+            1467
+          ],
+          "label": "text",
+          "text": "Mr. Lennjs Page has gone to Chicago to accept a position in the city hall"
+        },
+        {
+          "bbox": [
+            207,
+            1466,
+            501,
+            1527
+          ],
+          "label": "text",
+          "text": "Mr. and Mrs. Ed Reesbern and Mr. and Mrs. John Greenup motored to Lockridge and Fairfield last Sunday afternoon. They had a delightful time."
+        },
+        {
+          "bbox": [
+            208,
+            1520,
+            506,
+            1716
+          ],
+          "label": "text",
+          "text": "Little Marie White went to Fairfield Iowa last Friday to be in a play.\nMrs. Wm. Williams received news of the serious illness of her little grand-daughter in Minneapolis, Minnesota.\nMiss Viola Harris was a Fairfield visitor last Friday evenifn.\nMrs. Eugene Patterson and daughter, Neinohi Williams were in Fairfield last Friday where Neinohan took jart in the play booked there last Friday night.\nMr. Oscar Green who is working in Fairfield spent Sunday with his family in the city."
+        },
+        {
+          "bbox": [
+            211,
+            1681,
+            505,
+            1773
+          ],
+          "label": "text",
+          "text": "Mr. Oscar Green who is working in Fairfield spent Sunday with his family in the city.\n\nMrs. Seenj Reider went to Minneapolis for florida last Friday night called there by the serious illness of her little voice. Emma Max Phillips."
+        },
+        {
+          "bbox": [
+            212,
+            1772,
+            509,
+            2110
+          ],
+          "label": "text",
+          "text": "Cordelia Green of New London spent Sunday with the home folks.\n\nMr. Ed Carter of Portland, Mo., arrived in the city last week to remain indefinitely with his daughter, Mrs. Riko.\n\nThe King's Daughter's met at the home of Mrs. Myrtle Reed last Friday. Considerable business of importance was transacted. A fine lunch was served and a general good time was had. The club will meet May 7 with Mrs. Louise Greenup.\n\nWe are glad to note that Miss Dorothy Anderson is slowing improving.\n\nMiss Dorothy Anderson has been elected to represent the Sunday school at the Sunday school convention that will convene in East Des Moines June 24 and 25.\n\nMrs. Myrtle Reed has been elected alternate.\n\nMr. Ed Reeseer has gone to Chicago to work this summer."
+        },
+        {
+          "bbox": [
+            288,
+            2121,
+            435,
+            2138
+          ],
+          "label": "paragraph_title",
+          "text": "MACON ITEMS."
+        },
+        {
+          "bbox": [
+            214,
+            2151,
+            510,
+            2180
+          ],
+          "label": "text",
+          "text": "Mr. Holiday of Clarance was a visitor in the city."
+        },
+        {
+          "bbox": [
+            215,
+            2179,
+            510,
+            2206
+          ],
+          "label": "text",
+          "text": "Mrs. Chester McCroy of Shelbina was visiting in the city."
+        },
+        {
+          "bbox": [
+            213,
+            2205,
+            512,
+            2430
+          ],
+          "label": "text",
+          "text": "Miss Alma McElroy has returned from Dalton, Mo., where she taught school. Miss Ruth Aphton returned with her for a visit before returning to her home in Clarksville, Mo.\nThe Ordean Rev, Brusce will be here Thursday night at W. college.\nMacon had quite a fire nearly destroying the entire block. The fire started in the garage.\nRev. J. W. L. Underwood preached two excellent sermons Sunday morning and night.\nQuite a large crowd attended the Rally in Bevier, Mo., Rev. J. L. Williams, pastor there."
+        },
+        {
+          "bbox": [
+            214,
+            2429,
+            513,
+            2491
+          ],
+          "label": "text",
+          "text": "Mr. Russell R. Jackson of Philadelphia, Pa., and Engle Davis of Rock Island, Illinois were the guests Sunday of Miss Lucille and Edyth Harris."
+        },
+        {
+          "bbox": [
+            214,
+            2430,
+            513,
+            2535
+          ],
+          "label": "text",
+          "text": "Mr. Russell R. Jackson of Philadelphia, Pa., and Eugene Davis of Rock Island, Illinois were the guests Sunday of Miss Lucille and Edyth Harris. Commencement of Western College start Sunday May 2 at Vine and Broadway Baptist church."
+        },
+        {
+          "bbox": [
+            580,
+            2291,
+            1588,
+            2400
+          ],
+          "label": "text",
+          "text": "You illw want several pairs at these low prices. Every pair guarded give satisfaction. The \"Big Q\" gym shoe, possesses many exclusive features makes it of the best shoeof its kind on the market--the shoes are made of extra weight sail canvas, duck lined throughout; horsehide leather ankle patch, and with cork insoles that keep the foot fro contact with the outer soles and heels of triple tread, red rubber"
+        },
+        {
+          "bbox": [
+            492,
+            215,
+            788,
+            382
+          ],
+          "label": "text",
+          "text": "The Macon Women's club met at Mrs. Etta Johnson. A lovely lunchcon was served and a nice time was spent after business, the guests departed. Next will meet be May 1 at Miss Gussive Jones.\nMiss Della Williams visited her home folks Saturday.\nMrs. Mary B. Tolbert gave a fine lecture at the A. M. E. church Friday last. A crowded house was to greet her. $42 was raised."
+        },
+        {
+          "bbox": [
+            560,
+            393,
+            723,
+            409
+          ],
+          "label": "paragraph_title",
+          "text": "SIOUX CITY, IOWA."
+        },
+        {
+          "bbox": [
+            496,
+            410,
+            791,
+            730
+          ],
+          "label": "text",
+          "text": "The Household of Ruth No. 4961 and G. U. O. of Odd Fellows No. 4655 met in a joint session Tuesday evening, April 27 to make arrangements for their thanksgiving service which will be held at the Mt. Zion Baptist church on the second Sunday in May.\u2014A. Webb, noble grand and Mrs. Luela most noble governor.\n\nA play known as \"Out in the Streets\" was given Thursday evening, April 25 by the grand master, M. Askow for the benefit of the grand lodge, it was attractive and desirable. In spite of rain there was a large attendance. Church services at 11 a. m.; Sunday school at 1 p. m.; evening service; 7:30 p. We had with us at the A. M. E. church, Mr. Robbie Durr. He gave a very interesting talk of the school in Piney Woods, Miss., and urged the colored people to subscribe for the Bystander."
+        },
+        {
+          "bbox": [
+            498,
+            534,
+            790,
+            619
+          ],
+          "label": "text",
+          "text": "A play known as \"Out in the Streets\" was given Thursday evening April 25 by the grand master, M. Askew for the benefit of the grand lodge. It was attractive and laughable. In spite of rain there was a large attendance."
+        },
+        {
+          "bbox": [
+            560,
+            741,
+            731,
+            774
+          ],
+          "label": "paragraph_title",
+          "text": "DAVENPORT NEWS.\n(R. C. Moore.)"
+        },
+        {
+          "bbox": [
+            499,
+            772,
+            794,
+            1249
+          ],
+          "label": "text",
+          "text": "Club No. 3, of Bethel A. M. E. church gave an elaborate concert on last Monday evening. A large crowd was in attendance. A most excellent program was prepared after which a royal entertainment was had in the dining room of the church. Two features of the evening were the winning of the 95 pounds of flour and the winning of the most beautiful cake which was home made at that. Numerous chances were sold for both articles and numbers of individuals were palanning to have hot biscuits for breakfast the next morning. But the Davenporters were fooled completely on the flour deal, for the receiver of the magnificent sack of the above substance was Miss Celia Renalds of Rock Island. In order to cheat Moline out of the deal and as there were only two articles to be drawn, Mrs. Lizzie Ouey of Davenport drew the cake. At that time the two winners of articles stalked around the dining room, with quite an air of high ideals for the future. But too much credit can not be given to Mr. and Mrs. Howell for their unceasing labor to make the affair a success. It is not known just what amount of coin they obtained, of course that is a secret but if the reader of the Bystander will watch closely, later on the finals of all the clubs will be given. Then we'll"
+        },
+        {
+          "bbox": [
+            607,
+            2460,
+            828,
+            2492
+          ],
+          "label": "text",
+          "text": "Sizes 8 to 13 1-2"
+        },
+        {
+          "bbox": [
+            918,
+            1649,
+            1914,
+            1854
+          ],
+          "label": "text",
+          "text": "INTRODUCING a new shoe--one that the manufacturer calls the \"Big 9\" shoe, but we see no reason why so named, for they are equally as good for street wear. Perhaps its because they are so wonderfully light, cooling and restful that they are called \"gym\" shoes. They are sturdy dependable shoes that one does not have to be too careful of--they'll stand the rub and stub of wear and still appear attractive"
+        },
+        {
+          "bbox": [
+            792,
+            211,
+            932,
+            222
+          ],
+          "label": "text",
+          "text": "a)I see who's who."
+        },
+        {
+          "bbox": [
+            794,
+            219,
+            1094,
+            873
+          ],
+          "label": "text",
+          "text": "in Sunday afternoon, Bethel A. M. E. church was the scene of the K. P.'s turn out and sermon. The Rev. Dr. S. B. Moore was the chosen speaker for the hour and preached a very able sermon, quite suitable for the occasion. Next Sunday the Old Fellows and the H. H. of R. will have their annual sermon at the A. M. E. church.\n\nThe vesper services held at the \"Y\" Sunday was quite interesting. A soo was rendered by a very able white singer of the city. And also by Mrs. C. Shepard, one of our own race singers. The field secretary of the athletic department of the Y. W. C. A. was in our midst and gave a very enthusiastic talk to the attendants of the vesper services.\n\nMr. Webster Stovall, son of Rev. B. Stovall, formerly pastor in this city, has been visiting friends for a few days. Mr. Stovall is a graduate of the D. H. S. in the 1914 class. He has been oversees and he is now on his way home to Minneapolis, Minn. While here he was the guest of Miss Marie Wilkerson.\n\nClub No. 2 is going to give the other clubs a hard race for first place and you other captains better watch your step, are the remarks that the certain and members of Club No. 2 are saying. And it behooves you to sit up and take notice. The No. 2 club is going to give a concert on Thursday night, details of the same will be given later.\n\nBethel A. M. E. church was well represented in the parade of the inter-church movement, on last Saturday afternoon. Mr. Wellington's truck was secured and all that could be sent comfortably and otherwise were helped in. The parade was twenty-seven long. In the daily papers there was made mention of the A. M. E. church float being the one to support Old Glory and much adieu was made about the same."
+        },
+        {
+          "bbox": [
+            799,
+            872,
+            1099,
+            1244
+          ],
+          "label": "text",
+          "text": "The Hally Q Brown club met at the home of Mrs. John Gordon on last Thursday afternoon, April 29. There were twenty-six members present and three honored guests. They were: Mrs. Richy, secretary of the Y: Mrs. Anna Crump of East Davenport, and Mrs. Samuel Stacker of Motone, Ill. The club met for a social event, and they certainly had one grand and glorious time for the subject discussed upon was the high cost of living. A paper was read on the same. An instrumental solo given by Mrs. Walkup of Moline, Ill. Quite an up-to-the-minute luncheon was served by the hostess, Mrs. Gordon.\n\nOur pastor, gav. S. B. Moore, will leave for the seat of the general conference next week. A concert was given in his behalf on last Thursday evening. And amidst the rain, the good and loyal people of Davenport rallied to the call of the chairman Mrs. Bynum. The concert was given to hear the pastor's expense to the conference. Davenport's people would have the other people of"
+        },
+        {
+          "bbox": [
+            1093,
+            200,
+            1383,
+            354
+          ],
+          "label": "text",
+          "text": "the other cities know that we are on the map, and are not going to stop until we are quenched. You can't beat peo like that. So come on fall in line and send your pastor to the general conference. Mrs. S. B. Moore is improving gradually. She has been sitting up and enjoying the pure fresh air and the sunny days of May and we only trust that she will continue."
+        },
+        {
+          "bbox": [
+            1162,
+            363,
+            1310,
+            377
+          ],
+          "label": "paragraph_title",
+          "text": "PED OAK NEWS"
+        },
+        {
+          "bbox": [
+            1097,
+            376,
+            1393,
+            995
+          ],
+          "label": "text",
+          "text": "Mr. Drew was in Red Oak April 27 looking after the interest of the Iowa state Bystander. The industrial club which was organized for the young men April the I met at Friday night April 23 at the house of Mr. and Mrs. L. H. Brown April 23 at the home of Mr. and Mrs. H. Brown, 506 Last Market street. All business was closed. The club gave a business entertainment, fee cream, cake and pop were served which netted the club the sum of $9,00 which was turned over to the treasurer, Mr. Marck Keene. Mrs. George Lytle and daughter, Dorothy returned home Thursday April 29 after a two weeks visit with her perest, Mr. and Mrs. Walker of Glenwood Iowa. Mr. John Stewart left on the moon train for Nebraska City to visit a few days with is sister, Mrs. Perkins. A birthday and summer party was given on Wm. Baker Thursday April 29 by his wife, Mrs. Wm. Baker. A large number of his friends were present and the evening was spent in games after which refreshments were served. All left reporting a good time. There were two families moved to Red Oak the first of the month, Mr. and Mrs. L. H. Brown and family of Chirinda, Iowa and Mr. and Mrs. Frank Dale of Tarkio, Mo., all were glad to welcome them here. To the manager: Your agent appointed me correspondent of this city when he was here and I will do my best to get all the latest news and out before the paper gets to press. Write me your terms to correspond and I will consider it with you this i 17. 'is week's news is a little late it my first offence."
+        },
+        {
+          "bbox": [
+            1182,
+            1014,
+            1316,
+            1028
+          ],
+          "label": "paragraph_title",
+          "text": "MACON ITEMS."
+        },
+        {
+          "bbox": [
+            1104,
+            1028,
+            1396,
+            1238
+          ],
+          "label": "text",
+          "text": "Mr. Hughes of Dalton, Mo., spent Sunday in the city. Quite a bunch of strangers were in the city to attend commencement of Western college. Proof. J. L. Thompson prescheduled an excellent to the graduates. Miss Saunders of Western college sang very beautifully Sunday afternoon and night. Among the graduates Miss May Brown, Emma Hawkins, Lotte Breut Miss McLamman and others. Miss Mable Bates of California will stand Thursday as the guest of Mrs."
+        },
+        {
+          "bbox": [
+            1622,
+            2243,
+            1910,
+            2599
+          ],
+          "label": "text",
+          "text": "The \"Leader\"\n--a lesser-priced shoe\nstyle similar to \"Big 9\"\nSizes 11 1-2 to 13 1-2\nFor the Children\n$250\nSizes 1 to 6\n--for boys and girls\n$300"
+        },
+        {
+          "bbox": [
+            1388,
+            187,
+            1676,
+            228
+          ],
+          "label": "text",
+          "text": "Madge Clark. They will leave Prima to attend the A. M. E. conference in"
+        },
+        {
+          "bbox": [
+            1389,
+            226,
+            1676,
+            269
+          ],
+          "label": "text",
+          "text": "St. Louis\nMrs. Mary Angell and Mrs. Milfred\nWebster will attend the St. Louis A."
+        },
+        {
+          "bbox": [
+            1391,
+            267,
+            1675,
+            325
+          ],
+          "label": "text",
+          "text": "M, E. conferencet\nMiss Gissie Jones entertained the\nwomens club a dainty luncheon was\nserved after business the guests de"
+        },
+        {
+          "bbox": [
+            1391,
+            324,
+            1676,
+            370
+          ],
+          "label": "text",
+          "text": "parted Dr. J. E. Smith is attending the little son of Mrs. in Clarence, Mo., who is very sick"
+        },
+        {
+          "bbox": [
+            1391,
+            367,
+            1680,
+            772
+          ],
+          "label": "text",
+          "text": "very sick.\nMr. Moser and Mrs. Mary Jane Burton of Clarence were in the city Sunday.\nMr. Cups Austin still remains sick at his home.\nArthur Campbell, Jr., of Omaha, Neb., is meeting a month visit with his aunt, Mrs. Mollie Austin Green.\nRev. Jenkin is expecting home after his being in the hospital in Quincy, Illinois.\n\nMrs. Neal will leave for her home in St. Louis Tuesday.\nRev. J. W. L. Underwood preached an excellent sermon Sunday morning and at night Rev. Dean Thompson.\nMiss Mires of Quincy, Ill. is attending the commencement exercises.\nRev. Ross preached an excellent sermon Sunday.\nMiss Meric Price is visiting in the city.\n\nMr. Bud Harris of Kirksville was the guest of L. B. Ancedrson and friend in the city.\nWhile attending the commencement you can get nice first class meals at L. B. Anderson Co."
+        },
+        {
+          "bbox": [
+            1462,
+            779,
+            1620,
+            794
+          ],
+          "label": "paragraph_title",
+          "text": "WATERLOO ITEMS."
+        },
+        {
+          "bbox": [
+            1396,
+            811,
+            1687,
+            1099
+          ],
+          "label": "text",
+          "text": "Authoe Baptist church items.\nSunday was a good day at Authoe.\nThe Sunday school at 9:30 was well attended. Baptism at the river at 11:30. Covenant meeting in the morning with the Holy Ghost.\nThe K. of P's, and Court of Calamite's held their annual sermon at the church at 2:30. The pastor, Rev. Twine preached a spiritual as well as an instructive sermon to them. His subject was \"True Friendship.\"\nMonday night the Robers club gave a shoe tip entertainment which proved a financial success.\nTuesday evening Prof. Rodgers, Field secretary of the Western convention will lecture at Authoe.\nAuthoe has gone over the top in the Baptists drive her apportionment to date of 587234."
+        },
+        {
+          "bbox": [
+            1404,
+            1190,
+            1685,
+            1241
+          ],
+          "label": "text",
+          "text": "The Black Hawk lodge No. 10008 of Waterloo had their Thanksgiving service at Antioch Baptist church Sunday."
+        },
+        {
+          "bbox": [
+            1776,
+            385,
+            1963,
+            474
+          ],
+          "label": "text",
+          "text": "cold remedy for 20 years\ntablet form\u2014sure, safe,\nunless you want to\ninjure\u2014elieves grip in 3 days.\nMoney, back if it falls. The\ngenuine box has a Mr. Red\nwish with it. Mr. Hill's\npicture."
+        },
+        {
+          "bbox": [
+            1694,
+            385,
+            1963,
+            490
+          ],
+          "label": "text",
+          "text": "Standard cold remedy for 20 years\n\u2014in tablet form\u2014safe, sure, no\npoints\u2014break up a cold in 24\npoints\u2014beef up a cold in 24\npoints\u2014back it if it fails. The\ngenuine box has a Red\ntop with Mr. Hill's\npicture.\nAs All Drug Stores"
+        },
+        {
+          "bbox": [
+            1786,
+            475,
+            1964,
+            488
+          ],
+          "label": "text",
+          "text": "At All Drug Stores"
+        },
+        {
+          "bbox": [
+            1736,
+            504,
+            1930,
+            546
+          ],
+          "label": "paragraph_title",
+          "text": "IOWA CITY ITEMS.\nDELTA SIGMA THETA.\n(Mildred Griffin.)"
+        },
+        {
+          "bbox": [
+            1688,
+            504,
+            1979,
+            677
+          ],
+          "label": "text",
+          "text": "IOWA CITY ITEMS.\nDELTA SIGMA THETA.\n(Mildred Griffin.)\nThe Du Bois Literary society held an interesting meeting at the Delta Sigma Theta last Friday April 30, Miss Wilma Reed, Mrs. Helen Damon Deshears and Mr. J. L. Damon led the discussion on the history of the Negro. Musical numbers were given by the Misses Helen Lucas and Hazelle Shear."
+        },
+        {
+          "bbox": [
+            1689,
+            675,
+            1983,
+            962
+          ],
+          "label": "text",
+          "text": "Messrs. Charles P. Howard, Howard Drew, Hunter and Jinks Hunter attended the track meet in Iowa last Saturday afternoon. A dancing and card party was given for them Saturday evening by the members of the Kappa Alpha Psi. Miss Reulah Wheeler, who has been confined to her bed at the university hospital is improving. Sunday school was held last Sunday afternoon at the usual hour. After the discussion of the lesson; Miss Milkred I. Griffin and Mr. L. E. Windor were elected to represent the Sunday school at the district Convention which is to be held in Des Moines on June 24 and 25. Mrs. a. L. Damercon spent Sunday in Corner Rapids."
+        },
+        {
+          "bbox": [
+            1752,
+            996,
+            1923,
+            1010
+          ],
+          "label": "paragraph_title",
+          "text": "Abdications of History."
+        },
+        {
+          "bbox": [
+            1695,
+            1011,
+            1981,
+            1230
+          ],
+          "label": "text",
+          "text": "Ever since dynasties have existed there are records of kings having abdol- from one cause and another. Far back in the middle past one monarch save up the thrones because he was \"weathered with wisdom;\" another retired out of thence because for the freedom of private life a third laid down his crown because his schemes failed; still another abdolled in a fit of nec- and blithe and more are two instances in which kings left their thrones be- ges their were unable to cope with"
+        }
+      ]
+    }
+  ]
+}
