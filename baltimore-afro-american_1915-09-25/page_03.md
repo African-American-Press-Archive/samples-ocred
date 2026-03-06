@@ -2,19 +2,7 @@
 
 ## LONG GREEN NEWS
 
-Long Green, Md., Sept. 23.—The closing services of the camp were well attended. Rev. W. T. Brown, the pastor, preached at the morning service. Rev. L. A. Mallory, of Baltimore, filled the pulpit in the afternoon and night. Men's Day services will be held in the grove next Sunday.
-
-Mr. and Mrs. John Cromwell entertained Mr. and Mrs. Gordon, of Washington, Sunday.
-
-Mrs. Maggie Levere spent the week visiting relatives and friends in Baltimore.
-
-Mrs. Francis Smith, of Atlantic City, was the week-end guest of her parents, Mr. and Mrs. James Hawkins.
-
-Mrs. Nellie Winder was the guest of Mr. and Mrs. John Proctor, of Riderwood, last Wednesday.
-
-Mrs. Nettie Winder spent last Sunday at Pen Mar.
-
-Rev. W. T. Brown was the guest of Mrs. Lillie Fowler, of Riderwood, last Thursday. The Misses Edna and Bessie Winder gave their mother, Mrs. Nettie Winder, a surprise on last Thursday evening.
+Long Green, Md., Sept. 23.—The closing services of the camp were well attended. Rev. W. T. Brown, the pastor, preached at the morning service. Rev. L. A. Mallory, of Baltimore, filled the pulpit in the afternoon and night. Men's Day services will be held in the grove next Sunday. Mr. and Mrs. John Cromwell entertained Mr. and Mrs. Gordon, of Washington, Sunday. Mrs. Maggie Levere spent the week visiting relatives and friends in Baltimore. Mrs. Francis Smith, of Atlantic City, was the week-end guest of her parents, Mr. and Mrs. James Hawkins. Mrs. Nellie Winder was the guest of Mr. and Mrs. John Proctor, of Riderwood, last Wednesday. Mrs. Nettie Winder spent last Sunday at Pen Mar. Rev. W. T. Brown was the guest of Mrs. Lillie Fowler, of Riderwood, last Thursday. The Misses Edna and Bessie Winder gave their mother, Mrs. Nettie Winder, a surprise on last Thursday evening.
 
 Mr. and Mrs. John Proctor, of Riderwood, entertained Mr. and Mrs. Richard Levere and family, of Philadelphia Sunday.
 
@@ -36,8 +24,6 @@ Master George Norwood spent last week visiting his uncle, Mr. William Norwood, o
 
 Rev. C. A. Norwood is on his vacation
 
-Master George Norwood spent last week visiting his uncle, Mr. William Norwood, of Lewes, Del. Rev. C. A. Norwood is on his vacation.
-
 Mr. John Boston and Mr. Walter McDaniel, of Easton, were Trappe visitors Sunday.
 
 Miss Ardella Dillehay is in the Easton Emergency Hospital suffering from appendicitis.
@@ -58,14 +44,14 @@ Rev. James J. Baker, pastor of Bells A. M. E. Church, is in one of the hospitals
 
 The annual September rally at John Wesley M. E. Church began last Sunday.
 
-Mr. Alonzo Boston, a well known citizen of this town, died at Cambridge Hospital last Saturday night. His funeral took place from John Wesley M. E. Church, Tuesday Rev. F. Johnson officiated. He is survived by his wife, one daughter, three brothers and one sister.
+Mr. Alonzo Boston, a well known citizen of this town, died at Cambridge Hospital last Saturday night. His funeral took place from John Wesley M. E. Church, Tuesday.
+
+Rev. F. Johnson officiated. He is survived by his wife, one daughter, three brothers and one sister.
 
 Rev. J. O. Custis, of Baltimore paid a flying visit here last Friday, enroute to Pocomoke City, Md.
 
 Mrs. C. B. Casson has returned home from Catonsville, Md., and Washington.
-
-The Y. P. P. C. had a fine address delivered to them on last Sunday afternoon by Mrs. Adeline Lewis. Over $10 was realized.
-
+The Y. P.P. C. had a fine address delivered to them on last Sunday afternoon by Mrs. Adeline Lewis. Over $10 was realized.
 Mr. Thomas Cooper, of Baltimore, visited Mr. and Mrs. D. D. Bailey Sunday.
 
 ## BERKLEY ITEMS
@@ -84,11 +70,9 @@ The people are preparing to hold their annual church camp which begins Sunday, O
 
 A picnic and concert will be held at Woodside Park next Tuesday under the auspices of the Nonpareils of the St. Luke's Church. A swimming match between two young girls will take place. Music will be furnished by the Union League Band.
 
-Children's Day exercises were held at St. James A. M. E. Zion Church. The children were trained by Mrs. J. F. Stewart. Mrs. J. D. Jackson acted as mistress of ceremony. Rev. J. T. Watson, pastor.
+Children's Day exercises were held at St. James A. M. E. Zion Church. The children were trained by Mrs. J. F. Stewart. Mrs. J. D. Jackson acted as mistress of ceremony. Rev. J. T. Watson, pastor
 
-Rev. H. C. Pope gave his lecture and exhibition at St. Paul and John Wesley Churches, Wednesday and Thursday nights, respectively, last week.
-
-The teachers for the public schools are on the ground preparing for the opening season which begins October 6th.
+Rev. H. C. Pope gave his lecture and exhibition at St. Paul and John Wesley Churches, Wednesday and Thursday nights, respectively, last week. The teachers for the public schools are on the ground preparing for the opening season which begins October 6th.
 
 ## COCKEYSVILLE ITEMS
 
@@ -118,9 +102,9 @@ Mr. Peter L. Henry, a student at Virginia Union University left Thursday to resu
 
 Mr. Dewey Waters left Monday for Laurenceville, Va., to enter the Normal and Industria School.
 
-Prof. S. H. Long and others addressed the Masonic Club here Thursday night.
+Prof. S. H. Long and others addressed the Masonic Club here Thursday night. Mrs. Charlotte Brittingham is on the sick list.
 
-Mrs. Charlotte Brittingham is on the sick list.
+THE AFRO-AMERICAN LEDGER
 
 The Women's Day at the Mt. Zion Baptist Church Sunday was a success. The leaders were Miss Laura Purnell, Mrs. Nancy Allen and Mrs. Lolo Wise. Mrs. Charlotte Brittingham was unable to take part on account of illness. Miss Helen R. Henry, who has been at Cape May, N. J., for the summer came home this week. Mrs. Mildred Blamer Robinson, of Baltimore, is visiting her parents, Mr. and Mrs. George Palmer.
 
@@ -144,7 +128,7 @@ William A. Bowie, cashier of the Industrial Savings Bank, Washington, left for N
 
 Mrs. Lydia G. Chase has returned to her home at 1400 Mosher street, Baltimore, after visiting her sister, Mrs. Rachel Wilson.
 
-Mrs. Bessie Mason, of 1421 Argleve Avenue, Baltimore, was the guest of Miss Nellie F. Wilson a few days go.
+Mrs. Bessie Mason, of 1421 Argyle avenue, Baltimore, was the guest of Miss Nellie F. Wilson a few days go.
 
 The Afro-American Ledger may be found on sale every Saturday at 10 S. 4th street.
 
@@ -198,7 +182,7 @@ Mrs. Clara Snowden, who has been visiting her mother, Mrs. Catherine Murdock, ha
 
 A play was given at Asbury M. E. Church Thursday night. Eleven Leekins was the author. Those who took part were Mr. Dixon, Clifton and Charlie Holland, Grayson Larkins and Ignatius Snowden.
 
-Miss Pauline Johnson of Washington, daughter of Rev. David Johnson, is the guest of Edith Gray, Middletown.
+Miss Pauline Johnson of Washington, daughter of Rev. David Johnson, is the guest of Edith Gray. Middletown.
 
 Men's day was observed at A. M. E. Church Sunday. $124.52 was raised. Rev. W. A. English is the pastor.
 
@@ -210,7 +194,13 @@ Rev. and Mrs. J. G. Bryan have returned from a business trip to Baltimore.
 
 ## POCOMOKE ITEMS
 
-Pocomoke City, Md., Sept. 23.—The Morgage, Rally was held at Mt. Zion M. E. Church Sunday. The pastor, Rev. J. W. Bond preached to a large congregation in the morning and in the afternoon Rev. E. T. Addison and congregation of St. John's A. M. E. Church were present. At night the Rev. W. A. Spellman and congregation of Unionville were present. During the three services the congregations laid on the table $175, to the credit of the trustees. Rev. J. O. Custis, evangelist of Baltimore Conference, was here and preached two able sermons at St. John's A. M. E. Church Sunday last. Mrs. Mary Ballard of Philadelphia, left Monday after spending a few days with her sister, Mrs. Esther Coston. Thieves entered the home of Mr. John Coulburn on Monday morning and made away with money amounting to about $90. Rev. C. A. Williams, of Crisfield, Md., made a visit to Rev. E. T. Addison the early part of the week. Mrs. Lizzie Collier and Mr. and Mrs. James Shorter, who have spent the summer at Ocean City arrived home this week. Prof. Stephen Dix and brother Seldum, who have spent the summer in the north, arrived here last week, and will soon take up their duties at the Princess Anne Academy. Prof. Oliver H. Bond left here Monday for Philadelphia. He will go to Camden, N. J., Tuesday to claim his bride, and return with her Thursday night to a reception to be given at the home of his parents, Rev. and Mrs. J. W. Bond.
+Pocomoke City, Md., Sept. 23. The Morgage, Rally was held at Mt. Zion M. E. Church Sunday. The pastor, Rev. J. W. Bond preached to a large congregation in the morning and in the afternoon Rev. E. T. Addison and congregation of St. John's A. M. E. Church were present. At night the Rev. W. A. Spellman and congregation of Unionville were present. During the three services the congregations laid on the table $175, to the credit of the trustees. Rev. J. O. Custis, evangelist of Baltimore Conference, was here and preached two able sermons at St. John's A. M. E. Church Sunday last. Mrs. Mary Ballard of Philadelphia, left Monday after spending a few days with her sister, Mrs. Esther Coston. Thieves entered the home of Mr. John Coulburn on Monday morning and made away with money amounting to about $90. Rev. C. A. Williams, of Crisfield, Md., made a visit to Rev. E. T. Addison the early part of the week.
+
+Mrs. Lizzie Collier and Mr. and Mrs. James Collier, who have spent the summer at Ocean City arrived home this week.
+
+Prof. Stephen Dix and brother Seldum, who have spent the summer in the north, arrived here last week, and will soon take up their duties at the Princess Anne Academy.
+
+Prof. Oliver H. Bond left here Monday for Philadelphia. He will go to Camden, N. J., Tuesday to claim his bride, and return with her Thursday night to a reception to be given at the home of his parents, Rev. and Mrs. J. W. Bond.
 
 Mrs. Hannah Dix. is numbered among the sick this week.
 
@@ -234,47 +224,204 @@ Mrs. Margaret and Lula Smith of Philadelphia, were visitors to Mrs. Belle Strick
 
 # M. TREGOR & SON Superior Hair Dressing PRINCSS COMB AND HEATER To be used by modern Ladies and Children to dress the Hair to any stylish fashion.
 
-HAIR FOOD
+Drugsmart and Notion Stores should keep this Superior for their store owners. Please direct to us. Price for wholesale stock is $75.
 
-Unequalled for softening and beautifying the hair and promotes a luxuriant growth, grasped-to be free from all injurious okenighties and should be used as the most proper, hair Dressing for Ladies and children.
+M. TREGO
 
-DIRECTION—Rub thoroughly into the hair and comb hair to suit style.
-Prices of Superior Hair Dressing in the known original red boxes:
-Large boxes, 25c. Single box, 15c. Ordinary by mail, 25c.
-Medium red tin box single 25c. Ordinary by mail, 40c.
+Price of Princess Comb, $1
+Directions to be used will be
+M. TREGO
+Wholesale Manufacturers of P.
+1131 E. Baltimore Street,
+1229 E Street, N. W.
 
-Druggust and Notion Stores should keep this Superior Hair Dressing direct to us. Price for wholesale sent on soo
+USE THE EUREKA
+With Lamp C
 
-Price of Princess Comb, $1.00 Heater 50c. Extra Directions to be used will be mailed with every order M. TREGOR & SONS Wholesale Manufacturers of Perfumeries and Toilet Articles 1131 E. Baltimore Street. Baltimore, Md 1229 E Street, N. W. Washington, D. C
+A combination of metal electrifying
+Most convenient
 
-A combination of metal electrifying influences Straightening impy hair
+M. TREGOR & SONS
+
+ESS Comb, $1.00 Heater 50c. Extra
+tons to be used will be mailed with every order
+
+TREGOR & SONS
+Manufacturers of Perfumeries and Toilet Articles
+More Street, Baltimore, Md
+N. W. Washington, D. C.
+
+THE EUREKA COMB PRICE $1.50
+With Lamp Cap For Heating
+metal electrifying influences Straightening stiff hair
 Most convenient and Satisfactory.
 
-BEWARE OF IMITATIONS.
-MAKES HAIR GROW.
+PRINCESS
+
+Price of Princess Comb, $1.00 Heater 50c. Extra
+Directions to be used will be mailed with every order
+M. TREGOR & SONS
+Wholesale Manufacturers of Perfumeries and Toilet Articles
+1131 E. Baltimore Street, Baltimore, Md
+1229 E Street, N. W. Washington, D. C.
+
+A combination of metal electrifying influences Straightening simpy hair Most convenient and Satisfactory. BEWARE OF IMITATIONS. MAKES HAIR GROW.
 
 Mrs Mitchell's Improved Hair Cream
-Price 35 Cents Large Jars,
+Price 35 Cents Large Jars.
+Makesthe Hair Soft and Glossy. Stops falling Hair
+Try it for the thin places on your temples.
+Not greasy—will not gum.
+SCALP TREATMENT. HAIR STRAIGHTENING
+Mitchell—Office For The Eureka Comb
+Even, Conn., 590 Orchard street
+INSTANCE. MAIL ORDERS PROMPTLY ATTEND TO
+me. Martha Thompson
+TURIST AND FACIAL MASSAGE
+Giving your hair treated with Mme. C. J. Walker's
+Hair Grower, which is guaranteed to make
+new and keep out dandruff, stop and have your
+you the course of hair growing.
+2143, DIVISION ST.
+Call to See Me or Phone Madison 3464 M
+
+THE MAGIC SHAMPOO DRIED AND HAIR STRAIGHTENER
+
+MAILED ANY WHERE IN U.S.$OO POSTAGE PAID
+Agents Wanted. Write for Literature
+Magic Shampoo Drler Co.
+Minneapolis, Minn.
+
+THE
+ORE LIFE INSURANCE CO
+
+Mrs Mitchell's Improved Hair Cream
+Price 35 Cents Large Jars.
 Makesthe Hair Soft and Glossy. Stops falling H.
 Try it for the thin places on your temples.
 Not greasy-will not gum.
-SCALP TREATMENT. HAIR STRAIGHTENING G
+SCALP TREATMENT. HAIR STRAIGHTENING
 Mrs. Alice E. Mitchell—Office For The Eureka Comb
 
-New Haven, Conn., 590 Orchard street
+Mrs. Alice E. Mitchell—Off
+New Haven, Conn.,
+NOW IS YOUR CHANCE. MAIL ON
 
-NOW IS YOUR CHANCE. MAIL ORDERS PROMPTLY ATTEND TO
+Mme. Marth.
+HAIR CULTURIST AND
+After having your hair treat
+Methods and Hair Grower, w
+your hair grow and keep out o
+face massaged.
+Will teach you the course o
+2143, DIV
+Call to See Me or P
+
+TR-MAGIC IS 9 IN LONG
+SHAMPOO DRIVER HERE CO
+MAK
+Agency
+Magic
+
+—TH
+BALTIMORE LIFE
+
+New Haven, Conn., 590 Orchard street NOW IS YOUR CHANCE. MAIL ORDERS PROMPTLY ATTEND TO
 
 ## Mme. Martha Thompson
 
 HAIR CULTURIST AND FACIAL MASSAGE After having your hair treated with Mme. C. J. Walker's Methods and Hair Grower, which is guaranteed to make your hair grow and keep out dandruff, stop and have your face massaged. Will teach you the course of hair growing.
 
-F. S. STROBRIDGE, President Home Office: Cor. Charles & Saratoga Sts., Balto., Md The Leading Life Insurance Company in Maryland Life Insurance Policies issued on ages from 2 to 79 Premiums collected weekly from the homes of the insured
+Heating Bars
+THE MAGIC 19 10.10.19
+
+THE MAGIC SHAMPOO DRIED HAIR STRAIGHTENER
+
+MAILED ANY WHERE IN U.S.$100 POSTAGE PAID
+
+Agents Wanted.
+
+Writes for Literature
+
+Magic Shampoo Drier Co.
+Minneapolis, Minn.
+
+F. S. STROBRIDGE, President
+
+Home Office: Cor. Charles &
+The Leading Life Insurace
+Life Insurance Policies in
+Premiums collected weekly for
+Issues The E
+The Old
+
+MME. M. A.
+Beauty Parlors, Hair Empor
+1324 DRUID HILL AVENUE
+Try Mme. Hunter's Hair Grower
+If you are losing your hair or growing
+Scalp Treatment, Facial Massage, M
+Combings Made Up. My School is Open
+
+Cor. Charles & Saratoga Sts., Balto., MD.
+Long Life Insurance Company in Maryland
+Insurance Policies issued on ages from 2 to 79
+selected weekly from the homes of the insured
+Issues The Best Contracts
+The Old Reliable
+
+E. M. A. HUNTER'S
+S., Hair Emporium & School of Instruction
+HILL AVENUE Phone Mad. 1642-M
+
+Her's Hair Grower and Straightener 25c. per box
+for hair or growing prematurely gray, come and see us
+Facial Massage, Manicuring, Straightening a Specialty
+My School is Open for the above work. Diploma Awarded
+
+Home Office:Cor. Charles & Saratoga Sts., Balto., Md The Leading Life Insurance Company in Maryland Life Insurance Policies issued on ages from 2 to 79 Premiums collected weekly from the homes of the insured
 
 Try Mme. Hunter's Hair Grower and Straightener 25c. per box
 If you are losing your hair or growing prematurely gray, come and see us.
 Scalp Treatment, Facial Massage, Manicuring. Straightening a Specialty
 Combings Made Up. My School is Open for the above work. Diplomacy Awarded
 
+Payments as low as 50c per week and repairs. Order your selections no At Butler's, 1211
+
+new a 500 per week. We Will save you money on Records
+over your selections now, cash, or credit at small premiums
+Butler's, 1211 Druid Hill Avenue
+
 Payments as low as 50c per week. We Will save you money on Records and repairs. Order your selections now, cash, or credit at small premiums
 At Butler's, 1211 Druid Hill Avenue
+
+TREBOR
+SALON
+SUPERIOR
+AIR DRESSING
+Hypoallergenic
+Moisturizing
+Anti-UV
+Anti-aging
+Anti-frizz
+Anti-wrinkling
+Anti-oxidant
+Anti-aging
+Anti-frizz
+Anti-wrinkling
+Anti-oxidant
+
+LAND
+CAP
+
+HAIR FOOD
+
+Unequalled for softening and beautifying the hair and promotes a luxuriant growth, guarantee to be free from all injurious chemicals and should be used as the most proper, hair Dressing for Ladies and children.
+
+DIRECTION—Rub thoroughly into the hair and comb hair to suit style.
+
+Prices of Superior Hair Dressing in the known original red boxes:
+
+Large boxes, 25c. Single box, 15c., Ordered by mail, 25c.
+
+Medium red tin box single 25c. Ordered by mail, 40c.

@@ -1,0 +1,404 @@
+{
+  "page": 7,
+  "image": "images/page_07.jpg",
+  "width": 2041,
+  "height": 2697,
+  "processed_at": "2026-03-06T18:26:37.596017+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 75,
+    "after_merge": 35
+  },
+  "regions": [
+    {
+      "bbox": [
+        143,
+        351,
+        638,
+        471
+      ],
+      "label": "doc_title",
+      "text": "GALL WHIPS YOUNG BRADY WITH ONE HAND",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        155,
+        922,
+        634,
+        1050
+      ],
+      "label": "doc_title",
+      "text": "G \"CYCLONE\" HITS NEW JERSEY TOWN",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        117,
+        480,
+        376,
+        902
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        380,
+        482,
+        638,
+        715
+      ],
+      "label": "text",
+      "text": "and Brady sat down for half the number of counts allowed, according to the instructions of the marshals. The same thing happened in the second, Arthur's left smash crashing into the face of the Indianan with force. He was instantly taken off the ground, which was working like a trip-hammer, caught Brady finish over the eye twice. Each time the fighter was lifted off his glove and left a knot in his shining glove and left a knot in his groovy and only the belt saved him from being finished one round sooner in a comatose condition, which was clearly dazed by the left to the head which won the fight for Stigall that he didn't know up to and beyond counts and tried to get up and fight for Stigall after the fatal fall of Reference Turner.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        379,
+        714,
+        639,
+        921
+      ],
+      "label": "text",
+      "text": "Montana Pete and a chap named Brown, who is well named, finished a plush balloon around. Both are head Race degrades of the ring. Pete had a shade in color, while Brown was the betterighter, having a plush balloon around. He worked number 4493, Arthur's trick in a show, studied fashion, which brought cheers from the two runners. A while later, a face screaming Montana at the final goe gave a dancing exhibition with his baritone as a partner, while Muche 'nun's band, which was in attendance, played the routine. The finish was a stream.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        377,
+        1060,
+        637,
+        1656
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        372,
+        1661,
+        638,
+        1992
+      ],
+      "label": "text",
+      "text": "Dover A. A..... 0 0 4 3 0 0 2 1 -1 1\nMorritown..... 0 0 0 0 0 0 0 1 -1\n\nEpiped runs\u2014Dover, 9; Morristown,\n10; Two-base hires\u2014Billey, 7; Thomas,\n11; Mifflin hires\u2014Billey, 8; Margaret,\nFirst on balls\u2014off J. Williams, 2; A.\nWilliams, 5; Struck out\u2014By J. Williams,\n5; by A. Williams, 2; Stolen bases,\nDover, 12; Morristown, 5; Double\nbays\u2014Homes to apiece to Clark,\nEnsures Time of game in hour\nand 55 minutes, Umpire\u2014Oldis, Attendance\u20145,000.\n\nThe batting averages of the Lincoln\nfor the first seven games in the TRI-\nCounty League are as follows:\n\nGP, AR, R, I, AV,\nWilliams, p. f. f. 19 19 10 50\nBanks, p. f. 1 2 0 1 500\nWilks, p. f. 2 1 1 1 500\nSales, f. f. 25 12 10 500\nall, f. f. 22 0 7 518\nagg, 2d, f. f. 27 6 186\norns, f. f. 30 1 5 167\nplay, f. f. 21 1 1 160\nclothing, f. f. 71 1 4 180\nwearing, p. f. 15 12 4 354\nwearers, f. f. 71 0 2 682",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        691,
+        401,
+        1640,
+        870
+      ],
+      "label": "text",
+      "text": "The origin of this structure",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        658,
+        2060,
+        1682,
+        2649
+      ],
+      "label": "text",
+      "text": "Gotaway in the fifth r on Monday afternoon at Hawthorne. The second day of Chicago horse racing revival drew a throng.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        639,
+        938,
+        899,
+        1348
+      ],
+      "label": "text",
+      "text": "**MOVIN-OUT HOLE**\nSt. Louis, July 21\u2014Lee Patterson, the clever quarterback, knocked out Tiger Hall of Poor Harbor in the first round at the Future A.C. last Friday night. Linn and his white manager blew into town on the 29th line and introduced themselves to the linemen, who featured the talented Alfans of Memphis and Patterson, who had first come in from Memphis, where he had fought New Orleans. Two guns two hard houts to a draw, and the two were matched, the shifft and the two were matched, almost thought that the Poor Hall had be winner they were a surprised lot when Patterson hung a haymaker on the first round. Linn's seconds carried him to wake him up and when Linn would to his right mind he woke up fighting and swung a hard right, which wrapped around Hall's neck. Linn says he wants to win in the semi-final Kid Yellow, the St. Louis for best-breaker, easily won over Hall, Kid Yellow is the gameest and the toughest little fighter ever shown in St. Louis. He is to meet Kid Grammy of Memphis.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        636,
+        1445,
+        898,
+        2006
+      ],
+      "label": "text",
+      "text": "AMERICAN GIANTS\n\nR. H. POA.A.\nBarber, f. 1 0 0 1\nHill, f. 1 0 1 4\nDunam, f. 1 0 3 0\nDunam, f. 1 0 3 0\nGrant, f. 1 1 13\nGrant, f. 1 1 13\nFrancis, f. 1 1 12\nGrazelton, c. 2 0 4\nGrazelton, c. 2 0 4\nRutchman, h. 0 0 1 6\nGam, p. 1 0 2 1\n\nTotal's 6 10 27 16\n\nST. LOUIS\n\nR. H. POA.A.\nWarfield, s. 0 1 2 2\nWallace, s. 0 1 2 2\nLyons, s. 1 1 1 0\nBlackwell, h. 0 1 0 1\nJimbo, h. 1 1 4 0\nRamet, f. 1 1 0 0\nMcDade, d. 0 0 9 1\nHayes, d. 0 1 1 2\nMelton, p. 0 0 2\n\nTotal's 3 7 22 11\nAmerican Giants. 0 2 0 0 1 0 2 2\nLouis. 0 2 0 0 1 0 2 2\nDrexel Dumon, Warfield, Blackwell,\nHoyle, g. 0 2 0 0 1 0 2\nKimbro, Grant, Fran. s. 0 2 0 0 1\nGam, f. 1, Melton, s.\n\nUNION GIANTS: 3, MILFORD.\nArielle, b. Sow, Bury, N. Y.\nMilford, Iowa, team best. the Union\nGiants of Chicago 3 to 1 Sunday. Score:\nR. H. POA.A.\nGiants. 0 1 0 0 1 0 0 3 12\nMilford. 0 1 0 0 1 0 0 3 12\nMilford. 0 1 0 0 1 0 0 1 10\nAtlanta, Simpson and White Byer-\nley and Sandheim.\n\nCUBAN STARS VS. McHENRY\nThe Cuban stars will play the McHenry\npart. A big crowd will accompany the white\nteam.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        906,
+        903,
+        1421,
+        1029
+      ],
+      "label": "doc_title",
+      "text": "BOXING GAINING A FOOTHOLD IN CUBA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        895,
+        2018,
+        1432,
+        2045
+      ],
+      "label": "paragraph_title",
+      "text": "THE START IN MONDAY'S RACE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        903,
+        1035,
+        1160,
+        1415
+      ],
+      "label": "text",
+      "text": "CHICAGO DEFENDER NEWS SERVICE\nHavana, Cuba, July 21.\u2014The boxing game, which seemed to be guiding a strong foothold among the Cubans and other residents of the island a year ago immediately following the Wilhelm-Doebel fight of April 1, 1915. It was not the holding of the championship battle, nor the result that had anything to do with injuring the game on the contrary. It was the Cubans who were just as anxious to see Jack Johnson dehonored as any person in the States. It was the aftermath of the big fight and the numerous alleged injuries that did the damage, also the one-sided marching of the few Cuban boxers in the game. Instead of matching the home talent with men of their own class of superior class, with against boxers the enthusiasm was taken out of them at the start, instead of giving some encouragement. From what I have seen of the Cubans they are very apt pupils, and their chance, would make good. They have turned out some splendid baseball players, tennis and golf experts, and also billiardists, and would make good teachers and encouragers.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        903,
+        1414,
+        1159,
+        1636
+      ],
+      "label": "text",
+      "text": "The Cuban heavyweight champion was sent against Lester Johnson, the Coltored heavyweight of the States, before he was sent against a famous boxer Johnson. The toughest men to beat in the business when he knows he has the edge, so what chance had the poor Cuban against such a powerful opponent? And other Cuban boxers the same way, and still some of the promoters expected this kind of game would appeal to the sport-loving Cubans. That is where the fight between the two boxers they never made an effort to remedy the error. Boxing can be made popular among the Cubans the same as other sports, but it will have to be handled in a way that is important to what it has been in the past.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        902,
+        1635,
+        1161,
+        1998
+      ],
+      "label": "text",
+      "text": "What is needed first of all is for some high-class teacher of the manly art to locate in Havana with an assistant or instructor where they graduate from the amateur, where the young Cubans can be given instruction in sporting. In this manner, they can learn the game thoroughly, and when they graduate from the amateur, they can learn the anatomy of the states. Then it will be time enough for them to enter the professional ranks. There is a great opening in Havana for the right hand of the Johns n-Wilford match proved that the Cubans will spend their money to see high-class matches, for it was the home matches that made up most of the money. The prizes are lower than the prizes had the prices been lower the chances are the receipts would have amounted to considerably more. The Cubans have been given more consideration in handling of the big event. They have a great liking for Jess Willard, and would like to see him again, but against a man who has posted on the game, the champions, etc. than American imagine. They follow the done in the newspapers very closely. Many prominent Cubans",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1316,
+        65,
+        1930,
+        351
+      ],
+      "label": "text",
+      "text": "P",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1164,
+        1039,
+        1424,
+        1505
+      ],
+      "label": "text",
+      "text": "have been endeavoring to get George Brody, who is referred to as the \"Father of boxing in Cincinnati\" and Captain Cushman, and an ardent rift-tropicalism, and their hands at receiving the game. Both the gentlemen have been deeply interested in the boxing game, and there is a matter in next winter! In Cincinnati Rice is visiting St. Paul and Minneapolis a month or so ago, it is understood that he talked over a promotion to the alumnus to have the jitter participant in the 1916-7 season. Globals visited Dana during the Wilford-Johnson match and has a liking for the place. Mr. Cushman is to travel the idea and would not object to working with Captain Rice on the deal.\n\nFOSTER BEATS ST. LOUIS IN LAST OF SERIES, 6 TO 3\n\nThe American Globals took the final match of their series from the St. Louis Globals at Scherringer's Park Friday with the match on the pitch by Miller pitched for St. Louis. Reno.\n\nAMERICAN GLANTS\n\nR. H. P.O.A.\nBarber, cf., 10 1 2 1\nHill, M., 10 1 2 1\nDunman, r., 0 1 4 2\nLloyd, r., 0 1 4 2\nGrant, D., 0 1 0 1 1\nFerns, r., 2 0 1 1\nRao, r., 2 0 1 1\nRao-humman, 2b., 1 1 2 1\nFoster, p., 1 1 2 1",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1165,
+        1533,
+        1422,
+        1663
+      ],
+      "label": "text",
+      "text": "R. H. P. P. A.\nWarfield, ss. 2 1 1 2\nWallace, 3b. 0 1 1 2\nLyons, cf. 0 1 1 2\nBlackwell, ff. 1 2 4 6\nKinney, 3b. 0 1 2 6\nBennet, rf. 0 1 2 6\nMcAdoe, 1b. 0 1 11 1\nCobb, c. 0 0 4 0\nMilh. r. c. 0 0 2\n\nTotals 0 1 11 4",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1164,
+        1661,
+        1422,
+        1881
+      ],
+      "label": "text",
+      "text": "Fenning\nApril 28, 2014 0 1 0 2 0 0 1 0 4\nSt. Louis.....1 0 1 0 0 1 0 6\nErrors - Barber, Lloyd, Grant, Francis,\nWarfield (2), Miller, Simm & Out-\nFoster, 5; Miller, 4; Bases on Lloyd - Foster,\n6; Miller, 4.\nCHINESE WIN IN ELEVENTH\nNew York, July 21. The Chinese Fun-\nerals team (2) defeated the Ospreys.\nHills from Sunday by the score of 2,\n2 the winning run coming in the last\nhalf of the ninth.\nR. H. Chinese.....0 0 0 0 0 1 0 0 0 1\nCyp. Hills.....0 0 0 0 0 1 0 0 0 1\nPatteries, Ake and Mark; Lindemann\nand Tee.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1221,
+        1888,
+        1369,
+        1900
+      ],
+      "label": "paragraph_title",
+      "text": "ROYAL GIANTS IN",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1164,
+        1902,
+        1424,
+        2137
+      ],
+      "label": "text",
+      "text": "Atlantic City, July 21. The Royal triants defeated the Brabarach nine here Monday 8 to 5. The score:\nPHE\nRoyal Giants...4 2 0 0 0 1 0 0 1 0 0 11 2\nBrabarach\n. 0 0 0 0 1 2 2 0 0 5 5 2\nBatteries. Williams and Webster: Robinson and Johnson.\n\nMONDAY'S RACE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1427,
+        946,
+        1684,
+        1298
+      ],
+      "label": "text",
+      "text": "IN AUTOMOBILE RACE\nPhiladelphia, Pa., July 21. - Saturday afternoon, July 8th, the Philadelphia Intruder Time Auto Run to Asbury Park, N.J., and cars were entered. The secret time was pured by adding the times suggested by the mayors of Philadelphia, Trenton and Asbury Park, together, and dividing by 2 to get an average. The average time was 12 seconds, which was not determined until the run was over, and the envelopes containing the time suggested by the three mayors were opened in Asbury Park, Mr. Ford, driving a Ford car, made the first pass, and the second seconds. There was, however, another enclosure whose time was 4 hours 1 minute and 26 seconds, which was equally close to the official secret time suggested. The first prize of $1.50 and the second prize of $2.50 was given between these two, giving each one $1.25. There were 39 different makes of cars in the run and each one had to follow the same route and have time cards punched at different places along the route. Mr. Ford, A. Ford, the only Race constraint, made the trip within 10 seconds of the time.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1482,
+        1308,
+        1628,
+        1331
+      ],
+      "label": "paragraph_title",
+      "text": "ANOTHER DREW",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1425,
+        1334,
+        1685,
+        1557
+      ],
+      "label": "text",
+      "text": "Seattle, Wash., July 21\u2014Followers of athletes in Seattle are bewildered if and when a brewery has been discovered in Ed Johnson, you may be a member of the Broadway High school sound. The sensational work of the young athlete has attracted general attention, and devoted considerable space on their sporting paper; describing his prowess. Following are the events in which Johnson has won first place in meets with the Boston Red Sox, 200-year dash, 200-year dash, discuss (state records), quarter mile, broad jump and high jump. Besides these, Johnson has run in the first dual meet of the season in which he entered Johnson won all five events in which he was entered.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1424,
+        1554,
+        1687,
+        2000
+      ],
+      "label": "text",
+      "text": "Johnson will enter the University of\nWashington next spring.\n\nJERSEY CITY GIANTS SPLIT\nNewark, N. L., July 21.\u2014The Jersey\nCity Colored Giants split even in their\nalmost game to play two games. The\nmorning game was to host wagon 10\nto 6, the Giants' getting to the white\nboys in the last half of the twelfth\nframe. The afternoon game went to the\nPensides, the crack New York city\nmi-rope team. The scores:\n\nR. H.E.\nGiants ..... 0 0 2 0 1 2 0 1 0 0 0 4 -10 14\nPassade ... 0 1 0 2 0 1 0 0 0 0 -6 9 3\nBatteries\u2014Tate and Johnson: Desch\nand Volt.\n\nR. H.E.\nGiants ..... 0 1 0 0 1 0 0 0 -2 5 3\nPassade ... 3 0 2 0 1 0 0 0 -7 1 0\nBatteries\u2014Brown, Culver and Jack\nHess and Davis.\n\nUNION GIANTS STILL WIN\nSummer, Iowa, July 21.\u2014The Chicago\nUnion Giants won another game this\nafternoon when they jumped on the loca-\ntion 14 safe hits Thursday. Simpson was\nto keep them safe, but managed\nbelding with men on the bases featured\nthe game. The score:\n\nR. H.E.\nGiants ..... 0 0 1 0 1 0 1 4 -14 1\nSummer ..... 0 0 1 0 1 0 1 4 -14 1\nBatteries\u2014Simpson and White; An-\nder and Wood.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1689,
+        363,
+        1946,
+        494
+      ],
+      "label": "doc_title",
+      "text": "ROYAL GIANTS BEAT CRACK BACHARACHS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1684,
+        503,
+        1957,
+        1094
+      ],
+      "label": "text",
+      "text": "Atlantic City, N. J., July 21.\u2014The fast moving Bachrach Giants again met their Waterford Monday afternoon before their Iowa front row park. The team this time was the park of Brooklyn Royal Giants, who downed the seashore lads to the tune of 8 to 6. The victory was hardly ever in doubt, as theators getting a big lead in the opening.\n\nThe Gothamites opened with a degrueful innay by traking across four the boy wounded. Grading Roy Roberts, the boy wounded, stanza practically took the peep out of the locals, who were very timid, since they was their first \"big game.\" The singled through third. On a great double steal both advanced. When Captain Crocket muffed \"Specs\" Webster's high fly, Hewitt was tallied on a long single to left by Gordon. The latter gained the keystone bag on a passed ball by Johnson. Handy scricified him to third. Earle tallied on a long single to left by Gordon. Thomas Williams then came to Roy Roberts' rescue. The slide was retrained on a beautiful double play, which was executed by Landy, James and Cuming, for only one session. I. the second the R's pulled across a run. Crocket singled through second and in at attempt to push Pugh tossed the ball in the diving room. Crocker raced home when Hawitt errored Crump's wallop.\n\n\"Stringbean\" Williams did the real money in his opposition, the four hits of inlet park tenants well scattered. Only two earned runs were made off him.\n\nThomas Williams, the wonder at catching his opponent, with associations put to together made nine errors. Featured by four fast double plays. The battles did most of the work. The",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1688,
+        1101,
+        1949,
+        1637
+      ],
+      "label": "text",
+      "text": "BROOKLYN GIANTS\nA. B. R. R. H. O. A. E.\nKintle, ss... 4 1 1 2 1 4 3\nKintle, 4 1 1 2 1 2 4\nWebster, c. 5 1 2 2 2 1 4\nEarle, cf. 4 2 2 2 0 0 1\nHandy, 2b... 2 1 2 2 0 0 1\nA. Willins, p. 4 0 0 0 0 1\nGatewood, lb. 4 0 1 1 1 0\nDespert, if. 3 0 1 3 0 0\nTotals... 33 8 0 27 11\n\nBACHARACH GIANTS\nA. B. R. R. H. O. A. E.\nMack, 3b... 3 0 0 0 1 4\nJames, 2b... 3 0 0 0 1 4\nLindsay, ss. 4 0 0 5 1 5\nLindsay, ss. 4 0 0 5 1 5\nCuming, lb. 3 0 0 12 0 0\nCrocket, if. 1 1 1 0 0 1\nCrump, pf. 3 0 1 0 1 4\nCrump, pf. 3 0 1 0 1 4\nRoberts, perf. 3 0 0 0 1 4\nJohnson, c. 4 0 1 3 0 0\nTotals... 31 5 4 27 15 3\nBrooklyn... 0 1 0 0 2 0 0 5\n\nThree-base hit-Earle. Two-base hit\n-Despert. Struck out-By T. Williams.\nBy Williams. 4. First base on\ncalling out. By Williams.\n2. Off A. Williams. 5. Hits-off\nRoberts. 3 in 1-3 of an innning; Off\nT. Williams. 6 in 2-3 innings. Wild pitch\nby pitcher.-By T. Williams.\nBy pitcher.-By A. Williams. Crump. Passed ball\nJohnson. Double plays.-Dilworth to\nLandy to James to Cuming.\nLandy to James to Cuming to\nGatewood to Kindle. Sacrifice hit\nHandy. Cuming. Stolen bases.-Hewitt.\nKindle (2). Webster, Gatewood, T. Wil-\nliams. Johnson. Time of game.\nOne hour and three minutes. Empires\n-lining and hoft.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1747,
+        1649,
+        1884,
+        1668
+      ],
+      "label": "paragraph_title",
+      "text": "A. B. C.'S LOSE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1690,
+        1671,
+        1944,
+        2216
+      ],
+      "label": "text",
+      "text": "Indianapolis, Ind., July 21. \u2014 Taylor's A. C. G.'s lost to the Peru Grass Sunday afternoon of 23. The game was a pitcher's battle between Olympias and J. Dugan. The colored hurle allowed five hits, and Dugan allowed eight. The batting of Ben Taylor, who register three safe swats, was the most prominent feature of the game. Scores:\n\nA. B. Cs. ... 1001 000000\nPoet ... 0010 00200\nBatteries \u2014 Dismukes and Poet\nDugan and Carroll.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1719,
+        2233,
+        1914,
+        2250
+      ],
+      "label": "paragraph_title",
+      "text": "Tenth Cavalry Pictures",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1688,
+        2256,
+        1948,
+        2307
+      ],
+      "label": "text",
+      "text": "Best pictures ever published of the \"creature\"\nfrom the *Ancient Infinity*, our Colored\ncolored pictures. Full of life and fun,\nwork quality guaranteed. Money refunded to\nany purchaser not pleased. Size 1824x906.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1686,
+        2306,
+        1949,
+        2647
+      ],
+      "label": "text",
+      "text": "new principal of Tuskegee, Major Motors,\nnew principal of Tuskegee, Motors,\nof the Tenth District; Douglas, Dunbar, Phillips\nWheeler, Crane, Architecture and other Negro\nCobblestones. Size 1134 x 834. Each $1.00 per dozen, 20 art pictures\nwith Colored subjects. Agents wanted everywhere.\n\nDOUGLAS SPECIALTIES CO.\n3548 Vernon Ave., Dept. A CHICAGO, IL\n\nRelleves CATARRH of\nthe BLADDER\nand all Discharges in 24 HOURS\n\nSANTAL CAPSULES\nMID*",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1958,
+        824,
+        1978,
+        933
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
+    }
+  ]
+}

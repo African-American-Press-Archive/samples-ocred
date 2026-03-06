@@ -2,6 +2,8 @@ VOLUME VIII. NUMBER 23.
 
 Miss Mary Boyd, one of our highly respected women, died last Monday and was buried Thursday at Cassopoli, Mich. She leaves a good father and mother to mourn her, and many friends.
 
+A Fearless, HONEST CHAMPION of the People
+
 ## CHAMPION JACK JOHNSON IS SENTENCED TO YEAR IN PRISON
 
 Heavyweight Pugilist Convicted Under White Slave Law Is Also Fined $1,000.
@@ -61,70 +63,25 @@ n't, ask mother.
 
 # The Chicago Defender.
 
-REV. GEORGE T. SCOTT
-PREACHES TO GRADU-
-ATES AT HAMPTON
+REV. GEORGE T. SCOTT PREACHES TO GRADUATES AT HAMPTON
 
-Dr. Hollis B. Frissell, Principal, Is
-Able to Address the Students After
-Several Weeks Illness—Band Conc-
-t—Boat Races.
+Dr. Hollis B. Frissell, Principal, is Able to Address the Students After Several Weeks Illness—Band Concert—Boat Races.
 
 Hampton Institute Press Service.
 
-[Special to The Chicago Defender.]
-Hampton, Va., June 6—Rev. George
-T. Scott, associate chaplain at Hampton
-Institute, preached the baccalaureate sermon to the Hampton graduating classes. "By their fruits ye shall
-know them" was Mr. Scott's text. His
-theme was the senior motto, "Let deeds prove." He urged persistent and selfish service to men.
+[Special to The Chicago Defender.] Hampton, Va., June 6—Rev. George T. Scott, associate chaplain at Hampton Institute, preached the baccalaureate sermon to the Hampton graduating classes. "By their fruits ye shall know them" was Mr. Scott's text. His theme was the senior motto, "Let deeds prove." He urged persistent and unselfish service to men.
 
-In the annual competitive drill for
-the Winston cup, a silver trophy origi-
-nally given to Hampton by M.J.
-Thomas W. Winston, U. S. A., the
-prize was won by the company com-
-manded by Bishop Brown of Cuthert-
-Ga. The judges were Captain H. T.
-Matthews and Captain R. I. McKinney,
-both of Fortress Monroe.
+In the annual competitive drill for the Winston cup, a silver trophy originally given to Hampton by Mnj. Thomas W. Winston, U. S. A., the prize was won by the company commanded by Bishop Brown of Cuthbert, Ga. The judges were Captain H. T. Matthews and Captain R. I. McKinney, both of Fortress Monroe.
 
-Interesting and exciting boat races
-in navy gigs were rowed on Hampton
-river. A silver cup was presented to
-the Junior Middler crew, representing
-the Hampton Day School.
+Interesting and exciting boat races in navy gigs were rowed on Hampton river. A silver cup was presented to the Junior Middler crew, representing the Hampton Day School.
 
-The annual band concert, under the
-direction of Professor William N. O.
-Tessmann, included classical and pop-
-ular music.
+The annual band concert, under the direction of Professor William N. O. Tessmann, included classical and popular music.
 
-Class day exercises were held by
-the agricultural, business, trade and
-academic classes. The Hampton certi-
-fences were presented by Dr. Geo.
-P.I. Phenix, vice principal of Hampton
-Institute.
+Class day exercises were held by the agricultural, business, trade and academic classes. The Hampton certificates were presented by Dr. Geo. P| Phenix, vice principal of Hampton Institute.
 
-After several months of illness Dr.
-Hollis B. Frissell, principal of the
-Hampton School, was able to address
-the senior class and present the di-
-plomas to the students. Dr. Frissell
-said:
+After several months of illness Dr. Hollis B. Frissell, principal of the Hampton School, was able to address the senior class and present the diplomas to the students. Dr. Frissell said:
 
-"We expect great things from you
-because you have had great opportu-
-nities. I do not think we shall be
-disappointed in you. I want you always
-to be glad and strong and courageous,
-no matter what happens, no
-matter what disappointments you may
-hive. I want you to remember what
-General Armstrong was so fond of
-saying about gaining advantages from
-our disadvantages."
+"We expect great things from you because you have had great opportunities. I do not think we shall be disappointed in you. I want you always to be glad and strong and courageous, no matter what happens, no matter what disappointments you may have. I want you to remember what General Armstrong was so fond of saying about gaining advantages from our disadvantages."
 
 ## GRAND RAPIDS.
 
@@ -140,19 +97,15 @@ Mrs. Minnie Woodfall gave a birthday party last Wednesday evening.
 
 Miss Bessie Wallat, of Bay City, is visiting her sister, Mrs. Robert Golns. The Chicago Defender can be bought at Basil E. Ray's barber shop, 119 Lyon street.
 
-taking the maser. R. Robert Gouls.
-The Chicago Defender can be bought
-at Basil E. Ray's barber shop, 119
-Lyon street.
-
 ## BATTLE CREEK.
 
-Mr. and Mrs. William Griffen of West Van Buren street were visited by the stork lately and a fine baby boy presented to them. Mother and babe are doing nicely. Mr. G. Burrell Williams will leave shortly for Lansing, where he will reside permanently. Rev. William Wood of Ypsilanti attended the funeral of Rev. Guston.
+Mr. and Mrs. William Griffen of West Van Buren street were visited by the stork lately and a fine baby boy presented to them. Mother and babe are doing nicely.
 
-attended the funeral of Rev. Gully,
-Mrs. C. E. Williams entertained at
-dinner Sunday Revs. William Woods,
-Gillard and E. W. Edwards.
+Mr. G. Burrell Williams will leave shortly for Lansing, where he will reside permanently.
+
+Rev. William Wood of Ypsilanti attended the funeral of Rev. Gurley.
+
+Mrs. C. E. Williams entertained at dinner Sunday Revs. William Woods, Gillard and E. W. Edwards.
 
 Mrs. C. E. Williams entertained the Church Aid last Friday.
 Miss Emily Griffen will graduate from high school in June.
@@ -164,6 +117,8 @@ He left a daughter, a step daughter nieces and a host of friends. Funeral sermon
 
 Prayer services of the Old Time Methodists were held at the home of Mrs. Hatcher, 1606 North Burdick street, and were largely attended, and a spiritual meeting held. Their church at 523 North Rose street, is doing wonderful work under the leadership of Rev. Fagan.
 
+CHICAGO, ILLL. SATURDAY, JUNE 7, 1913.
+
 # AT STATE CAPITAL SPRINGFIELD NOTES LEGISLATURE NEWS
 
 Major Jackson's Ability Recognized by Chairman McNichols of the Committee on Miscellaneous Subjects, of Which He Is a Member—Appoints Him on a Sub-committee of Three to Investigate and Report on House Bill No. 516, Introduced by Representative Hilton of Chicago—The Bill Requires the Consideration of Men of Wide Experience and of Some Ability—Our Representative Considered Equal to the Occasion and Has Entered Upon His Task.
@@ -174,25 +129,21 @@ For an Act to Define Trusts and Conspiracies Against Trade, Declaring Contracts 
 
 Springfield, Ill., June 6 (Special to The Chicago Defender).—Our representative's fine work is seen in the delay of the house committee to consider the full crew bill. The Major has talked the life out of the bill and it is practically dead. The committee on railroads, who has the bill in hand, listened to the plea of the Major and have tucked it away for more than four weeks. No one has been able to cut it loose from its moorings.
 
-Two more inter-marriage bills were introduced, one by Mr. Hollenbeck and one by Mr. Poorman. They were referred to the committee on judiciary, Chairman Karch (Democrat), after a conference with our representative, labeled the bills "bubbish" and sent them to the happy hunting grounds.
+Two more inter-marriage bills were introduced, one by Mr. Hollenbeck and one by Mr. Poorman. They were referred to the committee on judicial, Chairman Karch (Democrat), after a conference with our representative, labeled the bills "rubbish" and sent them to the happy hunting grounds.
 
-The full crew bill was considered in committee Tuesday night. The session of the railroads committee lasted two hours and a half. The bill was attacked by Representative Jackson and defended by Mr. Connor of the trainmen's union. A parliamentary struggle ensued in which our representative, the Major, came out with flying colors. He defeated the motion to report the bill out of the committee with the recommendation that it do pass. He defeated the attempt of the trainmen to amend the bill and finally with fine parliamentary strategy, and for which he is noted, succeeded in having the bill referred to a sub-committee of five of which Hon. Maurice J. Clark of the First district is chairman and who is a staunch friend of the colored people. It looks like the Major has tagged the bill with the Indian sign. Truly he is representing the race in the legislature and the colored railroad men should feel grateful of his effort and service in protecting their employment and destroying the attack of the enemy who would legislate them out of jobs they have held for more than forty years.
+The full crew bill was considered in committee Tuesday night. The session of the railroads committee lasted two hours and a half. The bill was attacked by Representative Jackson and defended by Mr. Connor of the trainmen's union. A parliamentary struggle ensued in which our representative, the Major, came out with flying colors. He defeated the motion to report the bill out of the committee with the recommendation that it do pass. He defeated the attempt of the trainmen to amend the bill and finally with fine parliamentary strategy, and for which he is noted, succeeded in having the bill referred to a sub-committee of five of which Hon. Maurice J. Clark of the First district is chairman and who is a staunch friend of the colored people. It looks like the Major has tagged the bill with the Indian sign. Truly he is representing the race in the legislature and the colored railroad men should be grateful of his effort and service in protecting their employment and destroying the attack of the enemy who would legislate them out of jobs they have held for more than forty years.
 
 Hon. Charles A. Karch, Democrat, Chairman of the Judiciary Committee, Labels the "Jim Crow" Bills "Rubbish" and So Notifies the Introducers of the Same.
 
 Gentlemen: If you have any measures pending before the house judiciary committee, and desire them to be considered, you are requested to attend its sessions and call same up. It is my intention to cease holding regular committee meetings at end of next week. It is earnestly hoped, in view of the crowded calendar in the house that you will not insist on sending out bills unless they contain matters of pressing importance, or administration policies. I mean thereby to eliminate the rubbish.
 
-J. ALFRED ANDERSON
-ATTENDS WEDDING
-AT CINCINNATT
-
 ## J. ALFRED ANDERSON
 ATTENDS WEDDING
 AT CINCINNATT
 
-Famous Song Writer and Popular Manager of Provident Hospital Makes Merry by Mingling with "Newlyweds." Mr. T. Alfred Anderson, the popular manager of business affairs at Provident hospital, author of "If I Forget" and other popular lyrics, had a merry turn this week and, forgetting his routine duties, he hled himself to Cincinnati, O., and became one of the wedding party that united Miss Myra Jones and Dr. Henry Clay Bryant.
+Famous Song Writer and Popular Manager of Provident Hospital Makes Merry by Mingling with "Newlyweds."
 
-Mr. T. Alfred Anderson, the popular manager of business affairs at Provident hospital, author of "I F Forge" and other popular lyrics, had a merry turn this week and, forgetting his routine duties, he hired himself to Cincinnati, O., and became one of the wedding party that united Miss Myra Jones and Dr. Henry Clay Bryant. He left the city on Monday noon, via Monon Hoosier Flyer, and returned on Thursday morning, accompanied by the bride and groom, who will make Chicago the first point in their honeymoon. Among the first entertainments in their honor will be a dinner by Mr. Anderson.
+Mr. T. Alfred Anderson, the popular manager of business affairs at Provident hospital, author of "If I Forget" and other popular lyrics, had a merry turn this week and, forgetting his routine duties, he hled himself to Cincinnati, O., and became one of the wedding party that united Miss Myra Jones and Dr. Henry Clay Bryant.
 
 He left the city on Monday noon, via Monon Hoosier Flyer, and returned on Thursday morning, accompanied by the bride and groom, who will make Chicago the first point in their honeymoon. Among the first entertainments in their honor will be a dinner by Mr. Anderson.
 
@@ -273,9 +224,6 @@ Chicago, Ill.
 
 "The Silent City of the Dead" Is Filled with Hundreds of Relatives and Friends of Those Interred There Who Decorate Their Graves with Flowers and Flags—Cemetery a Scene of Beauty and Animation—Many Improvements that Please Lot and Grave Owners.
 
-REV. CALLIS AND CARY B.
-LEWIS SPEAKERS
-
 ## REV. CALLIS AND CARY B.
 LEWIS. SPEAKERS.
 
@@ -291,21 +239,23 @@ At the cemetery the first thought was the decoration of the graves; after that c
 
 ## LAKE FOREST NEWS.
 
-Lake Forest, Ill., June 6.—The First Baptist Church, Dr. Stokes, pastor, made a quick financial effort Sunday and raised $82.78, which amount relieves the church of all indebtedness and takes up the outstanding mortgage. We are all very proud of Dr. Stokes. We think he is the right man in the right place. His clubs reported as follows: Club No. 7, Mrs. Maggie Davis, president, $61.83; Club No. 8, Mr. Ell Hart, president, $61.38; Club No. 5, Miss Della Dwarf, president, $46.66; Club No. 6, Mrs. Esther Smith, president, $38.70; Club No. 3, Mrs. Cora Frankes, president, $33.95; Club No. 2, Mrs. Lula Stanley, president, $27.25; Club No. 4, Mrs. Fannie Williams, $24.05; Club No. 1, Mr. John Caldwell, president, $17.23; miscellaneous, $51.75; Total, $62.78.
+Lake Forest, Ill. June 6.—The First Baptist Church, Dr. Stokes, pastor, made a quick financial effort Sunday and raised $83.78, which amount relieves the church of all indebtedness and takes up the outstanding mortgage. We are all very proud of Dr. Stokes. We think he is the right man in the right place. His clubs reported as follows: Club No. 7, Mrs. Maggie Davis, president, $61.83; Club No. 8, Mr. Eli Hart, president, $61.38; Club No. 5, Miss. Della Ward, president, $46.66; Club No. 6, Mrs. Esther Smith, president, $38.70; Club No. 3, Mrs. Cora Frankel, president, $33.95; Club No. 2, Mrs. Lula Stanley, president, $27.25; Club No. 4, Mrs. Fannie Williams, $24.05; Club No. 1, Mr. John Caldwell, president, $17.23; miscellaneous, $51.75; Total, $62.78.
 
-The citizens of Waukean, Ill., are now making a special effort to procure a church in said city and ask the question of all. They have a special day set apart for this collection, which is June 29. Rev. H. E. Johnson of that city is pastor of this church and is well known of the Reformers. Chief Bailey is preparing to give the "Forward March" on to East St. Lake, where the annual conclave takes place with the Rosebud Auxiliary leading the van, June 25, 26 and 27. You may enroll Lake Forest Nursery. We'll be there.
+The citizens of Waukean, Ill., are now making a special effort to procure a church in said city and ask the cooperation of all. They have a special day set apart for this collection, which is June 29. Rev. H. E. Johnson of that city is pastor of this church and is well known throughout the north shore and Chicago.
 
-The People's Progressive Literary Circle is moving forward, trying to keep time with its aggressive president, Mr. Charles Tray.
+Chief Balley was out last night and met at their usual place of meeting a full quorum of True Reformers. Chief Balley is preparing to give the "Forward March" on to East St. Louis, where the annual conclave takes place with the Rosebud Auxiliary leading the van, June 25, 26 and 27. You may enroll Lake Forest Nursery. We'll be there.
+
+The Young People's Progressive Literary Circle is moving forward, trying to keep time with its aggressive president, Mr. Charles Tray.
 
 Mrs. Edgar Slaughter is convalescing nicely; a fine baby boy adorns the home.
 
-Notice! Mr. Edgar L. Slaughter opens his confectionery Sunday, June 8. in his former place, Oakwood avenue, and be ready to serve you with all kinds of cool drinks and delicious ice cream, sundaes and sodas.
+Notice! Mr. Edgar L. Slaughter opens his confectionery Sunday, June 8, in his former place, Oakwood avenue, and will be ready to serve you with all kinds of cool drinks and delicious ice cream, sundaes and sodas.
 
 Côme and give him a call Sunday, June 8.
 
 Miss J. Bridgman, who has been visiting for eight months in Denver, Colo., is now in Lake Forest with her cousin, Mrs. Walker Sales.
 
-Mrs. J. B. Slaughter of this city left Sunday, June 1, for Watertown, Tenn., to visit relatives and friends. Her stay will be an indefinite one.
+Mrs. J. B. Slaughter of this city left Sunday, June 1, for Wetwater, Tenn., to visit relatives and friends. Her stay will be an indefinite one.
 
 The baseball team of Lake Forest played their opening game for the season in North Chicago Friday, May 30, and was defeated by a score of 4 to 2, McWalton of Lake Forest team striking out fifteen men.
 
@@ -337,9 +287,9 @@ BRIDE IS DIRECTOR OF CHOIR.
 
 Groom Is Leading Basso and One of Chicago's Well Known Citizens—Impressive Remarks of Rev. J. F. Thomas.
 
-Mr. David B. Peyton, Sr., and Mrs. Blanche Wade Dorsey were united in marriage Sunday night at Ebenezer Baptist Church, following the usual service. The wedding service was unique. Both of the contracting parties are members of the choir. The bride is the director and the groom the leading basso. The choir loft is directly above the pulpit and it was directly after a most soul-stirring sonnet that the pastor. Rev. J. F. Thomas, turned and faced the singers and bound for life two of the most prominent members.
+Mr. David B. Peyton, Sr., and Mrs. Blanche Wade Dorsey were united in marriage Sunday night at Ebenezer Baptist Church, following the usual service. The wedding service was unique. Both of the contracting parties are members of the choir. The bride is the director and the groom the leading basso. The choir loft is directly above the pulpit and it was directly after a most soul-stirring sermon that the pastor, Rev. J. F. Thomas, turned and faced the singers and bound for life two of the most prominent members.
 
-The bride and groom were unattended, and there was no wedding march, only the solemn sounds of an old-fashioned hymn. But radiant in smiles, the couple stood forth. Rev. Thomas pronounced man and wife. Had it been possible, the audience would have cheered, but they could not within those sacred walls.
+The bride and groom were unattended, and there was no wedding march, only the solemn sounds of an old-fashioned hymn. But radiant in smiles, the couple stood forth. Rev. Thomas pronounced them man and wife. Had it been possible, the audience would have cheered, but they could not within those sacred walls.
 
 The bride looked charming in a well fitting cream colored suit of serge, with a hat of straw, adorned with magnificent white breasts.
 
@@ -366,6 +316,8 @@ Mr. R. E. Manning, manager of the Indianapolis World, and confidential messenger
 
 Mr. Manning is one of the "big ones," as things are judged in the political arena, but he still declares that he does not want an office, while his friends say don't be surprised if President Wilson names him for one of the big jobs. Mr. Manning stopped at the Hotel Brunswick.
 
+THE WORLD'S GREATEST WEEKLY NEWSPAPER
+
 PRICE 5 GENTS
 
 ## U. S. NAVY DENIES DISCRIMINATION AGAINST RACE
@@ -378,20 +330,18 @@ Secretary Daniels and Rear Admiral Charles J. Badger Find "Jim Crow" Charges Unw
 SAME CLASS WERE
 NOT IN PARADE
 
-Mr. Cleveland G. Allen's Suggestion That Ships Be Manned by Members of the Race and Commanded by White Officers Is Considered Inadvisable and Impracticable by the Naval Officers—The Letter in Full—The 6,000 Men Representing the Navy in the Parade Were White Because No Man of Color Had a Right in Line.
+Mr. Cleveland G. Allen's Suggestion That Ships Be Manned by Members of the Race and Commanded by White Officers Is Considered Inadvisable and Impracticable by the Naval Officers—The Letter in Full—The 6,000 Men Representing the Navy in the Parade Were White Because No Man of Color Had a Right In Line.
 
 [Special to The Chicago Defender.]
-New York. June 6.—Secretary of the Navy Daniels and Rear Admiral Chas. J. Badger, now in command of the Atlantic fleet, have completed an investigation of the charge of discrimination in the navy against colored enlisted men, and find that the charge is unwarranted, as there is no evidence of discrimination.
+New York, June 6—Secretary of the Navy Daniels and Rear Admiral Chas. J. Badger, now in command of the Atlantic fleet, have completed an investigation of the charge of discrimination in the navy against colored enlisted men, and find that the charge is unwarranted, as there is no evidence of discrimination.
 
-When 6,000 men of the navy paraded here last fall and no colored men were seen in line, some of the Negrob leaders here concluded that the Negro enlisted men were not permitted to parade. Mr. Cleveland G. Allen of 252 West 53d street, representing the complainants, wrote to Secretary Daniels in April, calling his attention to the alleged discrimination, and suggesting that a way to avoid similar conditions in future might be in having some warships manned entirely by colored men, commanded by white officers.
+When 6,000 men of the navy paraded here last fall and no colored men were seen in line, some of the Nebrig leaders here concluded that the Negro enlisted men were not permitted to parade. Mr. Cleveland G. Allen of 252 West 53d street, representing the various complainants, wrote to Secretary Daniels in April, calling his attention to the alleged discrimination, and suggesting that a way to avoid similar conditions in future might be in having some warships manned entirely by colored men, commanded by white officers.
 
-Entire Colored Crews the Remeuy.
+Entire Colored Crews the Remedy.
+To have ships manned by colored men, the Secretary and Admiral agree, would be "inadvisable and impracticable." Secretary Daniels has sent a letter to Allen, enclosing with 12 a report from Admiral Badger. The letter says:
+"My Dear Sir: Referring further to your letter of April 12, complaining of alleged discrimination against colored enlisted men in the naval service. I enclose for your information a copy of a communication received from the commander in chief of the Atlantic fleet, to whom your letter was referred. The department believes with Admiral Badger that you are misinformed as to the conditions of colored men in the navy, and further concurs with him as to the inadvisability of having ships in the navy manned entirely by colored enlisted men commanded by white officers."
 
-To have ships manned by colored men, the Secretary and Admiral agree, would be "inadvisable and impracticable." Secretary Daniels has sent a letter to Allen, enclosing with it a report from Admiral Badger. The letter says:
-
-"My Dear Sir: Referring further to your letter of April 12, complaining of alleged discrimination against colored enlisted men in the naval service, I enclose for your information a copy of a communication received from the commander in chief of the Atlantic fleet, to whom your letter was referred. The department believes with Admiral Badger that you are misinformed as to the conditions of colored men in the navy, and further concurs with him as to the inadvisability of having ships in the navy manned entirely by colored enlisted men commanded by white officers."
-
-Colored Men Are Only (More
+Colored Men Are Only "Unauthorized"
 
 Colored Men are Only "messmen."
 

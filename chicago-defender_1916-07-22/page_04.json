@@ -1,0 +1,745 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2268,
+  "height": 3325,
+  "processed_at": "2026-03-06T18:21:00.014260+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 109,
+    "after_merge": 66
+  },
+  "regions": [
+    {
+      "bbox": [
+        167,
+        447,
+        483,
+        1025
+      ],
+      "label": "text",
+      "text": "crin & Cross\nin the middle\nlon is at the\nroyal\ny Park, N. J. The Dark-\ns a vaudeville and musical\nration consisting of four\nhave made a remarkable",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        33,
+        611,
+        478,
+        1157
+      ],
+      "label": "text",
+      "text": "PERRIN & CROSBY\n\ntation in the East. Perrin & Cross-one of the oldest teams in vaude-\nThey have worked every circuit importance in America, both being clever performers. Their routing be published in the near future.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        200,
+        1172,
+        426,
+        1195
+      ],
+      "label": "paragraph_title",
+      "text": "CASEY AT THE BAT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        167,
+        1199,
+        483,
+        1695
+      ],
+      "label": "text",
+      "text": "rurgely in comic gudge recently asked DeWolf Stopper in connection on his new Triangle picture, \u201cCasey the Bat.\u201d Let him tell it himself. \u201cOf course Casey has to make a home, and he has to strike out. The bat was easy; but the first did not seem well\u2014quite so simple.\n\nWe rented a little ball park out in makershim and the local folks turned in force to fill the grandstand and teachers. The teams were made up by from Lankershim players and by from Fine Arts players, and they good teams.\n\noily Mackeler! What fun we had! out to bat for the home run hit, and it like old times. The pitcher was man and he meant business. He came a hot one across the edge of place, and the ball went straight up the pair. The next was right over him, and I shapped it on the scooter! I scaled out over the field didn\u2019t hurt. thirty feet from the l\u2014a rest come-run hit. I was of it. Not the ball so hard it photograph and no one will ever for sure whether the proudest vement of my motion picture calls real or not. Can you beat it?\u201d his great comedy feature will be on The States theater on Saturday 22, with the usual 3 o\u2019clock time.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        221,
+        1709,
+        402,
+        1737
+      ],
+      "label": "paragraph_title",
+      "text": "DUDLEY NIGHT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        195,
+        1741,
+        479,
+        2012
+      ],
+      "label": "text",
+      "text": "tuesday night. July 12th, was the Promoter Will Smith chose as Night at the Columbia Theater, he great comedian is being feath Dan Marlon's big spectacle, of 75 choice parquette seats and aside from many men once in the social and busi both the St. Louis Glants and n Glants ball teams attend. Mr. Dudley was the beautiful floral offering, pre be Foster, the world's fa and manager of the s, and after the show the biding Dudley and Billy Dunn & Wright's cafe te streets, and from mes' Elite Cafe, where",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        307,
+        2022,
+        400,
+        2035
+      ],
+      "label": "paragraph_title",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        186,
+        2057,
+        480,
+        2413
+      ],
+      "label": "text",
+      "text": "St. Louis, and over secre-\ntamente, are in the\nguest of Mrs. Arnold, 3611 State\nThey arrived last Sunday and\nhere until July 24. Tuesday of\nthey paid the Defender office a\nwith the editor they talked\npossibilities of the Defender.\nI said that she hoped the\nvisited the city, she would\ner in it own office build-\n\nODDLY: HURT\nJuly 21.\u2014While little\non his way for a barrel\nbecame frightened by\nand as a result the boy\nwrote wagon and sus-\nsion on his second meta-\nproved a general shak-\nter the reporter was pass-\ncured accident.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        308,
+        2419,
+        482,
+        2723
+      ],
+      "label": "text",
+      "text": "IEW",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        167,
+        2723,
+        483,
+        3064
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        678,
+        301,
+        816,
+        399
+      ],
+      "label": "text",
+      "text": "the Packet.\"\n\"Mysteries of prus,\" \"Between Sunday brings inn of Sorrow,\" \"a good cast.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        488,
+        465,
+        818,
+        549
+      ],
+      "label": "text",
+      "text": "cee.\" \"The Iron\nClaw,\" Sandy Jar.\n\"Who's Guilty,\" e's Blind Alley.\nSunday we have Kapryn Williams in\n\"Into the Primitive\" and other good\npictures.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        565,
+        559,
+        743,
+        576
+      ],
+      "label": "paragraph_title",
+      "text": "THE WASHINGTON",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        487,
+        576,
+        817,
+        676
+      ],
+      "label": "text",
+      "text": "We have many big features during the present week, chief among them being \"The Man in the Street,\" \"Ashes,\" \"The Reprisal,\" \"Sona of the Sea,\" \"Peg o' the King\" and \"What Happened in 22.\" Sunday brings a big Fox Feature and other good pictures.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        590,
+        687,
+        715,
+        704
+      ],
+      "label": "paragraph_title",
+      "text": "THE STATES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        483,
+        702,
+        817,
+        887
+      ],
+      "label": "text",
+      "text": "We have an entire new set of ventilating fans and as a consequence The States is the coolest spot in the district. We had \"The Submarine,\" \"Deutschland,\" \"With the Masked Rider\" on Monday, and following came \"Iron Claw No. 17,\" \"The Apostle of Vengeance,\" \"Naked Hearts,\" \"The Girl With the Green Eyes,\" \"Mysteries of Myra,\" and \"Casey at the Bat.\" Sunday brings the great Vitagraph blue ribbon special, \"Kennedy Square\" and other features.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        594,
+        900,
+        723,
+        916
+      ],
+      "label": "paragraph_title",
+      "text": "THE ATLAS :",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        484,
+        916,
+        817,
+        1043
+      ],
+      "label": "text",
+      "text": "\"Playing With Fire,\" a big feature with Olga Petrova, drew well on Monday. During the balance of the week we had \"The Heart of a Child,\" \"Peg o' the Ring,\" \"The Snow Bird,\" \"The Iron Claw\" and \"The Perils of Divorce.\" Sunday brings Bessie Barriscale in the Triangle feature, \"Not My Sister,\" also a two-reel Keystone comedy.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        576,
+        1052,
+        730,
+        1068
+      ],
+      "label": "paragraph_title",
+      "text": "THE FOUNTAIN",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        485,
+        1068,
+        818,
+        1208
+      ],
+      "label": "text",
+      "text": "Monday we doubled \"The Iron Claw\" and \"Fit For Burning\" and played to excellent business. During the remainder of the week we had \"The Secret of the Submarine,\" \"Mysteries of Myra\" \"Gold and the Woman,\" \"Tangled Fates,\" \"Who's Guilty\" and \"The Magdalene.\" Sunday brings Wm. Farnum in \"Fighting Blood\" and a Ham and Bud comedy.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        547,
+        1218,
+        759,
+        1254
+      ],
+      "label": "doc_title",
+      "text": "NEW YORK NOTES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        485,
+        1298,
+        816,
+        1487
+      ],
+      "label": "text",
+      "text": "The Stock Company's offering this week to good business is \"In the Bishop's Carriage.\" The cast is one of the best ever seen at this house and includes Miss Mattie Wilkes, Will A. Cooke, J. K. Mores, Andrew Bishop, Lawrence Cheault, Walter Robison, Inez Clough, Carlotta Freeman, Anita Bush, Fred Cummins, A. L. Pryor, Geo E. Brown, Charles Taylor, S. Huddfield. Mr. Eugene Elmore, manager here, has also taken charge of the Colonial Theater, Baltimore, Md.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        582,
+        1494,
+        718,
+        1512
+      ],
+      "label": "paragraph_title",
+      "text": "THE LINCOLN",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        486,
+        1517,
+        816,
+        1561
+      ],
+      "label": "text",
+      "text": "A good vaudeville bill is being presented here in conjunction with a fine line of photophys.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        558,
+        1570,
+        747,
+        1587
+      ],
+      "label": "paragraph_title",
+      "text": "NEW YORK NOTES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        488,
+        1595,
+        817,
+        1641
+      ],
+      "label": "text",
+      "text": "\"Billy B. Jones, the ballad singer, is featuring\n\"Good-Rise, Good Luck, God Bless You,\" and\n\"My Mother's Rosary\" at South Beach and Rockaway.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        487,
+        1638,
+        818,
+        1665
+      ],
+      "label": "text",
+      "text": "The Creole Band opened this week at Winnipeg.\nMan., onantages time.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        486,
+        1658,
+        818,
+        1736
+      ],
+      "label": "text",
+      "text": "Rucker and Winfred are going great in the East. This work, first half, Orpheum theater, Boston, last half, Emery theater, Providence, K. L. Greenlee and Drayton are at the Palace theater, Brooklyn.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        486,
+        1733,
+        818,
+        1837
+      ],
+      "label": "text",
+      "text": "Wilbur Swatman is at the Delaney theater this week. Loew time. Johnson and Dean are at the Jefferson theater, Johnson, Brown and Jackson are at the Pantages theater, Salt Lake City, Utah. The We K. S. Quartet, with Tum Tress, featured comedian, are touring New York state before opening in September.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        570,
+        1849,
+        737,
+        1872
+      ],
+      "label": "paragraph_title",
+      "text": "RACE ACTORS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        484,
+        1877,
+        819,
+        2447
+      ],
+      "label": "text",
+      "text": "The Vittagraph Blue Ribbon feature \"Kennedy Square,\" which comes to The States theatre on Sunday, July 23, has among the members of the cast several members of the Race. The picture is a remarkable production and is devoid of any action that savors of the low comedy generally used where Race performers are used. Indeed, one of the principal characters is acted by a member of the Race and the writer reviewed the feature before it was hooked, to insure against any objectionable features.\n\nAntonio Moreno, the celebrated star, heads a great cast in this production. The story tells of St. George Temple, an aristocratic old gentleman, who lives in his fine home in Kennedy Square, and who is liked by everyone. Harry Rutter tells him of his love affair and his troubles and the old gentleman acts as peacemaker between Rutter and Kate, daughter of Hon. Douglas Seymour. It proves a thankless job, and after a fight and a duel in the Rutter home between Harry and a rival sultor, Harry is put out of the house by his father and comes to live with St. George. Things go from bad to worse, when St. George loses his money and Harry goes away to South America. After making a fortune from a ruby mine, the young man returns to find the old gentleman living in poverty, and makes full restitution. This time St. George acts the part of peacemaker successfully and Kate and Harry are married.\n\nThe piece is in five great parts and is full of action and heart's interest. The Sunday matinee begins at 2:30.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        502,
+        2486,
+        781,
+        2525
+      ],
+      "label": "paragraph_title",
+      "text": "A NOTE OR TWO",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        836,
+        316,
+        1141,
+        728
+      ],
+      "label": "text",
+      "text": "to get some of my songs published. I am a genius and can write a sad songs as well as ragtime songs. My last sad song is named \"When Mother Says This Is That. That, Don't Scowl at Her, or Frown,\" and my last lag song is \"The Buffalo-Fish Strain.\" Please send me advice and oblige. EASY GONE KID.\n\nReply\u2014Friend Easy: You will have to send me a set of lyrics and a lead sheet to what songs you will like to interest the publishers. I think the \"Mother\" song should be a hummer, judging from the title. It almost brought tears to my eyes when I read it, and I think that the part that says \"Don't Scowl at Her\" teaches a beautiful lesson. The Buffalo-Fish Strain\" should be a strong number, although it might get panned if introduced in select society. No doubt you are a genius, a regular Tony Jackson in the embryo. If your friend can't afford to buy a copy of the \"Greatest\" each week, he should try and cop a sneak at one of the barber shops. They all get it.\u2014Editor.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        989,
+        735,
+        1121,
+        750
+      ],
+      "label": "paragraph_title",
+      "text": "Carbuncle Ala",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        839,
+        751,
+        1139,
+        954
+      ],
+      "label": "text",
+      "text": "Mr. Tony: I am writing to you in the hopes that you can do something for me. I play snare-drum in the Silver Cornet Band, but we only work on Fourth of July and Emancipation Day. I own my own drum, but am not able to make street parades as I weigh 327 pounds. Can also sing, but don't like to as my range is not wide. Think I would shine in comedy. Do you think you can do anything for me?\u2014Emanuel Swayback.\n\nReply\u2014Friend: Emanuel: I am",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        840,
+        1000,
+        1143,
+        1039
+      ],
+      "label": "paragraph_title",
+      "text": "CLUBS and SOCIETIES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        824,
+        1062,
+        1157,
+        1551
+      ],
+      "label": "text",
+      "text": "The Mystic Social Club, No. 1, largely attended the entertainment afforded them by Mrs. Jennie Jones, 3414 South State street, Thursday, July 13. Instrumental and vocal renditions from the latest compositions were most eulogistic and these, together with the fine repast and general good time, form common features on evening spent with this sociable hostess. Mrs. Jessie Smith, president; L. Smith, editor.\n\nThe Wednesday Afternoon Art Club met last week with Mrs. Hattie Jenkins, 3542 Vernon avenue. Mrs. Minnie Mapp of Los Angeles, Cal., was a visitor. The ladies spent a very pleasant afternoon. Mrs. Ella Washington, president; Mrs. Mabel Powell, edirress.\n\nChicago Union Charity Club met July 13 at 4236 Wabash avenue. Mrs. Essie Carey, the hostess, served a dainty repast. Next meeting July 27 with Mrs. Barber, 3516 Forest avenue. Mrs. Lucy Livingston, president; Mrs. Hattie Jenkins, corresponding secretary; Mrs. Corrina Woodson, reporter.\n\nThe Beryle Pleasure Club was entertained by Mr. and Mrs. Steve Matson July 17. Refreshments were served. Next meeting July 31 with Mr. and Mrs. Russell Kemp, 5727 Wabash avenue. George R. Woodson, president; Walter E. Sheridan, secretary.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        824,
+        1551,
+        1158,
+        2104
+      ],
+      "label": "text",
+      "text": "The Ideal Art Embroidery Club met July 13 at the residence of Mrs. Pemberton, 257 East 45th street. After the routine of business, the club was delightfully entertained by the president, Mrs. Pemberton. Visitors present, three. Mrs. Clara Brown, reporter; Mrs. Pemberton, president.\n\nThe Clover Leaf Social Club met at the residence of Mrs. F. Woodson last Thursday. The arrangements for the annual outing were completed and an enjoyable afternoon was spent and a good number were present despite the torrid heat. Mrs. M. Blackburn, president; Mrs. A. Grayson, secretary.\n\nThe Progressive Negro League held a fine meeting and much enthusiasm was created by the different members. Several visitors were present and spoke encouragingly concerning the work performed by the league. Among them were Misses White and Bell, teachers in Kansas City, now attending the Chicago University. The principal speaker was Rev. B. U. Taylor, pastor of St. Stephens A. M. E. Church of the West Side, whose address was heartily received and much appreciated by all present. Those who took part in the program were Mrs. Taylor and Messrs. Harvey Turner, Wallace, Bailey and Tompkins. It was announced that on the first Sunday in August, Major John R. Lynch would address the league on \"His Experience and Travels in Cuba.\" The league adjourned to meet Wednesday evening at the residence of Mr. Edgar Tompkins, 5460 Dearborn street.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        823,
+        2104,
+        1157,
+        2670
+      ],
+      "label": "text",
+      "text": "The Royal Art Club met with Mrs. Birdie Tillford, Wednesday, July 12th at 3558 Prairie avenue. Had a very nice attendance and a pleasant afternoon was spent in work. Refreshments were served, which all enjoyed. Mrs. Sarah Taylor will entertain the club in Washington Park, July 13th, if weather permits. E. Drakeford, president; N. Hall, secretary.\n\nThe Lincoln Saving League met at the home of Mrs. Nellie Maxwell, 3132 Dearborn street, Monday, July 17. Old-fashioned barbecue meat was served. Next meeting will be held July 24 at the residence of Mrs. Nannie Smith. Mrs. Alice Vance, president; Mrs. A. B. Forrest, secretary.\n\nAt Douglas Center Sunday, July 23 at 4 p. m., Mrs. Cella Parker Woolley will review a popular play, \"A Bent Twig,\" setting forth home life and influence. Miss Mabel Wagner will give a group of piano selections. Friday evening, July 28, at 8 p. m., will occur the next students' social with address by some noted speaker and music in charge of Prof. James Mundy, one of our most noted musicians.\n\nAt Wendell Phillips Settlement the summer is being well spent, the Boys' Club meeting Tuesday evenings, the Camp Fire Girls Wednesday at 3:30 p. m. and Story Hour Thursday at 9:30 p. m., the girls being in charge of Miss Jessie Jones, a much appreciated worker. The head resident, Mrs. A. C. Cone, is busy with outside lectures, receptions and soon to entertain Mrs. Booker T. Washington with social dinner.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        824,
+        2670,
+        1158,
+        3177
+      ],
+      "label": "text",
+      "text": "The Y. W. E. Club are so very much grieved to give up their faithful member, Mrs. Sarrah Herring, but we hope to meet her in the sweet by and by, where parting will be over.\n\nThe Negro Fellowship league conference Sunday, July 23, on \"Labor Unions and What They Mean to the Negro.\" Discussion led by Mr. William Hannon. Meeting promptly at 4 o'clock at the reading room, 3005 State street.\n\nLast Sunday Sargeant Hightower gave a most interesting address on \"Political Conditions in the Second Ward.\" His address was discussed by Messrs. George H. Jackson, L. W. Washington and others. Mr. J. E. Hughes' Race review was discussed; It is becoming more interesting every week. Mrs. Ida B. Wells Barnett, president.\n\nThe Alpha Suffrage club held a most successful lawn, fete on the spacious grounds of the Y. W. C. A. Wednesday evening, July 19. Next meeting of the club will be a business one, the first Wednesday in August, at the reading room, 3005 State street.\n\nMRS. LOUISE HOWARD DIES\nLas Vegas, N. M., July 21\u2014Mrs. Louise Howard, wife of Sam Howard, formerly of Chicago, Ill., died here last week and was buried Sunday from Brown's A. M. E.-Chapel. Her husband is a member of Great Lakes Lodge; Chicago.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1169,
+        294,
+        1476,
+        712
+      ],
+      "label": "text",
+      "text": "are anybody. Two days\nearn isn't much unless you\nget an awful gob of dough for each\nday. It must take a pile of money\nto live in Carbuncle, but you weigh\nenough to be able to fast for a long\nperiod occasionally. In that you\nhave a great advantage over many\nof the vaudeville actors that I know.\nI don't blame you for not wanting to\nsing, although it is curious that with\nall your weight your range isn't\nwide. It should have broadened\nalong with the rest of your anatomy.\nThough you think you would shine\nin comedy, I would advise you to\nsuck where you are and get a job\nas shine in a barber shop. The res-\nults will be the same, as salaries\nin the show business are small just\nnow unless you are a Dudley, Billy\nKing, Burt Williams or String\nBeans.\u2014Editor.\n\nJackson, Miss.\n\nDear Friend Tony: As I am a\nconstant reader of the Defender, a\nfriend of a friend of mine told me\nyou know why mosquitoes don't sing\nin winter time.\u2014Due Byrd.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1175,
+        712,
+        1475,
+        954
+      ],
+      "label": "text",
+      "text": "Reply\u2014Dear Doc: In reply, will say that your question is a deep one, also you should have found out if the friend of a friend of yours was a friend of mine. Mosquitoes, at a temperature of 60 degrees or less catch cold, which makes them hourse. This temperature is always reached about Oct. 32nd. While they bore as well after that date as during the summer season, they do their work in silence, thus, especially in Mississippi, getting much of their dirty work blamed upon your other friend, the clichen, whom you generally have with you the year around.\u2014Editor.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1220,
+        986,
+        1437,
+        1045
+      ],
+      "label": "doc_title",
+      "text": "THIS HAPPENED!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1163,
+        1059,
+        1493,
+        1552
+      ],
+      "label": "text",
+      "text": "Birmingham. Ala.\u2014Something happened here at the Savoy theater a few nights ago. The Savoy cuters to the better class of Race people and does an excellent business. It is under the management of Messrs. Greener & Tampert. The theater was well filled when a \"white\" man walked in with his hat on. Mr. Greener, who was standing near the entrance, ordered him to remove his hat as a gentleman should.\n\n\"I am looking for a boy,\" said the cracker, \"and, too, I'm a gentleman.\"\n\n\"Well, you are not acting like one,\" said Mr. Greener. \"These ladies and gentlemen must be respected. I am running this place, and your hat comes off or out you go. And that means right now!\" reaching for the man's hat. Some sharp words were exchanged as the man left the theater. He was standing outside making insulting remarks about \"niggers\" and about how much respect they were entitled to from a \"white\" gentleman when Mr. Greener came out and landed on the beast's jaw. He went down in a heap on the sidewalk. Then arose and \"heat it\" up the street, vowing all kinds of vengeance. The protection given the patrons of the Savoy against rowdyism of all sorts has made it the most popular place of amusement in Birmingham.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1166,
+        1566,
+        1498,
+        1946
+      ],
+      "label": "text",
+      "text": "THE DUDE is who had better keep his eyes off a certain doll before he gets in trouble. We warn you, C. B.: \"Don't worry, I'll be back soon.\"\n\nTHE DOLL, D. C., says to the dude C. B.: \"Don't worry, I'll be back soon.\"\n\nTHE DUDE is who is looking for a girl. Don't rush, girls; he is delicate, A. M. is the 37th st: dude.\n\nTHE BIRD-and-Calumet-Ave, dude is who had better watch this doll H. M., or he will lose her, A. M.\n\nTHE DOLL, E. B., is who is seen no more. Where do you keep yourself?\n\nTHE COUPLE are who challenge anyone to a long walking contest. Open to all corners. Address E. H. and P. J.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1167,
+        1944,
+        1498,
+        1977
+      ],
+      "label": "text",
+      "text": "If you feel If you lost your hat, coat\nand job all day? Ask the 35th- st. hude\na job all day. He knows.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1166,
+        1975,
+        1499,
+        2025
+      ],
+      "label": "text",
+      "text": "THE 8TH&-Vernon-Ave. doll is who is said to be stealing a march on her girl friends and will soon have a worst half. Is there any truth in the rumor, A. M?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1165,
+        2023,
+        1499,
+        2279
+      ],
+      "label": "text",
+      "text": "THE 52TH & Vernon Ave, doll, M. G., is who is fast becoming popular with all the dudes. You wouldn't fall for you, girl!? The DUDE is a lonesome and wants someone. All we want is your address. THE DUDEES R. T. F. M. C., R. E. S. D. G. McC. and A. A., are who are making a regular run to Erismont each week. Why don't you come out there, you will save our fare? THE DUDEE is over East since the Sth has gone. Will you make this same run after their return, J. C.? THE W. S. DOLL is who is looking for a better half. What's the requirements, S. S.? THE 52TH & Vernon Ave doll, M. S., is who is not seen any more. Where do you keep yourself? THE DUDE IS who believes in working and working hard. C. A. B. is the 52nd st. dude. The DUDE is who is always singing about and to boast \"Pretty Baby.\" You sure have a melodious voice. L. J.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1163,
+        2276,
+        1498,
+        2352
+      ],
+      "label": "text",
+      "text": "THE \"TRON CLAW\" friends are K. M. and W. M. are the 50th-and-Largest-ave, dudes.\nTHE DOLL is who sat on the steps of her home all day Sunday. Did he disappoint you, F. T.?\nTHE DOLL is who sleeps so sound that an explosive fire doors from her home does not wake",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1164,
+        2349,
+        1496,
+        2469
+      ],
+      "label": "text",
+      "text": "he up. Some sound sleeper, T. R.\nDON'T FEEL DISAPPOINTED, K. T., because\nL. Met, and H. S. didn't mean any harm.\nPerhaps you will do the same thing some day.\nWANTED!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1166,
+        2501,
+        1494,
+        2540
+      ],
+      "label": "paragraph_title",
+      "text": "TEN DARK KNIGHTS!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1165,
+        2556,
+        1496,
+        2916
+      ],
+      "label": "text",
+      "text": "MUSICIANS WHO CAN DOUBLE\nIN BRASS. ONE TROMBONE.\nONE TUBA TO DOUBLE ON STAGE.\n\nNO KICKERS\nBOOZERS OR PEOPLE UNWILLING\nTO WORK NEED NOT APPLY.\n\nALSO A GOOD, CAPABLE\n\nCOMEDIAN\nAND LYRIC TENOR, DOUBLING\nBRASS\n\nREHEARSALS BEGIN AUG. 25TH.\nSEASON OPENS SEPT. 10TH.\n\nJOHN WARREN AND JOHN MOBLEY\nWrite.\nState Lowest Salary, etc., in First Letter.\n\nWE PAY RAILROAD AND 'DAGGAGE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1179,
+        2932,
+        1482,
+        2974
+      ],
+      "label": "paragraph_title",
+      "text": "HENDERSON SMITH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1164,
+        2975,
+        1496,
+        3129
+      ],
+      "label": "text",
+      "text": "3232 Calumet Ave., Chicago, Ill.\n\nA young man would like to co-operate with a man and wife of good standing, or will sell out if necessary. Need not answer unless you have money. Want some one who can take charge of business and man",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1611,
+        262,
+        2041,
+        737
+      ],
+      "label": "text",
+      "text": "FOR FIFTY CENTS YOU CAN PURCHASE QUANTITY PURITY and QUALITY ALL IN ONE BOX OF",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1560,
+        840,
+        2099,
+        873
+      ],
+      "label": "text",
+      "text": "PORO COLLEGE CO., 8108 Pine St., Dept. F., ST. LOUIS, MO.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1512,
+        966,
+        2157,
+        1400
+      ],
+      "label": "text",
+      "text": "COLUMBIA\nCLARK NEAR MADISON\nS. H. DUDLEY\nFEATURED WITH\nDAVE MARION'S\nWORLD OF FROLICS\nAND A CHORUS OF\n100\u2014BEAUTIFUL SINGERS\u2014100\nThe Most Gorgeous Production\nEver Shown in the Loop\nSee Dudley and His Mule!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1524,
+        1467,
+        2147,
+        1544
+      ],
+      "label": "paragraph_title",
+      "text": "PERFORMERS!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1548,
+        1574,
+        2130,
+        1680
+      ],
+      "label": "text",
+      "text": "IN ALL SECTIONS OF THE COUNTRY! SEND IN YOUR ROUTES!!! AND WEEKLY REPORTS. GET YOUR SPY IN BY TUESDAY. USE THIS DESK AS YOUR POSTOFFICE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1565,
+        1738,
+        2107,
+        1813
+      ],
+      "label": "text",
+      "text": "TONY LANGSTON, Dramatic Editor 3129 STATE ST., CHICAGO, ILL.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1526,
+        1898,
+        2147,
+        2151
+      ],
+      "label": "text",
+      "text": "STATES THEATRE\n3507 State Street\nFeature Pictures Only\nEight Piece Orchestra\nFinest Picture House Outside the Loop\nContinuous 2:30 to 11:30 Daily\nADMISSION 10 CENTS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1580,
+        2321,
+        2096,
+        2390
+      ],
+      "label": "text",
+      "text": "MONDAY, JULY 24th-ONE DAY ONLY OLGA PETROVA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1517,
+        2666,
+        2156,
+        2834
+      ],
+      "label": "text",
+      "text": "BILLY KING & CO.\nWalking the Dog Contest\nFRIDAY NITE\n\nCHANGE OF PROGRAM MONDAY AND THURSDAY\n3110-12 South State Street\nTel. Douglas 522",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1538,
+        3048,
+        2137,
+        3131
+      ],
+      "label": "text",
+      "text": "High Class Cabaret Refined Entertainment The Best Place in Chicago to Spend a Pleasant Evening",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1544,
+        2908,
+        1663,
+        2929
+      ],
+      "label": "paragraph_title",
+      "text": "Calumet 4947",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1980,
+        2909,
+        2138,
+        2931
+      ],
+      "label": "text",
+      "text": "Automatic 73-003",
+      "status": "ok"
+    }
+  ]
+}

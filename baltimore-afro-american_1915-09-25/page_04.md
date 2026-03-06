@@ -18,32 +18,45 @@ Entered at the Baltimore Post Office as second-class matter
 
 We are not responsible for the return or preservation of unsolicited contributions on any subject.
 
+All articles sent to this office for publication, must have the writer's signature or otherwise such article will be ignored
+
+Ohrches and others having news notices will please have the same in the office by Thursday to insure publication in the week's issue.
+
+Correspondents will please have all communication, in the office by noon on Wednesdays.
+
+All communications intended for publication should be addressed to THE AMERICAN LEDGE, 628 North Eutaw Street, Baltimore, Md.
+
+Advertising rates made known unannouncing
+
+All Checks, Money Orders and Drafts should be made payable to THE AFRO-AMERICAN Co.
+
 ## BALTIMORE. SEPT. 25, 1915
 
 ## AUTUMN
 
 Gold-yellow the garment of Nature,
-Dame Autumn leaves in her tread,
+Dame Autumn leaves in her tread.
 Tinged with red are leaves and the harvest
 Ere winter winds chill them dead.
-All over the hill-land and lowland
-Wild flowers lie dead in the clud;
+All over the hill-and lowland
+Wild flowers lie dead in the clod;
 Where once stood the modest violet,
-is the charm of the golden rod.
+Is the charm of the golden rod.
 
 "Langston Burned"—(news item heading) not a Negro but the state school at Langston, Oklahoma.
 
 The "Cleveland Advocate" is likewise dissatisfied with the misleading name of Thomas Dixon's Photo Play "The Dirt of a Nation" is suggested as nearer the truth.
 
-"Leg of colored woman turns white by Ether-freezing treatment"—Indianapolis Ledger. The above announcement by a physician at the annual convention of the American Association for the Study of Spondylotherapy caused a hubbub. It was explained that the Ether-freezing was treatment for lumbago and not an experiment in bleaching.
+"Leg of colored woman turns white by Ether-freezing treatment"
+—Indianapolis Ledger. The above announcement by a physician at the annual convention of the American Association for the Study of Spondylotherapy caused a hubbub. It was explained that the Ether-fre-zing was treatment for lumbago and not an experiment in bleaching.
 
 The newest thing under the sun in the way of Journalism is the "Tri-State Emancipator," edited by Isaac W. Howard of Salisbury, Md., as the organ of the Maryland Emancipation Fair Association, which holds its annual fair at Salisbury beginning October 19. Greetings to the new baby.
 
-"Water Million" reads one of the explanatory cards on the wall of the art section of the Lincoln Jubilee and Exposition at Chicago. Financially the Jubilee was a success, there were 135,000 paid admissions, but if the painting designate is as bad as the spelling, we fear there was more Jubilee than Exposition.
+"Water Millon" reads one of the explanatory cards on the wall of the art section of the Lincoln Jubilee and Exposition at Chicago. Financially the Jubilee was a success, there were 135,000 paid admissions, but if the painting designate is as bad as the spelling, we fear there was more Jubilee than Exposition.
 
-Thruout the colored press of the country there is an off expressed wish to reject the term "Negro" as indefinite and contemptuous and "colored" as nondescript, suggesting instead "African," of African descent, and "black." There is nothing in a name, but there is something in the idea back of the name. Let every human being of color be a man and his intrinsic worth will of itself determine the value of his name to the world. Change the man not the name.
+Thruout the colored press of the country there is an oft expressed wish to reject the term "Negro" as indefinite and contemptuous and "colored" as nondescript, suggesting instead "African," of African descent, and "black". There is nothing in a name, but there is something in the idea back of the name. Let every human being of color be a man and his intrinsic worth will of itself determine the value of his name to the world. Change the man not the name.
 
-A month ago the country was treated to the spectacle of disunion in the ranks of the Bishops' Council of the A. M. E. Church. Last week police officers were called to the near riot in the National Baptist Convention in Chicago. "Is it that the preachers have lost sight of their religion and gone out into the world for profit and loss in this world's goods?" Asks the Natchez
+A month ago the country was treated to the spectacle of disunion in the ranks of the Bishops' Council of the A. M. E. Church. Last week police officers were called to the near riot in the National Baptist Convention in Chicago. "Is it that the preachers have lost sight of their religion and gone out into the world for profit and loss in this world's goods?" Asks the Natezche
 
 Mississippi, Weekly Reporter. We do not know what is in the minds of these preachers, but the saving of souls appears to be distant and remote. "Why not have a revival and convert some of our ministers," concludes the Louisville News.
 
@@ -68,6 +81,12 @@ The little Negro Republic on the West Coast of Africa celebrated the 93rd Annive
 was the failure to agree upon a common centralized ideal.
 
 Up to this time the Christian Liberian has insisted that the nation centralize around the concepts of the Christian faith. Christian sectaries form the least numerous of the religious cults in the Republic. Followers of Islam, say the Hon. Mr. Barclay representing the religion of self-surrender, "a virtue which the Christians hereabouts do not practice to any great extent" are increasingly aggressive, and more than this, there is a larger proportion of the population which is neither Christian nor Musselman. Africa is facing the possibility of eventually becoming Mohamedan, first because Christianity is divided, fighting not only herself but Islam's subtler appeal of an easier morality and wider tolerance; secondly because Christian propaganda is not sufficiently aggressive and progressive, its churches hugging the coastline and seldom venturing into the interior. Religions tolerance is the only hope for a Liberian future.
+
+Colored Scroll
+Their ORIG
+By H
+
+Nothing will show the grief a liberal sentiment toward intellectual improvement of people more than the fate within twenty years after corporation of the schools issued by the Baltimore Association for the Moral and Mental Impment of Colored Persons. City system a fair grade school instruction was off Negro child. As is always with the inauguration of vanced movement there are found those filled with skis as to the advisability and the new enterprise. But the nature with which the color seized the opportunities thus
 
 In the place of a religious ideal Mr. Barclay suggests the development of a Liberian culture. His is the vision of an era when sane government, good schools, scientific methods and better understanding among the Republic's heterogeneous population will make of Liberia the champion of Africa's freedom and the forger of a union of the West African States. The following is his appeal to the older generation:
 
@@ -99,7 +118,9 @@ With it was combined the Colored Polytechnic School which had been brought into 
 
 Influenced by the recommendations of Prof. Browne and others who knew of his wide experience the School Board acting upon the recommendation of the Superintendent elected as the next principal Dr. James H. N. Waring, at the time a supervising principal in the Washington schools. Dr. Waring took hold of the work with vigor, and as one absolutely certain of what he wished to do. So energetically and intelligently did he labor that it was not long before
 
-he had convinced Superintendent Van Sickle and the School Board that he was the right man in the right place. This resulted in his being given increased responsibilities and broader powers, which, in the main, were used in bettering the condition of the schools. Some of the improvements introduced during Dr. Waring's administration were the daily planning of school work by teachers, increased attendance at summer schools, the inauguration of an evening high school, mapping out definite units of work for accomplishments within a prescribed time, and inspiring his pupils to further prepare themselves in the leading colleges and universitess of the country. It was upon the advice of Dr. Waring that Miss Corona Mason, afterward Mrs. Ralph Cook, a graduate of the school, went to Teachers' College, Columbia University and prepared herself to teach in her Alma Mater. Since that time several of the graduates have returned as instructors. Late in 1908 Dr. Waring resigned to take effect as soon as his successor should be elected, which action was taken in February, 1909 when Professor Joseph H. Lockerman, who had been vice principal, was a made acting principal. Almost as suddenly as this action had been taken another, another more important one, came about. Shortly after the beginning of the school term in the fall of 1909, the School Board separated the Training School from the High School, electing Mr. Lockerman to the principalship of the latter and Mr. Mason A. Hawkins, principal of the former. Mr. Dwight O. W. Holmes, who had brought the department of Physics to a high degree of excellence, was at the same time elected vice principal.
+he had convinced Superintendent Van Sickle and the School Board that he was the right man in the right place. This resulted in his being given increased responsibilities and broader powers, which, in the main, were used in bettering the condition of the schools. Some of the improvements introduced during Dr. Waring's administration were the daily planning of school work by teachers, increased attendance at summer schools, the inauguration of an evening high school, mapping out definite units of work for accomplishments within a prescribed time, and inspiring his pupils to further prepare themselves in the leading colleges and university of the country. It was upon the advice of Dr. Waring that Miss Corona Mason, afterward Mrs. Ralph Cook, a graduate of the school, went to Teachers' College, Columbia University and prepared herself to teach in her Alma Mater. Since that time several of the graduates have returned as instructors.
+
+Late in 1908 Dr. Waring resigned to take effect as soon as his successor should be elected, which action was taken in February, 1909 when Professor Joseph H. Lockerman, who had been vice principal, was a made acting principal. Almost as suddenly as this action had been taken another, another more important one, came about. Shortly after the beginning of the school term in the fall of 1909, the School Board separated the Training School from the High School, electing Mr. Lockerman to the principalship of the latter and Mr. Mason A. Hawkins, principal of the former. Mr. Dwight O. W. Holmes, who had brought the department of Physics to a high degree of excellence, was at the same time elected vice principal.
 
 Mr. Hawkins is a graduate of Morgan College and of Harvard University. His master's degree was secured from Columbia University in the city of New York. Among his instructors were such noted teachers as Drs. Wm. James, Paul Hanus, David L. Snedden and Hugo Munsterburg. Under the administration of Prof. Hawkins the enrollment has greatly increased, being 619 for the scholastic year 1913-14, and its scope considerably widened. It is now an accredited high school, its graduates being admitted to the best colleges without examination. At its last commencement there was graduated a class numbering nearly 80 persons, which was about ten times the number in the first class when Misses Fannie McCabe, Violet Thompson, Gertrude Weaver, Mollie Taylor, Minnie Neal, Nellie Anderson and Messrs. Wm. H.Murray and Walter Scott received their diplomas. Considered from the standpoint of good citizenship generally and for genuine usefulness to the colored people of the city and State Baltimore never made a better investment than in establishing the Colored High School.
 
@@ -109,13 +130,9 @@ THE TRAINING SCHOOL For some years it had become evident to the school authoriti
 
 The late Basil T. Sollers was made principal, while Professor David E. Werglein, now principal of the Western High School, was one of its leading instructors. The school began work in January, 1901; but when it reopened the September following it was merged with the Colored High School under the name of the Colored High and Training School. This arrangement remained, as has already been stated, until 1909 when it was separated from the High School and Prof. Joseph H. Lockerman became its principal. In 1904 the Train-
 
-ing School was moved to the new building erected that year at the corner of Mount and Saratoga streets. In the large number of efficient teachers which it has sent forth the school finds its justification for the liberal sums of money which have been spent upon it. No inconsiderable portion of the success which it has made however, is due to the excellent work of Miss Lucinda Cook and Miss Anna O'H. Williamson who only recently resigned to accept similar positions at Wilberforce, Ohio. At present the school has an enrollment of a hundred pupils, the largest class in its history.
+ing School was moved to the new building erected that year at the corner of Mount and Saratoga streets. In the large number of efficient teachers which it has sent forth the school finds its justification for the liberal sums of money which have been spent upon it. No inconsiderable portion of the success which it has made however, is due to the excellent work of Miss Lucinda Cook and Miss Anna O'H. Williamson who only recently resigned to accept similar positions at Wil伯force, Ohio. At present the school has an enrollment of a hundred pupils, the largest class in its history.
 
-THE NEEDS OF THE SCHOOLS
-
-Fundamentally the need of colored schools is an enlightened public sentiment that recognizes the danger to civilization and the economic waste which ignorance entails upon any community in which it holds a prominent place; that the value of uplift is in direct proportion to the needs of the uplifted, and that the prime thought of every modern social welfare organization is that the strong ought to bear the infirmates of the weak and that increasingly wider sense we are our brother's keeper. The duties of colored ministers, teachers and the more intelligent members of the commonwealth among us will not be fulfilled until such a sentiment is awakened in those to whom have committed the responsibilities of government, community leadership and stewardship by reason of their preparedness and their possessions.
-
-This is to be accomplished not only through the presentation of earnest petitions and many protests, but by so living in each locality that our lives of honor and of usefulness will be an absolute guarantee that any interest taken in our intellectual improvement will not be wasted, but will fall upon good ground yielding its sixty and its hundred-fold return.
+Fundamentally the need of colored schools is an enlightened public sentiment that recognizes the danger to civilization and the economic waste which ignorance entails upon any community in which it holds a prominent place; that the value of uplift is in direct proportion to the needs of the uplifted, and that the prime thought of every modern social welfare organization is that the strong ought to bear the infirmates of the weak and that increasingly wider sense we are our brother's keeper. The duties of colored ministers, teachers and the more intelligent members of the commonwealth among us will not be fulfilled until such a sentiment is awakened in those to whom have committed the responsibilities of government, community leadership and stewardship by reason of their preparedness and their possessions. This is to be accomplished not only through the presentation of earnest petitions and manly protests, but by so living in each locality that our lives of honor and of usefulness will be an absolute guarantee that any interest taken in our intellectual improvement will not be wasted, but will fall upon good ground yielding its sixty and its hundred-fold return.
 
 In the counties of the State there should be a minimum school term of not less than eight months and a minimum salary schedule of $300, providing for liberal increases for efficiency and length of service. The qualifications of colored teachers should be very high, since their work by its very nature is one of greatest difficulty. These conditions should be secured by State laws and not be left to the discretion of local school authorities. In the City of Baltimore there is urgent need of a closer and more inspiring supervision of teachers than now exists. Ample authority to get results should be given principals and they should be held responsible for its proper use. Every argument presented for the employment of colored teachers in colored schools applies with equal force to the need of colored supervisors. Colored supervisors of music, sewing, physical and manual training would prove a blessing and an inspiration to colored children, just as colored principals and grade teachers have done. Colored attendance officers, selected for their ability and interest in securing the benefits of education for delinquent colored attendance of the irregular and the truant. And if the time be not ripe for representation on the School Board, such as has been accorded every other large unit of population, it is at least ripe for an assistant superintendent, working under the present capable and enthusiastic head, to direct the energies, keep up the professional zeal and lead the fight to make the results of training the colored youth square with its ever increasing cost.
 

@@ -3,7 +3,29 @@
   "image": "images/page_05.jpg",
   "width": 2229,
   "height": 2800,
+  "processed_at": "2026-03-06T18:07:01.830082+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 131,
+    "after_merge": 61
+  },
   "regions": [
+    {
+      "bbox": [
+        146,
+        121,
+        947,
+        317
+      ],
+      "label": "text",
+      "text": "Social Intelligence Heard or Seen in Passing",
+      "status": "ok"
+    },
     {
       "bbox": [
         144,
@@ -12,37 +34,85 @@
         412
       ],
       "label": "text",
-      "text": "Mrs. Hulbert is ready to stage \"Queen Esther.\" Buy your tickets NOW!"
+      "text": "Mrs. Hulbert is ready to stage \"Queen Esther.\" Buy your tickets NOW!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        138,
+        446,
+        413,
+        1011
+      ],
+      "label": "text",
+      "text": "Mrs. R. D. Jones of 1346 E. 336\nSt. is visiting with her sister in Oakland.\n\nMrs. Irene Holland and Miss Lutie\nGilbert of Oakland are visitors in the city.\n\nBallanger Kemp left Wednesday\nnight over the Santa Fe for New York\nas California's representative in the\nTennis Meet to be held in that city.\n\nMr. Perry of W. 35th Place passed\naway suddenly Tuesday morning. The\ncause of his death is not at this time\nknown.\n\nMrs. M. Allen, hair specialist,\nat 849 Central Avenue has been ill, but\nis better at this time and is able to\nbe at the shop again.\n\nMr. and Mrs. S. Oliver of Venice\nwere visitors in the city Sunday afternoon. They are contemplating\nmoving into the city.\n\nMesdames E. Savile and Irene\nWylie entertained with Tea Friday\nafternoon at their home on W. 37th\nSt. in honor of the Misses Hague and\nWarren.",
+      "status": "ok"
     },
     {
       "bbox": [
         134,
-        446,
-        413,
+        1023,
+        405,
+        1101
+      ],
+      "label": "text",
+      "text": "Wisses F. B. Harris, E. M. Weens and F. Williams attended the Federation of Negro Women's Clubs, while in San Diego last week.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        135,
+        1093,
+        406,
         1195
       ],
       "label": "text",
-      "text": "Mrs. R. D. Jones of 1346 E. 3360 St. is visiting with her sister in Oakland.\n\nMrs. Irene Holland and Miss Lutie Gilbert of Oakland are visitors in the city.\n\nBallanger Kemp left Wednesday night over the Santa Fe for New York as California's representative in the Tennis Meet to be held in that city.\n\nMr. Perry of W. 35th Place passed away suddenly Tuesday morning. The cause of his death is not at this time known.\n\nMrs. M. Allen, hair specialist, at 849 Central Avenue has been ill, but is better at this time and is able to be at the shop again.\n\nMr. and Mrs. S. Oliver of Venice were visitors in the city Sunday afternoon. They are contemplating moving into the city.\n\nMesdames E. Saville and Irene Wyle entertained with Tea Friday afternoon at their home on W. 77th St. in honor of the Misses Hague and Warren.\n\nMisses F. B. Harris, E. M. Weens and F. Williams attended the Federation of Negro Women's Clubs, while in San Diego last week.\n\nMesdames M. Walker, M. Brown and L. Kinnard, all visitors from Hampton, California, are spending the month at Santa Monica, they are stopping at the Ohio."
+      "text": "Mesdames M. Walker, M. Brown and L. Kinnard, all visitors from Hampton, California, are spending the month at Santa Monica, they are stopping, at the Ohio.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        136,
+        1236,
+        405,
+        1306
+      ],
+      "label": "text",
+      "text": "Mr. T. C. Ashley of 72 Naomi avenue, after undergoing a slight operation with one hander, has been on the indisposed list for the past week.",
+      "status": "ok"
     },
     {
       "bbox": [
         134,
-        1236,
-        405,
-        1404
+        1300,
+        407,
+        1900
       ],
       "label": "text",
-      "text": "Mr. T. C. Ashley of 362 Naomi avenue, after undergoing a slight operation with one elongated, has been on the indisposed list for the past week.\nMrs. Clifford Robinson Johnson of 362 Griffith Avenue received a telegram this week stating that Mr. Arthur Johnson is in the States from overseas, and will soon be at home."
+      "text": "Mrs. Clifford Robinson Johnson of 3622 Griffith Avenue received a telegram this week stating that Mr. Arthur Johnson is in the States from overseas, and will soon be at home.\n\nMrs. Mortha Brown of Hampton is in the city spending a few days as the house guest of Mrs. Nelson Tate of West 37th St.\n\nMrs. J. M. Scott of E. 25th St. returned from San Diego. Thursday, after a very pleasant stay in that city, Mrs. Scott went in attendance of the Federation of Negro Women's Clubs which convened in that city last week. She remained over a few days visiting friends and seeing the city.\n\nMrs. Judge Warren and daughter Jennie returned to their home on W. 36th St. Sunday after a two-year stay in the Philippine Islands. Mrs. Warren is the wife of Sgt. J. Warren of the regular army who is now stationed in the Islands.\n\nMrs. Ferguson also of Aakland is adjourning in our midst, having come down for a brief rest. She has not declared just how long she will be in our city.",
+      "status": "ok"
     },
     {
       "bbox": [
-        137,
-        1438,
+        141,
+        1900,
+        410,
+        2088
+      ],
+      "label": "text",
+      "text": "Mrs. Hulbert is ready to stage \"Queen Esther.\" Buy your tickets NOW!\n\nMrs. J. B. Saunders of 1914 E 9th St. met with an accident last Monday which resulted in the injury of one of her toes. She is able to be about again after suffering severe rains in that member.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        143,
+        2087,
         414,
         2495
       ],
       "label": "text",
-      "text": "Mrs. Martha Brown of Hampton is in the city spending a few days as the house guest of Mrs. Nelson Tate of West 37th St.\n\nMrs. J. M. Scott of E. 25th St. returned from San Diego. Thursday, after a very pleasant stay in the city. Mrs. Scott went in attendance of the Federation of Negro Women's Clubs which convened in that city last week. She remained over a few days visiting friends and seeing the city.\n\nMrs. Judge Warren and daughter Jennie returned to their home on W. 36th St. Sunday after a two years' stay in the Philippine Islands. Mrs. Warren is the wife of Sgt. J. Warren of the regular army who is now stationed in the Islands.\n\nMrs. Ferguson also of Aakland is adjourning in our midst, having come down for a brief rest. She has not decided just how long she will be in our city.\n\nMrs. Hulbert is ready to stage \"Queen Esther.\" Buy your tickets NOW!\n\nMrs. J. B. Saunders of 1914 E 9th St. met with an accident last Monday which resulted in the injury of one of her toes. She is able to be about again after suffering severe pains in that member.\n\nMr. Harold Walker of 420 River St. met with an accident Tuesday which resulted in the breaking of one of his ribs. He is under the care of doctors at the County Hospital.\n\nMiss Eugene Hague is in the city from the Philippine Islands. She expects to leave soon for Tennessee, where she will enter the Fletk University in the Fall. Miss Hague is the daughter of Sgt. Hague of the regular army who is now stationed in the Philippine Islands.\n\nMrs. S. B. Hill and Mrs. Eva Carter Buckner returned from San Diego. Tuesday. Mrs. Hill was visiting her sister-in-law, Mrs. H. Townsend of 733 Sutter St. and her nephew and Missile, Mrs. and Mrs. B. S. Townsend. Mrs. Buckner was attending"
+      "text": "Mr. Harold Walker of 420 River St. met with an accident Tuesday which resulted in the breaking of one of his ribs. He is under the care of doctors of the County Hospital.\n\nMiss Estie Hague is in the city from the Phillipine Islands. She expects to leave soon for Tennessee, where she will enter the Fick University in the Fall. Miss Hague is the daughter of Sgt. Hague of the regular army who is now stationed in the Phillipine Islands.\n\nMrs. S. B. Hill and Mrs. Eva Carter Buckner returned from San Diego Tuesday. Mrs. Hill was visiting her sister-in-law, Mrs. H. Townsend, of 723 Sutter St. and her nephew and his wife, Mr. and Mrs. B. S. Townsend. Mrs. Buckner was attending",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,27 +122,52 @@
         344
       ],
       "label": "paragraph_title",
-      "text": "By a . . . . Staff Reporter."
+      "text": "By a . . . . Staff Reporter.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        414,
+        355,
+        686,
+        836
+      ],
+      "label": "text",
+      "text": "Mrs. J. E. Banks was in the city Saturday and Sunday this week from her ranch home in Pacolina, California. Mr. Banks preceded his wife to the city on Thursday with a truck of mountain melons grown on their ranch.\n\nLittle Alice Taylor ared eleven years died at the home of her aunt. Mrs. Harris of W. 36th St. Mrs. Harris has had Alice and her brother Morris since the death of her sister which left them homeless.\n\nAll Ohioans are earnestly requested to meet with the Ohio State Society. Thursday evening, August 14, 1919, at 5 p. clock, at Mr. Roberts, 1121 S. Los Angeles St. Business of interest and importance.\n\nMrs. Carnie Russell entertained with Tea in honor of Miss Nadine Burtton. About fifty guests enjoyed the afternoon. Miss Bratton is a S. 119 graduate of the Polytechnic High School.",
+      "status": "ok"
     },
     {
       "bbox": [
         411,
-        355,
+        851,
+        680,
+        1438
+      ],
+      "label": "text",
+      "text": "Mrs. Clara M. Franklin of 13291. E. 11th St. was hostess at a very Japanese Japanese Garden party at her home Monday night. The affair was given for the benefit of St. Phillips Chapel.\n\nMrs. E. S. Spiller of Imperial Valley is visiting her sister, Mrs. M. Glaser, 435 Hemlock St. Mrs. Spiller will be remembered as Miss Lyda Black, formerly of this city. Millfred Glaser returned with her aint after a month's vacation.\n\nMiss Gertrude Christman will leave next week for Elsinore to spend a few weeks vacation with her aunt, Mrs. Gordon. The home of Mrs. Gordon is one of the most palatial country homes in the West. it is the noted place formerly owned by the Farthings. There among the cows, horses, chickens, birds and bees Miss Christman anticipates a real vacation.\n\nOn Sunday, August 3, 1919, at the home of the bride, Miss Ruby Harris and Mr. Howard Coleman were united in the bonds of matrimony. Rev. A. P. Shaw officiated. Mr. and Mrs. Coleman are at home to friends at 15071. E. Adams St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        413,
+        1450,
+        681,
+        1911
+      ],
+      "label": "text",
+      "text": "Mrs. Robert True, one of the oldest and most faithful members of the Eleth and Towne Ave. Church died last Tuesday. The funeral services were held Friday afternoon from her church; Rev. J. Logan Craw officiating.\n\nMrs. Mamie Wright and daughter, Florence, are here visiting with her uncle Mr. Jack Peters. of 3412 Central Avenue. They will leave Thursday evening for home after three weeks in our city. They express themselves as having a delightful time while here.\n\nMrs. J. C. Wright of Austin, Texas is the house guest of her cousins, Mr. and Mrs. I. Filmore, of 1349 East 33 Street.\n\nMrs. Wright expects to be in the city until some time in October, when she expects to return to the Lone Star State. She is at present adjourning in the city of Santa Barbara by the",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        415,
+        1933,
         688,
         2506
       ],
       "label": "text",
-      "text": "Mrs. J. E. Banks was in the city Saturday and Sunday this week from her ranch home in Pacoima, California. Mr. Banks preceded his wife to the city on Thursday with a truck of mountain melons grown on their ranch.\n\nLittle Alice Taylor aged eleven years died at the home of her aunt, Mrs. Harris of W. 36th St. Mrs. Harris has had Alice and her brother Morris since the death of her sister which left them homeless.\n\nAll Ohioans are earnestly requested to meet with the Ohio State Society. Thursday evening, August 14, 1919, at 9:00 clock, at Mr. Roberts, 1170 St. Los Angeles St. Business of interest and importance.\n\nMrs. Carnie Russell entertained with Tea in honor of Miss Nadine Patton. About fifty guests enjoyed the afternoon. Miss Bratton is a S. 119 graduate of the Polytechnic High School.\n\nMrs. Clara M. Franklin of 132912 E. 18th St. was hostess at a very Japanese Japanese Garden party at her home Monday night. The affair was given for the benefit of St. Phillips Chapel.\n\nMrs. E. S. Spiller of Imperial Valley is visiting her sister, Mrs. M. Glason, 535 Hemlock St. Mrs. Spiller will be remembered as Miss Lyndia Black, formerly of this city. Milford Glason returned with her aunt after a month's vacation.\n\nMiss Gertrude Christman will leave next week for Elsinore to spend a few weeks vacation with her aunt, Mrs. Gordon. The home of Mrs. Gordon is one of the most palatial country homes in the West, it is the noted place formerly owned by the Farthings. There among the cows, houses, chickens, birds and bees Miss Christman anticipates a real vacation.\n\nOn Sunday, August 3, 1919, at the home of the bride, Miss Ruby Harris and Mr. Howard Coleman were united in the bonds of matrimony Rev. A P Shaw officiated. Mr. and Mrs. Coleman are at home to friends at 150712 E. Adams St.\n\nMrs. Robert True, one of the oldest and most faithful members of the Eighth and Towne Ave. Church died last Tuesday. The funeral services were held Friday afternoon from her church. Rev. J. Logan Craw officiating.\n\nMrs. Mamie Wright and daughter, Florence, are here visiting with her uncle Mr. Jack Peters, of 3412 Central Avenue. They will leave Thursday evening for home after three weeks in our city. They express themselves as having a delightful time while here.\n\nMrs. J. C. Wright of Austin, Texas is the house guest of her cousins, Mr. and Mrs. L. Filmore, of 1349 East 33 Street.\n\nMrs. Wright expects to be in the city until some time in October, when she expects to return to the Lone Star State. She is at present adjourning in the city of Santa Barbara by the sea.\n\nSpend an evening with the C. T. M. S. Club which is presenting the beautiful Cantata of \"Queen Esther.\" Thursday evening, August 26 at 9:00 clock, Walker Auditorium, 730 South Grand Avenue, Admission $5-50-75c. Box seats, $1.00. No war tax.\n\nMrs. Anna Moore McGuider of Chicago was the guest of Miss Julia Jeikins at a beach party, Sunday, August 1 and Other ladies present were Misses Kendall, Patrick Wagner and Cobbins. They motored to the beach in a seven passenger Maxwell.\n\nThe Poro Agents of Los Angeles met on Tuesday evening, August the 5th at 1157 E. 11th St. and organized a club for the purpose of promoting the efficiency of the Poro work. A staff of officers were elected, of whom the president is Mrs. A. E. Walker; and Secretary, Mrs. Estell Jones.\n\nThe next meeting will be held Tuesday, August 12th at 8 p.m. at the home of Mrs. Moxley, 721 Gladys Avenue. All Poro Agents are invited to be present."
-    },
-    {
-      "bbox": [
-        667,
-        275,
-        806,
-        307
-      ],
-      "label": "text",
-      "text": "Heard or Seen in Passing"
+      "text": "Send an evening with the C. T. M. S. Club which is presenting the beautiful Cantata of \"Queen Esther.\" Thursday evening, August 25th at 9 o'clock; Walker Auditorium, 730 South Grand Avenue, Admission, 35-50-75c; Box seats, $1.00. No war tax.\n\nMrs. Anna Moore McGuider of Chicago was the guest of Miss Julia Jenkins at a beach party. Sunday, August 3rd. Other ladies present were Meshames Kendall, Patrick, Wagner and Cobbins. They motored to the beach in a seven passenger Maxwell.\n\nThe Poro Agents of Los Angeles met on Tuesday evening. August the 5th at 1157 E. 11th St. and organized a club for the purpose of promoting the efficiency of the Poro work. A staff of officers were elected, of whom the president is Mrs. A. E. Walker; and Secretary, Mrs. Estell Jones.\n\nThe next meeting will be held Tuesday, August 12th at 8 p.m. at the home of Mrs. Moxley, 721 Gladys Avenue. All Poro Agents are invited to be present.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +177,8 @@
         371
       ],
       "label": "paragraph_title",
-      "text": "VISITS DAUGHTER."
+      "text": "VISITS DAUGHTER.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +188,8 @@
         968
       ],
       "label": "text",
-      "text": "Mr. David Rickmever and wife of Houston, Texas, are in the city visiting their daughter, Mrs. J. W. C. Le France, at 1053 E. Adams street, and would like to get in touch with Mace Terry. Any person able to give information may do so by calling So. 5673.\n\nMrs. Hulbert is ready to stage \"Queen Esther.\" Buy your tickets NOW!\n\nMr. C. S. Traves who has been visiting with his daughter, Mrs. Bazley and Mrs. Pipkins of East Adams St. will leave for home (Houston) in the near future, perhaps Saturday. Mrs. Traves has been a trusted employee of the Southern Pacific Rys. for a number of years; he is very much pleased with the Golden West and says for us not to be surprised if we should see him here as a permanent resident of our beautiful south west.\n\nThe Southern California Alumni Association will hold its regular meeting, Sunday, August 10th, at 4 o'clock, at Wesley Chapel. The program will be furnished by our city teachers. All members and visiting teachers are requested to be present."
+      "text": "Mr. David Rickmever and wife of Houston, Texas, are in the city visiting their daughter, Mrs. J. W. C. Le France, at 1053 E. Adams street, and would like to get in touch with Mace Terry. Any person able to give information may do so by calling So. 5673.\n\nMrs. Hulbert is ready to stage \"Queen Esther.\" Buy your tickets NOW!\n\nMr. C. S. Traves who has been visiting with his daughter, Mrs. Bazley and Mrs. Pipkins of East Adams St. will leave for home (Houston) in the near future, perhaps Saturday. Mrs. Traves has been a trusted employee of the Southern Pacific Rys. for a number of years; he is very much pleased with the Golden West and says for us not to be surprised if we should see him here as a permanent resident of our beautiful south west.\n\nThe Southern California Alumni Association will hold its regular meeting, Sunday, August 10th, at 4 o'clock, at Wesley Chapel. The program will be furnished by our city teachers. All members and visiting teachers are requested to be present.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +199,8 @@
         1039
       ],
       "label": "paragraph_title",
-      "text": "BAZAAR TO BE GIVEN."
+      "text": "BAZAAR TO BE GIVEN.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +210,8 @@
         1448
       ],
       "label": "text",
-      "text": "There will be a grand bazaar given at the St. Paul Baptist Church, cor. 21st and Naomi, beginning August 12th to 15th. On the evening of the 12th all socks are asked to be turned in. There will be good literary and musical programs rendered. The publicist is invited to enjoy this treat with the members of St. Paul.\n\nMr. Gordon Givens returned home Wednesday morning after two years of service in the United States Army. Mr. Gordon enlisted in August 1917. He has seen a hard two years of it. There were months and months that his parents did not hear from him during which time they doubted whether he was alive or not. Much rejoicing was there in the home of the Givens when brother and son returned."
+      "text": "There will be a grand bazaar given at the St. Paul Baptist Church, cor. 21st and Naomi, beginning August 12th to 15th. On the evening of the 12th all socks are asked to be turned in. There will be good literary and musical programs rendered. The publicist is invited to enjoy this treat with the members of St. Paul.\n\nMr. Gordon Givens returned home Wednesday morning after two years of service in the United States Army. Mr. Gordon enlisted in August 1917. He has seen a hard two years of it. There were months and months that his parents did not hear from him during which time they doubted whether he was alive or not. Much rejoicing was there in the home of the Givens when brother and son returned.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +221,8 @@
         1464
       ],
       "label": "paragraph_title",
-      "text": ". . . ."
+      "text": ". . . .",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +232,8 @@
         1676
       ],
       "label": "text",
-      "text": "Messrs. Howard Kerr and Olgie Slaughter of Saanta Fe, New Mexico, arrived in the city Thursday July 31, and are now the house guests of Mr. Kerr's mother and sister, Mrs. Emma Kerr and Miss Alberta Kerr, who reside at the residence of Mrs. Eva Carter Buckner, 31s N. Burlington avenue. While in the city Messrs. Kerr and Slaughter will, aside from visiting friends and relatives, go sight seeing in Southern California."
+      "text": "Messrs. Howard Kerr and Olgie Slaughter of Saanta Fe, New Mexico, arrived in the city Thursday July 31, and are now the house guests of Mr. Kerr's mother and sister, Mrs. Emma Kerr and Miss Alberta Kerr, who reside at the residence of Mrs. Eva Carter Buckner, 31s N. Burlington avenue. While in the city Messrs. Kerr and Slaughter will, aside from visiting friends and relatives, go sight seeing in Southern California.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +243,8 @@
         1709
       ],
       "label": "paragraph_title",
-      "text": "LEARNS OF SISTER'S MARRIAGE"
+      "text": "LEARNS OF SISTER'S MARRIAGE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +254,8 @@
         2242
       ],
       "label": "text",
-      "text": "Mrs. M. R. Walton and Mrs. M. Jackson have been informed of the marriage of their sister, Miss Varrie Rhodes of New Orleans to Lieutenant Wallace P. Gant of Washington, D.C. Miss Rhodes was a teacher at the Thony School of New Orleans, and her marriage came as a surprise to her many friends. Mrs. and Mrs. Gant are spending their honeymoon on the golf coast, after which they will be at home to their friends in Washington.\n\nMr. and Mrs. Homer Dean and their private party consisting of Mrs. M. Bell; Mrs. Stella Kegler and daughter of Los Angeles; and Mrs. M. Lewis of Bakersfield, after having a delightful drive via the Coast Route to San Diego to attend the State Federation, visiting the famous Coronado and other historic places, returned Sunday evening via the Inland Route, over mountains and through famous alleys picnicking and Kodakking all the way. Each one who had the honor to be present declare it the most successful motoring trip they ever witnessed."
+      "text": "Mrs. M. R. Walton and Mrs. M. Jackson have been informed of the marriage of their sister, Miss Varrie Rhodes of New Orleans to Lieutenant Wallace P. Gant of Washington, D.C. Miss Rhodes was a teacher at the Thony School of New Orleans, and her marriage came as a surprise to her many friends. Mrs. and Mrs. Gant are spending their honeymoon on the golf coast, after which they will be at home to their friends in Washington.\n\nMr. and Mrs. Homer Dean and their private party consisting of Mrs. M. Bell; Mrs. Stella Kegler and daughter of Los Angeles; and Mrs. M. Lewis of Bakersfield, after having a delightful drive via the Coast Route to San Diego to attend the State Federation, visiting the famous Coronado and other historic places, returned Sunday evening via the Inland Route, over mountains and through famous alleys picnicking and Kodakking all the way. Each one who had the honor to be present declare it the most successful motoring trip they ever witnessed.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,17 +265,19 @@
         2503
       ],
       "label": "text",
-      "text": "On Thursday, July 31st Mr. Wm.\nNesbitt and Mr. J Cambell gave\na six-course dinner party honoring Mrs.\nAnna Moore McGuider of Chicago.\nCovers were laid for twenty-five.\nThose present will never forget the\nbeautiful stening spent among the\nflowers, music and laughter. Out-of-town guests were: Miss Irene Hordon of Kentucky; Mrs. Eva Norworthy, of Houston; Miss Larkin of Chicago; Msessa Cambell, Nesbitt"
+      "text": "On Thursday, July 31st Mr. Wm.\nNesbitt and Mr. J Cambell gave\na six-course dinner party honoring Mrs.\nAnna Moore McGuider of Chicago.\nCovers were laid for twenty-five.\nThose present will never forget the\nbeautiful stening spent among the\nflowers, music and laughter. Out-of-town guests were: Miss Irene Hordon of Kentucky; Mrs. Eva Norworthy, of Houston; Miss Larkin of Chicago; Msessa Cambell, Nesbitt",
+      "status": "ok"
     },
     {
       "bbox": [
-        961,
-        119,
-        1159,
+        918,
+        77,
+        1272,
         134
       ],
       "label": "text",
-      "text": "Cole and Burns of Chicago"
+      "text": "THE CALIFORNIA EAGLE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +287,8 @@
         652
       ],
       "label": "text",
-      "text": "Mrs. H. G. Walker daughter and son Ruth and Ralph of 1368 Newton Street of this city, left Monday evening, August 4th to visit Mrs. C. L. Hanley formely Miss Ruby Walker of Portland. Ore. They will also visit relatives in Washington and other points in Oregon.\n\nA young Eastern widow would like to make the acquaintance of a respectable gentleman who is in a position to be interested in a good woman. Prefer a man whose birth dates between the months from November 15th to January 10th. Address J. L. C. General Delivery, San Francisco, Cal. P. O. Box 240. Born May 7; height 5 feet; weight 139 pounds; complexion medium\u2014good health; cheerful disposition; expressive brown eyes; my hair is all my own; first-class cook; fond of home; would marry if suited\u2014would buy small chicken and fruit ranch on partnership plan. P. O. Box 240, San Francisco, Cal."
+      "text": "Mrs. H. G. Walker daughter and son Ruth and Ralph of 1368 Newton Street of this city, left Monday evening, August 4th to visit Mrs. C. L. Hanley formely Miss Ruby Walker of Portland. Ore. They will also visit relatives in Washington and other points in Oregon.\n\nA young Eastern widow would like to make the acquaintance of a respectable gentleman who is in a position to be interested in a good woman. Prefer a man whose birth dates between the months from November 15th to January 10th. Address J. L. C. General Delivery, San Francisco, Cal. P. O. Box 240. Born May 7; height 5 feet; weight 139 pounds; complexion medium\u2014good health; cheerful disposition; expressive brown eyes; my hair is all my own; first-class cook; fond of home; would marry if suited\u2014would buy small chicken and fruit ranch on partnership plan. P. O. Box 240, San Francisco, Cal.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,27 +298,19 @@
         717
       ],
       "label": "paragraph_title",
-      "text": "PROGRESSIVE BUSINESS LEAGUE\nTO CONTINUE PROGRAM\nAT FORUM."
-    },
-    {
-      "bbox": [
-        959,
-        734,
-        1228,
-        990
-      ],
-      "label": "text",
-      "text": "On Sunday, afternoon, August 3, the Progressive Business League presented Mr. E. L. Dorsey, one of the League's members, who delivered a very interesting address on the subject, \"The Economic Future of the American Negro\u2014Locally and Nationally.\"\n\nThe Forum was crowded to its capacity.\n\nOn next Sunday, August 10th, Mr. S. B. W. May of Denver, Colorado, a League member, will address the Forum on the subject, \"The Building and Loan Projects.\""
+      "text": "PROGRESSIVE BUSINESS LEAGUE\nTO CONTINUE PROGRAM\nAT FORUM.",
+      "status": "ok"
     },
     {
       "bbox": [
         958,
-        1042,
-        1225,
+        734,
+        1228,
         1332
       ],
       "label": "text",
-      "text": "Do not forget that the gymnasium class is scheduled to meet every Monday evening at 7:30. Please do not be late.\n\nVerper service will be held Sunday afternoon at 3:30. Miss Marguerite James in charge. The following program will be rendered:\n\nPiano Solo, Miss Leola McKinney;\nPaper, Mrs. W. H. Terry; Vocal Solo, Mrs. A. Todd, recently from Topeka, Kansas.\n\nThe public is most cordially invited and an urgent request for the Charter member club to be present. Dandy refreshments will be served."
+      "text": "On Sunday, afternoon, August 3, the Progressive Business League presented Mr. E. L. Dorsey, one of the League's members, who delivered a very interesting address on the subject, \"The Economic Future of the American Negro\u2014Locally and Nationally.\"\n\nThe Forum was crowded to its capacity.\n\nOn next Sunday, August 10th, Mr. S. B. W. May of Denver, Colorado, a League member, will address the Forum on the subject, \"The Building and Loan Projects.\"\n\nV. W. C. A. NOTES.\n\nDo not forget that the gymnasium class is scheduled to meet every Monday evening at 7:30. Please do not be late.\n\nVeper service will be held Sunday afternoon at 3:30. Miss Marguerite James in charge. The following program will be rendered:\n\nPiano Solo, Miss Leola McKinney; Paper, Mrs. W. H. Terry; Vocal Solo, Mrs. A. Todd, recently from Topeka, Kansas.\n\nThe public is most cordially invited and an urgent request for the Charter member club to be present. Dandy refreshments will be served.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +320,8 @@
         1730
       ],
       "label": "text",
-      "text": "AN ILLUSTRATED LECTURE\nAT Y. W. C. A.\n\nTuesday evening Rev. J. E. McCorkle will give an illustrated lecture at the Y. W. C. A. The subject of \"The Other Wise Man\" will be made beautifully clear by the use of the colored stereotypic views. This lecture has Rev. McCorkle given before in the A. M. E. Zion Church building and the appreciation thereof has caused him to consent to give them for the benefit of the general public on the coming Tuesday evening in the lovely little hall of the Y. W. C. A. All are invited and warned to come early for a seat. No admission: Y. W. C. A. Building, 1108 E. 12th St. Auspices Charter Members Club."
+      "text": "AN ILLUSTRATED LECTURE\nAT Y. W. C. A.\n\nTuesday evening Rev. J. E. McCorkle will give an illustrated lecture at the Y. W. C. A. The subject of \"The Other Wise Man\" will be made beautifully clear by the use of the colored stereotypic views. This lecture has Rev. McCorkle given before in the A. M. E. Zion Church building and the appreciation thereof has caused him to consent to give them for the benefit of the general public on the coming Tuesday evening in the lovely little hall of the Y. W. C. A. All are invited and warned to come early for a seat. No admission: Y. W. C. A. Building, 1108 E. 12th St. Auspices Charter Members Club.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +331,8 @@
         1780
       ],
       "label": "paragraph_title",
-      "text": "Beatrice Pauline Vernon"
+      "text": "Beatrice Pauline Vernon",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +342,8 @@
         2266
       ],
       "label": "text",
-      "text": "Of all my friends both far and near\nMy mother is the one most dear.\nHer magic friendship brings us both together\nHer love for me, death's icy band can't sever.\n\nWhen as a child I kneel in prayer\nMy mother always standing there.\nPraying for me, her sweet voice low and broken\nI know God heard each word so softly spoken.\n\nWhile gazing deep within her eyes\nShining like twin stars in the skies.\nI saw indeed her pure sweet soul a-shining.\nHer love for me, my very soul entwining.\n\nOf all my friends both far and near\nMy mother is the one most dear.\nIf I were called to go, my soul would wander\nAnd wait for mother dear in heaven yonder."
+      "text": "Of all my friends both far and near\nMy mother is the one most dear.\nHer magic friendship brings us both together\nHer love for me, death's icy band can't sever.\n\nWhen as a child I kneel in prayer\nMy mother always standing there.\nPraying for me, her sweet voice low and broken\nI know God heard each word so softly spoken.\n\nWhile gazing deep within her eyes\nShining like twin stars in the skies.\nI saw indeed her pure sweet soul a-shining.\nHer love for me, my very soul entwining.\n\nOf all my friends both far and near\nMy mother is the one most dear.\nIf I were called to go, my soul would wander\nAnd wait for mother dear in heaven yonder.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +353,8 @@
         2302
       ],
       "label": "paragraph_title",
-      "text": "A BEAUTIFUL HOME WEDDING"
+      "text": "A BEAUTIFUL HOME WEDDING",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +364,8 @@
         2501
       ],
       "label": "text",
-      "text": "Wednesday evening, promptly at 8:30 o'clock, at the beautiful home of Mrs. Sarah Long, 995 E. 55th St., her accomplished daughter, Miss Rosetta B. Long who is engaged in extrimental bonds by Roy. J. A. Logan Craw to the grooom Mr. Herbert L. Barnum, recently discharged from the U. S. Navy. Miss Marie Barnum, oldest sister to the groom played the wedding march white at the close of"
+      "text": "Wednesday evening, promptly at 8:30 o'clock, at the beautiful home of Mrs. Sarah Long, 995 E. 55th St., her accomplished daughter, Miss Rosetta B. Long who is engaged in extrimental bonds by Roy. J. A. Logan Craw to the grooom Mr. Herbert L. Barnum, recently discharged from the U. S. Navy. Miss Marie Barnum, oldest sister to the groom played the wedding march white at the close of",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +375,8 @@
         412
       ],
       "label": "text",
-      "text": "the ceremony Miss Amanda Barnum,\nVibrissin, was accompanied by Father\nMarie in a beautiful duet. The mother,\nMrs. Ida Miles and grand-mother,\nMrs. Mary A. Seay of the goom and\nother immediate relatives and friends\ncomposed the select assembly at this\nbeautiful home wedding. The happy\nbridal pair are at home to their\nfriends at 995 E. 55th Street,\nthis city. The bride is a graduate of\nMorris Brown University, Atlanta,\nGa., and an efficient Sunday School\nTeacher and member of Historic 8th\nand Towncave Avenue (First A. M. E.)\nChurch, where she sings Soprano in\nthat great choir."
+      "text": "the ceremony Miss Amanda Barnum,\nVibrissin, was accompanied by Father\nMarie in a beautiful duet. The mother,\nMrs. Ida Miles and grand-mother,\nMrs. Mary A. Seay of the goom and\nother immediate relatives and friends\ncomposed the select assembly at this\nbeautiful home wedding. The happy\nbridal pair are at home to their\nfriends at 995 E. 55th Street,\nthis city. The bride is a graduate of\nMorris Brown University, Atlanta,\nGa., and an efficient Sunday School\nTeacher and member of Historic 8th\nand Towncave Avenue (First A. M. E.)\nChurch, where she sings Soprano in\nthat great choir.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +386,8 @@
         993
       ],
       "label": "text",
-      "text": "Surprisingly delightful indeed was the surprise party given by Mrs. E. J. Harris of 1541 E. 1st St. in honor of her husband Mr. E. J. Harris' birthday.\n\nQuite all of the seventy-five invited guests were present at the appointed hour at the residence of Mrs. Ernest Jones of 1014 E. 9th St., Friday evening, July 25th.\n\nThe color scheme of pink and white was carried out in beautiful effect. The front yard was alight from the electric bulbs that stretched from one end to the other. Outside and in at their pleasure the guests flittered to and fro. The music and entertainment furnished by Mr. and Mrs. Ralph Bilbrew causing them to stop at the beginning of each number and at the cessation of some clap their hands in joyful appreciation. Dainty refreshments were served.\n\nIt was an evening well spent the gusts laughingly declared one to another as they departed. Mr. Harris must have thought so too for he was just one beam of smiling thankfulness over the whole clothes basketful of presents that the many friends had remembered him with."
+      "text": "Surprisingly delightful indeed was the surprise party given by Mrs. E. J. Harris of 1541 E. 1st St. in honor of her husband Mr. E. J. Harris' birthday.\n\nQuite all of the seventy-five invited guests were present at the appointed hour at the residence of Mrs. Ernest Jones of 1014 E. 9th St., Friday evening, July 25th.\n\nThe color scheme of pink and white was carried out in beautiful effect. The front yard was alight from the electric bulbs that stretched from one end to the other. Outside and in at their pleasure the guests flittered to and fro. The music and entertainment furnished by Mr. and Mrs. Ralph Bilbrew causing them to stop at the beginning of each number and at the cessation of some clap their hands in joyful appreciation. Dainty refreshments were served.\n\nIt was an evening well spent the gusts laughingly declared one to another as they departed. Mr. Harris must have thought so too for he was just one beam of smiling thankfulness over the whole clothes basketful of presents that the many friends had remembered him with.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,37 +397,52 @@
         1059
       ],
       "label": "text",
-      "text": "Dear Mr. Bass:"
+      "text": "Dear Mr. Bass:",
+      "status": "ok"
     },
     {
       "bbox": [
         1232,
         1058,
         1502,
-        1705
+        1608
       ],
       "label": "text",
-      "text": "While peacefully reclining on my little bunk and having just finished reading the \"Eagle,\" which I receive regularly from my mother, Mrs. Fanny Hale of Presno; I can assure you that I find great pleasure in knowing the activities of the state, particularly the article saying the welcome that is shown the recurring soldiers boys.\n\nThe boys have done and are doing wonderful work, the $15th Regiment included. We are exhuming and reburying the noble heroes who lost their lives in the Argonne Section, and who are being buried to themselves in an American cemetary here in Romagne. The work is gruesome, indeed, but many mothers' hearts will be made to rejoice to know that her loved one was put away honorarily, and should she ever visit France she can see his resting peace.\n\nWe, the $15th, have been credited with having done excellent work, and have been given first opportunity of leaving for a seaport town for embarkation. From all indication, the $15th regiment will soon return to the dear old \"Les Estats Unis,\" and will be glad to see their loved ones, and to receive the glory that awaits them.\n\nTrusting that I might have the pleasure of seeing you upon my arrival in the U. S. A., and with my very best regards to you and Mrs. Bass, I remain, always."
+      "text": "While peacefully reclining on my little bunk and having just finished reading the \"Eagle,\" which I receive regularly from my mother, Mrs. Fanny Hale of Presno; I can assure you that I find great pleasure in knowing the activities of the state, particularly the article saying the welcome that is shown the returning soldiers boys.\n\nThe boys have done and are doing wonderful work, the $15th Regiment included. We are exhuming andburying the noble heroes who lost their lives in the Argonne Section, and who are being buried to themselves in an American cemetery here in Romagne. The work is gruesome, indeed, but many mothers' hearts will be made to rejoice to know that her loved one was put away honorably, and should she ever visit France she can see his resting grace.\n\nWe, the $15th, have been credited with having done excellent work, and have been given first opportunity of leaving for a seaport town for embarkation. From all indication, the $15th regiment will soon return to the dear old \"Les Estats Unis,\" and will be glad to see their loved ones, and to receive the glory that awaits them.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1236,
-        1873,
-        1497,
-        2291
+        1232,
+        1610,
+        1511,
+        2128
       ],
       "label": "text",
-      "text": "Here's to Camp Lewis.\nIn the beautiful Northwest.\nWhere you do nothing but detail.\nAnd get very little rest.\n\nHere's to Camp Funston.\nOn the bald, Kansas plain.\nWhere the dust fills your eyes.\n'Till you're nearly insane.\n\nHere's to Camp Merritt.\nSo near to the seas.\nWhere you hike with your pack.\n'Till you're weak in the knees.\n\nHere's to martyred France.\nWith its rain and its snow.\nWith the mud to your knees.\nWhere ever you go.\n\nSo here's to the Army.\nIt's nothing but a bore.\nAnd when Uncle discharges me.\nHe'll get me no more."
+      "text": "Trusting that I might have the pleasure of seeing you upon my arrival in the U. S. A., and with my very best regards to you and Mrs. Bass. I remain, always.\n\nTours fraternally.\n\nL\u00c9ROY CALHOUN.\n\nSgt. U. S. Army.\n\nA TOAST FROM ONE OF OUR BOYS \"OVERTHERE.\"\n\nMars La Tour, France.\n\nMay 15, 1919.\n\nHere's to Camp Lewis.\n\nIn the beautiful Northwest.\n\nWhere you do nothing but detail.\n\nAnd get very little rest.\n\nHere's to Camp Funston.\n\nOn the bald, Kansas plain.\n\nWhere the dust fills your eyes.\n\n\"Till you're nearly insane.\n\nHere's to Camp Merritt.\n\nSo near to the seas.\n\nWhere you hike with your pack.\n\n\"Till you're weak in the knees.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1242,
-        2378,
+        1232,
+        2137,
         1511,
         2502
       ],
       "label": "text",
-      "text": "Everybody should visit the Day Nursery Monday, August 11th, when it throws open the Goers of its new home to the public. The Nursery is a haven of refuge for little neglected ones."
+      "text": "Here's to martyred France.\nWith its rain and its snow.\nWith the mud to your knees.\nWhere ever you go.\n\nSo here's to the Army.\nIt's nothing but a bore.\nAnd when Uncle discharges me.\nHe'll get me no more.\n\n\u2014LEROY CALHOUN.\nSgt. Co. \"A\" 815th Pioneer\nInfantry. U. S. A.\n\nEverybody should visit the Day\nNursery Monday, August 11th, when\nit throws open the Goers of its new\nhome to the public. The Nursery is\na haven of refuge for little neglected\nones.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1232,
+        2502,
+        1511,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,117 +452,8 @@
         328
       ],
       "label": "text",
-      "text": "Put it aside, BEFORE you spend it. Put it in a good Bank, where interest, compounding at 4% will steadily add to the principal."
-    },
-    {
-      "bbox": [
-        1535,
-        790,
-        2024,
-        942
-      ],
-      "label": "doc_title",
-      "text": "J. C. BROWN & CO. The Old Reliable Furniture Dealers"
-    },
-    {
-      "bbox": [
-        1548,
-        964,
-        2010,
-        988
-      ],
-      "label": "text",
-      "text": "Located for seven years Cor. 11th St. and Central Ave."
-    },
-    {
-      "bbox": [
-        1534,
-        964,
-        2029,
-        1338
-      ],
-      "label": "text",
-      "text": "Located for seven years Cor. 11th St. and Central Ave.\n\nWe are Better Prepared to do Business than Ever Before.\n\nIf you want to Buy Furniture,\nIf you want to sell your Furniture Quick for Cash,\nIf you want to Insure Your Furniture,\nIf you want your Furniture Stored.\nIf you want your Furniture Moved, Range\nDisconnected and Conected all for the\nSame Price of Cartage.\n\nPrompt and Courteous Treatment to All\n\nTelephone: Main 4884. After 6:00 P. M. Broadway 6167"
-    },
-    {
-      "bbox": [
-        1558,
-        1446,
-        1999,
-        1488
-      ],
-      "label": "paragraph_title",
-      "text": "HERBERT E. BOST, Realtor"
-    },
-    {
-      "bbox": [
-        1533,
-        1497,
-        2024,
-        1622
-      ],
-      "label": "text",
-      "text": "FOR EXCEPTIONAL SACRIFICES IN REAL ESTATE\nINSURE YOURSELF IN VULCAN FIRE INSURANCE CO.\u2014AS\nSTRONG AS GIBRALTAR.\nPhones: MAIN 4596; SO. 4796-J\n1203 CENTRAL AVENUE LOS ANGELES, CALI"
-    },
-    {
-      "bbox": [
-        1682,
-        1685,
-        1889,
-        1727
-      ],
-      "label": "paragraph_title",
-      "text": "Wanted!"
-    },
-    {
-      "bbox": [
-        1535,
-        1736,
-        2030,
-        1838
-      ],
-      "label": "text",
-      "text": "ACTORS AND ACTresses AND THOSE DESIRING TO BECOME SUCH FOR MOVING PICTURE WORK.\n\nExperience has taught us that it is very necessary to begin a course of training at once to prepare the cast for the DEMOCRACY'S next super feature photoplay."
-    },
-    {
-      "bbox": [
-        1534,
-        1836,
-        2029,
-        1899
-      ],
-      "label": "text",
-      "text": "Bring photograph of yourself and register at once.\n\nJ. J. CHRISTIAN, Exchange Manager: LESLI T. PEACOCK, Director; JOURNEE W. WHITE, Ass't. Director."
-    },
-    {
-      "bbox": [
-        1679,
-        2115,
-        2032,
-        2186
-      ],
-      "label": "text",
-      "text": "DeNELO GROWER for promoting the gro\nDeNELO INVIGORATOR\u2014a germicide; uses and invigorates.\nDeNELO CREAMS for beautifying the complexion.\nDeNELO FACE POWDERS in all shades."
-    },
-    {
-      "bbox": [
-        1538,
-        2234,
-        2034,
-        2287
-      ],
-      "label": "text",
-      "text": "Agents Wanted 1319 East Pine St. Seattle, Wash\nLos Angeles Agents: Mrs. L. L. Wicha. 610 KI Molano; West; 1722. Mrs. Chra Franklin.\n185% East 14th St.; South 307 W."
-    },
-    {
-      "bbox": [
-        1519,
-        2328,
-        1632,
-        2365
-      ],
-      "label": "paragraph_title",
-      "text": "PORO"
+      "text": "Put it aside, BEFORE you spend it. Put it in a good Bank, where interest, compounding at 4% will steadily add to the principal.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +463,195 @@
         503
       ],
       "label": "text",
-      "text": "Helps form the saving habit.\nCarry it in your pocket. It let it catch every eime- before it rits away. YOU cann't open it, but our Teller can, and when he opens it, if you have used it, right your DIMES will have made DOLLARS to your credit."
+      "text": "Helps form the saving habit.\nCarry it in your pocket. It let it catch every eime- before it rits away. YOU cann't open it, but our Teller can, and when he opens it, if you have used it, right your DIMES will have made DOLLARS to your credit.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1519,
+        508,
+        1967,
+        1570
+      ],
+      "label": "text",
+      "text": "Dime Banks are FREE at the Information Desk.\n\nSECURITY TRUST\n& SAVINGS BANK\n\nDAMNED COMMERCIAL TRUST\nOLDEST AND LARGEST SAVINGS BANK\nIN SOUTHERN CALIFORNIA\n\nSECURITY CORNER\nFIRST AND SPRING\n\nQUOTABLE BRANDS\nFIRST AND SPRING\n\nJ. C. BROWN & C.\nThe Old Reliable\nFurniture Dealers\n\nLocated for seven years Cor. 11th St. and Central\n\nWe are Better Prepared to do\nBusiness than Ever Be\n\nIf you want to Buy Furniture,\nIf you want to sell your Furniture Quick for Cash,\nIf you want to Insure Your Furniture,\nIf you want your Furniture Stored,\nIf you want your Furniture Moved,\nDisconnected and Conected all\nSame Price of Cartage,\n\nPrompt and Courteous Treatment to\nTelephone: Main 4884. After 6:00 P. M. Broadway\n\nBUY WISELY\u2014BUT BUY NOW\u2014SEE\n\nHERBERT E. BOST, Realtor\n\nFOR EXCEPTIONAL SACRIFICES IN REAL ESTATE\n\nINSURE YOURSELF IN VULCAN FIRE INSURANCE OR\nSTRONG AS GIBRALTAR.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1535,
+        790,
+        2024,
+        942
+      ],
+      "label": "doc_title",
+      "text": "J. C. BROWN & CO. The Old Reliable Furniture Dealers",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1548,
+        964,
+        2010,
+        988
+      ],
+      "label": "text",
+      "text": "Located for seven years Cor. 11th St. and Central Ave.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1537,
+        1092,
+        2029,
+        1338
+      ],
+      "label": "text",
+      "text": "If you want to Buy Furniture,\nIf you want to sell your Furniture Quick for Cash,\nIf you want to Insure Your Furniture,\nIf you want your Furniture Stored,\nIf you want your Furniture Moved, Range\nDisconnected and Conected all for the\nSame Price of Cartage,\n\nPrompt and Courteous Treatment to All\n\nTelephone: Main 4884. After 6:00 P. M. Broadway 6167",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1558,
+        1446,
+        1999,
+        1488
+      ],
+      "label": "paragraph_title",
+      "text": "HERBERT E. BOST, Realtor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1535,
+        1521,
+        2024,
+        1559
+      ],
+      "label": "text",
+      "text": "INSURE YOURSELF IN VULCAN FIRE INSURANCE CO\u2014AS STRONG AS GIBRALTAR.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1519,
+        1727,
+        1967,
+        1936
+      ],
+      "label": "text",
+      "text": "ACTORS AND ACTresses AND THOSE DESIRING TO BE SUCH FOR MOVING PICTURE WORK.\n\nExperience has taught us that it is very necessary to course of training at once to prepare the cast for the DEMOC next super feature photoplay.\n\nBring photograph of yourself and register at once.\n\nJ. J. CHRISTIAN, Exchange Manager: LESLIE T. PEACO rector; JOURNEE W. WHITE, Asst. Director.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1534,
+        1736,
+        2030,
+        1899
+      ],
+      "label": "text",
+      "text": "ACTORS AND ACTresses AND THOSE DESIRING TO BECOME SUCH FOR MOVING PICTURE WORK.\n\nExperience has taught us that it is very necessary to begin a course of training at once to prepare the cast for the DEMOCRACY'S next super feature photoplay.\n\nBring photograph of yourself and register at once.\n\nJ. J. CHRISTIAN, Exchange Manager: LESLIE T. PEACOCK, Director; JOURNEE W. WHITE, Ass't Director.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1679,
+        2115,
+        2032,
+        2186
+      ],
+      "label": "text",
+      "text": "DeNELO GROWER for promoting the gro\nDeNELO INVIGORATOR\u2014a germicide; uses and invigorates.\nDeNELO CREAMS for beautifying the complexion.\nDeNELO FACE POWDERS in all shades.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1538,
+        2234,
+        2034,
+        2287
+      ],
+      "label": "text",
+      "text": "Agents Wanted 1319 East Pine St. Seattle, Wash\nLos Angeles Agents: Mrs. L. L. Wicha. 610 KI Molano; West; 1722. Mrs. Chra Franklin.\n185% East 14th St.; South 307 W.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1600,
+        330,
+        1756,
+        508
+      ],
+      "label": "text",
+      "text": "SCURDOR OF SALVATON\nRESCANALYS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1533,
+        1497,
+        1939,
+        1513
+      ],
+      "label": "text",
+      "text": "FOR EXCEPTIONAL SACRIFICES IN REAL ESTATE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1652,
+        1570,
+        1908,
+        1586
+      ],
+      "label": "text",
+      "text": "Phones: MAIN 4596; SO. 4736-J",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1535,
+        1604,
+        1727,
+        1622
+      ],
+      "label": "text",
+      "text": "1203 CENTRAL AVENUE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1682,
+        1685,
+        1889,
+        1727
+      ],
+      "label": "paragraph_title",
+      "text": "Wanted!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1547,
+        1836,
+        1932,
+        1852
+      ],
+      "label": "text",
+      "text": "Bring photograph of yourself and register at once.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1541,
+        1961,
+        1671,
+        2186
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +661,30 @@
         2364
       ],
       "label": "paragraph_title",
-      "text": "PORO"
+      "text": "PORO",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1519,
+        2328,
+        1632,
+        2365
+      ],
+      "label": "paragraph_title",
+      "text": "PORO",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1936,
+        76,
+        2048,
+        96
+      ],
+      "label": "text",
+      "text": "PAGE FIVE",
+      "status": "ok"
     }
   ]
 }

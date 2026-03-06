@@ -3,6 +3,17 @@
   "image": "images/page_07.jpg",
   "width": 2229,
   "height": 2800,
+  "processed_at": "2026-03-06T18:07:55.678871+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 116,
+    "after_merge": 85
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         184
       ],
       "label": "doc_title",
-      "text": "SPORTS"
+      "text": "SPORTS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         218
       ],
       "label": "text",
-      "text": "BY ERNEST BYNUM"
+      "text": "BY ERNEST BYNUM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,17 +45,30 @@
         285
       ],
       "label": "paragraph_title",
-      "text": "BASEBALL"
+      "text": "BASEBALL",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        150,
+        340,
+        418,
+        801
+      ],
+      "label": "text",
+      "text": "Pat Moran is the \"big noise\" in the National League these days. Pat has developed a real baseball club in the city of Cincinnati. At the hour og going to press the panic stricken natives hadn't made up their minds whether to buy Patrick a medal or to have him arrested for disturbing the peace. The Reds are right up there fighting for the pennant. These Reds have made their big before. They were bidding the year Ft. Sumpter was fired on. They were bidding the season when Admiral Dewey was indulging in target practice down around Mantila Bay. They have been bidding year after year, but somebody always outbid them. Herefore it has been a favorite stunt for the Cincinnati club to break out all over in May or June with something that resembled baseball rash. Then would come the well known sickening thud and the Reds would up down in the second division and stay folded.",
+      "status": "ok"
     },
     {
       "bbox": [
         147,
-        340,
-        418,
+        802,
+        417,
         1382
       ],
       "label": "text",
-      "text": "Pat Moran is the \"big noise\" in the National League these days. Pat has developed a real baseball club in the city of Cincinnati. At the hour og to press the panic stricken natives hadn't made up their minds whether to buy Patrick a medal or to have him arrested for disturbing the peace.\n\nThe Reds are right up there fighting for the pennant. These Reds have made their big before. They were bidding the year Ft. St.umpter was fired on. They were bidding the season when Admiral Dowey was indulging in target practice down around Manila Bay. They have been bidding year after year, but somebody always outbid them.\n\nHereotefo it has been a favorite stunt for the Cincinnati club to break out all over in May or June with something that resembled baseball rash. Then would come the well known sickening thud and the Reds would up down in the second division and stay folded.\n\nPat Moran has broken all rules and regulations. The Reds played good ball in May and better ball in June. The Eastern experts put cotton in their ear sand waited for the big blow up; they are still waiting. The Reds are playing like a house afire and the river dry. Straight through the July schedule, the critical month in baseball, the Cincinnati club has whanged, banged and chugged like a lot of young men who are in a hurry to catch a train or something. They have got old John J. McGraw worried, and it takes more than batting practice to rile John.\n\nMcGraw figured he would win another National League pennant just to pass away the time. The Cubs couldn't make the grade. The Phillies had all sorts of engine troubles and the Boston Braves were a sad lot. But all the time, Pat Moran was acting like he did not have norse sense. Here are the Reds fighting the Giants to a standstill. There they stand\u2014Moran and McGraw with a knockout punch in each hand\u2014a running fight with two months to go. Will the Reds turn the baseball world upside down by finishing first. Will they flivver as their custom of the past twenty years and flop ao second division?"
+      "text": "Pat Moran has broken all rules and regulations. The Reds played good ball in May and better ball in June. The Eastern experts put cotton in their ear sand waited for the big blow up; they are still waiting. The Reds are playing like a house afire and the river dry. Straight through the July schedule, the critical month in baseball, the Cincinnati club has whanged, banged and chugged like a lot of young men who are in a hurry to catch a train or something. They have got old John J. McGraw worried, and it takes more than batting practice to rile John.\n\nMcGraw figured he would win another National League pennant just to pass away the time. The Cubs couldn't make the grade. The Phillies had all sorts of engine troubles and the Boston Braves were a sad lot. But all the time, Pat Moran was acting like he didn't have norse sense. Here are the Reds, fighting the Giants to a standstill. There they stand\u2014Moran and McGraw with a knockout punch in each hand\u2014a running fight with two months to go. Will the Reds turn the baseball world upside down by finishing first, will they flivver as their custom of the past twenty years and flop ao second division?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +78,8 @@
         1419
       ],
       "label": "paragraph_title",
-      "text": "Clymer Resigns as Seattle Manager\u2014\nMullen Gets Job."
+      "text": "Clymer Resigns as Seattle Manager\u2014\nMullen Gets Job.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +89,8 @@
         2003
       ],
       "label": "text",
-      "text": "Bill Clymer. Seattle manager, resigned his post as pilot of the local Coast League club last Wednesday when the club returned to the home fold, after a disastrous road trip to California.\n\nClymer has been up against some rough going, injuries and failures hurting the club. Seattle has won but two games out of the last twenty one played. Clymer did not quit voluntarily, but was asked to resign. Chas. Mullen, formerly of the New York Yankees, will succeed him.\n\nTigers Take a Tailspin and Flop.\n\nVernon, after winning the leadership and holding it for a short time, departed last week for the North, where they played a seven game series, losing five out of seven to Oakland, better known as the Tigertamers. While Oakland had Vernon eating out of her hands, the Angels were here at home kicking Portland's dog around, taking five out of seven and regaining the League leadership. And if money has anything to do with it, Los Angeles intends to stay in first place, for Johnny Powers is sending Jim Morley East to purchase new talent and to strengthen their line-up.\n\nLouderus Plays 475 Consecutive Games."
+      "text": "Bill Clymer. Seattle manager, resigned his post as pilot of the local Coast League club last Wednesday when the club returned to the home fold, after a disastrous road trip to California.\n\nClymer has been up against some rough going, injuries and failures hurting the club. Seattle has won but two games out of the last twenty one played. Clymer did not quit voluntarily, but was asked to resign. Chas. Mullen, formerly of the New York Yankees, will succeed him.\n\nTigers Take a Tailspin and Flop.\n\nVernon, after winning the leadership and holding it for a short time, departed last week for the North, where they played a seven game series, losing five out of seven to Oakland, better known as the Tigertamers. While Oakland had Vernon eating out of her hands, the Angels were here at home kicking Portland's dog around, taking five out of seven and regaining the League leadership. And if money has anything to do with it, Los Angeles intends to stay in first place, for Johnny Powers is sending Jim Morley East to purchase new talent and to strengthen their line-up.\n\nLouderus Plays 475 Consecutive Games.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +100,8 @@
         2189
       ],
       "label": "text",
-      "text": "John Haddler, president of the National League, sent a telegram to First Baseman Luderus of the Philadelphia Nationals congratulating him on breaking the Major League records for playing in successive games. Luderus has played in 479 consecutive games.\n\nYanks have one of those shimmying averages. Shimmying is galloping while standing still."
+      "text": "John Haddler, president of the National League, sent a telegram to First Baseman Luderus of the Philadelphia Nationals congratulating him on breaking the Major League records for playing in successive games. Luderus has played in 479 consecutive games.\n\nYanks have one of those shimmying averages. Shimmying is galloping while standing still.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +111,8 @@
         2249
       ],
       "label": "paragraph_title",
-      "text": "BOXING"
+      "text": "BOXING",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +122,8 @@
         2489
       ],
       "label": "text",
-      "text": "When a fighter gets knocked out on his feet he is hit some, and that's what happened to Ray Neil in his bout with young George at the Vernon arena last night. It happened in the fourth round after George had tried hard all the way to hand a knockout over the old-timer. The only knock down was in the second round when Neil was dropped with a right hand wallop."
+      "text": "When a fighter gets knocked out on his feet he is hit some, and that's what happened to Ray Neil in his bout with young George at the Vernon arena last night. It happened in the fourth round after George had tried hard all the way to hand a knockout over the old-timer. The only knock down was in the second round when Neil was dropped with a right hand wallop.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,17 +133,30 @@
         2290
       ],
       "label": "paragraph_title",
-      "text": "FIGHTING DOPE"
+      "text": "FIGHTING DOPE",
+      "status": "ok"
     },
     {
       "bbox": [
         425,
         237,
         689,
+        724
+      ],
+      "label": "text",
+      "text": "It is a mystery how the San Diego scraper staved off the whipping as long as he did. The youngster was trying everything he knew and slammed many a solid punch, but couldn't put him over for the couth. But Neil was knocked out without going down. George slammed the old-right hand to the head when the fourth round was about half gone, and Neil's legs began to wobble, and if the light had not been stopped George may have scored a knockout.\n\nCliff Jordan beat Johnny Olimars four rounds; Al Truman and Joe Brown draw; Billy Nelson best Solider Cummings four rounds; Jimmy Brenton won from Jimmy Berry four rounds; Martin Gay beat Harry Beecher four rounds.\n\nJack Curley Would Promote Go Between Dempsey and Mechan.\n\nJack Curley, New York boxing promoter, is trying to arrange a contest between Willie Mechan of San Francisco and Jack Dempsey, heavyweight champion of the world, according to word received here today.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        425,
+        727,
+        688,
         879
       ],
       "label": "text",
-      "text": "It is a mystery how the San Diego scraper staved off the whipping as long as he did. The youngster was trying everything he knew and slammed many a solid punch, but couldn't put him over for the couch. But Neil was knocked out without going down. George slammed the old-right hand to the head when the fourth round was about half gone, and Neil's legs began to wobble, and if the light had not been stopped George may have scored a knockout.\n\nCliff Jordan beat Johnny Olmars four rounds; Al Truman and Joe Brown draw; Billy Nelson beat Soldier Cummings four rounds; Jimmy Brenton won from Jimmy Berry four rounds; Martin Gay beat Harry Beecher four rounds.\n\nJack Curley Would Promote Go Between Dempsey and Mechan.\n\nJack Curley, New York box promoter, is trying to arrange a contest between Willie Meehan of San Francisco and Jack Dempsey, heavyweight champion of the world, according to word received here today.\n\nMeehan, who is in Portland for a few days, received a letter from Curley giving him the details of the proposed go between the two. Curley said that while in Chicago Jack Kearns gave his consent to go through with the bout. Curley is coming to San Francisco to discuss the situation with Meehan."
+      "text": "Meehan, who is in Portland for a few days, received a letter from Curley giving him the details of the proposed go between the two. Curley said that while in Chicago J\u00e4ck Kearns gave his consent to go thru with the bout. Curley is coming to San Francisco to discuss the situation with Meehan.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +166,8 @@
         901
       ],
       "label": "paragraph_title",
-      "text": "Langrod-Thompson Draw."
+      "text": "Langrod-Thompson Draw.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +177,8 @@
         1047
       ],
       "label": "text",
-      "text": "Sam Langford of Boston and Jack Thompson of Philadelphia went 15 rounds to a draw last Monday. August 17th, at Tulsa, Okla. This was the first bout of the elimination series for the belt offered by Billy McClain for the colored heavyweight championship of the world."
+      "text": "Sam Langford of Boston and Jack Thompson of Philadelphia went 15 rounds to a draw last Monday. August 17th, at Tulsa, Okla. This was the first bout of the elimination series for the belt offered by Billy McClain for the colored heavyweight championship of the world.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +188,8 @@
         1070
       ],
       "label": "paragraph_title",
-      "text": "Carpenter in Pictures."
+      "text": "Carpenter in Pictures.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +199,8 @@
         1164
       ],
       "label": "text",
-      "text": "George Carpenter. French heavy weight champion, has gone into the films. Carpenter is playing the lead role in the filming of a sea traggedy in Paris and will get $15,000."
+      "text": "George Carpenter. French heavy weight champion, has gone into the films. Carpenter is playing the lead role in the filming of a sea traggedy in Paris and will get $15,000.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +210,8 @@
         1203
       ],
       "label": "paragraph_title",
-      "text": "Lew Lendler Wins Great Uphill Fight."
+      "text": "Lew Lendler Wins Great Uphill Fight.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +221,8 @@
         1434
       ],
       "label": "text",
-      "text": "Battling an uphill fight, Lew Tendler, Philadelphia's lightweight, gained a hard earned decision over Willie Jackson of New York at Shibe park, Philadelphia, August 4th.\n\nDown for the count of nine twice in the first round, Tendler pulled himself together and fought his way to a sensational victory by sheer nerve. Eight thousand fight fans had visions of Billy Pend's lightweight hope being blotted out in less than two minutes."
+      "text": "Battling an uphill fight, Lew Tendler, Philadelphia's lightweight, gained a hard earned decision over Willie Jackson of New York at Shibe park, Philadelphia, August 4th.\n\nDown for the count of nine twice in the first round, Tendler pulled himself together and fought his way to a sensational victory by sheer nerve. Eight thousand fight fans had visions of Billy Pend's lightweight hope being blotted out in less than two minutes.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +232,8 @@
         1458
       ],
       "label": "paragraph_title",
-      "text": "Ad Wolgast Trying to Come Back."
+      "text": "Ad Wolgast Trying to Come Back.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +243,8 @@
         1668
       ],
       "label": "text",
-      "text": "Ad, who for some time has laid off the scrap game, is now staging a whirlwind comeback; says he will take on anybody in the world at 135 pounds. Ad fought a six-round draw with Fighting Deaver August 1 at Yuma, and Hobo Dougherty, his manager, says he was much fresher at the end of the scrap than he was when he commenced. They all think they can come back, and it remains to be seen just what Wolgast can do."
+      "text": "Ad, who for some time has laid off the scrap game, is now staging a whirlwind comeback; says he will take on anybody in the world at 135 pounds. Ad fought a six-round draw with Fighting Deaver August 1 at Yuma, and Hobo Dougherty, his manager, says he was much fresher at the end of the scrap than he was when he commenced. They all think they can come back, and it remains to be seen just what Wolgast can do.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +254,8 @@
         1691
       ],
       "label": "paragraph_title",
-      "text": "Twin Won by a K. O."
+      "text": "Twin Won by a K. O.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +265,8 @@
         1902
       ],
       "label": "text",
-      "text": "Jack (Twin' Sullivan knocked out Indian Jamison of Buffalo in the second round of their ten-round bout last Monday night. Sullivan is only about a billion years old and winning fight, with another one in sight with Tom Cowler for Monday night.\n\nJoe Beckett, the English champ, and Eddie McCoy of Wisconsin have been matched for a 20-round bout on September 2 for a purse of $10,000 and a side bet of $5000."
+      "text": "Jack (Twin' Sullivan knocked out Indian Jamison of Buffalo in the second round of their ten-round bout last Monday night. Sullivan is only about a billion years old and winning fight, with another one in sight with Tom Cowler for Monday night.\n\nJoe Beckett, the English champ, and Eddie McCoy of Wisconsin have been matched for a 20-round bout on September 2 for a purse of $10,000 and a side bet of $5000.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +276,8 @@
         1925
       ],
       "label": "paragraph_title",
-      "text": "Another Chapter Soon."
+      "text": "Another Chapter Soon.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +287,8 @@
         2170
       ],
       "label": "text",
-      "text": "Looks like Britton and Lewis are going to fight one another until they both get arrested for hitting old men. They are matched again for the 21st time. But for Ted Lewis, Jack Britton probably would be in the poorhouse; were Jack Britton not hovering around Ted Lewis might have been forced to go to work long ago. Whenever one or the other needs a little excitement or spending money, a bout is arranged. Always with a \"to be continued\" clause. And the public always foot the bills."
+      "text": "Looks like Britton and Lewis are going to fight one another until they both get arrested for hitting old men. They are matched again for the 21st time. But for Ted Lewis, Jack Britton probably would be in the poorhouse; were Jack Britton not hovering around Ted Lewis might have been forced to go to work long ago. Whenever one or the other needs a little excitement or spending money, a bout is arranged. Always with a \"to be continued\" clause. And the public always foot the bills.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +298,8 @@
         2210
       ],
       "label": "paragraph_title",
-      "text": "Tenth Cavalry Boys Visitors in\nTourney."
+      "text": "Tenth Cavalry Boys Visitors in\nTourney.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,17 +309,30 @@
         2490
       ],
       "label": "text",
-      "text": "Splendid time in the track events, and good distances in the field events were made in the athletic tournament held last week at Ft. Huachuca, Ariz. in which the Ft. Cavalry, Tenth Cavalry, Nineteenth Infantry and the Twenty-fifth infantry took part.\n\nLoxing events and baseball games were also held and proved thrillers. Williamson of the Tenth Cavalry stepped the 100 yard dash in 10 seconds flat, and the 220 in 21 1-5 seconds.\n\nHeard of the Tenth won the broad jump with 21 feet 5 inches. The"
+      "text": "Splendid time in the track events, and good distances in the field events were made in the athletic tournament held last week at Ft. Huachuca, Ariz. in which the Ft. Cavalry, Tenth Cavalry, Nineteenth Infantry and the Twenty-fifth infantry took part.\n\nLoxing events and baseball games were also held and proved thrillers. Williamson of the Tenth Cavalry stepped the 100 yard dash in 10 seconds flat, and the 220 in 21 1-5 seconds.\n\nHeard of the Tenth won the broad jump with 21 feet 5 inches. The",
+      "status": "ok"
     },
     {
       "bbox": [
-        420,
-        2461,
-        946,
-        2502
+        615,
+        140,
+        681,
+        190
       ],
       "label": "text",
-      "text": "Rally: 10 km from the last leg of the journey\njump with 21 feet 5 inches. The [Continued on Page EIGHT]."
+      "text": "21",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        910,
+        82,
+        1262,
+        102
+      ],
+      "label": "text",
+      "text": "THE CALIFORNIA EAGLE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +342,8 @@
         533
       ],
       "label": "text",
-      "text": "Tenth Cavalry seemed to have the edge on everything, finally winning the baseball series, defeating the Twenty-fifth Infantry in the final game; 17 to 6.\n\nA man took his wife to the dentist's to have a tooth pulled and it gave her lockjaw. The husband and he have been pals ever since.\n\n\"Strangler\" Lewis Throws \"Frandavich.\n\n\"Strangler\" Ed Lewis won two of three falls in his match last Tuesday at San Francisco with Ivan Strandavich, the Russian wrestler who is credited with having defeated many of the best matmen in the country.\n\nLewis won the first fial in 46 minutes and 2 seconds, and took the second fall in 36 minutes and 55 seconds. He won both rails with the \"Lewis\" headlock. Grandavich weighed 225 pounds, while his opponent registered 10 pounds heavier."
+      "text": "Tenth Cavalry seemed to have the edge on everything, finally winning the baseball series, defeating the Twenty-fifth Infantry in the final game; 17 to 6.\n\nA man took his wife to the dentist's to have a tooth pulled and it gave her lockjaw. The husband and he have been pals ever since.\n\n\"Strangler\" Lewis Throws \"Frandavich.\n\n\"Strangler\" Ed Lewis won two of three falls in his match last Tuesday at San Francisco with Ivan Strandavich, the Russian wrestler who is credited with having defeated many of the best matmen in the country.\n\nLewis won the first fial in 46 minutes and 2 seconds, and took the second fall in 36 minutes and 55 seconds. He won both rails with the \"Lewis\" headlock. Grandavich weighed 225 pounds, while his opponent registered 10 pounds heavier.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,17 +353,30 @@
         589
       ],
       "label": "paragraph_title",
-      "text": "Cricket"
+      "text": "Cricket",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        696,
+        611,
+        964,
+        1020
+      ],
+      "label": "text",
+      "text": "A very interesting meeting of the Carribean Cricket Club was held on Sunday afternoon at the Club's temporary headquarters, 961 E. 18th street. The president, Mr. E. Burton Cerutti, called the meeting to order at 2:30, and upon roll call, H. A. S. Cuming, 1st vice president, J. Franklin, provost, Eddy, Alleyne, Williamson, Robinson, Patterson, Chase and Watson responded to their names.\n\nMatters of vital importance affecting the immediate getting into line, were properly discussed and dispensed with, resulting in the appointment of several committees in whose hands were the forge to weld the final link to the chain of completion. No organization of its kind has been crowned with such marked success in so short a time, and our membership still soars upward. Keep your eyes on the California Eagle for the account of our initial game.",
+      "status": "ok"
     },
     {
       "bbox": [
         694,
-        611,
-        964,
+        1021,
+        960,
         1263
       ],
       "label": "text",
-      "text": "A very interesting meeting of the Carribean Cricket Club was held on Sunday afternoon at the Club's temporary headquarters, 961 E. 18th street. The president, Mr. E. Burton Cerutti, called the meeting to order at 2:30, and upon roll call, H. A. S. Cuming, 1st vice president, J. Franklin, provost, Eddy, Alleyne, Williamson, Robinson, Patterson, Chase and Watson responded to their names.\n\nMatters of vital importance affecting the immediate setting into line, were properly discussed and dispensed with, resulting in the appointment of several committees in whose hands were the forge to weld the final link to the chain of completion. No organization of its kind has been crowned with such marked success in so short a time, and our membership still soars upward. Keep your eyes on the California Fagle for the account of our initial game.\n\nA meeting of the Carribean Cricket Club will be held at its temporary quarters, 961 E. 18th street, Sunday, August 10th, for the final arrangement prior to our getting into the field. The meeting was partially agreed upon for the special benefit of those of the prospective members, whom by some unavoidable cause were prevented from attending the other meetings. The time of meeting will be 2:30 p. m. sharp and every member is expected to be present."
+      "text": "A meeting of the Carribean Cricket Club will be held at its temporary quarters, 961 E. 18th street, Sunday, August 10th, for the final arrangement prior to our gettining into the field. The meeting was partially agreed upon for the special benefit of those of the prospective members, whom by some unavoidable cause were prevented from attending the other meetings. The time of meeting will be 2:30 p.m. sharp and every member is expected to be present.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,27 +386,30 @@
         1318
       ],
       "label": "paragraph_title",
-      "text": "TENNIS DOINGS"
+      "text": "TENNIS DOINGS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        695,
+        1349,
+        963,
+        1901
+      ],
+      "label": "text",
+      "text": "DOINGS AT THE WEST SIDE\nTENNIS CLUB.\n\nThe West Side Tennis Club had a very busy week. They are getting down to business and promise a world of trouble for all who enter the Labor Day Tournament.\n\nEven our old pal, Mr. Joseph Prosper, has cast aside his business activities, so that he may be well trained for the coming brail Labor Day. Not only are the men showing all the interest in the coming affair. The ladies also are holding up their end and have pushed the pianist stool under the old music box and covered it secure to keep the muths and dust out and are on the court knocking the pill around in old-time form. A peep at some of their mixed doubles that are now in training, Mrs. Roscoe Brown and Wm. Clark, Miss Virginia Martin and Wm. Dunat Miss E. Hollens and Roscoe Brown, Miss Z. Johnson and Mr. Miller, Mrs. Joseph Prosper and Arthur Maeon.\n\nThe West Side was invaded again last Sunday and they were there with the same peep and enthusiasm. I wonder if they ever stop for water, gas or oil. Oh! well! Lack to you, someone.",
+      "status": "ok"
     },
     {
       "bbox": [
         693,
-        1349,
+        1904,
         965,
         2020
       ],
       "label": "text",
-      "text": "DOINGS AT THE WEST SIDE\nTENNIS CLUB.\n\nThe West Side Tennis Club had a very busy week. They are getting down to business and promise a world of trouble for all who enter the Labor Day Tournament.\n\nEven our old pet, Mr. Joseph Prosper, has cast aside his business activities, so that he may be well trained for the coming brail Labor Day. Not only are the men showing all the interest in the coming affair. The ladies also are holding up their end and have pushed the pianistool under the old music box and covered it secure to keep the maths and dust out and are on the court knocking the pill around in old-time form. A peep at some of their mixed doubles that are now in training, Mrs. Roscoe Brown and Wm. Clark. Miss Virginia Martin and Wm. Duna. Miss E. Hollens and Roscoe Brown. Mrs Z Johnson and Mr. Miller. Mrs. Joseph Prosper and Arthur Maconey.\n\nThe West Side was invaded again last Sunday and they were there with the same pep and enthusiasm. I wonder if they ever stop for water, gas or oil. Oh! well! Lack to you, someone.\n\nSpeaking of dentists, it is just about as pleasant to go to a dentist as it is to have your mother-in-law with you on your honeymoon trip.\n\nThe only chance a marked man has to win an argument with his wife is when she is in the dentists chair."
-    },
-    {
-      "bbox": [
-        694,
-        1973,
-        962,
-        2021
-      ],
-      "label": "text",
-      "text": "The only chance a marked man has to win an argument with his wife, is when she is in the dentis' chair."
+      "text": "Speaking of dentists, it is just about as pleasant to go to a dentist as it is to have your mother-in-law with you on your honeymoon trip. The only chance a marked man has to win an argument with his wife is when she is in the dentist's chair.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +419,8 @@
         2040
       ],
       "label": "paragraph_title",
-      "text": "Hop Off."
+      "text": "Hop Off.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +430,8 @@
         2332
       ],
       "label": "text",
-      "text": "The Western Federation of Tennis Clubs gave the much talked of hop-off dance last Saturday, August 2, which was well attended and finished up their subscription for our player-to-New-York fund, and everyone had a wonderful time. With the dance fresh on our memory, we boarded the car last Wednesday evening for the Santa Fe station to have the last look at our old pal and bid him luck and God-speed, just as he boarded the train for the Gotham city.\n\nThe Federation wishes to thank the public for the interest and support they have taken in their player-to-New-York drive."
+      "text": "The Western Federation of Tennis Clubs gave the much talked of hop-off dance last Saturday, August 2, which was well attended and finished up their subscription for our player-to-New-York fund, and everyone had a wonderful time. With the dance fresh on our memory, we boarded the car last Wednesday evening for the Santa Fe station to have the last look at our old pal and bid him luck and God-speed, just as he boarded the train for the Gotham city.\n\nThe Federation wishes to thank the public for the interest and support they have taken in their player-to-New-York drive.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +441,8 @@
         2348
       ],
       "label": "paragraph_title",
-      "text": "Peters Going East."
+      "text": "Peters Going East.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +452,8 @@
         2468
       ],
       "label": "text",
-      "text": "Our old pal, Mr. E. G. Peters of the Santa Monica Club, left last night over the Santa Fe for New York to join our champion, Ballinger Kemp. Mr. Peters will enter the singles and will also be Kemp's partner in the doubles."
+      "text": "Our old pal, Mr. E. G. Peters of the Santa Monica Club, left last night over the Santa Fe for New York to join our champion, Ballinger Kemp. Mr. Peters will enter the singles and will also be Kemp's partner in the doubles.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +463,8 @@
         157
       ],
       "label": "paragraph_title",
-      "text": "MUSETTE & LORENZIN"
+      "text": "MUSETTE & LORENZIN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +474,30 @@
         196
       ],
       "label": "paragraph_title",
-      "text": "LADJES AND GENTS TAILORS"
+      "text": "LADJES AND GENTS TAILORS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        973,
+        196,
+        1220,
+        1070
+      ],
+      "label": "text",
+      "text": "Where you may make Sense from Home and Import\nGoods and Styles\nLeader in Styles and\nThe Colored Boys Friend\nConveniently located at\n537 BROADWAY\nMUSETTE B\nSAN FRANCISCO\n\nCONNER-JOHN'S\n\nUNDERTAKERS AND\nTheir Manner Of Preparing Boys\nerals Is Their\nLady Attendant For\nSouth 3842\n\nManagers Reiss\n\nMadam A.\nPORO SYSTEM USED AND T\nABOUT THE QUALITY AND QU\nPORO AND STOP WORRYING.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1084,
+        196,
+        1363,
+        1071
+      ],
+      "label": "text",
+      "text": "may make Selections\nhome and Imported\nStyles and Styles\nStyles and Prices\nColored Boys Friend\nresiently located\nat\nBROADWAY\nLUSETTE & LORENZ\nMISCO.\n\nGENER-JOHNSON & CO.\n\nADVERTAKERS AND FUNERAL DIR\ner Of Preparing Bodies, Arranging And\nerals Is Their Best Advertisement.\nLady Attendant For Women And Child\n\nManagers Russell & Conner Corporation\n\nAm A. E. W.\nSTEM USED AND TAUGHT. DON'T W\nQUALITY AND QUANTITY OF HAIR\nOP WORRYING.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,17 +507,19 @@
         597
       ],
       "label": "paragraph_title",
-      "text": "CONNER-JOHNSON & COMPANY"
+      "text": "CONNER-JOHNSON & COMPANY",
+      "status": "ok"
     },
     {
       "bbox": [
         994,
-        798,
+        610,
         1484,
         836
       ],
       "label": "text",
-      "text": "Their Manner Of Preparing Bodies, Arranging And Conducting Funerals Is Their Best Advertisement."
+      "text": "UNDERTAKERS AND FUNERAL DIRECTORS\nTheir Manner Of Preparing Bodies, Arranging And Conducting Funerals Is Their Best Advertisement.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +529,8 @@
         975
       ],
       "label": "paragraph_title",
-      "text": "Madam A. E. Walker"
+      "text": "Madam A. E. Walker",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +540,8 @@
         975
       ],
       "label": "doc_title",
-      "text": "Madam A. E. Walker"
+      "text": "Madam A. E. Walker",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +551,8 @@
         1086
       ],
       "label": "text",
-      "text": "PORO SYSTEM USED AND TAUGHT. DON'T WORRY ANY MORE ABOUT THE QUALITY AND QUANTITY OF HAIR YOU HAVE\u2014USE PORO AND STOP WORRYING.\n\nPHONE SO. 1217-J 1514 E. 23RD STREET"
+      "text": "PORO SYSTEM USED AND TAUGHT. DON'T WORRY ANY MORE ABOUT THE QUALITY AND QUANTITY OF HAIR YOU HAVE\u2014USE PORO AND STOP WORRYING.\n\nPHONE SO. 1217-J 1514 E. 23RD STREET",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +562,41 @@
         1134
       ],
       "label": "paragraph_title",
-      "text": "Massey's Guaranteed Treatment"
+      "text": "Massey's Guaranteed Treatment",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        973,
+        1144,
+        1220,
+        1518
+      ],
+      "label": "text",
+      "text": "A.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        973,
+        1518,
+        1220,
+        2270
+      ],
+      "label": "text",
+      "text": "Electric Scalp and Facility\n1109 Central, Avenue\n\nChoice Lower California\n\nIn Lower California, Mexico, Opportunity.\nDon't let another day pass with these wonderful SANTA CLARA 185 Miles from Los Angeles.\nThese lands are now produce $29.00 per acre, and on this day FIGURE IT OUT FOR YOURSELF.\n\nBUY NOW!--DELA\n\nOnly a few more acres left at August, 1919.\nUntil further notice we offer per acre. Terms: One-third Casely installments.\nCall, write or phone your or LAND AND DEVELOPMENT C Bldg., 524 S. Spring Street, Los\n\nOpportunity Knocks\n\nTomorrow may be too late, for price to the level of their true value.\n\nA Helping H\n\nCOME BRING YOUR MATERIAL STRUCTION YOU CAN MAKE YOUR APPAREL, ETC.\n\nCORRECT SCHOOL Mine.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1084,
+        1518,
+        1363,
+        1719
+      ],
+      "label": "text",
+      "text": "Eric Scalp and Facial Treatments a S\nAvenue\nLower Farm\nia\nCalifornia, Mexico, The American Negr\nanother day pass without securing for",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +606,8 @@
         1575
       ],
       "label": "text",
-      "text": "Electric Scalp and Facial Treatments a Specialty\n1109 Central Avenue Phone Main 3742"
+      "text": "Electric Scalp and Facial Treatments a Specialty\n1109 Central Avenue Phone Main 3742",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +617,8 @@
         1651
       ],
       "label": "doc_title",
-      "text": "Choice Lower Farm Lands California"
+      "text": "Choice Lower Farm Lands California",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +628,8 @@
         1798
       ],
       "label": "text",
-      "text": "In Lower California, Mexico, The American Negro has his golden Opportunity.\n\nDon't let another day pass without securing for yourself some of these wonderful SANTA CLARA VALLEY ACRES.\n\n185 Miles from Los Angeles; 50 Miles From San Diego!\n\nThese lands are now producing wheat (900 acres) at a profit of $20.00 per acre, and on this basis alone, are worth $250 per acre.\n\nFIGURE IT OUT FOR YOURSELF."
+      "text": "In Lower California, Mexico, The American Negro has his golden Opportunity.\n\nDon't let another day pass without securing for yourself some of these wonderful SANTA CLARA VALLEY ACRES.\n\n185 Miles from Los Angeles; 50 Miles From San Diego!\n\nThese lands are now producing wheat (900 acres) at a profit of $20.00 per acre, and on this basis alone, are worth $250 per acre.\n\nFIGURE IT OUT FOR YOURSELF.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +639,8 @@
         1836
       ],
       "label": "paragraph_title",
-      "text": "BUY NOW!--DELAY MEANS DANGER"
+      "text": "BUY NOW!--DELAY MEANS DANGER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +650,8 @@
         1987
       ],
       "label": "text",
-      "text": "Only a few more acres left at $20 cash per acre (Payable before August, 1919).\n\nUntil further notice we offer one thousand (1000) acres at $30 per acre. Terms: One-third Cash; balance in ten (10) equal monthly installments.\n\nCall, write or phone your orders to THE LOWER CALIFORNIA LAND AND DEVELOPMENT COMPANY\u2014Offices 220-221 Lissner Bldg., 524 S. Spring Street, Los Angeles, Cal.; Phone Main 3239."
+      "text": "Only a few more acres left at $20 cash per acre (Payable before August, 1919).\n\nUntil further notice we offer one thousand (1000) acres at $30 per acre. Terms: One-third Cash; balance in ten (10) equal monthly installments.\n\nCall, write or phone your orders to THE LOWER CALIFORNIA LAND AND DEVELOPMENT COMPANY\u2014Offices 220-221 Lissner Bldg., 524 S. Spring Street, Los Angeles, Cal.; Phone Main 3239.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +661,8 @@
         2030
       ],
       "label": "paragraph_title",
-      "text": "Opportunity Knocks But Once--Buy Now!"
+      "text": "Opportunity Knocks But Once--Buy Now!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +672,8 @@
         2084
       ],
       "label": "text",
-      "text": "Tomorrow may be too late, for these lands are as sure to raise in price to the level of their true value as is water sure to seek its level."
+      "text": "Tomorrow may be too late, for these lands are as sure to raise in price to the level of their true value as is water sure to seek its level.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +683,8 @@
         2164
       ],
       "label": "doc_title",
-      "text": "A Helping Hand to Ladies!"
+      "text": "A Helping Hand to Ladies!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,7 +694,19 @@
         2228
       ],
       "label": "text",
-      "text": "COME BRING YOUR MATERIAL. WITH MY SKILLFUL INSTRUCTION YOU CAN MAKE YOUR OWN GOWNS, WEARING APPAREL, ETC."
+      "text": "COME BRING YOUR MATERIAL. WITH MY SKILLFUL INSTRUCTION YOU CAN MAKE YOUR OWN GOWNS, WEARING APPAREL, ETC.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        973,
+        2290,
+        1220,
+        2607
+      ],
+      "label": "text",
+      "text": "Phone South 1736-W\nJOHN\nThorbugh Course\nPIANO\nFrench Lessons",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,7 +716,8 @@
         2353
       ],
       "label": "text",
-      "text": "Plone South 1736-W"
+      "text": "Plone South 1736-W",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -552,7 +727,30 @@
         2290
       ],
       "label": "text",
-      "text": "411-B E.14TH ST."
+      "text": "411-B E.14TH ST.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1300,
+        214,
+        1489,
+        462
+      ],
+      "label": "text",
+      "text": "1999",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1235,
+        462,
+        1506,
+        1071
+      ],
+      "label": "text",
+      "text": "LORENZINI\nCALIFORNIA\n\nON & COMPANY\n\nFUNERAL DIRECTORS\nS., Arranging And Conducting Fun-\nest Advertisement.\nWomen And Children\n1400 E 17th. St.\nConner Corporation\n\nE. Walker\nRIGHT. DON'T WORRY ANY MORE\nENTITY OF HAIR YOU HAVE\u2014USE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -562,7 +760,8 @@
         1087
       ],
       "label": "text",
-      "text": "1514 E. 23RD STREET"
+      "text": "1514 E. 23RD STREET",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -572,7 +771,30 @@
         1496
       ],
       "label": "text",
-      "text": "The hair grows one inch a month after treatment. We guarantee success. I positively guarantee my work to be the same as done at the Poro College, St. Louis, which means growth and beauty of the hair, no matter how short or stubborn yours may be; these treatments will surprise you. This parlor is under the sole management of Madam Massey, who is a graduate of the St. Louis College, and her more than nine year's experience qualifies her to give the best service in her line. Ladies attended at parlor. You may get her treatments and treat yourself at home. Full treatment $1.50. Mail orders 10 Cents extra. Before using my discovery, my hair was only four inches long."
+      "text": "The hair grows one inch a month after treatment. We guarantee success. I positively guarantee my work to be the same as done at the Poro College, St. Louis, which means growth and beauty of the hair, no matter how short or stubborn yours may be; these treatments will surprise you. This parlor is under the sole management of Madam Massey, who is a graduate of the St. Louis College, and her more than nine year's experience qualifies her to give the best service in her line. Ladies attended at parlor. You may get her treatments and treat yourself at home. Full treatment $1.50. Mail orders 10 Cents extra. Before using my discovery, my hair was only four inches long.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1235,
+        1496,
+        1506,
+        2267
+      ],
+      "label": "text",
+      "text": "Treatments a Specialty\nPhone Main 3742\n\nFarm Lands\n\nThe American Negro has his golden\nwithout securing for yourself some of\nCALLEY ACRES.\nBY 50 Miles from San Diego!\nwheat (900 acres) at a profit of\nits alone, are worth $250 per acre.\n\nMY MEANS DANGER\n$20 cash per acre (Payable before\none thousand (1000) acres at $30\nbalance in ten (10) equal month-\ners to THE LOWER CALIFORNIA\nCOMPANY\u2014Offices 220-221 Lissner\nAngeles, Cal.; Phone Main 3239.\n\nBut Once--Buy Now!\nthese lands are as sure to raise in\ne as is water sure to seek its level.\n\nand to Ladies!\n\nAL. WITH MY SKILLFUL IN-\nOUR OWN GOWNS, WEARING\n\nOF DRESSMAKING\nFrances",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1235,
+        2283,
+        1506,
+        2599
+      ],
+      "label": "text",
+      "text": "E. GRAY\nIn Piano Technic\nHARMONY:\nResidence Stucco\n706 East 18th Street",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -582,7 +804,8 @@
         2283
       ],
       "label": "text",
-      "text": "LOS ANGELES, CAL."
+      "text": "LOS ANGELES, CAL.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -592,7 +815,8 @@
         254
       ],
       "label": "text",
-      "text": "When your sole is sick and your Heels run down, I will save them at a very low price."
+      "text": "When your sole is sick and your Heels run down, I will save them at a very low price.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -602,7 +826,19 @@
         300
       ],
       "label": "paragraph_title",
-      "text": "FIRST CLASS WORKMANSHIP"
+      "text": "FIRST CLASS WORKMANSHIP",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1535,
+        300,
+        1719,
+        447
+      ],
+      "label": "text",
+      "text": "All\nThe only shop of its\nRockies by the race.\n30 YE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -612,7 +848,8 @@
         389
       ],
       "label": "text",
-      "text": "The only shop of its kind that ever was set up in the Rockies by the race."
+      "text": "The only shop of its kind that ever was set up in the Rockies by the race.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -622,7 +859,8 @@
         468
       ],
       "label": "paragraph_title",
-      "text": "824 CENTRAL AVE."
+      "text": "824 CENTRAL AVE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -632,7 +870,8 @@
         575
       ],
       "label": "text",
-      "text": "THE WILLIAMS & DEDRICK\nCafe and Ice Cream Parlor.\nMRS. R. WILLIAMS & MRS. R. DEDRICK, Props.\n824 Second Street San Diego, Cal."
+      "text": "THE WILLIAMS & DEDRICK\nCafe and Ice Cream Parlor.\nMRS. R. WILLIAMS & MRS. R. DEDRICK, Props.\n824 Second Street San Diego, Cal.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,37 +881,30 @@
         630
       ],
       "label": "paragraph_title",
-      "text": "A. J. ROBERTS, SONS & CO."
+      "text": "A. J. ROBERTS, SONS & CO.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1581,
+        1535,
         633,
-        1979,
-        673
-      ],
-      "label": "text",
-      "text": "Reliable, Cldest and Best Equipped FUNERAL DIRECTORS AND UNDERTAKERS"
-    },
-    {
-      "bbox": [
-        1540,
-        1116,
-        2032,
+        2033,
         1163
       ],
       "label": "text",
-      "text": "By The Most Improved Methods\u2014Giving Tender Care For The Departed."
+      "text": "Reliable, Oldest and Best Equipped\nFUNERAL DIRECTORS AND UNDERTAKERS\n\nBURIAL PREPARATION MADE\nBy The Most Improved Methods\u2014Giving Tender Care\nFor The Departed.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1534,
+        1533,
         1154,
-        2032,
-        1293
+        2038,
+        1682
       ],
       "label": "text",
-      "text": "SUPERIOR EQUIPMENT AND EXPERIENCE ENABLES THIS FIRM TO GIVE THE MOST ECONOMICAL FUNERALS. Lady Attendant\u2014\u2014Complete Show Rooms\u2014\u2014Chapel and Family Room. Phone MAIN 7698 A. J. ROBERTS SONS & CO., 1119 SO. LOS ANGELES ST., LOS ANGELES, CAL."
+      "text": "SUPERIOR EQUIPMENT AND EXPERIENCE ENABLES THIS FIRM TO GIVE THE MOST ECONOMICAL FUNERALS. Lady Attendant\u2014\u2014Complete Show Rooms\u2014\u2014Chapel and Family Room. Phone MAIN 7698 A. J. ROBERTS SONS & CO., 1119 SO. LOS ANGELES ST., LOS ANGELES, CAL.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -682,7 +914,8 @@
         1762
       ],
       "label": "doc_title",
-      "text": "Rosa L. Sampson's"
+      "text": "Rosa L. Sampson's",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -692,7 +925,8 @@
         1946
       ],
       "label": "text",
-      "text": "Wonderful Hair Grower and Complexion Beautifier.\nEquipped with all the modern improvements for growing hair and beautifying the complexion. Atrial will suffice.\nHuman hair goods, Brown Skin Powder, Hair Straightening Combs and Tongs always in stock. Mail orders promptly attended to.\nAddress Rosa L. Sampson Manufacturing Co.\n844 Central Avenue.\nPhone Broadway 3107 Res. Phone South 4323-W\nLOS ANGELES, CAL"
+      "text": "Wonderful Hair Grower and Complexion Beautifier.\nEquipped with all the modern improvements for growing hair and beautifying the complexion. Atrial will suffice.\nHuman hair goods, Brown Skin Powder, Hair Straightening Combs and Tongs always in stock. Mail orders promptly attended to.\nAddress Rosa L. Sampson Manufacturing Co.\n844 Central Avenue.\nPhone Broadway 3107 Res. Phone South 4323-W\nLOS ANGELES, CAL",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -702,7 +936,19 @@
         2489
       ],
       "label": "text",
-      "text": "Poro Scientific and Sanitary Treatment OF THE SCALP AND HAIR\u2014EFFECTING A HEALTHY SCAL AND THUS PROMOTING A GROWTH OF LUXURIAN HAIR MRS. ROSA JONES 1157 EAST 11TH STREET"
+      "text": "Poro Scientific and Sanitary Treatment OF THE SCALP AND HAIR\u2014EFFECTING A HEALTHY SCAL AND THUS PROMOTING A GROWTH OF LUXURIAN HAIR MRS. ROSA JONES 1157 EAST 11TH STREET",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1919,
+        83,
+        2052,
+        100
+      ],
+      "label": "text",
+      "text": "PAGE SEVEN",
+      "status": "ok"
     }
   ]
 }

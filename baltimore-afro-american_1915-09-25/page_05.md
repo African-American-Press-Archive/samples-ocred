@@ -6,27 +6,21 @@ The colored brother will be called upon in the coming election to furnish a larg
 
 And still we have among the elergy and laity, a number of so-called "astute politicians."
 
-The daily papers announced the fact that the principal of the Colored High School has asked the School Board to take under "advisement" the formation cadet corps in the colored secondary school. We might also commend Principal Hawkins for securing out of the last "Green Bag" thirty per cent of the appointments in the High School for local teachers. There were two new teachers appointed this year. The proportion isn't so "worse" but it could have been better.
+The daily papers announced the fact that the principal of the Colored High School has asked the School Board to take under "advisement" the formation cadet corps in the colored secondary school. We might also commend Principal Hawkins for securing out of the last "Green Bag" fifty per cent of the appointments in the High School for local teachers. There were two new teachers appointed this year. The proportion isn't so "worse" but it could have been better.
 
-Sometime in April "Health Week" was observed in this city. During that week, a prominent local physician urged that the next legislature should be appealed to for a sanitarium where tuberculosis and other diseases may be treated, and further advised that the start to gain this end be started at once. It would not be a bad idea (since the start has not been made yet) to quiz the would-be legislaturemen as to their sentiments regarding this question and then vote accordingly.
+Sometime in April "Health Week" was observed in this city. During that week, a prominent local physician urged that the next legislature should be appealed to for a sanitarium where tuberculosis and other diseases may be treated, and further advised that the start to gain this end be started at once. It would not be a bad idea (since the start has not been made yet) to quiz the would-be legislature as to their sentiments regarding this question and then vote accordingly.
 
-"They are not dead but sleeping: The local branch of the National Association for the Advancement of Colored People. The Citizens' Committee of Provident Hospital.
+"They are not dead but sleeping: The local branch of the National Association for the Advancement of Colored People. The Citizens' Committee of Provident Hospital."
 
 The Colored Business Men's Exchange.
-
 The Dental Clinic in colored schools.
-
 The Forum—(Dead)
-
 The Lincoln Republican League's announced intention of securing for the race a more potent influence in the councils of the Republican party.
-
 The promise of the Mayor of Baltimore City and the Mayor of the Seventeenth Ward that a new building for the Colored High School would be erected.
-
 An adequate site for Morgan College in the suburbs.
+The colored citizens who are going to organize a movement to defeat Coroner Algire, of Guth murder case fame, for election as Register of Wills.
 
-The colored citizens who are going to organize a movement to defeat Coroner Aligre, of Guth murder case fame, for election as Register of Wills.
-
-The Camp-Fire Girls of Waters A. M. E. Church gave a delicious repast consisting of cake, ice cream and punch and the latest delicacies of the season at the home of the president, Miss Marie Keene, 1648 Mullinik street, in honor of their guardian, Mrs. M. C. Bantum, who will shortly leave for Hampton, Va. We regret very much her departure.
+The Camp-Fire Girls of Waters A. M. E. Church gave a delicious repast consisting of cake, ice cream and punch and the latest delicacies of the season at the home of the president, Miss Marie Keene, 1648 Mullikin street, in honor of their guardian, Mrs. M. C. Bantum, who will shortly leave for Hampton, Va. We regret very much her departure.
 
 Reporter, Miss Magnolia Williams.
 
@@ -38,7 +32,7 @@ DeCOURSEY—In loving remembrance of my dear father, Rev. David L. De Coursey, w
 
 Mrs. Ella Chesley and daughter, 514 Oxford street, have returned from a visit to Atlantic City.
 
-Miss Grace Johnson, of 905 Myrtle avenue, has returned from a visit to Plainfield, N. J.
+Miss Grace Johnson, off 905 Myrtle avenue, has returned from a visit to Plainfield, N. J.
 
 Mrs. Edward Short, of 1812 Druid Hill avenue, who was operated on for appendicitis at Freedmen's Hospital, Washington, has returned home.
 
@@ -50,7 +44,7 @@ Rev. S. R. Hughes, pastor of Whatcoat M. E. Church, is preaching a series of top
 
 Mrs. Robert D. Jennings has returned to Buchannan, Va., after spending several weeks with her mother, Mrs. Emily, of 1124 Russell street.
 
-The Congo Dance by the Inter-Collegiates, October 18th.
+The Congo Dance by the Inter-Collegiate, October 18th.
 
 C. Clarence Miller, manager of the printing establishment maintained by the Order of St. Luke at Richmond, Va., was a caller at the office of the Afro-American Ledger this week.
 
@@ -72,7 +66,7 @@ Rev. C. E. O. Smallwood, pastor of John Wesley M. E. Church, Charlottesville, Va
 
 Purviance Classy Saturday and Wednesday classes at Pythian Castle. Latest modern society dances. Congo Schottische Trimax, Tango Square.
 
-Mrs. Blanch Lealsens, of 1616 Division street, after spending the summer in Atlantic City, the guest of Mrs. Jeanne Floyd and Mrs. Nellie Pippins, has returned home.
+Mrs. Blanch Lealsens, of 1616 Division street, after spending the summer in Atlantic City, the guest of Mrs. Jeanette Floyd and Mrs. Nellie Pippins, has returned home.
 
 Mrs. W. M. Minor and her son have returned home after spending the summer with her husband at Blue Ridge Summit, Pa.
 
@@ -82,7 +76,7 @@ Mr. John W. Ross, of 1337 N. Carey street, who has been confined to his home for
 
 Mrs. Mary L. Corporel, of 702 N. Eden street, has returned home from an extended trip to Chester, Novia Scotia and Halifax, Canada.
 
-Honk, the sound of the Auto Dance, Monday evening, October 4th, 8 to 1:30. Music by Prof. E. Blake's Orchestra.
+Honk, the sound of the Auto Dance, Monday evening, October 4th, 8 to 1:80. Music by Prof. E. Blake's Orchestra.
 
 Mrs. Hortense Randall, of 1366 Woodyear street, left last Sunday for a few weeks stay as the guest of Mrs. Martha Hammond, Sharon Hill, Pa.
 
@@ -96,6 +90,8 @@ Apply to WM. HUTCHINS.
 NOTICE—All members and friends of the State Federation of Maryland are requested to meet Monday evening, at 8 o'clock, Sept. 27th, at the Young Women's Christian Association. Please be present,
 Miss Ida R. Cummings, chairman
 Mrs. M. F. Handy, Pres.
+
+THE AFRO-AMERICAN LEDGER
 
 # SEE GILBERT FIRST
 
@@ -129,6 +125,8 @@ Rev. P. C. Neal D. D. Pastor
 
 ## SPECIAL NOTICE
 
+In justification to the interest of the People's Benefit and Fraternal Society and its members, the operators desire to make public the statement that the rumor regarding The Peoples Benefit and Fraternal Society discontinuing business or selling out is absolutely untrue and without any foundation. Signed
+
 In justification to the interest of the People's Benefit and Fraternal Society and its members, the operators desire to make public the statement that the rumor regarding The Peoples Benefit and Fraternal Society discontinuing business or selling out is absolutely untrue and without any foundation.
 
 Signed
@@ -136,11 +134,9 @@ Alfred H. Pitts,
 C. H. Jones
 Alfred Nixon
 
-## Maryland Federation Christian Women
-
 Maryland Federation Christian Women
 
-Special service at Macedonia Baptist Church, Sunday, September 26th, 1915, at 3 p. m. All are invited. Please return State Rally Cards. Mrs. M. F. Handy, President.
+Special service at Macedonia Baptist Church, Sunday, September 26th, 1915, at 3 p.m. All are invited. Please return State Rally Cards. Mrs. M. F. Handy, President.
 
 Mrs. L. S. Penn, Secretary
 
@@ -153,13 +149,47 @@ INCORPORATED
 Monday Evening, October 4th, 1915, From 8 to 1.30
 Galilean Fishermen's Auditorium Admission, 25 Cents
 Prof. Blake's Orchestra will furnish the best of music.
-Don't Miss This Music Plenty of Refreshments on Sale Don't Miss This Dance
+Don't Miss This Music
+Plenty of Refreshments on Sale
+
+Piano & Vocal Studio-2111 Druid Hill Av.
+BALTIMORE, MARYLAND
+
+Opening and Registration Day, October 1st, from 10 a. m. to 10 p.m. All persons desiring to study are asked to register and arrange for lessons, etc. on that day. Start at the beginning of the term for a good years work.
+
+## Maryland Federation Christian Women
+
+Honk Honk ANNOUNCEMENT Honk Honk THE SOUND OF THE AUTO DANCE Given by the Colored Chauffeurs Association of Maryland INCORPORATED Monday Evening, October 4th, 1915, From 8 to 1.30 Galilean Fishermen's Auditorium Admission, 25 Cents Prof. Blake's Orchestra will furnish the best of music. Don't Miss This Music Plenty of Refreshments on Sale Don't Miss This Dance
 
 ## Piano & Vocal Studio-2111 Druid Hill Av.
 
-Opening and Registration Day, October 1st, from 10 a.m. to 10 p.m. All persons desiring to study are asked to register and arrange for lessons, etc. on that day. Start at the beginning of the term for a good years work.
+Opening and Registration Day, October 1st, from 10 a. m. to 10 p. m. All persons desiring to study are asked to register and arrange for lessons, etc. on that day. Start at the beginning of the term for a good years work.
 
 ESLANDER V. THOMAS, Directress
+
+HOME-COMING WEEK
+Grace Presbyterian Church
+SPECIAL SERVICES
+
+Monday, Sept. 27, 8 p. m., Session's Night. Rev. Matthias Williams. Choir and Congregation of Mt. Zion M. E. Church.
+
+Tuesday, Sept. 28, 8 p. m., Trustees' Night. Rev. Dr. Jones Watkins. Choir and congregation of Eonon Baptist Church.
+
+Wednesday, Sept. 29, 8 p. m., Pastoral Aid's Night. Rev. Samuel M. Johnson, D.D., Choir and Congregation of Trinity A.M.E.Ch.
+
+Thursday, Sept. 30, 8 p. m., Men's Night. Rev. Dr. J. A. Holmes. Choir and Congregation of Metropolitan M. E. Church.
+
+Friday, Oct. 1st, 8 p. m., Odd Penny Night. Address, Rev. L. Z. Johnson, D.D. Special Music.
+
+Sunday, October 3rd.
+11 a. m., Sermon by the Minister
+3 p. m., Exercises by Sunday School. Address Mr. Nathaniel G. Grasty, Secretary City Charities.
+8 p. m., Platform Meeting
+Addresses by Editor J. H. Murphy and Prof. Wm. Pickens, Dean of Morgan College.
+
+Monday, Oct. 4, 8 p. m., Free Reception to members by Trustees.
+All members and friends are urged to be present.
+Rev. W. Edw. Williams, D. D., Minister.
 
 ## HOME-COMING WEEK
 Grace Presbyterian Church
@@ -201,14 +231,33 @@ FOR SALE—Large three story house in the 300 block of W. Hoffman street now ope
 
 AMES MEMORIAL M.E. CHURCH Carey and Baker Streets
 
-Rev. A. J. Mitchell, D. D., Pastor Parsonage 1363 N. Calhoun St. 6.30-9 a. m., Class. Thomas Lane, Leader.
+Rev. A. J. Mitchell, D. D., Pastor
+Parsonage 1363 N. Calhoun St.
+6.30-9 a. m., Class. Thomas Lane.
+Leader.
+11 a. m., sermon by Rev William
+Hoy.
+2.30 p. m., Sunday School Henry
+Johnson, Supt.
+4 p. m., Boys' Rally Day. Sermon
+by Rev. G. A. Davis. All Scouts
+invited with their uniforms.
+8 p. m., Sermon by Rev C. B. Bishop.
+Flashlights from Florida by the
+Pastor.
+All members and friends of the
+Church are requested to come out and
+help the boys on Boys' Day.
+The Boy Scouts will take the offering
+each service this day.
 
 ASBURY M. E. CHURCH
 East and Lexington Sts.
 Rev. George E. Curry, Pastor.
 Residence: 1880 E. Eager St.
-11 a. m., Sermon by the pastor, subject: "The Baptism of Fire."
-2. 30 p. m., Sunday School
+11 a. m., Sermon by the Pastor, subject:
+"The Baptism of Fire."
+2.30 p. m., Sunday School
 Mr. C. T. Stewart, Supt.
 8 p. m., Sermon by the Pastor.
 Every one cordially invited.
@@ -218,21 +267,42 @@ Franklin and Pine Streets
 Rev. S. R. Hughes, A. M., Pastor
 Parsonage, 1424 Argyle Avenue
 Something new every Sunday.
-11 a. m., Preaching by the ractor.
+11 a. m., Preaching by the rastor.
 Subject: "The Color Line."
 
-The Great Revival Campaign.
-11 a.m., Sermon by Rev. S. Douglass McDuffie, the Great Evangelist.
-2.30 p.m., Sunday School.
-3 p.m., the Pastor, choir and congregation will visit the First Baptist Church. Sermon by the Pastor of Centennial.
-8 p.m., Preaching, by Rev. S. Douglass McDuffie.
-Revival services every night during the week conducted by the Evangelist.
-Rev. S. Douglass McDuffie.
-Great time. Everybody welcome.
-Amen!
+3 p. m., Sunday School.
+W. C. Tongue, Supt.
+4 p. m., Class No. 5.
+J. W. Gibson, Leader
+8 p. m., The Pastor. Subject: "What are they doing in Heaven?"
+The 26th Anniversary the month of October.
+Wednesday night, Prayer Meeting.
 
-5 30 p. m., Foworth League.
-8 p. m., Sermon by Rev. Lewis Ford.
+CENTENNIAL M. E. CHURCH
+Caroline and Bank Streets
+Rev. N. M. Carroll, D. D., Pastor
+The Great Revival Campaign.
+11 a. m. by Rev. S. Douglass McDuffie, the Great Evangelist.
+2.80 p. m., Sunday School.
+3 p. m., the Pastor, choir and congregation will visit the First Baptist Church. Sermon by the Pastor of Centennial.
+8 p. m., Preaching; by Rev. S. Douglass McDuffie.
+Revival service every night during the week connected by the Evangelist, Rev. S. Douglass McDuffie.
+Great time. Everybody welcome. Amen!
+
+EASTERN M.E. PIRE AND HOLY
+GHOST CHURCH
+McElderry Street and Patterson
+Park Avenue
+Rev. Alfred Young, Pastor
+Residence: 618 Dolphin' Street
+11 a. m., Sermon by the Pastor.
+2 30 p. m., SunJav-School.
+3 p. m., the Pastor, choir and congregation will visit Paradise Grove
+Camp.
+5 30 p. m., Enworth League.
+8 p. m., Sermon by Rev. Lewis
+Ford.
+
 SHARP ST. MEM. M. E. CHURCH
 
 Dolphin and Etting Streets
@@ -242,22 +312,21 @@ Instructor.
 11 a. m., Sermon by the Pastor.
 2 p. m., Sunday School. M. Q. Dorsay. Supt.
 
-Rev. R. K. Wrench, Pastor
 11 a. m., Preaching.
 2 n. m., Sunday School.
-2.45 p. m., Old Fashioned Lovefeast.
+2.45 p. m., Old Fashioned Lovefoast.
 3.80 p. m., Sermon by Rev. A. G.
-Read. The Willing Works of Belt
+Read. The Willing Work of Belt
 Street will be with us at the same
 time.
 7 p. m., Epworth League.
-7.80 p. m., the Sunday School will
+7.30 p. m., the Sunday School will
 render an up-to-date program
-Mr. H. M. Washington, Snpt.
-Mrs. Elise Hall, Pres E. L.
+Mr. H. M. Washington, Supt.
+Mrs. Elise Hall, Pres. E. L.
 Mrs. E. B. Fuller, Pres. Ladies' Aid.
 Miss Ida Williams, Supt. Jr. League.
-Mr. K. D. Ragland, President of the
+Mr. K. D. Bagland, President of the
 Brotherhood.
 All are welcome.
 
@@ -269,31 +338,42 @@ Sabbath (Saturday) Service
 10 a. m., Sabbath School.
 11 30 a. m., preaching service.
 Special Sermon, Sunday right, Sept.
-26th subject: "The Seven Trumpets."
+26th subject: "The Seven Pumpets."
 All invited. Questions answered.
 Special Sermon, Sunday night, Oct.
-3rd. subject: "Jew or Gentile—
+3rd subject: "Jew or Gentile—
 Which?"
 
-An Invited. Questions and Special Sermon. Sunday night. Oct.
-3rd. subject: "Jew or Gentile—Which?"
+MT. CALVARY FIRST INDEPENDEN-
+DENT M. E. CHURCH
 
-MT. CALVARY FIRST INDEPENDENT M. E. CHURCH
-Rev James L. Williams Pastor
 Residence: 614 W. Biddle St.
-This is the opening day for the First Independent M. E. Church. Services will be held at Callianan Fishermen's Hall, Biddle street, near Madison avenue.
+This is the opening day for the First
+Independent M. R. Church. Services
+will be held at Callean Fishermen's
+Hall, Biddle street, near Madison avenue.
 
-11 a. m.. Sermon by the Pastor.
-8 n. m., Sermon by the Pastor or Stranger.
+11 a. m., Sermon by the Pastor.
+8 p. m., Sermon by the Pastor or Stranger.
 A cordial welcome to all
 Bro. Walter Howard, Church Clerk.
 
-Automobile will run every hour from
-Reach street. Chris is here, to the camp.
-Fare one way 20 cents.
+GILLIS MEM. M. P. CHURCH
+Stockton St. near W. Baltimore St.
+Rev. R. H. Knight. Pastor
+10 a. m. Class.
+11 a. m., Preaching by G. W. Fowler.
+2. 80 n. m., Sunday School.
+7 to 8 p. m., Prayer and Praise Services.
+8 p. m., Sermon by the Pastor.
+T. H. McLoughan, Sunn.
+
+THE LAST SUNDAY OF CAMP MEETING
+Rev. Wm. Harris and Solomon Bedford are to be with us. All city and country and city hands are invited.
+Automobile will met every hour from Beach street. Christ lay to the camp.
+Rare one way 20 cents.
 Silvester H. Norwood. Pastor,
-574 Oxford St. Pho. St. Vernon 4842
-M
+574 Oxford St. Phoen. Mt. Vernon 4842 M.
 
 WATERS A. M. E. CHURCH
 Aisquit Street near Orleans
@@ -302,43 +382,37 @@ Rev. A. L. Gaines, D. D. Pastor
 Subject: "The Healing of the Water by
 Elliah."
 
-2.30 p. m. Sunday School Session.
-8 p. m. Sermon by the Pastor.
+2.30 p. m., Sunday School Session.
+8 p. m., Sermon by the Pastor.
 J. F. Waters, Supt.
-J. H. Attendee, Secretary.
+J. W. Woodhous, Secretary
 
-6.30 p. m., Allen Christian Endeaver.
+EBENEZER A. M. E. CHURCH
+Montgomery Street near Charles
+Rev. I. N. Ross, D. D., Pastor
+7 a. m., Class
+10 a. m., Bible Class.
+11 a. m., Preaching by the Pastor.
+2.30 p. m., Sunday School.
+Charles Tolson, Supt.
+6.30 p. m., Allen Christian Endeavor.
 J. Murray, President.
-8 p. m., Preaching.
+6 p. m., Preaching.
 Charles Henry, chorister.
-Thomas Mitchell, Organist.
+Thomas Mitchell, Organist
 
 TRINITY A. M. E. CHURCH
 Linden Ave. and Biddle Street
 Rev. S. M. Johnson, D. D., Pastor
 11 a. m., Sermon by Rev. J. B. St.
 Felix Isaacs, D. D.
-
-TRINITY A. M. E. CHURCH
-Linden Ave. and Biddle Street
-Rev. S. M. Johnson, D. D., Pastor
-11 a. m., Sermon by Rev. J. B. St.
-Felix Isaacs, D. D.
-2:30 p. m., Sabbath School.
-3 p. m., Sermon by Rev. Junus
-Gray, D. D., pastor of Psalmlist Bapt.
+2.30 p. m., Sabbath School.
+3 p. m., Sermon by Rev. Junna
+Gray, D. D., pastor of Psalmist Bapt.
 Church, choir and congregation.
 8 p. m., Sermon by Pastor to the
 Juvenile Court of Household and G. U.
-O. of O. F.
-
-2:30 p. m., Sabbath School.
-3 p. m., Sermon by Rev. Junns
-Gray, D. D., pastor of Psalmist Bapt;
-Church, choir and congregation.
-8 p. m., Sermon by Pastor to the
-Juvenile Court of Household and G. U.
-O. of O. F.
+O. of F. O.
 
 T. J. Holliday, Supt.
 
@@ -368,20 +442,27 @@ ST. JOHN'S A. M. E. CHURCH
 Lexington Street near Pine
 Rev. P. W. Worthham, D. D., Pastor
 634 George Street
-11 a. m. Sermon by the Pastor.
-2 30 p. m. Sabbath School.
-8 30 p. m. Sermon by Rev. I. N.
+11 a. m., Sermon by the Pastor.
+2.30 p. m., Sabbath School.
+5.30 p. m., Sermon by Rev. I. N.
 Ross, D. D.
-6 p. m. a. C. E League.
-8 p. m. sermon by the Pastor.
+6 p. m., A. C. E League.
+8 p. m., Sermo. by the Pastor.
 Dr. J. C. Stewart, Pres. of A.C. E.L.
 Charles Oliver, Supt.
 
+THE PEOPLE'S UNION CHURCH
+Orioles and Ann Sts.
+Rev. C. Edw. Browne, Pastor
+Residence: 1611 McElderry St.
+9 a. m., Class.
+11 a. m., Sermon by the Pastor
+2.30 p. m., Sunday school.
 3.30 p. m., Special Sermon by Rev.
-Ida H. Nelson. Her chair and congregation rre invited.
+Ida I. Nelson. Her choir and congregation are invited.
 4 p. m., Class.
 8 p. m., Sermon by the Pastor.
-Tuesday and Wed. esday nights,
+Tuesday and Wed. esday nights.
 Class.
 
 CHRIST INSTITUTION CHURCM
@@ -400,15 +481,6 @@ Second Quarterly Meeting Day.
 C. Y. W. C. A., Sunday, Sept. 20th
 Helping Hand Day, Miss Emmia Mitchell, chairman.
 
-C. Y. W. C. A., Sunday, Sept 20th.
-Helping Hand Day, Miss Emma Mitchell, chairman.
-Paper, Miss Lillian Young.
-Solo, Miss Bessie Andrdson.
-Special music.
-Miss Charlotte Davage, Prea,
-Miss E. E. Bright, Secretary.
-Mrs. H. Smith, Genl. Secv.
-
 Miss Charlotte Davage, Pres.
 Miss E. E. Bright, Secretary.
 Mrs. H. C. Smith, Genl. Scev.
@@ -423,11 +495,23 @@ Boiled or Roast Dinners, Poultry Dinners,
 
 ## DINNER MENU
 
-Prime Kiss Beef Beef Potato Low Young Lamb
-Boiled Beef Tongue with String Beans
-Stewed Chicken Supreme Sausage
+RELISHES
+Olives Sliced Tomatoes Cold Slaw
 
-Select 8 VEGETABLES Select 8
+SOUPS
+Chicken Vermicillo or Tomatoes
+Baked Salmon Trout
+
+ENTREE
+Peach a la Conde
+
+ROAST MEATS
+Prime Ribs Beef Au Jus
+Roast Leg Young Lamb
+Boiled Beef Tongue with String Beans
+Stewed Chicken Supreme Sauce
+
+Select 3 VEGETABLES Select 8
 White or Sweet Potatoes Stewed Tomatoes
 Lima Beans Mashed Turnip Green Peas
 Stringless Beans
@@ -436,8 +520,11 @@ SALAD
 Lettuce and Tomatoes or Egg
 
 DESSERT
-Snow Pudding Baked Sweet Potato Marinade
+Snow Pudding Baked Sweet Potato Mangoes
 Hawaiian Sliced Pineapple or Bananas
+
 Tea or Coffee
 
 CALL AGAIN
+
+Regular Dinner Served Daily

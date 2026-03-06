@@ -1,0 +1,20 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 2800,
+  "height": 3878,
+  "processed_at": "2026-03-06T14:40:35.605740+00:00",
+  "processing_time": 0.8,
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "ocr_workers": 1
+  },
+  "layout": {
+    "raw_detections": 0,
+    "after_gap_fill": 0,
+    "after_merge": 0
+  },
+  "regions": []
+}

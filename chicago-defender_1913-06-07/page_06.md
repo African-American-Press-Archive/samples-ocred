@@ -2,33 +2,22 @@
 
 ## Miller and Lyles at the Grand Next Week.
 
-Miller and Lyles at the Grand Next Week.
-
-Miller and Lyles, two of the foremost comedians on the stage, are at the Grand theater next week. They are two Chicagoans who have "made good" on the vaudeville stage and are among the highest salaried comedians of the day. Last week they were at the Palace theater and had the best spot on the bill, featuring their act after the famous John Barrymore, Mr. Richard B. Harrison, the celebrated elocutionist, will also be at the Grand the first half of the week.
+Miller and Lyles, two of the foremost comedians on the stage, are at the Grand theater next week. They are two Chicagoans who have "made good" on the vaudeville stage and are among the highest salaried comedians of the day. Last week they were at the Palace theater and had the best spot on the bill, featuring their act after the famous John Barrymore. Mr. Richard B. Harrison, the celebrated elocutionist, will also be at the Grand the first half of the week.
 
 The Grand.
 
 Matt Marshall and Andrew Tribble were the headliners at the Grand the first half of the week. When they were here a few weeks ago, the act took so well that the management had them to play a return engagement. This is the best evidence that they have a first class act, one that the theater-goers delight to see. They were given a very cordial reception and the house has been backed night-
 
-MISS GLADYS M. SELLERS
-With Umbrian Glee Club at Olivet
+[Image of a woman with a rose on her shoulder].
 
-Baptist Church, Monday, June 9th.
+MISS GLADYS M. SELLERS
+With Umbrian Glee Club. at Olivet Baptist Church. Monday, June 9th.
 
 ly. They are as funny as ever and make a "hit" singing, "Goodie, Goodie, Good." The show opens with the Herman family's trained dogs and cats; the dogs especially showing great intelligence, Craig and Williams are two real fun-makers with an extended dialogue. Paul Florus, who plays the xylophone, is given applause for every number. The act goes big. Max's Circus is the closing number, and is entertaining as well as amusing. New pictures and Peyton's orchestra are added features of the evening's entertainment.
 
 Monday evening, June 9th, is the date selected by the Umbrian Glee Club for their fifth annual concert. This is always among the biggest and best of all concerts. The concert for this year promises to eclipse all former appearances of that crack male voice aggregation. They will appear at Olivet Baptist Church.
 
-The Monogram.
-Charles "Chicken" Jones and Miss Ethel Cole are the headliners at the Monogram theater. They open with "Dixie Land." Miss Jones sings, "Let's Go to Savannah." Mr. Jones entertains with a monologue and sings "Rye Bye." The act closes with "Lovie Dear" and a buck and wing dance, Miss Hattie Garland, of Indianapolis, Ind., is the soubrette and sings "Chimpanzee" and "Mechanical Man." The act is well received. Ethlyn and Luke is the second number; a very classy act from the East, featuring, "Any Old Time," "Goodbye Rose" and "Hypnotizing Man." Estelle Harris and Bessie Brown have a good act, with Miss Harris at the piano, playing rag songs. Miss Bessie Brown, well known in Chicago, sings with marked success, "I'd Rather be a Lobster Than a Wise Guy."
-
-The occasion in question was one of merit, vocally, and instrumentally the stars shone on. The many the make up the program were all loudly applauded but each had many admirers and "The Danabegay" was a success and every artist participates needs no personal criticism here other than from start to finish "Danabegay" was all that its name implies.
-
-Mr. George appeared once, usual he acquired himself with credit; to tell the truth, what would be the event without its originate the only Frank P. George, on the program?
-
-The program in full was as follows: Wilson's orchestra in a pleasing section; piano number by Mr. Blean Logan; solos by Miss Mirell Blunt, Mme. Marie P. Merrill and Mp. Cooper. Following a duet by Mme. Marie Burton-Hyram an. Mr. George Garner Jr., and later Mp. Merrill and Mr. Garner Jr. Mr. Hu Buchanan was the next soloist. Mr. Sinclaire White, violinist, won additions by her renditions on this occasion. The Pompeian quartet and Mr. George made up a program of rare excellence. Mr. Joe Shoecraft's speech in introducing his quartet was a feature of the evening. Prof. Garlie Wilson's orchestra played the dawn music, and the best judges said that it was never better. Miss Marion Garner was the accompanist. She was also the director of all three musical. The other officers were Samuel Fielding, manager in advance William J. Kelley, manager of inferior; Robert Fisher, supervisor; finance; William Abbe, stage manager. The ushers were Miss Jesse Jette Trippet, Trippet Lewis, Theil Alexander, Vetolla Hayes, Noam Bunn, Fairfax Butler, Ethel Minik Katie Fowler.
-
-The beneficiary from the event was
+Charles "Chicken" Jones and Miss Ethel Cole are the headliners at the Monogram theater. They open with "Dixie Land." Miss Jones sings, "Let's Go to Savannah." Mr. Jones entertains with a monologue and sings "Bye Bye." The act closes with "Lovie Dear" and a buck and wing dance. Miss Hattie Garland, of Indianapolis, Ind., is the soubrette and sings "Chimpanzee" and "Mechanical Man." The act is well received. Ethlyn and Luke is the second number; a very classy act from the East, featuring, "Any Old Time," "Goodbye Rose" and "Hypnotizing Man." Estelle Harris and Bessie Brown have a good act, with Miss Harris at the piano, playing rag songs. Miss Bessie Brown, well known in Chicago, sings with marked success, "I'd Rather be a Lobster Than a Wise Guy."
 
 ## "Thy Will Be Done" Postponed.
 
@@ -42,7 +31,7 @@ Prof. Mundy had his recital at Quinn Chapel A. M. E. church on Monday night. The
 
 ## Mr. William Dorsey.
 
-Mr. William Dorsey, one of the clearest music writers and arrangers we have again given to the musciolving world a composition that unoubtedly will add greatly to his popularity. It will be remembered that Mr. Dorsey was the first who accepted the famous ballad, "If I Forget," for the firm he was connected with, and through his personal efforts and good judgment did much to make it a success. A list of Mr. Dorsey's compositions will appear in these columns shortly, and no lover of music should fail to purchase each and every one of them.
+Mr. William Dorsey, one of the cleavest music writers and arrangers we have again given to the muscovy world a composition that unloudly will add greatly to his popularity. It will be remembered that Mr. Dorsey was the first who accepted the famous ballad, "If I Forget," for the firm he was connected with, and through his personal efforts and good judgment did much to make it a success. A list of Mr. Dorsey's compositions will appear in these columns shortly, and no lover of music should fail to purchase each and every one of them.
 
 ## The Grand
 
@@ -62,11 +51,13 @@ The hall was packed—that meant money for the promoter; the program was varied 
 
 "The Danabegay" occupies a place in things social that is hard to define. "Dance and Be Gay" has appealed to all ages, but to "dance and be gay" and be entertained by a star concert could only originate in the mind of that popular sponsor of genius, Mr. George.
 
-The occasion in question was one of vocally, and instrumentally the stars shone out. The many that made up the program were all loudly applauded but each had many administrators and "The Danabegay" was a success and every artist participating needs no personal criticism here other than from start to finish "Danabegay" was all that its name implies.
+1
 
-Mr. George appeared once. As usual he acquitted himself with credit; to tell the truth, what would he the event without its originator, the only Frank P. George, on the program?
+The occasion in question was one of merit, vocally, and instrumentally the stars shone out. The many that made up the program were all loudly applauded but each had many administrators and "The Danabegay" was a success and every artist participating needs no personal criticism here other than from start to finish "Danabegay" was all that its name implies.
 
-The program in full was as follows: Wilson's orchestra in a pleasing selection; piano number by Miss Missie Logan; solos by Miss Renna Blunt, Mme. Marie P. Perrill and Mr. Opal Cooper. Garner came a duet by Mme. Marie Burton-Hyram and Mr. George Garner Jr., and later Mme. Merrill and Mr. Garner Jr. Mr. Hugh Buchanan was the next soloist. Miss Sinclair White, violinist, won added laurels by her renditions on this occasion. The Pompeian quartet and Mr. George made up a program of rare excellence. Mr. Joe Shoecraft's speech in introducing his quartet was a feature of the evening. Prof. Garfield Wilson's orchestra played the dance music, and the best judges said that it was never better. Miss Marion E. Garner was the accompanist. She was also the director of all things musical. The other officers were: Samuel Fielding, manager in advance; William J. Kelley, manager of interior; Robert Fisher, supervisor of finance; William Abbe, stage manager. The ushers were Misses Jeanne Tetriet Tripett, Ferris Lewis, Thelma Alexander, Vetella Hayes, Noamah Bunn, Fairfax Butler, Ethel Minor, Katie Fowler.
+Mr. George appeared once. As usual he acquitted himself with credit; to tell the truth, what would be the event without its originator, the only Frank P. George, on the program?
+
+The program in full was as follows: Wilson's orchestra in a pleasing selection; piano number by Miss Blanche Logan; solos by Miss Renna Blunt, Mme. Marie P. Merrill and Mr. Opal Cooper. Following came a duet by Mme. Marie Burton-Hyram and Mr. George Garner Jr., and later Mme. Merrill and Mr. Garner Jr. Mr. Hugh Buchanan was the next soloist. Miss Sinclaire White, violinist, won added laurels by her renditions on this occasion. The Pompeian quartet and Mr. George made up a program of rare excellence. Mr. Joe Shoecraft's speech in introducing his quartet was a feature of the evening. Prof. Garfield Wilson's orchestra played the dance music, and the best judges said that it was never better. Miss Marion E. Garner was the accompanist. She was also the director of all things musical. The other officers were: Samuel Fielding, manager in advance; William J. Kelley, manager of interior; Robert Fisher, supervisor of finance; William Abbe, stage manager. The ushers were Misses Jeanette Tripett, Ferriss Lewis, Thelma Alexander, Vetella Hayes, Noamalh Alexander, Fairfax Butler, Ethel Minor, Katie Fowler.
 
 The beneficiary from the event was the Phyllis Wheatley Home for Working Girls.
 
@@ -144,13 +135,7 @@ The Calendar Club of Mt. Morlah Baptist church gave a grand rally Sunday, June 1
 
 ## THE SAMARITAN CLUB.
 
-The Samaritan Club met Thursday, May 29, at the residence of Mrs. Willard Chim, 5714 La Favette avenue. The club was called to order by the president, and the meeting was opened by the repeating of the Lord's prayer. A musical program was rendered. A visitor, Mrs. Oliver, gave an interesting talk at 11 o'clock. A luncheon was served by the hostess.
-
-The University Society, a floating organization, composed of graduates from the various universities and colleges (throughout the country, rendered a program for the Standard Literary Society of Bethesda church, last Sunday. They promised a splendid program, but on account of illness and other important business, some of the members were not present. However, they found it easy to substitute for those absent and a very interesting program was rendered.
-
-Mr. John W. Felton gave a very good reading instead of a cornel son which he was to play. Mr. E. O. Marshall is an adept at the piano.
-
-Mr. Frank W. Henry read a very exhaustive paper, subject: "The Part Played by the Negro Soldiers in the Wars of the World."
+The Samaritan Club met Thursday, May 29, at the residence of Mrs. Willard Chim, 5714 La Fayette avenue. The club was called to order by the president, and the meeting was opened by the repeating of the Lord's prayer. A musical program was rendered. A visitor, Mrs. Oliver, gave an interesting talk at 11 o'clock. A luncheon was served by the hostess. The University Society, a floating organization, composed of graduates from the various universities and colleges throughout the country, rendered a program for the Standard Literary Society of Bethesda church, last Sunday. They promised a splendid program, but on account of illness and other important business, some of the members were not present. However, they found it easy to substitute for those absent and a very interesting program was rendered. Mr. John W. Felton gave a very good reading instead of a cornet solo which he was to play. Mr. E. O. Marshall is an adept at the piano. Mr. Frank W. Henry read a very exhaustive paper, subject: "The Part Played by the Negro Soldiers in the Wars of the World."
 
 The history of the Negro soldier has often been proudly traced from the revolutionary war, but Mr. Henry added a unique touch to it when he brought them out of Noah's Ark and traced them, in a very interesting manner, down to the present day, showing that through them and by their soldierly valor many kingdoms had been established and others overturned.
 
@@ -168,17 +153,17 @@ Cincinnati, O. June 6.—The most brilliant social and society event of this cit
 
 It was an afternoon wedding. The day was beautiful and the whole surroundings seemed to lend charm and pleasure to the occasion. It was the sweetness and beauty of the bride, her charming manner and culture that added greater charm to the wedding ceremony. Miss Jones was gowned in a handsome white crepe meteor and Princess lace. She carried a shower of bride's roses, white sweet peas and lilies of the valley. Miss Helen Jones, sister of the bride, wore a beautiful accordion pleated green
 
-chifton gown and carl ed a large bunch of pink sweet peas and pink roses. She was the maid of honor. Dr. Bryant wore a Prince Albert suit, as did Mr. Walter Pettill ord of Birmingham, Ala., who was the best man. The ceremony was perfor med by the Rev. H. D. Proud of Tole, O. M. Joseph L. Jones gave the bride away. An appropriate musical selection was rendered during the ceremonies.
+THE CHICAGO DEFENDER.
 
-The dining table was attractively decorated. The bridal table was arraged for seven, the color scheme being green and white. The guests were served on the lawn of the Jones home Following the ceremony the "newlyweds" were showered with congratulations, the first coming from the parents, then Mrs. S. A. T. Watkins, M. T. Alfred Anderson, Chicago, lll; M. Julia A. Johnson, Detroit, Mich.; M. Walter Pettill, Birmingham, Ala. Mrs. Robert Mallory, Dayton, O.; Mrs. Blackburn, Montreal, Can., and a host of Cincinnatians.
+chifton gown and carried a large bunch of pink sweet peas and pink roses. She was the maid of honor. Dr. Bryant wore a Prince Albert suit, as did Mr. Walter Pettiford of Birmingham, Ala., who was the best man. The ceremony was performed by the Rev. H. D. Proud of Tole, O. Mr. Joseph L. Jones gave the bride away. An appropriate musical selection was rendered during the ceremonies.
 
-Mrs. Bryant is well known in Chicago. Two summers ago she was the guest of Miss Ada Lou Mitchell, 4020 Wabash she was introduced to Dr. Bryant. Her receptions, parties and dances numbered any that have been given a young visitor in recent years. Her parents are two of the most prominent people not only of the Ohio but of the entire country. The daughter was given every opportunity for home and school training. Before her marriage she was in the office of her father, who operates a fraternal banner business.
+The dining room was attractively decorated. The bridal table was arranged for seven, the color scheme being green and white. The guests were served on the lawn of the Jones home. Following the ceremony, the "newlyweds" were showered with congratulations, the first coming from the parents, then Mrs. S. A. T. Watkins, M. T. Alfred Anderson, Chicago, go. Ill.; Mrs. Julia A. Johnson, Detroit, Mich.; Mr. Walter Pettiford, Birmingham, Ala. Mrs. Robert Mallory, Dayton, O.; Mrs. Julia Blackburn and daughter, Montreal, Can., and a host of Cinchinatians.
 
-Dr. Bryant is a native of Birmingham, Ala., educated in the schools of that city and who graduated from Fisk University and the Northwestern Medical University. Upon his graduation he became an inerne at Provident Hospital, completing the term with highest honors. While at Provident he was constant in the service of Dr. Daniel H. Williams, Dr. U. G. Dalley, Dr. George Cleveland Hall and Dr. A. Wilberforce Williams, assisting them in many difficult operations.
+Mrs. Bryant is well known in Chicago. Two summers ago she was the guest of Miss Ada Lau Mitchell, 4000 Wabash avenue. During her stay she was introduced to Dr. Bryant. Her receptions, parties and dances numbered any that have been given a young visitor in recent years. Her parents are two of the most prominent people not only of Ohio but of the entire country. The daughter was given every opportunity for home and school training. Before her marriage she was in the office of her father, who operates a fraternal banner business.
 
-Dr. and Mrs. Bryant left Cincinnati in the evening, arriving in Chicago on Thursday morning. The "newlyweds" were driven to the Carter Villa, where they will receive their many friends.
+Dr. Bryant is a native of Birmingham, Ala., educated in the schools of that city and who graduated from Fisk University and the Northwestern Medical University. Upon his graduation he became an inerate at Provident Hospital, completing the term with highest honors. While at Provident he was constantly in the service of Dr. Daniel H. Williams, Dr. U.S. G. Dalley, Dr. George Cleveland Hall and Dr. A. Wilberforce Williams, assisting them in many difficult operations.
 
-Dr. and Mrs. Bryant left Cincinnati in the evening, arrived in Chicago on Thursday morning. The "newlyweds" were driven to it. Carter Villa, where they will receive their many friends.
+Dr. and Mrs. Bryant left Cincinnati in the evening, arriving in Chicago on Thursday morning. The "newlyweds" were driven to it Carter Villa, where they will receive their ransy friends.
 
 ## Our Women
 
@@ -219,23 +204,24 @@ Ethel—Oh, that depends upon which one it is
 
 John-Mike, why did you quit that job I gt you last week?
 
-Mike-Oh, that fellow was crazy,
-he wanted to be my employer and I
-wouldn't stand for it.
+Mike—Oh, that fellow was crazy, he waned to be my employer and I wouldn't stand for it.
 
-Owner—How much will you give me
-for the horse?
+Owner—How much will you give me for this horse?
+Deabr—I will give you some advice as to how to get rid of him.
+Ower—What's that?
+Deabr—Give him away.
 
-"Oh no; I'm just paying his way through a medical school."
+"So your son is going to be a doctor, eh?"
+"Oh, no; I'm just paying his way through a medical school."
 
 Grief, Going and Coming.
-A misfeel saves to suffer and suffers to save.—Waldo Baston.
+A miser saves to suffer and suffers to save.—Waldo Baston.
 
-Universal immorality.
-If our true character was known, there would be no true character.—Waldo Bastor
+Universal Immorality.
+If our try character was known, there would be no true character.—Waldo Bastor.
 
 Try It.
-If you are dioness you can get rich a little bit faster.—Walso Baston.
+If you are honest you can get rich a little bit faster.—Waldo Baston.
 
 # MR. DOLBY IMPOSED ON
 
@@ -243,21 +229,20 @@ If you are dioness you can get rich a little bit faster.—Walso Baston.
 
 Had Resolved to Play Part of Hog on a Crowded Street Car, Until Woman With Borrowed Baby Appeared.
 
-Dolby likes babies. That is why he gave his seat to the good-looking young woman in the triangular brown hat. She carried a baby. If she had not been so incumbered she would have been condensed to strap hanging, so far as Dolby was concerned, for he vowed at the beginning of the trip that he was going to play the hog.
+Dolby likes babies. That is why he gave his seat to the good-looking young woman in the triangular brown hat. She carried a baby. If she had not been so incumbered she would have been condemned to strap hanging, so far as Dolby was concerned, for he vowed at the beginning of the trip that he was going to play the hog.
 
-"I'm dead tired," he said to Mr. Bowler. "Thank heaven, I've found a seat. I am going to stick to it. It, nothing short of an accident or a woman with a baby can rout me out till I get home."
+"I'm dead tired," he said to Mr. Bowler. "Thank heaven, I've found a seat. I am going to stick to it, too. Nothing short of an accident or a woman with a baby can rout me out till I get home."
 
-Bowler said "Humph," as did several other passengers who overheard Dolby's selfish resolution. The young woman in the brown hat stood within hearing distance as Dolby thus declared himself, but she did not say "Humph." She merely thought it. Presently she edged down the car until she stood directly in front of Dolby. About that time the baby began to show off. He kicked at Dolby's hat, first with the left foot and then with the right, and then with both feet simultaneously, and said, "00-ooo," very plaintively.
+Bowler said "Humph," as did several other passengers who overheard Dolby's selfish resolution. The young woman in the brown hat stood within hearing distance as Dolby thus declared himself, but she did not say "Humph." She merely thought it. Presently she edged down the car until she stood directly in front of Dolby. About that time the baby began to show off. He kicked at Dolby's hat, first with the left foot and then with the right, and then with both feet simultaneously, and said, "Oo-ooo," very plaintively.
 
-Dolby looked up and met the baby's eye. The youngster's gaze embarrassed his somewhat, so he allowed his eyes to travel a little higher. That time he encountered an appeal glance from the young woman. Dolby became still more embarrassed; he sat still a few seconds longer.
+Dolby looked up and met the baby's eye. The youngster's gaze embarrassed his somewhat, so he allowed his eyes to travel a little higher. That time he encountered an appealing glance from the young woman. Dolby became still more embarrassed; he sat still a few seconds longer.
 
 "Madam," he said, "will you have this seat?"
-
 "Thank you," sighed the young woman. "You are very kind."
 
-It really was not worth while to tell Dolby that. He already had an exaggerated notion of his own magnanimity, so, to even things up, he retired to the back platform and plecked a quarrel with the conductor. When he got tired of that he stepped inside the car again. Directly in front of him, but under different guardianship, the baby that had so ruthlessly assaulted the rim of his hat a few minutes before.
+It really was not worth while to tell Dolby that. He already had an exaggerated notion of his own magnanimity, so, to even things up, he retired to the back platform and picked a quarrel with the conductor. When he got tired of that he stepped inside the car again. Directly in front of him, but under different guardianship, sat the baby that had so ruthlessly assaulted the rim of his hat a few minutes before.
 
-"00-oo-oo," coed the baby.
+"00-00-00," coed the baby.
 
 "Hello," said Dolby. "Aren't you the kid that took liberties with my headscarf a little while ago? How did you get down to this end of the car?"
 
@@ -275,11 +260,7 @@ On Beacon Hill, in Boston, under the golden dome of the statehouse, is one of th
 
 ## Freezing an Easy Death
 
-Freezing to death. writes a medical authority, is preceded by a drowsiness which makes the end painless—the body actually feels warm and goes comfortably to sleep. Experiments have been made with animals to show just how freezing to death proceeds.
-
-Freezing to death, writes a medical authority, is preceded by a drowsiness which makes the end paleness—the body actually feels warm and goes comfortably to sleep. Experiments have been made with animals to show just how freezing to death proceeds. In one of these experiments, in which the animal was placed in a temperature of 425 to 160 degrees below zero, the breathing and heart beats at first were quickened, the organic heat of the body actually rising above normal.
-
-In one of these experiments, in which the animal was placed in a temperature of 425 to 150 degrees below zero, the breathing and heart beats at first were quickened, the organic heat of the body actually rising above normal. This rising showed a sudden and an intense effort on the part of functions to preserve the body's temperature. Then the violent heart action gave out suddenly and death came when the temperature of the body dropped to 71 degrees.
+Freezing to death, writes a medical authority, is preceded by a drowsiness which makes the end painless—the body actually feels warm and goes comfortably to sleep. Experiments have been made with animals to show just how freezing to death proceeds. In one of these experiments, in which the animal was placed in a temperature of 125 to 160 degrees below zero, the breathing and heart beats at first were quickened, the organic heat of the body actually rising above normal. This rising showed a sudden and an intense effort on the part of functions to preserve the body's temperature. Then the violent heart action gave out suddenly and death came when the temperature of the body dropped to 71 degrees.
 
 ## High Price for Straightne
 
@@ -342,9 +323,25 @@ Elaine—"Did the waiter ask if we were engaged?" Courtenay—"Yes. And he seeme
 
 She—"Anyhow, you must admit he is a well-bred man. Did you notice his knowledge of Aristotle?" He—"I did, and if you want my true opinion, I don't believe he's ever been there."
 
-Tom—"What's the difference between betting and bluffing?" Jack—"A good deal." Yale Record.
+Tom—"What's the difference be-
+tween betting and bluffing?" Jack—
+"A good deal."—Yale Record.
 
-This Registering Home Bank FREE to our Savings Depositors; will start saving and keep you up to it. A Savings account can be the first step to wealth. Open one with us.
+Lincoln State Bank
+UNDER STATE S
+6 East 31st St., N.
+CHICAGO
+TELEPHONES: Douglas
+CAPITAL, $200,000.00
+
+A DOLLAR IN THE BANK
+A MIGHTY THING FOR YOUR POSIT
+
+MICKELS CENTS
+
+This Registering Home Bank FREE to our Savings Depositors; will start you saving and keep you at it. A Savings Account is the first step to wealth. Open one with us.
+
+BUY THE CHICAGO DEFENDER
 
 After all, you, know, there is room for both men and women in this world. Men have their work to do and women have theirs. It is the woman's work to provide for the inner man and it is the man's to provide for the outer woman.
 
@@ -395,16 +392,19 @@ Meals in Town. Open Day and Night.
 252-254 Beusabu St. DETROIT, MICH.
 W. H. JACKSON, Prop.
 
-Office Hours, from 9 a.m. to 5 p.m; from 7 p.m.
-to 9 p.m. Sunday by appointment.
-Photos: Oakland 4662. Auto 73-058.
-4715 South State St., CHICAGO, ILL.
+Office Hours, from 9 a. m. to 6 p. m.; from 7 p. m. to 9 p. m. Sunday by appointment.
+Privates: Oakland 4662. Auto. 73-058.
+4715 South State St., CHICAGO. ILL.
 
+Bank of Chicago
+SUPERVISION
+E. E. Cor. State St.
+GO, ILL
+as 986—Auto. 57-220
 SURPLUS, $20,000.00
 
 Commercial Banking
-Savings and Checking
-Accounts
+Savings and Checking Accounts
 Foreign Exchange
 Safety Deposit Vaults
 Mortgages and Bonds
@@ -412,3 +412,9 @@ Mortgages and Bonds
 3% Interest on Savings Deposits Your Patronage Solicited
 
 Depository and Correspondent, Continental & Commercial National Bank of Chicago, Ill.
+
+DER AT ALL. "L" STATIONS.
+
+---
+
+---

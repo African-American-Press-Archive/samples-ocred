@@ -2,23 +2,19 @@
 
 ---
 
-Princess Anne, Md., Sept. 23.—Princess Anne Academy is about to begin its twenty-ninth year of service in the education and training of the Negro youth.
+Princess Anne, Md., Sept. 23. Princess Anne Academy is about to begin its twenty-ninth year of service in the education and training of the Negro youth.
 
 Twenty-nine years ago a few colored men intensely interested in their race, and assisted by a number of large hearted white men, seeing the great need and the large possibilities for good which could result from the locating of a school in this section, cooperated with the Centenary Biblical Institute, now Morgan College, Baltimore, and selected the site on which now stands Princess Anne Academy, Princess Anne, Md. Prof. Benjamin Oliver Bird, then an instructor in Centenary Biblical Institute, was appointed to organize and build up the school. Prof. Bird and his wife, Mrs. Portia A. Bird, a very estimable woman, were permitted to labor together in their chosen field eleven years only. But, during those brief years, from an old brick house, surrounded by a wilderness of brush and bramble which house was dormitory class room and principal's residence, he had been able to so impress the work of the school and his own passion for the uplift of the race upon the public as to create friends and prestige for the school. He soon secured a boy' dormitory, a girls' dormitory, a teachers' cottage, and a trader's building.
-
-Twenty-nine years ago a few colored men intensely interested in their race, and assisted by a number of large hearted white men, seeing the great need and the large possibilities for good which could result from the locating of a school in this section, cooperated with the Centenary Biblical Institute, now Morgan College, Baltimore, and selected the sites on which now stands Princess Anne Academy, Princess
 
 The respect and reverence with which white and colored people of Princess Anne speak of Prof. Bird stand as a monument to the memory of the man who gave his life for his school. He loved his students; his students loved him.
 
 The years that have come and gone since the death of Prof. Bird have been years of work and struggle. Aside from the academic work there are a number of industries, one of which each student is required to pursue throughout the four years of work. Courses in agriculture, carpentry, printing, blacksmithing, domestic science and art are given and are carried to a high degree of efficiency.
 
-The academic work of the school is graded after the Maryland high school course, with the industrial work correlated. Efficient, wide-awake instructors require careful pains taking work of each student.
+The academic work of the school is graded after the Maryland high school course, with the industrial work corelated. Efficient, wide-awake instructors require careful pains taking work of each student.
 
-The music department was added two years ago with Miss E. Juanita Bowen, A. B., daughter of Dr. J. W. E. Bowen, as instructor. This has added new life to our work. Each year the choral club renders an elaborate cantata. The music rendered at commencement time is from the masters, closing always with the famous Hallelujah Chorus. The singing is an inspiration.
+The music department was added two years ago with Miss E. Juanita Bowen, A. B., daughter of Dr. J. W. E. Bowen, as instructor. This has added new life to our work. Each year the choral club renders an elaborate cantata. The music rendered at commencement time is from the masters, closing always with the famous Hallelujah Chorus. The singing is an inspiration. The plant is a farm of one hundred and twenty acres on the main road, about a quarter of a mile from the town, Princess Anne. From an old run down farm, some parts of which would scarcely grow sage grass, you may now see beautiful gardens, rank fields of prize corn, fields of alfalfa growing in abundance.
 
-The plant is a farm of one hundred and twenty acres on the main road, about a quarter of a mile from the town, Princess Anne. From an old run down farm, some parts of which would scarcely grow sage grass, you may now see beautiful gardens, rank fields of prize corn, fields of alfalfa growing in abundance.
-
-We welcome visitors at all times. Princess Anne Academy was first known as the D. laware Conference Academy. And, because of early association, has always been regarded with reverence and affection by the ministers of that body, and through them so regarded by the masses with whom they have labored. Very many members of the conference are alumni and they have always supported the school with money and students. They are loyal supporters now. There has just been completed on these grounds by their efforts a dormitory for girls with all modern conveniences, among which is a complete heating plant, covering both old and new dormitories. Each room and hall is equipped with radiators ensuring comfort and better health conditions. We are easily able to accommodate a hundred and twenty-five girls comfortably.
+We welcome visitors at all times. Princess Anne Academy was first known as the Delaware Conference Academy. And, because of early association, has always been regarded with reverence and affection by the ministers of that body, and through them so regarded by the masses with whom they have labored. Very many members of the conference are alumni and they have always supported the school with money and students. They are loyal supporters now. There has just been completed on these grounds by their efforts a dormitory for girls with all modern conveniences, among which is a complete heating plant, covering both old and new dormitories. Each room and hall is equipped with radiators ensuring comfort and better health conditions. We are easily able to accommodate a hundred and twenty-five girls comfortably.
 
 After all, books, shop equipment lectures from teachers' desk and platform, the end desired is that all these incentives may be so received as to best bring out the fullest development individually, that each student may be sent out into life, into his community, a trained man or woman, able to assume and ready to accept the responsibility of his or her share of service to the community—a citizen.
 
@@ -30,13 +26,11 @@ MRS. MARY R. KIAH.
 
 ## HAPPENINGS IN BALTIMORE COUNTY
 
-Towson, Md., Sept. 23.—Rev John Offer Custis, the evangelist of the Baltimore Annual Conference, is leading a revival at the Mt. Calvary A. M. E. Church which has already resulted in spiritual benefits to all that have attended. A singing band is assisting him. The attendance grows larger every night. The revival will last two weeks. Special meetings will be held for women and men.
+Towson, Md., S.pt. 23.—Rev. John Offer Custis, the evangelist of the Baltimore Annual Conference, is leading a revival at the Mt. Calvary A. M. E. Church which has already resulted in spiritual benefits to all that have attended. A singing band is assisting him. The attendance grows larger every night. The revival will last two weeks. Special meetings will be held for women and men.
 
-The regular monthly meeting of the local W. C. T. U., meets at the St. James A. U.M. P. Church, 3 p.m., Sunday, September 26. The principal address will be delivered by Mrs. Emma Truxon of Baltimore.
+The regular monthly meeting of the local W. C. T. U., meets at the St. James A. U. M. P. Church, 3 p.m., Sunday, September 26. The principal address will be delivered by Mrs. Emma Truxon of Baltimore.
 
-The Star Club of Mt. Olivet Baptist Church had a special sermon preached to it by Rev. Dr. Pierson of Baltimore last Sunday afternoon.
-
-Dr. William Pickens, dean of Morgan College and Mr. G. Sumner Whyte, president of the Sunday School Convention of the Baltimore A. M. E. Conference, delivered very helpful addresses at the recent Sunday School fall opening at Mt. Calvary Church.
+The Star Club of Mt. Olivet Baptist Church had a special sermon preached to it by Rev. Dr. Pierson of Baltimore last Sunday afternoon. Dr. William Pickens, dean of Morgan College and Mr. G. Sumner Whyte, president of the Sunday School Convention of the Baltimore A. M. E. Conference, delivered very helpful addresses at the recent Sunday School fall opening at Mt. Calvary Church.
 
 Mt. Calvary Church has a boy's club and a girl's club which will be organized this week.
 
@@ -44,7 +38,7 @@ Mrs. Victoria Miller, of Washington, and Miss Cora Burl, of Boston, Mass., visit
 
 Mr. and Mrs. Jeremiah Q. Johnson will spend the winter in Baltimore engaged in business.
 
-Rev Kenny Barnes of Mt. Olivet Baptist Church will deliver an address at the Baptist Sunday School Convention which meets this week.
+Rev. Kenny Barnes of Mt. Olivet Baptist Church will deliver an address at the Baptist Sunday School Convention which meets this week.
 
 ## BRIDE TENDERED RECEPTION
 
@@ -52,9 +46,9 @@ An event of interest was held at Washington last Friday evening at the First Bap
 
 ## CATONSVILLE HAPPENINGS
 
-Catonsville, Md., S.pt. 23.—Sunday will be observed as organization day at Grace A. M. E. Church and all the church socials will turn out at 8 p. m. to have a sermon preached to them.
+Catonsville, Md., S. pt. 23. — Sunday will be observed as organization day at Grace A. M. E. Church and all the church socials will turn out at 8 p. m. to have a sermon preached to them.
 
-Mr. George Williams, son of Mr. and Mrs. Odin William left Friday to attend the normal industrial school at Bowie.
+Mr. George Williams, son of Mr. and Mrs. Oden William left Friday to attend the normal industrial school at Bowie.
 
 Mr. Wilbert Washington, Herman and Milton Green, left last week for Chicago where they will remain all the winter.
 
@@ -86,7 +80,7 @@ The Salisbury Scouts came up 16 strong, in number, and expressed themselves as h
 
 All the colored Boy Scouts in Baltimore will turn out at Sharon Baptist Church to a special sermon by Rev. Alexander. Watch this column for date. Special Scout Choir of 50 voices to render music.
 
-Scout Commissioner Joseph Kelso of troop No. 2 very successfully presented a stereoptic illustrated concert "The Life of Christ from the Garden to the Gates," at Christ Institute. Mr. Kelso was assisted by Messrs. Albert Bundy, Earl Bundy, Hurst Pinkney and Scouts of troop 2. The boys received warm words of praise from Rev. Abraham Hill of Christ Institute.
+Scout Commissioner Joseph Kelso of troop No. 2 very successfully presented a stereoptican illustrated concert "The Life of Christ from the Garden to the Gates," at Christ Institute. Mr. Kelso was assisted by Messrs. Albert Bundy, Earl Bundy, Hurst Pinkney and Scouts of troop 2. The boys received warm words of praise from Rev. Abraham Hill of Christ Institute.
 
 Patrol leader Ernest Henson of troop No. 5 was a welcome visitor to Waters Boys Sunday last.
 
@@ -98,9 +92,7 @@ Patrol Leaders Rufus Gardainer and Samuel Micky, and Scout Thircus Smith were al
 
 Scout Eugene Merritt has a little "ki-hoodle" named "Spots". "Spots" is so fierce that he can make a police man step lively.
 
-Scout Samuel Castor has a wheel. He takes great delight in riding up and down town racing the mules.
-
-Scout Neal of troop No. 6 has won medals for his good work at his Sunday School.
+Scout Samuel Castor has a wheel. He takes great delight in riding up and down town racing the mules. Scout Neal of troop No. 6 has won medals for his good work at his Sunday School.
 
 ## PRESIDENT GOODLOE
 
@@ -111,26 +103,89 @@ D. S. S. GOODLOE
 
 ## FAIRFIEDD HAPPENINGS
 
-Fairfield, Md., September 23. The Penny Club resumed its regular meetings. Monday night. Mrs. Annie Gillespie is president.
-
 Fairfield, Md., September 23. The Penny Club resumed its regular meetings. Monday night. Mrs. Annie Gillespie is president. The Literary Club held its opening session this Thursday night. A. M. Carson and John Hall are on a short visit to their old home in Salisbury, N. C. They will also visit Norfolk, Va.
 
 JOHN A. BISHOP
 Funeral Director and Embal
 1107 DRUD HILL AVN
 
+C. & P. Phone Mt. Vernon 854
+
+W. A. RILEY ... Shaving Parlor ...
+All Styles of Hair Cutting 15c. Children's Hair Cutting 10c. Electric massage Electric Shampooing
+1537 Penna. Ave., near Mechen
+
+C. & P. Phone
+Frank A. Simmons
+HOUSE PAINTER
+1932 Druid Hill Avenue
+Work Guaranteed
+
+GEO. F. BLACKISTONE
+1216 PENNA. AVENUE
+Opp. N. W. Police Station
+SHOE REPAIRING While YOU WAIT
+My work has no equal. My Price can't be beat
+Work called for and delivered
+
+Phone: Madison 3672 M
+
+C. T. CHAMBERS
+CONFECTIONERY
+Ice Cream Soda, all Flavors Soft Drinks
+Cigars and Tobacco Notions
+526 DOLPHIN ST. BALTIMORE, MD.
+
+MRS. SARAH WOLFE
+639 Dolphin Street, Cor. Myrtle Ave.
+HAIR CULTURIST
+Scalp Treatment a Specialty
+Madam E. J. Walker's Wonderful Hair Grower.
+
 ## HAIRDRESSING
 
+MADAM FANNIE DORSEY
+1128 ARGYLE AVE. BALTIMORE, MD.
+Just completed course of study under
+Madam Walker's Agent in Pittsburg.
+
+DR. MACKEY'S LINIMENT
+Sure Cure for Rheumatism
 D. V. A. HENRY, AGENT
-1931 DRIUH HILL AVE. BALTIMORE, MD
+1913 DRUID HILL AVE. BALTIMORE, MD
+
+Phones: Gilmore 3601-y
+Mt. Vernon 4859-y
+CHARLES B. JONES
+Formerly with Rhbert A. Elliott
+FUNERAL DIRECTOR AT REALMER
+Office: 245 N. 118 W. Saratoga St.
+C. H. YOUNG, Manager
+
+PIANOS
+ORGANS
+TUNED
+POLISHED
+REPAIRED
+ALL WORK GUARANTEED
+Mail Orders Promptly Attended to
+JOSEPH A. HAYES
+TIMA PLAZA PIANO TUNER
+705 FNSOR STREET. BALTIMORE, MD.
+Phone: Wolfe 2664 M
+References if desired
 
 ## OLVIER J. CAULK
 
+..House Painter..
+..And Paper Hanger..
+2143 Druid Hill Avenue
 Madison 1029
 House Painting Glazing, Graining
-Enameling Floors Stained—Varnished
+Enameling Floors Stained--Varnished
 or Waxed. Leaky Roofs Cemented and
 Painted.
+Madison 1104 - Y.
 
 ## WHEN DREAMS COME TRUE
 
@@ -139,9 +194,9 @@ The time when dreams come true is when you do not feel right or are sick and dre
 ## TRAVELED ALL NIGHT TO SEE
 LUNG SPECIALIST.
 
-"Soon after mother cied of Consumption, I began to cough, cough, cough; lose weight and get weak. The doctors here told me I had Tuberculosis and would soon follow mother. Some, one advised my husband to send me to Dr. ampbell, 1369 N. Carey street, Baltimore Md., as he could not be beat as a Lung and Nerve Specialist. In company with my sister we traveled all night by boat and visited the Doctor next day. He examined me theruphily and explained how my lungs were effected. I took his LUNG BASE Treatment nearly 3 months, then several bottles of Strength and Life. My weight increased, cough stopped, and now I feel a well woman, though it is almost three years since I took his Treatment. I feel that I have many more years to live, though I would have been dead long ago had I not been to him. I have seen several persons to him as I b lie he can help them if they went in time" Mrs. V. E. ese, Reedville, Va.
+"Soon after mother cied of Consumption, I began to cough, cough, cough, lose weight and get weak. The doctors here told me I had Tuberculosis and would soon follow mother. Some, one advised my husband to send me to Dr. ampbell, 1369 N. Carey street, Baltimore Md., as he could not be beat as a Lung and Nerve Specialist. In company with my sister we traveled all night by boat and visited the doctor next day. He examined me, then thighly and explained how m lungs were effected. I took his LUNG BASE Treatent nearly 3 months, then several bottles of Strength and Life. My weight increased, cough stopped, and now I feel a well woman, though it was almost three years since I took his Treatment. I feel that I have many more years to live, though I would have been dead long ago had I not been to him. I have se.t several persons to him as I b-lie-e he can help them if they went in time" Mrs. V. E. ese. Reedville, Va.
 
-Send 2 cent stamp for other testi monials.
+Send 2 cent stamp for other testimials.
 
 STRENGTH & LIFE is sold at all, leading druggists. Why suffer pain ache or rheumatism when "KUBINO"
 
@@ -164,9 +219,35 @@ Shampooing, Scalp Treatment and Facial Massage. Try her Perfection Hair Pomade a
 
 hysician and Specialist
 
+dizziness and other complaints. DISE-
+vented, or, where it already exist, should
+ter qualified to cure you of your disease
+has made this and all special diseases a
+limits his practice to those diseases wh
+ence that his treatment will CURE TO
+fore you become Incurable. Consulta
+
+THE BALTIMORE
+
+7 S. Gay St., Room 415, Fourth Fl.
+Office Hours: 9 a.m. to 8 p. m. Sun
+(Sexton Building, across street
+
+MRS. LUCK
+wishes to announce the removal
+from 1308 N. Fremont A.
+
+1353 N. Cal.
+Hair work of all kinds made to order
+Shampooing, Scalp Treatment and Face
+Pomade and Tonic Instructions
+
 ## ---
 
-Scalp Treatment Manicuring Massage.
+Mme. L. E. Morris
+1600 ARGYLE AVE.
+Scalp Treatment Manicuring
+Massage.
 Combings made up in any style
 Manufacturer of all Hair Goods
 
@@ -180,14 +261,20 @@ AND MASSAGING
 833 DRUID HILL AVE.
 Phone: Mt. Vernon 582 M
 
-"HAIRDRESSER TO SOCIETY" OF COURSE THERE ARE OTHERS
-
-...I carry a full line of Human Hair.
+We Lead—Others Follows
+...I carry a full line of Human Hair...
 Combings made in Puffs
 and Braids.
 
-Hair Dressing, Face Massage and Mancuring Parlors 1140 DRUID HILL AVENUE Entrance on Dolphin St., 3rd floor
+Hair Dressing, Face Massage
+and Manicuring Parlors
+1140 DRUID HILL AVENUE
+Entrance on Dolphin St., 3rd floor
 
+EXCLUSIVELY FOR LADIES
+MME. KING'S
+HAIR DRESSING, MANICURING
+AND MASSAGE PARLORS
 Dermal Treatment
 15.0 Pennsylvaia Aveune.
 NEAR SMITH STREET
@@ -197,10 +284,9 @@ Phone Madison 3782 M.
 Miss Mary Lewis
 1531 Pennsylvania Avenue
 
-We only wish to notify you where to get the Old Fast Indian Hair Pomades.
-We do not advertise as our pomades advertise themselves, a 15c. size will convince anyone. The 15c. size it all Grocery stores, 35c. size, at the Robinson, Livingston Drug stores, Pennsylvania Ave.; Dr. Fennell's, Biddle and Druid Hill Ave. Washington Drugstores, all the peoples. O. Donald's, Dr. Napper, Dr. Hallstork, S. W. 2nd and 16th Streets. Agent wanted in every city. Fast Indian Hair Pomade Co. Elizabeth, N. J.
+We only wish to notify you where to get the Old Fast Indian Hair Pomades. We do not advertise as our pomades advertise themselves, a 15c. size will convince anyone. The 15c. size at all Grocery stores, 35c. size, at the Robinson, Livingston Drug stores, Pennsylvania Ave.; Dr. Fennell's, Biddle and Druid Hill Ave. Washington Drugstores, all the peoples. O. Donald's, Dr. Napper, Dr. Hallstork, S. W. 2nd and 16th Streets. Agent waited in every city. Most Indian Hair Pomade Co. Elizabeth, N. J.
 
-Will relieve you in two minutes? Ask for a bottle at Jennell's or Terrell and McNell's and be convinced, price 35c. Rub with RUBIN O.
+Will relieve you in two minutes? Ask for a bottle at Fennell's or Terrell and McNell's and be convinced, price 35c. Rub with RUBIN O.
 
 THE MOST STRAIGHTHE VET KONGOLENE Marvelous one VET WAXIN BOX INKS Discovery.
 
@@ -210,11 +296,13 @@ Simply spread Kongolen on like butter for a few minutes. It keeps straight, not 
 
 ## Mme. L. C. Parrish
 
-HAIR CULTURING, MANICURING AND SCALP TREATMENT
+HAIR CULTURING, MANICURING
+AND SCALP TREATMENT
 
-Largest Manufacturer or Hair Preparations in Boston.
-Largest Importer of Paper Hair Hair.
-Trained in the best manner many years
+Largest Manufacturer of Hair Preparations
+in Boston.
+Largest Importer of Hair in Hair.
+Trained in the best schools many years
 experience.
 
 Honest dealing with the public

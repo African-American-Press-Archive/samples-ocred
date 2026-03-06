@@ -1,0 +1,591 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 1836,
+  "height": 2674,
+  "processed_at": "2026-03-06T18:41:18.181092+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 62,
+    "after_merge": 52
+  },
+  "regions": [
+    {
+      "bbox": [
+        155,
+        388,
+        226,
+        642
+      ],
+      "label": "text",
+      "text": "have charges\nin C. M. E.\ndaturday.\ne. U. of.\ne. U. of.\nthem remits\nwork. Pro-\nnounced\nLouis.\nnewer-\ners are dis-\ntinct from\nduring the\nmorning.\nenjoyable\nframes\ndancing\nfunctions.\nof a se-\ncon",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        33,
+        642,
+        226,
+        1080
+      ],
+      "label": "text",
+      "text": "and Mrs. dee Surr-\nExanton\nborn they\nMrs.\ncenter of\nthe.\nThe\nE. S. S.\nsuccessful\nhe union\nhold at\n1 to en-\nlance\nWhere\nwood and\nThird\nidegde\nhe young\nslightly\nelected on\nautonto\nto Mr.\nMong. Mrs.\nspent\nsay\nNew river\nat 9th. The\nct. at\nthe evening.\nfres. Wardell left.\ner parachute.\nMiss Bessie Strong was\nnumber of out-of-town\nMiss Ray of Cincinnati.\nthe Moore and Miss\nuse party on Tuesday\non left Saturday to join his\nale. Mrs. Ada Adams and\nWatson will be guests of the\ner in Chicago Sunday.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        33,
+        1080,
+        226,
+        1523
+      ],
+      "label": "text",
+      "text": "II. July 21. Justice to a certain singer who owns one of the girls to help Elke Martin that was sordid and conduct, and give the girls their just. B. Nathan, in honor of M. Murphy of 'Orchid, med. Mrs. Leslie Johnson, and others. Mr. Johnson, to daughters of Detroit, ere to visit him a few days, pringled. III. to visit their who is in business there. A. union plenic at Macau. All are invited to attend. W. Graves of Holder, III. in town shopping. The between 'Campaign Girl'. A. T. club was upper. Graves of 'Downs, III. an amant Sunday in town, visiting The woman's club will give timed at Union Pupils 18th of July. Mr. John log be brought in Monmnunies. letter",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        250,
+        213,
+        484,
+        270
+      ],
+      "label": "text",
+      "text": "ing resulted. Jacob Dev\nwas elecclairman. Peter Willi\norzettray A. E. Watson treasure\nfollowing business session a soci",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        227,
+        269,
+        484,
+        697
+      ],
+      "label": "text",
+      "text": "how hours served as a freshman, one term will meet each Friday night, shortfall. 112 North Center street, New York, will be died at the Iowa hospital, will be held at the Beek's chapel, 118 South Main street. Mrs. Emily Wilson spent a very nice hour in living with her friend, Mr. Blekas Williams, who gave 130 performances in London, Eng. will sing at the Loyal Legion Aug. 24 for the benefit of the Loyal Legion.\nParis, Ill. July 21. \u2014 Pride of Paris lodge, No. 32, K. of P. gate a public installation including a reception. The lodge was decorated by the cellar commander, Y. Reed; vice chancellor, T. Butler; master of arms, George McGraw; master of works, Fred Middleman; master of works, Eric of finance, Rev. Snodden; outer guard, San Sims; inner guard, Oliver Brady. Also, a balanced programme consisting of a fine run of musical numbers, given by the choir of the Second Church, charlotte Moody and Poir Baller; married, Chara Bell Porter; solo, Beatrice Whitfield. Everybody enjoyed the encyclopedia of the weather the superintendent of the Second Baptist church, Mrs. Ora Oweng, has decided to have Sunday school to convene at 10 a.m., instead of the 16th, in attendance, with a goodly numb in attendance, though very hot.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        282,
+        704,
+        428,
+        716
+      ],
+      "label": "paragraph_title",
+      "text": "By Robert Jackson Jr.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        225,
+        715,
+        481,
+        1051
+      ],
+      "label": "text",
+      "text": "Springfield, HI., July 12, \u2014Mr. Frank Hicklin and daughter Miladr and Miss Eikhart, all are spending the week in Eikhart, IL. are hired to school Cook, Mr. Hicklin, anticipating some large fish back with bin. \"Paul's A. M. E. Sunday school, with seven other schools, will have their annual meeting,\" Cook said, July 27. \"The twenty-ninth annual meeting of the Inter- national Order of Twelve will be held at *C*-bondage Monday, July 19, 1976. These caring Springfield totes will be held in Eikhart, F. Finneh, F. H. Hart, J. J. Chapplepe, Mary Rawlins, Anna Harvey, Ettar Harva, A. Walker, J. Finnie, M. Larksdale, Lawyer H. B. Clanton has just completed his work. The business trip. \"The East End Volunteers leave will give a picnic Aug. 4 at Bunn Park for the benefit of the wives, mothers and children of soldiers of Combatants.\" The committee are asking the co-operation of all the citizens. The committee on arrangements are: Mr. L. F. Osborne, Lawyer Clinton, E. J. Jones, G. Leavell, W. Hillman, Sam Alexander and W. Brinker.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        300,
+        1059,
+        406,
+        1072
+      ],
+      "label": "paragraph_title",
+      "text": "By Myrtle Clark",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        225,
+        1072,
+        482,
+        1600
+      ],
+      "label": "text",
+      "text": "Joliet, Il. July 21. \u2014 Robert and Emma Jackson, Miss Lottie Allen, Mrs. Lillian Burrell, Mrs. N. J. Wolls and J. M. Burrell, Bishop of Chicago, Mrs. J. M. Burrell, Bishop of Chicago, were representatives to the Sunday school convention. * Sunday, July 9. Rev. R. B. Maddox preached to the people of Mount Olive Baptist Church, the town of Mount Olive. In the evening the Mothers' Union held their meeting, with Mrs. Georgia Brown, president, and Mrs. Pearl Bangsman, secretary. Last Sunday the Mothers' Union interested. * The Mount Olive chair gave a hayride outing Friday, July 21. Rev. J. M. Mashan has the Baptist Church in Eaglewood on Montana and Mayswood in Chicago. * R. A. Thompson and Mrs. Lillian Burrell spent Sunday in Chicago. * Rev. J. Thomas occupied the church and pulled pupil Sunday. Rev. R. Ferguson pulled pupil Sunday. Sudders pull pupil Sunday evening and gave a very interesting and instructive lesson in the lawn foe Claude. * Brown church. * E. church. Mrs. Brown church assisted M. Browen. * Ald society. * Yesterday afternoon Mrs. M. Hooks opened her door to the Phyllis Wheatley Charity club. * Mrs. M. Hegers assisted by Mrs. Mau Brown. * Eastern Star. * Mrs. Lottie Allen is in Chicago Heights with Mrs. Watson learning the hair-dressing and manicuring trade. * Mr. and Mrs. Hunter, Kunifei and Mrs. J. Thomas. * Mrs. Lottie Allen is in Chicago Heights with Mrs. Watson learning the hair-dressing and manicuring trade. * Mr. and Mrs. Hunter, Kunifei and Mrs. J. Thomas. * Mrs. A. Dishman was in Chicago for a couple of days on business. * Mrs. Thalia Raggson moved to Chicago in chicago. Mrs. Leach and Mrs. J. Thomas were monitored to Chicago Sunday evening. * Mrs. Mand Gilbert attended the funeral of her uncle, L. Miller, in Bloomington, Ill.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        219,
+        1605,
+        482,
+        2066
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        486,
+        126,
+        745,
+        1120
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        486,
+        1127,
+        744,
+        1655
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        488,
+        1658,
+        744,
+        2133
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        489,
+        2138,
+        746,
+        2586
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        751,
+        133,
+        1009,
+        326
+      ],
+      "label": "text",
+      "text": "Simpson. He reports an ideal time. *Mrs. William Midjack of Chicago arrived in the city. Saturday afternoon to spend her vacation 'with her husband, John Malory, and Miss Hervie Ross is attending the S. M. t. session in Carbondale this week. *Frank Malory, John King and Charles Gunnell on will leave Monday morning to attend the S. M. t. lodge of K. of P. s., Mr. Malory is\u9a7b deputy. *Word has been received in the city of the serious illness of Mrs. Wyatt Johnson of Springfield, who has often visited here, being a relative Thomas Allen and family of this city.*",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        810,
+        332,
+        945,
+        345
+      ],
+      "label": "paragraph_title",
+      "text": "Bx Arthur H. Monroe",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        748,
+        343,
+        1007,
+        780
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        749,
+        788,
+        1007,
+        1288
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        751,
+        1287,
+        1008,
+        1469
+      ],
+      "label": "text",
+      "text": "*Mr. Clifton Jones of Kirkwood is the guest of his brother-in-law, Mr. Grant Miller, of Shiloh Church, baptized two candidates, Misses Bertie Rollins and Bessie Mulder, the New Silver Grill in Bridgewater, a church in success and courtesy, *Ms. Lizzie Daves and daughter of Metroquilis are visiting, and barbecue under the management of Mr. Clifton Jones, given Saturday night and proved a financial success, *Mr. Claude Allen is in Detroit City, where Laurier Lauder is in his home, baptizing his parents, Roy and Mrs. S. S. L. Luders.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        815,
+        1477,
+        947,
+        1489
+      ],
+      "label": "paragraph_title",
+      "text": "By Frank Robinson",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        750,
+        1482,
+        1008,
+        2236
+      ],
+      "label": "text",
+      "text": "BY Frank Robinson\nRockefeller University, Missisquoi\nVera and Gertrude Johnson gave a lawn\nparty Wednesday evening. About 30\nguests were present. The young people\nspent a delightful evening on the large\nwheel of the lawn, brighted with Japanese lanterns. * Mrs. Mimie Stamps of Dubuque, Iowa, is here\non a short visit to her mother on route\nto the grand lodge session of H. H. of K.\nand had charge of an entertainment at K. of\nP. Hall on Tuesday night. Mr. Jack\nWells of Rebel, who became so well\nknown by winning the state inter-\ncourse feature. He gave \"Toussaint L'Overture\" to a capacity house. The program: piano solo, Birdie Pinhum;\nreading, Mason Jason, reading, Mason Jason,\nbedrothood, Bedroth and Hazel Drief; solo,\nEthel Blake; announcements, Joseph\nFranklin; songs by Tuskegee Quartet,\nAdrian Robinson and co., accommodate\nMississippi, Mississippi, Mississippi,\nHamlet of Stoughton, Wils, and Mr.\nFrank Bond of Rebel were quietly married\nWednesday evening of early June to\nmake their home in Rebel. * Mrs.\nEmma Jones Caldwell of Chicago, D. G.\nM. N. G of the H. H. of R. spent a few\ndays in Rockefeller, stopping on her way\nto the beach. Mrs. Emma Jones in\ninspection gave a parch party in honor of\nMissie Pierce of Canton, Ith, Saturday\nnight. The porch was lighted with the\nsoft glow from Japanese lanterns,\nwith asparagus and sunmach, giving a\nvery picturesque effect. * About 20\nwere present and spent a delightful\nevening in the open. Daily refresh-\nment, tea, and ice served in half a capitalupe, with\nbridal wreath woven to form a handle\nto the basket. Mrs. Pierce is visiting\nMrs. Robinson. Her niece, Francis Foster,\nhis mother, Mrs. Thomas, and Mr.\nJohn Thomas of Freeport died\nFriday afternoon of a complication of\ndiseases. He was buried from the name\nof his mother. Mrs. Manuel Stammard\nand his mother were buried in Rockefeller\nrelatives and friends paid their\nlastribute of respect to him; they had\nsympathized with through a long and\nduring the illness. Mrs. Thomas died\nterrie of Mrs. Anna Hodges of this city. *\nMrs. John Robinson spent the week-end\nin Chicago with her sister, Mills. M\nnaughten Inez accompanied her. Mrs.\nThomas and Mrs. Thomas were an enjoyable day at a plum at the home of\nMiss Louis Tucker Friday afternoon.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        830,
+        2241,
+        931,
+        2254
+      ],
+      "label": "paragraph_title",
+      "text": "By J. R. Hicks",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        750,
+        2250,
+        1008,
+        2589
+      ],
+      "label": "text",
+      "text": "Sturctor, II., July 21. \u2014 Rev. P. A. Green, pastor of the A. M. E. Church, held his usual Sunday. *Rev. F. Fleming filled the pulpit at the church, and Fleming preached two very instructive sermons. *Mrs. M. J. Lomie is still on the sick list. The Helping Hand club met last week, and Pearson. After the regular business session in a dainty three course luncheon was served. *Mrs. Effe Sproules has been very sick, but is much better at this work. Mr. Lomie visited Paris, Ile., is here visiting Rev. P. A. Green and family. Miss Green is a sister-in-law of Mrs. P. A. Green. *Mr. Lomie is been sick, but is better at this writing. Mr. Willie Hale of Canton, Ile., is home visiting relatives and friends. He is looking well, and can be seen most often at the church. Paper is delivered. *The moonlight picnic Monday night, given by the Masonic lodge, was a grand success. It was a nice evening and everybody had a good time. See Chairman, J. H. Simmons Jr. and Ernesto Fox. *",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1036,
+        150,
+        1491,
+        242
+      ],
+      "label": "doc_title",
+      "text": "The Empire State New York, Brooklyn, Buffalo and Other Cities -Social and Otherwise",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1081,
+        258,
+        1195,
+        272
+      ],
+      "label": "paragraph_title",
+      "text": "By William White",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1012,
+        272,
+        1259,
+        836
+      ],
+      "label": "text",
+      "text": "Brooklyn, N. Y.\u2014R shall be the policy of the writers for this paper to call the attention each of its readers to the advantages and privileges open to the members of Race as freely as to members of Race as Race. Strangely enough, few Race people seem to understand their privileges, but each of their backs or totally indifferent are the matter of enjoying them. Last week we attention to the Municipal bath at Coney Island, which is free to all. It was gratifying to understand expressions of Race people that they intend to exercise that privilege not even knowing they would be permitted there. This week we wish to call attention to the Highland Park right at the corner of Race people, York, and particularly we wish Race know of the excellent and numerous tennis courts there. Tennis is very popular this year, and many tennis clubs have access to them, so that they may enjoy the sport. At all necessary to pay a fee to join a tennis club, and a toll each month for the privilege of playing when by simply applying the license to the commissioner in person or by letter (if by letter close a 2-cent stamp), a permit to play in any designated park will be granted without regard to color absolutely free from the conditions being regularly employed for the Mr. Will Franldyn of 965 Sutter avenue would be glad to communicate with any one desirous of obtaining a permit to play in a designated park, and enjoy the privilege of tennis playing. An illustration of the spirit to be found at the Highland Park court among the races is the fact that Mr. Franklin can often be seen opposing a white man of Race players. Go up to Highland Park and play.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1031,
+        841,
+        1241,
+        855
+      ],
+      "label": "paragraph_title",
+      "text": "Noted Bector Becomes Physician",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1013,
+        850,
+        1266,
+        1143
+      ],
+      "label": "text",
+      "text": "Noted Reector becomes Physician\nNoted Reector charges\nBarnabas P. K. Church, intently\nhunting out his shingle, and beginning\nthe practice of medicine in East New\nYork, recently he passed his final ex-\nample. He was passed into the\neffective School, Sixty-third street and\nAvenue A. New York city, with flyer col-\nors. At the banquet held in Hote Me-\ndicine, the exclusive hotels in\nNew York, Dr. Dr. McMullen will\nonly face man there. While he will\nspecialize in nervous diseases, the doctor\nintends, nevertheless, to be a general\ndoctor. He will be given Rev. Mr. Duty for his offers, as\nthe acquiring of a medical education is surrenous enough without being hind-\nered. He will give a church. We think he must have\nbeen the case of many a \"midnight oil\"\nburning. We extend to the doctor \"East\nswarmer\" congratulations and sincerely wish\nfor him an eventual lucrative practice.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1075,
+        1153,
+        1213,
+        1165
+      ],
+      "label": "paragraph_title",
+      "text": "Harrison Duke Smith",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1014,
+        1167,
+        1271,
+        1499
+      ],
+      "label": "text",
+      "text": "The annual dance de lauxe and cabaret classique of Harrison \"Duke\" Smith and his original society bears, will be held Tuesday evening, July 25, at Dauers Theater at 11am, Ward street, Richmond Hill, L. I. It is reported that America's foremost composer of popular songs will positively appear. It will also be the initial Brooklyn-based performance of the Chicago or New York's latest routine at the national \"Walking the Dug.\" Jack Nation's \"Mile Do\" orchestra of 15 pieces is scheduled to furnish the music for the occasion. Tomoe L. inonghry, supporter of the production, will perform L. I. Pery, Aloza \"hawksie\" Jr., Brunsford F. Lord, Charles Scotton, Ellen L. Rogers and many others equally as prominent, compose the committee. Duffield Employment Agency, 157 Duffield street, near Myrtle, Tel. No. Main 1963. Mr. Wm. A. Jones, the proprietor, is probably the best I own man in the city conducting an employment firm, which is the most popular Give him a trial. He is fair and square in all his dealings.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1074,
+        1509,
+        1229,
+        1521
+      ],
+      "label": "paragraph_title",
+      "text": "12 OF 22ND FETED .",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1013,
+        1521,
+        1272,
+        2190
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1057,
+        2197,
+        1229,
+        2210
+      ],
+      "label": "paragraph_title",
+      "text": "INFANTILE PARALYSIS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1014,
+        2210,
+        1273,
+        2588
+      ],
+      "label": "text",
+      "text": "With the infantile paralysis death list increasing from day to day, people in the greater city have been most fortunate, as to date only two deaths have been reported from the deadly death from a manhunt, an amputation, has shown a tendency to panic from 18 to 25 deaths have been reported daily for the past ten days and from 190 to 150 new cases. Ministers throughout the city were ordered through Commissioner Emerson's office to warn their citizens against the danger of panic over the plague's spread. Hospitals throughout the city are filled to their capacity and about 156 doctors are being kept busy for 24 hours, as well as the amputations kept on the jumps and on catch a wink of sleep when they can. Up to July 12th 682 cases were in contagious disease hospitals and 41 in three other Brooklyn hospitals. Three hundred and 50 patients in the Green Point hospital, 50 in the Green Point hospital, 15 victims in the Kings County hospital. The streets are being flushed every day and every method known is being used by the board of health to force me to move the city. When the representative of 11 paper visited the board of health offi-",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1263,
+        263,
+        1525,
+        1115
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1274,
+        1142,
+        1533,
+        1882
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1452,
+        1799,
+        1799,
+        1968
+      ],
+      "label": "text",
+      "text": "entert their residents of the neighborhood and neighbors and turn to East North America, will be given in coming and reception early in the years. Many parts of the articles of Mine Brown are remembered by the readers of this:\n\nGranteed Feather Co",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1301,
+        1916,
+        1761,
+        1950
+      ],
+      "label": "doc_title",
+      "text": "The Guaranteed Feather Co",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1452,
+        2112,
+        1799,
+        2654
+      ],
+      "label": "text",
+      "text": "LAMBERT, Prop.\nve. CHICAGO\nTELEPHONE DOUGLAS 7926.\n\nWonderful Poro Hair Grower\nMine, Leon Smith's treatment of the scalp with the wonder-\nful hair. Hair Grower will absolutely grow your hair and keep the\ndiseases in check. This treatment declines the germ that causes the diseases that\naffect the scalp. After Autumn, spare parts of the rains\nmeet. I guarantee a complete care. I also do Manicure.\nHair Dyeing. Hairching. Braiding and Tying. I also teach\nthe complete compass course. $10.00 a treatment. See a best. For out of town upgrades. 26 am.\na graduate of Ladicke's Institute of London, England, and\nInternational School of Beauty of Paris, France. Out of town\npatience required.\nHours from 7 A. M. to 12 o'clock midnight.\n750 Routes 74th Street, 4079.\n5209 WABASH AVE.\n\nTHE MAGIC SHAMPOO\nDRYER\nAND\nMAILED ON WHERE IN U.S.A.\nMAIR STRAIGHTENER\n\nAGENTS Wanted.\nWrite for Librarian\nMagic Shampoo Drier Co\nMinneapolis, Minn.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1283,
+        2448,
+        1782,
+        2664
+      ],
+      "label": "text",
+      "text": "Renting Box\nTIP MAGIC 15 IN LONG\n\nSHAMPOO DRIER NEG CO\nAND HAIR STRAIGHTENER\n\nMAILED ARE WHERE IN U.S.\n\nAgents Wanted. Write for Librature\n\nMagic Shampoo Drier Co.\nMinneapolis, Minn.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1307,
+        1129,
+        1497,
+        1141
+      ],
+      "label": "paragraph_title",
+      "text": "EAST NEW YORK NEWS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1301,
+        1979,
+        1472,
+        2101
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1297,
+        2258,
+        1445,
+        2426
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1518,
+        135,
+        1788,
+        724
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1530,
+        744,
+        1791,
+        928
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1565,
+        938,
+        1759,
+        957
+      ],
+      "label": "paragraph_title",
+      "text": "WILL HAVE TAG DAY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1536,
+        963,
+        1799,
+        1425
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1540,
+        1432,
+        1713,
+        1458
+      ],
+      "label": "paragraph_title",
+      "text": "TO THE SOUTHERN",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1541,
+        1463,
+        1795,
+        1766
+      ],
+      "label": "text",
+      "text": "WHITE WOMAN\n\nThree favored for a day, fair woman\nthen.\nThat stamplight with the hills at the\nmountain.\nHomes for them to tread on pond thee\nday.\nWhat is that dazzling object in thy\nhand?\nA roar of rilling power with lightning\ntide.\nOr what then choose to have it\nshows power.\nLost you abuse your golden steerlight.\nEcho the transout high vampire-\ntower.\nOf the veins and a fair intercourse.\nMillions of thy dark sisters that con-\nraise.\nAnd must protect, whose color ye re-\nflect busy are the chest of thy shee-\ndays.\nEre Gods tall singer in huge words de-\nprise.\n\nMene Tevel Upharsin on thy gaze.\n\nMine, mone, balling, Te",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1540,
+        1777,
+        1774,
+        1799
+      ],
+      "label": "paragraph_title",
+      "text": "RECEPTION TO MME. BROV",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1486,
+        1968,
+        1755,
+        2112
+      ],
+      "label": "text",
+      "text": "Manufacturers of French and Will\nPlumes, all styles of fancies, made fr\nOstrich Feathers. Beautiful Frer\nPlume fancies made from old Willo\nCleaning, curling and dyeing, all sh\nWhite Plumes made snow white.\norders promptly attended to...",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1667,
+        2158,
+        1771,
+        2177
+      ],
+      "label": "text",
+      "text": "CHICAGO",
+      "status": "ok"
+    }
+  ]
+}

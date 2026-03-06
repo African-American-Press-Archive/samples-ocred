@@ -3,6 +3,17 @@
   "image": "images/page_08.jpg",
   "width": 2321,
   "height": 2800,
+  "processed_at": "2026-03-06T18:08:25.432171+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 93,
+    "after_merge": 59
+  },
   "regions": [
     {
       "bbox": [
@@ -12,17 +23,41 @@
         269
       ],
       "label": "text",
-      "text": "```markdown\n\n```"
+      "text": "```markdown\n\n```",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        201,
+        2064,
+        742,
+        2447
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        172,
+        91,
+        469,
+        691
+      ],
+      "label": "text",
+      "text": "Crown C\nBY CAPTAIN W\nOur Pasadena\n\nMr. Vanderbuilt Williams who has been in the Navy and served overseas during the United States part in the World War, has been discharged and has returned home to the very great delight of his mother, sister, and many friends.\n\nVan had a very interesting experience while overseas, having touched at many places of interest including London, Liverpool, Paris, Marsailles, Belgium, Scotland and many other places of interest.\n\nHe will speak on Sunday afternoon at the Colored Branch of the Y. M. C. A. during the program that is to be under the auspices of the Athletic Committee. This leaves only one more Pasadena Colored boy remaining in the service. Haroid Nelson, who is in the Navy also is the other one and is expected home soon.",
+      "status": "ok"
     },
     {
       "bbox": [
         187,
-        302,
-        469,
+        692,
+        464,
         1134
       ],
       "label": "text",
-      "text": "Mr. Vanderbuilt Williams who has been in the Navy and served overseas during the United States part in the World War, has been discharged and has returned home to the very great delight of his mother, sister, and many friends.\n\nVan had a very interesting experience while overseas, having touched at many places of interest including London, Liverpool, Paris, Marsailles, Belgium, Scotland and many other places of interest.\n\nHe will speak on Sunday afternoon at the Colored Branch of the Y. M. C. A. during the program that is to be under the auspices of the Athletic Committee. This leaves only one more Pasadena Colored boy remaining in the service. Haroid Nelson, who is in the Navy also is the other one and is expected home soon.\n\nAt the meeting of the Colored Branch of the Y. M. C. A. Sunday, August 10th, 3:30 o'clock, the program will be in charge of the Athletic Committee of which Wm. Reynolds is the Chairman and the following others compose the Committee: Mr. Joseph H. Harrison; Mr. Wm. Prince, Jr.; Mr. Arthur Prince; Mr. Samuel Danley; Mr. Raoul T. Reynolds; Mr. Fletcher Smith and Mr. Thinas Taylor. The following program will be rendered: Opening chorus, \"The red white and blue\"; Invocation, Rev. B. J. Jordan; Song, \"Come thou Almighty King;\" Scripture Lesson, itv. W. H. Hunter; Song, \"Help somebody Today;\" Testimony Prayers, followed by Testimony telling of the desires of all for the future of the Y. M. C. A.; Piano Selection, Mr. Wilbur Huller; \"The Athletic side of the Army,\" by Sgt. R. T. Reynolds; Song, \"The Navy will bring thou back,\" by the Boys Booker T."
+      "text": "At the meeting of \"the Colored Branch of the Y. M. C. A. Sunday, August 10th, 3:30 o'clock, the program will be in charge of the Athletic Committee of which Wm. Reynolds is the Chairman and the following others compose the Committee: Mr. Joseph H. Harrison; Mr. Wm. Prince, Jr.; Mr. Arthur Prince; Mr. Samuel Danley; Mr. Raoul T. Reynolds; Mr. Fletcher Smith and Mr. Thomas Taylor. The following program will be rendered: Opening chorus, \"The red white and blue\"; Invocation, Rev. B. J. Jordan; Song, \"Come thou Almighty King;\" Scripture Lesson, itev. W. H. Hunter; Song, \"Help Somebody Today\"; Sentence Prayers, followed by brief Testimonies telling of the desires of all for the future of the Y. M. C. A.; Piano Selection, Mr. Wilbur Rubin; \"The Athletic side of the Army,\" by Sgt. R. T. Reynolds; Song, \"The Navy will bring them back,\" by the Boys Booker T.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,27 +67,85 @@
         1252
       ],
       "label": "doc_title",
-      "text": "OFFICE LIFE BY IDE LLALBRITTON"
+      "text": "OFFICE LIFE BY IDE LLALBRITTON",
+      "status": "ok"
     },
     {
       "bbox": [
         172,
         1270,
+        459,
+        1738
+      ],
+      "label": "text",
+      "text": "Comique and Tragique.\n\nNot only does his dress identify him. His spotless white shoes set off by the dark streaked hose, white trousers, dark coat, immaculate shirt and collar and white pennam only accentuate the fact, ascertained through an excited reporter reporting that, \"The men are simply going wild over the Sporting Page,\" that he is a Sporting Editor for true. And although he seems to be a bird of a \"different feather\" still the rest of the staff are extending to him a hearty welcome, hoping that on a Sunday, when the Printer's Devil is all dressed up and the Lino Operator's hands and face are for once clean and his hair sleaked back, that he will get a glimpse of them then, and feel more at home.\n\nA most honorable Grand Master! If he were the President of the U. S. A. or greater still of the Los Angeles Firm, he could not be more important.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        180,
+        1756,
+        462,
+        2037
+      ],
+      "label": "text",
+      "text": "Early Monday morning he started and likewise did the telephone and door bell. Automobiles, driven pell mell by reckless drivers came to a stop before the shop while the inmates sought the object of their concern. The Most Honorable Grand Master. Up and down the streets, in grand state, among the cushions of a \"big seven scater\" he rode in style becoming his rank and in company with the same.\n\n\"Indeed only a casual 'hello' these days, does the Partner of Life and Editorship receive. Watch the columns of the Service Journal.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        172,
+        2037,
+        469,
+        2592
+      ],
+      "label": "text",
+      "text": "lowing week was spent. The Society Editor finished her last account. Relegated to the waste basket anything too complicated for immediate solution and with just one little nerve hanging on\u2014though stretched to the breaking point\u2014most disquietingly",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        172,
+        2592,
         469,
         2780
       ],
       "label": "text",
-      "text": "Not only does his dress identity him. His spotless white shoes set off by the dark streaked hose, white crocs, dark coat, immaculate shirt and collar and white pennama, only accentuate the fact, ascertained through an excited reporter reporting that, \"The men are simply going wild over the Sporting Page,\" that he is a Sporting Editor for true. And although he seems to be a bird of a different feather\" still the rest of the staff are extending to him a hearty welcome; hoping that on a Sunday when the Printer's Devil is all dressed up and the Lino Operator's hands and face are for once clean and his hair sleaked back, that he will get a glimpse of them then, and feel more at home.\n\nA most honorable Grand Master! If he were the President of the U.S. or greater still of the Los Angeles Forum, he could not be more important.\n\nEarly Monday morning he started and likewise did the telephone and door bell. Automobiles, driven pell mell by reckless drivers came to a stop before the shop while the inmates sought the object of their concern. The Most Honorable Grand Master. Up and down the streets, in grand state, among the cushions of a \"big seven seater\" he rode in style becoming his rank and in company with the same.\n\nIndeed only a casual \"hello\" these days does the Partner of Life and Editorship receive. Watch the columns of the Sporting Pages.\n\nlowing week was spent. The Society Editor finished her last account. Relegated to the waste basket anything too complicated for immediate solution and with just one little nerve hanging on\u2014though stretched to the breaking point\u2014most disquietingly"
+      "text": "```markdown\n\n```",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        474,
+        304,
+        749,
+        604
+      ],
+      "label": "text",
+      "text": "Musical Club; \"The Navy,\" by Mr. Vanderbuilt Williams; Selection by the young Men's Quartett. The enrolment of members will be one of the features of the meeting as this is part of the drive to get a membership of 100 by the 1st of September. This meeting will be an open meeting, and everybody is requested to come, both men and women. The ladies are especially invited to attend this meeting and hear the plans of the Committee as to the healthful training of the boys from now on. Classes will be organized immediately for Athletic training\u2014The boys, the youths and the then. Come out and help.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        470,
+        605,
+        745,
+        1138
+      ],
+      "label": "text",
+      "text": "On last Saturday evening an informal Reception was given Madam Leyten of Philadelphia, who is President of the Women's Work of the National Baptist Convention, who visited in the city Saturday and Sunday. Saturday she was the guest of Mrs. S. B. Strickland on Worcester Avenue during the day, and in the evening was the guest of honor at the reception tendered her by Mrs. W. C. Fields at the home of the Rev. and Mrs. J. A. Fleming on Waverly Drive, at which time she talked very interestingly of the things that must be done by the Missionary workers all over this United States. On Sunday morning Mrs. Leyten was at the Friendship Baptist Church, and following the very eloquent, forceful and enlightening sermon by the Rev. Tillman, she entertained the large congregation for about thirty minutes in a very interesting and intelligent manner. Mrs. Leyten is a very bright and talented woman and can entertain any audience. We are very sorry that her time was so limited in this part of the State so that she might have appeared again to our congregation.",
+      "status": "ok"
     },
     {
       "bbox": [
         468,
-        304,
-        749,
+        1166,
+        743,
         1434
       ],
       "label": "text",
-      "text": "Musical Club; \"The Navy,\" by Mr. Vanderbuilt Williams; Selection by the Young Men's Quartett. The enrolment of members will be one of the features of the meeting as this is part of the drive to get a membership of 100 by the 1st of September. This meeting will be an open meeting, and everybody is requested to come, both men and women. The ladies are especially invited to attend this meeting and hear the plans of the Committee as to the healthful training of the boys from now on. Classes will be organized immediately for Athletic training\u2014The boys, the youths and the men. Come out and help.\n\nOn last Saturday evening an informal Reception was given Madam Leyten of Philadelphia, who is President of the Women's Work of the National Baptist Convention, who visited in the city Saturday and Sunday. Saturday she was the guest of Mrs. S. B. Strickland on Worcester Avenue during the day, and in the evening was the guest of honor at the reception tendered her by Mrs. W. C. Fields at the home of the Rev. and Mrs. J. A. Fleming on Waverly Drive, at which time she talked very interestingly of the things that must be interested by the Missionary workers all over this United States. On Sunday morning Mrs. Leyten was at the Friendship Baptist Church, and following the very eloquent, forceful and edifying sermon by the Rev. Tillman, she entertained the large congregation for about thirty minutes in a very interesting and intelligent manner. Mrs. Leyten is a very bright and talented woman and can entertain any audience. We are very sorry that her time was so limited in this part of the State so that she might have appeared again to our congregation.\n\ncool was her \"good night!\" Tuesday morning, by the non-appearance of said editor at her desk, the Managing Editor knew her to be on her long talked of vacation. Wednesday afternoon the Society Editor dropped in and from sheer force of habit edited her columns and informed all questioners that Saturday evening would find her high in the hills of the mountain ranch home of her sister. Too tired to even will or bequeath her many obligations she left them all in the hands of the already brimming over ones of the Managing Editor."
+      "text": "cool was her \"good night!\" Tuesday morning, by the non-appearance of said editor at her desk, the Managing Editor knew her to be on her long talked of vacation. Wednesday afternoon the Society Editor dropped in and from sheer force of habit edited her columns and informed all questioners that Saturday evening would find her high in the hills of the mountain ranch home of her sister. Too tired to will even or bequeath her many obligations she left them all in the hands of the already brimming over ones of the Managing Editor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,17 +155,41 @@
         1469
       ],
       "label": "paragraph_title",
-      "text": "THE COMING PIANIST"
+      "text": "THE COMING PIANIST",
+      "status": "ok"
     },
     {
       "bbox": [
         467,
         1476,
+        740,
+        2035
+      ],
+      "label": "text",
+      "text": "Even those who are clod-blooded with regard to technical piano playing, could but catch a soul appreciation of Mrs. Lorenza Jordan-Cole's superb renditions on the piano last Wednesday evening at the Independet Church of Christ.\n\nSo sublimely did she fondle the keys that one could have easily lost sight of any human effort, and in fancy perceived one of the long lost music masters winding out revere after revere until his soul was brin ful.\n\nMrs. Cole has made marked improvement since she left Los Angeles, and those persons who are in touch with modern developing along the music culture line predict for Mrs. Cole the coming artist of the Race.\n\nMrs. Rosa Wooden, who presented Mrs. Cole upon this occasion, deserves credit for the artistic arrangement of the affair.\n\nMRS. W. LAYTON SPEAKS.\n\nFresh from the East and alive to the changed conditions brought on by a World War. Mrs. W. Layton inspired a large congregation of men",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        467,
+        2035,
+        749,
+        2601
+      ],
+      "label": "text",
+      "text": "play, the only thing approaching an upset came when Maurice I. Laughlin, former national champion, was defeated by S. H. Wong in York. Score: 6-3, 5-7, 7-9, 8-2, 8-3. The last set was played in the rain. McLaughlin showed neither the first",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        467,
+        2601,
         749,
         2780
       ],
       "label": "text",
-      "text": "Even those who are clod-blooded with regard to technical piano playing, could but catch a soul appreciation of Mrs. Lorenza Jordan-Cole's superb renditions on the piano last Wednesday evening at the Independet Church of Christ.\n\nSo sublimely did she fondle the keys that one could have easily lost sight of any human effort, and in fancy perceived one of the long lost music masters winding out revere after revere until his soul was brim full.\n\nMrs. Cole has made marked improvement since she left Los Angeles, and those persons who are in touch with modern developing along the music culture line predict for Mrs. Cole the coming artist of the Race.\n\nMrs. Rosa Wooden, who presented Mrs. Cole upon this occasion, deserves credit for the artistic arrangement of the affair.\n\nMRS. W. LAYTON SPEAKS.\n\nplay, the only thing approaching an upset came when Maurice J. Laughlin, former national champion, was defeated by S. H. Vogel, York. Score: 6-3, 5-7, 7-9, 8-2, 8-3.\n\nThe last set was played in the ream McLaughlin showed neither the feel-"
+      "text": "```markdown\n\n```",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,17 +199,30 @@
         190
       ],
       "label": "text",
-      "text": "In Music World"
+      "text": "In Music World",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        755,
+        235,
+        1034,
+        754
+      ],
+      "label": "text",
+      "text": "Says Natalie Curtin Muriin, who made a first hand study of American Folk music, both Indian and Negro: \"We have enthusiastically adopted the less serious side of the black man's music, the ragtime and the plantation melodies. It is time that we were making a real use of 'his highest form of self expression, that unique type of song known as the \"spiritual.\" Mrs. Durlin has set the traditional tune of \"Ride on Jesus,\" melody from the natives of St. Helena's Island, S. C., (whose population consists of 6,000 colored and thirty white people) and she calls her work \"Hymn of Freedom.\" It was first sung at St. Helena's Island when the pioneers of the draft were about to leave the community to go to war. The \"Hymn of Freedom\" has been used with great effect by the colored troops in various cantonments. Other Nero spirituals are undergoing adaption for army purposes, among them some marches which are eagerly being added to the hiking list.",
+      "status": "ok"
     },
     {
       "bbox": [
         750,
-        235,
-        1034,
+        756,
+        1029,
         1144
       ],
       "label": "text",
-      "text": "Says Natalie Curtin Murlin, who made a first hand study of American Folk music, both Indian and Negro: \"We have enthusiastically adopted the less serious side of the black man's music, the ragtime and the plantation melodies. It is time that we were making a real use of this highest form of self expression, that unique type of song known as the \"spiritual.\" Mrs. Burlin has set the traditional tune of \"Ride on Jesus,\" melody from the natives of St. Helena's Island, S. C., (whose population consists of 6,000 colored and thirty white peopole) and she calls her work \"Hymn of Freedom.\" It was first sung at St. Helena's Island when the pioneers of the draft were about to leave the community to go to war. The \"Hymn of Freedom\" has been used with great effect by the colored troops in various cantonments. Other Negro spirituals are undergoing adaption for army purposes, among them some marches which are eagerly being added to the hiking list.\n\nMme. Florence Cole Talbert has been studying with Oscar Saenger, the greatest vocal coach in the United States. He has taught Mme. Talbert to sustain E flat above High C with case. Lessons with Mr. Saenger cost $10.00 for thirty minutes. The race should feel proud of Mme. Talbert and her example should be followed by others of our race who have beautiful voices.\n\nThe Prince of Wales, who is visiting America at present is very fond of the music that the colored orchestra of the \"Midnight Prolies,\" New York, plays daily. He confesses that he cannot make his feet behave and he has already procured a number of phonograph records that he intends to take back with him. The prince thinks Bert Williams the funniest man that he ever saw."
+      "text": "Mme. Florence Cole Talbert has been studying with Oscar Saenger, the greatest vocal coach in the United States. He has taught Mme. Talbert to sustain E flat above High C with case. Lessons with Mr. Saenger cost $10.00 for thirty minutes. The race should feel proud of Mme. Talbert and her example should be followed by others of our race who have beautiful voices.\n\nThe Prince of Wales, who is visiting America at present is very fond of the music that the colored orchestra of the \"Midnight Frolics,\" New York, plays daily. He confesses that he simply cannot make his feet behave and he has already procured a number of phonograph records that he intends to take back with him. The prince thinks Bert Williams the funniest man that he ever saw.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +232,8 @@
         1302
       ],
       "label": "text",
-      "text": "nuss of foot nor the accuracy of placing his smashes that one time marked his work.\n\nA dentist is a good chap, but he always looks down in the mouth.\n\nSome dentists give you gas to put you to sleep, others just talk to you."
+      "text": "nuss of foot nor the accuracy of placing his smashes that one time marked his work.\n\nA dentist is a good chap, but he always looks down in the mouth.\n\nSome dentists give you gas to put you to sleep, others just talk to you.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,17 +243,63 @@
         1369
       ],
       "label": "paragraph_title",
-      "text": "TENNIS CHATTER.\n(Wm. M. Watson)"
+      "text": "TENNIS CHATTER.\n(Wm. M. Watson)",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        748,
+        1384,
+        1024,
+        1880
+      ],
+      "label": "text",
+      "text": "After tearfully kissing his beloved mother, dad, pretty sister, a score of sweethearts and admirers good-by at the Santa Fe Station, Wednesday night, champion Ballinger Kemp high-balled the engineer, stepped aboard a pulman, tipped the expectant porter and fell into the feathers for his first nights snoose while speeding toward gay New York.\n\nAn enormous crowd of friends and well-wishers were present to see Bal off, each one feeling confident that he'll have several Easterner's scalps dangling from his belt when he returns.\n\nFarewell old pal, we know you will do your best, we are strong for you\u2014win or loose.\n\nThe fans are certainly to be thanked for their loyal support of this movement. The Federation itself feels deeply indebted to the public for its broadness of heart and offers its heartfelt thanks and assurance of appreciation for the kindness shown in all the tennis events during the players-to-New York drive.",
+      "status": "ok"
     },
     {
       "bbox": [
         745,
-        1384,
-        1024,
+        1882,
+        1021,
+        2464
+      ],
+      "label": "text",
+      "text": "The total receipts for this purpose were $325.90; Three Hundred Dollars were given to Kemp for expenses and the $25.90 also, but as an emergency fund. The names of all subscribers will not appear in this list as many names are included in the subscription clerk's receipts.\n\nDr. A. C. Garrott won the gold cup which was to be given to the largest individual subscriber. Dr. A. C. Garritt, $6.00; E. J. Peters, $5.00; Dr. A. Tarleton, $5.00; Dr. W. C. Cordon, $5.00; Miss Fern Caldwell, Mr. and Mrs. Geo. W. Caldill, $5.00; the following subscriptions clerks turned in: $44.00; A. D. Atthews, Henry Jones, Ballinger amp, Paul Williams, Rosco Bryoles, e Oliver and Wm. M. Watson. The subs' subscriptions were as follows: pha T. C., $100.00; West Side T., $60.00; Western Federation of mns Clubs, $46.90; Young Ladies athletic League, $25.00; Santa Moni T. C., $25.00; Alpha Parthenial T., $5.00.\n\nThe National Colored singles championship is the real plum we wish to capture, although he may encounter other events along the cantle before grabbing a freight to our homeville.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        749,
+        2466,
+        1022,
         2590
       ],
       "label": "text",
-      "text": "After tearfully kissing his beloved mother, dad, pretty sister, a score of sweethearts and admirers good-by at the Santa Fe Station, Wednesday night, champion Ballinger Kemp high-balled the engineer, stepped aboard a pulman, tipped the expectant porter and fell into the feathers for his first nights snoose while speeding toward gay New York.\n\nAn enormous crowd of friends and well-wishers were present to see Bal off, each one feeling confident that he'll have several Easterner's scalps dangling from his belt when he returns.\n\nFarewell old pal, we know you will do your best, we are strong for you\u2014win or loose.\n\nThe fans are certainly to be thanked for their loyal support of the movement. The Federation itself feels deeply indebted to the public for its broadness of heart and offers its heartfelt thanks and assurance of appreciation for the kindness shown in all the tennis events during the players-to-New York drive.\n\nThe total receipts for this purpose were $225.90; Three Hundred Dollars were given to Kemp for expenses and the $25.90 also, but as an emergency fund. The names of all subscribers will not appear in this list as many names are included in the subscription clerk's receipts.\n\nDr. A. C. Garrott won the gold cup which was to be given to the largest individual subscriber. Dr. A. C. Gartt, $6.00; E. J. Peters, $5.00; Dr. A. Tarleton, $5.00; Dr. W. C. Cedon, $5.00; Miss Fern Caldwell, $0.00; Mr. and Mrs. Geo W. Caldill, $5.00; the following subscriptions clerked in: $44.00; A. D. Atthews, Henry Jones, Ballinger amp, Paul Williams, Rosco Bryoles, e Oliver and Wm. M. Watson. The abs subscriptions were as follows: pha T. C., $100.00; West Side T., $60.00; Western Federation of ams Clubs, $46.90; Young Ladies athletic League, $25.00; Santa Moni T. C., $25.00; Alpha Parthenial T., $5.00.\n\nThe National Colored singles championship is the real plum we wish to capture, although he may encounter other events along theantic before grabbing a freight in homeville.\n\nHe has been instructed to use his influence in order to draw the 1920 meet to the West Coast, or at least as far West as Kansas City, or St. Louis, then we Westerners wouldn't have so far to walk to see the thing. The New Country Club committee"
+      "text": "He has been instructed to use his influence in order to draw the 1920 meet to the West Coast, or at least as far West as Kansas City, or St. Louis, then we Westerners wouldn't have so far to walk to see the thing. The New Country Club committee",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1008,
+        96,
+        1372,
+        114
+      ],
+      "label": "text",
+      "text": "THE CALIFORNIA EAGLE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1049,
+        147,
+        2152,
+        550
+      ],
+      "label": "text",
+      "text": "STOCKTOWN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +309,8 @@
         613
       ],
       "label": "doc_title",
-      "text": "Metropolitan Hair Store and Costuming Establishment"
+      "text": "Metropolitan Hair Store and Costuming Establishment",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,27 +320,52 @@
         684
       ],
       "label": "text",
-      "text": "The only race establishment on the Pacific Coast where you may be fitted up in anything made from HAIR and secure the most fastidious costume for Masquerade Balls, Tacky Parties, or Colonial Dances,"
+      "text": "The only race establishment on the Pacific Coast where you may be fitted up in anything made from HAIR and secure the most fastidious costume for Masquerade Balls, Tacky Parties, or Colonial Dances,",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1037,
+        767,
+        1294,
+        1226
+      ],
+      "label": "text",
+      "text": "Mrs. Mabel Turner",
+      "status": "ok"
     },
     {
       "bbox": [
         1030,
-        1210,
+        1251,
         1306,
         1680
       ],
       "label": "text",
-      "text": "Mrs. Mabel Turner\n\nappointed by Dr. A. C. Garrott, president of the Western Federation of Tennis Clubs is Mrs. Wim. Allenz Chairman; P. R. Williams; Hassel Davis; Mrs. Clarence Bluett; Miss Fern Caldwell and Joe Prosper. They are expected to have some interesting dope dished up soon.\n\nPlans for the Labor Day Tourney at the Y. M. C. A. Courts, 2834 Stephenson Avenue, Boyle. Heights, are all mapped out; there will be Ladies' Round Robin Matches, and Men's Singles and Doubles, so get busy as the prizes will be gorgeously beautiful.\n\nThe tournament will be followed by a dance at Normandie Hall, where the West Side Jazz Orchestra will \"do its stuff.\"\n\nJACK DEMPSEY REFUSES $100.\n000.00 PERSE-ACCEPTS\n$250,000.00"
+      "text": "appointed by Dr. A. C. Garrott, presid- dent of the Western Federation of Tennis Clubs is Mrs. Wm. Allen- chairman; P. R. Williams; Hassel Davis; Mrs. Clarence Bluett; Miss Fern Caldwell and Joe Prosper. They are expected to have some inter- esting dope dished up soon. Plans for the Labor Day Tourney at the Y. M. C. A. Courts, 2834 Stephenson Avenue, Boyle. Heights, are all mapped out: there will be Ladies' Round Robin Matches, and Men's Singles and Doubles, so get busy as the prices will be gorgeously beautiful. The tournament will be followed by a dance at Normandie Hall, where the West Side Jazz Orchestra will \"do its stuff.\"\n\nJACK DEMPSEY REFUSES $100.\n000,000 PURSE\u2014ACCEPTS\n$250,000,000",
+      "status": "ok"
     },
     {
       "bbox": [
         1027,
         1732,
         1303,
+        2240
+      ],
+      "label": "text",
+      "text": "Preparing the hour that referee Ollie Moore raised the brawny grey covered hand of Jack Dempsey at the independence Day swat-fest at Tolmie Ohio, in token of his newly wished laurels, a flock of promoters, match-makers, would-be fighters, dups, and second-raters, and camp hangers-ons have been scouring the country in a frantic effort to un-earth a new dope with enough kick bottled up in his bread-winner to knock the champion into oblivion.\n\nEven some of the pre-historic warriors of the has-been and never-was thirsty are busy firing a broad-side of challenges, and counter challenges at the new little marvel, while a battery of movie magnets, managers of circus concerns and high prowered vanishing agents have been constantly camping upon Dempsey's trail, armed with a set of articles and contracts powered with offers of fabulous and staggeting suns stretching into the fifth and sixth zero column are in a wild scramble to secure the attachment of the wily champ's moniker.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1027,
+        2243,
+        1300,
         2578
       ],
       "label": "text",
-      "text": "Prior to the hour that referee Ollie Wardley raised the brawny gloves covered hand of Jack Dempsey at the independence Day swat-fest at Toulouse, Ohio, in token of his newly wielding hailstones, a flock of promoters, match-makers, would-be fighters, dups, and second-raters, and camp hangers-ons have been scouring the country in a frantic effort to unearth a new dope with enough kick bottled up in his bread-winner to knock the champion into oblivion.\n\nEven some of the pre-historic warriors of the has-been and never-was tribes are busy firing a broad-side of challenges, and counter challenges at the new little marvel, while a battery of movie magnets, managers of circus concerns and high powered valuables agents have been constantly camping upon Dempsey's trail, armed with a set of articles and contracts powered with offers of fabulous and staggering sums stretching into the fifth and sixth zero column are in a wild scramble to secure the attachment of the wily champ's moniker.\n\nThe procession seems equally as high-spirited as the late expedition that was sent out to discover a white hope to capture and compass the pugilistic burial of Il' Artha Johnson, although with somewhat less display of antagonism.\n\nWhay, almost before the title-stopped Willard recovered consciousness, the pugilistic firmament was rent by long-range heavy artillery firing of challenges in the general direction of California from the dry but justy throats of Jim Flynn the fighting Duchef fireman and Wee Willie Meeham the battling California fatty; each, at the same time coiffing and boltilling the others bolsterous demand for a neat go at the brown."
+      "text": "The procession seems equally as high-spirited as the late expedition that was sent out to discover a white hope to capture and compass the nugalistic burial of lil' Artha Johnson, although with somewhat less display of antagonism.\n\nWhy, almost before the title-stripped Willard recovered consciousness, the pugilistic firmament was rent by long-range heavy artillery firing of challenges in the general direction of California from the dry but justy throats of Jim Flynn the fighting Lucio figman and Wee Willie Meeham the battling California factory; each, at the same time roffing and bellilling the others boisterous demand for a first go at the crown.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +375,8 @@
         847
       ],
       "label": "text",
-      "text": "Phone Pico 1698 ARLOR Neg"
+      "text": "Phone Pico 1698 ARLOR Neg",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +386,8 @@
         951
       ],
       "label": "text",
-      "text": "The original Poro System. Hair and Scalp Treatment, Manicuring and Facial Massege. The full course is taught for"
+      "text": "The original Poro System. Hair and Scalp Treatment, Manicuring and Facial Massege. The full course is taught for",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +397,8 @@
         1169
       ],
       "label": "text",
-      "text": "Diplomas from Porc College St Louis, Mo.\n\nMrs. Mabel Turner and Miss Charlie Williams"
+      "text": "Diplomas from Porc College St Louis, Mo.\n\nMrs. Mabel Turner and Miss Charlie Williams",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,27 +408,52 @@
         1252
       ],
       "label": "text",
-      "text": "and the g\npority of\nreal life a\n3. The\nished and\nful pearl\nfor all\nfelt as we\nitself will\nIt is co\nLOUIS M\nWOOD 13"
+      "text": "and the g\npority of\nreal life a\n3. The\nished and\nful pearl\nfor all\nfelt as we\nitself will\nIt is co\nLOUIS M\nWOOD 13",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1312,
+        1252,
+        1587,
+        1765
+      ],
+      "label": "text",
+      "text": "movie actor sailing under colors of the Mack Sennet Film Co. as his backers, claims first blood by virtue of having toppled Dempsey over for the count after 42 seconds of milling in the opening round of their sette in Murray, Utah in 918, although Jack came right back a few months later and spiattered Jim prostrate in thirty-six seconds.\n\nChunky Willie Mecham fourrounded Dempsey out of a verdict in the Cate City less than a year ago and clammers to repeat the dose in a longer bout and is heavily backed by Byron Long, the famous promoter and sportsman, who plans a $1,500,000,000 syndicate to sage the match at the grand opening of a hotel at Tia Juana, Mexico.\n\nThen there is George McDunnall representing promoter C. B. Cochran of Paris, dangling a $100,000 purse in Dempsey's face for a match with the winner of the Georges Carpenter Joe Beckett set-to, September 2, says they may pocket this chicken feed if the battle can be pulled off under the stars and stripes.",
+      "status": "ok"
     },
     {
       "bbox": [
         1310,
-        1252,
-        1587,
+        1767,
+        1582,
         2013
       ],
       "label": "text",
-      "text": "movie actor sailing under colors of the Mack Sennet Film Co. as his backers, claims first blood by virtue of having toppled Dempsey over for the count after 42 seconds of milling in the opening round of their setto in Murray, Utah in 1918, although Jack came right back a few months later and spiattered Jim prostrate in thirty-six seconds.\n\nChunky Willie Mecham fourrounded Dempsey out of a verdict in the Cate City less than a year ago and clammers to repeat the dose in a longer bouts and is heavily backed by Brovon Long, the famous promoter and sportsman, who plans a $1,500,000.00 syndicate to stage the match at the grand opening of a hotel at Tia Juana, Mexico.\n\nThen there is George McBurnal representing promoter C. B. Cochran of Paris, dangling a $100,000 pursue in Dempsey's face for a match with the winner of the Georges Carpenter-Joe Beckett set to, September 2, says they may pocket this chicken feed if the battle can be pulled off under the stars and stripes.\n\nAlso Mrs. Snowy Baker, wife of the famous, Australian promoter, who handled the Johnson-Burna rumpus there in 1908 came 7,000 miles only to meet first-hand refusal of a $100,000.00 bait for a fight between Dempsey and any du they could select.\n\nBut finally last week Jack made up his mind to go to work and signed 15 weeks of his life away to a theatrical circuit at $15,000 per week\u2014or $250,000. duess Dempsey knows when and where to write his John Henry, ch?"
+      "text": "Also Mrs. Snowy Baker, wife of the famous Australian promoter, who handled the Johnson-Burns rumpus there in 1908 came 7,000 miles only to meet first-hand refusal of a $100,000.00 bait for a fight between Dempsey and any dub they could select.\n\nBut finally last week Jack made up his mind to go to work and signed 15 weeks of his life away to a theatrical circuit at $15,000 per week\u2014or $250,000 duess Dempsey knows when and where to write his John Henry, ch?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1305,
+        2062,
+        1582,
+        2591
+      ],
+      "label": "text",
+      "text": "The Musicians Progressive Association under the direction of Miss Mayme Lowe presented its first Educational program, Saturday evening, July 26th at the Parish Hall, 16th and Paloma Avenue.\n\nThe principal feature of the program was an address by Mr. Noah D. Thompson upon the subject \"The effect of music on Character.\" Mr. Thompson's address was instructive, practical and educational, and received a very hearty welcome.\n\nThe club is composed of two kinds of members active and associate, and every music-lover will be asked to become a member and help put the music of the Negro upon a higher plane. The program rendered is as follows: \"Talk upon French music,\" by Mr. John A. Gray; Violin Solo, Mr. Owen Troy; Vocal Solo by Miss Lucy Mae Williams and a Tenor Solo by Mr. Dewey Johnson. The next program will be rendered August 23d at 8:30 p.m. All are welcome",
+      "status": "ok"
     },
     {
       "bbox": [
         1296,
-        2062,
+        2591,
         1589,
         2780
       ],
       "label": "text",
-      "text": "The Musicians Progressive Association under the direction of Miss Mayme Lowe presented its first Educational program Saturday evening, July 26th at the Parish Hall, 16th and Patoma Avenue.\n\nThe principal feature of the program was an address by Mr. Noah D. Thompson upon the subject \"The effect of music on Character.\" Mr. Thompson's address was instructive, practical and educational, and received a very hearty welcome.\n\nThe club is composed of two kinds of members active and associate, and every music-lover will be asked to become a member and help put the music of the Negro upon a higher plane. The program rendered is as follows: \"Talk upon French music,\" by Mr. John A. Gray; Violin Solo, Mr. Owen Troy; Vocal Solo by Miss Lucy Mae Williams and a Tenor Solo by Mr. Dewey Johnson. The next program will be rendered August 23d at 8:30 p. m. All are welcome"
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +463,8 @@
         2780
       ],
       "label": "text",
-      "text": "---"
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +474,8 @@
         801
       ],
       "label": "paragraph_title",
-      "text": "PORO BEAUTY"
+      "text": "PORO BEAUTY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +485,8 @@
         1000
       ],
       "label": "paragraph_title",
-      "text": "$35.00"
+      "text": "$35.00",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +496,8 @@
         1227
       ],
       "label": "text",
-      "text": "Phone Main 7646\n756 CERES AVENUE"
+      "text": "Phone Main 7646\n756 CERES AVENUE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +507,8 @@
         2050
       ],
       "label": "paragraph_title",
-      "text": "MUSICIANS ORGANIZE"
+      "text": "MUSICIANS ORGANIZE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +518,8 @@
         844
       ],
       "label": "doc_title",
-      "text": "Negro Race, Attention!"
+      "text": "Negro Race, Attention!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +529,8 @@
         844
       ],
       "label": "paragraph_title",
-      "text": "Negro Race, Attention!"
+      "text": "Negro Race, Attention!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +540,8 @@
         1050
       ],
       "label": "text",
-      "text": "Never in the bloody history of the World. Never during the pathetic tragedies of the Race has a full-blooded Jew and an American citizen written the most stirring, the most truthful, the most thrilling origine' and satirical Epic for the downtrodden and ostracized, but great and illustrious Negro people, until now, when a member of the ancient Jewish race dipped his pen into the martyrred gore of both, he persecuted Jews as well as the torturedNegroes, and felt, lived and wrote an Epic Poem for the entire Negro tribe, in 6 Chapters of 10 stanzas in each chapter, 10 lines to a stanza and 600 lines in all'\n\n1. This Epic will stir the whole country. White and Black, but it will blaze the way for the brotherhood of man."
+      "text": "Never in the bloody history of the World. Never during the pathetic tragedies of the Race has a full-blooded Jew and an American citizen written the most stirring, the most truthful, the most thrilling origine' and satirical Epic for the downtrodden and ostracized, but great and illustrious Negro people, until now, when a member of the ancient Jewish race dipped his pen into the martyrred gore of both, he persecuted Jews as well as the torturedNegroes, and felt, lived and wrote an Epic Poem for the entire Negro tribe, in 6 Chapters of 10 stanzas in each chapter, 10 lines to a stanza and 600 lines in all'\n\n1. This Epic will stir the whole country. White and Black, but it will blaze the way for the brotherhood of man.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +551,8 @@
         1316
       ],
       "label": "text",
-      "text": "2. This Epic will bring to America the tolerant unity of the races and the good fellowship of all mankind, peace, happiness and prosperity if it pleases, through the hearts of men and is translated into real life, as the author feels it will and must be.\n\n3. This Epic will be a revelation in our National life, a most cherished and priceless source of information for all humanity, a truthful pearl of undying literature, a most timely humanitarian lesson for all the peoples of America! This most realistic and most heartfelt as well as brain-enveloped Epic will stand as long as the world itself will stand!\n\nIt is copyrighted and can be secured by writing or telephoning to: LOUIS MICPEL, 1263 NORTH KINGSLEY DRIVE; TEL. HOLLYWOOD 1294.\n\nPrice 25 Cents for single copy. What you have bought before was only one - the first Chapter, but the entire Epic has 6 Chapters, 60 stanzas, 600 lines and 20 pages of undeniably true, realistic, racially correct Poetry. A copy should be in every home in America!"
+      "text": "2. This Epic will bring to America the tolerant unity of the races and the good fellowship of all mankind, peace, happiness and prosperity if it pleases, through the hearts of men and is translated into real life, as the author feels it will and must be.\n\n3. This Epic will be a revelation in our National life, a most cherished and priceless source of information for all humanity, a truthful pearl of undying literature, a most timely humanitarian lesson for all the peoples of America! This most realistic and most heartfelt as well as brain-enveloped Epic will stand as long as the world itself will stand!\n\nIt is copyrighted and can be secured by writing or telephoning to: LOUIS MICPEL, 1263 NORTH KINGSLEY DRIVE; TEL. HOLLYWOOD 1294.\n\nPrice 25 Cents for single copy. What you have bought before was only one - the first Chapter, but the entire Epic has 6 Chapters, 60 stanzas, 600 lines and 20 pages of undeniably true, realistic, racially correct Poetry. A copy should be in every home in America!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +562,8 @@
         1636
       ],
       "label": "text",
-      "text": "Consult our Rubber Doctor when Tires or Tubes are indisposed."
+      "text": "Consult our Rubber Doctor when Tires or Tubes are indisposed.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +573,8 @@
         1839
       ],
       "label": "text",
-      "text": "Residence Phone West 5924 Stand Phone Broadway 4867"
+      "text": "Residence Phone West 5924 Stand Phone Broadway 4867",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +584,8 @@
         1991
       ],
       "label": "text",
-      "text": "When you have trunks call Kelly; When you are ready to move and your money is short, call KELLY"
+      "text": "When you have trunks call Kelly; When you are ready to move and your money is short, call KELLY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +595,8 @@
         2419
       ],
       "label": "text",
-      "text": "They Know How to Move You And all Your Goods\u2014They do it\nQuick and Right\n\nPHONES: RES BOYLE 591: OFFICE 23067"
+      "text": "They Know How to Move You And all Your Goods\u2014They do it\nQuick and Right\n\nPHONES: RES BOYLE 591: OFFICE 23067",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +606,8 @@
         2476
       ],
       "label": "paragraph_title",
-      "text": "Winston&Simmons"
+      "text": "Winston&Simmons",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,17 +617,30 @@
         2577
       ],
       "label": "text",
-      "text": "Moving, Crating, Packing and Shipping by Experienced Men\nSTAND 117 SO. BROADWAY;\nRESIDENCE 1647 E. 22ND STREET. LOS ANGELES, CA"
+      "text": "Moving, Crating, Packing and Shipping by Experienced Men\nSTAND 117 SO. BROADWAY;\nRESIDENCE 1647 E. 22ND STREET. LOS ANGELES, CA",
+      "status": "ok"
     },
     {
       "bbox": [
-        1856,
-        686,
-        2152,
-        716
+        1841,
+        94,
+        2155,
+        686
       ],
       "label": "text",
-      "text": "Mme. J. H. Cuffee, Prop"
+      "text": "SATURDAY, AUGUST 9, 1919\n\nEstablishment\nanything made from HAIR and\nDances,",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1841,
+        686,
+        2155,
+        809
+      ],
+      "label": "text",
+      "text": "Mme. J. H. Cuffee, Prop",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,17 +650,8 @@
         2150
       ],
       "label": "paragraph_title",
-      "text": "Oakland Real Estate Bargains"
-    },
-    {
-      "bbox": [
-        1657,
-        2157,
-        2071,
-        2313
-      ],
-      "label": "text",
-      "text": "If you are coming to Oakland and want to rent a room or a house, write me. If you want to buy, a house, write me. Furnished rooms iu private families, Houses for sale all over the city $1700 to $11,000 with $100 or more cash, $25 to $40 per month. Address A. W. COOK, 3524 Market Street"
+      "text": "Oakland Real Estate Bargains",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,17 +661,8 @@
         2310
       ],
       "label": "text",
-      "text": "If you are coming to Oakland and want to rent a room or a house, write me.\n\nIf you want to buy a house, write me Furnished rooms in private families, Houses for sale all over the city $1700 to $11,000 with $100 or more cash, $25 to $40 per month. Address\nA. W. COOK, 3524 Market Street"
-    },
-    {
-      "bbox": [
-        1661,
-        2160,
-        2068,
-        2204
-      ],
-      "label": "text",
-      "text": "If you are coming to Oakland and want to rent a room or a house, write me."
+      "text": "If you are coming to Oakland and want to rent a room or a house, write me. If you want to buy, a house, write me. Furnished rooms iu private families, Houses for sale all over the city $1700 to $11,000 with $100 or more cash, $25 to $40 per month. Address A. W. COOK, 3524 Market Street",
+      "status": "ok"
     }
   ]
 }

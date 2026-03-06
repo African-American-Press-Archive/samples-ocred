@@ -1,0 +1,338 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 2041,
+  "height": 3248,
+  "processed_at": "2026-03-06T18:14:11.419246+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 34,
+    "after_merge": 29
+  },
+  "regions": [
+    {
+      "bbox": [
+        33,
+        15,
+        1940,
+        893
+      ],
+      "label": "text",
+      "text": "ST NEWS\nou See It In\nDefender It's So\n\nChicago marketer\nWORLD'S GREATEST WEEKLY\n\nNO. 30\nCHICAGO, JULY 22, 1916\n\nMANIACKILLS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        65,
+        886,
+        224,
+        1235
+      ],
+      "label": "text",
+      "text": "SF\nEY I\nDERED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        64,
+        1279,
+        225,
+        1672
+      ],
+      "label": "text",
+      "text": "NS SERVICE\n\nii. Dr. Josez\nmedical corps\nis murdered by\nser. The con-\ntable Marcel\nhines showed\nold blood. The\nI foul play and\nimposed con-\ndidibly treated.\nwas in Jol\nMajor Messe-\nser, who gra-\nnaded a white and\nblack\nconnection with po-\nnies connected with a\nsink. An Oklahoma\ngenerally known that\nof those men who\nthe Mexican army\noers of various ranks\nability as a soldier\nspecially attained.\nTexas. He was\n\"Verdy\" Tex. be",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        222,
+        898,
+        522,
+        1029
+      ],
+      "label": "doc_title",
+      "text": "HONOR DEAD COLDIERS AT NATION'S CAPITAL",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        229,
+        1103,
+        526,
+        1627
+      ],
+      "label": "text",
+      "text": "Over the hills they were bound\u2014\nFatigued, dusty and tried\u2014\nBut at the treacherous Carrizal town\nOur brave boys fought and died.\n\nCHICAGO DEFENDER NEWS SERVICE\nWashington, D. C., July 21\u2014The heroes of the battle of Carrizal, six members of the Tenth cavalry found dead on the battle field recently, were buried here Friday, July 14, in Arlington National cemetery. The honored dead troopers were told to rest in the presence of Secretary of War Baker, General Hugh L. Scott. The services at the grave were conducted by the Rev. G. Livington Bayard, chaplain of the United States navy, who also conducted several days ago the funeral services of Captain Ford, who fell at Carrizal with his troopers. Thousands of members of the Race and that many white people trains from Union station when the funeral train arrived. The cemetery were placed on cansons under command of officers of Lutry A of the District National guard field artillery and were taken to Arlington, followed by an extended line of members. Thousands of people laid the curb to pay respect to the few of that gallant band who had won additional recognition for their race by their bravery. As the corpse passed every but was removed and the carnest times of the strong-give sign of the grimitude care people for their sacrifice.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        222,
+        1621,
+        528,
+        2023
+      ],
+      "label": "text",
+      "text": "the simple burial service\nof the loss of\neach body was sepa-\nsh- Lin-\na. Hof-\ncook H.,\ncook, Dr.\nv. L. P. W.\na. Rev. J. Wil-\nn H. Wilson, Dr.\nr. Whitefield Me-\ncobb, Mr. Melen-\nmond W. Scott and\nLayton of the Wom-\nps, G. A. R.\nwere draped with Amer-\nand were hung with flowers.\ncaskets were lowered. pro-\na wreath from the White\nBells, sent by President and\nogry was placed on each.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        222,
+        2023,
+        528,
+        2558
+      ],
+      "label": "text",
+      "text": "principal procession were many\nindustrials, all the camps of\ntunes unent being represented,\nor educ. Representa L. C.\nWilson, commander in chief\norganization. Other veterans\nof march who are members of\nrepresentatives were\nage of Kansas, Greece A.\nGran. Henry Bruckner of\nDaniel J. McGilluddy of\nAnderson of Minnesota,\naward of Georgia, Samuel\nnnessce, John W. Langley\nRichard W. Austin of\nH. Nesly of West Vir-\n Hill of Tennessee, Claudl.\nIllinois and Carl C. Van\nson.\nof the troopers buried were\nin the battlefield at Carri-\nt a week ago, and were\nof all clothing. Even\ntion marks worn by Amer-\nin battle were missing.\n\nQUARREL\nULTS IN STABBING\nJuly 21.\u2014As the result of\nbetween herself and Mrs.\ntaurtee, of 64 west, One\nparlity-third street, Mrs.\nof the same address was\nSaturday, awaiting the\nand jury.\nat because the jantress\nwoman woman for sitting\nmarrel ensued and Mrs.\nin the right arm with",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        363,
+        2598,
+        527,
+        2906
+      ],
+      "label": "text",
+      "text": "July 21. While driver of State street of Sunday afternoon, George Trapas, the saw ho waw about or car moving in his car to avoid the sidewalk and on Whalley and her children, Bornice and years, respectively, were removed to Sixth street, near aided body of little ho county morgue, that the head and the corps arranged forices were held Mr. and Mrs. people and have come from yiny",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        222,
+        2906,
+        528,
+        3207
+      ],
+      "label": "text",
+      "text": "27",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        542,
+        971,
+        1142,
+        1719
+      ],
+      "label": "text",
+      "text": "THE STORY OF THE WEDDING OF\nTHOMAS AND ANNA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        529,
+        1737,
+        1140,
+        1807
+      ],
+      "label": "text",
+      "text": "HAMPTON KNOX AND WIFE\nMr. Knox was the first one killed, when he ran out on his porch to see what the excitement was about. Mrs. Sadie Knox was shot a moment later when she went to her dying husband.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        536,
+        1825,
+        1145,
+        1960
+      ],
+      "label": "doc_title",
+      "text": "Kills Wife With Ax Then Commits Suicide",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        531,
+        1972,
+        834,
+        2102
+      ],
+      "label": "text",
+      "text": "CHICAGO DEFENDER NEWS SERVICE\nFairburn, Ga., July 21\u2014About 4 o'clock last Thursday morning, on the farm of William Camp (white), five miles west of Fairbury, Sima Weaver killed his wife, Fanny, by slashing her through the brain with an ax.\nSheriff Ed Jenkins responded to telephone call, taking the county blood-",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        532,
+        2170,
+        836,
+        2312
+      ],
+      "label": "text",
+      "text": "INJURES TWO CHILDREN\nAurora, Ill., July 21.-The two children of Rev. Lowie Owens, who were seriously injured by firecrackers on the Fourth of July at the home of their aunt's in Evanston, will recover. Charles, who was badly hurt about the face and eyes, under the treatment of a specialist, will recover his eye sight.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        588,
+        2319,
+        781,
+        2349
+      ],
+      "label": "paragraph_title",
+      "text": "BOY BADLY HURT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        533,
+        2348,
+        836,
+        2564
+      ],
+      "label": "text",
+      "text": "Red Bank, N. J., July 21. \u2014 Theodore Brown, son of William Brown of Fairhaven, met with a serious accident last Saturday night while riding his wheel at the corner of Pearl and Main streets. Gabriel Tannenbaum (white) of Red Bank run down the young boy's body and authorized and kept him off his bicycle. Brown received several cuts on the head and was bruised about the body. It is said that the body bruises were received when the rear wheel of the automobile passed over him. Brown was picked up, and was hurried to Dr. Wilson's office at Red Bank, where his injuries were attended to.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        533,
+        2563,
+        835,
+        2647
+      ],
+      "label": "text",
+      "text": "Tannenbaum has been held to await the action of the grand jury under bonds of $500, which were furnished by Abram Tannenbaum, the young man's father. The charge was made by Chief of Police C. P. Worthley.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        582,
+        2660,
+        783,
+        2689
+      ],
+      "label": "paragraph_title",
+      "text": "DIES FROM BURNS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        530,
+        2687,
+        833,
+        2795
+      ],
+      "label": "text",
+      "text": "Columbus, O., July 21.\u2014Mr. Moody,\n742 Pliqua place, a resident of Columbus\nfor the past forty years, died at her\nhome, July 2nd, from the result of\nburns which she received while cooking\nat the Arcade restaurant. She leaves\nthree sisters and a son to mourn her\nloss.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        840,
+        1975,
+        1144,
+        2194
+      ],
+      "label": "text",
+      "text": "hounds, at once took up the trail from the house, and after a hot chase of a mile and a half westward through woods and swamps, noted that the trail became bloody as it approached the creek and along the creek the blood-stained tracks in the sand showed signs of unsteadiness and staggering for about 100 yards, to where the hounds stopped and bayed, the body of the fugitive lying dead in the creek, with his throat cut with two slashes extending almost from ear to ear. The razor with which he did the cutting as he fled before the eager cry of the approaching pack was clutched in the sulcide's hand.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        843,
+        2203,
+        1142,
+        2327
+      ],
+      "label": "doc_title",
+      "text": "SKULL IS CRUSHED IN AUTO ACCIDENT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        842,
+        2353,
+        1145,
+        2520
+      ],
+      "label": "text",
+      "text": "Crisfield, Md., July 21\u2014Mr. Taylor O. Wilson, one of the most prominent merchants and political leaders of Crisfield, met his death suddenly Sunday night. July 9, when his big touring car turtle in the act of avoiding a collision with an unknown vehicle. Mr. Wilson was thrown to the ground with such force that his skull was crushed and death resulted in a few minutes after reaching the Peninsula General Hospital in Salisbury.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        840,
+        2518,
+        1147,
+        2841
+      ],
+      "label": "text",
+      "text": "Stetson Wilson, a son of the dead man, had a broken collar bone. Three other members of the party were only slightly injured.\n\nThe Wilson auto was returning from a camp at Frutland in order to take the party to the services at St. Paul's A. M. E. Church, of which he was an active member. Mr. Wilson, who was driving, came upon the horse and buggy suddenly and in order to avoid running them down, turned his machine sharply to one side of the road. The speed of his machine hurled him over the engine and he struck the hard state road with frightful force.\n\nMr. Wilson was at one time a member of the Custom House force in Baltimore. In his own town and county he wielded a strong political influence and in fraternal circles he was known as an active member of the Knights of Pythias and Masons. A wife and two sons are survivors in the immediate family.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        842,
+        2882,
+        1151,
+        3103
+      ],
+      "label": "text",
+      "text": "GROUND APPOINTMENTS\nAtlantic City, N. J., July 23\u2014Mayer Bacharach recently confirmed the following appointment: Playgrounds this week: New York Avenue Playground; Mrs. Ida Williams, teacher; Playground: Miss Ida Phillips and Mark Doom; assistants: Illinois Avenue Playground\u2014Miss Alice Fowler, teacher in charge; Miss Helen Osborne and Caroliner Pinckett, assistants.\n\nRESIEDNCE DESTROYED BY FIRE\nTaylor, Texas, July 21\u2014The residence of Mrs. Mary Hasty was completely destroyed by fire.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1146,
+        1186,
+        1865,
+        1428
+      ],
+      "label": "text",
+      "text": "Tuesday morning about 4:30 Henry P. J. McIntyre went insane and killed white), wounded six, then turned his weapon on his wife, who had been lor and finally killed himself after he had been mortally wounded by two poorly risked their lives leading the charge on the barricaded house with the story, we will give the full details regardless as to whom they hit. They their blunder they are responsible for the death of four innocent person. Henry McIntgre was a full-blooded African, who lived at 320 Nor wife. Little could be learned of his earlier life or that of his wife. Some lice gave information that she had friends in Decatur, Ill., and C and R. The man was a religious maniac. He had worked at the Ill.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1148,
+        1723,
+        1457,
+        1913
+      ],
+      "label": "text",
+      "text": "Here is where the police blu and were told by the man's wife waiting until he came, they went away, intending to serve the warrant the next morning. Too late. McIntyre and his wife also had been \"scrapping\" among themselves for the past three weeks.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1148,
+        1913,
+        1457,
+        2428
+      ],
+      "label": "text",
+      "text": "Kids, Husband and Wife\n\nEarly Tuesday morning he ran her out of the house, she running north, in the direction of the Knox home, velling \"Murder! Murder!\" Hamptor in bed, but the warm w caused him to leave his wit Hearing the shouting, he w front porch in his night e the cause of the trouble about 4:30. As soon as of the doorway he was sl bullets entered his skull fell his brains scattered Mrs. Knox, hearing ran to the porch, and on the porch the craz in the back, the b lower right lung. 7 Hearing the seren Mathows, who is a of Knox, both being Chicago lodge, scared and went to seetharag Intyre was wailing opened he fired. Ma Crazed by his dee ing for blood, he threat of death.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1157,
+        2428,
+        1426,
+        3112
+      ],
+      "label": "text",
+      "text": "THE\n\nWho w\n\nhue\n\nWINTYRE\n\nneed to join\n\na go Tuesday",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1148,
+        3112,
+        1457,
+        3228
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    }
+  ]
+}

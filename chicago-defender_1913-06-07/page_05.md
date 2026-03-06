@@ -2,31 +2,29 @@
 
 By R. W. THOMPSON
 
-Washington, D. C., June 6.—At a song recital last Tuesday evening at the Berean Baptist church, Miss Marie C. James, a favorite prima donna of this city, proved herself to be an artist of the highest quality and added new laurels to her already richly laden brow. Miss James has been heard often in star concerts, but at no time in her splendid career has she appeared to such marked advantage as upon this occasion. The large and brilliant audience was in accord with her from the opening selection, and that she thoroughly felt the inspiration of their magnetic approval was indicated by the intensely dramatic fire which she put into her music and the ease with which she entered into the spirit of the classic composers, whose masterpieces she so capably presented.
+Washington, D. C., June 6—At a song recital last Tuesday evening at the Berean Baptist church, Miss Marie C. James, a favorite prima donna of this city, proved herself to be an artist of the highest quality and added new laurels to her already richly laden brow. Miss James has been heard often in star concerts, but at no time in her splendid career has she appeared to such marked advantage as upon this occasion. The large and brilliant audience was in accord with her from the opening selection, and that she thoroughly felt the inspiration of their magnetic approval was indicated by the intensely dramatic fire which she put into her music and the ease with which she entered into the spirit of the classic composers, whose masterpieces she so capably presented.
 
-Carlisle, Pa., June 6.—At the recent session of the Baltimore and Philadelphia conference of the A. M. E Zion church the following appointments of local pastors were made: M. L. Blalock, presiding elder; Galbraith, T. J. Moppins; succeeding L. Corrothers, unassigned; Metropolitan Wesley, George L. White; John Wesley, W. C. Brown; Union Wesley, G. M. Oliver; Trinity, J. Sulla Cooper; Burrville, D. C., Logan Johnson; Arlington, Va., R. Nelson; Brentwood, Md., George W. Rice, and Rockville, Md., J. R. Dangerfield, succeeding W. T. Beck, who goes to the New England conference.
+Carlisle, Pa., June 6. -At the recent session of the Baltimore and Philadelphia conference of the A. M. E. Zion church the following appointments of local pastors were made: M. L. Blalock, presiding elder; Gulbrath, T. J. Moppins; succeeding L. Corrothers, unassigned; Metropolitan Wesley, George L. White; John Wesley, W. C. Brown; Union Wesley, G. M. Olmer; Trinity, J. Sulla Cooper; Burrville, D. C. Logan Johnson; Arlington, Va., R. Nelson; Brentwood, Md. George W. Rice, and Rockville, Md., J. R. Dangerfield, succeeding W. T. Beck, who goes to the New England conference.
 
 Miss Sarah J. Janifer is president of the District W. H. and F. M. Society; Mrs. Florence B. Wye, district superintendent Varick Christian Endeavor Society; W. H. Ricks, superintendent of Sunday schools, and James W. Poe and Mrs. Jeannette J. Johns, conference missionaries. Bishop Alexander Walters presides over this district of the Zion church.
 
-A. H. Underdown, who served as chairman of the sub-committee in charge of the comfort of colored visitors to the Wilson inaugural, has been elected president of the District of Columbia branch of the National Negro Democratic League. He succeeds Bishop Alexander Walters, who assumed the presidency of the local branch simply for the inaugural period, and now retires to give his full attention to Episcopal duties. Bishop Walters retains the presidency of the National Negro Democratic League and will continue to direct its destinies. Other officers elected by the local league for the ensuing year are: Vice president, C. J. Cole; secretary, W. L. Offord; assistant secretary, George Burdett; treasurer, Fountain Peyton; chaplain, Dorsay Conrad, and sergeant-at-arms, Silas Roulch.
+A. H. Underdown, who served as chairman of the sub-committee in charge of the comfort of colored visitors to the Wilson inaugural, has been elected president of the District of Columbia branch of the National Negro Democratic League. He succeeds Bishop Alexander Walters, who assumed the presidency of the local branch simply for the inaugural period, and now retires to give his full attention to Episcopal duties. Bishop Walters retains the presidency of the National Negro Democratic League and will continue to direct its destinies. Other officers elected by the local league for the ensuing year are: Vice president, C. J. Cole; secretary, W. L. Offord; assistant secretary, George Burdett; treasurer, Fountain Peyton; chaplain, Dorsey Conrad, and sergeant-at-arms, Silas Roulach.
 
 Prof. Kelly Miller, dean of the Academy of Arts and Sciences, Howard University, is to speak in Louisville, Ky., on the 15th, in the "open air" series of the Y. M. C. A.
 
-Prof. L. M. Moore, dean of the Teachers' College, Howard University, is the commencement orator at the annual commencement of the A. and M. College, Greensboro, N. C.
+Prof. L. M. Moore, dean of the Teachers' College, Howard University, was the commencement orator at the annual commencement of the A. and M. College, Greensboro, N. C.
 
-We beg to acknowledge the receipt of an invitation to attend the commencement exercises of the Ann Arbor (Mich.) high school, by courtesy of Miss Phyllis Wheatly Waters, daughter of Col. Phil Waters, of Charleston, W. Va., who graduates there with the class of '13. She has won distinguished honors throughout her career at Ann Arbor and is president of the basketball team of the school, the first of her race to be elected to such a post in a white institution.
+We beg to acknowledge the receipt of an invitation to attend the commencement exercises of the Ann Arbor (Mich.) high school, by courtesy of Miss Phyllis W wheaty Waters, daughter of Col. Phil Waters, of Charleston, W. Va., who graduates there with the class of 13. She has won distinguished honors throughout her career at Ann Arbor and is president of the basketball team of the school, the first of her race to be elected to such a post in a white institution.
 
-Prof. J. R. E. Lee, director of the academic department of Tuskegee Institute, passed through the city a few days ago, en route homeward from New York, where he had been attending a meeting of educational experts. He says the outlook is especially fine this year for a big meeting of the National Association of Colored Teachers, an organization in which he takes a deep interest. Prof. Lee has a son here attending Howard University.
+Prof. J. R. E. Lee, director of the academic department of Tuskegee Institute, passed through the city a few days ago, on route homeward from New York, where he had been attending a meeting of educational experts. He says the outlook is especially fine this year for a big meeting of the National Association of Colored Teachers, an organization in which he takes a deep interest. Prof. Lee has a son here attending Howard University.
 
-Frank Brown, of Baltimore, has been placed in active charge of the Washington Office of the Atlantic Perfected Motor Company. Mr. Brown is an inventor and engineer of note.
+Frank Brown, of Baltimore, has been placed in active charge of the Washington office of the Atlantic Perfected Motor Company. Mr. Brown is an inventor and engineer of note. HD TO COME
 
-HD TO COME
+Mr. Charles E. Cheatham, a young man of great promise, who rose from the ranks in the government service to the post of stenographer in the office of the secretary of the interior, commanding the handsome salary of $1,620 per annum, has resigned to accept a responsible position with the Boston Baking Company, famous as the manufacturer of "Butter Krus." His salary with this firm is to be $160 per month as a "starter," and he is to be advanced as he becomes more familiar with the peculiar demands of the business. Mr. Cheatham is an expert accountant, as well as a lightning stenographer, and is a graduate of one of the leading commercial schools of New York City. He is the eldest son of the Hon. H. P. Cheatham, of North Carolina, formerly a member of Congress and for several years recorder of deeds for the District of Columbia.
 
-Mr. Charles E. Cheatham, a young man of great promise, who rose from the ranks in the government service to the post of stenographer in the office of the secretary of the interior, commanding the handsome salary of $1,620 per annum, has resigned to accept a responsible position with the Boston Baking Company, famous as the manufacturer of "Butter Krust." His salary with this firm is to be $160 per month as a "starter," and he is to be advanced as he becomes more familiar with the peculiar demands of the business. Mr. Cheatham is an expert accountant, as well as a lightning stenographer, and is a graduate of one of the leading commercial schools of New York City. He is the eldest son of the Hon. H. P. Cheatham, of North Carolina, formerly a member of Congress and for several years recorder of deeds for the District of Columbia.
+Mr. W. D. Johnson, of Kentucky, who has been a special agent of the Department of Agriculture under the Naff administration, has tendered his designation, and will probably re-embark in the newspaper business at Louisville or Lexington, Ky., where he once published The Standard.
 
-Mr. W. D. Johnson, of Kentucky, who has been a special agent of the Department of Agriculture under the Fatt administration, has tendered his assignation, and will probably re-emark in the newspaper business at Louisville or Lexington, Ky., where he once published The Standard.
-
-Bishop Alexander Walters, after spending a few hours in the city, left Sunday night for Waterbury, Conn., where he is holding the New England conference of the A. M. E. Zlon church.
+Bishop Alexander Walters, after spending a few hours in the city, left Sunday night for Waterbury, Conn., where he is holding the New England conference of the A. M. E. Zion church.
 
 Ada Overton Walker's "Porto Rican Girls" are the top-liners this week at the Howard theater.
 
@@ -44,39 +42,74 @@ Rev. L. C. Moore, formerly a member of the Legislature and constitutional conven
 
 The appointment of Dr. C. W. Childs as a member of the Board of Education, gives universal satisfaction.
 
-Dr. Francis J./Cardozo, principal of the Wilson school, has been acquired of a serious charge preferred by Estelle Slaughter, a pupil under his charge. Since he has been triumphantly vindicated, after a most searching investigation, it is the general feeling that Dr. Cardozo should be reinstated in his former position and paid all arrearages in salary. His character was vouchered for by a host of the leading citizens of the district.
+Dr. Francis J./Cardozo, principal of the Wilson school, has been acquitted of a serious charge preferred by Estelle Slaughter, a pupil under his charge. Since he has been triumphantly vindicated, after a most searching investigation, it is the general feeling that Dr. Cardozo should be reinstated in his former position and paled all arrearages in salary. His character was vouchered for by a host of the leading citizens of the district.
 
 ## IN CHICAGO AND SUBURBS
 
 Mrs. Robert DeLaney of 3632 Forest avenue has gone to West Baden Springs, Ind., and will stop at the Waddy Hotel. Upon her return she will visit Detroit, Mich., and other places in that section.
 
-All members of H. R. G. A: O. of F. will hold the annual sixth day service at Quinn Chapel Sunday evening, June 8. at $ p. m. Members will please govern themselves accordingly.
+All members of H. R. G. A: O. of F. O. will hold their annual Ruth day service at Quinn Chapel Sunday evening, June 8, at 8 p. m. Members will please govern themselves accordingly.
 
-Mrs. L. Suggs 3748 Wabash avenue, is in Henderson, Ky., this week attending commencement exercises of the Douglas High School, where her niece, Miss Luccile Kennedy, is a graduate.
+Mrs. L. Suggs, 7348 Wabush avenue, is in Henderson, Ky., this week attending commencement exercises of the Douglas High School, where her niece, Miss Lutchelle Kennedy, is a graduate.
 
-Miss Maude Roberts returned to her home 3231 Vernon avenue, May 30, after a very successful school term at Jackson, Tenn. She had a graduating class of seven in the commercial department of the school.
+Miss Maude Roberts returned to her home, 3231 Vernon avenue, May 30, after a very successful school term at Jackson, Tenn. She had a graduating class of seven in the commercial department of the school.
 
-Invitations have been received here for the graduation exercises of the 6th grade of the Swayne school, Montgomery, Ala. Among the graduates was Miss Emina Louise Hall, sister of W. C. Dall of this city.
+Invitations have been received here for the graduation exercises of the 5th grade class of the Swayne School, Montgomery, Ala. Among the graduates was Miss Emma Louise Ball, sister of Mr. W. C. Ball of this city.
 
-Mrs. Harry Craft have changed their address from 6607 Vincennes avenue to 530 E. Bowen Vincennes avenue, with Mr. and Mrs. William Washington.
+Mr. and Mrs. Harry Craft have changed their address from 6607 Vincennes avenue to 530 E. Bowen avenue, with Mr. and Mrs. William Washington.
 
-Miss Garitude Howard of St. Paul, Minn., is in the city for a two week's stay as the guest of Mr. and Mrs. R. L. Taylor, 6510 St. Lawrence avenue. Miss Howard is en route home from Tuskegee, where she taught all winter.
+Miss Gertrude Howard of St. Paul, Minn., is in the city for a two weeks' stay as the guest of Mr. and Mrs. R. L. Taylor, 6510 St. Lawrence avenue. Miss Howard is en route home from Tuskegee, where she taught all winter.
 
-Mr. W. A. Mason and wife and sister, Mrs. Porter, of Pensacola, Fla., who have the guests of Mr. and Mrs. W. B. Lyles, 3653 Prairie avenue, left for their home Friday after a four week's visit in our city. Mr. Mason is a fireman on the L. & N. railroad. Mrs. Mason came here to undergo an operation under Dr. Dan Williams, who removed a fifteen-pound tumor with great success.
+Mr. W. W. A. Mason and wife, sister,
+Mrs. Porter, of Pensacola, Fla., who
+have been the guests of Mr. and Mrs. W.
+B. Lyles, 3035 Prairie avenue, left for
+their home Friday after a four weeks'
+visit in our city. Mr. Mason is a fireman
+on the L. & N. railroad. Mrs. Mason
+came here to undergo an operation under
+Dr. Dan Williams, who removed a fifteen-
+pound tumor with great success.
+Attorney George W. Ellis, who is a
+member of the African Society of London
+and a Fellow of the Royal Geographical
+Society of Great Britain, has been
+invited by the acting president, Prof. Carl
+Kelsey, of the University of Pennsylvania,
+to become a member of the American
+Academy of Political and Social Science.
+This academy is made up of the leading
+experts in the social and political sciences
+in the United States, and their invited
+memberships are chosen from the mem-
+bers of the local national academy of the
+United States. This Invitation to Mr.
+Ellis grows out of his literary work as
+contributing editor to the Journal of Race
+Development at Clark University, and his
+being a member of the American Political
+Science Association, American Sociological
+Society, the American Society of Interna-
+tional Law, and because of the prominent place which his career has given him as "Who's Who in America",
+1913.
 
-Attorney George W. Ellis, who is a member of the African Society of London and a Fellow of the Royal Geographical Society of Great Britain, has been invited by the acting president, Prof. Carl Kelsey, of the University of Pennsylvania, to become a member of the American Academy of Political and Social Science. This academy is made up of the leading experts in the social and political sciences in the United States, and their invited partnerships are chosen from the members of the leading named societies of the United States. This invitation to Mr. Ellis grows out of his literary work as contributing editor to the Journal of Race Development at Clark University, and his being a member of the American Political Science Association, the American Sociological Society, the American Society of International Law, and because of the prominent place which his career has given him as "Who's Who in America," 1913.
+Mr. Mansell Wright of 3221 Wabash
+avenue spent Monday in Highland Park,
+ill, with his sister, Mrs. Pricilla Lygous,
+Mrs. Pricilla Lygous entertained the
+North Shore Woman's Club of Glance,
+ill, at the home of Mrs. Allen on Frid-
+day evening at 6 p. m.
 
-Mr. Mansell Wright of 3221 Wabash avenue spent Monday in Highland Park, Ill., with his sister, Mrs. Priscilla Lygos, Mrs. Priscilla Lygos entered the North Shore Woman's Club of Glencoe, Ill., at the home of Mrs. Allen on Friday evening at 6 p.m.
-
-Mrs. Julius S. Glenn was called home to attend her mother, who is quite ill in Goshen, Va. Before her return she拿到了友人的 Roanoke and her alma mater, Christiansburg Industrial Institute, Va.
+Mrs. Julius S. Glenn was called home to attend her mother, who is quite ill In Goshen, Va. Before her return she expects to visit friends in Roanoke and her alma mater, Christiansburg Industrial Institute, Va.
 
 Mrs. Daniel Hale Williams, wife of Dr. D. H. Williams, has purchased a valuable piece of property on the South Side. This was observed in the real estate transfers last week.
 
-Mr. Richard Harrison, the celebrated locator, will be in the city next week and will be at the Grand Theater the first half of the week.
+Mr. Richard Harrison, the celebrated electorationist, will be in the city next week and will be at the Grand Theater the first half of the week.
 
 Mrs. Lizzie Scotte of Topeka, Kan., will be in the city next week and will be the guest of her daughter, Mrs. Leona Scotte Williams, 4042 Indiana avenue. Mrs. Scott is the sister to Mrs. America Cooper, Mrs. Martha Maxwell and Mr. Buchanan Lewis of this city.
 
-Mr. John Mumphrie of 3516 Wabash avenue left the city Thursday for a visit
+Mr. John Mumphrie of 3316 Wabash avenue left the city Thursday for a visit
 
 to Niagara Falls, New York, and at Atlantic City. He will be gone several weeks. Mr. Mumphrie will meet his mother there, who is a resident of Louisville, Ky.
 
@@ -106,9 +139,7 @@ Mrs. Vena, 137 N. Human avenue, has been ill since last Friday night and is conf
 
 St. Mark's M. E. Church reports the following sick: Mrs. Annie Floyd, Mrs. Elizabeth Ash, Mrs. Mary Brown, Hazel Wilburn, Mr. Gaines and Mrs. Laura Wilson.
 
-Greatest of All Athletic Trainers Passes Away After Long Illness—Friend of the Race—Knew No Color Nor Creed.
-
-WORLD MOURNS HIS LOSS
+Greatest of All Athletic Trainers Passes Away After Long Illness—Friend of the Race—Knew No Color No Creed.
 
 ## WORLD MOURNS HIS LOSS
 
@@ -144,23 +175,27 @@ The limited also stopped at Station "L," and delivered a bouncing baby girl to D
 
 Nickler—A fashion note says that skirts are to be six inches narrower at the ankle. Bocker—Will the girls stand on one leg?
 
+THE CHICAGO DEFENDER.
+
 ## ENDING G OF SEA FEUD
 
-"Let him go. To hades with his bloomin' lilie. Let the dago loose," and Tom Bradd struggled to free himself from the grasp of two brawny sailors who held him. Mr. Buck, the lean, sleavey mate, had his arms interlaced with Nicola's waist, utterly unmindful of the cruel looking stilttoe shaking in the powerful Italian's hand. Captain Newton advanced to the main hatch, his long, patriarchal beard failing to his waistband.
+B. Y. J. C. PLUMMER.
 
-"Stop it, gall darn ye, stop it," he thundered. "I'm short handed now, and I won't have any man killing on his hooker. Batten down your tellin', you two fellers, till you get to Rio Grande, and then you can chop each other into bits and devil take what's left, but there's no chopin' on the Apollo."
+"Let him go. To hades with his bloomin' lilie. Let the dago loose," and Tom Bradd struggled to free himself from the grasp of two brawny sailors who held him. Mr. Buck, the lean, silvery mate, had his arms interlaced about Nicola's waist, utterly unmindful of the cruel looking stiltetto shaking in the powerful Italian hand. Captain Newton advanced to the main hatch, his long, patrician beard falling to his waistband.
 
-The two sailors released Bradd, who recommenced the work he had stopped to fight Nicola, and the Italian, finding himself free from the mate's hold, walked dignified forward and went below. The crisis had been passed, temporarily at least.
+"Stop it, gall darn ye, stop it," he thundered. "I'm short handed now, and I won't have any man killing on this here hooker. Batten down your feelings, you two fellers, till you get to Rio Grande, and then you can chop each other into bits and devil take what's left, but there to be no chopin' on the Apollo."
+
+The two sailors released Bradd, who recommenced the work he had stopped to fight Nicola, and the Italian, finding himself free from the mate's hold, walked dignifiedly forward and went below. The crisis had been passed, temporarily at least.
 
 What began the feud between the men no one knew. It existed when they shipped in New York and they had spat hate at each other during the voyage, but this was the first time an actual collision had been threatened.
 
-"It's only but off," remarked old Need, oracular; "blood'll fly yet."
+"It's only but off," remarked old Nead. oracularly: "blood'fly vet."
 
-There were several days of bright sunshine, calm sea and cloudless sky, and on one of these mornings the mate ordered Nicola to some duty on the fore-topslant yard. The Italian looked a line about his neck and gripping a marine spike in his teeth clibbed the weather rigging. Just as he swung himself over the top he lost his hold and fell like a plummet into the sea.
+There were several days of bright sunshine, calm sea and cloudless sky, and on one of these mornings the mate ordered Nicola to some duty on the fore-topslant yard. The Italian looked a line about his neck and gripping a marine spike in his teeth climbed the weather rigging. Just as he swing himself over the top he lost his hold and fell like a plummet into the sea.
 
-"Man overboard," yelled O'Neill, who was at the wheel, and he flung a life buoy over the rail.
+"Man overboard," yelled O'Neill, who was at the tire, and he flung a life buoy over the rail.
 
-The skippers was on deck in one jump.
+The skipped was on deck in one jump.
 
 "Heave her to," he shouted.
 "Braces," cane sharp and curt from the mate, and the men hurried to obey, casting glances aft.
@@ -177,23 +212,23 @@ There was a splash, and to our astonishment Bradd had leaped overboard and was s
 
 Having laid a right, angled course Bradd gained on the shark, which was swimming in a straight line for the Italian and was a 'cable's length ahead of the fish when he reached a line with the slowly swimming Nicola, and then he seemed seized with convulsions. He splashed the water with his hands and legs, reminding one of the actions of a duck which has reached a pond after a long, dry land journey. His motions were so violent that the sea frotted about him, and the shark was evidently as surprised at these evolutions as was the crew of the Apollo. Obviously they were not to his taste, for he darted off in an opposite direction. By this time the boat had been lowered and in a half hour both men were aboard the brig.
 
-"I didn't think you were that big a fool to risk your life for a dago you hungry to put a knife in you," remarked Ned, reproachfully.
+"I didn't think you were that big a fool to risk your life for a dago who's hungry to put a knife in you," remarked Ned, reproachfully.
 
-"Risk!" exclaimed Bradd; "there wasn't any. If you'd been in the Indian ocean you'd know the shark is the biggest coward that swims and any man can scare 'em off who makes a big splutter in the water, and then I hate the bloody things and I'll balk 'em of a meal any day."
+"Risk!" exclaimed Bradd; "there wasn't any. If you'd been in the Indian ocean you'd know the shark is the biggest coward that twirms and any man can scare 'em off who makes a big splutter in the water, and then I hate the bloody things and I'll balk 'em of a meal any day."
 
-Not a word had Nicola spoken to anyone since he had been brought on board, but now he came out of the forecastle and approached Bradd. He held out to him the stillette with the hilt toward his enemy.
+Not a word had Nicola spoken to anyone since he had been brought on board, but now he came out of the forecastle and approached Bradd. He held out to him the stiletto with the hilt toward his enemy.
 
-"Keep your bloomin' krife," said Bradd, and the broad, freekled face broke into a smile.
+"Keep your bloomin' ktife," said Bradd, and the broad, freekled face broke into a smile.
 
-In that most monotonous and very dirty Brazilian town, Rio Grande, do Sul, two very drunken men walked arm and arm down towards the quay. One sang a coster song in a jeep bass and the other in a screechy tenor a barcarole. They were Bradd and Nicola, and the sea feud was at an end.
+In that most monotonous and very dirty Brazilian town, Rio Grande, do Sul, two very drunken men walked arm and arm down towards the quay. One sang a coster song in a leap bass and the other in a screechy tenor a barcarole. They were Bradd and Nicola, and the sea feud was at an end.
 
-(Copyright by Dally Story Pub. Co.)
+(Copyright by Dally Story Pib. Co.)
 
 X-Ray Helps the Smoker.
 
-A new use has been found for the X-ray. Every smoker has it times been disguised to find that in invisible parasite has eaten hole in his finest cigars. The tobacco worm is all too common a nuisance.
+A new use has been found for the X-ray. Every smoker has it times been disguised to find that an invisible parasite has eaten holes in his finest cigars. The tobacco worm is all too common a nuisance.
 
-But science has got the letter of this little pest. An X-ray it turned upon a large box of tobacco before it is made into cigars, with the result that the parasite is destroyer most effectually. I was talking yesterday with the head of a company in this city that has turned out a number of X-ray machines for tobacco dealers. He is my authority for the assertion that this wonderful light will penetrate tobacco when packed a couple of feet thick in a box and kill in its inception the obnoxious worm—Philadelphia. Public Ledger.
+But science has got the letter of this little pest. An X-ray it turned upon a large box of tobacco before it is made into cigars, with the result that the parasite is destroyer most effectually. I was talking yesterday with the head of a company in this city that has turned out a number of X-ray machines for tobacco dealers. He is my authority for the assertion that this wonderful light will penetrate tobacco when packed a couple of feet thick in a box and kill in its inception the obnoxious worm~Philadelphia. Public Ladder.
 
 ## Dobbit Wheeze Bait Mind
 
@@ -215,15 +250,17 @@ The district superintendent will be with us on the 17th and 18th of this month. 
 
 ## ST. MARK'S M. E. CHURCH.
 
-The pastor preached from the text St. Luke 22:69: "Hereafter shall the Son of Man sit on the right hand of the power of God." Subject, "Hereafter." He preached in the evening from Proverbs 1:7: "The fear of the Lord is the beginning of knowledge; butools despise wisdom and instruction." Subject: "Christian Life." Both sermons were earnest and forceful. Four joined the church. Mr. J. A. Washington sang a solo in the morning. Mr. Frank Hill sang in the evening. Both solos were beautifully rendered.
+The pastor preached from the text St. Luke 22:68: "Hereafter shall the Son of Man sit on the right hand of the power of God." Subject, "Hereafter." He preached in the evening from Proverbs 1:7: "The fear of the Lord is the beginning of knowledge; butools despise wisdom and instruction." Subject: "Christian Life." Both sermons were earnest and forceful. Four joined the church. Mr. J. A. Washington sang a solo in the morning. Mr. Frank Hill sang in the evening. Both solos were beautifully rendered.
 
-The bazaar last week was fairly successful, Friday evening being the banner evening, as the mortgage was burned that evening, and once more we are worshiping under our own vine and fig tree. We celebrated our eighteenth anniversary by having a sermon preached at 3 p. m. by Rev. Lewis, pastor of St. Luke's Mission. The sermon was very touching and helpful. The Sunday school is progressing nicely; the teachers and scholars are greatly interested in the lessons. The Lyceum had an excellent program.
+The bazaar last week was fairly successful, Friday evening being the banner evening, as the mortgage was burned that evening, and once more we are worshiping under our own vine and fig tree. We celebrated our eighteenth anniversary by having a sermon preached at 3 p.m. by Rev. Lewis, pastor of St. Luke's Mission.
+
+The sermon was very touching and helpful. The Sunday school is progressing nicely; the teachers and scholars are greatly interested in the lessons. The Lyceum had an excellent program.
 
 The public is extended an invitation to worship with us at all of our services. Preaching at 10:45 and 7:45. Sunday school, 1:45. Lyceum, 4. Epworth League, 6:45.
 
 The states are all organized and working with a will to raise $2,000 for the rally July 27. Join in with your state and help make the rally a success.
 
-The Woman's Home Missionary Society convention will meet with us June 25, 26, 27, 28 and 29.
+The Woman's Home Missionary Society convention will meet with us June 25. 26. 27. 28 and 29.
 
 ## ST. MARY'S A. M. E. CHURCH.
 
@@ -245,40 +282,48 @@ There are no questions as to the accomplishments along all lines by the members 
 
 ## JUNE TIME.
 
-Sometinh' in my throat gets thick
+Sometin' in my throat gets thick
 When I think of bubbly creek
-Alyin' there so calm and cool,
+Aly'in' there so calm and cool,
 A temptin' fellows way from school.
 Think sometimes I'll run away
-An' go a swimmin' every day.
+An' go a swimlin' every day.
 Would, but gee! the month is June,
-An' school will be out mighty soon.
+An' school will be in mighty soon.
 
 Miss Gertrude Howard, teacher of domestic science at Tuskegee Institute, is
+honored by Mary E. Taylor, 8510 SL
+Lawrence avenue. She is an route to
+home in St. Paul, but will spend some
+weeks in this city.
+
+Mme. Minnie Adams, for many years
 dramatic critic of the Chicago Defender,
 received word this week of the death of
-mother. The Defender extends sympathy.
+her mother. The Defender extends sym-
+pathy.
+
+Insurance Renting
+Collections Investment
 
 419 N. Spaulding Ave.
 Telephone Garfield 6849
 
 # City of Evanston
 
-The meeting the past Sunday was well attended. The Rev. A. N. Webb, pastor of the A. M. E. Church, made a good talk.
+The meeting the past Sunday was well attended. The Rev. A. M. E. Church, made a good talk.
 
-Sunday, June 8, at 4 o'clock, Rev. E. H. Fletcher is the speaker.
+Sunday, June 8, at 4 o'clock. Rev. E. H. Fletcher is the speaker.
 
-The meeting will be held at the Second Baptist Church, Davis street.
-
-We only need $1,000 more before we start the building. There are eight men out working hard to get this sum: Dr. W. F. Garnett, W. H. Twiggs, A. P. Perry, W. T. Mason, A. L. Jones, D. W. Richardson, R. Williams and J. R. Lalley. So please pay your subscription at once.
+The meeting will be held at the Second Baptist Church, Davis street. We only need $1,000 more before we start the building. There are eight men out working hard to get this sum: Dr. W. F. Garnett, W. H. Twigg, A. P. Perry, W. T. Mason, A. L. Jones, D. W. Richardson, R. Williams and J. R. Lalley. So please pay your subscription at once.
 
 The Boy Scouts of Evanston Troop No. 7, in command of A. H. Edmonds, Scoutmaster, made a fine showing in the Decoration Day parade and are to be congratulated on their neat and tidy appearance and soldierly bearing.
 
-The Second Baptist Church concert at the Woodmen's Hall last Thursday night was a grand success, the hall being crowded to the doors. The pastor, Rev. I. A. Thomas, is making strenuous efforts to get ready for resumption of work on the church and is being ably assisted by his members as well as friends.
+The Second Baptist Church, concert at the Woodmen's Hall last Thursday night was a grand success, the hall being crowded to the doors. The pastor, Rev. I. A. Thomas, is making strenuous efforts to get ready for resumption of work on the church and is being ably assisted by his members as well as friends.
 
-Mr. and Mrs. Charles Keith of Augusta, Ga., and Fall River, Mass., are visiting in Evanston and stopping at Mr. and Mrs. E. Priestly's for the present. Mr. Keith is much pleased with the city. Mr. is may make their permanent home here.
+Mr. and Mrs. Charles Keith of Augusta, Ga., and Fall River, Mass., are visiting in Evanston and stopping at Mr. and Mrs. J. E. Priestly's for the present. Mr. Keith is much pleased with the city and may make their permanent home here.
 
-Illott Green, a student at Tuskegee Institute, arrived home in Evanston last Saturday evening.
+Elliott Green, a student at Tuskegee Institute, arrived home in Evanson last Saturday evening.
 
 The shirtwaist dance last Monday night, June 2, at Simpson Hall was well attended, mostly by friends and admirers from Chicago and north shore towns. They enjoyed themselves until a late hour and everybody went away happy.
 
@@ -290,45 +335,30 @@ The members and friends of Ebenezer Church are pleased to hear that their pastor
 
 The mock conference netted the church $148. Presiding Bishop Spencer and the Presiding Elders, Daniels, Graves, Benton, Harris, Hadley, were all that speaks for the presiding elders.
 
-The reception held at the home of Mr. and Mrs. W. H. Johnson on Prairie avenue was a most beautiful affair. The ladies were handsomely gowned, the gents in their "Prince Alberts," Mr. and Mrs. Carey of Emerson street were host and hostess to the Church Aid last Tuesday evening. So large was the camp stools at home will hereafter bring them to the meeting.
-
-Next week with Mrs. Combash, 1914 Ashbury avenue, first flat.
-
+The reception held at the home of Mr. and Mrs. W. H. Johnson on Prairie avenue was a most beautiful affair. The ladies were handsomely gowned, the gents in their "Prince Alberts"
+Mr. and Mrs. Carey of Emerson street were host and hostess to the Church Aid last Tuesday evening. So large was the crowd that all persons having camp stools at home will hereafter bring them to the meeting. Next week with Mrs. Combash, 1914 Ashbury avenue, first flat.
 Mrs. Charles Scruggs entertained the One More Effort last week. This week Mrs. Horace Franklin has them as her guest.
-
-Mrs. James' Hill will have the Principal Club at her home this week.
-
-The Sewing Circle met at the home of Mrs. Belle Starks last week. This week with Mrs. Geo. Wilson.
-
+Mrs. James Hill will have the Principal Club at her home this week. The Sewing Circle met at the home of Mrs. Belle Starks last week. This week with Mrs. Geo. Wilson.
 The Normal and Bible class is being taught each Wednesday by Prof. Gassette.
-
-The Wednesday night Literary, under the leadership of J. Allen Spencer, is bringing out large crowds. Subject next Wednesday is "Resolved, That country life is more conducive to the young man or woman than city life."
-
-Rev. A. N. Webb, the assistant pastor, prepares a most excellent sermon Sunday morning. Rev. Harry Johnson of Waukegan spoke most feelingly at night.
-
+The Wednesday night Literary, under the leadership of J. Allen Spenser, is bringing out large crowds. Subject next Wednesday is "Resolved, That country life is more conducive to the young man or woman than city life."
+Rev. A. N. Webb, the assistant pastor, preached a most excellent sermon Sunday morning. Rev. Harry Johnson of Waukegan spoke most feelingly at night.
 Mr. N. E. Gossette will appear in recital at Cincinnati next week at Park street church.
 
-Quarterly meeting June 8. Mrs. Amelia Woodson has returned from St. Paul, where she went to bury her sister.
-
+Quarterly meeting June 8.
+Mrs. Amelia Woodson has returned from St. Paul, where she went to bury her sister.
 Mrs. Dora Hadley has been to Memphis, Tenn., to bury her father.
-
 Mr. W. H. Jones and Mrs. Margaret Johnson are at the City Hospital.
-
 At the service on Sunday morning Mr. Spencer will sing "Vision of Peace." At the evening service Mrs. Mamie Pressley Wilson will render a solo.
-
 New Hope C. M. E. Church.
-
-Owing to the failing health of Rev. John G. Williams, our earnest working pastor, he was compelled to give up the work. Rev. Williams came to us less than a year ago through the appointment of Rev. W. A. Jackson, the ex-P. E. of the St. Louis district. More than once during this short period his health has proved a handicap to him, within the last few months the crisis came.
-
+Owing to the failing health of Rev. John G. Williams, our earnest working pastor, he was compelled to give up the work. Rev. Williams came to us less than a year ago through the appointment of Rev. W. A. Jackson, the ex-P. E. of the St. Louis district.
+More than once during this short period his health has proved a handicap to him, within the last few months the crisis came.
 It is not with much joy that the members sanction the departure of Rev. Williams, but with earnestness we look forward to the regaining of his health.
-
 The pulpit was filled Sunday by Rev. W. H. Parker, the ex-pastor of Mt. Carmel C. M. E. Church, Englewood.
-
 It is hoped that the unexpired term may be filled by Rev. W. Y. Bell of Garrett Biblical Institute, the coming young minister of the S. E. Missouri and Illinois Conference.
 
-Mr. and Mrs. Joel Graves have moved to Hinsdale, Ill., for the summer. Mrs. Ellen Cobb was called to Metropolis, Ill., last week by the death of her brother, Rev F. Robinson, one of the pioneer Baptist ministers of Illinois.
+Mr. and Mrs. Joel Graves have moved to Hinsdale, Ill., for the summer. Mrs. Ellen Cobb was called to Metropolis, Ill., last week by the death of her brother, Rev. F. Robinson, one of the pioneer Baptist ministers of Illinois.
 
-The church shares with this family their deepest sympathy in their beaement, conscious as we may be that He who has numbered the strands of hair on every "human head" and watches the fall of every "sparrow," knoweth His "sheep," and calls them by their name. So in the main, "we believe their loss to be heaven's gain."
+The church shares with this family their deepest sympathy in their bereavement, conscious as we may be that He who has numbered the strands of hair on every "human head" and watches the fall of every "sparrow," knoweth His "sheep," and calls them by their name. So in the main, "we believe their loss to be heaven's gain."
 
 ## GLENCOE.
 

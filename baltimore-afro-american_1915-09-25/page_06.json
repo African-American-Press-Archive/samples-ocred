@@ -3,6 +3,17 @@
   "image": "images/page_06.jpg",
   "width": 1836,
   "height": 2798,
+  "processed_at": "2026-03-06T18:01:50.376575+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 89,
+    "after_merge": 49
+  },
   "regions": [
     {
       "bbox": [
@@ -12,37 +23,85 @@
         255
       ],
       "label": "doc_title",
-      "text": "THE COLONEL FLAYS E.P. JONES"
+      "text": "THE COLONEL FLAYS E.P. JONES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        68,
+        428,
+        341,
+        1033
+      ],
+      "label": "text",
+      "text": "St. Louis, Mo.\u2014I am sure you will forgive me for not writing last week, because I am a Baptist and I was in that big mix-up in Chicago, and I thank God that I got out alive, and I am now ready to do some more writing. I have so many things to say to you that it will take me a long time to say them and it will take you a long time to read them, so let us not try to tell it all at once but take time and let you have it little by little. I want to first say that I went to that exposition held there in Chicago known as the Lincoln Celebration. It showed the progress made by us in fifty years, and it would remind one that the progress covered several centuries. I am proud indeed that I am connected with this great big race, and would not get out of it for the world. I find that it is the lot of many of my friends to pass, but I am not going to pass nor even try. It was a real exposition, and a crowning success. Over a hundred thousand people passed through the gates and this was something worth while. You could look and look, and then there were things to amuse and entertain you, and I got all of this.",
+      "status": "ok"
     },
     {
       "bbox": [
         66,
-        428,
+        1033,
+        342,
+        1270
+      ],
+      "label": "text",
+      "text": "Col. James Hale Porter, was in his glory, because the exposition was a success. This has been his ambition for years. I recall when he tried to have one of his own accord, and made a failure, but this time he came back right with the state behind it. Major R.R. Jackson, was on hand, and so was Rev A. J. Carey. The people of Chicago just made it go. There were many people from both races there all the time.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        67,
+        1271,
+        340,
+        1690
+      ],
+      "label": "text",
+      "text": "Perhaps no one in the whole exposition attracted more attention than did Mrs. Annie Fisher, from Columbis, Mo., a woman who has accumulated a small fortune on making biscuits. She had the business right there, and made the biscuits and served them hot. I believe you call them \"beaten biscuits,\" or something like that. They certainly did go well. Mrs. Fisher had the picture of her beautiful mansion. In the work she was assisted by her daughter, her son-in-law and her friend, Mrs. Turner. She was invited to remain over in the city of Chicago for another month. There was a big time in the exposition for all those who attended it, and the people are proud of the success. There was a fine display from all parts of the world.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        67,
+        1691,
+        345,
+        2220
+      ],
+      "label": "text",
+      "text": "Our people have been inventing things for many years, and they are on record in the patent office in Washington. I had, the pleasure of meeting Henry E. Baer, who has been in that office for a number of years. He is called the assistant examiner in the United States Patent Office. He has gotten out a book that is worth having, and if you failed to get it then you have missed something. It is the record of the patents for our people for fifty years. You will know something of the inventions of our race and what they are. I was glad to see him, because he is a refined cultured gentleman.\n\nBut I must not take up the time to talk about the exposition alone, for I am sure you want to know something about the convention. But you have had a real good story about it in the papers, and there is but little I can say about it just now. I am compiling some facts and will let you have them in due time. I am watching for developments.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        72,
+        2223,
         350,
         2722
       ],
       "label": "text",
-      "text": "St. Louis, Mo.\u2014I am sure you will forgive me for not writing last week, because I am a Baptist and I was in that big mix-up in Chicago, and I thank God that I got out alive, and I am now ready to do some more writing. I have so many things to say to you that it will take me a long time to say them and it will take you a long time to read them, so let us not try to tell it all at once but take time and let you have it little by little. I want to first say that I went to that exposition held there in Chicago known as the Lincoln Celebration. It showed the progress made by us in fifty years, and it would remind one that the progress covered several centuries. I am proud indeed that I am connected with this great big race, and would not get out of it for the world. I find that it is the lot of many of my friends to pass, but I am not going to pass nor even try. It was a real exposition, and a crowning success. Over a hundred thousand people passed through the gates and this was something worth while. You could look and look, and then there were things to amuse and entertain you, and I got all of this.\n\nCol. James Hale Porter, was in his glory, because the exposition was a success. This has been his ambition for years. I recall when he tried to have one of his own accord, and made a failure, but this time he came back right with the state behind it. Major R.R. Jackson, was on hand, and so was Rev. A. J. Carey. The people of Chicago just made it go. There were many people from both races there all the time.\n\nPerhaps no one in the whole exposition attracted more attention than did Mrs. Annie Fisher, from Columbis, Mo., a woman who has accumulated a small fortune on making biscuits. She had the business right there, and made the biscuits and served them hot. I believe you call them \"beaten biscuits,\" or something like that. They certainly did go well. Mrs. Fisher had the picture of her beautiful mansion. In the work she was assisted by her daughter, her son-in-law and her friend, Mrs. Turner. She was invited to remain over in the city of Chicago for another month. There was a big time in the exposition for all those who attended it, and the people are proud of the success. There was a fine display from all parts of the world.\n\nOur people have been inventing things for many years, and they are on record in the patent office in Washington. I had, the pleasure of meeting Henry E. Baer, who has been in that office for a number of years. He is called the assistant examiner in the United States Patent Office. He has gotten out a book that is worth having, and if you failed to get it then you have missed something. It is the record of the patents for our people for fifty years. You will know something of the inventions of our race and what they are. I was glad to see him, because he is a refined cultured gentleman.\n\nBut I must not take up the time to talk about the exposition alone, for I am sure you want to know something about the convention. But you have had a real good story about it in the papers, and there is but little I can say about it just now. I am compiling some facts and will let you have them in due time. I am watching for developments.\n\nI am sure you will be surprised to note the cheek of Rev. E. P. Jones, D. D., of Odd Fellow fame, who is known among the Odd Fellows as \"Mississippi\" Jones. Nobody has ever accused him of being over burdened with religion, and never will unless there is a mighty change. But he tried to capture the convention. He has tried and tried to be Grand Master of Odd Fellows for America, but has failed utterly, hence he thought that he saw a chance to be a National President, and attempted to wrestle from the hands of the convention, the presidency of the National Baptist Convention. He believes he is right there, but the Baptists of American are not going to follow Rev. Dr. Edward Peter Jones, of Vicksburg, Miss.\n\nDr. Booker T. Washington was right there with the goods, and he delivered a fine address. He was greeted by a large crowd. I remained right there until the con-"
-    },
-    {
-      "bbox": [
-        76,
-        2624,
-        353,
-        2722
-      ],
-      "label": "text",
-      "text": "Dr. Booker T. Washington was right there with the goods, and he delivered a fine address. He was greeted by a large crowd. I remained right there until the con-"
+      "text": "I am sure you will be surprised to note the cheek of Rev. E. P. Jones, D. D., of Odd Fellow fame, who is known among the Odd Fellows as \"Mississippi\" Jones. Nobody has ever accused him of being over burdened with religion, and never will unless there is a mighty change. But he tried to capture the convention. He has tried and tried to be Grand Master of Odd Fellows for America, but has failed utterly, hence he thought that he saw a chance to be a National President, and attempted to wrestle from the hands of the convention, the presidency of the National Baptist Convention. He believes he is right there, but the Baptists of American are not going to follow Rev. Dr. Edward Peter Jones, of Vicksburg, Miss. Dr. Booker T. Washington was right there with the goods, and he delivered a fine address. He was greeted by a large crowd. I remained right there until the con-",
+      "status": "ok"
     },
     {
       "bbox": [
         345,
         141,
         622,
+        730
+      ],
+      "label": "text",
+      "text": "vention closed, and then the city of Savannah, Ga., was selected for the next meeting. The rub was between Savannah and Muskogee, and the latter will have to wait another time.\n\nIt was a pleasure to me to get in the hands of my friends, and to see just what they were doing. God bless them all. Perhaps I am going to lose some friends in this matter.\n\nI remained until the convention closed and then I turned my attention to another part of the world. I met many friends. I was glad to have met them. I had a talk about the North Carolina Provident and Mutual Company, which is one of the largest insurance companies in the world operated by our people. It is strictly a business office, and is doing business in a business manner. C. C. Spalding, of Durham, is the secretary and manager, and he is strictly a business man. He has been able to bring this company before the public. I had the pleasure of shaking hands with him during the National Negro Business League in Boston, Mass., and I heard him make some address.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        346,
+        730,
+        621,
         1209
       ],
       "label": "text",
-      "text": "vention closed, and then the city of Savannah, Ga., was selected for the next meeting. The rub was between Savannah and Muskogee, and the latter will have to wait another time.\n\nIt was a pleasure to me to get in the hands of my friends, and to see just what they were doing. God bless them all. Perhaps I am going to lose some friends in this matter.\n\nI remained until the convention closed and then I turned my attention to another part of the world. I met many friends. I was glad to have met them. I had a talk about the North Carolina Provident and Mutual Company, which is one of the largest insurance companies in the world operated by our people. It is strictly a business office, and is doing business in a business manner. C. C. Spalding, of Durham, is the secretary and manager, and he is strictly a business man. He has been able to bring this company before the public. I had the pleasure of shaking hands with him during the National Negro Business League in Boston, Mass., and I heard him make some address.\n\nI have just a few things to say to you. I left Chicago and went to Quincy, Ill., and from there to Hannibal, and now I am in St. Louis. In St. Louis, Dr. W. T. Vernon has been delivering some speeches, and you will believe me that man can make a speech. I am spending just a few hours with Rev. W. Sampson Brooks, D. D., pastor of the church here. Dr. Brooks is in line for elevation in the the episcopacy, and he will make a good bishop. If you want to send me a letter send it to 311 Antoine street, St. Joseph, Mo., as I will be there in conference next week.\n\nWhen I sat down I had many things to say, but they have gone from me now. Wait until my next letter.\n\nGive my love to all the people in Baltimore and the office. Tell them I shall keep them posted on the doings of the Baptists."
+      "text": "I have just a few things to say to you. I left Chicago and went to Quincy, Ill., and from there to Hannibal, and now I am in St. Louis. In St. Louis, Dr. W. T. Vernon has been delivering some speeches, and you will believe me that man can make a speech. I am spending just a few hours with Rev. W. Sampson Brooks, D. D., pastor of the church here. Dr. Brooks is in line for elevation in the the episcopacy, and he will make a good bishop. If you want to send me a letter send it to 311 Antoine street, St. Joseph, Mo., as I will be there in conference next week. When I sat down I had many things to say, but they have gone from me now. Wait until my next letter. Give my love to all the people in Baltimore and the office. Tell them I shall keep them posted on the doings of the Baptists.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,17 +111,30 @@
         1249
       ],
       "label": "paragraph_title",
-      "text": "NEWS FROM WINCHESTER"
+      "text": "NEWS FROM WINCHESTER",
+      "status": "ok"
     },
     {
       "bbox": [
         344,
         1269,
+        621,
+        1819
+      ],
+      "label": "text",
+      "text": "Winchester, Va., Sept. 23.\u2014Revs. John R. Augustus, H. C. P. Baker and Meredith Amrstead have returned from the District Preachers' Meeting, Staunton, Va. Rev. Armstead preached at Greenville, Sunday night. The Woman's Day at St. Paul's A. M. E. Church, under the presidency of Miss Lucy Emma Parker, was the finest ever attempted in Winchester. Mrs. Imogen Cross, of New York, who has been visiting her sister, Mrs. James W. Stephenson, has returned. Mrs. Nancy E. Marker has returned home after a visit to friends in Philadelphia, New York and Asbury Park. Miss Hattie Beamer has returned from a visit to friends in Harrisburg. Mother Anna Tokes conducted the spiritual meetings at St. Paul's Church Sunday. $30. was raised. Miss Eliza Boyd gave a social in honor of Miss Alberta Robins who has returned to her home in Baltimore.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        348,
+        1820,
         624,
         2150
       ],
       "label": "text",
-      "text": "Winchester, Va., Sept. 23.\u2014Revs. John R. Augustus, H. C. P. Baker and Meredith Amstrid have returned from the District Preachers' Meeting, Staunton, Va. Rev. Armstead preached at Greenville, Sunday night.\n\nThe Woman's Day at St. Paul's A. M. E. Church, under the presidency of Miss Lucy Emma Parker, was the finest ever attempted in Winchester.\n\nMrs. Imogen Cross, of New York, who has been visiting her sister, Mrs. James W. Stephenson, has returned.\n\nMrs. Nancy E. Marker has returned home after a visit to friends in Philadelphia, New York and Asbury Park.\n\nMiss Hattie Beamer has returned from a visit to friends in Harrisburg.\n\nMother Anna Tokes conducted the spiritual meetings at St. Paul's Church Sunday. $30. was raised.\n\nMiss Eliza Boyd gave a social in honor of Miss Alberta Robins who has returned to her home in Baltimore.\n\nMrs. John H. Quiett and daughter, Miss Frances Quiett, have gone to Jamaica, Long Island and New York to spend the month with relatives.\n\nThe Preachers' Alliance met at St. Paul's Church, Tuesday.\n\nThe Alliance will hold evangelistic services at the several churches from October 24th to November 14th inclusive.\n\nRevs. W. P. Fisher, John H. Quiett, Mr. Wm. L. Good, delegate, the senior choir and numerous friends of Mt. Carmel Free Baptist Church attended the yearly meeting at Martinsburg, W. Va., Sunday."
+      "text": "Mrs. John H. Quiett and daughter, Miss Frances Quiett, have gone to Jamaica, Long Island and New York to spend the month with relatives.\n\nThe Preachers' Alliance met at St. Paul's Church, Tuesday.\n\nThe Alliance will hold evangelistic services at the several churches from October 24th to November 14th inclusive.\n\nRevs. W. P. Fisher, John H. Quiett, Mr. Wm. L. Good, delegate, the senior choir and numerous friends of Mt. Carmel Free Baptist Church attended the yearly meeting at Martinsburg, W. Va., Sunday.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,37 +144,30 @@
         2190
       ],
       "label": "paragraph_title",
-      "text": "CECILTON NOTES"
+      "text": "CECILTON NOTES",
+      "status": "ok"
     },
     {
       "bbox": [
         352,
         2201,
-        631,
-        2651
-      ],
-      "label": "text",
-      "text": "Cecilton, Md., Sept. 23.\u2014The Labor Day Celebration held by Happy Home Lodge of Odd Fellows and Lilly of the Valley Household of Ruth was a success. Addresses were delivered by Rev. J. Young of Chestertown, Md., and Rev. L. E. Tolson, of Galena.\n\nMrs. Mollie Alex. Wilson had as visitors during the summer, Miss Nonie Wilson and Mr. Percy Wilson, of Chester, Pa.; Mrs. Lydia Gould and daughter; Mrs. Mamie Lomax and Miss Evelyn Toney, all of Philadelphia; Mrs. Mary E. Pierce, of Hayden, Md.; and Mrs. Susie Gibles, of Centerville, Md.\n\nMrs. Lydia Wilson of Philadelphia, spent a few days as the guest of Mrs. Annie Edwards.\n\nMrs. Florence Horse has removed from 1002 Carrollton avenue to 1517 N. Mount street."
-    },
-    {
-      "bbox": [
-        358,
-        2597,
         632,
         2719
       ],
       "label": "text",
-      "text": "Mrs. Florence Horse has removed from 1002 Carrollton avenue to 1517 N. Mount street.\n\nRev. S. S. Crockett, of Morristown, N. J., spent several days in the city this week."
+      "text": "Cecilton, Md., Sept. 23.\u2014The Labor Day Celebration held by Happy Home Lodge of Odd Fellows and Lilly of the Valley Household of Ruth was a success. Addresses were delivered by Rev. J. Young of Chestertown, Md., and Rev. L. E. Tolson, of Galena.\n\nMrs. Mollie Alex. Wilson had as visitors during the summer, Miss Nonie Wilson and Mr. Percy Wilson, of Chester, Pa.; Mrs. Lydia Gould and daughter; Mrs. Mamie Lomax and Miss Evelyn Toney, all of Philadelphia; Mrs. Mary E. Fierce, of Hayden, Md.; and Mrs. Susie Gibles, of Centerville, Md.\n\nMrs. Lydia Wilson of Philadelphia, spent a few days as the guest of Mrs. Annie Edwards.\n\nMrs. Florence Horse has removed from 1002 Carrollton avenue to 1517 N. Mount street.\n\nRev. S.'S. Crockett, of Morristown, N. J., spent several days in the city this week.",
+      "status": "ok"
     },
     {
       "bbox": [
-        357,
-        2655,
-        632,
-        2719
+        659,
+        87,
+        1136,
+        113
       ],
       "label": "text",
-      "text": "Rev. S. S. Crockett, of Morristown, N. J., spent several days in the city this week."
+      "text": "THE AFRO-AMERICAN LEDGER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +177,8 @@
         406
       ],
       "label": "text",
-      "text": "Get into the habit of doing today\nThe things you put off till tomorrow:\nYou'll find it a very effectual way\nOf lessening trouble and sorrow.\nThe time is so short we must hurry to do\nThe things we put off until we work is thru\nSo when the Grim Reaper says our work is thru\nHe'll find there's been nothing neglected.\n\u2014Chicago Defender"
+      "text": "Get into the habit of doing today\nThe things you put off till tomorrow:\nYou'll find it a very effectual way\nOf lessening trouble and sorrow.\nThe time is so short we must hurry to do\nThe things we put off until we work is thru\nSo when the Grim Reaper says our work is thru\nHe'll find there's been nothing neglected.\n\u2014Chicago Defender",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +188,8 @@
         439
       ],
       "label": "paragraph_title",
-      "text": "A CORRECTION"
+      "text": "A CORRECTION",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +199,8 @@
         595
       ],
       "label": "text",
-      "text": "In our issue of July 31, the poem in this column, \"Give me a rose today\" taken from the Indianapolis \"Freeman\" was erroneously ascribed to that paper. We are happy to make the correction; Jasper Tappan Phillips, M. D. of Nashville, Tennessee is the author."
+      "text": "In our issue of July 31, the poem in this column, \"Give me a rose today\" taken from the Indianapolis \"Freeman\" was erroneously ascribed to that paper. We are happy to make the correction; Jasper Tappan Phillips, M. D. of Nashville, Tennessee is the author.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +210,8 @@
         635
       ],
       "label": "paragraph_title",
-      "text": "THE WAR AND AFRICA"
+      "text": "THE WAR AND AFRICA",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +221,8 @@
         1308
       ],
       "label": "text",
-      "text": "Evans Lewin, Librarian of the Royal Colonial Institute of England, in an illuminating book just published on German colonies in Africa, urges America to also grab a part of the Dark Continent. Naturally, the British official berates German \"brutality\" in Africa. We have no doubt that Germany's reign there has been bloody and despicotic. So has England's Her hypocrisy may have covered it more. But that England's rule in South Africa has been tyrannous and oppressive let Mr. Evans not deny. Belgium is now reaping a just retribution for her inhuman cruelties upon the robbed and murdered Congoes. Italy's colonies in northern Africa have not been enjoying a reign of unalloyed pleasure and progress. But King Menelik, at Adowa, in Abyssinia, annihilating the Italian army, somewhat tempered the Italian's rule. France alone deserves praise for her just and enlightened African policies. Yet all of them have robbed the Africans. They have taken their lands and parcelled them out among themselves. Europe has no more right to Africa than Germany has to Belgium. Now imagine the audacity of England asking America to come and help rob the African some more. \u2014New York News."
+      "text": "Evans Lewin, Librarian of the Royal Colonial Institute of England, in an illuminating book just published on German colonies in Africa, urges America to also grab a part of the Dark Continent. Naturally, the British official berates German \"brutality\" in Africa. We have no doubt that Germany's reign there has been bloody and despicotic. So has England's Her hypocrisy may have covered it more. But that England's rule in South Africa has been tyrannous and oppressive let Mr. Evans not deny. Belgium is now reaping a just retribution for her inhuman cruelties upon the robbed and murdered Congoes. Italy's colonies in northern Africa have not been enjoying a reign of unalloyed pleasure and progress. But King Menelik, at Adowa, in Abyssinia, annihilating the Italian army, somewhat tempered the Italian's rule. France alone deserves praise for her just and enlightened African policies. Yet all of them have robbed the Africans. They have taken their lands and parcelled them out among themselves. Europe has no more right to Africa than Germany has to Belgium. Now imagine the audacity of England asking America to come and help rob the African some more. \u2014New York News.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,27 +232,52 @@
         1345
       ],
       "label": "paragraph_title",
-      "text": "ALL GOING THE SAME WAY"
+      "text": "ALL GOING THE SAME WAY",
+      "status": "ok"
     },
     {
       "bbox": [
         625,
         1352,
+        901,
+        1755
+      ],
+      "label": "text",
+      "text": "Three men were hungry. One said, \"Bitte, geben Sie mir ein Stuck Brot;\" the second said, \"Donnez-moi du pain, s'il vous pla\u00eet\" while the third said, \"Please give me a piece of bread.\" There were different modes of expression, but the same longing.\n\nStill the ignorant person who can only understand German, thinks that the Frenchman and the Englishman are wrong, because he does not understand their mode of expression.\n\nSo men \"hunger and thirst atfer righteousness.\" The Baptist has his mode; the Presbyterian his; they may not understand, but God is not ignorant, and can read behind modes and manners, and methods, into human longings, human hungering and He understands.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        629,
+        1756,
         903,
         1990
       ],
       "label": "text",
-      "text": "Three men were hungry. One said, \"Bitte, geben Sie mir ein Stuck Brot;\" the second said, \"Donnez-moi du pain, s'il vous plait\" while the third said, \"Please give me a piece of bread.\" There were different modes of expression, but the same longing.\n\nStill the ignorant person who can only understand German, thinks that the Frenchman and the Englishman are wrong, because he does not understand their mode of expression.\n\nSo men \"hunger and thirst after righteousness.\" The Baptist has his mode; the Presbyterian his; they may not understand, but God is not ignorant, and can read behind modes and manners, and methods, into human longings, human hungering and He understands.\n\nSo the Methodist ought to know Methodist doctrines, the Baptist, Baptist doctrines, and the more we know them, the more we will find we are closer together than we thought. We will find that whether we dip or sprinkle or pour, we are expressing the same thing; we will be able to trace the relationship, and we will find that we are not only not enemies, but friends indeed, relations by the blood of Jesus Christ."
+      "text": "So the Methodist ought to know Methodist doctrines, the Baptist, Baptist doctrines, and the more we know them, the more we will find we are closer together than we thought. We will find that whether we dip or sprinkle or pour, we are expressing the same thing; we will be able to trace the relationship, and we will find that we are not only not enemies, but friends indeed, relations by the blood of Jesus Christ.",
+      "status": "ok"
     },
     {
       "bbox": [
         631,
         1989,
+        908,
+        2583
+      ],
+      "label": "text",
+      "text": "JUST A FEW OF THE WAYS IN WHICH THE SOUTH WILL STILL PREVENT COLORED PEOPLE FROM VOTING\n\nHow will the South control the Negro vote now that the Supreme Court has abolished the \"grandfather way of doing it? A State Legislature can no longer grant special favors at the polling booths to men whose grandfathers could vote in the days when colored people could not vote. But \"we are not going back to reconstruction,\" said a rationally distinguished Southerner, in the city of Washington. \"We are not going to be ruled by the colored race. We will prevent it.\" Of course he will. But how? The first thought is the literacy test. Some states haven't been able to adopt it.\n\nIn Maryland it has been rejected three times. The uneducated whites combined with the colored people to prevent it. But most Southern states can adopt it readily. North Carolina has it in very effective operation.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        637,
+        2583,
         912,
         2715
       ],
       "label": "text",
-      "text": "JUST A FEW OF THE WAYS IN WHICH THE SOUTH WILL STILL PREVENT COLORED PEOPLE FROM VOTING\n\nHow will the South control the Negro vote now that the Supreme Court has abolished the \"grandfather way of doing it? A State Legislature can no longer grant special favors at the polling booths to men whose grandfathers could vote in the days when colored people could not vote. But \"we are not going back to reconstruction,\" said a rationally distinguished Southerner, in the city of Washington. \"We are not going to be ruled by the colored race. We will prevent it.\" Of course he will. But how?\n\nThe first thought is the literacy test. Some states haven't been able to adopt it.\n\nIn Maryland it has been rejected three times. The uneducated whites combined with the colored people to prevent it. But most Southern states can adopt it readily. North Carolina has it in very effective operation.\n\nSecondly comes the property test.\n\nIn Louisiana a man may vote, though illiterate, if he owns three thousand dollars' worth of property. An illiterate white man is more likely than an illiterate Negro to own that amount of property."
+      "text": "Secondly comes the property test. In Louisiana a man may vote, though illiterate, if he owns three thousand dollars' worth of property. An illiterate white man is more likely than an illiterate Negro to own that amount of property.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +287,8 @@
         393
       ],
       "label": "text",
-      "text": "Thirdly comes the poll-tax. It has a combination of a poll-tax and a literacy test and it operates that combination in a manner highly ingenious. If you wish to vote, you show your poll-tax receipt for the last three years. Then the judges of elections may, if they please, ask you to read a section of the constitution of Virginia. If you are white, they often won't ask you. If you are colored they usually will. \u2014Brooklyn Advocate."
+      "text": "Thirdly comes the poll-tax. It has a combination of a poll-tax and a literacy test and it operates that combination in a manner highly ingenious. If you wish to vote, you show your poll-tax receipt for the last three years. Then the judges of elections may, if they please, ask you to read a section of the constitution of Virginia. If you are white, they often won't ask you. If you are colored they usually will. \u2014Brooklyn Advocate.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,17 +298,41 @@
         480
       ],
       "label": "paragraph_title",
-      "text": "THE SPIRIT OF THE\nOLD SLAVE OWNERS"
+      "text": "THE SPIRIT OF THE\nOLD SLAVE OWNERS",
+      "status": "ok"
     },
     {
       "bbox": [
         906,
         508,
         1181,
+        657
+      ],
+      "label": "text",
+      "text": "It is a matter of history that many of the Southern slaveholders refused for a time to emancipate their slaves, following the close of the Civil War. In the Washington Star of September 18, 1865, appears the following news item illustrative of this attitude:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        907,
+        657,
+        1181,
+        1116
+      ],
+      "label": "text",
+      "text": "\"Maj. W. B. Sargent, in charge of the office of the Freedman's Bureau in Arkansas, in an official communication to Gen. Howard reports a case where a former slaveholder refuses to recognize the Emancipation Act. It appears that a freedman had made an effort to get some things belonging to him from the premises of his former master, named Bird, and failing to do so made application to the provost marshal of freedman refuges and abandoned lands for assistance, when a circular of the Freedmen's Bureau, bearing the following endorsement of the provost marshal, was furnished the colored man: 'The bearer of this circular will be allowed to take from the premises where his family resided everything that belongs to him. Any person interfering with him will be held accountable for the same.'",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        906,
+        1116,
+        1180,
         1649
       ],
       "label": "text",
-      "text": "It is a matter of history that many of the Southern slaveholders refused for a time to emancipate their slaves, following the close of the Civil War. In the Washington Star of September 18, 1865, appears the following news item illustrative of this attitude:\n\n\"Maj. W. B. Sargent, in charge of the office of the Freedman's Bureau in Arkansas, in an official communication to Gen. Howard reports a case where a former slaveholder refuses to recognize the Emancipation Act. It appears that a freedman had made an effort to get some things belonging to him from the premises of his former master, named Bird, and failing to do so made application to the provost marshal of freedman refuges and abandoned lands for assistance, when a circular of the Freedmen's Bureau, bearing the following endorsement of the provost marshal, was furnished the colored man: 'The bearer of this circular will be allowed to take from the premises where his family resided everything that belongs to him. Any person interfering with him will be held accountable for the same.'\n\n\"The colored man thus armed repaired again to the premises of his former master, who, on reading the circular, returned it indorsed as follows: 'The bearer of this circular I consider my property still, having seen no enactment of the federal Congress nor of our state government authorizing any one to demand him of me, nor anything furished him while with me. When I am perfectly satisfied that the slaves have been emancipated by such authority as is regarded as constitutional by our higher courts of law and equity, then, and not until then, will I willingly, by word or deed, make any contract with a slave, nor regard them in any other light than as property of those who have either purchased or raised them. Of course, I do not propose to interpose any force or impede in any way the constitutional authorities of the United States. I am, captain, the owner of the boy who bears this note.' Bird was afterward arrested and lectured and dismissed with a fine of $5.0.\""
+      "text": "\"The colored man thus armed repaired again to the premises of his former master, who, on reading the circular, returned it indorsed as follows: 'The bearer of this circular I consider my property still, having seen no enactment of the federal Congress nor of our state government authorizing any one to demand him of me, nor anything furished him while with me. When I am perfectly satisfied that the slaves have been emancipated by such authority as is regarded as constitutional by our higher courts of law and equity, then, and not until then, will I willingly, by word or deed, make any contract with a slave, nor regard them in any other light than as property of those who have either purchased or raised them. Of course, I do not propose to interpose any force or impede in any way the constitutional authorities of the United States. I am, captain, the owner of the boy who bears this note.' Bird was afterward arrested and lectured and dismissed with a fine of $50.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,17 +342,30 @@
         1702
       ],
       "label": "paragraph_title",
-      "text": "ANNAPOLIS ITEMS"
+      "text": "ANNAPOLIS ITEMS",
+      "status": "ok"
     },
     {
       "bbox": [
         908,
         1715,
+        1185,
+        2299
+      ],
+      "label": "text",
+      "text": "Annapolis, Md., Sept. 23.\u2014Mr. Charles R. Brown and Mr. Albert Polard entertained at the residence of Mr. Polard Tuesday evening at cards. Those present were: Mr. and Mrs. Thomas Smith, Mr. and Mrs. Wm. Miller, Mr. and Mrs. Joseph Brown, Mrs. Albert Polard, Mrs. Martha Hughes, Mrs. Lizzie Little, Miss Gertrude Baden, Miss Mary Pinkney, Mr. Charles Oliver and Mr. John King.\n\nMrs. Johanna Cheers, of Baltimoer, visited her father, Mr. Marcellus Cobert, Sunday.\n\nMr. Percy Adams, who has been visiting his mother, Mrs. Kate Adams, has left here to accept a position as teacher in Kittrel College, Kittrell, N.C.\n\nMrs. Louisa J. Scott, formerly of this city, now residing in Lancaster, Pa., is here visiting her daughter, Mrs. Laura A. Bulay.\n\nMrs. Julia Pinkney and daughters have returned home from an extended trip through New Jersey.\n\nRev. D. G. Hill, of the Baltimore district, preached Sunday at Mt. Moriah A. M. E. Church. It was the opening sermon for the $4000 dollar rally.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        912,
+        2299,
         1188,
         2557
       ],
       "label": "text",
-      "text": "Annapolis, Md., Sept. 23.\u2014Mr. Charles R. Brown and Mr. Albert Polard entertained at the residence of Mr. Polard Tuesday evening at cards. Those present were: Mr. and Mrs. Thomas Smith, Mr. and Mrs. Wm. Miller, Mr. and Mrs. Joseph Brown, Mrs. Albert Polard, Mrs. Martha Hughes, Mrs. Lizzie Little, Miss Gertrude Baden, Miss Mary Pinkney, Mr. Charles Oliver and Mr. John King.\n\nMrs. Johanna Cheers, of Baltimoer, visited her father, Mr. Marcellus Cobert, Sunday.\n\nMr. Percy Adams, who has been visiting his mother, Mrs. Kate Adams, has left here to accept a position as teacher in Kittrel College, Kittrell, N.C.\n\nMrs. Louisa J. Scott, formerly of this city, now residing in Lancaster, Pa., is here visiting her daughter, Mrs. Laura A. Bulay.\n\nMrs. Julia Pinkney and daughters have returned home from an extended trip through New Jersey.\n\nRev. D. G. Hill, of the Baltimore district, preached Sunday at Mt. Moriah A. M. E. Church. It was the opening sermon for the $4000 dollar rally.\n\nRev. J. A. Briscoe preached Sunday evening to a large congregation.\n\nA recital will be given at Mt. Moriah A. M. E. Church on next Wednesday evening.\n\nMrs. Mary G. Johnson, Miss Jeannette Holland and Miss Clara Hunter, who have been summering at Atlantic City, has returned home.\n\nMr. C. Stocks is much improved in health.\n\nMrs. Lottie Brashers has returned from Atlantic City."
+      "text": "Rev. J. A. Briscoe preached Sunday evening to a large congregation.\nA recital will be given at Mt. Moriah A. M. E. Church on next Wednesday evening.\nMrs. Mary G. Johnson, Miss Jeannette Holland and Miss Clara Hunter, who have been summering at Atlantic City, has returned home.\nMr. C. Stocks is much improved in health.\nMrs. Lottie Brashers has returned from Atlantic City.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +375,8 @@
         2706
       ],
       "label": "text",
-      "text": "Mrs. Mary Johnson entertained a bridge party. Supper was served the following: Dr. and Mrs. T. C. Stewart; Prof. and Mrs. Bagley, of New York, Mr. and Mrs. George Silence, of Washington; Mr. and Mrs. Clarence Davis, Mr. Frederick Ruse and Miss Annie Sparks."
+      "text": "Mrs. Mary Johnson entertained a bridge party. Supper was served the following: Dr. and Mrs. T. C. Stewart; Prof. and Mrs. Bagley, of New York, Mr. and Mrs. George Silence, of Washington; Mr. and Mrs. Clarence Davis, Mr. Frederick Ruse and Miss Annie Sparks.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,57 +386,85 @@
         255
       ],
       "label": "doc_title",
-      "text": "FELIX B. PYE, Sr.\n102 E. Mulberry Street"
-    },
-    {
-      "bbox": [
-        1187,
-        357,
-        1744,
-        578
-      ],
-      "label": "text",
-      "text": "Phone, Mt. Vernon 3603\n\nJOHN H. TOADVIN.....\n\n142 W. HILL STREET,\nTHE UP-TO-DATE UNDERTAKER\n\nWho can furnish a funeral for $10.00 and up; caskets for $3.00 and\nBe can furnish you carriages for Funerals, Weddings, Parties, Receptions,\nste., from his own stables at the most reasonable rates. You need not\ncome to see him, just call"
-    },
-    {
-      "bbox": [
-        1191,
-        649,
-        1454,
-        674
-      ],
-      "label": "text",
-      "text": "C. and P. Phone, Madison 692"
+      "text": "FELIX B. PYE, Sr.\n102 E. Mulberry Street",
+      "status": "ok"
     },
     {
       "bbox": [
         1188,
-        909,
-        1741,
-        1248
+        357,
+        1558,
+        585
       ],
       "label": "text",
-      "text": "Will furnish funerals at a price that will suit you. Polite, courteous and expert attention guaranteed. Carriages to hire for all occasions. Open day and night.\n\nTo the Friends and Patrons of the late ALEX. HEMSLEY Funeral Director and Embalmer\n\nwish to announce to the general public that I have taken up the business of my late father and will endeavor to sustain the reputation he bore as an efficient undertaker and Embalmer. Thanking the public for all past favors and hoping for a continuance of the same. I am respectfully yours.\n\nSAMUEL T. HEMSLEY\n\nFUNERAL DIRECTOR & EMBALMER"
+      "text": "Phone, Mt. Vernon 3603\n\n...JOHN H. TOAL\n142 W. HILL STREET\nTHE UP-TO-DATE UNDER\n\nWho can furnish a funeral for $10.00 and up; can furnish you carriages for Funerals, Wedding stets, from his own stables at the most reasonable come to see him, just call",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1352,
+        383,
+        1558,
+        649
+      ],
+      "label": "text",
+      "text": "JOHN H. TOALL\n142 W. HILL STREET\nUP-TO-DATE UNDER\ngeneral for $10.00 and up; c\narriages for Funerals, Weddi\nables at the most reasonable\ncome to see him, just call\nY.",
+      "status": "ok"
     },
     {
       "bbox": [
         1187,
-        1120,
-        1743,
-        1249
+        402,
+        1744,
+        578
       ],
       "label": "text",
-      "text": "wish to announce to the general public that I have taken up the business of my late father and will endeavor to sustain the reputation he bore as an efficient undertaker and Embalmer. Thanking the public for all past favours and hoping for a continuance of the same. I am respectfully yours\n\nSAMUEL T. HEMSLEY\nFUNERAL DIRECTOR & EMBALMER"
+      "text": "JOHN H. TOADVIN.... 142 W. HILL STREET, THE UP-TO-DATE UNDERTAKER Who can urnish a funeral for $10.00 and up; caskets for $3.00 and Be can furnish you carriages for Funerals, Weddings, Parties, Receptions, etc., from his own stables at the most reasonable rates. You need not come to see him, just call",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1188,
+        649,
+        1501,
+        909
+      ],
+      "label": "text",
+      "text": "C. and P. Phone, Madison 692\n\nGEO. H. HOLLAND\n\nFormerly Manager for the late Alexander Hemsley\n\nFuneral Director and Embalmer\n\n517 Robert Street",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1188,
+        674,
+        1558,
+        1124
+      ],
+      "label": "text",
+      "text": "GEO. H. HOLLAND\nFormerly Manager for the late Alex-\nander Hemsley\nFuneral Director and\nEmbalmer\n517 Robert Street\nWill furnish funerals at a price that\nwill suit you. Polite, courteous and\nexpert attention guaranteed.\nCarriages to hire for all occasions.\nOpen day and night.\n\nTo the Friends and Patrons\nALEX. HEMSLEY Funer",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1352,
+        1024,
+        1558,
+        1124
+      ],
+      "label": "text",
+      "text": "friends and Patrons EMSLEY Funer",
+      "status": "ok"
     },
     {
       "bbox": [
         1186,
-        1572,
+        1049,
         1742,
-        1977
+        1610
       ],
       "label": "text",
-      "text": "Coaches to hire for all occasions\nMAIN OFFICE: 578 W. BIDDLE ST.\nFunerals from $75.00 Up\n'Phone Mt Vernon 2578\n\nI am desirous of taking this opportunity of thanking my many friends and patrons of my father the late SAMUEL W. CHASE for their past patronage and to announce that the business will be carried on to the name of\n\nSAMUEL W. CHASE @ SON\nand that I promise to give all calls my personal attention, guaranteeing most polite and courteous services at all times, whether in city or suburbs, and most reasonable charges. Thanking you all again for your past patronage and asking a continuance of the same, I remain respectfully\n\nP.MORTON CHASE\n1400 MOSHER STREET\nBranch Telephone Madiso n 1980\n811 I STREET, SPARROWS POINT Alfred Nixon General Agent\nJohn H. Holland, Agent 433 N. Gilmar St.\nPhone Sparrows Point 232 R Phone Gilmar 3361 M"
+      "text": "To the Friends and Patrons of the late\nALEX. HEMSLEY Funeral Director\nand Embalmer\n\nwish to announce to the general public that I have taken up the business\nof my late father and will endeavor to sustain the reputation he bore as an\nefficient undertaker and Embalmer. Thanking the public for all past favors\nand hoping for a continuance of the same. I am respectfully yours\n\nSAMUEL T. HEMSLEY\nFUNERAL DIRECTOR & EMBALMER\n\nCoaches to hire for all occasions\n\nMAIN OFFICE: 578 W. BIDDLE ST.\n\nFunerals from $75.00 Up\n\n'Phone Mt. Veronon 2578",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +474,8 @@
         1718
       ],
       "label": "text",
-      "text": "I am desirous of taking this opportunity of thanking my many friends and patrons of my father the late SAMUEL W. CHASE for their past patronage and to announce that the business will be carried on to the name of"
+      "text": "I am desirous of taking this opportunity of thanking my many friends and patrons of my father the late SAMUEL W. CHASE for their past patronage and to announce that the business will be carried on to the name of",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +485,8 @@
         1824
       ],
       "label": "text",
-      "text": "and that I promise to give all calls my personal attention, guaranteeing most polite and courteous services at all times, whether in city or suburbs, and most reasonable charges. Thanking you all again for your past patronage and asking a continuance of the same, I remain Yours respectfully"
+      "text": "and that I promise to give all calls my personal attention, guaranteeing most polite and courteous services at all times, whether in city or suburbs, and most reasonable charges. Thanking you all again for your past patronage and asking a continuance of the same, I remain Yours respectfully",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +496,8 @@
         2047
       ],
       "label": "paragraph_title",
-      "text": "T. G. MARSHALL,"
+      "text": "T. G. MARSHALL,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +507,8 @@
         2130
       ],
       "label": "text",
-      "text": "Groceries & Provisions, Butter & Eggs"
+      "text": "Groceries & Provisions, Butter & Eggs",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +518,8 @@
         2476
       ],
       "label": "text",
-      "text": "628 N. EUTAW ST. AT DRUIDHILL AV."
+      "text": "628 N. EUTAW ST. AT DRUIDHILL AV.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +529,19 @@
         623
       ],
       "label": "text",
-      "text": "South 422 or South 596-X.\nMount Vernon 5128"
+      "text": "South 422 or South 596-X.\nMount Vernon 5128",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1508,
+        643,
+        1744,
+        1023
+      ],
+      "label": "text",
+      "text": "J. H.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,17 +551,8 @@
         623
       ],
       "label": "text",
-      "text": "142 W. Hill Street\n826 Druid Hill Ave."
-    },
-    {
-      "bbox": [
-        1530,
-        1571,
-        1740,
-        1609
-      ],
-      "label": "text",
-      "text": "Funerals from $75.00 Up\n*Phone Mt Veron 2578*"
+      "text": "142 W. Hill Street\n826 Druid Hill Ave.",
+      "status": "ok"
     }
   ]
 }

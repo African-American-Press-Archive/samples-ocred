@@ -1,0 +1,1394 @@
+{
+  "page": 2,
+  "image": "images/page_02.jpg",
+  "width": 2041,
+  "height": 2712,
+  "processed_at": "2026-03-06T18:04:08.791532+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 226,
+    "after_merge": 125
+  },
+  "regions": [
+    {
+      "bbox": [
+        80,
+        638,
+        494,
+        668
+      ],
+      "label": "doc_title",
+      "text": "CHRISTMAS PROGRAM",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        31,
+        689,
+        523,
+        1286
+      ],
+      "label": "text",
+      "text": "JOHN\nWESLEY\nM. E.\nCHURCH\n\nSunday,\nDecember\n25th\n\nJOHN WESLEY M. E. CHURCH.\n\n11. A. M. Christmas service by the Pastor, Rev. Ernest Lyon.\n12. P. M. Special program rendered by the Sunday School, Rev.\nE. D. Jennings, Super.\n15:30 F. M. Special Christmas program by the Epworth League\nMrs. Milk, Pres.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        38,
+        1291,
+        526,
+        1468
+      ],
+      "label": "text",
+      "text": "8 P. M. Special service. The chair, under the leadership of Mr. Mr. Wm. Oscar Johnson, Chorister, will render special notice for the occasion. The Lyon Flower Circle has churge of the Christmas decorations.\n\nThe Epworth angle will give presents to the poor children of the Churchhold on Monday, December 26th at 11 a.m. The Sunday school will remember its pupils to its Christmas Tree. The officials will send out 125 books to the aged and poor of the church and neighborhood.\n\nST. JOHN'S A. M. E. SUNDAY SCHOOL presents a CHRISTMAS CANTATA \"SANTA'S SUCCESS\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        61,
+        1627,
+        525,
+        1681
+      ],
+      "label": "text",
+      "text": "MONDAY, DECEMBER 26, 1921. 8 Y. M.\nList of Characters: Santa Claus and Band, Japanese, Fairies, Sprites,\nColumbia and U. S. Knights, Grand Father Chuck, etc.\nADMISSION 10 CENTS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        53,
+        1941,
+        501,
+        1989
+      ],
+      "label": "text",
+      "text": "THURSDAY, JANUARY 12, 1922. 8:15 P. M.\nAdmission 50 Cents",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        71,
+        2123,
+        495,
+        2237
+      ],
+      "label": "text",
+      "text": "HEAR THIS THRILLING MUSIC RENDERED BY THIS GREAT CHOIR FRIENDS AND STRANGERS ARE WELCOME Etting and Dolphin Sts. AT H.A.M.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        55,
+        2289,
+        504,
+        2348
+      ],
+      "label": "text",
+      "text": "GREAT CHRISTMAS CANTATA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        69,
+        2389,
+        510,
+        2462
+      ],
+      "label": "text",
+      "text": "ST. PAUL M. E. CHURCH, W. Saratoga Street SUNDAY EVENING, DEC. 25, 1921, 8:15 sharp Positively Silver Offering at the Door",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        57,
+        2519,
+        526,
+        2542
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        53,
+        2591,
+        516,
+        2652
+      ],
+      "label": "doc_title",
+      "text": "EXTRA SPECIAL!!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        97,
+        96,
+        310,
+        115
+      ],
+      "label": "text",
+      "text": "FRIDAY, DEC. 23, 1921",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        83,
+        145,
+        246,
+        163
+      ],
+      "label": "paragraph_title",
+      "text": "Mrs. Theresa Cain",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        39,
+        164,
+        289,
+        524
+      ],
+      "label": "text",
+      "text": "On Sunday, December 11, 1821, the funeral of Mrs. Theresa Cain was held at Elenzer Baptist Church. East 42rd street. The sermon was preached by Rev. R. A. Green, of St. Matthew M. E. Church. The body was in charge of North Star Tab. No. 57. A. U. O. of Moses. The other orders that officiated were Doresc Tab No. 11. G. U. O. of Nazaretes, Union Star Court of Calabria, K. of P. Royal Arch No. 6. G. D. C. K. of P. Women's Relief Codes No. 11. Logan Post, G. A. R. Queen and Juveniles Tab. F. of P. King Memphis Tab. No. 57. W. O. of Moses. Missionary Elenzer Lant Church. Missionary Circle of Elenzer Baptist Church, and the Young Ladies Industrial Creed: Club and the Helping Hand Social of North Baltimore. There were beautiful floral designs from the many orders and friends. Mrs. Robert Ebbott, internment in M. Auburn Cemetery.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        94,
+        533,
+        238,
+        547
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF TILANKS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        40,
+        553,
+        289,
+        617
+      ],
+      "label": "text",
+      "text": "The family of Mrs. Annie M. Matthews wishes to thank the re-\npresentation of her family at her death. December 19, 1921.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        288,
+        136,
+        533,
+        292
+      ],
+      "label": "text",
+      "text": "FALL RALLY\n\nThe fall rally at Gillis Memorial\nM. P. Church which started late\nwas brought to a close on Sunday\nevening last with but a few to re-\nport.\n\nSisters Eliza Brown. $65.93.\nMinnie Fowler. $31.33; Ollie Banks.\n$26.76; Lula McGowan's. $20.03.\nMary Banks. $17.00; Eva Boone.\n$13.00; Hattie Woods. $11.00; Mary\nLake. $5.80; Total $190.90.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        336,
+        303,
+        488,
+        317
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        293,
+        324,
+        534,
+        450
+      ],
+      "label": "text",
+      "text": "Mrs. Ophilia Green and her little daughter Marguerite, wish to thank King Solomon Lodge of Jerusalem for helping Commander Knight Templar for their kindness shown her deceased husband, Michael Green during his long reign, and his many friends, also his many friends.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        307,
+        463,
+        514,
+        476
+      ],
+      "label": "paragraph_title",
+      "text": "REV WATSON IMPROVED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        289,
+        477,
+        533,
+        548
+      ],
+      "label": "text",
+      "text": "Washington, D. C., Dec. 22.\nRev. Dr. Benjamin Watson, secretary-treasurer of the extensive work of the A. M. E. church, who has been ill. is improved.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        319,
+        554,
+        506,
+        583
+      ],
+      "label": "paragraph_title",
+      "text": "Call Vernon 6016-17",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        288,
+        587,
+        534,
+        706
+      ],
+      "label": "text",
+      "text": "This is the new telephone number of the AFRO-AMERICAN\n\nS PROGRAM",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        423,
+        706,
+        514,
+        913
+      ],
+      "label": "doc_title",
+      "text": "JOHN WESLEY M. E. CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        288,
+        913,
+        534,
+        1029
+      ],
+      "label": "text",
+      "text": "1",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        781,
+        122,
+        1025,
+        223
+      ],
+      "label": "text",
+      "text": "Often we think of you dear mother\nAnd our hearts are sad with pain\nAll this earth would be a heaver\nCould we hear your voice again.\nWe shall sleep but not forever\nThere shall be a glorious dawn\nWe shall see our loving mother\nShe shall save us morn.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        782,
+        219,
+        1022,
+        249
+      ],
+      "label": "text",
+      "text": "On that reservation\nby her sisters, LAURA GLAD\nAND HESSE, HUTSON.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        539,
+        244,
+        1025,
+        286
+      ],
+      "label": "text",
+      "text": "Could our grief and sorrow know DEN AND BESSIE HUTTON.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        537,
+        249,
+        937,
+        573
+      ],
+      "label": "text",
+      "text": "Could our grief and sorrow know DEN AND DEN?\n\nChristmas Greetings\n\nTo our many patrons and friend\n\nWe have a full line of candies, tobacco and toilet articles for holidays\n\nGREENE'S PHARMA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        781,
+        249,
+        1025,
+        573
+      ],
+      "label": "text",
+      "text": "Greetings\natrons and friends\ne of candies, cigars,\nlet articles for the\ndays\nPHARMACY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        617,
+        303,
+        946,
+        363
+      ],
+      "label": "doc_title",
+      "text": "Christmas Greetings",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        559,
+        379,
+        1001,
+        511
+      ],
+      "label": "text",
+      "text": "To our many patrons and friends We have a full line of candies, cigars, tobacco and toilet articles for the holidays",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        537,
+        573,
+        937,
+        687
+      ],
+      "label": "text",
+      "text": "1600 Druid Hill Avenue\nSHILOH BAPTIST CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        781,
+        598,
+        1025,
+        687
+      ],
+      "label": "text",
+      "text": "TIST CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        539,
+        619,
+        1023,
+        746
+      ],
+      "label": "text",
+      "text": "SHILOH BAPTIST CHURCH\nClinton Ave. and George St.\nFounded by the present pastor\nBEN. W. W. ALLEN\n1902. Its success has been marvelous.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        630,
+        745,
+        954,
+        1199
+      ],
+      "label": "text",
+      "text": "100",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        537,
+        746,
+        937,
+        1248
+      ],
+      "label": "text",
+      "text": "Church Home Coming\nChristmas Morning",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        633,
+        746,
+        1025,
+        1291
+      ],
+      "label": "text",
+      "text": "Church Home Coming\nChristmas Morning\n1. A. M., Union Prayer Meeting.\n2. A. M., Special Christmas Sermon by",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        643,
+        1295,
+        886,
+        1384
+      ],
+      "label": "text",
+      "text": "2:30 P. M. Commission.\n2:30 P. M. Teaching.\n9:30 A. M. Sunday School.\n5:30 P. M. B. Y. F.T.\nRev. W. W. Allen, Pastor\nM. Tate, Church Clerk",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        537,
+        1384,
+        937,
+        2566
+      ],
+      "label": "text",
+      "text": "XMAS PAGEANT entitled \"BETHLEHAM\nUnder auspices of Trinity A. M. E. Sunday\nSunday, December 25, 1921.\n\nUnder Direction of Mr. Chas. Parker,\nSpecial Music\nSilver Office\n\n\"The BABE IN THE MANGER\" SACRED CALL\nAt Ames M. E. Church, Carey and Bakers\nSUNDAY, DECEMBER 25, 1921.\n7:30\nAuspices Choir.\n100 Characters dressed in Original\nJoseph, Mary, Wise Men, Shepherds, Shepherdess, Angels\nHerod, Ponturion, Attendants, Star.\nAll under Spoil\nMiss Frances Smith, Directress\nMr. J. C. Downe\nSILVER OFFERING\nRev. W. H. Dean, P.\n\nCOME \u2014 WITNES\nA Beautiful Cantata. Entitled\n\"AROUND THE MANGER\"\nSunday, December 25th, at 8 P.M.\nBy Ashbury M. E. Sunday School\nDramatized and Directed by Mr. Julian Re\nSilver Offering\nMr. Julian Ross, Director\nChas. T. Stewart, Supt.\nRev. G. H. Brown\n\nOn Sunday, Dec. 25, 1921, at 3 P.M., the M\nshipful Maryland Grand Lodge of F. & A.\nNational Compact Prince Hall Origin, will hold\nJohn's Day services at Perkins Square Baptist\nGeorge and Ogston Sts. Sermon will be delivered\nRev. S. L. Hudson, D. D., G. M. of Delaware.\nJOHN H. MITCHELL, M. W. G. M. of Maryland\n\nGRAND CANTATA\n\"The WISE MEN FROM THE EAST\"\nBY ALLEN A. M. E. SUNDAY SCHOOL\nTuesday Night, December 27, 1921.\nAT THE CHURCH\u2014W. LEXINGTON & CARLTON\nN. P. M. Sharp\nTICKETS:\nAdults, 15 Cents (pay at the door)\nREFRESHMENTS ON SALE\nHoward D. Ereut, Supt.\nMiss M. A. Johnson\nRev. C. H. Stephen, Pastor\n\nST. JOHN A. M. E. CHURCH REVIVAL\nJANUARY. 1ST TO JANUARY 15TH\n\nCOME SINGING COME PRAYING EVERY N\nDR. C. E. STEWART\nWILL GIVE YOU THE GOSPEL IN SONG\nDR. M. H. DAVIS\nWILL GIVE YOU THE GOSPEL IN WORDS\nLet us work together for Man's Salvation",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        781,
+        1384,
+        1025,
+        1708
+      ],
+      "label": "text",
+      "text": "Titled \"BETHLEHEM\"\nA. M. E. Sunday School\n8 P. M.\nMr. Chas. Parker\nSilver Offering\nunder the direction of Miss Chard\nSupt. of Primary Department.\nDr. A. L. Gaines, Pastor\nER\" SACRED CANTATA\nCarey and Baker Sts.\n5, 1921. 7:30 P. M.\nrs. dressed in Original Costume.\nShepherdesses, Angels, Solids.\nStar. All under Spot Light.\nMr. J. C. Downs, Organist\nRev. W. H. Dean, Pastor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        534,
+        1423,
+        1017,
+        1474
+      ],
+      "label": "text",
+      "text": "XMAS PAGEANT entitled BETHLEHEM Under auspices of Trinity A. M. E. Sunday School Sunday, December 25, 1921. 8 P. M.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        544,
+        1472,
+        981,
+        1506
+      ],
+      "label": "text",
+      "text": "Under Direction of Mr. Chas. Parker\nSpecial Music Silver Offering",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        531,
+        1503,
+        1017,
+        1558
+      ],
+      "label": "text",
+      "text": "Special Music\n3 P. M. Special Notes program under the direction of Miss Clara\nThompson. Miss Gertrude Fisher, Supt. of Primary Department.\nMr. Wm. Martin, S. S. Supt.\nDr. A. L. Gaines, Pastor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        533,
+        1604,
+        1025,
+        1964
+      ],
+      "label": "text",
+      "text": "SUNDAY, DECEMBER 25, 1921. 7:30 P. M.\nAspires Choir. 100 Characters dressed in Original Costume\nJoseph, Mary, Wise Men, Shepherds, Shepherdesses, Angels, Solists.\nHeroed, Centurion, Attendants, Star. All under Spot Light.\nMiss Frances Smith, Directress. Mr. J. C. Downs, Organist\nSILVER OFFERING. Rev. W. H. Dean, Pastor\n\nCOME WITNESS\nA Beautiful Cantata. Entitled\n\u201cA ROUND THE MANGER\u201d\nSunday, December 25th, at 8 P. M.\nBy Asbury M. E. Sunday School\nDramatized and Directed by Mr. Julian Ross.\nSilver Offering Beautiful Caldium Lights\nMr. Julian Ross. Director\nChas. T. Stewart. Sept. Rev. C. H. Brown. Pastor\n\nOn Sunday, Dec. 25, 1921, at 3 P. M., the Most Worshipful Maryland Grand Lodge of F. & A. A. Y. M.\nNational Compact Prince Hall Origin, will hold their St. John\u2019s Day services at Perkins Square Baptist Church.\nSermon will be delivered by",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        596,
+        1730,
+        991,
+        1855
+      ],
+      "label": "text",
+      "text": "A Beautiful Cantata, Entitled\n\"AROUND THE MANGER\"\nSunday, December 25th, at 8 P.M.\nBy Asbury M. E. Sunday School\nDramatized and Directed by Mr. Julian Ross.\nSilver Offering\nMr. Julian Ross, Director",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        589,
+        1850,
+        1001,
+        1876
+      ],
+      "label": "text",
+      "text": "Mr. Julian Ross, Director of\nChas. T. Stewart, Supt. Rev. G. H. Brown, Pastor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        533,
+        1865,
+        1015,
+        1999
+      ],
+      "label": "text",
+      "text": "On Sunday, Dec. 25, 1921, at 3 P. M., the Most Worshipful Maryland Grand Lodge of F. & A. A. Y. M. National Compact Prince Hall Origin, will hold their St. John's Day services at Perkins Square Baptist Church, George and Ogston Sts. Sermon will be delivered by Rev. S. L. Hudson. D. D., G. M. of Delaware.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        576,
+        2128,
+        983,
+        2240
+      ],
+      "label": "text",
+      "text": "Tuesday Night. December 27. 1921\nAT THE CHURCH\u2014W. LEMINGTON & CARLTON STS.\nX P. M. Sharp\nTICKETS:\nAdults. 15 Cents (pay at the door). Children. 10 Cents\nREFRESHMENTS ON SALE\nHoward D. Breun, Sgt. Miss M. A. Johnson, Secy.\nRev C. H. Stephan, Pastor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        576,
+        2386,
+        982,
+        2428
+      ],
+      "label": "text",
+      "text": "COME SINGING COME PRAYING EVERY NIGHT DR. C. E. STEWART",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        537,
+        2603,
+        937,
+        2692
+      ],
+      "label": "text",
+      "text": "WATERS A. M. E. CHURCH Aisquith St., near Jefferson",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        537,
+        130,
+        779,
+        243
+      ],
+      "label": "text",
+      "text": "GREEN\u2014In sad, but loving remembrance of our dear mother Margaret Green who departed this life 6 years ago Dec. 21, 1915. When the angels brought the message That our loving mother must go None but those who have lost a dear",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        574,
+        2566,
+        792,
+        2603
+      ],
+      "label": "paragraph_title",
+      "text": "THE BOYS' CLUB OF",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        880,
+        1708,
+        974,
+        1724
+      ],
+      "label": "paragraph_title",
+      "text": "WITNESS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1069,
+        1588,
+        1487,
+        1614
+      ],
+      "label": "paragraph_title",
+      "text": "Classified Advertisements",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1060,
+        108,
+        1251,
+        138
+      ],
+      "label": "doc_title",
+      "text": "IN MEMORIAM",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1031,
+        150,
+        1274,
+        239
+      ],
+      "label": "text",
+      "text": "BAILEY\u2014Loving remembrance.\nWe desire to bear the testimony\nof my beloved husband and esteemed\nfather George. 102 York Street Jersey City, N. J.\ndeparted this life. Dec. 12, 1920.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1029,
+        238,
+        1275,
+        541
+      ],
+      "label": "text",
+      "text": "JESSIE L. BAILEY, wife and GEORGE JR. Jersey City, N. J.\n\nBROOOKS\u2014In sad but loving remembrance of my dear husband, issue L. Brooks, who departed this life three years ago. December 20, 1918.\n\nFrom this world of pain and sorrow to the land of peace and rest. God has taken you, dear husband. Where you have found eternal rest.\n\nOften I think of you, dear husband. And my heart is sad with pain. All this earth would be a heaven. Could I hear your voice again.\n\nDays of sadness still come over me. Tears of sorrow silently flow. Fond memories keeps me near three The Heaven claimed you three years ago.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1046,
+        544,
+        1192,
+        560
+      ],
+      "label": "paragraph_title",
+      "text": "Jay his loving Wife.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1030,
+        592,
+        1275,
+        894
+      ],
+      "label": "text",
+      "text": "COX\u2014in memory of my dear mother Elizabeth Cox, who departed this life two years ago 1919.\n\nPast her suffering, past her pain; Cease to weep, for tears are vain; Still the tumult of they breast, For she who suffers is at rest Morn not for me\u2014my life is past; You kindly loved me to the last Prepare yourself: do not delay For I was early called away If love and care could death prevent, The days would not so soon be spent; Life was desired, but God did see Biblical life was best for thee Freat a world of pain and sorrow, To a land of peace and rest, God has taken you dear mother, Where you have found eternal rest God called her home, it was His will",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1032,
+        893,
+        1274,
+        1106
+      ],
+      "label": "text",
+      "text": "But in my heart she lingered still;\nFor all of us she did her best.\nMay God grant her eternal rest.\nBy her daughter.\nDAISY CON HENSON\nCASSELL\u2014in sad but loving remembrance of my dear son Laurence W. Cassell, who departed this life two years ago today. Dec\n19th, 1919.\nDecember is here again\nThe saddest month of the year\nFor it was in December\nYou passed away.\nSleep on dear son and take your rest.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1026,
+        1104,
+        1273,
+        1425
+      ],
+      "label": "text",
+      "text": "Some day in the great beyond\nI expect to meet you face to face.\nWhere parting will be no more.\n\nBy his mother, MARY E HINES\nand sister, CORDELLA PALMER\nSKINNER\u2014In sad but loving\nremembrance of our dear mother\nMrs. Frances Skinner, who fell\nasleep in Jesus one year ago, December\n24, 1920.\n\nDear mother, how we miss you.\nMore and more as the days go by\nbut in Heaven we hope to meet you\nNever more to say good-bye.\nNot dead, it is a glorious hope.\nAnd lessons the burdens we bear.\nAs we laid our dear mother away\nTo know we shall meet over\nDOAR\u2014In sad, but loving\nremembrance of my dear husband\nThomas H. Dour, who departed\nthis life Oct. 25, 1916.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1024,
+        1423,
+        1269,
+        1573
+      ],
+      "label": "text",
+      "text": "There is a fountain filled with blood\nDrawn from Emmanuel's vein\nAway from his death\nLose all their unity, stain\nToday recalls the memory\nOf our loved one we hid to rest.\nAnd those who still remember him\nAre the ones who loved him best\nBy his dear wife.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1021,
+        1629,
+        1268,
+        1788
+      ],
+      "label": "text",
+      "text": "Apartment for rent\u2014With four and five small rooms. Price $4.50 per week, at $121 N. Gilmar Street.\nApply, MRS. L. WILLIAMS,\n1226 Druid Hill Ave.\n6-t 17-Jan.22\n\nSITUATION WANTED\u2014By full Registered Pharmacist of Maryland. Best of reference can be given. Address Pharmacist, 409 W. Leigh St. Richmond, Va.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1186,
+        1786,
+        1264,
+        1801
+      ],
+      "label": "text",
+      "text": "3t-16-23-30",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1093,
+        1814,
+        1194,
+        1830
+      ],
+      "label": "paragraph_title",
+      "text": "WANTED!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1022,
+        1834,
+        1265,
+        1923
+      ],
+      "label": "text",
+      "text": "Good show card writer, not afraid to go out of town. One who is fast and able to letter well and lay out, he doesn't need to be on the floor. Five who can deliver the goods. Apply Editorial Offices, AFRO-AMERICAN.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1101,
+        1937,
+        1189,
+        1952
+      ],
+      "label": "paragraph_title",
+      "text": "WANTED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1023,
+        1957,
+        1265,
+        2008
+      ],
+      "label": "text",
+      "text": "Nice family to raise an 8 year old boy. Willing to pay $3.50 per week for clothing. Apply M. E. Franck's 1302 Myrtle Avenue.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1084,
+        2029,
+        1206,
+        2041
+      ],
+      "label": "paragraph_title",
+      "text": "HELP WANTED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1022,
+        2040,
+        1270,
+        2536
+      ],
+      "label": "text",
+      "text": "HELP WANTED\u2014The Helping Hand Messenger is just out. Boys and Girls can make money easy selling the new magazine. Men and women also can make good money. Even the sick, the crippled and the blind can do well. Call or write OSMAN, 900 N. Fremont Avenue.\n\nMr. Osman\n\nMEN AND WOMEN\u2014You can easily make from $15.00 to $35.00 a week giving out samples for us. Write for information. The Clyde Collins Company Inc. Memphis, Tenn. Nov. 11\u20142 mo\n\nMONEY TO LOAN\nOn first, second and third mortgages or notes on city or country property. Consult\nPETTY B. GROSS\nDaily from 5:30 P. M. to 8 P. M.\nREAL ESTATE BROKER\n2010 DRUID HILL AVE.\nHouses bought and sold\n\nSPECIAL ANNOUNCEMENT\nOn and after January 1st, 1922, the Confectionary and Lunch Room 147 West Preston Street, trading in Brussels or Neal will be known as Neal and Kern.\nWe extend the greetings of the season to our many customers and friends.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1280,
+        137,
+        1530,
+        199
+      ],
+      "label": "text",
+      "text": "PRESS\u2014In sad but loving remembrance of our daughters and sisters, Goldin and Myrtle Press. Each year as Christmas comes",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1465,
+        394,
+        1777,
+        501
+      ],
+      "label": "text",
+      "text": "und less\nthe long-\nwho has\num lon-\nm",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1271,
+        1552,
+        1530,
+        1634
+      ],
+      "label": "text",
+      "text": "By her husband and children.\nBy her granddaughter. Beatrice\nadvertisements",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1465,
+        2232,
+        1777,
+        2442
+      ],
+      "label": "text",
+      "text": "Susan\nFouring,\npassen-\ntational\nCoupe.\n\nThe family of William T. Fowler\nwishes to thank the pastor Rev.\nWilliam of Perkins Square Baptist,\nChurch who officiated at the\nfuneral Sunday Dec. 18th from his\nniece's residence 732 Dolphin St.\nand Mrs. Jones from the above\nchurch who sang a very beauti-\nful solo, also the colored men\nfrom the Maryland Work Shop for\nthe Blind, who rendered a very\nappropriate selection and the lovely\neologue by Mr. Solomon Tripp on\nbegal of all the men at the Work\nShop and to Cyrus Lodge No. 23.\nAlpha Phi\nBrothers and Sisters of Good Hope",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1271,
+        2541,
+        1530,
+        2692
+      ],
+      "label": "text",
+      "text": "TORY' CHRIS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1465,
+        2588,
+        1709,
+        2627
+      ],
+      "label": "doc_title",
+      "text": "CHRISTMAS MORNING",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1279,
+        203,
+        1524,
+        503
+      ],
+      "label": "text",
+      "text": "Our thoughts go back to you\nWith your ever smiling, cheerful\nfaces\nAnd a love that's fond and true.\nBy their PARENTS,\nSISTER and BROTHER.\n\nSMALLWOOD\u2014A tribute of\nlove to the memory of our cher-\nished and only daughter and sister,\nHelen G. (nee Hoffman), who\ndeparted this life three years ago,\nOctober 20, 1918.\n\nTime may heal aching hearts.\nTime may make the wound less\nsore.\n\nBut time will never stop the long-\ning.\nFor our dear daughter, who has\ngone before.\n\nSurrounded by friends. I am lon-\nsome.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1281,
+        502,
+        1527,
+        631
+      ],
+      "label": "text",
+      "text": "In the midst of pleasure, I'm blue,\nA smile on my face and a heart-\nache.\nAlways thinking of you.\nThree years have passed since that\nsad day\nThat my dear sister was called\naway;\nShe was always loving, patient and\nkind.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1280,
+        630,
+        1527,
+        848
+      ],
+      "label": "text",
+      "text": "What a beautiful memory she left behind!\nOh, Helen, smile n us from Heaven\nAsk God to lead us when we die\nThat we may meet you, Dear Helen\nSome sweet day by and by.\nBy her sons, RAYMOND and\nWASHI GTON SMALLWOOD\n\nWELLS\u2014In sad and loving remembrance of our dear wife and mother, Henrietta Wells, who departed this life seven years ago, December 25, 1914.\n\nOn Christmas morn seven years ago, today",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1278,
+        847,
+        1525,
+        1106
+      ],
+      "label": "text",
+      "text": "A dying angel came and spirited you away.\nWe sure do miss your smiling face.\nSince you have gone to a better resting place.\nWe are hoping to see you again soon day.\nWhen the Mist has passed away,\ngive her husband, CHAS. H.\nWELLS, and children, ERNST C.\nWELLS, CHAS. E. WELLS, ADA C.\nWATKINS, LILLIAN G. JONES\n\nPEAKER\u2014in sad but loving remembrance of our dear mother, Emma Peaker (nee Marshall), who was laid to rest one year ago December 19, 1920.\nLoved in life; in death remembered.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1281,
+        1157,
+        1523,
+        1214
+      ],
+      "label": "text",
+      "text": "You would have been home long ago.\n\nI did not know the pain you bore.\n\nI did not see you die.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1278,
+        1246,
+        1523,
+        1338
+      ],
+      "label": "text",
+      "text": "Gone in the best of her days\nBlighted in womanhood's bloom\nTaken from the hearts that loved\nher:\nTo sleep in the silent tomb,\nOne year has passed away my\nheart is sore;",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1274,
+        1335,
+        1522,
+        1552
+      ],
+      "label": "text",
+      "text": "As time flies on I miss my dear mother more.\n\nShe sleeps\u2014I leave her in peace to rest;\n\nThe parting was painful, but God knows best.\n\nYes, the dreadful message came to me, our dear mother is dead.\n\nHer smiling face on earth no more I will see.\n\nHer spirit is at rest.\n\nShe hone gone to be with Jesus in the land of the blest.\n\nWhen all the world is cheerful And smiles are on each bow.\n\nOh, blame me not for weeping For I have no mother now.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1271,
+        1634,
+        1518,
+        2145
+      ],
+      "label": "text",
+      "text": "FOR SALE\nTwo small bungalows all conveniences. A bargain to a quick buyer. Apply\nMR. LEOPOLD ECKER,\nTOWSON, MD.\n4-t 9-16-23-30\n\nFOR RENT\u2014Two rooms with use of kitchen. Apply 2500 McCulloh Street.\n\nFOR RENT\u2014Four rooms second floor with heat and light also other convenience. Apply to 123 N. Carrollton Avenue.\n\nFOR RENT\u2014Second floor flat. Apply 25 N. Freemont Avenue. A'k for Mr. Adler.\n\nFOR RENT\u2014Two nice rooms for rent, second floor, furnished or unfurnished in a nice neighborhood in a very nice home. Apply Box R. APRO-AMERICAN Office.\n3 t. 22-30-6\n\nFOR RENT\u2014Two desirable flat four rooms and bath with heat. Apply C. C. Jennings. 14 E. Pleasant Street.\n\nFOR RENT\u2014Second floor flat. Modern conveniences. Apply 414 N. GILMOR ST.\n\nFOR RENT\u2014Three room apartment with bath and heat. Apply 536 ROBERT ST. 2-t",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1275,
+        2224,
+        1515,
+        2299
+      ],
+      "label": "text",
+      "text": "Packard Touring, 7 passenger; Moon Touring, 1920; Cole Touring, 1920; Chalmers Touring, 5 passengers; Packard Roadster; National 4 passengers; Hudson Coupe, 1920",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1366,
+        2340,
+        1433,
+        2354
+      ],
+      "label": "paragraph_title",
+      "text": "NOTICE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1273,
+        2360,
+        1519,
+        2541
+      ],
+      "label": "text",
+      "text": "No lodgers are guaranteed the large number of persons who responded to the advertisement last week to rent their rooms at $1.00 premium. The annual Convention of the Alpha Phi Alpha Fraternity. The name of each person who sent in an application has been listed and delegates will be sent out to the various home in order as they appear there. C. J. MURPHY Chairman Housing Committee",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1544,
+        119,
+        2011,
+        208
+      ],
+      "label": "text",
+      "text": "Rev. W. W. Walker, Pastor Residence 1825 McCulloh Street 74th Christmas in Te Old Madison Street 11 A. A. Hopkins, \"Hurricane\" Christmas Antiquies\u2014At least three, if not more, by the chair. S. P. M. Sunday School Christmas Layage and a depicting complete story of the Nativity love to love the \"My Soul doth manshit the Lord and my Spirit hath rejoiled\" Spirit of Christmas",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1532,
+        257,
+        1990,
+        394
+      ],
+      "label": "text",
+      "text": "Parsonage 634 George Street\n11 A. M. Sermon by Rev. M. H. Davis, subject \"Wine Gift\"\n2:20 P. M. Sunday School, M. Fred, subject \"Wholesale, Supt.\"\n5 P. M. Bible Class, M. Mabel DeCoursey, Supt.\n6 P. M. C. O. Clark, Mr. Samuel Davis, Pres.\n8 P. M. Sermon by Dr. C. E. Steward, P. E. Baltimore District.\n\nMT. PISGAH CHRISTIAN\nEASTERN M. E. CHURCH\nSERVICE STATION\nMcElderry Street and Patterson\nPark, Avenue\n\nCHURCH\nCorner Oranges and Ann Street\nRev. Alonza Rolgers Pastor\nResidence 1801 Oranges St. 2nd",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1528,
+        501,
+        1774,
+        563
+      ],
+      "label": "text",
+      "text": "\u00a7 I. M. Christmas Cantata \"The\nBethlehem King\" by the Sunday\nSchool Sliver Theater. Motion\npictures from the Sunday\nMotion pictures\n\"The Passion by K. A. Jackson.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1531,
+        575,
+        1776,
+        590
+      ],
+      "label": "paragraph_title",
+      "text": "MT. VERNON/BAPTIST CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1532,
+        601,
+        1777,
+        846
+      ],
+      "label": "text",
+      "text": "Oxford St. near Penna Avenue\nSUNDAY, DECEMBER 25TH\n11 A. M. Schoenberg\nNubian, Cologne\n2 P. M. School of\nChrist's Birth of Christ*\n2 P. M. School of\nChrist's Birth of Christ*\n6:30 P. M. B. Y. P. U.\n7 P. M. Prayer meeting\n8 P. M. Prayer meeting\nWill also preach on Saturday at Watch\nMeeting 11 P. M. You are cordially\ninvited.\nW. F. Dickinson 90624 Pierce St.\nE. G. Montgomery Clerk\n\nTRINITY A. M. E. CHURCH\nBlddle Street and Linden Avenue\nNew Albany, D. D. Pastor\nDenveridge 1522 McCulloch Street\n9:30 A. M. Christmas Cantata\n11 A. M. Sermon by Presiding Elder\nC. E. Stewart",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1528,
+        839,
+        1775,
+        1041
+      ],
+      "label": "text",
+      "text": "2:30 P. M. Christmas exercises, by\nPrimary Department of Sunday School\n6. O. M. Special Christmas program\nA. C. G. Christmas exercise\n7:30 P. M. Christmas exercise by\nmain Sunday School.\n\nST. MATTHEWS M. E. CHURCH\nE. 23rd St. near Greenmount Ave.\nRev. R. A. Green. Pastor\nParsonage 427 E. 23rd Street\nMr. E. Fuller. Pres. Ladies Aid\nMr. Alex. Jones. Pres. Botherhood\nMrs. Maud Cary. Supt. Jr. League\n6. O. M. Christmas morning early",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1532,
+        1104,
+        1770,
+        1127
+      ],
+      "label": "text",
+      "text": "CENTENNIAL M. E. CHURCH\nCulverdale and Bank Streets",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1529,
+        1125,
+        1774,
+        1188
+      ],
+      "label": "text",
+      "text": "Rev. Walter A. English, Pastor\nPorssonage 334 S. Caroline Street\nSUNDAY SERVICES\n5 A.M. Praise service\nand Christmas Services",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1527,
+        1184,
+        1775,
+        1320
+      ],
+      "label": "text",
+      "text": "10 A. M. Junior Church, Miss\nClare Stanley, Supt.\n11 A. M. Special sermon by pastor,\nsubject \"The Birth of Jesus\"\n220 P. M. Sunday School, Prof.\nWilbert Harris, Supt. Mr. Joseph\nLey, Assistant Stuptr.\n5 P. M. Riddick Chapter Epworth\nInstitute, Louwes Cooper, Dean,\nPresident, Program in charge of Miss\nEva Coleman.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1526,
+        1318,
+        1774,
+        1466
+      ],
+      "label": "text",
+      "text": "7:30 P. M. Special Christmas exercises by schoolers at the Sunday School on Monday. WEC at Monday. Tuesday and Wednesday nights. Class meetings.\n\nFIRST INDEPENDENT A. M. E. CHURCH\nBiddle near Pennsylvania Avenue Rev. L. C. Curtis, D. D. Pastor Residence 1332 Argyle Avenue Austin, M. A. Pastor 1299 P. M. Sunday School",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1518,
+        1516,
+        1769,
+        1801
+      ],
+      "label": "text",
+      "text": "7:30 P. M. Christmas Candida will be rebranded, U. Carroll, Supt. All are welcome to our services.\n\nST. JOHN'S M. P. E. CHURCH\nTessier and Orchard Streets\nBishop Roy E. Mohr, D. D.\nBishop Roy E. Mohr, D. D.\nRev. Albert D. Johnson, Asst.\nLOCAL FREACHERS DAY\nA. M. Breaching by Bishop Mohr\nwhere Is He Born King On\nThe Jews.\nA. M. Sermon W. J. Collins\n2:30 P. M. Sunday School.\n2:30 P. M. Sermon Samuel A. Chester.\n5 P. M. Singing and Praying Bands\nled by Bro. J. Kell.\nRev. Elin Murry and\nsacred cantae Xmas gifts\n\nPAYNE MEM. A. M. E. CHURCH\nCorner Calthoun and Laurens Sts.\nRev. Chas. A. Williams, Pastor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1517,
+        1861,
+        1767,
+        2031
+      ],
+      "label": "text",
+      "text": "$ P. M. Nixma program will be\npresented by the Primary Dept. of\nthe Sunday School.\nMr. J. C. Neal. Supt.\n$ P. M. Class meeting\n$ P. M. C. Language\nMr. Neilemiah Haughton. Pres.\n$ P. M. The Cantata \"Babe In The\nManner\" will be presented by Senior\nDept. of. Sunday School.\nDEPARTMENT SERVICES\n$ P. M. Monday and Wednes-\nday class meetings\n$ P. M. Thursday Love Feast.\n$ P. M. Friday Flower meeting.\n$ P. M. Friday Flower meeting.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1572,
+        2041,
+        1715,
+        2054
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1521,
+        2056,
+        1768,
+        2210
+      ],
+      "label": "text",
+      "text": "Mrs. Lottie Winder, of 1116 Druld Hill Avenue, wishes to thank the pastors of Bethel A. M. E. and Metropolitan M. E. Churchs, and Hambal Lodge No. 8. A. F. A. M., for their kindness shown at the death of her husband, John E. Winder. She also thanks the A. Jack Thomas Band and the many friends and relatives for their sympathy and beautiful floral designs.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1568,
+        2218,
+        1720,
+        2232
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1519,
+        2442,
+        1771,
+        2542
+      ],
+      "label": "text",
+      "text": "who buried him with full honors of Good Hope and also to the many relatives and friends to their sympathy and beautiful floral designs following his death.\nFrom the family, MRS. A. ELLIS, MR. J. FOWLER, MRS. S. PAYNE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1537,
+        2635,
+        1629,
+        2654
+      ],
+      "label": "text",
+      "text": "4 O'clock",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1760,
+        64,
+        2028,
+        442
+      ],
+      "label": "text",
+      "text": "PRESBYTERIAN CHURCH\nreet near Park Avenue\nResidence 1825 McCulloh Street\nJason Street Church\nin Of The Hurricane\nless large, if not more, by the chair.\nless Paganey and Exercises depicting\nand its message of love to the world.\nLord and my Spirit hath rejoiced\nof Christmas\n\nA. M. E. CHURCH\nRev. M. H. Davis, Pastor\n134 George Street\nDavis, subject \"Divine Gift\"\nfor J. W. Woodhous, Supt.\nSel J. Jeourcney, Supt.\nSamuel J. Pres.\nSteward, P. E. Baltimore District.\n\nMT. PISGAR CHRISTIAN'S\nCHURCH\nCorner Orleans and Ann Streets\nRev. Alonzo Badger, Lester\nResidence 1801 Orleans St. 2nd floor,\nSCUNDAY, DECEMBER 25TH\nEarly Prayer meeting 2 A. M.\n10 A. M. Class meetings\n11 J. M. Subject, \"Seeking For\nJesus!\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1778,
+        475,
+        2017,
+        578
+      ],
+      "label": "text",
+      "text": "8 P. M. Sister Mattie Davis will\npreach for us, after which prayer\nmeeting\nHANDY MEM. A. M. E. CHURCH\nCorner Baker and Bruce Sis.\nRev. I. Rose Pastor\nResidence 161 X. Calhoun St.\nBouce Madison. 54340",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1760,
+        573,
+        2028,
+        883
+      ],
+      "label": "text",
+      "text": "Phone Madison 5549-3\nCome one M. A. E. Church\n11 A. M. Preaching\n2.30 P. M. Sunday School.\nM. Campbell, Superintendent\n6 P. M. A. C. E. League will be\nattained by stranger. Mrs. Cora\nBauer, President.\n8 P. M. Preaching.\n\nALLEN A. M. E. CHURCH\nCor. Lexington and Canton Sts.\n11 A. C. Hirsch Steppean Jostor\n11 A. M. Sermon by the pastor.\n2.30 P. M. Sunday School\nSpecial program\nWe invite parents and children\n8 P. M. Canton C. E. League\nSpecially arranged program. Music\nintellectual and spiritual.\n8 P. M. Canton C. E. pastor.\nGood music by the choir.\nWe invite friends and strangers\nall of our services.\nArthur Stansbury, Director.\nH. D. Brent, Super Sunday School\nWm. H. Butler, Pres. A. C. E. L.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1791,
+        883,
+        2013,
+        911
+      ],
+      "label": "paragraph_title",
+      "text": "THE PEOPLE'S CHRISTIAN CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1779,
+        914,
+        2017,
+        1091
+      ],
+      "label": "text",
+      "text": "Cor. Bond and Jefferson Streets\nRev. C. Ed. Poundy, Pastor.\nRoom 423 of the Church\n11 A. M. Christmas sermon by\nLena Mason.\n2:30 P. M. Sunday School\n3:00 P. M. The Great Christmas\nexercises by the Sunday School.\n6:30 P. M. Y. P. League\n5 o'clock eve on the basis\nof Christmas music by\nthe choir. Among the Christmas\nselections will be \"Glory Shine. Around\nthe Christmas tree.\" God is\nby Davis-Lorenz, \"There Were\nShepherds\" by Wilson.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1781,
+        1087,
+        2015,
+        1108
+      ],
+      "label": "text",
+      "text": "Monday night, Christmas Carnita\n\"The Messiah.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1781,
+        1106,
+        2015,
+        1150
+      ],
+      "label": "text",
+      "text": "Tuesday, Wednesday, Thursday and Friday nights Rev. Lena Mason will proach.\nClifford E. Perry, Church Clerk",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1786,
+        1140,
+        2016,
+        1231
+      ],
+      "label": "text",
+      "text": "Clifford E. Perry, Church Clerk\nASBURY M. E. CHURCH\nRoger Brown and East Street\nRees S. II, Brown, D. D. Pastor\nParsonage 1820 E. Eager Street\n11 A. M. Christmas sermon by lee",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1779,
+        1266,
+        2016,
+        1505
+      ],
+      "label": "text",
+      "text": "5.30 M. P. Cantata by the Sisters entitled \"Around the Manger.\"\n\nWATERS A. M. E. CHURCH\nRev. J. W. Norris, D. D. Pastor\nParsonage 427 Aisquith Street\n4 A. M. The Boys Training GI will give an Illustrated Religious Service. These boys are being trained to the Christmas.\n11 A. M. Sermon by the pastor Subject \"Christ Is Born.\" The new world.\n5.30 P. M. Sunday School\n5.30 P. M. Allen C. E. League Program in charge of the Theatrical Pleasure Chuo.\n5.30 P. M. Sunday School Christmas service. cantata \"The Light of the World.\" Coffee and see something new.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1777,
+        1574,
+        2016,
+        1679
+      ],
+      "label": "text",
+      "text": "AMES MEM. M. E. CHURCH\nCarey and Baker Streets\nRev. William H. Dean, pastor\na. M. Christmas Day Pastor's\nsubject \"No Room In The Inn\"\n10 A. M. Adult Book Classes\n1 A. M. Pastor's subject\n\"Heaven's Church Free\"\nCatee and receive a friend.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1773,
+        1722,
+        2015,
+        1964
+      ],
+      "label": "text",
+      "text": "1.50 F. M. Cantata \"Babe in Mager\" 100 characters in original curture under Spot Lights.\n\nCALVARY A. M. E. Z. CHURCH\nMulberry Bet, Pine & Myrtle Ave\nRey, Joseph L. Butler, Pastor\nPhone: Calvert 208 J.\nSUNDAY, DECEMBER 27TH\n11 A. M. Pastor will present a special Christmas sermon.\n2.50 F. M. Subbath School.\n1.50 F. M. Subbath School & League\n8 F. M. Special exercises by the Subbath School\nOtherline Howard, Sept.\nSamuel Hines, Pres.\nBro. George F. Williams, Organized\nBro. Robert F. Williams, Sec.\nPrayer Meeting, Wed. eve. 8 F. M.\nClass Meeting, Friday eve. 8 F. M.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1770,
+        2003,
+        2013,
+        2066
+      ],
+      "label": "text",
+      "text": "Corr. Prosteman and Division St.\nA. M. Special Christmas service\nChoral Mass, Procession and Semin-\nsion. Mrs. Constancia Lackling, Director.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1760,
+        2121,
+        2028,
+        2548
+      ],
+      "label": "text",
+      "text": "Residence 1511 E. Madison Street\nA. A. M. Sermon Services.\n11 A. M. Sermon by pastor\n14 P. M. Bible school\nP. M. B. Y. U.\n8 P. M. Sermon by pastor\nWEEKLY SERVICES\nMonday night First Baptist Relief Association\nWednesday night Woman's Missionary Society.\nFriday night prayer meeting\nFirst Sunday 12 P. M. Communion\nMortis Myers, Church Clerk\n\nCHRIST INSTITUTION CHURCH\nEnsor Street near Monument\nDr. G. W. Kennard, Pastor\n11 A. M. Sermon by the Rev. Outer\n2.30 P. M. Bible School\n6 P. M. Sermon by Rev. Paul followed\nby a Spiritual and Test Service\n\nGILLIS MEM. M. P. E. CHURCH\nStockton street near Baltimore\nRev. Hilton A. Parker, Pastor\nResidence 1210 McCulloh St.\nTRUSTEE DAY\nBro. Jerry Stewart, President\n11 A. M. Sermon pastor, subject\nThe gift Heather\n2.30 P. M. Sunday School\n4 P. M. Bible Class\n6.30 P. M. Christian Endavor\n8 P. M. Bible School\nBro. Thomas Murray, Skipper\nSister Hattie Woods, Pres. C. E.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1760,
+        43,
+        1872,
+        64
+      ],
+      "label": "text",
+      "text": "PAGE TWO",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1868,
+        338,
+        1937,
+        352
+      ],
+      "label": "paragraph_title",
+      "text": "CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1862,
+        1986,
+        1932,
+        1999
+      ],
+      "label": "paragraph_title",
+      "text": "CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1770,
+        2073,
+        2011,
+        2121
+      ],
+      "label": "text",
+      "text": "FIRST BAPTIST CHURCH\nCor. Caroline and Melidory Sis.\nRev. Albert J. Greene A. B. D. D.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1764,
+        2614,
+        2003,
+        2679
+      ],
+      "label": "text",
+      "text": "L. M. Gwynn, Adv. Mgr.\nRev. J. W. Norris, Pastor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        2008,
+        800,
+        2024,
+        883
+      ],
+      "label": "text",
+      "text": "F.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        2008,
+        2066,
+        2024,
+        2290
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        2008,
+        2549,
+        2024,
+        2631
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 2041,
+  "height": 2725,
+  "processed_at": "2026-03-06T18:23:42.207130+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 127,
+    "after_merge": 54
+  },
+  "regions": [
+    {
+      "bbox": [
+        61,
+        33,
+        545,
+        228
+      ],
+      "label": "text",
+      "text": "Society",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        234,
+        1180,
+        561,
+        1583
+      ],
+      "label": "text",
+      "text": "\"The Birth of a Nation\"\nIs Well Answered by\n\"Man's Part in the Bible\"\nBooks have the greatest defense matter\nrejudices in any form.\nBlack Man's Part in the Bible\" is in\nPrice $1.00 or $1.25 with the famous\nJesus, as a Black man. Now to con-\nsend 30c in money (no stamps) for\nbook, you will eventually order the large\norder or registered letter.\nM. WEBB, 3545 Prairie Avenue,\non new system. Send 40c for outfit and terms.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        51,
+        1207,
+        536,
+        1311
+      ],
+      "label": "doc_title",
+      "text": "\"Segregation\"\u2014\"The Birth of a Nation\" In Well Answered by \"The Black Man's Part in the Bible\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        54,
+        1322,
+        533,
+        1521
+      ],
+      "label": "text",
+      "text": "Webb's Books have the greatest defense matter agains Prejudices in any form.\n\n\"The Black Man's Part in the Bible\" is in two books. Price $1.00 or $1.25 with the famous picture of Jesus, as a Black man. Now to convince you, send 30c in money (no stamps) for the small book, you will eventually order the large book. Send money order or registered letter.\n\nAddress ELDER JAS. M. WEBB, 3545 Prairie Avenue, Chicago, Ill. Agents wanted on new system. Send 40c for outfit and terms.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        234,
+        1583,
+        539,
+        1651
+      ],
+      "label": "paragraph_title",
+      "text": "Madame G. Coleman's Queen Hair Grower",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        234,
+        1583,
+        539,
+        1651
+      ],
+      "label": "doc_title",
+      "text": "Madame G. Coleman's Queen Hair Grower",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        234,
+        1792,
+        561,
+        2025
+      ],
+      "label": "text",
+      "text": "Holy Bible",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        44,
+        1822,
+        528,
+        2482
+      ],
+      "label": "text",
+      "text": "Holy Bible\n\nGENUINE LEATHER BINDING\n\nFLEXIBLE\n\nTHE GREATEST VALUE\nEver Offered\nAt the Price\nSIZE OF BIBLE 5\u00bd x 8\u00bd INCHES\n\nCHAPTER HEADINGS ON OUTSIDE\nCORNER OF PAGES, MAKING\nTHE BIBLE SELF-INDEFED\n\nSpecimen of Type\nSee Page Invocation,\nhimself, comouth to sl\ncave, and a stone lay in\n\nSELF-PRONOUNCING EDITION\nBound in Genuine Seal Grain Leather, with overlapping covers,\nas shown in this Engraving: tiles in gold, round corners, Red\nUnder Gold Edges, milk brown bead and purple silk masker.\nThe Type of a long, curved, white and black, and is printed on\na good quality of paper. EASY TO READ. Containing:\n\nCONCORDANCE\n16 COLORED PLATES\nMAPS OF BIBLE LANDS IN COUNTRY.\nEach Bible in a neat box with classic land.\n\nSEND ALL ORDERS TO\nTHE CHICAGO DEFENDER, 3159 State St., Chicago\nThis beautiful Bible and one year's subscription\nORDER\nto The Defender for the price of the Bible, $2.70\nTODAY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        35,
+        235,
+        295,
+        460
+      ],
+      "label": "text",
+      "text": "Mrs. Calvine Miller, Atlanta, Ga., formerly of Hawkinsonville, Ga., has arrived the city and is living at 6010 Wabash Ave. Mrs. Lizzie Brown, 2018 State street, is returned, from Indianapolis, Ind., she she was the guest of Mrs. Rettie A. G. Mr. and Mrs. Page and Mrs. Lancaster Martin Van Buren, Rock Island, Il., is in the city, stopping at 3432 Prairie avenue. F. B. Bussett, Austin, Tex., was in the city when he rode to the At the request of Mr. Lawson the Defender office at Austin, he paid the Defender office a visit. Miss Hazel Harrison, Imperio, Ind., stopped at the reception and stopped with Mrs. Wilson, 3233 Wabash Ave.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        33,
+        517,
+        297,
+        1052
+      ],
+      "label": "text",
+      "text": "Miss Louise Glass, a popular teacher of Hopkinton, Ky., is stopping at the library. Miss Elinah Goodwin and Miss Rosie Spencer, teachers from Louisville, Ky., are taking a summer course at the Chicago university, and are the guests of William L. Davis, 2211 Rhodes Avenue. Mrs. Charles Walker, Dearborn street, wife of Charles Walker of the Eighth Regiment, has broken up housekeeping with her relatives at Hopkinton, Mo. Mrs. Sandy W. Trie, 6428 Eighth Avenue, expects to go to Michigan next week for her health. Mrs. Karen W. R. W. G. M. of A. K. and A. M. of the state of Illinois, was in the city last Sunday. Mrs. Mary J. Anderson, 3608 Vernon Avenue, was gone on a visit. Mrs. W. Trie, arrived Sunday, stopping with his mother, 3551 Wabash Avenue, for an indefinite stay. Misses Pritchard, Indiana, taught in the high schools, and in the city, the guest of Mrs. Porter and sister, 3504 Wabash Avenue. They will be here several weeks. Mrs. Louise, Ky., was in the city last Sunday. The Young Kentonian was highly entertained by friends. Lennard Hirsch, a well-known tailor, taught in the city and arrived in the city on a shine. Miss Hirsch Harrison, Lapture, but, in the city last week. She was given an auto drive to Erlangton, Ill. in the city, with Miss Elizabeth Clark, 3242 James and Almoney. The First Lady, directed by Will Kelly, gave a dazzling dance on last Saturday at Ogden Park for the visiters.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        33,
+        1054,
+        296,
+        1170
+      ],
+      "label": "text",
+      "text": "Write a number of visitors are in the city attending the races. Henry Craig, a math teacher at Westminster High School, Mrs. Alberta Johnson, $2 Eastward Avenue, and family, have moved to the city to spend the summer. The wife of the late King, William, $219 column avenue, entertained at dinner on Saturday for Cary B. Lewis, who was absent, has his birthday.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        33,
+        1165,
+        297,
+        1579
+      ],
+      "label": "text",
+      "text": "\"Segregation\"\u2014\"The\nIs Well An\n64 The Black Man's\nWebb's books have\nagains' Prejudice\n\"The Black Man\ntwo books. Price\npicture of Jesus, a\nvince you, send 3\nthe small book, you\nbook. Send money order or re\nAddress ELDER JAS. M. W.\nChicago, Ill. Agents wanted on news",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        33,
+        1579,
+        297,
+        2018
+      ],
+      "label": "text",
+      "text": "Ma\nQuee\nIt is\nbreak\nthe\nknow\nmake\ntreat\nPost\n574\nHoly",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        300,
+        237,
+        561,
+        836
+      ],
+      "label": "text",
+      "text": "Mrs. Julius Biggs, Louisville, are visiting Mrs. James, H. T. Taylor and sister, 1923 W.bourne.\n\nEdward Thompson of this city is at Hopkinsville visiting his mother, Mrs. George W. Browder, Hopkinsville, Ky.\n\nMr. and Mrs. Rosco H. Finner of this city are at Hopkinsville, Ky, where they will be a summer teacher.\n\nMiss Abbey W. teacher in the public schools of Louisville, Ky. is expected in the city to preside a summer course at Chicago University. She will stop and Mrs. A. J. Alexander, a Columbus teacher.\n\nMr. and Mrs. John File have returned from Cleveland, where they spent several days the guests of the latter's parents. Mrs. and Mrs. J. William Lawson, a Columbus teacher. Mrs. and Mrs. Lawson has been ill for some time.\n\nG. S. Bunny, Louise Avenue, has returned from Exceton, where he has been visiting his father, R. J. Bunny, a Columbus teacher.\n\nMr. and Mrs. Arthur F. Cabezo, 332 Wahlsah Avenue, bettuno Stadium for an extensive visit in Teboule and the East.\n\nMrs. Emery Anne, New Orleans, La., is visiting her father, H. G. Gervais, 332 South Wahlsah Avenue.\n\nMrs. Ida E. W. Warren, president of the Negro Fellowship League and the Alpha Softball club, left Wednesday. Mrs. Ky. where she speaks on the Women's day programme Thursday afternoon.\n\nMr. and Mrs. George Power, 205 Wahlsah Avenue, are the great parents of Mrs. W. Worthy, Washington, D. C.\n\nMiss Idola, San Antonio, T. C. Miss Levy, Cleveland, Ohio and Mrs. Tisha Lexington, Ky. were gave a matinee dine at Wednesday at Apamea-town club Mrs. Worthy, Washington, D. C.\n\nMiss Andrea Patti Biggs, 207 Wahlsah Avenue, will leave this work for Dallas. Her son she will appear in a big play at Oklahoma to give recitals.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        300,
+        837,
+        560,
+        1167
+      ],
+      "label": "text",
+      "text": "Mrs. Richele C. Colb has returned to her home after a three weeks' visit with her sister, Mrs. Sarah Brown, in Thirty-fifth street. Miss miss Turner, Pittstown, Pa., is spending the summer with her sister Mrs. Charles Leroy Henry, 50 East Thirty-third street.\n\nMr. Anthony McClimps was returned to her home after a month's absence in New York. Mrs. George McClempan left Ontario, Canada, this week. Please number of her friends were at the train station. Mrs. and Mrs. Russell Kemp, 537 Wash avenue, have returned from a two weeks' vacation. They visited New York city, Washington, to Old Country comfort, Northland, Va., and Desert City, Utah. Mrs. has returned home after an absence of two weeks. Mrs. Garner, his charming wife, will leave with her husband tonight for the cost.\n\nMiss Miss Turner, Hawkeye High School 6122 Etherdhurst street in the city a few days this week after being away several weeks doing concert work.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        303,
+        1166,
+        556,
+        1180
+      ],
+      "label": "text",
+      "text": "Edward Holland, 27 West Fifty-tirs",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        261,
+        1662,
+        510,
+        1792
+      ],
+      "label": "text",
+      "text": "It is unsurpassed; stops hair from breaking off and falling out. It is the most powerful hair grower known to science. Positively will make hair grow. Three months' treatment for $2.20\u2014600 per box. Postage paid. Agents wanted. 5746 So. Fifth Ave., Chicago, Ill.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        565,
+        132,
+        828,
+        696
+      ],
+      "label": "text",
+      "text": "street, has returned from the border.\nMrs. Marie Schauerman, 484 North Oakley,\nMrs. Marie Schauerman, is visiting her daughter,\nTheresa Suntek, 615 North Oakley, she has not seen for thirty years.\nProf. R. H. Cols, principal of Simmons\nHigh School, St. Louis, Mo, is the guest of\nMajor Allen Wesley, 3143 Prairie avenue.\nMr. Beverly Mosely, 3484 Sangamon street, snent the day here Wednesday.\nShe returned the same evening to her summer home in Michigan.\nShe attended a visit with Mrs. Bobbie Brooks of Kenwood, who returned from a visit to that city last week.\nMr. Fred Smith and Mr. Arthur Smith,\nMr. Fred Smith and Mr. Arthur Smith,\nare called to this city home, the funerals of\nthe Friend of Mr. Charley Smith, have returned home.\nMrs. Mary Wooten, who has been the guest of Mrs. Daisy Curtell for two weeks,\nhas returned to her home at Anderson, Ind.\nMrs. E. Azalea Haackley, noted singer, will leave soon for Ashville, N. C., to give a concert.\nWenderson was the guest of Dr. Dr. Herbert Anderson on Wednesday at dinner, at Sunday afternoon the guest of Devitt Curtis.\nIs the guest of Mr. and Mrs. James M. Woodard, 4525 Federal street, for ten days.\nMrs. Ellis W. Burton, wife of Dr. Ellis\nW. Burton of St. Louis, Minneapolis, was the guest of Mrs. Albert Hamilton, 4699 Lanley avenue.\nMrs. Emma Davis, Cleveland, Ohio,\nand Miss Louise Wormley of Washington,\nwas the guest of Dr. and Mrs. U. G. Daddy, 4317 Forestville avenue.\nMrs. David R. Lawrence, 3305 Rhodes avenue, is spending a few days at the H. Morris, near Norton Harbor, Mich.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        564,
+        697,
+        825,
+        1218
+      ],
+      "label": "text",
+      "text": "W. R. Sobers, 5006 Lake street, gave a dinner July 14,\u5348\u4e03 at Kuntz &amp; Remmey, Cleveland, Ohio, and Miss Rebecca Wormley, Washington, D.C. C. An auto ride followed. A. L. McGrillie, 3341 Wabash avenue, gave a dinner with his former employer\u2014W. H. McBoley gold watch, July 17, in appreciation of Mr. McGrillie's service. Miss Ivren Hampton and her sister, Miss Jessica St. Louis, Mo., were in Dr. L. Lewis, 3011 State street, last Sunday. A club known as the \"Black Birds\" is at the Morris summer home, Benton Hurder, Mich., for the week. M. H. Haining, formerly of Philadelphia, Pa., recently of Galsburg, Ill. is in the city and is stopping at 3331 Calumet. D. H. Ash, Sarina, Ont., and W. Greer, M. H. Ash, were the guests of Mr. Gusman, at the American Derby, Saturday, July 16th. Mrs. Josephine Davis, 3341 Wabash avenue, left Wednesday for Washington, at the bedside of her mother, who is ill. Miss Florence Covington has returned from Jacksonville, Tennessee, from a business trip. Mrs. Jessica K. Steele, Jr., and sums Miss Alice Taylor, have returned from a three weeks' vacation in Lake Geneva, Wis. Mrs. Minnie F. Stado and daughter, Mrs. Mike J. Drume, visiting relatives and friends in Southwest Missouri and will return home from St. Louis, Mo., Aug. 18th. Rev. and Mrs. L. Drume, North Campbell and Dr. Anne Drume, present Dr. T. H. Key and Dr. J. C. Tadley, physical physicians of Chattanooga, Tennessee.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        562,
+        1216,
+        825,
+        1328
+      ],
+      "label": "text",
+      "text": "Fred Lamphins, 506 Mills street, left Tuesday for a two weeks visit through Dearborn. Miss Ima Haitfield, Indianapolis, Ind., is the guest of Miss Lovina Eaton at 2211 Wabash avenue. Mrs Ann Flus, 3215 State street, west of the Capitol, Carlo, Ohio, to attend the State Grand Lodges of the Court of Calcutta, K. of P.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        560,
+        1327,
+        827,
+        1708
+      ],
+      "label": "text",
+      "text": "Sam Sheppard and George P. Dore, St. Louis, Mo., passed through the city en route to a Michigan resort. While here he met the children of the Cattleyans, Mrs. Dick Porter, Topena, Kans, and Warner Scott, Los Angeles, Calif., are visiting at the home of their mother, Mrs. Lizzie Scott, 4326 Langley avenue. Mrs. Lizzie Scott is recording the annual meeting of the Kans. City Daughters of Tabor. Mrs. Lee H. P. is being highly entertained. Mrs. Jemie P. Hutter, 5321 Dearborn street, head of the Daughters of Tabor, is attending the annual Grand Lodge, Knights and Daughters of Tabor. Miss Edith Purnell, Kansas City, Mo., is the guest of Miss Anna Holt of the Holl, 4328 Wabash street stopping with Mrs. Holl, 4328 Wabash street with S. C. Johnson, Columbus, Ga., is in the city stopping at the Y. M. C. A. H. E. Kvans, Y. M. C. A. spent Dearborn, Dumont, and Friends and his son, Mrs. Jemie Purnell. Mrs. M. C. Madue, Montreal, Canada, was the guest of Rev. and Mrs. Jas Higgin, 4328 Dearborn street, last week.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        566,
+        1723,
+        827,
+        1751
+      ],
+      "label": "paragraph_title",
+      "text": "ENTERS REAL ESTATE BUSINESS\n(By Edward H. Davis)",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        561,
+        1754,
+        826,
+        2035
+      ],
+      "label": "text",
+      "text": "Tampa, Fla. July 21.\u2014Henry Grows, 361 Hillsboro street, is it reported, will be married next month. He is one of his friends. Mrs. J. M. Harris have given their bakery business at 1313 Central street and have gone into the real estate business. *Mr. and Mrs. Henry Daniels have just returned from the old home at Hillsboro with their packages. Mr. Daniels is a mail carrier and is back on his old route. *Mrs. Marion Refo, 310 Highland avenue, is well and her friends are rejoicing over her spoety covers. *L. Williams is carrying her supplies at Hillsboro and Hillsboro street. *Rev. Mr. King, pastor of the Highland Avenue Baptist Church, baptized two candidates Sunday. July 2. *Mrs. J. K. Martin, 290 Hillsboro street. *Mrs. William and Hillsboro street. *Walter McKay has closed his coal and wood business down for the summer.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        567,
+        2110,
+        688,
+        2289
+      ],
+      "label": "text",
+      "text": "STAFF PHOTOGRAPHY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        580,
+        2337,
+        813,
+        2423
+      ],
+      "label": "text",
+      "text": "It acts quickly on the flair and Scalp. You see the skins disappear. All your happy, smooth skin, smooth skin, so it can be easily smoothed, silky, sliky, so it can be easily skinned. Like the skins of the kins. Holdin' Hardie Pressing makes it grow fast, long and beautiful, stopping the swelling of the skins and falling hair at age 60.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        579,
+        2421,
+        813,
+        2467
+      ],
+      "label": "text",
+      "text": "PROVE IT FOR YOURSELF\nSend Seed (stamps or coin) for a big can of Herodian Agents wanted. Write today.\nHERMIDIAN MEDICINE CO., Atlanta, Georgia.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        847,
+        126,
+        1605,
+        628
+      ],
+      "label": "text",
+      "text": "THE REWARD\n(Emotional appeal to readers)\n\nAMERICAN BUSINESS\n\nAMERICAN THEATRE\n\nCHINESE AMERICAN RESTAURANT\nNO WANTED\n\nSouthern Street By, New Orleans\n\nAMERICAN STORAGE\n\nAMERICAN STORE\n\nAMERICAN SOCIETY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        835,
+        635,
+        1615,
+        761
+      ],
+      "label": "text",
+      "text": "The men of the Eighth regiment of Illinois are being insulted every day in San Antonio. They are forced to ride in the \"Jim Crow\" section of the street cars, regardless of their uniform or rank. Rev. Bradden, pastor of Berenau Baptist church, now chaplain of the regiment, wearing the uniform of a captain, was ordered to \"get back into the rear seats while a dirty Mexican rode up front with the whites. Our men are sent to fight a class of people who are enemies of us and suffered a better treatment than we who sacrifice our lives for the Stars and Stripes\u2014right here in our home country\u2014showing other nations that we are made to lick the hand of our enemies, showing the utter contempt and disregard for the black soldier. Even Russia has not proved so cruel the Jewish soldier being accorded all the privileges of the Czar's army. We protest to the government the treatment of not only the soldier, but the Race citizen of the south as well.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        863,
+        787,
+        1058,
+        807
+      ],
+      "label": "paragraph_title",
+      "text": "JOLLY PARTY PICNIC",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        829,
+        807,
+        1095,
+        1372
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        831,
+        1372,
+        1093,
+        1503
+      ],
+      "label": "text",
+      "text": "4. * Mr. Brundall Reed, another one of Montana's pioneers, is hale and hearty. He is one of the few who crossed the plains in a \"prairie schooner\" He came from Kansas and settled here in 64. Montana. He is J. Baker. Butte some time, is in our city, the guest of Mrs. H. J. Baker. She is on her way to Ethel, Va., to visit her mother. On her return trip she will visit on the Pacific coast before returning to Butte.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        833,
+        1516,
+        1090,
+        1535
+      ],
+      "label": "paragraph_title",
+      "text": "MISS CAMPBELL TO MARRY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        831,
+        1531,
+        1093,
+        1697
+      ],
+      "label": "text",
+      "text": "DECLARE TO MAINTAIN Durham, N. Carolina\u2014Miss Estelle Campbell, Escambia, Mich. marry and take her honeymoon at her home and at the 'Windy City.' She is well known in Chicago among the smart women there that she was admired as one of the most beautiful that city. After taking up the work of stenography, she came here and secured a position in the insurance office. She engaged to the Rev. Johnson, a leader of the Church. At Chicago she will be the guest of Mr. and Mrs. McKey and her sister.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        849,
+        1713,
+        1072,
+        1734
+      ],
+      "label": "paragraph_title",
+      "text": "MRS. KITTIE M'KAY III",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        831,
+        1734,
+        1091,
+        1899
+      ],
+      "label": "text",
+      "text": "Krittie Scott McKay, 236 Dearborn street, one of Chicago's leading restaurant women, has been ill for the past seven weeks, but is improving nicely, and she has been too charge of the business and has broken orders in the business. The cash register showed big gains in receipts nightly due to the business ability and the good customer service of the kitchen. She is due all kinds of credit cards, such acumen in her new field. A Dawnender reporter was there on Tuesday and every patron came out will pleased.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        831,
+        1908,
+        1090,
+        1929
+      ],
+      "label": "paragraph_title",
+      "text": "LEAGUE-CONVENTION HFLD",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        830,
+        1915,
+        1089,
+        2034
+      ],
+      "label": "text",
+      "text": "LEAGUE-CONVENTION HELD\nJacksonville, Fla. July 21.\u2014The West\nJacksonville Sunday School league and\nthe Oralia held its sessions\nhere last week. The school also\nreported from sections of the state\n\"its the Sunday School Growing in Fla.\nand left favor\" were among the question\nthat was considered by the convention.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        856,
+        2066,
+        1070,
+        2096
+      ],
+      "label": "paragraph_title",
+      "text": "News of the Churches",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        829,
+        2120,
+        1095,
+        2705
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1121,
+        1403,
+        1602,
+        1435
+      ],
+      "label": "paragraph_title",
+      "text": "BIG DEMAND FOR CHAUFFEURS CAN NOW BE FILLED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1144,
+        1479,
+        1577,
+        1641
+      ],
+      "label": "doc_title",
+      "text": "The Y.M.C.A. Auto School and Repair Shop",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1118,
+        1666,
+        1600,
+        1836
+      ],
+      "label": "text",
+      "text": "has completed its new garage. We are now larger and better able to serve you. Our complete repair shop enables us to thoroughly train you in every detail of the business. All Kinds of Repairs Done at Reasonable Prices Accessories Secured at a Great Discount",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1096,
+        809,
+        1358,
+        1037
+      ],
+      "label": "text",
+      "text": "The Prairie Avenue Tennis Club announces the opening of an all-comers tennis tournament, beginning Saturday, October 15, and ending on Sunday, gold is offered as a trophy for the winner of the singles, and medals of gold will be given to each of the winners in doubles. This is the initial tournament that great interest and enthusiasm will be manifested in and off the courts. The 45 members of the club are continued in practicing and kitting themselves in for the tournament. The ten senators of the Washington, Kansas City and St. Louis clubs are expected to enter the tournament. All tennis players must pay $15 to the Entry fee for the singles is 75 cents and 50 cents for the doubles.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1106,
+        1045,
+        1353,
+        1063
+      ],
+      "label": "paragraph_title",
+      "text": "COMMUNITY CONCERT SOON",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1097,
+        1067,
+        1358,
+        1192
+      ],
+      "label": "text",
+      "text": "The Community Concerts that are being given at the new museum, under the direction of the City Association, are meeting with great success. The Apollo Musical Society and the Jazz Orchestra are appearing nightly. On Friday night, July 25, Mine, A. Azalda Hackley sing at Lincoln Exposition and made a hit will appear on that evening.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1127,
+        1199,
+        1328,
+        1220
+      ],
+      "label": "paragraph_title",
+      "text": "MASON MAKES TOUR",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1098,
+        1224,
+        1360,
+        1361
+      ],
+      "label": "text",
+      "text": "Memphis, Tenn. July 21.\u2014W. H. I. Brown, right eminent grand commander of Tennessee Knight Templars, who resigned in July 1863, Monday on his official tour of the state. His first stop will be Clarksville and then Nashville, Murrsherfree, Chattanooga, Knoxville, Bristol, Haim, Iman, Jalice, then back to Memphis and visit commanderies here just before the opening of the Grand Commandery August 5th.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1363,
+        802,
+        1624,
+        994
+      ],
+      "label": "text",
+      "text": "ETLEUM CLOSES SUNDAY\nGrace Lycem will come to a close for month 11 August on Sunday, July 23. She last missed the to be largely attended. Miss Bertha Moseley was in the city Wednesday to arrange for the closing program. The speakers will be Susa Dismond and Dawn Dawson and Dawn Sawyer, sent by Mr. Cyrus. Harrison Emmanuel will play on the violin, Miss Clee Dickerson will render a violin solo and Mrs. Bertil B. Anderson will sing. There starts at 5:15 p. m. and refreshments will be served following the program. Miss Maude Roberts will preside.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1395,
+        1008,
+        1594,
+        1021
+      ],
+      "label": "paragraph_title",
+      "text": "MME. BYRON IN RECITAL",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1363,
+        1024,
+        1629,
+        1215
+      ],
+      "label": "text",
+      "text": "For more than a year friends have been trying to get Mine. Byron to appear here in song recital. Even Ernestael got her to appear before the elite of that city last spring. Perhaps Mine. Byron feels that enough honor has come to her from the musical people of Europe; she has seen the work she can take up the first of the songs she has her too busy to bother with a few recitals. However, as a great public duty, she has been made to feel that she ought to allow the people of this city to perform her art. When she saw that they really wanted to hear her she consented.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1364,
+        1214,
+        1628,
+        1363
+      ],
+      "label": "text",
+      "text": "Since last heard here she has spent many years abroad studying under the tutelage of the composer and has sung in the leading theaters in Europe with signal success. The outbreak of the present European war has hastened her engagement in theatrical work; she was pursuing advanced studies in preparation for her engagement at the Opera Conjique. She has directed a diva and refugees of Europe will appear in song recital at Quinn Chapel Monday evening, Sept. 25.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1624,
+        548,
+        1958,
+        710
+      ],
+      "label": "text",
+      "text": "Mr. and Mrs. Turner Jones were compelled to sell her home on account of the illness of Mrs. Jones, who is suffering with a nervous breakdown. Her physician has ordered that she be taken to the lake. Their friends will find them at 3158 Bills where they live. They are known in the musical world and have traveled far and wide. No European or Australian city is new to him. He has given up his trip to Honolulu on account of the illness of his wife.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1624,
+        782,
+        1958,
+        1270
+      ],
+      "label": "text",
+      "text": "Further Enhance Your Beauty by Using\nCREME De ORI\n(NON-GREASK)\nwithout question the greatest beauty requisites. It whitens the skin, velvet. Harmless at white and softender. 45c and 50c g. De ORI V. J. del face pearls saw. cradle whitening. secorename. The white the low creamy cream. By Paired TS. on any order, st. not entirely up. Money and extra strating and ret required. Send.\n\nLA VIERA\nLook Box 221, Do",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1624,
+        1307,
+        1958,
+        1481
+      ],
+      "label": "text",
+      "text": "Hair Grown in\n\nGloss-O-A Marvelon\n\nGrows Hair in",
+      "status": "ok"
+    }
+  ]
+}

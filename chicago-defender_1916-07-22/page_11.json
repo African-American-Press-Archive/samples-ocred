@@ -1,0 +1,692 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 2041,
+  "height": 3102,
+  "processed_at": "2026-03-06T15:18:20.471577+00:00",
+  "processing_time": 156.6,
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "ocr_workers": 1
+  },
+  "layout": {
+    "raw_detections": 134,
+    "after_gap_fill": 147,
+    "after_merge": 61
+  },
+  "regions": [
+    {
+      "bbox": [
+        82,
+        185,
+        370,
+        278
+      ],
+      "label": "text",
+      "text": "you want the best rooms with the best families in the area. See M. W. FONDER\n3358 Calmet Ave. Phone Douglas 7016.\nREST\nto eight apartments.\nALEL\nadd two-fat building, brick, 5 and 6 rooms.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        37,
+        311,
+        369,
+        1593
+      ],
+      "label": "text",
+      "text": "THE JOHNSON RESIDENCE, 3121 WABASH AVE, phone Douglas, 8450\u2014Nicely furnished all modern conveniences; near car line and \"L\"; use of kitchen and laundry; references exchanged.\n\n3817 VERNON AVE, 2ND APT., PHONE DOUGLAS 3512\u2014Nicely furnished room; steam heat; at water at all times; neatly, one block, 80th st. car line, 2 blocks to Kenwood L. and wife or single lady; only one lady has a kitchen.\n\n4347 FORRESTVILLE AVE, PHONE KENWOOD 4118\u2014Nicely furnished room, front, large and ally; steam heat; elegant light; splendid neighborhood; near car line.\n\n3830 SOUTH PARK DLVD, PHONE DOUGLAS 5280\u2014Two neatly furnished, light and rooms; one a front; hot water service; pleasantly situated on the boulevard; suitable for a couple or gentleman; near 35th st. car line.\n\n3155 BO PARK AVE, PHONE DOUGLAS 2988\u2014Line, large front light and ally room; overcooling boulevard; two closely, hot water light and ally rooms; neat, good hot water service and transportation; short walk to lake; reasonable to desirable parties; man and wife or guests.\n\n3267 VERNON AVE, COR/33D BLVD, PHONE DOUGLAS 5280\u2014Nicely furnished large and small light and ally rooms; neat, good hot water service and transportation; short walk to lake; reasonable to desirable parties; man and wife or guests.\n\n3314 RHODES AVE, PHONE AUTO 75-704\u2014Nice light, ally side room; neatly decorated; good transportation; hot water service; reasonable; man and wife or guests.\n\nAVE.\u2014FURNISHED BEDROOM kitchen; $4 weekly; basement kitchenette; 2.50; strictly up to 15-22\n\nAVE.\u2014FURNISHED BEDROOM kitchen; $4 weekly; basement kitchenette; 2.50; strictly up to 15-22\n\nAVE.\u20142D FLAT, PHONE KENWOOD, oak section; convenient to heat, hot water; all modern one neighborhood; young men or women\n\n2D APT., PHONE KENWOOD, furnished front room for girls; steam heat and hot water; $2.50\n\nD. Stewart.\n\nST. 2D APT., PHONE DREX, furnished side room for man persons; steam heat, hot water.\n\nVE. SEAR ST. LAWRENCE, furnished large, neatly furnished light rooms; hardwood floor; friendly live water service; married couple or single lady; gentleman; suitable for light housekeeping; 2 blocks to \"L\" or surface lines.\n\n3535 CALMET AVE, PHONE DOUGLAS 3510\u2014Nicely furnished rooms, light, cool; all modern conveniences; kitchen; near car line; very desirable.\n\n3266 WARASH AVE.\u2014FURNISHED OR UNFURNISHED rooms, steam heat, room, steam room large, ally, well lighted and modern throughout; near \"L\" station and car line.\n\n3654 FOREST AVE, PHONE DOUGLAS $900\u2014When looking for nice, moderate, convenient rooms, call at the Forest ln.\n\n3558 RHODES AVE, APT. 3, PHONE DOUGLAS 3581\u2014Two furnished rooms, large, light; in married couple or single people other rooms; near 35th st. car line; one block from Orange Gorge.\n\n4118 WARASH AVE, PHONE DREXL 7201\u2014Flat, neatly furnished room; hot and cold water; electric lights; near car line; elegant neighborhood.\n\n4247 WARASH AVE, 2ND FLAT, TEL KENWOOD, 7414\u2014Nicely furnished light and air rooms, hot water; all conveniences; near two car lines.\n\n3744 RHODES AVE, 2D APT., PHONE DOUGLAS 3518\u2014Large furnished rooms for rent; suitable man and wife; steam heat, hot water; near 35th st. car line; rent reasonable.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        37,
+        1635,
+        370,
+        2807
+      ],
+      "label": "text",
+      "text": "TO\nROOM TO\nback parlor, suit-\na week; a small\ndry to Elevated and\ngood 108. Call up.\n\nTHE FURNISHED\nman and wife;\ne for an ideal\nbed.\n\nDOUGLAS 472\nfurnished lit-\ntle; large rooms for\nheat; hot linens;\nprices $2.50, $3.00,\n$4.00. One large room for four people\nand Mrs. Franklin.\n\nDOS AVE. PHONE DOUGLAS 1492\nfurnished for rent; steam heat and hot\nall hours; suitable for single man or\nwoman; $1.20 and up.\n\n4723 18th AVE. 2ND FLAT\u2014LIGHT, AIRY\nfurnished lights and airy rooms; hot\nwater; convenience; near car line.\n\nMET AVE. STEL. DOUGLAS 277\nfurnished furnished rooms to rent; large and\nairy; rance heat; near car line.\n\n2723 PWOOD AVE. PHONE DOUGLAS 3671\nfurnished furnished rooms to rent; large and\nairy; rance heat; near car line.\n\n2729 HODES AVE. PLAT 2\u2014NICELY FURNISHED\nroom; furnace heat; hot and cold running wa-\nin each room; all modern conveniences; near\nline.\n\n20 LANGLEY AVE. NEATLY FURNISHED\nroom; furnace heat; hot and cold running wa-\nin each room; all modern conveniences; near\nline.\n\nRENT\u2014LARGE, LIGHT, AIRY PRONT\nfor two men or man and wife; 3818\nave.\n\nHODES AVE. PHONE DOUGLAS 1450\nfurnished room for rent; front room and other\nrooms, with bath, hot water and all\ncees.\n\nEST AVE. 3153 CALMET AVE.\nwas 1351. Nicely furnished or unfor-\nsmall and large; light and airy;\nnewly decorated; excellent kitchen\nservice. All conveniences; strictly\n\nIAN WISHES TO RENT ONE\nfurnished room to steady party;\nairy; in beautiful neighborhood;\nsurface line; rent $2.50 per week\nin Phone Duxel 3641.\n\n1 LARGE WELL LIGHTED\nsingle guest; modern conven-\nture 3654.\n\nPHONE KENWOOD\nman or lady;\n$2.50 per",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        376,
+        178,
+        565,
+        308
+      ],
+      "label": "text",
+      "text": "3356 PRAIRIE AVE.\nNestly furnished lake\nwith four windows, en-\nsingle or double. Good\nblock to 35th St.\n\n4544 ST. LAWRENCE AVE.\nKenwood 2540-N North\nfor men and wife, two gents\nsteam heat, electric light,\nlences.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        591,
+        249,
+        680,
+        311
+      ],
+      "label": "text",
+      "text": "'LAT, PHONE\nroom, suitable\nladies; large,\neldern conven-\n22-29",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        368,
+        308,
+        680,
+        568
+      ],
+      "label": "text",
+      "text": "4534 DEARBORN ST.-LOVELY FURNISHED OR\nunfurnished rooms; modern improvement, flat\nand cold water, $1.50, $2.50, $3.00 per week, 22-29\n\n4412 LANGLEY AV.-PHONE: DREXEL 1540-\nFurnished rooms in residence; modern conveniences; near car line. 22-29\n\n26 E. PARKLE ST. FLAT A-FRONT ROOM, LIGHT\nand cool; electric light, hot water at all hours,\nSullivan plenumman. $2 per week; one-hour\nblock to car line. 22\n\n3532-VERNON AV. THIRD FLAT-Phone\nlonglasts 1838; Nestly furnished rooms; light,\nsteam heat; half block from 30 st. car line, 22-29\n\n3220 PRIMAIR AV.-Two rooms on suite or\nsingle; good for light housekeeping; in quiet\nneighborhood. 22",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        377,
+        568,
+        671,
+        589
+      ],
+      "label": "paragraph_title",
+      "text": "UNFURNISHED ROOM TO RENT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        440,
+        656,
+        607,
+        678
+      ],
+      "label": "paragraph_title",
+      "text": "ROOM AND BOARD",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        375,
+        685,
+        674,
+        733
+      ],
+      "label": "text",
+      "text": "DRIING THE SUMMER MONTHS ROOM AND\nboard for desirable people in private\nfamily.\nFor particulal telephone Eranson 406,",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        452,
+        748,
+        594,
+        770
+      ],
+      "label": "paragraph_title",
+      "text": "FLATS TO RENT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        372,
+        780,
+        676,
+        1314
+      ],
+      "label": "text",
+      "text": "7-ROOM FLAT, STEAM HEAT, 316 E. 6TH ST.\n$56, 5room flat and bath, steam heat, 219\nParisair av. $25, 1room flat, steam heat, 352\nParisair av. $30, 1room flat, steam heat, 352\nav. $15, 12room modern, steam heat,\n221; Calumet av. $15, 9room modern,\nin-house, floorless, 311 Forest heat, 250\nVernon av. $35, 1H. Watkins, great, 2150\nIndiana av. Phone Douglas 1711.\n\nFOR RENT - 2, 4, 6, 7 ROOM FLATS; STEAM heat,\njunior service apt; 247-179 Dearborn st; prices\nnowly decorated; 247-179 Dearborn st; prices\nfrom $4 to $6 monthly, 7 and 8 room flats,\nhardwood floor; 8 room flat; junior service; gas\nelectric light; 8 room flat; $4 and $5\nroom flat; 315 Forest heat, store heat, 252\nroom basement flat; 333 Forest heat, store\nheat; 252 room basement flat; unfinished rooms\nfor sale. See me for interior after 6\nservices. House and flat buildings for sale\non monthly payments. H. A. Watkins, 2150\nIndiana av. phone Douglas 1711.\n\nTO RENT - 256 WARM AVE., 21D GRAME\n5room strictly modern, steam heat, electric\nlight, gas range, box heat, laundry, large private\nyard, the services for inspection after 6\nweeks, house and flat buildings for sale\n229 Michigan ave. Phone Calumet 381, 22\n\nTO RENT - 256 LANGLEY AV., 2ND FLAT -\n3large flat; steam heated rooms and bath;\n5room flat; $27.50 to responsible parties.\nAlfred Anderson. Phone Douglas 1988. ff\n\nFOR RENT - FIVE ROOM MODERN 3RD STORY\nflat; gas, bath; near Kenwood \"L.\", Grand\nboulevard station. $18.60, 3576 Vancouver av. ff\n\n353 RHOUSE AV., 3RD APT - FOUR-ROOM\nheat, steam electric light, best junior\nservice. Apply tenant. ff\n\nFOR RENT - FIVE ROOM MODERN THIRD\nflat, gas, bath, near Kenwood L., Grand\nstation. $17.30, 3576 Vancouver av. ff",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        372,
+        1362,
+        675,
+        1438
+      ],
+      "label": "text",
+      "text": "2-3-4-5 Rooms; Modern; Steam Heat\n\nFOR BENT-FIVE-ROOM MODERN THIRD\nflat; gown; base; near Kennedow L, Grand Bld.\nstation; $16.00; 3376 Vernon Ave.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        455,
+        1452,
+        589,
+        1472
+      ],
+      "label": "paragraph_title",
+      "text": "HELP WANTED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        370,
+        1482,
+        676,
+        1732
+      ],
+      "label": "text",
+      "text": "WANTED\u2014GOOD COOK FOR OUT-OF-TOWN\nwork. Wages $6.00 per week. Steady work.\nWill forward fare and deduct from wages. Apply\nA. H. Bengtellow, Mackinaw City, Mib. Write\nat office.\n\nWANTED\u2014EDUCATED, REFINED LADIES AND\ngentlemen to organize a $1,000,000.00 company\nto buy lunches for a $1,000.00 a guarantor.\nGood good good for each member.\nAddress C. D. Bassett, INT. W. Webb art. No\nmoney required.\n\nWANTED\u2014SALESMAN: WAST LIVE MEN to\nmake big money, give your address and tele-\nphone number and past record. Address A. O. C.\ncare Deferber.\n\nWANTED\u2014PHARMACIST WHO WOULD BE\ninterested in establishing a Colored drug store\nin some desirable city. Address Drugs, care Deferber.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        410,
+        1759,
+        631,
+        1780
+      ],
+      "label": "paragraph_title",
+      "text": "REAL ESTATE FOR SALE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        368,
+        1794,
+        626,
+        1809
+      ],
+      "label": "text",
+      "text": "GREAT SEASON'S SALE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        368,
+        1804,
+        675,
+        2234
+      ],
+      "label": "text",
+      "text": "OF TWENTY-FIVE AND FIFTY FOOT LOTS in Chicago's beautiful salubs. MORGAN PARK lots 25x125 feet, $125 to $200; $25 cash balance lots 25x125 feet only. Mail Glencoe LOTS, 25x172, from $150 to $250; $25 cash balance $10 per month. Flue transportation; sewerage and water; schools and churches; for further information write FAILLORS & COOK, 381 S. State st. Phones Douglas 6739; Audit mate 77.066.\n\nFOR SALE\u2014ONLY $1,600 CASH REQUIRED; balance like rent, for my equity, $1,500. In 2-fat 6 and 6 grease lot; for 36x161 feet, at 25 and Wabash ave. mortgage $2,000. Address X. Y. Z. care Defender, 3120 State st.\n\nBIG BARGAIN\u2014A $10,000 HOME ON S. PARK; must be sold at once, so a price has been put on it that is almost giving it away. For partitions, address R. X. Y. care The Defender.\n\nFOR SALE\u2014BEST BARGAIN IN TWO 2-FLAT stone front, modern furnace heat. On Bowen ave. near Vinehouses av. Address A. D. Y. care Defender.\n\nFOR SALE\u2014BEST BARGAIN IN TWO 2-FLAT stone front, furnace heat, modern. On Bowen ave. near Vinehouses av. Call J. Parlia, Franklin 880.\n\nFOR SALE\u2014INCOME PROPERTY: PRICE $4,500, down terms to suit. Call, phone or write Whalen & Lunny. Real Estate, S77 L. Old st. Phone Hyde Park 410.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        427,
+        2255,
+        618,
+        2275
+      ],
+      "label": "paragraph_title",
+      "text": "BUSINESS CHANCES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        371,
+        2287,
+        674,
+        2432
+      ],
+      "label": "text",
+      "text": "CHARLES G. S. MILLS, BCH FORSERT AVENUE.\nPROF. MILLS has the greatest remedies ever put on the skin. The tonic will make your hair soft and pliess and increase the growth; his respira-\ntion will restore gray hair; else the BLNDMD remedies a try. Call or write. 22-12\n\nMET METZ YET\n\nMEET METZ NOW. METZ Shoes ARE THE\nbest and prettiest shoes in Chicago. SS W.\nWashington A. 15-15",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        397,
+        2449,
+        649,
+        2471
+      ],
+      "label": "paragraph_title",
+      "text": "UNCLAIMED STORAGE SALE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        372,
+        2478,
+        674,
+        2536
+      ],
+      "label": "text",
+      "text": "25 VAN LOADS OF FURNITURE AND HOUSE,\nbrick goods of every description will be sold for\ncharge. Call Kessell coursered.\nKESSELL DRAGE,\n40631 State St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        428,
+        2557,
+        619,
+        2579
+      ],
+      "label": "paragraph_title",
+      "text": "BLACKS' BLUE BOOK",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        384,
+        2588,
+        677,
+        2645
+      ],
+      "label": "text",
+      "text": "LOADED PEOPLE'S DIRECTORY GOES TO\nresiding on Aug. 1st. The big thing of the\nFord S. Black, Publisher, Phone Eng-\ngences, 6116 St. Lawrence are, Chicago, Ill.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        432,
+        2659,
+        620,
+        2679
+      ],
+      "label": "paragraph_title",
+      "text": "REGISTER FOR SALE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        419,
+        2688,
+        675,
+        2723
+      ],
+      "label": "text",
+      "text": "LKE-NEW MICHIGAN CASH REGISTER\nSeep. Apply 3651 Forest ave.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        416,
+        2742,
+        632,
+        2766
+      ],
+      "label": "paragraph_title",
+      "text": "AUTO TIRES REPAIRED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        368,
+        2776,
+        680,
+        3082
+      ],
+      "label": "text",
+      "text": "B YOUR TIRES DOUBLE TREATED\nthe Armstrong Sifcilless Double Tread The\n1014 Michigan are. DON'T SEW YOUR\nS UNTIL YOU SEE US. 75-15\n\nHIGHEST PRICES PAID\nold gold, silver, platinum and valuable metals.\nmortg. two stores, 2500 State st. and 2300\nate st. 8-20\n\nOur advertisers have a claim to\nyour patronage. To patronize the n\nis to your advantage.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        685,
+        251,
+        989,
+        446
+      ],
+      "label": "text",
+      "text": "When the licenses of the Panama and Pompel cafes were revoked last Tuesday two of the most widely known resorts on the south side passed out of existence. While the reason for the Pompel's demise was trouble between the license holder and the police, coupled with complaints turned in by a certain uplift organization located near by, the revoking of the Panama's license was done on the report of two policewomen, their chief complaint being that white frequented the place and associated with the patrons, regardless of color.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        773,
+        450,
+        901,
+        463
+      ],
+      "label": "paragraph_title",
+      "text": "Personal Liberty",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        680,
+        465,
+        991,
+        1103
+      ],
+      "label": "text",
+      "text": "If the personal liberty of the people of Chicago is to be gauged by a couple of narrow-minded policemen, especially as to who shall and shall not be allowed to enjoy the privileges of public houses, and if the licenses of these houses depend upon the reports of such censors, then the time has come when any man who runs a public house has a very poor chance.\n\nIt is a common thing to see white men entertaining, wining and dining a certain class of the Race's women at the large range of grill shops and the women are not of the representative class, however, and have hit the bottom of the toboggan as surely as have these white prostitutes who cohabit with a certain element of the men of the Race in cafes of the character of the Panama. Still, there never has been a mention of the \"mixture\" in any of the reports turned in by these \"moral experts\" as regards the downtown grills and cafes.\n\nWe are not defending the class of dives operated by Isadore Levin, as the Panama for years has a plague spot in the district called the \"Black Belt.\" We are only standing up for the right that any man who operates a business should have in allowing whom to be the personal liberty but any man or woman, white or black, is entitled to in choosing who they associate with, and where.\n\nWhat about these \"white\" men who cohabit with the women of their opposite color? Are they any better than the Race men who do the same? The former are allowed to practice their deravity without protest from anybody, while the latter have their \"headquarters\" taken away from them because their dominion are Caucasians.\n\nRaco Polica Women\n\nWhat should be done, inasmuch as the present plan has been inaugurated, is to",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        694,
+        1147,
+        970,
+        1244
+      ],
+      "label": "doc_title",
+      "text": "Invest Your Money Here, Where Factories Never Bank Their Fires",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        680,
+        1244,
+        991,
+        1517
+      ],
+      "label": "text",
+      "text": "FOR RENT.\n\n3743 Vernon Ave., 8 rooms, furnace heat, newly decorated, strictly modern, price.....$27.00\n\n1591 J. Wabash Ave., 6 rooms, strictly modern, steam heat, electric lights, price.....35.00\n\n5912 S. Wabash Ave., 7 rooms, strictly modern, steam heat, electric lights, price.....37.50\n\n4110 H. Wabash Ave., 7 rooms, strictly up-to-date, steam heat, newly decorated.....37.50\n\n3443 Rhodes Ave., 6 rooms, steam heat, strictly modern.....33.00\n\n503 E. 34th Pl., 6 rooms, strictly modern, decorate to suit, steam heat.....23.00\n\n3406 S. Park Ave., 7 rooms, steam heat, electric lights.....42.50\n\nSend for our list of sale bargains.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        786,
+        1250,
+        877,
+        1264
+      ],
+      "label": "text",
+      "text": "FOR RENT.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        694,
+        1517,
+        970,
+        1653
+      ],
+      "label": "text",
+      "text": "BUNGALOWS AND TWO-FLATS\nBuilt on your own lot anywhere in\nChicago and Suburbs.\nTime Payments.\nInquire of JOSEPH M. E. THOMAS,\nANDERSON & TERRELL\n3512 S. STATE ST.\nPhones Douglas 206, Automatic 79-864.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        738,
+        1700,
+        931,
+        1735
+      ],
+      "label": "paragraph_title",
+      "text": "FOR RENT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        695,
+        1755,
+        968,
+        1962
+      ],
+      "label": "text",
+      "text": "4321 Langley Ave.\u20148 rooms, steam heat, 2d, $35.\n6111 Wabash Ave.\u20148 rooms, steam heat, 2d, 3d, $35.\n3837 Vernon Ave.\u20146 rooms, steam heat, 1st flat, $32.80.\n4666 State St.\u20147 rooms, steam heat, 4th flat, $35. Electric light.\n4666 State St.\u20147 rooms, steam heat, 3d flat, $32.50. Electric light.\n3749 Wabash Ave.\u20147 rooms, steam heat, 3d floor, $35.\n4747 Evans Ave.\u20147 rooms, bath and gas, $23.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        760,
+        1981,
+        907,
+        2010
+      ],
+      "label": "paragraph_title",
+      "text": "FOR SALE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        697,
+        2024,
+        970,
+        2188
+      ],
+      "label": "text",
+      "text": "$500 Cash-6100 Wahash Ave.-3d\nflat, brick, steam heat, 6, 7, 7\nrooms, modern. Price, $6,500.\n\nH. J. Coleman & Co.\n4929 State Street\nTel. Oakland 36",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        777,
+        2169,
+        893,
+        2188
+      ],
+      "label": "text",
+      "text": "Tel. Oakland 36",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        684,
+        2231,
+        984,
+        2335
+      ],
+      "label": "text",
+      "text": "NOTICE! A NICELY FURNISHED ROOM IN BEAUTIFUL, LIGHT FLAT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        683,
+        2379,
+        985,
+        2507
+      ],
+      "label": "text",
+      "text": "MARRIED COUPLE OR TWO SINGLE\nMEN PREFERRED\n\nONE BLOCK FROM 47TH ST. AND\nCOTTAGE GROVE CAR LINES\n\nMRS. BROOKS\nDrexel 8272 4546 EVANS AV.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        683,
+        2566,
+        986,
+        2811
+      ],
+      "label": "text",
+      "text": "House and lot. Lot. 285126. House,\ntwo six-room flats; brick below and\nframe above; in very good condition;\nfine green yard, with trees and flowers.\nTerms. $2,300; $1,500 cash.\n336 W. 38th St., Near Shields Ave.\n\nFor Sale $300.00 Down\nBalance to Suit\nModern Brick Cottage\n'6 Rooms\u2014Large Attic\u2014Furnace\u2014\nCement Basement\u2014Laundry Tubs.\n6532 ST. LAWRENCE AVE.\nCall Sunday, 2 to 4 p.m.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        741,
+        2832,
+        933,
+        2863
+      ],
+      "label": "paragraph_title",
+      "text": "FOR SALE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        680,
+        2914,
+        991,
+        3082
+      ],
+      "label": "text",
+      "text": "4437 Langley Ave. Two-flat frame and brick building. Capital, $384 yearly.\nH. O. STONE & W. Monroe St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        992,
+        744,
+        1299,
+        856
+      ],
+      "label": "text",
+      "text": "secure the appointment of a few Race women to the police department and have them detailed to watch conditions in the big loop caffes, where the loophound entertains his dusky amorata without fear of the calamity howl of a pair of skirts or of jeopardizing the license of his dear place of assignation.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        994,
+        872,
+        1299,
+        988
+      ],
+      "label": "doc_title",
+      "text": "MURDERED OVER A GAME OF CARDS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        986,
+        1026,
+        1296,
+        1483
+      ],
+      "label": "text",
+      "text": "James Harris, 24 years old, 3622 Federal street, was stabbed the heart during an argument over a card game in the saloon of Ben Korenstine at Thirty-seventh street and Armour avenue. He was taken to the Provident hospital, where he died of hemorrhage. Harris came from Iowa a few years ago and since then has been a frequenter of this place and usually was a good fellow, spending his money freely. Saturday night he, as usual, got into a card game and as drinks were passed freely, arguments waxed warm.\n\nBen Lester, who lives at 4429 South State street, and Harris got into a wordy argument, and Lester whipped out a knife and stabbed him with a long knife. He was not insured, which is usually the way in cases like these. The body was moved to King & Hill's undertaking establishment. He was to have been buried Wednesday, but money had to be begged to cover the funeral cost. The dead man had to go from stranger to stranger and beg a nickel and a dime so that this man would be saved from the potter's field. A 5-cent insurance a week would have saved him from this.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1049,
+        1504,
+        1237,
+        1526
+      ],
+      "label": "paragraph_title",
+      "text": "COMPLIMENTARY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        988,
+        1533,
+        1295,
+        1615
+      ],
+      "label": "text",
+      "text": "The behavior of the boys of the Eighth Illinois infantry stationed at San Antonio, Tex., is praised by Record Herald. Doesn't surprise those who know them. The following editorial appeared in the",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        987,
+        1601,
+        1296,
+        2076
+      ],
+      "label": "text",
+      "text": "The following editorial appeared in the Record Herald on July 15th:\n\n\"The Eighth Illinois is to be commended for the sensible and soldierly way in which it accepts conditions at San Antonio and attends strictly to its own business. According to Mr. Little the colored militiamen find several things in the racial arrangements in the Texas town which do not appeal to them, but they are not allowing these little matters to disturb them in the least. They are taking things as they find them, conforming good-naturedly to all the local regulations and setting the other regiments a good example by not only staying in their camp but also by keeping it in the best shape of any outfit on the ground. The Eighth is thus giving additional evidence of the amenability to discipline and the general soldierly qualities of the Colored people which the Colored regiments in the regular army have so long illustrated. It seems that the regiment reached San Antonio with a bad name because of a badslew rumor that had preceded it, but it is fairly safe that say they acquired an entirely different one by this time. Illinois is proud of her Colored soldiers and the record they are making.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        992,
+        2074,
+        1298,
+        2742
+      ],
+      "label": "text",
+      "text": "Illinois is indeed proud of her \"Colored\" soldiers, and the Record Herald deserves much credit for calling attention to the admirable behavior of the Eighth regiment. The fact remains, however, that San Antonio, as well as all the rest of Texas, is regulated by legislation which inspires the writing of such comment as is contained in the above clipping. Mexicans, the very people who have made it necessary to have the Eighth on the border, the most hurtful raids along the border line, where they show down in cold blood innocent men, street cars and children, can ride on street cars and get the best accommodations in railroad trains and public houses, while members of the Race, who wear the uniform of Uncle Sam, have the choice of bearing insults or staying in their own camp. There never has been a single instance where adverse comment regarding the behavior of the members of the Eighth has not been caused by some humiliating insult being offered by some \"white\" man, and whether it occurs in Texas, this class may always find Col. Dennison's body ready to resent such treatment. The Eighth Illinois consists of a thick of the Race's manhood in this state and is not a crew of trained legorotes out hunting for heads. They are on the border today ready to do or die for the protection of the very people who have and are legislating their privileges and rights as men away, one by one. The curtailing of privileges may be looked upon by the Record Herald's correspondent as \"little things,\" but he views conditions from the angle of one who is not touched by them. If they are \"little things,\" his posture and loudly crying by the people of Texas; but it is safe to say that any move that tends to lessen the degradation of the Race in the Lone Star State would be met by stubborn opposition, no matter what service had been rendered by them. Such is life in the South.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        999,
+        2798,
+        1189,
+        2832
+      ],
+      "label": "paragraph_title",
+      "text": "CHEER UP",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1005,
+        2838,
+        1171,
+        2961
+      ],
+      "label": "text",
+      "text": "You who have something to sell can do so with an ad. in THIS PAPER.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1307,
+        745,
+        1611,
+        865
+      ],
+      "label": "doc_title",
+      "text": "ATTEND HOME-COMING EVENTS AT WAUKESHA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1301,
+        902,
+        1611,
+        2391
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1305,
+        2431,
+        1607,
+        2492
+      ],
+      "label": "text",
+      "text": "TEARING DOWN BUILDING\nLugenus Howard, 3548 Federal street,\n26 years old, was helping to tear down\na building at Harrison and Canal streets.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1307,
+        2589,
+        1605,
+        2956
+      ],
+      "label": "text",
+      "text": "The Symptoms Tired and drowsy feeling, accompanied by headaches, depression or state of indolence; hands red like sunburn and burn; skin rough, scaly and peeling off; sore mouth, the lips, throat and tongue a fanning red with much mucus and choking; hurting in stomach, indigestion, loss of flesh and nausea; either diarrhoea or constipation; mind affected and many other symptoms. Don't take chances. At the first signs or symptoms of pellagra you should take G. S., the wonderful pellagra, rheumatism, blood, liver and kidney remedy. Many thousands claim that one to two bottles has cured them. One bottle guaranteed to benefit you or money refunded. Sold by druggists at $1.00 per bottle or six bottles for $5.00, or I will send it prepaid on receipt of price. Always call on your druggist for G. S. before ordering from me.\n\nL. M. GROSS,\n620 E. 14th St. Little Rock,",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1616,
+        553,
+        1993,
+        1963
+      ],
+      "label": "text",
+      "text": "Dellers, Leibrand\n6 E. 31st\nCalumet 986\n\nPhono Oakland 5878\n\nROBERT S.\nREAL E\nRENTING LOANS\n\n3434 S. STATE STREET\nNear Garfield Blvd\n\nWOLF BROTHERS Hair\nNo more breaking of lamp chimneys. With one of\nStraightening Comb or Curling Iron quickly and\nAlcohol Heater 75 cents\nPrince Paid in U.S.\nLength, 49 in. Weight, 5 oz.\nThousands are using these outfits and rec\nWOLF BROS. 1214 N. Senate\n\nHe was working for a constructi\ncompany and while on a wall satur\nmorning of last week at 3:30 a.m.\nkilled in some manner. An lodge\nheld Monday at Jackson's under\nestablishment, but was postponed\nTuesday of next week for lac\nnesses. He was a member\nlodge, Grand United Order o\nlowes. \"The body will be\nSmarrs, Ga. No leaves. a\nis here, and a mother and father at\nhome.\n\nTell your troubles to our\nAdvertisers; they pay us\nfor your inquiries.\n\nMME S. BEDFORL\ngrower and scalp sp\nfor years, growing and b.\nher establishment is unc\nmotto is \"Honesty\" and h\nadvertising will win public\ndent. Now is the time to\nthe demand is greater than\n\"Bedforline\" hair grower is\nbeautifying all kinds of ha\nother scalp diseases. T\nwatch the results. (Plea\n\nMme. Bedford",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1719,
+        1979,
+        1993,
+        2011
+      ],
+      "label": "paragraph_title",
+      "text": "MADAME S. BE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1616,
+        2027,
+        1993,
+        3017
+      ],
+      "label": "text",
+      "text": "Original Indian\n\nWILL POSITIVELY GR\nof life in the roots. It is an it\neradicates dandruff. It restore\nfalling out, and keeps it healthy\nBeauty Shop\n\nAGENTS WANT\nFOR\nJohn Eddy, 51st and State St.; Crown Phar\nter, 3510 State St.; Crown Phar\nter, 36th and State Street; Charle\nTwo Sizes 25c a.\n\nMrs. Mary J.F. Park\n\nJU\n\nADVERT\nfact, it is noth\nof a bell in r\nstrokes in r\nabouts of d\nadvertising-\nsoon forgot\ntelling effect\n\nJust:\ncounter,\nwritten\nVALUI\nHIND\nup-to-d\ncause",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1640,
+        2710,
+        1724,
+        2884
+      ],
+      "label": "text",
+      "text": "Just\ncounter,\nwritten\nVALUI\nHIND\nup-to-d\ncause",
+      "status": "ok"
+    }
+  ]
+}

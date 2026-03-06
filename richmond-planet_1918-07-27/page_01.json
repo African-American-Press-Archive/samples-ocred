@@ -1,0 +1,857 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 2218,
+  "height": 2800,
+  "processed_at": "2026-03-06T15:29:37.602058+00:00",
+  "processing_time": 96.4,
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "ocr_workers": 1
+  },
+  "layout": {
+    "raw_detections": 118,
+    "after_gap_fill": 118,
+    "after_merge": 76
+  },
+  "regions": [
+    {
+      "bbox": [
+        46,
+        529,
+        323,
+        552
+      ],
+      "label": "text",
+      "text": "VOLUME XXXV, NO. 37",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        47,
+        581,
+        330,
+        760
+      ],
+      "label": "doc_title",
+      "text": "THE SITUATION AMONG COLORED BAPTISTS IN AMERICA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        42,
+        800,
+        335,
+        1416
+      ],
+      "label": "text",
+      "text": "For about two decades from 1905 the National Baptist Convention was the pride of the Negro Baptists of the United States. Her missions were made up of messengers from all parts of the Country, and it was not only a pleasure but an inspiration to make the annual pilgrimage. During those years the National Baptist Publishing Board was built up to great proportions; the National Baptist Training School for Women and Girls at Washington, D.C. was established and under the leadership of Mrs. Lapton and Mass Nainie H. Burroughs a million Baptists were hired up for Christian service. The Foreign Mission Board and other Boards have grown up during that time and flourished. The power and influence of this great organization have been felt for good in Panama, the West Indies, South America and in darkest Africa. Her officers and representatives have stood at Baptist and Missionary Councils in all parts of the civilized world and have brought to the civilized world a message that thrilled and cheered on to larger accomplishments. Baptist scholars wrote down the deeds of the denomination in clear, indelible and imperishable words; young men and women in our Baptist schools read of the deeds of the Deposition and felt a thrill that was indescribable. Her various boards collected hundreds of them ends of dollars and expended it for the advancement of the great cause in communities. Nothing general too great for the more decent organization to accomplish.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        44,
+        1429,
+        330,
+        1446
+      ],
+      "label": "paragraph_title",
+      "text": "THE BLOT UPON A FAIR PAGE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        44,
+        1458,
+        336,
+        1587
+      ],
+      "label": "text",
+      "text": "It is nothing less than criminal that this pair of Decomnational and Missionary endeavor should receive a blot. A few years ago forces that had for their object the glory and curment of individuals began to operate. The cause of righteousness was forgotten and the building Continued on Page 7",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        99,
+        1632,
+        270,
+        1661
+      ],
+      "label": "paragraph_title",
+      "text": "HOME OF SORROW",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        44,
+        1676,
+        336,
+        2017
+      ],
+      "label": "text",
+      "text": "In the home of Mrs. E. N. Dickerson\n163 West Leigh street, Mrs. Marjorie\nBoehne, her daughter, fell asleep in\nJesus, July 9, 1988, at 4:10 A. M. She\nwas a patient sufferer and waited\npatiently on the Lord. During her\ntour months of illness she was very\nhappy and content. The thing that\npleased us most was that she was a\nfaithful Christian and and hope and\ntrust in Jesus Christ.\nShe has left us and gone home to\nrest and left us the message to meet\nher on the other side. After we had\ndone all we could, she learned her head\non Jesus' breast and went quietly to\nHeaven. Her favorite aymn during\nher illness was, \"What A Fellowship.\"\nBefore she died, she called us all\nand prayed a family prayer which we\ncannot forget. How to express her\nChristian character we know not but\nall we can say.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        44,
+        1840,
+        337,
+        2402
+      ],
+      "label": "text",
+      "text": "She has left us and gone home so rest and let us message to meet her on the other side. After we had done all we could, she leaned her head on Jesus' breast and went quietly to Heaven. Her favorite joyn during her illness was, \"What A Fellowship.\" Before she died, she called us all and prayed a family prayer which we cannot forget. How to express her Christian character we know not but all we can say.\n\nSleep on, Margarene,\nSleep and take thy rest.\nWe loved thee well\nBut Jesus loved you best.\n\nShe left a faithful husband and a loving mother and father, two sisters, five brothers and two nieces and a host of relatives and friends to mourn their loss.\n\nThe funeral was Thursday, July 11 1918, at eleven o'clock at the Ethelozeo Baptist Church. Rev. W. H. Stokes preached a touching sermon in a most graceful manner. He spoke words of comfort and consolation to the family and friends. Mr. W. I. Johnson had charge of the procession which was the most beautiful scene that ever was in the neighborhood. The funeral procession consisted of all automobiles and the flowers were handsome. We can't say and do enough to express the love and sympathy we had for her. All we can say is.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        46,
+        2417,
+        337,
+        2579
+      ],
+      "label": "text",
+      "text": "Sister thou are mild and lovely,\nGentle as the Summer breeze.\nPleasant as the air of evening,\nSister Margarete sleep in case.\n\nWe wish to thank the St. Lukes\nand friends for their kindness shown\nduring the illness and death of our\nsister and mother.\n\n\u2014Elmora Dickerson, Blanche Dickerson, Hazel Brown.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        47,
+        2623,
+        335,
+        2682
+      ],
+      "label": "text",
+      "text": "Deacon Samuel P. Brown is sick at his residence, 512 North Third street, under the treatment of Dr. R. $2. Jones.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        346,
+        586,
+        625,
+        616
+      ],
+      "label": "text",
+      "text": "THE VIRGINIA BAPTIST STATE\nCONVENTION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        346,
+        586,
+        625,
+        616
+      ],
+      "label": "paragraph_title",
+      "text": "THE VIRGINIA BAPTIST STATE\nCONVENTION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        347,
+        631,
+        627,
+        659
+      ],
+      "label": "paragraph_title",
+      "text": "Presents Medal Through Committee to Dr. A. A. Gatiny",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        341,
+        672,
+        636,
+        1179
+      ],
+      "label": "text",
+      "text": "In an association of the faithful and progressive work of Dr. A. A. Galvin as president of the Virginia Baptist State Convention for six years, it was unanimously decided by the Convention to present to Dr. Galvin a suitable Model of honor, Dr. S. A. Moses, 1st vice president of the Convention, and the writer were appointed a committee to select the medal and present same.\n\nSunday, July 21st, was decided upon as day of presentation at the Loyal St. Baptist Church, Danville, a pastored by Dr. Galvin. The writer journeyed to Danville to join Dr. Moses for the presentation service and took advantage of the opportunity to visit the different departments of both the Loyal and High St. Baptist churches. It is known, generally, that these two churches represent our great rank churches in membership, Christian activity, worship and their social aspect.\n\nI attended Sunday school services at Loyal St., and while I had heard much of the late progressive Sunday school of this church, it was most gratifying to be present and witness them at work. I saw present three hundred and fifty Sunday school workers who were enthusiastic and happily so, about their work. I had a new tool to say to them. The",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        341,
+        1229,
+        637,
+        1798
+      ],
+      "label": "text",
+      "text": "A most favorable impression was made upon the writer at the morning service. Dr. Galvin was the praacher for his usual Sunday service. The specious auditorium was taxed by good seating capacity and by also praaching became the gallery but many persons in it that could not be commissioned in the praitorium. The pastor used as a theme \"the Sage of Obedience\" and from the preached a foresight and very careful service. The duty of the Christian to be church his\u6559\u5c0e, his times, and the Masters' Kingdom, as the Kingdom pertains to the home and foreign hold and to Christian education, were many of the things treated as the burden of his message. The large audience heard him as if he spoke from Sinai. To observe the life of this church people and the understand for more than sixteen years this servant of the Master has been their shopper is to know what it is to have Divine guidance in your work.\n\nThe afternoon service was programmed as presentation service, Dr. S. A. Moses was master of ceremonies and presided with ease and dignity. The writer was the speaker for the occasion and Dr. Moses presented the medal. The services were proclaimed generally befitting in every way and the good people rejoiced that such a worthy character as Dr. Galvin was so honored by a great convention with a constituency of several States.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        341,
+        1799,
+        632,
+        2164
+      ],
+      "label": "text",
+      "text": "It was my pleasure to go to Hish St church to witness a part of a Missionary and Educational program in company with Dr. Moses, pastor, Mrs. Moses, the president of the circle that was rendering the program, was addressing the audience as we entered.\n\nI have never attended a missionary meeting more interesting, thoughtful and timely. I saw the secret of their mission spirit. At the evening service I preached for Dr. Moses and his good people. It was a pleasure to be with my brethren and to see them doing so well. To see their church people so happy and so vocal in praise of their pastors, these churches are entirely out of debt and their membership is active in mission and educational work. They are caring well for their leaders, morally and financially.\n\nYours humbly,\n\nR. C. WOODS.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        348,
+        2203,
+        630,
+        2231
+      ],
+      "label": "paragraph_title",
+      "text": "DR. WALTER I. BROOKS AT THE\nFIRST BAPTIST CHURCH.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        343,
+        2245,
+        635,
+        2394
+      ],
+      "label": "text",
+      "text": "A special sermon will be delivered by Dr. Walter H. Brooks of Washington, D. C., at the Fira Baptist Church corner Fourteenth and Broad Streets, Rev. W. T. Johnson, D. D., pastor, Sunday, July 28, 1918, at 11:15 A.M. The services will be under the direction of the Lott Carey Foreign Missionary Society of the Church. The public is cordially invited to attend.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        351,
+        2437,
+        633,
+        2511
+      ],
+      "label": "text",
+      "text": "WANTED - A Good representative in every town. Can make from $15,00 to $50,00 per month working for us. Particulars free. R. C. GULLEY, 404 E. Marshall St., Richmond, Va.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        344,
+        2554,
+        635,
+        2684
+      ],
+      "label": "text",
+      "text": "Little Julia and Bearice Carter, of 153 Decatur St. South Richmond, left the city last week for Washington, D. C. to spend several weeks, visiting their aunt, Mrs. Maggie Davis Tucker.\n\nMr. Edgar E. Cogbill returned to the city last week after spending ten days in Youngstown, Ohio.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        646,
+        586,
+        923,
+        765
+      ],
+      "label": "doc_title",
+      "text": "THE NATIONAL GOLDEN\nLIBERTY CONGRESS\nCONVENES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        646,
+        805,
+        927,
+        847
+      ],
+      "label": "text",
+      "text": "A COLORFED AMERICAN EVENT IN STRUGGLE FOR WORLD DEMOCRACY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        657,
+        887,
+        913,
+        916
+      ],
+      "label": "paragraph_title",
+      "text": "HISTORIC COLONIZED LIBERTY\nCONGRESS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        643,
+        929,
+        930,
+        1365
+      ],
+      "label": "text",
+      "text": "July 21st to 29th, 1918, are now historic dates in Colored American history. They mark the approach of Colored Americans to their federal government in behalf of justice and power for their racial group. They right days with a Sabbath day in between, witnessed the gathering together in the nation's capital of delegates from all sections of the country in the midst of a world's war to compel and present to the federal Congress a statement of the grievous wrongs visited upon their race and a demand for redress. Two days were spent in mapping out the plans and arranging for the sessions of this National Colored Liberty Congress, which lasted six days and five nights. At its height one hundred and fifteen delegates had emerged from about thirty States. They had come from as far North as Georgia as far South as Florida as far West as Arkansas. The Polishing States were well represented in Texas. The States of Tillman, Williams and Vardhaman were represented, and Tilliman was arrested on a litter that could be thrown before this Liberty Congress closed.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        641,
+        1365,
+        931,
+        1902
+      ],
+      "label": "text",
+      "text": "Meeting under warmer, opportune conditions of law and in spite of a worldwide American and/or international attack the war government to through this race convention, yet there was no waving among these delegates. They came for a share for their race of the world democracy which their country's president proclaimed as the flower of their time was put into battle in another headquarters, and they never faltered. They after day the delegates met in two executive seekors without a dissent from the announcement purpose of the Call. Firms in the conviction that they were true to the two patriotism being to wipe out the inconstituent of their country at home and were race loyal in seeking this world opportunity to seek for their race. Painless seekers and undemonstrative prosecution they petitioned the Chief Executive by sending a written request to him to convene both houses to Congress to hear them and sending a delegation to get his answer. They petitioned the heads of both houses of Congress by sending delegation to the speaker of age and the President of the other to ask for a joint session. And in Speaker Clark they found a responsive hearer through the extraordinary opportunity could not be ignored. They further sought the adjudication of the government by inviting two congressmen to address this Liberty Congress.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        640,
+        1902,
+        933,
+        2275
+      ],
+      "label": "text",
+      "text": "These crusaders in war time for Liberty and redress of race wretches mobilized, the white public of the District of Columbia by these moves of their patriotic purpose. The daily pace chirped somewhat of them. Colored Washington was not left in the dark. On the first Monday night there came into the spacious John Wesley Zion A, M, E, church, Rey, W, C, Brown, pastor, a great, intelligent audience. They heard frank utterances and positive demands for liberation from Maurice Spencer, local emperor; Dr. S. F. Harrison, of Oklahoma; H. H. Harrison, of New York; the brainy chairman of the Congress; Wm. Monroe Trotter, the executive secretary, and the eloquent J. W. Bell, of Kentucky. At first that audience sat around the big flags still and in suspense. Then as speakers boldly demanded the democracy for their race which was proclaimed for the world they relaxed and then waxed enthusiastic.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        645,
+        2287,
+        917,
+        2328
+      ],
+      "label": "paragraph_title",
+      "text": "FIVE GREAT MASS MEETINGS\nTWO TO COME MEN\nAPPROVED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        641,
+        2343,
+        931,
+        2686
+      ],
+      "label": "text",
+      "text": "Then the \"fee was broken.\" Tuesday night, despite the rain, another great audience listened to mainly and able addresses by Rev. M. F. Sydes, R. L.; Atty. W. A. Hawkins, Md.; C. Morris, N. Y., and applauded. Wednesday night g. mammoth audience, overflowing the big church heard Rep. Martin B. Madden, of Illinois, as he approved the holding of the congress as patriotic; Prof. A. W. Whaley, of Boston; Rev. M. A. N. Shaw, of Boston, whose oation as he closed at midnight was greater than that to Cong. Madden and again, H. H. Harrison, who was applauded till 12:15 a. m. Thursd night another mammoth audience heard W. H. Twine of Oklahoma, Rev. C. H. Steepean of Baltimore, and greatest of all Congressmen L. C. Dyer, of Missouri, author of the anti-lynching bill, who declared all true Americans at home should be bringing about democracy",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        937,
+        590,
+        1222,
+        721
+      ],
+      "label": "text",
+      "text": "in the U. S. A., while the soldier are fighting in Europe for world democracy. Friday night, another large audience board Rey, H. D. Martin, of Georgia, brother of Granville Martin; Rey, C. M. Tanner, pastor of the Notecoach A. M. E. church, and Dr. P. A Stephens, of Chattanooga Town.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        965,
+        733,
+        1203,
+        747
+      ],
+      "label": "paragraph_title",
+      "text": "APPROVE RACEN PETITION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        936,
+        760,
+        1227,
+        919
+      ],
+      "label": "text",
+      "text": "Then W. Moore Tranter read the petition which had been unanimously moved by the delegates and put into the hands of Rev. GIBB-0 and of Senator Pourose for prosecution to converse. It was so satisfactory that the Boston Editor was given a rising vote of thanks, as had Rev. Shaw and Kip. Madden beaten and after a enquiry by Prof. Bell was by rising vote declared the radical race leader.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1037,
+        930,
+        1142,
+        943
+      ],
+      "label": "paragraph_title",
+      "text": "RECEPTION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        938,
+        956,
+        1225,
+        1240
+      ],
+      "label": "text",
+      "text": "After no light on Thursday night Red Cree units gave the delegates a reception lasting 11 2 a.m. a delightful affair in the lecture hall and dining room where meals were served daily. A delightful feature of the night sessions was the remarkable dating of Miss Virginia Williams prima dona soprano. Invocation were pronounced by Rev. W, C Brown, Bishop L. N. Ress, Rev. C, M Tramer, Rev. W. C, Weston Mahanmo; Rev. M. J. Adams, Alabama Braxton rendered organ solos Tuesday night, and Prof. Pereval Parham, of Boston, on Thursday night. The collections laid on the table averaged $25,000 per night, and the Liberty Congress captured Color of Washington.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        986,
+        1253,
+        1184,
+        1266
+      ],
+      "label": "paragraph_title",
+      "text": "PETITION PRESENTED",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        939,
+        1279,
+        1227,
+        1507
+      ],
+      "label": "text",
+      "text": "This incomplete report, but half describes this carnassier gathering Saturday at 4 o'clock it closed. All debts were paid, city of thanks were passed to Barrett, Bell, Trottier, Rev. Brown, local committee the church and to the delegate. Adherent to till another, Berkeley Congress next year, this general meeting before only 12:30, which there is to be any permanent organization, was hastened to go to the capitol where the petition of the colored race for democracy's rights was presented by Rep. F. H. Gillette, of Massachusetts.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        978,
+        1520,
+        1187,
+        1534
+      ],
+      "label": "paragraph_title",
+      "text": "TO WAR DEPARTMENT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        936,
+        1547,
+        1225,
+        1848
+      ],
+      "label": "text",
+      "text": "On Monday, Robt. N. Owens applied for audience at War Department and was put off till Tuesday. Ben he and Editor Trottier saw the Judge Advocate General, Col. Mayeau and were told the War Department would insist on same transportation for white and colored soldiers and had turned case of Dr. Jones of St. Louis over to the Department of Justice. They also saw the Adjutant General, Gen. Cane, who said the Balloon order was not approved and that he would correct any injustices within his jurisdiction. Sen. Penrose plans to read the petition to the U. S. Senate at the best opportunity. So the congress of the United States now knows well the stand of colored America for a share in world democracy.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        959,
+        1861,
+        1213,
+        1888
+      ],
+      "label": "paragraph_title",
+      "text": "SPEED FOR CONGRESSIONAL RECORD",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        938,
+        1904,
+        1225,
+        1961
+      ],
+      "label": "text",
+      "text": "The petition is published in full in the Congressional Record of June 29th. Write and ask your representative or senator to send you a conv",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        964,
+        1976,
+        1200,
+        1989
+      ],
+      "label": "paragraph_title",
+      "text": "COMMITTEE ON DRAFTING",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1015,
+        2003,
+        1150,
+        2018
+      ],
+      "label": "paragraph_title",
+      "text": "THE PETITION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        955,
+        2031,
+        1192,
+        2165
+      ],
+      "label": "text",
+      "text": "W, M. Trotter, Massachusetts.\nA, W. Whaley, Massachusetts.\nA, W. Hawkins, Maryland.\nW, M. Jones, Arkansas.\nRobt. M. Owens, Missouri.\nMrs. M. Gladstone, New York.\nL. B. Allen, New York.\nW, E. Hester, Tennessee.\nG, W. Bell, Kentucky.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        941,
+        2178,
+        1223,
+        2221
+      ],
+      "label": "paragraph_title",
+      "text": "OFFICERS OF EXECUTIVE COMMITTEE OF CALL FOR NEXTSESSION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        937,
+        2234,
+        1223,
+        2422
+      ],
+      "label": "text",
+      "text": "Officers of Committee to call and open next session; W. M. Trotter chairman; Rev. M. F. Sydes, R. I. vice-chairman, J. W. Bell, Earlington, Ky., recording secretary; M. W Spencer, corresponding secretary, Rev. C. S. Whitted, Ct., treasurer Sub committee of management Messrs. Trotter, Bell, Spencer, Whit ted and Hon. I. B. Allen, R. N. Owen of St. Louis, Mo.; A. J. Smitherman of Tulsa, Okla.; Rev. H. D Martin Georgia.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1024,
+        2436,
+        1141,
+        2449
+      ],
+      "label": "paragraph_title",
+      "text": "COMMITTEES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        937,
+        2463,
+        1225,
+        2594
+      ],
+      "label": "text",
+      "text": "On Credentials,\u2014Hon. I, B. Allen\nNew York; Prof. J, J. Starks, South\nCarolina; Mrs. W. O. Taylor, Massa\nchusets, who registered delegates\nand held fees, with Mrs. I. Mooran\nblackstone, New York, assisting.\nOn Rules,\u2014M. W. Spencer, W. H.\nTwine, M. A. N. Shaw, C. W. Childs\nT. J. Mopping.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        940,
+        2593,
+        1227,
+        2681
+      ],
+      "label": "text",
+      "text": "To confer with Speaker of House\u2014W. M. Trotter, H. H. Harrison, L. B. Allen.\nTo confer with President of Senate\u2014W. H. Twine, M. F. Sydes, (Continued on Fifth Page.)",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        973,
+        2674,
+        1198,
+        2687
+      ],
+      "label": "text",
+      "text": "(Continued on Eighth Page.)",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1235,
+        591,
+        1525,
+        644
+      ],
+      "label": "text",
+      "text": "POLICE CASES BEFORE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1256,
+        654,
+        1510,
+        768
+      ],
+      "label": "doc_title",
+      "text": "HIS MEMOR, MINOR\nGEORGE ANN SLEE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1235,
+        808,
+        1527,
+        1200
+      ],
+      "label": "text",
+      "text": "On the investigation of the charges made against Chief of Police C. A. Sherry, Captain George K. Pollock, Detective L. C. Burke and Policeman C. A. Strain by the stock account of the Murray County Court was begun before Mayor George Ainslie yesterday afternoon at three o'clock in the courthouse of the City of Murray Court. By agreement, the investigation of the charges presented against Captain Pollock was the first of the series of trials which are the outburth of the integrity of burglaries in the Police Department by the recent grand jury, during the course of the hearing yesterday the great majority of the witnesses for the Commencement were introduced, examined, and excommined. Two important witnesses are to be heard. They are James T. Disney, manager of Morphy's Hotel and An Amabile Policeman Archie C. Holt who is away on his furious. It is under ood that the nature of the testimony of these witnesses is merely eclectic.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1234,
+        1202,
+        1527,
+        1468
+      ],
+      "label": "text",
+      "text": "Before the trials began yesterday afternoon Michael A. Mineo issued an order suspending Chief Sherry, Captain Pollock, Detective Berenold and Col. Stan Strain, Counsel for the defense, but might admitted that as present the testimony for the Commonwealth booked \"hair\" for Uptown Pollock, but insured that they would be able to prove the testimony false. The first assertion was that they would be able to disburse the testimony of House Detective Powers and prove that the testimony of Police Sergeant Joshua was situated by Judson and prejudice. More than seventy-five witnesses have been summoned by the defense.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1240,
+        1478,
+        1524,
+        1507
+      ],
+      "label": "paragraph_title",
+      "text": "NEXT HEARING TO BE HELD ON\nWEDNESDAY AFTERNOON",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1234,
+        1521,
+        1526,
+        1978
+      ],
+      "label": "text",
+      "text": "Because of the fact that Commonwealth's Attorney Wise and Glenn K. Pollock, attorney for the defense, will be deriving in the trial of cases in the Hustings Court today, further hearing in the investigation of accusations against Captain Pollock was postponed until three o'clock Wednesday afternoon. The case is not yet half completed. It is known that Mayer Ninnie was counting on completing the hearing of each case in one day, or two days at the outside. But judging from the progress made at the trial yesterday the trials of all the men under fire will not be completed until the latter part of next week.\n\nThe witnesses who were introduced by the Commonwealth and testifying against Captain Pollock in the order of their testimony are as follows: Pollock man W. A. Clarke of the Second District; Magistrate J. A. Purdie, Sergeant R. B. Jordan, of the Second District; Captain of Detectives, A. S. Wright; John F. Powers, House Detective of Murphy's Hotel; Policeman W. E. Breeman, of the Second District and Policeman T. G. Walton, of the Second District.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1243,
+        1992,
+        1520,
+        2022
+      ],
+      "label": "paragraph_title",
+      "text": "POWERS TELLS OF POLLOCKS\nVISIT TO HOTEL 4300M",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1233,
+        2039,
+        1526,
+        2527
+      ],
+      "label": "text",
+      "text": "The consensus of opinion in the courtroom was that unless broken or clearly explained the evidence reluctantly offered by Mr. Powers was the most damaging evidence introduced by the Commonwealth. Mr. Powers testified that at some time during the year\u2014he could not remember the time the date or the month\u2014he had found Captain Pollock in a room at the hotel with a woman, both scantily attired and both under the influence of liquor.\n\nHe also said that in order to make sure before entering the room, he looked at the hotel register and saw the names of two women who had registered for the room. According to his testimony he told Captain Pollock that he would have to get the woman out of the hotel. With that, he said that he went out, returned in one half an hour, and both were gone. Mr. Powers admitted that Captain Pollock explained his presence to him there by saying that he was on business. However, he said that he would let him go only on the condition that he held a conference with the manager of the hotel. Mr. Disney, the following morning and give reasons or explanation for his presence in the hotel in such a position.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1237,
+        2527,
+        1527,
+        2690
+      ],
+      "label": "text",
+      "text": "Policeman W. E. Clarke, of the Second District, was the first witness called for the Commonwealth. At this time, in answer to a query from Commonwealth's Attorney George E. Wise as to the scope and rules governing the hearings, Mayor Ainsle said that his court would proceed under the recognized rules of courts of record in regard to the admissibility of evidence.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1531,
+        597,
+        1827,
+        1197
+      ],
+      "label": "text",
+      "text": "tion of the presentation. He put two questions to Mayor Aimee, saying that they were undermined in that they would decide the rules that would guide the invitation to he end. The first question was in regard to the range of evidence and the accessibility of evidence. This question, the Mayor answered by saying that the practice of courts or record would be adapted to. The second question of Mr. Wise was an e-book resource upon the powers that the Mayor exercised over the Police Department, as decided by the Hustings Court.\n\nHe said that the power of the Mayor comes from the Commission in section 129 and from the amended Charter for the city of Richmond, as included in the Acts of 1905. Then Mr. Wise read an excerpt from the charter, which says that the Chief of Police serves during the pleasure of the Mayor or \"pending good behavior, obliquity\" for the good of the service. It was apparent to those who have been following the cases that the prosecution intended to lay down rules in the determining which would contradict and deny the point made by the defense in the Hustings Court to the office that a police officer could be suspected or removed from office only for misconduct in office or neglect of duty.\n\nAt this point Col. David H. Leake, counsel for the defense, interim counsel and competitively said: \"We are not prepared to meet the challenges but we are prepared and ready to meet the specifications and charges.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1543,
+        1210,
+        1820,
+        1244
+      ],
+      "label": "paragraph_title",
+      "text": "CLUBE TELLS OF DOMESTIC\nVIOLENCE AT POLLUCKS HOME",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1532,
+        1257,
+        1825,
+        1743
+      ],
+      "label": "text",
+      "text": "As Mr. Wise proceeded to clarify his intention at length, Attorney Gilbert K. Pollock, in a heated manner, explained the position of the defense: \"Be's see this and not pledge about such plebiscite. We are ready to meet the position and the charges. We admit that the Mayor has loved passions, but it's be away with the lion and intermittible delays of his time then and we pause on the accused.\"\n\n\"Why\" \"was\" that \"objective\" Charles proceeded with his testimony. He had not gone far before the question of hearsay evidence was raised by the defense and this was overruled. He acted untidy, and it became evident that his testimony related to a scene of domestic violence at the home of Captain Pollock. Then Attorney Leake deferred that there was nothing in the charges that preposed this kind of testimony, and we did not think that the prosecution would go so far as to laylaide the sanctity of the home. Mr. Wise, do you think that the charges contain anything of this nature?\"\n\nMr. Wise replied that the evidence of Policeman Clarke preposed drunkness and disorderly conduct and that Captain Pollock was threatening suicide. \"That's why I wanted to make myself plain in the beginning.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1534,
+        1744,
+        1824,
+        1973
+      ],
+      "label": "text",
+      "text": "Attorney Pollock then earnestly said to the court: \"The evidence in question includes a family disagreement in which the wife of Captain Pollock in a fit of anger called up the Second Police Station, and the men on duty responded. But do you want to expose a family difference here in court for the benefit of the muckraker and the onlooker when it has no bearing on the case?\"  \nAttorney Bryan replied and the subtitle in court then became a free-for-all issue: \"We have no desire for muckraking. We intend to meet one",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1534,
+        2024,
+        1829,
+        2307
+      ],
+      "label": "text",
+      "text": "Prof. J. H. Hill, in charge of the Industrial Department of Armstrong School, of Washington, D. C., in company with his daughter, Miss Catherine E. Hill are in the city, the guest of Mrs. Maria Smith, 517 North Second street.\n\nMessrs. W. H. Crocker and C. W. Jordan, of Suffolk, Va., were in the city attending the sessions of the Virginia State Negro Business League. Mr. Crocker is President of the League.\n\nThe Negro State Business League is holding a splendid session here at the 3rd Street Bethel A. M. E. Church this week.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1594,
+        2349,
+        1771,
+        2363
+      ],
+      "label": "paragraph_title",
+      "text": "LABOR DAY PICNIC",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1534,
+        2379,
+        1828,
+        2692
+      ],
+      "label": "text",
+      "text": "Stop, look, listen! Are you going? Going where? To Lecoest, Midlothian Va. the new Fish Pond and Picnic Ground for Colored People. There will be a large picnic given there for the benefit of the new Help One Another Club and we are asking every colored man, woman and child to meet us at Lecoo on Labor Day, Monday, September 2, 1918. All persons from Hopewell will start from Dreamland Park. We also ask every colored man or woman who has an automobile to help us on that day. There will be some of the best men and women of the race to speak to you on that day. Edward McElvene, Propeller, ad dress Box 216, City Point, Va. or Box 4 Midlothian, Va. The boy with the Yellow Hudson Car.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1892,
+        540,
+        2107,
+        562
+      ],
+      "label": "text",
+      "text": "PRICE, FIVE CENTS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1830,
+        596,
+        2116,
+        782
+      ],
+      "label": "doc_title",
+      "text": "OUR COLORED SOLDIERS ON THE FIRING LINE IN FRANCE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1831,
+        813,
+        2119,
+        1325
+      ],
+      "label": "text",
+      "text": "Benjamin K. Hon, Richard W. Austen, or Tennessee, in the House of Representatives, June 22, 1918\n\nMr. Austin, Mr. Chairman, I avail myself of this opportunity to submit to the Congress and the American people the testimony of Gen. Pershing on the enviable record being made by four colored soldiers now in France on the trumpet line. The statement of the commander of our office on the western front will silence the many false reports put in circulation in this country as to the treatment and the conduct of the colored soldiers who are a part of our brave and invincible Army which is maintaining the admirable traditions of the American Army and Navy.\n\nMany of these soldiers come from the districts I represent and I am proud of the record they are making in defending our rights and in doing their best to make the world free and America safe and secure for all times. Here is Gen. Pershing's just tribute to these men:\n\nThe stories probably invented by German agents, that colored soldiers in France are always placed in most dangerous positions and sacrificed to save white soldiers; that when wounded they are left on the ground to die without medical attention, etc., absolutely false.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1853,
+        1338,
+        2099,
+        1352
+      ],
+      "label": "paragraph_title",
+      "text": "FIGURES ON THEIR LOSSES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1830,
+        1367,
+        2116,
+        1931
+      ],
+      "label": "text",
+      "text": "The following are the losses as reported up to June 18 in the four colored combatant regiments now in France; The Three hundred and seventh infantry. Died of wounds; 3; died of disease, 8; severely wounded, 2. The Three hundred and seventh infantry. Died of wounds; none; died of disease, 3; severely wounded, none. The Three hundred and seventy second infantry. Died of wounds, none; died of disease, 8; severely wounded, none. The Three hundred and seventy second infantry. Died of wounds, none; died of disease, 8; severely wounded, none. These figures show conclusively that Negro troops have not far far more occupied positions as dangerous as those occupied by white troops, and that their physical condition is excellent. A tour of inspection just completed among American Negro troops by officers of the training section of these headquarters show the comparatively high degree of training and efficiency among these troops. Their training is identical with that of other American troops serving with the French Army, the effort being to lead all American troops gradually to heavy combat duty by a preliminary service in trenches in quiet sectors. Colored troops in trenches have been particularly fortunate, as one regiment had been there a month before any losses were suffered. This was almost unheard of on the western front.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1829,
+        1933,
+        2115,
+        2020
+      ],
+      "label": "text",
+      "text": "The exploits of two colored infantrymen some weeks ago in repelling a much larger German patrol, killing and wounding several Germans and winning the croix de guerre by their gallory, has aroused a fine spirit.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1826,
+        2061,
+        2123,
+        2226
+      ],
+      "label": "text",
+      "text": "NASH. In loving remembrance of our beloved son and friend, Dr. William A. Nash, who departed this life one year ago, to day, July 26, 1917.\n\nAll of his pain and suffering were borne.\n\nWith a smile of heavenly mirth,\nAnd when the angels came down and called him home,\nHe smiled farewell to earth.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1847,
+        2240,
+        2109,
+        2267
+      ],
+      "label": "paragraph_title",
+      "text": "By his devoted mother and friend\nMRS. ELVIRA NASH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1886,
+        2311,
+        2063,
+        2324
+      ],
+      "label": "paragraph_title",
+      "text": "CRAWLEY----PEYTON",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1830,
+        2339,
+        2120,
+        2444
+      ],
+      "label": "text",
+      "text": "On June 12th, the wedding of Mr. Robert D. Crawley to Miss Janet Payton was solenized at her home, Tarbero, N. C.\n\nMr. and Mrs. Crawley are at home Stop 2. Petersburg car line. South Richmond. Friends are welcome.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1909,
+        2487,
+        2041,
+        2501
+      ],
+      "label": "paragraph_title",
+      "text": "Women Wanted?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1831,
+        2516,
+        2121,
+        2695
+      ],
+      "label": "text",
+      "text": "The women of Richmond are carefully asked to be present at Mt Carmel Baptist Church, Sunday, July 28, 1918, 1:30 P.M. M. to a great mass meeting for women only.\n\nMrs. Lucy A. Coles will speak. Subject: \"The Inside of African Women's Life Revealed.\" No girls admitted, only women. Under the auspices of the Missionary Circle, Please bring a silver offering.\n\nMrs. Rosa Button Coffee is President",
+      "status": "ok"
+    }
+  ]
+}

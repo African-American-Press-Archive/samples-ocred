@@ -3,16 +3,39 @@
   "image": "images/page_02.jpg",
   "width": 2321,
   "height": 2800,
+  "processed_at": "2026-03-06T18:05:14.704112+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 105,
+    "after_merge": 77
+  },
   "regions": [
     {
       "bbox": [
         173,
-        518,
+        160,
         450,
-        580
+        756
       ],
       "label": "text",
-      "text": "President of the Madam C. J. Waller Co. and the Lelia College, 640 North West Street, Indianapolis, Ind."
+      "text": "President of the Madam C. J. Walker\nCo. and the Lelia College, 640 North\nWest Street, Indianapolis, Ind.\n\nIS YOUR HA\nBREAKING OFF, THIN\nHave you Tetter, Eczema? Does\nthan a normal amount of Dandruff?\n\nMME. C. J. WALKER'S WO",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        279,
+        580,
+        728,
+        756
+      ],
+      "label": "text",
+      "text": "YOUR HAIR SHORT? \nMKING OFF, THIN OR FALLING OUT? \nZ Tetter, Eczema? Does your Scalp itch? Have you more amount of Dandruff? write for \nJ. WALKER'S WONDERFUL HAIR GROWER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +45,8 @@
         661
       ],
       "label": "paragraph_title",
-      "text": "IS YOUR HAIR SHORT? BREAKING OFF, THIN OR FALLING OUT?"
+      "text": "IS YOUR HAIR SHORT? BREAKING OFF, THIN OR FALLING OUT?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +56,8 @@
         775
       ],
       "label": "text",
-      "text": "Have you Tetter, Eczema? Doe your Scalp itch? Have you more than a normal amount of Dandruff? Write for\n\nMME. C. J. WALKER'S WONDERFUL HAIR GROWER\n\nThese Remedies are Manufactured only by"
+      "text": "Have you Tetter, Eczema? Doe your Scalp itch? Have you more than a normal amount of Dandruff? Write for\n\nMME. C. J. WALKER'S WONDERFUL HAIR GROWER\n\nThese Remedies are Manufactured only by",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,17 +67,41 @@
         824
       ],
       "label": "paragraph_title",
-      "text": "The Walker Manufacturing Co."
+      "text": "The Walker Manufacturing Co.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        173,
+        830,
+        612,
+        1191
+      ],
+      "label": "text",
+      "text": "Not How Cheap. But How Good A.\n\nTHE EDESCO PRESSING PARLOR\nW. H. Leath, Prop.\nSUITS SPONGED AND PRESSED 40c.; CLEAR\nPRESSED 75c.\nPhone South 6162-W. 966 Hem\n\nPhone 20515\nRes. So. 3275-J\n\nACME LAND AND INVESTMENT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        279,
+        851,
+        728,
+        1191
+      ],
+      "label": "text",
+      "text": "trial treatment sent to any address by mail for $1.75. Make payable to Mme. C. J. Walker. Send stamp for reply ENTED. Write for terms.\n\nNew Cheap. But How Good And Prompt.\n\nTHE EDESCO PRESSING PARLOR\nW. H. Leath, Prop.\nSPONGED AND PRESSED 40c.; CLEANED AND PRESSED 75c.\n\nSouth 6162-W. 966 Hemlock Street\n\nRENTALS\n\nTHE LAND AND INVESTMENT CO.",
+      "status": "ok"
     },
     {
       "bbox": [
         174,
-        830,
+        858,
         721,
         1125
       ],
       "label": "text",
-      "text": "640 N. West Street, Indianapolis Ind.\n\nA 8-week's trial treatment sent to any address by mail for $1.75. Make Money Orders payable to Mme. C. J. Walker. Send stamp for reply.\n\nSCENTS WANTED. Write for terms.\n\nNot How Cheap. But How Good And Prompt.\n\nTHE EDESCO PRESSING PARLOR\nW. H. Leath, Prop.\nSUITS SPONGED AND PRESSED 40c.; CLEANED AND PRESSED 75c.\n\nPhone South 6162-W. 966 Hemlock Street\n\nPhone 20515\nRes. So. 3275-J\nRENTALS"
+      "text": "8-week's trial treatment sent to any address by mail for $1.75. Make Money Orders payable to Mme. C. J. Walker. Send stamp for reply SGENTS WANTED. Write for terms.\n\nNot How Cheap. But How Good And Prompt.\nTHE EDESCO PRESSING PARLOR\nW. H. Leath, Prop.\nSUITS SPONGED AND PRESSED 40c.; CLEANED AND PRESSED 75c.\nPhone South 6162-W. 966 Hemlock Street\n\nPhone 20515 RENTALS\nRes. So. 3275-J",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +111,8 @@
         1184
       ],
       "label": "paragraph_title",
-      "text": "ACME LAND AND INVESTMENT CO."
+      "text": "ACME LAND AND INVESTMENT CO.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,17 +122,30 @@
         1239
       ],
       "label": "text",
-      "text": "REAL ESTATE AND INSURANCE WE MOVE YOU ALSO"
+      "text": "REAL ESTATE AND INSURANCE WE MOVE YOU ALSO",
+      "status": "ok"
     },
     {
       "bbox": [
-        195,
+        173,
         1251,
-        386,
-        1304
+        450,
+        1658
       ],
       "label": "text",
-      "text": "Clifford W. Brown, Mgr.\nJ. Estella Brown, Secy.\nV. M. Cole, Treas."
+      "text": "Clifford W. Brown, Mgr.\nJ. Estella Brown, Secy.\nV. M. Cole, Treas.\n\nTalk with\nAbout\nFIRE INSURANCE\nSICK BENEFIT L\nACCIDENT L\nHOUSES\n\nStokes P\n1333 EAST 12TH ST.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        279,
+        1305,
+        728,
+        1663
+      ],
+      "label": "text",
+      "text": "Talk with Stokes\nAbout What?\nINSURANCE\nBACK BENEFIT INSURANCE\nACCIDENT INSURANCE\nHOUSES FOR RENT\nStokes Realty Co.\n3 EAST 12TH ST. BDWY. 3130",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +155,8 @@
         1518
       ],
       "label": "text",
-      "text": "IRE INSURANCE\nSICK BENEFIT INSURANCE\nACCIDENT INSURANCE\nHOUSES FOR RENT"
+      "text": "IRE INSURANCE\nSICK BENEFIT INSURANCE\nACCIDENT INSURANCE\nHOUSES FOR RENT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +166,30 @@
         1690
       ],
       "label": "paragraph_title",
-      "text": "Seashore="
+      "text": "Seashore=",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        173,
+        1690,
+        450,
+        1794
+      ],
+      "label": "text",
+      "text": "Vacation",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        279,
+        1692,
+        728,
+        1794
+      ],
+      "label": "text",
+      "text": "acation Time",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,17 +199,41 @@
         1777
       ],
       "label": "paragraph_title",
-      "text": "Vacation Time"
+      "text": "Vacation Time",
+      "status": "ok"
     },
     {
       "bbox": [
-        205,
+        173,
         1794,
+        450,
+        2341
+      ],
+      "label": "text",
+      "text": "is here again and many of us are planning to spend a goodly portion of that time at one of the numerous seaside resorts while others will prefer the mountains\u2014\n\nIn either case the PACIFIC ELECTRIC RAILWAY offers unexcelled service to seaside resorts and direct connections to many mountain camps.\n\nPacific Electra\n\nFor Information and\n\nGeneral Pas\n\nC. A.\n\nLOS ANGELES\n\nJ. E. PARKS; C.\n\nPARK\n\nNEW AND SECOND-HAUNT\n\nCabinet Makers\u2014Furniture\n\n810 EAST 5",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        279,
+        2048,
+        728,
+        2331
+      ],
+      "label": "text",
+      "text": "Pacific Electric Railway\nFor Information and Literature Address\nGeneral Passenger Agent\nG. A. SM TH\nLOS ANGELES\n\nJ. E. PARKS; C. W. PARKS\u2014PROPS.\n\nPARK BROS.\nNEW AND SECOND-HAND FURNITURE STORE\nMakers\u2014Furniture Bought, Sold and Repaired\n819 EAST 5TH STREET",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        217,
+        2060,
         684,
         2162
       ],
       "label": "text",
-      "text": "is here again and many of us are planning to spend a goodly portion of that time at one of the numerous seaside resorts while others will prefer the mountains\u2014\n\nIn either case the PACIFIC ELECTRIC RAILWAY offers unexcelled service to seaside resorts and direct connections to many mountain camps.\n\nSEASIDE RESORTS\nVenice, Ocean Park, San Monica, Hermosa Beach, Manhattan Beach, Redondo Beach, Long Beach, Seal Beach, Huntington Beach, Newport Beach Balboa.\n\nMOUNTAIN RESORTS\nMt. Lowe, Camp Baldy, Hogee's Camp, Glenn Ranch, Colo-Drook Camp, Camp Rincon Follow's Camp, Strain's Camp and San Bernardino Mountain Resorts.\n\nPacific Electric Railway\nFor Information and Literature Address\nGeneral Passenger Agent\nG. A. SM TH\nLOS ANGELES"
+      "text": "Pacific Electric Railway\nFor Information and Literature Address\nGeneral Passenger Agent\nG. A. SM TH\nLOS ANGELES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +243,8 @@
         2307
       ],
       "label": "text",
-      "text": "PARK BROS.\nNEW AND SECOND-HAND FURNITURE STORE\nCabinet Makers\u2014Furniture Bought, Sold and Repaired\n810 EAST 5TH STREET"
+      "text": "PARK BROS.\nNEW AND SECOND-HAND FURNITURE STORE\nCabinet Makers\u2014Furniture Bought, Sold and Repaired\n810 EAST 5TH STREET",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +254,8 @@
         2381
       ],
       "label": "paragraph_title",
-      "text": "LA BONITA APARTMENTS AND ROOMS"
+      "text": "LA BONITA APARTMENTS AND ROOMS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +265,19 @@
         2543
       ],
       "label": "text",
-      "text": "predecessors.\nSpend you week-end or your vacation here at the Water's edge.\nWearent bathing suits, thus making possible a daily plunge in the ocean."
+      "text": "predecessors.\nSpend you week-end or your vacation here at the Water's edge.\nWearent bathing suits, thus making possible a daily plunge in the ocean.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        177,
+        89,
+        294,
+        109
+      ],
+      "label": "text",
+      "text": "PAGE TWO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +287,8 @@
         234
       ],
       "label": "paragraph_title",
-      "text": "Learn to Grow Hair"
+      "text": "Learn to Grow Hair",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +298,8 @@
         337
       ],
       "label": "text",
-      "text": "AND MAKE MONEY\nComplete Course by\nMail or by Personal\nInstructions"
+      "text": "AND MAKE MONEY\nComplete Course by\nMail or by Personal\nInstructions",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +309,8 @@
         541
       ],
       "label": "text",
-      "text": "Hair Culture\nMADAM C. J. WALKER\nIs A Passport to Prosperity"
+      "text": "Hair Culture\nMADAM C. J. WALKER\nIs A Passport to Prosperity",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +320,19 @@
         1305
       ],
       "label": "text",
-      "text": "1400 CENTRAL AVENUE\nLOS ANGELES, CAL"
+      "text": "1400 CENTRAL AVENUE\nLOS ANGELES, CAL",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        405,
+        1631,
+        497,
+        1727
+      ],
+      "label": "text",
+      "text": "PACIFIC\nCORPORATION\nELECTRIC",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +342,8 @@
         1692
       ],
       "label": "paragraph_title",
-      "text": "--Mountains"
+      "text": "--Mountains",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +353,8 @@
         2048
       ],
       "label": "text",
-      "text": "SEASIDE RESORTS\nVenice, Ocean Park, Santa\nMonica, Hermosa Beach, Manhattan Beach, Redondo Beach,\nLong Beach, Seat Beach, Huntington Beach, Newport Beach,\nBalboa.\n\nMOUNTAIN RESORTS\nMt. Lowe, Camp Baldy, Hoogee's Camp, Glenn Ranch, Cold Brook Camp, Camp Rincon,\nFollow's Camp, Strain's Camp,\nand San Bernardino Mountain Resorts."
+      "text": "SEASIDE RESORTS\nVenice, Ocean Park, Santa\nMonica, Hermosa Beach, Manhattan Beach, Redondo Beach,\nLong Beach, Seat Beach, Huntington Beach, Newport Beach,\nBalboa.\n\nMOUNTAIN RESORTS\nMt. Lowe, Camp Baldy, Hoogee's Camp, Glenn Ranch, Cold Brook Camp, Camp Rincon,\nFollow's Camp, Strain's Camp,\nand San Bernardino Mountain Resorts.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,17 +364,30 @@
         217
       ],
       "label": "doc_title",
-      "text": "GLEANINGS FROM OUR CHURCHES"
+      "text": "GLEANINGS FROM OUR CHURCHES",
+      "status": "ok"
     },
     {
       "bbox": [
         737,
         222,
         1271,
+        748
+      ],
+      "label": "text",
+      "text": "All Church News\u2014For Publication\u2014Must be in This Office No Later Than Noon Wednesdays.\n\nSECOND BAPTIST CHURCH\u2014740 Maple Avenue\nRev. H. D. Prowd, Pastor.\n\nSeveral new scholars were received in Sunday School and each enjoyed the hearty welcome extended. At the 11 a.m. service the Rev. Dr. Barber of Texas gave us a wonderful Texas shake up. The church was filled and from the hearty responses it was plain to everyone and also to the preacher, that God had driven home his great message to us all. At 4 p.m. Mrs. Leyten, President of the Women's National Baptist Convention addressed a Mass Meeting and her message will never be forgotten. The special outing in honor of the distinguished guest was quite a success. Our Young People had a delightful meeting in their B. Y. P. U. session. At night we observed the Lord's Supper and the hand of fellowship was given to many who joined the church during the month.\n\nBETHIEL CHURCH OF CHRIST\u2014(Moliness)\nHooper Avenue and East Adams St.\nElder W. A. Washington, Pastor.\n\nThe services the past Sunday was indeed inspiring and helpful. Sunday School was well attended and very active. At the morning h Elder D. Boswell preached an excellent sermon; Text: Luke 11:1. The principal thought was prayer, the greatest need of today; an earnest appeal was given for the church pray more and greater results to be accomplished. Prayer is no mere form of high sounding work but the soul's sincere desire, when unuttered or unexpressed. It the only way through which we become citizens of that Celes City. At 5 p.m. he delivered another inspired and edifying sermon; To St. Luke 22:19. At this service Lord's Supper was administered. Don't fail to hear these inspired",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        738,
+        749,
+        1015,
         857
       ],
       "label": "text",
-      "text": "All Church News\u2014For Publication\u2014Must be in This Office No Later Than Noon Wednesdays.\n\nSECOND BAPTIST CHURCH\u2014740 Maple Avenue\nRev. H. D. Prowd, Pastor.\n\nSeveral new scholars were received in Sunday School and each enjoyed the hearty welcome extended. At the 11 a.m. service the Rev. Dr. Barber of Texas gave us a wonderful Texas shake up. The church was filled and from the hearty responses it was plain to everyone and also to the preacher, that God had driven home his great message to us all. At 4 p.m. Mrs. Leyten, President of the Women's National Baptist Convention addressed a Mass Meeting and her message will never be forgotten. The special outing in honor of the distinguished guest was quite a success. Our Young People had a delightful meeting in their B. Y. P. U. session. At night we observed the Lord's Supper and the hand of fellowship was given to many who joined the church during the month.\n\nOn this Sunday morning we will hear from the greatest living Preacher and at Night Dr. Barber will again preach. Those wishful of getting seats at these services must come early.\n\nBETHEL CHURCH OF CHRIST\u2014(Moliness)\nHooper Avenue and East Adams St.\nElder Wm. A. Washington, Pastor.\n\nThe services the past Sunday was indeed inspiring and helpful. Sunday School was well attended and very active. At the morning h Elder D. Boswell preached an expert sermon; Text: Luke 11:1. The principal thought was prayer, the greatest need of today; an earnest appeal was given for the church pray more and greater results to be accomplished. Prayer is not mere form of high sounding work but the soul's sincere desire, wher unuttered or unexpressed. It the only way through which we become citizens of that Celes City. At 8 p.m. he delivered another inspired and edifying sermon; To St. Luke 22:19. At this service Lord's Supper was administered. Don't fail to hear these inspired mons; songs of Zion by the Ch Next week services: Sun School, 9:45 a.m.; Preaching 12 a.m.; Y. P. U. 6 p.m. Wednes 2:30 p.m.; Sisters Willing Works 8 p.m. Brotherhood. Thursday"
+      "text": "On this Sunday morning we will hear from the greatest living Preacher and at Night Dr. Barber will again preach. Those wishful of getting seats at these services must come early.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,17 +397,41 @@
         913
       ],
       "label": "paragraph_title",
-      "text": "NEW HOPE BAPTIST CHURCH\nRey. A. Lively, Pastor."
+      "text": "NEW HOPE BAPTIST CHURCH\nRey. A. Lively, Pastor.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        736,
+        925,
+        1016,
+        1455
+      ],
+      "label": "text",
+      "text": "The W. H. and F. M. Society of the New Hope Baptist Church will have the regular monthly sermon preached next Sunday morning at 11 o'clock by the pastor, Rev. Lively. The ordination of two deacons will also take place during morning services. At 2.30 p. m. Rev. R. N. Holt of the St. Paul Baptist Institutional Church will preach for us and his Choir will sing. At 7.30 at the evening services Rev. Butler from New Orleans will deliver to us a message. Sunday School at 9.30 a. m.; and B. Y. P. U. at 6.30 p. m. Everyone cordially invited to attend all services\u2014Saints and Sinners alike.\n\nMACEDONIA BAPISTIST CHURCH\u2014Watts, California\nRev. J. A. Fleming, Pastor.\n\nA day of feasting, indeed, in the Spirit was the past first Sunday for Macedonia.\n\nBeginning with our S. S. lesson, subject: \"Christian Worship,\" in which we learned many important facts about worshipping, the reasons why, etc.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        733,
+        1459,
+        1017,
+        2025
+      ],
+      "label": "text",
+      "text": "Our historian gave us an interesting outline of Jesus' travels and miracles from Jerusalem to the well near Sycorah where He met the Sanitarian woman who was converted after His conversation with her.\n\nAt 11 o'clock, our pastor preached to us about \"The Last Supper\" in which He admonished us to search ourselves, to watch and pray, so that we will not be a \"Judas\" and let the devil tempt us with 30 pieces of silver or with anything of this world.\n\nThe presence of the Holy Split was made manifest by the exclamations of joy from the congregation which was a source of inspiration to our shepherd. Our testimonial service in the evening was a spiritual feast indeed, with nearly every seat in the church filled.\n\nMany strangers joined us in testifying and singing songs of praises after which our pastor invited all who felt themselves worthy to commune with us. Collection for the day $30.17. All are welcome to our services.\n\nPHILIPS CHAPEL C. M. E.\nCHURCH, 1406 Newton Street.\nRev. J. C. Anderson, Pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
         730,
-        925,
-        1017,
+        2042,
+        1011,
         2503
       ],
       "label": "text",
-      "text": "The W. H. and F. M. Society of the New Hope Baptist Church will have the regular monthly sermon preached next Sunday morning at 11 o'clock by the pastor, Rev. Lively. The ordination of two deacons will also take place during morning services. At 2.30 p. m. Rev. R. N. Holt of the St. Paul Baptist Institutional Church will preach for us and his Choir will sing. At 7.30 at the evening services Rev. Butler from New Orleans will deliver to us a message.\n\nSunday School at 9.30 a.m.; and B. Y. P. U. at 6.30 p. m. Everyone cordially invited to attend all services\u2014Saints and Sinners alike.\n\nMACEDONIA BAPTIST CHURCH\u2014Watts, California\nRev. J. A. Fleming, Pastor.\n\nA day of feasting, indeed, in the Spirit was the past first Sunday for Macedonia.\n\nBeginning with our S. S. lesson, subject: \"Christian Worship,\" in which we learned many important facts about worshipping, the reasons why, etc.\n\nOur historian gave us an interesting outline of Jesus' travels and miracles from Jerusalem to the well near Sychr where He met the Samaritan woman who was converted after His conversation with her.\n\nAt 11 o'clock, our pastor preached to us about \"The Last Supper\" in which He admonished us to search ourselves, to watch and pray, so that we will not be a \"Judas\" and let the devil tempt us with 30 pieces of silver or with anything of this world.\n\nThe presence of the Holy Split was made manifest by the exclamations of joy from the congregation which was a source of inspiration to our shepherd. Our testimonial service in the evening was a spiritual feast indeed, with nearly every seat in the church filled.\n\nMany strangers joined us in testifying and singing songs of praise after which our pastor invited all who felt themselves worthy to commune with us. Collection for the day $30.17. All are welcome to our services.\n\nPHILIPS CHAPEL C. M. E.\nCHURCH, 1406 Newton Street.\nRev. J. C. Anderson, Pastor.\n\nSunday services were enjoyed by three splendid congregations at this church on the past Lord's Day. The pastor preached at both the morning and evening services and administered the Lord's Supper. Rev. R. N. Holt of the St. Paul Baptist Church preached at the afternoon service and his Choir rendered the music. The servic was very much enjoyed by those present. The Holy Spirit was present in demonstration and power and the hearts of believers were made to rejoice.\n\nThe coming Sunday will see the close of the \"Out of Debt\" Rally of the Church. All the clubs have been showing unusual activity and the indications are for a successful effort. There will be special music rendered by the Choir all day. In the afternoon at three o'clock Dr. J. E. McCorkle of the First A. M. E. Zion Church will preach and the various pastors and their congregations are invited to be present."
+      "text": "Sunday services were enjoyed by three splendid congregations at this church on the past Lord's Day. The pastor preached at both the morning and evening services and administered the Lord's Supper. Rev. R. N. Holt of the St. Paul Baptist Church preached at the afternoon service and his Choir rendered the music. The servic was very much enjoyed by those present. The Holy Spirit was present in demonstration and power and the hearts of believers were made to rejoice.\n\nThe coming Sunday will see the close of the \"Out of Debt\" Rally of the Church. All the clubs have been showing unusual activity and the indications are for a successful effort. There will be special music rendered by the Choir all day. In the afternoon at three o'clock Dr. J. E. McCorkle of the First A. M. E. Zion Church will preach and the various pastors and their congregations are invited to be present.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,17 +441,41 @@
         2599
       ],
       "label": "text",
-      "text": "Additions are constantly being made to the membership of this fast growing church. Come where a welcome awaits you and where the old time fire is burning."
+      "text": "Additions are constantly being made to the membership of this fast growing church. Come where a welcome awaits you and where the old time fire is burning.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        971,
+        93,
+        1338,
+        113
+      ],
+      "label": "text",
+      "text": "THE CALIFORNIA EAGLE",
+      "status": "ok"
     },
     {
       "bbox": [
         1020,
         289,
+        1285,
+        374
+      ],
+      "label": "text",
+      "text": "BETHEL CHURCH OF CHRIST\u2014\n(Holiness)\nHooper Avenue and East Adams St.\nElder Wm. A. Washington, Pastor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1021,
+        375,
         1296,
         891
       ],
       "label": "text",
-      "text": "BETHEL CHURCH OF CHRIST\u2014(Moliness)\nHooper Avenue and East Adams St.\nElder Wm. A. Washington, Pastor\n\nThe services the past Sunday were indeed inspiring and helpful. Sunday School was well attended and very active. At the morning hour Elder D. Boswell preached an excellent sermon; Text: Luke 11:1. The principal thought was prayer, the greatest need of today; an earnest appeal was given for the church to pray more and greater results will be accomplished. Prayer is not a mere form of high sounding words, but the soul's sincere desire, whether unuttered or unexpressed. It is the only way through which we may become citizens of that Celestial City. At 8 p.m. he delivered another inspired and edifying sermon; Text: St. Luke 22:19. At this service the Lord's Supper was administered. Don't fail to hear these inspired sermons; songs of Zion by the Choir.\nNext week services: Sunday School, 9.45 a.m.; Preaching 11:30 a.m.; Y. P. Y., 6 p.m.; Wednesdays 2:30 p.m.; Sisters Willing Workers; 8 p.m. Brotherhood. Thursday 8 p.m., Praise and Preaching. All are welcome to attend these services."
+      "text": "The services the past Sunday were indeed inspiring and helpful. Sunday School was well attended and very active. At the morning hour Elder D. Boswell preached an excellent sermon; Text: Luke 11:1. The principal thought was prayer, the greatest need of today; an earnest appeal was given for the church to pray more and greater results will be accomplished. Prayer is not a mere form of high sounding words, but the soul's sincere desire, whether unuttered or unexpressed. It is the only way through which we may become citizens of that Celestial City. At 8 p.m. he delivered another inspired and edifying sermon; Text: St. Luke 22:19. At this service the Lord's Supper was administered. Don't fail to hear these inspired sermons; songs of Zion by the Choir. Next week services: Sunday School, 9.45 a.m.; Preaching 11.30 a.m.; Y. P. L. 6 p.m. Wednesday 2.30 p.m. Sisters Willing Workers; 8 p.m. Brotherhood. Thursday 8 p.m. Praise and Preaching. All are welcome to attend these services.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,27 +485,74 @@
         956
       ],
       "label": "paragraph_title",
-      "text": "HAMILTON A. M. E. CHURCH\nCor 18th and Naomi Avenue\nRue S. M. Roose Bostor"
+      "text": "HAMILTON A. M. E. CHURCH\nCor 18th and Naomi Avenue\nRue S. M. Roose Bostor",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1022,
+        981,
+        1298,
+        1317
+      ],
+      "label": "text",
+      "text": "Services at this church on last Sunday were of a highly spiritual and helpful nature. The Sunday School under the efficient leadership of Mr. R. L. Edmonds steadily increases in interest and in numbers.\n\nThe pastor preached in the morning from the subject, \"Jesus in the Garden,\" and administered the Communion of the Lord's Supper. At night his subject was, \"Going by Faith,\" These services were helpful and were enjoyed by all who worshipped with us.\n\nYou are cordially invited to worship with us next Sunday.\n\nPIRST A. M. E. CHURCH NOTES\n8th and Towne Avenue",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1022,
+        1323,
+        1297,
+        1971
+      ],
+      "label": "text",
+      "text": "Rev. J. Logan Craw, Pastor. Thoroughly edifying and uplifting were the services all day the first Sunday in August which was last Communion day of this Annual Conference Year. The pastor delivered both sermons and there were four accessions to church membership. A great host communed. Many visitors were presented who worshipped with us; prominent among them were Rev. W. W. Wells, El Paso, Texas; Prof. Robert G. Jackson and wife, and Miss Wilson, Music Teacher of Western University; Mr. and Mrs. Slaughter of Sacramento; Mrs. Eyrene Gaines, Teacher and Mrs. Leona Roberts of Topeka, Kans. The united effort of collecting \"Dollar Money,\" and \"Connectional Claim Funds,\" was a cheerful success. Four weeks more remain open for every member and friend to make known your real church loyalty in responding to these annual benevolent charities. And at every service from now until the end the pastor will take great delight in receiving the \"Dollar Money\" and any donation from all friends whose spirit constrains to this noble act of duty, and liberality. Remember that in thus contributing you make a most prolific investment yielding manifold returns in the life that now is and that which is to come. Everybody welcome to help.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1016,
+        1971,
+        1293,
+        2473
+      ],
+      "label": "text",
+      "text": "The Rev. W. W. Wells, pastor A. M. E. Church, El Paso, Texas, will be the speaker at 11 a. m. this second Sunday in August, at 8 p. m., the Rev. Dave Brown of Louisiana. Both of our excellent choirs that thrilled the vast multitudes the past Lord's Day will sing. Prof. Bartlett is bringing about harmonious results never-to-fore experienced by these two singing aggregations. Come and hear for yourself. Be punctual.\n\nBig Evangelistic Day, Sunday, August 17th, 11 a. m. Miss Ida Mae Myller, B. D., graduate of Payne Theological Seminary. Wilberforce University will reach. At 8 p. m. Miss Martha J. Keys. \"Whirlwind Evangelist,\" graduate of Payne Theological Seminary. Wilberforce University will deliver the message. Get ready now for this big Evangelistic treat by these disciples from God of the gentler sex. The Third Sunday of this month you are invited to be present both morning and evening.",
+      "status": "ok"
     },
     {
       "bbox": [
         1012,
-        909,
-        1298,
+        2475,
+        1289,
         2601
       ],
       "label": "text",
-      "text": "Services at this church on last Sunday were of a highly spiritual and helpful nature. The Sunday School under the efficient leadership of Mr. R. L. Edmonds steadily increases in interest and in numbers.\n\nThe pastor preached in the morning from the subject, \"Jesus in the Garden,\" and administered the Communion of the Lord's Supper. At night his subject was, \"Going by Faith.\" These services were helpful and were enjoyed by all who worshipped with us.\n\nYou are cordially invited to worship with us next Sunday.\n\nFIRST A. M. E. CHURCH NOTES\u20148th and Towne Avenue\nRev. J. Logan Craw, Pastor.\nThoroughly edifying and uplifting were the services all day the first Sunday in August which was last Communion day of this Annual Conference Year. The pastor delivered both sermons and there were four accessions to church membership. A great host communed. Many visitors were presented who worshipped with us; prominent among them were Rev. W. W. Wells, El Paso, Texas: Prof. Robert G. Jackson and wife, and Miss Wilson, Music Teacher of Western University; Mr. and Mrs. Slaughter of Sacramento; Mrs. Eyrene Gaines, Teacher and Mrs. Leona Roberts of Topeka, Kans. The united effort of collecting \"Dollar Money,\" and \"Connectional Claim Funds,\" was a cheerful success. Four weeks more remain open for every member and friend to make known your real church loyalty in responding to these Annual benevolent charities. And at every service from now until the end the pastor will take great delight in receiving the \"Dollar Money\" and any donation from all friends whose spirit constrains to this noble act of duty, and liberality. Remember that in thus contributing you make a most prolific investment yielding manifold returns in the life that now is and that which is to come. Everybody welcome to help.\n\nThe Rev. W. W. Wells, pastor A. M. E. Church, El Paso, Texas, will be the speaker at 11 a.m. this second Sunday in August, at 8 p.m., the Rev. Dave Brown of Louisiana. Both of our excellent choirs that thrilled the vast multitudes the past Lord's Day will sing, Prof. Bartlett is bringing about harmonious results never-t experienced by these two singing aggregations. Come and hear for yourself. Be punctual.\n\nBig Evangelistic Day, Sunday, August 17th, 11 a.m. Miss Ida Mae Myller, B. D., graduate of Payne Theological Seminary, Wilberforce University will preach. At 8 p.m. Miss Martha J. Keys, \"Whirlwind Evangelist,\" graduate of Payne Theological Seminary, Wilberforce University will deliver the message. Get ready now for this big Evangelistic treat by these disciples from God of the gentler sex. The Third Sunday of this month you are invited to be present both morning and evening.\n\nEvery day is now, \"Dollar Money,\" Day. This money is \"Conscience our church membership. Let's all Money,\" in as much as it is pledged by everyone who takes othe vow of hurry and pay our vow."
+      "text": "Every day is now: *Doffar Money*\nDay. This money is \"Conscience\nour church membership. Let's all\nMoney.\" in as much as it is pledged\nby everyone who takes the vow of\nhurry and pay our vow.",
+      "status": "ok"
     },
     {
       "bbox": [
         1301,
         148,
+        1578,
+        701
+      ],
+      "label": "text",
+      "text": "LINCOLN MEMORIAL CONGREGATIONAL CHURCH\u201434th st. and Central Avenue\nF. E. Lightner, A. B., B. D., Pastor\n\nLast Sunday being the first of the month the \"Lord's Supper,\" was fittingly administered at both services. \"The cup of blessing and the cup of suffering\" was the pastor's theme at the morning hour. In the evening he gave the last in a series on: \"The messages to the Seven Churches.\" The Christian Endeavor under the presidency of Bro. Baker had a very interesting and helpful meeting as usual.\n\nServices this Sunday, August 10th as follows: Sunday School, 9.45 a.m.; Preaching 11.15 a.m. and 8 p.m. by pastor, morning subject: \"The Greatest of all Teachers,\" Evening, \"What Lack I Yet?\"; Christian Endeavor, 7.00 p.m., Topic: \"Speech\u2014Wise and Unwise.\" Jas. 3:1-18, Leader Mrs. Louise Jackson.\n\nYou are cordially invited to attend all these meetings.\n\nWARD CHAPEL A. M. E. CHURCH\n1354 Channing Street",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1304,
+        729,
         1580,
         1052
       ],
       "label": "text",
-      "text": "LINGOLN MEMORIAL CONGREGATIONAL CHURCH\u201434th st. and Central Avenue\nF. E. Lightner, A. B., B. D., Pastor\n\nLast Sunday being the first of the month the \"Lord's Supper,\" was fittingly administered at both services. \"The cup of blessing and the cup of suffering\" was the pastor's theme at the morning hour. In the evening he gave the last in a series on: \"The messages to the Seven Churches.\" The Christian Endeavor under the presidency of Bro. Baker had a very interesting and helpful meeting as usual.\n\nServices this Sunday, August 10th as follows: Sunday School, 9.45 a.m.; Preaching 11.15 a.m. and 8 p.m.; by pastor, morning subject: \"The Greatest of all Teachers,\" Evening, \"What Lack I Yet?\"; Christian Endeavor, 7.00 p.m.; Topic: \"Speech\u2014Wise and Unwise,\" Jas. 3:1-18, Leader Mrs. Louise Jackson.\n\nYou are cordially invited to attend all these meetings.\n\nWARD CHAPEL A. M. E. CHURCH 1354 Channing Street\nRev. J. W. Price, Pastor.\n\nOur services during the past Sabbath were above normal; all in attendance enjoyed a spiritual feast. One soul was admitted to full membership at the morning service. This being Holy Communion day, the worshippers could truly say as did the apostle John, that they were in the spirit on the Lord's Day.\n\nThe big chorus is now in the hands of Prof. R. G. Jackson and he is well satisfied with the progress they are making; Prof. Bynum is rendering him valuable assistance; he promises to give to Los Angeles the greatest treat of its kind. Services for next Sunday will be as usual. All are welcome to this home-like church."
+      "text": "Our services during the past Sabbath were above normal; all in attendance enjoyed a spiritual feast. One soul was admitted to full membership at the morning service. This being Holy Communion day, the worshippers could truly say as did the apostle John, that they were in the spirit on the Lord's Day.\n\nThe big chorus is now in the hands of Prof. R. G. Jackson and he is well satisfied with the progress they are making; Prof. Bynum is rendering him valuable assistance; he promises to give to Los Angeles the greatest treat of its kind. Services for next Sunday will be as usual. All are welcome to this home-like church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +562,8 @@
         1372
       ],
       "label": "text",
-      "text": "Sunday School at 9.30 a. m.; Church Services begin at 10.45 a. m. sharp.\n\nLarge crowds gathered Sunday morning to enjoy the grand services of Zion. The pastor's subject. \"If any man's work will stand the fire he shall receive a Reward.\" We are all preparing for the Grand Rally which is to be the Second Sunday in September. All are welcome. B. Y. P. U. at six o'clock. Evening service at 7.30 p. m."
+      "text": "Sunday School at 9.30 a. m.; Church Services begin at 10.45 a. m. sharp.\n\nLarge crowds gathered Sunday morning to enjoy the grand services of Zion. The pastor's subject. \"If any man's work will stand the fire he shall receive a Reward.\" We are all preparing for the Grand Rally which is to be the Second Sunday in September. All are welcome. B. Y. P. U. at six o'clock. Evening service at 7.30 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,27 +573,63 @@
         1429
       ],
       "label": "paragraph_title",
-      "text": "WESLEY CHAPEL CHURCH Rev. A. P. Shaw, Pastor."
+      "text": "WESLEY CHAPEL CHURCH Rev. A. P. Shaw, Pastor.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1304,
+        1442,
+        1581,
+        1897
+      ],
+      "label": "text",
+      "text": "Two large congregations worshipped at Wesley last Sunday and were very much benefitted by the pastor's sermons both morning and evening. One person united with the church and more than three hundred persons communed during the day.\n\nBrother Stout reports great services at the Pullman Mission. Two persons were converted and two others came forward for prayer.\n\nThis Sunday promises to be a great day. The Rev. Mr. Reed, the energetic and talented pastor of the Baptist Church of San Bernardino will preach at 11 a.m. at 3 p.m. the pastor will preach the annual sermon of the Wesley Chapel Benevolent Society, and in the evening will open the great series of sermons on the Message to the Seven Churches of Asia Minor with his great sermon on the Message to the Church at Ephesus, or life through Love. This series of sermons will continue all the week as follows:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1299,
+        1899,
+        1578,
+        2272
+      ],
+      "label": "text",
+      "text": "Monday night\u2014To the Church at Smyrna, Dr. H. D. Prowd; music by the Second Baptist Choir. Tuesday Night\u2014To the Church at",
+      "status": "repetition"
     },
     {
       "bbox": [
         1295,
-        1442,
-        1581,
+        2285,
+        1575,
         2599
       ],
       "label": "text",
-      "text": "Two large congregations worshipped at Wesley last Sunday and were very much benefited by the pastor's sermons both morning and evening. One person united with the church and more than three hundred persons communed during the day.\n\nBrother Stout reports great services at the Pullman Mission. Two persons were converted and two others came forward for prayer.\n\nThis Sunday promises to be a great day. The Rev. Mr. Reed, the energetic and talented pastor of the Baptist Church of San Bernardino will preach at 11 a.m. at 3 p.m. the pastor will preach the annual sermon of the Wesley Chapel Benevolent Society, and in the evening will open the great series of sermons on the Message to the Seven Churches of Asia Minor with his great sermon on the Message to the Church at Ephesus, or life through Love. This series of sermons will continue all the week as follows:\n\nMonday night\u2014To the Church at Smyrna, Dr. H. D. Prowd; music by the Secord Baptist Choir; Tuesday Night\u2014To the Church at"
+      "text": "Last Sabbath was another splendid day at this church. And Sunday, August 10th is promising. The Choir will give a sacred concert at the evening service. Those who attended making special efforts to make men the last remember that it was a real spiritual feast as well as an entertainment. You will witness the same in this. It is conceded that Prof. W. M. Bynum is one of the most proficient musicians in his line in the city. For the next few Sabbaths we are more acquainted with Jesus. Taking some particular characteristic of his life as a theme. Sunday we will",
+      "status": "ok"
     },
     {
       "bbox": [
         1854,
         197,
         2124,
-        255
+        778
       ],
       "label": "text",
-      "text": "SEE WHAT PORO HAS DONE FOR ME!"
+      "text": "SEE WHAT PORO HAS\nDONE FOR ME!\nLet Me Treat Your Scalp And\nIt Will Do The Same For You.\n\nPoro Will Do The Work If Your\nScalp Itches Or Your Hair Is\nFalling Out.\n\nPhone Bdwy. 81'\n\nMRS. MATTIE JACKSON\n. Street Los Angeles Cai.\n\nBrothers",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1585,
+        571,
+        2002,
+        765
+      ],
+      "label": "text",
+      "text": "1115\u20141117 East 10th. Street Los Angeles Driver Brothe",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +639,8 @@
         611
       ],
       "label": "text",
-      "text": "1115----1117 East 10th. Street Los Angeles Cai."
+      "text": "1115----1117 East 10th. Street Los Angeles Cai.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +650,8 @@
         726
       ],
       "label": "doc_title",
-      "text": "Driver Brothers"
+      "text": "Driver Brothers",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +661,8 @@
         726
       ],
       "label": "paragraph_title",
-      "text": "Driver Brothers"
+      "text": "Driver Brothers",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +672,30 @@
         992
       ],
       "label": "text",
-      "text": "Largest Retail Grocery Dealers The Race has in Los Angles."
+      "text": "Largest Retail Grocery Dealers The Race has in Los Angles.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1854,
+        1022,
+        2124,
+        1631
+      ],
+      "label": "text",
+      "text": "but the best Groceries,\nMeats, and the best brands\n\ndelivery to all parts of city.\n\nPhone South 581\n\nC. WALKER\nAT PRACTICIONER\nLos Angeles, Calif.\n\nPLACE TO EAT\nEat Dairy Lunch\nT. WILEY, Prop.\nNTRAL AVENUE\n\ntlesome food\u2014everything strictly\nin reach of everyone.\n\nRE! FIRE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1585,
+        1023,
+        2002,
+        1631
+      ],
+      "label": "text",
+      "text": "They handle nothing but the best Fruits, Vegetables, Salt Meats, and the in fresh can goods. Free rapid auto truck delivery to all pa COR. 20th and HOOPER Phone\n\nPhone West 1253\nESTELLA C. WALK\nNEW THOUGHT PRACTICIONE\nRes. 1687 Bird St. Los A\n\nTHIS IS THE PLACE TO H\nThe Far West Dairy L\nMARGARET T. WILEY, Prop.\n1107 CENTRAL AVENUE\n\nWhere you get pure, wholesome food\u2014ever home cooked. Our prices are in reach of ever.\n\nFIRE! FIRE!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +705,8 @@
         1154
       ],
       "label": "text",
-      "text": "They handle nothing but the best Groceries, Fruits, Vegetables, Salt Meats, and the best brands in fresh can goods. Free rapid auto truck delivery to all parts of city. COR. 20th and HOOPER Phone South 581"
+      "text": "They handle nothing but the best Groceries, Fruits, Vegetables, Salt Meats, and the best brands in fresh can goods. Free rapid auto truck delivery to all parts of city. COR. 20th and HOOPER Phone South 581",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +716,8 @@
         1312
       ],
       "label": "text",
-      "text": "ESTELLA C. WALKER\nNEW THOUGHT PRACTICIONER\nRes. 1637 Bird St. Los Angeles, Calif."
+      "text": "ESTELLA C. WALKER\nNEW THOUGHT PRACTICIONER\nRes. 1637 Bird St. Los Angeles, Calif.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,17 +727,30 @@
         1511
       ],
       "label": "text",
-      "text": "THIS IS THE PLACE TO EAT\nThe Far West Dairy Lunch\nMARGARET I. WILEY, Prop.\n1107 CENTRAL AVENUE\nWhere you get pure, wholesome food\u2014everything strictly\nhome cooked. Our prices are in reach of everyone."
+      "text": "THIS IS THE PLACE TO EAT\nThe Far West Dairy Lunch\nMARGARET I. WILEY, Prop.\n1107 CENTRAL AVENUE\nWhere you get pure, wholesome food\u2014everything strictly\nhome cooked. Our prices are in reach of everyone.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1664,
+        1585,
         1631,
         2002,
-        1686
+        1779
       ],
       "label": "text",
-      "text": "Have your property insured FIRE INSURANCE is a necessity"
+      "text": "Have your property insured FIRE INSURANCE is a necessity Not a luxury. \"Do it now\"-\"Safety F",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1854,
+        1686,
+        2124,
+        1909
+      ],
+      "label": "text",
+      "text": "\"Safety First\"!\nBROADWAY 3130\nStand 9th and Central\nSmith &Leggett Drug Sta",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +760,30 @@
         1760
       ],
       "label": "text",
-      "text": "\"Do it now\"--\"Safety First\"!"
+      "text": "\"Do it now\"--\"Safety First\"!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1585,
+        1836,
+        2002,
+        2007
+      ],
+      "label": "text",
+      "text": "1houses: Main 262 Stand 9th Main 3192 Smith &Lep CLARENCE COLEMAN AUTO AND TAXI SERVO Rates By The Hour or Trip",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1585,
+        2066,
+        2002,
+        2346
+      ],
+      "label": "text",
+      "text": "PHONES MAIN S843 HOME 24590\n\nPrentice's Pharma\n1121 CENTRAL AVENUE\n\nDrugs, Sundries, Chemicals, Stationery, S\nIce Cream, Candies and Cigars\n\nFletcher's Bleach Paste and Skin Whit\nFletcher's La Matilde Face Powder\n\nPhysicians Prescriptions Our Spec\n\nPrompt Delivery to All Parts of the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +793,8 @@
         2283
       ],
       "label": "text",
-      "text": "Prentice's Pharmacy\n1121 CENTRAL AVENUE\nDrugs, Sundries, Chemicals, Stationery, Soda Water\nIce Cream, Candies and Cigars\nFletcher's Bleach Paste and Skin Whitener\nFletcher's La Matilde Face Powder"
+      "text": "Prentice's Pharmacy\n1121 CENTRAL AVENUE\nDrugs, Sundries, Chemicals, Stationery, Soda Water\nIce Cream, Candies and Cigars\nFletcher's Bleach Paste and Skin Whitener\nFletcher's La Matilde Face Powder",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,17 +804,30 @@
         2587
       ],
       "label": "text",
-      "text": "Nicely Furnished all Outside Rooms with Hot and Cold Water. Every Room Sanitary. From $2.00 to $4.00 per week. MARRY FUKUMOTO, Preacher."
+      "text": "Nicely Furnished all Outside Rooms with Hot and Cold Water. Every Room Sanitary. From $2.00 to $4.00 per week. MARRY FUKUMOTO, Preacher.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1588,
+        195,
+        1841,
+        571
+      ],
+      "label": "text",
+      "text": "THOMAS H.",
+      "status": "ok"
     },
     {
       "bbox": [
         1610,
-        984,
-        1775,
+        771,
+        1783,
         1023
       ],
       "label": "text",
-      "text": "FOSTER E. DRIVER\nManager"
+      "text": "FOSTER E. DRIVER\nManager",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +837,8 @@
         1836
       ],
       "label": "text",
-      "text": "Talk With STOKES 1400 East Twelth St."
+      "text": "Talk With STOKES 1400 East Twelth St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,17 +848,19 @@
         2066
       ],
       "label": "text",
-      "text": "Easy Riding Chalmers \"6\"\u201448 Carefu IDriving"
+      "text": "Easy Riding Chalmers \"6\"\u201448 Carefu IDriving",
+      "status": "ok"
     },
     {
       "bbox": [
-        1945,
-        983,
-        2103,
+        1939,
+        778,
+        2105,
         1022
       ],
       "label": "text",
-      "text": "LOUIS M. DRIVER\nAsst. Manager"
+      "text": "LOUIS\u00b7M. DRIVER\nAsst. Manager",
+      "status": "ok"
     }
   ]
 }

@@ -1,20 +1,15 @@
+THE AFFAIR AMERICAN
+LEDGER
+
 VOL. XXIV. NO. 5
 
 ## CITIZENS CLASH WITH POLICEMEN
 
-Philadelphia, September 23. The indignation that has been brewing among colored people here against the presentation of the race-hating play, "The Birth of a Nation," came to a head Monday night, when 500 colored people marched up and down Broad street, in the vicinity of the Forrest Theater, to voice their protest against the play.
+Philadelphia, September 23.—The indignation that has been brewing among colored people here against the presentation of the race-hating play, "The Birth of a Nation," came to a head Monday night, when 500 colored people marched up and down Broad street, in the vicinity of the Forrest Theater, to voice their protest against the play. Rousing indignation meetings had been held during the day at the meetings of African Methodist ministers and at Zion Baptist Church.
 
-Rousing indignation meetings had been held during the day at the meetings of African Methodist ministers and at Zion Baptist Church.
+Cards urging the colored people and their sympathizers to gather in the vicinity of the theater were scattered broadcast and a considerable number were on hand at 8 P. M. to voice their opposition. A strong cordon of uniformed and plainclothes policeman were on hand to prevent any outbreak. The protestants marched up and down Broad street in an orderly way until nine o'clock. The crowd by this time had been greatly augmented, and the fun started. Some one threw a brick through a large plate glass window in the front of the theater and the police charged the protestants with drawn clubs. All who were not fortunate enough to get out of the way were hit over the head. Quite a number were treated at local hospitals for "broken" heads. Rev. W. F. Graham, pastor of Holy Trinity Baptist Church, was taken to Douglass Hospital and treated for scald wound.
 
-Cards urging the colored people and their sympathizers to gather in the vicinity of the theater were scattered broadcast and a considerable number were on hand at 8 P. M. to voice their opposition. A strong cordon of uniformed and plainclothes policeman were on hand to prevent any outbreak. The protestants marched up and down Broad street in an orderly way until nine o'clock. The crowd by this time had been greatly augmented, and the fun started. Some one threw a brick through a large plate glass window in the front of the theater and the police charged the protestants with drawn clubs. All who were not fortunate enough to get out of the way were hit over the head. Quite a number were treated at local hospitals for "broken" heads.
-
-Rev. W. F. Graham, pastor of Holy Trinity Baptist Church, was taken to Douglass Hospital and treated for scab wound.
-
-Rev. W. F. Graham, pastor of Holy Trinity Baptist Church, was taken to Douglass Hospital and treated for scalp wound.
-
-Several arrests were made, among which was Arthur Linn, charged with throwing brick through the theater window. The others were released in the night court for lack of evidence. The police fired a shot at one fleeing colored man.
-
-Director of Public Safety Porter ordered the play banned several weeks ago, but injunction proceedings were instituted to prevent his inference.
+Several arrests were made, among which was Arthur Linn, charged with throwing brick through the theater window. The others were released in the night court for lack of evidence. The police fired a shot at one fleeing colored man. Director of Public Safety Porter ordered the play banned several weeks ago, but injunction proceedings were instituted to prevent his inference.
 
 ## MORGAN COLLEGE
 TO OPEN MONDAY
@@ -60,15 +55,13 @@ South Carolinians "Alarmed" At Increasing Acreage Going Into Possession of Color
 
 Columbia, S. C., September 23.—Taking a cue from the segregation laws enacted in cities and actuated by jealousy over the fact that colored men have either bought or are buying thousands of acres of farm lands, South Carolina is trying to secure the adoption of an amendment to the State Constitution which will give the General Assembly the right to curb this spirit of thrift and forsight on the part of the race.
 
-Clarence Poe, editor of the Progressive Farmer, has been the leading exponent of this rural s gregation idea, and he has claimed that it will be only a matter of time when the colored farmers will own the most of the rural South. Much of this land has lain idle on account of the migration of the whites to the cities and the thought of a large class of independent and successful colored farmers in the South, virtually owning all the land, has caused many of the whites who do not object to beholding the Negro to be a debtridden tenent farmer to lie awake o'nights.
-
-The proposed amendment to the State Constitution, which is manifestly aimed at the race, reads, in part:
+Clarence Poe, editor of the Progressive Farmer, has been the leading exponent of this rural s Gregation idea, and he has claimed that it will be only a matter of time when the colored farmers will own the most of the rural South. Much of this land has lain idle on account of the migration of the whites to the cities and the thought of a large class of independent and successful colored farmers in the South, virtually owning all the land, has caused many of the whites who do not object to beholding the Negro to be a debtriidden tenent farmer to lie awake o'nights. The proposed amendment to the State Constitution, which is manifestly aimed at the race, reads, in part:
 
 "The General Assembly by regulations applicable to all races, may provide that by vote of the qualified electors or of the freeholders of any prescribed district within a county, the lands in such district may be segregated to the ownership and use of a particular race. But the percentage of a race to any political race by districts shall not be greater than the percentage which the population of that race bears to the population of the State."
 
 The proposed amendment is cunningly drafted so as to give whites control of every political division in the State, which they now have. South Carolina has a total population exceeding 1,500,000, half of whom are colored. The colored people are for the most part disfranchised, however, but the recent decision of the United States Supreme Court knocking out the "grandfather clause" has made the political allies of Cole Blease and Ben Tillman somewhat fearful that the colored people may again get some measure of political power in the State. The prospects of the colored people buying all the land in some of the counties and thereby securing representation in the State Legislature and in Congress have nearly scared the Bourbons to death.
 
-The injustice of the act is apparent when it is noted that 90 percent of the population of Beaulont county is colored, while, according to the ratio that the colored population bears to the rest of the State, the race may be only allowed and own half of the property in that county.
+The injustice of the act is apparent when it is noted that 90 percent of the population of Beaufort county is colored, while, according to the ratio that the colored population bears to the rest of the State, the race may be only allowed and own half of the property in that county.
 
 Of course, property interests would be affected, but it is expected that the colored people would be too scared to test their rights in the courts should the amendment prevail and the General Assembly pass the necessary legislation.
 
@@ -80,15 +73,11 @@ A convention of the Ladies' Aid Societies of the Baltimore district will be held
 
 Platform Pledges Party to State Sanitarium for Tuberculor Patients and Extension of School Term.
 
-Unlike the Democratic Convention held Thursday, the one of the Republicans at Ford's Grand Opera House Friday afternoon was a veritable loveecast. Party leaders from Garrett to Worcester were there—some erstwhile Warburton men, but all now singing the grand chorus, "Win with Weller!"
+Unlike the Democratic Convention held Thursday, the one of the Republicans at Ford's Grand Opera House Friday afternoon was a veritable loveeaf. Party leaders from Garrett to Worcester were there—some erstwhile Warburton men, but all now singing the grand chorus, "Win with Weller!"
 
-Governor Goldsborough, Col. E. C. Carrington, Thomas Parran, Sydney Mudd, William F. Stone, W. F. Broening, R. B. Marchant, Adrian Posey, McPherson Scott, Dr. Ernest Lyon, Harry S. Cummings, H. M. St. Clair, Dr. William E.Alexander, John P. Forrester and a host of other Republican workers lent their assistance in seeing that things ran smoothly.
+Governor Goldsborough, Col. E. C. Carrington, Thomas Parran, Sydney Mudd, William F. Stone, W. F. Broening, R. B. Marchant, Adrian Posey, MePherson Scott, Dr. Ernest Lyon, Harry S. Cummings, H. M. St. Clair, Dr. William E.Alexander, John P. Forrester and a host of other Republican workers lent their assistance in seeing that things ran smoothly.
 
-Governor Goldsborough was permanent chairman and he pledged his efforts to bring about Republican success in November. Owington E. Weller was placed in nomination by Robert Garrett, the latter making a ringing speech for the Republican gubernatorial candidate.
-
-Mr. Weller was given an ovation when he arose to speak. He pledged that, if elected, he would give the State a good business administration and said that he would endeavor to have the party redeem its pledges.
-
-A. A. Doub, candidate for attorney general, and Robert F. Duer, who was named as comptroller, were formally nominated.
+Governor Goldsborough was permanent chairman and he pledged his efforts to bring about Republican success in November. Ovington E. Weller was placed in nomination by Robert Garrett, the latter making a ringing speech for the Republican gubernatorial candidate. Mr. Weller was given an ovation when he arose to speak. He pledged that, if elected, he would give the State a good business administration and said that he would endeavor to have the party redeem its pledges. A. A. Doub, candidate for attorney general, and Robert F. Duer, who was named as comptroller, were formally nominated.
 
 ## THE PLATFORM
 
@@ -100,20 +89,20 @@ The principal planks are:
 
 2. The adoption of the budget system and the abolition of useless offices.
 
-2. The adoption of the budget system and the abolition of useless offices.
 3. A strong plank favoring the extension of the school year for all the children of the State and one favoring the giving to the colored population in the counties the same opportunities that are given the whites for good training.
-4. Approval of Governor Goldsborough's stand on lynching and the urging of equal protection of the law for all classes, high or low, white or black.
-5. The conservation of the health of the people was urged, as well as the establishment of a colored tuberculosis hospital.
-6. The administration of Governor Goldsborough was highly endorsed as one of notable achievements for the welfare of the State.
-7. The Democrats were scored for bringing in national issues in a State campaign.
 
+4. Approval of Governor Goldsborough's stand on lynching and the urging of equal protection of the law for all classes, high or low, white or black.
+
+5. The conservation of the health of the people was urged, as well as the establishment of a colored tuberculosis hospital.
+
+6. The administration of Governor Goldsborough was highly endorsed as one of notable achievements for the welfare of the State.
 7. The Democrats were scored for bringing in national issues in a State campaign.
 8. Invisible government was denounced.
 9. The appointment of a commission by the Democratic State Convention to take up the question of economical and efficient administration was criticised, the point being taken that the Governor should name one.
 
 The Republican platform was greatly pleasing to the assembled hosts the belief being freely expressed that it was much more direct and specific than that of the Democrat.
 
-PRICE THREE CENTS
+PRICE THREE CENTS ATON BAPTIST MINISTERS GET TOGETHER
 
 ## MASONS HOLD BIG CELEBRATION
 
@@ -122,6 +111,8 @@ Commemorating the One Hundredth Anniversary of the Order in Pennsyl-
 Philadelphia, September 24. A two-day celebration of the 100th anniversary of the Most Worshipful Grand Lodge of Free Accepted Masons of Philadelphia came to a close tonight with a big reception at Musical Fund Hall. At the formal opening, Thursday, Former Director of Public Safety George D. Porter, now independent candidate for Mayor, delivered an address of welcome on the part of the city. In responding to Mr. Porter's address of greeting, Grand Secretary W. H. Miller scored the treatment given the colored people of this country.
 
 "The United States," he said, "gives the dark-skinned races the worst treatment of any nation in the world. The color-line is drawn more severely here than in any other nation. Ninety millions of whites have their feet on the necks of 10,000,000 blacks, and mean to crush out of them all hope of advance in American citizenship, in spite of the fact that we have made more progress than any other nation in equal time and with equal opportunities."
+
+and mean to hope of adenorship, in have made other nation equal opp of the Triie speech of take. The er in every er in every er they are While the ministers discussed in an informal way the need for cooperation along all lines, the committee restled with a plan for concerted action on the part of all the ministers. Among the things proposed that the ministers agree upon uniform standard for the ordination of ministers and for the admission of members. It has been charged for some time that when one faction excluded a member that another faction stood ready to receive him with open arms.
 
 C. J. Perry, editor of the Tribune, commencing on the speech of Secretary Miller, said:
 
@@ -151,6 +142,8 @@ funeral, which request was granted.
 After the funeral William returned
 to jail.
 
+---
+
 Various Factions Decide to Bury Hatchet and Work in Unison For Upbuilding of the Denomination
 
 A get-together meeting among the various factions of colored Baptists in this city was held at Sharon Baptist Church Wednesday. There has long been a feeling among a few of the influential ministers that their brethren should bury the hatchet and work in union, and Wednesday's meeting was the result.
@@ -159,11 +152,9 @@ The meeting was attended by over 40 ministers, representing the two Baptist mini
 
 After a preliminary discussion of the purposes of the gathering, the following committee was appointed to draft a suitable plan: Revs. A. B. Callis, W. J. Winston, J. R. L. Diggs, J. H. Taylor and W. M. Alexander.
 
-While the ministers discussed in an informal way the need for cooperation along all lines, the committee rested with a plan for concerted action on the part of all the ministers. Among the things proposed that the ministers agree upon uniform standard for the ordination of ministers and for the admission of members. It has been charged for some time that when one faction excluded a member that another faction stood ready to receive him with open arms.
+Dr. Alexander strongly opposed the suggestion for the adoption of a uniform standard for admission and withdrew from the committee. Rev. J. W. Jones was elected in his place. The committee finally brought in an acceptable plan. Dr. Alexander was one of the first to agree to the plan submitted.
 
-Dr. Alexander strongly opposed the suggestion for the adoption of a uniform standard for admission and withdrew from the committee. Rev. J. W. Jones was elected in his place.
-
-Dr. Alexander strongly opposed the suggestion for the adoption of a uniform standard for admission and withdrew from the committee. Rev. J. W. Jones was elected in his place. The committee finally brought in an acceptable plan. Dr. Alexander was one of the first to agree to the plan submitted. The Baptists in Maryland have been divided for a number of years, the cause of division being the desire on the part of some of the churches to act independently of the whites. For a few years the ministers on one side did not enter the pulpits of those on the other side. Not only were there two State Conventions, but there were two ministerial meetings in this city. About five years ago, the two ministerial meetings united and it looked for a time as if there would be only one State Convention in time. The spirit of division against manifested itself, however, and the ministers again separated. A little over a year ago the United Baptist Ministers' Conference excluded ministers who were members of the Emergency Baptist Convention. These ministers, augmented by a number from the Colored Baptist Ministers' Conference, formed another ministerial meeting. The other two meetings then reunited.
+The Baptists in Maryland have been divided for a number of years, the cause of division being the desire on the part of some of the churches to act independently of the whites. For a few years the ministers on one side did not enter the pulpits of those on the other side. Not only were there two State Conventions, but there were two ministerial meetings in this city. About five years ago, the two ministerial meetings united and it looked for a time as if there would be only one State Convention in time. The spirit of division against manifested itself, however, and the ministers again separated. A little over a year ago the United Baptist Ministers' Conference excluded ministers who were members of the Emergency Baptist Convention. These ministers, augmented by a number from the Colored Baptist Ministers' Conference, formed another ministerial meeting. The other two meetings then reunited.
 
 ## RAISE HUBBUB OVER $6,500
 PURCHASE BY COLORED MAN
