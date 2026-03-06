@@ -1,0 +1,67 @@
+OUR
+July Clearance Sale
+AFFORDS
+A tremendous Saving on Smart Seasonable Coats
+Suits, Dresses, Skirts, Waits, Millinery and Undermuslins for Women and Children.
+E.E. Atkinson Co.
+NICOLLET AT SEVENTH
+MINNEAPOLIS
+
+L. EISENMENGER MEAT CO
+Established 1870
+THE MARKET OF BIG VALUES
+PURE,
+WHOLESOME
+SAUSAGE 34 VARIETIES
+455-457 Wabasha
+
+"SAY IT WITH FLOWERS"
+HOLM & OESON
+"The HOME OF FLOWERS"
+
+N. W. Phone Cedar 2496
+Diamonds and Bracelet Watches Our Specialty
+ESSE FOOT
+JEWELRY CO.
+SUCCESSOR TO M.L.FINKELSTEIN
+391 Robert Street, Near Sixth St.
+STEVE HURLEY, Manager St. Paul
+
+JESSE FOOT
+JEWELRY CO.
+SUCCESSOR TO M.L.FINKELSTEIN
+391 Robert Street, Near Sixth St.
+STEVE HURLEY, Manager St. Paul
+
+INSIST ON GETTING
+CLOVER LEAF
+BUTTER
+TILDEN PRODUCE CO.
+CHURNERS
+
+DO YOU KNOW
+
+THAT FOR SERVICE AND QUALITY THE
+Capitol Steam Laundry
+CANNOT BE SURPASSED
+
+We do French Dry Cleaning, Dyeing and Rough
+Dry Laundering. A trial will convince you that
+this is the laundry you want.
+
+PHONE AND A DRIVER WILL CALL
+CEDAR 4622
+
+743 WABA8HA ST.
+
+SAINT PAUL
+
+TEL. CEDAR 7995
+
+O. H. AROSIN CO.
+JEWELERS AND OPTICIANS
+
+ADJUSTING OF FINE WATCHES
+A SPECIALTY
+
+414 ROBERT ST. ST. PAUL, MINN.

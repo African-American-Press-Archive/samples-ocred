@@ -1,0 +1,868 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2116,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        115,
+        173,
+        374,
+        283
+      ],
+      "label": "text",
+      "text": "THE DOINGS IN AND ABOUT THE\nGREAT \"FLOUR CITY.\"\n\nMatters Social, Religious and General\nWhich Have Happened and are to\nHappen Among the People of the\nCity."
+    },
+    {
+      "bbox": [
+        149,
+        304,
+        341,
+        318
+      ],
+      "label": "paragraph_title",
+      "text": "SATURDAY, JULY 16, 1921."
+    },
+    {
+      "bbox": [
+        114,
+        335,
+        382,
+        978
+      ],
+      "label": "text",
+      "text": "Mrs. Leota Riley of Chicago is visiting Dr. and Mrs. R. S. Brown, 608 E. 14th St.\n\nMiss Mildred Shull has taken charge of the ice cream parlor of the \"Original Barbecue,\" 712 Sifth Ave. N.\n\nMr. Alex Irwin has opened a 40-room hotel at 1109 Second St. S., and invites the public to call and inspect it\u2014Advertisement.\n\nThe big usual crowd had the usual big time at the picnic of the Men's Episcopal Club at Parkers Lake last Thursday.\n\nDr. Fred C. Nelson, specialist on rheumatism, has taken larger remodeled offices at the same address, 424 Nicollet Ave., Suite 16.\u2014Advertisement.\n\nAtty. and Mrs. B. S. Smith, Miss Marvel Jackson and Mr. Wm. Horton left Tuesday to motor to Washington, New York and other cities.\n\nThe Hostess Club, Mrs. R. S. Brown, president, had a delightful Fourth of July lawn fete at the residence of Mrs. A. White, 2736 Eleventh Ave. S.\n\nA big crowd was present at the installation of the newly elected officers of Ames Lodge 106, Elks, and the shirt-waist ball at South Side Auditorium last Monday night.\n\nNow get ready for the next boat excursion of Mars Lodge, Odd Fellows, St. Paul, Monday evening, Aug. 1st, on Red Wing and Barge Manitou. Tickets 75 cents.\u2014Advertisement.\n\nLADIES\u2014For the latest styles in millinery and accessories, you should call on Mrs. Lillian Burris, 706% 6th Ave. N., upstairs. Tel. Hyland 5320. She is showing some wonderful creations."
+    },
+    {
+      "bbox": [
+        119,
+        977,
+        380,
+        1463
+      ],
+      "label": "text",
+      "text": "\u2014Advertisement.\n\nThe Polar Wave Tailoring Co. Willie Wicks, proprietor, is now located at 535 Dupont, near 6th Ave. N. Custom tailoring, repairing, dry cleaning, pressing. Hats cleaned and blocked. We call and deliver. \u2014Advertisement.\n\nThe Combs Bros. tailors, 809 4th Ave. S., have a splendid location and are doing a fine business, in dry cleaning, repairing, pressing clothes. Ladies' work given special attention. Their motto is \"Promptness.\" They call for and deliver goods. Telephone Main 5040. \u2014Advertisement.\n\nPride of the West Co. No. 1, Uniform Rank. Knights of Pythias, Capt W. C. Jeffrey, commanding, invites everybody to go with them on their Boat Excursion Monday evening, Aug. 8th, on Steamer Red Wing and Barge Manitou. Boat leaves foot of Jackson street, St. Paul, at 8:45. Tickets 760.\n\nMrs. Glover Shull left Monday evening for Montreal, Can. Enroute she will visit Chicago, Boston and Toronto. Just before her departure Mr. Shull had a lunch with aunts and uncles served for her at the Origin Barbecue, which was prepared by Chef W. L. Redmon. Service was laid for Mr. and Mrs. J. Giles, Miss Mildred and Mr. Shull."
+    },
+    {
+      "bbox": [
+        145,
+        1503,
+        358,
+        1537
+      ],
+      "label": "doc_title",
+      "text": "Join This Honor Roll"
+    },
+    {
+      "bbox": [
+        145,
+        1503,
+        358,
+        1537
+      ],
+      "label": "paragraph_title",
+      "text": "Join This Honor Roll"
+    },
+    {
+      "bbox": [
+        108,
+        1720,
+        379,
+        2350
+      ],
+      "label": "text",
+      "text": "Ames Lodge 106, Elks, appeals to its members for a loan of $10 or more to make its initial payment of $5,000 on the magnificent $12,000 \"Rest\" is purchasing. The appeal has already been responded to by the following named brothers: Chas. S. Smith, Wirth Jones, St. Elmo Vinigar, Wm. Miller, C. L. Gooch, Wm. J. Stirman, B. J. Taylor, T. W. Galbreath, Geo. Baker, Ross Hamilton, Benjamin Berry, Robert Washington, F. A. Miller, Gus Berry, James Branch, Lewis Ewing, J. E. Stewart, W. T. Dodson, H. D. Parker, P. H. Sternhall, Wm. H. Walker, Lee Jones T. H. Smith, Earl Stewart, H. L. Johnson, Arthur Stewart, Chas. Force, Robert Mallory, A. Toley, H. K. Grever, Wilbur Banks, R. X. Wheeler, D. R. Francis, Krym Workoff, L. E. Tichner, E. E. Jackson, Roy Langford, G. W. Holbert, B. F. Woodard, B. F. Cabbell, A. W. Collier, Roy Bryant, Archie Watkins, each $10.00. A. C. Irwin $20; B. M. McDew, Wm. R. Norris and T. B. Warren, each $25. Every member of the Lodge is urged to have his loan in the hands of the Financial Secretary on or before July 2, 1921. tary as soon as possible.\n\nAdditional names to this roll are as follows: Louis L. Groner, J. B. Ellitt, John Washington Palmer, Walter Karnool, John F. Woodhouse, S. J. Barnet, David Lyle, M. W. Judy, J. E. Winters, Bert Jones, Glover Shull, Samuel Beasley, James Burks, Wm. B. Freeman, David O. Horne, Fred Jones, Wonder D. Thomas $10.00 each; J. B. Dungee, Charles Kelso, $25 each.\n\nW. T. Dodson, E. R.\nWm. R. Morris, F. S.\n\u2014Advertisement."
+    },
+    {
+      "bbox": [
+        175,
+        2364,
+        307,
+        2379
+      ],
+      "label": "paragraph_title",
+      "text": "ANNOUNCEMENT"
+    },
+    {
+      "bbox": [
+        110,
+        2391,
+        376,
+        2651
+      ],
+      "label": "text",
+      "text": "A large suite has been remodeled for my office at 424 Nicollet Ave., where I have been located for nearly three years, and I can better serve patients with regard to sanitation.\n\nBake oven treatments of dry heat, ranging from 150 to 600 degrees, given if required.\n\nMy lady assistant is a graduate in Massage and Swedish Movement from Christiana Norway.\n\nAppreciating past patronage and hoping for a continuance of the same.\n\nRespectfully,\n\nDR. FRED C. NELSON.\nGraduate Optician. Specialist on Rheumatism and kindred ailments.\n\n424 Nicollet Ave.    Suite 16"
+    },
+    {
+      "bbox": [
+        177,
+        2650,
+        374,
+        2676
+      ],
+      "label": "text",
+      "text": "Minneapolis, Minn.\n\u2014Advertisement."
+    },
+    {
+      "bbox": [
+        398,
+        209,
+        615,
+        284
+      ],
+      "label": "doc_title",
+      "text": "What Your Savings May Mean to You"
+    },
+    {
+      "bbox": [
+        383,
+        288,
+        649,
+        774
+      ],
+      "label": "text",
+      "text": "Your savings may finance a much needed vacation\u2014a vacation of lasting value throughout the following busy year. Your savings have many constructive uses\u2014but their usefulness is diminished if small amounts are spent for inconsequentials.\n\nSave so that your money will give you the best service. Too many small expenditures have but little benefit while larger sums judiciously spent will finance projects of permanent value.\n\nYour Savings will draw 4% interest for you from the first of any month if deposits are made on or before the tenth of that month.\n\nMerchants Trust and Savings Bank\n\nFourth Near Robert Saint Paul, Minnesota"
+    },
+    {
+      "bbox": [
+        390,
+        774,
+        633,
+        816
+      ],
+      "label": "paragraph_title",
+      "text": "```markdown\n\n```"
+    },
+    {
+      "bbox": [
+        390,
+        774,
+        633,
+        816
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```"
+    },
+    {
+      "bbox": [
+        392,
+        876,
+        642,
+        928
+      ],
+      "label": "text",
+      "text": "DON W. TAYLOR REALTY CO\n48 E. 4th St. --- Cedar 1078"
+    },
+    {
+      "bbox": [
+        390,
+        910,
+        647,
+        1015
+      ],
+      "label": "text",
+      "text": "48 E. 4th St. - - - Cedar 1078\n\n$1,800.\n440 East Minnehaha street \u2014 6 rooms,\nbath, gas; $200 down, balance on\neasy terms."
+    },
+    {
+      "bbox": [
+        389,
+        1047,
+        649,
+        1734
+      ],
+      "label": "text",
+      "text": "406 Edmund street \u2014 6 rooms, bath, gas; nice, big yard, can be used for garden. Terms to suit buyer.\n\n235 Fuller Ave. \u2014 Eight-room house, bath, gas; beautiful home. Must be seen to be appreciated.\n\n405 Rice Street \u2014 Duplex, four rooms each; lot 40x90; $5,000. Small payment down, balance on terms.\n\n719 Lafond Street, near Dale \u2014 Eight rooms, bath, gas, electricity; large lot; cemented basement; $3,800. A snap.\n\n542 Blair Street \u2014 Nice single house, modern, bath, gas, hot-air heat; nine rooms; $5,000. Terms.\n\n266 St. Albans Street \u2014 Modern, six rooms; new furnace; $3,500; $1,000 down, balance on easy terms.\n\n629 N. Grotto street \u2014 Eight rooms, bath, gas, full basement; beautiful corner; $3,300. Terms.\n\n949 Thomas street \u2014 Beautiful 5-room and bath bungalow, 1\u00bd years old, located on lot and a half; full basement, hot-air heat; complete for a home in every way, $6,000. Terms.\n\n955 Thomas street \u2014 Five rooms, hardwood floors, bath, gas, electric lights, hot water heat, cemented basement; must be seen to be appreciated, $5,000. Terms."
+    },
+    {
+      "bbox": [
+        464,
+        1746,
+        571,
+        1760
+      ],
+      "label": "paragraph_title",
+      "text": "UNIMPROVED"
+    },
+    {
+      "bbox": [
+        388,
+        1766,
+        644,
+        1838
+      ],
+      "label": "text",
+      "text": "Lot, corner Thomas and Milton Sts.\n40x125 feet; $450. Terms.\n\nTEL. MIAN 5040"
+    },
+    {
+      "bbox": [
+        417,
+        1855,
+        619,
+        1894
+      ],
+      "label": "doc_title",
+      "text": "COMBS BROTHERS"
+    },
+    {
+      "bbox": [
+        383,
+        1919,
+        649,
+        2253
+      ],
+      "label": "text",
+      "text": "Dry Cleaning, Repairing and Pressing\nLadies work given special attention\nWork Called For and Delivered Our Motto: Promptness\n809 4TH AVE. S. MINNEAPOLIS\n\nN. W. CEDAR 3037\n\nChester W Cassell\n\nOPTICIAN & JEWELER\n22 E. FOURTH ST.\nSAINT PAUL\n\nTEL. CEDAR 8190"
+    },
+    {
+      "bbox": [
+        405,
+        2308,
+        614,
+        2344
+      ],
+      "label": "doc_title",
+      "text": "HAMMOND TURNER"
+    },
+    {
+      "bbox": [
+        438,
+        2350,
+        585,
+        2364
+      ],
+      "label": "text",
+      "text": "ATTORNEY AT LAW"
+    },
+    {
+      "bbox": [
+        383,
+        2401,
+        649,
+        2780
+      ],
+      "label": "text",
+      "text": "321 MET. BANK BLDG.\nFIFTH AT CEDAR\n\nSt. Paul\n\nELKHURST 3473 QUICK SERVICE\nCALL ONCE AND YOU WILL CALL AGAIN\n\nELK TAILORING CO.\nM. LOVE, PROPRIETOR\n\nSUITS MADE TO ORDER\n\nCLEANING, PRESSING, DYE-\nING AND REPAIRING\n\n306 RONDO ST. ST. PAUL, MINN."
+    },
+    {
+      "bbox": [
+        646,
+        137,
+        1169,
+        170
+      ],
+      "label": "paragraph_title",
+      "text": "LOOK! WATCH! WAIT!"
+    },
+    {
+      "bbox": [
+        652,
+        738,
+        1177,
+        768
+      ],
+      "label": "text",
+      "text": "DANCING --:-- BATHING --:-- BOATING --:-- FISHING"
+    },
+    {
+      "bbox": [
+        655,
+        844,
+        1175,
+        942
+      ],
+      "label": "text",
+      "text": "Come and enjoy this big outing with us. The principal feature will be our big Athletic Contest. Prizes awarded to winner of eech event. Young Men's Race, Young Ladies Race, Boys Race Girls Race. Tug of War, Ames vs. Gopher. Standing Broad Jumping Contest. Running Contest."
+    },
+    {
+      "bbox": [
+        656,
+        1071,
+        1177,
+        1128
+      ],
+      "label": "text",
+      "text": "Refreshments will be served on the picnic grounds. All tickets from St. Paul must be purchased from committee. For any further information ask any member of the lodge. W. T. Dodson, Chairman"
+    },
+    {
+      "bbox": [
+        657,
+        1148,
+        1178,
+        1178
+      ],
+      "label": "paragraph_title",
+      "text": "Tickets: Adults 70 Cents; Children, 6 to 12 years, 50 Cents"
+    },
+    {
+      "bbox": [
+        688,
+        369,
+        753,
+        407
+      ],
+      "label": "text",
+      "text": "AMES"
+    },
+    {
+      "bbox": [
+        685,
+        459,
+        757,
+        497
+      ],
+      "label": "text",
+      "text": "LODGE"
+    },
+    {
+      "bbox": [
+        653,
+        1208,
+        913,
+        1394
+      ],
+      "label": "text",
+      "text": "St. Paul's First Colored Graduate, Dental College, U. of M., Passes State Board Examination.\n\nDr. Earl S. Weber, recent honor graduate of the University of Minnesota College of Dentistry, went before the State Board of Examiners and successfully passed the examination. The young man made a record in the dental college that fully proves his ability.\n\nHe will shortly open an office here. \u2014Advertisement."
+    },
+    {
+      "bbox": [
+        655,
+        1410,
+        909,
+        1427
+      ],
+      "label": "paragraph_title",
+      "text": "E. A. Welter's Dental Tooth Powder"
+    },
+    {
+      "bbox": [
+        654,
+        1430,
+        911,
+        1610
+      ],
+      "label": "text",
+      "text": "Wm. Wr. Bolden, Jr., is a special salsman for E. A. Wetler's Dental Tooth Powder. It is an antiseptic powder for polishing the gold and bleaching and preserving the teeth. It has been endorsed by several reputable dentists and is for sale at Cannon Brothers, Inc. 1400 Poo mouth, Rosefiel and Rosentiel & Gott (Stone, No. 2), Sixth Ave. N, Minneapolis. For a sample package free of charge Tel. Dale 2687, St. Paul \u2014 Advertisement."
+    },
+    {
+      "bbox": [
+        654,
+        1626,
+        910,
+        1644
+      ],
+      "label": "paragraph_title",
+      "text": "UPTOWN S. S. BASE BALL CLUB"
+    },
+    {
+      "bbox": [
+        651,
+        1655,
+        912,
+        1927
+      ],
+      "label": "text",
+      "text": "Owen Howell, proprietor of the Up-Town Sanitary Shop, has organized a Baseball Club, known as the Up-Town Sanitary Baseball Club. Mr. John Davis, who is employed at the Up-Town is manager of the club. Since organized, they have played all out-of-town games, winning a majority of the games played. They expect to play three games with the White Sox, Chicago's crack colored team, of which Rube Foster is the head. The following are the Up-Town Club members: W. Coleman ss., L. Tucker 2nd, D. Ware 3rd, F. West 1st, C. Schucks l. f., J. West c. f., G. Harris r. f., Harry Davis p., Ottis Harris c., W. Harris p. \u2014Advertisement."
+    },
+    {
+      "bbox": [
+        697,
+        1944,
+        868,
+        1961
+      ],
+      "label": "paragraph_title",
+      "text": "OPENING RECEPTION."
+    },
+    {
+      "bbox": [
+        648,
+        1976,
+        910,
+        2268
+      ],
+      "label": "text",
+      "text": "Of Remodeled and Refurnished Masonic Hall. The opening reception of the newly remodeled and refurnished Masonic Hall, 588 Rondo street, last Monday afternoon and evening, proved to be a very delightful affair and was enjoyed by several hundred guests who were astonished with the beauty of the building and its furnishings. Light refreshments were served during the evening by the ladies of the Eastern Star Chapter. The building and lawn may be rented for weddings, lawn parties, reception card and dinner parties, with the use of kitchen and dishes at very reasonable rates, by applying to the custodian, J. H. Dillingham, 283 N. St. Albans street. Tel. Dale 7321\u2014Advertisement."
+    },
+    {
+      "bbox": [
+        703,
+        2287,
+        854,
+        2322
+      ],
+      "label": "paragraph_title",
+      "text": "PUBLIC SPEAKING.\nBy E.W.Gilles."
+    },
+    {
+      "bbox": [
+        645,
+        2326,
+        908,
+        2680
+      ],
+      "label": "text",
+      "text": "In public speaking, it is very necessary to really have something to say and to have some one to say it to and to be able to say it without a hitch and in perfect language.\n\nThe want of preparation has been the downfall of many a public speaker. If you have to make up talk as you go along, you will not be a good public speaker. You should know in advance what you are going to say and how you are going to say it.\n\nIn order to be a good public speaker, you should have a definite subject, and stick to it. A miscellaneous heterogenous, disintegrated, disconnected talk without beginning, middle or end, is not good public speaking. A well planned, orderly, logical address is much better.\n\nIn order to be a good public speaker, you must have a perfect knowledge of language and have perfect control of your mind and of your vocal organs just as the good pianist has a perfect knowledge of music and"
+    },
+    {
+      "bbox": [
+        1054,
+        372,
+        1149,
+        409
+      ],
+      "label": "text",
+      "text": "NO.106"
+    },
+    {
+      "bbox": [
+        910,
+        461,
+        1179,
+        1659
+      ],
+      "label": "text",
+      "text": "I.B.P.O.E.W.\n\nER'S LAKE\nON\nDAY, JULY 21\nBOATING --- FISHING\nRE'S JAZZ ORCHESTRA\nwith us. The principal feature will\nrizes awarded to winner of eech\nyoung Ladies Race, Boys Race\nAmes vs. Gopher. Standing\ntest. Running Contest.\n\nhave Luce Line Station, 7th St.\n1:15 p. m. sharp. Returing\nat 9:30 p. m.\n\nthe picnic grounds. All tickets from\non committee. For any further infor-\nledge. W. T. Dodson, Chairman\n\nchildren, 6 to 12 years, 50 Cents\n\nperfect control of his mind and of his muscles.\n\nIn order to be a good public speaker\nto the same audience time after\ntime, you must stick to your subject\nand keep tab on yourself and on\nyour subjects so as to not be saying\nthe same things over and over again.\n\nAn even moderation of voice is\nvery important. To speak in a whisper\none minute and in a scream the\nnext is not good public speaking.\n\nThe voice should be strong enough so\nthat all the people in the room can\nhear readily and should be well and\nevenly modulated from beginning to end.\n\nIn order to be a good public speaker,\nyou should devote yourself most\nearnestly to the Bible, the grammar,\nthe dictionary, and also to books on\nliterature, composition and rhetoric.\n\nYou must keep at it in order to\nbe a good public speaker. \"Practice,\" along with a lot of other good things, \"makes perfect,\" and if you leave off the practice you will get out of practice, and when out of practice you cannot do your best.\n\nIn order to be a good public speaker, you must have your \"talking points\" well in hand, and follow them in a masterly way."
+    },
+    {
+      "bbox": [
+        916,
+        1440,
+        1178,
+        1505
+      ],
+      "label": "text",
+      "text": "In order to be a good public speaker, you should devote yourself most earnestly to the Bible, the grammar, the text, and also to books on literature, accorporation."
+    },
+    {
+      "bbox": [
+        918,
+        1686,
+        1177,
+        1770
+      ],
+      "label": "text",
+      "text": "STATE OF MINNESOTA, COUNTY OF Ramsey-ss. In District Court, Second Amendment to Florence Thompson, Plaintiff, vs.\nAlonzo Thompson, Defendant.\nThe State of Minnesota to the Above Named Defendant:"
+    },
+    {
+      "bbox": [
+        917,
+        1764,
+        1179,
+        2071
+      ],
+      "label": "text",
+      "text": "You are hereby summoned and required to answer the complaint of the plaintiff in this action, which complaint has been filed in the court, said court in his office in the court house of said county, and to serve a copy of your answer to the said complaint on the sub\u627f\u8bc9\u4eba behalf, at his office, No. 514 Court Block, in the city of St. Paul, County of State of Wisconsin, within thirty (30) days after the summons upon you exclusive of the day of such service; and if you fail to answer the complaint within the time aftersaid the plaintiff in this action will apply to the said case, the relief demanded in said complaint.\n\nDated July 12, 1921.\n\nT. A. ALEXANDER,\nPlaintiff at St. Paul,\n514 Court Block,\nSt. Paul, Minn.\n\n(7-16-21)\n\nCITATION ON PETITION TO SELL LANDS."
+    },
+    {
+      "bbox": [
+        923,
+        2046,
+        1171,
+        2071
+      ],
+      "label": "paragraph_title",
+      "text": "CITATION ON PETITION TO SELL LANDS."
+    },
+    {
+      "bbox": [
+        919,
+        2072,
+        1177,
+        2101
+      ],
+      "label": "text",
+      "text": "STATE OF MINNESOTA. COUNTY OF\nRamsey. Probate Court.\n412-494-2800. www.ramsey.mn.gov"
+    },
+    {
+      "bbox": [
+        918,
+        2097,
+        1176,
+        2142
+      ],
+      "label": "text",
+      "text": "in the Matter of the Application for License to Sell the Real Estate of Baltimore, Decedent. The State of Minnesota to All Whom It May Concern:"
+    },
+    {
+      "bbox": [
+        915,
+        2141,
+        1176,
+        2294
+      ],
+      "label": "text",
+      "text": "On reading and diling the petition of J. K. M. H. the representative of the estate of said deceased that license be to him granted to sell the deceased, and the deceased deceased diseded, and it appearing that petition that there is not sufficient peremptory notice of the deceased, and the legacies presentative to pay the debts outstanding against the deceased, and the legacies presentative to that it is necessary, in order to pay such debts, legacies and expenses, and that it is necessary, in order to pay said real estate."
+    },
+    {
+      "bbox": [
+        914,
+        2293,
+        1175,
+        2436
+      ],
+      "label": "text",
+      "text": "IT IS THEREFORE ORDERED. That a statute be cited and required to appear by Probate Court on Tuesday, the 26th of January, be wlock in the foreonion, at the Court House, in the City of St. Paul, in said County, for the sake of statute, if any there be, why license is granted to said representative to sell the estate, according to the prayer of said statute, to the citation be served by publication thereof, to appeal according to law. WITNESS:"
+    },
+    {
+      "bbox": [
+        914,
+        2431,
+        1174,
+        2607
+      ],
+      "label": "text",
+      "text": "LSS the Judge of said Court,\nthis 30th day of June, 1982.\nA. E. DOE,\nJudge of Probate.\n(Of Washington County Minutia-\nting as and for Judge of Probate of\nRamsey County, Minn.)\n(Sum of Probate Court)\nAttest:\nF. W. GONEWISCH\nGRAND TURNER, Probate.\nHAMMOND TURNER, Attorney.\n221 Metropolitan Bank Eldg.\n\nORDER FOR CREDITORS TO PRESENT CLAIMS IN THREE MONTHS."
+    },
+    {
+      "bbox": [
+        910,
+        2648,
+        1179,
+        2780
+      ],
+      "label": "text",
+      "text": "Letters of Administration on the Estate of William Sadler, deceased, late of the County of Ramsey and State"
+    },
+    {
+      "bbox": [
+        1278,
+        516,
+        1870,
+        679
+      ],
+      "label": "text",
+      "text": "OU do more than merely add a fine piano to your household equipment when you purchase a Dyer Brothers' Player Piano. You add MUSIC, music that any member of the family can produce even though totally untaught in the technique of the piano.\n\nAlthough the DYER BROTHERS' PLAYER PIANO is sold at a moderate price it incorporates in its structure all the exclusive patented Aeolian Co. improvements. It is sold on easy monthly payments by"
+    },
+    {
+      "bbox": [
+        1284,
+        697,
+        1868,
+        794
+      ],
+      "label": "doc_title",
+      "text": "W.J.Dyer & Bro"
+    },
+    {
+      "bbox": [
+        1186,
+        868,
+        1445,
+        891
+      ],
+      "label": "text",
+      "text": "of Minnesota, being granted to John S. Sadler."
+    },
+    {
+      "bbox": [
+        1184,
+        882,
+        1449,
+        1171
+      ],
+      "label": "text",
+      "text": "S. Sadler\nis ordered. That six months be\nand the same is hereby allowed from\nand after the date of this Order, in\nand demands against, the said\nif any there be, are required to file the\nsame in Probate Court of said County,\nformation and allowance, or be forever\nbanned, or be ordered to a clock\nCourt, to be held at the Court\nHouse in the City of St. Paul, in said\nCounty, to be pointed as the time and the place when\nand where the said Probate Court will\nand adjust said claims and\nand It is Further Ordered. That notice\nof such hearing be given to all\nand Estate, by forthwith publishing this\nOrder ence in each week for three\nsuccessive weeks in the Appeal, a legal\nprinted and published in said\nCounty."
+    },
+    {
+      "bbox": [
+        1186,
+        1170,
+        1445,
+        1277
+      ],
+      "label": "text",
+      "text": "Dated at St. Paul this 28th day of June, 1921.\nBy the Court.\n\nA. E. DOE,\nJudge of Probate.\nof Washington County, Minnesota, act-\n of Probate of Probate of Ramsey County, Minn.\n(Seal of Probate Court).\nW. T. FRANCIS, Attorney.\nN. A. ROBINSON, Attorney."
+    },
+    {
+      "bbox": [
+        1186,
+        1317,
+        1444,
+        1404
+      ],
+      "label": "text",
+      "text": "Some may choose the broadened way, That may be lighted and blithe and gay; And leadeth not to realms of day, But I'm walking up the \"King's High way.\""
+    },
+    {
+      "bbox": [
+        1305,
+        1400,
+        1417,
+        1414
+      ],
+      "label": "text",
+      "text": "Elbert W. Giles,"
+    },
+    {
+      "bbox": [
+        1243,
+        1457,
+        1387,
+        1475
+      ],
+      "label": "text",
+      "text": "Tel. Elkhurst 3987"
+    },
+    {
+      "bbox": [
+        1206,
+        1487,
+        1426,
+        1544
+      ],
+      "label": "doc_title",
+      "text": "ELMER MORRIS"
+    },
+    {
+      "bbox": [
+        1184,
+        1547,
+        1449,
+        2181
+      ],
+      "label": "text",
+      "text": "DRUGGIST\nPrescriptions Called For and Delivered.\nDrugs, Medicines, Soda Water\nToilet Articles, Soft Drinks\nCandles, Cigars, Tobacco.\nIce Cream by Brick or Bulk\nDale & W. Central St. Paul\n\nYoung\n\u2014and old alike will find our \"handy\" bank the best-ever aid to Thrift. Get yours now by opening an account with $1.00 or more. Let us serve you"
+    },
+    {
+      "bbox": [
+        1184,
+        2217,
+        1449,
+        2414
+      ],
+      "label": "text",
+      "text": "NORTHERN\nSAVINGS\nBANK\n\nSeventh\nat\nRobert\n\nSaint\nPaul"
+    },
+    {
+      "bbox": [
+        1367,
+        2323,
+        1407,
+        2355
+      ],
+      "label": "text",
+      "text": "Saint Paul"
+    },
+    {
+      "bbox": [
+        1184,
+        2414,
+        1449,
+        2722
+      ],
+      "label": "text",
+      "text": "Just the thing for spare dimes, nickels, quarters, halves, pennies and currency.\n\nNORTHERN SAVINGS B\n\n2009"
+    },
+    {
+      "bbox": [
+        1486,
+        925,
+        1940,
+        977
+      ],
+      "label": "paragraph_title",
+      "text": "ORIGINAL BARBECUE The Only Cafe of its kind in the Twin Cities"
+    },
+    {
+      "bbox": [
+        1494,
+        996,
+        1934,
+        1122
+      ],
+      "label": "text",
+      "text": "Meals A La Carte at All Hours Housewives Supplied With Barbecued Meats on Special Orders. Ladies who do not wish to leave their cars will be specially served."
+    },
+    {
+      "bbox": [
+        1573,
+        1351,
+        1922,
+        1458
+      ],
+      "label": "text",
+      "text": "If you own a lot we will build you a house on it without the advance of a cent\u2014 Pay us as you pay rent.\n\nGENERAL REPAIRING\nTel. Elkhurst 0701"
+    },
+    {
+      "bbox": [
+        1473,
+        793,
+        1674,
+        811
+      ],
+      "label": "text",
+      "text": "21-23-25 West Fifth Street."
+    },
+    {
+      "bbox": [
+        1478,
+        878,
+        1606,
+        897
+      ],
+      "label": "paragraph_title",
+      "text": "Tel. Hyland 3956"
+    },
+    {
+      "bbox": [
+        1442,
+        897,
+        1708,
+        1499
+      ],
+      "label": "text",
+      "text": "ORIGINAL\nThe Only Cafe of its\n\nMeals A La Cafe\nHousewives Supplying\nMeats on Spice\nLadies who do not\ncars will be spiced\nW. P. THOMPSON, MGR.\n712 Sixth Ave. N.\n\nOffice and Residence, Du\n\nDOUGLASS\nCONTRACTORS\n\nIf you own a lot\non it without\nPay us as you p\n\nGENERAL\nTel. Elkh"
+    },
+    {
+      "bbox": [
+        1521,
+        1499,
+        1639,
+        1517
+      ],
+      "label": "paragraph_title",
+      "text": "TEL. DALE 6731"
+    },
+    {
+      "bbox": [
+        1452,
+        1528,
+        1707,
+        1578
+      ],
+      "label": "text",
+      "text": "Learn to Play Pocket Billiards at THE GENTLEMEN'S RESORT"
+    },
+    {
+      "bbox": [
+        1442,
+        1630,
+        1708,
+        1895
+      ],
+      "label": "text",
+      "text": "Open every Evening until 12 o'clock\n\nBarber Shop In Connection, open evenings until 8, Saturdays to 12. P. M.\n\nThe most Popular Lines of Cigars and Candies For Sale\n\nALL KINDS OF SOFT DRINKS ON ICE.\n\nShoe Shining Parlor.\n\nWALKER WILLIAMS, Prop.\nWm. Burley, Attendant.\n554 ST. ANTHONY AVE. ST. PAUL"
+    },
+    {
+      "bbox": [
+        1535,
+        1895,
+        1631,
+        1910
+      ],
+      "label": "paragraph_title",
+      "text": "TEL. MAIN 2592"
+    },
+    {
+      "bbox": [
+        1442,
+        1910,
+        1708,
+        2365
+      ],
+      "label": "text",
+      "text": "PORTERS' AND WAITERS'\nHOTEL\nFOR MEN ONLY\nRATES REASONABLE\nL. WHEELER, PRES. E.L. BOYD, SEC.\n311 Henn\u00e8pin MINNEAPOLIS\nTel. Dale 0605\nHARRY LIGAN\nMERCHANT TAILOR\nFull line of Gents' furnishings and\na lot of odd trousers for sale\nat prices ranging from\n$2.50 to $6.00\n313 Rondo St. St. Paul"
+    },
+    {
+      "bbox": [
+        1455,
+        2393,
+        1695,
+        2433
+      ],
+      "label": "paragraph_title",
+      "text": "PAINLESS DENTISTRY"
+    },
+    {
+      "bbox": [
+        1442,
+        2448,
+        1708,
+        2780
+      ],
+      "label": "text",
+      "text": "TEL. CEDAR 6975\nHOURS 9 A.M. TO 1\nP.M. & 2 TO 6 P.M.\nSUNDAYS & EVENINGS\nBY APPOINTMENT\nDR. L. RAYMOND HILL\nDENTAL SURGEON\nFirst Class Guaranteed Work in\nAll Branches of Dentistry\n303 COURT BLOCK 24 E. 4TH ST."
+    },
+    {
+      "bbox": [
+        1712,
+        880,
+        1972,
+        2032
+      ],
+      "label": "text",
+      "text": "BARBECUE\nkind in the Twin Cities\n\nerte at All Hours\ned With Barbecued\nSpecial Orders.\n\nw wish to leave their\nespecially served.\n\nW. L. REDMOND, CHEF\n\nMinneapolis\n\nnlap and Larpenteur, Aves.\n\nBROTHERS\nAND BUILDERS\n\nwe will build you a house\nthe advance of a cent\u2014\npay rent.\n\nREPAIRING\nhurst 0701\n\nOFFICE CEDAR 8948 RES. DALE 1465\n\nW. T. FRANCIS\nLAWYEP"
+    },
+    {
+      "bbox": [
+        1712,
+        2093,
+        1972,
+        2214
+      ],
+      "label": "text",
+      "text": "SUITE 329\nAMR. MALT. BANK. BLDG.\nCOR. FIFTH AND CEDAR\n\nST. PAUL\n\nOFFICE TEL. RES. TEL.\nCDAR 4044 DALE 7816"
+    },
+    {
+      "bbox": [
+        1714,
+        2166,
+        1785,
+        2193
+      ],
+      "label": "text",
+      "text": "OFFICE TEL.\n\u03a3DAR 4044"
+    },
+    {
+      "bbox": [
+        1909,
+        2173,
+        1972,
+        2199
+      ],
+      "label": "text",
+      "text": "RES. TEL.\nDALE 7816"
+    },
+    {
+      "bbox": [
+        1765,
+        2214,
+        1918,
+        2243
+      ],
+      "label": "text",
+      "text": "HOURS: 9 A. M. TO 1 P. M.\nAND 2 TO 6 P. M."
+    },
+    {
+      "bbox": [
+        1712,
+        2305,
+        1943,
+        2414
+      ],
+      "label": "text",
+      "text": "SURGEON DENTIST\n\nFIRST CLASS GUARANTEED WORK\nIN ALL BRANCHES OF DENTISTRY\n\nSUITE 2 DETROIT BLDG.        SAINT\nCOR. 4TH & WABASHA        MNINF"
+    },
+    {
+      "bbox": [
+        1873,
+        2392,
+        1969,
+        2460
+      ],
+      "label": "text",
+      "text": "SAINT PAUL\nMINNESOTA\n\nResidence\nElkhurst 3460"
+    },
+    {
+      "bbox": [
+        1712,
+        2470,
+        1972,
+        2749
+      ],
+      "label": "text",
+      "text": "HOURS: 9 A. M. TO 1 P. M.\nAND 2 TO 6 P. M.\n\nSUNDAYS BY APPOINTMENT\n\nDR. C. E. CHEEKS\nDENTAL SURGEON\n\nFIRST CLASS GUARANTEED WORK\nIN ALL BRANCHES OF DENTISTRY\n\n44 W. SEVENTH ST.\nDAROTA BLDG.\nSUITE 203-204\n\nST. PAUL"
+    }
+  ]
+}
