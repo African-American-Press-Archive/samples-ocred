@@ -1,0 +1,578 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 2041,
+  "height": 2817,
+  "regions": [
+    {
+      "bbox": [
+        144,
+        74,
+        242,
+        93
+      ],
+      "label": "paragraph_title",
+      "text": "MICHIGAN"
+    },
+    {
+      "bbox": [
+        52,
+        96,
+        335,
+        2009
+      ],
+      "label": "text",
+      "text": "Grand Rapids, Mich., May 14\u2014Harold Jefferson, the son of Mr. and Mrs. Thos. Jefferson, is sick. Miss Dorothy Moore is ill. Little Rita Stanford, the son of Mr. and Mrs. J. Stanford on James avenue, is improving. Mrs. Huso still remains quite ill. A Quaker tea social was given by the Willing Workers of the Messiah Boutist church on Friday evening, April 16. Mrs. G. Woodfall Mrs. Jefferson entertained on Wednesday at the home of Mrs. Jefferson in home of the hotel-boat Theloa Ford, daughter of Mr. and Mrs. J. Ford.\n\nLanding, Mich., May 14\u2014Mrs. Urlah Allen of W. and M. Mrs. Jefferson entertained on Wednesday but is somewhat improved and was out Sunday. Miss Lucille Davis, Mrs. Lott and Mrs. Maud Patten spent the week on Washinton street apart last week in Klamazao, visiting her mother, Mrs. blackwell, Mr. and Mrs. W. O. Jefferson, the husband of the baby girl, Mother and baby are reported as doing well. They are at are reporting in a very enjoyable manner last Thursday for the post week, but is improving slowly. Miss Lucille Davis continued in a very enjoyable"
+    },
+    {
+      "bbox": [
+        52,
+        2042,
+        335,
+        2576
+      ],
+      "label": "text",
+      "text": "G. E. LINDEMANN\nCHEMICAL CO.\nNot Incorporated\n9836 Walden Parkway,\nChicago, Illinois\n\nAFTER ALL OTHERS FAIL\nTRY ALBRIGHT'S\nWONDERFUL HAIR GROWER\nGrows hair on temple and entire head; stops itching scalp, falling hair and dandruff.\nMakes hair long, soft and silky.\nThousands say it is best they have ever used. Agents wanted to sell this wonderful grower.\nBe a Successful Hair-Drosser\nLearn to make your own oils. I teach the complete course for $15.00. Send $10.00 and receive a large list of formulas for growers, please call.\n\nPRICE LIST\u2014Albright's Hair Grower, Co.\nDressling, 80c; Pressing Oil, 50c; or all 3 articles, $1.85.\nExaminer, $8.50. For referral, MRS. B. E. ALBRIGHT\n3344 Wabash Av., CHICAGO, IL."
+    },
+    {
+      "bbox": [
+        163,
+        2630,
+        334,
+        2745
+      ],
+      "label": "text",
+      "text": "hundreds of Refused, Respect\nYoung Lads, Widows, Widows\nand Gentlemen, Antiquus to Marry,\nMany have Wealth and Talent.\nNo One Can Take the Plunge\nTHE DEL.UNE BUREAU\n15 East Street, Bureau\nDetroit, Mich.\n(Glare Manion Tissue Paper)"
+    },
+    {
+      "bbox": [
+        610,
+        100,
+        884,
+        513
+      ],
+      "label": "text",
+      "text": "Dyerburg, Tenn. May 14.\u2014Miss Estella Hayes and Labron McFelden were last week at Fred Curtley. He was lord last week at Fred Curtley who called last week from St. Louis to see his mother, Mrs. Annie Carter, who died bloody after so came Mrs. Sullie Hayes and Miss McFelden who is better. * Mrs. Bacitroir Burnett is improved. * Miss Gertrude Fowkes returned to Memphis last week after a pleasant visit by Miss McFelden. * Clay of Lane College spent Easter with her parents, Dr. and Mrs. J. B. Clay. * After spending two weeks with her parterness last week. * Memphis last week. * After spending several days with her parents, Mr. and Mrs. Allen Furnbanks and son Maxle left Clallan and George Rodgers are sojourning in Toledo, Ohio. * Mrs. Jennie Johnson of Luln, Ohio. is the guest of her brother Clallan and George Rodgers"
+    },
+    {
+      "bbox": [
+        656,
+        521,
+        839,
+        533
+      ],
+      "label": "paragraph_title",
+      "text": "Arthur Robertson Wanted"
+    },
+    {
+      "bbox": [
+        612,
+        534,
+        884,
+        646
+      ],
+      "label": "text",
+      "text": "Any one knowing the whereabouts of Arthur L. Robertson, who formerly lived in Chicago with his wife Mabel and was last heard from in 1814 at Fort Boggs, Missouri. He was Mark Robertson, 306 North College street, Trenton, Tenn. When last heard from he was in the service of the I. G. R. R. 8-16"
+    },
+    {
+      "bbox": [
+        670,
+        650,
+        827,
+        661
+      ],
+      "label": "paragraph_title",
+      "text": "DON'T TAKE DOBE"
+    },
+    {
+      "bbox": [
+        442,
+        661,
+        884,
+        2010
+      ],
+      "label": "text",
+      "text": "EE THAT CAN?\n\nIt contains the finest Hairdressing known to the American People. For more than twenty years it has been a household word among thousands.\n\nPOMADE LITHOLEUM is the name of this famous hairdressing. The next time you buy dressing ask for SCHNEIDER'S POMADE LITHOLEUM. It costs no more and you'll like it a whole lot better.\n\nAGENTS WANTED to handle Schneider's complete line of Toilet Preparations. Make big money Address Dept. A for Proposition to Agents.\n\nE. D. SCHNEIDER,\n\n251 So\nMain St\n\nMemphis\nTenn.\n\nE. D. Schneider"
+    },
+    {
+      "bbox": [
+        349,
+        2124,
+        694,
+        2152
+      ],
+      "label": "text",
+      "text": "BUILDS RICH, RED BLOOD, STRONG, STEADY\nMERKYS, VIGOROUS MEN AND WOMEN"
+    },
+    {
+      "bbox": [
+        610,
+        2152,
+        884,
+        2462
+      ],
+      "label": "text",
+      "text": "when your Mind\nstick and tired of taking\nsechow quickly you'll\nliming with the illusion,\nBillions, lids, lack of Energy, low\nease to deficient Nervous\nadaptation upon Nerve-Porcs\ntumor of the stomach, liver,\ncirculation, Nuga-Tone.\nAnd you may not benefit from\nhealth-giving ingredients\nphysicians and it is espe-\ncible Blood and Nerves.\nbowls so they no regre-\nsion, and you can eat\nnut. No more pains and\nsteel, good digestion, steady\nhealth in the cheeks and\ngood men, healthier and more\nates, no habit forming drugs,\nease of digestion to the taste,\nyour friends.\nce of Nuga-Tone is One ($1.00) Dollar per bottle.\nTake Nuga-Tone twenty (60) shares.\nTake Nuga-Tone twenty (60) shares are not\npackage, together with the box to us and we will"
+    },
+    {
+      "bbox": [
+        348,
+        2156,
+        875,
+        2507
+      ],
+      "label": "text",
+      "text": "When you are broken in Health and Strength, when your Mind gets dull and your Body weakens, when you are sick and tired of taking care of your body, when your Mind is fatigued, for this a new unit Nine-tenths of all human ailments, such as Poor Appetite, Indigestion, Gases and Bloating, Constipation, Bilirubin, Anemia, Rhythmic twings, Headaches, Neuralgia, lack of Energy, low energy, malnutrition and weakness, will help to deficient Nerve-Force, thin watery Blood and poor Blood Circulation.\n\nEvery organ, every function of the body is the mainspring of the lifestream, liver, kidney and bowels, the heart's throb, the blood circulation, Nuga-Tone. Why? Because it is composed of eight valuable health-giving ingredients recommended and prescribed by the foremost physicians and it is especially rich in Iron and Phosphorous\u2014food for the Blood and Nerves.\n\nNuga-Tone puts Life in the liver, invigorates the bowels so they move regularly. It revives the kidneys, drives out the poisonous wastes. No more digestive tract problems, no more intestinal blockages. Nuga-Tone gives you a wonderful appetite, good digestion, steady nerves and sood refreshing sleep. Nuga-Tone enriches the blood, improves the blood circulation, puts the glow of health in the cheeks and skin. Nuga-Tone gives you a strong and healthy immune system. Nuga-Tone contains no oplates\u2014no habit forming drugs. It is put up in a convenient package. It is sugar coated, pleasant to the taste, easy to take. The INFO SQUARE GUARDIAN recommend it to all your friends. Each bottle contains Ninety (90) Tablets, one full month's treatment. You can buy six bottles, six months treatment, for Five ($5.50) Dollars. Take Nuga-Tone twenty (20) days; if you are not satisfied with results, return the remainder of the package, together with the box to us and we will refund your money. Nuga-Tone is sold by good drugstores on same terms and guarantee. Do not wait until next week or next month, get it today.\n\nUSE THIS COUPON WHEN ORDERING BY MAIL.\n\nNational Laboratory, Dept No 19 537 South Dearborn St. Chicago, IL."
+    },
+    {
+      "bbox": [
+        380,
+        2622,
+        856,
+        2694
+      ],
+      "label": "doc_title",
+      "text": "SKINS MADE CLEARER MME. PAILIN'S WONDERFUL NEW DISCOVERY INSTANTANEOUS SKIN BLEACHING SYSTEM"
+    },
+    {
+      "bbox": [
+        340,
+        2697,
+        892,
+        2743
+      ],
+      "label": "text",
+      "text": "Guaranteed harmless, permanent and costly applied. Taught by mail or in person. Diplomas given. Agents wanted for Mine Palm's widely known toilet preparations. Write for fell particulars. Address: Dt. D. MME. PAUIN'S LABORATRIES. 3725 Indiana Ave. Cincinnati, OH 45211"
+    },
+    {
+      "bbox": [
+        334,
+        73,
+        608,
+        998
+      ],
+      "label": "text",
+      "text": "count of serious illness of her sister. * Roy L. Stephens of Detroit, Mich., who died last Sunday. * Messrs. Charlie Taylor and Osso Grimes left Saturday for Detroit. * The Defender and other race papers are on sale weekly at 707 W. Cascast, ida L. Ferguson, agent.\n\n* Niles, Mich., May 14. * Mrs. Forher of Pontiac, Mich., who has been visiting in Chicago, Ill., is spending a few days with Mr. and Mrs. John Ninthaway and Osso Grimes left last Saturday for Detroit. * T"
+    },
+    {
+      "bbox": [
+        688,
+        79,
+        804,
+        99
+      ],
+      "label": "paragraph_title",
+      "text": "TENNESSEE"
+    },
+    {
+      "bbox": [
+        710,
+        743,
+        788,
+        755
+      ],
+      "label": "paragraph_title",
+      "text": "MOTHERS"
+    },
+    {
+      "bbox": [
+        701,
+        2010,
+        875,
+        2062
+      ],
+      "label": "text",
+      "text": "RESULTS IN 20\nDAYS OR YOUR\nMONEY BACK"
+    },
+    {
+      "bbox": [
+        889,
+        85,
+        1161,
+        477
+      ],
+      "label": "text",
+      "text": "HARVEST BIG WHEAT CROP\nLos Angeles, Cal. May 14.\u2014According to reports given out at the office of the Colorado Mexican Land & Development Company in Pasadena, Bldg., this city, the Colored settlers who are now farming the Santa Clara Valley in Lower California will harvest more wheat in the next sixty days than will be harvested by all of the Colored farmers in the state of California. The Santa Clara Valley, which is located about fifty miles to the north of Juana, Mexico, is now owned by the Lower California Mexican Land & Development Company. Two-thirds of the entire valley has been sold to Colored settlers from all parts of the United States. The remaining third of the valley is now being put on the market at fifty dollars ($0.00) per acre. Because of their superior farming knowledge the Colored farmers of the Santa Clara Valley have the best crops per acre to be found in the peninsula. Colored citizens and the Mexicans got an opportunity as brothers in Mexico officials have a deni- der that the Lower California Company put in many thousands of Colored settlers in the peninsula.-Advt."
+    },
+    {
+      "bbox": [
+        912,
+        486,
+        1139,
+        498
+      ],
+      "label": "paragraph_title",
+      "text": "Spends Vacation in Hot Springs"
+    },
+    {
+      "bbox": [
+        889,
+        497,
+        1158,
+        743
+      ],
+      "label": "text",
+      "text": "Hot Springs, Ark, May 14--After spending several weeks with friends in this city Miss Jimmie Ganter of Milwaukee, Wis., expects to return home within the next few days. Before coming to Hot Springs Miss Ganter spent two weeks in Chicago visiting Mrs. Clarence Goodwin and two weeks with Miss Mattie Potter in Nashville, Tenn.\n\nE. L. Ferrington & L. Maxwell Wanted\nAny one knowing the whorehouses of E. L. Ferrington who formerly lived at 4634 Indiana avenue, located Maxwell, who lived at 423 East 48th place, last address 51 Wahsh avenue, Chicago, who lived at 131 East 43d street, or phone Drexel 6600."
+    },
+    {
+      "bbox": [
+        955,
+        759,
+        1094,
+        961
+      ],
+      "label": "doc_title",
+      "text": "Be Rid of Painful Corns"
+    },
+    {
+      "bbox": [
+        879,
+        985,
+        1167,
+        1505
+      ],
+      "label": "text",
+      "text": "\"Gets-it\" Makes Them Loosen Up So They Lift Off Painlessly\n\nThere's no more pain after a few drops of \"Gets-it\" lands upon corn or callus and instantly dries.\n\nIn a day or two you lift the old misery-maker right off without even feeling it. That's the last of Mr. Corn and the last of your misery. Millions who have lost their corn the \"Gets-it\" way say it is the only common-sense way to get rid of the callus.\n\n\"Gets-it,\" the slower-falling, guaranteed money-back corn remover, costs but a trifle at any drug store. Mfd. by E. Lawrence & Co., Chicago."
+    },
+    {
+      "bbox": [
+        890,
+        1523,
+        1161,
+        1561
+      ],
+      "label": "paragraph_title",
+      "text": "Repaired Standard Tires"
+    },
+    {
+      "bbox": [
+        879,
+        1563,
+        1167,
+        1940
+      ],
+      "label": "text",
+      "text": "GUARANTEED 4000 MILES\n\nMany of which are equal to new tires. Slightly worn. Strongly repaired. All Non-Skids. The only repaired tire sold with a positive guarantee. Sent subject to approval at the prices given below:\n\nStandard Tires Size Tire Tubes\n30x2 ... $ 6.95 $1.95\n30x3 $ 7.95 2.50\n32x3 $ 8.75 2.70\n37x3 ... $ 9.15 2.85\n39x4 ... $ 10.90 2.95\n39x4 ... $ 12.65 3.00\n39x4 $ 12.80 3.20\n39x4 $ 12.95 3.35\n39x4 $ 13.75 3.45\n39x4 $ 14.50 3.50\n39x4 $ 14.90 3.65\n39x5 ... $ 15.50 3.90\n39x5 ... $ 15.90 3.95\n39x5 ... $ 16.90 4.50\n36x4 ... $ 16.90 4.60\n\nTubes Listed Above Are\nAll New Tubes, Ton\nTested, Guaranteed\n\nMail us a deposit of $100 for an amount of good faith and we will"
+    },
+    {
+      "bbox": [
+        893,
+        1937,
+        1165,
+        2019
+      ],
+      "label": "text",
+      "text": "ship the tires or tubes you order Parcel Post, C.O.D. State if S. or C\u7433cher is wanted. If after inspection they do not meet with your entire approval, refuse them and on their return we will send back the $1.00."
+    },
+    {
+      "bbox": [
+        899,
+        2016,
+        1163,
+        2052
+      ],
+      "label": "text",
+      "text": "KINGLEY TIRE and HOE SHOP,\n3652 CHEWBURG AVENUE,\nChicago, IL."
+    },
+    {
+      "bbox": [
+        894,
+        2073,
+        1163,
+        2154
+      ],
+      "label": "doc_title",
+      "text": "YOUR HAIR IS GROWING GRAY"
+    },
+    {
+      "bbox": [
+        891,
+        2164,
+        1167,
+        2485
+      ],
+      "label": "text",
+      "text": "Don't Neglect the First Streams. Hurry and Apply Q-Ban Hair Color Restorer. Stops Dandruff and Falling Hair. Darkens Gray Hair.\n\nWhen you see the first white streak or your hair is lifeless, then apply Q-Ban Hair Color Restorer on all your hair and scalp. If your hair is tinged with gray, streaked, wispy, or your hair color restorer, Q-Ban Hair Color Restorer will easily remove the dark luster of a young girl, making your entire head of hair soft, fuzzy, long, thick and evenly dark. Q-Ban Hair Color Restorer is not a dye but a clean, liquid, as safe to handle as hair color restorer. You can easily apply it in the privacy of your own room and stop that first sign of gray so no one can tell. Get a bottle of Q-Ban Hair Color restorer from any druggist or toilet chemist. Each coat, mail orders, 75 cents. Address Q-Ban, Memphis, Team."
+    },
+    {
+      "bbox": [
+        898,
+        2539,
+        1031,
+        2748
+      ],
+      "label": "text",
+      "text": "BY USING MADAM\nL. DEWBERRY'S\nWONDERFUL HARD\nFOOD.\nRetail prices:\nHaircuts $15,\nPressing Oil, $100\nTan (100) cents extra,\nmaillett.\nMail order\nprompt to attend to\nthe camp.\nAll line of hair good\ntransformations are special.\nbraids are special.\nHERRY MG CO.\n3233 STATE 51.\nHERRY MG CO.\nAssets Wanted."
+    },
+    {
+      "bbox": [
+        1064,
+        2731,
+        1139,
+        2751
+      ],
+      "label": "text",
+      "text": "MME E.\nDEWBERRY"
+    },
+    {
+      "bbox": [
+        1502,
+        85,
+        1662,
+        109
+      ],
+      "label": "paragraph_title",
+      "text": "99 OUT OF 100"
+    },
+    {
+      "bbox": [
+        1167,
+        94,
+        1438,
+        256
+      ],
+      "label": "text",
+      "text": "WHITE FLAME BURNERS make your old kerosene lamps and lanterns give a brilliant, white light. Better than electricity or gas. Doubles your light, saves oil. No mantle to break. Guaranteed safe and reliable. Delights every user; 600,000 in use. Send now postage postpaid 50 cents stamps or coln; back if not satisfactory. Will last 10 years. Address White Flame Burner Co. P. O. Box 2634, Philadelphia, Pa. - Advt. 8-15"
+    },
+    {
+      "bbox": [
+        1443,
+        110,
+        1717,
+        221
+      ],
+      "label": "text",
+      "text": "Of the little ills and hurts, such as toothache, nervous headache or soreness anywhere may be quickly relieved by applying Vacher-Balm, which is ivy-based and handy, if you imitations. Try a 300 or tube, and you will be surprised. Ask your drugst. Wholesale of H. I. Pride, 4668 S. State St., Chicago, Ill.-Advt."
+    },
+    {
+      "bbox": [
+        1521,
+        229,
+        1644,
+        242
+      ],
+      "label": "paragraph_title",
+      "text": "Read This Quick"
+    },
+    {
+      "bbox": [
+        1443,
+        243,
+        1715,
+        386
+      ],
+      "label": "text",
+      "text": "We are selling lots in the beautiful town of Elwood, N. J. 19 miles from the world's famous resort, Atlantic Ocean. We are offering the Pennsylvania and leading roads. For 30 days we are offering 1,000 choice lots $25,100 for $50; $5 down and $2 per month. No taxes or assessments, giving you two years to pay for it. We are offering a discount. Contact A. E. Knaufman, 3319 State St., Chicago, A. I. -Adv."
+    },
+    {
+      "bbox": [
+        1201,
+        265,
+        1404,
+        279
+      ],
+      "label": "paragraph_title",
+      "text": "Mrs. Jennie Portillan Wanted"
+    },
+    {
+      "bbox": [
+        1167,
+        281,
+        1717,
+        1053
+      ],
+      "label": "text",
+      "text": "Mrs. Jennio Portillar, mother; Mrs. Pearl Young, sister; Mrs. Bertha Walker and Miss Margaret Portillar wanted. Last heard from living at 3642 Wabash avenue, Chicago, in January, 1917. Kindly notify Mrs. Rosie Bryant, 406 Stone street, Cincinnati, Ohio.\n\nKO-KO WA-NO\n\nA Brand New Hair Straightener for Real Live Men\n\nQUARANTEED NOT TO TURN THE HAIR RED IS ALSO POSITIVE DANDRUFF PREVENTIVE FOUR OUNCE BOX SENT ANYWHERE IN THE U. S. A. FOR 75 CENTS PREPAID. EIGHT OUNCE BOX $1.50 BARBERS, WRITE FOR SPECIAL TERMS\n\nSEND POSTOFFICE OR EXPRESS\n\nMONEY ORDER \u2014 NO STAMPS\n\nKO-KO WA-NO CHEMICAL CO.\n1089 FULTON ST., BROOKLYN, N. Y.\n\nLift Off Corns!"
+    },
+    {
+      "bbox": [
+        1190,
+        532,
+        1688,
+        625
+      ],
+      "label": "doc_title",
+      "text": "A Brand New Hair Straightener for Real Live Men"
+    },
+    {
+      "bbox": [
+        1189,
+        648,
+        1689,
+        822
+      ],
+      "label": "text",
+      "text": "QUARANTEED NOT TO TURN THE HAIR RED\nIS ALSO POSITIVE DANDRUFF PREVENTIVE\nFOUR OUNCE BOX SENT ANYWHERE IN THE U. S. A.\nFOR 75 CENTS PREPAID. EIGHT OUNCE BOX $1.50\nBARBERS, WRITE FOR SPECIAL TERMS\nSEND POSTOFFICE OR EXPRESS\nMONEY ORDER - NO STAMPS"
+    },
+    {
+      "bbox": [
+        1256,
+        900,
+        1620,
+        926
+      ],
+      "label": "text",
+      "text": "1089 FULTON ST., BROOKLYN, N. Y."
+    },
+    {
+      "bbox": [
+        1167,
+        1053,
+        1717,
+        2052
+      ],
+      "label": "text",
+      "text": "Doesn't hurt! Lift touchy corns and calluses right off with fingers\n\nApply a few drops of \"Freezone\" upon that old, bothersome corn. Instantly that corn stops hurting. Then shortly you lift it right off, root and all, without pain or soreness.\n\nHard corns, soft corns, corns between the toes, and the hard skin calluses on bottom of feet lift right off\u2014no bumble!\n\nTiny bottles of \"Freezone\" cost but a few cents at drug stores\n\nBURN INCENSE\nTHIS WAY\n\nIncense has been used in religious rites for hundreds and hundreds of years. It was burned in Bible times as an offering to the gods. The better class of people of all ages, even up to the present day, have burned incense for its soothing, deodorizing effects, its air of refinement, or its presumed magical powers. Incense, as most effectively used nowadays, is formed into fascinating, star-shaped pastilles. Each of these pastilles is branded with the words \"Lucky Star.\" In the private of your own room or when entertaining, the fragrance and the novel effect are most pleasing, for when burned in the dark the words \"Lucky Star\" can actually be seen in letters of fire! Lucky Stars are truly wonderful, as thousands will testify and as a trial will prove. Get the genuine. See coupon below.\n\nTHE LUCKY STAR MFG. CO., 632 West Sixth Street, Cincinnati, Ohio.\n\nFind enclosed $1.00, for which please send me a full sized box of Lucky Stars, with directions for use.\n\nName\n\nStreet and No.\n\nCity"
+    },
+    {
+      "bbox": [
+        1185,
+        1567,
+        1699,
+        1677
+      ],
+      "label": "doc_title",
+      "text": "BURN INCENSE THIS WAY"
+    },
+    {
+      "bbox": [
+        1180,
+        1698,
+        1699,
+        1870
+      ],
+      "label": "text",
+      "text": "Incease has been used in religious rites for hundreds and hundreds of years. It was burned in Bible times as an offering to the gods. The better class of people of all ages, even up to the present day, have burned incense for its soothing, deodorizing effects, its air of refinement, or its presumed magical powers. Incense, as most effectively used nowadays, is formed into fascinating, star-shaped pastilles. Each of these pastilles is branded with the words \"Lucky Star.\" In the private of your own room or when entertaining, the fragrance and the novel effect are most pleasing, for when burned in the dark the words \"Lucky Star\" can actually be seen in letters of fire! Lucky Stars are truly wonderful, as thousands will testify and as a trial will prove. Get the genuine. See coupon below."
+    },
+    {
+      "bbox": [
+        1343,
+        1902,
+        1697,
+        1958
+      ],
+      "label": "text",
+      "text": "MFG. CO., 632 West Sixth Street, Cincinnati, Ohio.\nFind enclosed $1.00, for which please send me a\nfull sized box of Lucky Stars, with directions\nfor use."
+    },
+    {
+      "bbox": [
+        1186,
+        2045,
+        1331,
+        2060
+      ],
+      "label": "text",
+      "text": "AGENTS WANTED"
+    },
+    {
+      "bbox": [
+        1167,
+        2052,
+        1717,
+        2506
+      ],
+      "label": "text",
+      "text": "AGENTS WANTED ORDERS FILLED AT ONCE\n\nLEARN A TRADE\nAND EARN WHILE\nYOU LEARN\n\nSome of our students are making $120.00 a\nmonth while learning. We can place you\nWe teach aeroplanes operating, piloting and\nconstruction, automobile mechanism, wireless telegraphy and radio\ntelephone. Write for participation.\nAUTO & AEROPLANE MECHANICAL SCHOOL\nBell 4931 Dial 5060\n\nOffice: 25 N. Cameron St., Harrisburg, Pa.\nTraining Quarters and Flying Field\nHarrisburg Aerodrome, Poughkeepsie and Sycamore Sts."
+    },
+    {
+      "bbox": [
+        1202,
+        2368,
+        1684,
+        2479
+      ],
+      "label": "text",
+      "text": "Bome of our students are making $120,000\nmonth while learning. We can place you\nWe teach aeroplanes operating piloting and\nconstruction mobile helicopters, wireless telegraphy and radio\nteaching. Write for particular\nAUTO & AEROPLANK MECHANICAL SCHOOL\nBell 4931\nOffice: 25 N. Campton St., Harrah'sburg, Pa.\nTraining Quarters and Piping Field\nHarrah'sburg Aerodrome, Fountain 6th and Wycamore St."
+    },
+    {
+      "bbox": [
+        1360,
+        2506,
+        1538,
+        2531
+      ],
+      "label": "doc_title",
+      "text": "LISTEN!"
+    },
+    {
+      "bbox": [
+        1167,
+        2531,
+        1717,
+        2797
+      ],
+      "label": "text",
+      "text": "I Will Make You Wise and Wealthy, Happy and Healthy\n\nIf you are sick or unhappy, falling in business or unsuccessful in life, it is all fault, and no one is to blame but yourself; because \"Keys to the Kingdom\" is fierce and is not your desire, removes any disease, complaint, defect or trouble, matters not what it is. They tell of that central point in the body where health is produced and this is the secret that removes all diseases and gives perfect health. They tell of your connection with the \"mechanism\" and this is the secret that removes all grief, trouble, fear and failure and gives wealth, success and happiness. They cost only ten ($10) dollars, but if you had them you would not depart from them for one hundred ($100) dollars. If I were allowed to use a certain word in this ad, you would almost run over yourself rushing me my order. Now think a moment. Can I you see what I want to tell you. Well I power of everyone with whom you come in contact, and you will prosper at everything to which you place your hand. Full amount of cash must be sent with order to\n\n408\u00bd N. GREENWOOD WALDEN H. COHN TULSA, OKLA."
+    },
+    {
+      "bbox": [
+        1167,
+        2539,
+        1719,
+        2742
+      ],
+      "label": "text",
+      "text": "I Will Make You Wise and Wealthy, Happy and Healthy\n\nIf you are sick or unhappy, falling in business or unsuccessful in life, it is all your fault, and no one is to blame but yourself; because \"Keys to the faith, dissertation and secret nowhere that will all any desire, remove any disease, commend your faith, and that central point in the body where health is produced and this is the secret that removes all diseases and gives perfect health. They tell of your connection with the \"mechanism\" and this is the secret that removes all grief, trouble, fear and failure and gives wealth, success and happiness. They cost only ten hundred (4100) dollars. If I were allowed to use a certain you would almost run over yourself rushing my order. Now think a moment. Can't you see what I want to tell you? Well, I can tell you this much: \"Keys to the Kingdom\" will give you a controlling power over everyone whom you come in contact, and you will prosper at everything to which place you have to return, and your order to order."
+    },
+    {
+      "bbox": [
+        1734,
+        99,
+        1987,
+        164
+      ],
+      "label": "doc_title",
+      "text": "THE EAST INDIA HAIR GROWER"
+    },
+    {
+      "bbox": [
+        1717,
+        164,
+        1993,
+        655
+      ],
+      "label": "text",
+      "text": "WILL PRO-\nMOVE A FULL\nGrowth of Hair;\nWILL\nALSO\nRE-\nSTORE THE\nSTRENG-\nGHT,\nQUALITY\nWILD THE\nBEAUTY OF\nTHE Hair.\nIf Your Hair\nIs Dry and\nCan Try\n\nEast India\nHair Crower\n\nIf you are oathered with\nfalling Hair, Dandruff, Bleaching Scalp, or any Hair Trouble, we want you to try a jar of Irish Indie Hair Trouver. The remedy contains medical preparations that go to the roots of the Hair, stimulate the skin, helping picture to do its work. Leave the hair soft silky, detained with a palm of a thousand flowers. The best known remedy for heavy and beautiful Black Eyebrows. It restores Gray Hair to the Natural Color. Can be used with Hot Iron for Straightening."
+    },
+    {
+      "bbox": [
+        1717,
+        716,
+        1993,
+        1266
+      ],
+      "label": "text",
+      "text": "1 Hair Grower, 1 Temple Oil, 1 Shampoo,\n1 Pressing Oil, 1 Face Cream, and Directions\nfor Selling, $2.50. 25c extra for postage.\n\nFREE FASHION BOOK\nMAILED\nUPON REQUEST\n\nREAL HUMAN HAIR\n\nAll our wigs are\nhand-made and\nstrictly to order\n\u2014from maker to\nwears.\n\nWIGS\nTransformations, Switches,\nand Brands, and\nall other articles\nof hair goods.\n\nNo. 604\u2014Price $10.50\n\nWe carry the largest selection of Hair\nDressers' Tools.\n\nThe celebrated Mme. Baum's Pre-\nparations make the skin velvet-like,\nthe hair silk-like. Send for your fashion.\n\nWe carry the largest and best selection of\nstretching combs and hair dressing tools.\nThis combination pergad for $1.00 is best made.\n\nMme. Baum's Mail Order House\nP.O. Box 145, Prairie, Term. Stations, New York, N.Y.\n\nBe sure to mention name of this paper."
+    },
+    {
+      "bbox": [
+        1717,
+        1338,
+        1993,
+        1702
+      ],
+      "label": "text",
+      "text": "Including $5.00 worth of The Famous Improved Hair, Scalp and Skin Treatments. Enough goods to earn your $6.00 back.\n\nCLASS LIMITED\n\nBe a Hair Dresser, Scalp & Skin Specialist\n\nWe teach you how either by mail or person. We give Diplomas. Write up.\n\nW. T. McKISSICK & CO.\nP.O. BOX 102, WILMINGTON, DEL."
+    },
+    {
+      "bbox": [
+        1717,
+        1671,
+        1993,
+        2598
+      ],
+      "label": "text",
+      "text": "W. T. McKISSICK & CO.\nP.O. BOX102, WILMINGTON, DEL.\n\nKUKY\nHAIR\nDECORIES (LIKE PICTURE)\nFluffy, Soft, Silky, Long\nBy\u2014Herolin\nUsing\nFORMADE HAIR DRESSING. Not slick or greasy. Highly perfumed. Strikes out the silky, silky, silky, silky, silky, silky"
+    },
+    {
+      "bbox": [
+        1731,
+        2638,
+        1992,
+        2757
+      ],
+      "label": "text",
+      "text": "PERCILL HAIR\nSTANDARD HAIR HOAP\nWill do, do, do, do\nTUFF, TUFF, TUFF, TUFF\ncray, cray, cray, cray\nBread today for Doughnuts\nBread today for Doughnuts\nBread today for Doughnuts\nMint, Mint, Mint,\n3035 Michigan Ave, Coli-\ntro.\nPATRONIZE OUR ADVERTISERS"
+    }
+  ]
+}

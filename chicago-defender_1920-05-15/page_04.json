@@ -1,0 +1,98 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2800,
+  "height": 4046,
+  "regions": [
+    {
+      "bbox": [
+        346,
+        651,
+        2406,
+        929
+      ],
+      "label": "doc_title",
+      "text": "In Memory of the Founder and President of the Mme. C. J. Walker Mfg. Co."
+    },
+    {
+      "bbox": [
+        691,
+        2872,
+        2074,
+        2965
+      ],
+      "label": "doc_title",
+      "text": "\"Beauty Thoughts' of Madam Walker\""
+    },
+    {
+      "bbox": [
+        1332,
+        3479,
+        2199,
+        3541
+      ],
+      "label": "text",
+      "text": "By SERGT. ALLEN R. GRIGGS, JR., Author of the \"Negro's Tribute to Roosevelt,\" \"Are They Equal in the Eyes of the Law,\" and other poems."
+    },
+    {
+      "bbox": [
+        560,
+        3015,
+        1084,
+        3201
+      ],
+      "label": "text",
+      "text": "Can she be dead, whose soul still breathes,\n'Tho casket's hid 'neath withered wreathes,\nWith mortal form\nEncased therein, where soon it must\nBe inch by inch returned to dust,\nWithout alarm?"
+    },
+    {
+      "bbox": [
+        560,
+        3250,
+        1084,
+        3446
+      ],
+      "label": "text",
+      "text": "Can she be dead whose works still live,\nOn earth, in future years to give\nTo those who pride\nSweet thoughts of her whose self-made star\nMounted its zenith in the sky, too far,\nIts light to hide?"
+    },
+    {
+      "bbox": [
+        1116,
+        3022,
+        1642,
+        3209
+      ],
+      "label": "text",
+      "text": "Can she be dead, whose memory's stamped\nOn million hearts with sorrows cramped,\nWhile thoughts of love\nAscend beyond that brilliant star\nTo her within the gates ajar,\nThe home above?"
+    },
+    {
+      "bbox": [
+        1117,
+        3256,
+        1588,
+        3452
+      ],
+      "label": "text",
+      "text": "Can she be dead, who never fogot The sorrows that were freedmen's lot, And strove to lift The burdens that held them entwined, The obstacles that made them blind, To freedom's gift?"
+    },
+    {
+      "bbox": [
+        1676,
+        3016,
+        2171,
+        3194
+      ],
+      "label": "text",
+      "text": "Can she be dead, whose mantle fell On those so near who now can tell With mighty pen, The \"thoughts of beauty\" she did hold, Were naught with her, if not two-fold Without\u2014within?"
+    },
+    {
+      "bbox": [
+        1674,
+        3227,
+        2127,
+        3455
+      ],
+      "label": "text",
+      "text": "She is not dead, they cannot die,\nWho through such noble efforts try\nThe prize to win.\n'The mortal form's 'neath withered\nwreathes,\nThat \"beauty thought\" her soul still\nbreathes,\nWithout\u2014within."
+    }
+  ]
+}
