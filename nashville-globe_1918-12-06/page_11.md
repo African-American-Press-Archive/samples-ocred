@@ -1,0 +1,247 @@
+# NASHVILLE GLOBE.
+
+Published every Friday in the year at 447 Fourth Avenue, North Nashville, Teen.
+
+Entered as second-class matter January 19, 1908 at the post office at Novelville, Tee. see under the Act on Congress of March 4, 1908. No notice taken of anno ym contributions.
+
+## SUBSCRIPTIONS IN ADVANCE
+
+One Year. $1.50
+Two Months. 30
+Three Months. 45
+Single Cop. 65
+
+Notify the office when you fail to get your p.p.
+
+ADVERTISING RATES FURNISHED UPON APPLICATION
+
+## READING MATTER RATES
+
+5 cents per line for each insertion,
+10 cents per line for e ch insertion (in black face
+advertising copy should be in the office n
+than 9 a. m., tuesday of each week.
+
+## TO THE PUBLIC
+
+Any erroneous reflections upon the character, standing or reputation of any person, firm or corporation, what matter will be added corrected upon being brought to the attention of the management.
+
+Send correspondence for publication as so to reach the office Monday. No matter intended for current issue which arrive as it is. A Thursday can appear in that number, as. Thursday must be written only on one side of the paper, and should be composed by the name of the contributor, not necessarily for publication, but as evidence of good faith.
+
+MEMBER
+NATIONAL NEGRO PRESS
+ASSOCIATION
+
+Nashville, Tenn., Dec. 6, 18
+
+COLORED DEPARTMENT OF THE U. S. FREE EMPLOYMENT BUEREAU.
+
+Wants more applicants for labor.
+
+The purpose of this Bureau is to find work for people who desire it and are unable to find some for themselves.
+
+The U. S. Employment office is located on 175 8th Ave. N. If you are a stranger in this city or if you want employment here, go to this office, have your name and address, and what kind of employment you want. The clerks there will help you to find your work.
+
+There are about three times as many calls left in the office for colored help as there are applicants. There is plenty of work here in Nashville for the industrious colored man and woman. If you want to work. There is no excuse for your being idle. Get yourself settled well for the winter. Let this Free Employment office find for you the kind of work you want to do.
+
+Take advantage of this assistance offered you free. The clerk in the office is courteous and is willing and anxious to give any information possible.
+
+Nashville has no room for persons who can work, but won't work. Don't say you can't find work when by applying at the U. S. Employment Bureau you can find any kind of work you desire. Place you application there now if you are out of work.
+
+LIEUT. COL. CHAS. YOUNG. U. S. A.
+Who has been called back to the United States army to do more work.
+
+GENERAL FOCH A TYPE OF A TRUE AMERICAN
+
+## GENERAL FOCH A TYPE OF A
+TRUE AMERICAN
+
+Gen. Foch, one of the greatest characters in the world today is truly a patriotic American. He knows no man by the color of his skin or texture of his hair. A man is recognized, by this great general, by his true worth and ability to do. When the hydra-headed demon of southern prejudice attempted to influence General Foch to segregate colored and soldiering in France he made the following statement: "Gentlemen, when Gen Pershing came to France, he found a black man at the head of the French Army. France has no color prejudice and presecutes no man on account of color or creed." The black man to whom Marshal Foch referred, is General Dodds. This man has been stationed in Cochin China, in command of the Oriental armies of France for many years. France honored him for his ability and sent him at the head of killed armies in their march to Pekin during the winter attacking Gen. Dodds speaks fluently several languages. Because of his familiarity with Chinese languages and customs, he has been a success in the Orient.
+
+SUNFL*WER ARICULTURAL AS-
+SOCIATION MEETS.
+
+One of the finest displays ever wit-
+nessed was that of the Sunflower Agr-
+ricultural Association at the Topeka
+Industrial Institute. This is the tenth
+session of the organization, and never
+before in its history was a greater
+session held, not the display more
+beautiful, than that held on the 27th
+28th and 29th of November. The
+and/orium was liberally decked with
+large pumpkins, potatoes, turnips
+and watermelons, in fact every kind
+of vegetable. There were thousands
+of cans of different kinds of fruits
+made by wives of farmers, clubs and
+
+by the domestic living some of the Topeka industry's A. Townsend. On the wails were many kills of beautiful pleces of fancy work. The sessions were well attended by many wealthy farmers from different points in Kansas. The Thanksgiving and Peace services were held Thursday morning. Rev. J. C. Rogers from Hutchinson, Kansas, delivered an excellent sermon on "The Service of the Negro Soldiers on the Firing Line."
+
+At the afternoon session of Thursday morning. Rev. J.
+
+## MR. AND MRS. GEO CAGE ENTER
+TAIN
+
+Nov. 19th, a number of young people were entertained at the home of Mr. and Mrs. Geo, Cage, 1664 Harding street, in celebration of the 9th birthday of their grand-daughter, Salene C. Winston. A color motif of pink and white prevailing. Various games were played. Mrs. S. B. Neal had charge of the games. Mildred Price won first prize, Susie Lowe Crawley second, Miss Willie May Rucker served orange aide from a large punch bowl and Miss Elose Lowe kept the register. Those present were: Biby Royster, Mary Willie Duncan, Edith Crawford, Elizabeth Crawford, Marguerite and H. A. Boyd, Harriet Young, Maude, Lillian Rose, Marguriel and William Smithson, Helen Works, Julian Work, Wina Mayberry, Elmira Balentine, Novela Bass., Marie Crawley, Helen Crawley, Lucile Lowe, Crawley, Eddie Lee Thompson, Vera Thompson, Mrs. Roy Winston, Miss Minnie Winston.
+Little Salene received many beautiful gifts. A number of friends out of the city sent beautiful tokens.
+
+## ENTERTAINS UESTS
+
+Mrs. Lucille Hellum entertained very delightfully a few o'f her friends last Thursday evening, Nov. 28, at her home on 10th Ave. S. Her guests were: Mrs. G. B. Taylor and sons, G. B. Jr., and John Hamilton, Mrs. Joe Robertson, Pres. of B. Y. P. U., Miss Sarah Stockell, of A. and I. State Normal, Rev. H. Johnson of Loulsville, Ky, who is the guest of Mrs. Hellum's sister, Mrs. Albert Gore, Mrs. Susie Hall. Miss Gladys Jones, Mrs. Hellum was assisted in receiving by her mother, Mrs. Martha Price and sister, Mrs. B o janes. An elaborate ten course dinner was served, after which the guests enjoyed victrola music.
+
+Sergt. Edward J. Pitts, formerly of this city but now with the 64th Pioneer Infantry, Camp Zachary, Taylor, Ky, has written ht TeNashville Globe, sending his best regards to the folks back home and saying they are hopping, even though peace was declared, that the same spirit would permeate the camps as heretofore with regard to efficiency in soldier life. He is a constant reader of the Globe.
+
+## AN "UNCONDITIONAL SUR-
+RENDER".
+
+"The utter submission and stripping of the Hun." "A surrender unexamined in the history of the world." "If ever in the world's history there was an Unconditional Surrender, it is this of Germany"—these are some typical expressions of the reaction of the country's editors to the terms of the armistice that ended the Great War. The New York Herald, since the early days of the war most bitterly insistent on German defeat, exults that "German militarism is not only defeated, but crushed; not only prone, but bound hand and foot. Did ever another truculent militarism meet such a debacle?" The New York Evening Post, whose attitude has been characterized by that coolness which much ratiocination is supposed to bring to the emotions, is equally enthusiastic. Says The Post: "To have lived to see this day fill up the measure of happiness of uncounted millions. They are very adequate. The armistice was admirable by the best military minds of the United States, Great Britian, and France," in the opinion of a famous international lawyer, and the New York Journal of Commerce declares that the conscience "means that for years the German states will be unable to think in terms of armed force
+
+Of Louisville, Ky., editor of the Union-Review member of the Unin-
+corporated Convention, a Peace Com-missioner.
+
+against any of the Powers associated by mortify the pride of the German
+against them." people it is called because all誓守
+
+According to the Washington Post's summary of the revised terms, Germany has been forced to agree to (1) the immediate evacuation of all invaded countries. (2) the imprisonment of all German troops not so withdrawn. (3) the repatriation, within two weeks, of all citizens of Allied or associated countries imprisoned in Germany. (4) The surrender of 5,000 guns, 25,000 machine guns, 3,000 Minenwerth, and 1,700 airplanes. (5) The occupation by Allied troops of the German lands on the left bank of the Rhine, with frequent bridgeheads, making the further invasion of Germany comparatively easy. (6) The support of the Allied army of occupation to be at the coast of Germany. (7) All poisoned wells and mines in evacuated territory are to be revealed, and no damage shall be done by the surrender of 5,000 locomotives, 150,000 cars and 5,000 motor-cars. (9) Surrender of all German submarines (including submarine cruisers and all mine-laying submarines) now existing, with their complete armament. (10) Repatriation of all war prisoners in Germany without reciprocity. (11) All German troops to withdraw within German frontiers. (12) German troops immediately to cease all requisitions. (13) All stolen money must be restored. (14) Treaties of Bucharest and Brest-Litovsk abandoned. (15) Unconditional capitulation of German forces in East Africa. (16) Reparation for damage done in invaded countries. (17) Location of all German ships revealed. (18) Six German battle-cruisers, ten battle-cruisers, eight light cruisers, and fifty destroyers of the latest type are to bearmed and interned in neutral ports. All other surface war-ships are to be concentrated in German ports, completely disarmed, and placed under Allied supervision. (19) All naval aircraft must be concentrated. (20) Associated Powers have access to Baltic Sea. (21) Associated Powers occupy German shore defenses. (22) Blockade of Germany continues. (23) Germany evacuates Black Sea ports. (24) Germany must locate all marine mine-fields. (25) All neutral merchant vessels must be released. (26) All merchant vessels of associated Powers must be restored without reciprocity. (27) No transfer of German merchant shipping. (28) All restrictions on neutral commerce withdrawn by Germany. (29) Armistice runs thirty days, with option to extend. (30) Armistice may be denounced on forty-eight hours' notice.
+
+REV. M. E. ROBINSON, D. D., Of Beaumont, Tex., President of the Third Convention of Texas, a member of the Peace Commission from the Unincorporated National Baptist Convention.
+
+"Eminently satisfactory," the New York Evening Sun calls these terms, and discusses them in their practical application.
+
+"They safeguard the interests of the Allies and the United States; they are sternly severe to the culprit nation which has deluged the world in blood; withal, they are humane, since they promise sustenance to the beaten people; they impose no permanent subjection upon them; on the contrary, they open the way for reorganization of the German body politic upon a civilized basis.
+
+"Despite their severity, it is impossible to regard the stipulations as crushing or cruel. They are strictly military in character and leave all adjustments of civil questions to the future. They are not deliberately humiliating; their obvious motive is military precaution, and if they deep-
+
+ly mortify the pride of the German people, it is solely because all penalty is destructive of self-respect in that it involves the establishment of guilt.
+
+"The disgrace to Germany lies wholly in the offense which has deserved such a visitation of wrath at the hands of God and man. It can not be said that the terms are easy; and still we consider the proposals that the Kaiser's Government would have made to the opposed Powers had Germany been victorious, if we consider the programs of insult and spoilation so often exploited by German publicists in books, in speeches, and in the daily press, we are forced to think that Germany is getting off with the punishment or than she had any right to exploit the terms are far from being the maximum that might have been imposed had the Allies had any schemes of aggrandizement in their minds.
+
+"It must be remembered that this present array of conditions is not a final peace program. It merely covers a suspension of hostilities for the negotiation of peace. But, in fact, on the one, hand, it places the military situation so completely in the hands of America and the Allies that they will be able to dictate any terms to Germany that they elect; on the other hand, it admurbs with tolerable clearness the lengths to which these terms will be pushed. Restitution, restoration, emancipation, safety for the future are the four heads in the Ally program. These, it is clear, all be insisted to form a joint degree, in there the hostile purpose ends. There is no project of subjugation or dismemberment."
+
+The New York Times gives this summary of what Germany will lose with the land that she is now in process of evacuating:
+
+"The territory lying on the western or east Bank of the Rhine within the German Empire to be evacuated by the German troops represents in productivity about twenty-five per cent. of the entire Empire's manufacturing industry, omitting shipbuilding, over seventy per cent. of its mining products, and over ten per cent. of its agriculture. It includes an area of nearly 20,000 square miles, which had before the war a civil population of over 11,000,000.
+
+"The importance of the industrial region of Prussian Province, and even that of the fortifications of Metz and strasburg, is completely discounted by the iron region of the Bassin de Briey, in Lorraine, which, beginning over the Belgian and Luxemburg frontiers, ascends the Moselle to within a few miles of Pont-a-Mousson. This mining region, with an area of 225 square miles, was cut in two by the treaty of Frankfort, which closed the Franco-Prussian War of 1870-71, and was entirely occupied by the Germans in August-December, 1914. On September 13 First American Army in wiping out the St. Mihiel salient reached its southern confines.
+
+"During the war the Bassin de Briey has provided the German armaments with eighty per cent of their steel, and without it, according to the most famous Dusseldorf ironmasters, the Empire could not have conducted the war for three months.
+
+"When the war began France was obtaining yearly from the Bassin de Briey 15,000,000 tons of iron out of her total productivity of 22,000,000. Of Germany's total of 28,000,000 tons of Germany's total of 28,000,000 tons of Bassin de Briey, the war began Germany has mined the French area together with the Luxembourg area (6,000,000 tons annually), giving her a total of 42,000,000 tons, to be added to only 7,000,000 tons, which she has obtained outside the Bassin.
+
+"Aside from the mineral products of the now recovered provinces, which include annually 3,795,932 tons of coal, also gypsum and limestone, the cotton manufacture of the most important in Germany; also the yield of wheat, rye, barley, potatoes, oats, and hay (respectively 300,000, 93,000, 109,000, 1,266,000, 210,000, and 1,138,000 metric tons a year) was great. The vineyards in 1917, with a cultivation of 62,122 acres yielded 2,672,318 gallons of wine."
+
+## FLAT ROCK
+
+The Hyacinth Literary Art Circle of Flat Rock, met at the home of Miss Mattie L. King, Nov. 26, 1918. The president presided in the usual form. Each member responded with dues and quotation. Miss Jennifer B. Hill was a very welcome guest. Master Herbert McDonald made a brief talk. One hour was spent in needle work. The meeting was over and the teacher had a delicious two course menu. The club adjourned to meet with Miss Mattie B. Peebles, Foster Avenue, Nashville, Tenn., December 10, 1918.
+
+## WINCHESTER
+
+Miss Louise Gillespie and slater, Eugenia, left Thanksgiving for Nashville, where they will enter A. and I State Normal. Miss Lois Billepsie was the assistant teacher at the public high school. Quite a number of young people went to Tullahoma to the base ball game. Among the number were Misses Yolla Nichelte, Caro, Quince Miller, Charlotte Gillespie, Sallie Durrell. Mr. Allen Erwin spent Thanksgiving in Nashville. He reports a fine time. He met some of his friend boys and girls whom he met at Normal. Mrs. James Roberson, the popular lady of Winchester spent Thanksgiving at Tullahoma with friends. Thanksgiving held at the First Baptist Church, Rev. W. S. Vance, pastor, Mrs. W. S. Vance is improving at this writing, Hog killing is raging just like the "flu." Miss Pearl Cunningham is at home for the winter. She is expecting her sister home very soon. Mrs. Vinnie Colyar is able to go out again. Mr. Chrystal Wilhoite and Mr. Willie Rowells of Tullahoma were in the city last week. They were the guests of Miss Nichelte Miller. Mrs. Alice Tugg has moved on 11th Ave. Miss Fannie Mann entertained at dinner, Sunday, Nov. 24th, Misses Anesta Denny Caro and Ouiina Miller and Miss Nora Mosley at the residence of I. and Mrs. Howard Mann. Miss Fannie Mann entertained son was at home on Nov. 24th. W. M. Gray has just returned from the State Convention when convened in Nashville. Miss Samuela Slatter was guest of Mrs. Vinnie Colyar, Sunday, Nov. 24th. Born to Mr. and Mrs. P. J. Petty, a daughter, Nov. 26, 1918. Both mother and daughter are doing nicely. Read the Globe and keep up.
+
+## ROCK CITY
+
+We are glad we can say the Lord is still prospering our church work although our pastor, Rev. Wilson is not able to meet with us but he through the divine favor of the Lord is able to sit at up at home and advise us what to do. The Thanksgiving exercises under the direction of Mrs. Jennings and Miss Eunice Johnson were quite a success. Sunday was communion day at our church. Rev. Sam Wright administered the Lord's Supper at 2 o'clock. He took for a text Psalms 128:18, to read it at night. We were glad to have Rev. Wright with us. Mr. Thomas Jennings has been on the sick list. His many friends will be glad to learn of his speedy recovery. Mrs. Victoria Carter is still on the sick list.
+
+## THANKSGIVING DINNER
+
+THANKSGIVING DINNER
+
+Mr. and Mrs. William Webster were host and hostess of a beautifully planned six o'clock Thanksgiving dinner, given in honor of the following: Misses Freddie and Clara Voorhies, Elnora Brown, Willa M. Joyce, Louvena Steele, Susie Jackson, Messrs John Smith, Luther Venson, Frank Webster, Mr. and Mrs. Palmer Joyce. A six course menu was served which was well carried out with the Thanksgiving spirit. At a late hour Mrs. Webster served the guests to a delicious fruit and ice course. Music and games were the features of the evening. Hunting was enjoyed by the young men in the afternoon. All left expressing themselves as having spent a lovely day.
+
+REV. JOHN F. THOMAS, D. D., Of Chicago, Ill., a member of the Peace Commission representing the Unincorporated Convention.
+
+REV. JOHN F. THOMAS, D. D. Of Chicago, Ill., a member of the Peace Commission representing the Unincorporated Convention.
+
+## GORDONSVILLE
+
+The First Quarterly Conference of the Seward Chapel M. E. Church was held November 30th in business session. The Dr. Chavis, District Supt., was at his post of duty. The conference was well attended with ma-reports. Although the influenza has visited our town, but no deaths, God has blessed the little town. The doctor at his best on Sunday morning. After the Love Feast, conducted by the pastor, Wm. Neal, the superintendent preached a splendid sermon at 8:30 p. m. The superintendent preached another able sermon and administered the Communion to a goodly number. This was said to be one of the best quarterly conferences in the country. Raised at the conference $24.15. Paid the Supt. in full. Dr. J. D. Chavis was well pleased with the way the pastor had handled the charge. The pastor, Wm. Neal, is on to his job. With the assistance of the members and friends he is going to build a new church at Gordonsville. The District Steward, Mrs. A. D. Reasover is one of the best in the district.
+
+## FAYETTEVILLE.
+
+Mr. and Mrs. Hollie Stonebaker entertained Sunday at dinner at their home, 123 Madison Ave., S., for Miss Madge Boddle.
+
+The dining room was lovely with potted plants and covers were laid for six at an artistic table. The guest in addition to Miss Boddle were Mrs. Alonzo Commons, Miss Margurette Thompson, Mr. Harvey Clark and Master Frank Commons.
+
+THE PHYLLIS WHEATLEY CLUB. Every member of the Phyllis Wheatley Club is asked to be present at the meeting this coming Thursday Dec. 12th, at 3 o'clock sharp at the A. M. E. Sunday School Union, Cor. Lea Ave., and 8th Ave., S. Some matters of importance must be looked after. Please every member come you that read this notice tell others.
+
+## AUXILIARY OF THE ST. JOHN
+BAPSTEH CHURCH.
+
+The Woman's Auxiliary meet in regular meeting at the church December 1, 1915. The meeting opened at 3 o'clock with Scripture reading, song and prayer by the chapain, Mother Lucinda McEwen. The meeting was presided over by our president, sister Julia Robertson. Our lesson, the 3rd chapter of St. Matthew, was read discussed for eleven minutes. Our pastor, Rev. W. H. Whittaker, and serveral others were with us and gave us a deal of light on the lesson, and we also had a very delightful visitor in the person of Sister C. Brown of Mt. Nepo Baptist Church We were delighted to have her with us. She made an intelligent and beneficial talk. We are always glad to have visitors and new members.
+
+## ST. JOHN BAPTIST CHURCH
+NOTES.
+
+As the year closes we continue to see a steady increase in our Sunday school and church membership Through the efficiency of our wordly young superintendent, Bro. J. A. Turner, our Sunday school is growing wonderfully and we hope to enter it on new year, with our banner of "The Lord's Prayer" and high praise to God on high. On last Sunday at 1 o'clock, one of our able Lt. centiates ministers, in the person of Rev. Wm. Crawford, spoke for us, and he preached a wonderful sermon from Hebrew 11. Subject, "Faith." At S oclock our pastor, Rev. W. H. Whitaker, filled the rostrum and poured water from Cor 25:11. The Lord's Super" was his theme. Our doors are always open for reception of loyal members.
+
+MR. AND MRS. PAGE AT HOME.
+Mr. and Mrs. Eugene T. Page received on Thanksgiving from 8 to 10:30 p. m., at their home on 14th Ave. N., when about 150 guests availed themselves of the opportunity to welcome Mrs Page as one of Nielly young matrons. Invitations were extended to the younger married element together with a limited number of the unmarried set. A prominent young women were asked to assist in dispensing the hospitalities of the Pace home which has recently been renovated, and each one graciously accepted, among the number being Miss Frances Banks who received the guests in the hall as they entered, Miss Bess Davis and Marlon Hadley who received in the living room where punch was served by Miss Ethel Jordan, who received the guests in the parlor and presented them to Rev. Mr. Brumfield who introduced each one to the members of Mr. and Mrs. Page, Mrs. Sophia Page, Mrs. Luther Headen, Miss Helen Taylor of Fisk and Mrs. Miss Helen Taylor of Fisk and Mrs. in the dining room Messes W. H. McGavock and W. W. Crutcher received the guests while Messrs R. B Hardman, R. L. Mayfield, W. Westman and D. W. Crutcher were serving the refreshment.
+Here a delicious ice course with mints and cake was presented Mr. and Mrs. Page as a bridal present by Messrs McGavock, Hardman, Mayfield, Crutcher and Dr. J. A. Napier. A color scheme of yellow and white was carried out in the refreshments, while yellow chrysanthemum were used as a decoration. These were placed in a large eagle glass vase in the center of the table surrounded by smaller vases of the same flower.
+In the parlor large yellow chrysanthemum were placed in vases on the mantle and pane, these having been sent by friends.
+The ladies of the receiving party and those who assisted in receiving were very handsomely groomed. Mrs Page's dress was of blue crepe de chine trimmed with geogrette and crystal tassels, with which she wore a corsage bouquet of pink carnations
+
+## LOCALS
+
+Word has been received from Carl Cage by his parents, Mr. and Mrs. Geo. Cage that he arrived safely in France. Since the war has closed his relatives and friends are anxiously awaiting his return.
+
+Mr. W. H. Foster of Louisville, Ky., was a visitor in the Globe office this week. Mr. Foster is connected with the Louisville News. He was in the city visiting his mother, Mrs L. M. C. Murray, 710, 7th Ave., N.
+
+## SERVERS FROM FRANCE
+
+LETTERS FROM FRANCE.
+Bugler Rufus Buford of Co. J., whose house is 1413 Sevoy street of this city writes an interesting letter to his mother, Mrs. Gabe Dodson of Columbia, John, Mr. Buford, although he owns Mr. Buford, although he his home for a number of years. Beside a wife and daughter here, he has a grand father, Mr. Rufus Pillor.
+Bugler Buford is enjoying his trip to France and sends love to his many friends here.
+
+PROF J. Q. MARSHALL "SOME WHERE IN FRANCE."
+Mrs. Q. Marshall has just receive a letter from her husband, Prof. J. Q. Marshall, who is in France.
+Prof. Marshall has been on the firing line since June, but his many friends are glad to know that he has not been injured.
+
+Mrs. J. Q. Marshall has just received a letter from her husband, Prof.
+
+## PRIVATE BERNARD E. VANCE IN FRANCE
+
+Private Vance of Fayetteville, writes a very interesting letter to home folks. His letter states that he had a very narrow escape from death, but is doing nicely now. His many friends will be glad to have him home again. Private Vance is a very popular young man in his home town and numbers his friends by his acquaint-
+
+## NEGRO PUBLIC LIBRARY
+
+NEGRO PUBLIC LIBRARY
+The story Teller's Library, a new feature of the Library, had its first meeting in November. Mrs. Katherine Wright, the local expert Uncle Remus story teller spoke or story telling. There were representatives from public schools and Sunday tools and others interested in story telling. The League is to meet bi-monthly. The next meeting to be in January. The program is as follows: Negro Stories, Stories of interest to children about the personnel of Africa, Stories of value to children during the 200 years of slavery, Stories of value to children of Negro heroes and heroines the last fifty years. January is the month special stress is put on Negro Literature.
+
+The Dramatic Club gave a Pilgrim
+
+# WAR HISTORY
+
+BY KELLY MILLER
+
+Tells all about the war; it is fair to
+colored people; everyone buys a; tremendous seller. COLORED MAN NO
+SLACKER, free, or choice of other 250
+pictures; agents make $7 to $23 per day. Send $25 quick for agent's complete outfit.
+
+AUSTIN JENKINS CO.
+$29 8th St., Washington, D. C.
+
+## AUSTIN JENKINS CO.,
+529 9th St., Washington, D. C.
+
+play at the Library and repeated same for the south Nashville story hour. The Dramatic Club is preparing to give a Jmas play of the Shepherds and Wisemen. Those participating in the Pilgrim Play were: Cleo Overby, Annie May Moore, Carrie May Dixon, Married Berry, May May Dixon, Susie Thurman, Price Erwin, Eugene Price, S. N. Franklin. For Christmas material consult the Library.
+
+## A MESSAGE FROM THE DEPARTMENT OF LABOR.
+
+## By George E. Haynes.
+
+BY GEORGE E. HAYNES
+
+The editor of the Nashville Globe has asked me to send a message on the Department of Labor work with Negro Wage earners for publication in his budgetic number. It is a force to embrace this opportunity to mention some of the things the Department has undertaken in the interest of Negro Wage earners during the past months of the war now drawing to a victorious end. One of the earliest questions the war presented was the large migration of Negro workers from the South. The department has had a thorough investigation made of the causes and problems of this migration. The report is now in the press and will be published in book form of about 200 pages. It deals in a frank, unbiased way with the facts: it makes constructive suggestions and should be a substantial help in securing justice in race relations. Copies will be available for free distribution.
+
+A number of requests have come to my office in Washington for more publicity about what we have been doing on the past or eight months. From the past such publicity can be given. It has not been practical here, first because there was so much to do in interests of Negro wage earners and of winning the war that all energies of employees were largely absorbed with other work. In the second place it seemed best to wait until there were substantial results achieved lest there should be too much sold in comparison with what had been done.
+
+The first task was to create the machinery through which the Department could get the co-operative help of representatives of Negro wage earners, white employers and wherever the national standards and policies of the Department to local problems. The Secretary of Labor adopted the principle that the Negro workers rightfully should have representation in councils where the employees were to be considered. In line with this principle and that of co-operation of white employers and white workmen state conferences of representatives of Negro wage earners, white employers, and wherever possible, of white workmen have been held in Virginia, North Carolina, Florida, Mississippi, Kentucky, Illinois, Ohio and New Jersey. Others will be held soon in Michigan, Missouri, Louisiana and South Carolina. At these conferences open discussions of plans and problems have taken place. Following the conferences Negro Workers' Advisory Committees have been formed for the state as a whole, and as rapidly as possible for each county and city. At the present time we are forming local committees in Pennsylvania and Tennessee as the first steps toward statewide work, since the cessation of the war has lessened the need of help. These committees have official relations with State and County Councils of Defense, United States Employment Service, Community Labor Boards, Commercial Clubs and other agencies interested. They are not meant to replace existing organizations and agencies but to be the means of linking the Department of Labor's program as it relates to Negro Wage earners to all the local forces for industrial and agricultural improvement.
+
+In nine states the Department has appointed competent colored men as Supervisors of Negro Economics who have promoted the program in their respective states under the advice of the Director of Negro Economics as the advisor to the Secretary of Labor. The work of these advisory committees and supervisors has varied with the different problems which have arisen in different states, some places they have dealt successively and the effort to apply "worker rights" legislation to colored women; in others they have helped to settle friction between white and colored workmen; in others they have helped the Employment Service and employers secure competent Negro workers. Especially have they been active in Ohio in introducing colored women in industrial plants under favorable conditions. Hundreds of local meetings, some of them having thousands in the audience, have been held to account the local people of the nation's labor force. Many of these meetings white and colored citizens have attended and the speakers have been white and colored. The office of the Secretary at Washington has been the center from which all these various activities have been directed in eleven states. This work has required taxing effort from many employees and the assistance of many private citizens, white and colored. The writer, as Director of Negro
+
+In nine states the Department has appointed competent colored men as Supervisors of Negro Economics who have promoted the program in their respective states under the advice of the Director of Negro Economics as the advisor to the Secretary of Labor.
+
+(Continued on Page 5.)
