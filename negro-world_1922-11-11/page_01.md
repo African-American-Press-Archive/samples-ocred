@@ -1,0 +1,56 @@
+# IN THE NORMALCY OF THE WORLD COMES THE DOOM OF THE NEGRO
+
+IN THE NORTH COMES THIS
+
+FELLOW MEN OF THE NEGRO RACE, Greeting:
+
+About eight years ago the peace of the world was rudely disturbed by the cry of war in Europe. The bloody conflict which was the outcome stirred the entire human race to a high pitch of military excitement. Men, races and nations everywhere were called upon to play their part in the terrible clash of arms. Everything during the period was subordinated to the prosecution of the unholy holocaust. The entire industrial system of the world was disarranged and disorganized. An overcrowded labor market suddenly relieved itself by the opening of hundreds of thousands of war-time industries, mills, factories and other plants which were compelled to call into active service millions of idle men and women who were thrown off during the time of peace by the industrial magnates.
+
+In the clamor for men and women to fill the vacant places in the industrial world millions of black men and women were called into service. They who were not wanted before were welcomed everywhere. Under normal conditions they had a set place in the industrial and economic life of the nations. It was so arranged that no Negro could have a responsible office, no Negro could find lucrative employment anywhere in big mills, factories or plants. He was to be but a serf in the lower walks, and in the higher sphere he was to be an outcast. Because of this attitude millions of us prior to the breaking out of hostilities in 1914 were thrown into a condition of pauperism, suggestive of very little hope for the future.
+
+The plan for the great white race was to gradually close the Negro out of those avenues of progress and economic security, thereby forcing him to starvation and ultimate death. This plan was universal in North America, and but for the war, the nine years following 1913, would have seen a condition of suffering among Negroes, even comparable with the famines of India.
+
+## THE EFFECT OF THE WORLD WAR
+
+But, as Providence would have it, the war came and changed the aspect of things. The people who were doomed to starvation and death were suddenly ushered into an era of prosperity. Black men who never had a square meal for days were suddenly placed in positions of opulence. These new opportunities lasted for fully four years, during which period of time the entire race ran riot over a golden chance. Very little was saved if anything at all by the millions. Whilst other races carefully laid by during this period of prosperity for the rainy days, the Negro indulged in a continuous career of waste. In many of the large American cities on any one day you could see the Negro parading
+
+"THE FOOTBALL CLASSIC OF THE YEAR
+WASHINGTON, D. C., THANKS
+ADMISSION: Box Seats, $2.00 each; Grand Stand
+by Post Office Money Order
+
+NEW YORK, SATURDAY, NOVEMBER 11, 1922
+
+# THE NEGRO'S PLACE IN THE ECONOMIC ADJUSTMENT OF THE NATIONS
+
+## THE NEGRO'S PLACE IN THE ECONOMIC ADJUSTMENT OF THE NATIONS
+
+THE RACE THAT WILL BE STARVED TO DEATH
+
+## THE RACE THAT WILL BE STARVED TO DEATH
+
+THE RIOT OF WASTE THAT DOOMS THE RACE
+
+his fortune on the side walks, either in diamond pins, rings, expensive trinkets or fine clothes. What was not spent this way was riotously spent in the saloons, cabarets, dance halls and on the gambling table.
+
+Outside of the Universal Negro Improvement Association no one took any thought of the morrow. The leaders of the race were as drunk as the unthinking mob. Headlong everybody went. The leaders of the community and of the nation indulged in the highest living possible. New automobiles were bought, new pleasure and excursion trips were undertaken at long distances, and in one long procession everyone marched as spendthrifts through the avenue of national waste.
+
+## THE WORLD RETURNING TO NORMALCY
+
+What has happened? We now find the world returning to normal, each community taking on its pre-war adjustment. As men planned before to starve the Negro by closing him out of profitable industries, so is he to be kept out and pushed back today to make room for the strong race that is planning to survive. Undoubtedly we live in the age of the survival of the fittest, when only those who are sufficiently prepared will survive the rigors of a soulless civilization. The Negro unfortunately has made no step in advance. He has laid himself down upon the altar of public sympathy and charity, and now everyone knows that the world is void of these two ancient virtues. Man no longer thinks in terms sympathetic of his brother, this is the time when each must do for himself or die.
+
+Realizing the seriousness of things, the Universal Negro Improvement Association has for the entire period of the war, up to the present, been fighting to arouse the sleeping consciousness of the millions of Negroes everywhere to their own future, but unfortunately to a large extent, the seed of hope has fallen on barren ground. Not only in one section of the world, but universally, the Negro has refused to hearken to the voice in the wilderness crying out, "Black men, prepare, prepare, prepare." Can we not ask, can we not realize that without action on our own account, we are doomed forever? Can we not realize that the normalcy of world industrialism means the doom of the
+
+Negro? From chattel slaves we have grown to become mental slaves, and as the great white race plans for our doom and destruction, so headlong do we follow not even having enough vision to know that through them and by them the Negro shall never see salvation.
+
+## THE NEGRO IN NEED OF WISE LEADERSHIP
+
+All other peoples are struggling to blast a way through the industrial monopoly of races and nations, but the Negro has failed to grasp its true significance, and seems to delight himself in filling only that place that is created for him by the superior man.
+
+Now more than ever we are in need of leadership, and now more than ever our leadership seems to be visionless and dead. Instead of co-operating for the common good, we find the individual leaders of the race fighting each other, planning each other's destruction, hoping that the one might not succeed in his particular effort in directing the race toward destiny.
+
+No other race at this time is as hopelessly unprepared as the Negro. Let it be Irish, Jew or Egyptian, each and everyone in his own sphere is making an effort to find a place in the rearrangement of modern civilization. The Negro sleeps on, hoping still that chance will come his way and save him from perdition. But, chance has never yet satisfied the hope of a suffering people; action, self-reliance, the vision of self and the future have been the only means by which the oppressed have seen and realized the light of their own freedom.
+
+## THE WORLD-WIDE CAMPAIGN OF THE U.N.I.A.
+
+I deem it my duty to again ask the support of Negroes everywhere in assisting the Universal Negro Improvement Association in its world-wide campaign of race adjustment. We want all the people to come together as never before, to stand united for our industrial, commercial social, educational, religious and political advancement. This can be done if every man and woman will make a determination to do or die. Co-operation is necessary for the successful promotion of the ideals of human liberty. This co-operation the Universal Negro Improvement Association seeks. You can help the great cause morally and financially by advocating its principles everywhere, and by sending in a donation to its headquarters, 56 West 135th Street, New York City, N. Y., U. S. A. Whatsoever help you can give, let it be $1, $2, $5, $10, $20, $30, $50 give it now so that the great work can be continued for the redemption of the race.
