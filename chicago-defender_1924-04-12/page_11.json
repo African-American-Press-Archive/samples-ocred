@@ -1,0 +1,1228 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1836,
+  "height": 2374,
+  "regions": [
+    {
+      "bbox": [
+        72,
+        104,
+        493,
+        142
+      ],
+      "label": "doc_title",
+      "text": "LATE STATE NEWS"
+    },
+    {
+      "bbox": [
+        68,
+        187,
+        280,
+        579
+      ],
+      "label": "text",
+      "text": "Miss. Bessie Springs of Charlotte, N.C., is the co-guide of Dr. and Mrs. W. Elm Stok, N.C., in the public schools at Wilson, N.C. in the public schools at Wilson, N.C. in the week-end in the city with her parents in the public schools. Mrs. W. Elm Stok is a sister of Mrs. W. Elm Stok is a si"
+    },
+    {
+      "bbox": [
+        123,
+        583,
+        228,
+        592
+      ],
+      "label": "paragraph_title",
+      "text": "GASTONIA N.C."
+    },
+    {
+      "bbox": [
+        67,
+        589,
+        278,
+        960
+      ],
+      "label": "text",
+      "text": "The Highland high school baseball team won its first game from Bessemer, score was 8 to 6 in favor of the Highland. The second game was at Jacksonville, Fla., are in the city visiting their sick mother, Mrs. Winniford L. Adams is improving. James Hoff- Co. returned last week on account of a broken rib. Adelaide is in the city visiting relatives. A fire on Union square last week caused damage to the store. J. Harris returned home last week to work. Jacksonville, Fla.,"
+    },
+    {
+      "bbox": [
+        127,
+        965,
+        219,
+        975
+      ],
+      "label": "paragraph_title",
+      "text": "DURHAM. N. G."
+    },
+    {
+      "bbox": [
+        65,
+        971,
+        276,
+        1323
+      ],
+      "label": "text",
+      "text": "The committee on general education has opened two classes at the W. K. School in the W. K. procedure. The weekly attendance averages are 80%. The class in plain swinging has not been as well attended, but the previews are quite pretty and dresses when the course closes. Mrs. Eva Anthony 18th grade teacher of the committee on education is very carefully planning a Bible institute, which will coach the Sunday school from every Sunday school will alliance expressed approval of and an annual program on March 25 consisted of a song service, attempting to become a musician. The Friendship club, with Mrs. K. interpretation of the g. K. code as the vesper hour on March 20. The memorial work, averaging over 20 new members per month this year, Mrs. Cotta Moore the memorial has been planned, Mrs. M. F. the program, which will consist of one five-minute talk, music and games, will arrange the refreshments for the social, Mrs. Nell Hunter and chorus for the benefit of the W. Y. C. A."
+    },
+    {
+      "bbox": [
+        117,
+        1324,
+        226,
+        1333
+      ],
+      "label": "paragraph_title",
+      "text": "ASHEVILLE N.C."
+    },
+    {
+      "bbox": [
+        63,
+        1333,
+        276,
+        1832
+      ],
+      "label": "text",
+      "text": "On March 27 the Misses Leona McCarthy and her honor of Miss Suea Houre's birthday at her home, 18 Butterwick Young, Gertrude Michael, Annie Joe Young, Werner Dotty, William W. Hillman William Thompson, Jr. are recruited to attend the meetings of the Young People's society of Calvary Presbyterian church. Master C. G. Lipscomb 2 oakclock. Master G. C. Lipscomb 2 oakclock. M"
+    },
+    {
+      "bbox": [
+        138,
+        1840,
+        204,
+        1851
+      ],
+      "label": "paragraph_title",
+      "text": "CANADA"
+    },
+    {
+      "bbox": [
+        62,
+        1853,
+        274,
+        2305
+      ],
+      "label": "text",
+      "text": "EDMONTON ALBERTA, CANADA\nof Ennoud African Methodist Episcopal\nchurch, 1955& 88 st. R., or phone\nschool class lost both banners Sunday\nschool class lost both banners Sunday\nmeet given by the choir and the lantern\nslide lecture of the Rev. Mr. Sia-\nkhouli Methodist church was a success. Mrs.\nSiakhouli, the choir's pastor, gave\ndunk of Junkin's attentive in Edmonton\nSunday evening, en route to St. Louis,\nticket to the tret and other relatives. She was\nattended by her daughter, Lovella, came\nhusband, who returned Monday to his\nemployment with the C. N. railway,\nticket to the tret and his daughter, Lovella, c"
+    },
+    {
+      "bbox": [
+        283,
+        160,
+        494,
+        272
+      ],
+      "label": "text",
+      "text": "ated in the women and men attendance next four Sundays. Last Sunday the women had 50 at the services on time Mrs. Mills have returned to Junkins, Mrs. Mills have returned to Junkins, Roy Wins and children have moved to Drumbreller to live with a brother-in-law to Chicago. Miss Ethel Toles leaves to Chicago. Miss S. A. on a business and visitation tour."
+    },
+    {
+      "bbox": [
+        284,
+        271,
+        494,
+        493
+      ],
+      "label": "text",
+      "text": "Mr. Reed, homesteader of Stock was chairman of the lumbus Bowen and daughter, Miss Lovetta, returned to Paixon Friday morning in the city for several days on busiest day of winter in British Columbia, is expected back soon. Mrs. Ettel Tolles who has been running a laundry, is also expected year, running a laundry, is also expected home. The Rev. J. S. Strong of Calgary conducted the prayer services The Rev. The Rev. Mr. Strong is thinking of tak visit to his old home in St. Paul Minn. Mrs. Fred Warf of Calgary has been \"The Ladies\" Old Meeting, was a great success, and raises rally to his audience last Sunday. For the next four Sundays sermons morning and night."
+    },
+    {
+      "bbox": [
+        312,
+        501,
+        463,
+        510
+      ],
+      "label": "paragraph_title",
+      "text": "AMHERST, NOVA SCOTIA"
+    },
+    {
+      "bbox": [
+        283,
+        511,
+        492,
+        689
+      ],
+      "label": "text",
+      "text": "The Rev. Charles England has resigned and is very much improved. The hospital and its very good service. The service club service Silver Spray club held a social Friday, March 26. Mass friends at a birthday party March 13. Mass friends at a birthday party March 13. Mass friends are being spared a few days in town when the choir is now prelicensing Easter music. Ms. Gregor Martin played at a vowen time. John Morse, who has been ill with HIV, Mr. F. Tolliver has moved into her Martin, who has been ill for the past two years, better and plans to return to work soon."
+    },
+    {
+      "bbox": [
+        337,
+        696,
+        436,
+        707
+      ],
+      "label": "paragraph_title",
+      "text": "HALIFAX, N. S."
+    },
+    {
+      "bbox": [
+        282,
+        707,
+        491,
+        938
+      ],
+      "label": "text",
+      "text": "John Davidson of Amherst, N. S., is the skinner of Amherst, N. S., has arrived in the city and is the guest Mrs. J. B. Thomas, Water St., passed away in Thomas, Water St., passed away in Isaul. Cornwall St., passed away after a long illness there was held in Cornwall St. and in Jessica Johnson. I407 Gettengen St. March 31. She leaves a friend, J. S. friends. She leaves this week for the work now in the States. The Rev. C. M. Morran, pastor of the Zion A. M. L. church on business on business. The Rev. Mr. Kenneth The Rev. C. England, Amherst, N. S., recovers from Zion recent illness. Their work continues in Zion church Sunday evening. April 6. & b. Amherst former pastor of the church. Mrs. recovered from her serious illness."
+    },
+    {
+      "bbox": [
+        280,
+        935,
+        491,
+        1311
+      ],
+      "label": "text",
+      "text": "Rev. Wilfred Davidson of Yarmouth, M. S., has visited Bessie Davison left for Boston to visit relatives. Mrs. Prescott Hamilton M. S., Mrs. E. Cruzen of Sydeny, N. S., Mrs. Clements, North St. is our again after visiting Brown St. and Brown Creek. Brown St. is, improving slowly after a serious illness. Mrs. Clements, North St. is our again after visiting Mrs. M. Falmann of Moncton, N. B., England of Amherst, N. S. is improving. Miss Hazel Park has returned to pleasant visit in the city. Mr. Barbaz running from Boston to Hullston, N. S., quizzes Brown James St. has returned home after a month's visit spent in Mrs. N. S., T. Martin, Mrs. D. I. Jones, confined in the house with illness. Mr. James Clark Maynard St. met with Mrs. N. S., with the result that he had arrived at the Paris of Windsor, N. S. is a visitor of the Truro church, is also a visitor in the city. Deacon Allison of the church, George Richardson is somewhat improved. Diane are seen with the revival meetings that are being church. George Richardson is somew"
+    },
+    {
+      "bbox": [
+        346,
+        1319,
+        430,
+        1330
+      ],
+      "label": "paragraph_title",
+      "text": "LOUISIANA"
+    },
+    {
+      "bbox": [
+        280,
+        1345,
+        490,
+        1524
+      ],
+      "label": "text",
+      "text": "Mrs. Albera Price, formerly of Chichester for her birth, Mrs. Lea Anderson, formerly of her birth, completing her building here at 2173 Albion St. Trof. of J. C. Martin. Mrs. Andersen, completing her building here at 1813 Albion St. Trof. of J. C. Martin. I. Anderson. He is en route to Mrs. A. D. Parker, entertaining a very few friends in attendance. Mrs. A. D. Parker to have them meet Mrs. Paul. Parker of Chichester-in-law. The table was exquisite and American beauty rose. Among them Mrs. Louise Darlons, Mrs. Louis Johnson, Mrs. J. F. Goddes, Mrs. H. Clewson, Mrs. Louise Darlons, Mrs. Louis Johnson,"
+    },
+    {
+      "bbox": [
+        337,
+        1532,
+        435,
+        1541
+      ],
+      "label": "paragraph_title",
+      "text": "FULLERTON LA."
+    },
+    {
+      "bbox": [
+        280,
+        1541,
+        488,
+        1696
+      ],
+      "label": "text",
+      "text": "The fifth Sunday of March marked the closing out of a two weeks camp, and the Holy Leaf Baptist church, George Gardner left for Chicago, where he will spend the remainder of Deridder the guests of Mrs. Minnie Lone here Sunday. I the Karye Bonner, son of Robert Karye, of this city, Mrs. Fannie Owen left Wednesday for Madrid, Mrs. Zella Jackson has returned from Monroe, Miss. John Lewis has been very ill for more than five weeks, but he is spending the rest of his book list."
+    },
+    {
+      "bbox": [
+        329,
+        1702,
+        445,
+        1712
+      ],
+      "label": "paragraph_title",
+      "text": "MORGAN CITY, LA."
+    },
+    {
+      "bbox": [
+        277,
+        1712,
+        487,
+        2306
+      ],
+      "label": "text",
+      "text": "The following persons participated in the 8th birthday celebration of Joshua presiding elder of the A. M. E. church Messrs. Henry Barranco of Baton Rouge, F. M. Tucker, D. R. Johnson, William Williams, Dick Ehrhard, E. Mack, Jack Williams, Dick Ehrhard, E. Mack, Jack Williams, Walter Wright and William Evans. Several selections were rendered by Mrs. E. Mack, F. M. Tucker and D. F. Roberts. A large check from the O. E. S. No. 7 and St. John's lodge on Smith, Jr. and St. John's lodge on Smith, Jr. and P. Precilla Peterson were converted into the eastern Star of Greenwoods and of Mount Wiliam Baptist church. She leaves to mourn her loss her husband of most other relatives. She was a faithful member of the eastern Star of Greenwoods and of Mount Wiliam Baptist church are engulfing the building in the rear. The following Berry, Robert Mossiah, Mrs. Gertrude Donleie Jones was bitten by a snake two Mrs. Murray J. McDouell of New Orleans and Martina Vole of Plougamme and Mrs. Julia Campbell, who is very ill.\n\nJOURNAL GIVES WILLIAMS BERTH ON ALL COUNTY 5\nLawrence Williams, star, baseball, track, football and basketball man at the stained in the limb when he was given a horn on the second team of the ketchup quintet. The Journal picked with Watson of Lane, who was recently given a All-Suburban football team, has played the first team by Plummer of Waukee, who is said to be invincible on the ball out of the danger zone save him has the distinction of being the only team our group to get a place team."
+    },
+    {
+      "bbox": [
+        501,
+        104,
+        706,
+        167
+      ],
+      "label": "doc_title",
+      "text": "\"HOME-SEEKERS\" FORM\nLOAN SOCIETY IN CALIFORNIA"
+    },
+    {
+      "bbox": [
+        497,
+        176,
+        708,
+        719
+      ],
+      "label": "text",
+      "text": "BY WENDELL P. GLADDEN, JR.\nLos Angeles, Cal., April 11\u2014Meeting in the general financial growth of the city, and thus entering a new role in the organization, the Loan association, with an authorized capital of $100,000, opened at 11:30 a.m. Following is the object of the concern as contained in its booklet: \"To serve the best interests of its members, and to provide a practical plan of saving; to promote home ownership; to furnish a profitable stable and quickly convertible nausea.\"\n\nSome of the plans of savings offices, membership shares, which participate in the earnings of the organization. The members. Under this plan the investor makes 9 per cent on his savings, and 15 per cent on his per cent are issued, each unit representing $100 or any multiple therefor. The control of the organization \"plan, which earns 5 per cent per annum on lowest monthly balance.\"\n\nThe Liberty Building Loan association is chartered by the state of California, inspected, verified and the control of the state, and its officers are bonded.\n\nFollowing is the list of officers and directors of the president, physician and surgeon; C. S. Blodgeg, first vice president; C. S. Blodgeg, first vice president; Grant, second vice president, real estate; A. Hartley Jones, secretary; Eugene C. Nelson, M. D., physician; Houston, sales manager, insurance; Frank A. Harvey, excavating and gravel contractor; and Frank A. Harvey, opening the day were the giving of souvenirs to depositors, their names emblazoned on the charter members, and an agreement to save at least $5 a month."
+    },
+    {
+      "bbox": [
+        500,
+        726,
+        668,
+        737
+      ],
+      "label": "paragraph_title",
+      "text": "NORTHWESTERN FETES 200"
+    },
+    {
+      "bbox": [
+        497,
+        742,
+        705,
+        900
+      ],
+      "label": "text",
+      "text": "Two hundred athletes, four of whom were persons of Color, attended the banquet held at the gymnastics facility. The affair, given by the alumun and athletic officials of the city, and surburbs who have made remarkable perseverance, among those to be present were Olde Scoten, flash hash of Holly Park; Wilkinson, track star of Providence; Lane track squad; McColough, track star of Providence, and George Goleman, member of Northwestern university. Mr. Booort was as one of the hosts."
+    },
+    {
+      "bbox": [
+        496,
+        1064,
+        704,
+        1111
+      ],
+      "label": "text",
+      "text": "*Dryn batson for Haven in seventh.*\n*Bryan Jones for Haven in eighth.*\n*Jones for Washington, Johnson for Jones.*\n*Hl by batson\u2014Three. Base on balls\u2014Four.*\n*Base on balls\u2014Three. Amplier (Morrow).*\n*Base on balls. amplier (Morrow).*\n*Base on balls. amplier (Morrow).*"
+    },
+    {
+      "bbox": [
+        526,
+        1125,
+        674,
+        1134
+      ],
+      "label": "paragraph_title",
+      "text": "CODEPLEX DISQUALIFIED"
+    },
+    {
+      "bbox": [
+        495,
+        1137,
+        703,
+        1362
+      ],
+      "label": "text",
+      "text": "Philadelphia, Pa., April 11\u2014Gerome Boxer, weight battler of the Loudon Tom Cowler, the English boxer, weight-battler of the Loudon"
+    },
+    {
+      "bbox": [
+        525,
+        1368,
+        668,
+        1377
+      ],
+      "label": "paragraph_title",
+      "text": "BALL GAME OFF: RAIN"
+    },
+    {
+      "bbox": [
+        495,
+        1378,
+        702,
+        1444
+      ],
+      "label": "text",
+      "text": "New York, April 11\u2014A steady downward trend of all miami temperatures in game and non-game schedules will be carried out this Sunday, providing the weather does not"
+    },
+    {
+      "bbox": [
+        533,
+        1468,
+        666,
+        1481
+      ],
+      "label": "paragraph_title",
+      "text": "LOST RELATIVES"
+    },
+    {
+      "bbox": [
+        550,
+        1495,
+        650,
+        1505
+      ],
+      "label": "paragraph_title",
+      "text": "[ADVERTISEMENTS]"
+    },
+    {
+      "bbox": [
+        490,
+        1510,
+        703,
+        2128
+      ],
+      "label": "text",
+      "text": "MUCHISON FAMILY \u2014 I am trying to trace the names of the parents, name, mother, carl; mother, Tess; mother, name, mother; mother, carl; mothe"
+    },
+    {
+      "bbox": [
+        557,
+        2148,
+        635,
+        2159
+      ],
+      "label": "paragraph_title",
+      "text": "ORITUARY"
+    },
+    {
+      "bbox": [
+        546,
+        2175,
+        651,
+        2185
+      ],
+      "label": "paragraph_title",
+      "text": "[ADVERTISMENTS]"
+    },
+    {
+      "bbox": [
+        490,
+        2189,
+        700,
+        2308
+      ],
+      "label": "text",
+      "text": "James N. Underwood departed this life\nin November 2010. He served 2107 bradstaff. Funeral services were held\nin his honor at St. Thomas Church in\nP.O. Box 5458. He was a loving bedside\ngirl and a devoted father. He was a\nmember of F. and member of the Rancher Co. No. 1,\nF. and member of the Rancher"
+    },
+    {
+      "bbox": [
+        747,
+        112,
+        883,
+        127
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS"
+    },
+    {
+      "bbox": [
+        763,
+        141,
+        867,
+        151
+      ],
+      "label": "paragraph_title",
+      "text": "[ADVERTISEMENTS]"
+    },
+    {
+      "bbox": [
+        710,
+        154,
+        920,
+        495
+      ],
+      "label": "text",
+      "text": "We wish to thank our many friends for their help, our friends of our beloved cousin, Susan Guy, the death of our beloved cousin, Susan Guy, for the coping remarks and prayer, Mrs. William Wood, relatives, Mr. and Mrs. William Wood, relati"
+    },
+    {
+      "bbox": [
+        766,
+        541,
+        867,
+        551
+      ],
+      "label": "paragraph_title",
+      "text": "[ADVERTISEMENTS]"
+    },
+    {
+      "bbox": [
+        709,
+        556,
+        918,
+        744
+      ],
+      "label": "text",
+      "text": "In looting memory of my mother, Mary J. Morris and whose memory will always be cherished by her loving son, Louis A. Morris.\n\nIn looting memory of my dear wife, Jessie J. Morris and whose memory will always be cherished by her loving son, Louis A. Morris.\n\nIn looting memory of my dear wife, Jessie J. Morris and whose memory will always be cherished by her loving son, Louis A. Morris.\n\nEvery memory before a casket is buried, every memory after a casket is carried. Thoughts of her I loved so dear.\n\nIn sad and looting memory of our dear wife and mother, Bonnie J. Harrell, who passed away in 1922, 1922. \"Friendly may we think happy, but in our hearts we are sad. God alone knows what we are going to do.\" We have weeded. When you left us to break in and they can never be missed. We are so proud of them and they will always be cherished by her loving son, Louis A. Morris."
+    },
+    {
+      "bbox": [
+        742,
+        818,
+        886,
+        828
+      ],
+      "label": "paragraph_title",
+      "text": "FURNITURE FOR SALE"
+    },
+    {
+      "bbox": [
+        705,
+        901,
+        920,
+        1210
+      ],
+      "label": "text",
+      "text": "We have received 12 CARLOADS of fur-\nmateur makers of clothing from the largest\nmakers of furniture in Alabama.\nThis includes many such articles as\nBAY, BED, BERNS, MATTRESSES, DEN-\nING ROOM TABLES, etc.\nAll will be sold at least cost to man-\nufacturer. The Price is on Monday, Thursday\nand Saturday until p. 3, M.\n\n\"SIMMONDS\"\n\n2812-44 WENTWORTH AVE.\nPHONE VICTORY $242\n\n4 KOOMS COMPLETE\n$185\n\nONLY $15 CASH REQUIRED\nLIBERAL TERMS TO SUT YOUR\nCONVENIENCE\n\nKESSEL BROS.\n46133 S. STATE ST.\n\nWE SAVE YOU 20 TO 50 PER CENT AND\nCUSTOMER SALARY. G. & B.\n45, 54, 58th AVE. G. & B.\n45, 54, 58th AVE.\n\nCOMBINATION STORE FOR CLEAR SHIP.\nIndiana ave. 14d, 3pt. I, rear. Victor\n748."
+    },
+    {
+      "bbox": [
+        759,
+        1250,
+        868,
+        1260
+      ],
+      "label": "paragraph_title",
+      "text": "MISCELLANEOUS"
+    },
+    {
+      "bbox": [
+        707,
+        1266,
+        916,
+        1365
+      ],
+      "label": "text",
+      "text": "WANTED--FOR CASH\nOLD POSTAGE STAMP COLLECTIONS\nLINCOLN STATE BANK\nA. 1035 STATE STREET, HAIDAGO.\nIDENTIFYING AND FIGHTING ATTACHMENT;\napparent device, its any setting\ndelivered, with instructions and\nsample work required; post attachment Co.,\nCorp. Christian, Texas."
+    },
+    {
+      "bbox": [
+        705,
+        1364,
+        918,
+        1612
+      ],
+      "label": "text",
+      "text": "SOCIAL STATIONERY-YOUR NAME AND ADDRESS IN 200 short of paper and 100 long to 140. Thirty, 200, 210. Jersey City, N.J.\nPLANTS FLOYANT POINT GOODS INCREASES REGISTRATIONS; 20 years. Sample Answer. Washers free. 20 math. Camille, Mlle. McGee. Hand crafted. HAND GOODS $150 each. Price list. N.Y. Goods. Goods Co. $233. Stata. state O. Chicago. HIGH $45 WEEKLY ADDRESSING MAILING INSTRUCTIONS: 100s. Money back if issuing instructions. 100s. Money back if issuing instructions. 100s. Money back if issuing instructions. Ohio. EARN $85 WEEKLY WRITTING FOR POSITION; experience necessary. For free details address WWW Wide Publishing Service, EGYPTIAN MYSTERY POUSTURE CARDS\u2014Tells different chapters of future at entry Agent, Highland FALL, N. Y.\nHAVE STRAIGHT HAIR, NEW REMEDY. MYSTERY POINT OFFICE offer. Craig M. Company, N. I."
+    },
+    {
+      "bbox": [
+        706,
+        1607,
+        915,
+        1628
+      ],
+      "label": "text",
+      "text": "RUMAGE SALE FURNITURE, DESKS\nclothing, at 20th Street age"
+    },
+    {
+      "bbox": [
+        730,
+        1639,
+        893,
+        1649
+      ],
+      "label": "paragraph_title",
+      "text": "AUTOMOBILES FOR SALE"
+    },
+    {
+      "bbox": [
+        705,
+        1654,
+        920,
+        1968
+      ],
+      "label": "text",
+      "text": "PACKARD T-ISSENGER JUST THE THING\ngood paint, and tread, and can be bought for\nyour house. Burger and pizza, and burgers\nNice burgers for all. 123 Burger Bldg.\nHouse Englewood 0013.\n100 POPLISH ALL MODES AND ALL\npaint sets with a written guarantee. Uh-\nblicious. For Sale for events, events and\nholidays. 1400 Michigan Avenue.\nif UNDERTAKERS\nKERSEY, McGO WAN\n& MORSELL\nUndertakers\n3515 Indiana Ave\nOFFICE PHONE DOUGLAS 5223\n\nFOR SALE\u2014MISCELLANEOUS\nALL POPLAR BILANDS OF CIGARS AT\nthe entrance and all interior units to smoke a clear at\nseparately all units to smoke a clear at\nthe difference in our sanitary cigar cla-\nments. See our catalog. Plane line of smokers articles. Kissing\nline of smokers articles. Pershing lined, next ac\nvirease. Virease."
+    },
+    {
+      "bbox": [
+        752,
+        1977,
+        872,
+        1986
+      ],
+      "label": "paragraph_title",
+      "text": "SUMMER RESORTS"
+    },
+    {
+      "bbox": [
+        706,
+        1990,
+        916,
+        2073
+      ],
+      "label": "text",
+      "text": "BEAUTIFUL, IDLEWILD, \"WORLD RENOWN\ndown and $1.00 per week,\" Idlewild health\nGo., 440 down ave., Chicago, IL. Phh\nGa. ba.\nATLANTIC CITY, N. J.\nHotels, boating houses, apartments and\nrestaurants.\n105 N. Indiana Ave., Atlantic City, N. J."
+    },
+    {
+      "bbox": [
+        747,
+        2081,
+        874,
+        2091
+      ],
+      "label": "paragraph_title",
+      "text": "OFFICES FOR RENT"
+    },
+    {
+      "bbox": [
+        707,
+        2105,
+        914,
+        2171
+      ],
+      "label": "text",
+      "text": "PATRIATE OFFICE\nFormal office service.\ncomplete office service, light, phone, information\nelection\n$420 INDIANA AVENUE\n800-420-2000\nPhone: Douglas 2024"
+    },
+    {
+      "bbox": [
+        747,
+        2181,
+        874,
+        2191
+      ],
+      "label": "paragraph_title",
+      "text": "SEWING MACHINES"
+    },
+    {
+      "bbox": [
+        705,
+        2200,
+        915,
+        2309
+      ],
+      "label": "text",
+      "text": "cash or credit. Singer electric portables,\n$25; Singer rabbitables, $25; Singer dropbeds,\n$25; Singer dolls, $25; Singer conditions, with attachments. These machines take the job. About 300 Singer\nenclosures are available at 300 STATE ST. FICTORY 9420\nCHILDREN TO BOARD\nCHILDREN TO BOARD BY DAY OR WEEK\n100 Laundry Acre, Ann 460, Sharpstown,"
+    },
+    {
+      "bbox": [
+        925,
+        117,
+        1133,
+        193
+      ],
+      "label": "text",
+      "text": "15 MEN-BOYS, UP, WANTED LIMELIBED to prepare for U. S. government postal office clerk, income tax examiators; paid to $200 monthly; steady work; short hours; paid $500 per month; directly today for schedule of examinations. Monthly landnote, be kept, N-2, Rosemont, N. J."
+    },
+    {
+      "bbox": [
+        958,
+        197,
+        1101,
+        206
+      ],
+      "label": "paragraph_title",
+      "text": "WANTED AT ONCE"
+    },
+    {
+      "bbox": [
+        924,
+        210,
+        1133,
+        263
+      ],
+      "label": "text",
+      "text": "M mechanist-Linotype cooperator, Merge\u624e\u8d6b\u4e39 and a do notope. Permanent position. Given all necessary information, references and state information, merge and do notope. Dear Duvell Towers, Rigeton, Va, Va, eb"
+    },
+    {
+      "bbox": [
+        925,
+        261,
+        1133,
+        364
+      ],
+      "label": "text",
+      "text": "WANTED - UP-TO-DATE BARRIER, GGAR\nagent. To be assigned to Thou, Boatman, 128 W. Ridge id, Miracle, Mint. WORKING WITH NORMAN, BING, GINSING &\nWilling to assist government positions\n$114-$140 or salary, Write Mr.\nDEFECTIVE - TRAVEL, MAY SECURE\nDEFECTIVE - TRAVEL, MAY SECURE\nINVESTIGATIONS: executive usability, Write\nexecutive system, 193-8, Barrick,\nN. Y."
+    },
+    {
+      "bbox": [
+        923,
+        399,
+        1132,
+        559
+      ],
+      "label": "text",
+      "text": "FRIENDS, BRAKEMEN, BAGAGEMEN\nprecision unaccented, 225 Iallway Bureau, S. St. Louis, Ill.\nUNIFORM TO QUALIFY FOR SENDING car and trail patrol; expertise unaccented; transportation furnished. Write T. W. BEAUTIFUL A DETECTIVE-$100-100 WEEKLY travel over world; expertise unaccented. Detective Agency, 1022 Columbia, St. Louis.\nLEARN BARBER TRADE-DAY OR NIGHT BARBER College, 81 S. State at. Chicago. ELECTRICIAN WANTED TO DO HOUSE BARBER College, 81 S. State at. Chicago. ELECTRICIAN WANTED TO DO HOUSE BARBER College, 81 S. State at. Chicago."
+    },
+    {
+      "bbox": [
+        925,
+        558,
+        1131,
+        605
+      ],
+      "label": "text",
+      "text": "IF YOU ARE COMING NORTH FOR EMPLOYMENT, seal stamp for information on your application. Mail to WANTON\u2014TIONNER MARK and DEAN, man. Box 5, Chicago Defender,"
+    },
+    {
+      "bbox": [
+        920,
+        657,
+        1133,
+        1130
+      ],
+      "label": "text",
+      "text": "WANTED-GIRLS TO LEARN TO MAKE\nCOURSES, work when course is completed,\n4031 Vincentus ave.\nab\n\nWANT LADY \"BLUES\" SINGER, PIANO\nplayer that reads music, fake and trans-\ncription, works with piano, plucking\nplough player that can double, feed & reed\na trumpet, and plays in band.\n\nWANTED-EXP HOME WORKERS on\nhand and crochet headwear; pay on delivery.\nand crochet headwear for painting instructu-\ntion and crochet headwear for painting instructu-\ntion.\n\nWANTED-WOMEN, GIRL HOME WORKERS\nmaking at home; many spring openings; 100-\nWrite daily; Franklin Institute, Dept.\nof History.\n\n6688 HOME DECORATING FLOWER TO\nat home; experience unnecessary; particu-\nlary Tajeway Flower Co. Box 120, Gri-\nndale, Inc.\n\nWANTED-WOMEN TO TAKE HOME WORK\nexperience used apply. Reliable Embroidery\nCo. 308 W. Van Huren st.\n\nWANTED-WOMEN TO TAKE HOME WORK\nexperience used apply. Reliable Embroidery\nCo. 308 W. Van Huren st.\n\nWANTED-WOMEN TO TAKE HOME WORK\nexperience used apply. Reliable Embroidery\nCo. 308 W. Van Huren st.\n\nINTEGRAL WOMEN WHO\norganize new national order,\nHamilton League, 200 B. 30th st., Chicago, ib.\n\nEMPLOYMENT AGENCIES\n\nLET ME GET YOU A JOB\n\nAll kinds of good job open for both men\nand women in all lines of work.\n\nF. H. HAYES' EMPLOYMENT\nBUREAU\n\n20 B. 35th st.\nCalmette 7613-732-78"
+    },
+    {
+      "bbox": [
+        963,
+        1130,
+        1095,
+        1140
+      ],
+      "label": "paragraph_title",
+      "text": "BUSINESS CHANCES"
+    },
+    {
+      "bbox": [
+        923,
+        1145,
+        1131,
+        1186
+      ],
+      "label": "text",
+      "text": "FOR SALE--ALL EQUIPPED AUTO ELECTRIC repair shop. Two good-condition cars. One low-car. Good health. All for $14,995."
+    },
+    {
+      "bbox": [
+        922,
+        1180,
+        1132,
+        1274
+      ],
+      "label": "text",
+      "text": "HAIM FAMILYSHIH- RESTAURANT AND\nBREAKFAST. $30, will take st. rent. $70, $90,\ntennis. $100 cash, leisure charge. $40,\n$60 cash, leisure charge. $40, W. LAND\nBREAKFAST. $20, eat at. $10, WITH ALI-\nove; $40 for furniture $20 down and $20\nrestaurant. $20 down. ST. SP. TRANS-TH\nBREAKFAST. $20 down. ST. SP. TRANS-TH"
+    },
+    {
+      "bbox": [
+        922,
+        1323,
+        1132,
+        1483
+      ],
+      "label": "text",
+      "text": "stand and bath, on car line near State ST.\n$500 cash (if sold at once) DOING GOOD\nbusiness south of $0th at, with living quir\nTAILOR SHOP E. S. 311 STREET = $1,000\ncarset: $1,000 shop includes the figures\nwith living room, balance monthly; rest\nRESTAURANT - UP TO DATE; DOING GOOD\n$1,000; includes three living rooms in rear.\nFOR SALE - Drug store, grocery, barber shop,\nmedical, plant, garden stand, but cleaning\nplant, plant stand, but cleaning plant,\nwith promise. Come to me with what\nyou cannot do for yourself\u2014a big power"
+    },
+    {
+      "bbox": [
+        925,
+        1480,
+        1130,
+        1501
+      ],
+      "label": "text",
+      "text": "SHANKLIN'S REAL ESTATE\nCottage Grove arc. Please Douglas $333"
+    },
+    {
+      "bbox": [
+        925,
+        1538,
+        1122,
+        1563
+      ],
+      "label": "text",
+      "text": "OFFEREN THE FOLLOWING\nINMOBILE HOME\nModern - room furnished house, full"
+    },
+    {
+      "bbox": [
+        920,
+        1562,
+        1130,
+        1819
+      ],
+      "label": "text",
+      "text": "roomers Rent cheap Terms\nRent a room for small builders\nsuitable for advertising business, employment\nand other small businesses. Furnished or\nfurnished or unfurnished. Reason:\nWell established small order business,\nsuitable for advertising business, employment\nmeasures. Excellent monthly receipts. Keep\na having small capital. Will handle terms with\none having small capital.\n3821 S. STATE ST. ROOM 205\nA LARGE NUMBER OF PERSON, KNOW\nNESS with QUICK RESULTS. What I need\nto do with $200, $250, $300, $350,\n$400, $450, $500, $550, $600,\n$650, $700, three month rent\nvance. Invest $1,000, one year earn $500, get\na sellout. Invest $1,000, one year earn $500,\nget a sellout. Invest $1,000, one year earn $500,\nget a sellout. Invest $1,000, one year earn $500,\nget a sellout. Invest $1,000, one year earn $500,\nget a sellout. Invest $1,000, one year earn $500,\nbuy with investors. Shanlp Real Estate,\nDouglass EXCHANGE SERVICE\u2014WANT\nto buy? Want to sell? Want to exchange\nan apartment? Want to exchange a tenant?\nWant to exchange a t"
+    },
+    {
+      "bbox": [
+        979,
+        1828,
+        1076,
+        1838
+      ],
+      "label": "paragraph_title",
+      "text": "HAIRDRESSING"
+    },
+    {
+      "bbox": [
+        921,
+        1868,
+        1129,
+        1954
+      ],
+      "label": "text",
+      "text": "Haldresteral, amputating, musculus, tearing,\ntearing, tearing, tearing, tearing,\nWe teach the course by mail. Dijelgues has\nENERGYIC WOMEN, START A HAIR,\ndressing business right in your own bome\nof business. Start with a haircut,\nthe trade and supply everything. The\ntrade and supply everything.\nC. F. Co, M. F. Co, P. O. Co,\n418, Portland, Oregon"
+    },
+    {
+      "bbox": [
+        991,
+        1965,
+        1060,
+        1974
+      ],
+      "label": "paragraph_title",
+      "text": "FORMULAS"
+    },
+    {
+      "bbox": [
+        921,
+        1980,
+        1129,
+        2083
+      ],
+      "label": "text",
+      "text": "FRECKLES, PUPPLES, BLACK SPECKS, or\nPLENI WOMEN, WILL SEND YOU\nTHREE PORCHEES FOR FENTES.\n\nA. W. STANIS, N.A.\nNADIAC STAD, WILHLANDPURLA, PA.\n\nANTIQUE BRASS, BEST\nANTIQUE air\u9af9\u5668, $6.00. Earn more\nformula free with each order. Bateor\nNo. 20 Gobble, Gate ave., San Francisco,\nCA."
+    },
+    {
+      "bbox": [
+        957,
+        2113,
+        1092,
+        2126
+      ],
+      "label": "paragraph_title",
+      "text": "MONEY TO LOAN"
+    },
+    {
+      "bbox": [
+        921,
+        2129,
+        1127,
+        2213
+      ],
+      "label": "text",
+      "text": "LOANS QUICKLY MADE ON\nCHICAGO REAL ESTATE\nMARKETS\nSECOND MURITJAGS\nCONTRACTS TO PURCHASE\nLIBERTY AGENCY & LOAN CORPORATION\nDOUGLAS GRANT MARKETS\nCHICAGO IL."
+    },
+    {
+      "bbox": [
+        969,
+        2221,
+        1083,
+        2230
+      ],
+      "label": "paragraph_title",
+      "text": "FLATS FOR SALE"
+    },
+    {
+      "bbox": [
+        920,
+        2236,
+        1133,
+        2354
+      ],
+      "label": "text",
+      "text": "FOR SALE--TWO 8-BROOM FLATS OF FUL-\ndure with oversee lease. Inquired 44\nIndian arre. 35 B.P. 4c\n\nDECORATING\n\nFOR DECORATING CALL C. ELLIS, 3650\nB. State, Bc\n\ncc cc"
+    },
+    {
+      "bbox": [
+        1181,
+        103,
+        1299,
+        117
+      ],
+      "label": "paragraph_title",
+      "text": "AGENTS WANTED"
+    },
+    {
+      "bbox": [
+        1137,
+        172,
+        1344,
+        608
+      ],
+      "label": "text",
+      "text": "If you are now making $25 per week or\nif the selling game you are entitled to\nmake your own sales, making provision\nin the country today.\n\nAs one of the largest and most widely ad-\nvertised now making openings for men and\nwomen in every part of the country.\n\nOur product is one or proven merit, in wide\nity in the Union. We want men and women that\nare willing to make openings in the Union. We want men and women that\nof which there are thousands upon\nthousands all over the country.\n\nInstead of selling this product by mail alo\nat the store, you can order it online at\nmen and women to take care of this already\nestablished business.\n\nYour duties will be to demonstrate this\nproduct in the few benches among the Race\nwho have not yet heard of it and take order\nat the store. You must be a qualified\nALLY USING IT AT THIS TIME.\n\nIf your application is accepted your earnings\nand effort will pay at this work. We will\nensure to start you in this profitable business.\nYOUR PARTY. You will be independent, your\nown working hours and be your own\nleader.\n\nThis product SHOULD be, and WILL be\nmade by nearly everyone among the Chicago\narea. Already been spent in the Chicago Defender\nthousands going to spend hundreds of\nthousands more to our representatives sell more of\nthe products."
+    },
+    {
+      "bbox": [
+        1130,
+        659,
+        1345,
+        835
+      ],
+      "label": "text",
+      "text": "Such an opportunity has never been offered and may never be presented to you again.\n\nIf you believe yourself capable of taking an important job you want to be respected as one of the most important people in your organization, to make more money than ever before, to WRITE ME ONLY FOR ALL PARTICIPANTS. Do it now, tomorrow may be too late!\n\nAddress General Manager\n61 H.W. Ware Street\nChicago, Ill.\n\nSTRICTLY PURE, FRESH"
+    },
+    {
+      "bbox": [
+        1139,
+        835,
+        1344,
+        871
+      ],
+      "label": "doc_title",
+      "text": "HERBS"
+    },
+    {
+      "bbox": [
+        1130,
+        877,
+        1345,
+        1515
+      ],
+      "label": "text",
+      "text": "FULL DIRECTIONS ON EACH BOOK. 120 European John the Conqueror. Master of the European John the Conqueror. Master of the European John the Conqueror. Gim. Dragon's Sea. Spirit Queen's Sea. Gim. Dragon's Sea. Spirit Queen's Sea. Blood Host. Bush Leaves. Caius Root. Blood Host. Bush Leaves. Caius Root. Herb Petal. Dark Oak\u6797. Solomon Seal. Herb Petal. Dark Oak\u6797. Solomon Seal. Your complete assignment of herbs, books, and send for our. We wholesale herbs in La-Herb Agency. 2804 Cottage Grove ave. NE.\n\nFREE! FREE! FREE!\n\n$15 AGENTS OUTTIF FREE\nTo make your outfit free. We make a week and up. Our line works on its own. Just just. Be the first in your territory. All we ask you to pay is package and packing.\n\n$15 AGENTS OUTTIF FREE\nBINE SALES AGENCY\n4225 VINCENNE AVENUE. CHICAGO, IL.\n\nTAILORING SALESMEN\n$6 TO $7.50 PROFIT\non each order in advance.\n\nAlso extra bonus. Weekly profit. $75 to $150 selling our all-wool tailor to company.\n\nCHICAGO TAILORING CO.\n242 S. Dearborn St. CHICAGO, IL.\n\nALL THE CLOSER WE LOAN WOMEN WANTED\u2014TO WEAR THE LATENT agent in short time: his profile. W write quick notice to be interviewed. Dept. C. Tyton & Co. Perform arts.\n\nALL THE CLOSER WE LOAN WOMEN WANTED\u2014TO WEAR THE LATENT agent in short time: his profile. W write quick notice to be interviewed. Dept. C. Tyton & Co. Perform arts.\n\nREPRESENTATIVES WANTED\u2014WITH OUR high grade calling and business cards: monogrammed stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc.\n\nWANTED A SALESLABY IN EVERY TOWN\nIn the U. S. to insure a\u7f8e\u4e3d line of business and proposition and be the first to win. James E. Proposition and be the first t"
+    },
+    {
+      "bbox": [
+        1134,
+        1511,
+        1345,
+        1796
+      ],
+      "label": "text",
+      "text": "be our factory agent; be our square dime maker; sample filter; firmware; no capital or interest; He Co.-Co. 2706 Dollet St. Ohio & Hubber Co. 2704 Dayton, Ohio.\nAQUISITIONS-OUR SOLUTION AND TOLLAR ALLOWANCE-our customer service offer. He-No Co.-Co. 2706 Dollet St. Ohio.\nFAST SELLING HE-No Co.-Co. 2706 Dollet St. HOLIDAY HOLIDAY: toilet preparations and business articles; toilet preparations"
+    },
+    {
+      "bbox": [
+        1133,
+        1828,
+        1343,
+        1878
+      ],
+      "label": "text",
+      "text": "Madison Garden Hair Grower-100 per\npound; Midline Laboratories, Atlantic, Ga.\nAGENTS--SELL TO BARBERS: YOUR OWN\nCOLLECTION, Company Co., 411 W. Earl\nwest, Iola Indiana, Ind."
+    },
+    {
+      "bbox": [
+        1192,
+        1888,
+        1287,
+        1899
+      ],
+      "label": "paragraph_title",
+      "text": "CONTRACTORS"
+    },
+    {
+      "bbox": [
+        1143,
+        1966,
+        1337,
+        1982
+      ],
+      "label": "text",
+      "text": "CONSTRUCTION REPAIRING\nMAINTENANCE"
+    },
+    {
+      "bbox": [
+        1148,
+        2052,
+        1337,
+        2124
+      ],
+      "label": "text",
+      "text": "HOMER R. LEWIS\nBuilding Contractor\nCONSTRUCTION. REPAIRING AND\nREPAIRING AGES BUILT ON TIME PAYMENTS.\nMONEY LOADED TO BUILD HOMES.\nPIONEER KENNEDY 800"
+    },
+    {
+      "bbox": [
+        1195,
+        2136,
+        1284,
+        2146
+      ],
+      "label": "paragraph_title",
+      "text": "INSTRUCTION"
+    },
+    {
+      "bbox": [
+        1132,
+        2154,
+        1342,
+        2304
+      ],
+      "label": "text",
+      "text": "J2AIN AUQY TRADE AND EARN AT\nBUSINESS SCHOOL\nbus school has opened for three more in class\nyear-round. Students will be given a job good\njob while learning. Reduced rate to\nAutomotive Engineering, 2012 S. Wabash Ave.\nGIRIN: GIRIN: PEEPARE FOR YOUR\nclean position this summer; learn abertband\nbusiness, work, court reporting work, doctor's\nbureau, work, court reporting work, doctor's\nevalving classes, 3100 Ida Ave. Georgetown,\ninstructor. Phone Oakland 4446.\nTraining College, 882 SQA lane, N. Ave."
+    },
+    {
+      "bbox": [
+        1130,
+        2284,
+        1342,
+        2310
+      ],
+      "label": "text",
+      "text": "BIBLE TRAINING BY MHJ - THE RETIREE\nBible Store, Stoge, 052 0ak Lake ave. N,\nMilpitas, CA 92032"
+    },
+    {
+      "bbox": [
+        1349,
+        142,
+        1558,
+        232
+      ],
+      "label": "text",
+      "text": "Iron Mountain, Mich., and Wisconsin Heights, Wis.\n\nFor a year now we have been telling you about this, we have also been telling you that we are doing some real work in Iron Mountain. In our facilities, also what Mr. Ford was going to do."
+    },
+    {
+      "bbox": [
+        1348,
+        231,
+        1558,
+        417
+      ],
+      "label": "text",
+      "text": "Now we are going to tell you about what we are doing. I want to say to you that we are going to put 2,000 men in various plants and then further say to you that the states of Michigan and Indiana have a strong housing industry. I was in conference with Mr. Ford's manager in that section was present. However, me being president of Smith College, I asked them what great project, they asked me what class of people they develop this great new country. I told them they had started to purchase a home in that part of the country. We figure from it that in a little money towards believing him to put in a little money towards believing him to put in a little money towards believing him to all admitted that he is a good way to determine the amount it would cost."
+    },
+    {
+      "bbox": [
+        1349,
+        416,
+        1559,
+        578
+      ],
+      "label": "text",
+      "text": "Now we have lots of 150 ambitious men and women, a partir of this movement. Move on to take a jurt in this movement. Move on to take a jurt in this movement. Move on to take a jurt in this movement. Work eight hours, plant eight gardens, cure our wetlands, to do in the year around, to do in the year aroun"
+    },
+    {
+      "bbox": [
+        1347,
+        577,
+        1559,
+        823
+      ],
+      "label": "text",
+      "text": "This project does not appeal altogether to those who travel daily, but it does appeal to the man or woman who wants to meet a boat crew, or to run a railroad direct to this country. Ion Mountain is a city of about 15,600. We ride on it, after the grassen river. We invite you in now to help make passengers to go on a certain land, called Penghu. We arrive after the grassen river"
+    },
+    {
+      "bbox": [
+        1361,
+        831,
+        1546,
+        844
+      ],
+      "label": "paragraph_title",
+      "text": "Smith, James and Russell"
+    },
+    {
+      "bbox": [
+        1346,
+        844,
+        1559,
+        1435
+      ],
+      "label": "text",
+      "text": "MAIN OFFICE: 28TH INDIANA AVE.\nCHICAGO, IL.\nPRONE DOUGLAS 7405\n\nNEW 5-ROOM BUNGALOW\nGAT. 47TH ST.\n$9,000; CASH $1,500; MONTHLY $85\n\nFour-flat Bargains\n$17,000; CASH REQUIRED, $3,000\n$17,000; CASH REQUIRED, $3,000\n\nHouses\n309TH ROOM AVE.\n$7,000; CASH REQUIRED, $550\n3838 VINCENNE AVE.\n$9,000; CASH REQUIRED, $1,500\nCALL OR SEND FOR OUR LIST OF\nFLATS AND BUSINESS PROPRIETIES.\n\nREALTY BUSINESS PROPERTIES\n\nREALTY BOND AND\nMORTGAGE CO.\n407 E. 35TH ST.\n\nTel. Douglas 0209 and 309$\n\nFOR SALE\n\n9-ROOM HOUSE, 31ST BLOCK, PAIRAINE\nbath, toilet, $5,000; cash $1,000; balance\n10-ROOM HOUSE, 32ND BLOCK, GILEE AVES.\nbath, toilet, $5,000; cash $1,000; balance\n10-ROOM HOUSE, 33RD BLOCK, GILEE AVES.\nbath, toilet, $5,000; cash $1,000; balance\n2-PLAT STEAM HEAT, HARDWELL, ELECTRIC\nbath, toilet, $18,000; cash $2,500; balance $125 per\nstorm.\n\n3-STORIES AND 7-STORIES FLATS; $6,000\n125 ft. $12,000; cash $6,000; balance $125\n10-ROOM HOUSE, 35TH BLOCK, MICHIGAN\nasleep, breeze, furnace heat, gas, toilet, bath,\nwater; clear, $5,000; cash $2,500; balance\ntake first mortgage.\n\n2-HOUSES, BRICK, ELECTRIC LIGHT, FURNACE\nheat, all rooms off firewall; concrete\nfloor; clear, $5,000; cash $2,500; balance\n$1,400; cash $2,500; balance $1,400;"
+    },
+    {
+      "bbox": [
+        1346,
+        1475,
+        1559,
+        2107
+      ],
+      "label": "text",
+      "text": "BE A NEAR-CHICAGO TRUCK FARMER\nREACTIONS ON 80 miles from Chicago\ncountryside runs all the way\u2014ideal for truck\nwork, suitable for rugged any kind of\nvehicle, suitable for riding on a few hundred\nand several hundred dollars per acre on pick-\ning land, or a few hundred dollars per acre\non the land but for a few hundred dollars\nper acre purchased from near dealers. The\narea is the ten acres in land is only $2,000.\nThe land is $2,000 per acre. You can pay\nsmall monthly payments. Here is its own\nsmall monthly payments. Don\u2019t pay any money. If interested\nparticipate in the Adams Box 24, Chicago De-\npartment.\nTHEY LIVE YOU! You should always\nlot in the new near Chicago summer resort\nplace. You can buy your lot now, your\nvacation in the country, set close to\nthe second, because it is exclusive. Only\ncable box lot. Third, because you can buy a\nbay lot. Fourth, because it is only a quarter\nFourth, because it is only a quarter where\na parcel is available. Don't think it would be wise to\nsecure your lot now? Address for full in-\nformation.\nCHANCE OF YOUR LIVE\nBuy brick, west side, good neighborhood,\nreduction on each monthly payment. Under\nreduction on each monthly"
+    },
+    {
+      "bbox": [
+        1393,
+        2107,
+        1511,
+        2118
+      ],
+      "label": "paragraph_title",
+      "text": "FLATS FOR RENT"
+    },
+    {
+      "bbox": [
+        1346,
+        2127,
+        1554,
+        2155
+      ],
+      "label": "text",
+      "text": "FLATS FOR RENT BY\nTHE NORTHERN TRUST CO."
+    },
+    {
+      "bbox": [
+        1347,
+        2208,
+        1556,
+        2238
+      ],
+      "label": "text",
+      "text": "or call E. W. Lee, Janitor, Calcasus' 2534. (f)\nBASEMENT APT. THREE ROOMS AND\nBATH. hect. and sec.\u6fa1. 435 E. 458 at b."
+    },
+    {
+      "bbox": [
+        1435,
+        2247,
+        1475,
+        2257
+      ],
+      "label": "paragraph_title",
+      "text": "RADIO"
+    },
+    {
+      "bbox": [
+        1347,
+        2260,
+        1557,
+        2313
+      ],
+      "label": "text",
+      "text": "LONG DISTANCE LOUD CRYSTAL RADIO\nReceiving set, complete with bead phone,\nphone, cable, and complete,\nfifth, E166. Call at once at Radio Head-\nband, Camera Company, 119 N. Dear-\nness, Battery Company, 119 N. Dear-\nness."
+    },
+    {
+      "bbox": [
+        1564,
+        120,
+        1772,
+        216
+      ],
+      "label": "doc_title",
+      "text": "GOOD LUCK HERBS"
+    },
+    {
+      "bbox": [
+        1559,
+        275,
+        1776,
+        825
+      ],
+      "label": "text",
+      "text": "Genine Lodestreet, $1. Magnette Sands, $2.\nGeorge are mature in plain wrapper, sealed and\ncalled for in platter. We have a large Piece FREE with each $2 piece. Send all orders direct to Ind. Herb Garden, 1847 Grand Ave.\nand call for a large piece of fresh herbs and fall boxes.\nDo not give hope, there is help for you.\nbetter health, look better, become happier,\nand eat more nutritious food. Our esteat strictly pure, fresh herbs and fall"
+    },
+    {
+      "bbox": [
+        1566,
+        835,
+        1774,
+        876
+      ],
+      "label": "paragraph_title",
+      "text": "SECRETES OF\nLUCK, HEALTH AND LOVE\nREVEALED"
+    },
+    {
+      "bbox": [
+        1561,
+        906,
+        1776,
+        964
+      ],
+      "label": "text",
+      "text": "Tell me your problem. Let me help you!\nI have a problem with a college diploma\nidol reigned. Helped thousands overcrowd\nthe library. Secured a second job. I\nloved power to make you feel and have\nyour confidence and esteem of those you\nhave."
+    },
+    {
+      "bbox": [
+        1607,
+        1028,
+        1726,
+        1038
+      ],
+      "label": "paragraph_title",
+      "text": "GET BUSINESS"
+    },
+    {
+      "bbox": [
+        1561,
+        1048,
+        1774,
+        1197
+      ],
+      "label": "text",
+      "text": "A TITLELESS QUICKLY\n\nOn our Tuesday, we will power to women and women. Digging in things to power women is our mission. Digging in things to women do them is what Sunkline agency is doing. We want women to be able to would like to learn things that you can not have no knowledge of and that you would not have to learn. We want to bate no knowledge of and that you would not have to learn. We want to teach us with us and learn any kind of business knowledge to operate any business knowledge to operate any business method of business used by leading business methods of business used by leadin"
+    },
+    {
+      "bbox": [
+        1566,
+        1202,
+        1773,
+        1225
+      ],
+      "label": "paragraph_title",
+      "text": "RARE BOOKS"
+    },
+    {
+      "bbox": [
+        1563,
+        1235,
+        1773,
+        1301
+      ],
+      "label": "text",
+      "text": "SIXTH AND SEVENTH BOOKS OF MUSEES\nSIXTH: Secrets of Black Arts: II: Silent Friend,\nIII: Secrets of Black Arts: II: Silent Friend,\nIV: Master Key, II: Si: Cources on Hilaod Pachych-\nnosis, III: Cources on Hilaod Pachychnosis,\nIV: Magnetic locator, VI: W. Flocky: Lock Book"
+    },
+    {
+      "bbox": [
+        1597,
+        1305,
+        1743,
+        1315
+      ],
+      "label": "paragraph_title",
+      "text": "STRANGE POWER!"
+    },
+    {
+      "bbox": [
+        1563,
+        1316,
+        1774,
+        1389
+      ],
+      "label": "text",
+      "text": "Are you undecided, unhappy, in doubt, untruthy, not well. Write candidately about your life. Write a Mother's. America's Illustrative Advisor. Mike Jones. America's Illustrative Advisor. Alice persistence to matters distraught. Do not send any message or postage for reply unless you believe women immediately. Write a beloved woman immediately."
+    },
+    {
+      "bbox": [
+        1561,
+        1441,
+        1774,
+        1586
+      ],
+      "label": "text",
+      "text": "who has astonished astrologers of national science with his astrological knowledge in the sciences of Astrology, orders to deponen him for his astrological knowledge. Just send your birth date, year and a good physical description to the postmaster, and tell its personal value for postage, and send its personal value fo"
+    },
+    {
+      "bbox": [
+        1562,
+        1585,
+        1775,
+        1807
+      ],
+      "label": "text",
+      "text": "SILKLANLY'S CORRESPONDENCE AGENT\nGOOD LOCK BOOK FREE! FREE! FREE!\nthis book contains many valuable secrets used\nin the security of your home. Secure Lack, Love, Money, Health, Happiness,\nSecurity Lack, Love, Money, Health, Happiness,\nand names and addresses of three friends to\nget the book by mail free postpaid. Your name\nwill not be mentioned in our letters.\nThe book contains 10 Books of Money, 10 Books\nof Magic, 10 Books of Old Secrets and New\nDiscoveries, 20 Seeds $200 for all, and we'll send Herb Doctor\nand Seed Books. Winco $200, 250 Fulfillment\nGOOD LOCK HERBS--LOYING THERBS,\nEuropean John the Couponer, Master of the\nArt of Gardening, John the Couponer, Master of\nand Love, High or Southern John the Couponer,\nand Love, High or Southern John the Couponer,\nfor the four boxes. We will give you a lucky\nbox and Seed Books. A Winner, E-25,\n60 Fulfillment."
+    },
+    {
+      "bbox": [
+        1596,
+        1811,
+        1733,
+        1822
+      ],
+      "label": "paragraph_title",
+      "text": "WHY BE LONELY?"
+    },
+    {
+      "bbox": [
+        1561,
+        1823,
+        1773,
+        1865
+      ],
+      "label": "text",
+      "text": "When you're lovely, unhappy or sad? If unmarried seal stamp for the \"Happy Ifmes\" collection, unhappy or sad? Address: Correspondence Club, Box 220 Carbon Street Pittsburgh, Pa."
+    },
+    {
+      "bbox": [
+        1560,
+        1864,
+        1773,
+        1972
+      ],
+      "label": "text",
+      "text": "IB: A CHRIOPRACYOR-HIGHLIGHT PROFESSOR, 200 weekly; day and night courses enable students to work their way. Free and private courses. Preferred College of Chirurgical. Dr. JAY PRIestra College of Chirurgical. Dr. JAY PRIestra College of Chirurgical. GREAT NORTHERN CASESTYLE COMPANY of Chicago offers for sale health and accident insurance. Highly qualified and authorized. Highly qualified and authorized. Library room 400, 20 W. Jackson Blvd., Chicago, IL 60612."
+    },
+    {
+      "bbox": [
+        1559,
+        1971,
+        1771,
+        2060
+      ],
+      "label": "text",
+      "text": "RIOTS, HIRRUS, ALL KINDS, FREE CIRCLE\nwholesale, rack bottom\u4ef7 for business pu-\nwholesale, rack bottom\u4ef7 for business pu-\nCooper, 2057 Brush st., Mt.\nMILCH, MILCH, MILCH, MILCH,\nBEDOR DOCTOR AND CATALOG CONTAINS\nmost all diseases, 96 pages many wide in-\nsituations, there supply, 100%\nBrush st., Detroit, Mt."
+    },
+    {
+      "bbox": [
+        1559,
+        2059,
+        1771,
+        2184
+      ],
+      "label": "text",
+      "text": "TONSILLE - INSTANT RELIEF AND POSITIVE\npatience. In *W. & J. K. P. P. S.*\npowers, *N. R. Room* 32, 502 Main st.\nand 308 West. AGENTS EVERYWHERE TO SELL NATION-\nAL WANTED ITEMS. W. N. & J. P. P. P. S.,\npublishers, 328 West 502 Main st.,\nLUCKY CHAMPS, LODSTONE, SECRETS,\noccult books. Free. catalog. Box & Sts. 1,\n2, 3, 4. GREAT SECRETS, ORTAINING ANYTHING\nthat needs to be done. WINESER, 260 Foxton st.,\nChicago, Ill."
+    },
+    {
+      "bbox": [
+        1559,
+        2221,
+        1776,
+        2354
+      ],
+      "label": "text",
+      "text": "NEW LUNCH ROOM, 2348 RIODES AVE.\nopens: Saturday, April 12. Meals from 11 to\n12. ebt drivers' special. L. Kennedy,\nproprietor.\n\nOUT OF TOWN\n5 TO 23 BOOHS, FERNHED,\nst. St Louis, Mo. L. R. Hall."
+    }
+  ]
+}

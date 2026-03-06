@@ -1,0 +1,818 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2041,
+  "height": 2611,
+  "regions": [
+    {
+      "bbox": [
+        114,
+        83,
+        344,
+        252
+      ],
+      "label": "doc_title",
+      "text": "CALIFORNIA LEASE LAWS AIMED AT US"
+    },
+    {
+      "bbox": [
+        357,
+        103,
+        572,
+        202
+      ],
+      "label": "doc_title",
+      "text": "Officer Slain by\"The Wolf\" in Girl's Flat"
+    },
+    {
+      "bbox": [
+        354,
+        218,
+        573,
+        296
+      ],
+      "label": "text",
+      "text": "Detroit, Mich., April 11\u2014Every available detective in this city is working overtime in an attempt to arrest \"The Wolf,\" who is charged with the slaying of Policeman Albert Schuler Sunday morning."
+    },
+    {
+      "bbox": [
+        113,
+        281,
+        343,
+        337
+      ],
+      "label": "paragraph_title",
+      "text": "Legal Battle Brewing In Land Tilt"
+    },
+    {
+      "bbox": [
+        352,
+        296,
+        573,
+        384
+      ],
+      "label": "text",
+      "text": "\"The Wolf,\" who in private life is known as Horne Fears and is a member of the gangbusters in this section, shot the officer through the heart when the officer entered the door at 2230 Hastings st. after he had heard a woman cry for help."
+    },
+    {
+      "bbox": [
+        109,
+        372,
+        341,
+        503
+      ],
+      "label": "text",
+      "text": "Los Angeles, Cal, April 11\u2014Bitters controversies and legal battles regarding the right of exclusion of our Japanese from restricted and exclusive areas being carried through the Supreme court of California by attorneys Willis O. Tyler and Clarence A. Jones. Several prominent investment and charity companies are involved in these cases has been a losing battle for them."
+    },
+    {
+      "bbox": [
+        346,
+        396,
+        577,
+        537
+      ],
+      "label": "text",
+      "text": "purchased property in a restricted district. case of Walling and Wallen, the suits are based upon the invalid restriction against 'use and occupancy' of restricted lands. Wallen owns the property, while Walling owns the investment company, which sold Wallen the property, now endeavors to secure a court decision forfitting his right rights, because of his lease to Wallen."
+    },
+    {
+      "bbox": [
+        109,
+        503,
+        340,
+        612
+      ],
+      "label": "text",
+      "text": "The Japanese business men's association and commercial leagues are fighting the contending companies to prevent the prime court decisions. Attorney Tyler at present is carrying cases against several realty companies into the Supreme court for Jess Walling and his attorney, David also and W. H. Long, who recently"
+    },
+    {
+      "bbox": [
+        344,
+        538,
+        574,
+        612
+      ],
+      "label": "text",
+      "text": "W. H. Long, a prominent Race man and a member of several organizations here, has purchased his home in a restricted section and is meeting the restriction face to face. We are now pending in the Superior court."
+    },
+    {
+      "bbox": [
+        118,
+        619,
+        572,
+        712
+      ],
+      "label": "doc_title",
+      "text": "Beauty in30Minutes!"
+    },
+    {
+      "bbox": [
+        146,
+        1037,
+        307,
+        1064
+      ],
+      "label": "text",
+      "text": "Spread it on face\u2014results attained in 30 minutes"
+    },
+    {
+      "bbox": [
+        349,
+        1039,
+        551,
+        1069
+      ],
+      "label": "text",
+      "text": "Every pimple point, black-head and spot of dirt gone"
+    },
+    {
+      "bbox": [
+        117,
+        1074,
+        556,
+        1149
+      ],
+      "label": "doc_title",
+      "text": "How to Have a Beautiful Skin-All Your Life!"
+    },
+    {
+      "bbox": [
+        269,
+        1157,
+        399,
+        1169
+      ],
+      "label": "text",
+      "text": "By ELLEN OTIS"
+    },
+    {
+      "bbox": [
+        338,
+        1171,
+        551,
+        1338
+      ],
+      "label": "text",
+      "text": "which he called. TISULAX. IT ENHIZERGED THE TISUSES. LIGHTENED THE SKIN_AND LIGHTENS THE SKIN. A small way he asked friends to try. Results were delightful. Dull, rough skins took on a soft, bright texture. Lines and wrinkles vanished. Bumps and lifted out bodily by this strange compound. Women who had despaired of beautiful complexions, long hair, shoes, too, found relief in it. Popularity, happiness and success was theirs."
+    },
+    {
+      "bbox": [
+        113,
+        1174,
+        326,
+        1332
+      ],
+      "label": "text",
+      "text": "BEAUTIFUL, complexions are not a matter of luck. They are the result of care and thought. Few people could retain complexions without a few simple things that they have learned. You, too, can have a clear, beautiful complexion, free of all pimples, wrinkles and blackheads. It is all very simple. It depends upon elimination of waste. Correct"
+    },
+    {
+      "bbox": [
+        226,
+        1314,
+        325,
+        1552
+      ],
+      "label": "text",
+      "text": "plate. It depends on the food, exercise and plenty of drinking water. Essential, equally important is the treatment of self. Nature provides us with a marvelous system of freeing the matter. If the pores do not function, they may with dirt."
+    },
+    {
+      "bbox": [
+        386,
+        1352,
+        501,
+        1368
+      ],
+      "label": "paragraph_title",
+      "text": "What It Does"
+    },
+    {
+      "bbox": [
+        335,
+        1378,
+        550,
+        1605
+      ],
+      "label": "text",
+      "text": "Simply put it on the face like a thick, creamy lotion. Go about your work or rest. In 30 minutes the skin responds. Dirt and impurities are drawn from the pores and plant matter in science. The whole face is stirred to bloom and youthful smoothness. The cool, drawing TISSULAX dries in 30 minutes. Wash it away with cold water. Look in the mirror and you will see a blemished every pimple, blackheads of irritating dirt\u2014will be gone. Use TISSULAX every second day for the first week. Then once a day, continually you may not need it at all."
+    },
+    {
+      "bbox": [
+        110,
+        1549,
+        325,
+        1626
+      ],
+      "label": "text",
+      "text": "Blackheads gather. Pimples and eruptions result. So begin at the seat of the trouble. Clear the pores of their waste. Help them. Restore them to healthy activity. Ease their beauty. Be admired by all."
+    },
+    {
+      "bbox": [
+        109,
+        1657,
+        287,
+        1831
+      ],
+      "label": "text",
+      "text": "Nature in her wisdom has now provided a very sure pores. Doctor Hunt, the well-known Chicago Hunt, seeking in his laboratory for a remedy in his people, discovered that their English clay, when properly refined and prepared, had a great skin. Starled, he invested further. Success crowned his research. He unifies a billion substances that quantifies a billion substances"
+    },
+    {
+      "bbox": [
+        307,
+        1675,
+        538,
+        1746
+      ],
+      "label": "text",
+      "text": "I am very much pleased with my jar of Tissuaxi. Kindly send me another jar, also a box of face of Taille Powder, a jar of Tissuaxi skin, and a jar of Tissuaxe. Will tell my friend about Tissuaxi, it also helped my husband's skin. Sincerely, J. A. B."
+    },
+    {
+      "bbox": [
+        138,
+        1842,
+        516,
+        1877
+      ],
+      "label": "paragraph_title",
+      "text": "GUARANTEE BACKED BY DEPOSIT\nIN BINGA STATE BANK"
+    },
+    {
+      "bbox": [
+        106,
+        1879,
+        321,
+        1962
+      ],
+      "label": "text",
+      "text": "THE action of TISSULAX is guaranteed. All just claims will be refunded when made by those who believe well that theained the stated results after an uninterrupted use of TISSULAX. But do not hesitate whether it will"
+    },
+    {
+      "bbox": [
+        332,
+        1885,
+        544,
+        1959
+      ],
+      "label": "text",
+      "text": "so, enclose $1.15. This pays for\nmany things. Your jar will be delivered\nwith a note. Give me some\nmoney back guarantee. Beauty\nwithin your reach. The rest is up\nto you. Write today. Send post-\ncard, letter, or handy request blank\nbelow."
+    },
+    {
+      "bbox": [
+        197,
+        1975,
+        320,
+        2088
+      ],
+      "label": "text",
+      "text": "You may have your first jar for only the bare cost of the bottle. You can use your hands. This is to enable everyone to obtain TIS-100 tablets. To present Doctor will send a regular full"
+    },
+    {
+      "bbox": [
+        334,
+        2029,
+        543,
+        2110
+      ],
+      "label": "text",
+      "text": "Please send me the full size $2.50 jar for which I receive $1.25, or I will I receive $1.15 when he delivers jar. This is payable to me. I am not satisfied with results in the dark jar money is to be returned. I am not satisfied"
+    },
+    {
+      "bbox": [
+        101,
+        2085,
+        540,
+        2320
+      ],
+      "label": "text",
+      "text": "size $2.50 jar at laboratory cost. (Non-residents of the United States are requested to send $1.23 in advance.)\n\nprice $1.00 (plus postage). But you need not even send this at once. When you receive your jar simply give the mailman this small deposit. It will be held as a deposit. Make five days' trial of TISSULAX. If it does not have the stated results your money will be returned.\n\nHow to Order\n\nSend No Money now unless you expect to be out when the mailman calls.\n\nAgents, Write Today for New Money-Making Profit Plan\n\nSo successful has TISSULAX been in bringing beauty to people of the world. Always be sure you get TISSULAX, a regular $2.50 jar for only $1.00, plus postage, or send $1.15 in advance. Do not use any substitute."
+    },
+    {
+      "bbox": [
+        101,
+        2334,
+        537,
+        2384
+      ],
+      "label": "doc_title",
+      "text": "TISSULAX"
+    },
+    {
+      "bbox": [
+        97,
+        2389,
+        538,
+        2498
+      ],
+      "label": "text",
+      "text": "Our complete beauty set, consisting of Tissulax (clay), $1; Tissucre (cold cream), 50c; Lincoln Hair Pomade, 50c; Lincoln Face Powder, $1.00 (plus postage), now on sale. Entire set, $2.65 (postpaid). Write NOW to Lincoln Laboratories, Inc., 3450 West Lake Street, Chicago, Ill. Drug Stores can order direct from Peter Van Schaack & Sons, 310 West Washington Street, Chicago, Ill."
+    },
+    {
+      "bbox": [
+        825,
+        102,
+        1037,
+        203
+      ],
+      "label": "doc_title",
+      "text": "Miss Hallie Q. Brown Elected to Convention"
+    },
+    {
+      "bbox": [
+        803,
+        203,
+        1037,
+        909
+      ],
+      "label": "text",
+      "text": "MISS HALLIE Q. BROWN\n\nLos Angeles, Cal., April 11\u2014Having received notice that she has been selected as a Coolidge delegate-at-large to the Republican national convention for the state of Ohio, Miss Haitie Q. Brown left this city for her home in Wilberforce, Ohio, to open her campaign in behalf of her candidate. Miss Brown has been in the Wes. for four months entering under the auspices of the women's clubs, of which she is president of the National association. She has also addressed large audiences of forty-five and churches. Her efforts have been largely to create sentiment among women of California and Arizona favorable to the creation of a 150,000 scholarship of girls to complete their education in the higher institutions of learning."
+    },
+    {
+      "bbox": [
+        811,
+        920,
+        1036,
+        986
+      ],
+      "label": "paragraph_title",
+      "text": "FIFTEEN-YEAR-OLD BOY IS\nLYNCHED BY GEORGIA MOB"
+    },
+    {
+      "bbox": [
+        811,
+        920,
+        1036,
+        986
+      ],
+      "label": "doc_title",
+      "text": "FIFTEEN-YEAR-OLD BOY IS LYNCHED BY GEORGIA MOB"
+    },
+    {
+      "bbox": [
+        804,
+        998,
+        1035,
+        1119
+      ],
+      "label": "text",
+      "text": "Woodbury, Ga., April 11\u2014Beecrook Thrash, employed at a local bank as the bank's chief cashier. Thursday and lynchy; by a mob afflicted he had shot and fatally wounded a policeman who attempted to make a confess to taking money from the bank. The policeman was shot by his own pet when the boy resisted his abuse and escaped."
+    },
+    {
+      "bbox": [
+        804,
+        1118,
+        1033,
+        1223
+      ],
+      "label": "text",
+      "text": "No attempt, it is said, was made by the sheriff in whose custody Thirash, who is only 15 years old, was too keep his prisoner from the mub which was composed mostly of young hoodlums, some in shore jants.\n\nARRESTED FOR SELLING HORSES HE DIDN'T OWN"
+    },
+    {
+      "bbox": [
+        661,
+        1222,
+        1037,
+        2255
+      ],
+      "label": "text",
+      "text": "work at the Wister institu-\nment a men approached her\nthat they had and\nhook, containing a\nmoney and asked her\nsome of it. She took\nher to make change for\ndid not discover her\nreached her work.\n\nPhiladelphia, Ia., April 11.\u2014Walter Avery of Price St., who admitted that he had stolen six horses, was committed in default of $3,000 bail by Police Judge Cleary.\nAvery has been selling horses which he obtained by hiring them at livery stables. All of the horses have been recovered.\n\nDUNLAP\n\nIndividuality!\n\nA favorite with those who want individuality in their footwear.\n\nHere's a snappy oxford of tan calf with fancy collar. White rope stitching on soles gives distinctive contrast. Dunlap rubber heels.\n\nThe Dunlap checkerboard trademark is stamped on the sole. Your Guarantee of quality.\n\nIf your dealer is not listed below, write direct to us. Send for free style booklet.\n\nThe Bettmann-Dunlap Co.\nEstablished 1880\n1100 Sycamore St. CINCINNATI, OHIO\n\nDunlap Dealers Everywhere\n\nEXTRA QUALITY\nDUNLAP\nSHOES"
+    },
+    {
+      "bbox": [
+        658,
+        2255,
+        916,
+        2275
+      ],
+      "label": "paragraph_title",
+      "text": "WE SELL DUNLAP SHOES"
+    },
+    {
+      "bbox": [
+        803,
+        2275,
+        1037,
+        2591
+      ],
+      "label": "text",
+      "text": "man, 901 Pennsylvania Ave.\nCompany (also Murphyboro, Ill.)\n, 5108 S. State St.\nStore, 3418 S. State St.\nCentury Bottery, 3002 S. State St.\nStore, 275 W. State St.\nman, 2306 E. cor. Central\nbothman, 90 E. Long St.\nlipman, 112 Hastings St.\nStore, 214 W. State St.\nStore, 224 Broad St.\n1603 E. 18th St.\nMayen, 712 Springfield Ave.\nStore, 121 W. State St.\noes, 753 Lonox Ave., at 139th St.\noses, Lincoln Sq., at 63d St.\ne Store, 102 Church St.\nm, 702 W. Division St.\nerg, 415 Monroe St.\nm, 557-559 W. Federal St."
+    },
+    {
+      "bbox": [
+        568,
+        2409,
+        1009,
+        2500
+      ],
+      "label": "text",
+      "text": "Newark, N. J. ... Kraemer & Mayer, 172 Springfield Ave.\nNew Orleans, La. ... The Dunlap Shoe Store, 236 S. Rampart St.\nNew York City ... Capitol Shoes, 573 Lennox Ave., at 139th St.\nCity College ... Capitol Shoes, 573 Lennox Ave.\nNorfolk, Va. ... Tony's Shoe Store, 102 Church St.\nSouth Bend, Ind. ... J. Rosenbaum, m. 702 W. Division St.\nMilwaukee, Md. ... M. Rosenbaum, m. 702 W. Division St.\nYpsilantow, Ohio ... Rose, 6, 58th, 557-580 W. Ferdorst St."
+    },
+    {
+      "bbox": [
+        588,
+        92,
+        811,
+        258
+      ],
+      "label": "doc_title",
+      "text": "TRIBUTE PAID BOOKER T. BY DR. WILLIAMS"
+    },
+    {
+      "bbox": [
+        584,
+        285,
+        809,
+        339
+      ],
+      "label": "paragraph_title",
+      "text": "Journalist Comments on Educator"
+    },
+    {
+      "bbox": [
+        580,
+        372,
+        810,
+        752
+      ],
+      "label": "text",
+      "text": "Tuskegee, Ala., April 11\u2014Tribute was paid to the memory of the late Booker T. Washington, founder of Tuskegee institute, in the most eloquent terms by Dr. Talcott Williams, dean emeritus of the Pulitzer School of Journalism, New York city, who delivered the Founder's day address here April 5, during the eighth annual observance of the anniversary of Dr. Washington's birthday. Dr. William was asked, Dr. R. Washburn, M'ron, principal of the institute, and a large and appreciative audience assembled in the institute chapel for these excerpts. Williams was Washington to be national leader,\" who \"shaped the opinion of black and white alike.\" Commenting upon the discouragements while he worked at the institute, Dr. Williams said: \"There were those who doubted, denied, opposed, challenged his purpose, his leadership, and declared his principles and his purposes a surrender of his own life. Too often he came into his own life and his own accepted him not. His lofty nature met the duty of the day, were wounded and sacrificed and death came premature to one worn down by heavy"
+    },
+    {
+      "bbox": [
+        576,
+        632,
+        807,
+        753
+      ],
+      "label": "text",
+      "text": "\"There were those who doubted, condemned his teachings, attacked his leadership, and declared, on prior occasions, that closing the door of the future, his own accepted him put. His lofty nature, his sensitive son, his deep care, his kindness, his deep care, wounded and sacerdote and death came premature to one worm down by heavy pressure.\""
+    },
+    {
+      "bbox": [
+        575,
+        751,
+        805,
+        798
+      ],
+      "label": "text",
+      "text": "\"Many men, the leaders of our day and of the past half century I have known. None had a senior vision, a wide smile, and a strong courage, a more wisdom, a kinder judgement.\""
+    },
+    {
+      "bbox": [
+        571,
+        797,
+        805,
+        955
+      ],
+      "label": "text",
+      "text": "\"Emancipation, he knew, and understood that mere emancipation would not succeed. Preceing a man accomplishes nothing unless he frees himself from sloth, ignorance and mischief, and is willing to deal with the elements. The Negro must do better than the white man or he could not withstand it. If you were every race has wanders and wastes, but if a Negro goes wrong, people say you cannot do any wrong. He must be commending upon the work of Dr. Washington's successor, Dr. Williams, who will follow the tribute to Principal Washington.\""
+    },
+    {
+      "bbox": [
+        566,
+        954,
+        802,
+        1323
+      ],
+      "label": "text",
+      "text": "\"Every boy or girl you can persuade to go to Tukssee successor comes to Washington could have had, whom he would have been. He would remember how difficult the post is to fill and how wise the choice that has been made dent through here. I feel that Principal Moton himself at every point and evidence and certainty that the great world works of Rooker T. Washington not perish with him but lives anew.\"\n\nAGED WOMAN FALLS FOR LOST POCKETBOOK GAME\nPhiladelphia, April 11, 1940\u2014\ndied at 3121 Delancey St. was robbed of $295 on Monday by two men at 37th St. and Woodland Ave. by the \"pocketbook game.\"\nHe just drawn the money from a bank and was on her way to work at the Wister institute when two men approached her and had just found a pocketbook containing a large sum of money and asked her if she wanted some of it. She took the men and did not discover her loss until she reached her work."
+    },
+    {
+      "bbox": [
+        1054,
+        93,
+        1274,
+        261
+      ],
+      "label": "doc_title",
+      "text": "WHITES JOIN PROGRAM FOR RACE UPLIFT"
+    },
+    {
+      "bbox": [
+        1050,
+        287,
+        1277,
+        340
+      ],
+      "label": "paragraph_title",
+      "text": "School Heads Talk to Florida Tourists"
+    },
+    {
+      "bbox": [
+        1040,
+        353,
+        1277,
+        1189
+      ],
+      "label": "text",
+      "text": "The conference closed with a goodwill Sunday, when a thousand white tourists and citizens are located in New York and issued there is no list of accredited institutions sponsored by the council on medical education of the American Medical Association. Upon this subject the Daytona conference passed resolution.\n\nThe conference closed with a goodwill Sunday, when a thousand white tourists and citizens are located in New York and issued there is no list of accredited institutions sponsored by the council on medical education of the American Medical Association. Upon this subject the Daytona conference passed resolution.\n\nThe conference closed with a goodwill Sunday, when a thousand white tourists and citizens are located in New York and issued there is no list of accredited institutions sponsored by the council on medical education of the American Medical Association. Upon this subject the Daytona conference passed resolution."
+    },
+    {
+      "bbox": [
+        1039,
+        1195,
+        1265,
+        1265
+      ],
+      "label": "doc_title",
+      "text": "GARVEYITES ARRESTED WHEN PARADE PERMIT IS MISSING"
+    },
+    {
+      "bbox": [
+        1031,
+        1267,
+        1266,
+        1599
+      ],
+      "label": "text",
+      "text": "Twenty-six men and eight women, all members of the U. N. I. A. Garvey organization, were arrested Monday at Stanton Ave. police station, on an charge of parading without a permit. About as many more escaped the police. They occupied two buildings and were many music furnished by the Garvey hand. The paraders were passing literature which indented Nuthan S. Tayler and were many for Congress. The backers of the \"Back to Africa\" advocates. The case came up for hearing before Judge Bugue Wednesdays morning. George C. Adams, representing the Garveytes, explained that the members were a little enthusiastic over the judge Bugue dismissed the case, stating that the clan was over and \"there would be no cause for another parade soon.\" Some of the leaders in the parade were also arrested. Mrs. Hattie Stevenson, Mrs. Harris, James McGinnis and Richard Jones."
+    },
+    {
+      "bbox": [
+        1032,
+        1610,
+        1263,
+        1680
+      ],
+      "label": "doc_title",
+      "text": "ARREST MAN IN CHICAGO FOR TEN-YEAR-OLD MISS. CRIME"
+    },
+    {
+      "bbox": [
+        1024,
+        1683,
+        1263,
+        2185
+      ],
+      "label": "text",
+      "text": "Through Attorney's Pauston Delaney and W. L. Offord, 184 W. W. Delaney, 184 W. W. corpus has been filed in behalf of Richard Watson, 5300 State St. wanted in West Point, Miss., for burens.\n\nRequest of the Mississippi authorities Watson was taken into custody Wednesday night by Sergt. John Scott of the detective bureau. A police officer in Chicago armed with an indictment against Watson for a crime said to have been committed 10 years ago. According to attorney Offord, shortly after the alleged crime was committed Watson left West Point because he felt he would not get a fair trial. He deaches that he is charged with stealing some goods from a freight car. His hearing on the halabus corpus will be held before Judge Hugo Pam of the superior court Saturday.\n\nWOMAN'S CHARRED BODY IS FOUND BY CHILDREN\n\nPine Bluff, Ark., April 11.\u2014The burned and badly mutilated body of Mrs. Emily Brown, 80 years old, was found in her house, about 10 miles by the morning by her grandchildren.\n\nThe aged woman was last seen alive Thursday and it is evident that she is believed to have been caught fire and that she tried to smother the flames by wrapping herself in her clothing, as the nude body has apparently wrapped in a ruft when found."
+    },
+    {
+      "bbox": [
+        1028,
+        2191,
+        1256,
+        2224
+      ],
+      "label": "paragraph_title",
+      "text": "GOING OUT TONIGHT?"
+    },
+    {
+      "bbox": [
+        1028,
+        2191,
+        1256,
+        2224
+      ],
+      "label": "doc_title",
+      "text": "GOING OUT TONIGHT?"
+    },
+    {
+      "bbox": [
+        1021,
+        2242,
+        1258,
+        2502
+      ],
+      "label": "text",
+      "text": "You can usually tell when a girl or boy is looking forward to an evening out, sit up, eat a dinner, sit in, then be given a voucher to \"fill in.\" as they get ready to go to a party or dance, or have nothing to worry them about the way they look are so much more noticeable by the shrinking and backwardness of the shirt and pants, but because they know how unattractive they must look on account of their plimply, blotchy or rough, eccentric. Their one friend is the wonderful White Ointment. If they will just use it faithfully, because it is not as thick as the skin and make their skin soft, smooth, lovely. It is economically priced, in liberal package. The 50c size\u5bb9\u91cf\u768425c size. All dealers have it\u2014"
+    },
+    {
+      "bbox": [
+        1291,
+        107,
+        1504,
+        207
+      ],
+      "label": "doc_title",
+      "text": "Get's Religion and Tells Law of Booze Ring"
+    },
+    {
+      "bbox": [
+        1286,
+        223,
+        1506,
+        537
+      ],
+      "label": "text",
+      "text": "Raleigh, N.C. April 11.\u2014The Hamramy Ramssey campaign turned in a contribution to law enforcement which has for a matter of five years baffled all federal, state, county and city officers connected with the administration of the prohibition laws in this section, and C. G. Hopkins, gentleman bootlegger, is out on $2,500 bail until the new term of Criminal court. The Hopkins had 180 quarts of as fine bottled goods as the local market has boasted since the Volastak law be abandoned to the apostles of Bucchus. He was \"turned up\" by a revival convert, duped into walking into the Sir James Ward wards and placed under arrest in a room occupied by three deputy sheriff's. The capture was comical. The capture was comical. The booze makes a beautiful picture in the office of Sheriff Harrison."
+    },
+    {
+      "bbox": [
+        1282,
+        547,
+        1508,
+        637
+      ],
+      "label": "doc_title",
+      "text": "FERRELL WINS SCHOLARSHIP"
+    },
+    {
+      "bbox": [
+        1274,
+        667,
+        1510,
+        1095
+      ],
+      "label": "text",
+      "text": "Because of his splendid scholarship in German, Harrison Ferrell, Jr., age 42, graduated as a senior in the college of liberal arts at Northwestern university, has been awarded a fellowship for the year 1924-25. As this bonus the he will receive $900 and this honor will require while he pursues his research work in German languages. This marks the first time in the history of the university at the university that a member of our Race has received such an honor. It is said that the competition this year will be close because of the large number of applicants and their unusual qualities. Ferrell graduated from Englewood College in 1927 and entered the university. During his four years at Northwestern he has been able to receive scholarships from the foundation at 9:30 p.m. at the Blackstone Center at 9:30 p.m. at the College Taber, coloratura-soprano, and Nannie Mae Struynhorn will be immediately after the concert he will perform a violin tour of the South. He is well known in fraternal and study circles, being a member of the Knights of Columbus and the Chicago Music association and president of the Young Men's council."
+    },
+    {
+      "bbox": [
+        1276,
+        1101,
+        1492,
+        1120
+      ],
+      "label": "paragraph_title",
+      "text": "CHAS, STEWART, NOTED"
+    },
+    {
+      "bbox": [
+        1273,
+        1124,
+        1504,
+        1340
+      ],
+      "label": "text",
+      "text": "NEWSPAPER MAN, DIESE\nIanamnolis, Man., DIES, 11\u2014\nCharlotte was well known to Indiana newspaper\ndied Saturday at the city hospital.\nStewart was a brother of George\nStewart, publisher of the Indianapolis\nStewart paper for many years on\nhis brother's paper and he\nwas 65 years old. A few years\nago he went into the barber business,\nwhere he remained until his\ndeath.\n\nROBERT JOPLIN LILL\nIanamnolis, 461. Bowie Ave.\nwell-known haunt of the late Scott Joplin, took suddenly\nand was taken to the county hospital,\nand wishes to hear from friends."
+    },
+    {
+      "bbox": [
+        1286,
+        1361,
+        1723,
+        1418
+      ],
+      "label": "doc_title",
+      "text": "SCIENCE PERFECTS WONDERFUL DISCOVERY GLOSSY, GLORIOUS HAIR"
+    },
+    {
+      "bbox": [
+        1408,
+        1421,
+        1744,
+        1692
+      ],
+      "label": "text",
+      "text": "STRAIGHT OR WAVY\n\nCombs \u2014 No\nbase\u2014Wonder-\nration\u2014Comb\nYou Choose\u2014\nfumed\u2014Used\ncolored Stage\n\nCombs out with\nand colorful\nhealthy appear-\nand glory of\nserves you the\nharm.\n\nTYLE\u2014LUSTROUSLY LIFEFUL"
+    },
+    {
+      "bbox": [
+        1284,
+        1442,
+        1508,
+        1657
+      ],
+      "label": "text",
+      "text": "Without Hot Combs \u2014 No\nMuss\u2014No Grease\u2014Wonderful\nNew Preparation\u2014Comb\nYour Hair as You Choose\u2014\nDelightfully Perfumed\u2014Used\nby Famous Colored Stage\nStars.\n\nYour hair combs out with\nthat radiant and colorful\nsheen and healthy appearance.\nThe gleam and glory of\nbeautiful hair gives you the\nfinal touch of charm."
+    },
+    {
+      "bbox": [
+        1284,
+        1706,
+        1497,
+        1799
+      ],
+      "label": "text",
+      "text": "Nothing adds to your attractiveness like a masterful dress. It is the most valuable and cheerful clauses. It beware enchantment and commands admiration. The most valuable leaders not use this delicateless preposition to use, because they collectively extend and such a pleasure to use, because they conquer and comes out wavy or straight."
+    },
+    {
+      "bbox": [
+        1408,
+        1804,
+        1744,
+        2165
+      ],
+      "label": "text",
+      "text": "RY IT\u2014YOU WILL LOVE IT\nFOR YOUR MONEY SENT RIGHT BACK\nkick their best and at all times be attractive this scientific prepara-\ntion need not risk a cost in any way. We absolutely guarantee you\nspecially refund your money. It even darkens selling back. It will\nor today. Just try a really wonderful preparation. Address the\n3. Mutual Bldg., Kansas City, Mo.\n\nHOW CAN I DO IT?\nSPANISH LACE AND\nSILK GEORGETTE\nCREPE DRESSES\n\nSpecial\nSale\nPrice\nOnly\n\n$4.97\nWorth\n$15.00"
+    },
+    {
+      "bbox": [
+        1283,
+        1806,
+        1711,
+        1868
+      ],
+      "label": "text",
+      "text": "JUST TRY IT\u2014YOU WILL LOVE IT\nOR YOUR MONEY SENT RIGHT BACK\nTo those who want to help, remember that this scientific preparation is without sequel. You need not risk a rent to try it. We absolutely guarantee you will successfully refund your money. It even darns tearing. It will you\u5fcd\u8010ity."
+    },
+    {
+      "bbox": [
+        1284,
+        1864,
+        1710,
+        1880
+      ],
+      "label": "text",
+      "text": "Write for special offer today. Just try a really wonderful preparation. Address the Mutual Laboratorica, Desk 3, Mutual Bldg., Kansas City, Mo."
+    },
+    {
+      "bbox": [
+        1408,
+        2165,
+        1744,
+        2591
+      ],
+      "label": "text",
+      "text": "Wear this dress, for going out\u2014to parties, to\nwalking, everywhere. It is appropriate, aylish\nand 'classy'. For young and old, and for all\ntypes of adults, a woman should have this\nwonderful party dress.\n\nA Dress You Will Be Prod. to Wear\nMade of fine quality, good wearing Spanish lace\nand floral floral dress. The dark green lace\nsleeves are. Just the thing. Trimmed at the\nback, to retain your own uniqueness and for\neurope. Wide radiusilk glint at the waist,\ntrifinished with pretty flower at the side, attracts\nthe eye. A high class, luxurious, silky\neardrush. I include a high class, luxurious, silky\neardrush. Making the dress absolutely Shadow Prod.\nThis dress is copied from a Spanish lace dress formerly\nsold by me for $13.50, but at few clever changes to de-\npress the price will cost $4.97. - price so low that you will surely want it. At any time I am so sure that you will keep\nit if you don't make a masterpiece, you can\nsee it without any risk.\n\nSEND NO MONEY\nSend only a letter or postcard now. When dress\narrives pay them a few cents in cash.\nThen examine and try on in your own home. If you like it is yours, but that faire.\n\nMARY ROBERTS Care of\nNorman Roberts & Co.\nDept. 21D60, 1428 N. Wells St., C.icago, Ill."
+    },
+    {
+      "bbox": [
+        1359,
+        651,
+        1432,
+        662
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        1335,
+        1691,
+        1449,
+        1703
+      ],
+      "label": "text",
+      "text": "Beautiful Hair"
+    },
+    {
+      "bbox": [
+        1523,
+        96,
+        1743,
+        263
+      ],
+      "label": "doc_title",
+      "text": "LODGE GIVES DONATION TO OPEN BUREAU"
+    },
+    {
+      "bbox": [
+        1516,
+        291,
+        1743,
+        345
+      ],
+      "label": "paragraph_title",
+      "text": "Masons of Florida Aid Race Congress"
+    },
+    {
+      "bbox": [
+        1514,
+        371,
+        1743,
+        621
+      ],
+      "label": "text",
+      "text": "Washington, D. C., April 11. Through the legislative or information bureau which the National Race Commission soon after its annual session beginning April 29, information pertaining to all phases of racial life and welcoming for the rights of our Race will be available for distribution throughout the country to interested persons, organizations, newspapers, magazines, and certain sections of this country will come immediately under attack. Representative George Holden Tinkham kills a author of a resolution in the federal court a reduction in representation of those states which deny citizens the right to vote, has tentatively agreed to address the Race congress on this issue."
+    },
+    {
+      "bbox": [
+        1510,
+        620,
+        1744,
+        1346
+      ],
+      "label": "text",
+      "text": "As a prelude to the attack upon the laxity of the system that allows color in spite of Constitution and account of anties to the contrary now instillating the Race Congress in this session to resolve itself to the task of arousing militant spirit and resolute determination with which the Race Congress is fighting the light. Men and women and prestige having interest in this work are being invited to address the sessions on these subjects, therefore has been extremely fortunate that he will deliver an address on this occasion.\n\nAll will remember Senator Borah for his timely, unsolicited defense on the leading constitutional lawyers of this country; the John S. Scales brute' after the race all rights of the public generally. And only here on a government ago, when a conference on enforcement of the John S. Scales brute"
+    },
+    {
+      "bbox": [
+        1502,
+        1692,
+        1714,
+        1804
+      ],
+      "label": "text",
+      "text": "Special Offer\n\nThis new preparation is now used by many cooks. It is a regular price for this wonderful creation is more than a thousand dollars but not allow the many thousands who have not yet received it wonderful it really is, we are making a recipe to can it ten days and if not more than can it ten days and if not more than it is just the same now more and book it is just the same"
+    },
+    {
+      "bbox": [
+        1733,
+        166,
+        1972,
+        529
+      ],
+      "label": "text",
+      "text": "Restores Lost Vigor; Glands Made Active; Youthful Vigor Thrills\n\nRESULTS\u2014OR NO COST\n\nNOT A DRUG\nResults\nReported in 24 Hours\n\nMan 60 years old took of amazing rejuvenation and youthful gland vigor\u2014without regard to operation."
+    },
+    {
+      "bbox": [
+        1733,
+        528,
+        1972,
+        1138
+      ],
+      "label": "text",
+      "text": "Hoe says. You gland dissection in worth\nhis money. I thought my youthful days were gone\nforever, but praised to your wonderful gland\nman. You can depend upon me for my mil-\ntenance and boasting for your functi-\non of youth.\n\nTHE THIRD JOJOSEE GAND ACTIVITY\n\nIf age, sickness, dissipation, or permissive\nbehavior you are weak and your system run down;\nif you have to get up during the night; if\nenergy this new scientific gand extillate will\nyou can again be blessed with joyous activity;\nif you have to work with money is refunded; Many wars will thank you;\nif work directly on the vital glands, it\nvives, stimulates, regulates and makes dorm-\nnation new compounded for home use. You can\nhave a short time the double stretch $3.00 comp-\npounded for home use. You can want to feel the thrill of joyful time and health don't delay in making this singing dissection. Mutual Illic, Kansas City. Mm. Laberence. Mutual Illic, Kansas City. Mm. Laberence. As the double stretch is for men.\n\nPongee Bargain\n\nNewest Style\n\n3-Piece\n\nSUIT\n\nDRESS\n\n$3.79\n\nFrench\n\nModel\n\nPleated\n\nSkirt"
+    },
+    {
+      "bbox": [
+        1733,
+        1136,
+        1972,
+        2482
+      ],
+      "label": "text",
+      "text": "SEND No Money\nMade in the United States\nMade in the United States\nMade in the United States\n\nWorld Mall\nOklahoma\nDent, B9860\n2853 VanBuer\nSt. Chicago\n\nCHANGE YOUR LUCK!\nIF LUCK has been against you, wear this\nRing of Fortuna. Luck conquers all. Fortuna\nwear for mystic Sym-\nmonies, masterpieces of art,\u8be6\nmasterpieces of art,\u8be6\nmounted, camouflaged,\nwith the Lady Luck. Ring in\nLady Luck. Ring in\nLady Luck. Ring in\nLady Luck. Fully guar-\nnished, gifts to loved ones.\nNothing like it society.\nKneecity Designed and\nSited for Charming\nhave money, sweet-\nheart, health and leis-\nure. Write today. A pleasing surprise awaits you.\n\nSEND NO MONEY\nOnly your money can address\nWhen your\nring comes down in trust with the\nmoney. Send $1.75 in cash or\n$1.57. Or if you like, send $1.75 in cash or"
+    }
+  ]
+}
