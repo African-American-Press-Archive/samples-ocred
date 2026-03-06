@@ -1,0 +1,28 @@
+{
+  "page": 2,
+  "image": "images/page_02.jpg",
+  "width": 2160,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        922,
+        1908,
+        1225,
+        1943
+      ],
+      "label": "text",
+      "text": "COMERCIAL BARBER SHOP,\n94 E. 5th Street, St. Paul, W. J. Utley, Prop."
+    },
+    {
+      "bbox": [
+        967,
+        2617,
+        1212,
+        2650
+      ],
+      "label": "text",
+      "text": "SIR KNIGHT ANDREW JACKSON,\nOldest Mason in St. Paul."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 2155,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        203,
+        497,
+        566,
+        2780
+      ],
+      "label": "text",
+      "text": "RESIDENCE OF W. J. UTLEY,\n818 Edmund Street, St. Paul.\n\nLITTLE SAVOY CAFE, GUS. HENRY, PROP.\n138 East Third Street, St. Paul.\n\nRESIDENCE OF DR. O. D. HOWARD,\n447 Carroll Street, St. Paul.\n\nHOTEL COSBY, W. S. COSBY, PROP.,\n133-137 E. Ninth Street, St. Paul.\n\nPEKIN HOTEL, MRS. JACK HUNTER, PROP.\n456 East Seventh Street, St. Paul."
+    },
+    {
+      "bbox": [
+        892,
+        500,
+        1230,
+        999
+      ],
+      "label": "text",
+      "text": "W. B. ELLIOTT'S STORE, AND RESIDENCE,\n411-415 West University Avenue, St. Paul.\n\nC. A. SMITH. TAILOR.\n\nTAILOR\n\nPAIRING PRESS"
+    },
+    {
+      "bbox": [
+        892,
+        1031,
+        1230,
+        2125
+      ],
+      "label": "text",
+      "text": "A. POPE,\nSeapolis.\n\nRES\n2812 Nin"
+    },
+    {
+      "bbox": [
+        892,
+        2158,
+        1230,
+        2639
+      ],
+      "label": "text",
+      "text": "PORTRAIT OF A MASTERLY DINING ROOM"
+    },
+    {
+      "bbox": [
+        892,
+        2672,
+        1230,
+        2780
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        691,
+        1624,
+        958,
+        1658
+      ],
+      "label": "text",
+      "text": "RESIDENCE OF SERGT. Z. A. POPE,\n216 Thirty-first Street, Minneapolis."
+    },
+    {
+      "bbox": [
+        913,
+        2125,
+        1230,
+        2158
+      ],
+      "label": "text",
+      "text": "OFFICE OF DR. H. I. WILLIAMS, DENTIST,\nCorner 7th and Robert Streets, St. Paul."
+    },
+    {
+      "bbox": [
+        959,
+        999,
+        1187,
+        1031
+      ],
+      "label": "text",
+      "text": "C. A. SMITH, THE TAILOR,\n109 East Eighth Street, St. Paul."
+    },
+    {
+      "bbox": [
+        951,
+        2639,
+        1197,
+        2672
+      ],
+      "label": "text",
+      "text": "RAMSEY COUNTY SOCIAL CLUB,\n115 East Third Street, St. Paul."
+    },
+    {
+      "bbox": [
+        1167,
+        1629,
+        1443,
+        1663
+      ],
+      "label": "text",
+      "text": "RESIDENCE OF L. W. SMITH,\n2812 Ninth Avenue South, Minneapolis."
+    },
+    {
+      "bbox": [
+        1556,
+        504,
+        1916,
+        2415
+      ],
+      "label": "text",
+      "text": "B. R. DURANTS' RESIDENCE AND BARBER SHOP,\n839 Payne Avenue, St. Paul.\n\nTHE DUBLIN INN, R. S. HARRIS, PROP.,\n378 Minnesota Street, St. Paul.\n\nRESIDENCE OF J. Q. ADAMS,\n527 St. Anthony Avenue, St. Paul.\n\n..C. P. TYLER\nAnd Party in His Seven Seat Oldsmobile."
+    },
+    {
+      "bbox": [
+        1562,
+        2641,
+        1933,
+        2673
+      ],
+      "label": "text",
+      "text": "ZION BAPTIST CHURCH,\nCorner 4th Street and 6th Avenue North, Minneapolis."
+    }
+  ]
+}

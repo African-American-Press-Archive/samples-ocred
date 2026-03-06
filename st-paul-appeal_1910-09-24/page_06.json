@@ -1,0 +1,218 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 2110,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        118,
+        606,
+        454,
+        1053
+      ],
+      "label": "text",
+      "text": "F. L. McGHEE,\nLeading Lawyer, St. Paul."
+    },
+    {
+      "bbox": [
+        118,
+        639,
+        517,
+        1535
+      ],
+      "label": "text",
+      "text": "E. J. STEWART,\nManager Twin City Club, Minneapolis.\n\nF. D. PA\nFirst Editor of"
+    },
+    {
+      "bbox": [
+        118,
+        1084,
+        517,
+        2016
+      ],
+      "label": "text",
+      "text": "C. B. YANCEY,\nClerk, Auditor's Office, Minneapolis.\n\nTHE ADAMS\nChildren of E"
+    },
+    {
+      "bbox": [
+        118,
+        1568,
+        517,
+        2593
+      ],
+      "label": "text",
+      "text": "MME. R. C. MINOR,\nMusic Teacher, Leading Soprano, St. Paul.\n\nW. T. FR.\nChief Clerk, Legal Inter-\nern Pacific\n\nGOLORED ORPHANAGE\nAND OLD FOLKS HOME"
+    },
+    {
+      "bbox": [
+        118,
+        2061,
+        517,
+        2780
+      ],
+      "label": "text",
+      "text": "COLORED ORPHANAGE\nAND OLD FOLKS HOME\n\nORPHANAGE AND OLD FOLKS' HOME,\nRandolph and Brimhall Streets, St. Paul."
+    },
+    {
+      "bbox": [
+        226,
+        2626,
+        517,
+        2780
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        384,
+        1053,
+        642,
+        2593
+      ],
+      "label": "text",
+      "text": "F. D. PARKER,\nFirst Editor of Western Appeal.\n\nTHE ADAMS QUARTET,\nChildren of Editor Adams.\n\nW. T. FRANCIS,\nChief Clerk, Legal Department, Northern Pacific Railway."
+    },
+    {
+      "bbox": [
+        384,
+        2626,
+        642,
+        2780
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```"
+    },
+    {
+      "bbox": [
+        817,
+        795,
+        1255,
+        829
+      ],
+      "label": "text",
+      "text": "REV. E. H. McDONALD, D. D.\nPastor Pilgrim Baptist Church, Cedar near Summit, St. Paul."
+    },
+    {
+      "bbox": [
+        648,
+        2106,
+        905,
+        2629
+      ],
+      "label": "text",
+      "text": "REV. M. W. WITHERS,\nPastor Zion Baptist Church, Minne-\nneapolis.\n\nMRS. IONE E. GIBBS,\nPresident Minnesota Women's Fed-\neration, Minneapolis."
+    },
+    {
+      "bbox": [
+        900,
+        1719,
+        1175,
+        2722
+      ],
+      "label": "text",
+      "text": "EDITOR J. G. ADAMS\n\nFATHER STEPHEN THEOBOLD,\nPastor St. Peter Claver Catholic\nChurch, St. Paul.\n\nMME. FRANCES E. DE LEO,\nLeading Soprano, Minneapolis."
+    },
+    {
+      "bbox": [
+        1183,
+        2115,
+        1437,
+        2621
+      ],
+      "label": "text",
+      "text": "MME. HELEN A. W. YANCEY,\nLeaing Pianist of Minnesota.\n\nMRS. J. H. CHARLESTON,\nRoyal Grand Matron O. E. S., St. Paul."
+    },
+    {
+      "bbox": [
+        1582,
+        621,
+        1807,
+        654
+      ],
+      "label": "text",
+      "text": "ST. JAMES A. M. E. CHURCH,\nJay and Fail\u5c14 Streets, St. Paul."
+    },
+    {
+      "bbox": [
+        1428,
+        654,
+        1682,
+        1067
+      ],
+      "label": "text",
+      "text": "SIMON B. BURGESS"
+    },
+    {
+      "bbox": [
+        1428,
+        654,
+        1852,
+        1551
+      ],
+      "label": "text",
+      "text": "OWEN HOWELL,\nProprietor Valet Tailoring Co., St.\nPaul.\n\nC. H. MILLER,\nBaritone, Musical Direc"
+    },
+    {
+      "bbox": [
+        1428,
+        1107,
+        1852,
+        2033
+      ],
+      "label": "text",
+      "text": "MRS. J. Q. ADAMS,\nWife of Editor Adams,\n\nW. H. H. FRAN\nEminent Lawyer, M"
+    },
+    {
+      "bbox": [
+        1428,
+        1588,
+        1852,
+        2605
+      ],
+      "label": "text",
+      "text": "R. E. ANDERSON,\nDeputy Sheriff, Ramsey County.\n\nMRS. C. McCULLEY,\nLeader McCullough Orca\napolis."
+    },
+    {
+      "bbox": [
+        1428,
+        2078,
+        1852,
+        2780
+      ],
+      "label": "text",
+      "text": "PARSONAGE ST. JAMES A. M. E. CHURCH,\nJay and Fuller Streets, St. Paul."
+    },
+    {
+      "bbox": [
+        1530,
+        2637,
+        1852,
+        2780
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        1692,
+        654,
+        1946,
+        2605
+      ],
+      "label": "text",
+      "text": "C. H. MILLER,\nBaritone, Musical Director, St. Paul.\n\nW. H. H. FRANKLIN,\nEminent Lawyer, Minneapolis.\n\nMRS. C. McCULLOUGH,\nLeader McCullough Orchestra, Minneapolis."
+    },
+    {
+      "bbox": [
+        1692,
+        2637,
+        1946,
+        2780
+      ],
+      "label": "text",
+      "text": "---"
+    }
+  ]
+}
