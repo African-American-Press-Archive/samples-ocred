@@ -1,0 +1,298 @@
+{
+  "page": 2,
+  "image": "images/page_02.jpg",
+  "width": 2012,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        198,
+        185,
+        971,
+        292
+      ],
+      "label": "doc_title",
+      "text": "Why Pay Cash?"
+    },
+    {
+      "bbox": [
+        198,
+        185,
+        971,
+        292
+      ],
+      "label": "paragraph_title",
+      "text": "Why Pay Cash?"
+    },
+    {
+      "bbox": [
+        193,
+        313,
+        988,
+        524
+      ],
+      "label": "text",
+      "text": "for Jewelry When you can get the best the market affords on the"
+    },
+    {
+      "bbox": [
+        255,
+        842,
+        915,
+        983
+      ],
+      "label": "text",
+      "text": "Each Article Guaranteed to Give Perfect Satisfaction--You Are the Judge McMinn Jewelry Co."
+    },
+    {
+      "bbox": [
+        259,
+        1136,
+        926,
+        1406
+      ],
+      "label": "doc_title",
+      "text": "COMING!\nBIG Y. M. C. A.\nIndoor Carnival\nand BAZAAR"
+    },
+    {
+      "bbox": [
+        255,
+        1417,
+        927,
+        1696
+      ],
+      "label": "text",
+      "text": "Six Big Gala Nights Beginning Nov. 22, 1920\nBaby Show Thanskgiving Afternoon and night. For the finest Baby $5.00 in Gold; Second Prize $2.50. Contest open to all Babies under two years of aie. Plenty Amusement. Free attraction. Don't forget Turkeys, Hams, Bacons, Candy and Groceries and Brown Skin Baby Dolls.\nMASONIC HALL, TULSA, OKLAHOMA\nAdmission 15 Cents Each Night\nSeason Ticket 75 Cents"
+    },
+    {
+      "bbox": [
+        190,
+        667,
+        668,
+        1877
+      ],
+      "label": "text",
+      "text": "$1.00\nDOWN\n\nEach Article Guaranteed\nSatisfaction--You Are\n\nMcMinn Jewel\n\n123 East Third Street\n\nCOMING\nBIG Y. M.\nIndoor Car\nand BAZA\nSix Big Gala Night\nNov. 22, 18\n\nBaby Show Thanskgiving Afternoon and n\n$5.00 in Gold; Second Prize $2.50. Contest\ntwo years of aie. Plenty Amusement. Fri\nget Turkeys, Hams, Bacons, Candy and G\nBaby Dolls.\n\nMASONIC HALL, TULSA\nAdmission 15 Cents B\nSeason Ticket 75\n\nTHE EAST INDIA HAIR GROWER"
+    },
+    {
+      "bbox": [
+        212,
+        1811,
+        669,
+        1860
+      ],
+      "label": "paragraph_title",
+      "text": "THE EAST INDIA HAIR GROWER"
+    },
+    {
+      "bbox": [
+        450,
+        1877,
+        668,
+        1972
+      ],
+      "label": "text",
+      "text": "ill Promote a Full Growth Hair. Will also Restore the length, Vitality and the auty of the Hair. If your air is Dry and Wiry, Try"
+    },
+    {
+      "bbox": [
+        446,
+        1988,
+        668,
+        2092
+      ],
+      "label": "paragraph_title",
+      "text": "East India Hair Growar"
+    },
+    {
+      "bbox": [
+        270,
+        2110,
+        668,
+        2367
+      ],
+      "label": "text",
+      "text": "If you are bothered with Falling Hair, Dandruff, Itching Scalp, or any Hair Trouble, we want you to try a jar of EAST INDIA HAIR GROWER. The remedy contains $HtM tkwwa cmfwyp jqkgbm mfi medical properties that go to the roots of the Hair stimulates the skin, helping nature to do its work. Leaves the hair soft and silky. Perfumed with balm of a thousand flowers. The best known remedy for Htavy and Beautiful Black Eys Briws, also restores Gray Hair to its Natural Color. Can be used with Hot Iron for Straightening. Price sent by Mail. 50c 10c Extra for Portage"
+    },
+    {
+      "bbox": [
+        190,
+        2219,
+        668,
+        2481
+      ],
+      "label": "text",
+      "text": "medical properties that go to the roots of the Hair stimulates the skin, helping nature to do its work. Leaves the hair soft and silky. Perfumed with balm of a thousand flowers. The best known remedy for Htavy and Beautiful Black Eys Briws, also restores Gray Hair to its Natural Color. Can be used with Hot Iron for Straightening. Price sent by Mail, 50c, 10c Extra for Postage.\n\nAGENT'S OUTFIT\n1 Hair Grower, 1 Temple Oil, 1 Face Cream and Directlin for Selling, $2.00.\nOil, 1 Shampoo, 1 Pressing\n25c Extra for Postage"
+    },
+    {
+      "bbox": [
+        190,
+        2409,
+        668,
+        2780
+      ],
+      "label": "text",
+      "text": "1 Hair Grower, 1 Temple\nOil, 1 Face Cream and Directin for Selling, $2.00.\n25c Extra for Postage\nS. D. LYONS, Gen. Agt.\n316 N. Central, Oklahoma City, Okla.\n\nWe sell all he leading Race Journals and Periodicals. If you a reader of some of them you ought to be. Let us supply you.\nWe also sell Ice Cream, Watermelon, Fruits, Candies and Cold Payusa Visit.\n216 East Archer Street"
+    },
+    {
+      "bbox": [
+        150,
+        2587,
+        727,
+        2666
+      ],
+      "label": "text",
+      "text": "We sell all he leading Race Journals and Periodicals. If you are anot a reader of some of them you ought to be. Let us supply you.\n\nWe also sell Ice Cream, Watermelon, Fruits, Candies and Cold Drinks Payusa Visit. 216 East Archer Street"
+    },
+    {
+      "bbox": [
+        701,
+        675,
+        1025,
+        2780
+      ],
+      "label": "text",
+      "text": "$1.00\nA WEEK\n\nGive Perfect\nthe Judge\n\nry Co.\nOpposite Hotel Tulsa\n\nC. A.\nFival\nAR\nBeginning\n0\n\nFor the finest Baby\nmen to all Babies under\nattraction. Don't for-\nseries and Brown Skin\n\nOKLAHOMA\nCh Night\nCents\n\nProf. Johnson Conducts Big Chorus\n\nTexarkana, Texas.\u2014One of the largest and most appreciative audiences that ever assembled in this section of the Southwest was that which greeted the big chorus of two hundred voices, presenting \"An Evening With Negro Composers,\" in this city, Tuesday evening, October 19th.\n\nThe chorus was under the direction of Prof. H. B. P. Johnson of Nashville, Tenn., who ranks among the foremost conductors of the present day. His ability to evolve from a mass of untrained singers, a chorus which in a very short time becomes as responsive to his baton as an aggregation of veteran singers, places him in a class far beyond the average conductor.\n\nThis was the first time that a program of this sort had been attempted in Texarkana, but so great was the interest, that more than a third of the audience was made up of white people.\n\nThe program was begun with an anthem, \"Let Us All Give Thanks,\" by J. H. Carter, which was rendered in a style that soon convinced the audience that it was to be given an \"evening of music\" that it would not soon forget. Other anthems rendered during the evening were \"Princes Awake,\" by William Roseborrough and Nathaniel Dett's \"Listen to the Lambs,\" which was rendered in a style that brought forth round after round of applause from the large audience. Folk songs, art songs and piano selections by Negro composers made up the program which was enthusiastically received by the very appreia-tice audience.\n\nThe pastor and Music committee of the First Baptist Church (white) after hearing this chorus, requested that it render a Sacred Concert on the following Sunday evening, at which time nearly a thousand persons were present. This was the first time in history that a chorus of Negro singers had been invited to sing before a white audience in Texarkana, and Prof. Johnson has the distinction of being the first Negro conductor to be so highly honored by the white people of this section of Texas."
+    },
+    {
+      "bbox": [
+        1024,
+        154,
+        1316,
+        1042
+      ],
+      "label": "text",
+      "text": "Claxton Calle Educational Conference\n\n(By The Associated Negro Press)\nWashington, D. C., Nov. 12.\u2014A citizens' conference on education of Colored people, has been caked by Dr. P. P. Claxton, commissioner of education at Atlanta.\n\nInvitations have been sent to the governors and state superintendents of public instruction of all the Southern states, to the presidents of industrial schools, colleges and universities, to influential business men and to leading me nand women of the South who have shown a deep interest in improving education among 12,000,000 Colored Americans.\n\n\"The Southern States,\" says Dr. Claxton, \"are spending many millions of dollars annually to improve Colored schools. The amount will no doubt be largely increase.\" It is important that this money should be used to the best advantage.\"\n\nTwo sessions of the conference on education will be devoted to a discussion of the work, conditions and needs of colleges of agriculture and mechanic arts in the South. The discussions will be based on a report by Dr. Walton C. John, specialist in land grant college statistics for the United States Bureau of Education, who is now making a survey of these institutions."
+    },
+    {
+      "bbox": [
+        1045,
+        1042,
+        1298,
+        1120
+      ],
+      "label": "paragraph_title",
+      "text": "For Men Who Are Particular Regarding Underwear Quality"
+    },
+    {
+      "bbox": [
+        1043,
+        1128,
+        1297,
+        1307
+      ],
+      "label": "text",
+      "text": "A glimpse into the lockers or dressing rooms of any field or athletic club affords ample proof of the fact that men are as particular about the quality and fit of their underwear as they are about their hats, neckwear and shoes. For men who are particular regarding the fit, quality and service of their underwear\u2014we urge an early inspection of our"
+    },
+    {
+      "bbox": [
+        1051,
+        1320,
+        1289,
+        1418
+      ],
+      "label": "paragraph_title",
+      "text": "Allen A\nCOOPER'S-BENNINGTON\nUnderwear"
+    },
+    {
+      "bbox": [
+        1024,
+        1427,
+        1316,
+        1667
+      ],
+      "label": "text",
+      "text": "We recommend Allen A Cooper's\nBennington Spring Needle Underwear\nfor the plain, old fashioned reason\nthat it satisfies our most particular\ncustomers.\n\nIt fits perfectly, retains its shape; and even\nafter repeated trips to the laundry, never\nbecomes a baggy, shapeless mass of arms,\nlegs and trunk.\n\nThese garments are of that fine quality most\nmen these days look for and expect.\n\nWe offer the complete line\u2014all sizes, all\nstyles and weights for men and boys.\n\nELLIOT & HOOKER\n124 N. GREENWOOD\nTULSA, OKLAHOMA"
+    },
+    {
+      "bbox": [
+        1036,
+        1726,
+        1315,
+        1764
+      ],
+      "label": "text",
+      "text": "ARE YOU SICK?"
+    },
+    {
+      "bbox": [
+        1036,
+        1726,
+        1315,
+        1764
+      ],
+      "label": "paragraph_title",
+      "text": "ARE YOU SICK?"
+    },
+    {
+      "bbox": [
+        1024,
+        1764,
+        1316,
+        2780
+      ],
+      "label": "text",
+      "text": "If so your greatest ambition should be to get well the chiropractic way (without drugs or surgeonary) the primary cause of all disease is pressure on the spinal cord in the back bone and these causes can not be rattached with drugs or by operating the only way of getting permanent relief is to have these causes removed. This can only be done by an experienced chiropractor. A trial course will convince you. It will cost you nothing to find out your condition and a very little to get well. Come all you that ails and are burden with disease and I will give you advice take my adjustments upon your spine and they will give you health. Though we are despised and fought by all other Doctors, we like competition for we have had four years experience and know what we are doing and can find the cause of diseases and know how to remove it if you are despondent and feel all out and down talk it over with\n\nDR. L. S. NEAL\nGraduate Chicago University\n617 E. Archer St. Tulsa, Okla."
+    },
+    {
+      "bbox": [
+        1421,
+        245,
+        1878,
+        2383
+      ],
+      "label": "text",
+      "text": "Special\nANNOUNCEMENT\nTO ALL OUR\nPatrons\n\n30c\nON THE DOLLAR\n30c\nON THE DOLLAR\n30c\nON THE DOLLAR\n\nWe are pleased to announce the arrival of a Big Shipment of Ladies' and Men's Ready to Wear, having bought this stock of merchandise in New York in large quantities, we will be able to sell it at 30 cents on the dollar. You are cordially invited to visit our store, and be convinced of the bargains we have to offer. Come one and all and get your share of this CUT Price Merchandise while it LAST, because at the prices we are going to offer it, it can't last very long. Visit our store first before going elsewhere, and you won't be sorry. We carry a full line of every description in Dry Goods, Shoes and Ready to wear for the ENTIRE FAMILY.\n\nTHE NORTH MAIN\nDEP'T. STORE\n109 NORTH MAIN\n\nPlace Barber Shop\nan art in shaving and we are masters of the art. Good service and Courteous Treatment is our inducements.\n\nS\u00f8nny Frazier, Prop.\nN. Greenwood Tulsa, Okla."
+    },
+    {
+      "bbox": [
+        1409,
+        1043,
+        1810,
+        1769
+      ],
+      "label": "text",
+      "text": "ON THE DOLLAR\n\nWe are pleased to announce the arrival of a Big Shipment of Ladies' and Men's Ready to Wear, having bought this stock of merchandise in New York in large quantities, we will be able to sell it at 30 cents on the dollar. You are cordially invited to visit our store, and be convinced of the bargains we have to offer. Come one and all and get your share of this CUT Price Merchandise while it LAST, because at the prices we are going to offer it, it can't last very long. Visit our store first before going elsewhere, and you won't be sorry. We carry a full line of every description in Dry Goods, Shoes and Ready to wear for the ENTIRE FAMILY."
+    },
+    {
+      "bbox": [
+        1343,
+        2215,
+        1887,
+        2252
+      ],
+      "label": "text",
+      "text": "There is an art in shaving and we are masters of the art. Good Service and Courteous Treatment is our inducements."
+    },
+    {
+      "bbox": [
+        1605,
+        2383,
+        1798,
+        2416
+      ],
+      "label": "paragraph_title",
+      "text": "Jack Dennis"
+    },
+    {
+      "bbox": [
+        1523,
+        2449,
+        1878,
+        2556
+      ],
+      "label": "text",
+      "text": "Rose like the Boston Tar-Baby. A stumbling block in all Barbers' way. Pig-Iron, King, Big window washer, Intelligent Table Waiters."
+    },
+    {
+      "bbox": [
+        1421,
+        2626,
+        1878,
+        2780
+      ],
+      "label": "text",
+      "text": "Barber Service"
+    }
+  ]
+}
