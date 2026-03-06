@@ -1,0 +1,608 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1784,
+  "height": 2519,
+  "regions": [
+    {
+      "bbox": [
+        102,
+        142,
+        526,
+        200
+      ],
+      "label": "text",
+      "text": "DESMOINES,SEPTEMBER26-OCTOBER1"
+    },
+    {
+      "bbox": [
+        103,
+        376,
+        517,
+        537
+      ],
+      "label": "text",
+      "text": "Nearly 5000 Regular Troops from the Mid-Western Army Posts and Forts will participate in this great tournament. Every day a feature day and on every day a great demonstration of what the various branches of the service actually do in battle. A great Military Camp on the State Fair Grounds open at all times to visitors."
+    },
+    {
+      "bbox": [
+        102,
+        818,
+        532,
+        1343
+      ],
+      "label": "text",
+      "text": "Eight-Piece Battery Field Artillery Going Into Action\n\nInfantry, artillery, mountain batteries, wireless telegraphy, air craft, cavalry, bridge engineers etc., will participate daily in the great sham battles. Every evolution, every movement in plain view from Grand Stand and Paddock Seats.\n\nThis will be the last Great Army Tournament to be held in this section of the country for many years to come.\n\nGrand Stand reserved seats 75cts; box seats $1. Out of town orders, address Tournament Committee, Fleming Building must be accompanied by price of seats."
+    },
+    {
+      "bbox": [
+        81,
+        1405,
+        304,
+        1425
+      ],
+      "label": "paragraph_title",
+      "text": "INSURANCE MENT TOPITTSBURG"
+    },
+    {
+      "bbox": [
+        66,
+        1436,
+        304,
+        2419
+      ],
+      "label": "text",
+      "text": "Texas Man Heads American Life Association\u2014T. W. Blackburn Re-elected Secretary.\n\nDes Moines.\u2014Uniform state laws for the benefit of insurance companies, regulating taxation of companies, licensing of insurance agents and protecting companies from sludden statements of opposition agents will be sought by the American Life convention, which closed its annual convention after it had referred the uniform legislation matter to the executive committee.\n\nT. W. Vardell head of the Southwestern Life Insurance company of Dallas, tex., was elected president after a spirited contest with Felix G. Cross, of Chicago, representing the men who did not think the office should go to the south. Hon. Frank D. Jackson was elected vice-president for Iowa. T. W. Blackburn of Omaha, was re-elected secretary.\n\nIsaac M. Hamilton, Chicago; M. A. Woolen, Indianapolis; J. B. Reynolds, Kansas City, Mo.; W. A. Lindy, Lincoln, Nebr.; P. D. Gold, Jr. Raleigh, S. C., and Thomas L. Miller, San Francisco, were elected members of the executive committee.\n\nPittsburgh won over St. Paul and Washington, D. C., for the site of the next meeting, the invitation of St. Louis having been withdrawn.\n\nTeacher Wins Damage Suit.\nMason City \u2014 A jury at Northwood gave Laura Molsberry, a school teacher, $1,950 as damages in a suit against Otto Christians, a Gratton banker, for injuries received when Miss Molsberry was struck by the defendant's apto.\n\nNoble Will Speak.\nPleasantville. \u2014 A fall festival and reunion of the Third Iowa cavalry will be held here September 27 to October 1. General John Noble of St. Louis will be one of the speakers.\n\nWoman Fights. Burglar.\nCouncil Bluffs \u2014 Mrs. F. F. Frohm engaged in a hand to hand fight with a burglar whom she found in her home. The man escaped. A young man giving the name of Bernard Lounck was later arrested. He had considerable jewelry upon him.\n\nFoster Passes Examination.\nCreston \u2014 Bernard Foster, of this city, was one of the three men out of a class of 26 who succeeded in passing the last state pharmacy examination held in Des Moines."
+    },
+    {
+      "bbox": [
+        304,
+        1414,
+        533,
+        2412
+      ],
+      "label": "text",
+      "text": "Correctionville.\u2014Much interest is being shown in the county experiment farm here. A delegation of about twenty-five farmers were here recently and had Prof. G. H. Bliss of the state college at Arnes take them over the several hundred plots of corn these. Hundreds of farmers are by getting valuable information there. An instance of the value of the experiment farm is this, one Woodbury county farmer who has prided himself on his knowledge of corn, was here to see the three plots planted from his corn. While the stalks stood ten to fifteen feet high, the ears were short, immature and pointed. On either side was corn with \"orter stalks\" larger and more mature ears. He saw that in the same soil, exactly the same planting and cultivation, his neighbor's corn was far ahead of his. He saw the point and announced: \"I guess all will have to change my variety.\"\n\nThere are more than 100 samples planted from over the county, from corn breeders and seed houses. The varieties best adapted to this section are therefore plainly shown, the value of such demonstrations be manifold, if the farmers will be led the lesson. Many are doing so.\n\nTakes Acid For Medicine; Dies Mitchellville.-T. F. Barnes, an aged man, drank a quantity of carbolic acid thinking it was medicine. Though physicians were called at once Barnes died within a short time.\n\nIowa Farm Brings $200 Acre. Iowa City.\u2014The immense increase in real estate values in and near Iowa City is shown by the sale of Daniel Donohoe's 160-acre farm to John Dwyer for $32,000. Donohoe purchased it for $16,000 just eight years ago.\n\nPepper In Officer's Face. Northwood.-W. E. Durby, a newsboy on the Rock Island trains, who was being taken to jail by Marshal Olsen, threw pepper in the officer's face and made his escape.\n\nTeachers to Meet in Mason City. Mason City.\u2014According to a program which has just been issued the teachers of the north half of Iowa will meet in this city Oct. 13, 1415. The president of the association is Supt. A. Palmer, of Marshallown.\n\nSoldiers' Reunion at Montezua. Montezua.-A soldier's reunion will be held here October 12 and 13. All soldiers who enlisted from this vicinity and the 10th, 28th and 40th Iowa regimental organizations will take part in the reunion."
+    },
+    {
+      "bbox": [
+        537,
+        283,
+        766,
+        789
+      ],
+      "label": "text",
+      "text": "I want any person who suffers with bipolarism, constipation, indigestion or any liver or blood impairment, to try any New Paw Liver Pills. I guarantee they will purify the blood and purify the liver and stomach into a healthful condition and will actively clean businesses and constipation, or I will refrain your money. I thank the little Home Remedy Co., 53rd and Jefferson Sts., Philadelphia.\n\nWISE WILLIE.\n\nThe Nurse\u2014The doctor brought the baby yesterday morning.\n\nWille (aged 6) batter not forget where the doctor lives.\n\nThe Nurse\u2014Why?\n\nWille\u2014Cause if the baby needs a hand or a leg, you'll have to get new parts for him, won't you."
+    },
+    {
+      "bbox": [
+        584,
+        801,
+        723,
+        816
+      ],
+      "label": "paragraph_title",
+      "text": "A TIMELY WARNING."
+    },
+    {
+      "bbox": [
+        543,
+        827,
+        764,
+        1167
+      ],
+      "label": "text",
+      "text": "Backache, headaches, dizzy spells and distressing urinary troubles warn roa of dropsy, diabetes and fatal Bright's disease. Act in time by curing the kidneys with Dona's Kidney Pills. They have oured thousands and will cure Mrs. Frances Collins, nurse, Box 30, Boonville, Mo., says: \"For 30 years I suffered from kidney trouble. I had back pains and was bothered by dizziness. I became tired easily and was very nervous. The kidney secretions also proved annoying. Dona's Kidney Pills benefited me promptly. They have my highest endorsement.\" Remember the name\u2014Dona's. For sale by all dealers. 50 cents a box. Foster-Milburn Co. Buffalo, N. Y."
+    },
+    {
+      "bbox": [
+        584,
+        1179,
+        725,
+        1191
+      ],
+      "label": "paragraph_title",
+      "text": "She Tock No Chances."
+    },
+    {
+      "bbox": [
+        540,
+        1187,
+        765,
+        1460
+      ],
+      "label": "text",
+      "text": "she took for chances.\n\nA\u5e2e\u670b\u53cb needed matron, is the principal of an aid incident, which one of her \"dear\" friends relates.\n\nBefore the matron's engagement to her present husband was announced, she met her \"dear\" friend on the street. The new matron was hurrying toward one of the large jewelry stores of the city.\n\n\"John gave me an engagement ring,\" she explained, without a shadow of embarrassment, and \"I am going down to see how much it cost. You see, I got the jeweler's name off the box,\" and she hurried on. Her friend said that another bit of information the matron got was the commercial standing of the prospective husband, which she secured by paying for a special report-from a commercial agency."
+    },
+    {
+      "bbox": [
+        576,
+        1471,
+        728,
+        1482
+      ],
+      "label": "paragraph_title",
+      "text": "Remembering Each Other"
+    },
+    {
+      "bbox": [
+        540,
+        1484,
+        763,
+        1679
+      ],
+      "label": "text",
+      "text": "He sat on the sand at Atlantic City in a bathing suit. About ten feet away she was drawing pictures in the sand with a small brown forefinger. He noticed her complexion, her curves and the glint of gold in her hair. He wanted to speak, and yet\u2014Finally he summoned courage and walked over to her. \"I can't talk with you for about five minutes two summers ago?\" he asked.\n\n\"Two years ago,\" she said dreamily.\n\n\"Two years ago\u2014let me see\u2014did I wear blue silk stockings?\""
+    },
+    {
+      "bbox": [
+        601,
+        1691,
+        702,
+        1703
+      ],
+      "label": "paragraph_title",
+      "text": "Pierp's Appetite."
+    },
+    {
+      "bbox": [
+        537,
+        1703,
+        766,
+        2322
+      ],
+      "label": "text",
+      "text": "J. P. Morgan, Sr., was always a good trencherman in his youth and he has as good an appetite today as he ever had, not only for corned beef and cabbage\u2014his favorite dish\u2014but for other foods. If the Morgan, who dazzled the Teutons with his mathematics when he was a German university postgraduate student, had accepted the chair of mathematics offered to him by Heidelberg, instead of his Tankee corned beef and cabbage it might have been frankfurters and sauerkraut\u2014New York Press.\n\nLet Us\nCook Your\nBreakfast!\nServe\nPost\nToasties\nwith cream or milk\nand notice the pleasure the family finds in the appetizing crispness and flavour of this delightful food."
+    },
+    {
+      "bbox": [
+        537,
+        2363,
+        766,
+        2499
+      ],
+      "label": "text",
+      "text": "Postum Cereal Co., Ltd.\nBattle Creek, Mich."
+    },
+    {
+      "bbox": [
+        771,
+        148,
+        991,
+        196
+      ],
+      "label": "doc_title",
+      "text": "OUST\u201cPORK BARREL\u201d"
+    },
+    {
+      "bbox": [
+        772,
+        213,
+        991,
+        258
+      ],
+      "label": "text",
+      "text": "TAFT DECLARES FOR NEW POLICY IN RIVER IMPROVEMENTS."
+    },
+    {
+      "bbox": [
+        772,
+        278,
+        992,
+        298
+      ],
+      "label": "paragraph_title",
+      "text": "PLAN TO CUT FREIGHT RATES"
+    },
+    {
+      "bbox": [
+        770,
+        316,
+        995,
+        1197
+      ],
+      "label": "text",
+      "text": "President Denouces Selfish Exploitation for Benefit of Few\u2014Asserts Country is Arquived Against Corrupt Control of Legislatures.\n\nCincinnati\u2014Doom for the \"pork barrel\" and a new policy of waterway improvement, under which congress may authorize prompt completion of a project when the river transportation end that river transportation may prove a strong factor in reducing rail rates, were advocated here at the Ohio Valley exposition by President Taft.\n\nThe president said that the country is roused against corrupt control of legislative agencies, but that selfish combinations of the majority are equally dangerous. We will urge a new law in the matter of improvement of four waterways. The public is greatly aroused by the confident and just belief that by a more symmetrical, reasonable and prompt expenditure of money upon approved projects, rates for transportation may be lowered, and the business of the country entirely benefited.\n\nAs a country, we are all in favor of the waterway and the economic of our waterways, as as members of our district, we are selfish insistent upon our shares of public appropriations each year, however much that division of the spoil impedes the adoption of the effective and economical improvement of our water transportation.\n\nThe evil in the corrupt control of a construction is private by private interests is manifest for private interests for condemnation. But there is another kind of legislative abuse as dangerous to public weal in certain of its aspects as corruption, and that is the selfish combination of the constituences to expend the money of the government for the temporary benefit of a part or with little benefit to the whole. It is the duty of the majority and the minority to establish always for the benefit of the whole as any enactments that look to the selfish exploitation of less than the whole at the expense of the whole, and without benefit to the whole, is a species of legislative abuse that comes very near corruption in its effects, and is perhaps more dangerous than corruption, because those who support such a combination are generally bold in their belief that the pork barrel should be minimized. Thery is roused against corporate or corrupt control of legislative agencies."
+    },
+    {
+      "bbox": [
+        774,
+        1208,
+        994,
+        1225
+      ],
+      "label": "paragraph_title",
+      "text": "HEIKE GETS A PRISON TERM"
+    },
+    {
+      "bbox": [
+        776,
+        1238,
+        994,
+        1277
+      ],
+      "label": "text",
+      "text": "High Official Sent to Penitentiary for\nEight Months for $5,000\nKoal's Tea - Friends"
+    },
+    {
+      "bbox": [
+        776,
+        1238,
+        994,
+        1277
+      ],
+      "label": "paragraph_title",
+      "text": "High Official Sent to Penitentiary for\nEight Years for $5,000\nFor Kesar - Friends"
+    },
+    {
+      "bbox": [
+        770,
+        1284,
+        995,
+        1726
+      ],
+      "label": "text",
+      "text": "New York.-Judge Martin in the United States court circuit, Monday, sentenced Charles R. Hekel, former secretary and treasurer of the American Sugar Refining company, who has been termed the \"man higher up\" in the sugar trust, to serve eight months in the New York penitentiary on Blackwell's island and to pay a fine of $5,000. Hekel had been convicted with others of conspiring to defraud the amount by the underweighing of sugar.\n\nJudge Martin granted a stay of execution of the sentence pending an appeal to the United States circuit court of appeals. The court also reduced Hekel's bail, which had been $25,000 since his conviction last June, to $15,000.\n\nHekel's sentence is the climax in the federal government's prosecution of American Sugar Refining company officials and employees, growing out of the extensive underweighing frauds on the Williamsburg pler of the trust, brought to light by Richard Farr'sffair in 1907. For years earlier the company and Oliver Spitzer, their superintendent, were convicted on the first criminal trial in connection with the frauds, and the welglers are serving their sentence of a year in the Blackwell's island penitentiary."
+    },
+    {
+      "bbox": [
+        771,
+        1736,
+        992,
+        1754
+      ],
+      "label": "paragraph_title",
+      "text": "BURGLAR SLAYS RAIL CHIEF"
+    },
+    {
+      "bbox": [
+        767,
+        1768,
+        991,
+        1985
+      ],
+      "label": "text",
+      "text": "Wife and Children Witness Tragedy\u2014Suspect Arrested and Is Identified by Victim's Daughter.\n\nChicago\u2014Clarence D. Hiller, chief clerk of the Chicago, Rock Island & Pacific highway, we shot three times and killed by a negro burglar whom we found ransacking the Hiller home early Monday.\n\nThe murder was witnessed by the victim's wife and two daughters, who were aroused when Hiller attacked the intruder at the head of the stairs on the second floor. The men fought for several minutes, finally rolling to the foot of the stairs. The niger fed."
+    },
+    {
+      "bbox": [
+        795,
+        1997,
+        962,
+        2008
+      ],
+      "label": "paragraph_title",
+      "text": "Three Held for Poison Pact."
+    },
+    {
+      "bbox": [
+        765,
+        2010,
+        989,
+        2192
+      ],
+      "label": "text",
+      "text": "Pontiac, Mich.-Mired Kinney, twenty-six, Roy Whitney, twenty-five, and Mrs. Charles Watson, were arrested Wednesday charged with having at least one woman's husband in order that Kinney and Mrs. Watson might marry.\n\nTwenty Per Cent. Law Valid.\nMadison, Wis.-Attorney General Frank L. Gibson, Wednesday, banded defense attorneys for the 20 per cent. clause in the primary election law is constitutional."
+    },
+    {
+      "bbox": [
+        813,
+        2206,
+        940,
+        2217
+      ],
+      "label": "paragraph_title",
+      "text": "Use Auto In Robbery"
+    },
+    {
+      "bbox": [
+        763,
+        2218,
+        987,
+        2342
+      ],
+      "label": "text",
+      "text": "San Antonio, Tex.\u2014After robbing W. K. Ewing, a well-known business man of San Antonio, and his companions, two prominent society women, he robbed their automobile at $1,400, two masked highwaymen Tuesday selzed their automobile and escaped."
+    },
+    {
+      "bbox": [
+        763,
+        2338,
+        986,
+        2399
+      ],
+      "label": "text",
+      "text": "Carnegie Trust Hus New Head.\nNew York - Joseph T. Howell,\nHowell, N.J.\nNashville, Tenn. was Tuesday chosen\nas the head of the Carnegie Trust Co."
+    },
+    {
+      "bbox": [
+        1001,
+        160,
+        1219,
+        183
+      ],
+      "label": "paragraph_title",
+      "text": "MEET IN CONGRESS AT ROME"
+    },
+    {
+      "bbox": [
+        999,
+        194,
+        1222,
+        760
+      ],
+      "label": "text",
+      "text": "International Gathering of Fees of Tuberculosis to Be Held Late in September.\n\nOfficial announcement of the Seventh International Congress on Tuberculosis in the United States. Seminars from every well-established country in the world, has been made by the National Association for the Study and Prevention of Tuberculosis. The congress will be held in Rome from September 24 to 30, 1911, and will be similar in many respects to that held in Washington in the fall of 1908. The congress, which meets every three years, will be under the direct promotion of the king and queen of Italy.\n\nAn American committee of 100 will be appointed as the official representatives of the United States. Men while the National Association for the Study and Prevention of Tuberculosis is acting in that capacity and its office in New York will be the headquarters for the United States delegation. The secretary general of the congress is present in New York. As a direct result of the stimulus of the last international congress held in this country, the American committee will be able to report that the number of tuberculosis agencies in this country have been tripled in the three years. More than twice as much money is being spent in the fight against tuberculosis by private societies and institutions, and the appropriation and county has increased nearly fold. It is estimated that nearly $15,000,000 will be spent in anti tuberculosis work in 1910."
+    },
+    {
+      "bbox": [
+        1003,
+        772,
+        1222,
+        790
+      ],
+      "label": "paragraph_title",
+      "text": "FOR THE SKIN AND SCALP"
+    },
+    {
+      "bbox": [
+        998,
+        801,
+        1223,
+        2182
+      ],
+      "label": "text",
+      "text": "Because of its delicate, emollient, sanative, antiseptic properties derived from Cutucera Ointment, united with the purest of cleansing ingredients and most refreshing of flower odors, Cutucera Soap is unrivaled for preserving, purifying and beautifying the skin, scalp, hair and hands, and, assisted by Cutucera Ointment, for dispelling itching irritation and indigestion, and preventing length of the pores, the cause of many disgusting facial eruptions. All who delight in a clear skin, soft, white hands, a clean, wholesome scalp and live, glossy hair, will find that Cutucera Soap and Cutucera Ointment realize every expectation. Cutucera Remedies are sold throughout the world. Potter Drug & Chem. Corp., sole proprietors, Boston, Mass. To send them for the latest Cutucera Book, an authority on the best care of the skin, scalp, hair and hands. It is mailed free on request.\n\nConfusing.\n\nCraig Biddle, at a dinner in Newport, was describing the changing odds on the Jeffries-Johnson light at Reno. Eight to four and a half on Jeffries-Johnson light at the other way about\u2014three to one and a quarter\u2014it rather confusing, isn't it? he said. \"In fact, it's almost as confusing as the two girls' talk about a secret.\" \"Mary,\" said the first girl, \"told me that you had told her that secret I told you not to tell her.\" \"The nasty thing,\" said the other girl. \"I told her not to tell you I told me.\" \"Wet,\" said the first girl, \"I told her I wouldn't tell you she told me\u2014so don't tell her I did.\"\n\nCures Human Skin Troubles and is E equally Good for Our Pets and Domestic Animals.\n\nResimol Salve is my ideal and favored remedy wherever a salve is needed. It is as good for horses, dogs etc., as for mankind. Truly a universal healing Ointment.\n\nW. P. Schmitz, Vet. Himalale, Mass.\n\nWorld's Largest Cemetery.\nAt Rookwood, Australia, is the largest cemetery in the world. It covers 2,000 acres. Only a plot of 200 acres has been used thus far in which 100,000 persons of all nationalities have been buried.\n\nDistinction.\n\nMilly\u2014Is this picture like your father?\nTilly\u2014Of course not, silly! It is like father when he had his picture taken\u2014Puck.\n\nWhen Rubbarea Become Necessary.\nAnd your shoes pinch, shake into your shoes the foot, force the feet apart, shaking feet and takes the sting out of Corn and New shoes and for dancing parties. Sold everywhere Sc. Sample mailed FREE. Address, Allen S. Olimated, Le Roy, N.Y.\n\nWhen the yellow streak begins to work out of some people they have a fit of the blues.\n\nDespair.\n\nNo one but a womel despair, and the des a daily burden during adolescence of the distinctly feminine, pletically upset the Dr. Pierce's Favor weakness and diseases.\n\nIT MAKE.\n\nSlip.\n\nIt alls infarms it tones and buys and has nothing to have nothing to it. Is non-secret, non-alcoholic and h Ask Your Neighbors. They probably If you want a book that tells all the them at home, send 21 one-cent stamp and he will need a free copy. Common Sense Medical Advisory\u2014In handsome cloth-binding, 31 stamps."
+    },
+    {
+      "bbox": [
+        1123,
+        1866,
+        1442,
+        1900
+      ],
+      "label": "doc_title",
+      "text": "Despair and Despondency"
+    },
+    {
+      "bbox": [
+        1112,
+        1896,
+        1435,
+        1987
+      ],
+      "label": "text",
+      "text": "No one but a woman can tell the story of the suffering, the despair, and the despondency endured by women who carry a daily burden of ill-health and pain because of disease or injury. Women are distinctly feminine. The tortures so bravely endured completely meet the nerves if long continued. Dr. Pierce's Favorite Prescription is a positive cure for depression and dementia."
+    },
+    {
+      "bbox": [
+        1112,
+        1965,
+        1432,
+        1990
+      ],
+      "label": "text",
+      "text": "Dr. Pierce's Favorite Prescription is a positive cure for weakness and disease of the feminine organism."
+    },
+    {
+      "bbox": [
+        1140,
+        2037,
+        1431,
+        2104
+      ],
+      "label": "text",
+      "text": "It allays inflammation, heals ulceration and soothes pain. It tones and builds up the nerves of the skin. It helps dealers sell it, and have nothing to urge upon you as \"just as good,\" alcoholic and has a record of forty years of cure."
+    },
+    {
+      "bbox": [
+        1010,
+        2102,
+        1434,
+        2166
+      ],
+      "label": "text",
+      "text": "If you want a book that tells all about woman's diseases, and how to cure them at home, send 21 one-cent stamps to Dr. Pierce to pay cost of mailing only, and he will send you a free copy of his great thousand-piece illustrated book, *The Wonderful World of Women*. In handouts cloaking, 31 stamps, Address Dr. R.V. Pierce, Buffalo, N.Y."
+    },
+    {
+      "bbox": [
+        1139,
+        2182,
+        1311,
+        2211
+      ],
+      "label": "paragraph_title",
+      "text": "DISTEMPER"
+    },
+    {
+      "bbox": [
+        998,
+        2211,
+        1223,
+        2499
+      ],
+      "label": "text",
+      "text": "DISTEMPER CURE\nSure care and positive pre\ner \"emproved.\" Liquid, given\nin\u5f25\u6f2b\u6027\u75c5\u53d8 from the hoof\nCountry. Largest selling live\nkeep it. how to your dugger\nkeep it. how to your dugger\nCautions and Directions. Specify A\nSPOHN MEDICAL CO.,\nMICA"
+    },
+    {
+      "bbox": [
+        1101,
+        2213,
+        1442,
+        2285
+      ],
+      "label": "text",
+      "text": "Sure care and positive preventive, all how burrows at any stage are infected or \"exposed.\" Liquid given on the tongue; acts on the Blood and Bone, exskept the nerve, causes inflammation and pain. Special Agent, Poultry. Large-shelled live stock recovery. Curra L.A., among human being and is in fine kidney remedy. M and I in bottle and H and I in bottle. Free Booklet, Dispenser, Causes and Cures. Special Agents wanted. **SPOONED MEDICAL COACH**, Chestnut Hill, BOSCH IND., U. S. A."
+    },
+    {
+      "bbox": [
+        1081,
+        1140,
+        1143,
+        1152
+      ],
+      "label": "paragraph_title",
+      "text": "Confusing."
+    },
+    {
+      "bbox": [
+        1074,
+        1635,
+        1144,
+        1645
+      ],
+      "label": "paragraph_title",
+      "text": "Distinction."
+    },
+    {
+      "bbox": [
+        1250,
+        161,
+        1650,
+        473
+      ],
+      "label": "doc_title",
+      "text": "Attention Sick Women"
+    },
+    {
+      "bbox": [
+        1238,
+        487,
+        1659,
+        764
+      ],
+      "label": "text",
+      "text": "If you had positive proof that a certain remedy for female ills had made many remarkable cures, you would not feel like trying it?\n\nIf during the last thirty years we have not succeeded in convincing every fair-minded woman that Lydia E. Pinkham's Vegetable Compound has cured thousands and thousands of women of the ills peculiar to their sex, then we long for an opportunity to do so by direct correspondence. Meanwhile read the following letters which we guarantee to be genuine and truthful.\n\nHudson, Ohio\u2014\"I suffered for a long time from a weakness, inflicted on dreadful pain each month, that had been doctoring and receiving only temporary relief, when a friend advised me to take Lydia E. Pinkham's Vegetable Compound. I did so, and wrote to you for advice. I have faithfully followed your directions and now, after taking only five bottles of the Vegetable Compound, I have every reason to believe I am more comfortable to admit my termomonial.\"\u2014Mrs. Lena Carmencino, Hudson, Ohio, R. F. D. No. 7,"
+    },
+    {
+      "bbox": [
+        1243,
+        873,
+        1661,
+        1084
+      ],
+      "label": "text",
+      "text": "There is absolutely no doubt about the ability of this grand old remedy, made from the roots and herbs of our fields, to cure female diseases. We possess volumes of proof of this fact, enough to convince the most skeptical.\n\nFor 30 years Lydia E. Pinkham's Vegetable Compound has been the standard remedy for female ill. No sick woman does justice to herself who will not try this famous medicine. Made exclusively from roots and herbs, and has thousands of cures to its credit.\n\nMrs. Pinkham invites all sick women to write to her, and Shie has guided thousands to health free of charge. Address Mrs. Pinkham, Lynn, Mass."
+    },
+    {
+      "bbox": [
+        1242,
+        1100,
+        1429,
+        1151
+      ],
+      "label": "doc_title",
+      "text": "Don't Persecute your Bowels"
+    },
+    {
+      "bbox": [
+        1227,
+        1151,
+        1450,
+        2179
+      ],
+      "label": "text",
+      "text": "Cut out catkins and persipse. They are brand\nclaim\u2014unnecessary. Try\nCARTER'S LITTLE\nLIVER PILLS\nPlace on the liver, and\ngently on the liver, and\ncinnamon base, and\nminimise the heat of the\nbowl. Clove, citrus,\norange, or lemon.\nHeadache and lice, as many know.\nSmall Pill, Small Dose, Small Price\nGenuine must best Signature\n\nGOME TO EASTERN KANSAS and better\nimproved farm just as good as yours\nto $80 per acre, grow big corn, wheat, oats, c\noats, no winter, no winter, no winter.\nDonahue & WALLINGFORD. Mountain Valley, Rale\nWANT A HOME?\nWe own and offer for sale $20 improved farm,\nSouthern Minnesota. Write for prices and\nmore. MOREEN & AHICKIN, Mankato, Minn.\nA HOMESTEAD\nDo you land a Homestead?\nInformation sent free. How to get a Farm of Land. Address\nof Trade Buildings. Indianapolis, Indiana\n\nA Very Choice 160-Acre Homestead\nrelinquishment near Burlington, Colorado.\ncost $20, must be sold, price $30.\nAddress Lock Box 450, Burlington, Colo.\n\nSeveral Improved Farms For Sale\nwell located good productive soil, no failures\nfrom either drought or flood. Ets. to $45 per acre.\nReasonable terms. I. F. O'NEIL, DeGriff, Minn.\n2.000 ACRES irrigable Trio Co., afilim, onions.\nSmall tracts 80 feet wide of land, and\ndelicate and important organs that are\nthe tortures so bravely endured cones\nif long continued.\nThe Prescription is a positive cure for\nof the feminine organ.\n\nW. N. U., DEB MOINES, NO. 39-1910.\n\nand Despondency\ncan tell the story of the suffering, the\nondendency endured by women who carry\nthemselves through the seasons and delicate and important organs that are\nthe tortures so bravely endured cones if long continued.\nThe Prescription is a positive cure for\nof the feminine organ.\n\nWEAK WOMEN STRONG,\nSK WOMEN WELL.\nHeals ulceration and soothes pain.\nup the nerves. It fits for witchcraft\nand urge upon you as \"just as good.\"\nis a record of forty years of cures.\nknow of some of its many cures.\nbut woman's diseases, and how to cure\nto Dr. Pierce to pay cost illustrated\nup-to-date edition, in paper covers.\nAddress Dr. R.V. Pierce, Buffalo, N.Y."
+    },
+    {
+      "bbox": [
+        1227,
+        2213,
+        1450,
+        2499
+      ],
+      "label": "text",
+      "text": "entive, no matter how bursed any stage are infected\nthe elongated tuberous stem of the plant. Ingenious in\nthat it a berry, Dippe and Sheep, Cleavers in\nknoty lymph. Curre to apples among human beings\nwho will get it for you. Free Booklet, \"Distemper,\nChemist and Bacteriologist GOSHEN, IND., U. S. A.\n\nAXLE GREASE\nKeeps the spindle bright and\nfree from grit. Try a box.\nSold by dealers everywhere.\n\nSTANDARD OIL CO.\n(incorporated)"
+    },
+    {
+      "bbox": [
+        1346,
+        765,
+        1660,
+        870
+      ],
+      "label": "text",
+      "text": "St. Regis Falls, N.Y.\u2014\"Two years ago I was so bad that I had to take to my bed every month, and it would last from two to three weeks. I wrote to you for advice and took Lydia E. Pinkham's Vegetable Compound in dry form. I am going to use it for medicine and good advice. You may use my letter for the good of others.\" \u2014Mrs. J. H. Breyerg, St. Regis Falls, N.Y."
+    },
+    {
+      "bbox": [
+        1318,
+        2179,
+        1441,
+        2213
+      ],
+      "label": "text",
+      "text": "Pink Eye, Epizootic Shipping Fever & Catarrhal Fever"
+    },
+    {
+      "bbox": [
+        1458,
+        1168,
+        1677,
+        1309
+      ],
+      "label": "text",
+      "text": "\"Cascadets are certainly fine. I gave a friend a case of stomach ache.\" The next morning he passed four pieces of tape worm. He then got a box of stomach tape. It was Mr. Mett Frek, of Millerburg, Indiana. It was Mr. Mett Frek, of Millerburg, Indiana. I use them myself and find them beneficial for most any disease caused by impure blood. Chas. H. Walker. Paintable. Point. Texts Good. Do Good. Never Sicken. Weaken or Grip. 100, 250, 300. Never sold in bulk. The general store. Guaranteed or cure your money back. 823"
+    },
+    {
+      "bbox": [
+        1457,
+        1354,
+        1678,
+        1477
+      ],
+      "label": "text",
+      "text": "One of the best improved farmland in the noted country is located in the best towns in Southwest Missouri, two miles from depot of three trunk lines of railroad, and she is one of the largest strawberry shipping ports in the country. Probably ten to twelve thousands of crops, corn, oats, cow peas, hay, etc., good yield. The farmland is two hundred forty acres; will sell stock, crops and implements with place. No side, edge, or bank."
+    },
+    {
+      "bbox": [
+        1456,
+        1537,
+        1677,
+        1702
+      ],
+      "label": "text",
+      "text": "Government Land; 4 miles from El Reno to be opened to settlers Nov. 15, 10. Send 646 for plat, laws and rules governing a W.J. FINCH, V.P. Stake Currency Bank, El Segundo, CA ATTENTION Farm lands for change, in best farming section of Missouri. Have some cash obtained gains if sold soon. It will pay you to investigate this section of Missouri. Write me for information."
+    },
+    {
+      "bbox": [
+        1456,
+        1698,
+        1675,
+        1723
+      ],
+      "label": "text",
+      "text": "Write me for information.\n\nHUGH E. TIGHE, Laddonia, Mo."
+    },
+    {
+      "bbox": [
+        1458,
+        1731,
+        1675,
+        1750
+      ],
+      "label": "paragraph_title",
+      "text": "STOCKERS & FEEDERS"
+    },
+    {
+      "bbox": [
+        1453,
+        1753,
+        1675,
+        2168
+      ],
+      "label": "text",
+      "text": "Choice quality; red and roan, wipe, or anguage bough on wood to select from. Satisfaction Guaranteed. Come and see for yourself.\nNational Live Stock Com. Col.\nAt einer\nRanass City, Mt., St. Joseph, Mt., S.O. Omaha, Nb.\nFREE FLORIDA TRIUMPH Bendura Iowa farmers visit dredges more are planning to buy and settle in Florida this winter. Before you videoteach anything, tell us you about our free triumphe Florida all you need is a Nationwide Flar.\nWE WANT 100 LOOI women and men to assist in deserts in Florida-Virginia migratory vegetable and fruit farming enterprise. Wide interest in subject Florida-Washington Farming Co., 121FWS H.Washington, D.C.\nA PERFECT PIECES OF LAND 100 acres. From McLoughlin in Bedwell Nebraska. From Fannings in Flat, \"flat\" good groundcover. 100 acres for Fannings in Flat, \"flat\" good groundcover. 100 acres for Fannings in Flat, \"flat\" good groundcover. 100 acres for Fannings in Flat, \"flat\" good groundcover.\nWe have others. Ceramics & Co., Inglesby, Minn.\nThe Land of Red Clover\nAt Red Rock Price, $0.00 and up, on each terme two hours a week. COLOVER DAELAND CO., Wright, Minn.\nYOUR OPPORTUNITY,\nClosing out good agricultural land in Potter County, S. D. cheek, Olin Flat, Gelatow, will show you the land CO., 162 S. Gelatow St., Chicago, IL."
+    },
+    {
+      "bbox": [
+        1449,
+        2209,
+        1678,
+        2499
+      ],
+      "label": "text",
+      "text": "J. G. LOCKWOOD\nSec. Bartow Board of Trade BARTOW, FLORIDA\n\nREAD THIS Then come and let us grow and stock farms in the state. No more broods, good markets schools and chrysanthemum, improved unilin-provided lands in part of 96 acres, grow, manage and description, write A. D. HAYES, Florence, S.D.\n\nWELLPROVEDFARM\nonly $5 per acre, no better land anywhere.\nBuilding a farm on each acre.\nSeveral first class farm mortgages drawing $9. A. E. NELSON Newark, South Delaware\n\nTHE LAND OF PLEASANT \u2014 Crops fail unless known, and the land is productive. Protected community. For prints and parties with Fred Lard, Wallace and"
+    }
+  ]
+}
