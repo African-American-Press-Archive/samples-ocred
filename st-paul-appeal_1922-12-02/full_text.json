@@ -1,0 +1,1915 @@
+{
+  "issue": "st-paul-appeal_1922-12-02",
+  "pages": [
+    {
+      "page": 1,
+      "image": "images/page_01.jpg",
+      "width": 1847,
+      "height": 2519,
+      "processed_at": "2026-03-06T14:26:32.523942+00:00",
+      "processing_time": 132.8,
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "ocr_workers": 1
+      },
+      "layout": {
+        "raw_detections": 121,
+        "after_gap_fill": 125,
+        "after_merge": 51
+      },
+      "regions": [
+        {
+          "bbox": [
+            125,
+            296,
+            278,
+            317
+          ],
+          "label": "text",
+          "text": "VOL. 38 NO. 48",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            93,
+            338,
+            325,
+            428
+          ],
+          "label": "doc_title",
+          "text": "MANY FAIRS TO BE HELD IN 1922",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            94,
+            448,
+            322,
+            511
+          ],
+          "label": "text",
+          "text": "Commercial Exhibitions Springing to Life After Discouragement of War Years.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            87,
+            582,
+            322,
+            1032
+          ],
+          "label": "text",
+          "text": "Future May See Fair Established in Ark of Air Capable of Carrying Message of Progress and Culture to Remote Places.\n\nWashington.\u2014\"From Winnipeg to Rio de Janeiro, and from Christiana and Algeirs to Singapore and Tokyo, commercial fairs and exhibitions are springing to life after the discouragement of war years, and are playing an increasingly important part in making nations acquainted with each other and with the kinds of lives each leads,\" says a bulletin from the Washington headquarters of the National Geographic society. The bulletin points out that a greater number of such expositions is scheduled for 1922 than those held in pre-war days in a decade.\n\n\"Fairs have been important factors in the lives of nations and in the evolution of society itself,\" continues the bulletin. For in order to survive they have had to work through some vital changes. They probably exist in the dim days of prehistoric Asia as sort of irregular markets held at relatively long intervals; and during the Middle Ages when transportation was difficult they were the chief agencies of European trade.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            96,
+            1032,
+            289,
+            1045
+          ],
+          "label": "paragraph_title",
+          "text": "A Few Old Types Survive.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            86,
+            1040,
+            324,
+            2438
+          ],
+          "label": "text",
+          "text": "types survive.\n\n\"Where conditions have remained relatively relatively famous old fairs have continued to function until today. The annual fair, at Nizhni Novgorod continued largely to dominate the commercial life of Russia until the revolution, and even since then the distribution of foodstuffs, textiles and furs through this old gathering place of traders has been an important item. For centuries it has been the gigantic exchange between vast areas of Asia and Europe.\n\n\"In the portions of the world well developed with highways, canals, railways and ocean ports, both the local and international fairs of the old type, devoted largely to the distribution of staple supplies, died out. But the fair idea lived on, merely changing its form. Special industries and groups of industries began holding expositions in England and France, and the space opened to other countries.\n\n\"Flooded and restricted these localized and restricted exhibitions to include many industries, those of foreign lands as well as their own. Soon the full-fledged world's fairs, the first of which was held in London in 1851. Many have been held since, both in America and Europe, Paris holding the palm for numbers.\n\n\"But at the root of the world fairs or international expositions was the idea of general education, and closely connected with it was the amusement aspect. They served well as occasional more or less sugar-coated demonstrations of the progress of the world, but they failed to measure up to the efficiency standards of the modern distributor. Side by side with them had grown special international industrial exhibits and sample fairs, and by the outbreak of the World war these had been forged into a new industry, Twentieth century conditions. Not that these institutions are girding themselves for an after-the-war scramble for trade such fairs are being held on all sides.\n\n\"Samples of almost every conceivable manufactured product and machine are sent to some of these exhibits, duty free, and orders are solicited from the buyers who gather from various countries. Among the fairs of this sort which have become established institutions are those held in London, Birmingham, Bordeaux, Lyons, Brussels, Dresden, Leipzig, Lyons, Barcelona and Milan, and in dozens of other cities it is planned to hold such exhibits annually.\n\nFairs That Go to the People.\n\n\"In meeting modern conditions not only have fairs been placed on a sample basis and consolidated largely to specialities, machines and manufactured articles, but they are seeking out still smaller numbers of potential buyers larger numbers of potential buyers Italian manufacturers have acquired the floating fair, which anchors out a special exhibition ship which anchors out a time in the various ports around the rim of the Mediterranean from Port Said to Marseilles. French distributors carried the idea of a traveling fair still further last year, sending an exhibit train across Canada; and a Czechoslovak train of a similar sort has just finished a two months' tour through the Balkans and Poland. Perhaps it is not too extravagant a vision to see the fair which had its humble beginning in some far off Asiaic coasts, established in an ark of the air and capable of carrying its message of progress and foreign culture to every little center of industry and life.\"\n\nSaved by Holding Dog's Tail.\n\nFrenze. Cat-Flood. France. and Alten Self, both strenuous, lost in a blizzard in the mountains, thirty miles east of here, were led to safety by holding to the tail of a dog. it was learned today. A short time later a rescue party found two other boys, lost in the same blinding storm, lying in the snow exhausted.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            351,
+            351,
+            555,
+            398
+          ],
+          "label": "paragraph_title",
+          "text": "Dog First Saves Baby,\nThen Rums for Help",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            348,
+            407,
+            552,
+            655
+          ],
+          "label": "text",
+          "text": "Redwood City, Calif. \u2014 The faithfulness and initiative of a Scottish colleli saved the life of three-year-old Jean MacAllister. The child wandered from home and was not missed until the dog appeared in great excitement and began tugging at the skirts of Mrs. MacAllister, who was working in the yard. The mother followed \"Don,\" the colli, to a large pond nearly half a mile away, where she found her child lying on the bank with her clothes drenched. Apparently little Jean had fallen into the pond and had been pulled out by the dog.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            335,
+            692,
+            565,
+            713
+          ],
+          "label": "paragraph_title",
+          "text": "DROPS HALF-MILE IN CHUTE",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            336,
+            724,
+            565,
+            767
+          ],
+          "label": "text",
+          "text": "Mountain Climber Has Thrilling Experience in Heavy Snow in Washington.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            336,
+            724,
+            565,
+            767
+          ],
+          "label": "paragraph_title",
+          "text": "Mountain Climber Has Thrilling Experience in Heavy Snow in Washington.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            330,
+            777,
+            566,
+            1627
+          ],
+          "label": "text",
+          "text": "Snouglomme, Wash.\u2014Stepping out to the edge of a snow-covered precipice to point out some scenery to his wife and little son, Howard Rupert, a salesman, disappeared into loose snow.\n\nMrs. Rupert quickly notified men nearby, who looked in vain for several hours for Rupert. They were about to give up the search on account of darkness when the missing man appeared. He declared he had dropped into a loose snowdrift and falling through landed directly into an unused log chute to carry timber in summer to the river far below.\n\nRupert said the chute was filled with ice and that he tobogganed down into the valley at such a high rate of speed he could not fully half a mile in the ice-bound log chute. Rupert was uninjured but was minus a large part of his wearing apparel.\n\nBISHOP OF ALASKA\n\nBishop Trymbal Rowe has been bishop of Alaska for 26 years. He recently called at the White House to pay his respects to the President.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            333,
+            1641,
+            561,
+            1660
+          ],
+          "label": "paragraph_title",
+          "text": "FATHER OF 28 BOSSES RANCH",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            330,
+            1673,
+            566,
+            2439
+          ],
+          "label": "text",
+          "text": "Declares None of His Wives or Off Spring Were Allowed to \"Talk Back.\"\n\nGreensboro, N. C. \"Uncle Bob\" Austin, an old-time dalky living near here, is the father of 28 sons and daughters, 26 of whom are living. All but seven having gone off to themselves, he has taken three other children.\n\nUncle Bob's first wife bore him eight children, the second, fourteen; the third, still a husky young woman, six. Austin is the tenant manager of a farm. He eats three square meals a day and chews tobacco, but does not smoke and doesn't allow smoking on his premises.\n\nNo wife or child of his ever gave him any \"back talk\" more than once, he says. \"If they get upity I soon trims em,\" he said with a chuckle. \"In my house dy must go my way.\"\n\nAustin is seventy-one years old and has born a slave. He remembers hating meat in the woods when Sherman may come through North Carolina after its march through Georgia to the sea.\n\nFalse Teeth Scare Farmer.\nUnion City, Mich.\u2014Farmers living near Athens have been puzzled for a week trying to solve a mystery on the farm of E. B. Adams. Christmas morning while Mr. Adams was doing the chores, he was started at what appeared to be a grinning face peering through a crack in the steps leading to his comorbid. Investigation disclosed a set of false teeth. No one living in that region has lost their teeth, he has learned, and how the \"grinders\" happened to stray to so remote a place is a puzzle to the ruralities.\n\nFate Use Mental Torture.\nProvidence, R. I.\u2014Intellectual barbary has applied the traditional physical punishment to freshmen fraternity candidates. Now upper classmen are substituting mental torture by methods learned in psychological courses instead of by the time-honored caddling of the tedium.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            532,
+            144,
+            1339,
+            246
+          ],
+          "label": "doc_title",
+          "text": "THE APPEAL.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            572,
+            298,
+            1292,
+            592
+          ],
+          "label": "text",
+          "text": "ST. PAUL AND MINNEAPOLIS, MINN., SATURDAY, DECEMBER 2, 1922\n\nHAS PORCH AUTOS CAN'T HIT\nPostmaster Whose Home is on Sharp Curve of Road Tires of Being Bumped by Speeders.\nNewton, N. J.\u2014Postmaster Lester T. Smith of Layton has a big front porch on his house, which is on Bingman's road at a point where there is a sharp curve, and for many years he has sat there in the evenings and smoked his pipe without anything happening to him. But the other day he was having a smoke when an automobile came around the bend and skidded, smashing into the porch and wrecking one end of it.\n\nHOLD BIG STORES FOR AIR SERVICE\nUncle Sam Has Immense Supply of Material for Airplanes on Hand.\nLARGEST DEPOT IS IN TEXAS\n\nFARMER FLEES FROM \"IMPS\"\nTale of Tricks of Evil Spirits Excites People of Nova Scotian Community.\nHalifax, N. S.\u2014While no broomstick riding hags of the traditional witch features have been seen hurting across the face of the moon, there are any number of people in Nova Scotia who will take an oath that imps of no good intent are peopling the fair hills of Antigonish county.\nAlexander MacDonald, a farmer, has boarded up his valley home and fed with his family and chattails in the",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            572,
+            591,
+            807,
+            987
+          ],
+          "label": "text",
+          "text": "The automobilist paid for the damage and went on his way and the postmaster sent for a carpenter, who worked all night and all morning putting a new end on the porch. Late in the afternoon the postmaster went out to have another smoke, but he had hardly tilted his chair back and lighted his pipe when another automobile came whizzing around the curve and skidded.\n\nOnce more the machine crashed into the porch and the postmaster an end of it, and since it was the end on which he was sitting, he went down with the wreckage. But he was not hurt, and not out of the debris in time to collect the automobilist, who paid and drove, when the postmaster called for the carriage gave orders, but not for a new front door. He told the carpenter to tear down the front porch and build one on the rear of the house.\n\n\"Maybe I'll have peace there,\" he said. \"Soon as I get my new porch done they can skid all they want to, but to get me they'll have to jump over the house.\"",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            576,
+            1001,
+            806,
+            1021
+          ],
+          "label": "paragraph_title",
+          "text": "BUILDING AT HIGH MARK",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            570,
+            1034,
+            809,
+            1388
+          ],
+          "label": "text",
+          "text": "Reports From 141 Cities in the United States Show Greatest Activity in Years.\n\nNew York.\u2014Building records for June, showing a total construction value of $218,674,499 in 141 cities, set a new high record for 1922, Bradstreet's reports.\n\nThe previous high mark for the year was $206,804,015 in May. The June figure compared with $127,671,278 in June, 1921.\n\nThe total for the second quarter of 1922, $683,588,381, makes a gain of 52 per cent over the high-record first quarter of this year and of 63.7 per cent above that recorded in the same quarter of 1921. This second quarter's total, it might be noted, is slightly in excess of the total for the combined first and second quarters of 1921. This total for the half-year, with 28 cities yet to be heard from as to June, is $1,200,988,472, a gain of 75.9 per cent over the like period last year.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            577,
+            1402,
+            805,
+            1421
+          ],
+          "label": "paragraph_title",
+          "text": "GERMANY EXPELS COUNTESS",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            576,
+            1434,
+            806,
+            1477
+          ],
+          "label": "text",
+          "text": "Hetta Trauberg, Pacific, Driven from Native Land for Her Peace Propaganda.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            576,
+            1434,
+            806,
+            1477
+          ],
+          "label": "paragraph_title",
+          "text": "Hetta Trauberg, Pacificist, Driven from Native Land for Her Peace Propaganda.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            573,
+            1486,
+            806,
+            1733
+          ],
+          "label": "text",
+          "text": "Vienna.\u2014Countess Hetta Trauberg, the German pacifist, who was interned by the Germans during the late war because she condemned submarine warfare, the deportation of Belgian and French women and children and the treatment of allied prisoners, has been expelled from Germany because she still persists in her peace propaganda.\n\nShe is at present in Vienna, where she is compiling a book, deriving much of her material from the archives of Vienna. She is said to have secured war letters exchanged between the emperor of Russia, Emperor William of Germany and the Austrian emperor, Francis Joseph.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            576,
+            1746,
+            805,
+            1767
+          ],
+          "label": "paragraph_title",
+          "text": "GREATER NAVY FOR SWEDEN",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            573,
+            1778,
+            808,
+            2049
+          ],
+          "label": "text",
+          "text": "Parliamentary Commission Urges the Building of Fast Cruisers and Destroyers.\n\nStockholm, Sweden.\u2014A parliamentary commission, supported by navy experts, has proposed for the Swedish navy a building program for the next ten years of five fast armored cruisers, twelve destroyers, three mine layers, twenty-two submarine chasers and a number of smaller craft. The armored cruisers are to be 6,500 tons each, with a speed of thirty tons, with eight 21-centimeter and six 12-centimeter guns. As the proposal is based on parliamentary consideration, there is a probability of its being passed at the coming session.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            585,
+            2077,
+            798,
+            2129
+          ],
+          "label": "paragraph_title",
+          "text": "Board Bill Too Heavy,\nPrisoner Is Released",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            590,
+            2136,
+            791,
+            2436
+          ],
+          "label": "text",
+          "text": "Arthur States of Lima, O., literally ate his way out of prison, where he was serving a term because of his inability to pay a fine of $1,000 on a liquor charge. He served only a few weeks when the county commissioners began figuring out results of the incarceration of States at a fixed amount a day to apply on his fine.\n\nThe board ordered him paroled with the understanding that he pay $7 a month on the fine. Eleven years will be required to liquidate it. His board had already cost the county $100. Commissioners figured that it would cost $1,249.50 to collect the fine for the state had he remained in jail.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            821,
+            347,
+            1049,
+            435
+          ],
+          "label": "paragraph_title",
+          "text": "HOLD BIG STORES FOR AIR SERVICE",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            819,
+            456,
+            1050,
+            519
+          ],
+          "label": "text",
+          "text": "Unole Sam Has Immense Supply of Material for Airplanes on Hand.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            815,
+            598,
+            1049,
+            1081
+          ],
+          "label": "text",
+          "text": "Supplies Worth $50,000,000 Stored There, While Machinery and Equipment at Plant Represent Another $100,000,000.\n\nSan Antonio, Tex.-Not much has been said about it, but it is a fact that the United States government air intermediate depot, situated on the outskirts of San Antonio, contains army aviation materials valued at $50,000,000, while the machinery and other equipment that go to make up the plant has an additional value of $100,000,000.\n\nIt is one of the largest aviation and repair centers in the United States. The buildings which comprise the government property are of permanent character. The special purpose of maintaining the depot is to keep constantly on hand a complete and large array of aircraft and their parts for supplying the army aviation service. The warehouses are filled with hundreds of airplane wings and motors. There are thousands of motors. Every three months these motors must be taken out of their boxes, thoroughly sprayed with a form of grease to prevent rust and then treated to a similar coat of oil on the inside of the cylinders and other internal parts. They are so delicate that they must be carefully handled.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            868,
+            1080,
+            996,
+            1091
+          ],
+          "label": "paragraph_title",
+          "text": "Hundreds on Hand.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            814,
+            1090,
+            1049,
+            1968
+          ],
+          "label": "text",
+          "text": "Several hundred complete airplanes are kept on hand in the boxes in which they come from the factory, and these must also be opened at regular intervals, taken out and gone over completely.\n\nIn another part of the warehouse is an assortment of tools that probably surpasses in size and value any in the Southwest. Its value runs into millions of dollars. Every tool that will ever be needed in the air service is in the supply section. Spare parts stored in another part of the warehouse represent another huge fortune. This material goes to supply all the army air service in the United States, the Philippine Islands, Hawaii and formerly the air forces in the army of occupation in Germany.\n\nThe engineering branch is charged with the repair of airplanes used by the air service in the Elthigh corps area and in flying fields as far east as Florida. It is divided into several departments. There is the machine shop, one of the most complete in the country. Then comes the motor repair, fuselage construction, rigging, fuselage and upholstery, paint shop, final assembly hangar and the test assembly. Airplanes are built from the ground up at the engineering branch, but for the most part they take the old ones that are turned in by the various fields and rebuilt then.\n\nExpert civilian mechanics are employed to do this work. Raw materials are kept on hand for wing and body construction, and whenever a spare part is needed that is not on hand it can be turned out in the shop. Wings, rudders and elevators are constructed in the shops. After the framework is completed it is taken to the fabric shop, where linen cloth is stretched over and nailed down, and then it is painted.\n\nThe engineering branch was moved to San Antonio several months ago from Dallas, and took the buildings left by the air service mechanics school. Maj. William H. Garrison is in command of both branches of the department. The monthly pay roll at the depot approximates $40,000, and, there are about 400 civilians employed as mechanics in addition to the 12 officers. The supply branch is in charge of Leut. Myron R. Wood and the engineering branch is in charge of Capt. Edward Laughlin.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            818,
+            1982,
+            1048,
+            2007
+          ],
+          "label": "paragraph_title",
+          "text": "THREE PRINCESSES SEEK JOB",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            815,
+            2015,
+            1050,
+            2295
+          ],
+          "label": "text",
+          "text": "1,600 Replies Received to American Woman's \"Ad\" for Secretary in Geneva.\n\nGeneva.\u2014Indication of the straits of many European noble women after the war is given in the experience of the American wife of a Geneva banker who advertised recently in a Munich newspaper for an educated woman secretary with a good knowledge of languages, and offered a salary of 800 Swiss francs monthly, in addition to a comfortable home.\n\nThus far she has received more than 1,000 diplomas from all parts of Germany and Austria. The applicants include three princesses, nine baronesses and thirty countesses, but the majority are widows or daughters of former high officials.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            815,
+            2329,
+            1052,
+            2447
+          ],
+          "label": "text",
+          "text": "Pottsville, Pa.\u2014Notwithstanding the deep snow on the mountains, snakes are making their appearance at a number of places. Charles Roeder captured one alive and brought it to Schuylhill Haven, where it has been placed on exhibition. This is the first snake seen here seen more widely in the state.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1061,
+            349,
+            1290,
+            370
+          ],
+          "label": "paragraph_title",
+          "text": "FARMER FLEES FROM \"IMPS\"",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1056,
+            381,
+            1291,
+            1830
+          ],
+          "label": "text",
+          "text": "Tale of Tricks of Evil Spirits Excites People of Nova Scotian Community.\n\nHalfax, N. S.\u2014While no broomstick riding hags of the traditional witch features have been seen hurting across the face of the moon, there are any number of people in Nova Scotia who will take an oath that imps of no good intent are peeping the fair hills of Antigonish county.\n\nAlexander MacDonald, a farmer, has boarded up his valley home and fled with his family and chattels in the dead of winter. His neighbors say they have seen with their own eyes, and without the assistance of potable spirits, the manifestations of the Evil One.\n\nSo much credence is being given to the tales of witches and imps that a Hallifax newspaper- has assigned a member of its staff to break his way through the inland snows until he reaches the MacDonald house and live there for two weeks.\n\nMacDonald and his family awoke one morning three weeks ago to find that their houses had been driven into a lather and returned to their stalls before dawn. The cattle had been turned out of the barns in a driving snowstorm. The tails of the hefters had been braided.\n\nThis was repeated the next morning and the next. The third night, MacDonald says, the fire imps appeared. In unexpected places jets of flame would break out for no apparent reason. The following nights he called neighbors to see for themselves. They swore that they saw fires leap from bare floors and subside, or flare up from a fireless stove and disappear.\n\nIn each case a bit of absorbent cotton or highly infammable calco was found near the source of the fire, but that deepened the mystery. Where had the cotton and calco come from? After a week MacDonald and his family fled, taking up their home in Caledonia Mills.\n\nMeaning policewomen of course. Here is one of the uniformed policewomen of the London force who is on duty at Trafalgar Square. The London cold and fog hold no fears for her, for she is amply protected by a greatcost and also a toughened rubber slicker.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1062,
+            1845,
+            1288,
+            1864
+          ],
+          "label": "paragraph_title",
+          "text": "CORSET STAY KILLS WOMAN",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1060,
+            1874,
+            1291,
+            2092
+          ],
+          "label": "text",
+          "text": "Bone Pierces Heart When Girl Falls\nWhile Skiling in Swiss\nAlpa.\n\nGeneva, Switzerland.-A whalebene\ncorset stay caused the death of a\nZurich young woman while skiling.\nShe was making a steep descent with\na party of friends when she fell over\na ledge, landing 20 feet below in deep\nsnow. Her companions attached no\nimportance to the fall, but on reaching\nher found the bone had pierced her\nheart.\n\nThis is the second accident of the\nkind in Switzerland this winter.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1078,
+            2133,
+            1275,
+            2171
+          ],
+          "label": "paragraph_title",
+          "text": "\"Egg Romance\" Cracks; Husband \"Hard Boiled\"",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1073,
+            2182,
+            1278,
+            2431
+          ],
+          "label": "text",
+          "text": "Frank Olds, of Everton, Mo,\nwrote his name on an egg and\nrequested the buyer to write to\nhim. It was shipped to a cold\nstorage house in Chicago, and\nlater found its way to a resta-\nturant, where it was bolled and\nsold to a romantic malden. She\nwrote to \"the man on the egg,\nand he replied. More corres-\npendence, and finally they\nwere married.\nNow Mrs. Olds is suing for\ndivorce. In her bill she charges\nher husband with being \"hard\nbolled,\" a gambler, and a small\ntown sport. She wants to cast\nhim out of the nest.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1301,
+            351,
+            1528,
+            382
+          ],
+          "label": "paragraph_title",
+          "text": "GHOST HAS APPETITE",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1296,
+            403,
+            1529,
+            964
+          ],
+          "label": "text",
+          "text": "Widow's Shotgun Squad Loses Goat to Hungry Spook.\n\nIn Heard at All Hours of the Night, but is Never Seen\u2014Carries Off Two Sacks of Flood and 50 Pounds of Sugar.\n\nWaukegan, Ill. \u2014 Although four neighbors, armed with shotguns, maintain nightlight at the home of Mrs. Catherine Milkman, a hungry ghost, who has domesticated himself there, continues to be heard but not seen. Except on Mondays. He has Mondays off.\n\nThey've heard him at all hours of the night. And occasionally he has made his presence felt in other ways. For example, Michael Dezoma, a cigar manufacturer, tells how:\n\n\"One Friday morning at 3 o'clock there was a funny noise at the door. The room was in darkness. I was striking a match to light a cigar. The door flew open, the match was blown out, and a hand grabbed me by the neck, choked me, and then hit me on the nose. I called to Jack Schlosser, the teamster, but the hand disappeared before we turned on the lights. I'm a brave man, but it made me nervous.\"\n\nThe ghost has taking ways. He took two sacks of flour and 50 pounds of sugar, and other night Mrs. Milkoman which heard him in the cabin, making a noise like target practice. When the vigilante squad arrived there the remnant of the winter's supply of coal was tossed all about the place.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1295,
+            859,
+            1530,
+            2012
+          ],
+          "label": "text",
+          "text": "The ghost has taking ways. He took two sacks of flour and 50 pounds of sugar. The other night Mrs. Milakowich heard him in the cellar. He was making a noise like target practice. When the vigilante squad arrived there the remnant of the winter's supply of coal was tossed all about the place.\n\nAnd Daniel, her eldest boy, dreamed the ghost walked into his bedroom one night and said: \"Hello, kid.\" Daniel awoke the next morning to find his bed had been moved from one side of the room to the other.\n\n\"It all got my goof so,\" said Jerry Wonka, who used to live above Mrs. Milakowich, \"that I moved. We couldn't sleep or anything. The\u9b3c used to carry on at all hours of the night.\"\n\nThe shotgun squad now maintaining vigil comprises Antonio Carrison, Waukegan cobbler; James Shanes, George Mastron and Sam Surlas. They not, they aver, believe in spooks. Still, they never separate during the wee sma.\n\nFirst information of the ghost was made public when Mrs. Milakowich appealed for protection to Father Joseph Lauerman, pastor of St. Joseph's church, of which she is a member.\n\n\"He'll eat me out-of-house and home,\" said Mrs. Milakowich, who is a porch of Old Main blue on the campus. Each morning he gets out an open pasteboard box of change and a fresh stock of candy. Then he gives his business \"absent treatment\" and attends his classes.\n\nHe does a business of from $3 to $7 a day and says that the \"losses are not worth mentioning.\"\n\nHe is paying his way through college with the profits.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1350,
+            2029,
+            1479,
+            2041
+          ],
+          "label": "paragraph_title",
+          "text": "Rooster That Smokes",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1295,
+            2041,
+            1530,
+            2448
+          ],
+          "label": "text",
+          "text": "Jamestown, N. Y.\u2014One of the unique features at the poultry show of the Chautauqua County Poultry association, held here, was Warren G., a rooster, which smokes cigarettes. The bird is well trained and rides from city to city with its owner on the top of an automobile. The rooster has been exhibited before President Harding in the latter's private office at Washington, according to the owner.\n\nSeaplane Is Disabled by Hitting Porpoise\n\nPensacola, Fla.\u2014While landing in Pensacola Bay a seaplane in which were Levt J. Smith of the Marine Corps and Chief Machinists' Mate Balaki hit a porpoise so hard that the plane was damaged beyond use and had to be towed back to the station. The porpoise came up to \"blow\" just as the plane leveled off to hit the surface of the water.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1571,
+            312,
+            1744,
+            335
+          ],
+          "label": "text",
+          "text": "$2.40 PER YEAR",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1540,
+            359,
+            1768,
+            447
+          ],
+          "label": "doc_title",
+          "text": "STORY DIDN'T GET HEADLINE",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1541,
+            468,
+            1767,
+            530
+          ],
+          "label": "text",
+          "text": "\"Tiruvannamallai\" Is Name of Place Where News \"Broke\" and That's Reason.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1535,
+            604,
+            1767,
+            1654
+          ],
+          "label": "text",
+          "text": "[OCR timeout]",
+          "status": "timeout"
+        },
+        {
+          "bbox": [
+            1535,
+            1653,
+            1768,
+            2457
+          ],
+          "label": "text",
+          "text": "\"The time quickly passed for these two wanderers in Elysium. But what seemed but a moment to them was a period of many years for the hapless inhabitants of the world whose sun and moon had thus been darkened. When Siva realized the hardship which his wife's coumetry had caused, he sent her forth to do penance at the various holy places with which the southern portion of India is dotted. When she at last reached Tiruvannamalai, the famous 'Holy Fire Hill' of South Arcot district, Siva appeared at the top of the isolated peak, as a sign that his wife's thoughtlessness was ingrained. At first of the hill, just outside the chief town of the region, like the fine temple of Tiruvannamalai. It is to this place that the pilgrims flock on the occasion of the festival which commemorates the recondition of their chief god and goddess. The culminating feature of the celebration is the lighting by the priests of a beacon fire on the summit of the hill, which can be seen for many miles throughout the district.\n\nCamphor and Butter Feed Beacon. \"So heavy is the rush of pilgrims to the blaze on the summit that strict police control is needed throughout the 48 hours that the fire usually burns. Camphor and clarified butter or ghee, brought as offerings by the pilgrims, make up a large part of the fuel. The festival, which lasts for ten days, ends with this sacrificial fire which commemorates the forgiveness of Parvati by Siva and the return of light to a darkened world.\n\n\"The large Silva temple is among the most interesting in the Indian, for first the slopes of the sacred mountains, the most impressive coming of the morning sun, one can look down upon this typical Dravidian temple and see how, with the increasing wealth of the shrine, successive courts were added around the central mandap. The outer wall, embellished by four large gopurams or entrance-gateways, is most impressive of all. These gopurams, or gorupa, which somewhat correspond to the pylons of the Egyptian temples, are in themselves books of mythology. The thousands of figures on Hindu mythology.\"",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "image": "images/page_02.jpg",
+      "width": 1881,
+      "height": 2520,
+      "processed_at": "2026-03-06T14:28:42.090779+00:00",
+      "processing_time": 129.6,
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "ocr_workers": 1
+      },
+      "layout": {
+        "raw_detections": 103,
+        "after_gap_fill": 117,
+        "after_merge": 42
+      },
+      "regions": [
+        {
+          "bbox": [
+            101,
+            200,
+            336,
+            474
+          ],
+          "label": "text",
+          "text": "A. Q. ADAMS, EDITOR AND PUBLISHER\n\nST. PAUL OFFICE\nNo. 301-2 Court Block, 24 E. 4th st.\n\nJ. Q. ADAMS, Manager.\n\nPHONE: N. W. CEDAR 5649.\n\nMINNEAPOLIS OFFICE\nNo. 2612 Tenth Avenue South\nJ. N. SELLERS, Manager.\n\nEntered at the Postoffice in St. Paul,\nMinnesota, as second-class mail\nmaster, June 6, 1885, under\nA. A. Cogburn,\nMarch 3, 1878.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            127,
+            491,
+            309,
+            508
+          ],
+          "label": "paragraph_title",
+          "text": "TERMS, STRICTLY IN ADVANCE:",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            102,
+            516,
+            338,
+            1045
+          ],
+          "label": "text",
+          "text": "SINGLE COPY, One Year. .....$2.40\nSINGLE COPY, Six Months. .....1.25\nSINGLE COPY, Three Months. .....1.58\n\ndamittances should/ be made by Express\ngifted Letter or Bank Draft. Postage\nstamps will be received the same as cash for\none cent and two count stamps taken.\n\nSilver should never be sent through the mail.\nEnvelope and envelope be lost; or it may be\ninsecure. People who send silver to in letters\none cent and two count stamps taken.\n\nHarmage and death notice 10 cents or less. $1.\nEach additional line 10 cents. Payments\ninsertion. There are fourteen agate lines in\nthe insertion. All must be in the same\nagate line. No single advertisements less\nthan $1. No discount allowed on less than\nall purchases. Many all orders from parties unknown to\nFurther particulars on application.\n\nSilver and death notice 20 cents or less. $2.\nEach additional line 20 cents. Payments\ninsertion. There are fourteen agate lines in\nthe insertion. All must be in the same\nagate line. No single advertisements less\nthan $1. No discount allowed on less than\nall purchases. Many all orders from parties unknown to\nFurther particulars on application.\n\nThe data on the address label shows when\nsenders are lost or stolen. In case you do\nnot know the address type\u2014about six\nmakes two weeks prior to expiration, so that\nno paper may be missed, as the paper stops\ncounting.\n\noccasionally happens that papers sent to sub-\nscribers are lost or stolen. In case you do\nnot know the address type\u2014about six\nmakes two weeks prior to expiration, so that\nno paper may be missed, as the paper stops\ncounting.\n\nCommunication to receive attention number:\nnew, upon important anti-suit, plainly\nwritten only upon one of the paper;\nnot later than Wednesday, and bear the sig-\nature turned, unless stamps are sent for postage.\n\nWe do not hold ourselves responsible for the\nterms of our correspondents.\n\nSee notes elsewhere. Write for terms. Sample cont\u00e9 free.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            95,
+            1044,
+            341,
+            1370
+          ],
+          "label": "text",
+          "text": "In every letter that you write us never fail to give your full name and address, plainly written, post office, county and state. Butness letters of all kinds must be written on separate sheets from letters containing news or matter for publication.\n\nSATURDAY, DECEMBER 2, 1922.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            157,
+            1399,
+            336,
+            1430
+          ],
+          "label": "paragraph_title",
+          "text": "> Bible Thought for Today",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            101,
+            1452,
+            337,
+            1565
+          ],
+          "label": "text",
+          "text": "AN END TO WORRY!\u2014Be careful for nothing; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of such passions, understanding, shall keep your hearts, and through Christ Jesus.\u2014Philippians 4:6, 7.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            142,
+            1586,
+            299,
+            1600
+          ],
+          "label": "paragraph_title",
+          "text": "WHILE ROME BURNS",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            100,
+            1604,
+            339,
+            2115
+          ],
+          "label": "text",
+          "text": "While daily reports of lynchings and mob violence continue to be recorded, while organized lawlessness grows more sinister, even more arrogant, while human lives are wantonly destroyed, the senate filibusters on a measure designed to check lynching. It is of little consequence to the Democratic bloc that Mexico is protesting the lynching of one of her subjects in Texas; it is of little consequence to them that the virus of mob violence has spread from the South of the North from the hanging of blacks to the persecution of whites, from the killing of men to the degradation of women; it is of little consequence to them that the enlightened peoples of the world openly sneer at America's professions of humanity; it is of no consequence to them that men and women are horribly and inhumanly done to death within the continental limits of the United States.\n\nThe only thing that matters is that the measure is \"admittedly political\" in character. It must be blocked, therefore, at any cost.\n\nOne of these bloody days the senators, as well as a good man other white people will realize that in his fight to wipe out lynching the colored people is but helping the white men to save himself.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            162,
+            2129,
+            284,
+            2143
+          ],
+          "label": "paragraph_title",
+          "text": "DISGRIMINATION",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            95,
+            2149,
+            341,
+            2433
+          ],
+          "label": "text",
+          "text": "There is humor, of a sort, in the spectacle of Senator Heflin, of Alabama, raging about discrimination in the galleries of the senate chamber. A wounded colored soldier interrupted the debate with a question. He was put out of the gallery, but was allowed to return. The senator claims that white persons have been kept out for a similar offense, and heatedly charges discrimination. This charge, coming from the senator from Alabama, is unfortunate, to say the least, and his choice of words is even more tactless. The word discrimination does not ride well on the tongue of the representative of arch-discriminators. Before the various humiliating, unfair, and even fliendish",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            443,
+            189,
+            716,
+            211
+          ],
+          "label": "paragraph_title",
+          "text": "THE MAN WHO DARES",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            342,
+            211,
+            580,
+            574
+          ],
+          "label": "text",
+          "text": "I honor the man\nentious discharge o\nstand alone; the w\nintolerant judgment\nthe countenances o\naverted, and the he\ncold, but the senses\nbe sweeter than the\nworld, the counten-\nthe hearts of friends.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            389,
+            246,
+            772,
+            506
+          ],
+          "label": "text",
+          "text": "I honor the man who in the conscientious discharge of his duty dares to stand alone; the world, with ignorant, intolerant judgment, may condemn, the countenances of relatives may be averted, and the hearts of friends grow cold, but the sense of duty done shall be sweeter than the applause of the world, the countenances of relatives or the hearts of friends.\u2014Charles Sumner.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            344,
+            574,
+            580,
+            713
+          ],
+          "label": "text",
+          "text": "color discrimination practised in Alabama, this trifling incident pales into insignificance. As long as Alabama remains as it is, the senator's oratorical flights on discrimination will serve merely to establish him more firmly as a ludicrously short sighted, color blind legislator.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            360,
+            725,
+            565,
+            756
+          ],
+          "label": "paragraph_title",
+          "text": "JAPANESE AND AMERICAN CITIZENSHIP",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            342,
+            758,
+            580,
+            1360
+          ],
+          "label": "text",
+          "text": "The recent decision of the United States Supreme Court, adverse to the citizenship claims of three Japanese, is welcome, in that it brings a ruling, final of course beyond appeal under the present law, in a matter which has been not only perplexing of itself, but also complicated by various rulings from different lower courts. However, unless understood in its essential intent, this judgment may be productive of international ill-feeling. It should be recognized clearly that a hardship is thus imposed upon an estimable people\u2014a people who, measured by any qualitative standard, constitute one of the great powers of the globe\u2014for no reason saving that the existing law may carry out a determination of the Americans in favor of what is only to be seen as radical self-defense. The statute now interpreted as denying legal citizenship to Japanese is not based upon a feeling that white men in general, or white Americans in particular, are superior to Japanese or yellow men, or that Oriental culture is inferior to Occidental. It is founded, partly, in the desire of industrial competition, and, yet more, in the desire that, so far as possible, the United States be maintained a white man's country. The decision does not cover Japanese who by reason of their birth in \"the States\" automatically become citizens, and in this particular falls short of court custom in Australia, South Africa, and British Columbia.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            342,
+            1359,
+            580,
+            2295
+          ],
+          "label": "text",
+          "text": "It is futile (though interesting) to surmise what may have been the original intent in drafting the law as it now reads in Section 2196 of the Naturalization Act of June, 1906. The ruling stands that the statute, being affirmative in its application to the white and Negro races, does not encompass other people. If the \"white,\" used in Justice Sutherland's sentences, is to be taken as \"Caucasian,\" and if, therefore, Mongolians are debarased as such, the decision is of far-reaching moment, indeed. Both Finns and Hungarian Magyars have been freely naturalized by American courts, yet they are purer Mongols than the Japanese. On the other hand, Moroccan and Abyssinian and Arabs are Caucasian, albeit not pure white. It would seem wholly pertinent for the Congress at Washington to enact a new law, based on qualifications broader and juster than mere racial traits. It should be self-evident that any person of any race who is permitted to reside in a country for a lifetime, making a living there and there enjoying the national institutions, ought to be given the right to become\u2014some would put is, ought to be compelled to become\u2014a legal citizen, that he might protect and cherish those institutions as native-born citizens are obliged to do. Nor would such action in any way imply unrestricted immigration from any part of the world: that is a separate question.\n\nIt is a matter deserving of attention not only as involving justice, but precaution, too. There is a tendency to ignore questions where discussion might awaken ill-feeling, yet (if the\n\nTHE SIN O\n\nTo sin by silence protest makes con-\nThe human race hatest. Had no voice in injustice, ignorance quisition yet would",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            390,
+            2135,
+            773,
+            2398
+          ],
+          "label": "text",
+          "text": "To sin by silence when we should protest makes cowards out of men. The human race has climbed on protest. Had no voice been raised against injustice, ignorance and lust, the inquisition yet would serve the law, and guillotines decide our least disputes. The few who dare must speak and speak again to right the wrengs of many.\u2014Ella Wheeler Wilcox.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            583,
+            211,
+            818,
+            742
+          ],
+          "label": "text",
+          "text": "who in the consci- of his duty dares to world, with ignorant, ant, may condemn, of relatives may be hearts of friends grow of duty done shall be applause of theances of relatives or.\u2014Charles Sumner.\n\nIrishism be permitted) to ignore difficult questions is the worst way to handle them. If the people of the United States believe that, while possessed of full right to limit the immigration of any race into their land, they ought not to discriminate against the members of a race lawfully admitted, then they should amend the law to that effect.\u2014Christian Science Monitor.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            585,
+            760,
+            817,
+            849
+          ],
+          "label": "doc_title",
+          "text": "Hylan Calls on Police To Drive Out Ku Klux",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            584,
+            868,
+            818,
+            1388
+          ],
+          "label": "text",
+          "text": "New York, Nov. (Crusader Service) Following the opening of the Ku Klux Klan headquarters in this city by the Rev. Mr. Oscar Haywood of Calvary church, Mayor Hylan, Democrat, issued instructions to his commissioner of police, Richard Enright, to drive the Ku Klux Klan City, City Mayor Hylan's letter to his commissioner of police follows:\n\n\"The Ku Klux Klan or any secret organization of similar character and purpose, is a menace to our city, state and nation. The people of the city of New York will not tolerate their existence within the confines of our city. They will be turned to ferret out these despicable disloyal persons who are attempting to organize a society, the aims and purposes of which are of such a character that were they to prevail, the foundation of our country would be destroyed in yesterday morning's World that Rev. Dr. John Reech Stratton and Rev. Oscar Haywood, D.D., of Calvary Baptist church, are alleged to be connected in some way with this secret organization. If this is so, a little police attention along this line would not be out of order. Mr. Ku Klux Klan and do not let them set up a foundation New York City. It is to be regretted that the men of the cloth, regardless of their denomination, would have anything to do with an organization whose purpose is as vile as that of the Ku Klux Klan. These people can be dealt with under the conspiracyrous penal law of the State of New York.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            588,
+            1424,
+            818,
+            1498
+          ],
+          "label": "doc_title",
+          "text": "JEWS OPEN WAR\nON KU KLUX KLAN",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            588,
+            1424,
+            818,
+            1498
+          ],
+          "label": "paragraph_title",
+          "text": "JEWS OPEN WAR\nON KU KLUX KLAN",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            583,
+            1513,
+            818,
+            2298
+          ],
+          "label": "text",
+          "text": "\"Brith Abraham\" Will Wage Open Warfare, Says Judge Levy, Grand Master.\n\nHOPES TO ENLIST OTHERS\n\nN. Y. Municipal Court Justice Takes Action When He Finds Klan Circulates in Schools.\n\nNew York, Nov. (Crusader Service) Open warfare on the Ku Klux Klan by the Independent Order of Brith Abraham, with a membership of 200,000 throughout the United States, was declared last night by Judge Aaron J. Levy, Grand Master of the Abraham and presiding justice of the municipal pointet and wage laborer of New York. Judge Levy said he hoped to enlist other Jewish fraternal organizations in a fight on the Ku Klux and eventually he suggested that Jewish and all other fraternal bodies opposed to the Klan should be merged into one body that wage relentless warfare on the Klan.\n\nHis decision to ask the Independent Order of Brith Abraham to help in making an end of the Klan was reached after reading newspaper accounts of how school children were accused of\u5305papagate the vicious doctrines of the Klan and waged Ku Klux literature throughout the city. Circuials distributed through the medium of these school children contained an appeal designed to engender hatred of the foreign-born, and the Negro.\n\nF SILENCE\n\nce when we should awards out of men.\n\nus climbed on pro-ben raised against me and lust, the inservice the law, and",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            666,
+            853,
+            731,
+            863
+          ],
+          "label": "text",
+          "text": "---",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            677,
+            1389,
+            809,
+            1402
+          ],
+          "label": "text",
+          "text": "JOHN F. HYLAN.\"",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            825,
+            131,
+            1057,
+            278
+          ],
+          "label": "doc_title",
+          "text": "ANTI-LYNCHING CRUSADERS EXECUTIVE MEETING",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            820,
+            297,
+            1059,
+            2435
+          ],
+          "label": "text",
+          "text": "[OCR timeout]",
+          "status": "timeout"
+        },
+        {
+          "bbox": [
+            1062,
+            135,
+            1297,
+            175
+          ],
+          "label": "text",
+          "text": "be held in trust by the Guaranty City to be turned over as directed.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1060,
+            174,
+            1300,
+            1193
+          ],
+          "label": "text",
+          "text": "MRS. MARY B. TALBERT,\nNational Director.\nMrs. Graes Nail Johnson,\nMrs. Alice Dunkin Nelson,\nMrs. Lillian Alexander,\nPublicity Committee.\n\nY. A. ROBERSON,\nEDITOR, DIES\n\nAuthor and City Editor\nFor Age-Dispatch Dies\n\nWriter for Associated Press, Founder\nWestern Writers' Association,\nSucumbia to Pneumonia\nSuddenly.\n\nAfter scarcely a month's illness, Y.\nAndrew Robinson, city editor of the\nMrs. Graes Nail Johnson, author of the\nserial \"Ashes\" now running in that\npaper, and the article appearing for\nthe first Leslie issue Weekly and\nin the Literary Digest, \"A Colo-\nLine Within a Color Line,\" that flooded\nthe offices of Leslie's Weekly with\nletters of commendation and con-\ndemination, as well as inquiries\nconcerning the identity of the author,\nis dead.\n\nMr. Robertson was taken suddenly\nil'40 December 19, 1922, with what three\ndoctors pronounced pneumonia, and\ngrew steadily worse, at no time show-\ning favorable reaction to treatment.\nA desperate fight to save the life of\nthe first leslie issue Weekly and\nin the Literary Digest, \"A Colo-\nLine Within a Color Line,\" that flooded\nthe offices of Leslie's Weekly with\nletters of commendation and con-\ndemination, as well as inquiries\nconcerning the identity of the author,\nis dead.\n\nMost persons are surprised to know that\nY. A. Robertson was only\n24 years of age, celebrating his twelfth-\nfifth birthday. Dr. Leonard Stowell,\nhe a native of Alexandria, La,\nand many of the scenes of his stories\nboth white and black, are laid in this\nromantic old state. Death coming just\nwhen it did interrupted many plans\nof aspiring author. He leaves un-\ncompleted a book in a great kingdom,\na thing concerning the little\nknown. And in order to acquaint\nhimself with the life and customs of\nthis time, Mr. Robertson had been\nstudying carefully dry minutely writ-\nture the accounts of ancient Ethiopia,\nEgypt, and the surrounding\ndoms. He had at the time of his\ndeath compiled enough data to\ncomplete his story and had written\nthe first two chapters, which are streng-\n enough and vivid enough to justify\nthe author's claim that with the work\nhe would claim the Spingarm Medal\nfor 1923.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1060,
+            1192,
+            1300,
+            2133
+          ],
+          "label": "text",
+          "text": "Mr. Roberson's mother died when he was eighteen years old, leaving him without parents, his father having died when he was a baby. He is by one close relative, a grandfather by George Jackson, who is now in Los Angeles, having tried to reach the bedside of his grandson before he passed away, but arriving to find that he had spent his last hours among newly-made friends and strangers.\n\n**Church and Klan Going Hand in Hand**\n\nKu Kluxian Invading White Christian Pulpit\u2014Donations Win Ministerial Support.\n\n\"FIERY CROSS\" LEADS WAY\n\nProtestants Rallying to Klan's Slogan of \"White Supremacy.\"\n\nNew York, Nov. (Crusader service) The Ku Kluxian is conducting an intensive membership drive in this city and so far has enlisted the service of seven Bible classes among them the Rev. William Burd, Methodist minister at St. Mark's church in rincess Bay, PS. I. This minister of white Christianity and traitor to Christ admitted to reporters in the Statem Island edifice that he had preached Klanism in Bible classes. The minister pronounced the Klan a patriotic organization imbued with noble principles, and stated that one of its cardinal principles was the unswerving conviction that the white race should be forever supreme in America.\n\nThis portion of the Klan Kreed, he explained, was to meet conditions in some parts of the South where the colored race is in the majority. Concurring with the teachings of the Klan, he declared this to be the white man's land, and for the best interests of the\u65cf\u6c11 (syphilization?) and society white supremacy should prevail.\n\nAt another church in New York, Klan circulars were distributed following collection at the morning service. At this church, however, the Klan circulars and the stage of the Klan circulars and apparently angry over the incident.\n\nAt the Calvary Bautist church, of which the Rev. John Roach Straton, a vaudevillian reactionary is pastor, dodgers were given out with the grandfather, whose dodgers carried invitations to become burgers, with the advice to write at once to N. C. T., Box 797, Tenafly, New Jersey, (No postals).\"",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1063,
+            2132,
+            1297,
+            2156
+          ],
+          "label": "text",
+          "text": "Those who wrote received a reply that read :",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1060,
+            2153,
+            1300,
+            2438
+          ],
+          "label": "text",
+          "text": "\"An invitation is extended to you herewith to attend an open meeting, where full particulars and an opportunity will join will be given, at Mead's No. 1910 Medium building, Nov. 17 at 8 P. M. sharp. Bring an eligible friend with you. Present this slip at door and inquire for Brown.\"\n\nGARVEY CONVINCED OF OWN UNFITNESS\nNew York, Nov. (Crusader Service)\n\u2014That Marcus Garvey, self-styled president of the continent of Africa, founder and \"founderer\" of the Black Star Line, has at last been convinced of his unfitness for leadership is",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1359,
+            1131,
+            1723,
+            1175
+          ],
+          "label": "text",
+          "text": "HANDLAN & SULLIVAN MEATS, FISH, POULTRY, BUTTER, LARD, ETC.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1300,
+            139,
+            1535,
+            758
+          ],
+          "label": "text",
+          "text": "proved by his seeming determination to free himself of the various \u201cbusinesses\u201d conducted by the U. N. I. A. in New York City. Within the past two weeks he has closed one restaurant, one grocery store, and one possess from a branch office and now the grocery store at 552 Lenox avenue, formerly run at a loss by the association, has been sold to its manager, C. W. McLott for the insufficient $800. The thing else that Mr. Garvey has touched this store has merely been a means for transferring the money of colored people of the world into the pockets of white people. When the association acquired the store a few months ago paid the sum of $2,000 for it, only to sell it last week at a loss of $1,500.\n\nMEXICO PROTESTS\nU. S. LAWLESSNESS\n\nWashington, Nov. (Crusader Service).-While this government is historically prating about the necessity of enforcing the States forces in Haiti for the purpose of upholding \u201claw and order\u201d, the Mexican government has found it necessary to make representations to the State department against the koreanarakale Zarato, at Westwood Texas, last Saturday, and to demand guarantees for the Mexican consul at Hidalgo, Texas, whose life is said to have been threatened, and for other Mexicans, According to the embassy\u2019s advice, to the Mexican consul fight with a grungy and then was taken out and lynched, the authorities afterward refusing the Mexican consul\u2019s request for an investigation.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1300,
+            755,
+            1535,
+            1254
+          ],
+          "label": "text",
+          "text": "The newest\nPARAMOUNT AND BE\nGet the\nJAMES F\nParamount and Black S\nin and hear the records pl\n311 Wabasha Street\n\nGarfield 2584\n\nHANDLAN &\nMEATS, FISH, POULTRY\n\nOYSTERS AND C\n\nOUR FISH SH",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1536,
+            139,
+            1773,
+            253
+          ],
+          "label": "text",
+          "text": "a sharp demand to the Texas authorities for the protection of all citizens of Mexico within their jurisdiction, but the fact remains that the United States forces at present numbering 10 million people in the Liberia the Haitian people could, with better advantage to \"law and order\", be used to good effect in Texas.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1540,
+            264,
+            1774,
+            341
+          ],
+          "label": "paragraph_title",
+          "text": "Whites Join Anti- Lynching Crusaders",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1539,
+            355,
+            1775,
+            768
+          ],
+          "label": "text",
+          "text": "New York, N. Y., Dec. 1\u2014Mary Garrett Hoy, president of the Women's City Club of New York has joined the Anti-Lynching Crusaders, who are seeking to enroll a million women in the campaign to end lynching in America, according to an anthology of the Crusaders, Mrs. Mary B. Talbert of Buffalo, nation: director of the Crusaders.\nEndorsement of the anti-lynching crusade being conducted throughout the country has also come from the International Sunshine society, whose president, Mrs. John Allen, reports that the crusaders have joined Anti-Lynching Crusaders and of the Dyer Anti-Lynching Bill. Mrs. Frances E. Burns, great commander of the Ladies of Macabees of St. Louis, Mo., also reports endorsement of the Crusaders by her organization.\nAmong the new members to join in the new women accused of being byrid the United States of the lynching evil are: Mary Austin, novelist and writer on the American Indian: Mrs. Frederic C. Howe, wife of the former commissioner of immigration; Janet Simmons, Harris, Bradford, Pa.; and Mary E. Reid, writer; Harris, L. Jones of Ferry Hall, Lake Forest, III; Dr. E. Brodie of St. Paul, Minn.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1497,
+            479,
+            1775,
+            1919
+          ],
+          "label": "text",
+          "text": "Endressure of the anti-lynching crusade being conducted throughout the country has also come from the international Sunshine society, whose president, Merrill John, reports a unanimous vote of approval of both Anti-Lynching Crusaders and of the Dyer Anti-Lynching Bill. Mrs. Frances E. Burns, great commander of the Ladies of Maccabees of St. Lois, Mo., also reports endorsement of this president by her commissioner. Among the new members to join in the nationwide campaign conducted by women to rid the United States of the lynching evil are: Mary Austin, novelist and writer on the American, Indian, Mrs. Frederic C. Howe, wife of the former commissioner of immigration; Janet Simmons Harris, Bradford, Pa., of the National Council of Women; Harriet L. Jones of Ferry Hall, Lake Forest, Ill; Dr. E. Brodie of St. Paul, Minn.\n\nwest and latest\n\nBLACK SWAN RECORDS\n\nthem from\n\nFRACTION\n\nBlack Swan Records for sale. Come played with out and request sent\n\nGarfield 2584\n\nBARN & SULLIVAN\n\nDUALTRY, BUTTER, LARD, ETC.\n\nAND GAME IN SEASON.\n\nSHIPPED DIRECT.\n\nPRESS OUR POULTRY.\n\nSAINT PAUL\n\nPay $1.00 Down\n\nOnce After Christmas\n\nCharge Account atellers.\n\nGoldman Gives\n\nGreater Values\n\nWhite Diamonds\n\ncome famous for them",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1648,
+            1290,
+            1729,
+            1304
+          ],
+          "label": "text",
+          "text": "SAINT PAUL",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1497,
+            1919,
+            1775,
+            2314
+          ],
+          "label": "text",
+          "text": "Just think of the pleasure you'll be stow on some beloved one by presenting them one of these perfect sparkling gems, mounted in platinum and 18k white gold to your particular taste. This service is free. Special tomorrow\u2014\n$29.50 $45 $65\nWrist Watches. You will actually be bent in the latest white gold models.\nSunday\u2014$12.75 up\nPAY AFTER CHRISTMAS.",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "image": "images/page_03.jpg",
+      "width": 2067,
+      "height": 2800,
+      "processed_at": "2026-03-06T14:29:13.554645+00:00",
+      "processing_time": 31.5,
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "ocr_workers": 1
+      },
+      "layout": {
+        "raw_detections": 88,
+        "after_gap_fill": 98,
+        "after_merge": 38
+      },
+      "regions": [
+        {
+          "bbox": [
+            186,
+            142,
+            290,
+            162
+          ],
+          "label": "paragraph_title",
+          "text": "ST. PAUL",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            111,
+            180,
+            366,
+            221
+          ],
+          "label": "paragraph_title",
+          "text": "WEEK'S RECORD OF HAPPENINGS\nIN MINNESOTA'S CAPITAL",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            104,
+            180,
+            369,
+            900
+          ],
+          "label": "text",
+          "text": "WEEK'S RECORD OF HAPPENINGS\nIN MINNECOTA'S CAPITAL.\n\nThe \"Saintly City\" and Saintly City\nFolke\u2014Neway Items of Social, Religious, Political and General Matters Among the People.\n\nSATURDAY, DECEMBER 2, 1922.\n\nTHE APPEAL ASKS AS A SPECIAL FAVOR THAT ITS READERSIVE PREFERENCE TO THE ADVERTISERS WHO SEEK THEIR PATRONAGE BY ADVERTISING IN IT. SHOP IN THE APPEAL BEFORE SHOPPING ELSEWHERE.\n\nMr. G. D. Howard, secretary of the\nSt. Paul Business League and the\nCannon Toilet Mfg. Co., left for Chicago, Wednesday on business.\n\nMiss Rachel Gooden was hostess to a dancing party Thanksgiving evening at the home of Mrs. C. E. James of West Central avenue.\n\nMrs. Kenneth Hamilton, accompanied by her little nephew, Tulle Hickman, left for Waco, Texas, this week.\n\nPIONEER LODGE NO. 1, F. AND A. M. meets first and third Monday in each month at Masonic Hall, 688 Rondo St. at 9:00 P. K. H. Tewner, M. J. W. Thames, Seyc, 615 W. Central\u2014Advertisement.\n\nMrs. Malcolm Bradshaw presented her husband a little girl Tuesday. Mother and daughter are getting along, nicely.\n\nMrs. Maria McDonald of Bangor, Mich, is in the city to make her home with her sister-in-law, Mrs. M. M. Thomas, 57 Jessamine street.\n\nOffice: Cedar 6080 Res. Dale 2047\nRep.: 819 St. Anthony Ave.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            101,
+            968,
+            369,
+            2780
+          ],
+          "label": "text",
+          "text": "Miss Florence Robinson of Chicago, Ill., was a dinner guest Sunday at the home of Miss Minnie Tobie, 990 Gaultier St.\n\nMrs. Scott who has been visiting Mrs. C. H Stone of 416 St. Anthony Ave. has returned to her home in Kansas City, Mo.\n\nHousehold of RUTH NO. 553, G. U. O. Of F. H. and L. M. Monday, is next month at Union Hall, corner of Aurora and Kent streets at 8:00 P. M. Mrs. Della Williams, M. M. G.; Mrs. Carrie E. Lindsay, W. R. 426 Rondo street.\u2014Advertisement.\n\nHarvy Robinson died at the City Hospital, Thursday. Funeral services will be held under the auspices of Gopher Lodge No. 105, of which he was a member.\n\nMr. Charles Burke has taken charge of the Acme Club Cafe, formerly run by W. H. Reems, and is doing everything possible to please its many patrons.\n\nCharles S. Gilpin, star of \"The Emperor Jones,\" addressed the students at the University in the new music building, on art and the theater last Tuesday afternoon.\n\nIf Your Eyes Rebel See\n\nUBEL\n478 WABASHA STREET\n\nThe City Federation met Friday at the Y. center. The meeting was well attended and plans for the Crispus Attucks Home drive, which will begin January 21, were made.\n\nMrs. Gene Gough of 788 St. Anthony Ave., was hostess last Friday afternoon to the O. N. T. 500 club. Prizes were awarded to Mesdames Ida Smith and M. A. Johnson.\n\nThe Thanks giving dinner at Memorial Baptist church Thursday was enjoyed by quite a large number of people. The well home-cooked and well served dinner more than satisfied the gastronomic desives of the hungry.\n\nCASE CAR SERVICE\u2014Persons desiring motor car service for any occasion may get the use of an elegant new seven-passenger Case sedan, by calling at 528 W. Central avenue or calling up Dale 8412. Rates reasonable.\n\nThe Adelphia club was entertained Tuesday afternoon at the residence of its secretary, Mrs. Lillian McKnight, of 478 W. Central Ave., Madames Bettie Jones and M. J. Park were\n\nDEPOSITS\n\nMade on or before December 5th will receive 1 months interest January 1 1923.\n\nTHE STATE SAVINGS BANK\n93 E. FOURTH ST.\n\n4% Interest on Savings Compounded quarterly",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            372,
+            144,
+            635,
+            410
+          ],
+          "label": "text",
+          "text": "visitors. Several readings were given from Dunbar's poem by Mrs. Bettie Jones.\n\nDon't fail to attend the PRE-HOLIDAY BALL to be given by Past Grand Masters Council No. 123, G. U. O. O. O. F. at Union Hall. Man-surprises are in store for you. Music by Moore's Concert Orchestra. Admission at the hall 35 cents. You are invited.\n\nIf you need anything in the line of drugs, candies, magazines, ice cream, cigars, cigarettes, etc., patronize the Rondo Pharmacy, corner of Rondo and Louis streets. Mr. R. W. Herdig, the proprietor, is a fair and square young man and he desires your patronage.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            458,
+            431,
+            552,
+            447
+          ],
+          "label": "paragraph_title",
+          "text": "BRIEFLETS",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            449,
+            457,
+            559,
+            473
+          ],
+          "label": "paragraph_title",
+          "text": "By E. W. Gilles",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            370,
+            480,
+            633,
+            892
+          ],
+          "label": "text",
+          "text": "Be careful of appearances. Beware of dramatizing religion, without you wish to cut the heart out of it. The non-discussion of differences will help a good deal toward dodging the divorce courts. There is plenty of repenting for those who in thought or word or deed or neglect have sinned and come short of the glory of God. During flush times read the forty-first chapter of Genesis, and prepare for the worst. Just what kind of a fish it was that swallowed Jonah may not matter so much, the human shark is the \"fish\" to be wary of. Critising the church and the ministry and other Christians harms the one who does it, and the organizations which he represents, and the organization under whose courtesies he is inaking is my request that the faults of the Church and the ministry and of other Christians be treated with silent and prayerful sorrow in all meetings that I conduct. To be so dressed as to give the impression of a proper regard for God and man and for one's self is to be well dressed.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            369,
+            839,
+            637,
+            1574
+          ],
+          "label": "text",
+          "text": "To be so dressed as to give the impression of a proper regard for God and man and for one's self is to be well dressed.\n\nTo use such language as will give the impression of proper regard for God and man and for yourself, and to use it according to the grammar and the dictionary is to use good language.\n\nKnocking reacts on the knocker. Knocking is negative self-praise. Knocking assumes that the knocker is better than the one he is knocking, and that is assuming a good deal. Knocking is like a kicking gun. The kick is probably worse than the shot, and the knocker gets the worst of it.\n\nThere are two sides to every proposition, and one side modifies the other. When we get both sides properly modified, we find ourselves somewhere near the middle, and the middle is the biggest part of the proposition, and the safest place.\n\nJUDGE C: C. HAUPT\n\nJudge of Ramsey County District Court Who Died Yesterday.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            369,
+            1621,
+            637,
+            2348
+          ],
+          "label": "text",
+          "text": "Although encouraging progress has been made, the tardiness of the plumber and the sash and door factory prevented the completion of our temporary basement this week and our entrance into it for worship, as we had expected. Our sub-basement, or furnace room, is a very desirable feature. Our offering last Sunday was $180. Our Thanksgiving service and dinner were wholesome and happy affairs.\n\nThe \"Down\" But \"Never Out\" Spirit\n\nIn June, 1917, twenty-three year old Charles R. Binford, gave up his job as Charles R. Binford to grow up his job in the Marine Corps. While overseas and during a period of time, pain suddenly developed in both knees that in a few hours he was unable to handle his discharge. As he could not manage a car with stiff and swollen knees, he was declared to have a vocational handicap and entitled to Section II training by the U. S. Veterans' Bureau. Since Binford had only a fifth grade education, the Rehabilitation experts had difficulty in selecting a suitable vocation for him, but finally decided to give him a practical school course in electricity, to be followed by training on the job. However, the young man asked to be given his training with a lumber company in Northern Minnesota, which was ready to install an electrical plant. He was placed with this company for ninety-day course as a electrician's helper and proved himself such a capable worker that at the end of three months he was given a regular job at six dollars a day. Moreover, he now stands a good chance for rapid advancement from helper to electrician.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            369,
+            2347,
+            637,
+            2780
+          ],
+          "label": "text",
+          "text": "The case of Binford is cited by the U. S. Veterans' Bureau as an illustration of just what a disabled veteran, handicapped and hampered, can do when opportunity is offered and he is at the same time determined to overcome obstacles that fate has thrown in his path.\n\nPlacards Warn Race to Leave Town\n\nAthens, Ga., Dec. 1.\u2014The Ku Klux Klan have started their ride in Georgia. Notices have been posted on churches, lodge halls, and other places frequented by and people in Oconee county giving warning that the town must be \"lily white\" after January 1.\n\nFarmers in the county have been thrown into tumult on various occasions during the last year by numerous cases of night riding by masked men, in which, reports say, men and women were taken from their homes and flogged.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            640,
+            142,
+            897,
+            242
+          ],
+          "label": "doc_title",
+          "text": "ST. PAUL PIONEER RESIDENT DIES",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            637,
+            349,
+            901,
+            615
+          ],
+          "label": "text",
+          "text": "Sylvester J. Bellesen, pioneer resident of St. Paul, died at his home, 447 Charles street, Friday morning after an illness lasting over two years. He leaves to mourn his loss a wife, three sons, a daughter-in-law and a grand child. The funeral conducted of Frederick Douglass Lodge of which he was a member, will be held Tuesday at 2 o'clock from the house and 2:30 from St. James A. M. C. church. Mrs. T. H. Lyles will have charge of the funeral arrangements and the body will be at home Sunday. Interment at Oakland Cemetery.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            640,
+            636,
+            896,
+            702
+          ],
+          "label": "paragraph_title",
+          "text": "Men Enlisting Now in Army Can Get Government Insurane",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            633,
+            717,
+            897,
+            1291
+          ],
+          "label": "text",
+          "text": "The Veterans' Bureau frequently receives requests for information concerning the rights of men who are now enlisting or re-enlisting with regard to their privileges under the War Risk Insurance Act. C. D. Hibbard, Manager District No. 1, J. S. Veterans' Bureau, has issued a statement covering the regulations governing applications for government insurance. The statement says: \"Any person enlisting or re-enlisting in the military service has the privilege of applying for Government Insurance without further medical examination, providing application is made within 120 days after enlistment. Government insurance is granted in amounts from one thousand to ten thousand dollars, in multiples of five hundred. If a person, at a policy of his term of service has a policy in force on re-enlistment it is not necessary to make any further application, as the original contract can be kept in force by reauthorizing payment of premiums by deductions from pay or requesting a new allotment.\" The statement further shows that a daily increasing number of former veterans now in civilian life are realizing the value of Government life insurance and are taking advantage of the liberal reinstatement regulation by renewing the insurance they carried during their service. If the veteran is in as good health as he was at the time of his discharge, he can reinstate his War Term insurance in full by the payment of only two back premiums.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            636,
+            1316,
+            894,
+            1346
+          ],
+          "label": "paragraph_title",
+          "text": "WHAT DO YOU THINK ABOUT THIS?",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            633,
+            1357,
+            897,
+            1713
+          ],
+          "label": "text",
+          "text": "In connection with the opening of the fifteenth annual sale of Christmas seals, which starts November 22, officials of the Minnesota Public Health association call our attention to the enormous drop in the death rate from tuberculosis. Had the death rate of ten years ago continued, 972 people who are now living would have died this year from tuberculosis. The statement follows:\n\nThe death rate in 1921 from tuberculosis was lower than it has ever been in the history of the state. In 1911, 119 people out of every 100,000 died of tuberculosis. As compared with 1911, ten years ago, Minnesota is saving 972 lives a year.\n\nUP TO DATE.\n\nIn 1920, 90 people out of every 100,000 and in 1921, 77 people out of every 100,000 died, a saving in 1921 as compared with 1920 of 276 lives. Buy Christmas Seals and help the fight against tuberculosis and other diseases.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            667,
+            1734,
+            867,
+            1751
+          ],
+          "label": "paragraph_title",
+          "text": "KEEP OFF OF THIS DATE",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            635,
+            1769,
+            896,
+            1841
+          ],
+          "label": "text",
+          "text": "Anderson Circle of St. James A. M. E. church will give a drama entitled \"The Old Maids Club,\" on Wednesday evening, December 6th. Further particulars later.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            981,
+            248,
+            1368,
+            468
+          ],
+          "label": "text",
+          "text": "The early Christmas Buyer saves Time,\nMoney and Comfort. We save\nTime, Space and Discomfort. What\ncould be fairer than that?\n\nGenuine Cowhide Glad-\nstone Bag of Garland\nquality and finish, full\nleather lined \u2014 colors,\nblack or mahogany.\n\n20 inches\n$19.00\n\n22 inches\n$20.00",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            959,
+            519,
+            1234,
+            604
+          ],
+          "label": "text",
+          "text": "Made in 3-piece style. It's select quality, has leather lining and three pockets. Black or $10.00 mahogany .....",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1195,
+            617,
+            1378,
+            790
+          ],
+          "label": "text",
+          "text": "The outstanding feature of this case, for women, is the removable toilet case, which forms a tray, or may be carried separately. Fitted with toilet and manicure articles of tortoise shell celluloid (11 pieces.) Black cobra hide leather, silk lining. Size 22 inch. Specially priced. $34.75",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            966,
+            808,
+            1148,
+            876
+          ],
+          "label": "text",
+          "text": "Garland's Special Cowhide Brief Case, grain hide, not split, adjust. $5.00 lock...",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            959,
+            812,
+            1409,
+            1113
+          ],
+          "label": "text",
+          "text": "Garland's Special Cowhide Brief Case, grain hide, not split, adjust-able lock... $5.00\n\nGenuine Pin Seal Bill Fold, Calf lined, has two 14k gold corners. Name stamped with-out charge ... $4.00\n\nWe Open Charge Accounts\n\nGARLAND\nLUGGAGE SHOP\n\nA Small Deposit Will Hold Any Item Fill Xmas.\n\nSIXTH AT CEDAR.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1198,
+            1113,
+            1373,
+            1169
+          ],
+          "label": "paragraph_title",
+          "text": "New Ideas in Fixtures",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            959,
+            1173,
+            1409,
+            1525
+          ],
+          "label": "text",
+          "text": "are constantly appearing and they come here first. We want you to share in the pleasure of seeing their new beauty, their increased effectiveness. Come when you can and see how the modern home is lighted and made beautiful by the latest ideas in fixtures.\n\nLet Us Wire Your Home.\n\nSeven Corners Electric Co.\n208 W. 3d St. Phone Cedar 8395.\nOpposite Wilder Public Baths.\n\nN. E. Anderson G. W. Swanson\n\nSAFE MILK",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            924,
+            1409,
+            1407,
+            1584
+          ],
+          "label": "doc_title",
+          "text": "SAFEMILK Phone: Elkhurst 3163",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            953,
+            1597,
+            1379,
+            1625
+          ],
+          "label": "text",
+          "text": "MINNESOTA MILK CO.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            935,
+            1659,
+            1402,
+            1712
+          ],
+          "label": "text",
+          "text": "Northwestern Stamp Works. MANUFACTURERS OF",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1480,
+            336,
+            1921,
+            497
+          ],
+          "label": "text",
+          "text": "The finer the quality of the leather, and the more skillful the labor, the more extended is the value of the dollar into what we call wear, comfort, shape keeping and pleasure in a pair of shoes. Most value for your dollar, therefore is not a question of price, but a combination of material, skill and reputation.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1460,
+            1120,
+            1939,
+            1159
+          ],
+          "label": "paragraph_title",
+          "text": "WHY NOT TRY OUR NEW FAMILY WASH?",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1456,
+            1176,
+            1942,
+            1385
+          ],
+          "label": "text",
+          "text": "18 POUNDS FOR $1.50\nAll flat pieces ironed and wearing apparel nicely dried ready to iron.\nTHIS NEW SERVICE IS SURE TO PLEASE YOU\nCapitol Steam Laundry\nCEDAR 4622\n743 WABASHA ST.\nST. PAUL, MINN.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1497,
+            1413,
+            1904,
+            1453
+          ],
+          "label": "paragraph_title",
+          "text": "MUSIC & ENTERTAINMENT NIGHTLY",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1506,
+            1477,
+            1939,
+            1704
+          ],
+          "label": "text",
+          "text": "THANN'S\n40 E. THIRD ST. ST. PAUL\nCAFE OPEN AT ALL HOURS\nWe Make A Specialty of\nSouthern Dishes\nTables Reserved For Parties\nCall Cedar 9088\nR 1206 GARFIELD 2918",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1456,
+            1731,
+            1936,
+            1789
+          ],
+          "label": "paragraph_title",
+          "text": "ST. PAUL STOVE & FURNACE REPAIR WORKS Manufacturers and Jobbers",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1482,
+            1818,
+            1912,
+            1882
+          ],
+          "label": "text",
+          "text": "Repairs to Fit All Makes of Stoves, Ranges and Furnaces. We are Experts at Installing Furnaces.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1509,
+            1990,
+            1896,
+            2203
+          ],
+          "label": "text",
+          "text": "Tel. Cedar 9603 Open All Night\n\nLEADING DOWN TOWN PLACE TO EAT\n\nAcme Club Cafe\nCHARLES BURKE, PROP.\n\nFirst Class Meals and Lunches at All Hours And at\nReasonable Rates\n\nALL KINDS OF SOFT DRINKS\n\n317 1-2 Wabasha St.\n\nSt. Paul, Minn.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1484,
+            2281,
+            1923,
+            2324
+          ],
+          "label": "paragraph_title",
+          "text": "THE STANDARD FROM OCEAN TO OCEAN",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image": "images/page_04.jpg",
+      "width": 2091,
+      "height": 2800,
+      "processed_at": "2026-03-06T14:31:12.969179+00:00",
+      "processing_time": 119.4,
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "ocr_workers": 1
+      },
+      "layout": {
+        "raw_detections": 54,
+        "after_gap_fill": 62,
+        "after_merge": 35
+      },
+      "regions": [
+        {
+          "bbox": [
+            123,
+            180,
+            387,
+            306
+          ],
+          "label": "text",
+          "text": "THE DOINGS IN AND ABOUT THE GREAT \"FLOUR CITY.\"\n\nMatters Social, Religious and General Which Have Happened and Are to Happen Among the People of the City.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            122,
+            356,
+            388,
+            996
+          ],
+          "label": "text",
+          "text": "Mrs. Ella B. Adams, Eydthella B., and John Q. were the guests of Mr. and Mrs. Jasper Gibbs Jr. at dinner Thanks giving.\n\nMrs. Elmira Johnson, mother of Mr. Sam Johnson, died Wednesday, November 29th. Funeral services were held Friday at Bethesda Baptist church of which she was an old and faithful member. W. Squire Neal, undertaker.\n\nMary Carter, age 19 months, daughter of Mr. and Mrs. James Carter, 924 Minnehaha avenue, died November 21. The funeral was held Wednesday, November 22nd. Interment at Crystal Lake cemetery. W. Squire Neal, undertaker.\n\nMrs. Lucy Holland, wife of Mr. Clayton Holland, died at her home, 544 6th avenue north, Wednesday, November 22. Funeral was held last Monday at Zion Baptist church; interment at Crystal Lake cemetery. W. Squire Neal, undertaker.\n\nThe Anti-lynching Crusaders' headquarters are located at 501 Kasota Bldg., phone Geneva 4484, resident phone Dinsmore 7255. We would appreciate the co-operation of all interested in the passing of the Dyer bill and especially the women of the Twin Cities and vicinity.\n\nThe ladies of the Fidelity Court No. 345, Order of Calanthe, Knights of Pythias, will give a GRAND RECEPTION and BALL, assisted by Pride of Minnesota Lodge No. 5 at Coliseum Hall, 27th avenue S. and Lake street on Monday evening, December 4. At this entertainment the drawing for the Ford touring car will take place. Music by the New Jazzland Orchestra. Admission 50 cents.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            128,
+            1016,
+            388,
+            1082
+          ],
+          "label": "paragraph_title",
+          "text": "Training Veterans Through Correspondence Courses",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            124,
+            1097,
+            388,
+            1193
+          ],
+          "label": "text",
+          "text": "The U. S. Veterans' Bureau, C. D. Hibbard, District Manager, Minneapolis. Minn., is now training over two thousand disabled veterans in industry where they receive intensive practical training two hundred trades and industries.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            125,
+            1192,
+            387,
+            1300
+          ],
+          "label": "text",
+          "text": "However, to understand an industry thoroughly, some theoretical training is also necessary. Such men as desire it are, therefore, given additional training through correspondence courses, doing their studying evenings, after the day's work is done.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            124,
+            1299,
+            388,
+            1799
+          ],
+          "label": "text",
+          "text": "Three hundred and thirty-five men are taking correspondence courses along seventy-six different lines, supplementary to their regular training and achieving some fine results. A few of the courses selected at random are law, sheet metal drafting, auto electrics, traffic management, salesmanship, mechanical engineering, farm management, and banking and finance.\n\nAs a concrete example of the benefits received from this type of training, is the case of a young man taking auto electrics in placement training in Grand Forks, N. D., who took a correspondence course to give him additional technical training necessary to understand the starting, lighting and ignition systems of cars. He made unusual progress, so that when he was rehabilitated a farm in mediately placed him upon the payroll at thirty-five dollars per week, as service manager. This was a great increase over his pre-war salary.\n\nMother used to hurry through with the evening dishes so she could have a long pleasant evening of reading with the family. Now she \"stacks\" the dishes until morning so she won't be late to the movies.\n\nCITATION ON PETITION TO SELL LANDS.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            125,
+            1856,
+            385,
+            1879
+          ],
+          "label": "text",
+          "text": "The State of Minnesota to all Whom it May Concern:",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            120,
+            1876,
+            385,
+            2223
+          ],
+          "label": "text",
+          "text": "[OCR timeout]",
+          "status": "timeout"
+        },
+        {
+          "bbox": [
+            461,
+            2196,
+            845,
+            2230
+          ],
+          "label": "text",
+          "text": "STRICTLY FIRST CLASS MEALS TO ORDER\nAT ALL HOURS",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            120,
+            2248,
+            381,
+            2277
+          ],
+          "label": "paragraph_title",
+          "text": "CITATION FOR HEARING ON PETITION FOR ADMINISTRATION.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            459,
+            2260,
+            844,
+            2297
+          ],
+          "label": "text",
+          "text": "FRIED CHICKEN AND HOT GORN CRITTERS FOR\n.AFTER THEATER PARTIES A SPECIALTY",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            119,
+            2278,
+            382,
+            2349
+          ],
+          "label": "text",
+          "text": "STATE OF MINESOTA, COUNTY OF RAMSEY\u2014as. In Probate Court. In the Matter of the Estate of Philip H. Anderson, Decedent. The State of Minnesota to All Whom It May Concern:",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            118,
+            2346,
+            381,
+            2421
+          ],
+          "label": "text",
+          "text": "The petition of Lola Anderson having been filed in this court, representing that Philip H. Anderson, then a resident of the County of Ramsey, State of Minnesota, died intestate, and praying that letters of administration said estate be granted to Lola Anderson.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            400,
+            2376,
+            850,
+            2420
+          ],
+          "label": "paragraph_title",
+          "text": "HOME BUYERS===",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            117,
+            2421,
+            381,
+            2596
+          ],
+          "label": "text",
+          "text": "It Is Ordered, That said petition be heard and that all persons interested in said matron's petition shall appear before this court on Tuesday, the 12th day of December, 1922, at 10 o'clock in the morning, and that the petitioner can be heard, at the Probe Court room, in the Court House in the City of St. Paul, in the Court House in the City of St. Paul, have, why said petition should not be granted and that this citation be served by the public lawyer, and by mailing a copy of this citation at least 14 days before said day of hearing and by mailing a copy of this citation whose names and addresses are known and appear from the files of this court.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            117,
+            2632,
+            380,
+            2690
+          ],
+          "label": "text",
+          "text": "U.S. JUDGE OF PROBATE\n(Seal of Probate Court).\nAttest: F. W. Gosewish,\nNev. Aler. Probate.\nR. A. WALSH, Attorney.\n(11-18-22)",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            979,
+            919,
+            1406,
+            1043
+          ],
+          "label": "text",
+          "text": "AND what can be more appropriate and useful than gifts of leather. Our store is brim full of new snappy gifts that will be just right for her, him, or them, and the prices are right too.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            980,
+            919,
+            1405,
+            1042
+          ],
+          "label": "text",
+          "text": "AND what can be more appropriate and useful than gifts of leather. Our store is brim full of new snappy gifts that will be just right for her, him, or them, and the prices are right too.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            943,
+            1261,
+            1443,
+            1458
+          ],
+          "label": "doc_title",
+          "text": "LOWER PRICES ON FURNITURE AT BOUTELL'S",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            944,
+            1603,
+            1443,
+            1705
+          ],
+          "label": "text",
+          "text": "Besides wonderful opportunities to save\u2014big price reductions\u2014up to $ \\frac{1}{2} $ off\u2014we offer you Liberal Credit Terms. You can get the benefit of the sale prices and pay for your purchases by the month.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            944,
+            1721,
+            1441,
+            1828
+          ],
+          "label": "paragraph_title",
+          "text": "WHY HESITATE-This is the time to come to BOUTELL'S and furnish your home-AT A BIG SAVING",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            941,
+            1846,
+            1440,
+            1969
+          ],
+          "label": "text",
+          "text": "Rugs\u2014Draperies\u2014Furniture\u2014Dishes Kitchen Ware\u2014Cut Glass\u2014Aluminum Ware\u2014Stoves, Heaters, Ranges all at a saving to you.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            939,
+            2147,
+            1440,
+            2180
+          ],
+          "label": "text",
+          "text": "Minneapolis and St. Paul Cars Stop at Our Door",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            395,
+            751,
+            921,
+            815
+          ],
+          "label": "text",
+          "text": "Notice: At this entertainmen the drawing for the Ford Touring Car will positively take place. Come and haveyour number ready. Yours may be the lucky one.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            412,
+            829,
+            908,
+            873
+          ],
+          "label": "paragraph_title",
+          "text": "MUSIC BY THE NEW JAZZLAND ORCHESTRA",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            455,
+            1362,
+            860,
+            1564
+          ],
+          "label": "text",
+          "text": "A style that is always correct For the conservatively well dressed man FLORSHEIM has designed individual styles that give both comfort and elegance.The price is surprisingly low for the satisfaction received.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            416,
+            1997,
+            901,
+            2068
+          ],
+          "label": "text",
+          "text": "TWIN CITY REALTY CO.\nO. U. BRAY, PRES.\n411 UNIVERSITY AVE., ST. PAUL.\nTEL. FOREST 9553",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            484,
+            2144,
+            825,
+            2186
+          ],
+          "label": "text",
+          "text": "PHELPS HOTEL AND CAFE MRS. SYLESTUS PHELPS, PROP.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            924,
+            2458,
+            1185,
+            2696
+          ],
+          "label": "text",
+          "text": "VANDER BIE'S\nICE CREAM\nIS THE BEST\nFor Sale Everywhere\nJ. C. VANDER BIE\nPartridge and Brunson Stz.\nST. PAUL, MINN.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1225,
+            2564,
+            1417,
+            2607
+          ],
+          "label": "paragraph_title",
+          "text": "W. E. ROBINSON",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1192,
+            2610,
+            1452,
+            2699
+          ],
+          "label": "text",
+          "text": "CARPENTER and CABINET\nMAKER\nRepairing and Building of all kinds\n566 RONDO ST. SAINT PAUL",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1464,
+            782,
+            1971,
+            1760
+          ],
+          "label": "text",
+          "text": "PORTERS' & WAITERS' CLUB\n18 S. 3d St., Minneapolis\nPhone Main 2592\nExcellent Food at Minimum Prices. Soft Drinks of All Kinds.\nTOBACCO CIGARS CIGARETTES\nGLOVER SHULL, Pres. and Treas. EDDIE L. BOYD, Secy.\n\nOFFICE TEL. RES. TEL\nCEDAR 4044 DALE 7816\n\nHOURS: 8 A. M. TO 1 P. M.\nAND 2 TO 8 P. M.\n\nDR. JOHN R. FRENCH\nSURGEON DENTIST\n\nFIRST CLASS GUARANTEED WORK\nIN ALL, BRANCHES OF DENTISTRY\n\nSUITE 2 DETROIT BLDG.\nCOR. 4TH & WABASHA\nSAINT PAUL\nMINNESOTA\n\nS. BRAND\nCOAL\nRICE & UNIVERSITY\nPHONE GARFIELD\n7501 - 7502 - 7503\n\nN. W. CEDAR 3037\nChester W. Caskell\nOPTICIAN & JEWELER\n22 E. FOURTH ST.\nSAINT PAUL\n\n4% 4%\n\nTEL. CEDAR 8190\n\nHAMMOND TURNER\nATTORNEY AT LAW\n\n321 MET. BANK BLDG.\nFIFTH AT CEDAR St. Pa\n\nJOHN A. JOYCE\nDry Cleaning, Sponging,\nPressing and Repairing\nDone on Short Notice.\n1817 Franklin Ave. Minneapolis\n\nRes. Hyland 1360, Office Geneva 44\nHARRY L. SCOTT\nAttorney at Law\n501 Kasota Bldg. Minneapolis\n\nELKHURST 3473 QUICK SERVI\nCALL ONCE AND YOU WILL CALL AGAIN\n\nELK TAILORING CO.\nM. LOVE, PROPRIETOR\nSUITS MADE TO ORDER\nCLEANING, PRESSING, DYE-\nING AND REPAIRING\n306 RONDO ST. ST. PAUL, MIN\n\nTEL. DALE 6912\nThe Complete Service Co.\nArchitects and Engineers\nC. W. WIGINGTON SAINT PAUL",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1728,
+            1159,
+            1990,
+            1443
+          ],
+          "label": "text",
+          "text": "JOHN A. JOYCE\nDry Cleaning, Sponging,\nPressing and Repairing\nDone on Short Notice.\n1817 Franklin Ave. Minneapolis\n\nRes. Hyland 1360, Office Geneva 4484\n\nHARRY L. SCOTT\nAttorney at Law\n501 Kasota Bldg. Minneapolis\n\nELKHURST 3473 QUICK SERVICE\nCALL ONCE AND YOU WILL CALL AGAIN",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1749,
+            1443,
+            1970,
+            1484
+          ],
+          "label": "paragraph_title",
+          "text": "ELK TAILORING CO.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1728,
+            1484,
+            1990,
+            2552
+          ],
+          "label": "text",
+          "text": "M. LOVE, PROPRIETOR\n\nSUITS MADE TO ORDER\n\nCLEANING, PRESSING, DYE-ING AND REPAIRING\n\n306 RONDO ST.    ST. PAUL, MINN.\n\nTEL. DALE 6912\n\nThe Complete Service Co.\nArchitects and Engineers\n\nC. W. WIGINGTON    SAINT PAUL\n\nTEL. CEDAR 6975\nHOURS 9 A.M. TO 1\nP. M. & 2 TO 6 P.M.\nSUNDAYS & EVERINGS\nBY APPOINTMENT\n\nDR. L. RAYMOND HILL\nDENTAL SURGEON\n\nFirst Class Guaranteed Work in\nAll Branches of Dentistry\n\n303 COURT BLOCK    24 E. 4TH ST.\n\nTEL. CEDAR 7995\n\nO. H. AROSIN CO.\nJEWELERS AND OPTICIANS\n\nADJUSTING OF FINE WATCHES\nA SPECIALTY\n\n414 ROBERT ST.    ST. PAUL, MINN.\n\nOFFICE CEDAR 8948    RES. DALE 1468\n\nW. T. FRANCIS\nLAWYEP\n\nSUITE 328\nAMR. NATL. BANK BLDG.\nCOR. FIFTH AND CEDAR\n\nST. PAUL",
+          "status": "ok"
+        }
+      ]
+    }
+  ]
+}

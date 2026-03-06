@@ -1,0 +1,406 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2091,
+  "height": 2800,
+  "processed_at": "2026-03-06T14:31:12.969179+00:00",
+  "processing_time": 119.4,
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "ocr_workers": 1
+  },
+  "layout": {
+    "raw_detections": 54,
+    "after_gap_fill": 62,
+    "after_merge": 35
+  },
+  "regions": [
+    {
+      "bbox": [
+        123,
+        180,
+        387,
+        306
+      ],
+      "label": "text",
+      "text": "THE DOINGS IN AND ABOUT THE GREAT \"FLOUR CITY.\"\n\nMatters Social, Religious and General Which Have Happened and Are to Happen Among the People of the City.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        122,
+        356,
+        388,
+        996
+      ],
+      "label": "text",
+      "text": "Mrs. Ella B. Adams, Eydthella B., and John Q. were the guests of Mr. and Mrs. Jasper Gibbs Jr. at dinner Thanks giving.\n\nMrs. Elmira Johnson, mother of Mr. Sam Johnson, died Wednesday, November 29th. Funeral services were held Friday at Bethesda Baptist church of which she was an old and faithful member. W. Squire Neal, undertaker.\n\nMary Carter, age 19 months, daughter of Mr. and Mrs. James Carter, 924 Minnehaha avenue, died November 21. The funeral was held Wednesday, November 22nd. Interment at Crystal Lake cemetery. W. Squire Neal, undertaker.\n\nMrs. Lucy Holland, wife of Mr. Clayton Holland, died at her home, 544 6th avenue north, Wednesday, November 22. Funeral was held last Monday at Zion Baptist church; interment at Crystal Lake cemetery. W. Squire Neal, undertaker.\n\nThe Anti-lynching Crusaders' headquarters are located at 501 Kasota Bldg., phone Geneva 4484, resident phone Dinsmore 7255. We would appreciate the co-operation of all interested in the passing of the Dyer bill and especially the women of the Twin Cities and vicinity.\n\nThe ladies of the Fidelity Court No. 345, Order of Calanthe, Knights of Pythias, will give a GRAND RECEPTION and BALL, assisted by Pride of Minnesota Lodge No. 5 at Coliseum Hall, 27th avenue S. and Lake street on Monday evening, December 4. At this entertainment the drawing for the Ford touring car will take place. Music by the New Jazzland Orchestra. Admission 50 cents.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        128,
+        1016,
+        388,
+        1082
+      ],
+      "label": "paragraph_title",
+      "text": "Training Veterans Through Correspondence Courses",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        124,
+        1097,
+        388,
+        1193
+      ],
+      "label": "text",
+      "text": "The U. S. Veterans' Bureau, C. D. Hibbard, District Manager, Minneapolis. Minn., is now training over two thousand disabled veterans in industry where they receive intensive practical training two hundred trades and industries.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        125,
+        1192,
+        387,
+        1300
+      ],
+      "label": "text",
+      "text": "However, to understand an industry thoroughly, some theoretical training is also necessary. Such men as desire it are, therefore, given additional training through correspondence courses, doing their studying evenings, after the day's work is done.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        124,
+        1299,
+        388,
+        1799
+      ],
+      "label": "text",
+      "text": "Three hundred and thirty-five men are taking correspondence courses along seventy-six different lines, supplementary to their regular training and achieving some fine results. A few of the courses selected at random are law, sheet metal drafting, auto electrics, traffic management, salesmanship, mechanical engineering, farm management, and banking and finance.\n\nAs a concrete example of the benefits received from this type of training, is the case of a young man taking auto electrics in placement training in Grand Forks, N. D., who took a correspondence course to give him additional technical training necessary to understand the starting, lighting and ignition systems of cars. He made unusual progress, so that when he was rehabilitated a farm in mediately placed him upon the payroll at thirty-five dollars per week, as service manager. This was a great increase over his pre-war salary.\n\nMother used to hurry through with the evening dishes so she could have a long pleasant evening of reading with the family. Now she \"stacks\" the dishes until morning so she won't be late to the movies.\n\nCITATION ON PETITION TO SELL LANDS.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        125,
+        1856,
+        385,
+        1879
+      ],
+      "label": "text",
+      "text": "The State of Minnesota to all Whom it May Concern:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        120,
+        1876,
+        385,
+        2223
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        461,
+        2196,
+        845,
+        2230
+      ],
+      "label": "text",
+      "text": "STRICTLY FIRST CLASS MEALS TO ORDER\nAT ALL HOURS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        120,
+        2248,
+        381,
+        2277
+      ],
+      "label": "paragraph_title",
+      "text": "CITATION FOR HEARING ON PETITION FOR ADMINISTRATION.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        459,
+        2260,
+        844,
+        2297
+      ],
+      "label": "text",
+      "text": "FRIED CHICKEN AND HOT GORN CRITTERS FOR\n.AFTER THEATER PARTIES A SPECIALTY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        119,
+        2278,
+        382,
+        2349
+      ],
+      "label": "text",
+      "text": "STATE OF MINESOTA, COUNTY OF RAMSEY\u2014as. In Probate Court. In the Matter of the Estate of Philip H. Anderson, Decedent. The State of Minnesota to All Whom It May Concern:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        118,
+        2346,
+        381,
+        2421
+      ],
+      "label": "text",
+      "text": "The petition of Lola Anderson having been filed in this court, representing that Philip H. Anderson, then a resident of the County of Ramsey, State of Minnesota, died intestate, and praying that letters of administration said estate be granted to Lola Anderson.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        400,
+        2376,
+        850,
+        2420
+      ],
+      "label": "paragraph_title",
+      "text": "HOME BUYERS===",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        117,
+        2421,
+        381,
+        2596
+      ],
+      "label": "text",
+      "text": "It Is Ordered, That said petition be heard and that all persons interested in said matron's petition shall appear before this court on Tuesday, the 12th day of December, 1922, at 10 o'clock in the morning, and that the petitioner can be heard, at the Probe Court room, in the Court House in the City of St. Paul, in the Court House in the City of St. Paul, have, why said petition should not be granted and that this citation be served by the public lawyer, and by mailing a copy of this citation at least 14 days before said day of hearing and by mailing a copy of this citation whose names and addresses are known and appear from the files of this court.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        117,
+        2632,
+        380,
+        2690
+      ],
+      "label": "text",
+      "text": "U.S. JUDGE OF PROBATE\n(Seal of Probate Court).\nAttest: F. W. Gosewish,\nNev. Aler. Probate.\nR. A. WALSH, Attorney.\n(11-18-22)",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        979,
+        919,
+        1406,
+        1043
+      ],
+      "label": "text",
+      "text": "AND what can be more appropriate and useful than gifts of leather. Our store is brim full of new snappy gifts that will be just right for her, him, or them, and the prices are right too.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        980,
+        919,
+        1405,
+        1042
+      ],
+      "label": "text",
+      "text": "AND what can be more appropriate and useful than gifts of leather. Our store is brim full of new snappy gifts that will be just right for her, him, or them, and the prices are right too.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        943,
+        1261,
+        1443,
+        1458
+      ],
+      "label": "doc_title",
+      "text": "LOWER PRICES ON FURNITURE AT BOUTELL'S",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        944,
+        1603,
+        1443,
+        1705
+      ],
+      "label": "text",
+      "text": "Besides wonderful opportunities to save\u2014big price reductions\u2014up to $ \\frac{1}{2} $ off\u2014we offer you Liberal Credit Terms. You can get the benefit of the sale prices and pay for your purchases by the month.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        944,
+        1721,
+        1441,
+        1828
+      ],
+      "label": "paragraph_title",
+      "text": "WHY HESITATE-This is the time to come to BOUTELL'S and furnish your home-AT A BIG SAVING",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        941,
+        1846,
+        1440,
+        1969
+      ],
+      "label": "text",
+      "text": "Rugs\u2014Draperies\u2014Furniture\u2014Dishes Kitchen Ware\u2014Cut Glass\u2014Aluminum Ware\u2014Stoves, Heaters, Ranges all at a saving to you.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        939,
+        2147,
+        1440,
+        2180
+      ],
+      "label": "text",
+      "text": "Minneapolis and St. Paul Cars Stop at Our Door",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        395,
+        751,
+        921,
+        815
+      ],
+      "label": "text",
+      "text": "Notice: At this entertainmen the drawing for the Ford Touring Car will positively take place. Come and haveyour number ready. Yours may be the lucky one.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        412,
+        829,
+        908,
+        873
+      ],
+      "label": "paragraph_title",
+      "text": "MUSIC BY THE NEW JAZZLAND ORCHESTRA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        455,
+        1362,
+        860,
+        1564
+      ],
+      "label": "text",
+      "text": "A style that is always correct For the conservatively well dressed man FLORSHEIM has designed individual styles that give both comfort and elegance.The price is surprisingly low for the satisfaction received.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        416,
+        1997,
+        901,
+        2068
+      ],
+      "label": "text",
+      "text": "TWIN CITY REALTY CO.\nO. U. BRAY, PRES.\n411 UNIVERSITY AVE., ST. PAUL.\nTEL. FOREST 9553",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        484,
+        2144,
+        825,
+        2186
+      ],
+      "label": "text",
+      "text": "PHELPS HOTEL AND CAFE MRS. SYLESTUS PHELPS, PROP.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        924,
+        2458,
+        1185,
+        2696
+      ],
+      "label": "text",
+      "text": "VANDER BIE'S\nICE CREAM\nIS THE BEST\nFor Sale Everywhere\nJ. C. VANDER BIE\nPartridge and Brunson Stz.\nST. PAUL, MINN.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1225,
+        2564,
+        1417,
+        2607
+      ],
+      "label": "paragraph_title",
+      "text": "W. E. ROBINSON",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1192,
+        2610,
+        1452,
+        2699
+      ],
+      "label": "text",
+      "text": "CARPENTER and CABINET\nMAKER\nRepairing and Building of all kinds\n566 RONDO ST. SAINT PAUL",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1464,
+        782,
+        1971,
+        1760
+      ],
+      "label": "text",
+      "text": "PORTERS' & WAITERS' CLUB\n18 S. 3d St., Minneapolis\nPhone Main 2592\nExcellent Food at Minimum Prices. Soft Drinks of All Kinds.\nTOBACCO CIGARS CIGARETTES\nGLOVER SHULL, Pres. and Treas. EDDIE L. BOYD, Secy.\n\nOFFICE TEL. RES. TEL\nCEDAR 4044 DALE 7816\n\nHOURS: 8 A. M. TO 1 P. M.\nAND 2 TO 8 P. M.\n\nDR. JOHN R. FRENCH\nSURGEON DENTIST\n\nFIRST CLASS GUARANTEED WORK\nIN ALL, BRANCHES OF DENTISTRY\n\nSUITE 2 DETROIT BLDG.\nCOR. 4TH & WABASHA\nSAINT PAUL\nMINNESOTA\n\nS. BRAND\nCOAL\nRICE & UNIVERSITY\nPHONE GARFIELD\n7501 - 7502 - 7503\n\nN. W. CEDAR 3037\nChester W. Caskell\nOPTICIAN & JEWELER\n22 E. FOURTH ST.\nSAINT PAUL\n\n4% 4%\n\nTEL. CEDAR 8190\n\nHAMMOND TURNER\nATTORNEY AT LAW\n\n321 MET. BANK BLDG.\nFIFTH AT CEDAR St. Pa\n\nJOHN A. JOYCE\nDry Cleaning, Sponging,\nPressing and Repairing\nDone on Short Notice.\n1817 Franklin Ave. Minneapolis\n\nRes. Hyland 1360, Office Geneva 44\nHARRY L. SCOTT\nAttorney at Law\n501 Kasota Bldg. Minneapolis\n\nELKHURST 3473 QUICK SERVI\nCALL ONCE AND YOU WILL CALL AGAIN\n\nELK TAILORING CO.\nM. LOVE, PROPRIETOR\nSUITS MADE TO ORDER\nCLEANING, PRESSING, DYE-\nING AND REPAIRING\n306 RONDO ST. ST. PAUL, MIN\n\nTEL. DALE 6912\nThe Complete Service Co.\nArchitects and Engineers\nC. W. WIGINGTON SAINT PAUL",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1728,
+        1159,
+        1990,
+        1443
+      ],
+      "label": "text",
+      "text": "JOHN A. JOYCE\nDry Cleaning, Sponging,\nPressing and Repairing\nDone on Short Notice.\n1817 Franklin Ave. Minneapolis\n\nRes. Hyland 1360, Office Geneva 4484\n\nHARRY L. SCOTT\nAttorney at Law\n501 Kasota Bldg. Minneapolis\n\nELKHURST 3473 QUICK SERVICE\nCALL ONCE AND YOU WILL CALL AGAIN",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1749,
+        1443,
+        1970,
+        1484
+      ],
+      "label": "paragraph_title",
+      "text": "ELK TAILORING CO.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1728,
+        1484,
+        1990,
+        2552
+      ],
+      "label": "text",
+      "text": "M. LOVE, PROPRIETOR\n\nSUITS MADE TO ORDER\n\nCLEANING, PRESSING, DYE-ING AND REPAIRING\n\n306 RONDO ST.    ST. PAUL, MINN.\n\nTEL. DALE 6912\n\nThe Complete Service Co.\nArchitects and Engineers\n\nC. W. WIGINGTON    SAINT PAUL\n\nTEL. CEDAR 6975\nHOURS 9 A.M. TO 1\nP. M. & 2 TO 6 P.M.\nSUNDAYS & EVERINGS\nBY APPOINTMENT\n\nDR. L. RAYMOND HILL\nDENTAL SURGEON\n\nFirst Class Guaranteed Work in\nAll Branches of Dentistry\n\n303 COURT BLOCK    24 E. 4TH ST.\n\nTEL. CEDAR 7995\n\nO. H. AROSIN CO.\nJEWELERS AND OPTICIANS\n\nADJUSTING OF FINE WATCHES\nA SPECIALTY\n\n414 ROBERT ST.    ST. PAUL, MINN.\n\nOFFICE CEDAR 8948    RES. DALE 1468\n\nW. T. FRANCIS\nLAWYEP\n\nSUITE 328\nAMR. NATL. BANK BLDG.\nCOR. FIFTH AND CEDAR\n\nST. PAUL",
+      "status": "ok"
+    }
+  ]
+}
