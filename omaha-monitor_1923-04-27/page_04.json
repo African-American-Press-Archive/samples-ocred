@@ -1,0 +1,398 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2035,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        156,
+        2302,
+        597,
+        2365
+      ],
+      "label": "text",
+      "text": "2018 North 24th Street\u2014Phone Webster 1773\nCIGARS, TOBACCO, CANDIES and SOFT DRINKS\nCHAS. W. SOUTH, Prop."
+    },
+    {
+      "bbox": [
+        118,
+        168,
+        379,
+        205
+      ],
+      "label": "paragraph_title",
+      "text": "PUPILS, PARENTS AND TEACHER'S MEETING"
+    },
+    {
+      "bbox": [
+        118,
+        216,
+        379,
+        631
+      ],
+      "label": "text",
+      "text": "Clarence Desdunes, violin teacher, invited the parents and friends of his pupils to attend an entertainment at the \"Y\" Tuesday night, the purpose of which was to gain co-operation between pupils, parents and the teacher. Mrs. James G. Jewell presided. Papers were read by Mrs. A. L. Hawkins and A. P. Scruggs, and addresses were delivered by Rev. John Albert Williams, Rev. Russel Taylor and Rev. John Adams. Mr. Desdunes told of his struggles and ambitions along musical lines. Selections were given by members of his orchestra which were much enjoyed. The members of the orchestra who took part were Masters Verney Johnson, Basil Vann, Eugene Smith, Forrest Perkins, Bill Peebles, Leonard Britt, Archie Ray, Sidney Rucker and Joseph Taylor, Margaret Dallas and Myrtle Richardson, violin; Miss Inez Battles, piano; Jetter Thompson, clarinet; Master Earl Thompson, cornet."
+    },
+    {
+      "bbox": [
+        138,
+        652,
+        358,
+        668
+      ],
+      "label": "paragraph_title",
+      "text": "THE MINISTERIAL ALLIANCE"
+    },
+    {
+      "bbox": [
+        111,
+        691,
+        374,
+        1171
+      ],
+      "label": "text",
+      "text": "At the meeting of this body Tuesday morning, the attendance was not as large as usual, though the meeting did not lack for interest.\n\nThere being no regular order of the day most of the time was given to the discussion of ways and means whereby the delinquent tendencies of our young might be checked.\n\nThe discussion resulted in the discharging of the committee, appointed sometime ago and headed by the Rev. W. C. Williams, which failed to act, and another committee, known as the Civic Committee was appointed in its stead and made a standing committee.\n\nThis committee consists of the president, the Rev. Russell Taylor as chairman, with the Revs. Dr. W. F. Botts, E. L. Hollis, Charles Simms, Frederick Divers. One of the immediate purposes of this committee will be to took up what laws we have governing the matters mentioned above and taking steps to see that they are strenuously enforced, especially in the north end where there seems to be a disposition toward laxness in this matter."
+    },
+    {
+      "bbox": [
+        125,
+        1191,
+        355,
+        1223
+      ],
+      "label": "paragraph_title",
+      "text": "CHURCH OF ST. PHILIP THE DEACON"
+    },
+    {
+      "bbox": [
+        109,
+        1229,
+        368,
+        1430
+      ],
+      "label": "text",
+      "text": "A large congregation was present last Sunday morning at the 11 o'clock service which was a memorial Eucharist for the late Bishop Tuttle. An instructive address on \"The Life and Labors of Bishop Tuttle\" was given by the priest. At four o'clock the pastor and congregation joined with the other Episcopal congregations of the city in the union memorial service at Trinity Cathedral. Friday afternoon several members of the Girls'"
+    },
+    {
+      "bbox": [
+        444,
+        539,
+        574,
+        554
+      ],
+      "label": "paragraph_title",
+      "text": "HAZEL HESSTON"
+    },
+    {
+      "bbox": [
+        380,
+        558,
+        637,
+        919
+      ],
+      "label": "text",
+      "text": "The new prima donna, with Fred Webster's musical comedy company at the popular Gayet. Starting Sunday the company will present \"The Suffragettes\", the first half of the coming week.\n\nFriendly Society will be formally admitted to membership with branches from other city parishes by Bishop Shayler at Trinity Cathedral at 5:00 o'clock. This will be followed by a social gathering in Trinity parish house. Miss Inez Battles of St. Philip's branch will give a violin solo. Next Sunday morning at 11 o'clock Fr. Williams will speak on \"The Oxford Movement and its Influence.\" At the request of several another confirmation class is being organized to be confirmed probably the latter part of June."
+    },
+    {
+      "bbox": [
+        381,
+        941,
+        632,
+        976
+      ],
+      "label": "paragraph_title",
+      "text": "Henry B. Walthall Returns in Strong Screen Play W. Mary Alden"
+    },
+    {
+      "bbox": [
+        374,
+        996,
+        632,
+        1255
+      ],
+      "label": "text",
+      "text": "An amazing story of self-sacrifice will be brought to light in the Warner Brother's production, \"Parted Curtains\" which will be the feature attraction at the Gayety next week until Thursday. Henry B. Walkhall, the well-known character actor, and Mary Alden, the famous mother of the Rupert Hughes story, \"The Old Nest,\" are featured players. Fred Webster's musical comedy company will be seen in conjunction with the pictures, thus constituting the biggest amusement value in Omaha, bar none."
+    },
+    {
+      "bbox": [
+        404,
+        1272,
+        600,
+        1288
+      ],
+      "label": "paragraph_title",
+      "text": "TENNIS CLUB ORGANIZED"
+    },
+    {
+      "bbox": [
+        375,
+        1306,
+        631,
+        1438
+      ],
+      "label": "text",
+      "text": "An enthusiastic meeting of young people interested in this exhilarating sport met Wednesday night at the residence of Dr. and Mrs. A. L. Hawkins, 2220 North Twenty-fourth street and organized a Tennis club. The following officers were elected: O. Brown, president; Harold Bentley,"
+    },
+    {
+      "bbox": [
+        642,
+        170,
+        900,
+        238
+      ],
+      "label": "text",
+      "text": "vice-president; Mrs. W. H. Robinson,\nsecretary; Mrs. Ada Brown, assistant\nsecretary, and Dr. A. L. Hawkins,\ntreasurer."
+    },
+    {
+      "bbox": [
+        705,
+        253,
+        839,
+        268
+      ],
+      "label": "paragraph_title",
+      "text": "$1,000 fos Hospital"
+    },
+    {
+      "bbox": [
+        642,
+        269,
+        900,
+        336
+      ],
+      "label": "text",
+      "text": "Greensboro, N. C., April 27. -Chas.\nH. Ireland, white, started a campaign\nfor a colored hospital here with a\ncheck for $1,000."
+    },
+    {
+      "bbox": [
+        703,
+        361,
+        836,
+        376
+      ],
+      "label": "paragraph_title",
+      "text": "LINCOLN NEWS"
+    },
+    {
+      "bbox": [
+        635,
+        378,
+        898,
+        1306
+      ],
+      "label": "text",
+      "text": "Mrs. E. O. Saffold, of Omaha, was in the city Sunday and spent the day with her daughter at the State Hospital. Dr. A. B. Moss left for his old home in Missouri last Saturday in answer ti the sad news of the death of his mother. Mrs. Flo Forbes entertained the Utopian Art Club at her cozy home last Thursday night. Some twenty members were present, the meeting being a profitable one. Delicious refreshments were served. Prof. and Mrs. W. Robert B. Alexander entertained the Matron's Council at their home last Thursday afternoon. Much business was transacted, looking forward for the convening of the Grand Chapter here in July. Sumptuous refreshments were served. Covenant and praise services were carried out at Mt. Zion Baptist church last Sunday. Owing to the absence of the pastor, Rev. O. F. Adair spoke for the church in the evening. On account of the rain the attendance was only fair. The Saturday night Serving Club made a fine report. Father Evans Corneal died at the home of his daughter, Mrs. O. L. Howard, Tuesday at 5:00 A. M., after a lingering illness, presumably old age and complicated diseases. The remains were taken to Hiawatha, Kansas, his old home, for burial. Accompanying the corpse were his daughters, Mrs. Zola Howard, Mrs. Fanny Young, and his son, Ben W. Corneal, and other relatives. At the A. M. E. church last Sunday, Rev. M. C. Knight conducted his services at the morning and evening hours. The Sunday school and A. C. E. Society had fair meetings. The membership drive is on in the N. A. A. C. P. and every person who can should join in this noble cause. The Harvey Minstrel Show was well patronized by our people last Friday and Saturday, but the rain storm prevented many from attending. The Newman M. E. church is still without a pastor."
+    },
+    {
+      "bbox": [
+        718,
+        1328,
+        811,
+        1345
+      ],
+      "label": "paragraph_title",
+      "text": "NOTICE"
+    },
+    {
+      "bbox": [
+        637,
+        1364,
+        896,
+        1486
+      ],
+      "label": "text",
+      "text": "Cornerstone laying of C. M. E. church at Twenty-fifth and Decatur streets April 29th at 2:30 P. M. by the Grand Lodge of Nebraska and its masonic jurisdiction. All Master Masons in good standing will meet at Masonic hall at 1:30 P. M."
+    },
+    {
+      "bbox": [
+        706,
+        1581,
+        825,
+        1597
+      ],
+      "label": "paragraph_title",
+      "text": "PROCLAMATION"
+    },
+    {
+      "bbox": [
+        639,
+        1616,
+        897,
+        1827
+      ],
+      "label": "text",
+      "text": "The Sons and Daughters of Mercy Anniversary Day, Sunday. May 20th.\n\nBy the power invested in me, I do hereby set aside Sunday, May 20th, as the Anniversary Day of our Order. All members must abide by Section 2, Article 10.\n\nFor further information, write to the Supreme Secretary-Treasurer, or see your subordinate President, or call Webster 6623."
+    },
+    {
+      "bbox": [
+        696,
+        1879,
+        841,
+        1897
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS"
+    },
+    {
+      "bbox": [
+        640,
+        1912,
+        898,
+        2125
+      ],
+      "label": "text",
+      "text": "We wish to thank Mt. Moriah Pastist church, Evening Star Temple No. 4, Knights of Tabor; D. W. Gooden Lodge No. 258, U. B. F.; Hermione Court No. 336; Benson Temple No. 365; Amelia Levels' Tabernacle No. 19; Leona Burton, Royal House, No. 59, and our many friends for their loving kindness and beautiful floral offerings during the death and funeral of our husband and brother, George Smith.\n\nELLA SMITH, wife."
+    },
+    {
+      "bbox": [
+        680,
+        2117,
+        896,
+        2181
+      ],
+      "label": "text",
+      "text": "ELLA SMITH, wife,\nMOLLIE SIMMONS, and\nMARY E. ROCKMORE, sisters\nRUFUS P. TUCKER, brother."
+    },
+    {
+      "bbox": [
+        699,
+        2192,
+        843,
+        2209
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS"
+    },
+    {
+      "bbox": [
+        641,
+        2225,
+        899,
+        2408
+      ],
+      "label": "text",
+      "text": "We wish to thank our many friends for their kind expressions of sympathy shown in our bereavement in the death of our beloved husband and brother-in-law, Cleveland Spratt, and especially to Omaha Lodge No. 3, Zaha Temple No. 52, Dr. W. F. Botts and Jones Undertaking company for their efficient service.\n\nANNA MAY SPRATT, wife.\n\nCHRIS. JOHNSON, brother-in-law."
+    },
+    {
+      "bbox": [
+        701,
+        2422,
+        834,
+        2444
+      ],
+      "label": "paragraph_title",
+      "text": "JOHN ADAMS\nPROBATE NOTICE"
+    },
+    {
+      "bbox": [
+        640,
+        2447,
+        896,
+        2479
+      ],
+      "label": "text",
+      "text": "In the matter of the estate of Jennie M. Kinney, deceased."
+    },
+    {
+      "bbox": [
+        636,
+        2478,
+        897,
+        2674
+      ],
+      "label": "text",
+      "text": "Notice is hereby given: That the creditors of the said deceased will meet the administrator of said estate before me, County Judge of Douglas County, Nebraska, at the County Court Room in said County on the 30th day of June, 1923 and on the 30th day of August, 1923, at 9:00 o'clock A. M. each day, for the purpose of presenting their claims for examination, adjustment and allowance. Three months are allowed for the creditors to present their claims, from the 26th day of May, 1923."
+    },
+    {
+      "bbox": [
+        957,
+        1086,
+        1890,
+        1175
+      ],
+      "label": "doc_title",
+      "text": "THE FOLLOWING BOOKS"
+    },
+    {
+      "bbox": [
+        953,
+        2405,
+        1891,
+        2460
+      ],
+      "label": "text",
+      "text": "Call us up, ATLANTIC 1322, tell us the name of the book you desire and we will bring it to you at once and collect for the subscription or if you are out of town send your subscription by mail, telling us the book that you want and we will mail it to you by return mail."
+    },
+    {
+      "bbox": [
+        908,
+        2666,
+        1930,
+        2694
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        959,
+        1708,
+        1214,
+        2310
+      ],
+      "label": "text",
+      "text": "By B. M. BOWER\n\nCabin Fever.\nChip of the Flying U.\nFlying U Ranch.\nFlying U's Last Stand.\nGood Indian.\nGringoes.\nHappy Family.\nHeritage of the Sioux.\nHer Prairie Knight.\nJean of the Lazy A.\nLonesome Land.\nLonesome Trail.\nLong Shadow.\nLookout Man.\nLure of the Dim Trails.\nPhantom Herd.\nQuirt, The.\nRanch of the Wolverine.\nRange Dwellers.\nRim o' the World.\nSky Rider.\nStar of the Desert.\nThunder Bird.\nUphill Climb.\n\nBy HAROLD BELL WRIGHT\n\nCalling of Dan Matthews.\nEyes of the World.\nRe-creation of Brian Kent.\nShepherd of the Hills.\nThat Painter of Udells.\nTheir Yesterdays.\nWhen a Man's a Man.\nWinning of Barbara Worth."
+    },
+    {
+      "bbox": [
+        959,
+        2346,
+        1149,
+        2400
+      ],
+      "label": "paragraph_title",
+      "text": "No Waiting!"
+    },
+    {
+      "bbox": [
+        1451,
+        523,
+        1916,
+        625
+      ],
+      "label": "text",
+      "text": "PATRONIZE THE STATE FURNITURE CO.\nCorner 14th and Dodge Streets Tel. JACKSON 1317\nHeadquarters for BRUNSWICK Phonographs and Records"
+    },
+    {
+      "bbox": [
+        1288,
+        1714,
+        1547,
+        2309
+      ],
+      "label": "text",
+      "text": "By ZANE GREY\n\nBetty Zane.\nBorder Legion.\nDesert Gold.\nDesert of Wheat.\nHeritage of the Desert.\nKen Ward in the Jungle.\nLast of the Great Scouts.\nLast of the Plainsmen.\nLast Trail.\nLight of the Western Stars.\nLone Star Ranger.\nMan of the Forest, The.\nRainbow Trail.\nRed-Headed Outfield and Other Baseball Stories, The.\nRiders of the Purple Sage.\nShort Stop.\nSpirit of the Border.\nU. P. Trail, The.\nWildfire.\nYoung Forester, The.\nYoung Lion Hunter, The.\nYoung Pitcher, The.\n\nBy\nGENE STRATTON-PORTER\nAt the Foot of the Rainbow.\nDaughter of the Land.\nFreckles.\nGirl of the Limberlost.\nHarvester.\nLaddie.\nMichael O'Halloran.\nSong of the Cardinal."
+    },
+    {
+      "bbox": [
+        1330,
+        2347,
+        1551,
+        2398
+      ],
+      "label": "paragraph_title",
+      "text": "No Red Tape!"
+    },
+    {
+      "bbox": [
+        1536,
+        1186,
+        1883,
+        2479
+      ],
+      "label": "text",
+      "text": "Beautifully Bound in Cloth\n\nSCRIPTION TO\nnitor\n\nBy JAMES OLIVER CURWOOD\nBack to God's Country.\nBaree, Son of Kazan.\nCourage of Captain Plum.\nCourage of Marge O'Doone.\nDanger Trail.\nFlower of the North.\nGod's Country and the Woman.\nGold Hunters, The.\nGolden Snare.\nGrizzly King.\nHonor of the Big Snows.\nHunted Woman.\nIsobel.\nKazan.\nNomads of the North.\nRiver's End, The.\nSteele of the Royal Mounted.\nWolf Hunters.\n\nBy EDGAR RICE BURROUGHS\nBeasts of Tarzan.\nGods of Mars.\nJungle Tales of Tarzan.\nMucker, The.\nPrincess of Mars.\nReturn of Tarzan.\nSon of Tarzan.\nTarzan and the Jewels of Opar.\nTarzan of the Apes.\nThuvia, Maid of Mars.\nWar Lords of Mars.\nTarzan the Untamed.\n\nNo Delay!\n\nre and we will bring it to you at once and\non by mail, telling us the book that you wan"
+    }
+  ]
+}
