@@ -1,0 +1,408 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2096,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        101,
+        153,
+        406,
+        628
+      ],
+      "label": "text",
+      "text": "Improve Your Digestion\nIf you have weak digestion eat sparingly of meats, let at least five hours elapse between meals, eat nothing between meals. Drink an abundance of water. Take one of Chamberlain's Tablets immediately after supper. Do this and you will improve your digestion. Got Her Good Health Out of a Bottle.\n\nTaxi Service\nJoe Hillard's ROYAL\nTAXI SERVICE\nIs at your Service at all Times. Call W. 2173\n\nTHE DUDLEY THEATER\n209-211 North Second Street\nSt. Joseph, Mo.\nMrs. Chas. T. Phelps, Proprietress."
+    },
+    {
+      "bbox": [
+        139,
+        659,
+        365,
+        677
+      ],
+      "label": "paragraph_title",
+      "text": "Serious Results from Colds."
+    },
+    {
+      "bbox": [
+        101,
+        683,
+        406,
+        1153
+      ],
+      "label": "text",
+      "text": "Colds not only cause a tremendous financial loss but are also a serious injury to every one who contracts them as they lower the vitality and prepare the system for the more serious diseases. It is not at all unusual for people who have serious lung trouble to say \"I had a hard cold last winter.\" Why not take Chamberlain's Cough Remedy and cure your cold while you can.\u2014Adv.\n\nRoy E. Handy J. W. Bland\n\nHandy and Bland\nFuneral Director\nGolden Rule Service\nGolden Rule Prices\nPhone Market 1488\n112 Center Street\nDes Moines, Iowa"
+    },
+    {
+      "bbox": [
+        107,
+        1185,
+        402,
+        1284
+      ],
+      "label": "text",
+      "text": "Phone Market 1488\nW. G. ANDERSON\nAttorney-at-Law\n1112 Center St. Des Moines, Iowa"
+    },
+    {
+      "bbox": [
+        107,
+        1330,
+        399,
+        1421
+      ],
+      "label": "text",
+      "text": "USED FUNITURE\nBought sold en Exchanged\nGRAND FURNITURE CO.\n911-13 Grand Ave\nDes Moines, Iowa"
+    },
+    {
+      "bbox": [
+        203,
+        1463,
+        299,
+        1479
+      ],
+      "label": "paragraph_title",
+      "text": "FOR RENT."
+    },
+    {
+      "bbox": [
+        102,
+        1482,
+        401,
+        1592
+      ],
+      "label": "text",
+      "text": "Dandy office space at 1206 Center street for doctor, dentist or lawyer on the first floor of our new building being erected at Twelfth and Center streets. For information call E. TRACY BLAGBURN CO. Drake 774 M. 1872"
+    },
+    {
+      "bbox": [
+        120,
+        1651,
+        378,
+        1694
+      ],
+      "label": "paragraph_title",
+      "text": "A Swell Barber Shop Lady Barbers"
+    },
+    {
+      "bbox": [
+        122,
+        1703,
+        377,
+        1892
+      ],
+      "label": "text",
+      "text": "If a girl loves a boy that's her business.\nIf a boy loves a girl that's his business.\nIf they both love each other that's their business.\nIf your need a hair, cut, shave, shampoo, shave that's OUR BUSINESS.\n\"A PEACEFUL SHOP\"\nMrs. B. J. Roach & Mrs. O. V. Sweeney, Props.\n923 Center Street."
+    },
+    {
+      "bbox": [
+        101,
+        1759,
+        406,
+        2354
+      ],
+      "label": "text",
+      "text": "If they both love each other that's their business.\nIf your need a hair, cut, shave, shampoo, shave that's OUR BUSINESS.\n\"A PEACEFUL SHOP\"\nMrs. B. J. Roach & Mrs. O. V. Sweeney, Props.\n923 Center Street.\n\nHOTEL Williams\n215-17 WEST\nChestnut Street\nNew Hotel for Colored People\nAt Cost of $3,800.\n\nOn October 1 a new hotel will open at 215-217 W. Chestnut St. for colored people. Rooms for light housekeeping and lodging by day or week. 40 rooms, steam heat and bath. Each room contains electric lights and gas. Information call 600 West Second. Phone W. 5779.\n\nH. W. WILLIAMS, Proprietor. Better known as Hustler."
+    },
+    {
+      "bbox": [
+        198,
+        2396,
+        300,
+        2412
+      ],
+      "label": "paragraph_title",
+      "text": "FOR SALE."
+    },
+    {
+      "bbox": [
+        101,
+        2408,
+        398,
+        2487
+      ],
+      "label": "text",
+      "text": "live-room nouse, water, toilet, gas for cooking. East front. Possession at once. Close in. Call or Write JAMES B. MORRIS, W. 899 201 Seventh Street"
+    },
+    {
+      "bbox": [
+        101,
+        2539,
+        406,
+        2780
+      ],
+      "label": "text",
+      "text": "Claudius A. Meade, licensed broker, high grade stocks and bonds. Specialist in the stocks of the colored corporations of merit. 2401 7th Ave., New York, N. Y. Phone Audubon 1139. Branches in Boston, Philadelphia, Omaha and Los Angeles."
+    },
+    {
+      "bbox": [
+        513,
+        175,
+        899,
+        278
+      ],
+      "label": "doc_title",
+      "text": "Who's Who In Des Moines Locals"
+    },
+    {
+      "bbox": [
+        405,
+        325,
+        707,
+        1776
+      ],
+      "label": "text",
+      "text": "Mrs. Horna Coleman of Buxton, chairman of the civic department of the Iowa Federation of Colored Women's clubs and Mrs. Olie Mathews, spent last Wednesday in the city.\n\nMrs. William Austin and little daughter, Corinne are visiting in Minneapolis, the guests of Mr. and Mrs. Alfred Williamson.\n\nThe regular meeting of the Musical Lovers club was held Sunday afternoon at the Community Center. An attractive program by local musicians will be given in the near future.\n\nMiss Develma Hall of 1403 McCormick avenue entertained a few of her little friends Sunday afternoon in honor of Foy Davis, who is leaving for Iowa City to spend the winter.\n\nMiss Gertrude Hyde is visiting in Sioux City, Council Bluffs and Omaha, Neb., this week.\n\nChas. S. Stewart, Jr., master mechanic for Central Auto market, spent Saturday and Sunday in Omaha. While there he was entertained at a dinner party given by Mr. and Mrs. Floyd Stone, former residents of Des Moines.\n\nLest we forget just \"Who's Who,\" we will convince you Tuesday, Dev. 14 at St. Paul's A. M. E. church.\u2014Mr. J. E. Ousley, manager.\n\nThe Virginia Pienic association is making extensive preparations for the indoor picnic to be given during the Christmas holidays at Bethel A. M. E. church Thursday evening, Dec. 28 has been selected as the date of this winter festival.\n\nH. T. C. ELECT.\n\nKing Solomon Guild of Heroines of the Templar Crusades, held their annual election last Friday and elected the following officers for the ensuing year.\n\nCaptain Lulu Garrett, Royal Adviser J. B. Mitchell, First Lieutenant Helen Hudson, Second Lieutenant Emma Mayweather, Treasurer Nancy Raglin, Secretary Willa Booker, Commissary Mary Roach and Assistant Commissary Emma Jackson. These officers together with those to be appointed by the captain-elect will be installed jointly with those elected by King Solomon Commandery No. 6, Knights Templar, at a public installation and exhibition drill to be held at North Star Masonic Temple on Thursday evening, Dec. 9.\n\nCOLORED PUPILS IN STUDENT RECITALS\n\nThe deans in charge of the various departments of Drake Conservatory of Music have arranged a number of student recitals to be given during the school year to which the public is cordially invited. This year Des Moines has a number of local musicians attending Drake and we should avail ourselves of the opportunity of hearing them. On last Tuesday, Nov. 9, Miss Ethel Bowmer, took part in the exercises of the afternoon. On Tuesday, Nov. 23, a 4 o'clock, Mr. Carroll E. Curtley will sing a solo.\n\nMrs. Virginia Woods died at the residence of her daughter, Mrs. Lee Jones, 718 S. E. Twenty-sixth street Court, last Tuesday evening. Funeral was held Thursday afternoon at 2 o'clock from Corinthian Baptist church. The Rev. Geo. Robinson officiating. Interment at Laurel Hill."
+    },
+    {
+      "bbox": [
+        610,
+        1774,
+        1012,
+        2362
+      ],
+      "label": "text",
+      "text": "Over Piano Owners\nPlease New 'BLUES' for your Player.\nEENS music masters hand played\nbest for dancing; the only guaran-\ntler Roll on the Market. TAKE ad-\nd our SPECIAL REDUCTION OF-\nnella Blues'\nMornin' Blues'\nDollar Blues'\nCan't Keep A Good Man Down'\nEm and Weep Blues'\non receipt of $3.50. Send your or-\nY.\nDennis B. Owens, Jr., Inc., Roll\nas City, Mo.\n\nOUS IA. CLEANING CO.\nChas, O. White, Manager\nPressing Dyeing\nMaple 462 414 E. Walnut"
+    },
+    {
+      "bbox": [
+        405,
+        1776,
+        707,
+        2362
+      ],
+      "label": "text",
+      "text": "Player Pia\nGet These New 'BLU\nThe OWENS music\nroll is the best for damn\nteed Dollar Roll on the\nvantage of our SPECI\nFER.\n'Dardenella Blues'\n'Early Mornin' Blu\n'Million Dollar Blu\n'You Can't Keep A\n'Read 'Em and W\nSent upon receipt of\nder TODAY.\nAddress: Dennis B.\nDept., Kansas City, Mo\n\nTHE FAMOUS IA\nChas, O. Wh\nCleaning Press\nPhone Maple 462"
+    },
+    {
+      "bbox": [
+        513,
+        1866,
+        897,
+        1974
+      ],
+      "label": "text",
+      "text": "Get These New 'BLUES' for your Player. The OWENS music masters hand played roll is the best for dancing; the only guaranteed Dollar Roll on the Market. TAKE advantage of our SPECIAL REDUCTION OFFER."
+    },
+    {
+      "bbox": [
+        610,
+        2362,
+        815,
+        2383
+      ],
+      "label": "paragraph_title",
+      "text": "Des Moines, Iowa"
+    },
+    {
+      "bbox": [
+        405,
+        2383,
+        707,
+        2691
+      ],
+      "label": "text",
+      "text": "We use\nPressing\nougly re-\ning or sh\na Vacum\ndirt. Ha\nGentsShe\npairing.\n\nOUR GREATEST ASSEST"
+    },
+    {
+      "bbox": [
+        610,
+        2390,
+        1012,
+        2780
+      ],
+      "label": "text",
+      "text": "We use the \"PRESTO\" Laundry Steam Pressing Machine Disinfects Garments Thoroughly removes all germs. No burning Scorching or shining the only Press Equipped with a Vacum Cleaner removes every particle of dirt. Hats Cleaned and blocked. Ladies and GentsShoe Shining Parlor Alterating and Repairing.\n\nT ASSEST IS SATISFIED CUSTOMERS"
+    },
+    {
+      "bbox": [
+        422,
+        1139,
+        626,
+        1156
+      ],
+      "label": "paragraph_title",
+      "text": "H. T. C. ELECT."
+    },
+    {
+      "bbox": [
+        410,
+        1422,
+        590,
+        1438
+      ],
+      "label": "paragraph_title",
+      "text": "COLORED PUPILS IN"
+    },
+    {
+      "bbox": [
+        714,
+        332,
+        1012,
+        545
+      ],
+      "label": "text",
+      "text": "The D. Y. W. Y. K. Art club meet with Mrs. C. H. Simmons at 503 South East Fifth street Thursday, Mrs. Scott of 981 Twenty-fourth street will entertain the club Tuesday, Nov. 23.\n\nThe Mary B. Talbert club will meet at the home of Mrs. S. Joe Brown, 1058 Fifth street Tuesday evening, Nov. 23. Mrs. Brown will give a talk on \"New Citizenship.\"\n\nMrs. Perry Boyd of Des Moines is spending a few days in Mason City visiting her brother, Mr. Virgil Vaughn."
+    },
+    {
+      "bbox": [
+        780,
+        554,
+        937,
+        571
+      ],
+      "label": "paragraph_title",
+      "text": "V. W. C. A. NOTES."
+    },
+    {
+      "bbox": [
+        710,
+        567,
+        1011,
+        1029
+      ],
+      "label": "text",
+      "text": "The Y. W. C. A. committees are all taking new interest in the work among the girls of the city. A sewing class in charge of Mrs. J. B. Morris will meet every Wednesday evening. Fifteen girls have registered for the work. Mrs. V. L. Jones will have charge of the Girls Glee club of East High school which meets every Friday afternoon. The story hour, for all girls under ten years of age, Saturday afternoon from 2 to 3 o'clock in charge of Mrs. L. R. Willis, Miss Ada Hyde and Mrs. Mitchell.\n\nMrs. Lillian Smith gave a talk Tuesday to the girls of the Sunset corps and Miss Helen Beaver of Minneapolis will speak to the girl's reserves Friday afternoon at 4 o'clock. The vesper hour Sunday will be in charge of Mrs. Maud Woods. All girls and women of the city are invited.\n\nThe membership committee of the Tenth street center of which Mrs. S. Joe Brown is chairman, held a meeting Thursday evening and decided to launch a drive on Dec. 1. Mrs. W. Lee Jordan, chairman of the provisional committee and Mrs. Corrine I. Lockman, general secretary were both present and not only approved the plans, but gave helpful suggestions for this drive."
+    },
+    {
+      "bbox": [
+        809,
+        1048,
+        906,
+        1063
+      ],
+      "label": "paragraph_title",
+      "text": "Y. M. C. A."
+    },
+    {
+      "bbox": [
+        710,
+        1063,
+        1008,
+        1437
+      ],
+      "label": "text",
+      "text": "Religious workers institute opened last Monday night. There were about thirty persons in attendance. A very powerful and instructive lecture was given by Dr. J. Lewis Gillies. The following 40 minutes were used by instructors of the various departments outlining their course of study. The closing lecture by Dr. I. L. Griffith was a forceful, frank and positive one. He did not fail to express his opinion on many delicate issues.\n\nMonday night, Nov. 22 the service schedule will be carried out. At 7:30 Dr. W. D. Sanford of the Cottage Grove Presbyterian church will speak on the subject \"That a Sunday School Means a Better Community.\"\n\nThe closing lecture will be by Dr. W. H. Griffin on the subject \"How God Calls Men.\"\n\nSunday afternoon at 4 p. m. Dr. Geo. W. Robinson will speak at the Y at Twelfth and Crocker streets. All men and boys are cordially invited to attend."
+    },
+    {
+      "bbox": [
+        712,
+        1473,
+        908,
+        1499
+      ],
+      "label": "paragraph_title",
+      "text": "COLORED LEAGUE OF WOM"
+    },
+    {
+      "bbox": [
+        708,
+        1494,
+        1006,
+        1774
+      ],
+      "label": "text",
+      "text": "WOMEN VOTERS\n\nA special meeting of the Colored League of Women Voters has been called for 8 o'clock Thursday evening, No. 18 in the parlors of the Y. W. C. A. center at Tenth and Center streets. The colored women who served at the polls on election day Nov. 2 have been invited to tell of their experiences at the polls, and the women who assisted the chairman, Mrs. S. Joe Brown in lining up the women in the great political drive have been invited to give a 3-minute talk on the subject, \"Our Part in This New Citizenship Program.\" All women and men who are interested in these new political workers are invited to be present.\n\n(Continued on page five.)"
+    },
+    {
+      "bbox": [
+        1124,
+        191,
+        1856,
+        419
+      ],
+      "label": "doc_title",
+      "text": "\"AS FOR BEAUTIFUL HAIR AND A LOVELY COMPLEXION\""
+    },
+    {
+      "bbox": [
+        1055,
+        476,
+        1876,
+        583
+      ],
+      "label": "text",
+      "text": "\"It is astonishing to know the beneficial results one may obtain from the constant use of Madam C. J. Walker's Superfine Toilet Preparations.\"\n\n\"Why, they are an assortment of Toilettes suited to the needs of every complexion and beneficial to the most languid scalp.\""
+    },
+    {
+      "bbox": [
+        1059,
+        838,
+        1874,
+        919
+      ],
+      "label": "text",
+      "text": "These quality preparations guaranteed to be the equal of many higher priced preparations and to be absolutely free of any injurious contents.\n\nExpensively compounded but conservatively priced."
+    },
+    {
+      "bbox": [
+        1197,
+        1207,
+        1674,
+        1342
+      ],
+      "label": "doc_title",
+      "text": "ATTRACTION Extraordinary"
+    },
+    {
+      "bbox": [
+        1198,
+        1565,
+        1686,
+        1673
+      ],
+      "label": "text",
+      "text": "In The Screen and Person Special"
+    },
+    {
+      "bbox": [
+        1055,
+        1786,
+        1870,
+        1855
+      ],
+      "label": "text",
+      "text": "A Comedy drama full of Action Loveintest Comady and Pep with a Couple of Real Fights"
+    },
+    {
+      "bbox": [
+        1053,
+        2275,
+        1871,
+        2350
+      ],
+      "label": "text",
+      "text": "Corner Lincoln Theatre Corner Twelth & Cen."
+    },
+    {
+      "bbox": [
+        1100,
+        726,
+        1292,
+        778
+      ],
+      "label": "text",
+      "text": "Antiseptic Hand Soap Compact Rouge"
+    },
+    {
+      "bbox": [
+        1499,
+        589,
+        1720,
+        778
+      ],
+      "label": "text",
+      "text": "Cold Cream\nCleansing Cream\nVanishing Cream\nComplexion Soap\nWitch Hazel Jelly\nFloral Cluster Talcum\nAntiseptic Dental Cream"
+    },
+    {
+      "bbox": [
+        1341,
+        783,
+        1579,
+        833
+      ],
+      "label": "text",
+      "text": "Superfine Face Powder (White, rose, flesh, brown)"
+    }
+  ]
+}

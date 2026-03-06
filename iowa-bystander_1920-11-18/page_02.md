@@ -1,0 +1,282 @@
+# "My Complexion Is Much Brighter!"
+
+"If every woman knew what I know about the secret of a good complexion, she would not hesitate one minute but would use Palmer's "SKIN-SUCCESS" Ointment, which has done so much for my complexion."
+
+This is what a prominent woman of the South has said about this wonderful Ointment. Thousands of other women throughout the world owe to it their charm of complexion and their personal attractiveness. Your druggist will tell you all about it.
+
+Palmer's SKIN-SUCCESS Ointment—35c-75c
+Palmer's HAIR-SUCCESS Dressing—35c
+Palmer's SKIN-SUCCESS Soap--
+The Morgan Drug Co., Brooklyn, N. Y
+
+## NEW AND OLD FRIENDSHIPS
+
+Writer Makes Assertion That Fresh Acquaintanceships Have Tendency to Make Life Brighter.
+
+As a rule so-called old friends are simply those we have known from our youth. We know all about them and they know all about us. If you have succeeded in life, and they have not, they envy you, and if you have not succeeded and they have they simply pity or ignore you.
+
+With new acquaintances it is different. They come fresh upon the scene. You take each other at face value and each puts forward the best foot. You do not undertake to inquire into the past, but discuss the present and future. In this way you interest each other and your hearts do really burn within you.
+
+With old friends it is different. You are constantly bringing up the past, much of which both of you would like to forget. With new acquaintances we are apt to look upon the new and bright side of life; with the so-called old friends we are apt to dwell upon past events, and it is not always the brightest outlook. New acquaintances revive us, brighten up our mentality; we take a new and brighter view of life.—Exchange.
+
+## FIND ALTAR ROOM OF AZTECS
+
+Interesting Discovery in Pueblo Ruin in New Mexico Has Recently Been Made.
+
+The most satisfactory event to mark so far the work of the American Museum of Natural History in its excavation of the Pueblo ruin at Aztec, N. M., is the recent discovery of what was evidently the holiest shrine of this prehistoric people, records Popular Mechanics Magazine. It takes the form of a room, bare of furniture, but in perfect condition. The walls are plastered, and are painted in a glaring white with dull red borders and a frieze of triangular designs. On the ceiling beams are strange marks made by rubbing the palm and fingers in white paint, and then pressing them upon the wood. From these beams hang several strands of beautifully made rope, presumably for the support of some sacred objects. On the ceiling, too, is carved a serpent, two and one-half feet in length, and in design unlike anything known to the archeologists in charge.
+
+## COULDN'T TAKE HER IN CUP
+
+"Honey" Was What the Youngster Was After, But Not in Quite Such a Generous Quantity.
+
+Tommy Brown had not studied pelmanism and his brain was like a sieve. When his mother told him to take a cup to the grocer's and get it filled with honey he heard what she said; but when he got to the grocer's he forgot what he had come for.
+
+The grocer named one article after another in the good-natured attempt to refresh his memory, but all to no avail. Then he turned to his plump wife and said:
+
+"Honey, can you think what it might be?"
+
+"That's it; that's it!" cried the boy, excited. "Honey! But, look here," he added, eyeing the buxom lady, "you'd better put her on my back and let me take her that way, for the cup wouldn't hold her."
+
+## A. Regular One.
+
+## A Regular One.
+
+He was looking for a good canine companion, and had answered, an advertisement in the newspaper. The following conversation ensued:
+
+"You advertised a sensible dog for sale?"
+"Yep."
+"What do you mean by a sensible dog?"
+"This pup has never had a ribbon around his neck and has never ridden in a limousine since the day he was born. He's a happy-hearted, bone-burying, cat-chasing, 100 per cent dog."—Houston Post.
+
+## From Bad to Worse.
+
+"I don't find so many people borrowing umbrellas and forgetting to return them," remarked the observant citizen.
+
+"I believe the umbrella borrower was a less expensive friend," rejoined the man who is always longing for the old days. "What you've got to lend now is a taxicab fare all the way to the suburbs."
+
+Sparing Her Feelings.
+
+"The prima donna says she won't follow the trained chimpanzee."
+
+"We can't change the bill just to please her," said the vaudeville manager. "Tell her to stay in her dressing room until time to go on and she won't know whether she's following a trained chimpanzee or a troupe of dancing seals."
+
+## Under Surveillance
+
+Mrs. Littiefat—Tilly, you've left my lingerie scattered all around this room and I'm expecting company any minute.
+
+Tilly the Maid—That's all right, ma'am. I'll keep my eye on 'em and see they don't pinch nothin'.
+
+"That fellow seems to have horse sense."
+
+"Huh?"
+
+"He keeps away from the races."
+
+CHANGING STYLES IN HUMOR
+
+CHANGING STYLES IN HUMOR
+"Stuff" Laughed At by One Generation Is Found Insufferably Dull by Another.
+
+"Stuff" Laughed At by One Generation Is Found Insufferably Dull by Another.
+
+Writing about the old-time humorists, Mr. Ellsworth notes the well-known fact that what is funny for one generation is not, generally speaking, funny for the next. This is a curious phenomenon. It is an extremely hard thing now to get any amusement out of the writings of Artemus Ward. It takes a good deal of indulgence to find that chapter, so immortally read by Lincoln at the famous cabinet meeting, funny now. And yet the humor of Lincoln himself, as evidenced in the Lincoln stories still current, was perennial. Mr. Ellsworth notes the interesting fact that Mark Twain, who wrote for two generations, changed the style and smack of his humor several times. If we compare "The Prince and the Pauper" with "The Jumping Frog" we find that this is undoubtedly true, and yet "The Jumping Frog" is funny to read today. The Nomad fancies that the humor of Mark Twain will be found to possess more of the perennial quality than that of Artemus Ward, Josh Billings or Petroleum V. Nasby. He also has an idea that the humor of most of our columists of the present day will be found incomprehensible 20 years from now. It is incomprehensible to a good many people even now. And that is what makes it so delightful.—"Nomad," in the Boston Transcript.
+
+## MILK AND MEAT AS RIVALS
+
+Rising Prices May Yet Force People to Turn to the Fluid to Sustain Life.
+
+As the price of meat soars upward, many people are forced to be parttime vegetarians. Thus the old question, "Is meat essential to human wellbeing?" arises again. The committee on food and nutrition of the National Research council has issued an interesting report on the relative value of meat and milk.
+
+Eighteen per cent of the protein and energy of grain used in feeding a cow goes into the milk, and is therefore recovered for human consumption; whereas only three and a half per cent is recovered in beef. As for the mineral elements in hay and grain, not much is stored in the tissues, but a great amount goes into milk.
+
+Beef profiteers, beware! The hard-pressed public may decide to let milk take the place of beefsteak—Popular Science Monthly.
+
+## Awful Possibility
+
+An Australian dignitary was being entertained by New York society. For what seemed to be an endless night he was dragged through the intricacies of the pigeon-walk, the fox-trot, the camel-limp, and the rest. At last came his day of departure.
+
+"Please madam," he implored of his late hostess, as they parted at the gang-plank, "don't ever come to Australia."
+
+"But, wh-wh-why not?" gasped that surprised and offended lady.
+
+"Because," answered the Australian, wiping his brow, "I don't want you ever to see a kangaroo at play."—American Legion Weekly.
+
+## Unequal Losses.
+
+Frederick was sitting on the curb, crying, when Billy came along and asked him what was the matter. "Oh, I feel so bad 'cause Major's dead—my nice old cloie!" sobbed Frederick. "Shucks!" said Billy. "My grandmother's been dead a week and you don't catch me crying." Frederick gave his eyes and nose a swipe with his hand and, looking up at Billy, sobbed despairingly: "Yes, but you didn't raise your grandmother from a pup."—Harper's Magazine.
+
+## Hypersensitive.
+
+"Here's a mighty interesting map of the place where old Cap Kid is said to have come ashore frequently," remarked the willing worker.
+
+"I thought you were supposed to be securing campaign funds," commented the hustler in tones of weary sarcasm.
+
+"I am doing my best. But you can't ask any of the live ones for subscriptions without getting yourself talked about. I have about decided our only chance is to dig up some buried treasure."
+
+## By the Calendar.
+
+"Mr. Bibbs, I'd like to see you about that little loan of $50 I made you three months ago, which you agreed to repay in a week."
+
+"My dear fellow, I was feeling good all over, and now you have spoiled my day."
+
+"Umph! By not paying'me when you said you would you have spoiled 77 days for me."
+
+## Tee Hot
+
+Jimmie felt the heat and asked his mother if he could take off his shoes and stockings. He could. Later the mother found him naked. "Jimmie, what do you mean?" "Why," said he, looking straight into her eyes. "all my clothing slipped off and I couldn't get 'em on again."
+
+## Clothes Makes the Man
+
+Clothes Makes the Man.
+
+Teacher—Now, who can tell just what is meant by the saying "All men are created equal"? We all know that some of us are born with wealth and many other advantages not shared by all.
+
+"We are all created with an equal need for clothes," suggested Johnny.
+
+## CAUGHT IN PASSING
+
+What man has done woman can undo.
+
+Steam is the perspiration from hot water.
+
+A farced kindness deserves no thanks.
+
+High water never raises the price of milk.
+
+A kiss is an explosion of condensed emotion.
+
+If you are in a hurry avoid the train of thought.
+
+Fancy penmanship never made a man wealthy.
+
+If you go into a labyrinth take a clew with you.
+
+Next to the kindly act is the appreciation thereof.
+
+Some men take to religion as a political afterthought.
+
+Girls like compliments—also ice cream and oysters.
+
+Whatsoever a man reaps some man must have planted.
+
+The best antidote for sorrow is steady employment.
+
+When money talks the cream of the conversation is rich.
+
+It is a long lane that has no turning—Dutch Proverb.
+
+It is sometimes easier to meet a bill than it is to dodge it.
+
+Don't growl at what you can't help or what you can help.
+
+The man who is the first to argue is usually the last to act.
+
+A warning paragraph often saves a chapter of explanation.
+
+A little leaven leaventh the whole lump—New Testament.
+
+The business of a dog dealer is apt to be a howling success.
+
+Plain, unvarnished truth is better than questionable rhetoric.
+
+He's a brave man who dies to stop a woman's runaway tongue.
+
+Bent pins and carpet tacks come under the head of felt goods.
+
+The world deals good-naturedly with the good-natured person.
+
+True love and ghosts are often talked about but seldom seen.
+
+When the money of some people converses it uses a megaphone.
+
+It is easy to see through people who make spectacles of themselves.
+
+The telephone enables some men to lie without becoming confused.
+
+Lack of credit prevents some people from living beyond their means.
+
+Sometimes it's the cashier that gets the best of the run on the bank.
+
+Diplomacy is the art of getting what you want by pretending you don't want it.
+
+The ennul of a rich man is synonymous with the laziness of the poor man.
+
+There is no effect without a cause—except when a woman changes her mind.
+
+A man is presumed to be guilty by his neighbors until he is proved innocent.
+
+The man who never looks up is a rank failure when it comes to lifting up.
+
+Unless a man has plenty of money and a wife who can cook, eating is a nuisance.
+
+Some people seem to have no use for anything common—not even common sense.
+
+Charitable persons speak one to another; uncharitable persons speak one of another.
+
+Nothing squeezes the water out of a man's possessions like a visit from the assessor.
+
+There isn't much hope for a man so deaf he is unable to hear the noise of a paper dollar.
+
+Don't pay any attention to the disagreeable things people say about you—if they are not true.
+
+In order to win success a man must be in a position to grasp opportunity by the back of the neck.
+
+After locking your family skeleton in your chest hide the key where your neighbors can't find it.
+
+At the exact moment the proposal is made a young man actually believes he is not worthy of the girl.
+
+Prosperity has ruined more men than adversity—but that kind of ruin is so much more delightful.
+
+# A SEA PICTURE A Story of Thanksgiving by Mary GrahamBonner
+
+RANCES ROBBINS was tall and beautiful and rich and admired. If you had told this to Frances it would not have surprised her. She had been told it many times. She believed it and knew it to be the truth. When Gerald Adams had told her she was beautiful and that he admired her, though of her money he spoke with disdain and expressed the wish that she possessed none, she listened encouragingly.
+
+Gerald was, however, relieved, though he was sympathetic with Frances for her own sake, when her father suddenly lost his fortune. He loved her too much to have it said of him that he was marrying a girl with money.
+
+At first poverty didn't seem so hard to Frances—and It was poverty compared to her former financial condition. She began in a short time, though, to grow depressed and annoyed and thought marriage was a trial. Gerald, even, angered her. He was prosalc, he had settled down, he was prosaic, he had settled down with life and with the "dull" work which he did in the bank. He was so everlastingly patient with her. And that, too, made her tribulations seem greater.
+
+So she had an imaginary nervous breakdown and left the city to spend the autumn at a seashore place nearby, where Gerald could come for the week ends. She didn't entirely want Gerald out of her way. When times got very bad, her poverty and her boredom got beyond control, she could let off steam at least by talking to Gerald.
+
+It was hard stinting for Gerald—the double expenses—but he felt disgusted with himself because he couldn't give her more. Alone in town he looked upon himself as a failure.
+
+A great many people were staying at the seashore until after Christmas. Apartments had been so hard to obtain that they had stayed in the attractive Inn, and many of the men, with plenty of funds and time for commuting, came down every evening. There were idle men there, too. More and more she recognized their attitude toward a "grass widow" was not such as greatly appealed to her. She wished she hadn't called Gerald a "stick-in-the-mud." Yes, that had been her cruel epithet of him.
+
+Gerald had written her that he would not be down for Thanksgiving. That was the great blow. It was altogether right for her to leave Gerald, but that Gerald should stay away on Thanksgiving day was something unheard of. What would people think? More, what did she herself think? Had she driven Gerald to someone else? More and more clearly she seemed to see herself. How horribly she had treated him. How fine and devoted and splendid he was. How much more wonderful than any one she had ever met—a million times better and finer than plenty of, these men with far more money.
+
+Thanksgiving day came, bright and sunny. It was like Indian summer. Many people came down to the beach and wrapped themselves in rugs and enjoyed the comforting scashine. Again and again she had said, in answer to the question, that her husband would not be able to get down. She was mortified, worried, sad.
+
+She wandered off by herself and sat at a distance from the various groups.
+
+Suddenly a freak buzzing, whirring airplane flew overhead. It was an excitement for everyone. To their great delight they saw it land on the beach. Everyone hurried towards it—everyone but Frances. An airplane was not going to make her appear excited, interested. She had always trained herself to suppress any feelings of curiosity such as this.
+
+The people now had gathered around. Frances was quite by herself. Without too much appearance of hurry (though, if Frances had been properly aware of the truth she would have realized that no one was watching her) she went toward the airplane.
+
+Suddenly, as she drew nearer, she saw Geraid. She was about to call out to him when a girl, young and
+
+Frances Was Quite by Herself.
+
+very pretty, rushed toward him, threw her arms around him and cried:
+"Oh, my own, my own!"
+She jumped into the airplane. A mechanic turned the propeller and they were off!
+
+"Gerald, Gerald!" Frances called to the buzzing birds above. The people turned and looked at her and laughed uproariously. She put her hands to her ears as though to shut off their cruel laughter and ran back to the Inn.
+
+Who was the girl? And why did he meet her here? Had he wanted to make Frances suffer so? Was that it? Did he want her to divorce him? Of course. She asked herself these questions over and over again.
+
+Across her mind in rapidly vivid pictures passed the happy hours she had had with Geraid. As blots upon them appeared the unkindnesses she had dealt him; all appeared before her mind.
+
+From time to time she sobbed convulsively. "I've lost him, and it has been my own fault," she cried.
+
+Through the day she sat and thought and cried. Toward evening from time to time she heard voices in the hall, people going to dress for dinner and for the dance to be given that evening, and later she heard them go down. Only she stayed alone.
+
+A little later she heard a sound at the door, something—one of those strange somethings—made her turn around. There she saw Gerald.
+
+"Is it you?" she asked, looking at him from her reddened eyes—the had gotten far beyond the tear-stained state.
+
+"It is," he said, "and I believe I can spend a lot of time down here. Wasn't it great? What in thunder are you crying about?"
+
+"What's great?" she asked.
+
+"Pretty Good Appetites We've Got."
+
+didn't. Here it is in my pocket. Why, you see I never did like banking anyway—and I knew I never could get very far—not for years anyway—and I wrote you I thought I couldn't get down Thanksgiving—and after I had sent the letter, several days later, it dawned on me I'd not told you why! I wrote you again—the letter is here," he admitted. "and told you I would be down. They were not going to make me work in town that day or
