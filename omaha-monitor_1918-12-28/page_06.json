@@ -1,0 +1,348 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1954,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        177,
+        2363,
+        635,
+        2394
+      ],
+      "label": "paragraph_title",
+      "text": "----BUY A HOME----"
+    },
+    {
+      "bbox": [
+        146,
+        2569,
+        665,
+        2610
+      ],
+      "label": "text",
+      "text": "REAL ESTATE, RENTALS, FIRE AND TORNADO INSURANCE\nTelephones: Douglas 2842; Webster 5519."
+    },
+    {
+      "bbox": [
+        133,
+        156,
+        391,
+        714
+      ],
+      "label": "text",
+      "text": "Diamond\n24th and Lake Sts.\n\nSUNDAY\u2014\nA Five Reel Special\n\"WOLVES OF KULTUR\"\n\nEvery Tuesday\n\"HANDS UP\"\n\nALHAMBRA\n24th and Parker.\n\nTHE\nHOUSE OF COURTESY\n24th and Parker Sts."
+    },
+    {
+      "bbox": [
+        139,
+        610,
+        380,
+        649
+      ],
+      "label": "text",
+      "text": "ALHAMBRA 24th and Parker."
+    },
+    {
+      "bbox": [
+        138,
+        754,
+        377,
+        805
+      ],
+      "label": "text",
+      "text": "FRANKLIN 24th and Franklin Streets"
+    },
+    {
+      "bbox": [
+        134,
+        843,
+        375,
+        964
+      ],
+      "label": "text",
+      "text": "SATURDAY\u2014\nA Big Five Reel Release\n\nSUNDAY\u2014\nA Feature That Is a Whirlwind."
+    },
+    {
+      "bbox": [
+        136,
+        844,
+        370,
+        886
+      ],
+      "label": "text",
+      "text": "SATURDAY\u2014\nA Big Five Reel Release"
+    },
+    {
+      "bbox": [
+        133,
+        1008,
+        383,
+        1124
+      ],
+      "label": "text",
+      "text": "The CHAPMAN Drug Store\n934 P St., Lincoln\nOpposite Main Door Post Office\nCameras and Films, Magazines,\nCigars, Candies and a full lime\nof Druggist Sundries"
+    },
+    {
+      "bbox": [
+        136,
+        1161,
+        379,
+        1374
+      ],
+      "label": "text",
+      "text": "WE HAVE\nCOAL\nTO BURN\n\nNeb. Fuel Lump, . $8.90\n\nFor Heaters or Furnace\n\nNEBRASKA FUEL CO.\n\nTel. Doug, 430. 409 S. 16th St.\nNorth Yard at 33d and Evans\nStreets. Colfax 2289."
+    },
+    {
+      "bbox": [
+        137,
+        1419,
+        378,
+        1534
+      ],
+      "label": "text",
+      "text": "MADAME HENDERSON\nHAIRDRESSER and MANICURIST\nAgent or the Celebrated Madam\nWalker Preparations.\nThe attorney of the\nDolores Street\nPhone Webster 1409\n2866 Maple Street, Omaha, Neb."
+    },
+    {
+      "bbox": [
+        145,
+        1587,
+        368,
+        1654
+      ],
+      "label": "paragraph_title",
+      "text": "The Lincoln Lunch Room"
+    },
+    {
+      "bbox": [
+        139,
+        1671,
+        376,
+        1782
+      ],
+      "label": "text",
+      "text": "Quick Service for Working Men\nC. C. GALLOWAY, Prop\n102 South 14th St\nTel. Douglas 3651."
+    },
+    {
+      "bbox": [
+        153,
+        1858,
+        364,
+        1981
+      ],
+      "label": "doc_title",
+      "text": "Painless Extraction"
+    },
+    {
+      "bbox": [
+        137,
+        2015,
+        381,
+        2140
+      ],
+      "label": "text",
+      "text": "Have those old teeth removed and protect your health. Any number of teeth can be replaced by a plate or bridge, made to look natural.\n\nConsultation Free."
+    },
+    {
+      "bbox": [
+        140,
+        2170,
+        379,
+        2213
+      ],
+      "label": "paragraph_title",
+      "text": "Dr. P. W. Sawyer"
+    },
+    {
+      "bbox": [
+        133,
+        2220,
+        391,
+        2780
+      ],
+      "label": "text",
+      "text": "DENTIST\nPhone Doug. 7150. 220 S. 13th St.\n13th and Farnam Sts.\n\n--- BUY A\n2811 OHIO STREET\nSix-room house, modern but\nheat; close to school and church;\none block to car line. Price,\n$2,100. Very easy terms.\n\nG. B. R.\nREAL ESTATE, RENTALS, FI\nTelephones: Douglas 2842; We"
+    },
+    {
+      "bbox": [
+        421,
+        115,
+        686,
+        225
+      ],
+      "label": "text",
+      "text": "Liberty Drug Co.\n\nEVERYBODY'S DRUG STORE\nWe Deliver Anywhere.\n\nWebster 386. Omaha, Neb."
+    },
+    {
+      "bbox": [
+        411,
+        268,
+        692,
+        443
+      ],
+      "label": "text",
+      "text": "Classified Advertising RATES\u201411/2 cents a word for single insertions; 1 cent a word for two or more insertions. No advertisement taken for less than 15 cents. Cash should accompany advertisement."
+    },
+    {
+      "bbox": [
+        403,
+        478,
+        690,
+        2333
+      ],
+      "label": "text",
+      "text": "THE PEOPLE'S DRUG STORE\nDouglas 1446. 109 South 14th St.\n\nADAMS HAIGHT DRUG CO.,\n24th and Lake; 24th and Fort,\nOmaha, Neb.\n\nCOLORED NEWSPAPERS AND\nMAGAZINES\n\nFRANK DOUGLASS\nShining Parlor.\nWebster 1388. 2414 North 24th St.\n\nFURNISHED ROOMS FOR RENT.\n\nNeatly furnished rooms for light housekeeping. 722 N. 16th st. Tel. Doug. 9027. J. L. Webster.\u2014Adv.\n\nFurnished Rooms\u2014Strictly modern. With or without board. 1516 North 16th St. Tel. Web. 4983.\n\nFurnished room for man and wife or women. Tel. Web. 1654. 2115 Clark street.\n\nFurnished room, strictly modern, 911 Capitol avenue. Mrs. J. H. Roomfield. Douglas 2378.\n\nNeatly furnished room"
+    },
+    {
+      "bbox": [
+        403,
+        2403,
+        692,
+        2780
+      ],
+      "label": "text",
+      "text": "2417 Maple St.\u20145-room cottage, modern except heat, large rooms, floored attic; large lot on paved street; \u00bd block to 24th street car line; fine neighborhood; now vacant. Can move right in. See it today. Price $2,500. Very easy terms.\n\nOBBINS\nLIFE AND TORNADO INSURANCE\nmaster 5519."
+    },
+    {
+      "bbox": [
+        765,
+        120,
+        1512,
+        163
+      ],
+      "label": "doc_title",
+      "text": "HUNGER DRAWS THE MAP"
+    },
+    {
+      "bbox": [
+        704,
+        920,
+        985,
+        1454
+      ],
+      "label": "text",
+      "text": "A food map of Europe today shows pot a single country in which the future does not hold threat of serious difficulties and only a small part which is not rapidly approaching the famine point. With the exception of the Ukraine only those countries which have maintained marine commerce have sufficient food supplies to meet actual needs until next harvest, and even in the Ukraine, with stores accumulated on the farms, there is famine in the large centers of population. Belgium and northern France, as well as Serbia, appear on the hunger map distinct from the rest of Europe because they stand in a different relation from the other nations to the people of the United States. America has for four years maintained the small war rations of Belgium and northern France and is already making special efforts to care for their increased after-the-war needs, which, with those of Belgium, must be included in this plan, are urgent in the extreme and must have immediate relief.\n\nThe gratitude of the Belgian nation for the help America has extended to her during the war constitutes the strongest appeal for us to continue our work there. The moment the German armies withdrew from her soil and she was established once more in her own"
+    },
+    {
+      "bbox": [
+        699,
+        1480,
+        975,
+        1547
+      ],
+      "label": "doc_title",
+      "text": "Aims and Achievements of N.A.A.C.P."
+    },
+    {
+      "bbox": [
+        697,
+        1563,
+        981,
+        2610
+      ],
+      "label": "text",
+      "text": "An Address Delivered by Mrs. James G. Jewell Before the Forum Held in St. John's A. M. E. Church Sunday Afternoon, December 1.\n\nSINCE the end of the civil war, from time to time, there have been numerous organizations started in this country, some by sincere race men and women, who have been earnestly desirous of doing something worth while to better the condition of the American Negro. Some of these organizations have been national in their scope\u2014others purely local. All have helped in some respects, the condition of the Negro\u2014but it was not until 1909, when Miss Mary White Ovington and one or two other interested white people, incensed and outraged as a result of the Springfield riots, met a number of our most representative Negroes in New York and formed this Association on the one hundredth anniversary of the birth of Abraham Lincoln, that as a race we have had a really effective organization, working for the black man of America. A great deal of literature has been sent out by the N. A. A. C. P. concerning its aims and achievements.\n\n\"It conceives its mission to be the completion of the work which the great emancipator began. It proposes to make 12,000,000 Americans physically free from peonage, mentally free from ignorance, politically free from disfranchisement, socially free from insult.\"\n\nIt is a most democratic organization\u2014anyone white, black, red or yellow, who is interested in equal rights for the Negro, is eligible to membership. The N. A. A. C. P. believes American citizens white and black must organize and fight together for the full rights of all native born Americans. It has been most fortunate in having the co-operation of white men and women of wealth, position and prestige, governors of several states, eminent jurists, prominent professional, literary and business men. Let us review briefly what this Association aims to do, and then what has been accomplished in the nine years of its existence."
+    },
+    {
+      "bbox": [
+        710,
+        2604,
+        982,
+        2622
+      ],
+      "label": "text",
+      "text": "Negroes in many states are dis-"
+    },
+    {
+      "bbox": [
+        983,
+        921,
+        1272,
+        2241
+      ],
+      "label": "text",
+      "text": "seat of government the little nation's first thought was to express her gratitude to the Commission for Relief in Belgium for preserving the lives of millions of her citizens.\nGermany, on the other hand, need not figure in such a map for Americans because there is no present indication that we shall be called on at all to take thought for the food needs of Germany. Germany probably can care for her own food problem if she is given access to shipping and is enabled to distribute food to the cities with dense populations, which are the trouble centers.\nEngland, France, the Netherlands and Portugal, all of which have been maintained from American supplies, have sufficient food to meet immediate needs, but their future presents serious difficulties. The same is true of Spain and the northern neutral countries\u2014Norway, Sweden and Denmark\u2014whose ports have been open and who have been able to draw to some degree upon foreign supplies.\nMost of Russia is already in the throes of famine, and 40,000,000 people there are beyond the possibility of help. Before another spring thousands of them inevitably must die. This applies as well to Poland and practically throughout the Baltic refranchised, discriminated against, Jim Crowed, lynched, denied equal educational advantages for their children and equal economic opportunities. The N. A. A. C. P. proposes:\n1. To abolish legal injustice against Negroes.\n2. To stamp out race discrimination.\n3. To prevent lynchings, burnings and torturing of black people.\n4. To secure to every citizen of color, the common rights of American citizenship.\n5. To compel equal accommodations in railroad travel, irrespective of color.\n6. To secure for Colored children an equal opportunity to public school education, through a fair apportionment of educational funds.\nLet us now see what measure of success has been achieved by the N. A. A. C. P. during the past nine years.\n1. It assisted in the fight in state and U. S. courts against the grandfather clause of various state laws, and certain state constitutions by which it was sought to disfranchise Colored men by indirection, until in 1915 the U. S. supreme court, declared the grandfather clause of the state of Oklahoma unconstitutional. The briefs in this case were filed by Mr. Moorfield Story, president of the N. A. A. C. P., and an eminent lawyer of national reputation, who could have commanded a fee of not less than $100,000 for his work in a like case, but who gave his services gratis to help the American Negro."
+    },
+    {
+      "bbox": [
+        987,
+        1879,
+        1271,
+        1932
+      ],
+      "label": "text",
+      "text": "Let us now see what measure of success has been achieved by the N. A. A. C. P. during the past nine years."
+    },
+    {
+      "bbox": [
+        988,
+        2245,
+        1274,
+        2620
+      ],
+      "label": "text",
+      "text": "2. It fought in several cities segregation ordinances, by which it was attempted to create a Negro ghetto, invariably in the least sanitary and most undesirable sections of the city, until in 1917 in the Louisville case, there was obtained upon an appeal, an unanimous decision of the supreme court of the U. S. declaring all such ordinances unconstitutional. Mr. Story also acted as counsel for this case.\n\n3. It fought Jim Crow laws in the state courts, where enacted and carried on campaigns in various cities and states of the country.\n\n4. It successfully prosecuted many suits to secure the civil rights of Colored people against unjust and illegal discriminations, and promoted civil laws in state legislatures."
+    },
+    {
+      "bbox": [
+        1277,
+        920,
+        1568,
+        2628
+      ],
+      "label": "text",
+      "text": "glions, with conditions most serious in Finland.\n\nBohemia, Serbia, Roumania and Montenegro have already reached the famine point and are suffering a heavy toll of death. The Armenian population is falling each week as hunger takes its toll, and in Greece, Albania and Roumania so serious are the food shortages that famine is near. Although starvation is not yet imminent, Italy, Switzerland, Bulgaria and Turkey are in the throes of serious stringencies.\n\nIn order to fulfill America's pledge in world relief we will have to export every ton of food which can be handled through our ports. This means at the very least a minimum of 20,000,000 tons compared with 6,000,000 tons pre-exports and 11,820,000 tons exported last year, when we were bound by the ties of war to the European allies.\n\nIf we fail to lighten the black spots on the hunger map or if we allow any portions to become darker the very peace for which we fought and bled will be threatened. Revolt and anarchy inevitably follow famine. Should this happen we will see in other parts of Europe a repetition of the Russian debacle and our fight for world peace will have been in vain.\n\n5. It organized opposition to segregation of Colored employees in government departments, and upheld the rights of Colored civil service employees against discrimination, because of color, and the right to fair consideration of Colored persons, eligible to civil service appointments.\n\n6. It worked against discrimination in employment because of color, and defended the rights of the Negro to equal pay for equal work.\n\n7. It carried on a successful campaign for an officers' training camp for Colored soldiers (678 Negro officers were commissioned) and for equal treatment of Negro soldiers in the national service.\n\n8. It raised an anti-lynching fund of $10,000 to investigate lynchings and mob violence, to give publicity to the facts regarding them, and to educate public opinion favorable to law and order.\n\n9. It made special investigations, and published the facts, of lynchings and mob violence in various cities and states and published \"Notes on lynching in the U. S.\" (1912), and will shortly publish an account of 100 cases of recent lynchings in the U. S.\n\n10. It also organized mass meetings against lynching, and for educational purposes in New York and other cities, also engaged counsel to defend Colored men unjustly accused of \"meeting to riot\" in the East St. Louis outrage, when Negroes were driven from their homes, killed and their property destroyed.\n\n11. It defeated many bills in congress, which if passed, would have been unjust and humiliating to Negroes.\n\n12. It fought against moving picture plays, which like the \"Birth of Nation,\" engender race hatred and tend to imperial national unity.\n\n13. It published monthly the Crisis a record of the darker races, and has consistently encouraged talent among Colored people in every field of endeavor. It has also published and circulated many pamphlets on the status of the American Negro, and on the problems with which he is confronted.\n\n14. Since January, 1917, it has maintained a field secretary for organization and educational work, among both races, also furnished a free news service on the work of the Association, and the progress of Col-"
+    },
+    {
+      "bbox": [
+        1567,
+        94,
+        1855,
+        796
+      ],
+      "label": "text",
+      "text": "ored people, to the general and Colored press of the nation. It has also promoted lecture tours for members of its board of directors, in important cities of the country, and has organized more than 100 branches throughout the country, which have done remarkable work for our people in their localities.\n\n15. The N. A. A. C. P. has awarded annually since 1915, through a gift of the chairman of the board of directors, the Spingarn medal for the highest or noblest achievement by an American Negro, during the preceding year.\n\nFinally the N. A. A. C. P. has appealed to the conscience of the American people for justice for the Negro. It has not asked for immunity from the common burdens of citizenship; it has on the contrary urged only that he be allowed equally to participate in the American heritage. When he has sinned it has not been asked for pardon; when he offends it cares for him but justice. It has spoken for a race that they might have life and have it more abundantly, and the only means that can be employed are education, organization, agitation, publicity\u2014the force of an enlightened public opinion.\n\nYou have heard what this wonderful organization hopes to do\u2014you have seen what it has already done, and what it is doing day by day\u2014will you\u2014here in Omaha help the N. A. A. C. P. to grow?"
+    },
+    {
+      "bbox": [
+        1580,
+        813,
+        1839,
+        856
+      ],
+      "label": "paragraph_title",
+      "text": "HASTINGS, NEBRASKA NEWS By Mrs. Frankie Goode."
+    },
+    {
+      "bbox": [
+        1567,
+        868,
+        1855,
+        2105
+      ],
+      "label": "text",
+      "text": "Mrs. Clara V. Spencer, daughter of Mr. and Mrs. William Swain, was married last Saturday morning December 13, to Mr. Homer Washington of Evansville, Ind. The bride wore a very pretty wedding dress of grey satin and Georgette crepe with grey boots to match. Mrs. Frankie Goode and Mr. John Daugherty were the attendants.\n\nMr. and Mrs. William Swain entertained Saturday evening for Mr. and Mrs. Homer Washington. A very enjoyable evening was spent, the bride receiving many wedding presents. Light refreshments were served. Those present were:\n\nMr. and Mrs. Homer Washington, Mr. and Mrs. Wyth Walker, Mr. and Mrs. William Swain. Mrs. Frankie Goode, Mrs. Josephine Lee, Mrs. Switzer, Mrs. Harvey Bridges, Miss Mildred Lee, Miss Ora Dabney, Mr. Floyd Smumers, Mr. John Daugherty, Mr. Louis Taylor, Mr. William Jones, Mr. Orin Switzer, Mr. Charles Brown. Mrs. Washington was very popular with the younger set and was loved by everyone who knew her. She was of a lovable disposition and had a kind word for everybody. She was a member of the Y. W. C. A. and of the Junior High School. Mrs. Washington is a granddaughter of Mr. Amos Johnson of Palestine, Texas, and her mother, Mrs. Swain, was formerly Miss Birdie Johnson. So their friends in both communities wish Mr. and Mrs. Washington much happiness.\n\nThe many friends of Mr. James Goode will be glad to know he is able to be up and around on crutches. Mr. Goode and wife were both sick with the flu. Mrs. Goode was formerly Miss Frankie Davis of Atchison, Kas. Mr. and Mrs. Edmund Briscoe left last Tuesday morning for points in Kansas and Missouri and Iowa on a two weeks' visit.\n\nMrs. Clarence Daugherty returned home Monday from Scotts Bluff on account of the illness of her husband, Mr. Clarence Daugherty.\n\nMr. Floyd Summers and aunt, Miss Nellie McKay, left Tuesday morning for Kansas City to spend the Christmas holidays with relatives.\n\nMiss Judy Walker is going to Kansas to visit her great-grandmother and great-great-grandmother.\n\nTHE CAPITOL SHOE REPAIRING\n\nWe do the Best Repairing at Reasonable Prices.\n\nAll Work Guaranteed.\n\nI. BROOK, Prop.\n\nPhone Web. 4592. 1408 N. 24th St."
+    },
+    {
+      "bbox": [
+        1592,
+        2240,
+        1834,
+        2386
+      ],
+      "label": "text",
+      "text": "That is what all our customers think of us.\n\nLet us furnish you with your overcoats, suits, shoes and other furnishings."
+    },
+    {
+      "bbox": [
+        1592,
+        2426,
+        1836,
+        2592
+      ],
+      "label": "text",
+      "text": "Prices always reasonable.\n\nPALACE\nCLOTHING CO.\n\n14th and Douglas"
+    }
+  ]
+}

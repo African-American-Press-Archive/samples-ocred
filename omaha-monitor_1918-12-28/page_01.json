@@ -1,0 +1,468 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1968,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        129,
+        309,
+        398,
+        331
+      ],
+      "label": "text",
+      "text": "$2.00 a Year. 5c a Copy"
+    },
+    {
+      "bbox": [
+        112,
+        348,
+        398,
+        418
+      ],
+      "label": "paragraph_title",
+      "text": "Character Not Color Counts in Porto Rico"
+    },
+    {
+      "bbox": [
+        112,
+        437,
+        398,
+        492
+      ],
+      "label": "text",
+      "text": "The Majority of the Inhabitants Are of Dark Complexion and Texture of Haif Is Distinguishing Feature."
+    },
+    {
+      "bbox": [
+        110,
+        509,
+        397,
+        528
+      ],
+      "label": "paragraph_title",
+      "text": "ISABELA MOST HEALTHFUL CITY"
+    },
+    {
+      "bbox": [
+        110,
+        546,
+        398,
+        1074
+      ],
+      "label": "text",
+      "text": "Island Scenery Beautiful\u2014People Kindly and Hospitable\u2014Spanish Language and Customs Prevail\u2014Mrs. Grace M. Hutten, Governmeut Teacher, Writes Interestingly of Observations and Experiences.\n\nISABELA, PORTO RICO, December 1.\u2014Porto Rico is indeed a beautiful fairy land. The island is riotously brilliant in its native coloring, engaging and attractive in the delicate tinting of its architecture. Its resplendent atmosphere is so clear, translucent and at times almost crystalline. Even the clouds are beautiful. You see the snow white billows that seem to be so close you could reach them. At sunset you can see beautiful soft pink, amber, lavender, yellow and bright red soft clouds.\n\nDuring the moonlight nights it would be impossible to express in words the beautiful scene. It is so light that it is possible to read the finest print. You can clearly see the mountains and also the trees on the mountain side. These mountains are five miles from Isabela."
+    },
+    {
+      "bbox": [
+        149,
+        1077,
+        351,
+        1092
+      ],
+      "label": "paragraph_title",
+      "text": "Isabela Prosperous Town."
+    },
+    {
+      "bbox": [
+        110,
+        1092,
+        398,
+        1347
+      ],
+      "label": "text",
+      "text": "We are located on the northwestern coast on one of the busiest and most prosperous towns. Isabela is the largest cotton and tobacco producing district on the island. It is regarded as the healthiest city on the island, and is located on a high hill overlooking the ocean. We have spent many happy hours on the shores gathering sea shells and bathing. This is the first day of December and it is warm enough for swimming. Although the days are very hot, the evenings are always cool."
+    },
+    {
+      "bbox": [
+        180,
+        1351,
+        330,
+        1365
+      ],
+      "label": "paragraph_title",
+      "text": "Towns All Similar."
+    },
+    {
+      "bbox": [
+        107,
+        1366,
+        398,
+        2308
+      ],
+      "label": "text",
+      "text": "All of the towns are similar. There is a plaza in every town, this is similar to a city square. This is always decorated with flowers. Here the people congregate every evening and especially Saturday and Sunday evenings and enjoy promenading and listening to the band play. On one side is the Roman, Catholic church. The one here is as large as the First Christian Science building in Omaha, and it is a very beautiful structure. All streets lead from the plaza, these are all typical Spanish streets, very narrow.\n\nThe houses are adjacent to the streets. That is every house opens directly upon the streets. They do not have yards in front of their houses as we do. The better class of people live over stores. These homes always have balconies in the front and rear. They are trimmed with fancy patterns of wood, and are always highly painted. The Spanish people love bright colors. The favorite house paints are vivid greens, orange, yellow, pink, sky blue, and violet. Every house is trimmed in white.\n\n**Oxen Draw Carts; Autos Common**\n\nThe oxen are used as beasts of burden instead of the horse. They are yoked to a two wheeled cart, and are guided by a peon who walks by the side and prods them with his long stick. They are very patient and seem to be more able to stand this tropical climate than the horse. The horses are used for horseback or for pulling very light buggies. The majority of the people have automobiles.\n\nThey have excellent roads on the island. I do not believe there is a dirt road here. So you do not mind the rain, as we never see mud. All roads are macadamized.\n\nIt rains quite often on the northern coast, but it is seldom cloudy. It generally rains with the sun shining. Then it rains very hard for a half hour, seldom longer."
+    },
+    {
+      "bbox": [
+        159,
+        2314,
+        342,
+        2329
+      ],
+      "label": "paragraph_title",
+      "text": "Gardens and Products."
+    },
+    {
+      "bbox": [
+        107,
+        2327,
+        398,
+        2637
+      ],
+      "label": "text",
+      "text": "The gardens were planted in September and at present the farmers are bringing in green beans, turnips, and green corn, together with their native vegetables. They have more different kinds of vegetables than we do in the states.\n\nRice and beans are very plentiful here and most of the poor people live entirely on this dish. They are usually cooked together. Coffe is served three times a day. This is roasted at home and then made into a strong extract. The cup is filled with hot milk, then a tablespoonful of the coffee extract is poured into the cup. Most Americans they say enjoy the Porto"
+    },
+    {
+      "bbox": [
+        461,
+        103,
+        1508,
+        227
+      ],
+      "label": "doc_title",
+      "text": "THE MONITOR"
+    },
+    {
+      "bbox": [
+        405,
+        348,
+        694,
+        472
+      ],
+      "label": "text",
+      "text": "Ricans coffee more than the American made coffee, but I long for a cup of American coffee.\n\nThe trees are loaded with all kinds of delicious fruits. Oranges are two for one cent. Bananas are thirty cents a stock."
+    },
+    {
+      "bbox": [
+        427,
+        475,
+        669,
+        489
+      ],
+      "label": "paragraph_title",
+      "text": "Dark Complexions Predominate"
+    },
+    {
+      "bbox": [
+        404,
+        481,
+        694,
+        942
+      ],
+      "label": "text",
+      "text": "Dark Complexions Predominate\n\nThe majority of the inhabitants are dark complexioned. Few are very fair. It is hard to distinguish between the white and colored. The way they tell here is by the hair, if it is very short and close they regard the person as Colored. Here it does not matter whether you are white or Colored, there isn't any racial differences. They are regarded as one race, the Spaniard. They are very proud, courteous and very hospitable. They would gladly give you anything they possess. As soon as you enter the Porto Rican's home, you are made to feel at home and welcome. They invariably tell you before you leave, that anything they have is at your disposal, and nothing pleases them more than for you to accept some token from them.\n\nThere are very few Colored people on the western part of the island, the greatest majority live around Ponce and San Juan."
+    },
+    {
+      "bbox": [
+        422,
+        948,
+        675,
+        962
+      ],
+      "label": "paragraph_title",
+      "text": "Families Would Please Roosevelt."
+    },
+    {
+      "bbox": [
+        404,
+        964,
+        693,
+        1382
+      ],
+      "label": "text",
+      "text": "The families are very large. Ten children in a family are usually the average number. Many have as many as eighteen. They seem to get along easier with ten or fifteen children than the average American family of three or four.\n\nThere are many very poor people here, also very many orphans. As a rule every family has from two to five servants. They do not pay these more than two dollars apiece a month, and are glad to have some place where they can be sure of getting enough to eat.\n\nThe island is entirely too crowded for its size. As a consequence labor is too cheap. Men cannot make more than fifty cents a day. Women receive from fifteen to thirty cents a day, working hard from sunrise until sunset. It is very sad to see the sufferings of the poor."
+    },
+    {
+      "bbox": [
+        466,
+        1386,
+        617,
+        1400
+      ],
+      "label": "paragraph_title",
+      "text": "Women Secluded."
+    },
+    {
+      "bbox": [
+        404,
+        1400,
+        692,
+        1637
+      ],
+      "label": "text",
+      "text": "It is a custom for the better class of women to be as secluded in their homes as possible. They are seldom seen upon the streets. They seldom weigh more than one hundred and fifteen. They all have very small feet. The average woman wears a number one shoe. They do not receive the proper exercise and as a result they are rather delicate. I have been here four months and many of these women have never been outside of their doors during that time."
+    },
+    {
+      "bbox": [
+        431,
+        1642,
+        657,
+        1657
+      ],
+      "label": "paragraph_title",
+      "text": "Parents Make Engagements."
+    },
+    {
+      "bbox": [
+        403,
+        1657,
+        692,
+        2402
+      ],
+      "label": "text",
+      "text": "Although the girls and boys attend school together, they are never permitted to play together. The young ladies are not permitted to keep company before they are openly engaged. If a young man believes he cares enough for a young lady to marry her, he just informs her parents. If they are willing the engagement is publicly announced, then the wedding follows shortly. The home life seems to be very happy. The children are always obedient to their parents and seniors.\n\nAmerican Teachers and Schools.\n\nOne American teacher is sent to every town and several to the largest towns. At present there are about seventy American teachers and over two thousand Porto Rican teachers. Every town has a large consolidated school near the center of the town. This school consists of two buildings one for the smaller and one for the gramar grades. The largest school in Isabela has an enrollment of seven hundred and fifty.\n\nThey have excellent playgrounds and all kinds of playground apparatus. They have a tennis court, volley ball, basket ball, jumping and vaulting.\n\nThe children here enjoy coming to school, and they are never sad except when they cannot come.\n\nThe bilingual plan of instruction is followed. The children in the first grade are taught in Spanish, from the second grade up, English and Spanish are taught. The children are exceptionally bright in school."
+    },
+    {
+      "bbox": [
+        427,
+        2407,
+        664,
+        2421
+      ],
+      "label": "paragraph_title",
+      "text": "Americans Supervise Classes."
+    },
+    {
+      "bbox": [
+        403,
+        2419,
+        692,
+        2640
+      ],
+      "label": "text",
+      "text": "The American teachers supervise all English classes in the higher grades. The principal supervises all Spanish classes. Every school has a mammoth training shop and domestic science room. At present the girls in domestic science are making garments for the Belgian children. The children in Porto Rico make wonderful laces and after school is over every girl is busy with her hand work. (Continued on Fifth Page.)"
+    },
+    {
+      "bbox": [
+        701,
+        1443,
+        983,
+        1464
+      ],
+      "label": "paragraph_title",
+      "text": "LONDON EDITOR REBUKES U. S."
+    },
+    {
+      "bbox": [
+        755,
+        1481,
+        929,
+        1497
+      ],
+      "label": "paragraph_title",
+      "text": "By Continental Press."
+    },
+    {
+      "bbox": [
+        698,
+        1493,
+        984,
+        2189
+      ],
+      "label": "text",
+      "text": "New York, N. Y., Dec. 24.\u2014The untold dignities the south has forced the nation to face was forcibly brought out in the answer the London Saturday Review, published in London, England, offered the American newspapers when the editor of the Ladies' Home Journal declared that London was an unfit place morally to entertain our soldiers in the hours of leave. The row was started by Mr. Bok (white), who went to England with other American editors as the guest of the British nation to inspect at close hand the conduct of the war, and he is reported to have said some harsh things about the dangers confronting the American soldier when off duty in London.\n\nThe London periodical declares that the charges might come with better grace if America herself, and particularly Mr. Boks' home town, Philadelphia, were above suspicion on the score of public morals. The London Saturday Review says: \"We can not stay to explain the paradox of materialism and idealism, side by side in the forty-eight sociopolitical laboratories which make up the United States. There is scant respect for law, as the lynching records show and as President Wilson has lately bewailed with characteristic forthrightness.\"\n\nPhiladelphia was recently the scene of a bloody race riot in which several people were killed."
+    },
+    {
+      "bbox": [
+        700,
+        2206,
+        891,
+        2221
+      ],
+      "label": "paragraph_title",
+      "text": "MINNESOTA TO HAVE"
+    },
+    {
+      "bbox": [
+        698,
+        2228,
+        984,
+        2640
+      ],
+      "label": "text",
+      "text": "COLORED GUARDSMEN\nSt. Paul, Dec. 24.\u2014Minnesota will be one of three states in the union to boast of a battalion of Negro guardsmen upon completion of plans for four companies of Negroes in St. Paul and Minneapolis as a part of the new National Guard of Minnesota, authorized yesterday by Gov. Burnquist and Adjutant General W. F. Rhinow.\nAddition of this force to the new National guard will be effected by transfers of four companies of Negro members of the state home guard. The home guard battalion is commanded by Major J. H. Sherwood, St. Paul, who will head the national guard unit. Two companies will be maintained in each city. New York and Illinois are the only states having national guard companies of Negroes in the past."
+    },
+    {
+      "bbox": [
+        987,
+        1360,
+        1259,
+        1386
+      ],
+      "label": "text",
+      "text": "\"MEMORIES\""
+    },
+    {
+      "bbox": [
+        1025,
+        1444,
+        1246,
+        1462
+      ],
+      "label": "paragraph_title",
+      "text": "WHEN AFRICA AWAKES!"
+    },
+    {
+      "bbox": [
+        987,
+        1462,
+        1278,
+        2385
+      ],
+      "label": "text",
+      "text": "WHEN Africa awakes! and from\nThe crushing centuries of studied wrong,\nBase defilement, lust and thong,\nLifts up her voice and cries aloud\nHer right to rule herself! Methinks the crowd\nOf gold-greedy men will laugh and say:\n\"Not now, thou backward race! This is our day!\nYours yet to bow and meekly pay\nThe price of weakness.\n\nBut Africa will ponder well these words.\nHer sons shall seek the shadows of the hills\nAnd vow, as they recount the rosary of ills,\nThat their fair land of summer sun and mien\nMust not forever be the Midas dream\nOf self-made masters, who even loathe to give\nThe one, last human right, to live.\n\nAfrica bides her time! But from the ocean strand,\nO'er jungle, mountain, vale and mead,\nThat sweet word, \"Unity-\" will speed\nOn wings of winds, and woo her fretful folk\nInto one dream! one voice! one heart!\none hope!\nAnd yet again she'll claim her sacred right\nTo rule herself, apart from alien might;\nBut if, once more, the pale-faced men shall say:\n\"Not yet, thou backward race! Still tine to pay!\"\nI quake to think how swarthy arms shall hurl\nThundering terrors at a gasping world!\nWhen Africa awakes!\nGEORGE WELLS PARKER."
+    },
+    {
+      "bbox": [
+        995,
+        2385,
+        1278,
+        2424
+      ],
+      "label": "paragraph_title",
+      "text": "VIRGIN ISLANDERS ENJOY\nNEGRO WAR FILMS"
+    },
+    {
+      "bbox": [
+        1027,
+        2442,
+        1237,
+        2456
+      ],
+      "label": "paragraph_title",
+      "text": "(Special to The Monitor.)"
+    },
+    {
+      "bbox": [
+        987,
+        2456,
+        1278,
+        2780
+      ],
+      "label": "text",
+      "text": "Last night's attendance at the Cine Hotalia at 40 cents per head, broke all Sunday records at this popular playhouse. From the enthusiasm shown at the showing of \"The Fighting Fifteenth being presented with the colors by Gov. Whitman,\" the atmosphere was that of dear old Harlem rather than St. Thomas, V. I., so many miles away."
+    },
+    {
+      "bbox": [
+        1509,
+        309,
+        1851,
+        334
+      ],
+      "label": "text",
+      "text": "Vol. IV. No. 26 (Whole No. 181)"
+    },
+    {
+      "bbox": [
+        1288,
+        1444,
+        1570,
+        1482
+      ],
+      "label": "paragraph_title",
+      "text": "DELEGATES WILL AT-\nTEND PARIS MEETING"
+    },
+    {
+      "bbox": [
+        1284,
+        1498,
+        1570,
+        1808
+      ],
+      "label": "text",
+      "text": "Washington, D. C., Dec. 24.\u2014Delegates were chosen by the National Colored Equal Rights Assembly for Democracy, in session here, to attend the conference of the darker races of the world which will be held in Paris at the same time as the peace conference. They are: Rev. M. A. Shaw, Boston; N. S. Taylor, Greenville, Miss.; Rev. R. H. Singleton, Atlanta, Ga.; Rev. W. T. Johnson, Lynchburg, Va.; Bishop L. W. Kyle, St. Louis; Rev. J. R. Ransom, Wichita, Kas.; Monroe Trotter, Boston; Mrs. Ida B. Wells Barnett, Chicago; Mrs. C. J. Walker, New York City, and Rev. William T. Carter, Seattle, Wash."
+    },
+    {
+      "bbox": [
+        1287,
+        1826,
+        1569,
+        1862
+      ],
+      "label": "paragraph_title",
+      "text": "COLORED OFFICERS\nFALL IN BATTLE"
+    },
+    {
+      "bbox": [
+        1284,
+        1881,
+        1570,
+        2190
+      ],
+      "label": "text",
+      "text": "Atlanta, Ga., Dec. 24.\u2014Among the casualties of the American expeditionary forces in France reported last week were two prominent Atlanta officers, Lieutenants Mallalieu W. Rush and Guy Cauy. They were officers in the same company and fell in the same battle, the former being mortally wounded and the latter killed. The two prominent Atlanta officers had gone to Des Moines, Iowa, together in the spring of 1917 and in the following October they were commissioned lieutenants in the army. They were assigned to the same company and went overseas together, eight months ago."
+    },
+    {
+      "bbox": [
+        1286,
+        2206,
+        1569,
+        2251
+      ],
+      "label": "paragraph_title",
+      "text": "WAR HISTORY BY EMMETT J. SCOTT"
+    },
+    {
+      "bbox": [
+        1286,
+        2262,
+        1570,
+        2296
+      ],
+      "label": "paragraph_title",
+      "text": "To Be Only Authoritative Account of \"The Negro In the War.\""
+    },
+    {
+      "bbox": [
+        1283,
+        2314,
+        1572,
+        2643
+      ],
+      "label": "text",
+      "text": "Washington, Dec. 20.\u2014In order that the public may not be misled, announcement is made that the only authoritative history of the Negro's participation in the great war will be prepared yb Emmett J. Scott, now serving as special assistant in the war department, and a group of nationally known authorities on all phases of Negro life and activity. This work is not to be a hastily put together hodge-podge of newspaper clippings, but an authoritative record of Negro courage and valor. The publishers will be one of the standard firms of the land, whose imprint is in itself a guarantee of literary quality and typographical excellence."
+    },
+    {
+      "bbox": [
+        1583,
+        350,
+        1870,
+        422
+      ],
+      "label": "paragraph_title",
+      "text": "Africa Gives Her Answer to England"
+    },
+    {
+      "bbox": [
+        1583,
+        439,
+        1868,
+        495
+      ],
+      "label": "text",
+      "text": "Interesting Reply to the British African Colonies to England's Query: \"What Does Africa Want?\""
+    },
+    {
+      "bbox": [
+        1582,
+        512,
+        1865,
+        531
+      ],
+      "label": "paragraph_title",
+      "text": "SIR HARRY JOHNSON, CHAMPION"
+    },
+    {
+      "bbox": [
+        1575,
+        549,
+        1866,
+        2642
+      ],
+      "label": "text",
+      "text": "A West African Dominion, Freer Imperial Representation, and a West African University, Are the Things Africa Requests in Return for Her Faithfulness to the Crown.\n\nLONDON, ENG.\u2014\"What Does Africa Want?\" is the title of Sir Harry Johnson's contribution to The African World, of August 17, 1918, and his article was one that caught the eye and mind of England's greatest statesmen from Lloyd George, down. Sir Harry Johnson is England's greatest authority upon African matters and is known and honored among all intelligent West Africans, and indeed among intelligent blacks throughout the world.\n\nSuggestive and important is Sir Harry' own description of the present state of the African mind. He writes: \"There is a stirring, a mighty stirring, a ferment going on in West Africa, from St. Louis de Senegal to Mossamedes in the Negro and Negro populations of forty to forty-five millions, like the humming of hives about to swarm. But it is a movement by no means 'anti-white' in tenour; rather, on the other hand, it is penetrated by a wistful hope that white, black and yellow may work cordially and fraternally together in the better development of the immeasurable wealth of West Africa; waiting to be made available for the whole world of purchasers; waiting to be turned to the enrichment, comfort, and well-being of West Africans.\"\n\nThis statement sums up the situation beautifully and the great coming West African conference has already made out its program of demands and told the British government what it wants and will expect. They are as follows:\n\n(1) Unification.\u2014A West African Dominion. It matters little that its portions are scattered, far separated, unequal in size and population. There still remains a considerable homogeneity, a common pool of interests and ambitions, and two great trading languages in common, English and Hausa. There should be created one Viceroyalty for all British West Africa, including under its sway Bornu, Hausaland, Sokoto, the Benue provinces, Nupe, Yoruba, Southern Nigeria, British Cameroons, the Gold Coast and Ashanti, the Northern Territories, Sierra Leone, and the Gambia, with governorships and lieutenant governorships and secretaries for each distinct province. Besides the Viceregal Council, on which each separate territorial division should be represented, there would, of course, be Provincial Councils, and all these councils the native population would be well represented by delegates.\n\n(II) Freer Imperial Representation.\u2014The whole Viceroyalty would, of course, depend for direction, policy and control of finance and credit on the Imperial Office in Whitehall\u2014as the Colonial Office (which is now in Downing Street) should be renamed. But the West African Viceroyalty, like the Nilenad, like British Central Africa, the West Indian Confederation, Mayalsia and Ceyoln, should have its own agency in London, and considerable freedom of action in looking after its own commerce, education, and industrial development. The outwarm institution of the Crown Agents for the Colonies must disappear amid the many other changes and reforms that will become imperative as soon as peace restores us to liberty of thought, speech and action. Indeed, as regards imperial readjustments there is no reason whatever except the dislike to change of a few elderly officials and of cabinet ministers, who know nothing about the Empire by personal experience or by education, why we should timidly and respectfully wait until the war is over.\n\n(III) A West African University.\u2014West Africa must have its own university, established (say) on the upper slopes of the gloriously beautiful and healthy Cameroons Mountains. At first there will have to be a certain proportion of European professors and in the choice of an educational center for all British West Africa a site must be chosen which would be least detrimental to the health of such white men as may participate in the great task of educating the twenty-\n\n(Continued on Fifth Page.)"
+    }
+  ]
+}

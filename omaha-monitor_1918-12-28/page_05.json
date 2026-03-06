@@ -1,0 +1,418 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1956,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        138,
+        519,
+        663,
+        564
+      ],
+      "label": "text",
+      "text": "The best equipped shop in the state. Leading shop of the city. Baths, plain and shower. Cultured barbers."
+    },
+    {
+      "bbox": [
+        182,
+        1356,
+        619,
+        1398
+      ],
+      "label": "paragraph_title",
+      "text": "A Nettleton Shoe!"
+    },
+    {
+      "bbox": [
+        135,
+        1413,
+        665,
+        1576
+      ],
+      "label": "text",
+      "text": "THE GENTLEMAN'S CHOICE\nA good quality souvenir clothes brush with every pair of shoes.\nAlso a fine line of Boys' Shoes.\n\nM. S. ATKISSON\n503 South 16th Street. Iler Grand Building."
+    },
+    {
+      "bbox": [
+        137,
+        1517,
+        662,
+        1574
+      ],
+      "label": "text",
+      "text": "M. S. ATKISSON 503 South 16th Street. Iler Grand Building."
+    },
+    {
+      "bbox": [
+        127,
+        1614,
+        680,
+        1700
+      ],
+      "label": "text",
+      "text": "GOOD GROCERIES ALWAYS\nC. P. WESIN GROCERY CO.\nAlso Fresh Fruits and Vegetables.\n2006 Cuming St. Telephone Douglas 1098"
+    },
+    {
+      "bbox": [
+        129,
+        1837,
+        677,
+        1881
+      ],
+      "label": "text",
+      "text": "Within the past ten years YOUR race has made greater strides toward literary achievement than in the CENTURIES that went before. Become familiar with the work of RACE AUTHORS."
+    },
+    {
+      "bbox": [
+        127,
+        2394,
+        678,
+        2485
+      ],
+      "label": "text",
+      "text": "There are other books, of course, and good books. It is impossible to mention all, and these are representative of the best. They are beautifully bound and are as far above the ordinary book in book making as they are in literary value.\n\nThat it may be easy for you to secure them we will take orders for them at the publisher's lowest NET prices, which are:"
+    },
+    {
+      "bbox": [
+        130,
+        2547,
+        677,
+        2598
+      ],
+      "label": "text",
+      "text": "Where the book is sent to a soldier or a sailor in a training camp there will be no charge for mailing. Otherwise, enclose ten cents for postage with every order to be sent by mail."
+    },
+    {
+      "bbox": [
+        129,
+        426,
+        394,
+        2053
+      ],
+      "label": "text",
+      "text": "UNCLE SAM NEEDS\n\nPORO SYSTEM\n\nSAINT L\n\nDep\n\nA Nettle\n\nTHE GENTLE\n\nA good quality souvenir of shoes.\n\nAlso a fine line of Boys' Shoes\n\nM. S. AT\n\n503 South 16th Street.\n\nGOOD GROCER\n\nC. P. WESIN\n\nAlso Fresh Fruits\n\n2006 Cuming St.\n\nBUY BOOK\n\nWithin the past ten years Y toward literary achievement than i\n\nBecome familiar with the work\n\nThe Boy You Love\n\nThe boy you love in the training camp will make a better soldier and a better man if he knows the righing lines (\"Fifty Years\") and the hauntings of Black and Unknown You will find these in James Johnson's \"Fifty Years\" and Other Poems,\" a book the critics of the world have called the greatest poetical achievement of the Colleged Bloes, Professor Brander Matthews of Columbia University has written a remarkably fine introduction."
+    },
+    {
+      "bbox": [
+        132,
+        2056,
+        330,
+        2068
+      ],
+      "label": "paragraph_title",
+      "text": "From the Fields of Alabama"
+    },
+    {
+      "bbox": [
+        130,
+        2062,
+        394,
+        2228
+      ],
+      "label": "text",
+      "text": "From the Fields of Alabama\nA boy came fresh from the fields of Alabama his way through a session of the sumer school at Harvard. A few roughly scrawled poems caught the eye of his professor. The result was a book of these verses, a corporal in a Machine Gun Company. Meanwhile the great literary newspapers of the east are saying that Waverly Turner Carmichael gives promise to a young man, a know of this soldier author or his book. \"From the Heart of a Folk.\""
+    },
+    {
+      "bbox": [
+        130,
+        2231,
+        334,
+        2244
+      ],
+      "label": "paragraph_title",
+      "text": "In Spite of Bitter Handicaps"
+    },
+    {
+      "bbox": [
+        129,
+        2236,
+        394,
+        2684
+      ],
+      "label": "text",
+      "text": "In Spite of Bitter Handicaps\nIn Louisiana, Kentucky\nColored man, Lowell Kent and a Colored man, educator of falling health, has published his first book, and again the critics on the great metropolitan newspapers have acclaimed Joseph S. Cotter's \"The Band of Glideon,\" only a book worthy of the best literary traditions of the day but also a\n\nThere are other books, of course to mention all, and these are repress fully bound and are as far above them are in literary value.\n\nThat it may be easy for you for them at the publisher's lowest N\n\nFifty Years and Other Poem\nFolk, $1.00. The Message of a Woman, $1.25. Twenty-fiv\nThe Band of Glideon, $1.00.\n\nWhere the book is sent to a s there will be no charge for mallin postage with every order to be s\n\nDO YOUR BIT!!!\u2014G\nSEND ORDERS T"
+    },
+    {
+      "bbox": [
+        408,
+        621,
+        680,
+        2654
+      ],
+      "label": "text",
+      "text": "OUR MEN. LET THE\nSYSTEM\nME OF YOU\n\nFORD SYSTEM\nST. LOUIS, MG.\n\nMOM COMPANY\nBUUIS, MO.\n\nSt. U\n\nBton Shoe!\n\nMAN'S CHOICE\nlothes brush with every pair\n\nTKISSON\nIler Grand Building.\n\nIES ALWAYS\nGROCERY CO.\nand Vegetables.\nTelephone Douglas 1098\n\nOKS BY RACE AUTHORS\n\nUR race has made greater strides\nthe CENTURIES that went before,\nof RACE AUTHORS.\n\nfurther proof of the rapid literary\nprogress of his race.\n\nYou Have Seen Your Own Eyes\nYou have seen with your own eyes\nthe struggle of the Negro for education.\nYou know the vital human side.\nThat is why you will appreciate and\nwant to read \"Twenty-Five Years in\nthe Black Belt,\" by William J. Edwards,\nthe able founder and present\nhead of Snow Hill Normal and\nIndustrial Institute of Professor Paul J.\nDouglas Johnson has written just such\na book of tender, haunting lyrics in\n\"The Heart of a Woman.\" Why not\nmake at least one girl happy by sending her a copy?\nDo you love Trees?\nDo you love trees and the great out of doors? Maude Cuney Hare, daughter of the late Norris Wright Cuney,\nhas collected the finest things written\nabout our trees in a permanent book.\nWilliam Stanley Braffwaite has written the introduction.\n\nAnother Race Bard\nMany a scrap book contains treasured clippings of the poems of Charles Bertram Johnson as a book. Georgia Johnson has written just such a book. William Stanley Braffwaite has written the introduction.\n\nAnother Race Bard\nMany a scrap book contains treasured clippings of the poems of Charles Bertram Johnson as a book. Georgia Johnson has written just such a book. William Stanley Braffwaite has written the introduction.\n\ne, and good books. It is impossible\ntative of the best. They are beauti-\nordinary book in book making as\nto secure them we will take orders\nat prices, which are:\n$1.25. From the Heart of a\nTree Trees, $2.00. The Heart of\nYears in the Black Belt, $1.50.\nSongs of My People, $1.00\ndier or a sailor in a training camp.\nOtherwise, enclose ten cents for\nby mail.\n\nWE A BOOK TODAY!!!\n\nO THE MONITOR."
+    },
+    {
+      "bbox": [
+        761,
+        98,
+        1221,
+        135
+      ],
+      "label": "doc_title",
+      "text": "Letters from Boys Overseas"
+    },
+    {
+      "bbox": [
+        692,
+        158,
+        984,
+        2640
+      ],
+      "label": "text",
+      "text": "\"CLAMORING BEFORE THE VERY GATES OF METZ\"\n\nElmer Underwood of the 365th Infantry Writes Nat Hunter a Most Interesting Letter of the Closing Battle of the War.\n\nAmerican Expeditionary Forces, France, November, 13, 1918.\n\nDear Nat:\n\nNow that the big squabble is nearly at an end and life is likely to last until I finish writing, I feel pleased to let you know that I am still in the land of the living, full of pep, and continually on the job. Being on the job over here really means something. Since leaving old Omaha I have had many an adventure and this excluding none is the biggest of them all. Oftimes when shrapnel filled the air and the crack of machine guns made life miserable, I thought that without a doubt one of these little graves marked \"Mort Pour France\" would be my final resting place.\n\nThe end came like a clamp of thunder. On the evening of the 10th the orders came for our outfit to move up fully equipped for business. Our objective was a small town some 17 kilometers away. Not a man but knew what the end would be in attempting this drive. We had been in the forests of Argonne and this would be no less difficult. Not since 1914 had the allies gained ground in this sector. The fighting Algarians had only lasted one half hour in the face of German machine gun and artillery fire. Zero hour was to be at 5 o'clock. At 5 o'clock on the dot our artillery started a creeping barrage and the 366th started over. Great Scott, Nat, it was awful. Some men were torn beyond recognition by the enemy's artillery. Gas, shrapnel, machine guns and small arms were used against them. Still the boys held on longer than any troops ever had before. Then the 365th tried it. Believe me, we went through the Boche like a dose of salts. Reached our objective before the allotted time. The eleventh hour found us so to speak clamoring at the very gates of Metz, and determined to force an admission if it were refused us. Ed Turner was there, so I hear.\n\nWhile we were out there in No Man's Land scuffling for a new lease on life reserves in the rear were watching with undescribable anxiety the hands of the clock as they crept near eleven. At 10:45 there was no sign of the battle abating. Faith in the armistice began to wane. To make things worse the German aerplanes dropped propaganda asking, \"Why fight when peace is so near?\" The big guns in Metz were in the meantime dropping gigantic shells among us with terrible effect. Then suddenly as if the hand of death had fallen over everything a silence comparable to that of a village church yard, in contrast to the noise of a few minutes before, came over the battleground of four long tortuous years.\n\nAnd then, Nat, to think of being snatched so to speak from the very maw of death. Some shouted, some prayed and others maintained an unnatural calm as if it were only a pleasant dream. Never before in the world's history have I heard of anything like it. Truly it is the irony of fate that could cause a many to play the game till the last hour and then lose.\n\nAfter that came the grewsome task of gathering up the dead. I will not with my limited vocabulary attempt to describe the scene. Enough to say that those brave fellows who only a few months ago, teeming with the joy of life, promised to help France win this war unflinchingly paid their debt in full.\n\nBut that is enough of the war stuff. I've had so much of it since arriving here last June that I hate to talk fight. I've been all over France and living, in the course of my travels, next to nature. Every once in a long\n\nDIPLOMATS WOULDNT\n\nLET US LOAN IN AFRICA\n\nLiberia Suffered in War by Dog-in-the-Manger Attitude of Europe.\n\nNegro Republic, to Protect From German Use of Territory, Ruined Commerce.\n\nSpecial Cable to the Omaha World-Herald and Chicago Daily News.\n\nParis, France, Dec. 21.\u2014An American in political life told me the following story:\n\n\"The old diplomacy of Europe has brought the republic of Liberia to an unfortunate pass. Liberia was induced by the allies to declare war because Germany was using Liberian territory to set up wireless stations. The result of Liberia's declaration of war was that the German merchants and bankers who had an active commerce from Liberia along the African coast were interned. Business stopped and the customs receipts fell to almost nothing. Consequently the Liberian government applied to"
+    },
+    {
+      "bbox": [
+        988,
+        157,
+        1275,
+        467
+      ],
+      "label": "text",
+      "text": "while I run across some one from the Gate City. Now and then I see Lawyer Pinkett. However, I know very little concerning men in other regiments.\n\nNow Nat, I hope to be able to look the Goddess of Liberty in the face once more in the near future. Take care of yourself. Give my regards to Mrs. Hunter and any inquiring friends. Tell Sears that Boykins from Chicago is my closest comrade in arms. Good bye and good luck. (Deiu benir vous.)\n\nPVT. ELMER C. UNDERWOOD,\nCo. 1 365th Infantry, Amer. Expd.\nForces, via N. Y., A. P. O. No. 766."
+    },
+    {
+      "bbox": [
+        992,
+        484,
+        1275,
+        526
+      ],
+      "label": "paragraph_title",
+      "text": "FIRST AND SECOND IMPRESSIONS OF FRANCE"
+    },
+    {
+      "bbox": [
+        991,
+        538,
+        1276,
+        688
+      ],
+      "label": "text",
+      "text": "Moses Jordan's First View of Rugged Coast Line Did Not Favorably Impress Him.\n\nMy Dear Father Williams:\nThe morning I came on deck and spied land in the far distance, a soldier boy exclaimed: \"La Belle France.\""
+    },
+    {
+      "bbox": [
+        989,
+        661,
+        1279,
+        2637
+      ],
+      "label": "text",
+      "text": "spiced land in the far distance, a soldier boy exclaimed: \"La Belle France.\"\n\nI could hardly believe it was true, because I could not see any \"belle\" about that rugged, barren land which reminded me of sand dunes in the Sahara desert. While many were \"rubber-necking\" to get a glimpse and others were yelling, \"La Belle France!\" I thought of France as an old plantation philosopher thought of a twinkling star. Once when shown a star of the fourth magnitude and being told that it was larger than the earth, the old fellow could not believe it. So after some serious head shaking and head scratching and some interrogating he said, rather doubtfully, \"If dat am true about dat star, it's she got a poor way of showin' it.\" From my first sight of France I thought that if Les Francais wanted to personify the proper title would have been, \"Thomme France\" with \"Villain\" added. But since I have had a chance to see, I can readily exclaim with others, \"La Belle France!\" and add, \"La Belle Charmons France!\"\n\nLet me say here, Father, what Les Francais have done to behold the Say, \"a thing of beauty is a joy forever,\" is demonstrated in the scenery of the country. Her large meadows, high hills, lofty mountains, adorned with dense forests, are very attractive, especially in the evening at sunset, when the west seems aflame with burning fire. The nights are starry and glorious. I am told that Cupid does most of his work at night and I think so with the silver moon swinging low and Ursa Major and Minor in their respective places under the eye of the Dragon. It is enough to make a lover's heart give up its secrets. Her streamlets flow through hand made arteries and her little lakes are well kept.\n\nFather, I do not think that it is so much the natural resources that make France one of the beauty spots of the world, but the adornment made by man. I have seen places in western and southern Florida and Louisiana just as beautiful and rich from a natural standpoint, but France is tailor-made. Her forests and pasture lands are in selected places. Her public highways are lineal with the trees. The age of the road can be judged from the size of the trees. Some of these roads are over a thousand years old and many are historical from the fact that they were built for war purposes and under the eyes of such great generals as Caesar and Napoleon. There are so many strategic battle grounds in France that during the war the people know just where the great battles will be fought.\n\nFather, I repeat, La Belle France is a beautiful country. My next letter will be on \"a la route de guerra.\" Aur revoir.\n\nPVT. MOSES JORDAN.\nSay, Father, I just received The Monitor. Such a noise we made!\n\nthe United States for a small loan to carry on its affairs.\n\n\"The United States was about to make this loan when the statesmen of Europe interfered. They said that for the United States to make a loan to Liberia was not a friendly act because by so doing the United States would establish a sphere of influence in Africa.\n\n\"This suggests the malignant influence of the old diplomatic doctrine in its spheres of influence. Each nation in its sphere holds to unfortunate protected nations in its grip and extracts for itself the greatest possible profit at the expense of the helpless victims.\n\n\"In this case it is a dog in the manger attitude taken by the diplomats for one with spheres of influence in Africa has any money to loan to unfortunate Liberia. Surely the league of nations ought to take care of just such situations.\"\n\nFred C. Williams, field manager of The Monitor, underwent a slight operation last week and is feeling much better."
+    },
+    {
+      "bbox": [
+        1282,
+        151,
+        1568,
+        349
+      ],
+      "label": "text",
+      "text": "Every class is closely supervised. Every district has several supervisors, who devote all of their time to the schools. At present there is a terrible epidemic of influenza. There are over five thousand cases in Isabela. They are trying to have the schools closed for awhile, and if they are closed, all teachers will engage in Red Cross work."
+    },
+    {
+      "bbox": [
+        1325,
+        353,
+        1529,
+        368
+      ],
+      "label": "paragraph_title",
+      "text": "The Recent Earthquake."
+    },
+    {
+      "bbox": [
+        1284,
+        364,
+        1571,
+        787
+      ],
+      "label": "text",
+      "text": "We had a terrible earthquake here on the eleventh of October. It happened at 10:15 a.m. Suddenly the school building began to rock violently back and forth. I thought the building was collapsing. We all ran out and as we reached the street, we heard some one shouting \"earthquake.\" Again the earth seemed to be lifted, then rock back and forth. It was terrible. People were screaming and running in every direction. All cement and brick buildings fell with the first earthquake.\n\nDuring the first twelve hours there were eighty-six very hard shocks, these continued every day, being very close together the first week. The second week they began to diminish. During the third week we had very few. Last month at the same time we had another very hard shock. Just the past Monday we had three shocks."
+    },
+    {
+      "bbox": [
+        1310,
+        791,
+        1508,
+        805
+      ],
+      "label": "paragraph_title",
+      "text": "Studying the Cause."
+    },
+    {
+      "bbox": [
+        1284,
+        806,
+        1573,
+        1419
+      ],
+      "label": "text",
+      "text": "There have been many conjectures as to the cause of these earthquakes. Two seismologists have been sent by the U. S. government from John Hopkins university to study them. They spent considerable time this week in Isabela.\n\nWe are hoping to learn the real cause shortly. Since the hardest ones seem to happen every month when the moon is full, many think that perhaps the moon or some planet is causing them. Generally before an earthquake the ocean makes a terrible noise, and a tidal wave comes. For this reason many believe there is a submarine volcano near.\n\nDuring the first earthquake three towns, one of which was the largest on the western coast were completely destroyed. Hundreds were killed by the earthquake in these towns.\n\nSixty-Foot Tidal Wave.\n\nA tidal wave almost sixty feet high came immediately after the earthquake. This extended over the entire western coast and carried buildings, houses and human being back to the sea. More were drowned than were killed by the earthquake.\n\nWe were quite frightened at first, but now we are becoming used to the shocks and do not mind them, unless they are very hard."
+    },
+    {
+      "bbox": [
+        1362,
+        1424,
+        1494,
+        1440
+      ],
+      "label": "paragraph_title",
+      "text": "Red Cross on Job."
+    },
+    {
+      "bbox": [
+        1286,
+        1441,
+        1574,
+        1858
+      ],
+      "label": "text",
+      "text": "The Red Cross immediately took charge of the devastated districts, and temporary homes and hospitals were quickly constructed from army tents for use.\n\nAlthough every town on the island suffered property losses, and almost every one, some lives were lost, yet each town immediately subscribed a great amount of money for relief work.\n\nOversubscribe Liberty Loan.\n\nThe earthquake happened on the day set for the subscription of the Fourth Liberty Loan. Even in the town of Aquadillis, which was almost entirely destroyed, their amount was oversubscribed. Even though they had suffered great losses of property and hundreds of dollars, yet they never forgot their duty to their government and did their share to help make the Fourth Liberty Loan a success."
+    },
+    {
+      "bbox": [
+        1319,
+        1861,
+        1524,
+        1877
+      ],
+      "label": "paragraph_title",
+      "text": "Too Busy to Be Homesick"
+    },
+    {
+      "bbox": [
+        1284,
+        1876,
+        1572,
+        2440
+      ],
+      "label": "text",
+      "text": "I am always very busy and consequently do not have time to be home-sick or lonesome. School opens at 8:30 and closes at 4. I have several special classes during the week in the evenings. At first I had free night schools for English students. I was compelled to give these up for lack of time, so at present I only have a few special night classes. I try to devote as much time as I possibly can to welfare work Saturday and Sunday and hope later to do a great amount of missionary work.\n\nAt first the fact that I did not understand Spanish was quite a drawback to me, but I am able now to understand a great deal of Spanish and to make myself understood so I am progressing more rapidly.\n\nOur friends in Omaha and elsewhere have been very thoughtful of us. Can assure them that we have enjoyed the long interesting letters and newspapers they have sent and hope to have more time to devote to my correspondence.\n\nWe wish all of our friends a very Merry mas and a Happy New Year. Perhaps during the coming year I can write more for The Monitor."
+    },
+    {
+      "bbox": [
+        1284,
+        2526,
+        1573,
+        2637
+      ],
+      "label": "text",
+      "text": "seven millions of British West African Negroes and Negroids. Or there might be two Universities: one in Hausaland for Mohammedans and one on the Cameroons peak for Christians and nondescripts. In each of the sep-"
+    },
+    {
+      "bbox": [
+        1573,
+        76,
+        1859,
+        202
+      ],
+      "label": "text",
+      "text": "arate territorial divisions of B. W. A. there would of course be colleges and well formed native schools.\" These will be the demands of the West African conference and they cover the aims of enlightened progressive men throughout West Africa."
+    },
+    {
+      "bbox": [
+        1581,
+        237,
+        1856,
+        479
+      ],
+      "label": "text",
+      "text": "DO YOU WANT A PIG?\n\nThen Attend the\nLUNCHEON\nBy\nDIAMOND SQUARE TEMPLE\nNo. 511\nResidence of\nMrs. C. H. Heuston, 2805 Ohio\nStreet\nFrom 2:30 to 7:30 New Year's\nDay\nTickets 35 Cents"
+    },
+    {
+      "bbox": [
+        1573,
+        514,
+        1860,
+        830
+      ],
+      "label": "text",
+      "text": "DR. J. W. SCOTT\nCHIROPODIST\nCorns Removed Without Pain\nPhone H. 4255, 1202 Farnam St.\nOmaha, Neb.\n\nPORO\nHAIR CULTURE\nWe treat the scalp and grow\nthe hair.\nManicuring and massage.\nHATTIE B. HILL, Proprietor"
+    },
+    {
+      "bbox": [
+        1585,
+        903,
+        1858,
+        1272
+      ],
+      "label": "text",
+      "text": "Start Saving Now\nOne Dollar will open an account in the\nSavings Department\nof the\nUnited States Nat'l Bank\n16th and Farnam Streets\n\nWe Have a Complete Line of\nFLOWER, GRASS\nAND GARDEN\nBulbs, Hardy Perennials, Poultry\nSupplies\nFresh cut flowers always on hand\n\nStewart's Seed Store\n119 N. 16th St. Opp. Post Office\nPhone Douglas 977"
+    },
+    {
+      "bbox": [
+        1589,
+        908,
+        1854,
+        968
+      ],
+      "label": "text",
+      "text": "Start Saving Now\nOne Dollar will open an account in the\nSavings Department"
+    },
+    {
+      "bbox": [
+        1593,
+        1311,
+        1846,
+        1416
+      ],
+      "label": "text",
+      "text": "F. WILBERG\nBAKERY\nAcross from Alhambra Theatre\nThe Best is None Too Good for\nOur Customers.\nTelephone Webster 673"
+    },
+    {
+      "bbox": [
+        1602,
+        1459,
+        1844,
+        1500
+      ],
+      "label": "paragraph_title",
+      "text": "E. A. Williamson"
+    },
+    {
+      "bbox": [
+        1611,
+        1523,
+        1835,
+        1573
+      ],
+      "label": "text",
+      "text": "DRUGGIST Competent and Reliable"
+    },
+    {
+      "bbox": [
+        1632,
+        1605,
+        1816,
+        1657
+      ],
+      "label": "text",
+      "text": "2306 North 24th St.\nWebster 4443"
+    },
+    {
+      "bbox": [
+        1585,
+        1705,
+        1860,
+        1955
+      ],
+      "label": "text",
+      "text": "C. H. MARQUARDT\nCASH MARKET\nRetail Dealer in Fresh and Salt\nMeats, Poultry, Oysters, etc.\n2003 Cuming St. Doug. 3834\nHome Rendered Lard. We Smoke\nand Cure our own Hams and Bacon.\nJ. A. Edholm E. W. Sherman\nStandard Laundry\n24th, Near Lake Street\nPhone Webster 130"
+    },
+    {
+      "bbox": [
+        1573,
+        1998,
+        1860,
+        2780
+      ],
+      "label": "text",
+      "text": "The HamiltOn\nSOFT DRING PARLOR\nCor. 24th and Hamilton\nHOT LUNCHES\nGet Acquainted With Joe\n\nOMAHA\nPRINTING COMPANY\n\nOpen All Times. Reasonable Prices\n\nThe Silas Johnson\nWestern Funeral Home\nWebster 248 2518 Lake St.\nThe Place for Quality and Service\nLicensed Embalmer in Attendance\nLady Attendant if Desired.\nMusic Furnished Free."
+    }
+  ]
+}
