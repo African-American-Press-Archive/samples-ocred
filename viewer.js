@@ -49,8 +49,9 @@ textBlocks.forEach(el => {
     highlightRegion(idx);
     const r = REGIONS[idx];
     const [x1, y1, x2, y2] = r.bbox;
-    const rect = new OpenSeadragon.Rect(x1/imgW, y1/imgW, (x2-x1)/imgW, (y2-y1)/imgW);
-    viewer.viewport.fitBounds(rect.rotate(0), false);
+    const cx = (x1 + x2) / 2 / imgW;
+    const cy = (y1 + y2) / 2 / imgW;
+    viewer.viewport.panTo(new OpenSeadragon.Point(cx, cy), false);
   });
 });
 
