@@ -1,0 +1,538 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2084,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        120,
+        142,
+        369,
+        162
+      ],
+      "label": "paragraph_title",
+      "text": "LINCOLN NEWS AND COMMENT"
+    },
+    {
+      "bbox": [
+        111,
+        176,
+        382,
+        2195
+      ],
+      "label": "text",
+      "text": "Mr. Dan Doughty, aged 63, died at a local hospital last Monday after some days illness from Brights disease. Doughty had been a resident of Lincoln for a number of years; his wife leaving him some time ago, and since which time, he has lived mostly obscure to our group\u2014hence you knew nothing of him, only when you saw him on the streets. The only survivor is a son, but his whereabouts was not learned at his death. The funeral was held in Alba Brown's undertaking parlor last Wednesday afternoon, preached by Rev. H. W. Botts. It was said to be a sad sight, to behold, not a single mourner followed the remains to its resting place. A number of acquaintances paid last respects.\n\nMr. Frank Christianum is recovering from some illness of the past week.\n\nMrs. Ella Reinhardt is confined with illness.\n\nMrs. C. W. Wilson was called to her home in Kansas last week on account of her husband's illness.\n\nMrs. J. J. Burden is recovering from recent illness.\n\nThe Mission will meet with Helen Owens next Tuesday night, March 25.\n\nMrs. Marie Patrick entertained the Utopian Art Club last Thursday night at the home of Mr. and Mrs. L. D. Forbes, 2410 Holdere Street, after routine of business. Mrs. Nettie McDonald, one of our able musicians, rendered musical selections on the piano, which were greatly applauded by the good crowd present. The entire meeting was a social and profitable one.\n\nMrs. May Morris is gradually gaining in strength.\n\nMr. and Mrs. James Patrick are removing to a farm near Denton this week, where he will engage in agricultural pursuits. This is one of Mr. Patrick's Arts, and he will feel at home.\n\nRev. G. W. Carter conducted his services on last Sunday and is preparing to wind up business for the past year; and will leave for his Annual Conference at Denver, Colo., about the first of April.\n\nThe play, Cherry Blossom, was repeated at McKinley School Auditorium last Friday night. It was said that the persons did their parts well as before. A good and appreciative audience greeted them.\n\nMrs. Lew Holmes met with a painful accident Sunday when she fell near 13th and O Streets, fracturing the bones in one of her lower limbs.\n\nServices at Mt. Zion Baptist Church Sunday was conducted by the pastor, who preached two very instructive sermons to his people. His words, it taken by the Christian, will aid him to impress the world to have respect for his Christian fellowship, one with another. The Sunday School and B. Y. P. U. were greatly aided in their work by good instructions as to right living. The entertainments by the different clubs are being had at opportune times; the proceeds of which will be reported at the big financial rally in May.\n\nSunday, March 16, was the Annual Woman's Day at Quinn Chapel, and members of the Rosebud Club had charge of the services. These ladies had prepared an all day program which was very interesting as well as inspiring. Financially, the members feel quite successful, although the final reports have not been made.\n\nFriends of Mrs. Lewis Holmes received quite a shock Sunday evening when they learned that while returning home from the Church, she slipped and fell, near the corner of Miller & Palne's store, breaking her leg just above the ankle. Castle, Roper & Matthews ambulance was called and she was immediately taken to St. Elizabeth's hospital, where treatment was given. She expects to return home about the middle of the week; although she will be confined indoors for a long time. We all wish her a speedy recovery.\n\nA surprise party was given at the home of Mrs. Lewis Holmes, Sunday evening, by the Optimistic Set, complimentary to Mrs. Arthur Patrick, who with her family expects to reside in the near future near Denton, Nebraska. Refreshments were served by the club members.\n\nThe members of the Davis Woman's Club were very artistically entertained by Mrs. Fannie Young and Mrs. Margaret Williams at the home of Mrs. Young Tuesday afternoon. Refreshments were served after the programme, which was very interesting."
+    },
+    {
+      "bbox": [
+        117,
+        2211,
+        372,
+        2264
+      ],
+      "label": "paragraph_title",
+      "text": "BOTH FRANKLIN AND\nDIAMOND THEATRES UNDER\nNEW MANAGEMENT"
+    },
+    {
+      "bbox": [
+        112,
+        2278,
+        379,
+        2695
+      ],
+      "label": "text",
+      "text": "The Diamond Theatre Company has leased the Diamond Theatre located on Lake street, just west of 24th and the Franklin theatre located at the corner of 24th and Franklin Streets. It is their intention to give the people residing in this neighborhood only, the very finest motion pictures obtainable as well as entirely new vaudeville entertainment, and a new company of musical comedy players.\n\nThe Franklin theatre is closed and will reopen Friday night, March 21st. It is now being retouched, repainted, returned and newly equipped thru-out.\n\nThe Diamond Theatre is still running under the new policy and will be newly decorated while it is in operation.\n\nOn Friday, March 21st for the gala opening event both the\u5267\u9662 will play Robinson's Plantation Band of New Orleans. This is without a doubt, the best received film band in the United"
+    },
+    {
+      "bbox": [
+        381,
+        141,
+        644,
+        426
+      ],
+      "label": "text",
+      "text": "States and it has played some or the finest theatres and dance halls in the country. It is an organization of 10 men and it was only through an enormous expense that they were able to be brought to Omaha for this purpose. Negotiations are under way by the Diamond Theatre Company to secure this same band to play at a dance in Dreamland Hall on Thursday night, March 27th, but it is not certain whether they can be obtained. In addition to the jazz band both theatres will play their regular photoplay attractions so that the patrons will be 'able to see and hear two attractions for the price of one."
+    },
+    {
+      "bbox": [
+        385,
+        446,
+        643,
+        494
+      ],
+      "label": "paragraph_title",
+      "text": "DIAMOND THEATRE\nSECURES \"DOWN TO\nTHE SEA IN SHIPS\""
+    },
+    {
+      "bbox": [
+        382,
+        509,
+        647,
+        1077
+      ],
+      "label": "text",
+      "text": "On Thursday and Friday, March 20 and 21, the Diamond Theatre will play \"Down To The Sea in Ships.\" This is the photoplay which created such a sensation down town when it played at the Sun theatre for two weeks at a 50c admission price. In this picture is shown the capture of a 98 ton bull whale in which three men actually lost their lives. It is by far the most thrilling scene ever photographed and the manufacturers of this photoplay claim that it is the only authentic picture of this kind ever produced. There is a reward of $10,000.00 for anyone who can disprove the facts of this picture.\n\nOn the same two days the Diamond Theatre will start running the famous second series of \"Fighting Blood\" stories. This is a continuation of the first series of \"Fighting Blood\" stories which were so popular in this same theatre. Both of these pictures are shown Thursday and Friday, and on Friday in addition all patrons will have a chance to hear the famous Robinson Jazz Band.\n\nOn Saturday, March 22nd the Diamond Theatre announces \"The Great Mail Robb\u00e9ry,\" a thrilling photoplay which is everything that the name implies and contains every conceivable kind of thrill."
+    },
+    {
+      "bbox": [
+        387,
+        1090,
+        648,
+        1125
+      ],
+      "label": "paragraph_title",
+      "text": "OPENING ATTRACTION\nAT FRANKLIN THEATRE"
+    },
+    {
+      "bbox": [
+        384,
+        1141,
+        653,
+        1627
+      ],
+      "label": "text",
+      "text": "On Saturday, March 22nd, the Franklin Theatre announces as its opening attraction \"The Mask of Lopez,\" direct from its downtown run at advance prices. In this photoplay, a new Western star is featured\u2014Fred Thompson, whom all critics say will soon be one of the leaders. The picture also stars Silver King, the famous $100,000.00 prize white stallion. This horse performs more tricks than Tom Mix's Tony ever heard of, and the picture is one we are sure will meet with the approval of all the Franklin patrons.\n\nOn Sunday, March 23rd, the Franklin Theatre announces a triple program. First the feature picture will be \"The Man from Glengarry,\" a gripping story of the North woods abundant with thrills and sensations. The second will be a brand new comedy by Larry Semon entitled \"Horse Shoes,\" being one of the best he has ever made, and the third will be a new picture starring Leo Maloney, called \"Unsuspecting Strangers.\" All three of these pictures will be shown at one price."
+    },
+    {
+      "bbox": [
+        383,
+        1642,
+        639,
+        1701
+      ],
+      "label": "paragraph_title",
+      "text": "EQUINOCTIAL STORMS ONLY SUPERSTITION"
+    },
+    {
+      "bbox": [
+        383,
+        1642,
+        639,
+        1701
+      ],
+      "label": "doc_title",
+      "text": "EQUINOCTIAL STORMS ONLY SUPERSTITION"
+    },
+    {
+      "bbox": [
+        383,
+        1735,
+        640,
+        1777
+      ],
+      "label": "paragraph_title",
+      "text": "U. S. Weather Bureau Says Belief Is Mythical."
+    },
+    {
+      "bbox": [
+        381,
+        1794,
+        646,
+        2291
+      ],
+      "label": "text",
+      "text": "Washington.\u2014The weather bureau at Washington has just dispelled several common superstitions concerning the weather. In both Europe and America there is an old belief that a severe storm\u2014the so-called \"equinocital storm\" or \"equinoclectal gale\"\u2014is due about the date of either equinox, that is, March 21 or September 22, or more particularly about the date of the autumnal or vernal equinox, says the New York Times.\n\n\"The fallacy of this idea consists in identifying any storm that occurs within a week or several weeks of the equinox as the equinoclectal storm,\" says the bureau. \"Statistics show that there is no maximum of storm frequency either in this country or in Europe close to the date of either equinox. Of course, in the long run storms do occur about these dates, just as they occur at all other times in the year. No reason why storms should be especially frequent around the equinoxes is known to meteorologists.\n\n\"In the United States the belief in the equinoclectal storm as an event of regular occurrence has perhaps been fostered by the fact that West Indian hurricanes are most common in the late summer and early autumn."
+    },
+    {
+      "bbox": [
+        400,
+        2297,
+        606,
+        2310
+      ],
+      "label": "paragraph_title",
+      "text": "Called Equinoctial Anyway."
+    },
+    {
+      "bbox": [
+        381,
+        2313,
+        643,
+        2689
+      ],
+      "label": "text",
+      "text": "Occasionally a severe storm of this character sweeps up our Atlantic seaboard, doing a great deal of damage and attracting general attention. If it happens anywhere near September 23 the event is sure to be heralded as 'the equinoid storm.'\"\n\nCommenting on the moon's influence on the weather, the bureau says:\n\n\"Modern science is unable to find any evidence that the moon affects the weather to an appredible extent, and unable to conceive of any reason why it should. The movements of the atmosphere that give us different kinds of weather all involve the expenditure of an immense amount of energy in the form of heat. Such energy comes to us from the sun, and its varying effects depend mainly upon the varying positions of the earth as it revolves around the sun and rotates on its axis. The moon has no heat of its own. It merely gives us into space that which it receives upon the sun, and a small"
+    },
+    {
+      "bbox": [
+        651,
+        143,
+        908,
+        279
+      ],
+      "label": "text",
+      "text": "fraction of this reaches the earth. The amount of heat we receive from the moon has been measured with very delicate instruments. It is so excessively minute that whatever effect it may have on our atmosphere must be completely swamped and obliterated by the enormously greater effects of solar energy."
+    },
+    {
+      "bbox": [
+        684,
+        285,
+        873,
+        298
+      ],
+      "label": "paragraph_title",
+      "text": "Dry and Wet Moon Myth."
+    },
+    {
+      "bbox": [
+        651,
+        302,
+        910,
+        658
+      ],
+      "label": "text",
+      "text": "\"It is true that the pull of the moon and the sun upon the atmosphere produces a tide in the atmosphere much like a tide in the ocean. But this, too, has been measured and it is found to be insignificant compared with the alternate expanding and shrinking of the atmosphere due to heating by day and cooling by night\u2014the 'heat tide', so to speak. Hence it is of no practical interest.\n\n\"The belief in 'dry' and 'wet' moons, indicated by the position of the lunar crescent in the evening sky, and a host of other notions associating the moon with the weather, are merely idle superstitions. Moonlight is sometimes said to be conductive to frosts. The fact is that moonlight nights also are clear nights, and it is the absence of clouds, not the presence of the moon, that favors the occurrence of frosts by permitting a rapid loss of heat from the earth.\""
+    },
+    {
+      "bbox": [
+        654,
+        678,
+        910,
+        716
+      ],
+      "label": "paragraph_title",
+      "text": "New Brazilian Law Safeguards Inventions"
+    },
+    {
+      "bbox": [
+        652,
+        720,
+        913,
+        975
+      ],
+      "label": "text",
+      "text": "Rio de Janeiro.\u2014A new law governing patents on inventions went into effect in Brazil recently. In the words of the minister of agriculture, commerce and industry, who proposed the change, it \"will protect the public as well as the inventor.\" Under the former law, patents were registered in each of the 21 Brazilian states and if the inventor failed to register his rights in any state he received no protection in that state. The new law requires one registration with the federal government. The new law is expected to be of special service to foreign manufacturers."
+    },
+    {
+      "bbox": [
+        698,
+        993,
+        871,
+        1008
+      ],
+      "label": "paragraph_title",
+      "text": "Urged to Grow Flax"
+    },
+    {
+      "bbox": [
+        656,
+        1011,
+        913,
+        1384
+      ],
+      "label": "text",
+      "text": "St. Paul, Minn.\u2014Manufacturers of flax products of the United States appealed to agricultural educators of the Northwest in a conference here to urge farmers to grow more flax. It was agreed that flax has a place in the system of crop rotation and that the present good market for the product makes it a crop worth raising.\n\nLuck, Wyo.\u2014We have so many rattlesnakes that when I hear a hen cackle I have to race to her nest to get the egg before a snake gets there.\" Thus declared Mrs. Huston Sowers, who runs a farm here, in appealing to the state for a \"snake hunter.\" Mrs. Sowers declares that 500 rattlesnakes have been killed on her farm during the last nine years. The state biological survey has promised to take action."
+    },
+    {
+      "bbox": [
+        683,
+        1393,
+        884,
+        1439
+      ],
+      "label": "paragraph_title",
+      "text": "Franklin Theatre Under New Management"
+    },
+    {
+      "bbox": [
+        669,
+        1455,
+        895,
+        1525
+      ],
+      "label": "text",
+      "text": "FRIDAY NIGHT, March 21\nROBINSON'S\nPLANTATION BAND OF\nNEW ORLEANS"
+    },
+    {
+      "bbox": [
+        651,
+        1581,
+        913,
+        1981
+      ],
+      "label": "text",
+      "text": "SATURDAY, MARCH 22\n\"The Mark of Lopez\"\nA thrilling western feature\nwith FRED THOMPSON\nand \"SILVER KING\", the\ngreatest of stunt horses.\nAlso CHAS MURRAY in\n\"A Social Error\"\nSUNDAY, MARCH 23\nTHREE FEATURES\n\"Man From Glengarry\"\n6-reel story of north woods.\nLARRY SEMON in\n\"Horse Shoes\"\nLEO MALONEY in\n\"Unsuspecting Strangers\"\nCOMING\n\"Breaking Home Ties\""
+    },
+    {
+      "bbox": [
+        917,
+        161,
+        1173,
+        284
+      ],
+      "label": "text",
+      "text": "Tokyo\u2014The long saber of the Japanese policeman, an unwieldy weapon in a \"rough and tumble,\" is to be replaced by a revolver and short sword. The regulations announce that the revolver shall be used only for purposes of self-defense or against prisoners attempting to escape."
+    },
+    {
+      "bbox": [
+        960,
+        303,
+        1132,
+        322
+      ],
+      "label": "paragraph_title",
+      "text": "Sweden Electrified"
+    },
+    {
+      "bbox": [
+        915,
+        326,
+        1176,
+        661
+      ],
+      "label": "text",
+      "text": "Stockholm\u2014Sweden has bought her last steam locomotive. She expects to electrify all of her railway lines within ten years, the operating power to be developed almost entirely from the many waterfalls of the country.\n\nASK YOUR MERCHANT OR THOSE FROM WHOM YOU BUY\nWHY HE DOES NOT ADVERTISE IN YOUR NEWSPAPER.\n\nPHONE JACKSON 0064\nE. A. NIELSEN\nUPHOLSTERING CO.\nCABINET SHOP-FURNITURE\nREPAIR AND REFINISHING\nBox Spring and Mattress Work\n1913-15 Cuming St., Omaha, Nebr."
+    },
+    {
+      "bbox": [
+        943,
+        1240,
+        1154,
+        1382
+      ],
+      "label": "text",
+      "text": "Stoul Women\nNemo Self-Reducing No. 333 is a real bargain. It has a low top and medium skirt. Made in durable pink or white cowl; sizes 24 to 36 and costs only $3.00.\nIf your dealer can't get it, send name, address, and $3.00. We'll send the correct.\nNemo Hygienic-Fashion Institute"
+    },
+    {
+      "bbox": [
+        944,
+        1246,
+        1153,
+        1317
+      ],
+      "label": "text",
+      "text": "STOCK WORKER\nNemo Self-Reducing No. 333\nis a real bargain. It has a low top\nand medium skirt. Made in durable\npink or white cowl; sizes\n24 to 36; and costs only $13.00."
+    },
+    {
+      "bbox": [
+        941,
+        1426,
+        1152,
+        1442
+      ],
+      "label": "paragraph_title",
+      "text": "JOHN ADAMS, ATTORNEY"
+    },
+    {
+      "bbox": [
+        911,
+        1451,
+        1179,
+        1531
+      ],
+      "label": "text",
+      "text": "Notice by Publication on Petition for Settlement of Final Administration Account.\n\nIn the County Court of Douglas County, Nebraska"
+    },
+    {
+      "bbox": [
+        901,
+        1529,
+        1177,
+        2194
+      ],
+      "label": "text",
+      "text": "In the Matter of the Estate of Jennie M. Kinney, deceased: all persons interested in said matter are hereby notified that on the 11th day of March, 1924, Horace J. Kinney filed a petition in said County Court praying that his final administration account filed herein be settled and allowed, and that he be discharged from his trust as administrator, that a hearing will be had on said petition before said Court on the 29th day of March, 1924, and that if you tain to appear before said Court on the 29th day of March, 1924 at 9 o'clock A. M., and contest said petition, the Court may grant the prayer of said petition, enter a decree of heirship, and make such other and further orders, allowances and decrees, as to this Court may seem proper, to the end that all matters pertaining to said estate may be finally settled and determined.\n\nBRYCE CRAWFORD,\n2t-3-14-24\nCounty Judge.\n\nED. F. MOREARTY\nAttorney-at-Law\n700 Peters Trust Building\nNOTICE OF SERVICE BY PUBLICATION\nTo William Nelson, Non-Resident Defendant:\nYou are hereby notified that Callie Nelson, your wife and the plaintiff herein, filed her petition in the District Court of Douglas County, Nebraska, on the 19th day of November, 1923, to obtain an absolute decree of divorce from you on the grounds of extreme cruelty, desertion and non-support. You are required to answer said petition on or before March 29, 1924."
+    },
+    {
+      "bbox": [
+        1195,
+        533,
+        1432,
+        568
+      ],
+      "label": "text",
+      "text": "GOOD LOOKING HAIR\nFOR EVERY MAN"
+    },
+    {
+      "bbox": [
+        1192,
+        621,
+        1336,
+        710
+      ],
+      "label": "text",
+      "text": "Makes hair lie straight, smooth gives beautiful gloss; nourishes, encounters growth. Used by well-dressed, particular stilts-clas Bar Shop Hair."
+    },
+    {
+      "bbox": [
+        1251,
+        870,
+        1385,
+        886
+      ],
+      "label": "paragraph_title",
+      "text": "ANNOUNCEMENT"
+    },
+    {
+      "bbox": [
+        1183,
+        906,
+        1445,
+        1209
+      ],
+      "label": "text",
+      "text": "We wish to announce the opening of a Branch Office at the North Side Bazaar, 2114 No. 24th St.\n\nMr. J. E. Smith, formerly associated with Electric Appliances in Toronto, Canada, is in charge. Mr. Smith has had fifteen years experience and is an authority on household devices. His specialty is the American Classic Washing Machine and the HamiltonBeach Vacuum Cleaner.\n\nMr. Smith stands ready and willing to supply your every need and you will find him a most courteous gentleman.\n\nCome in and get acquainted. Demonstrations gladly given upon request. Phone Webbler 5566.\u2014Adv."
+    },
+    {
+      "bbox": [
+        1244,
+        1232,
+        1388,
+        1257
+      ],
+      "label": "paragraph_title",
+      "text": "For Rent"
+    },
+    {
+      "bbox": [
+        1188,
+        1458,
+        1445,
+        1526
+      ],
+      "label": "text",
+      "text": "FOR RENT\u2014Hall for any purpose.\nSeating capacity 250. 1513 North\nTwenty-fourth street. WEbster 4330.\n\u20142-29-24."
+    },
+    {
+      "bbox": [
+        1184,
+        1616,
+        1445,
+        2154
+      ],
+      "label": "text",
+      "text": "FOR RENT\u2014Room in private home. Modern. One block from car line. WEBster 1888.\u20142-1-24.\n\nFOR RENT\u20146 room steam heated apartments. Well arranged. $35.00. For rental call Western Real Estate Co., 414 Karbach Blk., Jackson 3607, Eugene Thomas, Mgr.\n\nFOR RENT\u2014Rooms, strictly modern. One block from Dodge and Twenty-fourth street car lines. WEBster 5652.\u20141-11-24.\n\nFOR RENT\u2014Furnished rooms for rent, in a modern home, one block from car line. Webster 1760.\n\nFOR RENT\u2014Nice room in modern home, near car line. Web 4281 2t\n\nFOR RENT\u2014Beautiful front room in private home. Home privilege. WEBster 5880.\n\nFOR RENT\u2014Modern furnished rooms. Steam heat. Close in. On two car lines. Mrs. Anna Banks. 924 North Twentieth street. Jackson 4379\n\nFOR RENT\u2014Furnished room, strictly modern in private home. WEBster 4730.\u20142t. 2-1524."
+    },
+    {
+      "bbox": [
+        1212,
+        2174,
+        1412,
+        2204
+      ],
+      "label": "paragraph_title",
+      "text": "Help Wanted"
+    },
+    {
+      "bbox": [
+        1183,
+        2218,
+        1443,
+        2349
+      ],
+      "label": "text",
+      "text": "WANTED\u2014Colored men to qualify for sleeping car and train porters. Experience unnecessary, transportation furnished. Write T. McGaffrey, Supt. St. Louis, Mo.\n\nWanted\u2014Wide awake boys to sell The Monitor every Saturday."
+    },
+    {
+      "bbox": [
+        1210,
+        2368,
+        1422,
+        2392
+      ],
+      "label": "paragraph_title",
+      "text": "Miscellaneous"
+    },
+    {
+      "bbox": [
+        1181,
+        2407,
+        1443,
+        2555
+      ],
+      "label": "text",
+      "text": "Madame A. C. Whitley, agent for\nthe Madam South and Johnson hair\nsystem, wishes to announce to her\nmany friends and patrons that she\nhas moved to 2724 Miami street. Tel.\nWebster 2087.\u2014Adv.\n\nWILL CARE FOR CHILDREN during\nday. Webster 5660."
+    },
+    {
+      "bbox": [
+        1181,
+        2609,
+        1442,
+        2694
+      ],
+      "label": "text",
+      "text": "FOR SALE\u2014Strictly modern five-\nroom bungalow. Oak finish. Built-in\nbook case and kitchen cabinet. Full\nbasement. Two-car garage. $4,800\n$800 down. Call WEBster 5379."
+    },
+    {
+      "bbox": [
+        1449,
+        758,
+        1975,
+        848
+      ],
+      "label": "text",
+      "text": "GEORGE NIBLO of Niblo & Spencer in \"Step On It\" at the popular Gayety twice daily all next week. A most extraordinary added attraction is the world's master magician, Horace Goldin, in \"Radio Film Telepathy\"."
+    },
+    {
+      "bbox": [
+        1520,
+        900,
+        1906,
+        1208
+      ],
+      "label": "doc_title",
+      "text": "To Avoid Pyorrhea Use DENTLO PYORRHEA PREVENTIVE TOOTH PASTE 25c--2 oz. Tube"
+    },
+    {
+      "bbox": [
+        1623,
+        1376,
+        1809,
+        1422
+      ],
+      "label": "text",
+      "text": "(A Race Enterprise) OMAHA, NEBRASKA"
+    },
+    {
+      "bbox": [
+        1577,
+        1505,
+        1857,
+        1553
+      ],
+      "label": "text",
+      "text": "ASK FOR IT AT DRUG STORES TAKE NO SUBSTITUTE"
+    },
+    {
+      "bbox": [
+        1452,
+        1589,
+        1976,
+        1734
+      ],
+      "label": "text",
+      "text": "Advertising in The Monitor Is Bound to Bring Results LET US PAY YOU 6% ON SAVINGS We Treat You Right STATE SAVINGS & LOAN ASSOCIATION 315 South 17th Street Keeline Building"
+    },
+    {
+      "bbox": [
+        1480,
+        1675,
+        1952,
+        1733
+      ],
+      "label": "text",
+      "text": "We Treat You Right\nSTATE SAVINGS & LOAN ASSOCIATION\n315 South 17th Street Keeline Building"
+    },
+    {
+      "bbox": [
+        1451,
+        2196,
+        1974,
+        2221
+      ],
+      "label": "text",
+      "text": "Race People Read The Monitor\u2014They'll Read YOUR Ad"
+    },
+    {
+      "bbox": [
+        1450,
+        2397,
+        1974,
+        2694
+      ],
+      "label": "text",
+      "text": "Race People Read The Monitor\u2014They'll Read YOUR Ad\n\nFRANKLIN SHOE HOSPITAL\nhas many satisfied customers.Give us a trial. All work guaranteed.\nOUR PRICES ARE THE LOWEST\n1627 No. 24th St. WEbster 2802\n\nThe Monitor Is Fighting YOUR BATTLES\u2014BOOST IT!\n\nREID-DUFFY PHARMACY\nFREE DELIVERY\n24th and Lake Streets Phone WE bster 0609"
+    }
+  ]
+}
