@@ -1,0 +1,608 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 2140,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        112,
+        111,
+        379,
+        627
+      ],
+      "label": "text",
+      "text": "MRS. MATTIE E. WINN\nMrs. Mattie E. Winn, the successful Divine Healer who has healed people from all parts of the state. She says:\n\"When they come to me sick, they go away well, giving God the praise. I cured Mr. Agee, who had been paralyzed for three years; Mrs. Seidler of Dewitt, Mo., and many others who came to my home at Tripplett, Mo. And all that are sick can come to me between the hours of 8:00 a. m. and 6:00 p. m. and be healed. My address is Box 88, Tripplett, Mo.\"\u2014adv.\n\nNOTICE TO REAL ESTATE BUYERS-COUNSEL FREE.\nHave you made up your mind to buy? Have you saved up $100 or $200? Do you want the best bargain you can get for your savings and enjoy it paying for your home as you would pay rent? Ask Wm. Hopkins. He will give you sound and reliable information free. Has the best knowledge of property values in Greater Kansas City and will gladly help you. Free consultation. Absolutely no charges. I make it my business to list property for sale to colored folks at the lowest figures for your money. I show you the property and let you find out for yourself. Bell phone East 3851W.\n\nWM. HOPKINS."
+    },
+    {
+      "bbox": [
+        296,
+        658,
+        379,
+        674
+      ],
+      "label": "text",
+      "text": "Joe Dimery"
+    },
+    {
+      "bbox": [
+        120,
+        711,
+        382,
+        754
+      ],
+      "label": "paragraph_title",
+      "text": "TempleBarberShop"
+    },
+    {
+      "bbox": [
+        119,
+        779,
+        382,
+        897
+      ],
+      "label": "text",
+      "text": "SERVICE FIRST-CLASS IN EVERY\nPARTICULAR\n\nScott & Dimery, Props.\n\n1802\u00bd E. 18th St., Kansas City, Mo."
+    },
+    {
+      "bbox": [
+        127,
+        934,
+        373,
+        1044
+      ],
+      "label": "text",
+      "text": "Mme. Benton Dean, the popular milliner, is now at 1010 Troost avenue, where she is elegantly located and will be extremely pleased to meet her many friends and customers at that number. Belle phone Main 2102J."
+    },
+    {
+      "bbox": [
+        120,
+        1078,
+        382,
+        1156
+      ],
+      "label": "text",
+      "text": "TYPEWRITING DONE at Kansas City Son office, 1803 East Eighteenth street. Neat, quick work. Rates reasonable. Engagements by appointment. Bell phone E999."
+    },
+    {
+      "bbox": [
+        138,
+        1381,
+        370,
+        1617
+      ],
+      "label": "text",
+      "text": "I am prepared to offer the public the best dressmaking, tailoring, drafting and fitting.\n\nGraduate of one of the best white downtown colleges.\n\nWill also teach Drafting.\n\nBell Phone East 3413 M\n\nMrs. Lillie Williams\n2914 Woodland Avenue\nKANSAS CITY, MISOURI"
+    },
+    {
+      "bbox": [
+        124,
+        1660,
+        388,
+        1682
+      ],
+      "label": "paragraph_title",
+      "text": "Our Motto: \"Nothing but The Best\""
+    },
+    {
+      "bbox": [
+        127,
+        1777,
+        386,
+        1927
+      ],
+      "label": "text",
+      "text": "Everything in Flowers and Flower Designs\n\n\"WE DELIVER THE GOODS\"\n\nThe People say we have made some of the most beautiful and original designs in flowers ever seen in Kansas City."
+    },
+    {
+      "bbox": [
+        128,
+        2017,
+        391,
+        2405
+      ],
+      "label": "text",
+      "text": "CHEAP\nJOHN'S\nPLACE\nNew and Second Hand\nGoods Bought, Sold and\nExchanged\nBell Phone East 8851 W\n2122 Vine Street\nWM. HOPKINS, Prop."
+    },
+    {
+      "bbox": [
+        144,
+        2219,
+        382,
+        2403
+      ],
+      "label": "text",
+      "text": "New and Second Hand Goods Bought, Sold and Exchanged\nBell Phone East 3851 W\n2122 Vine Street\nWM. HOPKINS, Prop."
+    },
+    {
+      "bbox": [
+        126,
+        2441,
+        398,
+        2678
+      ],
+      "label": "text",
+      "text": "J.C.WAGNER\nThe Clean Market Man\nOysters, Fish and Game in\nSeason.\nFancy Groceries and all Table\nLuxuries.\nCourteous Treatment to All.\n1819 Howard Ave.\nBell Phone 3596 East\nKansas City. Mier jurl"
+    },
+    {
+      "bbox": [
+        398,
+        151,
+        902,
+        186
+      ],
+      "label": "doc_title",
+      "text": "Negro Business League of Kansas City"
+    },
+    {
+      "bbox": [
+        386,
+        199,
+        916,
+        253
+      ],
+      "label": "text",
+      "text": "Meets First and Third Thursday in Each Month, 1803 E. 18th Street.\nF. J. Weaver, President. E. A. Robinson, Secretary.\nMembers will please report any mistake or change of address to the Secretary or Editor of The Sun."
+    },
+    {
+      "bbox": [
+        392,
+        845,
+        651,
+        926
+      ],
+      "label": "text",
+      "text": "MUSICIANS.\nWinston Holmes, Piano Tuner, 2221\nMichigan, Home Phone 5314 Main.\n\nBell Phone E. 4394Y"
+    },
+    {
+      "bbox": [
+        390,
+        957,
+        920,
+        1010
+      ],
+      "label": "paragraph_title",
+      "text": "THE Modern Builders Co."
+    },
+    {
+      "bbox": [
+        519,
+        1029,
+        792,
+        1054
+      ],
+      "label": "text",
+      "text": "A. E. ESTES, President"
+    },
+    {
+      "bbox": [
+        451,
+        1197,
+        855,
+        1225
+      ],
+      "label": "text",
+      "text": "SATISFACTION GUARANTEED"
+    },
+    {
+      "bbox": [
+        429,
+        1292,
+        890,
+        1332
+      ],
+      "label": "paragraph_title",
+      "text": "MISS WILLA M. GLENN"
+    },
+    {
+      "bbox": [
+        417,
+        1361,
+        903,
+        1509
+      ],
+      "label": "text",
+      "text": "SCHOOL OF STENOGRAPHY AND TYPEWRITING Rates Reasonable. Enroll Now. Persons Not Eligible Who Have Not Finished the Grade Schools or the Equivalent."
+    },
+    {
+      "bbox": [
+        395,
+        1555,
+        916,
+        1575
+      ],
+      "label": "text",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        562,
+        1710,
+        765,
+        1751
+      ],
+      "label": "text",
+      "text": "MEALS AT ALL HOURS\n15 Cents and Up"
+    },
+    {
+      "bbox": [
+        505,
+        2041,
+        1637,
+        2163
+      ],
+      "label": "doc_title",
+      "text": "Kansas City Sun"
+    },
+    {
+      "bbox": [
+        505,
+        2215,
+        1633,
+        2342
+      ],
+      "label": "doc_title",
+      "text": "One Year for ONE DOLLAR and FIFTY CENTS, cash or credit."
+    },
+    {
+      "bbox": [
+        452,
+        2590,
+        835,
+        2634
+      ],
+      "label": "text",
+      "text": "1803 East 18th Street."
+    },
+    {
+      "bbox": [
+        657,
+        286,
+        922,
+        926
+      ],
+      "label": "text",
+      "text": "LAWYERS.\nW. C. Hueston, 601 Delaware.\nC. H. Calloway, 601 Delaware\u2014Phone Home 58 Main.\nNEWSPAPERS.\nKansas City Sun, 61 C. Crews, Editor, 1803 E. 18th street\u2014Bell East 999.\nPAINTERS AND PAPER HANGERS.\nT. H. Bailey, 911 McGee street\u2014Bell phone, Main 751.\nPOOL HALLS.\nWm. Dabbs, 1221 Baltimore avenue.\nPRINTERS.\nC. A. Franklin, 1008 E. 18th street.\nREAL ESTATE.\nColored Peoples Investment Co., 2427 Vine street\u2014Phones, Bell 1011 East; Home 2903 Main. Solomon Smith, president.\nJ. Dallas Bowser, 2400 Paseo\u2014BeBill Grand 3795W.\nAfro-American Investment Co., F. J. Weaver, President, 911 McGee street\u2014Bell phone Main 751; Home phone Main 7555.\nMary Mitchell, 2608 Highland.\nWm. Johnson, 911 McGee street, Afro-American Investment Co., phones.\nSHOE STORE.\nTemple Shoe Store, G. A. Page, Prop., 1507 E. 18th street.\nTHEATRES.\nJ. L. Williams, 12th and Highland.\nTRANSFERS.\nA. B. Hunn, 7th and May streets\u2014Phones Home Main 7261.\nUNDERTAKERS.\nE. C. Jones, 1211 E. 18 street, Bell Grand 1565.\n\nOffice 2460 W. Idron Ave"
+    },
+    {
+      "bbox": [
+        647,
+        2523,
+        1205,
+        2568
+      ],
+      "label": "text",
+      "text": "Call us, write, or see our agents."
+    },
+    {
+      "bbox": [
+        973,
+        2590,
+        1700,
+        2637
+      ],
+      "label": "text",
+      "text": "NELSON C. CREWS, Editor and Owner."
+    },
+    {
+      "bbox": [
+        921,
+        100,
+        1192,
+        970
+      ],
+      "label": "text",
+      "text": "NOTES ON RACIAL PROGRESS.\n\nFurnished by the National Negro Business League.\n\nThe Page Shoe tSore is a thriving Negro enterprise of Kansas City, Missouri.\n\nThe American Negro Academy held its eighteenth annual meeting in Washington, District of oClumbia, last week.\n\nR. C. Houston of Dallas, Texas, has been appointed Treasurer of the Texas Grand Lodge of Masons to fill the unexpired term of the late Dr. W. T. Hughes.\n\nMrs. Odessa Warren Grey, of New York City, and one of the race's best known and most artistic milliners, has moved into new and larger quarters at 2221 Seventh Avenue. Mrs. Grey is said to have a large patronage;e among Broadway actresses.\n\nThe North Carolina Mutual and Provident Association, of Durham, North Carolina, has just closed its 1914 records with the following figures: total business for the year, $400,000.00; increase over 1913 $50,000.00; amount paid to policy-holders, $200,000.00.\n\nTwo colored boys, James Jeter and Edward Allen, of Little Rock, Arkansas, joined the Savings Club of the Union Trust Company of that city and saved over $100.00 since January 7, 1914. These boys have a joint shoe-cleaning stand which they run after school hours. Aside from saving this money, they have bought their own clothes and school books.\n\nThe assessed value of colored people's property in Brooks County, Georgia, is $556,977.00. In the Dixie district of this county, an industrial school under Miss Lillie Gaines and the Simon Hill Baptist Church, under Rev. W. F. Tarver, have done much to develop habits of thrift and economy among the colored people. This year they have six (6) Corn and Tomato Clubs and have put up 3,900 jars and cans of these products."
+    },
+    {
+      "bbox": [
+        997,
+        985,
+        1123,
+        1004
+      ],
+      "label": "paragraph_title",
+      "text": "\"OVER THERE.\""
+    },
+    {
+      "bbox": [
+        930,
+        1016,
+        1191,
+        1078
+      ],
+      "label": "text",
+      "text": "They say there's a land o'er the ocean\nWhere wonders and beauties are sen;\nThey say it's a glorious Eden.\nWhere none but the blessed convene"
+    },
+    {
+      "bbox": [
+        929,
+        1317,
+        1194,
+        1382
+      ],
+      "label": "text",
+      "text": "Then let us prepare for the journey,\nLet our hearts be kept loyal and true;\nThen the Saviour will watch and protect us,"
+    },
+    {
+      "bbox": [
+        933,
+        1379,
+        1194,
+        1437
+      ],
+      "label": "text",
+      "text": "'Till the mansions of heaven we view.\n\n* * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\n\n* ANNOUNCEMENT. *"
+    },
+    {
+      "bbox": [
+        934,
+        1432,
+        1196,
+        1817
+      ],
+      "label": "text",
+      "text": "ANNOUNCEMENT.\n\n* Dr. T. C. Unthank desires to an-\nnounce to his patrons and the\npublic in general that he has sold\nhis drug store to Cooper & Good-\nson; but by virtue of their agree-\nment he will retain for the next\ntwo years his office there at 931\nIndependence avenue.\n\n* Thanking you one and all for\nyour patronage during the past\nyear and a half, I remain\n\n* Faithfully\n\n* T. C. UNTHANK, M. D.\n\nWe will send the Sun for 1915 to\nany address in the United States for\n$1.00, if ordered now and accompanied\nby the cash.\n\nThose sojourning or living in Chic-\nicago will find the Sun on sale at Mr.\nW. H. Robinson's place, 1937 West\nLake street, or A. D. Hayes, 3640 S.\nState street."
+    },
+    {
+      "bbox": [
+        1501,
+        207,
+        1716,
+        288
+      ],
+      "label": "text",
+      "text": "Kelley's Best Beat all the Rest."
+    },
+    {
+      "bbox": [
+        1498,
+        319,
+        1717,
+        384
+      ],
+      "label": "text",
+      "text": "Kelley Milling Co.\nK.C., U.S.A."
+    },
+    {
+      "bbox": [
+        1195,
+        475,
+        1726,
+        564
+      ],
+      "label": "text",
+      "text": "Property of All Kinds For Sale In Both Kansas Citys and Topeka TERMS TO SUIT"
+    },
+    {
+      "bbox": [
+        1198,
+        632,
+        1724,
+        737
+      ],
+      "label": "text",
+      "text": "Main Office: 400 Haskell Ave., Kansas City, Kas.\nBELL PHONE WEST 644\nBranch Office: Portsmouth Bidg., Sixth and Minnesota Ave.\nBranch Office, Topeka, Kas.: 410 Kansas Ave."
+    },
+    {
+      "bbox": [
+        1221,
+        765,
+        1707,
+        830
+      ],
+      "label": "paragraph_title",
+      "text": "Expert Dental Specialists"
+    },
+    {
+      "bbox": [
+        1221,
+        765,
+        1707,
+        830
+      ],
+      "label": "doc_title",
+      "text": "Expert Dental Specialists"
+    },
+    {
+      "bbox": [
+        1307,
+        838,
+        1578,
+        865
+      ],
+      "label": "paragraph_title",
+      "text": "OF KANSAS CITY."
+    },
+    {
+      "bbox": [
+        1201,
+        877,
+        1728,
+        1036
+      ],
+      "label": "text",
+      "text": "Our work has stood the test. We have been doing high alms guaranteed. Dental Work for the past 26 years. We have thousands of satisfied patients.\n\nRemember, in Business 20 Years\nAll work kept in repair free of charge.\n\nSAVE MONEY EXAMINATION FREE GET THE BEST\nAll work guaranteed 20 years\n\nThe doctor who extracts your teeth here has undoubtedly had more experience in this line than any other dentist in the city, so you get the most expensive service. Painless Extracting. $2a."
+    },
+    {
+      "bbox": [
+        1506,
+        1045,
+        1653,
+        1061
+      ],
+      "label": "paragraph_title",
+      "text": "BRIDGE WORK"
+    },
+    {
+      "bbox": [
+        1206,
+        1061,
+        1729,
+        1221
+      ],
+      "label": "text",
+      "text": "Spaces where from one to ten teeth have been lost we replace with bridge work. It looks the same as natural teeth, lasts a half-time and requires no plato. Broken down teeth we restore to beauty and usefulness with crowns of porcelain and gold.\n\nGold Crowns $3, $4 and $8\nSilver Fillings, 75c. and $1\nWhite Crowns $3, $4 and $8\nPlatina Fillings $8"
+    },
+    {
+      "bbox": [
+        1221,
+        1250,
+        1693,
+        1284
+      ],
+      "label": "paragraph_title",
+      "text": "NEW YORK DENTAL CO"
+    },
+    {
+      "bbox": [
+        1204,
+        1288,
+        1733,
+        1330
+      ],
+      "label": "text",
+      "text": "New Location 1017-19 Walnut St. Over Jaccard's Jewelry store, 1 door north Emery, Bird, Thayer Co"
+    },
+    {
+      "bbox": [
+        1259,
+        1432,
+        1676,
+        1549
+      ],
+      "label": "text",
+      "text": "AUTO LIVERY By the Trip or Hour CALLS ANSWERED PROMPTLY DAY OR NIGHT."
+    },
+    {
+      "bbox": [
+        1210,
+        1535,
+        1732,
+        1640
+      ],
+      "label": "text",
+      "text": "CALLS ANSWERED PROMPTLY DAY OR NIGHT.\n$2.00 per Hour\n5-PASSENGER PREMIER SERVICE.\nBell Phone East 4079.\n1415 VINE STREET,\nKANSAS CITY, MO."
+    },
+    {
+      "bbox": [
+        1277,
+        1680,
+        1663,
+        1712
+      ],
+      "label": "paragraph_title",
+      "text": "H. L. KINSLER"
+    },
+    {
+      "bbox": [
+        1203,
+        1715,
+        1734,
+        1813
+      ],
+      "label": "text",
+      "text": "RENTAL AND REAL ESTATE AGENT\nHave homes to sell or rent, also modern furnished rooms in flats.\n916-18 EAST 21st STREET\nIn therear of these flats we have furnished and unfurnished rooms for light\nhousekeeping and cheap living quarters.\nBell Phone Grand 2303R. Home Phone Main 6516"
+    },
+    {
+      "bbox": [
+        1740,
+        104,
+        1948,
+        147
+      ],
+      "label": "paragraph_title",
+      "text": "A. F. and A. M.\nMissouri Jurisdiction"
+    },
+    {
+      "bbox": [
+        1731,
+        151,
+        2002,
+        1009
+      ],
+      "label": "text",
+      "text": "Officers\u20141914'15.\nN. C. Crews, Kansas City, Grand Master.\nDeputy Grand Master, Richard Young, Lincoln, Neb.\nF. J. Brown, St. Louis, Grand Senior Warden.\nWm. Green, Plattsburg, Grand Junior Warden.\nH. H. Walker, St. Joseph, Grand Treasurer.\nGeo. W. K. Love, Grand Secretary, Kansas City, Mo.\nW. W. Fields, Secretary of Masonio Relief, Cameron, Mo.\nP. L. Pratt, Kansas City, Mo., Grand Lecturer.\n\nGrand Commandery Officers.\nW. G. Mosely, Kansas City, Mo., R. E. G. C.\nJ. H. Sherwood, St. Paul, Minn., G. E. G.\nP. C. Kincald, Kansas City, Mo., V. E. G. C.\nJ. W. Beard, St. Louis, Mo., E. G. C. G.\nWm. Roberts, Hannibal, Mo., Grand Secretary.\nT. P. Mahammitt, Grand Treasurer, Omaha, Neb.\n\nGrand Chapter Officers.\nGeo. Broomfield, G. H. P., St. Louis, Mo.\nT. G. McCampbell, D. G. H. P., Kansas City.\nA. L. Thomas, G. K., Jefferson City, Mo.\nJ. P. Mofitte, G. S., Sedalla, Mo.\nChas. Griggsby, G. Treas., Liberty, Mo.\nE. S. Baker, G. Sec'y, Kansas City, Mo.\n\nMASONIC BUILDING ASSOCIATION MEMBERS.\nR. T. Coles, Chairman.\nE. S. Baker, Secretary,\nR. W. Foster, Treasurer.\nW. C. Mallory, Sandy Meyers,\nWm. Washington, F. P. Porteet,\nT. W. H. Williams, W. G. Moseley,\nJ. E. Herriford, E. G. Lacey,\nW. C. Miller, Robt. Wiley."
+    },
+    {
+      "bbox": [
+        1748,
+        1038,
+        1993,
+        1074
+      ],
+      "label": "paragraph_title",
+      "text": "Lodge Directory"
+    },
+    {
+      "bbox": [
+        1800,
+        1111,
+        2006,
+        1451
+      ],
+      "label": "text",
+      "text": "Pritchard Lodge No. 42, A. F. and A. M. meets the 2nd and 3rd Master Masons in good standing welcome. R. Greer, W. M.; J. H. Sniginer, Sec'y.\n\nRone Lodge No. 25, A. F. and A. M. meets the 1st and 2nd Master Masons in good standing welcome. Master Masons in good standing welcome. F. W. Glilmore, W. M.; T. J. McCampbell, Sec'y.\n\nMt. Olive Lodge No. 53, A. F. and A. M. meets the 2nd and 4th Friday in every month. Visiting Master Masons are welcome. Jackson, W. M. Frank Lowe, Secretary, 1818 Baltimore Ave.\n\nU. B. F.\nKing of the West Lodge No. 218 meets first and third Mondays in each month at 563 W. M., 1718 Euclid, Jas. Har, Sec'y, 1732 Woodland Ave."
+    },
+    {
+      "bbox": [
+        1764,
+        1482,
+        1986,
+        1498
+      ],
+      "label": "paragraph_title",
+      "text": "ADVERTISE YOUR SOCIETY."
+    },
+    {
+      "bbox": [
+        1743,
+        1504,
+        2007,
+        1734
+      ],
+      "label": "text",
+      "text": "We would like to see every lodge and society in Kansas City put their cards in The Sun. It is the most popular way to let the world know who you are, when and where you meet and your object and purpose. For the next month we will make special announcements to have you put in your lodge or society list of of officers in this paper.\n\nOffice Hours\n8 to 12 m. & 1 to 5 p. m.\nSunday by Appointment\nBell Grand 2553W"
+    },
+    {
+      "bbox": [
+        1749,
+        1779,
+        2008,
+        1860
+      ],
+      "label": "text",
+      "text": "DENTIST\nGold Crown, Bridges and\nPlates A Specialty\nPainless Extraction\n716 12th St. Kansas City, Mo"
+    },
+    {
+      "bbox": [
+        1756,
+        1910,
+        2003,
+        2176
+      ],
+      "label": "text",
+      "text": "Mrs. C. A. Smith\nhas opened a branch office of\nMRS. S. BEDFORD'S\n\nWonderful Hair Grower &\nScalp Treatment\nThis treatment has proved to be a\nwonderful success. Mrs. Smith will\nreceive patients for treatment from\nFrom 8:30 a.m. to 6:00 p.m. at\nher residence. 11th and Highland\nEvery ingredient used on the hair\nis perfectly safe and\n\nGuaranteed to Give Satisfaction\n\nBell Phone, East 4975."
+    },
+    {
+      "bbox": [
+        1773,
+        2219,
+        1997,
+        2260
+      ],
+      "label": "text",
+      "text": "Best Shine in K.C."
+    },
+    {
+      "bbox": [
+        1773,
+        2428,
+        2003,
+        2661
+      ],
+      "label": "text",
+      "text": "AGENCY FOR\nThe Kansas City Son.\nThe Crisis,\nThe New York Age,\nThe Freeman\nand All Daily Papers\nIce Cream and Soda\nCigars and Tobacco\nHENRY SHUMAKER\n1702 East 18th St."
+    }
+  ]
+}

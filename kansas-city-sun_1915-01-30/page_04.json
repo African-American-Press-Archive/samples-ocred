@@ -1,0 +1,818 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2116,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        126,
+        161,
+        389,
+        217
+      ],
+      "label": "doc_title",
+      "text": "THE KANSAS CITY SUN PUBLISHED WEEKLY."
+    },
+    {
+      "bbox": [
+        126,
+        233,
+        389,
+        267
+      ],
+      "label": "text",
+      "text": "All communications should be addressed to the Kansas City Sun, 1803 East 18th Street."
+    },
+    {
+      "bbox": [
+        192,
+        266,
+        324,
+        279
+      ],
+      "label": "paragraph_title",
+      "text": "Bell Phone East 999."
+    },
+    {
+      "bbox": [
+        125,
+        289,
+        387,
+        502
+      ],
+      "label": "text",
+      "text": "Entered as second-class matter, August\n12, 1968, at the postoffice at Kansas City,\nMo., under the act of March 3, 1879.\n\nNelson C. Crews.....Editor and Owner\nWilla B. Glenn.....General Manager\nJ. J. TYLER.....Adv Agent\nN.J. HUNTLEY.....Adv Agent\nRosa Morton.....Collector\nAlmeda Johnson.....Collector\nElmer Craig.....Collector\n\nSUBSCRIPTION RATES:\nCow Years.....$1.50\nSix Months.....75\nThree Months.....50\n\nADVERTISING RATE, 50 CENTS PER\nINCH."
+    },
+    {
+      "bbox": [
+        181,
+        523,
+        331,
+        534
+      ],
+      "label": "paragraph_title",
+      "text": "CHURCH DIRECTORY."
+    },
+    {
+      "bbox": [
+        124,
+        536,
+        383,
+        606
+      ],
+      "label": "text",
+      "text": "Bethel A. M. E. Church, 24th and Flora\nCherokee's Baptist Church, 604 Charlotte\nSt.\nChristian Church, 19th and Tracy,\nCherokee's M. E. Church, 19th and\nWoodland."
+    },
+    {
+      "bbox": [
+        122,
+        798,
+        380,
+        845
+      ],
+      "label": "text",
+      "text": "St. Monica's Catholic, 17th and Lydia\nMorning Star Baptist Church, 2311 Vine\nHighland Avenue Baptist Church, 1111\nHighland.\nHermanns A. M. E. Church, Canton"
+    },
+    {
+      "bbox": [
+        121,
+        887,
+        382,
+        960
+      ],
+      "label": "text",
+      "text": "People's Mission, 30th and Genesee.\nSt. Paul's Baptist Church, 19th and\nHighland.\nFriendship Baptist Church, 17th and\nTracy Avenue.\nPilgrim Baptist Church, 614 Charlotte\nSt."
+    },
+    {
+      "bbox": [
+        121,
+        1018,
+        382,
+        1085
+      ],
+      "label": "text",
+      "text": "Progressive Baptist Church, 29th and\nSummer\nM. E. Church, 1817 Flora Ave.\nst. James Baptist Church, 4083 Mill St.\nM. E. Church, 45rd and\nProspect Place"
+    },
+    {
+      "bbox": [
+        134,
+        1082,
+        343,
+        1094
+      ],
+      "label": "text",
+      "text": "A. M. E. Mission, 565 Grand Ave."
+    },
+    {
+      "bbox": [
+        122,
+        1093,
+        383,
+        1151
+      ],
+      "label": "text",
+      "text": "KANSAS CITY, KAN. CHURCHES.\nFirst A. M. E. Church, 8th and Neb.\nPleasant Green Baptist Church, 1st and\nEpithet."
+    },
+    {
+      "bbox": [
+        123,
+        1202,
+        382,
+        1230
+      ],
+      "label": "text",
+      "text": "St. Streets\nSt. Paul A. M. E. Church, 21st and\nRuby."
+    },
+    {
+      "bbox": [
+        123,
+        1229,
+        382,
+        1259
+      ],
+      "label": "text",
+      "text": "First Baptist Church, 5th and Neb,\nSolomon Baptist Church, 3rd and\nSatut"
+    },
+    {
+      "bbox": [
+        124,
+        1258,
+        386,
+        1381
+      ],
+      "label": "text",
+      "text": "Quindardo A. M. E. Church, Quindardo,\nPleasant Valley Baptist Church, Rosedale,\nKansas. M. E. Church, 8th and Oakland,\nKansas. M. E. Church, 9th and Oakland,\nSalt Mission, M. A. E. Church, South\nPark, Kan. Church Episcopal, 3rd and Stewart,\nSecond Baptist Church, 24th and Ruby,\nWesley Chapel M. E. 106 Shawnee,\nFayal M. E. Al. E. Zion Church, 4000\nAmes."
+    },
+    {
+      "bbox": [
+        210,
+        1445,
+        303,
+        1459
+      ],
+      "label": "paragraph_title",
+      "text": "EDITORIALS"
+    },
+    {
+      "bbox": [
+        120,
+        1472,
+        384,
+        2671
+      ],
+      "label": "text",
+      "text": "The Orpheum has dispensed with the services of a colored maid for the white ladies. The second balcony force is still intact but may be discontinued at any time, so rumor says.\n\nOstensibly protected by the flat of Commissioner Reynolds, the police are shooting intact so many Negroes with impunity that it will soon be in order for a black man to run as soon as he sees the bluecoat coming.\n\nAn editorial in the Searchlight laments the passage of the immigration bill with its Negro exclusion clause. Our Sedalia sister will eventually find it necessary to change her news service from Washington, thus saving much spiritual distress.\n\nIt is hoped that the reported threat of Governor Major to dismiss both of the Police Commissioners will be quickly carried out and that their places may be filled by men of higher patriotic instincts. The most sacred trust of a public official is the trust of protecting life and liberty and should never be given over to men of confessed narrowness and prejudice.\n\nAn official returning from Alaska reports that white men are not only exploiting the natives in the most fragrant manner for financial graft, but that they are debaucheing the wives and daughters of these timid people in the most shocking manner, all of which is in keeping with the history of the white men in their relations toward so-called inferior races everywhere.\n\nIf Governor O'Neal of Alabama lives up to the spirit of the great address which he delivered at Tuskegee last week he will create a new era in favor of decent opportunities for Negro education in his state. He declared ignorance in his state. He declared the greatest foe of a free government and education to be the birthright of every citizen, black or white. This principle, he said, will be his guide as executive of the state.\n\nAfter an experiment of two months Lincoln School has demonstrated the success of its children's cafe. From fifteen to twenty items make up the bill of fare each day with no item selling for more than four cents. It has been shown that pupils may be provided with a warm, fresh lunch at a daily cost of from six to ten cents. From two hundred to three hundred teachers and pupils are regular patrons of the cafe and visit strom parents are quite frequent. This is said to be the only Negro school in which the noon lunch is under the direction of the domestic science department and supervised by the higher officials. Only those pupils who go home for lunch are permitted to leave the school grounds during the noon intermission. It is the intention of the principal to add a confectionery table in the near future."
+    },
+    {
+      "bbox": [
+        560,
+        166,
+        916,
+        239
+      ],
+      "label": "doc_title",
+      "text": "Health Hints By Dr. Lloyd E. Bailer"
+    },
+    {
+      "bbox": [
+        560,
+        215,
+        919,
+        370
+      ],
+      "label": "text",
+      "text": "By Dr. Lloyd E. Bailer A weekly discussion of Hygiene and Sanitation, First Aid Measures and Preventive Medicine. Questions will be answered but no diagnoses nor prescriptions will be given in this column."
+    },
+    {
+      "bbox": [
+        392,
+        1175,
+        914,
+        1218
+      ],
+      "label": "doc_title",
+      "text": "Jitney Busses Inaugurate Jim Crow"
+    },
+    {
+      "bbox": [
+        426,
+        1235,
+        881,
+        1460
+      ],
+      "label": "text",
+      "text": "Jitney Busses and Autos acting in the capacity of public carriers, using the streets for which all citizens pay, are BOLDLY JIM CROWING our people, and their president Mr. Pool at a meeting held at 225 East 6th Street Wednesday evening said: \"If Negroes board your cars haul them a half block, make out that your switch has blown out, get them out and drive on.\"\u2014Los Angeles Eagle."
+    },
+    {
+      "bbox": [
+        387,
+        422,
+        650,
+        1155
+      ],
+      "label": "text",
+      "text": "It is a matter of common knowledge that articles of food undergo definite chemical changes in the stomach and intestines after they are taken up by the blood and utilized in the body machinery. These chemical changes are in the nature of a refining process, an, as in all such processes, a certain amount of waste remains for disposal by the intestines, liver and kidneys.\n\nIt is easy to understand that the nature of waste matter in the digestive tract varies according to the character of food taken into the stomach. Accordingly, it happens that the residue from meat digestion is more poisonous than that from other articles of food. Consequently, an abundant meat diet imposes upon the liver and kidneys the necessity of rendering inactive, and of eliminating a corresponding abundance of poisonous material.\n\nThe liver is one of the most important organs of the body. In fact, it is considered secondary in importance only to the heart. Man can exist without a stomach; he can live forty days without food, but he can exist only a few days without a liver.\n\nOne of the chief functions of the liver is the destruction of poisons generated in the digestive processes. These poisons, which would kill us if thrown directly into the blood, are rendered inert and harmless by passing through the liver. This organ, within the limits of its capacity, is capable of doing this work and doing it well. Like any other organ, however, when subjected to the excessive strain of long-continued action, the lived becomes exhausted and undergoes structural changes that permanently incapacitate it for destroying the digestive poisons that constantly menace the body. Hence it follows that excessive meat eating."
+    },
+    {
+      "bbox": [
+        425,
+        1494,
+        613,
+        1508
+      ],
+      "label": "paragraph_title",
+      "text": "FROM OUR EXCHANGES."
+    },
+    {
+      "bbox": [
+        476,
+        1523,
+        562,
+        1538
+      ],
+      "label": "paragraph_title",
+      "text": "PESSIMISM."
+    },
+    {
+      "bbox": [
+        388,
+        1542,
+        648,
+        1981
+      ],
+      "label": "text",
+      "text": "Excepting the ancient Hebrews no people are so divided as are the colored Americans. We know the cause of Israel's almost perpetual bondage\u2014a house divided against itself cannot stand. However, the respective causes of our disunity are radically different. The Israelies sinned against God through division because they had been so abundantly blessed by Providence;; we because of the acursed institution of American slavery which did everything it could to drive us a part and crush from us all our man and womanhood. We were pitted one against another, making of us an insidious secret service, until we began to mistrust every move and word made and said among ourselves. Now such a deep-rooted psychological cause cannot be remedied in a nightfall. No amount of exhorting is going to do any immediate good. The invincible processes of evolution must be served; therefore it will take three generations to rid us of this slave-blood, the secret of all our hardship within the veil\u2014St. Louis Torchlight."
+    },
+    {
+      "bbox": [
+        388,
+        1834,
+        648,
+        2176
+      ],
+      "label": "text",
+      "text": "Now such a deep-rooted psychological cause cannot be remedied in a nightfall. No amount of exhoring is going to do any immediate good. The invincible processes of evolution must be served; therefore it will take three generations to rid us of this slave-blood, the secret of all our hardship within the veil.\u2014St. Louis Torchlight.\n\nThe Philadelphia Tribune says: \"As a rule, the most formidable opponents of our civil and political rights may be found among the coarser class of white people.\" That is very true; it is equall ytrue, as a rule, that the coarser class of colored people are responsible for most of the formidable opposition to our civil and political rights. The enemies of the race are stronger inside than outside the race.\u2014Washington Sun."
+    },
+    {
+      "bbox": [
+        477,
+        2183,
+        557,
+        2194
+      ],
+      "label": "paragraph_title",
+      "text": "---"
+    },
+    {
+      "bbox": [
+        388,
+        2193,
+        647,
+        2671
+      ],
+      "label": "text",
+      "text": "We are sorry to send the news of the death of a beloved friend, Mrs. E. L. Shruggs, who died at 6:10 Saturday day evening, after an illness of nine months. The deceased leaves to mourn her death a husband, daughter, one brother, one sister and a host of friends. The funeral services were held Tuesday afternoon at the home, Dr. E. H. McDonald of St. Paul, assisted by Rev. P. H. Lewis of the A. M. E. church, officiated. The music was furnished by Mrs. Ada Ford and Carrie Barnett and Wr. J. E. Smith of Macon, Mo. Mrs. Ollie Anderson and Miss Edna Williams at the piano. The pall bearers were: J. T. Wallace, J. S. Williams, J. E. Groff, T. W. Wallace and J. H. Twyman. Those who paid their respects from out of town were: Dr. J. W. Muse and Frank Mallory of Jacksonville, Dr. J. E. Smith and Dr. W. P. Garnett of Macon, Mo., also Mrs. Blanche Graham of Burlington, Miss Dorothy Hawkins and Mr. Tom Waters of Galesburg\u2014Bystander.\n\nThe work of Booker T. Washington and the central purpose of the National Negro Business League are so closely interwoven that when one is"
+    },
+    {
+      "bbox": [
+        652,
+        387,
+        920,
+        1155
+      ],
+      "label": "text",
+      "text": "because of the strain placed upon the liver, is fraught with grave dangers to the health of the individual.\n\nIn the same way, the kidneys, which, likewise, take part in the elimination of the end-products of meat digestion, are worked when an abundance of meat is taken into the stomach. Also, in like manner, continued strain upon the kidneys is followed by their exhaustio and permanent deterioration. Preserved meats, which may contain disease germs, potamines, or mineral poisons, strongly seasoned, or spiced meats, even in small quantities, are especially injurious to the kidneys. Many cases of Bright's disease can be attributed to long continued and excessive meat eating.\n\nWe do not wish to be suspected of fanadical prejudice against meat. It is not the use but the abuse of this type of food against which we would sound a warning. We would not discard meat from the daily diet of persons in health, for, indeed, it is an indispensable food element. We would, however, very strongly recommend moderation in its use. We would discourage the eating of meat three times a day, and suggest that, for the majority of us, once a day is sufficient. We would also advise against lunches consisting of meat and bread alone. Vegetables or fruit should always be taken with such lunches. Beef, mutton, chicken, and fish are more easily digested and preferable to pork. It is to be hoped that the day is not far distant when beef will entirely replace pork on the family table. Meat, in general, should be well cooked, and boiled, roasted, broiled, or baked rather than fried. It should also be remembered that much water should be taken daily by those who indulge themselves with a generous meat diet. In conclusion we would enter a final plea for moderation in the use of meat as a food."
+    },
+    {
+      "bbox": [
+        650,
+        1496,
+        915,
+        1663
+      ],
+      "label": "text",
+      "text": "discussed the other comes readily into the mind. The Negro race as a whole is heartened and its cause will grow in strength in proportion as the broad principles for which Washington and the Business League stand become the cardinal impulse of the nation at large.\n\nLet \"On to Boston!\" be the slogan from now until August next.\u2014Freeman."
+    },
+    {
+      "bbox": [
+        692,
+        1681,
+        874,
+        1695
+      ],
+      "label": "paragraph_title",
+      "text": "OH YOU VINE STREET."
+    },
+    {
+      "bbox": [
+        654,
+        1700,
+        915,
+        1820
+      ],
+      "label": "text",
+      "text": "The finest street cars in the country were put into service on State street recently. The old sayin', \"There is nothing too good for the Irish\" will have to be remodeled, as this line especially is ours, for have we not christened it the \"African Central?\"\u2014Chicago Defender."
+    },
+    {
+      "bbox": [
+        694,
+        1840,
+        871,
+        1854
+      ],
+      "label": "paragraph_title",
+      "text": "HURTING THE STATE."
+    },
+    {
+      "bbox": [
+        653,
+        1856,
+        914,
+        2052
+      ],
+      "label": "text",
+      "text": "The announcement that Judge J. B. Park and Solicitor General Joseph E. Pottle, of the Ocmulgee circuit, are investigating he details of the recent lynching and that official action will probably be taken by the executive department, is significant as indicating that the enormity of this horrible offense is so impressing itself upon the officials of the state as to lend encouragement to the hope that the perpetrators will be brought to justice and punished as they should be"
+    },
+    {
+      "bbox": [
+        652,
+        1858,
+        914,
+        2202
+      ],
+      "label": "text",
+      "text": "The announcement that Judge J. B. Park and Solicitor General Joseph E. Pottle, of the Ocmulge circuit, are investigating he details of the recent lynching and that official action will probably be taken by the executive department, is significant as indicating that the enormity of this horrible offense is so impressing itself upon the officials of the state as to lend encouragement to the hope that the perpetrators will be brought to justice and punished as they should be. Nothing that has happened in this state in many, many years has provoked such universal condemnation as the Jasper county lynching, in which two negro men and two women were taken from the jail and summarily executed by a mob, the victims having been accused of operating a blind tiger, and of assaulting an officer who caught them in the act."
+    },
+    {
+      "bbox": [
+        653,
+        2054,
+        916,
+        2531
+      ],
+      "label": "text",
+      "text": "Nothing that has happened in this state in many, many years has provoked such universal condemnation as the Jasper county lynching, in which two negro men and two women were taken from the jail and summarily executed by a mob, the victims having been accused of operating a blind tiger, and of assaulting an officer who caught them in the act. The offenders should have been punished for violating the law and they undoubtedly would have been convicted through the usual process of law. But to resort to lynch law under these conditions is a lapse into brutality and barbarity which every decent Georgian must condemn. It is a sad commentary upon law and order and the administration of justice in this state if such a thing can happen without the offenders being brought to justice. Things of this kind smear the good name of the state and seriously react against its business, its prosperity, and its development. Can an outrage of this kind go unpunished in Georgia? If so, something is seriously wrong with the state-Editorial in Atlanta (Ga.) Constitution."
+    },
+    {
+      "bbox": [
+        710,
+        2549,
+        855,
+        2565
+      ],
+      "label": "paragraph_title",
+      "text": "WANTED TO FIND:"
+    },
+    {
+      "bbox": [
+        653,
+        2569,
+        914,
+        2675
+      ],
+      "label": "text",
+      "text": "Mrs. Hattie Foster, my sister, who left Fort Scott, Kas., 15 or 20 years ago. She has since married. Anyone knowing of her whereabouts will kindly write Sam Foster, 344 E. 41st street, Chicago, Ill."
+    },
+    {
+      "bbox": [
+        938,
+        168,
+        1184,
+        199
+      ],
+      "label": "doc_title",
+      "text": "KNSAS CITY, KAS."
+    },
+    {
+      "bbox": [
+        938,
+        168,
+        1184,
+        199
+      ],
+      "label": "paragraph_title",
+      "text": "KNSAS CITY, KAS."
+    },
+    {
+      "bbox": [
+        927,
+        212,
+        1188,
+        253
+      ],
+      "label": "text",
+      "text": "KANSAY CITY, KAS, BRANCH OFFICE\n540 Freeman avenue\nMiss Eva St., Manager"
+    },
+    {
+      "bbox": [
+        929,
+        293,
+        1185,
+        337
+      ],
+      "label": "text",
+      "text": "Explains Wilson Interview to Large Audience of Representative People of the Two Kansas Cities."
+    },
+    {
+      "bbox": [
+        919,
+        334,
+        1187,
+        1560
+      ],
+      "label": "text",
+      "text": "Monroe W. Trotter, Negro Democrat and Editor of the Boston Guardian spoke under the auspices of the N. A. A. C. P. at the First A. M. E. church, Kansas City, Kansas last Thursday night to a large audience. The meeting was opened by W. E. Jacobs president of the association who presented Judge I. F. Bradley, a personal friend of Mr. Trotter's to introduce him which the Judge did in his usual eloquent and enjoyable manner. Mr. Trotter was in splendid mood and gave an interesting account of his visit to the White House.\n\nHon. Chas. Calloway of the Legal committee gave a graphic description of the work of the Association during the past year and appealed for new members. After receiving several subscriptions and the \"usual contribution\" Mr. Trotter left for his next engagement.\n\nThis is a matter over which the Sun refuses to enthuse because it considers it a mere scramble of a lot of hungry Negro Democrats for a few crumbs from the Democratic table and if they had not assisted in electing a Democratic president, they would not have been humiliated nor have caused the race the trouble that has ensured since Woodrow Wilson has been president of the United States.\n\nMrs. Mary E. Stone, 544 Cherry street is confined to her home with pneumonia.\n\nMrs. Sadie Cline, 215 Steward avenue has been quite ill with neuralgia for the past week.\n\nThe first meeting of the board of management was held at the Central association Thursday afternoon.\n\nMrs. Effie C. Richards, 618 State street is now residing at Claremore, Okla., where her husband, Rev. J. E. Richards is pastof the Mt. Zion Baptist church.\n\nThe Young Women's Christian association Yate Branch Fifth and State avenue will hold a big public meeting at the First A. M. E. church at 3:00 p. m. on tomorrow, January 31. Everybody is invited to come and hear Miss Anna H. Jones noted educator and leading club woman of the ewest. Special music and other features.\n\nBusiness included the acceptance of the resignation of Mrs. Lydia C. Smith after two years service as General secretary. Miss Edna Cook graduated of Howard university and of the National Y. W. W. C. Training school was the unanimous choice as secretary.\n\nThe report of the nominating committee, Mrs. H. T. Kealing, chairman, submitted the following who were elected officers for this year: Mrs. F. K. Douglass, president; Mrs. W. P. Mimms, vice president; Mrs. Dorssey Green, recording secretary; Mrs. S. D. Scruggs corresponding secretary; Mrs. S. C. Jones measurer."
+    },
+    {
+      "bbox": [
+        961,
+        1576,
+        1135,
+        1589
+      ],
+      "label": "paragraph_title",
+      "text": "Half of Pencils Wasted"
+    },
+    {
+      "bbox": [
+        923,
+        1590,
+        1180,
+        1681
+      ],
+      "label": "text",
+      "text": "Lead pencil manufacture in the United States is consuming 73,000,000 feet of lumber annually, of which about one-half is estimated to be wasted in sharpening or throwing away short ends."
+    },
+    {
+      "bbox": [
+        947,
+        1707,
+        1154,
+        1720
+      ],
+      "label": "paragraph_title",
+      "text": "Why Worry About Birthdays?"
+    },
+    {
+      "bbox": [
+        923,
+        1719,
+        1180,
+        1795
+      ],
+      "label": "text",
+      "text": "Don't start counting your birthdays; they don't really count. We've been confusing age with efficiency for too long. How far have you developed? How sharp are your faculties?"
+    },
+    {
+      "bbox": [
+        1016,
+        1822,
+        1085,
+        1835
+      ],
+      "label": "paragraph_title",
+      "text": "Naturally."
+    },
+    {
+      "bbox": [
+        921,
+        1838,
+        1180,
+        2000
+      ],
+      "label": "text",
+      "text": "A woman is generally sufficiently conceited to think her husband must really be a superior sort of man or she wouldn't have married him.\n\nPeculiarity of Lettuce Flowers.\nAlthough many plants close their leaves and flowers at the approach of rain, lettuce flowers open their widest at such times."
+    },
+    {
+      "bbox": [
+        978,
+        2027,
+        1121,
+        2040
+      ],
+      "label": "paragraph_title",
+      "text": "Peculiar Vaccination."
+    },
+    {
+      "bbox": [
+        922,
+        2040,
+        1180,
+        2086
+      ],
+      "label": "text",
+      "text": "Until the year 1874 Japanese doctors vaccinated their patients on the tip of the nose."
+    },
+    {
+      "bbox": [
+        936,
+        2311,
+        1162,
+        2478
+      ],
+      "label": "text",
+      "text": "Shows all latest styles in colored Ladies' Hair and Toilet Articles. The above is but four of the many new designs we are now making up. We are positively the largest mannequin and its importers can curtaine hair and guarantee a brief article sold, or money refunded. Don't be misled in the buying of hair, as many of our small competitors are all hair will not stand washing and combing. Buy the best quality hair at manufacturers' prices, also hair nets and toilet"
+    },
+    {
+      "bbox": [
+        937,
+        2477,
+        1164,
+        2506
+      ],
+      "label": "text",
+      "text": "We have been doing business for\nwe have not had a dissatisfied\ncustomer."
+    },
+    {
+      "bbox": [
+        1191,
+        628,
+        1449,
+        705
+      ],
+      "label": "text",
+      "text": "\u2014That E. M. W. is now manager of a hotel. Get wise boys.\n\n\u2014That he who gets rich quick usually goes broke in a hurry."
+    },
+    {
+      "bbox": [
+        1188,
+        942,
+        1451,
+        1426
+      ],
+      "label": "text",
+      "text": "\u2014That those clocked silk stockings and red socks you suported last summer won't do you no good now.\u20146 below zero.\n\n\u2014That it is quite common to hear the expression \"where do you live Now?\" Landlords must be wanting their money.\n\n\u2014That if you want to see your wife smile just tickle her under the chin and say \"Oh you're so sweet,\" then watch her smile.\n\n\u2014That there are Negro dudes eating stews who last summer could be satisfied with nothing less than a double porter house. Oh this awful winter.\n\n\u2014That a certain porter who wrote two letters one to his wife telling her how lonely and sad he was and so forth and the other to a young lady telling her that the \"old lady\" had gone to visit her folks and for her to meet him at a certain number and they would have a h\u2014of a time. And then put them in the wrong envelopes so you can guess what happened. Oh you porter."
+    },
+    {
+      "bbox": [
+        1223,
+        1493,
+        1680,
+        1536
+      ],
+      "label": "doc_title",
+      "text": "WATKINS BROS. & CO."
+    },
+    {
+      "bbox": [
+        1380,
+        1562,
+        1529,
+        1775
+      ],
+      "label": "doc_title",
+      "text": "FUNERAL DIRECTORS AND LICENSED EMBALMERS"
+    },
+    {
+      "bbox": [
+        1188,
+        717,
+        1447,
+        929
+      ],
+      "label": "text",
+      "text": "\u2014That the \"hoodlum\" wagon don't care who it hauls these days.\n\n\u2014That two well known ladies had a fist and gun fight a few days ago. Do tell.\n\n\u2014That the Y. M. C. A. cafeteria is the most popular place in town for after church diners.\n\n\u2014That there are a lot of empty stomachs covered by good clothes in this old town right now."
+    },
+    {
+      "bbox": [
+        1193,
+        1788,
+        1378,
+        1848
+      ],
+      "label": "text",
+      "text": "JOHN T. WATKINS.\nPhones: Home 7989 Main\nBell 987 Grand\n1729 LYDIA AVENUE"
+    },
+    {
+      "bbox": [
+        1243,
+        2181,
+        1428,
+        2266
+      ],
+      "label": "text",
+      "text": "Are you satisfied with your hair?\n\nIs it as long as it should be?"
+    },
+    {
+      "bbox": [
+        1242,
+        2335,
+        1428,
+        2421
+      ],
+      "label": "text",
+      "text": "Can you comb it out easily or is it full of tangles?\n\nAre you proud of your hair?"
+    },
+    {
+      "bbox": [
+        1190,
+        2510,
+        1419,
+        2616
+      ],
+      "label": "text",
+      "text": "NELSON'S\nHAIR DRESSING\n25\u00a2\n50\u00a2"
+    },
+    {
+      "bbox": [
+        1460,
+        173,
+        1717,
+        248
+      ],
+      "label": "doc_title",
+      "text": "Rooms For Rent"
+    },
+    {
+      "bbox": [
+        1453,
+        264,
+        1718,
+        935
+      ],
+      "label": "text",
+      "text": "Fort Rent\u2014Nearly furnished rooms in modern home. Gentleman and wife or men only. High class. Inquire at office of Kansas City Sun.\n\nFOR RENT\u2014Modern furnished rooms with heat. 2531 Michigan Ave. Bell Phone, East 4594. Mrs. Jennie White and Roscoe White.\n\nFor Rent\u20142440 Montgall ave., six rooms; modern; $22.50 per month. John M. Day, 1411 Lydia ave.\n\nFOR RENT\u2014Furnished rooms for light housekeeping. Water, gas and telephone service. Rates reasonable. Bell phone East 26677. 2632 Euclid. \u2014Ind. 28.\n\nFor Rent\u2014Nice house for good colored family. Modern conveniences. Home phone S. 553. 403 Steptoe.\n\nFort Rent\u2014Two nicely furnished rooms, modern, telephone, 1201 E. 17th street. Mrs. A. Harper, Bell phone, Grand 1907W.\n\nFor Rent\u2014Beautiful apartment. Apply on premises, 1416 E. 24 street, or phone owner Bell South 4300.\n\nFor rent\u2014Nearly furnished rooms. Quiet place to sleep with bath and free phone. Room $1.50 and up a week. 15271\u00bd Lydia avenue. Bell phone Grand 4494. Mrs. P. Reed.\n\nFor RENT\u2014Four room cottage, new, partly modern, newly papered in a good neighborhood. 608 Steptoe. Call at 4217 Mill Creek."
+    },
+    {
+      "bbox": [
+        1478,
+        1075,
+        1691,
+        1244
+      ],
+      "label": "text",
+      "text": "Every day in your talk and reading, on the street car, in the office, shop, and school some new question is sure to come up. You seek quick, accurate, encyclopedic, up-to-date information.\n\nThis NEW CREATION will answer all your questions with final authority. 400,000 Words Defined. 2700 Pages. 6000 Illustrations. Cost the only dictionary with the new divided page. A \"Stroke of Genius.\""
+    },
+    {
+      "bbox": [
+        1527,
+        1788,
+        1713,
+        1849
+      ],
+      "label": "text",
+      "text": "THERON B. WATKINS.\nRes., Bell Phone 3281 East\nKANSAS CITY, MO."
+    },
+    {
+      "bbox": [
+        1451,
+        1952,
+        1552,
+        1969
+      ],
+      "label": "paragraph_title",
+      "text": "If you knew"
+    },
+    {
+      "bbox": [
+        1474,
+        1979,
+        1715,
+        2029
+      ],
+      "label": "text",
+      "text": "Nelson's Hair Dressing as we do you would never use anything else on your hair."
+    },
+    {
+      "bbox": [
+        1472,
+        2217,
+        1714,
+        2298
+      ],
+      "label": "text",
+      "text": "a sample box of Nelson's Hair Dressing, also a sample of Nelson's Scalp and Hair Cleaner and a sample cake of Nelson's Skin and Complexion Soap."
+    },
+    {
+      "bbox": [
+        1452,
+        2308,
+        1532,
+        2323
+      ],
+      "label": "paragraph_title",
+      "text": "Test them"
+    },
+    {
+      "bbox": [
+        1458,
+        2334,
+        1712,
+        2385
+      ],
+      "label": "text",
+      "text": "in your own home, if they are not what we claim, you are not out anything."
+    },
+    {
+      "bbox": [
+        1720,
+        509,
+        1984,
+        889
+      ],
+      "label": "text",
+      "text": "MRS. KATE MARTIN.\n\nMadame K. Martin the cultured Scalp Specialist is now ready to treat your scalp and grow your hair. Shampooing, massaging and hair growing a specialty. Madame Martin cures all scalp diseases, dandruff germ, tetter, eczema and guarantees satisfaction. No matter how short the hair, I guarantee to grow it and can produce testimonials of the same. Have finished a special course of methods of treating the scalp and growing hair and I hold a diploma from Lella College, Indianapolis, Ind. I would be pleased to have you call. Consultation free. Your patronage solicited. Hours 8:30 a.m. to 5:30 p. m. Residence, 2220 Michigan avenue, 2nd floor. Bell phone East 3936W. Any ladies desiring to learn the method of growing hair may consult me as I shall open a class soon when the whole course will be taught. For further information, call Bell phone East 3936W."
+    },
+    {
+      "bbox": [
+        1721,
+        866,
+        1983,
+        911
+      ],
+      "label": "text",
+      "text": "For further_information, call Bell phone, East 3936W.\n\nMADAME MARTIN."
+    },
+    {
+      "bbox": [
+        1772,
+        975,
+        1933,
+        989
+      ],
+      "label": "paragraph_title",
+      "text": "ROSEDALE, KANSAS."
+    },
+    {
+      "bbox": [
+        1717,
+        994,
+        1984,
+        1232
+      ],
+      "label": "text",
+      "text": "Miss Florine Jenkins was seriously injured Friday by falling in an attempt to board a car.\nMr. Monroe Jordan died at his residence Friday.\nMr. Geo. urner is ill at his residence, 1918 Lloyd avenue.\nMiss Martha Brown, a member of the Senior Class Sumner High School, has been quite ill, but is now convalescing at her residence.\nAll of the services at the Pleasant Valley Baptist Church last Sunday were largely attended. In the afternoon communion was administered."
+    },
+    {
+      "bbox": [
+        1721,
+        1255,
+        1981,
+        1273
+      ],
+      "label": "paragraph_title",
+      "text": "LADIES AND GENTLEMEN:"
+    },
+    {
+      "bbox": [
+        1719,
+        1279,
+        1983,
+        1425
+      ],
+      "label": "text",
+      "text": "You who are suffering from loss of hair You can help by buying the Vegetable Salve and Hair Tonic a trial, Mrs. Simpson's Vegetable Salve will make harsh dry hair soft and pliable and proharm to the scalp. It will treat the heads and temples and shows results from the first treatment. It will grow hair faster and is market. It is good for all scalp diseases such as pin heads, eczema, dandruff, turtles for all scalp itching scalps. Give it What it has done for others, it will do for you."
+    },
+    {
+      "bbox": [
+        1721,
+        1422,
+        1984,
+        1485
+      ],
+      "label": "text",
+      "text": "Simpson's Hair Tonic. . . $ 50\nSimpson's Salve. . . $ 50\nSimpson's Clipping. . . $ 50\nTreatments. . . 1.00\nMiss Lillie Page will treat treatments at\nMiss Lillie Page Akademi Klinik."
+    },
+    {
+      "bbox": [
+        1720,
+        1644,
+        1981,
+        1842
+      ],
+      "label": "text",
+      "text": "Mrs. Simpson,\nRecommendations.\n\nI have been a sufferer from a diseased\nscalp ever since I could remember and\nmy hair had come out until I was almost\nhad tried to keep it prepared and\nwent to the hospital to help prepare it\nhear of nothing but did my any good.\nTwo years ago I went to Mrs. Simpson\nDelaware to have my scalp and scalp using\nher own remedies. I could\nsee good results from the first treatment.\nI had a scalp infection at Mrs. Simpson's\nVegetable Salve and Hair Tonic that\ndesire a nice growth of hair or are\ntroubled with any kind of scalp disease.\nI can drive the Lord for these\nwonderful remedies."
+    },
+    {
+      "bbox": [
+        1873,
+        1841,
+        1977,
+        1854
+      ],
+      "label": "text",
+      "text": "LILLIE PAGE."
+    },
+    {
+      "bbox": [
+        1745,
+        1964,
+        1970,
+        2036
+      ],
+      "label": "doc_title",
+      "text": "NELSON'S HAIR DRESSING"
+    },
+    {
+      "bbox": [
+        1736,
+        2057,
+        1923,
+        2409
+      ],
+      "label": "text",
+      "text": "Has no superior as\na hair beautifier\n\nThousands of men and\n women have improved the\nappearance of their hair by\nusing NELSON'S HAIR\nDRESSING.\n\nFor those who know\u2014it\nis a toilet necessity.\n\nWhy not try it yourself?\n\nAsk your druggist. If he\ncannot supply you, send us\nhis name and address and we\nwill send you a free sample.\n\nNELSON MFG. CO.\nRICHMOND, VA."
+    }
+  ]
+}

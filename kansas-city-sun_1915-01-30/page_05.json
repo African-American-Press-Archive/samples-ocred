@@ -1,0 +1,758 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 2153,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        98,
+        348,
+        273,
+        365
+      ],
+      "label": "paragraph_title",
+      "text": "Visit Smith's drug store."
+    },
+    {
+      "bbox": [
+        82,
+        376,
+        359,
+        2306
+      ],
+      "label": "text",
+      "text": "Miss Cecil Penniston, of 2626 Highland, is quite ill with malarial fever.\n\nMrs. Mary E. Stone, 544 Cherry street is confined to her home with pneumonia.\n\nThe Misses Hutchins will entertain with a dancing party at Lyric Hall Saturday evening.\n\nMr. and Mrs. Dan Carson, 314 New Jersey avenue entertained at reakfast Sunday morning, Miss Eva P. Washington.\n\nMrs. Emmett Lee has returned to her home, in Britt, Ia., after a very pleasant stay with Mrs. Mary Walker, 3409 Wyandotte street.\n\nMen taking the physical work, with shower baths and swimming, who have in the past been subject to colds each winter, now seem to be immune.\n\nRichard Fulbright, of 2613 Highland, one of the best known Masons in this city, has been ill during the week with la grippe, but is improving nicely.\n\nMrs. Fannie Carson of Kansas City, Mo., and Mrs. Amelia Lewis of Lexington, Mo., were called to Evans, Ia., on the account of the death of their father, Andrew Nelson.\n\nMr. and Mrs. Geo. W. Ford, formerly of 1810 Tracy, recently moved to Portland, Ore., and write that they are doing nicely. They have been loyal supporters of the Sun every since it was established.\n\nMr. Thos. A. Wheeler, 2323 Highland avenue who has been confined for two weeks at his home with pneumonia is slowly improving under the efficient care of Dr. M. G. Brookins.\n\nThe quiet wedding of Miss Carrie E. Morgan to Mr. W. J. Dixon was solemnized at the residence of the bridegroom, 2828 Cleveland avenue, Tuesday evening, January 19, 1915.\n\nOn Saturday night, January 16, while Rev. Sister Pearl was attending a reception given in honor of her return home by Mrs. M. C. Hays, her beautiful residence was destroyed by fire.\n\nDancing every Wednesday night at Armory Hall, Cottage and Vine streets. Prof. Rose White, Dancing Master. Class every Saturday night. Mrs. Jennie White, teacher. Bell Phone, East 4594.\n\nMrs. Minnie White, the amiable wife of I. W. White, 922 E. 21st, underwent an abdominal operation last Monday the 18. The operation was performed by Drs. Perry and Walker. Negro physicians. Mrs. White is doing nicely at Phyllis Wheatley Hospital, 1214 Vine street.\n\n\u201cGrandma\u201d Hartwell, of 2645 Vine Street, one of the oldest and most faithful members of Centenniel M. E. Church and who is beloved by all who know her, lies dangerously ill at her home at this time and little hope is held out for her recovery. Her daughters and Miss Maude Olden are constantly at her bedside.\n\nNote\u2014As we go to press word comes that Sister Hartwell passed away this (Friday morning and the funeral will be from her church Sunday at 1 p.m., Rev. Davis, officiating.\n\nMrs. W. M. Johnson, of 1426 W. 35th street, Los Angeles, Calif., writes Mrs. Payne to renew her subscription for another year for the Sun, which Mrs. Payne has done, also saying that she could not get along without the Sun, which she considers the best edited and most interesting Negro journal that has ever come into her home.\n\nThe proceedings of the last Grand Session Court of Calanthe, Sun Flower Lodge K. of P., of Kansas, was turned this week in best of form and style by the Harris Printing Establishment, 1515 E. 18th street. The Proceedings for United Grand Chapter Order of the Eastern Star, of which Mrs. Victoria Clay Haley of St. Louis, Mo. is Grand Matron, is the next in order and is now being run. Both of these books are evidences of the best workmanship to be had from any of the smaller printing establishments outside the state. The various other orders who have book work to let at a nominal cost would do well to get in touch with this establishment. Stop in at 1515 E. 18th street or call the Bell Phone, East 2782."
+    },
+    {
+      "bbox": [
+        167,
+        2321,
+        287,
+        2335
+      ],
+      "label": "paragraph_title",
+      "text": "IN MEMORIAM."
+    },
+    {
+      "bbox": [
+        97,
+        2338,
+        367,
+        2702
+      ],
+      "label": "text",
+      "text": "In loving memory of my dear mother, Mrs. Annie Eperson, who was called away 4 years ago today, January 29, 1911.\n\nMother I miss you everywhere, Miss your advice, love and core.\nA faithful mother so kind and true, I always pray and think of you.\n\nYou're not forgotten in my mind, To me you were so good and kind; How my heart is nilled with pain I hope some day we'll meet again.\n\nSadly missed by her loving daughter,\n\nHATTIE M. JONES.\n\nProf. J. Silas Harris, president of the Negro National Teachers' Assn., for many years a principal in the Kansas City Schools, at present Editor of the Kansas City Herald, one of the best known colored men in America, was suddenly stricken with pneu-"
+    },
+    {
+      "bbox": [
+        351,
+        344,
+        617,
+        465
+      ],
+      "label": "text",
+      "text": "monia while on a visit at Excelsior Springs and was dangerously ill for several days. He was sufficiently improved to be brought home last Wednesday and is gradually improving to the pleasure of his many friends. The Sun wishes for him a speedy and complete recovery of health."
+    },
+    {
+      "bbox": [
+        412,
+        481,
+        559,
+        495
+      ],
+      "label": "paragraph_title",
+      "text": "CARD OF THANKS."
+    },
+    {
+      "bbox": [
+        352,
+        501,
+        616,
+        577
+      ],
+      "label": "text",
+      "text": "I desire to thank my many friends of the Second Baptist Church and New Hope Temple for kindness, sympathy and beautiful flowers during my recent illness.-Mrs. Francis J. Wilson."
+    },
+    {
+      "bbox": [
+        432,
+        591,
+        536,
+        605
+      ],
+      "label": "paragraph_title",
+      "text": "THE EDITOR"
+    },
+    {
+      "bbox": [
+        351,
+        609,
+        620,
+        1343
+      ],
+      "label": "text",
+      "text": "Who's the most useful man in town, from preacher, lawyer, doctor, down who neither smiles nor wears a frown?\nThe Editor.\n\nIn all the world who's most ignored. Slighted, deceived, abused and bored. And yet who's flag is never lowered?\nThe Editor.\n\nWho flights the battle none dare fight,\nFor what is clearly just and right\nAnd drives the foe out of sight?\nThe Editor.\n\nAnd yet, who even hides his name Unmindful of the scroll of fame\nOr of the public's loud acclaim?\nThe Editor.\n\nWho lights the torch for other men To honor, gain and wealth, and then, Who hears them say \"Do it again?\"\nThe Editor.\n\nWho works most like a galley slave And stems the tide of wind and wave With faith and hope and courage brave?\nThe Editor.\n\nWhose heavy task is never done, But meets him with each rising sun As big as when 'twas first begun?\nThe Editor.\n\nWho in this world shall know no rest Nor peace within his troubled breast To come a moment as his guest?\nThe Editor.\n\nWho'll go to heaven when he dies, And sing with angels in the skies, So very much to other's surprise?\nThe Editor."
+    },
+    {
+      "bbox": [
+        423,
+        1361,
+        550,
+        1375
+      ],
+      "label": "paragraph_title",
+      "text": "Ancient Gateways"
+    },
+    {
+      "bbox": [
+        360,
+        1375,
+        622,
+        1574
+      ],
+      "label": "text",
+      "text": "In days when cities were walled about for purposes of defense against an enemy, most of the masters of the people being maudrauders and brigands, there were real gates, by which is meant tremendous doors of solid oak built within stone walls which are indestructible by any weapons of those times. The ancient gates were built in the walls of cities at those points where the chief highways centered and on which an enemy would surely try to make his attack."
+    },
+    {
+      "bbox": [
+        434,
+        1599,
+        551,
+        1612
+      ],
+      "label": "paragraph_title",
+      "text": "Appeal for Help."
+    },
+    {
+      "bbox": [
+        363,
+        1612,
+        624,
+        1806
+      ],
+      "label": "text",
+      "text": "Ruth, who is two, was visiting her grandmother, who had some summer boarders with whom there was a little boy whom Ruth disliked very much, but who was fond of her. One day when Ruth was seated on a porch bench the little boy came up and sat down close beside her. She tried every method to remove him and finally called in desperation to her grandmother: \"O, grandma, please do come and help me; I see too much squeezed.\""
+    },
+    {
+      "bbox": [
+        422,
+        1831,
+        566,
+        1844
+      ],
+      "label": "paragraph_title",
+      "text": "Not What He Meant"
+    },
+    {
+      "bbox": [
+        365,
+        1846,
+        625,
+        1999
+      ],
+      "label": "text",
+      "text": "In a case in which a man was charged with cruelly ill-treating a horse by working it in an unfit state, a constable expressed the opinion that the animal was not capable of doing any more work on account of its age. A solicitor for the defense suggested that the horse merely required a rest. Magistrate \"Eternal rest?\" Solicitor\u2014\"I do not mean that, sir,\""
+    },
+    {
+      "bbox": [
+        411,
+        2021,
+        598,
+        2035
+      ],
+      "label": "paragraph_title",
+      "text": "What Made Her Laugh. *"
+    },
+    {
+      "bbox": [
+        367,
+        2036,
+        627,
+        2187
+      ],
+      "label": "text",
+      "text": "Jean was warned by her parents not to mention the fact that their guest at dinner had an unusually large nose. In the course of the evening meal Jean became convulsed with laughter. She was asked with fear and trembling what was the cause of her mirth. Her reply was: 'O, I'm not laughing at your nose, Mr. Smith\u2014I'm laughing at the plates on mother's plate rail.'"
+    },
+    {
+      "bbox": [
+        435,
+        2204,
+        560,
+        2218
+      ],
+      "label": "paragraph_title",
+      "text": "Flag of Belgium."
+    },
+    {
+      "bbox": [
+        370,
+        2218,
+        630,
+        2370
+      ],
+      "label": "text",
+      "text": "The Belgian flag perpetuates the colors of the duchy of Brabant, and was adopted when the monarchy was set up in 1831. The red, it should be noted by those who wish to use it correctly, forms the fly of the flag, the yellow the middle, and the black the hoist. The Russian Imperial navy\u98dees the ancient blue saltire of St. Andrew on a white ground."
+    },
+    {
+      "bbox": [
+        402,
+        2395,
+        590,
+        2408
+      ],
+      "label": "paragraph_title",
+      "text": "Where Cloves Come From"
+    },
+    {
+      "bbox": [
+        370,
+        2406,
+        632,
+        2546
+      ],
+      "label": "text",
+      "text": "The best cloves come from Amboyna, one of the Molucca islands. They are grown also in Java, Sumatra, Zanzibar and in the West Indies. The clove tree grows as high as 40 feet. The ripe fruit resembles a small olive. The clove of commerce is the blossom which is dried by exposure to wood smoke and the sun."
+    },
+    {
+      "bbox": [
+        440,
+        2568,
+        567,
+        2582
+      ],
+      "label": "paragraph_title",
+      "text": "French Loguacity."
+    },
+    {
+      "bbox": [
+        374,
+        2584,
+        634,
+        2702
+      ],
+      "label": "text",
+      "text": "There is no nation like the French. A French milliner will make a hat out of a piece of felt and nothing; and a French official will make a diplomatic episode out of nothing at all, putting into five minutes of futility all the Gallic civilization of centuries,\u2014Arnold Bennett in the Century, Magazine"
+    },
+    {
+      "bbox": [
+        626,
+        345,
+        886,
+        393
+      ],
+      "label": "paragraph_title",
+      "text": "Women's Club Notes"
+    },
+    {
+      "bbox": [
+        622,
+        406,
+        888,
+        775
+      ],
+      "label": "text",
+      "text": "The Clipper Girls are engaged in\nmaking up garments for the inmates\nof the Orphans Home.\n\nThe Tango card party and dance\nFriday, February 5, at Armory Hall,\nCottage and Vine streets.\n\nThursday afternoon January 21 a\nnumber of the graduates of the Booker\nWashington school met at the\nbuilding and organized a Club. Mrs.\nIda Brown Conner was selected President;\nMr. Edwin Pierce, Vice-President;\nand Mr. Cecil Brown, Secretary.\nEntertainment committee:\nMrs. Ida Conner, Mr. Cedric Johnson,\nMiss Lillie Booker, and Mr. Russel\nDixon.\n\nGRAECO ART CLUB\nSECOND ANNUAL EXHIBIT\nLYRIC HALL\nMONDAY NIGHT FEBRUARY 15."
+    },
+    {
+      "bbox": [
+        625,
+        764,
+        886,
+        1070
+      ],
+      "label": "text",
+      "text": "MONDAY NIGHT FEBRUARY 15,\n1915.\nMrs. Minne Adams, President.\n\nTHE PHYLLIS WHEATLEY ART\nCLUB.\nThe Phyllis Wheatley Art Club will\nmeet with Mrs. Johnson, 1232 Michi-\ngan avenue, next Thursday, February\n4, and Mrs. Gibson, 1533 E. 11th street\nFebruary 11.\n\nOAK LEAF ART CLUB.\nThe Oak Leaf Art Club met with\nMrs. Jennie Johnson, 2045 Rosedale\navenue, Friday, January 22d. A special\nprogram was rendered and de-\nlicious refreshments were served.\nMRS. HELEN B. McDONALD,\nPresident,"
+    },
+    {
+      "bbox": [
+        626,
+        1063,
+        889,
+        1359
+      ],
+      "label": "text",
+      "text": "MRS. J. C. RAY,\nSecretary,\nMISS A. E. WHEELER,\nReporter.\n\nXX HISTORY AND ART CLUB.\nThe XX History and Art Club met Thursday, January 28 with Mrs. Berry Thomas, 17 S. Harrison street, Kansas City, Kansas. A large number of members were present. This being history day, many historical topics were discussed and many beneficial thoughts gained. After being served a delightful repast the Club adjourned to meet with Mrs. McNail at the residence of Miss C. Washington, 2627 Euclid avenue, the President. Rose Smith, Secy."
+    },
+    {
+      "bbox": [
+        658,
+        1373,
+        855,
+        1386
+      ],
+      "label": "paragraph_title",
+      "text": "PROGRESS STUDY CLUB"
+    },
+    {
+      "bbox": [
+        629,
+        1388,
+        891,
+        1587
+      ],
+      "label": "text",
+      "text": "The Progress Study Club met with Mrs. R. E. L. Bailey, President, with a goodly numb er in attendance. It was decided to discuss the life and achievements of Frederick Douglass during the month of February. The first paper on this subject will be read by Miss Lucille McCarty at the next meeting, Wednesday, February 3rd when the Club will be entertained by Mrs. Willa Bigby, at the residence of Mrs. Green on Highland near 14th street, Mrs. Jesse Novel, Secretary"
+    },
+    {
+      "bbox": [
+        636,
+        1601,
+        863,
+        1613
+      ],
+      "label": "paragraph_title",
+      "text": "GARRISON FIELD HOUSE."
+    },
+    {
+      "bbox": [
+        631,
+        1618,
+        894,
+        1919
+      ],
+      "label": "text",
+      "text": "Our boys' basketball team beat the Y, M. C. A. team Wednesday, January 20, by a score of 18.7. The game was played on Y, M. C. A. courts.\n\nA big valentine party for Lincoln High School students and other young people on Friday afternoon and evening, February 12. A large mail box will be provided in which valentines may be deposited up until 9:30, at which time the box will be opened and the valentines delivered to those to whom addressed. Parents and friends of the young people are especially invited to this party. Lots of fun and a good time to everybody. A good time to even up the jokes on your ol' friends. Remember no costs attached to pleasures at the Field House."
+    },
+    {
+      "bbox": [
+        650,
+        1936,
+        875,
+        1950
+      ],
+      "label": "paragraph_title",
+      "text": "THE CARNATION ART CLUB."
+    },
+    {
+      "bbox": [
+        634,
+        1945,
+        900,
+        2396
+      ],
+      "label": "text",
+      "text": "THE CARNATION ART CLUB.\n\nThe Carnation Art club met on the 8th with Mrs. Todd, 1327 Michigan as hostess. After the regular routine of business, Mrs. Carrie Cowan and Mrs. Roy Herdon gave the club very interesting remarks. Dainty refreshments were served and the club adjourned to meet with Miss Lewis, 1320. The 15 at which time had only a few absentees. The ladies displayed much talent in heir crocheting. One addition was made to the club, Mrs. Lizzie Davis, 4329 Penn street. The club opened a series of discussions with Mrs. Ferguson as hostess the twenty-second. 2230 Woodland. The first topic \"Household Economy\" by Mesdames Collier and Alexander. Refreshments were served, served.\n\n* * * * * * * * * * * * * * * * * * * *"
+    },
+    {
+      "bbox": [
+        640,
+        2393,
+        901,
+        2412
+      ],
+      "label": "text",
+      "text": "**************************************************************"
+    },
+    {
+      "bbox": [
+        683,
+        2435,
+        856,
+        2448
+      ],
+      "label": "paragraph_title",
+      "text": "PORO HAIR GROWER."
+    },
+    {
+      "bbox": [
+        642,
+        2451,
+        901,
+        2504
+      ],
+      "label": "text",
+      "text": "Scalp Treatment A Specialty.\nHours 8:30 A. M. to 7:30 P. M.\nMRS. A. B. HOLT,\nHours 6:408 2:355 Main St"
+    },
+    {
+      "bbox": [
+        641,
+        2495,
+        901,
+        2517
+      ],
+      "label": "text",
+      "text": "Home South 2408. 3215 Main St"
+    },
+    {
+      "bbox": [
+        640,
+        2496,
+        903,
+        2698
+      ],
+      "label": "text",
+      "text": "Home South 2408. 3215 Main St.\n\n\"Why Jesus Was a Man and Not a Woman\" and \"Why Jesus Never Married.\"\"There is a reason..Do you desire to know why?.If so, send 10 cents in stamps and get the booklet containing the addresses and proceedings of the second anniversary of Sidney C. Tapp's books on the sex law of the Bible..Address Sidney C. Tapp, 406 Reliance Building, Kansas City, Mo."
+    },
+    {
+      "bbox": [
+        941,
+        534,
+        1111,
+        563
+      ],
+      "label": "paragraph_title",
+      "text": "REV. MRS. PEARL.\nThe Famous Evangelist."
+    },
+    {
+      "bbox": [
+        891,
+        534,
+        1155,
+        945
+      ],
+      "label": "text",
+      "text": "REV. MRS. PEARL.\nThe Famous Evaangelist.\n\nRev. Sister Dee Pearl, 3101 East 16 has reopened her Church Grant Chapel at 533 Harrison street . It is a beautiful Church room easily seating 100 persons. To add to its comfort Sister Pearl is master in her profession of and altogether it is a very comfortable and cozy Church room. Sister Pearl it master in her profession of divine healing coupled also with the gift of wisdom to preach the infallible doctrine of truth makes her a tower of strength in advancing the cause of Christ, unfortunate and fallen humanity and giving God the praise. Sister Pearl will also open a spiritual study at her church for the acceptance of members and all those who are spiritually inclined that they may gain strength and knowledge in the study of the scripture in this great works with faith in Jesus-Christ. For information consult Sister Pearl at her residence, 3101 E. 16th. Bell Phone: East 2387."
+    },
+    {
+      "bbox": [
+        965,
+        964,
+        1091,
+        980
+      ],
+      "label": "paragraph_title",
+      "text": "OSKALOOSA, IA."
+    },
+    {
+      "bbox": [
+        945,
+        1000,
+        1108,
+        1015
+      ],
+      "label": "paragraph_title",
+      "text": "DIED OF HIS BURNS."
+    },
+    {
+      "bbox": [
+        894,
+        1036,
+        1156,
+        1056
+      ],
+      "label": "text",
+      "text": "Andrew Nelson Succombs to Injuries"
+    },
+    {
+      "bbox": [
+        895,
+        1042,
+        1159,
+        1625
+      ],
+      "label": "text",
+      "text": "Andrew Nelson Sucombs to Injuries Received in Fire at His Home.\n\nAndrew Nelson age 72 years was fatally burned at Evans, la., January 21, 1915 when his home was destroyed by fire. The house was all in flames when the fire was discovered and Mr. Nelson was in the midst of the flames. He succeeded in passing the fire alive but die dat 4:00 o'clock Thursday morning after intense sufferinig. He was terribly burned and had no chance to live at any time. He was abl teo talk and was conscious until dath. He stated that the fire stardt the explosion of a kerosene lamp. The property was a total loss. After awaking Mr. Nelson finally managed to get to a window and breaking it, crawled out but he was seriously and fatally burned by so doing. After escaping he ran to the Burgess home about twenty tyrs away and Dr. B. J. Williams was summoned from Oldoaosa. The flesh dropped in many places from his body and the physician pronounced his injuries at once fatal Mr. Nelson was a miner and a widower and had lived alone at Evans for sometime. He is survived by the following children: Mrs. Mary Kirkpatrick, Mrs. Amelia Lewis, Mr. Walter Nelson of Lexington, Mo., and Mrs. Fannie Carson of Kansas City, Mo. The funeral services were held from the Chuseman parlors and interment was made in Forest cemetery Sunday, January 24."
+    },
+    {
+      "bbox": [
+        974,
+        1654,
+        1089,
+        1668
+      ],
+      "label": "paragraph_title",
+      "text": "IN MEMORIAM."
+    },
+    {
+      "bbox": [
+        902,
+        1673,
+        1166,
+        1835
+      ],
+      "label": "text",
+      "text": "In memory of our dear sister and daughter, Miss Dela Thatcher who fell asleep, January 25, 1914.\nJust one year ago you left us;\nHow we miss you Dela dear,\nAnd remember all your kindness\nAs we drop a silent tear.\n\nMore and more each day we miss you\nFriends may think the wound is\nhealed."
+    },
+    {
+      "bbox": [
+        906,
+        1883,
+        1163,
+        1913
+      ],
+      "label": "text",
+      "text": "Sadly missed by mother, father sisters and brothers."
+    },
+    {
+      "bbox": [
+        904,
+        1950,
+        1164,
+        1979
+      ],
+      "label": "text",
+      "text": "HEALTH, HAPPINESS AND PROS PERITY."
+    },
+    {
+      "bbox": [
+        904,
+        1950,
+        1164,
+        1979
+      ],
+      "label": "paragraph_title",
+      "text": "HEALTH, HAPPINESS AND PROS PERITY."
+    },
+    {
+      "bbox": [
+        903,
+        1984,
+        1167,
+        2092
+      ],
+      "label": "text",
+      "text": "What a Blessed condition. I want every colored person in America to realize this great truth. I teach you how. I also give treatments for all undesirable conditions. Out of town patients cared for through telepathy and correspondence."
+    },
+    {
+      "bbox": [
+        985,
+        2090,
+        1168,
+        2152
+      ],
+      "label": "text",
+      "text": "H. J. HOWELL,\nMetaphysical Practitioner,\n1533 Baltimore avenue,\nKansas City, Mo."
+    },
+    {
+      "bbox": [
+        911,
+        2511,
+        1174,
+        2697
+      ],
+      "label": "text",
+      "text": "A BEAUTIFUL DESIGN.\nSprays .....$1.00 and upward\nDesigns .....$150 and upward\nWe please the people oth in price\nand aquality.\nFlowers for all occasions.\nWEAVER FLORAL CO.\n1510 E. 18th St-\nHome phone Main 7555.\nBell phone East 4798."
+    },
+    {
+      "bbox": [
+        1156,
+        147,
+        1419,
+        195
+      ],
+      "label": "doc_title",
+      "text": "Among the Churches"
+    },
+    {
+      "bbox": [
+        1156,
+        211,
+        1422,
+        727
+      ],
+      "label": "text",
+      "text": "SECOND BAPIST CHURCH.\n\nMr. E. W. Thompson, instructor of the B. Y. P. U. class has been requested to bring the class before the City Conquest Union which meets at this church next Sunday at 3:00 p. mff, and demonstrate the efficiency to which it has attained....Miss Ruth Price a popular and sweet soprano singer has resumed her position in the choir....Dr. S. W. Bacote delivered two powerful sermons last Sunday to a large congregation....Much credit is due to Sisters Becks, Desmond, Osley, Mitchell, Smith and others for the able manner in which they assisted the pastor in this great revival. The women were well organized and worked by an excellent system. There are new 120 additions to the church of which 82 are candidates for Baptism. The revival will continue every night of the week beginning Sunday, January 21. Don't miss this opportunity of having some stars added to your crown. Come out in larger numbers and make this the crowning week of the revival. On Sunday Feb. 7th, Dr. Bacote will celebrate his 20th anniversary as pastor of this church by baptizing this great host of converted souls. Let us hope and prayer that this will be a Pentecostal day."
+    },
+    {
+      "bbox": [
+        1198,
+        738,
+        1385,
+        752
+      ],
+      "label": "paragraph_title",
+      "text": "ALLEN CHAPEL NOTES:"
+    },
+    {
+      "bbox": [
+        1163,
+        750,
+        1428,
+        1241
+      ],
+      "label": "text",
+      "text": "Although the weather was very disagreeable yet a fair sized audience was in attendance and a very interesting sermon was delivered by the minister. There were two additions to the church. The revival meetings being held are arousing much interest and the largest week day crowds that have been in Allen in years have been attending each night. The Usher's board composed of the most active and successful young business and professional men in the city under the leadership of W. Clarence Hueston, Esq., are evolving plans for the installation of the new up-to-date heating plant. Each one of the fourteen ushers is expected to raise $150 cash giving a total of $2,100 for the installation of the plant without any installation to be paid thereafter. Rev. Howard, the Evangelist is having wonderful success in his meetings and the probabilities are that there will be fully a hundred accessions by the close of the week. Under the leadership of Mrs. Bruce and Lawyer Calloway, great preparations are being made for Go to Church Sunday, February 7th. Prof. Jackson will have a musical program program that will surpass anything in recent years."
+    },
+    {
+      "bbox": [
+        1167,
+        1251,
+        1426,
+        1266
+      ],
+      "label": "paragraph_title",
+      "text": "VINE STREET BAPTIST CHURCH."
+    },
+    {
+      "bbox": [
+        1167,
+        1266,
+        1430,
+        1510
+      ],
+      "label": "text",
+      "text": "On account of the cold weather our attendance was poor. Sunday our pastor preached, morning and evening, both sermons were full of instruction.....We were shocked to hear of the death of our pastor's mother. We extend to him and family our heartfelt sympathy and say to them: Meet her in heaven where all is peace and joy and love, and death is a stranger.....he following are on the sick list: Mesdames. Ella Lawson, Clara Patterson, Ella Gillham, Agnes Pollard, Maggie Reiner and Mr. Bragg Liggins for all of whom we hope an early recovery."
+    },
+    {
+      "bbox": [
+        1171,
+        1900,
+        1429,
+        2007
+      ],
+      "label": "text",
+      "text": "REV. J. R. RANSOM, D. D.\nThe Scholarily and Eloquent Pastor of the First A. M. E. Church, Kansas City, Kansas, Who Delivered One of the Most Forceful and Remarkable Addresses on \"Good Government\"\nEver Heard at the Y. M. C. A."
+    },
+    {
+      "bbox": [
+        1174,
+        2049,
+        1421,
+        2092
+      ],
+      "label": "paragraph_title",
+      "text": "Finds Cure for Epilepsy After Years of Suffering"
+    },
+    {
+      "bbox": [
+        1176,
+        2097,
+        1426,
+        2155
+      ],
+      "label": "text",
+      "text": "'My daughter was afflicted with epileptic fits for three years, the attacks coming every few weeks. We employed several doctors but they did her no"
+    },
+    {
+      "bbox": [
+        1179,
+        2154,
+        1429,
+        2506
+      ],
+      "label": "text",
+      "text": "good. About a year ago we heard of Dr. Miles' Nervine, and it certainly has proved a blessing to our little girl. She is now apparently cured and is enjoying the best of Health. It is over a year since she has had a flair. We cannot speak too highly of Dr. Miles' Nervine.\"\n\nMRS. FRANK ANDERSON, Comfrey, Minn.\n\nThousands of children in the United States who are suffering from attacks of epilepsy are a burden and sorrow to their parents, who would give anything to restore health to the sufferers."
+    },
+    {
+      "bbox": [
+        1212,
+        2512,
+        1386,
+        2528
+      ],
+      "label": "paragraph_title",
+      "text": "Dr. Miles' Nervine"
+    },
+    {
+      "bbox": [
+        1181,
+        2533,
+        1433,
+        2682
+      ],
+      "label": "text",
+      "text": "is one of the best remedies known for this affliction. It has proven beneficial in thousands of cases and those who have used it have the greatest faith in it. It is not a \"cure-all,\" but a reliable remedy for nervous diseases. You need not hesitate to give it in the form of all Druggies. If the first bottle fails to benefit your money is returned."
+    },
+    {
+      "bbox": [
+        1181,
+        2681,
+        1432,
+        2695
+      ],
+      "label": "text",
+      "text": "MILES MEDICAL CO., Elkhart, Ind."
+    },
+    {
+      "bbox": [
+        1441,
+        232,
+        1926,
+        348
+      ],
+      "label": "doc_title",
+      "text": "TRADE PORO MARK"
+    },
+    {
+      "bbox": [
+        1451,
+        756,
+        1933,
+        950
+      ],
+      "label": "text",
+      "text": "\"THE HAITIAN RESOLUTION 1791-1804\"\n\u2014Or\u2014\nSidelights of the French Revolution by\n\u2014By\u2014\nT. G. STEWART, RETIRED CHAPLAIN 25TH INFANTRY\nU. S. A.\nA true and accurate account of black men who broke their chains, made themselves free, expelled their former masters, and constructed a state that has stood the twelve tests of a century without help."
+    },
+    {
+      "bbox": [
+        1435,
+        1003,
+        1960,
+        1091
+      ],
+      "label": "text",
+      "text": "FREE! FREE! FREE! FREE! The above book to anyone bringing Six New Subscribers of One Dollar Each for the Sun."
+    },
+    {
+      "bbox": [
+        1542,
+        1444,
+        1859,
+        1489
+      ],
+      "label": "text",
+      "text": "Special New Line of Prescription Drugs Graduate Prescriptionist."
+    },
+    {
+      "bbox": [
+        1563,
+        1559,
+        1838,
+        1576
+      ],
+      "label": "text",
+      "text": "EIGHTEENTH AND WOODLAND"
+    },
+    {
+      "bbox": [
+        1703,
+        1626,
+        1970,
+        2458
+      ],
+      "label": "text",
+      "text": "are responding to his love. Men and women are imbued with his spirit, having his spirit they love\u2014love him and love what he loves. Saved men and women are loving their neighbors, loving lost men and women for whom Christ died and acting from a spontaneous impulse are giving their time, their money and themselves to the rescue of the pershing. The Christ spirit is a spirit of service. Christ spirit is a spirit of service. Christ was the greatest of servants. Hear this work from Paul:\n\nHave this mind in you which was also in Christ Jesus, who existing in the form of God accounted not his being on an equality with God, accounted not his being on an equality with God a thing to be grasped, but emptied himself taking the form of a servant, becoming in the likeness of man; he being found in fashion as a ma, he humbled himself becoming obedient to death and the death of the Cross. Of himself Jesus said: \"For even the son of man came not to be ministered unto, but to minister.\" And at the same time he said to his disciples; but whosoever will be great among you shall be your minister; and whosoever of you will be the chiefest shall be the servant of all.\" So the spirit of Christ gives itself in service to other. How wide this field of service. The more there is of the Christ spirit in the lives of men and women, the more will be of unselfish service. The Christ spirit is the spirit of sacrifice. Christ gave his life as a ransom. He became obedient unto death even the death of the cross. He laid down his life to save the objects of his love. It is in the nature of love to sacrifice. We may say that love loves to sacrifice in the interest of the objects of love. True love is always and everywhere sacrificial. There are no limits to which it will not go and no price that it will not pay. There is no pain that it will not suffer and no depth of his mutilation to which it will not descend. Love will suffer without complaints and die if need be."
+    },
+    {
+      "bbox": [
+        1712,
+        2497,
+        1977,
+        2694
+      ],
+      "label": "text",
+      "text": "Jerry Larkins, 9 East Galenna street, Butte, Mont., proprietor of the Up to Date Tonsorial Parlor is the agent for the Kansas City Sun and the Chicago Defender. These papers can be had every Monday morning by calling at the shop or phoning Independent phone 5708 and a paper will be delivered to your address. The Crisis is also for sale. Leave your orders for any of these papers and see what progress the race is making. Let Larkins help you get them."
+    },
+    {
+      "bbox": [
+        1487,
+        1626,
+        1646,
+        1642
+      ],
+      "label": "paragraph_title",
+      "text": "THE CHRIST SPIRIT."
+    },
+    {
+      "bbox": [
+        1436,
+        1664,
+        1704,
+        2697
+      ],
+      "label": "text",
+      "text": "By MRS. J. L. JACKSON, Kansas City, Kas.\n\n\"Whatever things are true, whatever things are venerable, whatever things are"
+    },
+    {
+      "bbox": [
+        1785,
+        2480,
+        1895,
+        2493
+      ],
+      "label": "paragraph_title",
+      "text": "BUTTE, MONT"
+    }
+  ]
+}

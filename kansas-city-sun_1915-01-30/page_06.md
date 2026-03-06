@@ -1,0 +1,298 @@
+# Dr. Marden's Uplift Talks
+
+By ORISON SWETT MARDEN
+
+SMILE once in a white.
+It will make your heart seem lighter.
+Life's a mirror—if we smile.
+Smiles come back to greet us;
+If we're frowning all the while.
+Frowns forever meet us.
+
+Mr. Paul Poiret, the well-known Frenchman who visited our shores last fall, carried away some not very flattering impressions of our people and country—says we do not know how to laugh, or at least must be "made" to laugh. With the French laughter is the expression of a gay heart, while with the American humor is appealed to through the intelligence.
+
+Even in our sports we are serious, says M. Poiret. "Those who take part in them as it so soberly and as intensely as if it were an act of business. And the spectators! They might be watching a man being tried for his life. They could hardly look more concerned if they were."
+
+Many people give us the impression that the famed Damocletian sword of pain, suspended by a thread, hangs over them constantly, ready to fall and pierce them at any moment, even in their joy and pleasure. They enjoy to enjoy anything without alloy. They give you the impression that they are conscious of the skeleton's presence at every feast.
+
+The American people as a rule take life much too seriously. They do not have half enough fun. Europeans look on our careless, solemn-faced people as on pieces of machinery run at forced speed and which squeak for lack of oil.
+
+"I question if care and doubt ever wrote their names so legibly on the faces of any other population," says Emerson. "Old age begins in the nursery."
+
+Why take life so seriously, anyway? A lot of play will not only improve your health, but increase your efficiency wonderfully.
+
+If a man is living in a perfectly normal way he ought not to have, as so many have, a haunted, hooded look, as though he suspected either a policeman or a detective were on his track. He ought not to be worried and anxious every minute. He ought not to take his vocation so very seriously, and should not give the impression that the whole universe is hanging upon the result of his task.
+
+A great many men fall because they are too serious; because they develop unsocial, morose, cold qualities, which repel and which make them poor mixers. It is the sunshine, happy nature which attracts friends and trade. The too serious people seem to say, "Keep away from me, life is too serious a matter to be spent on trivial things."
+
+They are dry and rutty because in their lives to furnish the necessary lubrication, variety, or change.
+
+Not long ago I heard a young clergyman preach a sermon which was so very serious, and so very gloomy, that it made everybody in the congregation feel melancholy and depressed. There was no uplift, no encouragement, nothing to stimulate one to greatest endeavor. People did not go out of the church, as they should have gone, resolved to try a little harder than ever before, to do something worth while; but the whole congregation went away with a gloomy look on their faces. There had been nothing inspiring in the clergyman's appearance. His face was so serious and his whole manner so depressing that it was really painful to listen to him.
+
+People have burdens enough of their own to bear, and do not want anybody to inject dark, doleful pictures in their minds. They go to church for uplift, encouragement. They want to rid themselves of the enemies of their happiness and prosperity. Thousands of people who now remain away from church would gladly go if they could come away feeling uplifted, encouraged, and with increased hopefulness. "He that cannot laugh and be gay should look to himself," wrote Henry Ward Beecher. "He should fast and pray until his face breaks forth into light."
+
+TRAGEDIES CAUSED BY THE TONGUE.
+
+They had "heard rumors and became frightened." This was the only reason the pane-striken depositors would give for their mad rush on the bank for savings in New York a few days ago.
+
+The silly gossip of a servant, it was thought, started the rumor that the bank was in difficulties. Although its president stated that the deposits were ninety-seven million dollars, nearly eleven million of a surplus, and that the largest banks in New York had offered to come to the rescue with fifty million dollars if necessary, yet thousands of men and women crowded one another in their frantic haste to get their money out of one of the soundest institutions in the country!
+
+The whole fabric of the business world hangs upon confidence. Our best credit system depends absolutely upon it. Anything which throws the slightest suspicion upon it causes disaster. Nothing else is so sensitive as confidence. And there is not-
+
+One of the most beautiful phases of moonlight is that it not only shines upon us with the light of the sun, but also, with its crescent shape when it is "new," reflects back to us the light of earth, a faint, wondrous illumination of the otherwise dark part, which has been called "the old moon in the arms of the new." That is called "earthshine," and comparatively few who witness the advent of a "new moon" understand the source of the phenomenon, a very dreamlight ema
+
+ing quite so malignant in its power to destroy it, to blast everything it touches, as rumor, the baseless gossip of idle or malicious people.
+
+Sometimes the least breath of suspicion will seriously injure a man's credit which it has taken a lifetime to build up. It has often made havoc of a woman's reputation.
+
+One of the cruelest things that a human can be do is to peddle gossip, to pass along slander, or even a true story which tends to injure another, or to put him in an unfavorable light. It is fatally easy to say things which will cause lifelong wounds, and many people are so careless with their tongues!
+
+Only a short time ago a woman in Brooklyn was driven to suicide by the gossip of her neighbors. They told her that her husband was paying attention to her women; and although he assured her that he was doing nothing of the kind the gossips succeeded in making her so jealous that she poisoned herself.
+
+I know people who would never forgive themselves for striking another with their hands, but who do not hesitate to stab an unkind person in the back an unkind, uncharitable, cruel remark, or to spread a bit of slander which may have disastrous effects on the victim.
+
+Some years ago this headline appeared in a New York daily: "Georgia Cayan Dies on a Sanatorium Cot! Falsehood Ended Her Career." Miss Cayan was an actress. She began her career by reading selections from Shakespeare to customers in her mother's "candy store" in Bath. Me. Later she graduated from the School of Oratory in the Boston university and attracted the attention of Daniel Frohman, who brought her to New York. In a short time she became a star, and one of the most popular actresses in New York city.
+
+Her beauty, brilliance, vivacity and remarkable talent made her such a favorite that those envious of her began to reflect upon her character. A scandal was started which so preyed upon Miss Cayan's sensitive mind that she fell into melancholy and never returned to the stage.
+
+Although it was proved that the actress was in Europe at the time of the scandal in this country with which her name was falsely connected, and notwithstanding the fact that her character received a sweeping vindication, yet the wagging tongues continued to peddle the scandalous gossip until her melancholy developed into paresis, and finally put her beyond medical aid.
+
+There are thousands of people in the great failure army today who might have been a success but for the gossips. The unkind criticisms of companions or neighbors, the scandals calculated by the thoughtless or evil-minded unnerved them. They lost heart when even those they thought were friends stabbed them in the back and they gave up the struggle.
+
+We probably have all of us come to points in our careers when it would not have taken very much to have discouraged us and turned us the other way. Who can ever estimate the number of failures, the lifewrecks, that have been caused by gossipers? How many people have been driven to suicide by cruel slainer? How many people have become disheartened and have laid down their burdens and given up the struggle because their sensitive natures could not stand the strain of misrepresentation?
+
+There is no meaner, more cowardly or contemptible thing than to take advantage of another's absence to discuss his shortcomings, and to peddle idle gossip and slander about him.
+
+I believe the time will come when the person who says unkind, cruel things about another in his absence will be ostracized as an enemy of the race, will be despised as a traitor to everything that constitutes real friendship and true manliness or womanliness. There is no more despicable habit than the gossip habit. The people who indulge in it little realize that they are exhibiting their own defects; that they are showing themselves up in the most unfavorable light possible. Everybody who knows them knows that he may be the next victim.
+
+## The Fresh Air Cure
+
+Plenty of fresh, pure air is an essential part of a patient's treatment. Pure air is just as important and necessary for good health as are pure food and pure water. Fresh air and sunlight are the cheapest and best agents for the recovery of an ill person. Let fresh air and sunlight enter your sick rooms, through open windows as much as possible. Expose the bed clothing to the open air and sunshine for some time each day. Sleep with the bedroom windows open, says nurse. The old superstition that night air is unhealthy even for an invalid is entirely false. On the contrary, night air, especially in large cities, is purer and better than day air, because it contains less dust and fewer microbes. To get the best ventilation have the window open at both top and bottom.
+
+Why He Preferred the Moon. Two negroes got into a discussion concerning the relative values of the moon and the sun to the world. After listening to the advocate of the sun the other proceeded to demolish his argument with the following logic: "De sun am all right, but de moon am wuff two ob it; de moon shines in de night when we needs it, but de sun done shine only in de day when we got light enough without it."
+
+nating from our globe, and suggesting how grand might be that earthshine to lovers and others on the moon if there were such.
+
+## Annoved at "Joke."
+
+In England it is quite common, instead of saying "Hello" when using the telephone, to ask, "Are you there?" An American who heard it for the first time, thinking someone was endowing to have some fun at his expense, replied "No," and hung up the receiver.
+
+# AUSTRALIAN TROOPS LAND AT PLYMOUTH
+
+---
+
+# AUTOS WIN BATTLE
+
+# How the Tide Was Turned on the Marne.
+
+General Gallienl Hurls 70,000 Men by Taxicab Against German Flank and Forces Retreat to the Alane.
+
+By FRANKLIN P. MERRICK.
+(International News Service.)
+
+Paris—It is not generally known that the Battle of the Marne was won by automobiles. General Gallienl had 400 taxicabs and other light motor cars at his disposal. It will be remembered that Von Kluck with the right of the German army got as far as Champlley. General Gallienl, as military governor of Paris, had a large force, probably half a million men, at his disposal and he was responsible for the defense of Paris.
+
+Gallienl figured that he had more men than he really needed and that 70,000 of his men could be spared for work at the front.
+
+Acting entirely upon his own responsibility, he ordered his men to crowd into the automobiles. He made each taxicab carry nine soldiers. It was a curious sight. There were two in each seat, two on the hood, one on the driver and one on each running board.
+
+Within six hours he threw the whole 70,000 against the flank of the Germans at Meaux, about thirty-five miles from Paris. Von Kluck evidently had not reckoned with such a sieve. He was forced to stop and give battle. The French, retiring on his front, re-formed and gave battle on his front, re-formed the retreat of the Germans from Marne to the Alane after the sanguinary battle named from the first river.
+
+This is only one of the great exploits of the French army automobile transport service. No other nation in this war has used the motor car with the effectiveness of the French. The automobile transport service is organized as a separate branch. Working with amazing rapidity just after the beginning of the war, the French army officers drafted into this corps men who had been employed in automobile manufacture—foremen, skilled workmen, testers and drivers. The officers were drawn from the manufacturers, agents and other heads of automobile organizations. The heaviest trucks are used for ammunition carriers and lighter commercial vehicles for the food supply. General Mongin commands the whole corps.
+
+Some noted French race drivers are now in the army service. Bollot alternates with the Marquis D'Albufera in driving General Joffre's car. Several machines are kept ready day and night for General Joffre and it is no unusual
+
+This unique picture of the king of the Belgians was taken in the trenches where his valiant little army is defending the last few miles of the devastated country. Every morning the king pays a visit to his soldiers, asks after their welfare and generally comforts them. On this occasion he presented the men with warm rugs, the gift of Queen Elizabeth.
+
+Envoy Hands Card to German Officers Who Objected to His Speaking English.
+
+Paris.—A story printed here of a peculiar incident at Brussels recently is attracting much comment and considerable amusement.
+
+Two German officers were dining in a restaurant in the Belgian capital. At the adjoining table were two men conversing in English. The German
+
+thing for him to enter one of them and drive the whole length of the battle front in the course of the night.
+
+There are now 15,000 automobiles and 12,000 trucks in the service of the French army.
+
+One of the automobile service corps' biggest feats was the transfer of the British army from Braisne, between Soisne and Reims, to St. Omar, a distance of 170 miles. The 200,000 men were transported to their new positions within three days.
+
+## RAT WENT THROUGH THE WAR
+
+Unusual Pet Was in Soldier's Pocket During Hot Fights in Flanders.
+
+London.—Perhaps the only rat on record that ever went through a military campaign, ensconced smugly in its soldier owner's pocket, at the battle of Mons, the Marne and the Alse, is now in London in the possession of Sergeant Johnson of the Royal Field artillery. Johnson was wounded at Soissons and is on a few days' leave. "Billy," as Johnson calls his rat, though the latter is a lady, is pure white, and was given to the English soldier by a French girl at the beginning of the war. During the battle of Mons, the rat sat on her master's right boot. Twice she wandered away, but came back all right and was in the fighting all the way from Mons to Melun, southeast of Paris, and back to the Marne and the Alse. Billy was in Sergeant Johnson's pocket all the time and was never hurt. When the soldier landed at Southampton, after he had been wounded by shrapnel, a lady who saw the white rat, presented to Johnson a black terrier pup name1 Toby to keep Billy company. The rat and the pup are now close friends.
+
+## WAR SPATS CAUSE DIVORCE
+
+Use of French Language Classified as Offense—Suspects Tried by Court Martial.
+
+Basel, Switzerland.—German martial law is described by Alsatians in Basel as "weighing heavily" upon their countrymen at home.
+
+They declare that the speaking of French is classified as an offense under the orders issued by the commanding generals of the Fourteenth, Fifteenth, Sixteenth and Twenty-first German Army corps, who cite the imperial laws of 1878 and 1882 to support their contention. The testimony of the children and servants is taken as proof before court-martial of guilt of talking French.
+
+Personal feeling between pro-French and pro-German Alsatians is running high, visiting Alsatians declare. The local courts have granted divorces recently to husbands and wives unable to live harmoniously because of their opposing national sympathies.
+
+## MAKING UP FOR VODKA EDICT
+
+Russian Revenues Nearly Up to Expenses in Spite of Prohibition.
+
+Petrograd.—Next to the war the financial side of life is claiming the attention of the Russian public.
+
+In spite of the war, with its loss of customs receipts, and the abolition of the vodka monopoly, which together mean a loss of $100,000,000, the revenues for 1915 are estimated at $1,550,000,000. Ordinary expenses are estimated at $1,540,000,000, extraordinary expenses estimated at $75,000,000, making $1,615,000,000 the total expenses for 1915.
+
+## ENEMIES IN DEATH EMBRACE
+
+Frenchman and German Bayonet Each Other and Die With Hands Clasped.
+
+London.—A French observer of the battlefield of the Marne tells that he saw a Frenchman and a German lying together, apparently in the act of exchanging a handshake. Coming nearer, he found that each man had bayoneted the other, and had fallen in a death embrace which mimicked the pose of greeting friends.
+
+officers showed signs of displeasure at the use of English by their neighbors, but the latter took no notice of the annoyance of the Germans and continued their talk.
+
+Finally the Germans could stand it no longer and one of the officers arose and approaching the table at which the strangers were sitting said: "I will be obliged if you will talk to English; it displeases and annoys me."
+
+One of the men thereupon asked the officer for his card and held out his own. The officer looked at the
+
+British and German Soldiers Fight on the Gridiron—Kaiser Upsets the Schedule.
+
+Berlin—A general order issued by the German army authorities prohibits football games in the field between German and English soldiers.
+
+At Christmas time men from both sides in the western theater of war fraternized and played hotly-contested games of football. Officers and men laid aside their arms and watched the players and cheered them on.
+
+The rivalry became so intense that war was forgotten and the men who kicked the most goals received more applause than is usually given heroes on the fighting line.
+
+At one place where the Germans and British played the game was a draw and the players agreed to suspend fighting for two days more in order to decide the issue on two games out of three.
+
+News of this reached the military authorities and it was decided that football was interfering too much with the business of warfare, aside from the complications arising from too friendly contact between the advance guards.
+
+The order was issued forthwith and there will be no more athletic contests between the soldiers, who also are forbidden to fraternize or meet on any terms except those of bitter enmity.
+
+## OBSERVATION DUTY
+
+A French observation officer on duty along the firing line.
+
+## GUNS' ROAR DRIVES MEN MAD
+
+Soldiers Go at Each Other With Bayonets or Rush for Each Oth; er's Throats.
+
+Washington, D. C.-Europe's war is converting hundreds of men into maniacs, according to Maj. J. J. Dickinson of the state department, who recently saw fighting in the trenches near Solosons.
+
+"Thethey don't fire at each other," he said, "but the dut of artillery directed at the covered trenches is positively maddening. Now and then I saw men jump out of the trenches and go at each other with bayonets or in a mad rush for each others' throats.
+
+"From my position from trenches a little behind the actual firing line I saw hundreds of men brought back. They did not seem to be wounded. They were screaming, raving maniacs, driven insane by that maddening roar of artillery overhead."
+
+## LOST GLASS EYE IN FIGHT
+
+French Soldier Wants New Optic So He May Rejoin Forces at Front.
+
+Paris.-Emile Decostered, a French soldier, has written an oculist in Paris asking that he be supplied a new eye. His letter states that he fought with his regiment until a week ago when he was wounded by a ball that hit the glass eye and shattered it.
+
+"The doctor, noticing I am without an eye," says Decostered, "is holding me in the hospital. Please send me an eye so that I can join my command."
+
+card, drew himself up, clicked his heels together, saluted and murmured his excuses.
+
+The stranger's card bore the name of Brand Whitlock, Envoy Extraordinary and Minister Plenipotentiary of the United States to Belgium.
+
+## Now Allow Movies.
+
+Paris.—The Paris authorities now allow movies showing scenes of devastation due to the war. Hitherto all films showing anything in connection with the war were prohibited.
+
+# SOME KITCHEN KINKS
+
+METHODS THAT MAY BE NEW TO
+MANY HOUSEWIVES.
+
+Tiles Always Best When One Can Afford Them—Keeping the Dishcloth Fresh—Linoleum for the Floor Covering.
+
+Tiles are so clean and nice if one is able to afford them. The young wife who has them will never regret the outlay, although they are rather expensive at the start. Round the kitchen walls they are splendid and most hygienic in every way.
+
+The back of the sink is bound to get splashed with the washing up after each meal. Therefore here it is essential to have either tiles or zinc or something of the kind through which the water cannot penetrate. Zinc answers the purpose quite well if securely nailed flat against the wall. This is easily cleaned daily with a little dry brickdust.
+
+The tiles, of course, are ideal, as all they need is a washdown with warm water daily.
+
+A little enamel basket is so useful in the sink for tea leaves and such things which are more than likely to go down the sink and eventually stop it up. It is shaped so that it fits into the corner of the sink, perforated with holes, so that all liquid passes away, leaving the solid bodies in the basket.
+
+Nothing is more unpleasant than a greasy dishcloth. To keep this important article fresh and sweet, it should be scalded each time after use, or else washed out thoroughly in hot water and rinsed well in several waters.
+
+A plate rack fixed above the sink is a great saving of labor. Plates put in the rack must be rinsed in cold water after being washed in hot, if you do not want them to be smudgy.
+
+When roasting meat, use a double meat tin. Put cold water in the under one. This prevents the dripping burning and also keeps it from boiling away.
+
+Plenty of hot water is essential for dish washing. Collect all the silver. Place the knives blade downward in a jug of hot water. Pile up the plates neatly. A little arrangement saves the muddle one so often sees in connection with washing up. Wash all the cleanest things first to save the water. Rinse glass in cold water after washing in hot and polish well with a dry, clean cloth.
+
+The most useful and healthy floor covering for the kitchen is linoleum. Inlaid linoleum is the best to purchase. Here the pattern goes right through and therefore will be perfect to the last.
+
+Clean your windows when the sun is not shining, for if the sun shines on a wet window no amount of rubbing will prevent it from being streaky when dry. Avoid a frosty day, too, as the glass is apt to break easily then. Dust the windows thoroughly. Wash the glass with a sponge wring out in tepid water with a few drops of ammonia in it. Dry with a clean cloth (with no fluff on it). Polish with pads of newspaper.
+
+## The Cook Says.
+
+If your market basket or clothes basket of willow shows a few loose ends, put it to soak for twenty minutes or half an hour in lukewarm water.
+
+A good way to do is to put the basket into the bathtub, resting it on the part that is to be repaired, then turn in enough water to soak this part. The important thing is to get the willow ends soft and pliable.
+
+When this is accomplished the strips can be readily bent back into place, and if you push them in firmly, they will stay in place when dry. Never try to bend the willow strips while they are dry, as they will be sure to snap off.
+
+A putty knife, with its short handle and broad blade, is an indispensable tool in the kitchen. It can be used for turning hash, fritters and fish. Its broad end is also most useful in scraping pots and pans.
+
+## Halibut With Tomatoes
+
+Take the required amount of hall- but steak and put into a buttered pan. Arrange slices of tomato to cover it and put on top of the tomatoes plenty of green peppers sliced rather thin. Season with salt and pepper and pour over all one-fourth cupful of melted butter. Bake in hot oven 20 minutes, basting frequently. A garnish of sliced hard boiled eggs may be added.
+
+## Codfish Wiggle.
+
+Pick up . . . cupful of codfish, place in saucepan with enough cold water to cover, let come to boiling point; drain off as before; thicken a pint of milk as for cream toast, seasoning well with pepper, salt and butter; now add the fish and half a can of peas and let all boll up. Have ready some nicely browned french-fried potatoes and turp the cream, fish, etc., over them.
+
+## Red Pepper Salad.
+
+Mix half can of piments or sweet peppers with one cream cheese. Beat into the mixture sufficient mayonnaise to soften it slightly and add a few drops of onion juice, more if a decided onion flavor is liked. Pack in a mold, chill on ice and when ready to serve in slices and place on crisp lettuce leaves. This makes a good luncheon salad.
+
+## Deviled Ham Rolls.
+
+Make light, rather rich pastry, roll thin and cut into squares of about four inches. Spread upon each square a small quantity of devilled ham, leaving about half inch around the edge uncovered. Moisten the edges with cold water and roll each sheet of ham and pastry compactly, pressing the ends together, and bake.
+
+## Grazze Spots on Woolen Clothing
+
+Great spot on Wooden clothing.
+For removing greasy spots on black woolen clothing the following is excellent:
+Make a solution of borax and warm water and wash the soiled article in it, then rinse in clear water and dry in the sun. This is a good way to clean men's coat collars.
+
+## PROPER COOKING OF MEATS
+
+Various Treatments Necessary for Their Effective Preparation for the Table.
+
+Fresh meats which are to be served cold should be put to cook in a pot of boiling water and boiled hard for 15 minutes, covered, then boiled gently until tender throughout. The seasonings may be any combination of herbs or vegetables desired. Salt and pepper should be added when meat is half done.
+
+Salt meats take different treatment. First soak over night in plenty of cold water. Then scrape and clean the next day, and put them on to cook in a pot of cold water.
+
+Cook tongue very gently until the small bones in the root can be easily pulled out. This is a matter of four hours. Leave in water until cold. Then lift out, trim, skin and serve. It may be put away cold in the ice box, wrapped in a coarse clean cloth, or may be returned to some of the water in which it was boiled. This will help it retain its succulence.
+
+Ham, if very dry, may be soaked 48 hours, changing water once or twice. Put to cook in plenty of cold water. It is done when the small bone in the hook can be pulled out easily. When nearly cold draw off the skin; do not cut. Cover the top with a mixture of egg, bread crumbs, pepper, salt, sugar and a little made mustard, and set in a slow oven to brown. Baste frequently with two tablespoonfuls of vinegar and a little boiling water in the pan. Bake from one to two hours. Save ham fat from the pan. It is fine for frying potatoes, hominy or rice. Save the ham skin and use it to cover the ham under a coarse cloth.
+
+## KEEPC DRAIN PIPES CLEAN
+
+Arrangement That May Be of Home Construction Has Been Recommended.
+
+A device for the kitchen sink that has proved successful in keeping the drain pipes clean is made of a wooden frame and ordinary window screen. Make a wooden frame, about two inches high, just wide enough to fit nicely into the sink, and not quite as long as the inside of the sink. On one end of this nail a board, covering about half the length of the frame; on the other end, on the opposite side, nail a piece of wire window screen. This device may be kept in the sink always, the dishpan set on the wooden part, and anything poured on the other part will be strained before reaching the pipes. This may be easily cleaned, and the wire screening renewed at small expense, when worn through. It is better than the ordinary sink strainer, as it covers the bottom of the sink, and catches everything thrown into it.—Holland's Magazine.
+
+## German Potato Salad.
+
+Boil 'n their jackets two dozen small potatoes until tender. Peel, and while hot, cut in thin slices and mix carefully with two white onions, a cucumber, a green pepper and half a dozen radishes, all sliced thin. Season with salt and pepper and while hot, mix with the following dressing: One-quarter pound bacon cut into small pieces, one-quarter cupful each of water, vinegar, sugar and one-half teaspoonful of mustard, one-quarter teaspoonful of salt, and a dash of cayenne pepper. Fry the bacon slowly until brown; then pour over both the bacon and the fat that has been fried out, the vinegar to which has been added the water. Mix the sugar, mustard, salt and pepper and add this mixture to the other. Cook until the sugar is dissolved and while hot pour it over the potatoes. Heap on a platter and around the sides of the dish; garnish the top and sides of the mound of salad with radishes cut like roses.
+
+## Harleguin Ribbon Cake
+
+Two cupfuls sugar, one-half cupful butter, four eggs, scant cupful milk, three cupfuls flour, two teaspoonfuls baking powder, flavor. Cream sugar, butter and eggs, then add one cupful flour, then milk and remainder of flour, little salt and baking powder, and last the beaten whites of the eggs. Divide into three parts, add one square of chocolate or one tablespoonful of cocoa to one portion, a little pink coloring to another and leave the third plain. Press together with white of the egg or a little jelly and frost with mocha or chocolate frosting.
+
+## Macedoine Vegetables
+
+Here is a way to use cold potatoes which may be new: Melt three tablespoonfuls of butter, add three tablespoonfuls of flour and add gradually $1\frac{1}{2}$ cups of milk. When thickened add one cupful each cooked string beans, peas and cold cooled potatoes, cut in cubes. Season with salt and paprika and let stand 15 minutes over hot water before serving. As this calls for other vegetables it may help to use up the leftovers.
+
+## Liver Hash.
+
+One plot of liver, chopped coars and measured after chopping. In frying pan melt one tablespoonful of butter, add one teaspoonful of flour and blend well. Now add one cupful of water gradually, while stirring, and season with salt and pepper. Stir in the liver and simmer for 20 minutes. Just before serving add one teaspoonful of lemon juice.
+
+## Honeycomb. Pudding.
+
+Beat together one-half cupful of sugar, one cupful of molasses and $1 \frac{1}{2}$ cupfuls flour. Heat one-half cupful of milk and one-half cupful of butter, then add one teaspoonful of soda. Combine the mixtures and beat thoroughly. Add four well-beaten eggs and beat again. Steam in a butered pudding mold three hours, or bake $1 \frac{1}{2}$ hours. Serve with creamy sauce.
+
+## To Keep Silver Bright.
+
+To keep silver bright that is not in use, lay a piece of gum camphor in the drawer or box in which the silver is kept, and you will find that the silver will not require so much polishing.
