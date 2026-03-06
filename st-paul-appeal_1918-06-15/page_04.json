@@ -1,0 +1,508 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 2102,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        89,
+        167,
+        351,
+        597
+      ],
+      "label": "text",
+      "text": "WEEK'S RECORD OF HAPPENINGS\nIN MINNESOTA'S CAPITOL\n\nThe \"Saintly City\" and Saintly City\nPolks\u2014Newspaper Items on Social, Re-\ngious, Political and General Matter\ners Among the People.\n\nPHONE: N. W. CEDAR 5649\nPHONE TRI-STATE 23776\n\nSATURDAY, JUNE 15, 1918\n\n\"In the Name of Liberty.\u2014SAVE\nFREEDOM FOR ALL FOREVER.\nConserve on coal by burning wood.\nPATRONIZE OUR ADVERTISERS!\nSmoke SIGHT DRAFT 6-Cent Cigar.\nMr. E. Johnson has moved to 493 W.\nUniversity avenue.\nMr. J. R. Morris has moved to 503\nSt. Anthony avenue.\nPride holds some people up and\nthrows a great many down."
+    },
+    {
+      "bbox": [
+        107,
+        636,
+        335,
+        655
+      ],
+      "label": "text",
+      "text": "OFFICE CEDAR 8948 RES. DALE 1466"
+    },
+    {
+      "bbox": [
+        109,
+        703,
+        332,
+        744
+      ],
+      "label": "paragraph_title",
+      "text": "W. T. FRANCIS\nLAWYER"
+    },
+    {
+      "bbox": [
+        87,
+        805,
+        350,
+        974
+      ],
+      "label": "text",
+      "text": "SUITE 329\nAMR. BANK BLDG.\nCOR. FIFTH AND CEDAR\n\nST. PAUL\n\nMrs. J. W. Williams has moved to\n655 St. Anthony Ave.\n\nMr. and Mrs. Jas. A. Lynn have\nmoved to 375 Carroll road.\n\nMrs. Natalie Johnson, the dress-\nmaker, has moved to 439 Carroll."
+    },
+    {
+      "bbox": [
+        87,
+        973,
+        349,
+        1005
+      ],
+      "label": "text",
+      "text": "Mrs. Wm. Alston of 575 Iglehart Ave. was on the sick list last week."
+    },
+    {
+      "bbox": [
+        87,
+        997,
+        350,
+        1129
+      ],
+      "label": "text",
+      "text": "Ave. was on the sick list last week.\n\nMiss Neta Cascalvil graduated from\nMechanics Arts High School last Wed-\nnesday.\n\nA little son arrived June 7th at the\nhome of Mr. and Mrs. Evan Anderson.\n\n---"
+    },
+    {
+      "bbox": [
+        89,
+        1136,
+        347,
+        1201
+      ],
+      "label": "doc_title",
+      "text": "ELITE CAFE AND ICE CREAM PARLOR"
+    },
+    {
+      "bbox": [
+        87,
+        1208,
+        348,
+        1477
+      ],
+      "label": "text",
+      "text": "C. A. NILES, PROP.\nMISS CARRIE WEBB, MGR.\n\nST. PAUL'S MOST UP-TO-DATE OAFE & ICE CREAM PARLOUR\n\nA LA CAHTE MEALS AT ALL HOURS\n\nYou can get what you want and when you want it at the Hilfe\n\nSpecial Sunday Dinner 50 Cents\nFrom 11:30 To 3:00 o'clock\n\n305 KENT ST. COR. ST. ANTHONY.\n\nST. PAUL\n\nTel. Dale 2026"
+    },
+    {
+      "bbox": [
+        85,
+        1534,
+        346,
+        1964
+      ],
+      "label": "text",
+      "text": "Mrs. May Black Mason went to Chicago last week to see her sister who is seriously ill.\n\nMr. and Mrs. Cleat Oliver of 874 Marion St. entertained the Whist Club Thursday evening.\n\nMiss Grace Lealtad has been re-appointed as teacher in the Crowley School for the ensuing term.\n\nMrs. E. W. Lindsay, 918 Woodbridge St., was hostess to the Handicraft Art Club Thursday afternoon.\n\nOffice: Cedar 508 T.-S. 21 508\nRes.: 678 St. Anthony Ave.\nTel. Dale 2947\n\nT. H. LYLES\nFUNERAL DIRECTOR AND EMBALMER\n\nTwin City Calls Answered Day or Night\n\nLady Assistant When Dedried\n\n150 W. Fourth St. ST. PAUL"
+    },
+    {
+      "bbox": [
+        85,
+        1950,
+        358,
+        2364
+      ],
+      "label": "text",
+      "text": "150 W. Fourth St. ST. PAUL\n\nMiss Ruth Hunter, formerly of St. Paul, graduated from Summer High School, St. Louis, last Wednesday.\n\nArticles mailed to THE APPEAL for publication must bear the name and address of the sender, to insure publication.\n\nFOR RENT\u2014Two rooms, one on first and one on second floor, for gentlemen only, 972 Rice near Front, Mrs. E. Battles.\n\nFOR RENT\u2014Six-room modern residence, fully furnished, immediate occupation given, terms reasonable. Apply at 292 St. Albans street.\n\nDr. C. E. Cheeks of Cleveland, Ohio, arrived in the city last Saturday and has taken charge of Dr. J. R. French's dental parlors, 409 Court Block."
+    },
+    {
+      "bbox": [
+        95,
+        2364,
+        256,
+        2439
+      ],
+      "label": "doc_title",
+      "text": "Uncle Sam"
+    },
+    {
+      "bbox": [
+        85,
+        2455,
+        358,
+        2780
+      ],
+      "label": "text",
+      "text": "Urges economy in personal affairs.\nTry it on your own pocket and see if it will not benefit your savings account.\nSTATE SAVINGS BANK\n93 E. Fourth Street"
+    },
+    {
+      "bbox": [
+        347,
+        132,
+        624,
+        2218
+      ],
+      "label": "text",
+      "text": "LADIES wishing anything in the line of hair work or scalp treatment may have their wants supplied by calling on Mrs. Elizabeth Battles, 972 Rice street.\n\nPUBLIC STENOGRAPHER\u2014MRS. H. I. WILLIAMS, OFFICE OF ATTY. W. T. FRANCIS, SUITE 329 AMERICAN NATIONAL BANK BUILDING, COR. CEDAR AND FIFTH STREETS, WORK CONFIDENTIAL.\n\nLADIES\u2014Who desire any of the Overtone Hygienic \"High Brown\" preparations can be supplied by calling upon the agent, Mrs. A. W. Jordan, 791 Rondo, or Tel. Dale 3199, and deliveries will be made anywhere in the city. (11-24-17).\n\nThe Thirteenth Annual Convention of the State Federation of Colored women will hold a two-days' session at Memorial Baptist church, June 26-27. The ladies are planning to make the meeting one of the best ever held.\n\nCONSERVE by having your family washing done by the IDEAL WET WASH LAUNDRY, 430-432 Rice street, opposite Memorial Baptist church, Save both money and labor. Call N. W. Cedar 6112 or Auto. 24 996. They will tell you all about it.\n\nLADIES\u2014Mrs. H. Milner, 494 Rice street, is prepared to shampoo your hair and give scalp treatments. Old hair switches made to look like new also transformations and puffs to order. All work strictly confidential and at reasonable prices. Residence calls made. Tel. N. W. Cedar 3706.\n\nMrs. and Mrs. L. W. Humphrey of Washington, D. C., are in the city to spend the summer visiting with Mrs. Humphrey's sister, Mrs. John Gray, 130 W. Arch St. Mr. and Mrs. Houston of Des Moines will be house guests of Mrs. Gray's for three weeks. They are enroute to Buffalo, N. Y.\n\nPAID ADVERTISEMENT\n\nPrepared by and for James Handlan, 69 Winnipeg Ave., St. Paul, Minn., for which $1.00 per inch is to be paid.\n\nJAMES HANDLAN Candidate for Re-election\n\nas\u2014STATE SENATOR 38th District\n\nSENATOR HANDLAN.\n\nThe Representative of All the People All the Time.\n\nSenator James Handlan is a candidate to succeed himself as a member of the State Senate from the 38th Senatorial District on the record he has made in the service of his constituents. The fact that he filled two terms as a Representative in the State Legislature and two terms in the Senate is evidence that he must have given good service. It has been his aim to represent the best interests of all classes in his district without regard to color or creed, and he has evidenced his loyalty for several months by giving free a large portion of his time to the military draft board. He has always labored in the interest of the common people and supported the measures in the legislature that he believed to be for their benefit, and his trust friends are found in the ranks of the laboring men of all nationalities. And as the old adage says: \"It's not the time to swap horses when crossing a stream.\" So the voters of the district will show sound judgment in voting to retain him just where he is.\n\nO. D. Howard.\n\nPAID ADVERTISEMENT\n\nPrepared for P. J. Ryan, 779 Edmond Street, St. Paul, Minn., by J. E. Corcoran, 656 Sherburne avenue, for which $1.00 per inch is to be paid."
+    },
+    {
+      "bbox": [
+        389,
+        2218,
+        592,
+        2307
+      ],
+      "label": "paragraph_title",
+      "text": "P. J. RYAN\nCandidate for\nREPRESENTATIVE\n38th District"
+    },
+    {
+      "bbox": [
+        347,
+        2317,
+        624,
+        2780
+      ],
+      "label": "text",
+      "text": "P. J. Ryan, candidate for the office of State Representative for the 38th Legislative District was born in Minnesota thirty-five years ago. He came to St. Paul when three years of age and has been a resident of the city ever since. He received his education in the public schools of the city. Mr. Ryan is fully qualified to fill the position to which he aspires and if elected will look after the interests of the District in the same careful manner in which he does his personal business. Mr. Ryan's record has been investigated by representatives of the unions of the city and found to be O. K.\n\nLouis C. Watson, 401. Carroll avenue, was discovered in the home of Mrs. J. T. Dugan, 1731 Princeton avenue, early Thursday morning, presumably for the purpose of robbery and was shot by her five times, four shots entering his head and one his heart, killing him instantly. Investigations in the case are still in progress."
+    },
+    {
+      "bbox": [
+        621,
+        133,
+        894,
+        909
+      ],
+      "label": "text",
+      "text": "PAID ADVERTISEMENT.\n\nPrepared for Martin J. O'Malley, 1109 Como Place, St. Paul, by Hammond Turner, 321 Metropolitan Bank Bldg., for which $1.00 per inch is to be paid.\n\nMARTIN J. O'MALLEY\nCandidate For\nCOUNTY TREASURER\n\nWe present, with great pleasure, to the very few of our good people who might not know him, our good friend, the present efficient, courteous and affable Treasurer of Ramsey County, MARTIN J. O'MALLEY.\n\nHe is an executive of whom we are proud, a man who is always on the alert for methods to improve the systems of the work of his office; he has installed a system which is a time-saver to the tax-payer as well as almost barring errors in the work of receiving payments of taxes.\n\nHe is an unusual man, in many ways; he has not yet taken one day's vacation during his tenure of office; he is an accountant of great ability, and is an orator who is well worth listening to.\n\nHe is patriotic in the highest degree, and a leader in all good works. Knows no man solely by race, color or creed. He is just the man to reef as Treasurer of Ramsey County."
+    },
+    {
+      "bbox": [
+        621,
+        950,
+        894,
+        2437
+      ],
+      "label": "text",
+      "text": "Prepared by and for B. G. Novak, 741 Van Buren street, St. Paul, Minn., for which $1.00 per inch is to be paid.\n\nB. G. NOVAK\nCandidate For STATE SENATOR\n38th District\n\nB. G. NOVAK.\nCandidate for State Senator of the 38th District.\n\nB. G. Novak, candidate for State Senator, has given to the people of the State, good clean service in the Legislature for two terms and is now seeking the nomination for Senator of the 38th District. I feel sure that if he is nominated and elected he will do his whole duty to all the people without regard to race, color or creed. He has a record of giving honest service in supporting the interest of the common people and is sound on the labor question.\n\nJust at this time when honest service is the demand of the hour, the public will seek the men whom it can trust. I know that in the election of Mr. Novak we will have a man with a broad knowledge of the wants of the people. He is the taxpayers' friend and 100 per cent American.\n\nGeo. B. Lowe.\n\nPAID ADVERTISEMENT\nPrepared by and for George J. Ries, Court House, St. Paul, for which $1.00 per inch is to be paid.\n\nGEORGE J. RIES\nCandidate for\nRe-election as"
+    },
+    {
+      "bbox": [
+        621,
+        2514,
+        894,
+        2780
+      ],
+      "label": "text",
+      "text": "GEORGE J. RIES.\nCounty Auditor of Ramsey County is All Right.\n\nJust as there are jim crow colored men, who are the greatest traducers of the characters and are a most serious obstacle to the advancement of the more numerous, serious-minded, respectful and respectable colored men, so there are people in high official life in this country who are mis-\n\nplicate Exposure"
+    },
+    {
+      "bbox": [
+        887,
+        133,
+        1161,
+        2780
+      ],
+      "label": "text",
+      "text": "understood; not because of any act of their own, but because of vipers on American soil who have prospered by American methods, and institutions, and are possessed by German names and imaginary German loyalty. Imaginary, because if they really care for the Kaiser, why don't they fly to his rescue? He needs them, we do not.\n\nGeorge J. Ries is not one of the Americans who waited until April 6, 1917, to get a baptism in the faith of world democracy. He is a practitioner of personal democracy, without which world democracy is impossible. He is not a 90 per cent American who recognizes the wonderful endowments of this country as a means of development for one class or caste of people only, but he is a 100 per cent American who believes in America for all, and all for America, her library, her justice, her opportunity for all. As evidencego to the office of George J. Ries, County Auditor, and you may see O. C. Hall, the only colored clerk on the county pay roll.\n\nIt is well to note and to long remember the sage words of Mayor Hodgson in his inaugural address: \"But while we thus earnestly decree this single standard of honor and service, let us avoid the weakening and demoralizing influences of hysteria and suspicion.\"\n\nW. R. Dyer.\n\nBUY WAR SAVINGS STAMPS\n\nRemember that National War Savings Day is June 28.\u2014Pledge yourself on or before that day to save to the utmost of your ability and to buy War Savings Stamps that there may be more money, labor and materials to back up those who fight and die for you. You may not be able to fight, but you can save and buy War Savings Stamps.\n\nPAID ADVERTISEMENT\n\nPrepared by and for Henry J. Crepeau, 324 Burgess street, St. Paul, Minn., for which $1.00 per inch is to be paid.\n\nHENRY J. CREPEAU\nCandidate For STATE SENATOR\n38th District\n\nNO TIME FOR RACE SLACKERS.\n\nThis is the time when one must be a 100 per cent American. There is no question as to the absolute loyalty of the colonel man to the nation. This is also the day and time for 100 per cent Race Loyalty. Our people at this time have no tolerance with RACE SLACKERS.\n\nFor years the colored voters living in the 8th and 9th and part of the 12th District. We have always stood up to the rack and voted straight and in return we have received empty promises by sleek politicians. The best we have ever received in the shape of recognition has been an occasional janitor's job and only during the time of the Legislature. There have always been clerical jobs at the disposal of a State Senator and by Members of the lower House of the Legislature, but in the distribution of these positions, although elected by our votes, we have been ignored entirely.\n\nProfit by Chicago.\n\nChicago has two colored members of the City Council; New York has a colored member of the State Legislature, Indianapolis and Cleveland have also Race members of their respective City Council; Pittsburgh has a colored man as Assistant City Attorney and in other cities where our votes count, the colored people has received substantial recognition. This condition only brought about by our people, forming new alliances. Let us profit by what our people have done in those cities, DISCARD THE OLD RING AND FORM NEW ALLIANCES BY STRONGLY SUPPORTING FOR STATE SENATOR FROM THE 38th DISTRICT, MR. HENRY J. CREPEAU.\n\nMR. CREPEAU IS A MAN OF HIGH CHARACTER AND OF INTEGRITY; HE HAS BEEN STRONGLY ENDORSED BY MANY ORGANIZATIONS IN THE DISTRICT AND IN HIS ELECTION WE CAN EXPECT FAITHFUL AND VALUABLE SERVICE AS A LEGISLATOR AND RECognITION TO THE RACE WHENEVER AND WHEREVER POSIBLE.\n\nIF YOU ARE A 100 PER CENT RACE MAN YOU WILL REALIZE THE WISDOM OF A NEW DEAL IN A DISTRICT WHERE WE HOLD THE BALANCE OF POWER.\n\nATTORNEY WM. T. FRANCIS IN HIS RACE FOR THE STATE LEGISLATURE TWO YEARS AGO RECEIVED NO ASSISTANCE FROM SENATOR HANDLAN, THE PRESENT SENATOR. THIS IS NOT THE TIME \"TO TURN THE OTHER CHEEK.\" WE MUST RETALIATE AT THE POLLS AND THE NEXT TIME WE CAN EXPECT RESULTS. I HAVE NO PERSONAL INTEREST OR AMBITION AND I HAVE HAD NO PERSONAL DISAPPOINTMENTS; YOU KNOW ME CAN ONLY SAY \"HIS RACE COMES FIRST.\" I AM ONLY FIGHTING FOR A Slice of REAL DEMOCRACY IN A DISTRICT WHERE WE HOLD THE BALANCE OF POWER.\n\nIF YOU ARE NOT A RACE SLACKER YOU WILL VOTE YOUR PROTEST OF THE OLD METHOD BY VOTING FOR HENRY J. CREPEAU AS STATE SENATOR OF THE 38th DISTRICT.\n\nF. D. McCracken,\n410 Court Blk."
+    },
+    {
+      "bbox": [
+        1224,
+        191,
+        1451,
+        294
+      ],
+      "label": "paragraph_title",
+      "text": "Flour Hoarding"
+    },
+    {
+      "bbox": [
+        1159,
+        294,
+        1684,
+        674
+      ],
+      "label": "text",
+      "text": "Six pounds of wheat flour, or a month's supply for each member of the family, is the limit fixed by the Food Administration. No true American would violate this ruling.\n\nBut flour in small quantities is expensive, home baking is inconvenient. That is why it is more economical and satisfactory to eat wholesome and nourishing\n\nPurity Bread\n\nOrder From Your Grocer Today"
+    },
+    {
+      "bbox": [
+        1221,
+        321,
+        1627,
+        497
+      ],
+      "label": "text",
+      "text": "Six pounds of wheat flour, or a month's supply for each member of the family, is the limit fixed by the Food Administration. No true American would violate this ruling.\n\nBut flour in small quantities is expensive, home baking is inconvenient. That is why it is more economical and satisfactory to eat wholesome and nourishing"
+    },
+    {
+      "bbox": [
+        1223,
+        617,
+        1623,
+        642
+      ],
+      "label": "text",
+      "text": "Order From Your Grocer Today"
+    },
+    {
+      "bbox": [
+        1159,
+        674,
+        1684,
+        1405
+      ],
+      "label": "text",
+      "text": "Food License B, 21631.\n\nTEL. DALE 9996 DELIVERIES MADE\n\nTHE RECHERCHE\nA. E. BUCKNER, PROP.\nCONFECTIONARY, CANDIES, CAKES, SODA\nWATER, SOFT DRINKS, NICK NACKS\nCIGARS AND TOBACCO\n441 RONDO ST. ST. PAUL, MINN.\n\nWHILE YOU WAIT\nASTORIA -- SANITARY -- SYSTEM\nCLEANING REPAIRING PRESSING\n\nNew Collars\nShining\nLaundry\nDry Cleaning\n\n368 WABASHA\nNear Fifth Street\nWE CALL AND DELIVER\nPHONE\nN. W. Jackson 2096\n\nShoes Dyed\nClothes\nHats\nPolish\n\nW. EVANS R. H. ANDERSON\nNEXT TO PARKER'S DRUG STORE, SAINT PAUL.\n\nCEDAR 6112 PHONES AUTO. 24996\nPATRONIZE THE\nIDEAL WET WASH LAUNDRY"
+    },
+    {
+      "bbox": [
+        1234,
+        795,
+        1351,
+        811
+      ],
+      "label": "text",
+      "text": "TEL. DALE 9996"
+    },
+    {
+      "bbox": [
+        1233,
+        797,
+        1615,
+        967
+      ],
+      "label": "text",
+      "text": "TEL. DALE 9996 DELIVERIES MADE\n\nTHE RECHERCHE\nA. E. BUCKNER, PROP.\n\nCONFECTIONARY, CANDIES, CAKES, SODA\nWATER, SOFT DRINKS, NICK NACKS\nCIGARS AND TOBACCO\n\n441 RONDO ST. ST. PAUL, MINN."
+    },
+    {
+      "bbox": [
+        1568,
+        1324,
+        1681,
+        1342
+      ],
+      "label": "text",
+      "text": "AUTO.24996"
+    },
+    {
+      "bbox": [
+        1159,
+        1325,
+        1265,
+        1342
+      ],
+      "label": "text",
+      "text": "CEDAR 6112"
+    },
+    {
+      "bbox": [
+        1158,
+        1348,
+        1684,
+        1542
+      ],
+      "label": "text",
+      "text": "PATRONIZE THE IDEAL WET WASH LAUNDRY 430-432 RICE ST., ST. PAUL WE SPECIALIZE IN FAMILY WASHING WET WASH AND DRY WASH ALL OUR WORK IS GUARANTEED"
+    },
+    {
+      "bbox": [
+        1160,
+        1439,
+        1664,
+        1558
+      ],
+      "label": "text",
+      "text": "WE SPECIALIZE IN FAMILY WASHING\nWET WASH AND DRY WASH\nALL OUR WORK IS GUARANTEED\nSUDDEN SERVICE PROMPT DELIVER"
+    },
+    {
+      "bbox": [
+        1159,
+        1542,
+        1684,
+        1937
+      ],
+      "label": "text",
+      "text": "SUDDEN SERVICE PROMPT DELIVERY\n\nSAFE MILK\n\nPHONE: SUMMIT 80\nT. S. 84 002\n\nMINNESOTA MILK COMPANY\n\nDAY PHONES:\nTRI STATE 23 262\nN. W. CEDAR 6245\n\nNIGHT PHONE:\nN. W. CEDAR 9088\n\nTHIS IS THE MAN"
+    },
+    {
+      "bbox": [
+        1180,
+        1606,
+        1667,
+        1788
+      ],
+      "label": "doc_title",
+      "text": "SAFE MILK PHONE: SUMMIT 80 T. S. 84002"
+    },
+    {
+      "bbox": [
+        1246,
+        1815,
+        1604,
+        1835
+      ],
+      "label": "text",
+      "text": "MINNESOTA MILK COMPANY"
+    },
+    {
+      "bbox": [
+        1164,
+        1888,
+        1272,
+        1919
+      ],
+      "label": "text",
+      "text": "DAY PHONES:\nTRI STATE 23 262\nN. W. CEDAR 6245"
+    },
+    {
+      "bbox": [
+        1477,
+        1889,
+        1579,
+        1910
+      ],
+      "label": "text",
+      "text": "NIGHT PHONE:\nN. W. CEDAR 9088"
+    },
+    {
+      "bbox": [
+        1159,
+        1937,
+        1684,
+        2218
+      ],
+      "label": "text",
+      "text": "WHEN IN THE TWIN CITIES DON'T FAIL TO VISIT\n\nR. N. TRAVIS, PROP. THANN'S JERRY LEE, MGR.\n\nHOTEL, CAFE AND POOL ROOM\n\nHEADQUARTERS FOR RAILROAD AND\nTHEATRICAL FOLK\n\n40 E. THIRD ST. ST. PAUL\n\nKNOWN AS\n\"THANN\"\n\nEXPERT ARTISTS QUICK SERVICE\nHEADQUARTERS FOR EMPLOYMENT SEEKERS"
+    },
+    {
+      "bbox": [
+        1460,
+        2108,
+        1583,
+        2129
+      ],
+      "label": "text",
+      "text": "ST. PAUL"
+    },
+    {
+      "bbox": [
+        1168,
+        2112,
+        1304,
+        2130
+      ],
+      "label": "text",
+      "text": "40 E. THIRD ST."
+    },
+    {
+      "bbox": [
+        1159,
+        2218,
+        1684,
+        2428
+      ],
+      "label": "text",
+      "text": "Peoples' Barber Shop\nA. RAGLAND, PROP. A. H. WASHINGTON, MGR.\n\nShaving, Hair Cutting, Shampooing, Face Massage, Manicuring, Hot and Cold Shower Baths, Shoes Shined\n\nCIGARS, TOBACCO, MAGAZINES AND WEEKLY PAPERS\n\n289 ROBERT ST. ST. PAUL, MINN."
+    },
+    {
+      "bbox": [
+        1242,
+        2281,
+        1622,
+        2365
+      ],
+      "label": "text",
+      "text": "Shaving, Hair Cutting, Shampooing, Face Massage, Manicuring, Hot and Cold Shower Baths, Shoes Shined\n\nCIGARS, TOBACCO, MAGAZINES AND WEEKLY PAPERS\n\n289 ROBERT ST.\n\nST. PAUL, MINN."
+    },
+    {
+      "bbox": [
+        1422,
+        2428,
+        1684,
+        2547
+      ],
+      "label": "paragraph_title",
+      "text": "Dr.H.I.WILLIAMS Announces his NEW method of PAINLESS DENTISTRY"
+    },
+    {
+      "bbox": [
+        1159,
+        2547,
+        1684,
+        2780
+      ],
+      "label": "text",
+      "text": "I positively guarantee to extract teeth and remove nerves\nABSOLUTELY PAINLESSLY\nGet prices here before going elsewhere\nA Written Guarantee for 20 Years Given With All Work.\nDr. Williams, *27 E. 7th St\nTEL. 6. 6132 KENDRICK BLDG. 2ND FLOOR ST. PAUL"
+    },
+    {
+      "bbox": [
+        1193,
+        2558,
+        1678,
+        2646
+      ],
+      "label": "text",
+      "text": "I positively guarantee to extract teeth and remove nerves\nABSOLUTELY PAINLESSLY\nGet prices here before going elsewhere\nA Written Guarantee for 20 Years Given With All Work."
+    },
+    {
+      "bbox": [
+        1695,
+        239,
+        1963,
+        1149
+      ],
+      "label": "text",
+      "text": "LATEST ELECTRICAL EQUIPMENT\nSCALP AND FACIAL TREATMENT\nHAIRDRESSING, SHAMPOOING\nMASSAGING, MANICURING\nCHIROPODY\n\nFLOUG'S FAMOUS BLACK AND WHITE PREPARATIONS\n\nREASONABLE RATES CONFIDENTIAL SERVICE\n\n310 RONDO ST. ST. PAUL\n\nLet Ubel Do It\n\nIf your watch is not keeping accurate time, bring it to Ubel for adjustment or repair.\n\nYour work will be done with accuracy and promptness\u2014the charges will be very moderate.\n\nFrank A. Ubel\nJeweler\u2014Optician\u2014Optometrist\n478 Wabasha Street\n\nPurity CAKE\n\nYou Will Find\nPurity Fine Cake An\nEnjoyable Delicacy\nFor Dinner Or\nLuncheon\n\n100% PURE\n\nSOLD BY\nALL FIRST CLASS GROCERS"
+    },
+    {
+      "bbox": [
+        1702,
+        1188,
+        1942,
+        1243
+      ],
+      "label": "text",
+      "text": "F. B. SIMPSON GEO. W. WILLS\nTel. Dale 1914 Tel. Dale 2541\nOffice Phones:\nCedar 1024 Tri-State 24 24 24"
+    },
+    {
+      "bbox": [
+        1704,
+        1294,
+        1941,
+        1377
+      ],
+      "label": "text",
+      "text": "Undertakers, Funeral Directors\nand Embalmers\nCalls Answered Promptly Day or\nNight"
+    },
+    {
+      "bbox": [
+        1705,
+        1417,
+        1941,
+        1443
+      ],
+      "label": "text",
+      "text": "Office and Chapel\n234 WEST FOURTH ST. ST. PAUL"
+    },
+    {
+      "bbox": [
+        1695,
+        1482,
+        1953,
+        1633
+      ],
+      "label": "text",
+      "text": "N. W. Cedar 8190 Res. Dale 8065\n\nHAMMOND TURNER\nATTORNEY AT LAW\n\nSuite 321\nAmerican Nat'l Bk. Bldg.\nFifth and Cedar Sts.\n\nST. PAUL"
+    },
+    {
+      "bbox": [
+        1695,
+        1687,
+        1963,
+        2413
+      ],
+      "label": "text",
+      "text": "Tel. Dale 6005 Call for and Delivery\n\nDALE STREET TAILOR\nA. GOLDBERG, Prop.\n\nLadies' and Gents' Suits and Overcoats\nMade to Order; Cleaning, Repair-\ning, Pressing Neatly Done\n\n329 Dale Cor. Rondo ST. PAUL\n\nTHE FLOUR\nBEST\nFOR THOSE\nWHO KNOW\nBEST\n\nN. W. Bomont 35 PHONES Tri-State 77 172\n\nVANDER BIE'S\nICE CREAM\nIS THE BEST\nFor Sale Everywhere\nJ. C. VANDER BIE\nPartridge and Brunson Sts.\nST. PAUL, MINN."
+    },
+    {
+      "bbox": [
+        1695,
+        2476,
+        1963,
+        2780
+      ],
+      "label": "text",
+      "text": "Dr. Valdo Turner\nPHYSICIAN AND SURGEON\nNEW DAKOTA BUILDING\nCor. 6th and 7th Streets\nOFFICE HOURS\n9 to 11 a. m., 12 to 1 p. m., 8 to 6 a. m.\nSundays 10 to 11 a. m.\nRes. 689 St. Albans Tel. Dale 816"
+    }
+  ]
+}
