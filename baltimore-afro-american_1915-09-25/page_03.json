@@ -1,0 +1,478 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1836,
+  "height": 2804,
+  "regions": [
+    {
+      "bbox": [
+        84,
+        140,
+        1143,
+        228
+      ],
+      "label": "doc_title",
+      "text": ": Happenings Throughout the State of Maryland:"
+    },
+    {
+      "bbox": [
+        123,
+        256,
+        262,
+        277
+      ],
+      "label": "paragraph_title",
+      "text": "LONG GREEN NEWS"
+    },
+    {
+      "bbox": [
+        50,
+        288,
+        330,
+        1147
+      ],
+      "label": "text",
+      "text": "Long Green, Md., Sept. 23.\u2014The closing services of the camp were well attended. Rev. W. T. Brown, the pastor, preached at the morning service. Rev. L. A. Mallory, of Baltimore, filled the pulpit in the afternoon and night. Men's Day services will be held in the grove next Sunday.\n\nMr. and Mrs. John Cromwell entertained Mr. and Mrs. Gordon, of Washington, Sunday.\n\nMrs. Maggie Levere spent the week visiting relatives and friends in Baltimore.\n\nMrs. Francis Smith, of Atlantic City, was the week-end guest of her parents, Mr. and Mrs. James Hawkins.\n\nMrs. Nellie Winder was the guest of Mr. and Mrs. John Proctor, of Riderwood, last Wednesday.\n\nMrs. Nettie Winder spent last Sunday at Pen Mar.\n\nRev. W. T. Brown was the guest of Mrs. Lillie Fowler, of Riderwood, last Thursday. The Misses Edna and Bessie Winder gave their mother, Mrs. Nettie Winder, a surprise on last Thursday evening.\n\nMr. and Mrs. John Proctor, of Riderwood, entertained Mr. and Mrs. Richard Levere and family, of Philadelphia Sunday.\n\nMiss Georgia Henson spent Sunday at Fallston.\n\nMr. and Mrs. Thomas Foster entertained Miss Edna Hawkins and Mrs. Francis Smith at dinner last Friday.\n\nMrs. Arraminta Justice of Baltimore worshipped at the camp of Mt. Zion A. M. E. Church Sunday.\n\nThose on the sick list are: Mr. Arch Smith, Mr. James Hawkins, Mrs. Mary Quickley, Mrs. Jane Avers."
+    },
+    {
+      "bbox": [
+        122,
+        1158,
+        264,
+        1181
+      ],
+      "label": "paragraph_title",
+      "text": "TRAPPE PERSONALS"
+    },
+    {
+      "bbox": [
+        54,
+        1184,
+        330,
+        1452
+      ],
+      "label": "text",
+      "text": "Trappe, Md., Sept. 23.\u2014Mrs. Laura Rozier, of 694 Mulberry street, Baltimore, is spending a week with her cousin, Mrs. Mary Wesley.\n\nMrs. Julia Hopkins has returned to her home in Baltimore after spending sometime as the guest of her brother, Mr. Joseph Chase.\n\nMaster George Norwood spent last week visiting his uncle, Mr. William Norwood, of Lewes, Del.\n\nRev. C. A. Norwood is on his vacation"
+    },
+    {
+      "bbox": [
+        57,
+        1367,
+        330,
+        1454
+      ],
+      "label": "text",
+      "text": "Master George Norwood spent last week visiting his uncle, Mr. William Norwood, of Lewes, Del. Rev. C. A. Norwood is on his vacation."
+    },
+    {
+      "bbox": [
+        57,
+        1453,
+        331,
+        1665
+      ],
+      "label": "text",
+      "text": "Mr. John Boston and Mr. Walter McDaniel, of Easton, were Trappe visitors Sunday.\n\nMiss Ardella Dillehay is in the Easton Emergency Hospital suffering from appendicitis.\n\nMr. and Mrs. Alfred Cooper are the proud parents of a baby boy.\n\nMrs. Sallie Bennett and Miss Lottie Stanley, of Baltimore, are visiting Mr. and Mrs. Charles Pink-"
+    },
+    {
+      "bbox": [
+        118,
+        1690,
+        272,
+        1720
+      ],
+      "label": "paragraph_title",
+      "text": "DENTON HAPPENINGS"
+    },
+    {
+      "bbox": [
+        53,
+        1717,
+        333,
+        2456
+      ],
+      "label": "text",
+      "text": "Denton, Md., September 23.\u2014Rev. S. R. Rodgers, of Georgia, preached at Bethel A.M. E. Church Sunday night.\n\nMiss Cornelia Fountain, who has been quite sick was carried to a hospital in Baltimore last Sunday.\n\nMiss Robert Jackson, of Baltimore, visited relatives and friends here Sunday. She was accompanied by little Miss Mabel O. Williams.\n\nRev. James J. Baker, pastor of Bells A. M. E. Church, is in one of the hospitals in Baltimore, suffering from typhoid fever.\n\nThe annual September rally at John Wesley M. E. Church began last Sunday.\n\nMr. Alonzo Boston, a well known citizen of this town, died at Cambridge Hospital last Saturday night. His funeral took place from John Wesley M. E. Church, Tuesday Rev. F. Johnson officiated. He is survived by his wife, one daughter, three brothers and one sister.\n\nRev. J. O. Custis, of Baltimore paid a flying visit here last Friday, enroute to Pocomoke City, Md.\n\nMrs. C. B. Casson has returned home from Catonsville, Md., and Washington.\n\nThe Y. P. P. C. had a fine address delivered to them on last Sunday afternoon by Mrs. Adeline Lewis. Over $10 was realized.\n\nMr. Thomas Cooper, of Baltimore, visited Mr. and Mrs. D. D. Bailey Sunday."
+    },
+    {
+      "bbox": [
+        131,
+        2482,
+        258,
+        2504
+      ],
+      "label": "paragraph_title",
+      "text": "BERKLEY ITEMS"
+    },
+    {
+      "bbox": [
+        53,
+        2519,
+        332,
+        2619
+      ],
+      "label": "text",
+      "text": "Berkley, Md., Sept. 23.\u2014Mrs. J. W. Stump has returned home after visiting her sister in Camden, N. J. Mr. John Lee, of Pennsylvania, is visting his father,Mr. J. F. Lee."
+    },
+    {
+      "bbox": [
+        55,
+        2608,
+        334,
+        2721
+      ],
+      "label": "text",
+      "text": "is visiting his father, Miss Cora Newsome, of Baltimore, has been appointed assistant at Hosanna School. She began work Monday morning. Hosanna public school reopened Monday with a large enrollment."
+    },
+    {
+      "bbox": [
+        412,
+        249,
+        543,
+        274
+      ],
+      "label": "paragraph_title",
+      "text": "SALISBURY NOTES"
+    },
+    {
+      "bbox": [
+        336,
+        286,
+        611,
+        1038
+      ],
+      "label": "text",
+      "text": "Salisbury, Md., Sept. 23.\u2014The camp meeting season is drawing to a close, the last open air service was held Sunday at Lakeside Grove by Rev. J. Wilson and T. A. Talbert.\n\nRev. J. D. Jackson, of the St. Luke A. M. E. Church preached at the Branch Church Grove Sunday at 3 p. m. Rev. S. H. Cooper held quarterly meeting at St. Luke's Church Sunday night.\n\nThe people are preparing to hold their annual church camp which begins Sunday, October 3rd. Dr. Jackson will be assisted by the ministers of the community.\n\nA picnic and concert will be held at Woodside Park next Tuesday under the auspices of the Nonpareils of the St. Luke's Church. A swimming match between two young girls will take place. Music will be furnished by the Union League Band.\n\nChildren's Day exercises were held at St. James A. M. E. Zion Church. The children were trained by Mrs. J. F. Stewart. Mrs. J. D. Jackson acted as mistress of ceremony. Rev. J. T. Watson, pastor.\n\nRev. H. C. Pope gave his lecture and exhibition at St. Paul and John Wesley Churches, Wednesday and Thursday nights, respectively, last week.\n\nThe teachers for the public schools are on the ground preparing for the opening season which begins October 6th."
+    },
+    {
+      "bbox": [
+        399,
+        1067,
+        550,
+        1087
+      ],
+      "label": "paragraph_title",
+      "text": "COCKEYSVILLE ITEMS"
+    },
+    {
+      "bbox": [
+        335,
+        1094,
+        610,
+        1404
+      ],
+      "label": "text",
+      "text": "Cockeysville, Md., Sept. 23. Miss Grace Tucker and sister, Mrs. Gertrude M. Walker, spent the week-end visiting relatives in Baltimore and Mt. Washington. The Mt. Pleasant Cornet Band will hold a musical at Odd Fellows Hall, Thursday September 30th. Mr. Henry Wright is very ill with typhoid fever. Miss Genevieve Randolph visited Miss Martina Robinson of 170 Dolphin street, Baltimore. Mr. John L. Foote has finished painting his house which adds much beauty to the community."
+    },
+    {
+      "bbox": [
+        355,
+        1436,
+        568,
+        1458
+      ],
+      "label": "paragraph_title",
+      "text": "CIVIL WAR VETERAN DEAD"
+    },
+    {
+      "bbox": [
+        337,
+        1479,
+        611,
+        2002
+      ],
+      "label": "text",
+      "text": "Belair, Md., Sept. 23.\u2014Rev. Moses Opher, a retired preacher of the Washington Conference of the Methodist Episcopal Church, died last Thursday, September 16; aged 70 years 4 months. He leaves a widow and four small children. He was a veteran of the Civil War. He joined the Washington Conference in 1892 and served in the active ministry twenty-two years when because of his mental and physical disabilities he was retired. Since which time, he had made his home at The Rocks, Md., where he passed away.\n\n'His funeral was held in the Federal Hill M. E. Church, and was largely attended. This being the last church he had served as pastor the people were very much affected. In the absence of District Superintendent D. W. Hays, D. D., the funeral sermon was preached by Rev. C. H. Matthews, pastor of Ames M. E. Church, Belair, Sunday. Interment was in the Federal Hill Cemetery, Harford county, Md."
+    },
+    {
+      "bbox": [
+        404,
+        2029,
+        544,
+        2048
+      ],
+      "label": "paragraph_title",
+      "text": "SNOW HILL ITEMS"
+    },
+    {
+      "bbox": [
+        335,
+        2054,
+        614,
+        2716
+      ],
+      "label": "text",
+      "text": "Snow Hill, Md., Sept. 23.\u2014Miss Annie Tull, who spent the summer at Ocean City, Md., has returned home.\n\nMr. and Mrs. William Hutt, of Philadelphia, are home for a short stay.\n\nMiss Maggie Single, who spent the summer at Cape May, N.J., returned home.\n\nMr. and Mrs. James Robins, who have been spending the summer at Spring Lake, N. J., came home last week.\n\nRev. Dr. J. A. T. Faust, of the M. E. Church, preached at the Mt. Zion Baptist Church Sunday afternoon, and Rev. McBride, of Snow Hill Circuit, at night.\n\nMr. and Mrs. George Harman, who have been visiting their parents left this week for Princeton, N. J., where they will spend the winter.\n\nMr. Peter L. Henry, a student at Virginia Union University left Thursday to resume his studies at the University.\n\nMr. Dewey Waters left Monday for Laurenceville, Va., to enter the Normal and Industria School.\n\nProf. S. H. Long and others addressed the Masonic Club here Thursday night.\n\nMrs. Charlotte Brittingham is on the sick list."
+    },
+    {
+      "bbox": [
+        615,
+        244,
+        893,
+        505
+      ],
+      "label": "text",
+      "text": "The Women's Day at the Mt. Zion Baptist Church Sunday was a success. The leaders were Miss Laura Purnell, Mrs. Nancy Allen and Mrs. Lolo Wise. Mrs. Charlotte Brittingham was unable to take part on account of illness. Miss Helen R. Henry, who has been at Cape May, N. J., for the summer came home this week. Mrs. Mildred Blamer Robinson, of Baltimore, is visiting her parents, Mr. and Mrs. George Palmer."
+    },
+    {
+      "bbox": [
+        619,
+        504,
+        892,
+        536
+      ],
+      "label": "text",
+      "text": "Dr. C. W. Pullet preached at the M. E. Church Sunday night."
+    },
+    {
+      "bbox": [
+        619,
+        535,
+        891,
+        592
+      ],
+      "label": "text",
+      "text": "Miss Mabel Molock, of Berlin, has been appointed 3rd assistant in the public schools."
+    },
+    {
+      "bbox": [
+        696,
+        622,
+        818,
+        646
+      ],
+      "label": "paragraph_title",
+      "text": "CRISFIELD NOTES"
+    },
+    {
+      "bbox": [
+        617,
+        661,
+        891,
+        1279
+      ],
+      "label": "text",
+      "text": "Crisfield, Md., Sept. 23.\u2014Joseph Gerald, a local minister filled the pulpit at Shiloh M. E. Church Sunday, in the absence of Rev. J. T. Wallace, who preached at Mt. Vernon.\n\nMrs. Lucy Stirling has returned from Atlantic City.\n\nMiss Marian Tilghman, of Atlantic City, is visiting her mother, Mrs. Isabella Tilghman.\n\nRev. John S. Collins and son Leon, of Eatson, were in the city last week.\n\nMrs. Jennie Coulbourn is confined to her home as the result of accidentally running a needle into her foot.\n\nWilliam A. Bowie, cashier of the Industrial Savings Bank, Washington, left for New York city after visiting Mr. and Mrs. Samuel D. Wilson.\n\nMrs. Lydia G. Chase has returned to her home at 1400 Mosher street, Baltimore, after visiting her sister, Mrs. Rachel Wilson.\n\nMrs. Bessie Mason, of 1421 Argleve Avenue, Baltimore, was the guest of Miss Nellie F. Wilson a few days go.\n\nThe Afro-American Ledger may be found on sale every Saturday at 10 S. 4th street."
+    },
+    {
+      "bbox": [
+        702,
+        1313,
+        808,
+        1336
+      ],
+      "label": "paragraph_title",
+      "text": "EASTON NOTES"
+    },
+    {
+      "bbox": [
+        617,
+        1355,
+        891,
+        1868
+      ],
+      "label": "text",
+      "text": "Easton, Md., Sept. 23.\u2014Emory Dill, of Unionville, has just completed a handsome bungalow.\n\nStephen Truxton, of Baltimore, was a visitor here last week.\n\nWilliam Haige has returned to Washington.\n\nJohn Smallwood, of Baltimore, is visiting his mother.\n\nWilliam Johnson was operated upon at the Emergency Hospital last Monday.\n\nJoseph Blackwell has returned to Baltimore after an extended stay here.\n\nDr. W. C. Jason, president of the Delaware State College, autoed here and was the guest of Mr. and Mrs. J. R. Holland.\n\nMrs. Josephine Burke is improving after undergoing a second operation.\n\nRoy Hall is a visitor here.\n\nHenry Johnson has returned from Atlantic City.\n\nMr. and Mrs. John Murray, of Germantown, Pa., were in the city recently."
+    },
+    {
+      "bbox": [
+        677,
+        1908,
+        837,
+        1931
+      ],
+      "label": "paragraph_title",
+      "text": "PRINCESS ANNE NOTES"
+    },
+    {
+      "bbox": [
+        617,
+        1947,
+        892,
+        2425
+      ],
+      "label": "text",
+      "text": "Princess Anne, Md., Sept. 23. Rev. J. U. King preached to a large congregation last Sunday at Princess Anne Academy, where he has been holding services during the summer, while his church was being thoroughly renovated. Miss Maude Anderson, of Philadelphia, after spending a week with Mrs. A. R. Jones, has returned home. Mr. and Mrs. Roy Cordery spent Sunday at Eden, visiting Mr. and Mrs. George H. Furnis. Mr. Joseph Hayman, after spending several weeks with his parents at Denton, Md., has returned home for the winter. Mr. and Mrs. H. W. Jones left for Baltimore Thursday. Mr. Joseph H. Lindsay, who has been visiting friends here left, Wednesday for White Hall, Md. J. N. Wilson was elected a member of the Republican State Central Committee by 700."
+    },
+    {
+      "bbox": [
+        670,
+        2462,
+        842,
+        2484
+      ],
+      "label": "paragraph_title",
+      "text": "BRIEFFS FROM BENNINGS"
+    },
+    {
+      "bbox": [
+        618,
+        2508,
+        897,
+        2715
+      ],
+      "label": "text",
+      "text": "Bennings, D. C., Sept. 23.\u2014Miss Annie E. Holmes, the concert directress, elocationist, soloist and pianist, is spending her vacation with Mrs. Sarah Jackson.\n\nMrs. Marie Ayers has returned from a visit to King George county.\n\nMrs. R. A. Greene is still spending her vacation at Hartford, Pa.\n\nMrs. Peter is still on the sick list."
+    },
+    {
+      "bbox": [
+        953,
+        237,
+        1123,
+        259
+      ],
+      "label": "paragraph_title",
+      "text": "NEWS FROM FREDERICK"
+    },
+    {
+      "bbox": [
+        896,
+        278,
+        1173,
+        1037
+      ],
+      "label": "text",
+      "text": "Frederick, Md., September 23. Mrs. Olivia Bull, formerly of Philadelphia, who has been spending sometime with Mrs. Elizabeth Maddox, Bentley, has returned to Middletown, Md.\n\nMisses Pauletta and Evelyn Bentley who were in Baltimore to attend the Epworth League Convention have returned home.\n\nMiss Margaret Cook, of Philadelphia, who has been visiting her mother, Mrs. Georgia Cook, has returned home.\n\nMrs. Clara Snowden, who has been visiting her mother, Mrs. Catherine Murdock, has returned to her home in Pittsburgh.\n\nA play was given at Asbury M. E. Church Thursday night. Eleven Leekins was the author. Those who took part were Mr. Dixon, Clifton and Charlie Holland, Grayson Larkins and Ignatius Snowden.\n\nMiss Pauline Johnson of Washington, daughter of Rev. David Johnson, is the guest of Edith Gray, Middletown.\n\nMen's day was observed at A. M. E. Church Sunday. $124.52 was raised. Rev. W. A. English is the pastor.\n\nMrs. Laura Walker was the guest of Mrs. Anna Walter, Sunday.\n\nMrs. Bruce and daughters, were the guests of Mrs. W. A. English Sunday.\n\nRev. and Mrs. J. G. Bryan have returned from a business trip to Baltimore."
+    },
+    {
+      "bbox": [
+        974,
+        1071,
+        1099,
+        1094
+      ],
+      "label": "paragraph_title",
+      "text": "POCOMOKE ITEMS"
+    },
+    {
+      "bbox": [
+        895,
+        1111,
+        1172,
+        1978
+      ],
+      "label": "text",
+      "text": "Pocomoke City, Md., Sept. 23.\u2014The Morgage, Rally was held at Mt. Zion M. E. Church Sunday. The pastor, Rev. J. W. Bond preached to a large congregation in the morning and in the afternoon Rev. E. T. Addison and congregation of St. John's A. M. E. Church were present. At night the Rev. W. A. Spellman and congregation of Unionville were present. During the three services the congregations laid on the table $175, to the credit of the trustees. Rev. J. O. Custis, evangelist of Baltimore Conference, was here and preached two able sermons at St. John's A. M. E. Church Sunday last. Mrs. Mary Ballard of Philadelphia, left Monday after spending a few days with her sister, Mrs. Esther Coston. Thieves entered the home of Mr. John Coulburn on Monday morning and made away with money amounting to about $90. Rev. C. A. Williams, of Crisfield, Md., made a visit to Rev. E. T. Addison the early part of the week. Mrs. Lizzie Collier and Mr. and Mrs. James Shorter, who have spent the summer at Ocean City arrived home this week. Prof. Stephen Dix and brother Seldum, who have spent the summer in the north, arrived here last week, and will soon take up their duties at the Princess Anne Academy. Prof. Oliver H. Bond left here Monday for Philadelphia. He will go to Camden, N. J., Tuesday to claim his bride, and return with her Thursday night to a reception to be given at the home of his parents, Rev. and Mrs. J. W. Bond."
+    },
+    {
+      "bbox": [
+        895,
+        1977,
+        1170,
+        2159
+      ],
+      "label": "text",
+      "text": "Mrs. Hannah Dix. is numbered among the sick this week.\n\nMiss Georgeanna Blake, of Snow Hill, is the guest of Mr. Major Bailey.\n\nMrs. Mary Epps, who accompanied the remains of her son Samuel Gunby, to this city Monday last, returned to her home in Philadelphia Saturday."
+    },
+    {
+      "bbox": [
+        954,
+        2204,
+        1113,
+        2226
+      ],
+      "label": "paragraph_title",
+      "text": "CHESTERTOWN BRIEFS"
+    },
+    {
+      "bbox": [
+        896,
+        2253,
+        1177,
+        2712
+      ],
+      "label": "text",
+      "text": "Chestertown. Md., Sept.\u2014Mrs. Margaret Miller and Mr. Marshall Pittman motored to Quaker Neck and were married by Rev. M. P. Sterling.\n\nThe Reunion Social of Bethel A. M. E. Choir was held last Friday evening at the residence of Mrs. Mary Chambers of Cannon street.\n\nA company of ladies and gentlemen of Easton, motored here Sunday and visited their former pastor, Rev. R. H. Wallace.\n\nRev. and Mrs. J. A. Young have as their guests, his mother, Mrs A. R. Young and sister, Mrs. Eumice Young of Baltimore.\n\nThe Odd Fellow and Household of Ruth turned out at Quaker Neck on Sunday in large numbers. Sermon was preached by Rev. M. P. Sterling.\n\nMrs. Margaret and Lula Smith of Philadelphia, were visitors to Mrs. Belle Strickline."
+    },
+    {
+      "bbox": [
+        1186,
+        132,
+        1723,
+        276
+      ],
+      "label": "doc_title",
+      "text": "M. TREGOR & SON Superior Hair Dressing PRINCSS COMB AND HEATER To be used by modern Ladies and Children to dress the Hair to any stylish fashion."
+    },
+    {
+      "bbox": [
+        1389,
+        275,
+        1725,
+        540
+      ],
+      "label": "text",
+      "text": "HAIR FOOD\n\nUnequalled for softening and beautifying the hair and promotes a luxuriant growth, grasped-to be free from all injurious okenighties and should be used as the most proper, hair Dressing for Ladies and children.\n\nDIRECTION\u2014Rub thoroughly into the hair and comb hair to suit style.\nPrices of Superior Hair Dressing in the known original red boxes:\nLarge boxes, 25c. Single box, 15c. Ordinary by mail, 25c.\nMedium red tin box single 25c. Ordinary by mail, 40c.\n\nDruggust and Notion Stores should keep this Superior Hair Dressing direct to us. Price for wholesale sent on soo"
+    },
+    {
+      "bbox": [
+        1175,
+        850,
+        1723,
+        976
+      ],
+      "label": "text",
+      "text": "Price of Princess Comb, $1.00 Heater 50c. Extra Directions to be used will be mailed with every order M. TREGOR & SONS Wholesale Manufacturers of Perfumeries and Toilet Articles 1131 E. Baltimore Street. Baltimore, Md 1229 E Street, N. W. Washington, D. C"
+    },
+    {
+      "bbox": [
+        1177,
+        1167,
+        1727,
+        1484
+      ],
+      "label": "text",
+      "text": "A combination of metal electrifying influences Straightening impy hair\nMost convenient and Satisfactory.\n\nBEWARE OF IMITATIONS.\nMAKES HAIR GROW.\n\nMrs Mitchell's Improved Hair Cream\nPrice 35 Cents Large Jars,\nMakesthe Hair Soft and Glossy. Stops falling H.\nTry it for the thin places on your temples.\nNot greasy-will not gum.\nSCALP TREATMENT. HAIR STRAIGHTENING G\nMrs. Alice E. Mitchell\u2014Office For The Eureka Comb\n\nNew Haven, Conn., 590 Orchard street\n\nNOW IS YOUR CHANCE. MAIL ORDERS PROMPTLY ATTEND TO"
+    },
+    {
+      "bbox": [
+        1267,
+        1505,
+        1636,
+        1533
+      ],
+      "label": "paragraph_title",
+      "text": "Mme. Martha Thompson"
+    },
+    {
+      "bbox": [
+        1176,
+        1544,
+        1725,
+        1669
+      ],
+      "label": "text",
+      "text": "HAIR CULTURIST AND FACIAL MASSAGE After having your hair treated with Mme. C. J. Walker's Methods and Hair Grower, which is guaranteed to make your hair grow and keep out dandruff, stop and have your face massaged. Will teach you the course of hair growing."
+    },
+    {
+      "bbox": [
+        1178,
+        1984,
+        1729,
+        2124
+      ],
+      "label": "text",
+      "text": "F. S. STROBRIDGE, President Home Office: Cor. Charles & Saratoga Sts., Balto., Md The Leading Life Insurance Company in Maryland Life Insurance Policies issued on ages from 2 to 79 Premiums collected weekly from the homes of the insured"
+    },
+    {
+      "bbox": [
+        1174,
+        2315,
+        1728,
+        2388
+      ],
+      "label": "text",
+      "text": "Try Mme. Hunter's Hair Grower and Straightener 25c. per box\nIf you are losing your hair or growing prematurely gray, come and see us.\nScalp Treatment, Facial Massage, Manicuring. Straightening a Specialty\nCombings Made Up. My School is Open for the above work. Diplomacy Awarded"
+    },
+    {
+      "bbox": [
+        1198,
+        2630,
+        1717,
+        2699
+      ],
+      "label": "text",
+      "text": "Payments as low as 50c per week. We Will save you money on Records and repairs. Order your selections now, cash, or credit at small premiums\nAt Butler's, 1211 Druid Hill Avenue"
+    }
+  ]
+}

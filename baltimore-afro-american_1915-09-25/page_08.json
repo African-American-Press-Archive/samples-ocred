@@ -1,0 +1,448 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 1836,
+  "height": 2813,
+  "regions": [
+    {
+      "bbox": [
+        78,
+        120,
+        650,
+        178
+      ],
+      "label": "doc_title",
+      "text": "SPORTS-ATHLETICS"
+    },
+    {
+      "bbox": [
+        115,
+        206,
+        632,
+        267
+      ],
+      "label": "doc_title",
+      "text": "Sporting Events and Athletic News Gathered From All Parts Of The Country"
+    },
+    {
+      "bbox": [
+        295,
+        288,
+        459,
+        307
+      ],
+      "label": "text",
+      "text": "By SPORTSMAN"
+    },
+    {
+      "bbox": [
+        133,
+        319,
+        331,
+        351
+      ],
+      "label": "paragraph_title",
+      "text": "SPORTING COMMENT"
+    },
+    {
+      "bbox": [
+        94,
+        356,
+        375,
+        1452
+      ],
+      "label": "text",
+      "text": "The High School football team will inaugurate its season with a game on Thanksgiving Day with the Howard University Prep team on the latter's campus. The High School boys began practice at Druid Hill Park this week.\n\nThe High School team has booked a game with the St. Mary's basketball team for the night after Thanksgiving.\n\nThe local tennis season ended in a blaze of glory (for Reckling) Wednesday evening with the defeat of Ralph Cook the dean of the racquet wielders, by Ralph Reckling. All honor to Reckling, who had to defeat four good men to gain his title.\n\nWe are looking forward to a whoopin' up basketball season this year, with the High School, St. Mary's, Dunbar and maybe Astorias, all fighting for the local championship.\n\nIt has been said that St. Mary's will loose one of their most valuable players in the person of \"Johnnie\" Armstead. Well, there's some consolation in the fact that \"there's as big fish in the sea, as has ever been caught.\"\n\nBasketball teams of both boys and girls have been organized in the Training School. Walter Webb, ex-Dunbar star is president. The would-be-teachers are planning to make athletics a feature of their work.\n\nOur esteemed contemporary the Baltimore News opines that because of the defeat of Chief Bender and his team at the hands of the Lincoln Stars last Sunday, the former star flinger of the Athletics must certainly be a candidate for the bushleaguers. The News evidently forgets that the Lincoln Stars might just as easily make Alexander or Matthewson look like candidates for the same organization if mere defeat would justify such action."
+    },
+    {
+      "bbox": [
+        123,
+        1477,
+        351,
+        1505
+      ],
+      "label": "paragraph_title",
+      "text": "NEWS OF THE RUNNERS"
+    },
+    {
+      "bbox": [
+        95,
+        1524,
+        374,
+        2076
+      ],
+      "label": "text",
+      "text": "Roy Morse, national 220-yard champion will in all probability be absolved from the charge of competing in the Canadian meet without permit. F. W. Rubien, chairman of the national registration committee of the A. A. U. has received a letter from C. D. Reidpath the A. A. U. commissioner a Buffallo stating that he, (Reidpath) gave Morse the permit to cross the border. Final decision will be postponed however until Morse explains why he asked for a permit from Buffalo instead of New York where his club is located.\n\nAt the games of the Classified Association of the Street Cleaning Department at Celtic Park last Saturday P. J. White representing the Salem-Crescent Club of New York placed second in the 130 yard open handicap, from scratch. White could not overcome the 8 yards handicap of R. E. Ebersolie who finished in 13 1-5 seconds. James Ravenell, the St. Christopher runner made third place in this event."
+    },
+    {
+      "bbox": [
+        95,
+        2075,
+        374,
+        2178
+      ],
+      "label": "text",
+      "text": "A. Goode, of the Alpha Physical Culture Club won the 1000 yard handicap run in the good time of 2m 13s. Goode had a leeway of 65 yards."
+    },
+    {
+      "bbox": [
+        97,
+        2250,
+        375,
+        2591
+      ],
+      "label": "text",
+      "text": "The Champion Black Sox of this city defeated the crack Harfords, in a double header at the latter's oval Sunday, by the overwhelming scores of 16-3 and 12-2. The manager of the Black Sox has issued a challenge to any team in the state, white or colored, to contest for the championship of Maryland.\n\nThe Cecilton (Md.) Giants defeated the Oliver Hill Stars last Tuesday by a score of 6-0.\n\nHarry Wilson, for a number of years pitcher of the Giants died at Cecilton Tuesday, September 14.\n\nHis father, five sisters, and two brothers survive."
+    },
+    {
+      "bbox": [
+        96,
+        2491,
+        376,
+        2703
+      ],
+      "label": "text",
+      "text": "Harry Wilson, for a number of years pitcher of the Giants died at Cecilon Tuesday, September 14. His father, five sisters, and two brothers survive.\n\nThe Jersey Champions and the Salisbury (Md.) Eagles played two games of ten innings each Friday and Saturday of last week at Salisbury. Both games resulted in a"
+    },
+    {
+      "bbox": [
+        153,
+        2200,
+        319,
+        2228
+      ],
+      "label": "paragraph_title",
+      "text": "BASEBALL BRIEFS"
+    },
+    {
+      "bbox": [
+        378,
+        310,
+        658,
+        915
+      ],
+      "label": "text",
+      "text": "The Champion Lincoln Stars defeated the Harrisburg team at that place Wednesday, after an eleven-inning battle, 5-2. The Stars scored three runs in the last inning, sewing up the game. The Harrisburg team was composed of various International League players.\n\nThe second game of the big series between Chief Bender's All Stars and the Lincoln Stars, colored champions of the world, will be staged next Sunday afternoon at the Lenox Oval, N. Y. Last Sunday's contest between these two teams in a victory for the colored boys, after a ten-inning struggle. An error in the ninth inning cost the Benderites the game.\n\nBenders team was scheduled to play at Phoenixville, Pa., next Sunday but after their defeat at the hands of the colored boys, Bender insisted on a return game. \"Wild Bill\" Skyes, will be on the mound again for the Stars.\n\nThe Lincoln Stars will clash with the crack Newburg team in the first contest Sunday. The Newburgs will use Walker a recruit recently secured from the Giants."
+    },
+    {
+      "bbox": [
+        403,
+        936,
+        631,
+        966
+      ],
+      "label": "paragraph_title",
+      "text": "RECKLING. TENNIS KING"
+    },
+    {
+      "bbox": [
+        376,
+        981,
+        657,
+        2707
+      ],
+      "label": "text",
+      "text": "By playing four of the hardest matches of his career, and winning each decisively, Ralph Reckling was crowned king of the local tennis players in the final tournament of the season given by the Secretary of the Y. M. C. A., last Saturday and the first part of this week. Reckling gave an exhibition of stamina and skill, that has hardly been equalled on the local courts. On Saturday he eliminated Williams in three of the hardest and most stubbornly contested sets of the season. Williams won the first but Reckling took the next two. Their style of play was so nearly alike and ability so nearly even that the result was always in doubt.\n\nThe first matches were played Wednesday of last week with the elimination of Jones by Hillen, and the victory of Dr. Rhetta over Cardoza in their first set. Cardoza was in fine fettle when they started to finish their match Saturday and played Rhetta off his feet, winning two straight sets. Previous to this, however McDaniels had little difficulty in eliminating Hillen, while Cook allowed Hawkins to secure one game in the thirteen. While there was little doubt as to the result of these matches it was that that the loosers would have made better showings. Braxton defaulted to Murphy, while Ross put Reid in the corner, so that the second round found Cardoza and Murphy, Weaver and Cook, Reckling and Ross, Hillen and McDaniels, opposing each other.\n\nIn a most sensational contest Ross was compelled to bow to the coming champion, Reckling. Both men were compelled to put up the best that was in them to keep from being overwhelmingly defeated. Each was in fine form, and at the finish the victor deserved the spoils.\n\nMurphy started off with a rush in his match with Cardoza winning the first set 6-1 Cardoza turned the tables in the next set winning by the same score. Murphy bid fair to win the second set getting as far as 4-1 on his opponent, but Cardoza settled down while Murphy became erratic, playing brilliantly at times and then faulting point after point. After a hard struggle the match was decided in Cardoza's favor 7-5.\n\nInterest in the semi-finals centered in the Cardoza-Reckling match, there being little doubt as to the result between Cook and McDaniels. The former pair had been rivals ever since Cardoza defeated Reckling in early summer gaining 21 place thereby. He had maintained this place although Reckling made several vain attempts to regain his former standing. Now however, was Reckling's chance to wipe out the sting of former beatings by one decisive defeat which would give him his standing until next year, and he seemed bent on performing that one trick if no other.\n\nCardoza practically had the first set sewed up 5-2 with the score in points 40-15. With the loss of the next point and a seeming misjudgement on the part of the umpire of the following point, the game went to deuce. Within the winning of this game Reckling took heart and won the next five games and the set. Cardoza braced himself however and won the second set 6-2. The last set was a heartbreaker for Cardoza and all those who joined their faith in him. The"
+    },
+    {
+      "bbox": [
+        687,
+        352,
+        1193,
+        664
+      ],
+      "label": "text",
+      "text": "To Secure A Building Lot\n\nAT\nPATAPSCO PARK\n\nThat beautiful strictly colored suburb\n\nLocation--High, Healthy, and Convenient\n10 minutes ride from city No narrow streets\n\nPrices--Within the Reach of All\nNo taxes No ground rent\n\nTerms--To Suit Your Pocketbook\nMost reasonable It will pay you to investigate\n\n\"Get on the Road to Wellville\" Write to"
+    },
+    {
+      "bbox": [
+        660,
+        828,
+        1211,
+        904
+      ],
+      "label": "text",
+      "text": "Free to all who desire a complete Shosthand. Civil Service or Bible Course. Personal or Mail Instruction. Classes forming now. Also practical Courses in Spanish. This means you. Tuition free ASSOCIATION INSTITUTE COLLEGE 728 N. CAROULINE ST. BALTIMORE, MD."
+    },
+    {
+      "bbox": [
+        659,
+        990,
+        1214,
+        1068
+      ],
+      "label": "text",
+      "text": "At John Wesley M. E. Church, Sharp and Montgomery streets Sunday at 11 a. m.. Sermon on the closing efforts of the evangelist, Rev. J. W. Warren whose work has been full of results. Come and hear him."
+    },
+    {
+      "bbox": [
+        658,
+        1065,
+        1215,
+        1171
+      ],
+      "label": "text",
+      "text": "At Paradise Grove Camp, 3 and 8 p. m., will be the closing service by Rev. Alfred Young of Eastern M. E. Church. His choir and congregation will be present. Rev. J. W. Warren will also assist. Twelve Singing and Praying Bands of the city will join in the great closing march around the camp. Great times expected. Rev. Lvon Pastor"
+    },
+    {
+      "bbox": [
+        690,
+        1187,
+        1190,
+        1222
+      ],
+      "label": "paragraph_title",
+      "text": "Grand Recital by Mrs. Henrietta Vinton Davis"
+    },
+    {
+      "bbox": [
+        661,
+        1224,
+        1212,
+        1306
+      ],
+      "label": "text",
+      "text": "The noted traveler and elocation of great fame who has been entertained by Royalty, will appear at Bethel A M. E. church, Thursday, October 7th, 1915, at 8 p. m., under the auspices of Lend-A-Hand Circle, for the benefit of the church. Mrs. L. Burke, Chairman Miss Annabelle Burk, Sec. J. W. Sanders, Pastor Admission 10 Cents"
+    },
+    {
+      "bbox": [
+        695,
+        1324,
+        1177,
+        1383
+      ],
+      "label": "paragraph_title",
+      "text": "Special Sermon by R<v. JUNIUS GRAY, D.D. Pastor of Psalmist Baptist Church"
+    },
+    {
+      "bbox": [
+        660,
+        1388,
+        1213,
+        1488
+      ],
+      "label": "text",
+      "text": "At Trinity A. M. E. Church Sunday, Sept. 26, 3 p.m. In interest of the Womens Mite Missionary Society of the Church His Famous Choir and Congregation will be present. Come out and hear their choice selections. An invitation is extended to all W. M. M."
+    },
+    {
+      "bbox": [
+        659,
+        1521,
+        1213,
+        1569
+      ],
+      "label": "text",
+      "text": "Mrs. Martha Thompson, Chairman Mrs. Lavinia S. Henry, Asst. Chair.\nMrs. Hattie Johnson, Pres.W.M.M.S. Rev. S. M. Johnson, D. D., Pastor"
+    },
+    {
+      "bbox": [
+        659,
+        1682,
+        1214,
+        2328
+      ],
+      "label": "text",
+      "text": "Liberal Interest Paid on Time Deposits. Open Daily\nOFFICE: 307 ST. PAUL STREET\nPHONE: St. Paul 3541\n\nDirectors: Clarke L. Smith, President\nJames E. Doughertv. A. E. Anderson.\nWm. H. J. Wheeler, Treasurer\nWm. H. J. Wheeler, Treasurer\n\nmedico could not pull himself together, and with the skillful placing of his opponent and, the able return of the Dr.'s hardest serves, the set was finally decided in the \"little Indian's\". favor, 6-2. The day, cold and windy and far from being an ideal one, for the game, did not serve to bring out the true form of either of the players, yet this being considered, the match was brilliant and well worth seeing.\n\nIn the Cook-Reckling match the former champion could not \"come-back\" and aside from being on the backward path was in no physical condition for the last fight of his career. He was forced to how to the superior playing of his younger opponent in three sets 6-0, 2-6, and 6-3.\n\nThe medals will be awarded at the Y. M. C. A. building on Home-Coming night October 14.\n\nMuch credit must be given Secretary Booker for conducting such a successful tournament and to the players for their hearty cooperation and keen interest.\n\nSTAR PLUMBING CO.,\n919 East Lombard Street\nRESIDENCE PHONE VERNON 6530\n\nSewer ... Connections\n\nSpecial:\u2014\nLow Prices for this month.\n\nEASY\nPAYMENTS\nARRANGED\n\nSend postal or call St. Paul\n7557\n\nCLARKE L. SMITH\nAttorney and Counselor at Law"
+    },
+    {
+      "bbox": [
+        730,
+        2365,
+        867,
+        2388
+      ],
+      "label": "paragraph_title",
+      "text": "CARDS OF THANKS"
+    },
+    {
+      "bbox": [
+        661,
+        2413,
+        940,
+        2700
+      ],
+      "label": "text",
+      "text": "Mr. Mendoza Bailey, two sons and two daughters wish to thank their friends for their kindness during the illness and their kind expressions of sympathy at the death of their daughter and sister, Mrs. Alverta E. Pratt.\n\nMr. Allen L. Pratt wishes to thank his friends and the friends of his wife, the late Mrs. Alverta E. Pratt, for their kindness during her illness and expressions of sympathy and floral tokens following her demise."
+    },
+    {
+      "bbox": [
+        966,
+        141,
+        1196,
+        343
+      ],
+      "label": "text",
+      "text": "TURN YOUR BACK\nON THE\nLandlord & Doctor\nMAKE UP YOUR MIND\nRIGHT NOW"
+    },
+    {
+      "bbox": [
+        967,
+        213,
+        1195,
+        284
+      ],
+      "label": "text",
+      "text": "Landlord & Doctor MAKE UP YOUR MIND"
+    },
+    {
+      "bbox": [
+        942,
+        1777,
+        1209,
+        1865
+      ],
+      "label": "text",
+      "text": "STAR PLUMBING CO.\n919 East Lombard Street\nRESIDENCE PHONE VERNON 6530"
+    },
+    {
+      "bbox": [
+        943,
+        2288,
+        1216,
+        2419
+      ],
+      "label": "text",
+      "text": "CLARKE L. SMITH\n..Attorney and Counselor at Law..\nOffice: 21 E. Saratoga St.\nPhone: St. Paul 2367\nResidence: 408 | restman St.\nPhone: Madison 4150-Y\nPractice in all the Courts. Special attention to\nReal Estate Transactions"
+    },
+    {
+      "bbox": [
+        940,
+        2452,
+        1218,
+        2545
+      ],
+      "label": "text",
+      "text": "I wish to thank the many friends of my deceased father, Edward Williams, for their expressions of sympathy and floral tokens following his sudden demise."
+    },
+    {
+      "bbox": [
+        943,
+        2608,
+        1219,
+        2704
+      ],
+      "label": "text",
+      "text": "New six and eight room houses for sale or rent at Mt. Winans modern conveniences. Apply CHARLES T. PARKER, Mt. Winans. Gilmor 2834."
+    },
+    {
+      "bbox": [
+        1225,
+        226,
+        1782,
+        292
+      ],
+      "label": "text",
+      "text": "BROWN'S GROVE ON THE NEW STR. STARLIGHT"
+    },
+    {
+      "bbox": [
+        1225,
+        532,
+        1785,
+        922
+      ],
+      "label": "text",
+      "text": "Sunday, September 26th\nOctober 3rd October 10th\nMusic by The Goldfield Orchestra\nFARE, 25 CENTS\nBoat Leave Miller's Wharf 9.30 a. m., and 2.30 p. m.\n\nMRS. L. J. PECK\nWishes to introduce to you the superiority of the Walker method. The more you use the Walker Method, the more you will be drawn irresistibly to the use of it. I am prepared to give the treatment or teach the method.\nWalkers' Preparations For Sale At\n521 MOSHER STREET\nCcmbings Made Up\nPhone, Madison, 3236-Y"
+    },
+    {
+      "bbox": [
+        1248,
+        958,
+        1753,
+        999
+      ],
+      "label": "paragraph_title",
+      "text": "ONLY THE BEST AT FENNELL'S PHARMACY"
+    },
+    {
+      "bbox": [
+        1246,
+        1005,
+        1757,
+        1162
+      ],
+      "label": "text",
+      "text": "We use only Pure and Fresh Drugs and Chemicals in all our Compounding. That's why we have the confidence of your Physician. If you are ill, consult your Physician and let us compound your prescription at a reasonable price.\n\nWe will introduce our NEW PROFIT SHARIN SYSTEM whereby we allow you 5 per cent on your spendings. In other words every time you spend One Dollar with us you get back five cents. Ask 10r your SALE CHECKS for they are worth saving."
+    },
+    {
+      "bbox": [
+        1248,
+        1006,
+        1756,
+        1340
+      ],
+      "label": "text",
+      "text": "We use only Pure and Fresh Drugs and Chemicals in all our Compounding. That's why we have the confidence of your Physician. If you are ill, consult your Physician and let us compound your prescription at a reasonable price.\n\nWe will introduce our NEW PROFIT SHARIN'S SYSTEM whereby we allow you 5 per cent on your spandings. In other words every time you spend One Dollar with us you get back five cents. Ask 10r your SALE CHECKS for they are worth saving.\n\nWE WILL REDEEM CHECKS EVERY MONDAY\n\nWe Are Agents For MME. WALKERS WONDERFUL HAIR GROWER IT NEVER FAILS. PER BOX. 50C. WALKER'S SHAMPOO 50C. GLOSSINE 35C.\n\nWe Are Agents For OVERTON'S HIGH BROWN PREPARATIONS\n\nWhich we are selling in large quantities. Try their High Brown FACE POWDERS Ignore it. 25 and 50 cents a box.\n\nWe send goods by PARCEL POST to any part of the country. We invite you to deal with us and be convinced of our prices."
+    },
+    {
+      "bbox": [
+        1249,
+        1178,
+        1750,
+        1289
+      ],
+      "label": "text",
+      "text": "We Are Agents For MME. WALKERS WONDERFUL HAIR GROWER IT NEVER FAILS. PER BOX. 50C. WALKER'S SHAMPOO 50C. GLOSSINE 35C. We Are Agents For OVERTON'S HIGH BROWN PREPARATIONS"
+    },
+    {
+      "bbox": [
+        1253,
+        1462,
+        1752,
+        1669
+      ],
+      "label": "text",
+      "text": "...The Druid Hill Pharmacy...\nDruid Hill Ave. & McMechen St.\nYour attention is called to our Prescription Departm ent\nPRESCRIPTIONS OUR SPECIALTY\nCarefully compounded and by Graduates Only. Always in charge of a\nRegistered Pharmacist who will give your Prescription the\nbest of attention. Prompt deliveries made anywhere\nWe Are agents for the Chasco Remedies - Ask about them\nWe Also Carry the High Brown Preparations\nYOUR PATRONAGE SOLICITED"
+    },
+    {
+      "bbox": [
+        1241,
+        1749,
+        1755,
+        1859
+      ],
+      "label": "text",
+      "text": "Makes the Hair Long, gives control of it and purifies the scalp. One 25 cent can will convin Scientifically prepared at- YOUNG'S PHARMAC. Drud Hill Avenue and Hoffman Street"
+    },
+    {
+      "bbox": [
+        1243,
+        1750,
+        1754,
+        1802
+      ],
+      "label": "text",
+      "text": "Makes the Hair Long, gives control of it and purifies the scalp. One 25 cent can will convin scientifically prepared at-"
+    },
+    {
+      "bbox": [
+        1235,
+        1874,
+        1767,
+        1914
+      ],
+      "label": "text",
+      "text": "C. & P. Phone Madison 3224 M"
+    },
+    {
+      "bbox": [
+        1255,
+        2024,
+        1740,
+        2150
+      ],
+      "label": "text",
+      "text": "Special Prices On All Church Work Interior And Exterior Work .... Monuments and Tombstones, Corner Posts and Curbing Cemetery Work. Marble Work of All Kinds. Mantles. Residence: 1216 Argyle Avenue"
+    },
+    {
+      "bbox": [
+        1223,
+        2205,
+        1782,
+        2488
+      ],
+      "label": "text",
+      "text": "JOHN H. OWENS\nUNDERTAKER @ EMBALMER\nComplete $73.00 FUNERALS $75.00. Complete\n\nA fine market worth $65.00, in black cloth, steel gray or white plush, highly polished saak or walnut outside case; beautiful rubber-tired hearos either black, gray or white, to match casket, as desired five heated ear rings, new and up-to-date; fine buried robe, enclining, opening grave advertise funeral, six pairs of gloves, noor crepe, candles, candelabra, etc. in fix when desired, rugs, chains etc., all of the latest designs.\n\nThis funeral cost elsewhere. ... ... ... ... ... ... ... $136.00\n\nMy price $73.00 ... ... $75.00 Saving you $61.00 ... ... $63.00\n\nOtizer Funerals as low as $25, $35, $49, $50. Higher Grade $100, $150, $175.\n\nNo charge for removal of remains from hospitals."
+    }
+  ]
+}

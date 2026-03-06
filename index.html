@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OCR Review — Black Press Archive</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; background: #f4f1eb; color: #2a2a2a; }
+
+  /* Header */
+  header {
+    background: #2a2622; color: #e8e0d4; padding: 20px 24px;
+    border-bottom: 3px solid #8b7355;
+  }
+  header h1 { font-size: 26px; font-weight: 800; letter-spacing: 0.5px; }
+  header p { font-size: 14px; color: #9a8b74; margin-top: 4px; font-family: sans-serif; }
+
+  /* Controls bar */
+  .controls {
+    max-width: 1200px; margin: 0 auto; padding: 16px 24px;
+    display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+  }
+  .controls input[type="search"] {
+    flex: 1; min-width: 200px; padding: 8px 14px;
+    border: 1px solid #c9b896; border-radius: 6px; background: #fff;
+    font-size: 14px; font-family: sans-serif; outline: none;
+  }
+  .controls input:focus { border-color: #8b7355; box-shadow: 0 0 0 2px rgba(139,115,85,0.2); }
+  .controls .sort-btn {
+    padding: 7px 14px; border: 1px solid #c9b896; border-radius: 6px;
+    background: #fff; cursor: pointer; font-size: 13px; font-family: sans-serif; color: #2a2622;
+  }
+  .controls .sort-btn:hover { background: #f0ece4; }
+  .controls .sort-btn.active { background: #2a2622; color: #e8e0d4; border-color: #2a2622; }
+  .count { font-size: 13px; color: #8a7d6d; font-family: sans-serif; }
+
+  /* Grid */
+  .container { max-width: 1200px; margin: 0 auto; padding: 0 24px 40px; }
+  .issues-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+  }
+  .issue-card {
+    background: #fff; border: 1px solid #d4cabb; border-radius: 8px;
+    overflow: hidden; transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .issue-card:hover { box-shadow: 0 6px 24px rgba(0,0,0,0.12); transform: translateY(-2px); }
+  .issue-card a { text-decoration: none; color: inherit; display: block; }
+  .issue-card .thumb {
+    width: 100%; height: 300px; overflow: hidden; background: #e8e0d4;
+  }
+  .issue-card .thumb img {
+    width: 100%; height: 100%; object-fit: cover; object-position: top;
+  }
+  .issue-card .info { padding: 12px 14px; }
+  .issue-card .paper {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.8px;
+    color: #8b7355; font-family: sans-serif; font-weight: 600;
+  }
+  .issue-card .date { font-size: 16px; font-weight: 700; color: #1a1a1a; margin-top: 2px; }
+  .issue-card .meta { font-size: 12px; color: #8a7d6d; font-family: sans-serif; margin-top: 4px; }
+
+  /* Empty state */
+  .empty { text-align: center; padding: 60px 20px; color: #8a7d6d; }
+  .empty h2 { font-size: 20px; margin-bottom: 8px; color: #6a5d4d; }
+
+  /* Loading */
+  .loading { text-align: center; padding: 60px; color: #8a7d6d; font-family: sans-serif; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Black Press Archive — OCR Review</h1>
+  <p>Layout detection + GLM-OCR results for co-author review</p>
+</header>
+
+<div class="controls">
+  <input type="search" id="search" placeholder="Filter by newspaper name or date...">
+  <button class="sort-btn active" data-sort="name">A-Z</button>
+  <button class="sort-btn" data-sort="date">By Date</button>
+  <button class="sort-btn" data-sort="paper">By Paper</button>
+  <span class="count" id="count"></span>
+</div>
+
+<div class="container">
+  <div class="issues-grid" id="grid">
+    <div class="loading">Loading issues...</div>
+  </div>
+</div>
+
+<script>
+let issues = [];
+let currentSort = 'name';
+
+function parseIssue(name) {
+  // e.g. "baltimore-afro-american_1915-09-25"
+  const parts = name.split('_');
+  const datePart = parts.pop(); // "1915-09-25"
+  const paperPart = parts.join(' ').replace(/-/g, ' ');
+  const paperTitle = paperPart.replace(/\b\w/g, c => c.toUpperCase());
+
+  // Format date nicely
+  const [y, m, d] = datePart.split('-');
+  const months = ['', 'January', 'February', 'March', 'April', 'May', 'June',
+                   'July', 'August', 'September', 'October', 'November', 'December'];
+  const dateDisplay = `${months[parseInt(m)]} ${parseInt(d)}, ${y}`;
+
+  return { paper: paperTitle, date: dateDisplay, dateRaw: datePart, sortKey: name };
+}
+
+function renderGrid(filtered) {
+  const grid = document.getElementById('grid');
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div class="empty"><h2>No matching issues</h2><p>Try a different search term.</p></div>';
+    return;
+  }
+  grid.innerHTML = filtered.map(issue => {
+    const info = parseIssue(issue.name);
+    return `<div class="issue-card">
+      <a href="${issue.name}/index.html">
+        <div class="thumb"><img src="${issue.name}/images/page_01.jpg" loading="lazy" alt="${info.paper}"></div>
+        <div class="info">
+          <div class="paper">${info.paper}</div>
+          <div class="date">${info.date}</div>
+          <div class="meta">${issue.pages} pages</div>
+        </div>
+      </a>
+    </div>`;
+  }).join('');
+  document.getElementById('count').textContent = `${filtered.length} of ${issues.length} issues`;
+}
+
+function sortIssues(list, mode) {
+  const sorted = [...list];
+  if (mode === 'date') {
+    sorted.sort((a, b) => {
+      const da = parseIssue(a.name).dateRaw;
+      const db = parseIssue(b.name).dateRaw;
+      return da.localeCompare(db);
+    });
+  } else if (mode === 'paper') {
+    sorted.sort((a, b) => {
+      const pa = parseIssue(a.name).paper;
+      const pb = parseIssue(b.name).paper;
+      return pa.localeCompare(pb) || parseIssue(a.name).dateRaw.localeCompare(parseIssue(b.name).dateRaw);
+    });
+  } else {
+    sorted.sort((a, b) => a.name.localeCompare(b.name));
+  }
+  return sorted;
+}
+
+function update() {
+  const query = document.getElementById('search').value.toLowerCase();
+  let filtered = issues;
+  if (query) {
+    filtered = issues.filter(issue => {
+      const info = parseIssue(issue.name);
+      return issue.name.toLowerCase().includes(query) ||
+             info.paper.toLowerCase().includes(query) ||
+             info.date.toLowerCase().includes(query);
+    });
+  }
+  renderGrid(sortIssues(filtered, currentSort));
+}
+
+// Search
+document.getElementById('search').addEventListener('input', update);
+
+// Sort buttons
+document.querySelectorAll('.sort-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentSort = btn.dataset.sort;
+    update();
+  });
+});
+
+// Load manifest
+fetch('manifest.json')
+  .then(r => r.json())
+  .then(data => {
+    issues = data;
+    update();
+  })
+  .catch(() => {
+    document.getElementById('grid').innerHTML =
+      '<div class="empty"><h2>No manifest.json found</h2><p>Run process_issue.py to generate issues.</p></div>';
+  });
+</script>
+
+</body>
+</html>
