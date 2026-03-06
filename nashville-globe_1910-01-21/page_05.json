@@ -1,0 +1,168 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1760,
+  "height": 2800,
+  "regions": [
+    {
+      "bbox": [
+        148,
+        251,
+        1541,
+        393
+      ],
+      "label": "doc_title",
+      "text": "A Monster Clothing Movement"
+    },
+    {
+      "bbox": [
+        201,
+        489,
+        1489,
+        812
+      ],
+      "label": "text",
+      "text": "Our entire line of High-Grade Suits and Overcoats, for Men and Boys, is thrown into the greatest sacrifice sale in the history of this firm. Our new spring stock is arriving daily. We are compelled to sell out our present stock to make room for these goods."
+    },
+    {
+      "bbox": [
+        411,
+        843,
+        1284,
+        1040
+      ],
+      "label": "paragraph_title",
+      "text": "ALL SUITS AND OVERCOATS FOR MEN AND BOYS"
+    },
+    {
+      "bbox": [
+        243,
+        1238,
+        1475,
+        1332
+      ],
+      "label": "paragraph_title",
+      "text": "THE STOCK IS NOW READY FOR SELLING"
+    },
+    {
+      "bbox": [
+        169,
+        2135,
+        1563,
+        2225
+      ],
+      "label": "text",
+      "text": "We will bend every energy to close out this entire stock in the shortest time possible. SO DON'T DELAY. COME TODAY."
+    },
+    {
+      "bbox": [
+        185,
+        1116,
+        459,
+        1185
+      ],
+      "label": "text",
+      "text": "Terms Cash"
+    },
+    {
+      "bbox": [
+        181,
+        1394,
+        507,
+        1572
+      ],
+      "label": "text",
+      "text": "Men's and Youths Overcoats, Rain Coats, Top Coats"
+    },
+    {
+      "bbox": [
+        196,
+        2338,
+        317,
+        2519
+      ],
+      "label": "text",
+      "text": "325\nUNION\nSTREET"
+    },
+    {
+      "bbox": [
+        503,
+        1094,
+        1200,
+        1213
+      ],
+      "label": "text",
+      "text": "Our original prices are plainly marked. No changes or \"Sale Prices\" on our price tickets. Just figure 1-3 off the original prices yourself, thus making your own prices."
+    },
+    {
+      "bbox": [
+        566,
+        2480,
+        1165,
+        2542
+      ],
+      "label": "text",
+      "text": "Glothiers, Hatters and Furnishers"
+    },
+    {
+      "bbox": [
+        526,
+        1392,
+        848,
+        1527
+      ],
+      "label": "paragraph_title",
+      "text": "Men's and Youths' Suits"
+    },
+    {
+      "bbox": [
+        881,
+        1987,
+        1203,
+        2094
+      ],
+      "label": "text",
+      "text": "BOYS' OVERCOATS and TOP COATS SAME PRICES AS ABOVE."
+    },
+    {
+      "bbox": [
+        1259,
+        1107,
+        1523,
+        1174
+      ],
+      "label": "text",
+      "text": "Terms Cash"
+    },
+    {
+      "bbox": [
+        1254,
+        1390,
+        1506,
+        1522
+      ],
+      "label": "paragraph_title",
+      "text": "Men's Odd Trousers"
+    },
+    {
+      "bbox": [
+        1218,
+        1543,
+        1544,
+        1684
+      ],
+      "label": "text",
+      "text": "In this lot you will find such good values that it will pay you to buy now. An extra or two pairs of trousers are always in order."
+    },
+    {
+      "bbox": [
+        1425,
+        2339,
+        1546,
+        2518
+      ],
+      "label": "text",
+      "text": "325\nUNION\nSTREET"
+    }
+  ]
+}
