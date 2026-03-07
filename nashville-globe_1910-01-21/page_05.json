@@ -3,6 +3,17 @@
   "image": "images/page_05.jpg",
   "width": 1760,
   "height": 2800,
+  "processed_at": "2026-03-07T12:22:49.561990+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 20,
+    "after_merge": 20
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         393
       ],
       "label": "doc_title",
-      "text": "A Monster Clothing Movement"
+      "text": "A Monster Clothing Movement",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         812
       ],
       "label": "text",
-      "text": "Our entire line of High-Grade Suits and Overcoats, for Men and Boys, is thrown into the greatest sacrifice sale in the history of this firm. Our new spring stock is arriving daily. We are compelled to sell out our present stock to make room for these goods."
+      "text": "Our entire line of High-Grade Suits and Overcoats, for Men and Boys, is thrown into the greatest sacrifice sale in the history of this firm. Our new spring stock is arriving daily. We are compelled to sell out our present stock to make room for these goods.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +45,8 @@
         1040
       ],
       "label": "paragraph_title",
-      "text": "ALL SUITS AND OVERCOATS FOR MEN AND BOYS"
+      "text": "ALL SUITS AND OVERCOATS FOR MEN AND BOYS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +56,8 @@
         1332
       ],
       "label": "paragraph_title",
-      "text": "THE STOCK IS NOW READY FOR SELLING"
+      "text": "THE STOCK IS NOW READY FOR SELLING",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,37 +67,63 @@
         2225
       ],
       "label": "text",
-      "text": "We will bend every energy to close out this entire stock in the shortest time possible. SO DON'T DELAY. COME TODAY."
+      "text": "We will bend every energy to close out this entire stock in the shortest time possible. SO DON'T DELAY. COME TODAY.",
+      "status": "ok"
     },
     {
       "bbox": [
-        185,
-        1116,
-        459,
-        1185
+        161,
+        831,
+        388,
+        1049
       ],
       "label": "text",
-      "text": "Terms Cash"
+      "text": "1/3 OFF",
+      "status": "ok"
     },
     {
       "bbox": [
-        181,
-        1394,
+        161,
+        1116,
         507,
         1572
       ],
       "label": "text",
-      "text": "Men's and Youths Overcoats, Rain Coats, Top Coats"
+      "text": "Terms Cash THE STO Men's and Youths' Overcoats, Rain Coats, Top Coats",
+      "status": "ok"
     },
     {
       "bbox": [
-        196,
-        2338,
-        317,
-        2519
+        161,
+        1572,
+        507,
+        2338
       ],
       "label": "text",
-      "text": "325\nUNION\nSTREET"
+      "text": "$35.00, at 1-3 off,\nnow..... $23.35\n$30.00, at 1-3 off,\nnow.....",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        161,
+        2338,
+        507,
+        2772
+      ],
+      "label": "text",
+      "text": "325\nUNION\nSTREET",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        540,
+        131,
+        1117,
+        159
+      ],
+      "label": "text",
+      "text": "THE NASHVILLE GLOBE, FRIDAY, JANUARY 21, 1910.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,8 @@
         1213
       ],
       "label": "text",
-      "text": "Our original prices are plainly marked. No changes or \"Sale Prices\" on our price tickets. Just figure 1-3 off the original prices yourself, thus making your own prices."
+      "text": "Our original prices are plainly marked. No changes or \"Sale Prices\" on our price tickets. Just figure 1-3 off the original prices yourself, thus making your own prices.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +144,8 @@
         2542
       ],
       "label": "text",
-      "text": "Glothiers, Hatters and Furnishers"
+      "text": "Glothiers, Hatters and Furnishers",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +155,8 @@
         1527
       ],
       "label": "paragraph_title",
-      "text": "Men's and Youths' Suits"
+      "text": "Men's and Youths' Suits",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,17 +166,30 @@
         2094
       ],
       "label": "text",
-      "text": "BOYS' OVERCOATS and TOP COATS SAME PRICES AS ABOVE."
+      "text": "BOYS' OVERCOATS and TOP COATS SAME PRICES AS ABOVE.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1259,
-        1107,
-        1523,
-        1174
+        1312,
+        826,
+        1545,
+        1046
       ],
       "label": "text",
-      "text": "Terms Cash"
+      "text": "1/3 OFF",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1218,
+        1107,
+        1546,
+        1390
+      ],
+      "label": "text",
+      "text": "SELLING",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +199,8 @@
         1522
       ],
       "label": "paragraph_title",
-      "text": "Men's Odd Trousers"
+      "text": "Men's Odd Trousers",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,17 +210,30 @@
         1684
       ],
       "label": "text",
-      "text": "In this lot you will find such good values that it will pay you to buy now. An extra or two pairs of trousers are always in order."
+      "text": "In this lot you will find such good values that it will pay you to buy now. An extra or two pairs of trousers are always in order.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1425,
-        2339,
+        1218,
+        1684,
         1546,
-        2518
+        2339
       ],
       "label": "text",
-      "text": "325\nUNION\nSTREET"
+      "text": "$5.00, at 1-3 off,\nnow..... $3.35\n$6.00, at 1-3 off,\nnow....",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1218,
+        2339,
+        1546,
+        2771
+      ],
+      "label": "text",
+      "text": "CO. 325\nUNION\nSTREET",
+      "status": "ok"
     }
   ]
 }

@@ -1,3 +1,7 @@
+```markdown
+
+```
+
 # IOWA NEWS
 
 SIOUX CITY ITEMS.
@@ -29,8 +33,6 @@ The Mt. Zion Baptist Aid met last Thursday afternoon at the residence of Mrs. Jo
 Kappa Alpha Psi.
 (Kappa Alpha Icons)
 
-## IOWA CITY ITEM.
-
 We are being favored or disfavored (according to the opinion of the individual) with an unusual number of April showers. The soil of our little city has been thoroughly saturated with the many fast falling raindrops, Bro. Scott, Hill, Allen, Donaldson and Mr. Washington, on becoming displeased with our wet surroundings took a car to Cedar Rapids last Saturday evening to locate dry quarters for the week end. The Colored Voter's league of Iowa City was called to order at 8:30 p. m. last Friday April 23,1920 by the chairman. A stirring program was rendered. After the meeting was concluded, ice cream was served and everybody had a grand time. The next meeting will be May 7.
 
 Mrs. Gresham of Cedar Rapids and Mrs. Lewis of Providence were visitors in the city last week.
@@ -49,15 +51,19 @@ Mr. Lennjs Page has gone to Chicago to accept a position in the city hall
 
 Mr. and Mrs. Ed Reesbern and Mr. and Mrs. John Greenup motored to Lockridge and Fairfield last Sunday afternoon. They had a delightful time.
 
+noble.
+
 Little Marie White went to Fairfield Iowa last Friday to be in a play.
+
 Mrs. Wm. Williams received news of the serious illness of her little grand-daughter in Minneapolis, Minnesota.
+
 Miss Viola Harris was a Fairfield visitor last Friday evenifn.
-Mrs. Eugene Patterson and daughter, Neinohi Williams were in Fairfield last Friday where Neinohan took jart in the play booked there last Friday night.
-Mr. Oscar Green who is working in Fairfield spent Sunday with his family in the city.
 
-Mr. Oscar Green who is working in Fairfield spent Sunday with his family in the city.
+Mrs. Eugene Patterson and daughter, Neinohow Williams were in Fairfield last Friday where Neinonah took jart in the play booked there last Friday night.
 
-Mrs. Seenj Reider went to Minneapolis for florida last Friday night called there by the serious illness of her little voice. Emma Max Phillips.
+Mr. Osear Green who is working in Fairfield spent Sunday with his family in the city.
+
+Mrs. Leonj Reider went to Minneapolis, Minnesota last Friday night called there by the serious illness of her little voice EdaMa Phillips.
 
 Cordelia Green of New London spent Sunday with the home folks.
 
@@ -85,11 +91,31 @@ Macon had quite a fire nearly destroying the entire block. The fire started in t
 Rev. J. W. L. Underwood preached two excellent sermons Sunday morning and night.
 Quite a large crowd attended the Rally in Bevier, Mo., Rev. J. L. Williams, pastor there.
 
-Mr. Russell R. Jackson of Philadelphia, Pa., and Engle Davis of Rock Island, Illinois were the guests Sunday of Miss Lucille and Edyth Harris.
-
 Mr. Russell R. Jackson of Philadelphia, Pa., and Eugene Davis of Rock Island, Illinois were the guests Sunday of Miss Lucille and Edyth Harris. Commencement of Western College start Sunday May 2 at Vine and Broadway Baptist church.
 
+a)I see who's who.
+
+in Sunday afternoon, Bethel A. M. E. church was the scene of the K. P.'s turn out and sermon. The Rev. Dr. S. B. Moore was the chosen speaker for the hour and preached a very able sermon, quite suitable for the occasion. Next Sunday the Old Fellows and the H. H. of R. will have their annual sermon at the A. M. E. church.
+
+The vesper services held at the "Y" Sunday was quite interesting. A solo was rendered by a very able white singer of the city. And also by Mrs. C. Shepard, one of our own race singers. The field secretary of the athletic department of the Y. W. C. A. was in our midst and gave a very enthusiastic talk to the attendants of the vesper services. Mr. Webster Stovall, son of Rev. B. Stovall, formerly pastor in this city, has been visiting friends for a few days. Mr. Stovall is a graduate of the D. H. S. in the 1914 class. He has been overseas and he is now on his way home to Minneapolis, Minn. He was the guest of Miss Marie Wilkerson. Club No. 2 is going to give the other clubs a hard race for first place and you other captains remain to watch your steps are the captain and members of club No. 2 are saying. And it behooves all to sit up and take no tuee. The 2 club is going to give a concert on Thursday night, details of concert will be given later.
+
+Hatfield A. M. E. church was well represented in the parade of the interchurch movement, on last Saturday afternoon. Mr. Wellington's truck was secured and all that could be sent comfortably and otherwise were helped in. The parade was twenty-seven blocks long. In the daily papers there was made mention of the A. M. E. church deal being the one to support Old Glory and much adieu was made about the same.
+
+The Hally Q Brown club met at the home of Mrs. John Gordon on last Thursday afternoon, April 29. There were twenty-six members present and three honored guests. They were: Mrs. Richy, secretary of the Y: Mrs. Anna Crump of East Davenport, and Mrs. Samuel Stacker of Motone, Ill. The club met for a social event, and they certainly had one grand and glorious time for the subject discussed upon was the high cost of living. A paper was read on the same. An instrumental solo given by Mrs. Walkup of Moline, Ill. Quite an up-to-the-minute luncheon was served by the hostess, Mrs. Gordon.
+
+DOW
+
+Harris-Emerys
+DOWNSTAIRS STORE
+
+Ht
+
+You illw want several pairs of shoe,possesses many exclusive feats extra weight sail canvas, duck the foot fro contact with the outer
+
 You illw want several pairs at these low prices. Every pair guarded give satisfaction. The "Big Q" gym shoe, possesses many exclusive features makes it of the best shoeof its kind on the market--the shoes are made of extra weight sail canvas, duck lined throughout; horsehide leather ankle patch, and with cork insoles that keep the foot fro contact with the outer soles and heels of triple tread, red rubber
+
+for children
+$295
 
 The Macon Women's club met at Mrs. Etta Johnson. A lovely lunchcon was served and a nice time was spent after business, the guests departed. Next will meet be May 1 at Miss Gussive Jones.
 Miss Della Williams visited her home folks Saturday.
@@ -101,8 +127,6 @@ The Household of Ruth No. 4961 and G. U. O. of Odd Fellows No. 4655 met in a joi
 
 A play known as "Out in the Streets" was given Thursday evening, April 25 by the grand master, M. Askow for the benefit of the grand lodge, it was attractive and desirable. In spite of rain there was a large attendance. Church services at 11 a. m.; Sunday school at 1 p. m.; evening service; 7:30 p. We had with us at the A. M. E. church, Mr. Robbie Durr. He gave a very interesting talk of the school in Piney Woods, Miss., and urged the colored people to subscribe for the Bystander.
 
-A play known as "Out in the Streets" was given Thursday evening April 25 by the grand master, M. Askew for the benefit of the grand lodge. It was attractive and laughable. In spite of rain there was a large attendance.
-
 ## DAVENPORT NEWS.
 (R. C. Moore.)
 
@@ -112,41 +136,52 @@ Sizes 8 to 13 1-2
 
 INTRODUCING a new shoe--one that the manufacturer calls the "Big 9" shoe, but we see no reason why so named, for they are equally as good for street wear. Perhaps its because they are so wonderfully light, cooling and restful that they are called "gym" shoes. They are sturdy dependable shoes that one does not have to be too careful of--they'll stand the rub and stub of wear and still appear attractive
 
-a)I see who's who.
+"Big 9" Gym Shoes
 
-in Sunday afternoon, Bethel A. M. E. church was the scene of the K. P.'s turn out and sermon. The Rev. Dr. S. B. Moore was the chosen speaker for the hour and preached a very able sermon, quite suitable for the occasion. Next Sunday the Old Fellows and the H. H. of R. will have their annual sermon at the A. M. E. church.
+THE BYSTANDER
 
-The vesper services held at the "Y" Sunday was quite interesting. A soo was rendered by a very able white singer of the city. And also by Mrs. C. Shepard, one of our own race singers. The field secretary of the athletic department of the Y. W. C. A. was in our midst and gave a very enthusiastic talk to the attendants of the vesper services.
-
-Mr. Webster Stovall, son of Rev. B. Stovall, formerly pastor in this city, has been visiting friends for a few days. Mr. Stovall is a graduate of the D. H. S. in the 1914 class. He has been oversees and he is now on his way home to Minneapolis, Minn. While here he was the guest of Miss Marie Wilkerson.
-
-Club No. 2 is going to give the other clubs a hard race for first place and you other captains better watch your step, are the remarks that the certain and members of Club No. 2 are saying. And it behooves you to sit up and take notice. The No. 2 club is going to give a concert on Thursday night, details of the same will be given later.
-
-Bethel A. M. E. church was well represented in the parade of the inter-church movement, on last Saturday afternoon. Mr. Wellington's truck was secured and all that could be sent comfortably and otherwise were helped in. The parade was twenty-seven long. In the daily papers there was made mention of the A. M. E. church float being the one to support Old Glory and much adieu was made about the same.
-
-The Hally Q Brown club met at the home of Mrs. John Gordon on last Thursday afternoon, April 29. There were twenty-six members present and three honored guests. They were: Mrs. Richy, secretary of the Y: Mrs. Anna Crump of East Davenport, and Mrs. Samuel Stacker of Motone, Ill. The club met for a social event, and they certainly had one grand and glorious time for the subject discussed upon was the high cost of living. A paper was read on the same. An instrumental solo given by Mrs. Walkup of Moline, Ill. Quite an up-to-the-minute luncheon was served by the hostess, Mrs. Gordon.
-
-Our pastor, gav. S. B. Moore, will leave for the seat of the general conference next week. A concert was given in his behalf on last Thursday evening. And amidst the rain, the good and loyal people of Davenport rallied to the call of the chairman Mrs. Bynum. The concert was given to hear the pastor's expense to the conference. Davenport's people would have the other people of
+Our pastor, Rev. S. B. Moore, will leave for the seat of the general conference next week. A concert was given in his behalf on last Thursday evening. And amidst the rain, the good and loyal people of Davenport rallied to the call of the chairman, Mrs. Bynum. The concert was given to bear the unster's expense to the conference. Davenport's people would have the other people of
 
 the other cities know that we are on the map, and are not going to stop until we are quenched. You can't beat peo like that. So come on fall in line and send your pastor to the general conference. Mrs. S. B. Moore is improving gradually. She has been sitting up and enjoying the pure fresh air and the sunny days of May and we only trust that she will continue.
 
 ## PED OAK NEWS
 
-Mr. Drew was in Red Oak April 27 looking after the interest of the Iowa state Bystander. The industrial club which was organized for the young men April the I met at Friday night April 23 at the house of Mr. and Mrs. L. H. Brown April 23 at the home of Mr. and Mrs. H. Brown, 506 Last Market street. All business was closed. The club gave a business entertainment, fee cream, cake and pop were served which netted the club the sum of $9,00 which was turned over to the treasurer, Mr. Marck Keene. Mrs. George Lytle and daughter, Dorothy returned home Thursday April 29 after a two weeks visit with her perest, Mr. and Mrs. Walker of Glenwood Iowa. Mr. John Stewart left on the moon train for Nebraska City to visit a few days with is sister, Mrs. Perkins. A birthday and summer party was given on Wm. Baker Thursday April 29 by his wife, Mrs. Wm. Baker. A large number of his friends were present and the evening was spent in games after which refreshments were served. All left reporting a good time. There were two families moved to Red Oak the first of the month, Mr. and Mrs. L. H. Brown and family of Chirinda, Iowa and Mr. and Mrs. Frank Dale of Tarkio, Mo., all were glad to welcome them here. To the manager: Your agent appointed me correspondent of this city when he was here and I will do my best to get all the latest news and out before the paper gets to press. Write me your terms to correspond and I will consider it with you this i 17. 'is week's news is a little late it my first offence.
+Mr. Drew was in Red Oak April 27 booking after the interest of the Iowa state Bystander.
+
+The Industrial club which was organized for the young men April the 1st last Friday night April 23 at the house of Mr. and Mrs. L. H. Brown April 23 at the home of Mr. and Mrs. C. H. Brown, 506 East Market street. All business was closed. The club gave a grand entertainment, fee cream, cake and pop were served which netted the club the sum of $9.00 which was turned over to the treasurer, Mr. Marvel Kence.
+
+Mrs. George Lytle and daughter, Dorothy returned home Thursday April 29 after a two weeks visit with her parents, Mr. and Mrs. Walker of Glenwood Iowa.
+
+Mr. John Stewart left on the moon train for Nebraska City to visit a few face with is sister, Mrs. Perkins.
+
+A birthday and summer party was given on Wun. Baker Thursday April 29 by his wife, Mrs. Wm. Baker. A large number of his friends were present and the evening was spent in games after which refreshments were served. All left reporting a good time.
+
+There were two families moved to Red Oak the first of the month. Mr. and Mrs. L. H. Brown and family of Clarinda, Iowa and Mr. and Mrs. Frankbie of Tarkio, Mo., all were glad to welcome them here.
+
+To the manager; Your agent appointed me correspondent of this city; she he was here and I will do my best to get all the latest news and out before the paper gets to press. Write me my terms to correspond and I will consider it with you this week's week's news is a little late it my first offense.
 
 ## MACON ITEMS.
 
 Mr. Hughes of Dalton, Mo., spent Sunday in the city. Quite a bunch of strangers were in the city to attend commencement of Western college. Proof. J. L. Thompson prescheduled an excellent to the graduates. Miss Saunders of Western college sang very beautifully Sunday afternoon and night. Among the graduates Miss May Brown, Emma Hawkins, Lotte Breut Miss McLamman and others. Miss Mable Bates of California will stand Thursday as the guest of Mrs.
 
+r calls the "Big 9"
+are equally as good for
+fully light, cooling and
+have to be too careful
+ar attractive
+
+Does
+
 The "Leader"
+
 --a lesser-priced shoe
 style similar to "Big 9"
 Sizes 11 1-2 to 13 1-2
 For the Children
-$250
+$2 50
 Sizes 1 to 6
 --for boys and girls
-$300
+$3 00
 
 Madge Clark. They will leave Prima to attend the A. M. E. conference in
 
@@ -189,34 +224,21 @@ Authoe has gone over the top in the Baptists drive her apportionment to date of 
 The Black Hawk lodge No. 10008 of Waterloo had their Thanksgiving service at Antioch Baptist church Sunday.
 
 cold remedy for 20 years
-tablet form—sure, safe,
-unless you want to
-injure—elieves grip in 3 days.
-Money, back if it falls. The
-genuine box has a Mr. Red
-wish with it. Mr. Hill's
-picture.
-
-Standard cold remedy for 20 years
-—in tablet form—safe, sure, no
-points—break up a cold in 24
-points—beef up a cold in 24
-points—back it if it fails. The
-genuine box has a Red
+tablet form—sure, safe, no
+breaks—up a cold in 24
+hours—relieves a cold.
+Moves it when it falls.
+Moves it when it falls.
+miniature box has a Red
 top with Mr. Hill's
 picture.
-As All Drug Stores
-
-At All Drug Stores
+All Drug Stores
 
 ## IOWA CITY ITEMS.
 DELTA SIGMA THETA.
 (Mildred Griffin.)
 
-IOWA CITY ITEMS.
-DELTA SIGMA THETA.
-(Mildred Griffin.)
-The Du Bois Literary society held an interesting meeting at the Delta Sigma Theta last Friday April 30, Miss Wilma Reed, Mrs. Helen Damon Deshears and Mr. J. L. Damon led the discussion on the history of the Negro. Musical numbers were given by the Misses Helen Lucas and Hazelle Shear.
+The Du Bois Literary society held an interesting meeting at the Delta Sigma Theta last Friday April 30, Miss Wilma Reed, Mrs. Helen Damron Deshears and Mr. J. L. Damron led the discussion on the history of the Negro. Musical numbers were given by the Misses Helene Lucas and Hazelle Shaw.
 
 Messrs. Charles P. Howard, Howard Drew, Hunter and Jinks Hunter attended the track meet in Iowa last Saturday afternoon. A dancing and card party was given for them Saturday evening by the members of the Kappa Alpha Psi. Miss Reulah Wheeler, who has been confined to her bed at the university hospital is improving. Sunday school was held last Sunday afternoon at the usual hour. After the discussion of the lesson; Miss Milkred I. Griffin and Mr. L. E. Windor were elected to represent the Sunday school at the district Convention which is to be held in Des Moines on June 24 and 25. Mrs. a. L. Damercon spent Sunday in Corner Rapids.
 

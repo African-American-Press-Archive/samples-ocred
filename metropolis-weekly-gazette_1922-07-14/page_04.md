@@ -1,30 +1,58 @@
-A. W.
-FUNERAL DIRT
-COMPLETE
-All Calls Given
--- 2 Ex
-Kentucky Licenses No.
+McGraw
+M. J.
+
+McGrary's Undertaking
+M. J. MCCRAR
+Pearl St.
+
+A. W. Watkins Co.
+GENERAL DIRECTORS AND EMBALMERS
+COMPLETE MOTOR EQUIPMENT
+Vails Given Our Most Courteous Attention
+- 2 Expert Embalmers 2 -
+Excenses No. 625 and 1284, Illinois License
+es, 241 - Paducah, K.
+
+Maple and Fancy Groceries
+Dream and Confections on hand
+always to be served in the Latest Styles
+At
+S. T. A. DAVIDSO
+North St. Phone St. Clair, 727
+EAST ST. LUUIS, ILL.
+
+C. N. JOHNSON
+Delicatassen
+For Hot And Cold Lunches
+Dream And Soda Water
+Bridge 3421. 23.North 10th
+EAST ST. LOUIS, ILL.
+
+Office 901 Pearl St.
+
+A. W. Watt
+FUNERAL DIRECTORS
+COMPLETE MOTO
+All Calls Given Our Mo
+- - 2 Expert En
+Kentucky Licenses No. 625 and
 Both Phones, 241
 
-Staple and Ice Cream and
-always to be
+Staple and Fash
+Ice Cream and Con
+always to be served in
+At
 
-MRS. T.
-
+MRS. T. A.
 100 N. 11th St.
+EAST S
 
-C. N.
-De
-For Hot Ice Cream
-Phone Bell Bridge 3421
-
-PORC
-Scalp
-Mrs.
-
-268 Division Ave.
-
-Furnished Rooms
+C. N. JOHN
+Delicate
+For Hot And C
+Ice Cream And
+Phone Bell Bridge 3421.
+EAST
 
 FUNERAL DIRECTORS AND EMBALMERS
 COMPLETE MOTOR EQUIPMENT
@@ -46,12 +74,14 @@ EAST ST. LOUIS, ILL.
 
 ## Poro System
 
-Poro System
-Scientific and Sanitary Scalp and Hair Treatment
-Mrs. M. M. Johnson
-25 N. 10th St., - - EAST ST. LOUIS, ILL.
-
-Poro System Scientific and Sanitary Scalp and Hair Treatment Mrs. M. M. Johnson 25 N. 10th St., EAST ST. LOUIS, ILL.
+Scientific and Sanitary Sc
+Mrs. M. M.
+25 N. 10th St.,
+PORO S
+Scalp and Hair
+Mrs. Etta
+268 Division Ave.
+Furnished Rooms Cigars, Tob
 
 and Sanitary Scalp and Hair Treatment
 Mrs. M. M. Johnson
@@ -66,19 +96,40 @@ rooms Cigars, Tobacco Fruits and
 PORO SYSTEM Scalp and Hair Treatment Mrs. Etta Bates.
 
 GEO. ALLEN
-Pocket Billards,
+Pocket Billards.
 100 N. 21st St.
 EAST ST. LOUIS, ILL.
 
-EAGLE "MIKADO"
-For Sale at your Dealer
-ASK FOR THE Y
+EAGLE "MIKADO" Pencil N.
+For Sale at your Dealer Made in five
+ASK FOR THE YELLOW PENCH, WITH THE RED JAND
+EAGLE MIKADO
+EAGLE PENCIL COMPANY, NEW YORK
 
----
+Body Blow.
+A Maryland man slept with his twin by mistake, and is
+
+Explanations.
+It never does take a man explain when he is drunk or
+
+MIKADO" Pencil No.
+174 SEASON MIKADO NEW YORK
+Our Dealer Made in five
+K FOR THE YELLOW PENCH, WITH THE RED JAND
+EAGLE MIKADO
+ELE PENCIL COMPANY, NEW YORK
+Blow.
+on eiped with his
+hy mistake, and is
+Explanations.
+It never does take a ma-
+ry explain when he investigs our
 
 In times of family stress unusual problems often arise where those in charge require unusual service that can be promptly, efficiently rendered by our organization. We are equipped to meet all emergencies, of any kind pertaining to our profession
 
 We honor calls from any part of Metropolis, or the county. Consult us, we can save you Worry, Time and Money.
+
+METROPOLIS WEEKLY GAZETTE. METROPOLIS. ILL.
 
 ## SERVICE IS IMPORTANT
 
@@ -122,8 +173,9 @@ Success will make you. hair soft, no matter how stubby and long, no matter how s
 
 ## Satisfaction or money Refunded
 
-Satisfaction or money Refunded
-Agents wanted. For full particulars write Madam A. C. Bolden, 406 N, 17, St.
+hand Agents want ticulars write M den, 406 N, 17 Murphysbe OSON
+
+Agents wanted. For full particulars write Madam A. C. Bolden, 406 N, 17. St.
 Murphysboro, Ill.
 
 ## List of Officers of the Mt. Olive Baptist Dist. S. S. Institute for 1920-21
@@ -177,15 +229,20 @@ Agent, Metropolis, III.
 
 ## Walker's Indigestian Cure.
 
-Walker's Indigestian Cure.
-Rev. J. B. McCrary is agent for
-Dr. Walker's Sure cure for Indigestion and Dyspepsia. 50c and
-$1.00 bottles. $1.10 by mail.
-We can obviously recommend it.
+YORK
+ations.
+like a man long to
+nightly or drinks he
+punches a man goes
+off with combinations
 
----
+Rev. J. B. M.
+Dr. Walker's S
+gestion and Dy
+$1.00 bottles.
+We can cheer
 
----
+Rev. J. B. McCrary is agent for Dr. Walker's Sure cure for Indigestion and Dyspepsia. 50c and $1.00 bottles. $1.10 by mail. We can cheerfully recommend it.
 
 Phone 364
 
@@ -193,9 +250,7 @@ Phone 364
 
 "Go West" Slogan Now Passe; Better Chance for Young Man in the Foreign Countries.
 
-Probably no saying of Horace Greeley, the bencon light of multitudes of three-quarters of a century ago, was more widely read, more generally followed, or longer remembered than his continually reiterated exhortation, "Young man, go West!"
-
-That, says the San Francisco Chronicle, was a satisfactory way of relieving what was then thought congestion of population in eastern communities, but it no longer answers the purpose. Today the place for the enterprising young man to look for is in some undeveloped foreign country. It will be a new thought to most of us that the time has come when we must consider emigration as well as immigration—that there are lands of opportunity other than our own.
+Probably no saying of Horace Greeley, the beacon light of multitudes of three-quarters of a century ago, was more widely read, more generally followed, or longer remembered than his continually reiterated exhortation, "Young man, go West!" That, says the San Francisco Chronicle, was a satisfactory way of relieving what was then thought congestion of population in eastern communities, but it no longer answers the purpose. Today the place for the entertising young man to look for is in some undeveloped foreign country. It will be a new thought to most of us that the time has come when we must consider emigration as well as immigration—that there are lands of opportunity other than our own.
 
 This was emphasized recently by Frank D. Waterman, a name well known to those who do not habitually use a typewriter, with special reference to the centenary celebration which begins at Rio Janeiro, Brazil, next September. It has become a necessity with us, as it has long been with overpopulated Europe, to seek outlets in foreign countries for the surplus products of our workers. The one way to do it is by commercial missionaries going to foreign countries while still forming their minds and staying there. That is the way Europe has built up trade in undeveloped countries. That is the way we must adopt if we expect to successfully compete with those countries.
 
@@ -236,25 +291,24 @@ You can now subscribe for the good old St. Louis Globe-Democrat by mail at the f
 
 These prices are now back to normal and as low as formerly, considering that approximately $2.00 more per yearly subscription is paid the government for postage than a few years ago. This, of course, is not within the control of any newspaper.
 
-## Special Club-Raisers' Rates
+Special Club-Raisers' Rates
 
-As in former years, the Globe-Democrat is making a special club-raisers' rate, reduced from the regular rates when three or more, yearly subscriptions, by mail are sent at one time. The club raisers' rate now in force is $15.75 net for a club of three yearly subscriptions to the Daily (only) Globe-Democrat, or $23.25 for a club of three yearly Daily and Sunday Globe-Democrat subscriptions. This reduces the price to each club member to $5.25 for Daily and $7.75 for the Daily and Sunday Globe-Democrat. More than three subscriptions can be included in a club, at the same club raisres' rates.
+As in former years, the Globe-Democrat is making a special club-raisers' rate, reduced from the regular rates when three or more, yearly subscriptions, by mail are sent at one time. The club raisers' rate now in force is $15.75 net for a club of three yearly subscriptions to the Daily (only) Globe-Democrat, or $23.25 for a club of three yearly Daily and Sunday Globe-Democrat subscriptions. This reduces the price to each club member to $5.25 for Daily and $7.75 for the Daily and Sunday Globe-Democrat. More than three subscriptions can be included in a club, at the same club raisers' rates.
+
+Not a Reduction in Quality
+
+The price reduction does not mean that either the quantity or quality that Globe Democrat readers have grown accustomed to will be reduced. Regular readers will continue to enjoy and benefit by the same extensive up-to-the last-minute news service, the same accurate complete market and financial reports, the same editorial page, renowned and quoted all over the world and the same vast store of unequal features that have placed the Globe-Democrat among the leading newspapers in the universe.
+
+THE GLOBE PRINTING CO., Publishers St. Louis, MO.
+
+# OUR JOB OFFICE
+
+## Pay your Subscriptions to The Gazette Please.
+
+## Special Club-Raisers' Rates
 
 former years, the Globe-Democrat raisers' rate, reduced from the regular ore, yearly subscriptions, by mail's club raisers' rate now in force is $4 fewer yearly subscriptions to the Daily. $23.25 for a club of three yearly D Democrat subscriptions. This reduce to member to $5.25 for Daily and Sunday Globe-Democrat. More than can be included in a club, at the same
 
 ## Not a Reduction in Quality
 
-The price reduction does not mean that either the quantity or quality that Globe Democrat readers have grown accustomed to will be reduced. Regular readers will continue to enjoy and benefit by the same extensive up-to-the last-minute news service, the same accurate complete market and financial reports, the same editorial page, renowned and quoted all over the world and the same vast store of unequal features that have placed the Globe-Democrat among the leading newspapers in the universe.
-
-THE GLOBE PRINTING CO., Publishers
-St. Louis, MO.
-
-# OUR JOB OFFICE
-
-We have had over 23 years of Active Experience in the printing office and will give you the benefit of same just for the asking on that next job of yours. "Let Us Show You."
-
-We give courteous attention to all inquiries and your patronage is earnestly solicited. Out of town work done promptly.
-
-100 Negro Boys and Girls Wanted as Reporters and Agents for The Gazatte. The largest and the best Selling Negao Newspaper in Southern Illinois. Agents wanted in every town and village. Liberal Commission. Keep own commission before sending to company. Write for particulars if interssted. MRS. M. J. McCRARY, Manager, 903 Pearl St., Metropolis. Ill
-
-## Pay your Subscriptions to The Gazette Please.
+Page Four

@@ -3,16 +3,61 @@
   "image": "images/page_04.jpg",
   "width": 1901,
   "height": 2800,
+  "processed_at": "2026-03-07T12:18:44.708063+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 63,
+    "after_merge": 56
+  },
   "regions": [
+    {
+      "bbox": [
+        125,
+        246,
+        402,
+        809
+      ],
+      "label": "text",
+      "text": "McGraw\nM. J.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        240,
+        667,
+        596,
+        1766
+      ],
+      "label": "text",
+      "text": "McGrary's Undertaking\nM. J. MCCRAR\nPearl St.\n\nA. W. Watkins Co.\nGENERAL DIRECTORS AND EMBALMERS\nCOMPLETE MOTOR EQUIPMENT\nVails Given Our Most Courteous Attention\n- 2 Expert Embalmers 2 -\nExcenses No. 625 and 1284, Illinois License\nes, 241 - Paducah, K.\n\nMaple and Fancy Groceries\nDream and Confections on hand\nalways to be served in the Latest Styles\nAt\nS. T. A. DAVIDSO\nNorth St. Phone St. Clair, 727\nEAST ST. LUUIS, ILL.\n\nC. N. JOHNSON\nDelicatassen\nFor Hot And Cold Lunches\nDream And Soda Water\nBridge 3421. 23.North 10th\nEAST ST. LOUIS, ILL.",
+      "status": "ok"
+    },
     {
       "bbox": [
         125,
         809,
         327,
-        2202
+        836
       ],
       "label": "text",
-      "text": "A. W.\nFUNERAL DIRT\nCOMPLETE\nAll Calls Given\n-- 2 Ex\nKentucky Licenses No.\nBoth Phones, 241\n\nStaple and Ice Cream and\nalways to be\n\nMRS. T.\n\n100 N. 11th St.\n\nC. N.\nDe\nFor Hot Ice Cream\nPhone Bell Bridge 3421\n\nPORC\nScalp\nMrs.\n\n268 Division Ave.\n\nFurnished Rooms"
+      "text": "Office 901 Pearl St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        125,
+        836,
+        402,
+        1766
+      ],
+      "label": "text",
+      "text": "A. W. Watt\nFUNERAL DIRECTORS\nCOMPLETE MOTO\nAll Calls Given Our Mo\n- - 2 Expert En\nKentucky Licenses No. 625 and\nBoth Phones, 241\n\nStaple and Fash\nIce Cream and Con\nalways to be served in\nAt\n\nMRS. T. A.\n100 N. 11th St.\nEAST S\n\nC. N. JOHN\nDelicate\nFor Hot And C\nIce Cream And\nPhone Bell Bridge 3421.\nEAST",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +67,8 @@
         1116
       ],
       "label": "text",
-      "text": "FUNERAL DIRECTORS AND EMBALMERS\nCOMPLETE MOTOR EQUIPMENT\nAll Calls Given Our Most Courteous Attention\n- - 2 Expert Embalmers 2 - -\nKentucky Licenses No. $625 and 1284, Illinois License 4401\nBoth Phones, 241 - - - Paducah, Ky."
+      "text": "FUNERAL DIRECTORS AND EMBALMERS\nCOMPLETE MOTOR EQUIPMENT\nAll Calls Given Our Most Courteous Attention\n- - 2 Expert Embalmers 2 - -\nKentucky Licenses No. $625 and 1284, Illinois License 4401\nBoth Phones, 241 - - - Paducah, Ky.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +78,8 @@
         1300
       ],
       "label": "text",
-      "text": "Staple and Fancy Groceries Ice Cream and Confections on hand always to be served in the Latest Styles"
+      "text": "Staple and Fancy Groceries Ice Cream and Confections on hand always to be served in the Latest Styles",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +89,8 @@
         1365
       ],
       "label": "paragraph_title",
-      "text": "MRS. T. A. DAVIDSON"
+      "text": "MRS. T. A. DAVIDSON",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +100,8 @@
         1680
       ],
       "label": "text",
-      "text": "C. N. JOHNSON\nDelicatassen\nFor Hot And Cold Lunches\nIce Cream And Soda Waters\nPhone Bell Bridge 3421. 23 North 10th St.\nEAST ST. LOUIS, ILL."
+      "text": "C. N. JOHNSON\nDelicatassen\nFor Hot And Cold Lunches\nIce Cream And Soda Waters\nPhone Bell Bridge 3421. 23 North 10th St.\nEAST ST. LOUIS, ILL.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,27 +111,19 @@
         1810
       ],
       "label": "paragraph_title",
-      "text": "Poro System"
+      "text": "Poro System",
+      "status": "ok"
     },
     {
       "bbox": [
-        122,
-        1770,
-        664,
-        1915
+        125,
+        1810,
+        402,
+        2202
       ],
       "label": "text",
-      "text": "Poro System\nScientific and Sanitary Scalp and Hair Treatment\nMrs. M. M. Johnson\n25 N. 10th St., - - EAST ST. LOUIS, ILL."
-    },
-    {
-      "bbox": [
-        145,
-        1777,
-        652,
-        1909
-      ],
-      "label": "text",
-      "text": "Poro System Scientific and Sanitary Scalp and Hair Treatment Mrs. M. M. Johnson 25 N. 10th St., EAST ST. LOUIS, ILL."
+      "text": "Scientific and Sanitary Sc\nMrs. M. M.\n25 N. 10th St.,\nPORO S\nScalp and Hair\nMrs. Etta\n268 Division Ave.\nFurnished Rooms Cigars, Tob",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,8 @@
         2202
       ],
       "label": "text",
-      "text": "and Sanitary Scalp and Hair Treatment\nMrs. M. M. Johnson\nNorth St., - - EAST ST. LOUIS,\nDRO SYSTEM\nScalp and Hair Treatment\nMrs. Etta Bates.\nn Ave.\nEAST ST. LOUIS, IL\nrooms Cigars, Tobacco Fruits and"
+      "text": "and Sanitary Scalp and Hair Treatment\nMrs. M. M. Johnson\nNorth St., - - EAST ST. LOUIS,\nDRO SYSTEM\nScalp and Hair Treatment\nMrs. Etta Bates.\nn Ave.\nEAST ST. LOUIS, IL\nrooms Cigars, Tobacco Fruits and",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,37 +144,30 @@
         2097
       ],
       "label": "text",
-      "text": "PORO SYSTEM Scalp and Hair Treatment Mrs. Etta Bates."
-    },
-    {
-      "bbox": [
-        240,
-        2202,
-        596,
-        2318
-      ],
-      "label": "text",
-      "text": "GEO. ALLEN\nPocket Billards,\n100 N. 21st St.\nEAST ST. LOUIS, ILL."
+      "text": "PORO SYSTEM Scalp and Hair Treatment Mrs. Etta Bates.",
+      "status": "ok"
     },
     {
       "bbox": [
         125,
-        2318,
-        327,
-        2544
+        2202,
+        596,
+        2628
       ],
       "label": "text",
-      "text": "EAGLE \"MIKADO\"\nFor Sale at your Dealer\nASK FOR THE Y"
+      "text": "GEO. ALLEN\nPocket Billards.\n100 N. 21st St.\nEAST ST. LOUIS, ILL.\n\nEAGLE \"MIKADO\" Pencil N.\nFor Sale at your Dealer Made in five\nASK FOR THE YELLOW PENCH, WITH THE RED JAND\nEAGLE MIKADO\nEAGLE PENCIL COMPANY, NEW YORK\n\nBody Blow.\nA Maryland man slept with his twin by mistake, and is\n\nExplanations.\nIt never does take a man explain when he is drunk or",
+      "status": "ok"
     },
     {
       "bbox": [
         240,
         2318,
         596,
-        2400
+        2628
       ],
       "label": "text",
-      "text": "---"
+      "text": "MIKADO\" Pencil No.\n174 SEASON MIKADO NEW YORK\nOur Dealer Made in five\nK FOR THE YELLOW PENCH, WITH THE RED JAND\nEAGLE MIKADO\nELE PENCIL COMPANY, NEW YORK\nBlow.\non eiped with his\nhy mistake, and is\nExplanations.\nIt never does take a ma-\nry explain when he investigs our",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +177,8 @@
         435
       ],
       "label": "text",
-      "text": "In times of family stress unusual problems often arise where those in charge require unusual service that can be promptly, efficiently rendered by our organization. We are equipped to meet all emergencies, of any kind pertaining to our profession"
+      "text": "In times of family stress unusual problems often arise where those in charge require unusual service that can be promptly, efficiently rendered by our organization. We are equipped to meet all emergencies, of any kind pertaining to our profession",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +188,19 @@
         586
       ],
       "label": "text",
-      "text": "We honor calls from any part of Metropolis, or the county. Consult us, we can save you Worry, Time and Money."
+      "text": "We honor calls from any part of Metropolis, or the county. Consult us, we can save you Worry, Time and Money.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        681,
+        143,
+        1250,
+        162
+      ],
+      "label": "text",
+      "text": "METROPOLIS WEEKLY GAZETTE. METROPOLIS. ILL.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +210,8 @@
         257
       ],
       "label": "paragraph_title",
-      "text": "SERVICE IS IMPORTANT"
+      "text": "SERVICE IS IMPORTANT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +221,8 @@
         886
       ],
       "label": "text",
-      "text": "family stress unusual problem\nin charge require unusual\nbe promptly, efficiently renew\nby our organization.\nshipped to meet all emergencies\nand pertaining to our professio\nNEAR AS YOUR TELEPHONE\nDISTANCE IMMATERIAL\ntalls from any part of Metropolis\nconsult us, we can save you\nall parts of the Country\nmerals a Specialty.\nis promptly answered day or night\ntaking Company\nBARY, MGR."
+      "text": "family stress unusual problem\nin charge require unusual\nbe promptly, efficiently renew\nby our organization.\nshipped to meet all emergencies\nand pertaining to our professio\nNEAR AS YOUR TELEPHONE\nDISTANCE IMMATERIAL\ntalls from any part of Metropolis\nconsult us, we can save you\nall parts of the Country\nmerals a Specialty.\nis promptly answered day or night\ntaking Company\nBARY, MGR.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +232,8 @@
         806
       ],
       "label": "text",
-      "text": "usual problems often arise\nrequire unusual service that\nefficiently rendered\norganization.\nat all emergencies, of any\nto our profession\nOUR TELEPHONE\nIMMATERIAL\npart of Metropolis, or the\nman save you Worry, Time\nthe Country and Auto-\nility.\nserved day or night.\ncompany\nMGR."
+      "text": "usual problems often arise\nrequire unusual service that\nefficiently rendered\norganization.\nat all emergencies, of any\nto our profession\nOUR TELEPHONE\nIMMATERIAL\npart of Metropolis, or the\nman save you Worry, Time\nthe Country and Auto-\nility.\nserved day or night.\ncompany\nMGR.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +243,8 @@
         973
       ],
       "label": "paragraph_title",
-      "text": "Use Madam A. C. Bolden's Hair Success"
+      "text": "Use Madam A. C. Bolden's Hair Success",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +254,8 @@
         1080
       ],
       "label": "text",
-      "text": "It is Guaranteed to grow the hair. Get rid of thatdandruff or tetter by using Madam Bolden's Tetter Salve and Dandruff cure."
+      "text": "It is Guaranteed to grow the hair. Get rid of thatdandruff or tetter by using Madam Bolden's Tetter Salve and Dandruff cure.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +265,8 @@
         1190
       ],
       "label": "text",
-      "text": "Success will make you. hair soft, no matter how stubby and long, no matter how short."
+      "text": "Success will make you. hair soft, no matter how stubby and long, no matter how short.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,17 +276,30 @@
         1228
       ],
       "label": "paragraph_title",
-      "text": "Satisfaction or money Refunded"
+      "text": "Satisfaction or money Refunded",
+      "status": "ok"
     },
     {
       "bbox": [
-        680,
-        1201,
-        961,
-        1316
+        536,
+        1228,
+        808,
+        1346
       ],
       "label": "text",
-      "text": "Satisfaction or money Refunded\nAgents wanted. For full particulars write Madam A. C. Bolden, 406 N, 17, St.\nMurphysboro, Ill."
+      "text": "hand Agents want ticulars write M den, 406 N, 17 Murphysbe OSON",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        678,
+        1228,
+        963,
+        1346
+      ],
+      "label": "text",
+      "text": "Agents wanted. For full particulars write Madam A. C. Bolden, 406 N, 17. St.\nMurphysboro, Ill.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +309,8 @@
         1420
       ],
       "label": "paragraph_title",
-      "text": "List of Officers of the Mt. Olive Baptist Dist. S. S. Institute for 1920-21"
+      "text": "List of Officers of the Mt. Olive Baptist Dist. S. S. Institute for 1920-21",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +320,8 @@
         1710
       ],
       "label": "text",
-      "text": "Pres, M. Duncan, Colp, Ill.\n1st Vice L. W. Thomas, Mouns\n2d Vice A. V. Shoffner, Duquoin\nRec. Sec., Marie Humble Centra-\nlia\nCor. Sec. Hazel Howard, Joppa\nConductor Rev. J. B. McCrary,\nMetropolis\nSupt. of Cradle Roll, Dep't. W.\nD. Parran, Carbondale.\n\nOfficers of the B. Y. P. U."
+      "text": "Pres, M. Duncan, Colp, Ill.\n1st Vice L. W. Thomas, Mouns\n2d Vice A. V. Shoffner, Duquoin\nRec. Sec., Marie Humble Centra-\nlia\nCor. Sec. Hazel Howard, Joppa\nConductor Rev. J. B. McCrary,\nMetropolis\nSupt. of Cradle Roll, Dep't. W.\nD. Parran, Carbondale.\n\nOfficers of the B. Y. P. U.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +331,8 @@
         2046
       ],
       "label": "text",
-      "text": "President Rev. Jno. Bruen, 1011\nAerbert St , Mt. Vernon, Ill.\n1st Vice Pres. Gertrude Buchanan\n..... Joppa, Ill.\n2nd Vice, Odessie McCullum,\n..... Md. City\n3rd Vice, Demus, Sparta\nRecoding Sec. Daisy Moore\n..... Harrisburg\nCorresponding Sec. Lois Mason\n..... 816 Howard St., Centralia\nMissiodary, Rev. R. S. B.\nAnderson, Centralia, Ill."
+      "text": "President Rev. Jno. Bruen, 1011\nAerbert St , Mt. Vernon, Ill.\n1st Vice Pres. Gertrude Buchanan\n..... Joppa, Ill.\n2nd Vice, Odessie McCullum,\n..... Md. City\n3rd Vice, Demus, Sparta\nRecoding Sec. Daisy Moore\n..... Harrisburg\nCorresponding Sec. Lois Mason\n..... 816 Howard St., Centralia\nMissiodary, Rev. R. S. B.\nAnderson, Centralia, Ill.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +342,8 @@
         2131
       ],
       "label": "paragraph_title",
-      "text": "TAN YOUR HIDES"
+      "text": "TAN YOUR HIDES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +353,8 @@
         2500
       ],
       "label": "text",
-      "text": "and Nuts\n\nILL.\n\nCencil No. 174\n\nin five grades\n\nWE are largest custom tanners in this DUBU TANNING DUBU When you have tanned, or you robes or ladies' can give you a better price.\n\nGEORGE L.\nAgent, M."
+      "text": "and Nuts\n\nILL.\n\nCencil No. 174\n\nin five grades\n\nWE are largest custom tanners in this DUBU TANNING DUBU When you have tanned, or you robes or ladies' can give you a better price.\n\nGEORGE L.\nAgent, M.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +364,8 @@
         2500
       ],
       "label": "text",
-      "text": "WE are representing the largest and most reliable custom tanners and manufacturers in this country, the DUBUQUE TANNING & ROBE CO. DUBUQUE, IOWA When you have hides or furs to be tanned, or you want to buy fur coats, robes or ladies' furs, come to us. We can give you guaranteed merchandise at a better price.\n\nGEORGE L. B. MCCRARY,\nAgent, Metropolis, III."
+      "text": "WE are representing the largest and most reliable custom tanners and manufacturers in this country, the DUBUQUE TANNING & ROBE CO. DUBUQUE, IOWA When you have hides or furs to be tanned, or you want to buy fur coats, robes or ladies' furs, come to us. We can give you guaranteed merchandise at a better price.\n\nGEORGE L. B. MCCRARY,\nAgent, Metropolis, III.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,37 +375,30 @@
         2537
       ],
       "label": "paragraph_title",
-      "text": "Walker's Indigestian Cure."
-    },
-    {
-      "bbox": [
-        682,
-        2506,
-        961,
-        2663
-      ],
-      "label": "text",
-      "text": "Walker's Indigestian Cure.\nRev. J. B. McCrary is agent for\nDr. Walker's Sure cure for Indigestion and Dyspepsia. 50c and\n$1.00 bottles. $1.10 by mail.\nWe can obviously recommend it."
+      "text": "Walker's Indigestian Cure.",
+      "status": "ok"
     },
     {
       "bbox": [
         536,
-        2663,
+        2537,
         808,
         2780
       ],
       "label": "text",
-      "text": "---"
+      "text": "YORK\nations.\nlike a man long to\nnightly or drinks he\npunches a man goes\noff with combinations\n\nRev. J. B. M.\nDr. Walker's S\ngestion and Dy\n$1.00 bottles.\nWe can cheer",
+      "status": "ok"
     },
     {
       "bbox": [
         678,
-        2663,
+        2537,
         963,
         2780
       ],
       "label": "text",
-      "text": "---"
+      "text": "Rev. J. B. McCrary is agent for Dr. Walker's Sure cure for Indigestion and Dyspepsia. 50c and $1.00 bottles. $1.10 by mail. We can cheerfully recommend it.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +408,8 @@
         828
       ],
       "label": "text",
-      "text": "Phone 364"
+      "text": "Phone 364",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,17 +419,30 @@
         215
       ],
       "label": "paragraph_title",
-      "text": "GO ABROAD FOR OPPORTUNITY"
+      "text": "GO ABROAD FOR OPPORTUNITY",
+      "status": "ok"
     },
     {
       "bbox": [
         970,
         227,
         1255,
+        613
+      ],
+      "label": "text",
+      "text": "\"Go West\" Slogan Now Passe; Better Chance for Young Man in the Foreign Countries.\n\nProbably no saying of Horace Greeley, the beacon light of multitudes of three-quarters of a century ago, was more widely read, more generally followed, or longer remembered than his continually reiterated exhortation, \"Young man, go West!\" That, says the San Francisco Chronicle, was a satisfactory way of relieving what was then thought congestion of population in eastern communities, but it no longer answers the purpose. Today the place for the entertising young man to look for is in some undeveloped foreign country. It will be a new thought to most of us that the time has come when we must consider emigration as well as immigration\u2014that there are lands of opportunity other than our own.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        970,
+        613,
+        1251,
         918
       ],
       "label": "text",
-      "text": "\"Go West\" Slogan Now Passe; Better Chance for Young Man in the Foreign Countries.\n\nProbably no saying of Horace Greeley, the bencon light of multitudes of three-quarters of a century ago, was more widely read, more generally followed, or longer remembered than his continually reiterated exhortation, \"Young man, go West!\"\n\nThat, says the San Francisco Chronicle, was a satisfactory way of relieving what was then thought congestion of population in eastern communities, but it no longer answers the purpose. Today the place for the enterprising young man to look for is in some undeveloped foreign country. It will be a new thought to most of us that the time has come when we must consider emigration as well as immigration\u2014that there are lands of opportunity other than our own.\n\nThis was emphasized recently by Frank D. Waterman, a name well known to those who do not habitually use a typewriter, with special reference to the centenary celebration which begins at Rio Janeiro, Brazil, next September. It has become a necessity with us, as it has long been with overpopulated Europe, to seek outlets in foreign countries for the surplus products of our workers. The one way to do it is by commercial missionaries going to foreign countries while still forming their minds and staying there. That is the way Europe has built up trade in undeveloped countries. That is the way we must adopt if we expect to successfully compete with those countries."
+      "text": "This was emphasized recently by Frank D. Waterman, a name well known to those who do not habitually use a typewriter, with special reference to the centenary celebration which begins at Rio Janeiro, Brazil, next September. It has become a necessity with us, as it has long been with overpopulated Europe, to seek outlets in foreign countries for the surplus products of our workers. The one way to do it is by commercial missionaries going to foreign countries while still forming their minds and staying there. That is the way Europe has built up trade in undeveloped countries. That is the way we must adopt if we expect to successfully compete with those countries.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +452,8 @@
         960
       ],
       "label": "paragraph_title",
-      "text": "ESKIMO HAS EAR FOR MUSIC"
+      "text": "ESKIMO HAS EAR FOR MUSIC",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +463,8 @@
         1521
       ],
       "label": "text",
-      "text": "Natives of the Arctic Regions Have Exclusive Right to Their Own Compositions.\n\nKnut Rasmussen and Fridtjof Nansen and also Hinrich Johannes Rink, who was sent north years ago by Lady Franklin to find her husband, have given to the world valuable facts about the customs and lives of the Eskimos. Christian Leden's unique contribution from the arctic regions is in the field of music. For years he studied and faithfully transcribed the Innuit melodies. Each Eskimo, he says, is obliged to compose his own song, and no person may sing the song of another without first obtaining permission. The mother has her cradle song, infinitely low and sweet. The hunter has his song of the chase, clear and bold. Even the bad man of the tribe has his song, and it was quick and appropriately brazen.\n\nHarmony has not been developed among the Eskimos. They sing only in unison. But their melodies are weird and wistful, often consisting of only two or three motives, which are strangely effective.\n\nIt is during the long polar night that the Eskimo has time to rest in his igloo and sing his songs."
+      "text": "Natives of the Arctic Regions Have Exclusive Right to Their Own Compositions.\n\nKnut Rasmussen and Fridtjof Nansen and also Hinrich Johannes Rink, who was sent north years ago by Lady Franklin to find her husband, have given to the world valuable facts about the customs and lives of the Eskimos. Christian Leden's unique contribution from the arctic regions is in the field of music. For years he studied and faithfully transcribed the Innuit melodies. Each Eskimo, he says, is obliged to compose his own song, and no person may sing the song of another without first obtaining permission. The mother has her cradle song, infinitely low and sweet. The hunter has his song of the chase, clear and bold. Even the bad man of the tribe has his song, and it was quick and appropriately brazen.\n\nHarmony has not been developed among the Eskimos. They sing only in unison. But their melodies are weird and wistful, often consisting of only two or three motives, which are strangely effective.\n\nIt is during the long polar night that the Eskimo has time to rest in his igloo and sing his songs.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +474,8 @@
         1552
       ],
       "label": "paragraph_title",
-      "text": "British Silver Stamping Explained."
+      "text": "British Silver Stamping Explained.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +485,8 @@
         1907
       ],
       "label": "text",
-      "text": "British Silver Stamping Explained.\nIn this country the word sterling, when stamped on silver, means simply that the manufacturer declares the article to be made of silver eleventwelfth fine; but the British marks, arranged in column, give a sort of history of the article. Usually the first mark is the maker's sign; next comes a mark that shows where the article was made\u2014for London, a leopard's head; for Birmingham, an anchor; and for Sheffield, famous for its silver, a crown. Dublin has the Irish harp, and Chester uses the city arms. The third mark, a lion, indicates the standard of fineness. The date mark, a letter, usually comes last. Since each city uses a different system for indicating the year when the article was made, it is necessary to know the \"plate\" of the town in order to find the date of a particular piece."
+      "text": "British Silver Stamping Explained.\nIn this country the word sterling, when stamped on silver, means simply that the manufacturer declares the article to be made of silver eleventwelfth fine; but the British marks, arranged in column, give a sort of history of the article. Usually the first mark is the maker's sign; next comes a mark that shows where the article was made\u2014for London, a leopard's head; for Birmingham, an anchor; and for Sheffield, famous for its silver, a crown. Dublin has the Irish harp, and Chester uses the city arms. The third mark, a lion, indicates the standard of fineness. The date mark, a letter, usually comes last. Since each city uses a different system for indicating the year when the article was made, it is necessary to know the \"plate\" of the town in order to find the date of a particular piece.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +496,8 @@
         2181
       ],
       "label": "text",
-      "text": "There was an explosion in the powder mill and the proprietor hurried over to ascertain the damage.\n\n\"How in the world did it happen?\" he asked the foreman of the mill as he viewed the wreck. \"Who was to blame?\"\n\n\"Well, you see, sir,\" replied the foreman, \"it was this way. Bill went into the mixing room and inadvertently struck a match. He\u2014\"\n\n\"Struck a match!\" exclaimed the proprietor in amazement. \"I should have thought that was the last thing on earth he would do.\""
+      "text": "There was an explosion in the powder mill and the proprietor hurried over to ascertain the damage.\n\n\"How in the world did it happen?\" he asked the foreman of the mill as he viewed the wreck. \"Who was to blame?\"\n\n\"Well, you see, sir,\" replied the foreman, \"it was this way. Bill went into the mixing room and inadvertently struck a match. He\u2014\"\n\n\"Struck a match!\" exclaimed the proprietor in amazement. \"I should have thought that was the last thing on earth he would do.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +507,8 @@
         2473
       ],
       "label": "text",
-      "text": "\"It was, sir,\" replied the foreman, sadly.\u2014London Telegraph.\n\nNew Cure for Fatigue.\n\nSpeaking at the Institute of Hygiene, London, Dr. E. M. Corner, surgeon to St. Thomas' hospital, said that when a person became worked out, run down or depressed the reaction was due to acid in the system. An antidote to acid was an alkaline such as bicarbonate of soda. The amount to be given depended on the patient and should be gauged by the reaction under treatment. The use of gas for operations was slowly coming in again and would in time supplant the other anesthetics."
+      "text": "\"It was, sir,\" replied the foreman, sadly.\u2014London Telegraph.\n\nNew Cure for Fatigue.\n\nSpeaking at the Institute of Hygiene, London, Dr. E. M. Corner, surgeon to St. Thomas' hospital, said that when a person became worked out, run down or depressed the reaction was due to acid in the system. An antidote to acid was an alkaline such as bicarbonate of soda. The amount to be given depended on the patient and should be gauged by the reaction under treatment. The use of gas for operations was slowly coming in again and would in time supplant the other anesthetics.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +518,8 @@
         2504
       ],
       "label": "paragraph_title",
-      "text": "A Dull Life"
+      "text": "A Dull Life",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +529,8 @@
         253
       ],
       "label": "paragraph_title",
-      "text": "Subscription Rates Reduced"
+      "text": "Subscription Rates Reduced",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,67 +540,30 @@
         322
       ],
       "label": "text",
-      "text": "You can now subscribe for the good old St. Louis Globe-Democrat by mail at the following subscription rates effective February 1, 1922:"
-    },
-    {
-      "bbox": [
-        1274,
-        413,
-        1805,
-        524
-      ],
-      "label": "text",
-      "text": "These prices are now back to normal and as low as formerly, considering that approximately $2.00 more per yearly subscription is paid the government for postage than a few years ago. This, of course, is not within the control of any newspaper."
-    },
-    {
-      "bbox": [
-        1392,
-        525,
-        1681,
-        546
-      ],
-      "label": "paragraph_title",
-      "text": "Special Club-Raisers' Rates"
+      "text": "You can now subscribe for the good old St. Louis Globe-Democrat by mail at the following subscription rates effective February 1, 1922:",
+      "status": "ok"
     },
     {
       "bbox": [
         1273,
-        546,
+        413,
         1805,
-        779
+        985
       ],
       "label": "text",
-      "text": "As in former years, the Globe-Democrat is making a special club-raisers' rate, reduced from the regular rates when three or more, yearly subscriptions, by mail are sent at one time. The club raisers' rate now in force is $15.75 net for a club of three yearly subscriptions to the Daily (only) Globe-Democrat, or $23.25 for a club of three yearly Daily and Sunday Globe-Democrat subscriptions. This reduces the price to each club member to $5.25 for Daily and $7.75 for the Daily and Sunday Globe-Democrat. More than three subscriptions can be included in a club, at the same club raisres' rates."
+      "text": "These prices are now back to normal and as low as formerly, considering that approximately $2.00 more per yearly subscription is paid the government for postage than a few years ago. This, of course, is not within the control of any newspaper.\n\nSpecial Club-Raisers' Rates\n\nAs in former years, the Globe-Democrat is making a special club-raisers' rate, reduced from the regular rates when three or more, yearly subscriptions, by mail are sent at one time. The club raisers' rate now in force is $15.75 net for a club of three yearly subscriptions to the Daily (only) Globe-Democrat, or $23.25 for a club of three yearly Daily and Sunday Globe-Democrat subscriptions. This reduces the price to each club member to $5.25 for Daily and $7.75 for the Daily and Sunday Globe-Democrat. More than three subscriptions can be included in a club, at the same club raisers' rates.\n\nNot a Reduction in Quality\n\nThe price reduction does not mean that either the quantity or quality that Globe Democrat readers have grown accustomed to will be reduced. Regular readers will continue to enjoy and benefit by the same extensive up-to-the last-minute news service, the same accurate complete market and financial reports, the same editorial page, renowned and quoted all over the world and the same vast store of unequal features that have placed the Globe-Democrat among the leading newspapers in the universe.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1392,
-        546,
-        1682,
-        783
-      ],
-      "label": "text",
-      "text": "former years, the Globe-Democrat raisers' rate, reduced from the regular ore, yearly subscriptions, by mail's club raisers' rate now in force is $4 fewer yearly subscriptions to the Daily. $23.25 for a club of three yearly D Democrat subscriptions. This reduce to member to $5.25 for Daily and Sunday Globe-Democrat. More than can be included in a club, at the same"
-    },
-    {
-      "bbox": [
-        1404,
-        783,
-        1682,
-        804
-      ],
-      "label": "paragraph_title",
-      "text": "Not a Reduction in Quality"
-    },
-    {
-      "bbox": [
-        1275,
-        806,
-        1805,
+        1309,
+        988,
+        1763,
         1034
       ],
       "label": "text",
-      "text": "The price reduction does not mean that either the quantity or quality that Globe Democrat readers have grown accustomed to will be reduced. Regular readers will continue to enjoy and benefit by the same extensive up-to-the last-minute news service, the same accurate complete market and financial reports, the same editorial page, renowned and quoted all over the world and the same vast store of unequal features that have placed the Globe-Democrat among the leading newspapers in the universe.\n\nTHE GLOBE PRINTING CO., Publishers\nSt. Louis, MO."
+      "text": "THE GLOBE PRINTING CO., Publishers St. Louis, MO.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,37 +573,8 @@
         1330
       ],
       "label": "doc_title",
-      "text": "OUR JOB OFFICE"
-    },
-    {
-      "bbox": [
-        1296,
-        1454,
-        1780,
-        1656
-      ],
-      "label": "text",
-      "text": "We have had over 23 years of Active Experience in the printing office and will give you the benefit of same just for the asking on that next job of yours. \"Let Us Show You.\""
-    },
-    {
-      "bbox": [
-        1299,
-        1841,
-        1784,
-        1922
-      ],
-      "label": "text",
-      "text": "We give courteous attention to all inquiries and your patronage is earnestly solicited. Out of town work done promptly."
-    },
-    {
-      "bbox": [
-        1291,
-        2278,
-        1795,
-        2497
-      ],
-      "label": "text",
-      "text": "100 Negro Boys and Girls Wanted as Reporters and Agents for The Gazatte. The largest and the best Selling Negao Newspaper in Southern Illinois. Agents wanted in every town and village. Liberal Commission. Keep own commission before sending to company. Write for particulars if interssted. MRS. M. J. McCRARY, Manager, 903 Pearl St., Metropolis. Ill"
+      "text": "OUR JOB OFFICE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -562,7 +584,52 @@
         2676
       ],
       "label": "paragraph_title",
-      "text": "Pay your Subscriptions to The Gazette Please."
+      "text": "Pay your Subscriptions to The Gazette Please.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1392,
+        525,
+        1681,
+        546
+      ],
+      "label": "paragraph_title",
+      "text": "Special Club-Raisers' Rates",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1392,
+        546,
+        1682,
+        783
+      ],
+      "label": "text",
+      "text": "former years, the Globe-Democrat raisers' rate, reduced from the regular ore, yearly subscriptions, by mail's club raisers' rate now in force is $4 fewer yearly subscriptions to the Daily. $23.25 for a club of three yearly D Democrat subscriptions. This reduce to member to $5.25 for Daily and Sunday Globe-Democrat. More than can be included in a club, at the same",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1404,
+        783,
+        1682,
+        804
+      ],
+      "label": "paragraph_title",
+      "text": "Not a Reduction in Quality",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1676,
+        144,
+        1765,
+        165
+      ],
+      "label": "text",
+      "text": "Page Four",
+      "status": "ok"
     }
   ]
 }

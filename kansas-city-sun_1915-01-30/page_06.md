@@ -2,30 +2,30 @@
 
 By ORISON SWETT MARDEN
 
-SMILE once in a white.
-It will make your heart seem lighter.
-Life's a mirror—if we smile.
-Smiles come back to greet us;
-If we're frowning all the while.
+PREACH THE DOCTRINE OF CHEERFULNESS.
+
+Smiles once in a while.
+It will make your heart seem lighter,
+Life's a mirror-if we smile.
+Smiles come back to greet us.
+If we're frowning all the while,
 Frowns forever meet us.
 
-Mr. Paul Poiret, the well-known Frenchman who visited our shores last fall, carried away some not very flattering impressions of our people and country—says we do not know how to laugh, or at least must be "made" to laugh. With the French laughter is the expression of a gay heart, while with the American humor is appealed to through the intelligence.
+Mr. Paul Poiret, the well-known Frenchman who visited our shores last fall, carried away some not very mattering impressions of our people and country—says we do not know how to laugh, or at least must be "made" to laugh. With the French laughter is the expression of a gay heart, while with the American humor is appealed to through the intelligence.
 
-Even in our sports we are serious, says M. Poiret. "Those who take part in them as it so soberly and as intensely as if it were an act of business. And the spectators! They might be watching a man being tried for his life. They could hardly look more concerned if they were."
+Even in our sports we are serious, says M. Poiret. "Those who take part in them do it as soberly and as intensely as if it were an act of business. And the spectators! They might be watching a man being tried for his life. They could hardly look more concerned if they were."
 
-Many people give us the impression that the famed Damocletian sword of pain, suspended by a thread, hangs over them constantly, ready to fall and pierce them at any moment, even in their joy and pleasure. They enjoy to enjoy anything without alloy. They give you the impression that they are conscious of the skeleton's presence at every feast.
+Many people give us the impression that the famed Damocletian sword of pain, suspended by a thread, hangs over them constantly, ready to fall and pierce them at any moment, even in their joys and pleasures. They never seem to enjoy anything without alloy. They give you the impression that they are conscious of the skeleton's presence at every feast.
 
-The American people as a rule take life much too seriously. They do not have half enough fun. Europeans look on our careless, solemn-faced people as on pieces of machinery run at forced speed and which squeak for lack of oil.
+The American people as a rule take life much too seriously. They do not have half enough fun. Europeans look on our care-worn, solenn-faced people as on pieces of machinery run at forced speed and which squeak for lack of oil.
 
 "I question if care and doubt ever wrote their names so legibly on the faces of any other population," says Emerson. "Old age begins in the nursery."
 
 Why take life so seriously, anyway? A lot of play will not only improve your health, but increase your efficiency wonderfully.
 
-If a man is living in a perfectly normal way he ought not to have, as so many have, a haunted, hooded look, as though he suspected either a policeman or a detective were on his track. He ought not to be worried and anxious every minute. He ought not to take his vocation so very seriously, and should not give the impression that the whole universe is hanging upon the result of his task.
+If a man is living in a perfectly normal way he ought not to have, as so many have, a haunted, hounded look, as though he be suspected either a policeman or a detective were on his track. He ought not to be worried and anxious every minute. He ought not to take his vocation so very seriously, and should not give the impression that the whole universe is hanging upon the result of his task.
 
-A great many men fall because they are too serious; because they develop unsocial, morose, cold qualities, which repel and which make them poor mixers. It is the sunshine, happy nature which attracts friends and trade. The too serious people seem to say, "Keep away from me, life is too serious a matter to be spent on trivial things."
-
-They are dry and rutty because in their lives to furnish the necessary lubrication, variety, or change.
+A great many men fall because they are too serious; because they develop unsocial, morose, cold qualities, which repel and which make them poor mixers. It is the sunshine, happy nature which attracts friends and trade. The too serious people seem to say, "Keep away from me, life is too serious a matter to be spent on trivial things." They are dry and rusty because there is not enough play in their lives to furnish the necessary lubrication, variety, or change.
 
 Not long ago I heard a young clergyman preach a sermon which was so very serious, and so very gloomy, that it made everybody in the congregation feel melancholy and depressed. There was no uplift, no encouragement, nothing to stimulate one to greatest endeavor. People did not go out of the church, as they should have gone, resolved to try a little harder than ever before, to do something worth while; but the whole congregation went away with a gloomy look on their faces. There had been nothing inspiring in the clergyman's appearance. His face was so serious and his whole manner so depressing that it was really painful to listen to him.
 
@@ -33,11 +33,11 @@ People have burdens enough of their own to bear, and do not want anybody to inje
 
 TRAGEDIES CAUSED BY THE TONGUE.
 
-They had "heard rumors and became frightened." This was the only reason the pane-striken depositors would give for their mad rush on the bank for savings in New York a few days ago.
+They had "heard rumors and became frightened." This was the only reason the panic-stricken depositors would give for their mad rush on the bank for savings in New York a few days ago.
 
-The silly gossip of a servant, it was thought, started the rumor that the bank was in difficulties. Although its president stated that the deposits were ninety-seven million dollars, nearly eleven million of a surplus, and that the largest banks in New York had offered to come to the rescue with fifty million dollars if necessary, yet thousands of men and women crowded one another in their frantic haste to get their money out of one of the soundest institutions in the country!
+The silly gossip of a servant, it was thought, started the rumor that the bank was in difficulties. Although its president stated that the deposits were ninety-seven million dollars, nearly eleven millions of a surplus, and that the largest banks in New York had offered to come to the rescue with fifty million dollars if necessary, yet thousands of men and women crowded one another in their frantic haste to get their money out of one of the soundest institutions in the country!
 
-The whole fabric of the business world hangs upon confidence. Our best credit system depends absolutely upon it. Anything which throws the slightest suspicion upon it causes disaster. Nothing else is so sensitive as confidence. And there is not-
+The whole fabric of the business world hangs upon confidence. Our vast credit system depends absolutely upon it. Anything which throws the slightest suspicion upon it causes disaster. Nothing else is so sensitive as confidence. And there is noth-
 
 One of the most beautiful phases of moonlight is that it not only shines upon us with the light of the sun, but also, with its crescent shape when it is "new," reflects back to us the light of earth, a faint, wondrous illumination of the otherwise dark part, which has been called "the old moon in the arms of the new." That is called "earthshine," and comparatively few who witness the advent of a "new moon" understand the source of the phenomenon, a very dreamlight ema
 
@@ -45,21 +45,17 @@ ing quite so malignant in its power to destroy it, to blast everything it touche
 
 Sometimes the least breath of suspicion will seriously injure a man's credit which it has taken a lifetime to build up. It has often made havoc of a woman's reputation.
 
-One of the cruelest things that a human can be do is to peddle gossip, to pass along slander, or even a true story which tends to injure another, or to put him in an unfavorable light. It is fatally easy to say things which will cause lifelong wounds, and many people are so careless with their tongues!
+One of the cruelest things that a human being can do is to paddle gossip, to pass along slander, or even a true story which tends to injure another, or to put him in an unfavorable light. It is fatally easy to say things which will cause lifelong wounds, and many people are so careless with their tongues!
 
-Only a short time ago a woman in Brooklyn was driven to suicide by the gossip of her neighbors. They told her that her husband was paying attention to her women; and although he assured her that he was doing nothing of the kind the gossips succeeded in making her so jealous that she poisoned herself.
+Only a short time ago a woman in Brooklyn was driven to sulkde by the gossip of her neighbors. They told her that her husband was paying attention to other women; and although he assured her that he was doing nothing of the kind the gossips succeeded in making her so jealous that she poisoned herself.
 
-I know people who would never forgive themselves for striking another with their hands, but who do not hesitate to stab an unkind person in the back an unkind, uncharitable, cruel remark, or to spread a bit of slander which may have disastrous effects on the victim.
+I know people who would never forgive themselves for striking another with their hands, but who do not hesitate to stab an absent person in the back with an unkind, uncharitable, cruel remark, or to spread a bit of slander which may have disastrous effects on the victim.
 
-Some years ago this headline appeared in a New York daily: "Georgia Cayan Dies on a Sanatorium Cot! Falsehood Ended Her Career." Miss Cayan was an actress. She began her career by reading selections from Shakespeare to customers in her mother's "candy store" in Bath. Me. Later she graduated from the School of Oratory in the Boston university and attracted the attention of Daniel Frohman, who brought her to New York. In a short time she became a star, and one of the most popular actresses in New York city.
-
-Her beauty, brilliance, vivacity and remarkable talent made her such a favorite that those envious of her began to reflect upon her character. A scandal was started which so preyed upon Miss Cayan's sensitive mind that she fell into melancholy and never returned to the stage.
-
-Although it was proved that the actress was in Europe at the time of the scandal in this country with which her name was falsely connected, and notwithstanding the fact that her character received a sweeping vindication, yet the wagging tongues continued to peddle the scandalous gossip until her melancholy developed into paresis, and finally put her beyond medical aid.
+Some years ago this headline appeared in a New York daily: "Georgia Cayan Dies on a Sanatorium Cot! Falsehood Ended Her Career." Miss Cayan was an actress. She began her career by reading selections from Shakespeare to customers in her mother's "candy store" in Bath, Meth. Later she graduated from the School of Oratory in the Boston university and attracted the attention of Daniel Frohman, who brought her to New York. In a short time she became a star, and one of the most popular actresses in New York city. Her beauty, brilliance, vivacity and remarkable talent made her such a favorite that those envious of her began to reflect upon her character. A scandal was started which so preyed upon Miss Cayan's sensitive mind that she fell into melancholy and never returned to the stage. Although it was proved that the actress was in Europe at the time of the scandal in this country with which her name was falsely connected, and notwithstanding the fact that her character received a sweeping vindication, yet the wagging tongues continued to peddle the scandalous gossip until her melancholy developed into paresis, and finally put her beyond medical aid.
 
 There are thousands of people in the great failure army today who might have been a success but for the gossips. The unkind criticisms of companions or neighbors, the scandals calculated by the thoughtless or evil-minded unnerved them. They lost heart when even those they thought were friends stabbed them in the back and they gave up the struggle.
 
-We probably have all of us come to points in our careers when it would not have taken very much to have discouraged us and turned us the other way. Who can ever estimate the number of failures, the lifewrecks, that have been caused by gossipers? How many people have been driven to suicide by cruel slainer? How many people have become disheartened and have laid down their burdens and given up the struggle because their sensitive natures could not stand the strain of misrepresentation?
+We probably have all of us come to points in our careers when it would not have taken very much to have discouraged us and turned us the other way. Who can ever estimate the number of failures, the lifewrecks, that have been caused by gossipers? How many people have been driven to suicide by cruel slander? How many people have become disheartened and have laid down their burdens and given up the struggle because their sensitive natures could not stand the strain of misrepresentation?
 
 There is no meaner, more cowardly or contemptible thing than to take advantage of another's absence to discuss his shortcomings, and to peddle idle gossip and slander about him.
 
@@ -79,26 +75,27 @@ In England it is quite common, instead of saying "Hello" when using the telephon
 
 # AUSTRALIAN TROOPS LAND AT PLYMOUTH
 
----
+INTERNATIONAL
+NEWS SERVICE
 
 # AUTOS WIN BATTLE
 
 # How the Tide Was Turned on the Marne.
 
-General Gallienl Hurls 70,000 Men by Taxicab Against German Flank and Forces Retreat to the Alane.
+General Gallienl Hurla 70,000 Men by Taxicab Against German Flank and Forces Retreat to the Alane.
 
 By FRANKLIN P. MERRICK.
 (International News Service.)
 
-Paris—It is not generally known that the Battle of the Marne was won by automobiles. General Gallienl had 400 taxicabs and other light motor cars at his disposal. It will be remembered that Von Kluck with the right of the German army got as far as Champlley. General Gallienl, as military governor of Paris, had a large force, probably half a million men, at his disposal and he was responsible for the defense of Paris.
+Paris.—It is not generally known that the Battle of the Marne was won by automobiles. General Gallienl had 400 taxicabs and other light motor cars at his disposal. It will be remembered that Von Kluck with the right of the German army got as far as Champlley. General Gallienl, as military governor of Paris, had a large force, probably half a million men, at his disposal and he was responsible for the defense of Paris.
 
 Gallienl figured that he had more men than he really needed and that 70,000 of his men could be spared for work at the front.
 
-Acting entirely upon his own responsibility, he ordered his men to crowd into the automobiles. He made each taxicab carry nine soldiers. It was a curious sight. There were two in each seat, two on the hood, one on the driver and one on each running board.
+Acting entirely upon his own responsibility, he ordered his men to crowd into the automobiles. He made each taxicab nine soldiers. It was a curious sight. There were two in each seat, two on the hood, one with the driver and one on each running board.
 
-Within six hours he threw the whole 70,000 against the flank of the Germans at Meaux, about thirty-five miles from Paris. Von Kluck evidently had not reckoned with such a sieve. He was forced to stop and give battle. The French, retiring on his front, re-formed and gave battle on his front, re-formed the retreat of the Germans from Marne to the Alane after the sanguinary battle named from the first river.
+Within six hours he threw the whole 70,000 against the flank of the Germans at Meaux, about thirty-five miles from Paris. Von Kluck evidently had not reckoned with such a sortie. He was forced to stop and give battle. The French, retiring on his front, re-formed and gave battle. The result was the retreat of the Germans from Marne to the Aisne after the sanguinary battle named from the first river.
 
-This is only one of the great exploits of the French army automobile transport service. No other nation in this war has used the motor car with the effectiveness of the French. The automobile transport service is organized as a separate branch. Working with amazing rapidity just after the beginning of the war, the French army officers drafted into this corps men who had been employed in automobile manufacture—foremen, skilled workmen, testers and drivers. The officers were drawn from the manufacturers, agents and other heads of automobile organizations. The heaviest trucks are used for ammunition carriers and lighter commercial vehicles for the food supply. General Mongin commands the whole corps.
+This is only one of the great exploits of the French army automobile transport service. No other nation in this war has used the motor car with the effectiveness of the French. The automobile transport service is organized as a separate branch. Working with amazing rapidity just after the beginning of the war, the French army officers drafted into this corps men who had been employed in automobile manufacture—foremen, skilled workers, testers and drivers. The officers were drawn from the manufacturers, agents and other heads of automobile organizations. The heaviest trucks are used for ammunition carriers and lighter commercial vehicles for the food supply. General Mongin commands the whole corps.
 
 Some noted French race drivers are now in the army service. Bollot alternates with the Marquis D'Albufera in driving General Joffre's car. Several machines are kept ready day and night for General Joffre and it is no unusual
 
@@ -211,7 +208,7 @@ The tiles, of course, are ideal, as all they need is a washdown with warm water 
 
 A little enamel basket is so useful in the sink for tea leaves and such things which are more than likely to go down the sink and eventually stop it up. It is shaped so that it fits into the corner of the sink, perforated with holes, so that all liquid passes away, leaving the solid bodies in the basket.
 
-Nothing is more unpleasant than a greasy dishcloth. To keep this important article fresh and sweet, it should be scalded each time after use, or else washed out thoroughly in hot water and rinsed well in several waters.
+Nothing is more unpleasant than a greasy dishcloth. To keep this important article fresh and sweet, it should be scaled each time after use, or else washed out thoroughly in hot water and rinsed well in several waters.
 
 A plate rack fixed above the sink is a great saving of labor. Plates put in the rack must be rinsed in cold water after being washed in hot, if you do not want them to be smudgy.
 
@@ -265,7 +262,7 @@ Salt meats take different treatment. First soak over night in plenty of cold wat
 
 Cook tongue very gently until the small bones in the root can be easily pulled out. This is a matter of four hours. Leave in water until cold. Then lift out, trim, skin and serve. It may be put away cold in the ice box, wrapped in a coarse clean cloth, or may be returned to some of the water in which it was boiled. This will help it retain its succulence.
 
-Ham, if very dry, may be soaked 48 hours, changing water once or twice. Put to cook in plenty of cold water. It is done when the small bone in the hook can be pulled out easily. When nearly cold draw off the skin; do not cut. Cover the top with a mixture of egg, bread crumbs, pepper, salt, sugar and a little made mustard, and set in a slow oven to brown. Baste frequently with two tablespoonfuls of vinegar and a little boiling water in the pan. Bake from one to two hours. Save ham fat from the pan. It is fine for frying potatoes, hominy or rice. Save the ham skin and use it to cover the ham under a coarse cloth.
+Ham, if very dry, may be soaked 48 hours, changing water once or twice. Put to cook in plenty of cold water. It should simmer five to eight hours. It is done when the small bone in the bock can be pulled out easily. When nearly cold draw off the skin; do not cut. Cover the top with a mixture of egg, bread crumbs, pepper, salt, sugar and a little mustard, and set in a slow oven to brown. Baste frequently with two tablespoonfuls of vinegar and a little boiling water in the pan. Bake from one to two hours. Save ham fat from the pan. It is fine for frying potatoes, hominy or rice. Save the ham skin and use it to cover the ham under a coarse cloth.
 
 ## KEEPC DRAIN PIPES CLEAN
 

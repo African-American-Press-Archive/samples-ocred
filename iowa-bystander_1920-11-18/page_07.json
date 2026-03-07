@@ -3,6 +3,17 @@
   "image": "images/page_07.jpg",
   "width": 2061,
   "height": 2800,
+  "processed_at": "2026-03-07T12:08:35.959204+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 67,
+    "after_merge": 38
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,19 @@
         1720
       ],
       "label": "doc_title",
-      "text": "108 SIMON SIMPLE'S FIRST LESSONS IN CLOWNISA"
+      "text": "108 SIMON SIMPLE'S FIRST LESSONS IN CLOWNISA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        192,
+        1724,
+        1910,
+        2688
+      ],
+      "label": "text",
+      "text": "GOOD MORNING\nFELLOWS,\nWHAT'S DOING?\n\nIN A MINUTE\nDERE VILL\nPE LOTS\nDIDDING\n\nYES, WELL\nJUST START\nOFF WITH AN\nHOUR'S WORK\nWITH THE\nBLADDER.\n\nUND DIS\nVAS DE VAY\nTO DO IT.\n\nHA-NA-NA\nDOES IT JAR\nYOU-YES?\n\nOUCH!\nMY HEAD-\nLET UP!\n\nWE FIXED\nHIM THAT\nTIME.\n\nSUCH A\nHEADACHE\nVAT VE\nGIFF HIM-\nYES?\n\nWELL FELLERS.\nI'll JOIN IN\nYOUR LITTLE\nGAME\nMYSELF.\n\nDUNDER AND\nBLITZEN IT\nISS A VASPS\nNEST!\n\nAT THEM\nBOYS\n\nI COULDN'T FIND\nA BLADDER- SO\nI GOT THAT\nWASPS NEST\nINSTEAD.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +45,19 @@
         335
       ],
       "label": "doc_title",
-      "text": "THE STAR HAIR GROWER A Wonderful Hair Dressing and Grower. 1,000 AGENTS WANTED."
+      "text": "THE STAR HAIR GROWER A Wonderful Hair Dressing and Grower. 1,000 AGENTS WANTED.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        193,
+        349,
+        583,
+        952
+      ],
+      "label": "text",
+      "text": "A",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +67,8 @@
         1002
       ],
       "label": "text",
-      "text": "send $1.00 and we will send you a full supply that you can begin\nwork with at once: also agent's terms.\nSend all money by money order to"
+      "text": "send $1.00 and we will send you a full supply that you can begin\nwork with at once: also agent's terms.\nSend all money by money order to",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +78,8 @@
         1166
       ],
       "label": "doc_title",
-      "text": "WHEN RHEUMATISM HITS YOU HARD!"
+      "text": "WHEN RHEUMATISM HITS YOU HARD!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,27 +89,19 @@
         1166
       ],
       "label": "paragraph_title",
-      "text": "WHEN RHEUMATISM HITS YOU HARD!"
-    },
-    {
-      "bbox": [
-        168,
-        1174,
-        450,
-        1441
-      ],
-      "label": "text",
-      "text": "Sloan's Liniment should be kept handy for aches and pains\n\nWHY wait for a severe pain, an ache, a rheumatic twinge following exposure, a sore muscle, sciatica, or lumbago to make you quit work, when you should have Sloan's Liniment handy to help curb it and keep you active, and fit, and on the job?\n\nWithout rubbing, for it penetrates, apply a bit to the afflicted part. Notethe gratifying, clean, prompt relief that follows. Sloan's Liniment couldn't keep its many thousands of friends the world over if it didn't make good. That's worth remembering. All drugists\u2014three sizes\u2014the largest is the most economical. 35c, 70c, $1.40."
+      "text": "WHEN RHEUMATISM HITS YOU HARD!",
+      "status": "ok"
     },
     {
       "bbox": [
         165,
-        1543,
+        1174,
         457,
         1620
       ],
       "label": "text",
-      "text": "There's a Difference.\n\nAn epigrammatist says a classical education is for conversation and the other kind for use\u2014Pittsburgh Dispatch."
+      "text": "Sloan's Liniment should be kept handy for aches and pains\n\nWHY wait for a severe pain, an ache, a rheumatic twinge following exposure, a sore muscle, sciatica, or lumbago to make you quit work, when you should have Sloan's Liniment handy to help curb it and keep you active, and fit, and on the job?\n\nWithout rubbing, for it penetrates, apply a bit today to the afflicted part. Notethe gratifying, clean, prompt relief that follows. Sloan's Liniment couldn't keep it many thousands of friends the world over if it didn't make good. That's worth remembering. All drugists\u2014three sizes\u2014the largest is the most economical. 35c, 70c, $1.40.\n\nSloan's Liniment (Pain's enemy)\n\nThere's a difference.\n\nAn epigrammatist says a classical education is for conversation and the other kind for use\u2014Pittsburgh Dispatch.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,17 +111,30 @@
         773
       ],
       "label": "text",
-      "text": "Male\nWe want agents in every city and village to sell\nTHE\nSTAR HAIR\nGROWER.\nThis is a wonderful preparation. Can be used with or without Straightening Irons and by any person.\nOne 25 cents box proves its value. Any person that will use a 250 box will be convinced.\nNo matter what has failed to grow your hair, just give"
+      "text": "Male\nWe want agents in every city and village to sell\nTHE\nSTAR HAIR\nGROWER.\nThis is a wonderful preparation. Can be used with or without Straightening Irons and by any person.\nOne 25 cents box proves its value. Any person that will use a 250 box will be convinced.\nNo matter what has failed to grow your hair, just give",
+      "status": "ok"
     },
     {
       "bbox": [
         466,
         822,
         758,
+        1317
+      ],
+      "label": "text",
+      "text": "a trial and be convinced.\nSend 250 for full size box.\nIf you wish to become an agent for this wonderful preparation.\na full supply that you can begin terms.\nor to GROWER MF'R.,\nGreensboro, N. C.\n\nSOFT SILKY HAIR\n\nAt last a reliable hair grower that makes short, kinky hair quickly grow long, soft and silky. Stops falling hair, removes dandruff cleans the scalp and feeds the hair roots.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        466,
+        1317,
+        758,
         1488
       ],
       "label": "text",
-      "text": "a trial and be convinced.\nSend 250 for full size box.\nIf you wish to become an agent for this wonderful preparation.\na full supply that you can begin terms.\nor to\nGROWER MF'R.,\nGreensboro, N. C.\n\nSOFT\nSILKY\nHAIR\n\nAt last a reliable hair grower that makes short, kinky hair quickly grow long, soft and silky. Stops falling hair, removes dandruff, cleans the scalp and feeds the hair roots.\n\nEXELENTO\nQUININE POMADE\n\nIf your druggist cannot supply you, and 250 in stamps or coin for full size package.\n\nUse EXELENTO SKIN BEAUTIFIER,\nan ointment for dark, sallow skin.\nUsed in treatment of skin troubles.\n\nAgents Worked Where\nWrite for Particulars\n\nEXELENTO MEDICINE CO., Atlanta, Georgia"
+      "text": "EXELENTO\nQUININE POMADE\n\nIf your drugist cannot supply you,\nsend 25c in stamps or coin for full\nmilk. You may purchase it\nUse EXELENTO SKIN BEAUTIFIER,\nan ointment for dark, sallow skin.\nUsed in treatment of skin troubles.\n\nAgents Wanted Everywhere\nWrite for Portfolio\nEXELENTO MEDICINE CO., Atlanta, Georgia",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +144,8 @@
         1502
       ],
       "label": "paragraph_title",
-      "text": "Proof Conclusive."
+      "text": "Proof Conclusive.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +155,19 @@
         1790
       ],
       "label": "text",
-      "text": "\"No bachelor can understand a woman,\" declared Mrs. Stubkins. \"Huh, you don't say so!\" replied Stubkins, with a snort. \"What else in the world do you suppose makes a man a bachelor?\"\u2014Judge.\n\nN SIMPLE\n\nIN MINUTE DEFE VILL PE LOTS"
+      "text": "\"No bachelor can understand a woman,\" declared Mrs. Stubkins. \"Huh, you don't say so!\" replied Stubkins, with a snort. \"What else in the world do you suppose makes a man a bachelor?\"\u2014Judge.\n\nN SIMPLE\n\nIN MINUTE DEFE VILL PE LOTS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        796,
+        169,
+        1343,
+        540
+      ],
+      "label": "text",
+      "text": "THE CHURCH OF THE NATIONAL SCHOOL OF PHOTOGRAPHY, IN MIDDLEBURG, CALIFORNIA.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +177,19 @@
         639
       ],
       "label": "text",
-      "text": "The above cut is that of the Corin-thinth Baptist church, located at Fifteenth and Linden streets, one of the leading colored churches, of the city. Under the pastorate of Rev. Geo. W.Robinson, the membership has increased wonderfully."
+      "text": "The above cut is that of the Corin-thinth Baptist church, located at Fifteenth and Linden streets, one of the leading colored churches, of the city. Under the pastorate of Rev. Geo. W.Robinson, the membership has increased wonderfully.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        762,
+        112,
+        1124,
+        662
+      ],
+      "label": "text",
+      "text": "Corinthian Baptist C\n\nThe above cut is that of the Corin-thian Iteenth and Linden streets, one of the leading Under the pastorate of Rev. Geo. W.Robinson wonderfully.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,17 +199,30 @@
         710
       ],
       "label": "paragraph_title",
-      "text": "Religeous Worker's Institute"
+      "text": "Religeous Worker's Institute",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        763,
+        717,
+        1065,
+        1264
+      ],
+      "label": "text",
+      "text": "Our schedules will be as follows:\nFrom 7:30 to 8 will be the first lecture course each night.\nFrom 8 to 8:40 will be the hour of discussion in the various departments, namely, primary, junior and adult.\nInstructors for the three departments are, Attorney S. Joe Brown for the adult department. Dr. W. H. Lowry for the junior and E. C. Robinson for the primary. From 8:40 to 9:20 will be the closing lectures.\n\nThe entire lecture course will be as follows:\n\nMonday, Nov. 15 7:30 to 8. Subject: \"The Necessity of Trained Sunday School Workers.\" Dr. J. Lewis Gillies, pastor Trinity M. E. church.\n\n8:40 to 9:20. Subject: \"Christianity and Amusement,\" Dr. T. L. Griffith, pastor Union Baptist church.\n\nMonday, Nov. 22 7:30 to 8. Subject: \"Better Sunday Schools Mean Better Communities,\" Dr. W. B. Sanford, pastor Cottage Grove Presbyterian church.\n\n8:40 to 9:20. Subject: \"How God Calls Men,\" Dr. W. H. Griffin, pastor St. Paul's A. M. E.\n\nMonday, Nov. 29. Subject: \"How Jesus Met Life's Questions,\" Dr. H. R. Best, pastor Forest avenue Baptist church.\n\n8:40 to 9:20. Subject: \"After the Decision\u2014What?\" Dr. Geo. W. Robinson, Corinthian Baptist church.",
+      "status": "ok"
     },
     {
       "bbox": [
         762,
-        717,
-        1065,
-        1610
+        1269,
+        1124,
+        1834
       ],
       "label": "text",
-      "text": "Our schedules will be as follows:\nFrom 7:30 to 8 will be the first lecture course each night.\nFrom 8 to 8:40 will be the hour of discussion in the various departments, namely, primary, junior and adult.\nInstructors for the three departments are, Attorney S. Joe Brown for the adult department. Dr. W. H. Lowry for the junior and E. C. Robinson for the primary. From 8:40 to 9:20 will be the closing lectures.\n\nThe entire lecture course will be as follows:\n\nMonday, Nov. 15 7:30 to 8. Subject: \"The Necessity of Trained Sunday School Workers.\" Dr. J. Lewis Gilies, pastor Trinity M. E. church.\n\n8:40 to 9:20. Subject: \"Christianity and Amusement,\" Dr. T. C. Griffith, pastor Union Baptist church.\n\nMonday, Nov. 22 7:30 to 8. Subject: \"Better Sunday Schools Mean Better Communities,\" Dr. W. B. Sanford, pastor Cottage Grove Presbyterian church.\n\n8:40 to 9:20. Subject"
+      "text": "Monday, Dec. 6. Subject: \"The Boy and the Sunday School. Secretary W. H. Crawford, Central Y. M. C. A. 8:40 to 9:20. Subject: \"How to Make the Bible Real.\" Rev. H. C. Claybrook, pastor Bethel A. M. E. Monday, Dec. 13, 7:30 to 8. Subject: \"The Girl and the Sunday School.\" Miss Laura McClairy, secretary central Y. W. C.' A. 8:40 to 9:20. Subject: \"The Parables of Jesus.\" Rev. T. J. Jones, pastor Asbury M. E. church. Monday, Dec. 20, 7:30 to 8. Subject: \"The Place of Y. M. C. A. in the Community.\" Secretary Geo. W. Webber. 8:40 to 9:20. Subject: \"The Miracles of Jesus.\" Rev. E. S. Hardge, pastor Kyles A. M. E. Zion church. A small fee of 25 cents will be charged to cover cost of light and heat of building. Service of faculty is do-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,17 +232,30 @@
         711
       ],
       "label": "paragraph_title",
-      "text": "CELEBRATION KNOWN TO ALL"
+      "text": "CELEBRATION KNOWN TO ALL",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1072,
+        724,
+        1364,
+        1056
+      ],
+      "label": "text",
+      "text": "Every Nation and Race Has Had Some Form of Thanksgiving for a Bountiful Harvest.\n\nThanksgiving day is made up from parts of celebrations of that day by other peoples. The time is taken from one, the feast from another, and the gathering together of the people from still another. Long before the white race came to this country the Indians held a festal day during this season of the year. They had a great feast of roasted deer and bear, boiled corn and stewed pumpkin, and the women and the warriors partook of it on equality. The feast was kept up far into the night, and was followed by a dance of the braves, keeping time to the songs sung by the dusky maids of the forests.",
+      "status": "ok"
     },
     {
       "bbox": [
         1070,
-        724,
-        1364,
+        1056,
+        1363,
         1597
       ],
       "label": "text",
-      "text": "Every Nation and Race Has Had Some Form of Thanksgiving for a Bountiful Harvest.\n\nThanksgiving day is made up from parts of celebrations of that day by other peoples. The time is taken from one, the feast from another, and the gathering together of the people from still another. Long before the white race came to this country the Indians held a festal day during this season of the year. They had a great feast of roasted deer and bear, boiled corn and stewed pumpkin, and the women and the warriors partook of it on equality. The feast was kept up far into the night, and was followed by a dance of the braves, keeping time to the songs sung by the dusky maids of the forests.\n\nThanksgiving also owes something to the religious rites of ancient nations. The oldest of these is the Jewish feast of the tabernacles, with its magnificent festivities. The festival occurred annually, at the end of the harvest season, and continued for eight days. Sometimes it was held as early as the 25th of September, but never later than the 20th of October. It was then the 20th of October. It the field were then over for the year, and the feast was an occasion of joyousness and gladness to the people. At this season the nation assembled in Jerusalem, where they lived in booths for seven days. Impressive cereoniles and processions took place each day, and at night the court of the temple was illuminated by lamps and flambeaux. At the end of seven days' joy the booths were dismantled and the people celebrated an eighth day of solemn rest.\n\nThe glory of the great Hebrew festival has long since passed away, but the fundamental principle\u2014that everyone should rejoice in the fruits of the harvest, together with the whole people of the land \"before the Lord\"\u2014has entered into the harvest observances of Christian lands."
+      "text": "Thanksgiving also owes something to the religious rites of ancient nations. The oldest of these is the Jewish feast of the tabernacles, with its magnificent festivities. The festival occurred annually, at the end of the harvest season, and continued for eight days. Sometimes it was held as early as the 25th of September, but never later than the 20th of October. It was the feast of the \"ingathering\" of the harvest of all the fruits, the corn, the wine, and the oil. The labors of the field were then over for the year, and the feast was an occasion of joyousness and gladness to the people. At this season the nation assembled in Jerusalem, where they lived in booths for seven days. Impressive ceremonies and processions took place each day, and at night the court of the temple was illuminated by lamps and flambeaux. At the end of seven days' joy the booths were dismantled and the people celebrated an eighth day of solemn rest.\n\nThe glory of the great Hebrew festival has long since passed away, but the fundamental principle\u2014that everyone should rejoice in the fruits of the harvest, together with the whole people of the land \"before the Lord\"\u2014has entered into the harvest observances of Christian lands.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,17 +265,30 @@
         393
       ],
       "label": "doc_title",
-      "text": "Mr. Business Man"
+      "text": "Mr. Business Man",
+      "status": "ok"
     },
     {
       "bbox": [
         1422,
         503,
+        1819,
+        560
+      ],
+      "label": "text",
+      "text": "directly, accurately and instantaneously. THE ADVERTISING PROBLEMS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1665,
+        560,
         1958,
         1142
       ],
       "label": "text",
-      "text": "THE ADVERTISING PROBLEMS\n\nAll advertisers are confronted with three big PROBLEMS. Briefly are:\n\n(1) WHEN shall I advertise!\n\n(2) Where shall I advertise!\n\n(3) How shall I advertise!\n\nThe BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which speak to YOU.\n\n1) Advertise when we get our money or the most of it, that is\u2014Saturday\u2014let us know that you want our TRADE. Keep advertise in our paper THE BYSTANDER.\n\n2) Advertise in all the papers but don't forget we will invest in buy when you advertise in THE BYSTANDER. Why? because it lets us know you want our DOLLARS and are willing to spend thing to get them. We buy good things as well as other people; we buy from you, if you will advertise in our paper.\n\n3) First, advertise regularly, attractively and everything that is able to anyone, because you can't tell what or when we buy."
+      "text": "with three big PROBLEMS. Brief.\n\nartise?\n\nartise?\n\ne?\n\nthat reaches thousands of colored people, Iowa, Minnesota, Wisconsin, Illinois, states, is the mouth-piece through which our money or the most of it, that is\u2014you want our TRADE. Keep advertiser.\n\ners but don't forget we will invest in THE BYSTANDER. Why? be DOLLARS and are willing to spend good things as well as other people; we artise in our paper.\n\nis attractively and everything that is tell what or when we buy.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,17 +298,19 @@
         612
       ],
       "label": "text",
-      "text": "All advertisers are confronted with three big PROBLEMS. Briefly they are:"
+      "text": "All advertisers are confronted with three big PROBLEMS. Briefly they are:",
+      "status": "ok"
     },
     {
       "bbox": [
         1369,
         729,
         1819,
-        1365
+        1111
       ],
       "label": "text",
-      "text": "The BYSTANDER, a paper that reaches thousands in Des Moines, thousands in Iowa, Minnesota, WI, Mississippi, Nebraska and other states, is the mouth-piece they speak to YOU.\n\n(1) Advertise when we get our money or the money about Saturday\u2014let us know that you want our TRADI tising in our paper THE BYSTANDER.\n\n(2) Advertise in all the papers but don't forge gate and buy when you advertise in THE BYSTANDER cause, it lets us know you want our DOLLARS and are something to get them. We buy good things as well as will buy from you, if you will advertise in our paper.\n\n(3) First, advertise regularly, attractively and esellable to anyone, because you can't tell what or when.\n\nTube\n\nIt was when was imposs Ohio drug ravages of gan experien and discover ment, know Anyone will zaz showing Send your n\n\n0 Pounds or tuberculosis, may use it under plain directions.\n\nADDILINE\n\n40 Arcade Building,\n\nCOL"
+      "text": "The BYSTANDER, a paper that reaches thousands ple in Des Moines, thousands in Iowa, Minnesota, W. Mississippi, Nebraska and other states, is the mouth-pie they speak to YOU.\u2014\n\n(1) Advertise when we get our money or the more about Saturday\u2014let us know that you want our TRADI tising in our paper THE BYSTANDER.\n\n(2) Advertise in all the papers but don't forge gate and buy when you advertise in THE BYSTANDER cause, it lets us know you want our DOLLARS and are something to get them. We buy good things as well as will buy from you, if you will advertise in our paper.\n\n(3) First, advertise regularly, attractively and es sellable to anyone, because you can't tell what or when.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +320,19 @@
         1075
       ],
       "label": "text",
-      "text": "The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which they speak to YOU.\n\n(1) Advertise when we get our money or the most of it, that is about Saturday\u2014let us know that you want our TRADE. Keep advertising in our paper THE BYSTANDER.\n\n(2) Advertise in all the papers but don't forget we will investigate and buy when you advertise in THE BYSTANDER. Why? because, it lets us know you want our DOLLARS and are willing to spend something to get them. We buy good things as well as other people; we will buy from you, if you will advertise in our paper.\n\n(3) First, advertise regularly, attractively and everything that is sellable to anyone, because you can't tell what or when we buy."
+      "text": "The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which they speak to YOU.\n\n(1) Advertise when we get our money or the most of it, that is about Saturday\u2014let us know that you want our TRADE. Keep advertising in our paper THE BYSTANDER.\n\n(2) Advertise in all the papers but don't forget we will investigate and buy when you advertise in THE BYSTANDER. Why? because, it lets us know you want our DOLLARS and are willing to spend something to get them. We buy good things as well as other people; we will buy from you, if you will advertise in our paper.\n\n(3) First, advertise regularly, attractively and everything that is sellable to anyone, because you can't tell what or when we buy.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1376,
+        1111,
+        1736,
+        1299
+      ],
+      "label": "text",
+      "text": "0 Pounds\n158 Pounds\nLatex Photo",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +342,8 @@
         1379
       ],
       "label": "paragraph_title",
-      "text": "Indiana Good Orchardista"
+      "text": "Indiana Good Orchardista",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +353,8 @@
         1764
       ],
       "label": "text",
-      "text": "American foresters present a very strong argument against our friend, the pussy cat, as being by far the most destructive of animals, wild or tame, of the birds, and every forester considers the birds as the greatest friends of the trees. Without the destruction wrought by the birds on the insect enemies of the trees there would be after a generation no tree left for the insects would multiply fearfully and demolish every growing tree and plant\u2014Grit.\n\nThe American apple owes much to the care of the Indian farmers, for the Indian was an able pomologist. It was not unusual 150 years ago for Indian orchards to have 1,500 trees, which all had been duly pruned and cultivated by the people we are prone to regard as nomadic savages. The peach and quince were also cultivated by them in later years. To the world the Indian introduced such fruits as the persimmon, the pawpaw, the pineapple and the Virginia strawberry."
+      "text": "American foresters present a very strong argument against our friend, the pussy cat, as being by far the most destructive of animals, wild or tame, of the birds, and every forester considers the birds as the greatest friends of the trees. Without the destruction wrought by the birds on the insect enemies of the trees there would be after a generation no tree left for the insects would multiply fearfully and demolish every growing tree and plant\u2014Grit.\n\nThe American apple owes much to the care of the Indian farmers, for the Indian was an able pomologist. It was not unusual 150 years ago for Indian orchards to have 1,500 trees, which all had been duly pruned and cultivated by the people we are prone to regard as nomadic savages. The peach and quince were also cultivated by them in later years. To the world the Indian introduced such fruits as the persimmon, the pawpaw, the pineapple and the Virginia strawberry.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +364,8 @@
         1753
       ],
       "label": "text",
-      "text": "ISM"
+      "text": "ISM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +375,8 @@
         488
       ],
       "label": "text",
-      "text": "\u2014That vexing QUESTION answered\n\u2014that business problem solved"
+      "text": "\u2014That vexing QUESTION answered\n\u2014that business problem solved",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +386,8 @@
         729
       ],
       "label": "text",
-      "text": "(1) WHEN shall I advertise!\n\n(2) Where shall I advertise!\n\n(3) How shall I advertise!"
+      "text": "(1) WHEN shall I advertise!\n\n(2) Where shall I advertise!\n\n(3) How shall I advertise!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +397,8 @@
         1378
       ],
       "label": "paragraph_title",
-      "text": "Pussy Cat Indicted."
+      "text": "Pussy Cat Indicted.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +408,8 @@
         1588
       ],
       "label": "text",
-      "text": "American foresters present a very strong argument against our friend, the pussy cat, as being by far the most destructive of animals, wild or tame of the birds, and every forester considers the birds as the greatest friends of the trees. Without the destruction wrought by the birds on the insect enemies of the trees there would be after a generation no tree left for the insects would multiply fearfully and demolish every growing tree and plant \u2014Grit."
+      "text": "American foresters present a very strong argument against our friend, the pussy cat, as being by far the most destructive of animals, wild or tame of the birds, and every forester considers the birds as the greatest friends of the trees. Without the destruction wrought by the birds on the insect enemies of the trees there would be after a generation no tree left for the insects would multiply fearfully and demolish every growing tree and plant \u2014Grit.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +419,8 @@
         1171
       ],
       "label": "paragraph_title",
-      "text": "Tuberculosis"
+      "text": "Tuberculosis",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +430,8 @@
         1336
       ],
       "label": "text",
-      "text": "It was when physicians said it was impossible for J. M. Miller, Ohio druggist to survive the ravages of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as ADDILINE. Anyone with coughs or influenza showing tubercular tendency Send your name and address to COLUMBUS, OHIO"
+      "text": "It was when physicians said it was impossible for J. M. Miller, Ohio druggist to survive the ravages of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as ADDILINE. Anyone with coughs or influenza showing tubercular tendency Send your name and address to COLUMBUS, OHIO",
+      "status": "ok"
     }
   ]
 }

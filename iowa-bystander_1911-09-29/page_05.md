@@ -1,112 +1,73 @@
 ALBIA NEWS.
 Mr. E. Grayson-Jeffers of the city of Des Moines is the guest of her children Madam Empre-Benninga and Grayson for a few weeks.
 
-The Emancipation celebration was held in Boston, Sept. 23d. A number of Albisna went over to mingle with the crowd in remembrance of the day of the issue of this great proclamation. Among the number was Messrs. Low, Franklin, Barn Johnson, Mrs. Harris and children, Mr. and Mrs. Ed. Butler and son Lawrence, Mr. W. A. Barnes editor Horace Barnes of the Republican, Mr. Bert Allen and Mrs. Freeman returned from Minneapolis, Minn., Monday.
+The Emancipation celebration was held in Buxton, Sept. 22. A number of Albias went over to mingle with the crowd in remembrance of the day of the issue of this great proclamation. Among the number was Messie Low, Franklin, Sam Johnson, Mrs. Harris and children, Mr. and Mrs. Ed. Butler and son Lawnces, Mr. W. A. Barres editor Horace Barnes of the Republican. Mrs. Bert Allen and Mrs. Freeman returned from Minneapolis, Minn., Monday. Rev. and Mrs. J. H. Bell and daughter, Nellie Bell of Clarinda are visiting a few days with friends in Alba before going to their new home in Oakloosa for this year. Rev. R. B. Manley has returned to Alba as pastor of the A. M. E. church for this year. Mrs. Ella Bristo of Enterprise, Iowa, is visiting her prother, Mr. Lcu Franklin, this week. Mr. Ed. and Mrs. Butler were Des visitors the first of the week Miss Cleo Cary of Buxton is stopping at the home of Rev, and Mrs. R. B Munley. She is a student in the Alba high school. Lawyer James Spears was in Alba this week. Sella Ros, and Foreapure's circus and big tent show was in Alba Tuesday, Sept. 19b, and a number of people from Hocking, Hiteman, Buxton and all over the county was in attendance. Mr. Gordon and his friend from Hocking was in Alba Sunday. Mr. and Mrs. Roy Grayson was in town Monday, from Hocking.
 
-Mrs. Bart Allen and Mrs. Freeman returned from Minneapolis, Minn., Monday.
-Rev. and Mrs. J. H. Bell and daughter, Nellis Bell of Clarinda are visiting a few days with friends in Alba before soiling to their new home in Oakalosa for this year.
-Rev. R. B. Manley has returned to Albia as pastor of the A. M. E. church for this year.
-Mrs. Ella Bista of Enterprise, Iowa, is visiting her prother, Mr. Lcu Frank-Hin, this week.
-Mr. Ed. and Mrs. Butler were Des visitors the first of the week
-Miss Cleo Cary of Buxton is stopping at the home of Rev. and Mrs. R. B. Munley. She is a student in the Albia high school.
-Lawyer James Spears was in Albia this week.
-Sallis Bros. and Forepaugh's circus and big tent show was in Albia Tuesday, Sept. 19bh, and a number of people from Hocking, Hiteman, Buxton and all over the county was in attendance.
-Mr. Gordon and his friend from Hocking was in Albia Sunday.
-Mr. and Mrs. Roy Grayson was in town Monday, from Hocking.
-Mr. Alfred Grayson went to spend the week in Hocking with his grandson Roy A. Grayson.
-Quite a number of strangers in aown the past week.
+Mr. Alfred Grayson went to spend the week in Hocking with his grandson Boy A. Grayson. Quite a number of strangers in sown the past week.
 
 ## OFTUMWA ITEMS
 
-Dan cupid's arrow has been in Ottumwa, recently and we are waiting for the the wedding bells to ring.
+Dan cupld's arrow has been in Ottumwa, recently and we are waiting for the the wedding bells to ring.
 
-Rev. M. I. G. Iordan was welcomed to Mt. Zion A. M. E. church and we hope to have a most successful conference year with him as our pastor.
+Rev. M. I. M. Gordon was welcomed to Mt. Zion A. M. E. church and we hope to have a most successful conference year with him as our pastor.
 
-Miss Bayon Gahn, 365 N. Marion St., left for her home in Chicago, Thursday Set. 21st, after a visit with her grandmother, Mrs. Chas. Taylor.
+Miss Bayon Guinn, 355 N. Marion St., left for her home in Chicago, Thursday St. 21st, after a week visits with her grandmother, Mrs. Chas. Taylor.
 
 Mrs. Wm. Bailey, Center avenue, is not recovering as rapidly as friends had hoped.
 
 Word has been received here of the auto accident that occurred in Des Moines, Sunday. The auto in which Miss Naomi Courtney and friends were driving in was struck by a street car and the occupants were badly shaken while some received serious injuries.
 
-Orrille Spotts, E. Main St., was in Des Moines a few days last week.
+Orville Spotts, E. Main St., was in Des Moines a few days last week.
 
-The infant child of Mr. and Mrs. Geo, Robinson of the East End, died and will be buried Tuesday at 2:30 p.m.
-
-The bereaved parents have our sympathy.
+The infant child of Mr. and Mrs. Geo, Robinson of the East End, died and will be buried Tuesday at 2:30 p.m. The bereaved parents have our sympathy.
 
 Mrs. Amy Greene, Center avenue is in St. Joe attending the conference.
 
 Mr. T. Anderson, West 2d street, has returned from his vacation trip and reports a splendid time.
 
-Mrs. M. I. Gordon, who has been at this writing.
+Mrs. M. I. Gordon, who has been ill for a few days is feeling some better at this writing.
 
 Frants Bailey is expected home soon.
 
-Mrs. Frantz Henson's daughter-in-law, Mrs. Arthur Burns and children, left last night for their home in Fondula Wisconsin.
+Mrs. Frantz Henson's daughter-in-law, Mrs. Arthur Burns and children, left last night for their home in Fondus, Wisconsin.
 
-Mr. Luther Williams of Grover St., is in Ottumwa, at present. He spent several weeks in Des Moines.
+Mr. Luther Williams of Grover St. is in Ottumwa, at present. He spent several weeks in Des Moines. Mrs. Maude Marshall has returned from a few days visit in Cedar Rapids where she was called by the illness of her son, LeRoy Warren. Rev. J. C. Reid family anticipate spending three months in the South at the beginning of the winter. Miss. Nina Courtney of Des Moines is here attending the trial of Harry Richardson who burglarized the Rev. Reid's house recently. Miss Courtney had about $70,00 worth of clothing stolen. She recovered all. Mr. G. W. Jackson, choriator of the Second Baptist church returned from Chicago, Saturday. Miss Ema Gardner and Mrs. J. C. Reid attended the quarterly meeting of the Woman's Federation (Executive Board) at Indianola. They report an excellent session. Rev. J. C. Reid will visit Omaha, Council Bluffs and Clarinda, next week. He will speak for Iowa's interest in educational work connected with the Western Baptist convention. Dr. Reid is chairman of the Educational Board of Iowa.
 
-Mrs. Maude Marshall has returned from a few days visit in Cedar Rapids where she was called by the illness of her son, LeRoy Warren.
-
-Rev. J. C. Reid family anticipate spending three months in the South at the beginning of the winter.
-
-Miss Namol Courtney of Des Moines is here attending the trial of Harry Richardson who burglarized the Rev. Reid's house recently. Miss Courtney had about $70.00 worth of clothing stolen. She recovered all.
-
-Mr. G. W. Jackson, choreographer of the Second Baptist church returned from Chicago, Saturday.
-
-Miss Emma Gardner and Mrs. J. C. Reid attended the quarterly meeting of the Woman's Federation (Executive Board) at Indianola. They report an excellent session.
-
-Rev. J. C. Reid will visit Omaha, Council Bluffs and Clarinda, next week. He will speak for Iowa's interest in educational work connected with the Western Baptist convention. Dr. Reid is chairman of the Educational Board of Iowa.
-
-You are not experimenting on yourself when you take Chamberlain's Cough Remedy for a colds that preparation has won its reputation and extensive sale sale, by its remarkable
-
-You are not experimenting on yourself when you take Chamblein's Cough Remedy for a colds that preparation has won its great reputation and extensive sale sale by its remarkable cures of colds, and can always be deprived upon it. It is equally valuable for adults and children and may be given to young children with implicit confidence as it contains no harmful drug. Sold by all dealers.
-
-cures of cold, and can always be de-
-pended upon. It is equally valuable for
-adults and children and may be
-given to young children with implicit
-confidence an it contains no harmful
-drug. Sold by all dealers.
+You are not experimenting on yourself when you take Chamberlain's Cough Remedy for a colds that preparation has won its great reputation and extensive sale by its remarkable cures of colds, and can always be depended upon. It is equally valuable for adults and children and may be given to young children with implicit confidence as if it contains no harmful drug. Sold by all dealers.
 
 COLORED MEN FIRST
-
-Dr. Jones was the first man to open
-an account with the postal savings bank
-in Monmouth, Ill. The Dr. is always
-first. He is one of Monmouth best
-citizens. He reads more journalis
-and magazines than any other man in
-Monmouth. His only son has just
-finished his musical course in Wilber-
-farrens college. D. J. Jones is the
-nosed house doctor and lyres at 914 So.
-Main street.
-
-Our city like Monmouth can boast of
-the best postal savings depot in the
+Dr. Jones was the first man to open an account with the postal savings bank in Monmouth, Ill. The Dr. is always first. He is one of Monmouth best citizens. He reads more rare journals and magazines than any other man in Monmouth. His only son has just finished his musical course in Wilberford's musical course. Dr. Jones is the noted house doctor and lives at 914 So. Main street.
+Our city like Monmouth can boast of the first postal savings depot in the
 
 person of Mr. Parker. This is very good, certainly the Negro will, soon be in it financially.
 
 ## ROCK ISLAND NEWS
 
-The thirty-fifth annual session of the Heroes of Jericho just closed a successful session here last Thursday evening with an installation.
+The thirty-fifth annual session of the Heroines of Jericho just closed a successful session here last Thursday evening with an installation.
 
 The session opened last Tuesday morning at 10 a.m. with the M. A. G. M., Mrs. Jennie A. Hatcher in the chair. The roll was called and the M. A. G. Matron proceeded to the regular business of appointing committees.
 
-The afternoon was spent in hearing the annual addresses which were very good and profitable. In the evening a reception was given the delegates and the following program was rendered. Prayer by Mrs. C. H. Marshall. Welcome address in behalf of M. Olive Court No. 33 by Althaud Moore. Welcome in behalf of the city by Mayor H. Schrivr. Vocal solo, Mrs. J. Gordin. Instrumental solo, Mrs. Jean Allen. Closing remarks, Mr. H. E. Burris. Wednesday morning the meeting was called on at 9 a.m., opened by prayer and song. The reports of courts were read, and visitors were introduced. Memorial services were in the afternoon.
+The afternoon was spent in hearing the annual addresses which were very good and profitable. In the evening a reception was given the delegates and the following program was rendered. Prayer by Mrs C. H. Marshall. Welcome address in behalf of Mt. Olive Court No. 88 by Althaud Moore. Welcome in behalf of the city by Mayor H. Shriver. Vocal solo, Mrs. J. Gordin, Instrumental solo, Mrs. Jean Allen. Closing remarks, Mrs. H. E. Burris. Wednesday morning the meeting was called on at 9 a.m., opened by prayer and song. The reports of courts were read, and visitors were introduced. Memorial services were in the afternoon.
 
-Thursday morning the meeting was called on by G. M. A. M. at 9 a.m. opened by song and prayer. Reports of committees and courts were furnished and the following were the Grand officers for the next day.
+Thursday morning the meeting was called on by G. M. A. M. at 9 a.m. opened by song and prayer. Reports of committees and courts were furnished and the following were the Grand officers for the next year:
 
-G. M. A. M. J. A. Hatches. G. J. M., Mrs. Sadie Cook. Secretary, Mrs Kate Burry. G. Treas, Mrs Lulu Slaughter. G. W. Joshn., Mrs Kidd. G. I. G. K., Mrs Susan Vaughn. G. I. G. K., Mrs Joseph Vaughn. 1st, G. C. D., Mr. J. E. Turner. 3d, G. C. D., Mr. J. E. Turner. 3d, G. C. D., Mr. Bhard Flood. The afternoon was spent in visiting the Colored Masonic Home which is located in South Rock Island on Rock River. The home was in perfect order. The visitors had song and prayer with inmates and bade them good bye and good luck. The evening was spent in installing the new officers which was conducted by Mrs. Ida Mcintosh Dempsey, P. G. M. A. M.
+G. M. J. M. Mrs. J. A. Hatches.
+G. J. M. J., Mrs. Sadie Cooper.
+G. Secretary, Mrs. Katie Barry.
+G. Treasures, Mrs. Lail Slaughter.
+G. W. Joshua, Mr. — Kidd.
+G. I. G. K. Mrs. Susan Vaughn.
+G. O. G. K. Mrs. Josephine Jones.
+1st, G. G. K., Mr. D. G. E. Turner.
+2d, G. C. K., Mr. J. W. Ingroham.
+3d, G. C. D., Mr. Bhard Flood.
+The afternoon was spent in visiting the Colored Masonic Home which is located in South Rock Island on Rock River. The home was in perfect order. The visitor had song and prayer with inmates and bade them good bye and good luck. The evening was spent in installing the new officers which was conducted by Mrs. Ida McIntosh Dempsey, P. G. M. A, M.
+P. G. M. A, M. Mrs. Ella Walkup, Mrs. Ella Wood and Mrs. Clara Curd, were visitors from Iowa, and also Mrs. Alice Richardson of Iowa, and Mrs. Brown of Missouri.
+The Iowa conference has closed in Des Moines and Rock Island has for their pastor Rev. Williams.
+Mrs. Ida Dempsey and Mrs. Monie Quarles with Mrs. A. Moore, visited the arsenal and Watch Tower, Friday morning. They left in the afternoon for their home in Chicago.
+Mrs. S. E. Cooper and Mrs. M. E. Minnard of Chicago left Thursday evening on a late train to attend the Iowa conference in Des Moines.
 
-P. G. M. A. M. Ella Walkup, Mrs. Wood and Mrs. Clara Curt, were visitors from Iowa, and also Mrs. Alice Richardson of Iowa, and Mrs. Brown of Missouri.
-
-The Iowa conference has closed in Des Moines and Rock Island has for their pastor Rev. Williams. Mrs. Ida Dempsey and Mrs. Momie Quarles with Mrs. A. Moore, visited the arsenal and Watch Tower, Friday morning. They left in the afternoon for their home in Chicago.
-
-Mrs. S. E. Cooper and Mrs. M. E. Minnard of Chicagogo last Thursday evening on a late train to attend the Iowa conference in Des Moines.
-
-Biliousness is due to a disordered stomach. Chamberlain's Tablets are essentially a stomach medicine, intended especially to act on that organ; to cleanse it, strengthen it, tone it; to banish it biosisse and effectually. For sale by all dealers.
+Biliousness is due to a disordered condition of the stomach. Chamberlain's Tablets are essentially a stomach medicine, intended especially to act on that organ; to cleanse it, strengthen it, tone and invigorate it to regulate the liver and to banish biliousness positively and effectually. For sale by all dealers
 
 ## DAVENPORT ITEMS.
 
@@ -126,19 +87,19 @@ of your life. A program in the auditorium and reception in the dining hall of th
 
 ## CLARINDA ITEMS.
 
-Rev. J. P. Sims, our pastor of the A. M. E. church, in our city last Saturday, and preached two very leremons Sunday. We give him welcome to our city.
+Rev. J. P. Sims, our pastor of the A. M. e. church, arrived in our city last Saturday, and preached two very leremons sunsong. We give him welcome to our city.
 
-A number of strangers were in our city last week attending the Page crunch. Mr. E. B. Cook left on Saturday for Albis, where they will open up their hamburger stand during the Monroe county fair.
+A number of strangers were in our city last week attending the Page county fair, and Mrs. E. B. Cook left on Saturday for Albia, where they will open up their hamburger stand during the Monroe county fair.
 
-Messrs. Jack and Lewis Arnett left Saturday for Alba, where they expect to be commanded by little Dewey Koots, whose home is in that city.
+Messrs. Jack and Lewis Arnelt left Saturday for Albia, where they expect to attend the fair.
 
-Mr. Henry Cock left for Omaha on Tuesday to attend the exhibit.
+The Buffalo Bill wild west show brought a number of strangers to our city Tuesday.
 
-Mrs. Etta Jones and daughter, Mary, of Red Oak, is visiting relatives in this city.
+Rev. J. H. Bell and family left last Saturday for Oakaloosa, where the Rev. will pastor this year. Mrs. Allen Jones left for Buxton week, he was accompanied by little Deway Koots, whose home is in that city.
 
-College Course in Pollution.
+Mr. Heary Cook left for Omaha on Tuesday for Buxton week, Mrs. Etta Jones and daughter, Mary, of Red Oak, is visiting relatives in this city.
 
-To Columbia university belongs the credit of offering the first course devised by Dr. John L. Knotts, a knowledge of the conduct of political affairs. That institution has asked the bureau of municipal research in New York to give the members of the class the benefit of the experience it has derived from the study of the affairs of that city, and the invitation has been accepted. The growing demand for the adoption of the scientific methods of city governments lends support to the view that college men will be in demand in this department of the public service, hence the university's versatility course established on the lines indicated by the innovation at Column bld.
+To Columbia university belongs the credit of offering the first course designed to give students a practical knowledge of the conduct of political affairs. That institution has asked the bureau of municipal research in New York to give the members of the class the benefit of the experience it has derived from the study of the political process, the invitation has been accepted. The growing demand for the adoption of the scientific methods of city governments lends support to the view that college men will be in demand in this department of the public service, hence the propriety and usefulness of a university course established on the lines located by the innovation as Column 1.
 
 ## Haitiana a Lazy Lot
 
@@ -166,7 +127,16 @@ not act as a leaver.
 
 ## Good for Billbusiness.
 
-"I took two of Chamberlain's Stomach and Liver Tablets last night, and I feel fifty per cent, than I have for weeks, says J. J, Firestone of Allegan, Mich. "They are certainly a fine article for billiousness." For sale by all dealers.
+"I took two of Chamberlain's Stomach and Liver Tablets last night, and I feel fifty per cent, than I have for weeks, says J. J. Firestone of Allegan, Mich. "They are certainly a fine article for billionaires." For sale by all dealers.
+
+FORD'S
+HAIR POMADE
+MARKS INDUSTRIAL OR CURT DAN
+LIMITED TO 200 PIEces.
+LIMITED TO 200 PIEces.
+LIMITED TO 200 PIEces.
+
+FOR PREVENTION AIR BROADCAST FOR CORRECT AND RECORD OF STAND INVOKEMENT OF METEORITE, SET THE GUIDING POINT UP IN CHARLES FORD'S NAME, ON A BOX.
 
 **THY FORDS RIVAL WREATH**
 SKIN LOTION FOR THE COMPLEXION,
@@ -182,9 +152,16 @@ CREAMED BY SUN.
 
 # Magic Hair Grower and Straightening Oil
 
-AME. JOHNSON & SOUTH
+MME. JOHNSON & SOUTH
 
-The most wonderful hair preparations on the market. When we saw them we do not exaggerate, as you can see great results in the hair few weeks after we have made up to stop the hair at once from falling and breaking off making it easier and silky. Marle Hair Grower grows hair on bald places of the head. You use these preparations once you will never be without them. Marle Hair Grower and Bishanghua卸油 are manufactured only by Meidanmei South & Johnson. We also do oil treating.
+The most wonderful hair preparations on the market. When we say
+Magie we do not exaggerate, as you can see great results in the first
+few minutes. We are not a hair grower to stop the hair at
+once from falling out and breaking off; instead, hard to work, hair off
+and silky. Magie Hair Grower grows hair on hard places of the head.
+If you use these preparations once you will never be without them. Magie
+Hair Grower and Brightening Oil are manufactured only by Meadam-
+South & Johnson. We also do scalp treating.
 
 TWITTERING ON ENL. BOOK
 
@@ -214,14 +191,8 @@ In the District Court of the State of Iowa, in and for Polk County, November ter
 In the District Court of the State of Iowa, in and for Polk County, November term, 1911, Silas Wade vs. ClarA Wade, Original Notice.
 To ClarA Wade, defendant, you are hereby notified that the petition of the plaintiff is filed in the office of the Clerk of the District Court of the State of Iowa, in and for Polk County, Iowa, claiming you a divorce from the bonds of matrimony, now existing between you, on the ground of willful desertion without cause, and unless you appear thereto and defend before noon on November 16, 1911, requesting the November term of said court, which will commence at Des Moines TWO. Bystander. Sept 21. R M C on the sixth of November, 1911, default will be entered against you and judgment and deference rendered thereon.
 
-on the sixth day of November, 1911,
-default will be entered against you and
-judgment and dearest rendered thereon.
-J. B. RUSH,
-Attorney for Plaintiff.
-
-TRI-STATE ALL HOME
-PHONE 2718 COOKING
+TRI-STATE
+PHONE 2718
 
 ALL HOME COOKING
 
@@ -231,9 +202,31 @@ Meals 25c up
 
 138 East Third St. St. Paul, Minn.
 
-The very best service guaranteed. Prices the lowest - Calls answered promptly day or night. No extra charges for distance-Reverse all phone charges. Phone East 2548.
+The very best service
+guaranteed. Prices the
+lowest Calls answered prompt-
+ly day or night. No
+extra charges for dis-
+tance-Reverse all
+phone charges.
+Phone East 2548.
 Office 519 East Court Des Moines Ia
-Magic Hair Grower a
+
+Magic Hair Grower and
+
+MME. JOHNSON & SOUTH
+
+The most wonderful hair preparations on the Magic we do not exaggerate, as you can see few treatments. We guarantee Magic Hair grows once from follicle, normal breaking off, making and silky. Magic Hair Grower grows hair on hair you use these preparations once you will never Hair Grower and Straightening Oil are manufactured South & Johnson. We also do scalp treating.
+
+MAGIC HAIR GROWER SOO.
+
+ALL orders promptly filled; send 10c for postage many all orders.
+
+AGENTS WANTED—WHITE
+
+```markdown
+
+```
 
 ## BUSINESS ESSENTIALS.
 
@@ -246,63 +239,64 @@ While some of our strongest and longest established business concerns have eithe
 
 ## Mare Earthquakes in France
 
-New Jersey Patentors
-Toulouse—Slight seismic shock
-scurred again Monday in Draugan,
-Vancisco and Puy-Ste-Repareda. No
-damage is reported, but the residents
-were pane-stricken.
+Toulou—Slight estimate shoots occurred again Monday in Dragneil, Vancluse and Fuy-Ste-Reparade. No damage is reported, but the residents
 
-60 YEARS' EXPERIENCE
+80 YEARS' EXPERIENCE
 PATENTS
-
 TRADE MARKS
-FROM COPYRIGHT & C.
-Anyone sending a sketch and description may
-be entitled to a patent for the invention. Probably patentable. Communica-
-tionation is probably patentable. Patent application
-free. Outset agency for securing patent. Patent
-stores, without charge, in the
+DESIGN
+COMPANY & G.C.
+Anyone sending a sketch and description may be credited in the Company's inventory is probably patented. Company's inventory is probably patented. Company's inventory is probably patented. Company's inventory is probably patented. Patents taken through G.C. receive free. Objection against securing patents. Patents taken through G.C. receive free. Objection against securing patents. In the United States, without patent.
 Scientific American.
-A permanently illustrated treaty. Expired
-circulation of any scientific journal. Tortus, $2 a
-year your monthly. $2 Bold by mail newadvert.
-MUNN & Co. $8 Broadway, New York
-Branch Office, G. P. St., Washington, I. G.
+A hardcover illustrated weekly. Targest circulation of a scientific journal. Term: $8. A mailing address: 101 Broadway, New York
+WUNN & Co. 81 St., Washington, D.C.
 
 ## WE SEND
 
-SWITCHES
-and COIFFURES
-All over the United States, Prepaid
 ON APPROVAL
 (Examination Free.)
 HIGH CLASS HAIR GOODS.
 MODERATE PRICES
-Send sample of hair with a few particulars; we will make an artistic selection and guarantee satisfaction. We send the hair to you prepaid on approval. If you find it perfectly satisfactory and a bargain remit the price. If not return at our expense.
-We offer a 22 inch switch, like cut, of natural wavy human hair to match any ordinary shade.....$1.98
-THE OLIVE HAIR CO., 608 Nie. Ave., Minneapolis, Minn.
+Send sample of hair with a few particulars; we will make an artistic selection and guarantee satisfaction. We send the hair to you prepaid on approval. If you find it perfectly satisfactory and a bargain remit the grice. If not return as our expense.
+We offer a 22 inch switch, like cut, of natural wavy human hair to match any ordinary shade..... $1.98
+THE OLIVE HAIR CO.,
+608 Nic. Ave., Minneapolis, Minn.
 
-and Straightening Oil
+market. When we saw great results in the first ro to stop the hair at arch stubborn hair soft in places of the head, without them. Marks secured only by Madame WESTING OH. BSC. 1 ge. Money must accompany for particular.
 
-Market. When we have great results in the first order to stop the hair in harsh strawborn hair soft and pliable of the hair, we do without them. Make it secured only by Measurable oil. BSC. Age. Money must accompany for particulars.
+We carry everything in the latest insushable 1.1* goods at the lowest prices.
 
-We carry everything in the latest fashionable hair goods at the lowest prices.
+We make switches, puffs, transformation curls, coronet brushes, and combings made to order, matching all shades a specialty. Send sample of hair with all orders.
 
-We make switches, puffs, transformation curtains, coronet braids, and combings made to order, matching all shades a specialty. Send sample of hair with all orders.
 2405 Blondo Street
-Phone Webster 880. Omaha, Nebr.
+Phone Webster 880. Nicole Nish
 
-When we first began our wonderful work of growing all kinds, all qualities all lengths, and all conditions of hair, even to the growing of hair on bald places of the head, many persons scorned the idea that such a thing was worth bleibt but we have grown the hair for hundreds; rapidly achieving success. The proof of the value of our work is that we are being imitated and largely by persons whose own hair we have actually grown and the further fact that they have very frequently mentioned us when trying to sell their goods (saying that theirs is the same or "just as good") or referred to PORO. We advise you to use only PORO Hair Grower, (the oldest and best of its kind.) See that the name PORO is on every box, not genuine without it. Prepared only by Mrs. M. POPE.
+THE ORIGINAL
+HAIR GROWER
+We Grew Our Hair,
+Now Let Us Grow
+Yours with
+PORO
+TRADE MARK
+REGISTERED
+
+When we first began our wonderful work of growing all kinds, all qualities,
+all lengths, and all conditions of hair, even to the growing of hair on bald
+places of the head, many persons scorned the ties such a thing was possible
+but we have grown the hair for hundreds; rapidly achieving success. The
+proof of the value of our work is that we are being imitated and largely by
+persons whose own hair we have actually grown and the further fact that they
+have very frequently mentioned us when trying to sell their goods (saying that
+theirs is the same or "just as good") or referred to PORO. We advise you to
+use only PORO Hair Grower, (the oldest and best of its kind.) See that the
+name PORO is on every bon, not genuine without it. Prepared only by Mrs
+A. M. POPE.
 
 # Watches....
 
 That you will be proud to carry and at prices that you can afford to buy.
 
-can learn
-- Come in and see the wonderful showing we are making on
-
-watches. If you are thinking of buying a watch now or later, your chance is here now. You will have no better opportunity this Spring. Crime in now and pick it out
+Come in and see the wonderful showing we are making on $10.00 to $32.00 watches. If you are thinking of buying a watch now or later, your chance is here now. You will have no better opportunity this Spring. Crime in now and pick it out Schlampp's
 
 Sixth and Locust St.
 
@@ -335,7 +329,7 @@ Dickena: There are not a few among the disciples of charity who require in their
 
 ## A Friend to Nagroes
 
-Low Arnts, the well known Doctor of Optics, believes in treating the colored people the same as whites. This is evidenced by the fact, he offers to sell or rent to black or white alike, his residence at 3215 Fourth St., Highland Park, which contains city water, sewer, gas, barn, etc., for $1250, on monthly payments of $10.
+Lew Arnts, the well known Doctor of Optics, believes in treating the colored people the same as whites. This is evidenced by the fact, he offers to sell or rent to black or white alike, his residence at 3215 Fourth St., Highland Park, which contains water, sewer, gas, barn, etc., for $1260, on monthly payments of $10. tf
 
 Published every Friday by the top stander Publishing Company, Des Moines, Iowa. Office in Chemical building, corner Seventh and Male beaches. Iowa phone, was 899.
 

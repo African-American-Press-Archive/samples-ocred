@@ -4,7 +4,23 @@ Our Fresh Meat Market Handles Nothing But the Highest Grade of Meats
 
 CLAYBORNE'S MARKET TENTH AND WASHINGTON BOULEVARD FAIRFAX 2682 J. H. CLAYBORNE, PROP.
 
-The Bouldin Cleaners have furnished printed programs for the Forum for two consecutive Sundays.
+Kansas City, Kansas.
+
+GROCERY
+STANDARD O
+FRESH A
+Our Fresh Meat
+Nothing But the
+of M
+Service A
+CLAYBORNE
+TENTH AND WASHI
+FAIRFAX 2682
+
+The Bouldin Cleaners have
+furnished printed programs for
+the Forum for two consecutive
+Sundays.
 
 Mr. Richard Spencer, 351 Everett avenue, was on the sick list this week.
 
@@ -17,7 +33,37 @@ In the District Court of Wyandotte County, Kansas.
 
 Rachel Rose, Plaintiff, vs. George Rose, Defendant.
 To George Rose:
-You are hereby notified that you have been sued by the above named plaintiff in the District Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court, of Wyandotte County, Ka
+You are hereby notified that you have been sued by the above named plaintiff in the District Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court, of Wyandotte County, Kansas, on or before the 2nd day of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of plaintiff granting him an absolute divorce of and from you, and for such other and further relief as the nature of the case may require and for costs.
+DORSEY GREEN,
+Atorney for Plaintiff.
+(First published Feb. 10, 1922.)
+
+PUBLICATION NOTICE
+In the District Court of Wyandotte County, Kansas. Division No. 3.
+Steel Turner, Plaintiff, vs. Robert M. Turner, Defended t. No 17718A.
+
+To Robert M. Turner, Greeting:
+You are hereby notified that you have been sued by your wife, Stella Turner, for a decree of divorce in the District Court of Wyandotte County, Kansas, or the grounds of gross neglect of duty, extreme cruelty and abandonment, and that unless you answer the petition of said plaintiff filed herein or before the 1st day of April, 1922, said petition will be taken as true and judgment will be rendered against granting said plaintiff an absolute d'voce she may be entitled to in equity.
+WM. H. TOWERS,
+Attorney for Plaintiff.
+(First published Feb. 17, 1922.)
+
+PUBLICATION NOTICE
+In the District Court of Wyna datte County, Kansas, Division No. 3.
+Edna Mae Berry, Plaintiff. vs.
+Ross Berry, Defendant. No. 17688A.
+To Ross Berry, Greeting:
+
+You are hereby notified that you have been sued by your wife, Edna Mae Berry, for a decree of divorce in the District Court of Wyandotte County, Kansas, on the grounds of gross neglect of duty, extreme cruelty and abandonment, and that unless you answer the petition of said plaintiff filed heroin or before the 1st day of April, 1922, said petition will be taken as true and judgment will be rendered against granting said plaintiff an absolute d'voice and such other and further relief as she may be entitled to in equity.
+
+WM. H. TOWERS,
+Attorney for Plaintiff.
+(First published Feb. 17, 192')
+
+PUBLICATION NOTICE
+In the City Court 2nd District, before D. C. McCombs, Judge in and for Kansas City Township Wyandotte County, Kansas.
+
+Robert Henry, Plaintiff, vs. A. D. Parron, Defendant.
 
 To the above named defendant, A. D. Parron:
 
@@ -35,31 +81,25 @@ Our pastor being on a week's visit in Texas, Rev. Alva Royston preached a good s
 
 ## IN SOCIETY
 
-Mrs. Forest is making a fine mation at the "Y."
-
+Mrs. Forest is making a fine matron at the "Y."
 Dr. E. L. Harrison and one of his daughters and his little son are visiting in Texas this week and will return Saturday, February 18.
-
 Miss Mildred Curry, on Nebraska avenue, has been quite sick, but is better.
-
 Mrs. J. W. Robinson, on James street, has been sick.
-
 Misses G. Wright, B. Scott, N. Steppe, C. Adams, M. Jones and L. Crump were ushers at the Forum Women's Day.
+Mrs. M. C. Matthews attended Lincoln's birthdav program at the white Methodist church Sundav night and was invited back by the pastor and trustees.
+A pleasant Valentine social was given at Mrs. A. Allsbrook's Tuesday evening. February 14.
 
-Mrs. M. C. Matthews attended Lincoln's birthday program at the white Methodist church Sunday night and was invited back by the pastor and trustees.
-
-A pleasant Valentine social was given at Mrs. A. Allsbrook's Tuesday evening, February 14.
-
-Mrs. N. P. Powell, 1016 New Jersey avenue, who has been in the hospital, is able to be out of which her friends are happy to see her being restored to health again.
+Mrs. N. P. Powell, 1016 New Jersey avenue, who has been in the hospital, is able to be out, of which her friends are happy to see her being restored to health again.
 
 Mrs. Harriet Allen of Russellville, Ala., is visiting her daughter, Mrs. G. W. White, and husband, 2061 North Third street. Mrs. Allen will spend several months here before returning to her southern home.
 
 Mrs. C. R. Johnson, 1964 North Sixth street, is confined to her room with chronical pneumonia. Her friends wish for her a speedy recovery.
 
-The Metropolitan Sewing Circle will have a unique ntertainment on March 17. All are invited to attend and reserve that date so you can attend.
+The Metropolitan Sewing Circle will have a unique ntertainment on March 17. All are invited to, attend and reserve that date so you can attend.
 
-The Advocate appreciated the renewals by money order from Mrs. Bettie Norman and Mrs. Stella Owens of Argentine, who never wait for time to elapse when due.
+The Advocate appreciated the renewals by money order from Mrs. Bettie Norman and Mrs: Stella Owens of Argentine, who never wait for time to elapse when due.
 
-Those who attended Lincoln Day banquet at Topeka from here Monday were: Judge I. F. Bradley, Sr.; Prof. J. P. King; Mr.-Wm. Boone and Lawyer Dorsey Green.
+Those who attended Lincoln Day banquet at Topeka from here Monday were: Judge I. F. Bradley, Sr.; Prof. J. P. King. Mr.-Wm. Boone and Lawyer Dorsey Green.
 
 Prof. G. B. Buster of Sumner High school, returned Monday from Wilmington, Ohio, where he had been called by the serious illness of his father. He left his father, as he hopes, on the road to recovery, of which Prof. Buster's friends here will be pleased to learn.
 
@@ -82,7 +122,7 @@ allow her?
 West-No. she gives me one!
 
 "What's his present salary?"
-"He save it never present long enough to know!"—Wayside Tales.
+"He says it's never present long enough to know!"—Wayside Tales.
 
 Views of One.
 "Then you think a man can't live entirely on permits?"
@@ -93,14 +133,25 @@ No Plain Ones.
 "Don't forget the women voters."—Louisville Courier-Journal.
 
 Early Indications.
-"I think my boy is sure to be President." "Play's a good game of golf, eh?"
+"I think my boy is sure to be President." "Plays a good game of golf, eh?
+
+Dry Goods.
+"Colonel, should a dry goods store sell soda water?"
+
+"Yes, I guess it's dry enough."
 
 Limitations of an Adage.
-"Man wants little here below," quoted Bolt. "That goes for trouble only," replied Nutt.
+"Man wants little here below." quoted Bolt. "That goes for trouble only," replied Nutt.
 
 ## No Chance
 
 "So you've been speculating in the market, have you?" "Not at all; I always lose my money on sure things."—Life.
+
+Motoristically Speaking.
+
+"Key, mister, this cheese sandwich."
+
+"Speatter with it?"
 
 "The gasket is too thin."—Farm Life.
 
@@ -118,9 +169,19 @@ Here is the original of all the mother-raww stories in the world:
 
 As Mr. Caveman was gnawing at a home in his cave one morning, Mrs. Caveman resisted in and said: "Quick! Get your club! Oh, quick!"
 
-"Saber-toothed tiger chasing mother!" gasped his wife.
+"Saber-toothed tiger chasing mother!" grasped his wife.
 
-Mr Caveman uttered an expression of annoyance. "And what the deuce," he assessed, "do I care what happens to a saber-toothed tiger?"
+Mr Caveman uttered an expression of annoyance. "And what the deuce," he asked. "do I care what happens to a saber-toothed tiger?"
+
+Decided.
+
+"Jones and I have made a bet, and you are to settle it. I say that"——
+
+"What are the terms of the wager?"
+
+"Oh, the loser is to buy a good dinner for the three of us. I claim that"——
+
+"Nemmine that. I never knew Jones to pay a bet. You lose."——Judge.
 
 ## Decided.
 
@@ -136,8 +197,12 @@ Never hit a man when he is down unless you are sure of your ability to keep him 
 
 One of the faults of antique furniture is that it needs a room about 20 by 30 to show it off.
 
-Office Phone Fairfax-0424
-Residence, Fifield 2802-W
+ADVANCE REALTY
+
+If you have plenty
+can sell you. If
+limited we will help
+buy. Let us be yo
 
 The English Winston.
 
@@ -179,13 +244,17 @@ Little Louise was recovering from a bit of fever and her appetite had begun to a
 
 ## Too Late.
 
-A New Englander, who is a hypochondriac and devotes much of his time in looking forward "to the end," was in a particularly depressed mood one day, when he said to his wife:
+A New Englander, who is a hypo-chondriate and devotes much of his time in looking forward "to the end," was in a particularly depressed mood one day, when he said to his wife:
 
 "When I am gone, dear, and that must be soon, you must marry again. It is my wish."
 
-"No, Henry," observed the wife, "no one will marry an old woman like me. You ought to have died ten years ago for that."
+"No Henry," observed the wife, "no one will marry an old woman like me. You ought to have died ten years ago for that."
 
 The fewer friends a man has the more popular he is with himself.
+
+Poverty often pinches the body and wealth sometimes pinches the soul.
+
+One who predicts thunderstorms isn't necessarily a lightning calculator.
 
 Some elopements are due to the fact that there are no wedding presents in sight.
 
@@ -201,11 +270,14 @@ Man is a creature who knows a lot but can hardly ever write it in a letter.
 
 Does any one know if there is a city ordinance which allows a city employee to work 40 hours per week while in the city's employ? Some employees have not been getting 40 hours per week. Can a man live and support his family on less?
 
-516 Minnesota Ave. Kansas City, Kans.
+INVESTMENT CO.
+
+of money anybody
+your finances are
+help you financially to
+ur agent - - - - -
 
 The Young Peoples' Guild, of tables." It was an enjoyable affair. A nice program was rendered. Mrs. Ira Jones is the president of this club.
-
-## SUBSCRIPTION AGREEMENT
 
 AGREEMENT between W. H. Lambright, Sr., President of the Lambright Coal & Fuel Co., a Kansas corporation, with its principal offices at 1620 North Third street, in the City of Kansas
 
@@ -213,34 +285,32 @@ City, Kansas, of the FIRST PART, and
 
 of.....hereinafter called "The Subscriber."
 
-WITNESSETH: W. H. Lambright, Sr., hereby agrees to sell to the subscriber, and the Subscriber hereby agrees to purchase (.....).....Shares of the Common Stock of the Lambright Coal & Fuel Co., such Common Stock being of the par value of Five ($5.00) Dollars per Share, at and for the sum of.....Dollars payable upon the execution of this contract, receipt whereof is hereby acknowledged.
+WITNESSETH: W. H. Lambright, Sr., hereby agrees to sell to the subscriber, and the Subscriber hereby agrees to purchase (.....).....Shares of the Common Stock of the Lambright Coal & Fuel Co., such Common Stock being of the par value of Five ($5.00) Dollars per Share.
+
+at and for the sum of.....Dollars payable upon the execution of this contract, receipt whereof is hereby acknowledged.
 
 It is further agreed that payment as above provided shall be made by the Subscriber, by check, draft, postoffice or express money order, payable to the Minnesota Avenue State Bank of Kansas City, Kansas, for the account of W. H. LAMBRIGHT, President, Lambright Coal & Fuel Co., and not otherwise.
 
-It is further agreed that upon receipt of said subscription money, said shares of stock will be mailed (registered) by the bank to the subssriber direct.
+It is further agreed that upon receipt of said subscription money, said shares of stock will be mailed (registered) by the bank to the subscriber direct.
 
 It is further agreed that no agreement or condition or statement not herein contained shall be binding upon either party hereto.
 
 City and State..... (Clip the above coupon, sign and mail.)
 
 6-room modern except heat; one block of Quindaro car line; $2300, $350 down; balance like rent.
-6-room strictly modern house near Tenth street and Everett avenue; $2700, $400 down.
-6-room modern except heat, near Fourth street and Nebraska avenue; $3200 on terms.
-9-room house on paved street, close to car line, only $1350; terms, $500 down.
 
-If you have property to sell list with us.
+6-room strictly modern house near Tenth street and Everett avenue; $2700, $400 down.
+
+6-room modern except heat, near Fourth street and Nebraska avenue; $3200 on terms.
+
+9-room house on paved street, close to car line, only $1350; terms, $500 down.
 
 # LAUNDRY PRICES REDUCED
 
-WET WASH
-20 LBS.
-85 CENTS
-
 JONES LAUNDRY CO.
 F. D. WILLIAMS, MANAGER
-
 900 Walker Avenue Phone Fairfax 2060
-Kansas City :- :- :- :- Kansas
+Kansas City -:- -:- -:- -:- Kansas
 
 BBell Clifton 0838—OFFICE PHONES—Fell Fairfax 1258
 
@@ -252,8 +322,6 @@ EYE, EAR, NOSE AND THHOAT
 GLASSES FITTED ACCURATELY
 428 MINNESOTA AVE. KANSAS CITY, KANSAS
 
-## B. I. WORTHY
-
 GROCERIES AND MEATS
 LET US SERVE YOU GOOD EATS. OUR MOTTO IS TO PLEASE
 WE DELIVER____PHONE FAIRFAX 2557
@@ -262,3 +330,91 @@ If We Please You, Tell Others; if not Tell Us
 
 HOME OR PROPERTY TO BUY OR SELL
 510 MINNEOTA AVE. PHONE FAIRFAX 0255
+
+## SUBSCRIPTION AGREEMENT
+
+AGREEMENT between W. H. Lambright, Sr., and Lambright Coal & Fuel Co., a Kansas corporate offices at 1620 North Third street, in the city, Kansas, of the FIRST PART, and
+
+the Subscriber."
+
+WITNESSETH: W. H. Lambright, Sr., heir to the subscriber, and the Subscriber hereby make (....) and for the sum of .....
+
+able upon the execution of this contract, reckonly acknowledged.
+
+It is further agreed that payment as above payable by the Subscriber, by check, draft, postal money order, payable to the Minnesota Avenue Kansas City, Kansas, for the account of W. H. President, Lambright Coal & Fuel Co., and not here.
+
+It is further agreed that upon receipt of money, said shares of stock will be mailed (reg. back to the subssriber direct.
+
+It is further agreed that no agreement or contract not herein contained shall be binding upon.
+
+In Witness Whereof, the parties have herewith and seas this day of
+
+back to be issued in Name of.....
+
+(Print in name)
+
+This contract is not valid unless countersigned by
+
+H. LAMBRIGHT, SR., President, Lambright
+
+Per.....
+
+Subscript
+
+Direct and Number
+
+City and State
+
+(Clip the above coupon, sign and maiden)
+
+THE REAL ESTATE BURGAGE
+
+529 STATE AVENUE. FAIRFAX
+
+FOR SALE
+
+6-room modern except heat; one block of Queen 100, $350 down; balance like rent.
+
+6-room strictly modern house near Tenth street; $2700, $400 down.
+
+6-room modern except heat, near Fourth street; $3200 on terms.
+
+9-room house on paved street, close to car lanes, $500 down.
+
+If you have property to sell list with us.
+
+LAUNDRY PRIC
+REDUCED
+
+WET WASH
+20 LBS.
+85 CENTS
+
+JONES LAUNDRY
+F. D. WILLIAMS, MANAGER
+900 Walker Avenue Phone Fain
+Kansas City :- :- :- :-
+
+BBell Clifton 0838—OFFICE PHONES—Bell Fain
+Office Hours—1 to 3 P. M.
+
+DR. M. G. BROOKINS
+Diseases and Surgery of
+EYE, EAR, NOSE AND TH
+
+GLASSES FITTED ACCURATE
+428 MINNESOTA AVE. KANSAS CITY
+
+## B. I. WORTHY
+
+GROCERIES AND ME
+T US SERVE YOU GOOD EATS. OUR MOTTO
+WE DELIVER--------PHONE FAIR
+CORNER TROUP AVENUE AND HALL
+If We Please You, Tell Others; if not T
+
+CALL W. R. JOHNSON &
+Concerning that
+HOME OR PROPERTY TO BUY
+
+Page Three.

@@ -37,12 +37,22 @@ Work Called for and Delivered.
 We do first class work. Ph. Wal. 7374
 1108 Center St. Des Moines, Iowa
 
+E. H. Haskins H. J. Haskins
+'The Store of Quality'
+HASKIN DRUG CO.
+Successors to E. L. Twining
+Prescriptions Carefully Compounded
+Mail Orders on all Preparations
+Promptly Filled
+Northwest Corner Eleventh and Center.
+
 ATHLETIC BARBER SHOP
 Hair Cutting by Electricity
 Cigars and Soft Drinks
 Shoe Shining
 919 Center
-O WELDON & STONE BROS., Props
+
+O. WELDON & STONE BROS..Props.
 
 ## C. M. E. CHURCH
 
@@ -58,8 +68,6 @@ Phone D. 572
 
 # Portia Robinson Hair Culturist and Manicuring
 
-Mme. C. J. Walker's System Residence Work a Specialty
-
 Mme. C. J. Walker's System
 Residence Work a
 Specialty
@@ -71,10 +79,6 @@ Funeral Directors
 117 East Walnut Street
 Phone Maple 2548
 LADY ATTENDANT
-
-117 East Walnut Street
-Phone Maple 2548
-LADY ATTENDANT
 Our Motto is "Service"
 
 THE FAMOUS
@@ -82,14 +86,6 @@ Iowa Cleaning Co.
 Cleaning, Pressing
 and Repairing
 Hats Cleaned and Re-blocked
-Shining Parlors for
-Ladies and Gents.
-Auto Delivery Service
-414 E.Walnut St. Phone M.462
-CHAS. O. WHITE, Mgr.
-
-Cleaning, Pressing and Repairing
-Hats Cleaned and Re-blocoded
 Shining Parlors for
 Ladies and Gents.
 Auto Delivery Service
@@ -115,41 +111,39 @@ Prescription Druggist
 
 # CITY NEWS
 
-# CITY NEWS
-
 By Ada F. Hyde
 
-Mrs. Elhona Gresham, of Cedar Rapids grand register of deeds of the Court of Calanthe, arrived in the city Monday on business in connection with the grand court which convenes in this city, June 22. While here she is the guest of Mrs. S. B. Bryant, 1012 Eighth St. Miss Victoria Epperson, sister of Miss Pinkie Epperson left Friday, April 23 for a four months visit in West Virginia.
+Mrs. Elhora Gresham of Cedar Rapids grand register of deeds of the Court of Calanthe, arrived in the city Monday on business in connection with the grand court which convenes in this city, June 22. While here she is the guest of Mrs. S, B. Bryant, 1012 Eighth St, Miss Victoria Epperson, sister of Miss Pinkie Epperson left Friday, April 23 for a four months visit in West Virginia.
 
-Mr. and Mrs. Wells of Moberly, Mo. are the house guests of Mrs. Chas. Wilson, 304 Arthur avenue
+Mr. and Mrs. Wells of Moberty, Mo. are the house guests of Mrs. Chas. Wilson, 304 Arthur avenue
 
-Mr. and Mrs. Sam Winnerow left Tuesday night to make their future home in Aitchison, Kansas, where he will enter the grocery business with his brother. They have resided in Des Moines for the past five years and have made many friends here who will regret their going.
+Mr. and Mrs. Sam Winnerow left Tuesday night to make their future home in Atchison, Kansas, where he will enter the grocery business with his brother. They have resided in Des Moines for the past five years and have made many friends here who will regret their going.
 
-Mr. A. A. Alexander left Monday night for a several days stay in Kansas City, Mo.
+Mr. A, A. Alexander left Monday night for a several days stay in Kansas City, Mo.
 
-Mrs. Helen Ricks Merritt of Iowa Falls, Iowa, who was the house guest of Miss Adah Hydie left week returned to her home Saturday night. Miss Hyde invited a few friends to meet Mrs. Merritt Friday night.
+Mrs. Helen Ricks Merritt of Iowa Falls, Iowa, who was the house guest of Miss Adah Hyde left week returned to her home Saturday night. Miss Hyde invited a few friends to meet Mrs. Merritt Friday night.
 
-Mr. H. E. Jacobs, 1238 Twentieth street is quite ill at his home.
+Mr. H, E. Jacobs, 1238 Twentieth street is quite ill at his home.
 
-Mrs. W. H. Lowery, who underwent an operation last week is rapidly recovering and is expected to leave the hospital this week.
+Mrs. W, H. Lowery, who underwent an operation last week is rapidly recovering and is expected to leave the hospital this week.
 
-Mrs. Louise Gray of Chicago arrived in the city Wednesday morning for a several week's visit with her father. Mr. Henry Clay, 1055 Seventeenth street.
+Mrs. Louise Gray of Chicago arrived in the city Wednesday morning for a several week's visit with her father, Mr. Henry Clay, 1055 Seventeenth street
 
-Friends in the city will be very sorry to learn that Mrs. William McGrander was taken to the Clarinda hospital for treatment last Tuesday. It is hoped that she will soon recover and be able to return to her home.
+Friends in the city will be very sorry to learn that Mrs. William McGruder was taken to the Clarinda hospital for treatment last Tuesday. It is hoped that she will soon recover and be able to return to her home.
 
-Mrs. Brown, coronetist and Mr. Anderson, trap drummer both of the Peek-A-Boo show and Mr. George Bell, noted violinist with Dysart's synecopated jazz orchestra were dinner guests of Mr. and Mrs. Raymond Dysart of 945 Fourteenth street Monday night.
+Mrs. Brown, coronist and Mr. Anderson, trap drummer both of the Peek-A-Boo show and Mr. George Bell, noted violinist with Dysart's syncopated jazz orchestra were dinner guests of Mr. and Mrs. Raymond Dysart of 945 Fourteenth street Monday night.
 
 NOTICE.
 
-Rev. Liles, pastor of Union Congregational church will preach at the morning services Sunday at 11 a.m. Vesper services will be held at 6:45 p. m.
+Rev. Liles, pastor of Union Congregational church will presch at the morning services Sunday at 11 a.m. Vesper services will be held at 6:45 p.m.
 
 AMERICAN LEGION DANCE.
 
-Lincoln post No. 126 of the American Legion will give a dance at Gibson hall, Seventh and Locust streets Friday evening, May 14, 1920. Music by Dysart's orchestra.
+Lincoln post No. 126 of the American Legion will give a dance at Gibson hall, seventh and Locust streets Friday evening, May 14, 1920. Music by Dysart's orchestra.
 
-Miss Virginia Robinson, secretary of the Tenth street branch Y, W. C. A. is spending a week's vacation with relatives and friends at Cleveland, O. Mrs. I. R. Willis is in charge of the center during her absence.
+Miss Virginia Robinson, secretary of the Tenth street branch Y. W. C. A. is spending a week's vacation with relatives and friends at Cleveland, O. Mrs. R. Willis is in charge of the center during her absence.
 
-Mrs. May Pride and son, Mr. Fenton Pride of Chicago are visiting their mother and grandmother, Mrs. Charles Burnaugh of 1039 Thirteenth street.
+Mrs. May Pride and son, Mr. Fenton Pride of Chicago are visiting their mother and grandmother, Mrs. Charles Buraugh of 1039 Thirteenth street.
 
 Rev. G. W. Robinson spent several days this week in Kansas City.
 
@@ -162,23 +156,32 @@ Mrs. Martha White of Indiana, state president of the Iowa Federation of Colored 
 # 5 ROOM HOUSE FOR SALE
 
 Water and gas, Price $1700 $200
-'own $20 per month call:
+Down $20 per month call:
+James B. Morris
+Phone W. 718 907 Wal. St.
 
 We arrange loans quickly and strictly privately on farnithre, pianos, and other personal property, without removal.
 
-PAY YOUR DEBTS with our money, and rep us in easy monthly payments. Write call or phone us for prompt, confidential and courteous service.
+PAY YOUR DEBTS with our money, and reprise us in easy monthly payments. Write call or phone us for prompt, confidential and courteous service.
 
-812 Century Bldg. Wal. 1456
-17 Wall Street Over Frankels'
-Clothing Store.
+Des Moines
+Loan Co.
+
+812 Centnry Bldg. Wal. 1486
+17 Wall Street Over Frankels' Clothing Store.
 
 ## Loans from $15 to $300
 
 Money to any resident of this city on short time notice. Don't worry about security. Just prove to us that your intentions are right.
-Pay in small monthly or week payments
+
+Pay in small monthly or week payments.
+
 See us today.
+
 M. ALIBER & CO.
+
 312-5 Utica Bldg.
+
 Market 693
 
 ## NOTICE.
@@ -206,20 +209,48 @@ Mrs. Arthur Esters was called to Alba, Iowa, last week on account of the illness
 
 An interesting wedding that took place on Palm Sunday March 28 was that of Mrs. Rhoda Fluelen and Mr. Colvin Howard. Rev. James Terrie grandson of the bride served as best man. The bride who came from Alabama about six months ago is the mother of Mrs. Retta Tounsse. The groom is a prominent citizen of Des Moines. They will be at home in the Keister Flats on West Eighteenth street.
 
-ROOSEVELT CLUB ENTERTAINS
-One of the most delightful affairs of the past week was the dancing party given by the Roosevelt club at Masonic ball Wednesday night. A large number of the friends of the club members enjoyed the dancing from nine until one. Dyarts Synecopated jazz orchestra furnished music for the dancing, Mr. Keckoon trap summer with the Peck-aboo band. A feature of the orchestra as well as the wonderful playing of George Bell, the noted violinist. Punch was survived throughout the evening.
+ROOSEVELT CLUB ENTERTAINING
+one of the most delightful affairs of
+the past week was the dancing party
+given by the Roosevelt club at Masonic
+ball Wednesday night. A large number
+of the friends of the club members
+enjoyed the dancing from nine until
+one. Dysarts Synecopated jazz orchestra
+furnished music for the dancing,
+Mr. Anderson trap drummer with the
+Peck-aboo show was an interesting
+feature of the orchestra as well as the
+wonderful playing of George Bell, the
+noted violinist. Punch was served
+throughout the evening.
 
-Peck-aboo show was an interesting feature of the orchestra as well as the wonderful playing of George Bell, the noted violinist. Punch was served throughout the evening. Mrs. George Young entertained forty guests at a card party Tuesday afternoon at her home on Sixteenth street.
-
-Mrs. George Young entertained forty guests at a card party Tuesday afternoon at her home on Sixteenth street. Eight tables were arranged for progressive whist, the prizes for which were won by Mrs. Colleen Jones, a sterling silver individual suit and pepper shaker for first prize, a cut glass berry bowl by Mrs. Azalia Mitchell for first prize and a candle holder and candle by Mrs. Harry Shaw for booby prize. At the close of the afternoon delicious sultana rolls, ice cream, angel food and sunshine cakes and coffee were served by the hostess, Mrs. Elnora Gresham of Cedar Rapids and Mrs. Pride of Chicago were out of town guests.
+Mrs. George Young entertained forty
+guests at a card party Tuesday afternoon
+at her home on Sixteenth street.
+Eight tables were arranged for
+progressive whist, the prizes for
+which were won by Mrs. Colleen
+Jones, a sterling silver individual saffron
+sapper shaker for first prize, a
+out glass bottle for by Mrs. Azalia
+Mitchell for first prize, and a candle
+holder and candle by Mrs. Harry Rapids
+for booby prize. At the close of the
+afternoon delicious sundaas, ice
+cream, angel food and sunshine cakes
+and coffee were served by the hostess,
+Mrs. Elma Grossehman of Cedar Rapids
+and Mrs. Pride of Chicago were out of
+town guests.
 
 BENEFIT CARD PARTY.
 
-The young ladies of the Terpisciorian club gave a benefit card party at Musonie hall on Friday night April 30. An enjoyable time was had by those present although the attendance was not as large as had been hoped for. Progressive whist was played at coeve tables. The prizes for high scores were awarded to Mrs. Andra Alexander, set of salad forks and a box of cigars to Mr. Alex Corcloud, Mrs. Naomi Booker and Mr. Hal Estes received the booby prizes a bottle of toilet water and an ash tray. Punch was served during the evening.
+The young ladies of the Terpsicorian club gave a benefit party at Masonville hall on Friday night April 10. An enjoyable time was had by those present although the attendance was not as large as had been hoped for. Progressive whist was played at a groove table. The prize for high scorers were to Mrs. Amelia Alexander, set of sald forks and a box of cigars to Mr. Alex Coulchand, Mrs. Naomi Booker and Mr. Hal Estes received the booby prizes a bottle of toilet water and an uph tray. Punch was served during the evening.
 
 NOTICE.
 
-C. C. Johnson, G. C. for the Iowa jurisdiction A. F. and A M. will make official visits to the following lodges on the following dates, with Cedar Grove No 18 May 11, Marble Grove, No. 16, May 12, Golden Star, No. 4, May 12 Union No. 1, May 14.
+C, C, Johnson, G, C, for the Iowa jurisdiction A, F, and A M, will make official visits to the following lodges on the following dates, with Cedar Grove No 18 May 11, Mable Grove, No. 16, May 12, Golden Star, No. 4, May 13 Union No. 1, May 14.
 
 Born to Mr. and Mrs. Joe Manning
 a nine pound boy, William Manning.
@@ -246,6 +277,8 @@ The Mary B. Talbert club will hold a popularity contest at the community center 
 Selection, community center juvenile orchestra No. 2 solo, Mr. Edward Guerrero, instrumental solo, Miss Enola Thompson, reading, Mrs. Mary Woods, quartet under the direction of Miss Etchel Bowmer, trio, Mr. and Mrs. Jackson and Mrs. W. H. Hughes, vocal solo, Mrs. Anna Griffith, vocal solo, Mrs. Joburners Kelso. The fledging event of the evening will be the crowning of the most popular lady as the queen of May.
 The Mary Church Terrell club met at the Y. W. C. A. center Monday night
 
+The Bystander
+
 ## SOCIETY.
 WEDDINGS.
 Fluenc-Howard
@@ -256,15 +289,52 @@ Fluenc-Howard
 
 ## CLUBS
 
-with Mrs. Pearl Thompson as hostess, Mrs Colleen Jones was elected delegate to the Iowa State Federation of Colored Women's club at Davenport and Mrs. Emerald Mash was elected alternate, Plans were made for a musicale to be given in the near future.
+with Mrs. Pearl Thompson as hostess,
+Mrs Colleen Jones was elected delegate
+to the Iowa State Federation of Colored
+Women's club at Davenport and Mrs.
+Emerald Mash was elected alternate,
+Plans were made for a musicale to be
+given in the near future.
+The Booster club gave a program
+Wednesday night which was well re-
+rendered consisting of a solo by Mrs. Joe
+Bernie Kelso. Remarks by Hon. H.
+Wright and a paper by Mr. N. C. Marshal.
+After which refreshments were
+served to the wives and visitors.
+The Intellectual Improvement club
+met Friday afternoon April 30 at the
+home of Mrs. S. Joe Brown, 1058 5 St.
+Mrs. S. Joe Brown, 1058 Fifth street.
+Mrs. Brown conducted the lesson on the
+suffrage outline. Mrs. Ralph Burnaugh
+was elected delegate and Mrs. William
+Bailey alternate to the Iowa state federation
+at Davenport.
+The Mary B. Talbert club entertained
+their friends at the Y. W. C. A. center
+Friday night, April 30 at a leap year
+party. Quite a large number enjoyed
+the pleasant evening. Refreshments were
+served.
+The regular meeting of the club was
+held Tuesday night at the home of Mrs.
+George Young on Eleventh street.
+The election of delegates resulted in Mrs.
+George Redmun and Mrs. Zelma Brown
+being elected delegates.
+The D. Y. W. Y. K. Art club met last
+Tuesday at the home of Mrs Simmons,
+503 South East Fifth street. The next
+meeting will be Tuesday, May 11 with
+Mrs. Toliver 1629 Walker street.
 
-The Booster club gave a program Wednesday night which was well rendered consisting of a solo by Mrs. Joe Perrine Kelso. Remarks by Hon. H. Wright and a paper by Mr. N. C. Marshall. After which refreshments were served to the wives and visitors.
+The Murcheal Neal club met Wednesday afternoon with Mrs. Jessie Hill, 815 Fourteenth street. The next meeting will be Wednesday, May 12 with Mrs. Davis, 127 Jefferson street.
 
-The Intellectual Improvement club met Friday afternoon April 30 at the home of Mrs. S. Joe Brown, 1058 5 St. Mrs. S. Joe Brown, 1058 Fifth street. Mrs. Brown conducted the lesson on the suffrage outline. Mrs. Ralph Burnaugh was elected delegate and Mrs. William Bailey alternate to the Iowa state federation at Davenport.
+The Calander club met at the home of Mrs. Emery Jackson, 1223 McKinley street, Friday, April 30.
 
-The Mary B. Talbert club entertained their friends at the Y. W. C. A, center Friday night, April 30 at a leap year party. Quite a large number enjoyed the pleasant evening, Refreshments were served.
-
-The regular meeting of the club was held Tuesday night at the home of Mrs.
+The Phyllis Wheaty Art club met Wednesday, May 5 at the home of Mrs. Lillian Burrell, 1020 Fourth street place, Mrs. Martha White of Indiana, president of the state federation was present and gave the club some interesting information concerning the federation and the girls home at Iowa City. The next meeting will be Wednesday, May 12 at the home of Mrs. M. Marmaduke. All members are asked to take. The Belt line car.
 
 ## NOTICE
 
@@ -334,11 +404,34 @@ Great spiritual awakening at Bethel A M E church East Des Moines, Iowa. Rev. S. 
 
 You are cordially invited to attend the services. Song and praise service begin at 7:30 p. m.
 
+R. N. Hyde & Son Co.
+821 13th Street
+Dealers in
+REAL ESTATE
+
 We have a large number of places for sale and houses to rent.
+
+an Call Your Own
+
+S oe thing You Can Call Y
 
 # Soething You Can Call Your Own
 
-siness Worth While:
+A31 business Worth While:
+The American Co-operative has been in operation over the has shown by its word that do business collectively.
+
+Now that spring has come better than ever. Besides you anxious to interest you in prany. Stock may be purchased per share.
+
+When visitors come to town place out one of the cololore of Des Moines The purchase or more shares of stock will "onr business" and a real cre
+
+In Co-operative Investment Co. operation over six months, and its word that colored people can collectively.
+
+ing has come business will be er. Besides your trade we are rest you in promoting the Comay be purchased at ten dollars
+
+come to town you point this of the coloured business houses
+The purchase by you of one of stock will enable you to say
+and a real credit to Des Moines
+
 The American Co-operative Investment Co. has been in operation over six months, and has shown by its word that colored people can do business collectively.
 
 Now that spring has come business will be better than ever. Besides your trade we are anxious to interest you in promoting the Company. Stock may be purchased at ten dollars per share.
@@ -347,23 +440,32 @@ When visitors come to town you point this place out one of the coloured business
 
 ## You Can Do Your Part By:
 
-Phoning or writing for information about stock, by telling others of the business and by trading at the store. American Co-operative Investment Co. Inc. 919 Center Street Des Moines, Iowa
+Phoning or writing for in stock, by telling others of the trading at the store.
+
+American Co-operative Investm
 
 919 Center Street
 Des Moines, Iowa
+
+JOHN L. THOMPS
+
+writing for information about
+eng others of the business and by
+store.
+
+Save Investment Co. Inc.
+Enter Street
+Lines, Iowa
+
+THOMPSON
+
+Phoning or writing for information about stock, by telling others of the business and by trading at the store. American Co-operative Investment Co. Inc. 919 Center Street Des Moines, Iowa
 
 JOHN L. THOMPSON
 ATTY.-AT-LAW
 REAL ESTATE A SPECIALTY
 Buy Sell and Rent Property
 Room 202 Watrous Block 6th and Mulberry
-
-AGENTS. WANTED!
-$3 to $12 Per Day made selling PROF. KELLY MILLER's new
-Progress of Colored People
-Teachers, students, male or female, ministers, widows, married women, any one with spare time, can
-make $1 per hour. Everybody buys; it's easy to sell. Send for terms and outfit at once; act today.
-AUSTIN JENKINS COMPANY, 525 Ninth Street WASHINGTON, D.C.
 
 $3 to $12 per Day made selling PROF. KELLY MILLER's new Progress of Colored People Teachers, students, male or female, ministers, widows, married women, any one with spare time, can make $1 per hour. Everybody buys; it's easy to sell. Send for terms and outfit at once; act today. AUSTIN JENKINS COMPANY, $25 19th Street WASHINGTON, D.C.
 
@@ -400,10 +502,10 @@ Minnesota are visiting her sister, Mrs.
 Frank Hill.
 Opportunities are very good for the
 
-Room 202 Watrous Block
+A
 
 ## BETHEL A. M. E. CHURCH
 
 Phone W. 6254
 
-6th and Mulberry
+8

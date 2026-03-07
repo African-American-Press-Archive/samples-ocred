@@ -80,9 +80,6 @@ CLINTON ITEMS
 
 ## IOWA CITY, IOWA Delta, Sigma Theta
 
-## IOWA CITY, IOWA
-Delta Sigma Theta
-
 ## OSKALOOSA ITEMS.
 
 tion is critical.
@@ -124,13 +121,13 @@ Miss Grooms has been quite successful in a business way and gives this prize in 
 
 It recalls to mind the legacy left Piney Woods by a successful citizen of Keokuk, the late Mr. Selby Johnson, whose memory will always be cherished by those who love to do good.
 
-Washington, D. C.—More than a thousand persons attended the meeting of the National Association for the Advancement of Colored People held in the Metropolitan Baptist church, at which meeting James Weldon Johnson spoke on "The Haytian Atrocities." Mr. Johnson gave first hand information, having made a careful study of the situation while he was on the island. It will be noted that a court of inquiry appointed by the secretary of the navy to investigate charges which have been made in connection with the American occupation of the island will probably leave Washington for Haiti in the near future. Major Jesse F. Dyer, United States Marine corps, stated that he had contemplated calling the Rev. Tom L. Evans, a Baptist missionary, as a witness, but the Rev. Mr. Evans is alleged to have since stated that he had no personal knowledge of instances of ill treatment of the natives by Americans of the expeditionary forces in Haiti, but that he would furnish the court a list of the names of the persons who had supplied him with the information.
+Washington, D. C.—More than a thousand persons attended the meeting of the National Association for the Advancement of Colored People held in the Metropolitan Baptist church, at which meeting James Weldon Johnson spoke on "The Haytian Atorescens." Mr. Johnson gave first hand information, having made a careful study of the situation while he was on the island. It will be noted that a court of inquiry appointed by the secretary of the navy to investigate charges which have been made in connection with the American occupation of the island will probably leave Washington for Haiti in the near future. Major Jesse F. Dyer, United States Marine corps, stated that he had contemplated calling the Rev. Tom L. Evans, a baptist missionary, as a witness, but the Rev. Mr. Evans is alleged to have since stated that he had no personal knowledge of instances of ill treatment of the natives by Americans of the expeditionary forces in Haiti, but that he would furnish the court a list of the names of the persons who had supplied him with the information.
 
-As a result of the effort of the new superintendent, Dr. Frank O. Ballon, to have the best possible school conditions obtain in the city, it is stated that serious conditions of overcrowding are tolerated in the luretia Mott building (colored). The building although of recent construction and the largest colored grade school in the system is found to be lacking in several particulars. The building was erected to accommodate 600 pupils, there are more than twice that number crowded therein.
+As a result of the effort of the new superintendent, Dr. Frank O. Ballon, to have the best possible school conditions obtain in the city, it is stated that serious conditions of overcrowding are tolerated in the luretta Mott building (colored). The building although of recent construction and the largest colored grade school in the system is found to be lacking in several particulars. The building was erected to accommodate 600 pupils, there are more than twice that number crowded therein.
 
 Miss Jane Hunter, a prominent worker in the interest of the Young Women's Christian Association of Cleveland, O., delivered an interesting talk on her work at the vesper service of the local Y. W. C. A. Miss Hunter has been traveling through the south, studying industrial conditions as they relate to the young colored working girl.
 
-Miss Jane Hunter, a prominent worker in the interest of the Young Women's Christian Association of Cleveland, O., delivered an interesting talk on her work at the vesper service of the local Y. W. C. A. Miss Hunter has been traveling through the south, studying industrial conditions as they relate to the young colored working girl. Neval H. Thomas, well known educational and civic circles held an audience of white hearers spellbound while he addressed the secular league on "The Political Rights of the Negro as a Citizen of the United States."
+Neval H. Thomas, well known educational and civic circles held an audience of white hearers spellbound while he addressed the secular league on "The Political Rights of the Negro as a Citizen of the United States."
 
 ## OBITUARY
 
@@ -205,7 +202,26 @@ The services last Sunday were largely attended. The pastor was at his best. The 
 
 Mrs. J. H. Creston at 231 Arthur avenue was operated on last Tuesday at Mercy hospital. She is doing nicely. The Mother league will meet Sunday at 5 p. m. Mrs. Lucy James will read a
 
-paper on "Happiness is the Stepping Stone of Life." "Dora Thorn" one of the greatest dramas that has ever been presented to the public will be given by a splendid caste by the Corinthian Herald association, Mrs. M. Crawford, superintendent. The pastor requests that all auxiliaries of the church elect their officers for the incoming year.
+Home life is more cheerful by eliminating hard work and worry on wash day.
+
+The 1900 Cataract Electric Washer
+
+Washes clean, quickly economically and with less wear on the clothes.
+
+Free Home Demonstration Easy Payments
+
+The water swirls through the clothes four times as often as in the ordinary washer.
+
+CALL
+
+DES MOINES ELECTRIC COMPANY
+Walnut 5300 — 8th and Locust
+
+THE BYSTANDER
+
+Two a son a son we him. We mail he re-continued 1918 high suf- cheerful paper on "Happiness is the Stepping Stone of Life." "Dora Thorn" one of the greatest dramas that has ever been presented to the public will be given by a splendid cast by the Corinthian Herald association, Mrs. M. Crawford, superintendent. The pastor requests that all auxiliaries of the church elect their officers for the incoming year.
+
+## ST. PAUL A. M. E.
 
 The attendance was fair on the 14th. The most notable feature of the hour was the presence of many visitors, of which we were proud. In keeping with our promise we shall endeavor to give you a brief report of our rummage sale which at 6:30 p. m. Oct. 23 and closed Oct. 30 about 11 p. m. The receipts were as follows: Oct. 23, $45; Oct. 25, $43.55; Oct. 26, $9.95; Oct. 27, $12.05; Oct. 28, $12.05; Oct. 29, $10.25; Oct. 30, $43.10; by cash donation, $2.05; total receipts $177.70.
 
@@ -237,45 +253,27 @@ Rev. H. C. Claybrook, master of cer
 Program of South East Union Thanksgiving service to be held at Kyle's M. E. church.
 Opening by the choir of Kyle's chapel. Prayer.
 Music by choir.
-Scripture... Bro. J. D. Wellington
-Music... Shiloh Choir
-Reading of Proclamation...
-Miss Clara Smith
-Music... Shiloh Choir
-Sermon... Rev. E. S. Hardge
-Prayer.
-Appeal... Rev. Saunders
-Closing remraks... Rev. G. E. Green
-Rev. G. E. Green, master of ceremonies.
+Scripture.....Bro, J. D. Wellington Music.....Shiloh Choir
+Reading of Proclamation.....
+.....Miss Clara Smith Music.....Shiloh Choir
+Sermon.....Rev. E. S. Hardge Prayer.
+Appeal.....Rev. Saunders Closing remaks.....Rev. G. E. Green Rev. G. E. Green, master of ceremonies.
 
 Program West Side Union Thanksgiving services held with St. Paul A. M. E. church.
-Opening Chorus... Corinthian Choir
-Scripture Lesson... Rev. G. W. Robinson
-Music... Choir
-Prayer... Bro. E. S. Morgan
-
-Home life is more cheerful on the 1900s Electric
-Washes clean, quickly eco
-Free Home Demonstration
-Easy Payments
-
-The water swirls through the clothes four times as often as in the ordinary washer.
-
-CALL
-DES MOINES ELEC COMPANY
-Walnut 5300 — 8th and Locust
-
-## ST. PAUL A. M. E.
+Opening Chorus.....Corinthian Choir Scripture Lesson.Rev. G. W. Robinson Music.....Choir
+Prayer.....Bro, E. S. Morgan
 
 # Idlewild Boosters' Meeting Monday November 22nd
 
-Tenth and I
-Lecture on Beautiful Idlewil
+At Union Congregational Church
+Tenth and Park Streets
+Lecture on Beautiful Idlewild and Slides
 Idlewild.
-Mr. Lemon, one of the owners
+Mr. Lemon, one of the owners of the land, v
 J. L. Carter, Rep.
-Everybody
-Music ..... Choi
+Everybody Welcome.
+
+Music ..... Choir charges. There
 
 Lecture on Beautiful Idlewild and Slides Showing Views of Idlewild. Mr. Lemon, one of the owners of the land, will be present and J. L. Carter, Rep.
 
@@ -291,31 +289,19 @@ Rev. T. J. Jones master of ceremo-
 
 ## BIG MUSICAL SHOW COMING.
 
-The biggest musical attraction that hms invaded the west since pre-war days is now en route from San Francisco and Los Angeles to New York. Theatre-goers in this section will have an opportunity to see this attraction, the Marcus Show of 1920, during its engagement in Des Moines at the Berchel theatre for three days starting Thanksgiving day, matinee, November 25th.
+The biggest musical attraction that hmas invaded the west since pre-war days is now en route from San Francisco and Los Angeles to New York. Theatre-goers in this section will have an opportunity to see this attraction, the Marcus Show of 1920, during its engagement in Des Moines at the Berchel theatre for three days starting Thanksgiving day, matinee, November 25th.
 
 There are nearly one hundred persons engaged. Many of these are the famous Marcus Peaches. There is a special orchestra and it requires a special train of three baggage cars and an equal number of Pullmans to transport the big organization.
 
-Not in years has an attraction made such an unqualified hit on the coast as that enjoyed by the Marcus Show. But few cities are being visited between the coast and New York where the Marcus Show inaugurates its metropolitan engagement early next month.
+Not in years has an attraction made such an unqualified hit on the coast that enjoyed by the Marcus Show. But few cities are being visited between the coast and New York where the Marcus Show inaugurates its metropolitan engagement early next month.
 
 In commenting on the attraction the San Francisco Examiner of September 21, had the following to say:
 
-"A musical revue with a sort of indoor circus tone and liveliness of action, the Marcus Show of 1920, won the approval of an audience that last night filled the Columbia.
+"A musical revue with a sort of indoor circus tone and livelihood of action, the Marcus Show of 1920, won the approval of an audience that last night filled the Columbia.
 
 Girls, gorgeous costumes and agreeable comedy are the features, and though it seems to have been the intention of the producers to give an advance impression that the show might engage the attention of the censor, if such an official still be among us, there was nothing to seriously warrant objection.
 
-It must have cost the managers a lot of money to bring this big organization of girls out from the higher railroad rates now in force. Considerable has been saved by doing away with tights, but this item alone cannot offset the increased transportation
-
-be cheerful by eliminating hard on wash day.
-
-The 1900 Cathedral Electric Wash is quickly economically and with the clothes.
-
-Demonstration Payments
-
-S ELECTRIC
-PANY
-8th and Locust
-
-At Union Congregational Church
+It must have cost the managers a lot of money to bring this big organization of girls out from the east with the higher railroad rates now in force. Considerable been saved by doing away with tights, but this item alone cannot offset the increased transportation
 
 Park Streets
 and Slides Showing Views of
@@ -357,3 +343,7 @@ Better Selection.
 Mrs. Peavish says she feels confident that Mr. Peavish will never acquire another bad habit, as it takes all his waking hours to practice those he already has, and when he is asleep he snores.—Dallas News.
 
 ## A Double Disaster.
+
+ST
+edi
+ed

@@ -92,6 +92,15 @@
 </div>
 
 <script>
+const R2_BASE = 'https://pages.dangerouspress.org';
+function cdnUrl(issueName, filename) {
+  const idx = issueName.lastIndexOf('_');
+  const paper = issueName.substring(0, idx);
+  const date = issueName.substring(idx + 1);
+  const year = date.substring(0, 4);
+  return `${R2_BASE}/${paper}/${year}/${date}/${filename}`;
+}
+
 let issues = [];
 let currentSort = 'date';
 
@@ -121,7 +130,7 @@ function renderGrid(filtered) {
     const info = parseIssue(issue.name);
     return `<div class="issue-card">
       <a href="${issue.name}/index.html">
-        <div class="thumb"><img src="${issue.name}/images/page_01.jpg" loading="lazy" alt="${info.paper}"></div>
+        <div class="thumb"><img src="${cdnUrl(issue.name, 'page_01.jpg')}" loading="lazy" alt="${info.paper}"></div>
         <div class="info">
           <div class="paper">${info.paper}</div>
           <div class="date">${info.date}</div>

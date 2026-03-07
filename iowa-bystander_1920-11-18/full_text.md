@@ -7,38 +7,60 @@
 
 # Negro Prisoner Lynched In Tenn-
 
-## Chapters To Be Established In New York, Maine, Illinois and California
+and not see your name in the honoramous (Ohio) state court before Christ to keep diseases of the chest at bay, says a writer in the Phil- cent. of persons of African birth or des- made at a meeting of colored profes- short and pointed remarks greatly en-
 
-KLU K
+FOR THE BAD YOU DO
+READ OTHER PAPERS
+FOR THE GOOD YOU DO
+READ THE BYSTANDER
+
+KLU KL
+
 Negro
-Chapters To Be
-In New
-Illinois
 
-New York, Nov. 3.—Announcement from the Ku Klux Klan, with headquarters in Atlanta, Ga., that they are planning an organization for the north beginning this month and a parade of the members of the society through the city of Jacksonville, Fla., were the outstanding events this week in the event of the cracker south to revive this infamous organization.
+Chapters To Be Established In New York Illinois an
 
-Announcement of New York branch was contained in a letter written to a business man who wrote for information about the society.
-
-The communication was written from the "Imperial Palace of the Invisible Empire of the Knights of the Ku Klux Klan, Atlanta, Ga," and was signed by Edward Young Clarke, "imperial Kleagle."
-
-"We expect to start an organization of work in New York state in November," the writer said. "We have in mind about 300 men in New York City whom we expect to honor by bringing into the initial organization in New York City. We are receiving letters from Maine, Illinois, Missouri, and California to send organizers to those places to begin work."
-
-Men of southern origin are the only ones who would be eligible to join what the "K. K. K." terms the "most sublime lineage in all history."
-
-Attached to the letter was a questionnaire which the applicant for membership was supposed to fill out and return to the "Kligrapp of the Great Wizard of the Invisible Empire" at the Silver Building in Atlanta. The "necessary interrogatories," as they were termed, were numerous, including queries as to age, education, race, occupation, birthplace, religion, and questions like "Do you believe in the principles of pure Americanism and "Do you believe in white supremacy in politics?"
-
-## Activity in South Carolina.
-
-Hooded night riders in long flowing white 'night gowns appeared in South Carolina last week to force farmers to reduce the rates of cotton picking and to compel thousands of people to work. White caps, several hundred strong, have ridden into several towns in the state, principally in Florence county, and as a result the cotton fields the next day were thick with cotton-pickers and the housewives have all the help they need, in the way of cooks and washerwomen. Farmers now see a way out of the ruin which faced them by having their crops spoil in the field
+## Chapters To Be Established In New York, Maine, Illinois and California
 
 New Orleans To Hear W. G. Harding Before He Sails
 
-President-Elect Continuues Effort Obliterate Sesturalism In U. S.
+President-Elect Continuues Effort Obliterate Sestionalism In U. S.
 
-(By The Associated Press.)
-Point Isabel, Texas, Nov. 12—President-elect Harding, whose outing at Point Isabel next Wednesday, has agreed to deliver an address in New Orleans on the following day just before he sails for the Panama. He is expected to discuss in particular the economic possibilities and requirements of the new south and the need for a national industrial policy uninfluenced by sectional interests.
+NEGROE
 
-Senator Harding's decision to accept the New Orleans speaking invitation means that in consonance with his oft-repeated ambition to obliterate sectionalism, his first three formal addresses as president-elect are to be delivered within the territory of the old confederacy and in states that long have been pillars of the domacrative solid south.
+London coast Neg fortunes. cocoa gave into business. More t and Europe than $200 more pros. Although who can s dinner is
+
+CEN
+
+The public reception extended by Mr. L. Shelton and M. Tracy E. Blagburn owners of the new drug store located at Tenth and Center streets was a grand success. Throughout the afternoon and evening several hundred citizens both white and colored came to admire and to patronize the model up to date drug store. This store is a credit to our race and these two worthy young men should be complimented for this great undertaking; and the colored citizens of the city should see to it that by their patronage and encouragement this worthy enterprise will flourish.
+
+Mr. Frank Blagburn, who for a number of years was an employee in the recorder of deeds office at Washington, D. D., is manager of the drug store and Mr. Lee Blagburn of Denver will be in charge of the soda fountain department.
+
+---
+
+VOL. XXVI. NO. 21.
+
+New York. Nov. 3.—Announcement from the Ku Klux Klan, with headquarters in Atlanta, Ga., that they are planning an organization for the north beginning this month and a parade of the members of the society through the city of Jacksonville, Fla., were the outstanding events this week in the event of the cracker south to revive this infamous organization.
+
+Announcement of New York branch was contained in a letter written to a business man who wrote for information about the society.
+
+The communication was written from the “Imperial Palace of the Invisible Empire of the Knights of the Ku Klux Klan, Atlanta, Ga,” and was signed by Edward Young Clarke, “imperial Kleagle.”
+
+“We expect to start an organization of work in New York state in November,” the writer said. “We have in mind about 300 men in New York City whom we expect to honor by bringing into the initial organization in New York City. We are receiving letters from Maine, Illinois, Missouri, and California to send organizers to those places to begin work.”
+
+Men of southern origin are the only ones who would be eligible to join what the “K. K. K.” terms the “most subline lineage in all history.”
+
+"Attached to the letter was a questionnaire which the applicant for membership was supposed to fill out and return to the "Kligrapp of the Great Wizard of the Invisible Empire" at the Silver Building in Atlanta. The "necessary interrogatories," as they were termed, were numerous, including queries as to age, education, race, occupation, birthplace, religion, and questions like "Do you believe in the principles of pure Americanism and "Do you believe in white supremacy in politics?"
+
+## Activity in South Carolina.
+
+Hooded nightriders in long flowing white'night gowns appeared in South Carolina last week to force farmers to reduce the rates of cotton picking and to compel thousands of people to work. White caps, several hundred strong, have ridden into several towns in the state, principally in Florence county, and as a result the cotton fields the next day were thick with cotton-pickers and the housewives have all the help they need, in the way of cooks and washerwomen. Farmers now see a way out of the ruin which faced them by having their crops spoil in the field
+
+(By The Associated Press)
+
+Point Isabel, Texas, Nov. 12.—President-elect Harding, whose outing at Point Isabel ends next Wednesday, has agreed to deliver an address in New Orleans on the following day just before he sails for the Panama. He is expected to discuss in particular the economic possibilities and requirements of the new south and the need for a national industrial policy uninfluenced by sectional interests.
+
+Senator Harding's decision to accept the New Orleans speaking invitation means that in consonance with his oft-repeated ambition to obliterate sectionalism, his first three formal addresses as president-elect are to be delivered within the territory of the old confederacy and in states that long have been pillars of the democratic solid south.
 
 The first of these addresses was delivered in Brownsville, Texas, Thursday and the third has been scheduled for Dec. 5, at Bedford, Va.
 
@@ -46,7 +68,9 @@ Speeches outside American territory are to be avoided, and Mr. Harding indicated
 
 ## Other Days.
 
-Until a New Jersey man tried to corner the potato crop of his neighborhood the mosquito was considered the most undesirable predatory insect produced in that section of the country. Washington Star
+Until a New Jersey man tried to corner the potato crop of his neighborhood the mosquito was considered the most undesirable predatory insect produced in that section of the country—Washington Star.
+
+A PAPER WITH A CLEAN POLICY The Bystander A WEEKLY FOR THE PEOPLE AND BY THE PEOPLE
 
 for lack of pickers.
 
@@ -56,9 +80,9 @@ The White Caps appeared in Lake City last night for a second time. First they ca
 
 "White Supremacy" was the real reason of the Ku Klux parade in Jacksonville, Florida last Saturday afternoon when an attempt was made to frighten the Negro voters who certain white factions felt, are growing to be too much of a political power in the state. More colored women than white registered in Jacksonville.
 
-The parade, notice of which was given several days in the newspapers, was made the subject of urgent representations by national Negro organizations who pled with the police department and also the state officials not to permit the parade. As no motion was made in any quarter to comply with the Negro requests, it was small wonder that when the long white robed parade came in right down the main street there were very few if any colored people abroad, either in the business section, or within any part of the city. With the coming of darkness most of the Negro population got indoors.
+The parade, notice of which was given several days in the newspapers, was made the subject of urgent representations by national Negro organizations who plied with the police department and also the state officials not to permit the parade. As no motion was made in any quarter to comply with the Negro requests, it was small wonder that when the long white robed parade came in right down the main street there were very few if any colored people abroad, either in the business section, or within any part of the city. With the coming of darkness most of the Negro population got indoors.
 
-The notice of the parade stated that members of the Ku Klux Klan from neighboring cities would take part. It also stated that it would be useless to attempt to escrime who the members of the Klan were. As a matter of fact, no one even vouchsafes the information as to where the Klan assembled or where it disbanded.
+The notice of the parade stated that members of the Ku Klux Klan from neighboring cities would take part. It also stated that it would be useless to attempt to escrimen who the members of the Klan were. As a matter of fact, no one even vouchsafes the information as to where the Klan assembled or where it disbanded.
 
 The Ku Klux Klan is the most dangerous tendency in the American life today and ought to be stamped out by local, state, and federal authority, says James Weldon Johnson, field secretary of the National Association for the Advancement of Colored People, 70 Fifth avenue, which has had investigators in the south gathering information on the subject. "The avowed purpose of the invisible empire is to keep the Negro from the rights of common citizenship, even if threats of bloodshed have to be resorted to."
 
@@ -73,10 +97,6 @@ Jackson, Miss., Nov. 12.-Mississippi has a population of 1,789,182. This is 7,93
 
 ## Grand Opening of Balgburn and Shelton
 
-The public reception extended by Mr. L. Shelton and M. Tracy E. Blagburn owners of the new drug store located at Tenth and Center streets was a grand success. Throughout the afternoon and evening several hundred citizens both white and colored came to admire and to patronize the model up to date drug store. This store is a credit to our race and these two worthy young men should be complimented for this great undertaking; and the colored citizens of the city should see to it that by their patronage and encouragement this worthy enterprise will flourish.
-
-Mr. Frank Blagburn, who for a number of years was an employee in the recorder of deeds office at Washington, D. D., is manager of the drug store and Mr. Lee Blagburn of Denver will be in charge of the soda fountain department.
-
 ## A. Worth While Habit
 
 "It is worth a thousand pounds a year to have the habit of looking on the bright side of things."—Samuel Johnson—
@@ -88,6 +108,8 @@ Born 1858 --Died
 
 President Wilson's
 lamat
+
+NORTHWESTERN CHURCH
 
 # President Wilson's Thanksgiving Proc-
 
@@ -118,17 +140,21 @@ Said the near cynic: "Judging from the time some of the young blood of this town
 
 ## A Question.
 
-Thanksgiving Proc-tion.
+Washington
+ed Nov. 14, 1915
+Thanksgiving Proc-
+tion.
 
 steady vindication in the support of a law-abiding people against various and sinister attacks, which have reflected only the baser agitation of war, now happily passing.
 
-“In plenty, security and peace, our virtuous and self-reliant people face the future, its duties and its opportunities. May we have vision to discern our duties; the strength, both of hand and resolve, to discharge them; and the soundness of heart to realize that the truest opportunities are those of service.
+"In plenty, security and peace, our virtuous and self-reliant people face the future, its duties and its opportunities. May we have vision to discern our duties; the strength, both of hand and resolve, to discharge them; and the soundness of heart to realize that the truest opportunities are those of service.
 
-“In a spirit, then, of devotion and stewardship we should give thanks in our hearts, and dedicate ourselves to the service of God’s merciful and loving purpose to His children.
+"In a spirit, then, of devotion and stewardship we should give thanks in our hearts, and give ourselves to the service of God's merciful and loving purpose to His children.
 
-“Wherefore, I, Woodrow Wilson, president of the United States, do hereby designate Thursday, the twenty-fifth day of November next as a day of thanksgiving and prayer, and I call upon my countrymen to cease from their ordinary tasks and avocations upon that day, giving it up to the remembrance of God and His blessings, and their dutiful and grateful acknowledgment.”
+"Wherefore, I, Woodrow Wilson, president of the United States, do hereby designate Thursday, the twenty-fifth day of November next as a day of thanksgiving and prayer, and I call upon my countrymen to cease from their ordinary tasks and avocations upon that day, giving it up to the remembrance of God and His blessings, and their dutiful and grateful acknowledgment."
 
-Cotton Blossoms In Davenport
+Cotton Blossoms
+In Davenport
 
 Davenport, Iowa, Nov. 13. — The Cotton Blossom singers entertained a full house at Bethel A. M. E. church last Thursday night.
 
@@ -138,14 +164,20 @@ Messrs. Jasper McAfee the Basso, and Daniel Rankin the tenor and the Misses Clad
 
 On Friday night one of the friends of the school arranged for the singers to have seats in the auditorium to hear the concert by Sousas band.
 
-They departed Saturday morning for Muscatine, from which place they will start for Mississippi in the school’s touring car.
+They departed Saturday morning for Muscatine, from which place they will start for Mississippi in the school's touring car.
 
 ## LEGIONNARIES RECEIVE
 VICTORY
 
 Armistice day, Nov. 11, the members of Lincoln post No. 126 American Legion assembled at the Community Center, Thirteenth and Crocker streets where Capt. W. B. Haller, ordnance department, U. S. army decorated them with the victory medals. Owing to the uncertainty of the time the crowd was not as large as anticipated. This ceremony was entirely new to the people here and those present were highly pleased. The ladies auxiliary assisted by the Sewing circle of the Community Center served the men with refreshments after the ceremony.
 
+THE BEST Advertising Medium to Reach the Colored,People
+
+NORTH Tenn- the Train By Angry Mob
+
 ## Taken From The Train By Angry Mob
+
+cambridge power to the younger Masons, and on
 
 Bristol, Tenn., Nov. 14—Dave Hunt, a Negro, age 25, captured after a chase on a passenger train and held for an alleged assault on an aged white woman, was taken from the jail at Wise, Va., early today by a mob of about seventy-five men and hanged to a bridge near Kent Junction.
 
@@ -173,22 +205,11 @@ Bishop Hurst, who is a native of Haiti, was in the city yesterday attending a me
 
 "It is the duty of the Republicans in the senate and house of representatives" he said, "to prove to the American people that the Haitian question was not merely a political issue. First a thorough congressional investigation is demanded. The inquiry by the naval board consisting of two admirals and a general is too limited in scope to bring out the facts. Civilian witnesses were not called while the naval board was sitting in the United States, and in Haiti the investigation seems doomed to consider nothing but military affairs.
 
-ORTH
-Tenn-
-rain By Angry Mob
-jail by breaking down the doors and
-the Negro was taken to the scene of the
-lynching in an automobile.
-The alleged attack on the woman,
-who is 60 years old, occurred at her
-home Friday. She flagged a passenger
-train as it came by and told members
-of the crew that she had been attacked
-by the Negro, whom they could see
-walking some distance ahead. The train
-started after the Negro, who headed for
-the mountainside. The trainmen left
-their train and followed.
+Price Five Cents
+
+jail by breaking down the doors and the Negro was taken to the scene of the lynching in an automobile.
+
+The alleged attack on the woman, who is 60 years old, occurred at her home Friday. She flagged a passenger train as it came by and told members of the crew that she had been attacked by the Negro, whom they could see walking some distance ahead. The train started after the Negro, who headed for the mountainside. The trainmen left their train and followed.
 
 ## Club Women Fete Mrs. Fleming
 
@@ -206,16 +227,95 @@ At the meeting of the board of directors of the association later in the day a t
 
 ## Where the Real Danger Lies.
 
-A Boston physician has sounded the warning that there is more or less danger in wearing clothes. There may be, but the most danger lies in the path of a man who attempts to trip merely through this life clad in filtered sunshine and a two days' growth of whiskers.
+A Boston physician has sounded the warning that there is more or less danger in wearing clothes. There may be, but the most danger lies in the path of a man who attempts to trip merely through this life clad in filtered sunshine and a two days' growth of whiskers
+
+ST
+ediu
+ed
+
+required
+not
+his
+nation
+mah
+to
+priere
+bark
+at h
+that
+retre
+fath
+furtr
+V. O.
+ince
+te
+sew
+ed.
+
+n,
+ren
+h
+CH
+high
+great
+ass
+sed
+ing
+vol
+for
+the
+fi
+t
+nd
+hi
+J
+t
+for
+me
+on
+love
+L
+ch
+un
+sec
+t
+s
+ev
+ill
+A
+e
+f
+h
+ly
+T
+d
+er
+w
+ch
+big lay
+arters
+a large
 
 ---
 ## Page 2
 
+n the stocks of the colored corporation
+
+10
+
 # "My Complexion Is Much Brighter!"
 
-"If every woman knew what I know about the secret of a good complexion, she would not hesitate one minute but would use Palmer's "SKIN-SUCCESS" Ointment, which has done so much for my complexion."
+"If every woman knew what I know about the secret of a good complexion, she would not hesitate one minute but would use Palmer's 'SKIN-SUCCESS' Ointment, which has done so much for my complexion."
 
 This is what a prominent woman of the South has said about this wonderful Ointment. Thousands of other women throughout the world owe to it their charm of complexion and their personal attractiveness. Your druggist will tell you all about it.
+
+PALMER'S
+
+"SKIN-SUCCESS"
+
+REGISTERED IN U.S. PATENT OFFICE
+
+Ointment
 
 Palmer's SKIN-SUCCESS Ointment—35c-75c
 Palmer's HAIR-SUCCESS Dressing—35c
@@ -250,8 +350,6 @@ The grocer named one article after another in the good-natured attempt to refres
 
 "That's it; that's it!" cried the boy, excited. "Honey! But, look here," he added, eyeing the buxom lady, "you'd better put her on my back and let me take her that way, for the cup wouldn't hold her."
 
-## A. Regular One.
-
 ## A Regular One.
 
 He was looking for a good canine companion, and had answered, an advertisement in the newspaper. The following conversation ensued:
@@ -285,40 +383,34 @@ Tilly the Maid—That's all right, ma'am. I'll keep my eye on 'em and see they d
 
 "He keeps away from the races."
 
-CHANGING STYLES IN HUMOR
+THE BYSTANDER
 
 CHANGING STYLES IN HUMOR
 "Stuff" Laughed At by One Generation Is Found Insufferably Dull by Another.
 
-"Stuff" Laughed At by One Generation Is Found Insufferably Dull by Another.
-
-Writing about the old-time humorists, Mr. Ellsworth notes the well-known fact that what is funny for one generation is not, generally speaking, funny for the next. This is a curious phenomenon. It is an extremely hard thing now to get any amusement out of the writings of Artemus Ward. It takes a good deal of indulgence to find that chapter, so immortally read by Lincoln at the famous cabinet meeting, funny now. And yet the humor of Lincoln himself, as evidenced in the Lincoln stories still current, was perennial. Mr. Ellsworth notes the interesting fact that Mark Twain, who wrote for two generations, changed the style and smack of his humor several times. If we compare "The Prince and the Pauper" with "The Jumping Frog" we find that this is undoubtedly true, and yet "The Jumping Frog" is funny to read today. The Nomad fancies that the humor of Mark Twain will be found to possess more of the perennial quality than that of Artemus Ward, Josh Billings or Petroleum V. Nasby. He also has an idea that the humor of most of our columists of the present day will be found incomprehensible 20 years from now. It is incomprehensible to a good many people even now. And that is what makes it so delightful.—"Nomad," in the Boston Transcript.
+Writing about the old-time humorists, Mr. Ellsworth notes the well-known fact that what is funny for one generation is not, generally speaking, funny for the next. This is a curious phenomenon. It is an extremely hard thing now to get any amusement out of the writings of Artemus Ward. It takes a good deal of indulgence to find that chapter, so immortally read by Lincoln at the famous cabinet meeting, funny now. And yet the humor of Lincoln himself, as evidenced in the Lincoln stories still current, was perennial. Mr. Ellsworth notes the interesting fact that Mark Twain, who wrote for two generations, changed the style and smack of his humor several times. If we compare "The Prince and the Pauper" with "The Jumping Frog," we find that this is undoubtedly true, and yet "The Jumping Frog" is funny to read today. The Nomad fancies that the humor of Mark Twain will be found to possess more of the perennial quality than that of Artemus Ward, Josh Billings or Petroleum V. Nasby. He also has an idea that the humor of most of our columists of the present day will be found incomprehensible 20 years from now. It is incomprehensible to a good many people even now. And that is what makes it so delightful.—"Nomad," in the Boston Transcript.
 
 ## MILK AND MEAT AS RIVALS
 
 Rising Prices May Yet Force People to Turn to the Fluid to Sustain Life.
 
-As the price of meat soars upward, many people are forced to be parttime vegetarians. Thus the old question, "Is meat essential to human wellbeing?" arises again. The committee on food and nutrition of the National Research council has issued an interesting report on the relative value of meat and milk.
+As the price of meat soars upward, many people are forced to be part-time vegetarians. Thus the old question, "Is meat essential to human well-being?" arises again. The committee on food and nutrition of the National Research council has issued an interesting report on the relative value of meat and milk.
 
 Eighteen per cent of the protein and energy of grain used in feeding a cow goes into the milk, and is therefore recovered for human consumption; whereas only three and a half per cent is recovered in beef. As for the mineral elements in hay and grain, not much is stored in the tissues, but a great amount goes into milk.
 
 Beef profiteers, beware! The hard-pressed public may decide to let milk take the place of beefsteak—Popular Science Monthly.
 
-## Awful Possibility
+Awful Possibility.
 
-An Australian dignitary was being entertained by New York society. For what seemed to be an endless night he was dragged through the intricacies of the pigeon-walk, the fox-trot, the camel-limp, and the rest. At last came his day of departure.
+An Australian dignitary was being entertained by New York society. For what seemed to be an endless night he was dragged through the intricacies of the pigeon-walk, the fox-trot, the camel-limp, and the rest. At last came his day, of departure.
 
 "Please madam," he implored of his late hostess, as they parted at the gang-plank, "don't ever come to Australia."
 
-"But, wh-wh-why not?" gasped that surprised and offended lady.
+"But, wh-wh-why-not?" gasped that surprised and offended lady.
 
-"Because," answered the Australian, wiping his brow, "I don't want you ever to see a kangaroo at play."—American Legion Weekly.
-
-## Unequal Losses.
+"Because," answered the Australian, wiping his brow; "I don't want you ever to see a kangaroo at play."—American Legion Weekly.
 
 Frederick was sitting on the curb, crying, when Billy came along and asked him what was the matter. "Oh, I feel so bad 'cause Major's dead—my nice old cloie!" sobbed Frederick. "Shucks!" said Billy. "My grandmother's been dead a week and you don't catch me crying." Frederick gave his eyes and nose a swipe with his hand and, looking up at Billy, sobbed despairingly: "Yes, but you didn't raise your grandmother from a pup."—Harper's Magazine.
-
-## Hypersensitive.
 
 "Here's a mighty interesting map of the place where old Cap Kid is said to have come ashore frequently," remarked the willing worker.
 
@@ -326,25 +418,30 @@ Frederick was sitting on the curb, crying, when Billy came along and asked him w
 
 "I am doing my best. But you can't ask any of the live ones for subscriptions without getting yourself talked about. I have about decided our only chance is to dig up some buried treasure."
 
-## By the Calendar.
-
 "Mr. Bibbs, I'd like to see you about that little loan of $50 I made you three months ago, which you agreed to repay in a week."
 
 "My dear fellow, I was feeling good all over, and now you have spoiled my day."
 
 "Umph! By not paying'me when you said you would you have spoiled 77 days for me."
 
-## Tee Hot
-
-Jimmie felt the heat and asked his mother if he could take off his shoes and stockings. He could. Later the mother found him naked. "Jimmie, what do you mean?" "Why," said he, looking straight into her eyes. "all my clothing slipped off and I couldn't get 'em on again."
-
-## Clothes Makes the Man
+Jimmie felt the heat and asked his mother if he could take off his shoes and stockings. He could. Later the mother found him naked. "Jimmie, what do you mean?" "Why," said he, looking straight into her eyes, "all my clothing slipped off and I couldn't get 'em on again."
 
 Clothes Makes the Man.
-
-Teacher—Now, who can tell just what is meant by the saying "All men are created equal"? We all know that some of us are born with wealth and many other advantages not shared by all.
+Teacher—Now, who can tell just what is meant by the saying "All men are created equal?" We all know that some of us are born with wealth and many other advantages not shared by all.
 
 "We are all created with an equal need for clothes," suggested Johnny.
+
+## Awful Possibility
+
+## Unequal Losses.
+
+## Hypersensitive.
+
+## By the Calendar.
+
+## Tee Hot
+
+## Clothes Makes the Man
 
 ## CAUGHT IN PASSING
 
@@ -352,7 +449,7 @@ What man has done woman can undo.
 
 Steam is the perspiration from hot water.
 
-A farced kindness deserves no thanks.
+A forced kindness deserves no thanks.
 
 High water never raises the price of milk.
 
@@ -386,7 +483,7 @@ The man who is the first to argue is usually the last to act.
 
 A warning paragraph often saves a chapter of explanation.
 
-A little leaven leaventh the whole lump—New Testament.
+A little leaven leaventh the whole lump.—New Testament.
 
 The business of a dog dealer is apt to be a howling success.
 
@@ -438,45 +535,45 @@ After locking your family skeleton in your chest hide the key where your neighbo
 
 At the exact moment the proposal is made a young man actually believes he is not worthy of the girl.
 
-Prosperity has ruined more men than adversity—but that kind of ruin is so much more delightful.
+Prosperity, has ruined more men, than adversity—but that kind of ruin is so much more delightful.
 
 # A SEA PICTURE A Story of Thanksgiving by Mary GrahamBonner
 
-RANCES ROBBINS was tall and beautiful and rich and admired. If you had told this to Frances it would not have surprised her. She had been told it many times. She believed it and knew it to be the truth. When Gerald Adams had told her she was beautiful and that he admired her, though of her money he spoke with disdain and expressed the wish that she possessed none, she listened encouragingly.
-
-Gerald was, however, relieved, though he was sympathetic with Frances for her own sake, when her father suddenly lost his fortune. He loved her too much to have it said of him that he was marrying a girl with money.
-
-At first poverty didn't seem so hard to Frances—and It was poverty compared to her former financial condition. She began in a short time, though, to grow depressed and annoyed and thought marriage was a trial. Gerald, even, angered her. He was prosalc, he had settled down, he was prosaic, he had settled down with life and with the "dull" work which he did in the bank. He was so everlastingly patient with her. And that, too, made her tribulations seem greater.
+RANCES ROBBINS was tall and beautiful and rich and admired. If you had told this to Frances it would not have surprised her. She had been told it many times. She believed it and knew it to be the truth. When Gerald Adams had told her she was beautiful and that he admired her, though of her money he spoke with disdain and expressed the wish that she possessed none, she listened encouragingly. Gerald was, however, relieved, though he was sympathetic with Frances for her own sake, when her father suddenly lost his fortune. He loved her too much to have it said of him that he was marrying a girl with money. At first poverty didn't seem so hard to Frances—and It was poverty compared to her former financial condition. She began in a short time, though, to grow depressed and annoyed and thought marriage was a trial. Gerald, even, angered her. He was prosalc, he had settled down, he seemed so contented with life and with the "dull" work which he did in the bank. He was so everlastingly patient with her. And that, too, made her tribulations seem greater.
 
 So she had an imaginary nervous breakdown and left the city to spend the autumn at a seashore place nearby, where Gerald could come for the week ends. She didn't entirely want Gerald out of her way. When times got very bad, her poverty and her boredom got beyond control, she could let off steam at least by talking to Gerald.
 
 It was hard stinting for Gerald—the double expenses—but he felt disgusted with himself because he couldn't give her more. Alone in town he looked upon himself as a failure.
 
-A great many people were staying at the seashore until after Christmas. Apartments had been so hard to obtain that they had stayed in the attractive Inn, and many of the men, with plenty of funds and time for commuting, came down every evening. There were idle men there, too. More and more she recognized their attitude toward a "grass widow" was not such as greatly appealed to her. She wished she hadn't called Gerald a "stick-in-the-mud." Yes, that had been her cruel epithet of him.
+A great many people were staying at the seashore until after Christmas. Apartments had been so hard to ob
+
+Thought Marriage Was a Trial.
+
+tain that they had stayed in the attractive Inn, and many of the men, with plenty of funds and time for commuting, came down every evening. There were idle men there, too. More and more she recognized their attitude toward a "grass widow" was not such as greatly appealed to her. She wished she hadn't called Gerald a "stick-in-the-mud." Yes, that had been her cruel epithet of him.
 
 Gerald had written her that he would not be down for Thanksgiving. That was the great blow. It was altogether right for her to leave Gerald, but that Gerald should stay away on Thanksgiving day was something unheard of. What would people think? More, what did she herself think? Had she driven Gerald to someone else? More and more clearly she seemed to see herself. How horribly she had treated him. How fine and devoted and splendid he was. How much more wonderful than any one she had ever met—a million times better and finer than plenty of, these men with far more money.
 
-Thanksgiving day came, bright and sunny. It was like Indian summer. Many people came down to the beach and wrapped themselves in rugs and enjoyed the comforting scashine. Again and again she had said, in answer to the question, that her husband would not be able to get down. She was mortified, worried, sad.
+Thanksgiving day came, bright and sunny. It was like Indian summer. Many people came down to the beach and wrapped themselves in rugs and enjoyed the comforting snashline. Again and again she had said, in answer to the question, that her husband would not be able to get down. She was mortified, worried, sad.
 
-She wandered off by herself and sat at a distance from the various groups.
-
-Suddenly a freak buzzing, whirring airplane flew overhead. It was an excitement for everyone. To their great delight they saw it land on the beach. Everyone hurried towards it—everyone but Frances. An airplane was not going to make her appear excited, interested. She had always trained herself to suppress any feelings of curiosity such as this.
+She wandered off by herself and sat at a distance from the various groups. Suddenly a freak buzzing, whirring airplane flew overhead. It was an excitement for everyone. To their great delight they saw it land on the beach. Everyone hurried towards it—everyone but Frances. An airplane was not going to make her appear excited, interested. She had always trained herself to suppress any feelings of curiosity such as this.
 
 The people now had gathered around. Frances was quite by herself. Without too much appearance of hurry (though, if Frances had been properly aware of the truth she would have realized that no one was watching her) she went toward the airplane.
 
-Suddenly, as she drew nearer, she saw Geraid. She was about to call out to him when a girl, young and
+Suddenly, as she drew nearer, she saw Gerald. She was about to call out to him when a girl, young and
 
 Frances Was Quite by Herself.
 
 very pretty, rushed toward him, threw her arms around him and cried:
+
 "Oh, my own, my own!"
+
 She jumped into the airplane. A mechanic turned the propeller and they were off!
 
-"Gerald, Gerald!" Frances called to the buzzing birds above. The people turned and looked at her and laughed uproariously. She put her hands to her ears as though to shut off their cruel laughter and ran back to the Inn.
+"Gerald, Gerald F" Frances called to the buzzing birds above. The people turned and looked at her and laughed uproariously. She put her hands to her ears as though to shut off their cruel laughter and ran back to the Inn.
 
 Who was the girl? And why did he meet her here? Had he wanted to make Frances suffer so? Was that it? Did he want her to divorce him? Of course. She asked herself these questions over and over again.
 
-Across her mind in rapidly vivid pictures passed the happy hours she had had with Geraid. As blots upon them appeared the unkindnesses she had dealt him; all appeared before her mind.
+Across her mind in rapidly vivid pictures passed the happy hours she had had with Gerald. As blots upon them appeared the unkindness she had dealt him; all appeared before her mind.
 
 From time to time she sobbed convulsively. "I've lost him, and it has been my own fault," she cried.
 
@@ -484,20 +581,27 @@ Through the day she sat and thought and cried. Toward evening from time to time 
 
 A little later she heard a sound at the door, something—one of those strange somethings—made her turn around. There she saw Gerald.
 
-"Is it you?" she asked, looking at him from her reddened eyes—the had gotten far beyond the tear-stained state.
+"Is it you?" she asked, looking at him from her reddened eyes—they had gotten far beyond the tear-stained state.
 
 "It is," he said, "and I believe I can spend a lot of time down here. Wasn't it great? What in thunder are you crying about?"
 
 "What's great?" she asked.
 
+"Don't you get my letter?" He felt in his pocket in a moment of sudden misgiving. "Why no, of course, you
+
 "Pretty Good Appetites We've Got."
 
-didn't. Here it is in my pocket. Why, you see I never did like banking anyway—and I knew I never could get very far—not for years anyway—and I wrote you I thought I couldn't get down Thanksgiving—and after I had sent the letter, several days later, it dawned on me I'd not told you why! I wrote you again—the letter is here," he admitted. "and told you I would be down. They were not going to make me work in town that day or
+didn't. Here it is in my pocket. Why, you see I never did like banking anyway—and I knew I never could get very far—not for years anyway—and I wrote you I thought I couldn't get down Thanksgiving—and after I had sent the letter, several days later, it dawned on me I'd not told you why I wrote you again—the letter is here, he admitted, "and told you I would be down. They were not going to make me work in town that day or
 
 ---
 ## Page 3
 
+For the 1920 Thanksgiving
+Feast
+
 # Daddy Gobbler's Premonition
+
+MISERS
 
 ## "Think and Thank" Suggested Motto for Nation Today
 
@@ -511,9 +615,12 @@ The Pilgrim and the Puritan have passed on, but they have left us a precious pos
 
 Daddy
 
-There once did live a turkey cock, And he was very proud;
-And walking with his little flock He gobbled very loud.
-Perhaps it may your feelings shock—He lived beneath a cloud.
+There once did live a turkey cock,
+And he was very proud;
+And walking with his little flock
+He gobbled very loud.
+Perhaps it may your feelings shock
+He lived beneath a cloud.
 
 ## Divine Lesson in the Garnering of the Golden Grain
 
@@ -531,13 +638,11 @@ It were useless now to try to deceive even ourselves.
 
 · Now, if at no other time, we see the vast difference in value between the picked fruit and the windfalls.
 
-It were useless now to try to deceive even ourselves.
-
-Now, if at no other time, we see the vast difference in value between the picked fruit and the windfalls.
-
 The one heap we proudly store away, knowing it will keep sweet and whole to the winter's depths, and the other we cast aside, that it may not contaminate as it rots.
 
 It is a sad, sweet task—sweet for the counted gains, sad for the opportunities lost and to come no more.
+
+* * * * * * * * * *
 
 And as we garner the gains we also garner wisdom.
 
@@ -566,22 +671,54 @@ When that winter comes, as it must to many of us, we shall have only ourselves t
 
 We may, if we will, make each day a cycle of all the seasons. We sow each morning and reap each noon and garner each evening the fruits of our living in this little day. Day by day, if we strive on in right and hope and courage, must our knowledge and our strength, and our store increase. Day by day, through many fallings and fallings, do we come nearer to the true manhood and the true womanhood.—Charles Grant Miller in the Christian Herald.
 
-And though in June he spread his tall, And looked alike Henry Eight, November always found him pale, Sans Delarte in his gair, If anyone would see him quall, Just say "decapitate."
+monition
+WALTERS
+
+And though in June he spread his tail,
+And looked ilike Henry Eight,
+November always found him pale,
+Sans Delsarte in his gait,
+If anyone would see him quall,
+Just say "decapitate."
+
+That Rose Beauty Cream
+Peroxidic, Produces the marvel
+Cream. Produces the beauty—an ex-
+of enhancing powder cream. Excel-
+cetting powder cream. Excel-
+lent for men and women. Price
+60C.
 
 FOR SALE AT
-Mrs. E. H. Bufals Bufals System) 721 C. Ave. Welf Albia.
-Mrs. Laura Herrell (Poro System) 731 N. Fellows Ave. Ottumwa.
-Mrs. Margaret Walter (Scalp Cul. 401 N. Lincoln St. Mt. Pleasant.
-Mrs. Josephine Wilson (Hair Reformer) 136 S. 6th St. Raleigh.
-Mrs. St. Furness (Walker System) 933 L. St. W. Cedar Rapbs.
-Mrs. A. Hobbs (Poro System) 1107 Ripley St. Davenport.
-Mrs. St. Furness (Walker System) 128 S. 3d Ave. Clinton.
-Mrs. W. H. Perry (Poro System) 500 W. 7th St. Sioux City.
-Mrs. W. H. Perry (Poro System) 1104 Ave. C. Council Blues.
-Mrs. Alice Thompson (Beauty Culturist) Iowa Ave. Muscatine.
+Mrs. E. B. Hobbs (Patula Sys-
+tem) 721 C Ave. Wiffi Albia.
+Mrs. Laura Herrell (Poro System)
+731 N. Fellows Ave., Ottumwa.
+Mrs. Margaret Walter (Scalp Cul-
+ture) 601 N. Lincoln St., Mt.
+Pleasant.
+Mrs. Josephine Wilson (Hair Re-
+finer) 136 S. 6th St. Burlington.
+Mrs. Laura Green (Walter System)
+131 St. W. Cedar Rapids.
+Mrs. A. Hobbs (Poro System)
+1107 Ripley St. Davenport.
+Mrs. S. Emerson (Walter System)
+1014 St. Ace. Clinton.
+Mrs. W. H. Perry (Poro System)
+500 W. 7th St. Slough City.
+Mrs. E. Turner (Music System)
+1014 St. Ace. Clinton.
+Mrs. Alice Thompson (Beauty
+Culturist) Iowa Ave., Muscatine.
 
-Weilsonia Skin Ointment
-A 30 minute Instant Greaseless Bleach makes the skin several shades lighter instantly. For all skin diseases, discoloration, etc. A healthy 10 day cure. Price 35e
+Neilsonia Skin Ointment
+A 80 minute Instant Greaseless
+Bleach. An ointment that
+makes the skin several shades
+lighter instantly. For all skin
+diseases, discoloration, etc. A
+healthy 10 day cure. Price 35e.
 
 Good News
 For All Men
@@ -606,8 +743,6 @@ Private Ambulance
 715 West Sixth St. Sioux City, Iowa
 Flowers for all occasions.
 
-715 West Sixth St. Sioux City, Iowa Flowers for all occasions.
-
 # McCree's Drug Store
 
 For
@@ -631,23 +766,19 @@ Embalmer
 
 ## Phone Market 820 Res. Walnut -4964
 
-NOTICE.
-Those who desire the service of Rev.
-S. C. Crutcher, the worldwide evangelist will address
-Rev. H. C. Claybrook.
+Those who desire the service of Rev. S. C. Crutcher, the worldwide evangelist will address
+Rev. H. C. Claybrook
 1551 Buchanan St.
 Des Moines, Iowa
 Reference cheerfully furnished.
 
-Those who desire the service of Rev. S. C. Crutcher, the worldwide evangelist will address
-
 INTERURBAN SHINE PARLOR.
-All ladius cordially invited. Our motto is quality and efficient service. 421 W. Second Street, Geo. Brown, Prop.
+All ladies cordially invited. Our motto is quality and efficient service. 421 W. Second Street, Geo. Brown, Prop.
 Taxi Service
 Service is at your service at all times.
 Call Walnut 2173.
-Claudius A. Meade, licensed broker.
-high grade stocks and bonds. Specialist
+
+Claudius A. Meade, licensed broker, high grade stocks and bonds. Specialist
 
 FOR HUNDRED OF TRAINED WOMEN
 
@@ -666,6 +797,10 @@ DO IT NOW
 
 KNOX COLLEGE OF Beauty Culture
 
+Palmer's SKIN-SUCCESS Ointment—35c-75c
+
+Palmer's HAIR SUCCESS
+
 EUFAULA
 (Pronounced U-FALL-ER)
 BEAUTY PREPARATIONS
@@ -681,20 +816,20 @@ MME, M. BARRETT
 1010 Center St.
 Des Moines
 
-Beauty Parlo
-FOR HUNDRED OF
-The work Is Facina
-$15. to $35 Per Week J
-You Can Easily Get On
-Our course includes Shampooing,
-Electrolysis, Manicuring Marcel W
-When you have finished we put y
-in this country's finest Beauty Shop
+Beauty Parlour
+FOR HUNDRED OF T
+The work Is Facinating
+$15. to $35 Per Week Job
+You Can Easily Get One
+Our course iucludes Shampooing, S
+Electrolysis, Manicuring Marcel Way
+When you have finished we put you
+in this country's finest Beauty Shops
 Knox Graduates Can
 FOR RATES, SEND
 Don't Procrastinate
-KNOX COLLEGE C
-451 East 31st St
+KNOX COLLEGE O
+451 East 31st Street
 
 ## A Reliable Remedy for
 
@@ -744,27 +879,55 @@ Will buy or sell. We pay highest prices
 for stoves and furniture.
 221 Locust Street.
 
+Rose Face Powder
+That Natural Completion Cre-
+sition. Irresistible with its
+clinging, velvety texture—del-
+lite fragrance—smooth as
+silk. Price 80c.
+
 FOR SALE AT DES MOINES
-Miss Gertrude Hyde (Walker System) 821 11th.
-Mrs. W. Shepard (Poro System) 1025 W. 13th.
-Mrs. Anna Claybrook (Poro System) 155 Buchanan St.
-Mrs. Mary Barret (Walker System) 1010 Center St.
-Mrs. Etta Smith (Poro System) 1025 Buchanan.
-Mrs. Ielia Robinson, 1627 Walka (Walker System).
-Mrs. Mary Scott (Walker System) 1040 4th St. Place.
 
-For straightening and refinishing any grade of harsh or curly hair instantly—leaving it long, soft, silky and glossy—guaranteed not to fade the hair. Price is:
+Miss Gertrude Hyde (Walker Sys-
+tem) 821 13th.
 
-ORS Issue Call
-FOR TRAINED WOMEN
-Hating And Lucrative Jobs Waiting For YOU
-We Teach You How
-Scaip Treatments, Facial Massage, Hair, Fair Manufacturing, etc.
-You in the best openings in jobs or weatheriest work Anywhere
+Mrs. W. J. Shepard (Poro Sys-
+tem) 1025 W. 13th.
+
+Mrs. Anna Claybrook (Poro Sys-
+tem) 1551 Buchanan St.
+
+Mrs. Mary Barrett (Walker Sys-
+tem) 1101 Buchanan St.
+
+Mrs. Etta Smith (Poro Sys-
+tem) 1625 Buchanan.
+
+Mrs. Izela Robinson, 1627 Walker
+(W) System
+
+Mrs. Mary Scott (Walker System)
+1040 4th St. Place.
+
+For straightening and refina-
+ing any grade of harsh or cur-
+ley hair instantly leaving it
+long, soft, silky and glossy—
+guaranteed not to fade the
+hair. Price also.
+
+Mors Issue Call
+TRAINED WOMEN
+Hating And Lucrative
+Jobs Waiting For YOU
+Time- We Teach You How
+On Scaip Treatments, Facial Massage
+Having, Hair Manufacturing, etc.
+You in the best openings
+of jobs or weatherless
+Work Anywhere
 DO FOR BOOKLET
-
 DO IT NOW
-
 OF Beauty Culture
 Street, Chicago 1
 
@@ -827,6 +990,8 @@ General Typewriter Exchange,
 ---
 ## Page 4
 
+and did not see your name in the honor
+
 Improve Your Digestion
 If you have weak digestion eat sparingly of meats, let at least five hours elapse between meals, eat nothing between meals. Drink an abundance of water. Take one of Chamberlain's Tablets immediately after supper. Do this and you will improve your digestion. Got Her Good Health Out of a Bottle.
 
@@ -879,21 +1044,13 @@ If your need a hair, cut, shave, shampoo, shave that's OUR BUSINESS.
 Mrs. B. J. Roach & Mrs. O. V. Sweeney, Props.
 923 Center Street.
 
-If they both love each other that's their business.
-If your need a hair, cut, shave, shampoo, shave that's OUR BUSINESS.
-"A PEACEFUL SHOP"
-Mrs. B. J. Roach & Mrs. O. V. Sweeney, Props.
-923 Center Street.
-
 HOTEL Williams
 215-17 WEST
 Chestnut Street
 New Hotel for Colored People
 At Cost of $3,800.
 
-On October 1 a new hotel will open at 215-217 W. Chestnut St. for colored people. Rooms for light housekeeping and lodging by day or week. 40 rooms, steam heat and bath. Each room contains electric lights and gas. Information call 600 West Second. Phone W. 5779.
-
-H. W. WILLIAMS, Proprietor. Better known as Hustler.
+On October 1 a new hotel will open at 215-217 W. Chestnut St. for colored people. Rooms for light housekeeping and lodging by day or week. 40 rooms, steam heat and bath. Each room contains electric lights and gas. Information call 600 West Second. Phone W. 5779. H. W. WILLIAMS, Proprietor. Better known as Hustler.
 
 ## FOR SALE.
 
@@ -915,18 +1072,19 @@ Miss Gertrude Hyde is visiting in Sioux City, Council Bluffs and Omaha, Neb., th
 
 Chas. S. Stewart, Jr., master mechanic for Central Auto market, spent Saturday and Sunday in Omaha. While there he was entertained at a dinner party given by Mr. and Mrs. Floyd Stone, former residents of Des Moines.
 
-Lest we forget just "Who's Who," we will convince you Tuesday, Dev. 14 at St. Paul's A. M. E. church.—Mr. J. E. Ousley, manager.
+Lest we forget just "Who's Who," we will convince you Tuesday, Dev. 14 at St. Paul's A. M. E. church—Mr. J. E. Ousley, manager.
 
-The Virginia Pienic association is making extensive preparations for the indoor picnic to be given during the Christmas holidays at Bethel A. M. E. church Thursday evening, Dec. 28 has been selected as the date of this winter festival.
+The Mary Church Terrell club met Monday evening at the home of Mrs. Azelia Mitchell. The regular study hour was given over to social enjoyment in honor of one of the club member Mrs. Emerald Mash who is leaving soon for Winnipig, Canada. The club will meet next week at the residence of Mrs. Guerrero. Interior decoration, "Lamps and Lighting" will be discussed.
+
+The Virginia Pienic association is making extensive preparations for the indoor picnic to be given during the Christmas holidays at Bethel A. M. E church Thursday evening, Dec. 28 has been selected as the date of this winter festival.
 
 H. T. C. ELECT.
 
 King Solomon Guild of Heroines of the Templar Crusades, held their annual election last Friday and elected the following officers for the ensuing year.
 
-Captain Lulu Garrett, Royal Adviser J. B. Mitchell, First Lieutenant Helen Hudson, Second Lieutenant Emma Mayweather, Treasurer Nancy Raglin, Secretary Willa Booker, Commissary Mary Roach and Assistant Commissary Emma Jackson. These officers together with those to be appointed by the captain-elect will be installed jointly with those elected by King Solomon Commandery No. 6, Knights Templar, at a public installation and exhibition drill to be held at North Star Masonic Temple on Thursday evening, Dec. 9.
+Captain Lulu Garrett, Royal Adviser J. B. Mitchell, First Lieutenant Helen Hudson, Second Lieutenant Emma Mayweather, Treasurer Nancy Agglin, Secretary Willa Booker, Commissary Mary Roach and Assistant Commissary Emma Jackson. These officers together with those to be appointed by the captain-elect will be installed jointly with those elected by King Solomon Commandery 6, 6 Knights Templar, at a public installation and exhibition drill to be held at North Star Masonic Temple on Thursday evening, Dec. 9.
 
-COLORED PUPILS IN STUDENT RECITALS
-
+STUDENT RECITALS
 The deans in charge of the various departments of Drake Conservatory of Music have arranged a number of student recitals to be given during the school year to which the public is cordially invited. This year Des Moines has a number of local musicians attending Drake and we should avail ourselves of the opportunity of hearing them. On last Tuesday, Nov. 9, Miss Ethel Bowmer, took part in the exercises of the afternoon. On Tuesday, Nov. 23, a 4 o'clock, Mr. Carroll E. Curtley will sing a solo.
 
 Mrs. Virginia Woods died at the residence of her daughter, Mrs. Lee Jones, 718 S. E. Twenty-sixth street Court, last Tuesday evening. Funeral was held Thursday afternoon at 2 o'clock from Corinthian Baptist church. The Rev. Geo. Robinson officiating. Interment at Laurel Hill.
@@ -978,40 +1136,32 @@ Get These New 'BLUES' for your Player. The OWENS music masters hand played roll 
 
 ## Des Moines, Iowa
 
-We use
-Pressing
-ougly re-
-ing or sh
-a Vacum
-dirt. Ha
-GentsShe
-pairing.
-
-OUR GREATEST ASSEST
-
 We use the "PRESTO" Laundry Steam Pressing Machine Disinfects Garments Thoroughly removes all germs. No burning Scorching or shining the only Press Equipped with a Vacum Cleaner removes every particle of dirt. Hats Cleaned and blocked. Ladies and GentsShoe Shining Parlor Alterating and Repairing.
 
 T ASSEST IS SATISFIED CUSTOMERS
+
+OUR GREATEST ASSEST N
 
 ## H. T. C. ELECT.
 
 ## COLORED PUPILS IN
 
-The D. Y. W. Y. K. Art club meet with Mrs. C. H. Simmons at 503 South East Fifth street Thursday, Mrs. Scott of 981 Twenty-fourth street will entertain the club Tuesday, Nov. 23.
+THE CRIMEAN TAPER MACHINE
+
+THE BYSTANDER
+
+The D. Y. W. Y. K. Art club met with Mrs. C. H. Simmons at 503 South East Fifth street Thursday. Mrs. Scott of 981 Twenty-fourth street will entertain the club Tuesday, Nov. 23.
 
 The Mary B. Talbert club will meet at the home of Mrs. S. Joe Brown, 1058 Fifth street Tuesday evening, Nov. 23. Mrs. Brown will give a talk on "New Citizenship."
 
 Mrs. Perry Boyd of Des Moines is spending a few days in Mason City visiting her brother, Mr. Virgil Vaughn.
 
-## V. W. C. A. NOTES.
-
+Y. W. C. A. NOTES.
 The Y. W. C. A. committees are all taking new interest in the work among the girls of the city. A sewing class in charge of Mrs. J. B. Morris will meet every Wednesday evening. Fifteen girls have registered for the work. Mrs. V. L. Jones will have charge of the Girls Glee club of East High school which meets every Friday afternoon. The story hour, for all girls under ten years of age, Saturday afternoon from 2 to 3 o'clock in charge of Mrs. L. R. Willis, Miss Ada Hyde and Mrs. Mitchell.
 
 Mrs. Lillian Smith gave a talk Tuesday to the girls of the Sunset corps and Miss Helen Beaver of Minneapolis will speak to the girl's reserves Friday afternoon at 4 o'clock. The vesper hour Sunday will be in charge of Mrs. Maud Woods. All girls and women of the city are invited.
 
-The membership committee of the Tenth street center of which Mrs. S. Joe Brown is chairman, held a meeting Thursday evening and decided to launch a drive on Dec. 1. Mrs. W. Lee Jordan, chairman of the provisional committee and Mrs. Corrine I. Lockman, general secretary were both present and not only approved the plans, but gave helpful suggestions for this drive.
-
-## Y. M. C. A.
+The membership committee of the Tenth street center of which Mrs. S, Joe Brown is chairman, held a meeting Thursday evening and decided to launch a drive on Dec. 1. Mrs. W. Lee Jordan, chairman of the provisional committee and Mrs. Corrine I. Lockman, general secretary were both present and not only approved the plans, but gave helpful suggestions for this drive.
 
 Religious workers institute opened last Monday night. There were about thirty persons in attendance. A very powerful and instructive lecture was given by Dr. J. Lewis Gillies. The following 40 minutes were used by instructors of the various departments outlining their course of study. The closing lecture by Dr. I. L. Griffith was a forceful, frank and positive one. He did not fail to express his opinion on many delicate issues.
 
@@ -1021,31 +1171,84 @@ The closing lecture will be by Dr. W. H. Griffin on the subject "How God Calls M
 
 Sunday afternoon at 4 p. m. Dr. Geo. W. Robinson will speak at the Y at Twelfth and Crocker streets. All men and boys are cordially invited to attend.
 
-## COLORED LEAGUE OF WOM
-
 WOMEN VOTERS
-
 A special meeting of the Colored League of Women Voters has been called for 8 o'clock Thursday evening, No. 18 in the parlors of the Y. W. C. A. center at Tenth and Center streets. The colored women who served at the polls on election day Nov. 2 have been invited to tell of their experiences at the polls, and the women who assisted the chairman, Mrs. S. Joe Brown in lining up the women in the great political drive have been invited to give a 3-minute talk on the subject, "Our Part in This New Citizenship Program." All women and men who are interested in these new political workers are invited to be present.
+
+Sta
+Twe
+
+```markdown
+
+```
+
+## V. W. C. A. NOTES.
+
+## Y. M. C. A.
+
+## COLORED LEAGUE OF WOM
 
 (Continued on page five.)
 
-# "AS FOR BEAUTIFUL HAIR AND A LOVELY COMPLEXION"
+"AS F
+HAIR
+COM
+
+"It is astonishing to kn
+Madam C. J. Walker's Super
+"Why, they are an ass
+eficial to the most languid sc
+Wonderful Hair Grower
+Tetter Salve
+Vegetable Shampoo
+Temple Grower
+Glossine
 
 "It is astonishing to know the beneficial results one may obtain from the constant use of Madam C. J. Walker's Superfine Toilet Preparations."
 
 "Why, they are an assortment of Toilettes suited to the needs of every complexion and beneficial to the most languid scalp."
 
+These quality preparations and to be absolutely free of Expensively compounds
+
+The Madam
+
+Coning
+A
+Ext
+“A
+Featuring
+Clan
+In Th
+
+A Comedy drama with a Couple of R
+
+TW
+Starting Th
+
+Co
+Louis C
+
+W
+
+Corner
+Twelth and Ceter
+
 These quality preparations guaranteed to be the equal of many higher priced preparations and to be absolutely free of any injurious contents.
 
 Expensively compounded but conservatively priced.
 
-# ATTRACTION Extraordinary
-
-In The Screen and Person Special
-
 A Comedy drama full of Action Loveintest Comady and Pep with a Couple of Real Fights
 
 Corner Lincoln Theatre Corner Twelth & Cen.
+
+STOPPED HER FITS
+
+Mr. Dellia Martin, a resident of Wurtsboro, N.W., writes that she stopped her fits with a medicine that she read about in the paper. She says she has not had a fit since she took the first dose and that she wants every sufferer to know about this wonderful medicine and what it did for her. If you a friend, or relative, suffer from these dreadful attacks, you are advised to send name and address at once to R. P. N. Lepso, 194 Island Ave., Milwaukee, Wis., who is generously offering to send a bottle of the same kind of medicine he gave Mrs. Martin, free, to any sufferer who writes bina—Adv.
+
+# "AS FOR BEAUTIFUL HAIR AND A LOVELY COMPLEXION"
+
+# ATTRACTION Extraordinary
+
+In The Screen and Person Special
 
 Antiseptic Hand Soap Compact Rouge
 
@@ -1058,6 +1261,86 @@ Floral Cluster Talcum
 Antiseptic Dental Cream
 
 Superfine Face Powder (White, rose, flesh, brown)
+
+ST
+edi
+ed
+
+live
+
+T
+
+pri
+barn
+flam
+at k
+tha
+ret
+
+gath
+fur
+V.C.
+inc
+te
+se
+ed.
+
+n's
+h
+C
+hig
+g
+ten
+
+as
+nd
+ing
+yo
+f
+for
+of
+f
+t
+n
+h
+i
+f
+for
+m
+e
+or
+tic
+b
+L
+f
+ch
+m
+ed
+t
+s
+y
+ev
+il
+A
+r
+e
+e
+s
+f
+h
+l
+y
+T
+m
+er
+w
+ch
+
+b
+e
+l
+y
+s a large
 
 ---
 ## Page 5
@@ -1085,9 +1368,7 @@ Weekly news letters must be received not later than Tuesday of each week.
 
 ## THANKSGIVING
 
-While Thanksgiving in its present form is a distinctly American holiday, the idea did not originate in the brain of Governor Bradford in 1621 as some imagine. On the contrary, we may trace its origin back through the ages and the nations to the land of the Canaanites from whom the children of Israel copied many of their customs. The first record Thanksgiving was the Hebrew feast of the tabernacles. The first English Thanksgiving was on September 8, 1588, for the defeat of the Spanish Armada. There have been but two English Thanksgivings in this century. One was on February 27, 1872, for the recovery of the Prince of Wales from illness; the other June 21, 1887, for the Queen's Jubilee. The New England Thanksgiving dates from 1633 when the Massachusetts Bay colony set apart a day for Thanksgiving. The first national Thanksgiving proclamation were by congress during the revolutionary war. The first great American Thanksgiving was in 1784 for the declaration of peace. There was one more national Thanksgiving in 1789, and no other until 1863, when President Lincoln issued a national proclamation for a day of the Thanksgiving. Since that time the president has issued an annual proclamation.
-
-The most joyous Thanksgiving recorded in American annals occurred in May, 1788, when the news arrived that France had concluded a treaty of friendship and alliance with the thirteen states of the American union. It followed the winter of want and harrowing anxiety, which General Washington and his army passed at Valley Forge.
+While Thanksgiving in its present form is a distinctly American holiday, the idea did not originate in the brain of Governor Bradford in 1621 as some imagine. On the contrary, we may trace its origin back through the ages and the nations to the land of the Canaanites from whom the children of Israel copied many of their customs. The first record Thanksgiving was the Hebrew feast of the tabernacles. The first English Thanksgiving was on September 8, 1588, for the defeat of the Spanish Armada. There have been but two English Thanksgivings in this century. One was on February 27, 1872, for the recovery of the Prince of Wales from illness; the other June 21, 1887, for the Queen's Jubilee. The New England Thanksgiving dates from 1633 when the Massachusetts Bay colony set apart a day for Thanksgiving. The first national Thanksgiving proclamation were by congress during the revolutionary war. The first great American Thanksgiving was in 1784 for the declaration of peace. There was one more national Thanksgiving in 1789, and no other until 1863, when President Lincoln issued a national proclamation for a day of Thanksgiving. Since that time the president has issued an annual proclamation. The most joyous Thanksgiving recorded in American annals occurred in May, 1778, when the news arrived that France had concluded a treaty of friendship and alliance with the thirteen states of the American union. It followed the winter of want and harrowing anxiety, which General Washington and his army passed at Valley Forge.
 
 The most notable day of Thanksgiving in the history of the world was Monday, Nov. 11, 1918, when the people of the allied nations offered prayer and gave expressions of joy over the termination of the awful conflict that threatened the destruction of civilization.
 
@@ -1097,35 +1378,26 @@ The Bystander would suggest and urge that by statute and custom Nov. 11 be made 
 
 The progress of the colored American in the last five years has been the most marvelous of any period since emancipation. Visits and investigations north, east, south and west show an activity, a persistence and an accomplishment which is astounding. New ownership of land, new beautiful homes, new business enterprises, larger amounts of capital seeking investment, new appreciation of and joining with labor unions, new kinds of better paid work and a larger number of children pressing into the schools is the almost universal story. But above all comes the New Spirit: from a bewildered, almost listless, creeping sense of impotence and despair have come a new vigor, hopefulness and feeling of power. We are no longer depending upon ourselves. If mobs attack us we are preparing to defend ourselves as Washington and Chicago know. But far from seeking to arouse the mob spirit we are organizing for social uplift in every possible way and seeking alliance with the great national agencies.
 
-The secret of our new progress and success lies largely in our new self-discovery. There are still a few of us who are running away to avoid each other with the vague feeling that we shall thus lose ourselves in the world and be free. But the mass of black folks have made the Great Discovery: they have discovered each other. They have come to know what fine, lovable companionship and inspiration can be had in their own race. They are happily glad, almost at times mad, with the joy of the new discovery. It frees and heartens them, makes them self confident and human. The tide of the new day rises with majestic force, but does it yet fully feel and recognize the Industrial Revolution that is sweeping the earth? November "Crisis."
+The secret of our new progress and success lies largely in our new self-discovery. There are still a few of us who are running away to avoid each other with the vague feeling that we shall thus lose ourselves in the world and be free. But the mass of black folks have made the Great Discovery: they have discovered each other. They have come to know what fine, lovable companion-ship and inspiration can be had in their own race. They are happily glad, almost at times mad, with the joy of the new discovery. It frees and heartens them, makes them self confident and human. The tide of the new day rises with majestic force, but does it yet fully feel and recognize the Industrial Revolution that is sweeping the earth? November "Crisis."
 
-DROPSY
+DROPSY TREATED ONE WEEK FREE Short breathing relieved in a few hours; swelling and water reduced in a few days; registers liver, kidneys and heart. Write for Free Trial Treatment.
 
-TREATED ONE WEEK, FREE
+COLLUM DROPSY BEMERY CO. Dart H. Atlanta Ga.
 
-Short breathing relieved and water reduced in a few days; regenerates liver, kidneys and heart. Write for Free Trial Treatment.
+PS
+P
+e
+e
 
-COLLUM DROPSY REMEDY CO., Dept. M, Atlanta, Ga.
-
-WATCH YOUR STEPS
-WHY PAY $50.00?
-
-Get our Complete Course and Diploma in Hair Dressing and Beauty Culture for $10.00 including $5.00 worth of Treatments.
-
-Send address to-day for new terms.
-
-W. T. McKISSICK & CO.
-P. O. Box 102
-WILMINGTON, DEL.
-
-It grew mine
-It will grow yous.
+Get our Complete Course and Diploma in Hair Dressing and Beauty at $50 worth of Treatments. Send address to-day for new term.
 
 ## HOW TO KEEP WELL.
 
-(J. Alvin Jefferson, M. D).
+(J. Alvin Jefferson, M. D.)
 
-That bolus of food we masticated last week is now ready to start upon its long and hazardous journey through the alimentary tube a distance of about thirty feet. In other words the tube is said to be about nine or ten times the length of the body which contains it, that is measuring from the crown of the head to where the lower limbs join the body. In animals, the alimentary tube was originally a comparatively straight tube extending throughout the body and dilating into a sac or pouch about a third of the distance down from the mouth. This sac is now known as the stomach. It varies in size; in the infant it holds about one ounce or two tablespoonfuls, while in the adult it may hold from three to five pints.
+That bolus of food we masticated last week is now ready to start upon its long and hazardous journey through the alimentary tube a distance of about thirty feet. In other words the tube is said to be about nine or ten times the length of the body which contains it, that is measuring from the crown of the head to where the lower limbs join the body.
+
+In animals, the alimentary tube was originally a comparatively straight tube extending throughout the body and dilating into a sac or pouch about a third of the distance down from the mouth. This sac is now known as the stomach. It varies in size; in the infant it holds one ounce or two tablespoonfuls, while in the adult it may hold from three to five pints.
 
 This sac or pouch has two openings. The one through which the food enters the stomach is called the cardiac opening because of its near approach to the heart. The latter is known as the pylorus or gatekeeper.
 
@@ -1170,39 +1442,109 @@ You are hereby notified that on or before the 21st day of December, A. D. 1920 t
 
 For further particulars see petition, and unless you appear thereto and defend before noon of the second day of the next term, being the January, A. D. 1921 term of said court, which will commence at Des Moines, Polk County, Iowa, on the 3rd day of January, 1921, default will be entered against you and judgment and decree rendered thereon. Dated this 9th day of November, 1920.
 
+Blagburn & Shelton
+PRESCRIPTION
+DRUGGIST
+1200 Center St. J. Frank N
+"WE ARE HERE TO SERVE
+WE CARRY A COMPLETE
+Toilet Preparations D
+Rubber Goods S
+Candies C
+Our Fountain service is
+"Courteous treatment and e
+Always."
+
+Belfon Pharmacy
+SCRIPTION
+GISTS
+Frank Blagburn, Mgr.
+TO SERVE YOU".
+
+COMPLETE LINE OF
+Ins Drugs
+Sundries
+Cigars
+
+Service is unexcelled.
+and efficient service
+ways."
+
 # Blagburn & Shelton Pharmacy PRESCRIPTION DRUGGISTS
 
 1200 Center St. J. Frank Blagburn,Mgr.
 
 WE CARRY A COMPLETE LINE OF Toilet Preparations Drugs Rubber Goods Sundries Candies Cigars Our Fountain service is unexcelled. "Courteous treatment and efficient service Always."
 
-BE PROUD OF YOUR HAIR
+## PROVED TRUE TO HER WORD
 
-Have long, straight, soft hair that can be easily dressed. Carried of the dandruff, feed the starving hair roots and stop falling hair with
+Fair Autoist Had Said She Would Be Back Promptly, and It Was Even More So.
 
-EXELENTO
-QUININE POMADE
+On one of my first excursions in our new car, writes a correspondent, I stopped at the grocery with my car parked with the back toward the store door. I gave my order and told the clerk that I would be back to get my things in a very few minutes.
 
-the real hair grower. Send 25c 1/2 for either Exelento Quinine Pomade or Exelento Skin Beauilier.
-Agents wanted to sell Exelento Products in all parts of the country
-
-EXELENTO MEDICINE COMPANY
+EXELETO QUININE POMADE
+the real hair grease. Seed Exe toor
+the Exeleto Quineine Pomado or
+Exeleto Skin Denitifier.
+Agents wanted to sell Exeleto Products
+to retail or local stores.
+EXELETO MEDICINE COMPANY
 Atlanta, Georgia
 
-Exelento
-Skin Beauilier
+As I stepped into the car, my best "beau" came down the street, and anxious to show him how well I could drive, I hurriedly threw into gear. I raced the engine and let the clutch out to get a quick pickup. It proved to be a wonderful one, as I had thrown into reverse and found myself in the doorway of the grocery store. I had gone over the curbing and all, breaking the window as I bumped into the store.
 
-FOR DARK
+N.A.A.C.P. Urges Enforcement of 14th
+
+The grocer hurried out, and when he saw who it was, "Well," he said, "you have proved yourself a woman of your word, but it will cost you the price of a new show window."
+
+Frank Fowler Undertaking Co.
+EMBALMER & FUNERAL DIRECTOR
+200 E. 5th Street
+Phone Maple 631
+
+Mr. Fowler wishes to announce that he is not in any way connected with the Fowler Bros. Undertaking Co. located at 117 E. Walnut. Mr. Fowler has opened up one of the best equipped undertaking establishments in Des Moines.
+
+OUR NEW HOME
+
+25,000 MORE PORO AGENTS WANTED
+
+Equipped with the Very Latest Apparatus for Teaching the
+
+Poro System of Scalp and Hair Culture
+
+and all Branches of Beauty Culture
+
+Terms Moderate
+
+Diplomas Given
+
+Write Today for Further Information
+
+Poro Corner
+"Dept. A-5"
+
+St. Louis, Mo.
+
+Machine Disinfects Garments Thor-
+
+BE PROUD OF YOUR HAIR
+Have long, straight, soft hair that
+can be easily dressed. Got rid of the
+dresswork, feed the starving hair roots
+and stop falling hair with
+
+Ecelento
+FOR
+DARK
 SALLOW
 SKINS
+Skin Beautifier
 
-N.A.A.C.P. Urges
+Amendment
 
-Enforcement of 14th Amendment
+At the meeting of the Board of Directors on Nov. 8, it was voted that the following telegram urging the enforcement of the Fourteenth amendment and consequent reduction of representation in southern states in which colored voters are disfranchised, to be sent to the Hon. Isaac Siegel, chairman of the House Committee on the Census:
 
-At the meeting of the Board of Directors on Nov. 8, it was voted that the following telegram urging the enforcement of the Fourteenth amendment and consequent reduction of representation in southern states in which colored voters are disfranchised, to be sent to the House, Isaac Siegal, chairman of the House Committee on the Census:
-
-"The Board of Directors of the National Association for Advancement of Colored People in behalf of 12,000,000 colored people of the United States, urges upon the congress of the United States a reapportionment of representation in accordance with the terms of the Fourteenth amendment to the constitution.
+"The Board of Directors of the National Association for Advancement of Colored People in behalf of 12,000,000 colored people of the United States, urges upon the congress of the United States a reaportionment of representation in accordance with the terms of the Fourteenth amendment to the constitution,
 
 "Open and flagrant disfranchisement of colored voters in a number of states has occurred in the presidential election of 1920, of which this association is prepared to furnish evidence. The Board of Directors of the Association therefore urges that the qualifications for voting be defined by the Congress and the election laws enforced by the federal government.
 
@@ -1222,31 +1564,7 @@ The Russians formerly gave the prisoners well-nigh uneatable bread. The prisoner
 
 "Mayme's parrot gave her away so the other evening that she wanted to wring its neck. It sang out: 'Just one more, Harry.'" "She needn't have minded that. Everybody knows she's engaged."
 
-"They tell me this moonshine stuff will drive a man crazy."
-
-"It hasn't much drivin' to do," answered Uncle Bill Bottletop. "Any man who drinks moonshine is foolish to start with."
-
-Mr. Fowler wishes to announce that he is not in any way connected with the Fowler Bros. Undertaking Co. located at 117 E. Walnut. Mr. Fowler has opened up one of the best equipped undertaking establishments in Des Moines.
-
-25,000 MORE PORO AGENTS WANTED
-Equipped with the Very Latest Apparatus for Teaching the
-Poro System of Scalp and Hair Culture
-and all Branches of Beauty Culture
-Terms Moderate Diplomas Given
-Write Today for Further Information
-PORO COLLEGE
-
-## PROVED TRUE TO HER WORD
-
-Fair Autoist Had Said She Would Be Back Promptly, and It Was Even More So.
-
-On one of my first excursions in our new car, writes a correspondent, I stopped at the grocery with my car parked with the back toward the store door. I gave my order and told the clerk that I would be back to get my things in a very few minutes.
-
-As I stepped into the car, my best "beau" came down the street, and anxious to show him how well I could drive, I hurriedly threw into gear. I raced the engine and let the clutch out to get a quick pickup.
-
-It proved to be a wonderful one, as I had thrown into reverse and found myself in the doorway of the grocery store. I had gone over the curbing and all, breaking the window as I bumped into the store.
-
-The grocer hurried out, and when he saw who it was, "Well," he said, "you have proved yourself a woman of your word, but it will cost you the price of a new show window."
+"They tell me this moonshine stuff will drive a man crazy." "It hasn't much drivein' to do," answered Uncle Bill Bottletop. "Any man who drinks moonshine is foolish to start with."
 
 DYSART'S SENSATIONAL SYNCOPATED JAZZ ORCHESTRA
 
@@ -1357,9 +1675,6 @@ CLINTON ITEMS
 
 ## IOWA CITY, IOWA Delta, Sigma Theta
 
-## IOWA CITY, IOWA
-Delta Sigma Theta
-
 ## OSKALOOSA ITEMS.
 
 tion is critical.
@@ -1401,13 +1716,13 @@ Miss Grooms has been quite successful in a business way and gives this prize in 
 
 It recalls to mind the legacy left Piney Woods by a successful citizen of Keokuk, the late Mr. Selby Johnson, whose memory will always be cherished by those who love to do good.
 
-Washington, D. C.—More than a thousand persons attended the meeting of the National Association for the Advancement of Colored People held in the Metropolitan Baptist church, at which meeting James Weldon Johnson spoke on "The Haytian Atrocities." Mr. Johnson gave first hand information, having made a careful study of the situation while he was on the island. It will be noted that a court of inquiry appointed by the secretary of the navy to investigate charges which have been made in connection with the American occupation of the island will probably leave Washington for Haiti in the near future. Major Jesse F. Dyer, United States Marine corps, stated that he had contemplated calling the Rev. Tom L. Evans, a Baptist missionary, as a witness, but the Rev. Mr. Evans is alleged to have since stated that he had no personal knowledge of instances of ill treatment of the natives by Americans of the expeditionary forces in Haiti, but that he would furnish the court a list of the names of the persons who had supplied him with the information.
+Washington, D. C.—More than a thousand persons attended the meeting of the National Association for the Advancement of Colored People held in the Metropolitan Baptist church, at which meeting James Weldon Johnson spoke on "The Haytian Atorescens." Mr. Johnson gave first hand information, having made a careful study of the situation while he was on the island. It will be noted that a court of inquiry appointed by the secretary of the navy to investigate charges which have been made in connection with the American occupation of the island will probably leave Washington for Haiti in the near future. Major Jesse F. Dyer, United States Marine corps, stated that he had contemplated calling the Rev. Tom L. Evans, a baptist missionary, as a witness, but the Rev. Mr. Evans is alleged to have since stated that he had no personal knowledge of instances of ill treatment of the natives by Americans of the expeditionary forces in Haiti, but that he would furnish the court a list of the names of the persons who had supplied him with the information.
 
-As a result of the effort of the new superintendent, Dr. Frank O. Ballon, to have the best possible school conditions obtain in the city, it is stated that serious conditions of overcrowding are tolerated in the luretia Mott building (colored). The building although of recent construction and the largest colored grade school in the system is found to be lacking in several particulars. The building was erected to accommodate 600 pupils, there are more than twice that number crowded therein.
+As a result of the effort of the new superintendent, Dr. Frank O. Ballon, to have the best possible school conditions obtain in the city, it is stated that serious conditions of overcrowding are tolerated in the luretta Mott building (colored). The building although of recent construction and the largest colored grade school in the system is found to be lacking in several particulars. The building was erected to accommodate 600 pupils, there are more than twice that number crowded therein.
 
 Miss Jane Hunter, a prominent worker in the interest of the Young Women's Christian Association of Cleveland, O., delivered an interesting talk on her work at the vesper service of the local Y. W. C. A. Miss Hunter has been traveling through the south, studying industrial conditions as they relate to the young colored working girl.
 
-Miss Jane Hunter, a prominent worker in the interest of the Young Women's Christian Association of Cleveland, O., delivered an interesting talk on her work at the vesper service of the local Y. W. C. A. Miss Hunter has been traveling through the south, studying industrial conditions as they relate to the young colored working girl. Neval H. Thomas, well known educational and civic circles held an audience of white hearers spellbound while he addressed the secular league on "The Political Rights of the Negro as a Citizen of the United States."
+Neval H. Thomas, well known educational and civic circles held an audience of white hearers spellbound while he addressed the secular league on "The Political Rights of the Negro as a Citizen of the United States."
 
 ## OBITUARY
 
@@ -1482,7 +1797,26 @@ The services last Sunday were largely attended. The pastor was at his best. The 
 
 Mrs. J. H. Creston at 231 Arthur avenue was operated on last Tuesday at Mercy hospital. She is doing nicely. The Mother league will meet Sunday at 5 p. m. Mrs. Lucy James will read a
 
-paper on "Happiness is the Stepping Stone of Life." "Dora Thorn" one of the greatest dramas that has ever been presented to the public will be given by a splendid caste by the Corinthian Herald association, Mrs. M. Crawford, superintendent. The pastor requests that all auxiliaries of the church elect their officers for the incoming year.
+Home life is more cheerful by eliminating hard work and worry on wash day.
+
+The 1900 Cataract Electric Washer
+
+Washes clean, quickly economically and with less wear on the clothes.
+
+Free Home Demonstration Easy Payments
+
+The water swirls through the clothes four times as often as in the ordinary washer.
+
+CALL
+
+DES MOINES ELECTRIC COMPANY
+Walnut 5300 — 8th and Locust
+
+THE BYSTANDER
+
+Two a son a son we him. We mail he re-continued 1918 high suf- cheerful paper on "Happiness is the Stepping Stone of Life." "Dora Thorn" one of the greatest dramas that has ever been presented to the public will be given by a splendid cast by the Corinthian Herald association, Mrs. M. Crawford, superintendent. The pastor requests that all auxiliaries of the church elect their officers for the incoming year.
+
+## ST. PAUL A. M. E.
 
 The attendance was fair on the 14th. The most notable feature of the hour was the presence of many visitors, of which we were proud. In keeping with our promise we shall endeavor to give you a brief report of our rummage sale which at 6:30 p. m. Oct. 23 and closed Oct. 30 about 11 p. m. The receipts were as follows: Oct. 23, $45; Oct. 25, $43.55; Oct. 26, $9.95; Oct. 27, $12.05; Oct. 28, $12.05; Oct. 29, $10.25; Oct. 30, $43.10; by cash donation, $2.05; total receipts $177.70.
 
@@ -1514,45 +1848,27 @@ Rev. H. C. Claybrook, master of cer
 Program of South East Union Thanksgiving service to be held at Kyle's M. E. church.
 Opening by the choir of Kyle's chapel. Prayer.
 Music by choir.
-Scripture... Bro. J. D. Wellington
-Music... Shiloh Choir
-Reading of Proclamation...
-Miss Clara Smith
-Music... Shiloh Choir
-Sermon... Rev. E. S. Hardge
-Prayer.
-Appeal... Rev. Saunders
-Closing remraks... Rev. G. E. Green
-Rev. G. E. Green, master of ceremonies.
+Scripture.....Bro, J. D. Wellington Music.....Shiloh Choir
+Reading of Proclamation.....
+.....Miss Clara Smith Music.....Shiloh Choir
+Sermon.....Rev. E. S. Hardge Prayer.
+Appeal.....Rev. Saunders Closing remaks.....Rev. G. E. Green Rev. G. E. Green, master of ceremonies.
 
 Program West Side Union Thanksgiving services held with St. Paul A. M. E. church.
-Opening Chorus... Corinthian Choir
-Scripture Lesson... Rev. G. W. Robinson
-Music... Choir
-Prayer... Bro. E. S. Morgan
-
-Home life is more cheerful on the 1900s Electric
-Washes clean, quickly eco
-Free Home Demonstration
-Easy Payments
-
-The water swirls through the clothes four times as often as in the ordinary washer.
-
-CALL
-DES MOINES ELEC COMPANY
-Walnut 5300 — 8th and Locust
-
-## ST. PAUL A. M. E.
+Opening Chorus.....Corinthian Choir Scripture Lesson.Rev. G. W. Robinson Music.....Choir
+Prayer.....Bro, E. S. Morgan
 
 # Idlewild Boosters' Meeting Monday November 22nd
 
-Tenth and I
-Lecture on Beautiful Idlewil
+At Union Congregational Church
+Tenth and Park Streets
+Lecture on Beautiful Idlewild and Slides
 Idlewild.
-Mr. Lemon, one of the owners
+Mr. Lemon, one of the owners of the land, v
 J. L. Carter, Rep.
-Everybody
-Music ..... Choi
+Everybody Welcome.
+
+Music ..... Choir charges. There
 
 Lecture on Beautiful Idlewild and Slides Showing Views of Idlewild. Mr. Lemon, one of the owners of the land, will be present and J. L. Carter, Rep.
 
@@ -1568,31 +1884,19 @@ Rev. T. J. Jones master of ceremo-
 
 ## BIG MUSICAL SHOW COMING.
 
-The biggest musical attraction that hms invaded the west since pre-war days is now en route from San Francisco and Los Angeles to New York. Theatre-goers in this section will have an opportunity to see this attraction, the Marcus Show of 1920, during its engagement in Des Moines at the Berchel theatre for three days starting Thanksgiving day, matinee, November 25th.
+The biggest musical attraction that hmas invaded the west since pre-war days is now en route from San Francisco and Los Angeles to New York. Theatre-goers in this section will have an opportunity to see this attraction, the Marcus Show of 1920, during its engagement in Des Moines at the Berchel theatre for three days starting Thanksgiving day, matinee, November 25th.
 
 There are nearly one hundred persons engaged. Many of these are the famous Marcus Peaches. There is a special orchestra and it requires a special train of three baggage cars and an equal number of Pullmans to transport the big organization.
 
-Not in years has an attraction made such an unqualified hit on the coast as that enjoyed by the Marcus Show. But few cities are being visited between the coast and New York where the Marcus Show inaugurates its metropolitan engagement early next month.
+Not in years has an attraction made such an unqualified hit on the coast that enjoyed by the Marcus Show. But few cities are being visited between the coast and New York where the Marcus Show inaugurates its metropolitan engagement early next month.
 
 In commenting on the attraction the San Francisco Examiner of September 21, had the following to say:
 
-"A musical revue with a sort of indoor circus tone and liveliness of action, the Marcus Show of 1920, won the approval of an audience that last night filled the Columbia.
+"A musical revue with a sort of indoor circus tone and livelihood of action, the Marcus Show of 1920, won the approval of an audience that last night filled the Columbia.
 
 Girls, gorgeous costumes and agreeable comedy are the features, and though it seems to have been the intention of the producers to give an advance impression that the show might engage the attention of the censor, if such an official still be among us, there was nothing to seriously warrant objection.
 
-It must have cost the managers a lot of money to bring this big organization of girls out from the higher railroad rates now in force. Considerable has been saved by doing away with tights, but this item alone cannot offset the increased transportation
-
-be cheerful by eliminating hard on wash day.
-
-The 1900 Cathedral Electric Wash is quickly economically and with the clothes.
-
-Demonstration Payments
-
-S ELECTRIC
-PANY
-8th and Locust
-
-At Union Congregational Church
+It must have cost the managers a lot of money to bring this big organization of girls out from the east with the higher railroad rates now in force. Considerable been saved by doing away with tights, but this item alone cannot offset the increased transportation
 
 Park Streets
 and Slides Showing Views of
@@ -1635,12 +1939,76 @@ Mrs. Peavish says she feels confident that Mr. Peavish will never acquire anothe
 
 ## A Double Disaster.
 
+ST
+edi
+ed
+
 ---
 ## Page 7
 
 # 108 SIMON SIMPLE'S FIRST LESSONS IN CLOWNISA
 
+GOOD MORNING
+FELLOWS,
+WHAT'S DOING?
+
+IN A MINUTE
+DERE VILL
+PE LOTS
+DIDDING
+
+YES, WELL
+JUST START
+OFF WITH AN
+HOUR'S WORK
+WITH THE
+BLADDER.
+
+UND DIS
+VAS DE VAY
+TO DO IT.
+
+HA-NA-NA
+DOES IT JAR
+YOU-YES?
+
+OUCH!
+MY HEAD-
+LET UP!
+
+WE FIXED
+HIM THAT
+TIME.
+
+SUCH A
+HEADACHE
+VAT VE
+GIFF HIM-
+YES?
+
+WELL FELLERS.
+I'll JOIN IN
+YOUR LITTLE
+GAME
+MYSELF.
+
+DUNDER AND
+BLITZEN IT
+ISS A VASPS
+NEST!
+
+AT THEM
+BOYS
+
+I COULDN'T FIND
+A BLADDER- SO
+I GOT THAT
+WASPS NEST
+INSTEAD.
+
 # THE STAR HAIR GROWER A Wonderful Hair Dressing and Grower. 1,000 AGENTS WANTED.
+
+A
 
 send $1.00 and we will send you a full supply that you can begin
 work with at once: also agent's terms.
@@ -1654,9 +2022,11 @@ Sloan's Liniment should be kept handy for aches and pains
 
 WHY wait for a severe pain, an ache, a rheumatic twinge following exposure, a sore muscle, sciatica, or lumbago to make you quit work, when you should have Sloan's Liniment handy to help curb it and keep you active, and fit, and on the job?
 
-Without rubbing, for it penetrates, apply a bit to the afflicted part. Notethe gratifying, clean, prompt relief that follows. Sloan's Liniment couldn't keep its many thousands of friends the world over if it didn't make good. That's worth remembering. All drugists—three sizes—the largest is the most economical. 35c, 70c, $1.40.
+Without rubbing, for it penetrates, apply a bit today to the afflicted part. Notethe gratifying, clean, prompt relief that follows. Sloan's Liniment couldn't keep it many thousands of friends the world over if it didn't make good. That's worth remembering. All drugists—three sizes—the largest is the most economical. 35c, 70c, $1.40.
 
-There's a Difference.
+Sloan's Liniment (Pain's enemy)
+
+There's a difference.
 
 An epigrammatist says a classical education is for conversation and the other kind for use—Pittsburgh Dispatch.
 
@@ -1673,28 +2043,25 @@ a trial and be convinced.
 Send 250 for full size box.
 If you wish to become an agent for this wonderful preparation.
 a full supply that you can begin terms.
-or to
-GROWER MF'R.,
+or to GROWER MF'R.,
 Greensboro, N. C.
 
-SOFT
-SILKY
-HAIR
+SOFT SILKY HAIR
 
-At last a reliable hair grower that makes short, kinky hair quickly grow long, soft and silky. Stops falling hair, removes dandruff, cleans the scalp and feeds the hair roots.
+At last a reliable hair grower that makes short, kinky hair quickly grow long, soft and silky. Stops falling hair, removes dandruff cleans the scalp and feeds the hair roots.
 
 EXELENTO
 QUININE POMADE
 
-If your druggist cannot supply you, and 250 in stamps or coin for full size package.
-
+If your drugist cannot supply you,
+send 25c in stamps or coin for full
+milk. You may purchase it
 Use EXELENTO SKIN BEAUTIFIER,
 an ointment for dark, sallow skin.
 Used in treatment of skin troubles.
 
-Agents Worked Where
-Write for Particulars
-
+Agents Wanted Everywhere
+Write for Portfolio
 EXELENTO MEDICINE CO., Atlanta, Georgia
 
 ## Proof Conclusive.
@@ -1705,7 +2072,13 @@ N SIMPLE
 
 IN MINUTE DEFE VILL PE LOTS
 
+THE CHURCH OF THE NATIONAL SCHOOL OF PHOTOGRAPHY, IN MIDDLEBURG, CALIFORNIA.
+
 The above cut is that of the Corin-thinth Baptist church, located at Fifteenth and Linden streets, one of the leading colored churches, of the city. Under the pastorate of Rev. Geo. W.Robinson, the membership has increased wonderfully.
+
+Corinthian Baptist C
+
+The above cut is that of the Corin-thian Iteenth and Linden streets, one of the leading Under the pastorate of Rev. Geo. W.Robinson wonderfully.
 
 ## Religeous Worker's Institute
 
@@ -1716,13 +2089,19 @@ Instructors for the three departments are, Attorney S. Joe Brown for the adult d
 
 The entire lecture course will be as follows:
 
-Monday, Nov. 15 7:30 to 8. Subject: "The Necessity of Trained Sunday School Workers." Dr. J. Lewis Gilies, pastor Trinity M. E. church.
+Monday, Nov. 15 7:30 to 8. Subject: "The Necessity of Trained Sunday School Workers." Dr. J. Lewis Gillies, pastor Trinity M. E. church.
 
-8:40 to 9:20. Subject: "Christianity and Amusement," Dr. T. C. Griffith, pastor Union Baptist church.
+8:40 to 9:20. Subject: "Christianity and Amusement," Dr. T. L. Griffith, pastor Union Baptist church.
 
 Monday, Nov. 22 7:30 to 8. Subject: "Better Sunday Schools Mean Better Communities," Dr. W. B. Sanford, pastor Cottage Grove Presbyterian church.
 
-8:40 to 9:20. Subject
+8:40 to 9:20. Subject: "How God Calls Men," Dr. W. H. Griffin, pastor St. Paul's A. M. E.
+
+Monday, Nov. 29. Subject: "How Jesus Met Life's Questions," Dr. H. R. Best, pastor Forest avenue Baptist church.
+
+8:40 to 9:20. Subject: "After the Decision—What?" Dr. Geo. W. Robinson, Corinthian Baptist church.
+
+Monday, Dec. 6. Subject: "The Boy and the Sunday School. Secretary W. H. Crawford, Central Y. M. C. A. 8:40 to 9:20. Subject: "How to Make the Bible Real." Rev. H. C. Claybrook, pastor Bethel A. M. E. Monday, Dec. 13, 7:30 to 8. Subject: "The Girl and the Sunday School." Miss Laura McClairy, secretary central Y. W. C.' A. 8:40 to 9:20. Subject: "The Parables of Jesus." Rev. T. J. Jones, pastor Asbury M. E. church. Monday, Dec. 20, 7:30 to 8. Subject: "The Place of Y. M. C. A. in the Community." Secretary Geo. W. Webber. 8:40 to 9:20. Subject: "The Miracles of Jesus." Rev. E. S. Hardge, pastor Kyles A. M. E. Zion church. A small fee of 25 cents will be charged to cover cost of light and heat of building. Service of faculty is do-
 
 ## CELEBRATION KNOWN TO ALL
 
@@ -1730,51 +2109,37 @@ Every Nation and Race Has Had Some Form of Thanksgiving for a Bountiful Harvest.
 
 Thanksgiving day is made up from parts of celebrations of that day by other peoples. The time is taken from one, the feast from another, and the gathering together of the people from still another. Long before the white race came to this country the Indians held a festal day during this season of the year. They had a great feast of roasted deer and bear, boiled corn and stewed pumpkin, and the women and the warriors partook of it on equality. The feast was kept up far into the night, and was followed by a dance of the braves, keeping time to the songs sung by the dusky maids of the forests.
 
-Thanksgiving also owes something to the religious rites of ancient nations. The oldest of these is the Jewish feast of the tabernacles, with its magnificent festivities. The festival occurred annually, at the end of the harvest season, and continued for eight days. Sometimes it was held as early as the 25th of September, but never later than the 20th of October. It was then the 20th of October. It the field were then over for the year, and the feast was an occasion of joyousness and gladness to the people. At this season the nation assembled in Jerusalem, where they lived in booths for seven days. Impressive cereoniles and processions took place each day, and at night the court of the temple was illuminated by lamps and flambeaux. At the end of seven days' joy the booths were dismantled and the people celebrated an eighth day of solemn rest.
+Thanksgiving also owes something to the religious rites of ancient nations. The oldest of these is the Jewish feast of the tabernacles, with its magnificent festivities. The festival occurred annually, at the end of the harvest season, and continued for eight days. Sometimes it was held as early as the 25th of September, but never later than the 20th of October. It was the feast of the "ingathering" of the harvest of all the fruits, the corn, the wine, and the oil. The labors of the field were then over for the year, and the feast was an occasion of joyousness and gladness to the people. At this season the nation assembled in Jerusalem, where they lived in booths for seven days. Impressive ceremonies and processions took place each day, and at night the court of the temple was illuminated by lamps and flambeaux. At the end of seven days' joy the booths were dismantled and the people celebrated an eighth day of solemn rest.
 
 The glory of the great Hebrew festival has long since passed away, but the fundamental principle—that everyone should rejoice in the fruits of the harvest, together with the whole people of the land "before the Lord"—has entered into the harvest observances of Christian lands.
 
 # Mr. Business Man
 
-THE ADVERTISING PROBLEMS
+directly, accurately and instantaneously. THE ADVERTISING PROBLEMS
 
-All advertisers are confronted with three big PROBLEMS. Briefly are:
+with three big PROBLEMS. Brief.
 
-(1) WHEN shall I advertise!
+artise?
 
-(2) Where shall I advertise!
+artise?
 
-(3) How shall I advertise!
+e?
 
-The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which speak to YOU.
+that reaches thousands of colored people, Iowa, Minnesota, Wisconsin, Illinois, states, is the mouth-piece through which our money or the most of it, that is—you want our TRADE. Keep advertiser.
 
-1) Advertise when we get our money or the most of it, that is—Saturday—let us know that you want our TRADE. Keep advertise in our paper THE BYSTANDER.
+ers but don't forget we will invest in THE BYSTANDER. Why? be DOLLARS and are willing to spend good things as well as other people; we artise in our paper.
 
-2) Advertise in all the papers but don't forget we will invest in buy when you advertise in THE BYSTANDER. Why? because it lets us know you want our DOLLARS and are willing to spend thing to get them. We buy good things as well as other people; we buy from you, if you will advertise in our paper.
-
-3) First, advertise regularly, attractively and everything that is able to anyone, because you can't tell what or when we buy.
+is attractively and everything that is tell what or when we buy.
 
 All advertisers are confronted with three big PROBLEMS. Briefly they are:
 
-The BYSTANDER, a paper that reaches thousands in Des Moines, thousands in Iowa, Minnesota, WI, Mississippi, Nebraska and other states, is the mouth-piece they speak to YOU.
+The BYSTANDER, a paper that reaches thousands ple in Des Moines, thousands in Iowa, Minnesota, W. Mississippi, Nebraska and other states, is the mouth-pie they speak to YOU.—
 
-(1) Advertise when we get our money or the money about Saturday—let us know that you want our TRADI tising in our paper THE BYSTANDER.
+(1) Advertise when we get our money or the more about Saturday—let us know that you want our TRADI tising in our paper THE BYSTANDER.
 
 (2) Advertise in all the papers but don't forge gate and buy when you advertise in THE BYSTANDER cause, it lets us know you want our DOLLARS and are something to get them. We buy good things as well as will buy from you, if you will advertise in our paper.
 
-(3) First, advertise regularly, attractively and esellable to anyone, because you can't tell what or when.
-
-Tube
-
-It was when was imposs Ohio drug ravages of gan experien and discover ment, know Anyone will zaz showing Send your n
-
-0 Pounds or tuberculosis, may use it under plain directions.
-
-ADDILINE
-
-40 Arcade Building,
-
-COL
+(3) First, advertise regularly, attractively and es sellable to anyone, because you can't tell what or when.
 
 The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which they speak to YOU.
 
@@ -1783,6 +2148,10 @@ The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, t
 (2) Advertise in all the papers but don't forget we will investigate and buy when you advertise in THE BYSTANDER. Why? because, it lets us know you want our DOLLARS and are willing to spend something to get them. We buy good things as well as other people; we will buy from you, if you will advertise in our paper.
 
 (3) First, advertise regularly, attractively and everything that is sellable to anyone, because you can't tell what or when we buy.
+
+0 Pounds
+158 Pounds
+Latex Photo
 
 ## Indiana Good Orchardista
 
@@ -1814,7 +2183,33 @@ It was when physicians said it was impossible for J. M. Miller, Ohio druggist to
 
 # 108 SIMON SIMPLE'S FIRST LESSONS IN CLOWNISA
 
+GOOD MORNING FELLOWS, WHAT'S DOING?
+
+IN A MINUTE DERE VILL PE LOTS DIDDING
+
+YES WELL JUST START OFF WITH AN NOUR'S WORK WITH THE BLADDER?
+
+UND DIS VAS DE VAY TO DID IT!
+
+HA-HA-HA DOES IT JAM YOU-YES?
+
+OUCH! MY HEAD-LET UP!
+
+WE FIXED HIM THAT TIME!
+
+SUCH A HEADACHE VAT VE GIFF HIM-YES?
+
+WELL FELLERS. ILL JOIN IN YOUR LITTLE GAME MYSELF.
+
+DUNDER UND BLITZEN IT ISS A VASPS NEST!
+
+AT THEM BOYS
+
+I COULDN'T FIND A BLADDER. SO I GOT THAT WASPS NEST INSTEAD.
+
 # STAR HAIR GROWER A Wonderful Hair Dressing and Grower. 1,000 AGENTS WANTED.
+
+A
 
 send $1.00 and we will send you a full supply that you can begin work with at once; also agent's terms.
 
@@ -1830,26 +2225,13 @@ Sloan's Liniment should be kept handy for aches and pains
 
 WHY wait for a severe pain, an ache, a rheumatic twinge following exposure, a sore muscle, sciatica, or lumbago to make you quit work, when you should have Sloan's Liniment handy to help curb it and keep you active, and fit, on the job?
 
-Without rubbing, for it penetrates,
-apply a bit today to the afflicted part.
-Note the gratifying, clean,prompt relief
-that follows. Sloan's Liniment couldn't
-keep its many thousands of friends the
-world over if it didn't make good.
-That's worth remembering. All drug-
-gists—three sizes—the largest is the
-most economical. 35c, 70c, $1.40.
+Without rubbing, for it penetrates, apply a bit today to the afflicted part. Notethe gratifying, clean,prompt relief that follows. Sloan's Liniment couldn't keep its many thousands of friends the world over if it didn't make good. That's worth remembering. All drugstores—three sizes—the largest is the most economical. 35c, 70c, $1.40.
 
-Sloan's
-Liniment
-Pain's
-enemy
+Sloan's Liniment (Paints enemy)
 
 There's a Difference.
 
-An epigrammatist says a classical
-education is for conversation and the
-other kind for use.—Pittsburgh Dispatch.
+An epigrammatist says a classical education is for conversation and the other kind for use—Pittsburgh Dispatch.
 
 Maje
 We want agents in every
@@ -1858,25 +2240,39 @@ to sell
 
 This is a wonderful preparation. Can be used with or
 
-without Straightening irons and by any person.
+without Straightening Irons and by any person.
 
-One 25 cents box proves its value. Any person that will use a 250 box will be convinced.
+One 25 cents box proves its value. Any person that will use a 25o box will be convinced.
 
 No matter what has failed to grow your hair, just give THE STAR HAIR GROWER a trial and be convinced.
 
-Send 250 for full size box. If you wish to become an agent for this wonderful preparation.
+Send 25o for full size box.
 
-a full supply that you can begin terme.
+If you wish to become an agent for this wonderful preparation.
 
-er to GROWER MF'R., Greensboro, N. C.
+a full supply that you can begin
+terme.
+or to
+GROWER MF'R.,
+Greensboro, N. C.
 
-SOFT SILKY HAIR
+SOFT
+SILKY
+HAIR
 
-At last a reliable hair grower that makes short, kinky hair quickly grow long, soft and silky. Stops falling hair, removes dandruff, cleans the scalp and feeds the hair roots.
+At last a reliable hair grower
+that makes short, kinky hair quick-
+ly grow long, soft and silky. Stops
+falling hair, removes dandruff.
+cleans the scalp and feeds the hair
+roots.
 
-EXELENTO QUININE POMADE
+EXELENTO
+QUININE POMADE
 
-If your druggist cannot supply you, send 250 in stamps or coin for full size package.
+If your druggist cannot supply you,
+send 32c in stamps or coin for full
+size package.
 
 Use EXELENTO SKIN BEAUTIFIER
 an ointment for dark, saloon skin.
@@ -1893,28 +2289,15 @@ IN A MINUTE
 DEFEE VILL
 BEFORE
 
-Corinthian Baptist Church The above cut is that of the Corinthian Baptist church, located at Fifteenth and Linden streets, one of theleading colored churches, of the city. Under the pastorate of Rev. Geo. W.Robinson, the membership has increased wonderfully.
+The building is a large, multi-story structure with a steeply pitched roof and a prominent tower. It features a combination of brick and stone walls, with large windows and a central entrance. The building is surrounded by a grassy area with a few trees.
 
-## Religeous Worker's Institute
+Corinthian Baptist Church
 
-Our schedules will be as follows:
-From 7:30 to 8 will be the first lecture course each night.
-From 8 to 8:40 will be the hour of discussion in the various departments, namely, primary, junior and adult.
-Instructors for the three departments are, Attorney S. Joe Brown for the adult department, Dr. W. H. Lowry for the junior and E. C. Robinson for the primary. From 8:40 to 9:20 will be the closing lectures.
-
-The entire lecture course will be as follows:
-
-Monday, Nov. 15 7:30 to 8. Subject: "The Necessity of Trained Sunday School Workers." Dr. J. Lewis Gillies, pastor Trinity M. E. church.
-
-8:40 to 9:20. Subject: "Christianity and Amusement," Dr. T. L. Griffith, pastor Union Baptist church.
-
-Monday, Nov. 22 7:30 to 8. Subject: "Better Sunday School Mean Better Communities," Dr. W. H. Sanford, pastor Cottage Grove Presbyterian church.
-
-8:40 to 9:20. Subject
-
-8:40 to 9:20. Subject: "The Miracles of Jesus." Rev E. S. Hardy, pastor Kyles A. M, E. Zion church. A small fee of 25 cents will be charged to cover cost of light and heat of building. Service of faculty is do-
+The above cut is that of the Corinthian Baptist church, located at R. teenth and Linden streets, one of the leading colored churches of the city. Under the pastorate of Rev. Geo. W.Robinson, the membership has increased wonderfully.
 
 -thian Baptist church, located at Fifleading colored churches of the city. Robinson, the membership has increased
+
+The above cut is that of the Corinthian Baptist church, located at Fifteenth and Linden streets, one of the leading colored churches, of the city. Under the pastorate of Rev. Geo. W.Robinson, the membership has increased wonderfully.
 
 ## CELEBRATION KNOWN TO ALL
 
@@ -1922,53 +2305,88 @@ Every Nation and Race Has Had
 
 Thanksgiving day is made up from parts of celebrations of that day by other peoples. The time is taken from one, the feast from another, and the gathering together of the people from still another. Long before the white race came to this country the Indians held a festal day during this season of the year. They had a great feast of roasted deer and bear, boiled corn and stewed pumpkin, and the women and the warriors partook of it on equality. The feast was kept up far into the night, and was followed by a dance of the braves, keeping time to the songs sung by the dusky malds of the forests.
 
-Thanksgiving also owes something to the religious rites of ancient nations. The oldest of these is the Jewish feast of the tabernacles, with its magnificent festivities. The festival occurred annually, at the end of the harvest season, and continued for eight days. Sometimes it was held as early as the 25th of September, but never later than the 20th of October. It was the feast of the "ingathering" of the harvest of all the fruits, the corn, the wine, and the owl. The labors of the field were then over for the year, and the feast was an occasion of joyousness and gladness to the people. At this season the nation assembled in Jerusalem, where they lived in booths for seven days. Impressive ceremonies and processions took place each day, and at night the court of the temple was illuminated by lamps and flambeaux. At the end of seven days joy the booths were dismantled and the people celebrated an eighth day of solemn rest.
+Thanksgiving also owes something to the religious rites of ancient nations. The oldest of these is the Jewish feast of the tabernacles, with its magnificent festivities. The festival occurred annually, at the end of the harvest season, and continued for eight days. Sometimes it was held as early as the 25th of September, but never later than the 20th of October. It was the feast of the "ingathering" of the harvest of all the fruits, the corn, the wine, and the oil. The labors of the field were then over for the year, and the feast was an occasion of joyousness and gladness to the people. At this season the nation assembled in Jerusalem, where they lived in booths for seven days. Impressive ceremonies and processions took place each day, and at night the court of the temple was illuminated by lamps and flameaux. At the end of seven days' joy the booths were dismantled and the people celebrated an eighth day of solemn rest.
 
-The glory of the great Hebrew festival has long since passed away, but the fundamental principle—that everyone should rejoice in the fruits of the harvest, together with the whole people of the land "before the Lord"—has entered into the harvest observations of Christian lands.
+The glory of the great Hebrew festival has long since passed away, but the fundamental principle—that everyone should rejoice in the fruits of the harvest, together with the whole people of the land "before the Lord"—has entered into the harvest observances of Christian lands.
+
+LESSONS
+
+S FIRST LESS
+
+YES WELL JUST START OFF WITH AN HOUR'S WORK
+
+THE BYSTANDED
+
+## Religeous Worker's Institute
+
+Our schedules will be as follows:
+From 7:30 to 8 will be the first lecture course each night.
+From 8 to 8:40 will be the hour of discussion in the various departments, namely, primary, junior and adult.
+Instructors for the three departments are, Attorney S. Joe Brown for the adult department. Dr. W. H. Lowry for the junior and E. C. Robinson for the primary. From 8:40 to 9:20 will be the closing lectures.
+
+The entire lecture course will be as follows:
+
+Monday, Nov. 15 7:30 to 8. Subject: "The Necessity of Trained Sunday School Workers." Dr. J. Lewis Gillies, pastor Trinity M. E. church.
+
+8:40 to 9:20. Subject: "Christianity and Amusement," Dr. T. L. Griffith, pastor Union Baptist church.
+
+Monday, Nov. 22 7:30 to 8. Subject: "Better Sunday Schools Mean Better Communities," Dr. W. B. Sanford, pastor Cottage Grove Presbyterian church.
+
+8:40 to 9:20. Subject: "How God Calls Men," Dr. W. H. Griffin, pastor St. Paul's A. M. E.
+
+Monday, Nov. 29. Subject: "How Jesus Met Life's Questions," Dr. H. R. Best, pastor Forest avenue Baptist church.
+
+8:40 to 9:20. Subject: "After the Decision—What?" Dr. Geo. W. Robinson, Corinthian Baptist church.
+
+Monday, Dec. 6. Subject: "The Boy and the Sunday School. Secretary W. H. Crawford, Central Y. M. C. A.
+8:40 to 9:20. Subject: "How to Make the Bible Real." Rev. H. C. Claybrook, pastor Bethel A. M. E.
+Monday, Dec. 13, 7:30 to 8. Subject: "The Girl and the Sunday School." Miss Laura McClairy, secretary central Y. W. C. A.
+8:40 to 9:20. Subject: "The Parables of Jesus." Rev. T. J. Jones, pastor Asbury M. E. church.
+Monday, Dec. 20, 7:30 to 8. Subject: "The Place of Y. M. C. A in the Community." Secretary Geo. W. Webber.
+8:40 to 9:20. Subject: "The Miracles of Jesus." Rev. E. S. Hardge, pastor Kyles A. M. E. Zion church.
+A small fece of 25 cents will be charged to cover cost of light and heat of building. Service of faculty is do-
 
 # Mr. Business Man
 
-directly, accurately and instantaneously.
+directly, accurately and instantaneously. THE ADVERTISING PROBLEMS
 
-THE ADVERTISING PROBLEMS
+with three big PROBLEMS. Brief.
 
-All advertisers are confronted with three big PROBLEMS. Briefly, they are:
+artise?
 
-(1) WHEN shall I advertise!
+artise?
 
-(2) Where shall I advertise!
+e?
 
-(3) How shall I advertise!
+What reaches thousands of colored people in Iowa, Minnesota, Wisconsin, Illinois, states, is the mouth-piece through which our money or the most of it, that is—you want our TRADE. Keep advertiser.
 
-The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which we speak to YOU.
+Users but don't forget we will invest in THE BYSTANDER. Why? be DOLLARS and are willing to spend good things as well as other people; we artise in our paper.
 
-(1) Advertise when we get our money or the most of it, that is—but Saturday—let us know that you want our TRADE. Keep advertising in our paper THE BYSTANDER.
-
-(2) Advertise in all the papers but don't forget we will invest in and buy when you advertise in THE BYSTANDER. Why? because, it lets us know you want our DOLLARS and are willing to spend something to get them. We buy good things as well as other people; we buy from you, if you will advertise in our paper.
-
-(3) First, advertise regularly, attractively and everything that is able to anyone, because you can't tell what or when we buy.
+It, attractively and everything that is, tell what or when we buy.
 
 All advertisers are confronted with three big PROBLEMS. Briefly they are:
 
-The BYSTANDER, a paper that reaches thousands in Des Moines, thousands in Iowa, Minnesota, WI, Mississippi, Nebraska and other states, is the mouth-pier they speak to YOU.—
+The BYSTANDER, a paper that reaches thousands ple in Des Moines, thousands in Iowa, Minnesota, W. Mississippi, Nebraska and other states, is the mouth-pie they speak to YOU.—
 
-(1) Advertise when we get our money or the money about Saturday—let us know that you want our TRADtising in our paper THE BYSTANDER.
+(1) Advertise when we get our money or the mo about Saturday—let us know that you want our TRAD tising in our paper THE BYSTANDER.
 
 (2) Advertise in all the papers but don't forge gate and buy when you advertise in THE BYSTANDER cause, it lets us know you want our DOLLARS and are something to get them. We buy good things as well as will buy from you, if you will advertise in our paper.
 
-(3) First, advertise regularly, attractively and sellable to anyone, because you can't tell what or when.
+(3) First, advertise regularly, attractively and es sellable to anyone, because you can't tell what or when
 
-Tube
-
-It was who was impossibly Ohio drug ravages of gan experien and discover ment, know Anyone wi
-
-The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which they speak to YOU.—
+The BYSTANDER, a paper that reaches thousands of colored people in Des Moines, thousands in Iowa, Minnesota, Wisconsin, Illinois, Mississippi, Nebraska and other states, is the mouth-piece through which they speak to YOU.
 
 (1) Advertise when we get our money or the most of it, that is about Saturday—let us know that you want our TRADE. Keep advertising in our paper THE BYSTANDER.
 
 (2) Advertise in all the papers but don't forget we will investigate and buy when you advertise in THE BYSTANDER. Why? because, it lets us know you want our DOLLARS and are willing to spend something to get them. We buy good things as well as other people; we will buy from you, if you will advertise in our paper.
 
 (3) First, advertise regularly, attractively and everything that is sellable to anyone, because you can't tell what or when we buy.
+
+Tuberculosis
+
+It was when physicians said it was impossible for J. M. Miller, Ohio druggist to survive the ravages of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as ADDILINE.
+
+Anyone with coughs or influenza showing tuberculosis.
 
 American foresters present a very strong argument against our friend, the pussy cat, as being by far the most destructive of animals, wild or tame, of the birds, and every forester considers the birds as the greatest friends of the trees. Without the destruction wrought by the birds on the insect enemies of the trees there would be after a generation no tree left for the insects would multiply fearfully and demolish every growing tree and plant—Grit.
 
@@ -1999,6 +2417,8 @@ It was when physicians said it was impossible for J. M. Miller, Ohio drugeist to
 ---
 ## Page 9
 
+INTERNATIONAL
+
 For morning mist and gently falling dew;
 For summer rains, for winter ice and snow;
 For whispering wind and purifying storm;
@@ -2015,6 +2435,8 @@ For rushing gale and for the great, glad calm;
 For Might so mighty and for Love so true,
 With equal mind,
 
+INTERNATIONAL
+
 LOADED with all the goods the living cost allows, the home boards of the day of thanks will give full witness to the fact that the passing years do not permit to grow flaccid the long-established custom of the land. Thanksgiving Day has yet full flavor of the day when first observed upon the bleak coast where the Pilgrim fathers closed their voyage adventures. The turkey and the pumpkin pie, cranberries and accessories will all feature as in the days gone by. And amid the fumes so redolent of cheer and peace and the sweet concoction of home, will seem to fashion forth the features dear of the ones who at that board in other years were grouped. Memory that never lays aside attachments of the past will vivify the recollections of the ones whose passing meant contraction of the group, but cheer will be no less sincere because the pathos note is struck in token of morality that time insures. From coast to coast, amid the mountains of the nearby range, amid the Rockies lifting high their peaks, where placed lie the meadows by the brook, and in the tropic Southlands and the coast that borders the Pacific, will be found the units of the nation's strength and grace, the circles of the home with sweet content as savior for the simple heartfelt feasts. In many places strange and mid the scenes of desolation and of solitude the day and dinner will be given thought.
 
 # Thanksgiving Hymn Well Liked at Birth But Now Forgotten
@@ -2023,7 +2445,7 @@ The first presidential Thanksgiving proclamation was that of President Washingto
 
 The great victories of Gettysburg and Vicksburg were really the cause of Lincoln's proclamation, and his example has been followed by all his successors until the annual festival has become one of our national institutions.
 
-The proclamation of 1863 was remarkable as the first of a series, extending now over fifty years. It was also noticeable because it was the occasion of a thanksgiving hymn, by the famous Reverend Doctor Muhlenburg of St. Luke's hospital, New York city. He is well known as the author of the familiar hymn, "I Would Not Live Always," and a poet of no small repute. Mr. Lincoln's glowing words met his eye and struck a responsive chord in his heart. A noble Thanksgiving hymn was the result, a hymn which at the time was often sung, but is now comparatively forgotten. It was published with appropriate music, and even yet is suitable for use on similar occasions.
+The proclamation of 1863 was remarkable as the first of a series, extending now over fifty years. It was also noticeable because it was the occasion of a thanksgiving hymn, by the famous Reverend Doctor Muhlenburg of St. Luke's hospital, New York city. He is well known as the author of the familiar hymn, "I Would Not Live Alway," and a poet of no small repute. Mr. Lincoln's glowing words met his eye and struck a responsive chord in his heart. A noble Thanksgiving hymn was the result, a hymn which at the time was often sung, but is now comparatively forgotten. It was published with appropriate music, and even yet is suitable for use on similar occasions.
 
 The hymn contains nine stanzas, with chorus, and takes up in order the various causes for thanksgiving mentioned in Mr. Lincoln's proclamation. The original title was "Give Thanks All Ye People," the first verse being as follows:
 
@@ -2031,16 +2453,14 @@ Give thanks, all ye people, give thanks to the Lord.
 
 Alleluias of freedom with joyful accord;
 Let the East and the West, North and
-South roll along,
+South roll along.
 Sea, mountain and prairie, one thanks-
 giving song.
 Chorus.
 Give thanks, all ye people, give thanks to
 the Lord.
-Alleluias of freedom with joyful accord.
+Alleluias of freedom, with joyful accord.
 
-the Lord,
-Allahuas of freedom, with joyful accord.
 As the hymn was suggested by Mr.
 Lincoln's call upon the nation to give
 
@@ -2048,44 +2468,106 @@ Lincoln's call upon the nation to give
 
 # THE DAY OF THANKS
 
-thanks, Doctor Muhlenburg spoke of it as "The President's Hymn," but would not permanently offer such a title without Mr. Lincoln's approval. Mr. Robert B. Minturn, a prominent member of Doctor Muhlenburg's congregation, was greatly pleased with the poem, and sent a copy to the President, with whom he was personally acquainted, asking permission to name the hymn as the author desired. Mr. Lincoln telephoned back: "So let it be."
+thanks, Doctor Muhlenburg spoke of it as "The President's Hymn," but would not permanently offer such a title without Mr. Lincoln's approval. Mr. Robert B. Minturn, a prominent member of Doctor Muhlenburg's congregation, was greatly pleased with the poem, and sent a copy to the President, with whom he was personally acquainted, asking permission to name the hymn as the author desired. Mr. Lincoln telegraphed back: "So let it be." In July, 1865, Dr. Horace Bushnell published in "Hours at Home" an article attacking the well-known hymn, "America," as an unworthy and really humiliating effusion—as a political anthem. Doctor Bushnell thus refers to Doctor Muhlenburg's production: "The hymn and air that were given to the public by Doctor Muhlenburg a short time ago appear to have missed the accident of being fairly born, and for that reason have not succeeded. The want of good accident here is fatal, but the hymn has real merit. It was too long and included three or
 
-In July, 1865, Dr. Horace Bushnell published in "Hours at Home" an article attacking the well-known hymn, "America," as an unworthy and really humillating effusion—as a political anthem. Doctor Bushnell thus refers to Doctor Muhlenburg's production:
+GREERFUL
+TOOLS
+make every
+DISK a Feast.
 
-"The hymn and air that were given to the public by Doctor Muhlenburg a short time ago appear to have missed the accident of being fairly born, and for that reason have not succeeded. The want of good accident here is fatal, but the hymn has real merit. It was too long and included three or four verses that could have been omitted with advantage. Otherwise it might have stuck and would have had a fair chance of success; for the music, which we know only by the eye, and never heard in a public performance, appeared to have a look of promise."
+four verses that could have been omitted with advantage. Otherwise it might have stuck and would have had a fair chance of success; for the music, which we know only by the eye, and never heard in a public performance, appeared to have a look of promise."
 
 The next known reference to this hymn occurs in connection with the observance of the fifthtithe convocation of the University of Illinois, on November 20, 1913. The Alumni Quarterly says: "Touches of the unusual were added to the exercises by the singing of a forgotten hymn, dedicated to Lincoln in 1863 by Reverend Doctor Muhlenburg. The hymn, which had not previously been sung in public, was discovered by Professor Dodge in a contemporary issue of the New York Tribune."
 
 Preparing for Thanksgiving.
-
 Be ready for Thanksgiving by always having a list of your blessings corrected up to date.
 
-E DAY OF THAN
+THE BYSTANDER.
 
-ing cost allows, the home boards of the day of a permit to grow flacid the long-established cus on first observed upon the bleak coast where the spiked pile, cranberries and accessories will all feel and peace and the sweet concord of home, will see
+fun
+the
+las
+plac
+yea
+has
+that
+ucta
+Don
+and
+orde
+mem
+dem
+an o
+non
+Buy
 
-John Oxenham
+64
+
+INTERNATIONAL
 
 ## Some Reasons Why the Farmer Should Keep Thanksgiving
 
 Just now, apart from our knowledge of food secure, perhaps some of us feel it necessary to fall back upon the private reasons for thankfulness. Each one has some bit of personal well-being that can be brought out and rubbed up and admired just to keep our home circle happy this Thanksgiving day. Each one knows their own cause for content, even where it is so commonplace as not to be distinctly visible to others. Especially this year we mustn't lose sight of the personal bright spots on account of their every-day character.
 
-A person was once visiting a friend whose home commanded a beautiful stretch of mountain scenery. It was, in fact, a magnificent view. "What a wonderful outlook you have here," he remarked to his host. "I am sure if I lived here I should spend most of my time viewing the landscape." "Why, I never thought of it that way," his host replied. "I never considered it anything remarkable. I have simply taken it as a matter of course."
+A person was once visiting a friend whose home commanded a beautiful stretch of mountain scenery. It was, in fact, a magnificent view. "What a wonderful outlook you have here," he remarked to his host. "I am sure if I lived here I should spend most of my time viewing, the landscape." "Why, I never thought of it that way," his host replied. "I never considered it anything remarkable. I have simply taken it as a matter of course."
 
 Thousands of people who live in the country enjoy a treasure which is denied to millions of their fellowmen—the blessing of good, pure, out-of-door air, fragrant in spring and summer with perfume of flowers or new-mown hay, and in fall and winter laden with crisp, life-giving ozone.
 
-No one enjoys more blessings and treasures of this kind than the man or woman on the farm. He or she, if inclined to be of a complaining nature, is apt to find fault that life on the farm is so hard and composed so largely of drudgery. Furthermore, "far away fields are always green," and the one on the farm imagines that in the city all must be ease and contentment. These imaginations, however, will not stand the test of personal acquaintanceship with the life that is lived in the cities by hundreds of thousands of people. Farm work is hard, but there are no easy berths in life.
+No one enjoys more blessings and treasures of this kind than the man or woman on the farm. He or she, if inclined to be of a complaining nature, is apt to find fault that life on the farm is so hard and composed so largely of drudgery. Furthermore, "far away fields are always green," and the one on the farm imagines that in the city all must be ease and contentment. These imaginings, however, will not stand the test of personal acquaintanceship with the life that is lived in the cities by hundreds of thousands of people. Farm work is hard, but there are no easy berths in life.
 
 The average person on the farm lives better, enjoys better air to breathe, better water to drink, better food to eat, better conditions under which to work, better health than the man or woman in corresponding circumstances in the city.
 
-## FINE ARTS NEGRO SUBJECTS
+TANKS
 
-PICTURES, POST CARDS, CALENDARS, COLORED DOLLS
-Special prices given to business men with their card on the Calendars.
+y of thanks will give full witness to the custom of the land. Thanksgiving Day is the Pilgrim fathers closed their voyage feature as in the days gone by. And seem to fashion forth the features dear aside attachments of the past will vivify deer will be no less sincere because the amid the mountains of the nearby range, oak, and in the tropic Southlands and the
 
-# Invest To-day Invest Now
+mop
+mar
+gov
+expe
+pens
+par
+shou
+Va
 
-In a racial enterprize, with a Sound Investment.
+-John Oxenham
+
+Invest To-day
+Invest Now
+
+In a racial enterprize, with a Sound Invest
+The Verbena Perfumery Co., Inc. is the only
+fume Company in America, maintaining its own
+the manufacture of Toilet Preparations prepared
+has discovered by our own Negro chemist. Every
+placed on the market by us, has come as the res
+years study and experiments by our chemist, one
+has been thoroughly tested and found worthy of
+that high standard of distinctive individuality, wh
+y distinguished every Verbena Product.
+
+We are Negro Capital, Negro Chemist, Negro
+organizer 1919, on account of the large demand
+ducts both here and in the following countries: Port
+Domingo, Haiti, Panama Canal, South Africa, La
+and Virgin Islands, we were compelled to be in
+order to raise more funds for a larger output.
+
+This is an opportunity for those who desire a
+ment with a quick turnover, with our foreign ma-
+dem demand created here for our products. There is a
+an early dividend to Shareholders.
+
+We are capitalized for $25,500.00 shares at $5
+non-assessable.
+
+A limited number of shares are being placed on
+Buy Now, Buy Today.
+
+Give Usa Call
+
+Our New Your Office Is Locat
+646 Lenox Ave.-Phone Au
 
 The Verbena Perfumery Co., Inc. is the only Negro Perfume Company in America, maintaining its own laboratory for the manufacture of Toilet Preparations prepared from formulas discovered by our own Negro chemist. Every preparation placed on the market by us, has come as the result of many years study and experiments by our chemist, only after each has been thoroughly tested and found worthy of maintaining that high standard of distinctive individuality, which so Signally distinguished every Verbena Product.
 
@@ -2097,22 +2579,32 @@ We are capitalized for $25,500,000 shares at $5.00 par value non-assessable.
 
 A limited number of shares are being placed on the market. Buy Now, Buy Today.
 
+The American Co-operative Co., Inc.
+1106 Center Street, Des Moines, Ia.
+Authorized Capital $10,000 Shares $10.00
+A corporation organized under the Laws of Iowa operating a Grocery Store
+at 1106 Center Street.
 This establishment takes pride in several outstanding features of its business among which are:
+
+3. It is being supported by colored people At present the business is growing rapidly under management of Mr. L. L. Bowles, and, assisted by a Mash. You can do no better thing than call or send here for groceries. There is still on hand a few shares of stock we bought at ten dollars per share by paying either cash Investigate this concern and you will be convinced a DIRECTORS.
 
 At present the business is growing rapidly under the efficient management of Mr. L. L. Bowles, and, assisted by Mrs. Emerald Mash. You can do no better thing than call or send your orders here for groceries.
 
 There is still on hand a few shares of stock which may be bought at ten dollars per share by paying either cash or on time. Investigate this concern and you will be convinced of its safety.
 
 DIRECTORS.
-
-H. Tracy Blagburn, President James B. Morris, Attorney
-L. J. Shelton, Vice President W. H. Bowles, Manager
-J. L. Brown, Secretary W. H. Humburd, Director.
+H. Tracy Blagburn, President
+L. J. Shelton, Vice President
+J. L. Brown, Secretary
 W. M. Warfield, Treasurer
 
-## GO TO SCHOOL IN CALIFORNIA
+James B. Morris, Attorney
+W. H. Bowles, Manager
+W. H. Humburd, Director.
 
-# GO TO SCHOOL IN CALIFORNIA
+GO TO SCHOOL IN CALIFORNIA
+
+Vallejo Institute, located at Vallejo, California, a literary, industrial and vocational free training school and home for colored boys and girls open the year round established 1911 and incorporated in 1912. Books free tuition free $100.00 paid in
 
 Vallejo Institute, located at Vallejo, California, a literary, industrial and vocational free training school and home for colored boys and girls open the year round established 1911 and incorporated in 1912. Books free, tuition free. $100.00 paid in full will pay for board and lodging the whole term nine months. $25.00 on entering pays two months advance then $1250 per month advance rest of term or stay after first two months. Grammar and high school graded work, vocal and instrumental music, government mild but firm principal has had twenty-five years experience as a teacher.
 
@@ -2121,53 +2613,27 @@ Energetic young men and women may work and earn expenses during day attend schoo
 Vallejo Institute, Vallejo, California
 C. H. TONEY, Principal
 
-Invest To-day
-Invest Now
+## FINE ARTS NEGRO SUBJECTS
 
-In a racial enterprize, with a Sound Invest.
-The Verbena Perfumery Co., Inc. is the only fume Company in America, maintaining its own line of manufacture of Toilet Preparations prepared by las discovered by our own Negro chemist. Every place on the market by us, has come as the rest years study and experiments by our chemist, one has been thoroughly tested and found worthy of that high standard of distinctive individuality, which distinguished every Verbena Product.
+PICTURES, POST CARDS, CALENDARS, COLORED DOLLS
+Special prices given to business men with their card on the Calendars.
 
-We are Negro Capital, Negro Chemist, Negro Organizer, 119, on account of the large demand in ours both here and in the following countries: Port Domingo, Haiti, Panama Canal, South Africa, La and Virgin Islands, we were compelled to be in order to raise more funds for a larger output.
+# Invest To-day Invest Now
 
-This is an opportunity for those who desire a moment with a quick turnover, with our foreign man demand created here for our products. There is an early dividend to Shareholders.
+In a racial enterprize, with a Sound Investment.
 
-We are capitalized for $25,500.00 shares at $50 non-assessable.
+## GO TO SCHOOL IN CALIFORNIA
 
-A limited number of shares are being placed on Buy Now, Buy Today.
+# GO TO SCHOOL IN CALIFORNIA
 
-Give Usa Call
-
-Our New Your Office Is Located at 646 Lenox Ave.-Phone Audit
+2513 Lake Street
 
 Anticipating your kind patronage.
 
-The American Co-op Co., Inc.
-1106 Center Street, Des Moines
-Authorized Capital $10,000 Shares
-
-A corporation organized under the Laws of Iowa operating Grocery Store
 at 1106 Center Street.
 
 1. It is owned entirely by colored people.
 2. It is managed by colored people.
-3. It is being supported by colored people.
-
-At present the business is growing rapidly under management of Mr. L. L. Bowles, and, assisted by Mr. Mash. You can do no better thing than call or send here for groceries.
-
-There is still on hand a few shares of stock we bought at ten dollars per share by paying either cash. Investigate this concern and you will be convinced of DIRECTORS.
-
-B. Tracy Blagburn, President
-I. J. Shelton, Vice President
-J. L. Brown, Secretary
-W. M. Warfield, Treasurer
-
-James B. Morris, Attn.
-W. H. Bowles, Manager
-W. H. Humburd, Direc
-
-GO TO SCHOOL IN CALIFORN
-
-Vallejo Institute, located at Vallejo, Californi industrial and vocational free training school and a closed boys and girls open the year round established corporated in 1912. Books free, tuition free.
 
 Omaha, Nebr
 
@@ -2194,6 +2660,9 @@ Sent Forth.
 INTERMEDIATE AND SENIOR TOPIO
 -Heralds of the King.
 
+YOUNG PEOPLE AND ADULT TOPIC
+—Recruiting Christian Worker.
+
 Having set forth the laws of the kingdom in the sermon on the mount and his power to administer the affairs of the kingdom in the miracles of the eighth and ninth chapters, Matthew now sets before us the methods which the king adopted in the propagation of the kingdom. The following divisions of the chapter suggest the dispensational aspects of the lesson:
 
 1. Instructions Bearing Immediately Upon the Apostles' Work to the Death of Christ (vv. 1-15).
@@ -2206,17 +2675,17 @@ In strictness of interpretation these teachings have no application to any later
 
 3. Their message (v. 7). "The kingdom of heaven is at hand." This meant that the promised kingdom of Israel was at hand, that Jesus Christ, the promised king, was present and ready to set up his kingdom if they were willing to have it. This differs widely from the message of the ministers today.
 
-4. The supernatural authentication of their mission (v. 8). They were clothed with power to work wondrous miracles. These wonderful works were really done by the twelve. Where is the minister today who is so foolhardy as to try to fulfill this?
+4. The supernatural authentication of their mission (v. 8). They were clothed with power to work wondrous miracles. These wonderful works were really done by the twelve. Where is the minister today who is so fool-hardy as to try to fulfill this?
 
 5. Their maintenance (vv. 9, 10). They were to make no provision for their support, but to depend wholly upon the Lord who sent them.
 
 6. Responsibilities of those to whom the message was delivered (vv. 11-15). Upon entering the city or town they were to inquire for a reputable place to stay. Into that home they were to bring peace. If the people would not receive them or hear their message, they were to pronounce judgment upon them, and the turning of the Lord from them symbolized by the ministers wiping the dust from their feet when turning from the people who had rejected their message.
 
-II. Instructions Concerning the Testimony from Pentecost Onward (vv. 16-23). After Pentecost, testimony for Christ would be fraught with great danger. Both Jews and gentiles would assail the messengers with the most bitter persecutions. They were scourged in the synagogues before heathen magistrates. Instead of bringing peace into the homes they brought divisions of the fiercest kinds among fainties. In their defense they were to rely upon the Holy Spirit to aid them. These conditions were literally fulfilled in the period from Pentecost to the destruction of Jerusalem. Since the fall of Jerusalem no one has ever been scourged in a synagogue. Verse 23 seems to carry the work forward to the time of the preaching of the gospel of the kingdom in the tribulation times. The Lord's coming then is so speedy that their testimony is cut short.
+II. Instructions Concerning the Testimony from Pentecost Onward (vv. 16-23). After Pentecost, testimony for Christ would be fraught with great danger. Both Jews and gentiles would assault the messengers with the most bitter persecutions. They were scourged in the synagogues before heathen magistrates. Instead of bringing peace into the homes they brought divisions of the fiercest kinds among funifles. In their defense they were to rely upon the Holy Spirit to aid them. These conditions were literally fulfilled in the period from Pentecost to the destruction of Jerusalem. Since the fall of Jerusalem no one has ever been scourged in a synagogue. Verse 23 seems to carry the work forward to the time of the preaching of the gospel of the kingdom in the tribulation times. The Lord's coming then is so speedy that their testimony is cut short.
 
 III. Teaching Applicable in All Ages (vv. 24-42).
 
-The disciple has the position of one with his master. He is to courageously declare the whole counsel of God, though most violently opposed, knowing "that all things work together for good to them that love God." Though their testimony be met with the most bitter opposition, they should not be surprised or discouraged, for so completely is the Lord identified with his disciples that he accepts treatment of the disciples as treatment of himself.
+The discipline has the position of oneness with his master. He is to courageously declare the whole counsel of God, though most violently opposed, knowing "that all things work together for good to them that love God." Though their testimony be met with the most bitter opposition, they should not be surprised or discouraged, for so completely is the Lord identified with his disciples that he accepts treatment of the disciples as treatment of himself.
 
 ## Seeking God's Aid.
 
@@ -2233,8 +2702,12 @@ Child Life.
 Child life is a poem written by
 God's own hand.
 
+the latter as a la
+
 ---
 ## Page 10
+
+INTERNATIONAL
 
 For all thy ministries—
 For morning mist and gently falling dew;
@@ -2253,6 +2726,8 @@ For rushing gale and for the great, glad calm;
 For Might so mighty and for Love so true,
 With equal mind,
 
+INTERNATIONALS
+
 LOADED with all the goods the living cost allows, the home boards of the day of thanks will give full witness to the fact that the passing years do not permit to grow flaccid the long-established custom of the land. Thanksgiving Day has yet full force of the day when first observed upon the bleak coast where the Pilgrim fathers closed their voyage adventure. The turkey and the pumpkin pie, cranberries and accessories will all feature as in the days gone by. And amid the fumes so redolent of cheer and peace and the sweet concord of home, will seem to fashion forth the features dear of the ones who at that board in other years were grouped. Memory that never lays aside attachments of the past will vivify the recollections of the ones whose passing meant contraction of the group, but cheer will be no less sincere because the pathos note is struck in token of mortality that time insures. From coast to coast, amid the mountains of the nearby range, amid the Rockies lifting high their peaks, where plaid lie the meadows by the brook, and in the tropic Southlands and the coast that borders the Pacific, will be found the units of the nation's strength and grace, she circles of the home with sweet content as savor for the simple heartfelt feasts. In many places strange and mid the scenes of desolation and of solitude the day and dinner will be given thought.
 
 # Thanksgiving Hymn Well Liked at Birth But Now Forgotten
@@ -2261,7 +2736,7 @@ The first presidential Thanksgiving proclamation was that of President Washingto
 
 The great victories of Gettysburg and Vicksburg were really the cause of Lincoln's proclamation, and his example has been followed by all his successors until the annual festival has become one of our national institutions.
 
-The proclamation of 1863 was remarkable as the first of a series, extending now over fifty years. It was also noticeable because it was the occasion of a thanksgiving hymn by the famous Reverend Doctor Muhlenburg of St. Luke's hospital, New York city. He is well known as the author of the familiar hymn, "I Would Not Live Always," and a poet of no small repute. Mr. Lincoln's glowing words met his eye and struck a responsive chord in his heart. A noble Thanksgiving hymn was the result, a hymn which at the time was often sung, but is now comparatively forgotten. It was published with appropriate music, and even yet is suitable for use on similar occasions.
+The proclamation of 1863 was remarkable as the first of a series, extending now over fifty years. It was also noticeable because it was the occasion of a thanksgiving hymn, by the famous Reverend Doctor Muhlenburg of St. Luke's hospital, New York city. He is well known as the author of the familiar hymn, "I Would Not Live Alway," and a poet of no small repute. Mr. Lincoln's glowing words met his eye and struck a responsive chord in his heart. A noble Thanksgiving hymn was the result, a hymn which at the time was often sung, but is now comparatively forgotten. It was published with appropriate music, and even yet is suitable for use on similar occasions.
 
 The hymn contains nine stanzas, with chorus, and takes up in order the various causes for thanksgiving mentioned in Mr. Lincoln's proclamation. The original title was "Give Thanks All Ye People," the first verse being as follows:
 
@@ -2283,22 +2758,41 @@ Lincoln's call upon the nation to give
 
 # THE DAY OF THANKS
 
-thanks, Doctor Muhlenburg spoke of it as "The President's Hymn," but would not permanently offer such a title without Mr. Lincoln's approval. Mr. Robert B. Minturn, a prominent member of Doctor Muhlenburg's congregation, was greatly pleased with the poem, and sent a copy to the President, with whom he was personally acquainted, asking permission to name the hymn as the author desired. Mr. Lincoln telegraphed back: "So let it be." In July, 1865, Dr. Horace Bushnell published in "Hours at Home" an article attacking the well-known hymn, "America," as an unworthy and really humiliating effusion—as a political anthem. Doctor Bushnell thus refers to Doctor Muhlenburg's production:
+thanks, Doctor Muhlenburg spoke of it as "The President's Hymn," but would not permanently offer such a title without Mr. Lincoln's approval. Mr. Robert B. Minturn, a prominent member of Doctor Muhlenburg's congregation, was greatly pleased with the poem, and sent a copy to the President, with whom he was personally acquainted, asking permission to name the hymn as the author desired. Mr. Lincoln telegraphed back: "So let it be." In July, 1865, Dr. Horace Bushnell published in "Hours at Home" an article attacking the well-known hymn, "America," as an unworthy and really humilizing effusion—as a political anthem. Doctor Bushnell thus refers to Doctor Muhlenburg's production: "The hymn and air that were given to the public by Doctor Muhlenburg a short time ago appear to have missed the accident of being fairly born, and for that reason have not succeeded. The want of good accident here is fatal, but the hymn has real merit. It was too long and included three or
 
-"The hymn and air that were given to the public by Doctor Muhlenburg a short time ago appear to have missed the accident of being fairly born, and for that reason have not succeeded. The want of good accident here is fatal, but the hymn has real merit. It was too long and included three or four verses that could have been omitted with advantage. Otherwise it might have stuck and would have had a fair chance of success; for the music, which we know only by the eye, and never heard in a public performance, appeared to have a look of promise."
+GREERFUL
+Toks
+make every
+Disk a Feast.
+
+four verses that could have been omitted with advantage. Otherwise it might have stuck and would have had a fair chance of success; for the music, which we know only by the eye, and never heard in a public performance, appeared to have a look of promise."
 
 The next known reference to this hymn occurs in connection with the observance of the fiftieth convocation of the University of Illinois, on November 20, 1913. The Alumni Quarterly says: "Touches of the unusual were added to the exercises by the singing of a forgotten hymn, dedicated to Lincoln in 1863 by Reverend Doctor Muhlenburg. The hymn, which had not previously been sung in public, was discovered by Professor Dodge in a contemporary issue of the New York Tribune."
 
 Preparing for Thanksgiving.
-
 Be ready for Thanksgiving by always having a list of your blessings corrected up to date.
 
-E DAY OF THAN
+THE BYSTANDER.
 
-ing cost allows, the home boards of the day of it permit to grow flaccid the long-established cushen first observed upon the bleak coast where the spinie pie, cranberries and accessories will all feel peace and the sweet concord of home, will see years were grounded. Memory that never lays as
+furnit
+the
+las
+plac
+yea
+has
+tha
+ucta
+Dor
+and
+ord
+mem
+dem
+an o
+non
+Buy
 
-John Oxenham
-C
+64
+
 INTERNATIONAL
 
 ## Some Reasons Why the Farmer Should Keep Thanksgiving
@@ -2307,19 +2801,26 @@ Just now, apart from our knowledge of food secure, perhaps some of us feel it ne
 
 A person was once visiting a friend whose home commanded a beautiful stretch of mountain scenery. It was, in fact, a magnificent view. "What a wonderful outlook you have here," he remarked to his host. "I am sure if I lived here I should spend most of my time viewing the landscape." "Why, I never thought of it that way," his host replied. "I never considered it anything remarkable. I have simply taken it as a matter of course."
 
-Thousands of people who live in the country enjoy a treasure which is dented to millions of their fellowmen—the blessing of good, pure, out-of-door air, fragrant in spring and summer with perfume of flowers or newmown hay, and in fall and winter laden with crisp, life-giving ozone.
+Thousands of people who live in the country enjoy a treasure which is denied to millions of their fellowmen—the blessing of good, pure, out-of-door air, fragrant in spring and summer with perfume of flowers or newmown hay, and in fall and winter laden with crisp, life-giving ozone.
 
-No one enjoys more blessings and treasures of this kind than the man or woman on the farm. He or she, if inclined to be of a complaining nature, is apt to find fault that life on the farm is so hard and composed so largely of drudgery. Furthermore, "far away fields are always green," and the one on the farm imagines that in the city all must be ease and contentment. These imaginations, however, will not stand the test of personal acquaintanceship with the life that is lived in the cities by hundreds of thousands of people. Farm work is hard, but there are no easy berths in life.
+No one enjoys more blessings and treasures of this kind than the man or woman on the farm. He or she, if inclined to be of a complaining nature, is apt to find fault that life on the farm is so hard and composed so largely of drudgery. Furthermore, "far away fields are always green," and the one on the farm imagines that in the city all must be ease and contentment. These imaginings, however, will not stand the test of personal acquaintance with the life that is lived in the cities by hundreds of thousands of people. Farm work is hard, but there are no easy berths in life.
 
 The average person on the farm lives better, enjoys better air to breathe, better water to drink, better food to eat, better conditions under which to work, better health than the man or woman in corresponding circumstances in the city.
 
-## FINE ARTS NEGRO SUBJECTS
+ANKS
 
-PICTURES, POST CARDS, CALENDARS, COLORED DOLLS Special prices given to business men with their card on the Calendars.
+Day of thanks will give full witness to the custom of the land. Thanksgiving Day is the Pilgrim fathers closed their voyage feature as in the days gone by. And seem to fashion forth the features dear aside attachments of the past will vivify their will be no less sincere because the amid the mountains of the nearby range, look and in the tropic Southlands and the
 
-# Invest To-day Invest Now
+mop
+mar
+gov
+expo
+pen
+par
+shou
+Va
 
-In a racial enterprise, with a Sound Investment.
+-John Oxenham
 
 The Verbena Perfumery Co., Inc. is the only Negro Perfume Company in America, maintaining its own laboratory for the manufacture of Toilet Preparations prepared from formulas discovered by our own Negro chemist. Every preparation placed on the market by us, has come as the result of many years study and experiments by our chemist, only after each has been thoroughly tested and found worthy of maintaining that high standard of distinctive individuality, which so Signally distinguished every Verbena Product.
 
@@ -2333,22 +2834,9 @@ A limited number of shares are being placed on the market. Buy Now, Buy Today.
 
 This establishment takes pride in several outstanding features of its business among which are:
 
-3. It is being supported by colored people.
-
 At present the business is growing rapidly under the efficient management of Mr. L. L. Bowles, and, assisted by Mrs. Emerald Mash. You can do no better thing than call or send your orders here for groceries.
 
 There is still on hand a few shares of stock which may be bought at ten dollars per share by paying either cash or on time. Investigate this concern and you will be convinced of its safety.
-
-DIRECTORS.
-
-E. Tracy Blagburn, President James B. Morris, Attorney
-L. J. Shelton, Vice President W. H. Bowles, Manager
-J. L. Brown, Secretary W. H. Humburd, Director.
-W. M. Warfield, Treasurer
-
-## GO TO SCHOOL IN CALIFORNIA
-
-# GO TO SCHOOL IN CALIFORNIA
 
 Vallejo Institute, located at Vallejo, California, a literary, industrial and vocational free training school and home for colored boys and girls open the year round established 1911 and incorporated in 1912. Books free, tuition free. $100.00 paid in full will pay for board and lodging the whole term nine months. $25.00 on entering pays two months advance then $1250 per month advance rest of term or stay after first two months. Grammar and high school graded work, vocal and instrumental music, government mild but firm principal has had twenty-five years experience as a teacher.
 
@@ -2357,49 +2845,58 @@ Energetic young men and women may work and earn expenses during day attend schoo
 Vallejo Institute, Vallejo, California
 C. H. TONEY, Principal
 
+## FINE ARTS NEGRO SUBJECTS
+
+PICTURES, POST CARDS, CALENDARS, COLORED DOLLS Special prices given to business men with their card on the Calendars.
+
+# Invest To-day Invest Now
+
+In a racial enterprize, with a Sound Investment.
+
+3. It is being supported by colored people.
+
+## GO TO SCHOOL IN CALIFORNIA
+
+# GO TO SCHOOL IN CALIFORNIA
+
+2513 Lake Street
+
 Invest To-day
 Invest Now
 
-In a racial enterprize, with a Sound Invest.
+In a racial enterprize, with a Sound Invest-
 The Verbena Perfumery Co., Inc. is the only
-fume Company in America, maintaining its own
+fume Company in America, maintaining its own B
 the manufacture of Toilet Preparations prepared
 has discovered by our own Negro chemist. Every
-placed on the market by us, has come as the rest
+placed on the market by us, has come as the rees
 years study and experiments by our chemist, one
 has been thoroughly tested and found worthy of
-that high standard of distinctive individuality, wh
+that high standard of distinctive individuality, whi
 by distinguished every Verbena Product.
 
 We are Negro Capital, Negro Chemist, Negro
-organized, 1919, on account of the large demand in
-ducts both here and in the following countries: Port
+organized 1919, on account of the large demand
+inducts both here and in the following countries: Port
 Domingo, Haiti, Panama Canal, South Africa, Lia-
 land Virgin Islands, we were compelled to be in
 order to raise more funds for a larger output.
-
 This is an opportunity for those who desire a
-ment with a quick turnover, with our foreign man
+ment with a quick turnover, with our foreign max
 demand created here for our products. There is a
 an early dividend to Shareholders.
 
-We are capitalized for $25,500.00 shares at $5.
+We are capitalized for $25,500.00 shares at $5
 non-assessable.
-
 A limited number of shares are being placed on
 Buy Now, Buy Today.
 
-Give Usa Call
-
-Our New Your Office Is Located
-1106 Lenox Ave.-Phone Auc
-Anticipating your kind patronage.
+Give Usa Call Our New Your Office Is Locat 646 Lenox Ave.-Phone Au Anticipating your kind patronage.
 
 The American Co-op
 Co., Inc.
 1106 Center Street, Des Moine
-Authorized Capital $10,000 Shares
-
+Authorized Capital $10,000 Shar
 A corporation organized under
 the Laws of Iowa operating
 Grocery Store
@@ -2455,7 +2952,9 @@ Sent Forth.
 INTERMEDIATE AND SENIOR TOPIC
 -Heralds of the King.
 
-Having set forth the laws of the kingdom in the sermon on the mount and his power to administer the affairs of the kingdom in the miracles of the eighth and ninth chapters, Matthew now sets forth us the methods which the king adopted in the propagation of the kingdom. The following divisions of the chapter suggest the dispensational aspects of the lesson:
+YOUNG PEOPLE AND ADULT TOPIC—Recruiting Christian Worker.
+
+Having set forth the laws of the kingdom in the sermon on the mount and his power to administer the affairs of the kingdom in the miracles of the eighth and ninth chapters, Matthew now sets before us the methods which the king adopted in the propagation of the kingdom. The following divisions of the chapter suggest the dispensational aspects of the lesson:
 
 1. Instructions Bearing Immediately Upon the Apostles' Work to the Death of Christ (vv. 1-15).
 
@@ -2463,7 +2962,7 @@ In strictness of interpretation these teachings have no application to any later
 
 1. The ministers chosen (vv. 1-4). These 12 humble men were chosen and commissioned for the work of the propagation of the kingdom. They were not commissioned with church truth. These 12 stood in a peculiar relation to Israel.
 
-2. The sphere of their mission (vv. 5, 6). They were only to go to Jews, and that to respectable ones. They had no message for gentiles or even Samaritans. After Pentecost this sphere was widened (see Luke 24:46-49; Acts 1.8). This would be a strange restriction to place upon ministers today, since the "middle wall of partition" was broken down by the death of Christ.
+2. The sphere of their mission (vv. 5, 6). They were only to go to Jews, and that to respectable ones. They had no message for gentiles or even Samaritans. After Pentecost this sphere was widened (see Luke 24:40-49; Acts 1:8). This would be a strange restriction to place upon ministers today, since the "middle wall of partition" was broken down by the death of Christ.
 
 3. Their message (v. 7). "The kingdom of heaven is at hand." This meant that the promised kingdom of Israel was at hand, that Jesus Christ, the promised king, was present and ready to set up his kingdom if they were willing to have it. This differs widely from the message of the ministers today.
 
@@ -2473,11 +2972,11 @@ In strictness of interpretation these teachings have no application to any later
 
 6. Responsibilities of those to whom the message was delivered (vv. 11-15). Upon entering the city or town they were to inquire for a reputable place to stay. Into that home they were to bring peace. If the people would not receive them or hear their message, they were to pronounce judgment upon them, and the turning of the Lord from them symbolized by the ministers wiping the dust from their feet when turning from the people who had rejected their message.
 
-II. Instructions Concerning the Testimony from Pentecost Onward (vv. 16-23). After Pentecost, testimony for Christ would be fraught with great danger. Both Jews and gentiles would assail the messengers and the most bitter persecutions. They were scourged in the synagogues before heathen magistrates. Instead of bringing peace into the homes they brought divisions of the fiercest kinds among families. In their defense they were to rely upon the Holy Spirit to aid them. These conditions were literally fulfilled in the period from Pentecost to the destruction of Jerusalem. Since the fall of Jerusalem no one has ever been scourged in a synagogue. Verse 23 seems to carry the work forward to the time of the preaching of the gospel of the kingdom in the tribulation times. The Lord's coming then is so speedy that their testimony is cut short.
+II. Instructions Concerning the Testimony from Pentecost Onward (vv. 16-23). After Pentecost, testimony for Christ would be fraught with great danger. Both Jews and gentiles would assail the messengers with the most bitter persecutions. They were scourged in the synagogues before heathen magistrates. Instead of bringing peace into the homes they brought divisions of the fiercest kinds among families. In their defense they were to rely upon the Holy Spirit to aid them. These conditions were literally fulfilled in the period from Pentecost to the destruction of Jerusalem. Since the fall of Jerusalem no one has ever been scourged in a synagogue. Verse 23 seems to carry the work forward to the time of the preaching of the gospel of the kingdom in the tribulation times. The Lord's coming then is so speedy that their testimony is cut short.
 
 III. Teaching Applicable in All Ages (vv. 24-42).
 
-The disciple has the position of oneness with his master. He is to courageously declare the whole counsel of God, though most violently opposed, knowing "that all things work together for good to them that love God." Though their testimony be met with the most bitter opposition, they should not be surprised or discouraged, for so completely is the Lord identified with his disciples that he accepts treatment of the disciples as treatment of himself.
+The disciple has the position of one-ness with his master. He is to courageously declare the whole counsel of God, though most violently opposed, knowing "that all things work together for good to them that love God." Though their testimony be met with the most bitter opposition, they should not be surprised or discouraged, for so completely is the Lord identified with his disciples that he accepts treatment of the disciples as treatment of himself.
 
 ## Seeking God's Aid.
 
@@ -2485,3 +2984,5 @@ Through the day we must often, even amidst our busiest occupations, renew our of
 
 Child Life.
 Child life is a poem written by God's own hand.
+
+e

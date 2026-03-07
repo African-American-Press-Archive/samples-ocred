@@ -1,22 +1,16 @@
 # Where it is Always Spring
 
-WITHIN two days' journey of Philadelphia lies one of the most remarkable lands in the world. Imagine a land of the simple life, that persists in maintaining its cheerfulness, beauty and youth, and refuses to grow up; a place where it always is spring; where the motor car and the trolley are never seen; but where exists the most delightful kind of civilization, the civilization that makes its way without noise, or haste, a very comfortable sort, in fact, and that is the Bermudas, says the Philadelphia Public Ledger.
+WITHIN two days' journey of Philadelphia lies one of the most remarkable lands in the world. Imagine a land of the simple life, that persists in maintaining its cheerfulness, beauty and youth, and refuses to grow up; a place where it always is spring; where the motor car and the trolley are never seen; but where exists the most delightful kind of civilization, the civilization that makes its way without noise, or haste, a very comfortable sort, in fact, and that is the Bermudas, says the Philadelphia Public Ledger. When one steps from the steamship at the wharf at Hamilton, one seems to have at the same moment moved into yesterday, and the change is not so violent as one might believe. Nevertheless, it is a change. The absence of tall buildings, the prevalence of white ones, almost all of them of stone, indicates that one has left home behind. It is impossible to find something compatible with the new vision, for there is no place like it in the world. There is a suggestion of the tropics, but the temperature is most temperate. The winds are of the kind usually referred to as balmy, and to know just what that word means one has to go to these little islands southeast of the Gulf stream.
 
-When one steps from the steamship at the wharf at Hamilton, one seems to have at the same moment moved into yesterday, and the change is not so violent as one might believe. Nevertheless, it is a change. The absence of tall buildings, the prevalence of white ones, almost all of them of stone, indicates that one has left home behind. It is impossible to find something compatible with the new vision, for there is no place like it in the world.
+Hundred Fair-Sized Islands. It is incorrect to allude to the land as Bermuda, for there is a small archipelago, and collectively the islands are known as the Bermudas. But Americans probably always will refer to it as Bermuda.
 
-There is a suggestion of the tropics, but the temperature is most temperate. The winds are of the kind usually referred to as balmy, and to know just what that word means one has to go to these little islands southeast of the Gulf stream.
-
-Hundred Fair-Sized Islands.
-
-It is incorrect to allude to the land as Bermuda, for there is a small archipelago, and collectively the islands are known as the Bermudas. But Americans probably always will refer to it as Bermuda.
-
-The Bermudas consist of about one hundred fair-sized islands, but if one counts all the islets that are visible when the tide is at ebb then, as some industrious geodetic surveyor has left it of record, there are 365. The total land area of the 'islands is 19¼ square miles.
+The Bermudas consist of about one hundred fair-sized islands, but if one counts all the islets that are visible when the tide is at ebb then, as some industrious geodetic surveyor has left it of record, there are 365. The total land area of the 'islands is $19\%$ square miles.
 
 In a general way the main islands are arranged in the form of a fishhook, and the distance from one end to the other is about twenty-five
 
-RUBBER TREE IN BERMuda
+THE PARK
 
-miles. The largest of the group is Bermuda island, which is nowhere wider than three miles, and has a length of fourteen miles.
+RUBBER TREE IN BERMUDA miles. The largest of the group is Bermuda island, which is nowhere wider than three miles, and has a length of fourteen miles. or lakes; hills rising about two hundred and fifty feet from the sea, covered with cedars and shrubs; acres of Easter illies under cultivation, and
 
 As the average person does not like to burden himself with details about geographical position, expressed in degrees, it will be better appreciated how near home these delightful islands are by merely saying that they are 810 statute miles from the steamship pier in New York to the pier at Hamilton. The distance is about the same as that of Chicago from Philadelphia. There is still another way of indicating the location of the Bermudas, and that is to explain that the group lies about six hundred miles east of South Carolina, just a little north of the latitude of Charleston. They are nearer to the United States than they are to any other land.
 
@@ -26,13 +20,11 @@ One of the first things that strikes a visitor from the United States when he ca
 
 ## Cat Saved Soldier's Life.
 
-Cat Saved Soldier's Life.
-
-A singular story of an English officer having his life saved by a cat is told by Sir M. Lloyd of Newport, Pembrooke, England, the father of the officer in question. Lieutenant Lloyd became detached from his regiment near the French frontier. He found refuge in an outhouse, where he remained in an exhausted condition for three days. When he was found a cat was discovered curled around his neck, and it was the conviction of his rescuers that but for this cat Lieutenant Lloyd would have perished from the cold.
+A singular story of an English officer having his life saved by a cat is told by Sir M. Lloyd of Newport, Pembroke, England, the father of the officer in question. Lieutenant Lloyd became detached from his regiment near the French frontier. He found refuge in an outhouse, where he remained in an exhausted condition for three days. When he was found a cat was discovered curled around his neck, and it was the conviction of his rescuers that but for this cat Lieutenant Lloyd would have perished from the cold.
 
 His "Bill."
 
-He had spent half the winter in Washington endeavoring to get a private bill through congress, and returned to the bosom of his family a saddler and wiser man. Shortly after his arrival he was met by a friend, who greeted him warmly with: "Glad to see you back again. How about your bill?" "Bill—bill?" said the disappointed solicitor confusedly, with a dim recollection of an encounter with the hotelkeeper. "I left unpaid."
+He had spent half the winter in Washington endeavoring to get a private bill through congress, and returned to the bosom of his family a sadder and wiser man. Shortly after his arrival he was met by a friend, who greeted him warmly with: "Glad to see you back again. How about your bill?" "Bill—bill?" said the disappointed solicitor confusedly, with a dim recollection of an encounter with the hotelkeeper. "I left it unpaid."
 
 ## Hia "Bill."
 
@@ -46,7 +38,7 @@ There are plenty of amusements for the visitor, but they are naturally almost al
 
 ## Plenty to See and Do.
 
-There are bathing, sailing, fishing; the most beautiful lagoons and lakes in the world; rocky coasts, sandy beaches, islands that ipvite one to visit them; caves, an aquarium, sea gardens, long borders, roading the sea
+There are bathing, sailing, fishing; the most beautiful lagoons and lakes in the world; rocky coasts, sandy beaches, islands that invite one to visit them; caves, an aquarium, sea gardens, long roads, bordering the sea
 
 or lakes; hills rising about two hundred and fifty feet from the sea, covered with cedars and shrubs; acres of Easter lilies under cultivation, and plantations where the delicious Bermuda onions and potatoes are raised. A long causeway connects the two largest islands, and nearly every variety of beautiful landscape is close at hand. For so small a place as these islands there is an extraordinary amount of natural wonders. There is a weird old cave whose roof has tumbled in at one time or another, and into which the water of the ocean pours in at low tide, moaning in a most fascinating manner. They call this well, which has been stocked with fish native to these waters; Devil's Hole, on account of the noise the water makes when it enters. It is a natural aquarium, and the fish in it have been looked at by visitors for so long a time that they rather like the experience, and even answer to a call for dinner. Then, just a few miles outside, specially fitted boats, which have glass windows in their bottoms, take wonder-struck tourists to a fine stretch, where the water is perfectly clear, and the passengers are shown the beautiful coral on this sea floor, like a marine garden of great beauty.
 
@@ -54,38 +46,136 @@ A workman owes it to himself and his family to take care of himself. His labor i
 
 ## The Uncomplaining Woman
 
-Lives there a man who does not believe that an uncomplaining woman has nothing to complain of? It is his masculine prerogative of destiny. Besides, does not he himself when hurt bellow like a bull? Why, he argues, should not wounded woman do the same?-W. J. Locke in "Simon the Jester."
+Lives there a man who does not believe that an uncomplaining woman has nothing to complain of? It is his masculine prerogative of destiny. Besides, does not he himself when hurt bellow like a bull? Why, he argues, should not wounded woman do the same?—W. J. Locke in "Simon the Jester."
 
 Incentive to Better Work.
-Emerson says: "Every day is a doomday." If we realized this, we would take each day and try its worth as it came to us. Then we would do better work tomorrow.—Maltieb D. Babcock.
+Emerson says: "Every day is a doomday." If we realized this, we would take each day and try its worth as it came to us. Then we would do better work tomorrow.—Maltbie D. Babcock.
 
 ## Workman's Asset
 
-HE war has made the cwar changed man. Instead of the invisible aristocrat, concealed from his people behind great palace walls, enormous: parks and files of Imperial guards, protected with infinite care from the assassin, he has become almost a democratic ruler. Everywhere he appears among his people and among his soldiers, returning their greetings,
-
-Everywhere he appears among his people and among his soldiers, returning their greetings, blessing them and encouraging them. Discretion is thrown to the winds. Several times he has penetrated to the battlefields of Poland and would have exposed himself to the shrapnel of the Prussians had not his entourage skillfully rendered this impossible.
+HE war has made the czar a changed man. Instead of the invisible aristocrat, concealed from his people behind great palace walls, enormou: parks and files of Imperial guards, protected with infinite care from the assassin, he has become almost a democratic ruler. Everywhere he appears among his people and among his soldiers, returning their greetings, blessing them and encouraging them. Discretion is thrown to the winds. Several times he has penetrated to the battlefields of Poland and would have exposed himself to the shrapnel of the Prussians had not his entourage skillfully rendered this impossible.
 
 His dress is simple and he is often seen in peasant garb—that is a suit of some fine material cut in peasant blouse style, a manly-looking costume of which the true Russian is very proud.
 
 More remarkable still, the queen, always before the most exclusive of royalty, has gone among her people, visiting the sick and wounded. The Russians scarcely knew her before.
 
-There is in all this ostensible activity a little more than the lesire to arouse and encourage the fighting nation. There is more, for instance, than inspired the visit of King George to his troops in Flanders. This extra element is anxiety, a lively fear and not of German howiters. The victories of Russian arms have their sweetness mixed with bitterness for the czar and his family.
+There is in all this ostensible activity a little more than the lesire to arouse and encourage the fighting nation. There is more, for instance, than inspired the visit of King George to his troops in Flanders. This extra element is anxiety, a lively fear and not of German howitzers. The victories of Russian armies have their sweetness mixed with bitterness for the czar and his family.
 
-Why? The reason is none other than the majestic figure of the Grand Duke Nicholas Nicholaevitch, the commander in chief of the Muscovite forces. The czar has long suffered by physical comparison with his soldier cousin—now he suffers in a more serious way.
+Why? The reason is none other than the majestic figure of the. Grand Duke Nicholas Nicholaievitch, the commander in chief of the Muscovite forces. The czar Las long suffered by physical comparison with his soldier cousin—now he suffers in a more serious way.
 
-If ever there was a king in looks it is Nicholas Nicholaevitch. He is full six feet six inches in his stockings, lean but gracely, with a head in which the keenest intelligence is combined with vast dignity and force.
+If ever there was a king in looks it is Nicholas Nicholaievitch. He is full six feet six inches in his stockings, lean but graceful, with a head in which the keenest intelligence is combined with vast dignity and force.
 
-When he is with the czar the latter by comparison is weak and insignificant looking, a coddled monarch. In secret the czar's subjects are not slow to speak of this and many awful history of the past twenty-five years would have been far different if this tall Mars had been in his cousin's place, that the humiliation of the defeat by Japan would have been spared the proud Russians.
+When he is with the czar the latter by comparison is weak and insignificant looking, a coddied monarch. In secret the czar's subjects are not slow to speak of this and many avow history of the past twenty-five years would have been far different if this tall Mars had been in his cousin's place, that the humiliation of the defeat by Japan would have been spared the proud Russians.
 
-It has to be remembered that the commander in chief has taken his commission to make him dictator of Russia. The proclamations to the Poles and the Jews promising liberties in exchange for loyalty during the war were not signed by the czar, but by Nicholas Nicholaevitch. This was astonishing in itself and many have maintained made the promises null and void because the promising party would never have the power, if he had the wish, to carry out his obligations to the oppressed peoples.
+It has to be remembered that the commander in chief has taken his commission to make him dictator of Russia. The proclamations to the Poles and the Jews promising liberties in exchange for loyalty during the war were not signed by the czar, but by Nicholas Nicholaievitch. This was astonishing in itself and many have maintained the promises null and void because the promising party would never have the power, if he had the wish, to carry out his obligations to the oppressed peoples.
 
-Yet, would the czar dare to oppose his victorious general by refusing to grant a request to carry out these promises? Such an issue might prove a popular one for Nicholas Nicholaevitch.
+Yet, would the czar dare to oppose his victorious general by refusing to grant a request to carry out these promises? Such an issue might prove a popular one for Nicholas Nicholaievitch.
 
-The history of Grand Duke Nicholas begins in an unhappy youth. He chung to his German mother, whose Russian husband had woefully wronged her and ruined the family fortune. But come to manhood, he followed straight in his father's footsteps, for the parent was one of Czar Alexander II's famous field marshals, who many times had scourged the enemies of Russia.
+His dress is simple and he is often seen in peasant garb—that is a suit of some fine material cut in peasant blouse style, a manly-looking costume of which the true Russian is very proud.
+
+More remarkable still, the queen, always before the most exclusive of royalty, has gone among her people, visiting the sick and wounded. The Russians scarcely knew her before.
+
+There is in all this ostensible activity a little more than the lesire to arouse and encourage the fighting nation. There is more, for instance, than inspired the visit of King George to his troops in Flanders. This extra element is anxiety, a lively fear and not of German howitzers. The victories of Russian arms have their sweetness mixed with bitterness for the czar and his family.
+
+Why? The reason is none other than the majestic figure of the. Grand Duke Nicholas Nicholaievitch, the commander in chief of the Muscovite forces. The czar has long suffered by physical comparison with his soldier cousin—now he suffers in a more serious way.
+
+of the Mus-suffered by our cousin—
+it is Nich- six inches with a head
+is combined
+her by com-ing, a cod- subjects are
+now history
+we have far his cousin's
+at by Japan
+ussians.
+commander in
+take him dic- the Poles
+change for
+by the
+
+Throughout the Jap-
+hoped Grand Duke Nic-
+leer leader and he was aga-
+them. Many believed
+he been averted if the czar
+ousy of his popular cou-
+the throne was threaten-
+the czar was forced to
+had slighted and the g-
+by stern means. He wi-
+tion, and commanded
+going about the streets
+Just what happened
+broke out remains to b-
+teresting story. It is kik to follow the kalser's
+with his soldiers, and "What pressure was bro-
+him from this purpose
+of Grand Duke Nic-
+there are rumors that
+along before the czar
+
+If ever there was a king in looks it is Nicholas Nicholalevitch. He is full six feet six inches in his stockings, lean but graceful, with a head in which the keenest intelligence is combined with vast dignity and force. When he is with the czar the latter by comparison is weak and insignificant looking, a coddled monarch. In secret the czar's subjects are not slow to speak of this and many avow history of the past twenty-five years would have been far different if this tall Mars had been in his cousin's place, that the humiliation of the defeat by Japan would have been spared the proud Russians. It has to be remembered that the commander in chief has taken his commission to make him dictator of Russia. The proclamations to the Poles and the Jews promising liberties in exchange for loyalty during the war were not signed by the czar, but by Nicholas Nicholalevitch. This was astonishing in itself and many have maintained made the promises null and void because the promising party would never have the power, if he had the wish, to carry out his obligations to the impressed peoples.
+
+the power, if
+regulations to
+this victori-
+request to
+issue might
+holaevitch.
+its begins in
+his German
+and woefully
+furte. But
+night in his
+was one of
+shals, who
+es of Rus-
+cond of the
+and peas-
+gave more
+the three
+de ordered
+must be
+result was
+thanks to
+
+The present situation
+council of the empire
+hof. Its resolutions are
+the czar for confirmation
+fact, the cabinet simply
+all-powerful commander
+then also attachs his s
+the cabinet does not do
+nor does the czar.
+
+If all this is conceal
+Russian people, it is en
+German, the czarina.
+Invalid, she has suddenly
+the Sisters of Charity
+entered the hospital was
+at operations and has
+wounds with her own h
+the almost religious atti-
+nt to the "Little Faith
+enthusiasm aroused ama
+thus visits.
+
+The czarina be
+her family the person
+duke is taking from her
+
+Yet, would the czar dare to oppose his victorious general by refusing to grant a request to carry out these promises? Such an issue might prove a popular one for Nicholas Nicholaefevitch. The history of Grand Duke Nicholas begins in an unhappy youth. He chung to his German mother, whose Russian husband had woefully wronged her and ruined the family fortune. But come to manhood, he followed straight in his father's footsteps, for the parent was one of Czar Alexander II's famous field marshals, who many times had scourged the enemies of Russia.
 
 Alexander III was not especially fond of the young Grand Duke Nicholas, for noble and peasant alike consciously or unconsciously gave more homage to this splendid giant than to the three spindling, dull sons of the ruler. He ordered that the grand duke's army activities must be limited to the cavalry—but the only result was soon to be told that his horsemen, thanks to
 
-thin as to appear ready to break off. Such spots indicate an appreciable loss of nourishment, a sleepless night or an attack of auto-inxication. In the last named cases the general vitality is interfered with, and the roots of the hair not being developed are not as strong as otherwise. The hair grows until the weight is so great that it can no longer be sustained by the roots and it drops out. That is why hairs are of different lengths. Coarse hair, having large roots, will grow long. When the vital-
+Alexander III was not especially fond of the young Grand Duke Nicholas, for noble and peasant alike consciously or unconsciously gave more homage to this splendid giant than to the three spindling, dull sons of the ruler. He ordered that the grand duke's army activities must be limited to the cavalry—but the only result was soon to be told that his horsemen, thanks to
+
+thin as to appear ready to break off. Such spots indicate an appreciable loss of nourishment, a sleepless night or an attack of auto-intoxication. In the last named cases the general vitality is interfered with, and the roots of the hair not being developed are not as strong as otherwise. The hair grows until the weight is so great that it can no longer be sustained by the roots and it drops out. That is why hairs are of different lengths. Coarse hair, having large roots, will grow long. When the vital-
+
+---
+
+T
 
 ## VITAL FORCE SHOWN BY HAIR
 
@@ -93,39 +183,49 @@ Records the Condition of the Body In a Manner That Is Practically Infallible.
 
 In the course of its continuous growth the hair records the tide of vitality as it rises and falls in the body. When a hair is held up to the light it may be seen to be smaller at some places than at others. There may be a space of one-eighth of an inch, perhaps, where the hair is so
 
-Nicholas Nicholaievitch, were now the best in Europe!
+Nicholas Nicholalevitch, were now the best in Europe!
 
-Meantime the Nicholas' family life was not free from the scandal which so often has made the title "grand duke" a reproach. He first married the middle-aged widow of a wealthy trader. He did not bring her to court, but left her at Moscow, where she would be safe from the slights her extraction might earn her in higher company. She died and her husband, now a rich man, only too quickly wedded the Princess Anastasia of Montenegro, with whom he had long in love. It was while she was the wife of another man, the duke of Leuchtenberg, that Nicholas Nicholaievitch wooed and won her. She persuaded Czar Nicholas to permit her divorce.
+Meantime the Nicholas' family life was not free from the scandal which so often has made the title "grand duke" a reproach. He first married the middle-aged widow of a wealthy trader. He did not bring her to court, but left her at Moscow, where she would be safe from the slights her extraction might earn her in higher company. She died and her husband, now a rich man, only too quickly wedded the Princess Anastasia of Montenegro, with whom he had long been in love. It was while she was the wife of another man, the duke of Leuchtenberg, that Nicholas Nicholalevitch wooed and won her. She persuaded Czar Nicholas to permit her divorce.
 
 Anastasia is a large-framed, vigorous, ambitious woman, devoted to the cause of the Slavs. She is a firebrand and unscrupulous in methods to further her husband's progress to the position of natural leader of the Russian Slavs. It is said her husband is altogether too intimate with a certain lady of the imperial ballet, but this does not seem to affect the relations between the wedded couple. She is always magnificently clad and is as regal in figure as her husband.
 
-Throughout the Japanese war the soldiers hoped Grand Duke Nicholas would be ade their leader and he was again and again promised to them. Many believed final disaster would have been averted if the czar had conquered his jealousy of his popular cousin. After the wcr, when the throne was threatened by the revolutionists, the czar was forced to fall back on the man he had sighted and the grand ruild restored order by stern means. He was in danger of assassination, and commanded admiration by constantly going about the streets unattended.
+Throughout the Japanese war the soldiers hoped Grand Duke Nicholas would be ade their leader and he was again and again promised to them. Many believed final disaster would have been averted if the czar had conquered his jealousy of his popular cousin. After the wc, when the throne was threatened by the revolutionists, the czar was forced to fall back on the man he had slighted and the grand duke restored order by stern means. He was in danger of assassination, and commanded admiration by constantly going about the streets unattended.
 
-Just what happened when the present war broke out remains to be told. It will be an interesting story. It is known that the czar aspired to follow the kaiser's example, take the field with his soldiers, and "be his own field marshal." What pressure was brought to bear dissuad him from this purpose and to force his acceptance of Grand Duke Nicholas is hard to say. But there are rumors that the mobilization was well along before the czar knew of it.
+Just what happened when the present war broke out remains to be told. It will be an interesting story. It is known that the czar aspired to follow the kalser's example, take the field with his soldiers, and "be his own field marshal". What pressure was brought to bear to dissuade him from this purpose and to force his acceptance of Grand Duke Nicholas is hard to say. But there are rumors that the mobilization was well along before the czar knew of it.
+
+Throughout the Japanese war the soldiers hoped Grand Duke Nicholas would be ade their leader and he was again and again promised to them. Many believed final disaster would have been averted if the czar had conquered his jealousy of his popular cousin. After the wc. when the throne was threatened by the revolutionists, the czar was forced to fall back on the man he had slighted and the grand duke restored order by stern means. He was in danger of assassination, and commanded admiration by constantly going about the streets unattended.
+
+Just what happened when the present war broke out remains to be told. It will be an interesting story. It is known that the czar aspired to follow the kalsen's example, take the field with his soldiers, and "be his own field marshal." What pressure was brought to bear to dissuade him from this purpose and to force his acceptance of Grand Duke Nicholes is hard to say. But there are rumors that the mobilization was well along before the czar knew of it.
 
 It is to be remembered there is a Junker party in Russia as well as in Prussia. And this party claims the grand duke as leader.
 
 The present situation is this: The cabinet council of the empire meets every day at Peterhof. Its resolutions are outwardly submitted to the czar for confirmation; but, as a matter of fact, the cabinet simply O. K.'s the orders of the all-powerful commander in chief and the czar then also attaches his signature. In time of war the cabinet does not dare defy the army head, nor does the czar.
 
-If all this is concealed from the mass of the Russian people, it is entirely clear to that astute German, the czarina. Supposed to be a nervous invalid, she has suddenly donned the garments of the Sisters of Charity with her daughters and entered the hospital wards. She is even present at operations and has bound the soldiers' wounds with her own hands. Anyone who knows the almost religious attitude of the Russian peasant to the "Little Father" can realize the wild enthusiasm aroused among those whom the czarina thus visits.
+If all this is concealed from the mass of the Russian people, it is entirely clear to that astute German, the czarina. Supposed to be a nervous invalid, she has suddenly donned the garm-nts of the Sisters of Charity with her daughters and entered the hospital wards. She is even present at operations and has bound up the soldiers' wounds with her own hands. Anyone who knows the almost religious attitude of the Russian peasant to the "Little Father" can realize the wild enthusiasm aroused among those whom the czarina thus visits.
 
-Can the czarina be striving to win Lack for her family the personal popularity the grand duke is taking from her husband? It may be so.
+Can the czarina be striving to win back for her family the personal popularity the grand duke is taking from her husband? It may be so.
 
-**WORK**
+The present situation is this: The cabinet council of the empire meets every day at Peterhof. Its resolutions are outwardly submitted to the czar for confirmation; but, as a matter of fact, the cabinet simply O. K.'s the orders of the all-powerful commander in chief and the czar then also attaches his signature. In time of war the cabinet does not dare defy the army head, nor does the czar.
 
-Monk Wei
+If all this is concealed from the mass of the Russian people, it is entirely clear to that astute German, the czarina. Supposed to be a nervous invalid, she has suddenly donned the garments of the Sisters of Charity with her daughters and entered the hospital wards. She is even present at operations and has bound up the soldiers' wounds with her own hands. Anyone who knows the almost religious attitude of the Russian peasant to the "Little Father" can realize the wild enthusiasm aroused among those whom the czarina thus visits.
 
-A South regiment uninterefling lyingow described viewed:
+Can the czarina be striving to win back for her family the personal popularity the grand duke is taking from her husband? It may be so.
 
-"On Au the front marches in mountains up their peel. The Fu curely and again. A oclock the away ever knapsacks were full. Our are shrapnel fleeing Fry the narrow treat.
+---
 
-The Fu gard us as ward the Bava still from it. I took was near under fire the afternoon worst day from two even behind. It was my way b piece of sh I reached under cover passed the my shoe, tin. I have.
+Japanese war the soldiersolas would be aide theiren and again promised tofinal disaster would havehr conquered his jealiness. After the wrt, whenled by the revolutionists,fall back on the man heand duke restored orderas in danger of assassination by constantlyunattended.
 
-"Is it to kins?" Yes, in one event read entire kins took.
+when the present war be told. It will be an inown that the czar aspiredexample, take the fieldhe his own field marshal."tight to bear to dissuade.and to force his acceptholes is hard to say. Butthe mobilization was wellnew of it.
 
-"Now," captain, a through it. "You has widow, 'b on mate, "
+curely andagain. A oclock the awaveknapsacks werefull "Our arshrapnel fleeing Fren the narrowtreat.
 
-appear ready to break off. Indicate an appreciable element, a sleepless night of auto-intoxication. In old cases the general vitalized with, and the roots not being developed are as otherwise.rows until the weight is low all over the body the roots are imperfectly developed and the hair is likely to fall out, as in cases of typhoid fever.
+"The Fgard us as ward the"The Bava still from"I took was near under firethe afterwost dayfrom two
+
+n is this: The cabinet meets every day at Peter-outwardly submitted to them; but, as a matter of O. K.'s the orders of the in chief and the czar signature. In time of war are defy the army head,
+
+and from the mass of the fierely clear to that astute supposed to be a nervous I damned the garments of with her daughters and sons. She is even present bound up the soldiers' ends. Anyone who knowsude of the Russian peaser" can realize the wild those whom the czar striving to win back for all popularity the grand husband? It may be so.
+
+city is low all over the body the roots are imperfectly developed and the hair is likely to fall out, in cases of typhoid fever.
 
 Dandruff is a parasitic disease, and the parasites get down around the root of the hair, which becomes diseased. That is another reason why the hair falls out.
 
@@ -145,9 +245,9 @@ Monk Went Into Twelve Battles With Bavarians and Was Wounded in Foot.
 
 A South German monk who entered the First regiment of the Bavarian Royal Guards as a volunteer officer at the beginning of the war, is now lying wounded in the hospital at Freiburg. He described his experiences when he was interviewed:
 
-"On August 10 our battalion was sent direct to the frontier. Then we proceeded in forced marches as rapidly as possible to the Vosges mountains, where the French had already taken up their positions.
+"On August 10 our battalion was sent direct to the frontier. Then we proceeded in forced marches as rapidly as possible to the Voges mountains, where the French had already taken up their positions.
 
-"The French had intrenched themselves so securely and firmly that they could hardly get out again. All who fied we shot down. At nine o'clock their positions were ours. They throw away everything they had—rifles, blankets and knapsacks—in the panic of fear. All their trenches were full of dead and wounded.
+"The French had intrenched themselves so securely and firmly that they could hardly get out again. All who fed we shot down. At nine o'clock their positions were ours. They throw away everything they had—rifles, blankets and knapsacks—in the panic of fear. All their trenches were full of dead and wounded.
 
 "Our artillery had come up meanwhile; their shrapnel tore fearful gaps in the ranks of the fleeing Frenchmen, as they could not scatter in the narrow valley through which they had to retreat.
 
@@ -155,7 +255,9 @@ A South German monk who entered the First regiment of the Bavarian Royal Guards 
 
 "I took part in twelve great battles. The last was near Epinal, where we were lying three days under fire. I was wounded about four o'clock in the afternoon of the third day. That was the worst day of all. The shrapnel burst over us from two sides at once. We sought protection even behind the dead.
 
-"It was the fiercest fire I ever saw. I pushed my way back through the hall of bullets, and a piece of shrapnel my tape my knapsack open. Finally I reached a dismantled battery and lay down under cover of the timbers. The bullet which passed through my foot was buried in the sole of my shoe, and the shrapnel was found in the meat tin. I have them both as souvenirs."
+"It was the fiercest fire I ever saw. I pushed my way back through the hail of bullets, and a piece of shrapnel tore my knapsack open. Finally I reached a dismantled battery and lay down under cover of the timbers. The bullet which passed through my foot was buried in the sole of my shoe, and the shrapnel was found in the meat tin. I have them both as souvenirs."
+
+"It was the fiercest fire I ever saw. I pushed my way back through the hull of bullets, and a piece of shrapnel my tie my knapsack open. Finally I reached a dismantled battery and lay down under cover of the timbers. The bullet which passed through my foot was buried in the sole of my shoe, and the shrapnel was found in the meat tin. I have them both as souvenirs."
 
 "Is it true that the widow proposed to Tompkins?"
 "Yes, in a way. Tompkins was calling there one evening, when she handed him a novel to read entitled 'Put Yourself in His Place.' Tompkins took the hint."
@@ -163,6 +265,8 @@ A South German monk who entered the First regiment of the Bavarian Royal Guards 
 "Now," said a newly-made husband, "I am your captain, and you must let me command you through life."
 
 "You have a dual capacity," replied the former widow, "because you are my captain and my second mate, also."—London Telegraph.
+
+---
 
 ## THE WIDOW'S HINT.
 
@@ -174,9 +278,11 @@ A member in the back seat rose and waved his arms excitedly. "I protest, Mr. Cha
 "Protest against what?" asked the chairman.
 "Running a windmill with water," was the reply.—Pittsburgh Chronicle-Dispatch.
 
+Home Town Helps
+
 Cleveland Has Greatly Reduced Cost of Public Utilities Supplied to Its Citizens.
 
-Cleveland has done better than most cities in the application of the communal or municipal idea to public services or utilities. It has a municipal cold storage, in connection with a market, which cost $2,000,000, and is doing well in the environment. It has achieved a three-cent car fare. It now sets out for three-cent electricity. It was paying $90 to $100 a year for street arc lights and the price for power use was eight cents a kilowatt. Two small electrical plants were established. The cost of street arrows灯 dropped about half. The current was sold by the city from its small plants at three cents. A heavy loss was predicted. Instead of that, the plants more than paid expenses. Mayor Baker proposed a sale of $2,000,000 worth of bonds with which to build a plant to sell electricity at three cents. The bond issue was passed by the people and the operation of the new plant began last July. In August there was a profit of $500 on the three-cent price. In September the profit was $1,700, and on the basis of business now in hand and contracted for the superintendent estimates the profit for the first year at $100,000, which would about cover interest charges, depreciation and taxes if it were a private concern. When the plant is completed and running at full capacity the superintendent estimates that there will be a net profit of $500,000 annually—Pittsburgh Dispatch.
+Cleveland has done better than most cities in the application of the communal or municipal idea to public services or utilities. It has a municipal cold storage, in connection with a market, which cost $2,000,000, and is doing well on the investment. It has achieved a three-cent car fare. It now sets out for three-cent electricity. It was paying $90 to $100 a year for street arc lights and the price for power use was eight cents a kilowatt. Two small electrical plants were established. The cost of street arc lights dropped about half. The current was sold by the city from its small plants at three cents. A heavy loss was predicted. Instead of that, the plants more than paid expenses. Mayor Baker proposed a sale of $2,000,000 worth of bonds with which to build a plant to sell electricity at three cents. The bond issue was passed by the people and the operation of the new plant began last July. In August there was a profit of $500 on the three-cent price. In September the profit was $1,700, and on the basis of business now in hand and contracted for the superintendent estimates the profit for the first year at $100,000, which would about cover interest charges, depreciation and taxes if it were a private concern. When the plant is completed and running at full capacity the superintendent estimates that there will be a net profit of $500,000 annually—Pittsburgh Dispatch.
 
 ## SHOW CHILDREN CIVIC NEEDS
 

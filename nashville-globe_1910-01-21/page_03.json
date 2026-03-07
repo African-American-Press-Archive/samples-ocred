@@ -3,16 +3,39 @@
   "image": "images/page_03.jpg",
   "width": 1782,
   "height": 2800,
+  "processed_at": "2026-03-07T12:22:04.309295+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 169,
+    "after_merge": 60
+  },
   "regions": [
     {
       "bbox": [
         85,
         165,
+        386,
+        684
+      ],
+      "label": "text",
+      "text": "On Thursday night in the office of St. Paul A. M. E. Church, the teachers and officers met for the annual election. The pastor, Rev. W. Sampson Brooks, presided and the following were elected for the ensuing year: Mr. J. H. Adams, Superintendent; Mrs. Ida M. Sharber, Assistant Superintendent and organist; Miss G. A. Cayton, secretary; Mr. N. Berry, treasurer; Miss Alberta Davis, chorister; Mrs. J. C. Caldwell, assistant organist; Mr. Sam. L. Rhodes, librarian; Mr. Nathan W. Mitchem, assistant librarian.\n\nTeachers\u2014Class No. 1, N. Berry; class No. 2, C. S. Randals; class No. 3, Mrs. J. H. Adams; class No. 4, E. Lee Kinzer; class No. 5, Mrs. P. J. Ewing; class No. 6, Mrs. Wm. J. Glover; class No. 7, Miss Willie Cooper; class No. 8, Mrs. W. S. Brooks; class No. 9, Mrs. J. H. Hale; class No. 10, Dr. C. V. Roman; class No. 11, Mrs. Addie Wiles; class No. 12, Miss G. A. Cayton; class No. 13, \u2014; class No. 14, Miss Hattie Hill; class No. 15, Dr. R. H. Early; class No. 16, Miss Bessie Martin; class No. 17, Mrs. J. C. Caldwell; class No. 18, Mrs. Cornelia Jones.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        89,
+        696,
         389,
         799
       ],
       "label": "text",
-      "text": "On Thursday night in the office of St. Paul A. M. E. Church, the teachers and officers met for the annual election. The pastor, Rev. W. Sampson Brooks, presided and the following were elected for the ensuing year: Mr. J. H. Adams, Superintendent; Mrs. Ida M. Sharber, Assistant Superintendent and organist; Miss G. A. Cayton, secretary; Mr. N. Berry, treasurer; Miss Alberta Davis, chorister; Mrs. J. C. Caldwell, assistant organist; Mr. Sam. L. Rhodes, librarian; Mr. Nathan W. Mitchem, assistant librarian.\n\nTeachers\u2014Class No. 1, N. Berry; class No. 2, C. S. Randals; class No. 3, Mrs. J. H. Adams; class No. 4, E. Lee Kinzer; class No. 5, Mrs. P. J. Ewing; class No. 6, Mrs. Wm. J. Glover; class No. 7, Miss Willie Cooper; class No. 8, Mrs. W. S. Brooks; class No. 9, Mrs. J. H. Hale; class No. 10, Dr. C. V. Roman; class No. 11, Mrs. Addie Wiles; class No. 12, Miss G. A. Cayton; class No. 13, \u2014; class No. 14, Miss Hattie Hill; class No. 15, Dr. R. H. Early; class No. 16, Miss Bessie Martin; class No. 17, Mrs. J. C. Caldwell; class No. 18, Mrs. Cornelia Jones.\n\nMr. Horace D. Slatter, the newspaper correspondent, spent Tuesday in the city en route South, where he goes to report several conferences. Mr. Slatter is from Hopkinsville, Ky, which he makes his headquarters."
+      "text": "Mr. Horace D. Slatter, the newspaper correspondent, spent Tuesday in the city en route South, where he goes to report several conferences. Mr. Slatter is from Hopkinsville, Ky., which he makes his headquarters.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +45,8 @@
         816
       ],
       "label": "paragraph_title",
-      "text": "---"
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +56,8 @@
         838
       ],
       "label": "paragraph_title",
-      "text": "WHAT'S IN McCLURES."
+      "text": "WHAT'S IN McCLURES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +67,8 @@
         1416
       ],
       "label": "text",
-      "text": "A well-known novelist who withholds his name, tells a most interesting and valuable story in the February McClure's of his experience as a moderate drinker.\n\nProf. Hugo Munsterberg, who recently told the readers of McClures how psychology could be applied to commerce with beneficial results, tells how it could and should be utilized by young America in the chosing of a career; Xavier Paoli, \"the Guardian of Kings,\" writes delightfully of the courtship of King Alphonso and Princess Ena; W. H. Riding contributes another chapter of his reminiscences of noted writers; L. S. Brownell tells of the great work Canada is doing for her farmers, and Percival Gibbon describes Louis Brennan's latest experiments with his mono-rail car. There are stories by Alice Perrin, Helen Green, George Kibbe Turner, E. B. Waterworth, and Mabel Food Martin. The number also contains another installment of Arnold Bennett's amusing satire, \"What the Public Wants.\"\n\nRev. Wm. Beckham left the city Saturday for Clarksville, Louisville, Memphis and a few points in the west, but will return to the city within eight or ten days."
+      "text": "A well-known novelist who withholds his name, tells a most interesting and valuable story in the February McClure's of his experience as a moderate drinker.\n\nProf. Hugo Munsterberg, who recently told the readers of McClures how psychology could be applied to commerce with beneficial results, tells how it could and should be utilized by young America in the chosing of a career; Xavier Paoli, \"the Guardian of Kings,\" writes delightfully of the courtship of King Alphonso and Princess Ena; W. H. Riding contributes another chapter of his reminiscences of noted writers; L. S. Brownell tells of the great work Canada is doing for her farmers, and Percival Gibbon describes Louis Brennan's latest experiments with his mono-rail car. There are stories by Alice Perrin, Helen Green, George Kibbe Turner, E. B. Waterworth, and Mabel Food Martin. The number also contains another installment of Arnold Bennett's amusing satire, \"What the Public Wants.\"\n\nRev. Wm. Beckham left the city Saturday for Clarksville, Louisville, Memphis and a few points in the west, but will return to the city within eight or ten days.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,27 +78,19 @@
         1451
       ],
       "label": "paragraph_title",
-      "text": "MARRIAGES."
+      "text": "MARRIAGES.",
+      "status": "ok"
     },
     {
       "bbox": [
-        95,
-        1453,
-        393,
-        1680
-      ],
-      "label": "text",
-      "text": "Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley. John Stewart and Alice Miller. George Yowell and Orlean E. Patterson. Edgar Stovall and Amanda Willis. Cal Timmons and Sadie Pointer. William Brown and Bettie White Henderson Scales and Sadie Spann."
-    },
-    {
-      "bbox": [
-        97,
+        85,
         1454,
-        392,
-        1556
+        400,
+        1727
       ],
       "label": "text",
-      "text": "Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley John Stewart and Alice Miller."
+      "text": "Steve Davis and Samella Wilson.\nPeter Patterson and Genie B. Williams.\nEddie Moppins and Bessie Johnson.\nArchie Patton and Florence Haley.\nJohn Stewart and Alice Miller.\nGeorge Yowell and Orlean E. Patterson.\nEdgar Stovall and Amanda Willis.\nCal Timmons and Sadie Pointer.\nWilliam Brown and Bettie White.\nHenderson Scales and Sadie Spann.\nWill McIntyre and Sarah B. Phillips.\n\nDEATHS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,27 +100,19 @@
         1722
       ],
       "label": "paragraph_title",
-      "text": "DEATHS."
+      "text": "DEATHS.",
+      "status": "ok"
     },
     {
       "bbox": [
-        98,
+        85,
         1727,
-        396,
-        1794
-      ],
-      "label": "text",
-      "text": "Walter Harper, corner Webster and Spring streets, 57 years. Ora Belle Dozier, Drakes Creek, 3 years."
-    },
-    {
-      "bbox": [
-        100,
-        2031,
-        395,
+        400,
         2061
       ],
       "label": "text",
-      "text": "White Myers, 1002 Stevens street. 26 years."
+      "text": "Walter Harper, corner Webster and Spring streets, 57 years.\nOra Belle Dozier, Drakes Creek, 3 years.\nOdel Skoftin, City Hospital, 2 years.\nJuda Allen, 310 Benedict street, 100 years.\nHenry Clay Smith, 535 Sycamore street, 72 years.\nWm. A. Trarris, 94 Fain street, 1 year.\nFannie Peoples, 1314 Seventeenth avenue, North, 36 years.\nMary Fanney, 94 Fain street, 64 years.\nAngeline Warren, 322 Jo Johnston avenue, 64 years.\nWhite Myers, 1002 Stevens street, 26 years.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +122,8 @@
         2162
       ],
       "label": "text",
-      "text": "Amanda McCullough, 629 Woods alley."
+      "text": "Amanda McCullough, 629 Woods alley.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +133,8 @@
         2364
       ],
       "label": "text",
-      "text": "Mary A. Watson, 523 Sixth avenue, South.\nMoses Young, 80 years, Bordeaux, Tenn.\nJane Mays, 71 years, 532 Tewenty-fourth avenue, North.\nHenry White, 46 years, Charlotte plke."
+      "text": "Mary A. Watson, 523 Sixth avenue, South.\nMoses Young, 80 years, Bordeaux, Tenn.\nJane Mays, 71 years, 532 Tewenty-fourth avenue, North.\nHenry White, 46 years, Charlotte plke.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,47 +144,74 @@
         2431
       ],
       "label": "text",
-      "text": "Howard Cartwright, 23 years, 232\nEighth street."
+      "text": "Howard Cartwright, 23 years, 232\nEighth street.",
+      "status": "ok"
     },
     {
       "bbox": [
-        102,
+        85,
         2501,
         400,
-        2533
+        2780
       ],
       "label": "text",
-      "text": "Marguerite Bowman, 89 years,\nCounty Hospital."
+      "text": "Marguerite Bowman, 89 years,\nCounty Hospital.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        572,
+        100,
+        1136,
+        119
+      ],
+      "label": "text",
+      "text": "THE NASHVILLE GLOBE. FRIDAY. JANUARY 21. 1910.",
+      "status": "ok"
     },
     {
       "bbox": [
         392,
         145,
-        688,
-        338
+        690,
+        745
       ],
       "label": "text",
-      "text": "FRANKLIN NOTES.\nMiss Beulah Perkins, of Brentwood, Tennl, was here to the meeting of the county institute Saturday.\nMrs. M. C. Nevils, of South Franklin, was in town Saturday.\nMrs. W. B. Redmond and W. B. Jr., of Liberty Pike, spent Monday with her mother, Mrs. A. N. C. Williams.\nMr. and Mrs. James Church have a fine baby girl."
+      "text": "FRANKLIN NOTES.\n\nMiss Beulah Perkins, of Brentwood, Tenni, was here to the meeting of the county institute Saturday.\n\nMrs. M. C. Nevils, of South Franklin, was in town Saturday.\n\nMrs. W. B. Redmond and W. B. Jr., of Liberty Pike, spent Monday with her mother, Mrs. A. N. C. Williams.\n\nMr. and Mrs. James Church have a fine baby girl.\n\nRev. Inman, of Lebanon, preached Sunday morning and night at the Mission.\n\nMiss Fannie H. Southall, is visiting in Nashville this week.\n\nWe regret very much to hear of the illness of Mrs. Sallie Southall Webster, of Nashville, Tenn.\n\nMrs. Mary Parks, is on the sick list.\n\nMrs. Willie Banks and little daughter Julia, were out the guests of their grandmother, Mrs. Cisew Ewing.\n\nMrs. Mary Amos, of Chicago, will spend the winter and summer here the guest of her brother, Rev. D. J. Mitchell, of Columbia.\n\nMrs. Dillie Mitchell is very sick.\n\nMesdames F. L. Woldridge and D. J. Mitchell were down to the bedside of Mrs. Sallie Webster Wednesday.\n\nMrs Johnson, of Chicago, will spend the winter with her sister, Mrs. John Wilkins.",
+      "status": "ok"
     },
     {
       "bbox": [
-        392,
-        308,
+        395,
+        748,
         694,
         1100
       ],
       "label": "text",
-      "text": "Mr. and Mrs. James Church have a fine baby girl.\nRev. Inman, of Lebanon, preached Sunday morning and night at the Mission.\nMiss Fannie H. Southall, is visiting in Nashville this week.\nWe regret very much to hear of the illness of Mrs. Sallie Southail Webster, of Nashville, Tenn.\nMrs. Mary Parks, is on the sick list.\nMrs. Willie Banks and little daughter Julia, were out the guests of their grandmother, Mrs. Cisew Ewing.\nMrs. Mary Amos, of Chicago, will spend the winter and summer here the guest of her brother, Rev. D. J. Mitchell, of Columbia.\nMrs. Dillie Mitchell is very sick.\nMesdames F. L. Woldridge and D. J. Mitchell were down to the bedside of Mrs. Sallie Webster Wednesday.\nMrs. Johnson, of Chicago, will spend the winter with her sister, Mrs. John Wilkins.\nMrs. John W. Reddick is sick with pneumonia.\nDr. Whitfield passed through from Nashville en route to his home, Mt. Pleasant, Monday.\nMr. Garfield Thompson has returned to his home, Chattanooga, Tenn. Mrs. Thompson was here as storekeeper and grocer at Womack Distillery.\nMr. and Mrs. Willie Baugh, who have been sick for some time, are slowly improving.\nMr. Anderson Robinson, of St. Louis, is here to spend the winter with his mother, Mrs. Hannah Robinson.\nMr. Ross Sparkman died last Friday and was buried Sunday.\nMr. John Kinnard is on the sick list this week."
+      "text": "Mrs. John W. Reddick is sick with pneumonia.\nDr. Whitfield passed through from Nashville en route to his home, Mt. Pleasant, Monday.\nMr. Garfield Thompson has returned to his home, Chattanooga, Tenn. Mrs. Thompson was here as storekeeper and grocer at Womack Dillery.\nMr. and Mrs. Willie Baugh, who have been sick for some time, are slowly improving.\nMr. Anderson Robinson, of St. Louis, is here to spend the winter with his mother, Mrs. Hannah Robinson.\nMr. Ross Sparkman died last Friday and was buried Sunday.\nMr. John Kinnard is on the sick list this week.",
+      "status": "ok"
     },
     {
       "bbox": [
         398,
         1142,
+        699,
+        1685
+      ],
+      "label": "text",
+      "text": "Mr. Fred J. Ewing, of Nashville, was out Sunday on business.\n\nThe V. P. C.'s Quartette have been engaged to sing for the B. G. A. basket ball games this season; members: F. D. Williams, 1st tenor; T. W. House, 2nd tenor; R. T. Murdick, baritone; O. B. Williams, bass; W. F. Farmer, manager.\n\nMr. Joseph Hodge, Jr., is on the sick list this week.\n\nMr. Robert Murdick was sick last week, but is able to be out now.\n\nMrs. Josephine Merrill has gone to Pulaski, Tenn.\n\nMr. Ghee, of Pulaski, Tenn., the liveryman, passed through Tuesday en route to Nashville with Dr. Fowler's horse, who is now located there.\n\nMiss Jessie Church is on the sick list this week.\n\nRev. Maury has returned home from Columbia, Tenn., where he went to attend to some business.\n\nMr. Abe Adkissam is very sick.\n\nMiss Fannie Joe Woldridge is slowly improving.\n\nTom Cannon, of Nashville, was out Sunday.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        401,
+        1712,
         700,
         1854
       ],
       "label": "text",
-      "text": "Mr. Fred J. Ewing, of Nashville, was out Sunday on business.\n\nThe V. P. C.'s Quartette have been engaged to sing for the B. G. A. basket ball games this season; members: F. D. Williams, 1st tenor; T. W. House, 2nd tenor; R. T. Murdick, baritone; O. B. Williams, bass; W. F. Farmer, manager.\n\nMr. Joseph Hodge, Jr., is on the sick list this week.\n\nMr. Robert Murdick was sick last week, but is able to be out now.\n\nMrs. Josephine Merrill has gone to Pulaski, Tenn.\n\nMr. Ghee, of Pulaski, Tenn., the liveryman, passed through Tuesday en route to Nashville with Dr. Fowler's horse, who is now located there.\n\nMiss Jessie Church is on the sick list this week.\n\nRev. Maury has returned home from Columbia, Tenn., where he went to attend to some business.\n\nMr. Abe Adkissam is very sick.\n\nMiss Fannie Joe Woldridge is slowly improving.\n\nTom Cannon, of Nashville, was out Sunday.\n\nRev. N. H. Pius, the Superintendent of the Teacher-Training Service of the National Baptist Publishing Board, after an absence of about a month in the state of Ohio, where he has organized classes, is back in his office. His family is expected to reach the city some time next week."
+      "text": "Rev, N. H. Pius, the Superintendent of the Teacher-Training Service of the National Baptist Publishing Board, after an absence of about a month in the state of Ohio, where he has organized classes, is back in his office. His family is expected to reach the city some time next week.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,17 +221,30 @@
         1889
       ],
       "label": "paragraph_title",
-      "text": "SUNSHINE HOME NOTES."
+      "text": "SUNSHINE HOME NOTES.",
+      "status": "ok"
     },
     {
       "bbox": [
         402,
         1898,
+        700,
+        2087
+      ],
+      "label": "text",
+      "text": "The Christian Workers' Foreign Missionary Society will hold their regular monthly meeting Monday night, Jan. 24, at which time reports of Christmas offering to the work will be made. We want to thank our many friends who have already responded to our appeal and those who will do so. Miss Burnett, who has been suffering from an attack of la gripppe, is convalescing slowly.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        404,
+        2087,
         702,
         2536
       ],
       "label": "text",
-      "text": "The Christian Workers' Foreign Missionary Society will hold their regular monthly meeting Monday night, Jan. 24, at which time reports of Christmas offering to the work will be made. We want to thank our many friends who have already responded to our appeal and those who will do so.\n\nMiss Burnett, who has been suffering from an attack of la grippe, is convalescing slowly.\n\nThursday, January 13, quite a number of friends gathered at the Home as a surprise to Miss S. E. Moore in the celebration of her birthday. Miss Moore knew nothing of it until the guests were in the house and had been for some time. At first she was almost overcome by surprise, she was soon composed, however, and was delighted with the affair. A delightful evening was spent and the hours sped all too swiftly. The guest list included Misses N. E. Perkins, H. C. Claybrooks, T. A. Gee, N. J. and A. P. McIntosh, B. J. and Cora Ridgeley, Prof. and Mrs. F. E. Dawson, Miss Grimes Glenvs, teacher; Miss C. Moore, student, and Prof. Jeffries of Roger Williams University, Drs. Redd, Russell Mitchell, Rosbey, Rainey, Grant and Mr. Hall. Miss Moore received valuable gifts. Each guest was presented with a souvenir stamped with the name of the home, and in which an appropriate Bible verse, corresponding to the shape of the souvenir was written."
+      "text": "Thursday, January 13, quite a number of friends gathered at the Home as a surprise to Miss S. E. Moore in the celebration of her birthday. Miss Moore knew nothing of it until the guests were in the house and had been for some time. At first she was almost overcome by surprise, she was soon composed, however, and was delighted with the affair. A delightful evening was spent and the hours sped all too swiftly. The guest list included Nisses N. E. Perkins, H. C. Claybrooks, T. A. Gee, N. J. and A. P. McIntosh, B. J. and Cora Ridgeley, Prof. and Mrs. F. E. Dawson, Miss Grimes Givens, teacher; Miss C. Moore, student, and Prof. Jeffries of Roger Williams University, Drs. Redd, Russell Mitchell, Rosbey, Rainey, Grant and Mr. Hall. Miss Moore received valuable gifts. Each guest was presented with a souvenir stamped with the name of the home, and in which an appropriate Bible verse, corresponding to the shape of the souvenir was written.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +254,8 @@
         208
       ],
       "label": "doc_title",
-      "text": "CHURCH DIRECTORY."
+      "text": "CHURCH DIRECTORY.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +265,8 @@
         301
       ],
       "label": "text",
-      "text": "PENTECOSTAL CHURCHES.\nHoliness, 605 Twelfth Avenue, N.\u2014Rev.\nJames B. Crosby, pastor. Sunday services\n11:30 a. m, and 7 p. m.\n\nPLEASANT VALLEY, Edechill St.\u2014Sunday\nschool 9:30 a. m.; preaching 11:30 a. m. and\n8 p. m. Sundays. Rev. Henry Ewing, pastor.\nWEST NASHVILLE. Sunday-school 9:30\nnights; preaching Thursday nights; commu"
+      "text": "PENTECOSTAL CHURCHES.\nHoliness, 605 Twelfth Avenue, N.\u2014Rev.\nJames B. Crosby, pastor. Sunday services\n11:30 a. m, and 7 p. m.\n\nPLEASANT VALLEY, Edechill St.\u2014Sunday\nschool 9:30 a. m.; preaching 11:30 a. m. and\n8 p. m. Sundays. Rev. Henry Ewing, pastor.\nWEST NASHVILLE. Sunday-school 9:30\nnights; preaching Thursday nights; commu",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,17 +276,19 @@
         336
       ],
       "label": "paragraph_title",
-      "text": "SEVENTH DAY ADVENTISTS\nCHURCH."
+      "text": "SEVENTH DAY ADVENTISTS\nCHURCH.",
+      "status": "ok"
     },
     {
       "bbox": [
         698,
-        309,
+        340,
         993,
         383
       ],
       "label": "text",
-      "text": "SEVENTH DAY ADVENTISTS\nCHURCH.\n\nSEVENTH DAY ADVENTIST No 2, 711 Winter\nStreet.\u2014Services Saturday 10 a. m. to\n12 m."
+      "text": "SEVENTH DAY ADVENTIST No 2, 711 Winter Street\u2014Services Saturday 10 a. m. to 12 m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +298,8 @@
         407
       ],
       "label": "paragraph_title",
-      "text": "CATHOLIC CHURCH."
+      "text": "CATHOLIC CHURCH.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +309,8 @@
         453
       ],
       "label": "text",
-      "text": "Holy FAMILY, 458 3d Ave., N.-Rev\nThomas J. Plumket, rector. Sunday services\n10:30 a.m."
+      "text": "Holy FAMILY, 458 3d Ave., N.-Rev\nThomas J. Plumket, rector. Sunday services\n10:30 a.m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +320,8 @@
         478
       ],
       "label": "paragraph_title",
-      "text": "THE CHURCH OF GOD."
+      "text": "THE CHURCH OF GOD.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +331,8 @@
         550
       ],
       "label": "text",
-      "text": "THE CHURCH of God, 534 4th Ave., S.\n-Sunday-school; preaching at eight 8 p. m.\n.M. Workers; church Tuesday nights;\npreaching at River Club Society at 3:30\np. m. Rev. A, W. Thompson, pastor."
+      "text": "THE CHURCH of God, 534 4th Ave., S.\n-Sunday-school; preaching at eight 8 p. m.\n.M. Workers; church Tuesday nights;\npreaching at River Club Society at 3:30\np. m. Rev. A, W. Thompson, pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +342,8 @@
         573
       ],
       "label": "paragraph_title",
-      "text": "A. M. E. ZION CHURCHES."
+      "text": "A. M. E. ZION CHURCHES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +353,8 @@
         619
       ],
       "label": "text",
-      "text": "ZION CHURCH SUNDAY-SCHOOL. Howerton Ave., near Fifth.-Rev. B. R. Scott, pastor. Sunday services 11 a. m. and 7:30 p. m."
+      "text": "ZION CHURCH SUNDAY-SCHOOL. Howerton Ave., near Fifth.-Rev. B. R. Scott, pastor. Sunday services 11 a. m. and 7:30 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +364,8 @@
         642
       ],
       "label": "paragraph_title",
-      "text": "CONGREGATIONAL CHURCHES"
+      "text": "CONGREGATIONAL CHURCHES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +375,8 @@
         770
       ],
       "label": "text",
-      "text": "HOWARD CHAPEL, 12th Ave., N\u2014Sunday-school 10 a.m.; m. preaching services 11 a.m. Sunday; Y. P. S. C. E. 6:00 p. m.; Rev. G. I. Lines, pastor.\nUNION, Fisk University Campus\u2014Preaching at 11 a.m. followed by Sunday-school; Y. M. C. A. and C. E. meetings at 9 a.m.; mission Sunday-school 2 p.m.; prayer-meeting Wednesday at 6:40 p.m."
+      "text": "HOWARD CHAPEL, 12th Ave., N\u2014Sunday-school 10 a.m.; m. preaching services 11 a.m. Sunday; Y. P. S. C. E. 6:00 p. m.; Rev. G. I. Lines, pastor.\nUNION, Fisk University Campus\u2014Preaching at 11 a.m. followed by Sunday-school; Y. M. C. A. and C. E. meetings at 9 a.m.; mission Sunday-school 2 p.m.; prayer-meeting Wednesday at 6:40 p.m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +386,8 @@
         793
       ],
       "label": "paragraph_title",
-      "text": "EPISCOPAL."
+      "text": "EPISCOPAL.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +397,8 @@
         1138
       ],
       "label": "text",
-      "text": "HOLY TRINITY, S. 6th and Ewing Aves.\u2014Sunday-school 9:30; preaching services 11:30 a. m. and 7:30 p. m. Sunday. Rev. Father Coombs, rector.\nHOFFMAN HALL, Hoffman Hall Building.\u2014Sunday-school 9:30 a. m.; preaching 11:30 a. m. Sunday; praise services 7 p. m. Rev. E. J. Batty, pastor.\nHANNINGTON CHAPEL, Hoffman Hall.\u2014Sunday services 7:30 and 11 a. m. and 4 p. m.\nCOLORED METHODIST EPISCOPAL CHURCHES.\nLANE TABERNACLE.\u2014Sunday-school 9:30 a. m.; preaching 11:30 a. m. and 8 p. m.; Epworth League meeting at 6:30 p. m.; prayer meeting every Wednesday at 8 o'clock. Rev. I. H. Jones, pastor, No. 27. Spring street, East Nantucket. B. P. Jones Superintendent.\nCAPERS CHAPEL, Church St. Viaduct.\u2014Sunday-school 9:30 a. m.; preaching services 11 a. m. and 8 p. m.; prayer-meeting Tuesday and Friday nights; C. E. 7 p. m. Sunday. Rev. Amos, pastor."
+      "text": "HOLY TRINITY, S. 6th and Ewing Aves.\u2014Sunday-school 9:30; preaching services 11:30 a. m. and 7:30 p. m. Sunday. Rev. Father Coombs, rector.\nHOFFMAN HALL, Hoffman Hall Building.\u2014Sunday-school 9:30 a. m.; preaching 11:30 a. m. Sunday; praise services 7 p. m. Rev. E. J. Batty, pastor.\nHANNINGTON CHAPEL, Hoffman Hall.\u2014Sunday services 7:30 and 11 a. m. and 4 p. m.\nCOLORED METHODIST EPISCOPAL CHURCHES.\nLANE TABERNACLE.\u2014Sunday-school 9:30 a. m.; preaching 11:30 a. m. and 8 p. m.; Epworth League meeting at 6:30 p. m.; prayer meeting every Wednesday at 8 o'clock. Rev. I. H. Jones, pastor, No. 27. Spring street, East Nantucket. B. P. Jones Superintendent.\nCAPERS CHAPEL, Church St. Viaduct.\u2014Sunday-school 9:30 a. m.; preaching services 11 a. m. and 8 p. m.; prayer-meeting Tuesday and Friday nights; C. E. 7 p. m. Sunday. Rev. Amos, pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +408,8 @@
         1160
       ],
       "label": "paragraph_title",
-      "text": "PRESBYTERIAN CHURCH"
+      "text": "PRESBYTERIAN CHURCH",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +419,8 @@
         1283
       ],
       "label": "text",
-      "text": "St. ANDREW, 8th Ave., N.\u2014Rev. Spencer Jackson, pastor. Sunday services 11 a. m. and 7:30 p. m.\n\nCUMBERLAND PRESBYTERIAN.\nFIRST CHURCH, 1507 Hamilton St.-J. M. Disshon, pastor. Sunday services 11 a. m. and 7:30 p. m."
+      "text": "St. ANDREW, 8th Ave., N.\u2014Rev. Spencer Jackson, pastor. Sunday services 11 a. m. and 7:30 p. m.\n\nCUMBERLAND PRESBYTERIAN.\nFIRST CHURCH, 1507 Hamilton St.-J. M. Disshon, pastor. Sunday services 11 a. m. and 7:30 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,17 +430,30 @@
         1311
       ],
       "label": "paragraph_title",
-      "text": "CHRISTIAN CHURCHES."
+      "text": "CHRISTIAN CHURCHES.",
+      "status": "ok"
     },
     {
       "bbox": [
         707,
         1317,
+        1010,
+        1893
+      ],
+      "label": "text",
+      "text": "LEA AVENUE, 713 Lea Avenue\u2014Sunday school 9:30 a.m.; preaching services 11 a.m. and 8 p.m. Sundays, C. E. 7 p.m. Sunday evening; prayer-meeting Wednesday night. Rev. Preston Taylor, pastor, 449 Fourth avenue, north.\n\nGAY STREET\u2014Preaching 11 a.m. and 8 p.m.; Sunday-school, 9:30; Christian Endeavor 7 p.m. Eld. S. D. Cottrell, pastor.\n\nWILLOW STREET, S. Hill, S. W. Cor. First avenue.\u2014Rev. A. J. Lawrence, pastor. Sunday service 7:30 p.m.\n\nMETHODOST EPISCOPAL.\n\nCLARK MEMORIAL, 308 Franklin St.\u2014Rev. Thomas W. Johnson, pastor. Sunday school 9:30 a.m.; Sunday services 11 a.m. an",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        712,
+        1894,
         1011,
         2143
       ],
       "label": "text",
-      "text": "LEA AVENUE, 713 Lea Avenue \u2014Sunday-school 9:30 a.m.; preaching services 11 a.m. and 8 p.m. Sundays, C. E. 7 p.m. Sunday evening; prayer-meeting Wednesday night. Rev. Preston Taylor, pastor, 449 Fourth avenue, north.\n\nGAY STREET \u2014Preaching 11 a.m. and 8 p.m.; Sunday-school, 9:30; Christian Endeavor 7 p.m. Eld. S. D. Cottrell, pastor.\n\nWILLOW STREET, S. Hill, S. W. Cor. First avenue.\u2014Rev. A. J. Lawrence, pastor. Sunday service 7:30 p.m.\n\nMETHODIST EPISCOPAL.\n\nCLARK MEMORIAL, 308 Franklin St.\u2014Rev. Thomas W. Johnson, pastor. Sunday-school 5:30 a.m.; Sunday services 11 a.m. and"
+      "text": "McNairy HILL, Broad St.-Sunday-school\n9:30; preaching 11 a. m. and 8 p. m.\nSundays. Services twice a week. Rev. Martin\nSlater, pastor.\nSt. ELI, 8th Ave.-Sunday-school 9:30\na. m.; preaching 11:30 a. m. and 8 p. m.\nSundays. Rev. Green Thompson, pastor.\nSt. LUKE, Green St.-Sunday-school 9:30\na. m.; preaching services 11 a. m. and 8 p. m.\nSundays. Rev. L, Mason, pastor, 7 Miller\nstreet.\nBETHEL PRIMITIVE.-Sunday-school 9:30\na. m.; preaching services 1:30 a. m. and\n8 p. m. Sundays. Rev. James Bryant, pastor.\nMt. MORIAH, S. E. Cor. 16th Ave., N.\nSunday-school 9:30 a. m.; preaching services\n11:30 a. m. and 8 p. m. Sundays. Rev. N.\nRoach, pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +463,8 @@
         2188
       ],
       "label": "paragraph_title",
-      "text": "STAG PARTY."
+      "text": "STAG PARTY.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +474,8 @@
         2447
       ],
       "label": "text",
-      "text": "Messrs. Herbert Thompson and Charlie Powers entertained with a stag party at the residence of Mr. Robert Sumner, 631 Webster street, Tuesday evening. Those who enjoyed the hospitality were Messrs. Arthur Taylor, Robert Sumner, Jackson Johnson, Alexander Tipton, Walter Phillips, Levy Allison, Anderson Fort, Robert Banks, Edward Stockell, Daniel Batts, Arthur Ware, Martin Brown, James Brice, Samuel Whiteside, Herbert Thompson, Charlie Powers. At a late hour a fourcourse menu was served."
+      "text": "Messrs. Herbert Thompson and Charlie Powers entertained with a stag party at the residence of Mr. Robert Sumner, 631 Webster street, Tuesday evening. Those who enjoyed the hospitality were Messrs. Arthur Taylor, Robert Sumner, Jackson Johnson, Alexander Tipton, Walter Phillips, Levy Allison, Anderson Fort, Robert Banks, Edward Stockell, Daniel Batts, Arthur Ware, Martin Brown, James Brice, Samuel Whiteside, Herbert Thompson, Charlie Powers. At a late hour a fourcourse menu was served.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +485,8 @@
         2480
       ],
       "label": "paragraph_title",
-      "text": "FIRST BAPTIST CHURCH"
+      "text": "FIRST BAPTIST CHURCH",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +496,8 @@
         2536
       ],
       "label": "text",
-      "text": "\"The Secret of Happiness\" will be the subject of Rev. W. S. Ellington's discourse Sunday morning."
+      "text": "\"The Secret of Happiness\" will be the subject of Rev. W. S. Ellington's discourse Sunday morning.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +507,8 @@
         334
       ],
       "label": "text",
-      "text": "PLEASANT VALLEY, Edithchl St.-Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 8 p.m. Sundays. Rev. Henry Ewing, pastor. WEST NASHVILLE. Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 7:30 p.m. prayer-meeting night. Rev. T. V. Thatcher, pastor."
+      "text": "PLEASANT VALLEY, Edithchl St.-Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 8 p.m. Sundays. Rev. Henry Ewing, pastor. WEST NASHVILLE. Sunday-school 9:30 a.m. ; m. preaching 11:30 a.m. and 7:30 p.m. prayer-meeting night. Rev. T. V. Thatcher, pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +518,8 @@
         387
       ],
       "label": "text",
-      "text": "THE UNITED PRIMITIVE BAPTIST, S. E. Cor.\nWalker St., N. W.\u2014Sunday-school 9:30\na. m.; preaching 11:30 a. m. and 8 p. m.\nSundays, Rev. Robert Estleman, pastor."
+      "text": "THE UNITED PRIMITIVE BAPTIST, S. E. Cor.\nWalker St., N. W.\u2014Sunday-school 9:30\na. m.; preaching 11:30 a. m. and 8 p. m.\nSundays, Rev. Robert Estleman, pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,17 +529,41 @@
         424
       ],
       "label": "paragraph_title",
-      "text": "AFRICAN METHODIST EPISCOPAL CHURCHES"
+      "text": "AFRICAN METHODIST EPISCOPAL CHURCHES",
+      "status": "ok"
     },
     {
       "bbox": [
         1001,
         428,
+        1301,
+        1026
+      ],
+      "label": "text",
+      "text": "St. JOHN, cor. 8th Ave, N., and Cedar St.-Sunday services 11:30 a.m. m and 8:00 p.m.; Sunday-school 9:30 a.m. m; Christian Endeavor 7:00 p.m. prayer and class meeting Tuesday night. Rev. A. Brooks, pastor, residence 923 Jackson street.\n\nSt. PAUL, Cor. 4th Ave, S., and Franklin St.-Sunday services 11",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1011,
+        1027,
+        1307,
+        1611
+      ],
+      "label": "text",
+      "text": "PAYNE CHAPEL, Ramsey St., near 6th St.\u2014Sunday services 11:00 a.m. and m. b. p. m.; Sunday-school 9:30 a.m.; Christian Endeavor; 7:00 p. m.; class meeting Tuesday night; prayer meeting Thursday night. Rev. Wm. Flagg, pastor.\n\nST. JAMS, Mooretown\u2014Sunday services 11:00",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1016,
+        1612,
         1307,
         2143
       ],
       "label": "text",
-      "text": "St. JOHN, cor. 8th Ave. N., and Cedar St.-Sunday services 11:30 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m.; Christian Endeavor 7:00 p.m.; prayer and class meeting Tuesday night. Rev. A. Brooks, pastor, residence 923 Jackson street.\n\nSt. PAUL, Cor. 4th Ave. S., and Franklin St.-Sunday services 11:00 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m."
+      "text": "ANTIOCH, 308 Benedict St.-Sunday services\nSunday-school 3 p. m.; Christian Endeavor 7 p. m.; preaching 8 p. m.; prayer meeting Wednesday night. Rev. Jas. L. Markin, pastor, 312 Hill street.\n\nMISSIONARY BAPTIST CHURCHES.\nM. Olive, Cedar St.-Sunday-school 9:30 a. m.; preaching 11:20 and 8 p. m.; Sundays teachers' meeting Tuesday evenings 7:30 prayer-meeting Tuesday nights; preaching on Thursday nights; communion every first Sunday in each month 3 p. m. Rev. C. H. Clark, 610 Joi Johnston avenue, pastor; Philip Douglas, Jackson street, Church Clerk; J. Elridge Hurt, 1205 Clinton street, Sunday-school Superintendent.\nSPRUCE STREET, 8th Ave., N.-Sunday-school at 0:30 a. m.; services 11:30 a. m. and 8 p. m.; B. Y. P. U. 7 p. m.; prayer meeting on Friday nights; communion services every first Sunday in each month. Rev. T. J. Townsend, D. D., pastor.\nSVLYN ST., Shelly Ave.-Sunday-school 0:30 a. m.; services 11:30 a. m. and 8 p. m.; Sundays; prayer-meeting Tuesday night; teachers' meeting Tuesday night; preaching services Friday night; B. Y. P. U. Sunday 7 p. m. Rev. W. Haynes, D. D., pastor. residence Whit's Creek Park, FIRST BAY'S Ave., N.-Sunday-school 0:30 a. m.; services 11:30 a. m. and 8 p. m.; Sundays; R. Y. P. U. 7 p. m.; prayer-meeting Tuesday nights; services Thursday nights; communion services every first Sunday. Rev. W. S. Ellington, A. M. D., Pastor; B. A. Carter, 710 Gay street, Clerk; Mr. J. D. Crenshaw, Superintendent of Sunday-school.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +573,8 @@
         2329
       ],
       "label": "text",
-      "text": "The Baracas will augment the study of the regular Sunday-school Lesson by the discussion of the apostles as individuals. Prof. J. D. Crenshaw, who was reelected superintendent of the Sunday-school last Sunday, will appoint his teachers and give a brief outline of his plans for the year's work."
+      "text": "The Baracas will augment the study of the regular Sunday-school Lesson by the discussion of the apostles as individuals. Prof. J. D. Crenshaw, who was reelected superintendent of the Sunday-school last Sunday, will appoint his teachers and give a brief outline of his plans for the year's work.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +584,8 @@
         2349
       ],
       "label": "paragraph_title",
-      "text": "---"
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,17 +595,52 @@
         2539
       ],
       "label": "text",
-      "text": "Invitations are out announcing the annual banquet of the Railway Employees' Protective Association. This will be the fifth annual affair. The invitation says it will be given in the hall of the association Monday night, Jan. 24, at 8 o'clock, corner of Tenth avenue North, and Cedar street. President Humphrey Bowling is working as untiringly as horetofore to make this a success."
+      "text": "Invitations are out announcing the annual banquet of the Railway Employees' Protective Association. This will be the fifth annual affair. The invitation says it will be given in the hall of the association Monday night, Jan. 24, at 8 o'clock, corner of Tenth avenue North, and Cedar street. President Humphrey Bowling is working as untiringly as horetofore to make this a success.",
+      "status": "ok"
     },
     {
       "bbox": [
         1298,
         237,
+        1604,
+        826
+      ],
+      "label": "text",
+      "text": "SECOND, Stevens St., Cor. Deluge\u2014Sunday-school 9:30 a.m. m.; services 11:30 a.m. m and 8:30 p. m. Sundays; prayer meetings Tuesday nights; preaching Thursday nights; communion services every first Sunday. Rev. G. B. Taylor, pastor.\n\n5TH. AVE.\u2014Sunday-school 9:30 a.m.",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1306,
+        828,
+        1612,
+        1378
+      ],
+      "label": "text",
+      "text": "FAIRFIELD.\u2014Sunday-school 9:30 a. m.; services 11:30 a. m. and 8 p. m.; Sundays; communication services every first Sunday. Rev. B. Majors, pastor, 118 Green street. TABERNACLE. 8th Ave., N.-Sunday-school 9:30 a. m.; preaching services 11:30 a. m. and 8 p. m.; Sundays;",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1313,
+        1380,
         1614,
+        1932
+      ],
+      "label": "text",
+      "text": "ZION BAPSTEH, E. Nashville\u2014Sunday-school 9:30; preaching 11:30 a. m. and 8 p. m. Sundays; communion services every first Sunday. Rev. Joseph Keel, pastor, 820 Joseph avenue.\n\nFREE SILVER PLANT MISSION\u2014Sunday-school at 9:30 a. m. and 8:30 p. m. Sundays; communion services every first Sunday. Rev. H. E. Pennington, pastor, R. F. D. No. 2. PILGRIM\u2014Sunday-school 9:30 a. m.; preaching 11:30 a. m. and 8:30 p. m. Sundays. Rev. R. Black, pastor.\n\nWEST NASHVILLE\u2014Sunday-school at 9:30 a. m.; preaching 11:30 a. m. and 8 p. m. Tuesday night, prayer services; Wednesday night, preaching; communion services every first Sunday. Rev. W. M. Farrell, pastor.\n\nMt. GILEAD, Trimble Bottom\u2014Sunday-school 9:30 a. m",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1314,
+        1934,
+        1613,
         2143
       ],
       "label": "text",
-      "text": "SECOND, Stevens St., Cor. Deluge\u2014Sunday-school 9:30 a.m.; services 11:30 a.m. and 8:30 p.m. Sundays; prayer meetings Tuesday nights; preaching Thursday nights; communion services every first Sunday. Rev. G. B. Taylor, pastor.\n\n5TH AVE.\u2014Sunday-school 9:30 a.m."
+      "text": "NORTH SPRUCE, Cor. 8th Ave. and Jackson St.-Sunday-school 9:30; preaching 11 a. m. and 8 p. m., Sundays. Rev. Jeff Turner, pastor.\n\nLAKE PROVIDENCE, end of Nolensville Pike.-Sunday-school 9:30 a. m.; preaching services 11:30 a. m. and 8 p. m. Sunday. Rev. Cumby, pastor.\n\nBASS Str., BASS St.-Sunday-school 9:30 a. m.; preaching services 11:30 a. m. and 8 p. m., Sundays. W. J. Bogus, pastor. V. Grant, Jr. A. Bogus, N. and Nolas Pike.-Sunday-school 9:30 a. m.; preaching 11 a. m. and 8 p. m. Rev. James Small, pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +650,8 @@
         2326
       ],
       "label": "text",
-      "text": "Church and School Work a Specialty."
+      "text": "Church and School Work a Specialty.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +661,8 @@
         2436
       ],
       "label": "paragraph_title",
-      "text": "E. E. GREEN & CO.\nTHE TINNER."
+      "text": "E. E. GREEN & CO.\nTHE TINNER.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +672,8 @@
         2538
       ],
       "label": "text",
-      "text": "Tin, Iron and Asphalt Roofing, Guttering and Valleys and Stoves Repaired Special attention given to all work.\n607 Twelfth Avenue, North, Nashville, Tenn."
+      "text": "Tin, Iron and Asphalt Roofing, Guttering and Valleys and Stoves Repaired Special attention given to all work.\n607 Twelfth Avenue, North, Nashville, Tenn.",
+      "status": "ok"
     }
   ]
 }

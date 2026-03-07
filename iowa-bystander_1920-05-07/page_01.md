@@ -1,6 +1,6 @@
 # THE BYSTANDER
 
-XXVI No.45
+Boost Pay and read The Bystander
 
 ## Farmer leaves $100,000.
 
@@ -45,15 +45,17 @@ Seated In First Balcony Buffalo, N. Y., Mav 7—The Gayetty theatre paid over to
 
 ## Presidential Candidates Dodge Questionnaire
 
-New York City April 22.—Fifteen of the seventeen presidential candidates fail eeplying to a questionnaire sent them by the N.A.A.C.P. on February 18 asked which colored people regard as fundamental-
+Fifteen Out Of Seventeen Failed To Answer Documents Sent Them By The N.A.A.C.P. OnFebruary18th
+
+New York City April 22.—Fifteen of the seventeen presidential candidates fail eeplying to a questionaire sent them by the N.A.A.C.P. on February 18 asked which colored people regard as fundamental-
 
 The same questionare was sent them again on March 12th but only Senators Harding and Poindexter replied.
 
-Poindexter declared himself for the rights and the opportunities of all citizens reardless of color. Harding declared that he would stand solidly behind any platform that the convention made but would not answer the questions asked by the Association.
+Poindexter declared himself for the rights and the opportunities of all citizens reardless of color. Hardiag declared that he would stand solidly behind any platform that the convention made but would not answer the questions asked by the Association.
 
-The questionaire asked, "If elected president;—1 Will you favor laws making lynching a Federal offense? 2. What is your attitude against distranchisement of Americans of Negro descent? 3. Will you endeavor to bring about abolition of Jim Crow cars? 4. Will you with draw armed force Haiti? 5. Will you urge National aid for elementary education? 6. Will you pledge the proper ratio of Negro Soldiers and officers with armed forces of the United States? 7. Will you abolish racial prejudice in the Civil Service of the United States?"
+The questionnaire asked, "If elected president;—1 Will you favor laws making lynching a Federal offense? 2 What is your attitude against distranchisement of Americans of Negro descent? 3. Will you endeavor to bring about abolition of Jim Crow cars? 4. Will you with draw armed force Haiti? 5. Will you urge National aid for elementary education? 6 Will you pledge the proper ratio of Negro Soldiers and officers with armed forces of the United States? 7. Will you abolish racial prejudice in the Civil Service of the United States?"
 
-Hebert Hoover, Franklin Lowen Hiram Johason, General Wood and General Pershing were among the number who refused to answer the questionaire.
+Hebert Hoover, Franklin Lowen Hiram Johnson, General Wood and General Pershing were among the number who refused to answer the questionnaire.
 
 ## ---
 
@@ -92,7 +94,13 @@ The Mission circle of Antioch gave a fish fry last week and realized a neat sum.
 
 ## OSCEOLA ITEMS.
 
-Mr. Robert D. Durr, representative and agent of the Bystander was in the city Thursday in the interest of his super and while in the city he called on the pastor. The ladies of the St. Paul A. M. E. church met last Thursday afternoon and organized a sewing circle the following officers were elected will be announced next week. Mrs. Lizzie Draden was a passenger to Des Moines Saturday morning to spend a few days with her son. Mr.
+Mr. Robert D. Durr, representative and agent of the Bvstander was in the city Thursday in the interest of his paper and while in the city he called on the pastor.
+
+The ladies of the St. Paul A. M. E. church must last Thursday afternoon and organized a sewing circle the following officers were elected will be announced next week.
+
+Mrs. Lizzie Draden was a passenger to Des Moines Saturday morning to spend a few days with her son, Mr.
+
+DES MOINES, 1OWA, FRIDAY, MAY 7 1920.
 
 # Official Program of the Iowa Federation Colored Womens' Clubs Held in Davenport Iowa May 24-25 and 26 19th Annual Session
 
@@ -105,8 +113,25 @@ Motto—Sowing seeds of kindness; lifting
 as we climb.
 
 Report of program committee—Outlines
-heads of departments for en-
-signing
+from heads of departments for en-
+suring year.
+Evening Session—Citizens Night.
+Citizens Night.
+America ... Orehestra
+Invocation ... Rey, S. B, Moore
+Address of Welcome. Mayor Barewald
+Response ... Mrs. Jennie Johnson
+Vocal Solo ... Mr. Engene Green
+Welcome in Behalf of City Federation
+... Mrs. Eva Gordon
+Welcome in Behalf of Y. W, C. A.
+... Mrs. Fairfax B. Richey
+Piano Solo ... Miss Marie Wilkerson
+Welcome in Behalf of N. A. A, C. P.
+... Mrs. Emma Brooks
+Reading ... Mrs. Leona Davis
+Vocal Solo ... Mrs. F. R. Nicholson
+Selection ... Orehestra
 
 ## Tuesday A. M.. May 25.
 
@@ -117,10 +142,8 @@ Report of Credential Committee—By
 Chairman, Mrs. Alberta Carter, Davenport.
 
 Minutes of Board Meeting.
-Report of State officers—District meet
-ings
-
-Report of State officers—District meet ings. Announcement of committees.
+Report of State officers—District meetings.
+Announcement of committees.
 
 Paper — Parent Teacher's Association,
 Mrs. Lillian Sillian, Des Moines, Iowa,
@@ -179,9 +202,9 @@ We are expecting Mrs. Hazel Peniston the latter part of the week from Trenton, M
 
 The pastor preached Sunday morning April25. Subject Christian armour, Romans 8:35. Service at 10:30 a. m. Chariton, Iowa at 8:00 p. m. subject, Christ crucified, 1 Corinthians 15:17. The Rystander representative was in Osceola Thursday to look after the interests of the paper.
 
-The Rewstander representative was in Osceola Thursday to look after the institute.
-
 ## CLARINDA ITEMS.
+
+Could not obtain @p.30
 
 Tuesday Evening, May 25.
 Patriotic music.
@@ -241,25 +264,31 @@ Report of Statistician—Mrs. Winnie Grey.
 Vocal Solo—Miss Marjorie Lee, Cedar Rapids, Iowa.
 
 Suffrage—Miss Adah Hyde, Des Moines, Iowa.
-Collection from Glee Club.
+Selection from Glee Club.
 Collection.
-Violin and Piano Duett.....Mrs.
-Martha Hocker and Hert, Davenport Installation of officers—Mrs. Gertrude Rush, Des Moines, Iowa, honorary president of I, F, C, W, C.
-Vocal Solo
-.....Mrs. Clara Shepherd, Davenport Reading
-.....Mrs. Dr. Davis, Rock Island, II.
-Vocal Duett
-.....Mrs. Leathea Culherson and Smith, Davenport Announcements.
+Violin and Piano Duett ...Mrs.
+Martha Hocker and Hart, Davenport
+Installation of officers—Mrs, Gertrude
+Rush, Des Moines, Iowa, honorary
+president of I. F. C. W. C.
+Vocal Solo ...Mrs, Clara Shepherd, Davenport
+Reading ...Mrs, Dr. Davis, Rock Island, Ill.
+Vocal Duett ...Mrs, Leathen
+Culberson and Smith, Davenport
+Announcements.
 Adjournment.
-Program committee—Mrs. Mable Robinson, Hocking, Iowa; Mrs. Esther Stocker, Davenport, Iowa; Miss Lelia Downey, Ottumwa, Iowa.
+Program committee—Mrs Mable Robinson,
+som, Hocking, Iowa; Mrs, Esther
+Stocker, Davenport, Iowa; Miss Lelia
+Downey, Ottumwa, Iowa.
 
-To be very progressive. Among the business enterprises are the Busy Bee Hotel L. W. Williams Cafe and Hon. Carriers painting establishment. The two churches pastored by Rev. Reynolds and Mauley are lively up-to-date religious centers. At 12:30 Sunday I delivered a lecture at the Baptist church and afterward addressed the Sunday School at which I received noble tribute by Miss Vjola Walker, superintendent of the school, one that was magnificently rendered and very appropriate. Miss Walker will graduate this year at the high school of Clarinda. She is in high standing there with both white and black and is very promising leader for the future. One fact that the colored race should be proud of. The peacefulness of that city was marred by the death of Mrs. Heady, a very prominent matron of the Eastern Star of that city. A memorial was held by that chapter on the 24 inst which I attended.
+be very progressive. Among the business enterprises are the Rusby Bee Hotel L. W. Williams Cafe and Hon. Farreries painting, establishment. The two churches pastored by Rev. Reynolds and Manley are lively up-to-date religious centers. At 12:30 Sunday I delivered a lecture at the Baptist church and afterward addressed the Sunday School at which time I received noble tribute by Miss Vijola Walker, superintendent of the school, one that was magnificently rendered, and very appropriate. Miss Walker will graduate this year at the high school of Clarinda. She is in high standing there with both white and black and is very very promising leader for the future. One fact that the colored race should be proud of. The peacefulness of that city was marred by the death of Mrs. Headly, a very prominent matron of the Eastern Star of that city. A memorial was held by that chapter on the 24 inst which I attended.
 
-The push and get-up these people must to have is quite inspiring to see. I must also say that I was cordially received at the Methodist church Sunday at which time the pastor gave me bis whole hour to deliver my address. Which everyone seemed to enjoy—bidding the Bystander Godspeed and fervently exclaiming that we are going to make it the greatest paper in this country.—Hurrah for Clarinda. Robert D. Durr, circulation department.
+The push and get-up these people seem to have is quite inspiring to see. I must also say that I was cordially received at the Methodist church Sunday at which time the pastor gave me his whole hour to deliver my address. Which everyone seemed to enjoy—bidding the Bystander Godsped and fervently exclaiming that we are going to make it jit the greatest paper in this country.—Hurrah for Clarinda—Robert D. Durr, circulation department,
 
 ## * Worth While Habit*
 
-"It is worth a thousand pounds a year to have the labit of looking on the bright side of things."—Samuel Johnson.
+"It is worth a thousand pounds a year to have the habit of looking on the bright side of things."—Samuel Johnson.
 
 ATTORNEY JAMES B. MORRIS Wishes to announce that in connection with his law and real estate business, he is also writing all kinds of fire insurance, and is able to furnish his many friends with the best protection obtainable at a particularly low rate. Insure your house and furniture to-day.
 
@@ -277,8 +306,6 @@ Washington, May 7.—Though Leonard Wood, Herbert Hoover, Frank O. Lowden, Hiram
 
 The World War and its results, the growing consciousness of the race and a generally prevalent opinion that the Colored people should be treated as are other classes are factors in the lack of enthusiasm. That there will be strong BYSTANDER night MAY 5, 1920 demands made by the race at the approaching Republican National Convention for a declaration in favor of the war amendments and federal legislation against lynching is most uneasy. Out of the south comes rumors that the race political leaders there are fighting against "illy white" conditions within the state and against apparent disposition of Republican leaders to help the Negro.
 
-The World War and its results, the growing consciousness of the race and a generally prevalent opinion that the Colored people should be treated as are other classes are factors in the lack of enthusiasm. That there will be strong BYSTANDER night MAY 5, 1920, demands made by the race at the approaching Republican National Convention for a declaration in favor, of the war amendments and federal legislation against lynching is most uneasy. Out of the south comes rumors that the race political leaders there are fighting against "lilly white" conditions within the party and against apparent disposition of Republican leaders to shelve the Negro.
-
 ## GEORGIA LEADS OFF
 
 The recent factional fight in Georgia for control of the party machinery there is one indication. There the faction led by Henry Lincoln Johnson and Benjamin J. Davis elected candidates to the Republican convention, as did also the "billy whites" led by Roscoe Pickett, white. Johnson was endorsed for Republican National Committeeman, it should be recalled, however that Johnson and Davis were the leaders in the movement which resulted in Capt. Judson H. Lyons, of Augusta, being displeased by a white man as national committeeman a few years ago.
@@ -290,6 +317,8 @@ FIGHTING IN MISSISSIPPI, Perry W. Howard, of Mississippi, is in the race for nat
 The horrible explosion which occurred at the gas plant last week and which resulted in the loss of several lives, and thousands of dollars worth of damage to property has worked hardship on the newspapers as well. Owing to the fact that the melting pots on the line-type machines are heated by gas all the newspapers have been handicapped in their issues the past week. On this account the Bystander was forced to suspend publication last week. However the trouble was remedied in time for the Bystander to appear as usual.
 
 We wish to thank the public for their patience and consideration during this suspension.
+
+The Best advertising medium to reach colored people in the west
 
 Price Five Cents
 

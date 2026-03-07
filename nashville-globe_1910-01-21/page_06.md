@@ -1,3 +1,5 @@
+R
+
 # OUT OF TOWN NOTES.
 
 ## PROVIDENCE NOTES
@@ -54,13 +56,15 @@ Rev. Ellis Merritt preached last Sunday.
 
 Mr. Charley Johnson left a few days ago for Chicago to make that his future home.
 
-Mr. R. E. Hunt received a photograph New Year's, presented by Miss Sallie Hunt, of Papnes College, Augusta, Ga.
+Mr. E. Hunt received a photograph New Year's, presented by Miss Sallie Hunt, of Papnes College, Augusta, Ga.
 
-Mr. and Mrs. Fulton Hunt entertained in honor of Mrs. A. H. Brown, of Chicago, Sunday evening, January 16, 1910, at four o'clock. A fourcourse menu was served. The table was beautifully decorated with potted plants. Those who enjoyed the hospitality were Mrs. A. H. Brown, of Chicago, ill.; Rev. G. W. Martin, Mrs. Geo. W. Cathey, Mrs. Thos. Walker, Mr. and Mrs. Claiborne, Mrs. Oscar Owens Miss Eunice Vernon, Rev. J. C. Crosby, Mr. Joseph Hunt, Mrs. Geo. Ellis Rev. Martin broke straws at the table and the one drawing the shortest straw was to be queen of the day. Mrs Oscar Owens won the prize.
+Mr. and Mrs. Fulton Hunt entertained in honor of Mrs. A. H. Brown, of Chicago, Sunday evening, January 16, 1910, at four o'clock. A fourcourse menu was served. The table was beautifully decorated with potted plants. Those who enjoyed the hospitality were Mrs. A. H. Brown, of Chicago, Ill.; Rev. G. W. Martin, Mrs. Geo. W. Cathey, Mrs. Thos. Walker, Mr. and Mrs. Claiborne, Mrs. Oscar Owens Miss Eunice Vernon, Rev. J. C. Crosby, Mr. Joseph Hunt, Mrs. Geo. Ellis Rev. Martin broke straws at the table and the one drawing the shortest straw was to be queen of the day. Mrs Oscar Owens won the prize.
 
 ## EBENEZER NOTES.
 
 Rev. E. R. Reed, pastor of the A. M. E. Church, has returned after spending a few days at Pulaski with his wife, who has been ill for six weeks. While there Rev. Reed received a large box of fruits, meat and delicacies, which were given as a surprise by some of the dutiful members of his church.
+
+THE NASHVILLE GLOBE, FRIDAY, JANUARY 21, 1910.
 
 The sick list seems to be increasing in our town. Mesdames Hall and Huddleston are slowly improving.
 
@@ -135,7 +139,17 @@ Mr. Odis Ewing, who has been very ill, is improving.
 
 ## CLARKSVILLE NOTES.
 
-Mr. Thomas Cole, of Paducah, Ky., was in the city a few days last week on business. Rev. Wm. Beckham, the Field Secretary of the National Baptist Convention, delivered a very interesting address at Fifth Ward Baptist Church last Monday night. Senator Dancey Fort addressed the Local Negro Business League last Tuesday night. It was received by the large body of colored business men with much enthusiasm. On February 9 at St. Peters A. M. E. Church the League will debate the subject: Resolved, that the small town or county district furnish a better opportunity for the business man than a large city. The affirmative, Rev. G. W. Porter, presiding elder of the Clarksville District, and Prof. H. R. Merry, teacher in the High School, and Mr. S. A. Dabney, merchant and one of the leading undertakers. Negative, Dr. S. Jefferson, our dentist; Rev. T. J. Goodall, pastor Fifth Ward Baptist Church, and Dr. R. T. Burt, physician in charge of the Home Infirmary. This is looked forward to with many pleasant anticipations by all. Mrs. Lena Cole, who has been in the city for several days visiting her sister, Mrs. Ella Diggs, of College street, left last Saturday for: her home in French Lick, Ind. Misses Willie and Rosa Keesee, of Chicago, Ill., formerly of this city, are in the city visiting their father and mother, Mr. and Mrs. Chas. Keesee, of Paradise street. Dr. Daniel H. Williams, the distinguished Chicago surgeon, will be the guest of Dr. Robert T. Burt at the Infirmary the 30th of this month, where they are expected to operate. The mercury has been hovering near the bottom of the thermometer, but is now rising some.
+Mr. Thomas Cole, of Paducah, Ky., was in the city a few days last week on business.
+Rev. Wm. Beckham, the Field Secretary of the National Baptist Convention, delivered a very interesting address at Fifth Ward Baptist Church last Monday night.
+Senator Dancey Fort addressed the Local Negro Business League last Tuesday night. It was received by the large body of colored business men with much enthusiasm. On February 9 at St. Peters A. M. E. Church the League will debate the subject: Resolved, that the small town or county district furnish a better opportunity for the business man than a large city. The affirmative, Rev. G. W. Porter, presiding elder of the Clarksville District, and Prof. H. R. Merry, teacher in the High School, and Mr. S. A. Dabney, merchant and one of the leading undertakers. Negative, Dr. S. Jefferson, our dentist; Rev. T. J. Goodall, pastor Fifth Ward Baptist Church, and Dr. R. T. Burt, physician in charge of the Home Infirmary. This is looked forward to with many pleasant anticipations by all.
+
+Mrs. Lena Cole, who has been in the city for sevral days visiting her sister, Mrs. Ella Diggs, of College street, left last Saturday fo: her home in French Lick, Ind.
+
+Misses Willie and Rosa. Keesee, of Chicago, Ill., formerly of this city, are in the city visiting their father and mother, Mr. and Mrs. Chas. Keesee, of Paradise street.
+
+Dr. Daniel H. Williams, the distinguished Chicago surgeon, will be the guest of Dr. Robert T. Burt at the Infirmary the 30th of this month, where they are expected to operate.
+
+The mercury has been hovering near the bottom of the thermometer, but is now rising some.
 
 Mr. Lauren Stewart left last week for Louisville, Ky.
 
@@ -155,7 +169,7 @@ The Salvation Army deserves much credit for the great good they have been doing.
 
 Mr. and Mrs. Ed Johns, of Cincinnati, Ohio, are in the city visiting the mother of the bride, Mrs. Eva Anderson, of Brooks avenue.
 
-Misses Willie and Rosa Keeesee entertained a number of friends at whilst last Friday evening. Whist was the game of the evening. Among those present were Misses Rosa, Willie, Mamie and Mattie Keeesee, Janie Barksdale, Messrs. Hugh Lurton, Wm. Jenkins, Junious Powers and Dr. E. S. Randals.
+Misses Willie and Rosa Keeese entertained a number of friends at whilst last Friday evening. Whist was the game of the evening. Among those present were Misses Rosa, Willie, Mamie and Mattie Keeese, Janie Barksdale, Messrs. Hugh Lurton, Wm. Jenkins, Junious Powers and Dr. E. S. Randals.
 
 We think like the Kentucky Reporter that since Census Commissioner
 
@@ -177,21 +191,9 @@ Durand has ruled that in cities and counties where two-fifths of the population 
 
 Mr. H. W. Randals left for Owensboro, Ky., last Friday evening. Examinations were held at the pub Mr. J. W. Page, who has been ill for some weeks, is now improving. lic schools last week. See Geo. C. Dabney, Newsdealer, for the Globe and other reading matter.
 
-The members and friends of the Y. M. C. A. enjoyed a rare treat on last Sunday. The address was delivered by Rev. J. E. McColluch. His subject, "What are the sacred things?" was forcibly brought out. On next Sunday at 3 p. m. the Rev. Dr. H. M. Dubose, editor of the Christian Era, will address the Y. M. C. A. The public is cordially invited.
+The members and friends of the Y. M. C. A. enjoyed a rare treat on last Sunday. The address was delivered by Rev. J. E. McColluch. His subject, "What are the sacred things?" was forcibly brought out. On next Sunday at 3 p. m. the Rev. Dr. H. M. Dubose, editor of the Christian Era, will address the Y. M. C. A. The public is cordially invited. The course of lectures in medical jurisprudence has been started; these lectures are delivered by the Hon. J. C. Napier, one of Nashville's well-known attorneys. Mrs. L. C. Isabelle Blake, M. D., late of Battle Creek Sanitarium, Michigan, has started her lectures in hydrotherapy. Dr. D. R. Neil, professor of practice of medicine, has been engaged to deliver an additional lecture to the senior and junior classes on Tuesday mornings. Dr. C. V. Roman, professor of eye, ear, nose and throat, has completed the theoretical part of his branch, but the clinics will be continued to the end of the school year. On next Saturday morning Dr. F. A. Stewart, professor of surgery, will conduct his first examination in that subject.
 
-The course of lectures in medical jurisprudence has been started; these lectures are delivered by the Hon. J. C. Napier, one of Nashville's well-known attorneys.
-
-Mrs. L. C. Isabelle Blake, M. D., late of Battle Creek Sanitarium, Michigan, has started her lectures in hydrotherapy.
-
-Dr. D. R. Neil, professor of practice of medicine, has been engaged to deliver an additional lecture to the senior and junior classes on Tuesday mornings.
-
-Dr. C. V. Roman, professor of eye, ear, nose and throat, has completed the theoretical part of his branch, but the clinics will be continued to the end of the school year.
-
-On next Saturday morning Dr. F. A. Stewart, professor of surgery, will conduct his first examination in that subject.
-
-Dr. W. H. Slaughter, of Oklahoma City, Okla., has sent us a most encouraging report of his work for the past year.
-
-The student body enjoyed the phenomenal skill of Prof. C. A. Hilliard, of Jefferson Medical College, Philadelphia. His demonstrations were especially beneficial to those surgically inclined. Prof. Hilliard occupies a warm place with the students of Meharry.
+Dr. W. H. Slaughter, of Oklahoma City, Okla., has sent us a most encouraging report of his work for the past year. The student body enjoyed the phenomenal skill of Prof. C. A. Hilliard, of Jefferson Medical College, Philadelphia. His demonstrations were especially beneficial to those surgically inclined. Prof. Hilliard occupies a warm place with the students of Meharry.
 
 Mr. C. B. Butts, who is confined with rheumatism, is slowly improving.
 
@@ -205,12 +207,14 @@ Miss Hattle Bradley and Mr. Charles Drane were quietly married Sunday night at t
 
 Miss Lena M. Bransford, for many years an instructor in the city school and the last one of the well-proven Bransford family remaining here, has decided to break up house-keeping and will live, in the future, with Miss Mara tha Bell, of Cheatham street.
 
+```markdown
+
+```
+
 I. L. MOORE,
 Residence Phone, Main 4092-Y.
 
 ## 410 CEDAR TREET.
-
-410 CEDAR TREET.
 
 ## MEHARRY NOTES.
 

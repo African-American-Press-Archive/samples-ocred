@@ -2,7 +2,7 @@ On Thursday night in the office of St. Paul A. M. E. Church, the teachers and of
 
 Teachers—Class No. 1, N. Berry; class No. 2, C. S. Randals; class No. 3, Mrs. J. H. Adams; class No. 4, E. Lee Kinzer; class No. 5, Mrs. P. J. Ewing; class No. 6, Mrs. Wm. J. Glover; class No. 7, Miss Willie Cooper; class No. 8, Mrs. W. S. Brooks; class No. 9, Mrs. J. H. Hale; class No. 10, Dr. C. V. Roman; class No. 11, Mrs. Addie Wiles; class No. 12, Miss G. A. Cayton; class No. 13, —; class No. 14, Miss Hattie Hill; class No. 15, Dr. R. H. Early; class No. 16, Miss Bessie Martin; class No. 17, Mrs. J. C. Caldwell; class No. 18, Mrs. Cornelia Jones.
 
-Mr. Horace D. Slatter, the newspaper correspondent, spent Tuesday in the city en route South, where he goes to report several conferences. Mr. Slatter is from Hopkinsville, Ky, which he makes his headquarters.
+Mr. Horace D. Slatter, the newspaper correspondent, spent Tuesday in the city en route South, where he goes to report several conferences. Mr. Slatter is from Hopkinsville, Ky., which he makes his headquarters.
 
 ## ---
 
@@ -16,15 +16,32 @@ Rev. Wm. Beckham left the city Saturday for Clarksville, Louisville, Memphis and
 
 ## MARRIAGES.
 
-Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley. John Stewart and Alice Miller. George Yowell and Orlean E. Patterson. Edgar Stovall and Amanda Willis. Cal Timmons and Sadie Pointer. William Brown and Bettie White Henderson Scales and Sadie Spann.
+Steve Davis and Samella Wilson.
+Peter Patterson and Genie B. Williams.
+Eddie Moppins and Bessie Johnson.
+Archie Patton and Florence Haley.
+John Stewart and Alice Miller.
+George Yowell and Orlean E. Patterson.
+Edgar Stovall and Amanda Willis.
+Cal Timmons and Sadie Pointer.
+William Brown and Bettie White.
+Henderson Scales and Sadie Spann.
+Will McIntyre and Sarah B. Phillips.
 
-Steve Davis and Samella Wilson. Peter Patterson and Genie B. Williams. Eddie Moppins and Bessie Johnson. Archie Patton and Florence Haley John Stewart and Alice Miller.
+DEATHS.
 
 ## DEATHS.
 
-Walter Harper, corner Webster and Spring streets, 57 years. Ora Belle Dozier, Drakes Creek, 3 years.
-
-White Myers, 1002 Stevens street. 26 years.
+Walter Harper, corner Webster and Spring streets, 57 years.
+Ora Belle Dozier, Drakes Creek, 3 years.
+Odel Skoftin, City Hospital, 2 years.
+Juda Allen, 310 Benedict street, 100 years.
+Henry Clay Smith, 535 Sycamore street, 72 years.
+Wm. A. Trarris, 94 Fain street, 1 year.
+Fannie Peoples, 1314 Seventeenth avenue, North, 36 years.
+Mary Fanney, 94 Fain street, 64 years.
+Angeline Warren, 322 Jo Johnston avenue, 64 years.
+White Myers, 1002 Stevens street, 26 years.
 
 Amanda McCullough, 629 Woods alley.
 
@@ -39,25 +56,39 @@ Eighth street.
 Marguerite Bowman, 89 years,
 County Hospital.
 
+THE NASHVILLE GLOBE. FRIDAY. JANUARY 21. 1910.
+
 FRANKLIN NOTES.
-Miss Beulah Perkins, of Brentwood, Tennl, was here to the meeting of the county institute Saturday.
+
+Miss Beulah Perkins, of Brentwood, Tenni, was here to the meeting of the county institute Saturday.
+
 Mrs. M. C. Nevils, of South Franklin, was in town Saturday.
+
 Mrs. W. B. Redmond and W. B. Jr., of Liberty Pike, spent Monday with her mother, Mrs. A. N. C. Williams.
-Mr. and Mrs. James Church have a fine baby girl.
 
 Mr. and Mrs. James Church have a fine baby girl.
+
 Rev. Inman, of Lebanon, preached Sunday morning and night at the Mission.
+
 Miss Fannie H. Southall, is visiting in Nashville this week.
-We regret very much to hear of the illness of Mrs. Sallie Southail Webster, of Nashville, Tenn.
+
+We regret very much to hear of the illness of Mrs. Sallie Southall Webster, of Nashville, Tenn.
+
 Mrs. Mary Parks, is on the sick list.
+
 Mrs. Willie Banks and little daughter Julia, were out the guests of their grandmother, Mrs. Cisew Ewing.
+
 Mrs. Mary Amos, of Chicago, will spend the winter and summer here the guest of her brother, Rev. D. J. Mitchell, of Columbia.
+
 Mrs. Dillie Mitchell is very sick.
+
 Mesdames F. L. Woldridge and D. J. Mitchell were down to the bedside of Mrs. Sallie Webster Wednesday.
-Mrs. Johnson, of Chicago, will spend the winter with her sister, Mrs. John Wilkins.
+
+Mrs Johnson, of Chicago, will spend the winter with her sister, Mrs. John Wilkins.
+
 Mrs. John W. Reddick is sick with pneumonia.
 Dr. Whitfield passed through from Nashville en route to his home, Mt. Pleasant, Monday.
-Mr. Garfield Thompson has returned to his home, Chattanooga, Tenn. Mrs. Thompson was here as storekeeper and grocer at Womack Distillery.
+Mr. Garfield Thompson has returned to his home, Chattanooga, Tenn. Mrs. Thompson was here as storekeeper and grocer at Womack Dillery.
 Mr. and Mrs. Willie Baugh, who have been sick for some time, are slowly improving.
 Mr. Anderson Robinson, of St. Louis, is here to spend the winter with his mother, Mrs. Hannah Robinson.
 Mr. Ross Sparkman died last Friday and was buried Sunday.
@@ -85,15 +116,13 @@ Miss Fannie Joe Woldridge is slowly improving.
 
 Tom Cannon, of Nashville, was out Sunday.
 
-Rev. N. H. Pius, the Superintendent of the Teacher-Training Service of the National Baptist Publishing Board, after an absence of about a month in the state of Ohio, where he has organized classes, is back in his office. His family is expected to reach the city some time next week.
+Rev, N. H. Pius, the Superintendent of the Teacher-Training Service of the National Baptist Publishing Board, after an absence of about a month in the state of Ohio, where he has organized classes, is back in his office. His family is expected to reach the city some time next week.
 
 ## SUNSHINE HOME NOTES.
 
-The Christian Workers' Foreign Missionary Society will hold their regular monthly meeting Monday night, Jan. 24, at which time reports of Christmas offering to the work will be made. We want to thank our many friends who have already responded to our appeal and those who will do so.
+The Christian Workers' Foreign Missionary Society will hold their regular monthly meeting Monday night, Jan. 24, at which time reports of Christmas offering to the work will be made. We want to thank our many friends who have already responded to our appeal and those who will do so. Miss Burnett, who has been suffering from an attack of la gripppe, is convalescing slowly.
 
-Miss Burnett, who has been suffering from an attack of la grippe, is convalescing slowly.
-
-Thursday, January 13, quite a number of friends gathered at the Home as a surprise to Miss S. E. Moore in the celebration of her birthday. Miss Moore knew nothing of it until the guests were in the house and had been for some time. At first she was almost overcome by surprise, she was soon composed, however, and was delighted with the affair. A delightful evening was spent and the hours sped all too swiftly. The guest list included Misses N. E. Perkins, H. C. Claybrooks, T. A. Gee, N. J. and A. P. McIntosh, B. J. and Cora Ridgeley, Prof. and Mrs. F. E. Dawson, Miss Grimes Glenvs, teacher; Miss C. Moore, student, and Prof. Jeffries of Roger Williams University, Drs. Redd, Russell Mitchell, Rosbey, Rainey, Grant and Mr. Hall. Miss Moore received valuable gifts. Each guest was presented with a souvenir stamped with the name of the home, and in which an appropriate Bible verse, corresponding to the shape of the souvenir was written.
+Thursday, January 13, quite a number of friends gathered at the Home as a surprise to Miss S. E. Moore in the celebration of her birthday. Miss Moore knew nothing of it until the guests were in the house and had been for some time. At first she was almost overcome by surprise, she was soon composed, however, and was delighted with the affair. A delightful evening was spent and the hours sped all too swiftly. The guest list included Nisses N. E. Perkins, H. C. Claybrooks, T. A. Gee, N. J. and A. P. McIntosh, B. J. and Cora Ridgeley, Prof. and Mrs. F. E. Dawson, Miss Grimes Givens, teacher; Miss C. Moore, student, and Prof. Jeffries of Roger Williams University, Drs. Redd, Russell Mitchell, Rosbey, Rainey, Grant and Mr. Hall. Miss Moore received valuable gifts. Each guest was presented with a souvenir stamped with the name of the home, and in which an appropriate Bible verse, corresponding to the shape of the souvenir was written.
 
 # CHURCH DIRECTORY.
 
@@ -111,12 +140,7 @@ nights; preaching Thursday nights; commu
 ## SEVENTH DAY ADVENTISTS
 CHURCH.
 
-SEVENTH DAY ADVENTISTS
-CHURCH.
-
-SEVENTH DAY ADVENTIST No 2, 711 Winter
-Street.—Services Saturday 10 a. m. to
-12 m.
+SEVENTH DAY ADVENTIST No 2, 711 Winter Street—Services Saturday 10 a. m. to 12 m.
 
 ## CATHOLIC CHURCH.
 
@@ -159,15 +183,34 @@ FIRST CHURCH, 1507 Hamilton St.-J. M. Disshon, pastor. Sunday services 11 a. m. 
 
 ## CHRISTIAN CHURCHES.
 
-LEA AVENUE, 713 Lea Avenue —Sunday-school 9:30 a.m.; preaching services 11 a.m. and 8 p.m. Sundays, C. E. 7 p.m. Sunday evening; prayer-meeting Wednesday night. Rev. Preston Taylor, pastor, 449 Fourth avenue, north.
+LEA AVENUE, 713 Lea Avenue—Sunday school 9:30 a.m.; preaching services 11 a.m. and 8 p.m. Sundays, C. E. 7 p.m. Sunday evening; prayer-meeting Wednesday night. Rev. Preston Taylor, pastor, 449 Fourth avenue, north.
 
-GAY STREET —Preaching 11 a.m. and 8 p.m.; Sunday-school, 9:30; Christian Endeavor 7 p.m. Eld. S. D. Cottrell, pastor.
+GAY STREET—Preaching 11 a.m. and 8 p.m.; Sunday-school, 9:30; Christian Endeavor 7 p.m. Eld. S. D. Cottrell, pastor.
 
 WILLOW STREET, S. Hill, S. W. Cor. First avenue.—Rev. A. J. Lawrence, pastor. Sunday service 7:30 p.m.
 
-METHODIST EPISCOPAL.
+METHODOST EPISCOPAL.
 
-CLARK MEMORIAL, 308 Franklin St.—Rev. Thomas W. Johnson, pastor. Sunday-school 5:30 a.m.; Sunday services 11 a.m. and
+CLARK MEMORIAL, 308 Franklin St.—Rev. Thomas W. Johnson, pastor. Sunday school 9:30 a.m.; Sunday services 11 a.m. an
+
+McNairy HILL, Broad St.-Sunday-school
+9:30; preaching 11 a. m. and 8 p. m.
+Sundays. Services twice a week. Rev. Martin
+Slater, pastor.
+St. ELI, 8th Ave.-Sunday-school 9:30
+a. m.; preaching 11:30 a. m. and 8 p. m.
+Sundays. Rev. Green Thompson, pastor.
+St. LUKE, Green St.-Sunday-school 9:30
+a. m.; preaching services 11 a. m. and 8 p. m.
+Sundays. Rev. L, Mason, pastor, 7 Miller
+street.
+BETHEL PRIMITIVE.-Sunday-school 9:30
+a. m.; preaching services 1:30 a. m. and
+8 p. m. Sundays. Rev. James Bryant, pastor.
+Mt. MORIAH, S. E. Cor. 16th Ave., N.
+Sunday-school 9:30 a. m.; preaching services
+11:30 a. m. and 8 p. m. Sundays. Rev. N.
+Roach, pastor.
 
 ## STAG PARTY.
 
@@ -186,9 +229,21 @@ Sundays, Rev. Robert Estleman, pastor.
 
 ## AFRICAN METHODIST EPISCOPAL CHURCHES
 
-St. JOHN, cor. 8th Ave. N., and Cedar St.-Sunday services 11:30 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m.; Christian Endeavor 7:00 p.m.; prayer and class meeting Tuesday night. Rev. A. Brooks, pastor, residence 923 Jackson street.
+St. JOHN, cor. 8th Ave, N., and Cedar St.-Sunday services 11:30 a.m. m and 8:00 p.m.; Sunday-school 9:30 a.m. m; Christian Endeavor 7:00 p.m. prayer and class meeting Tuesday night. Rev. A. Brooks, pastor, residence 923 Jackson street.
 
-St. PAUL, Cor. 4th Ave. S., and Franklin St.-Sunday services 11:00 a.m. and 8:00 p.m.; Sunday-school 9:30 a.m.
+St. PAUL, Cor. 4th Ave, S., and Franklin St.-Sunday services 11
+
+PAYNE CHAPEL, Ramsey St., near 6th St.—Sunday services 11:00 a.m. and m. b. p. m.; Sunday-school 9:30 a.m.; Christian Endeavor; 7:00 p. m.; class meeting Tuesday night; prayer meeting Thursday night. Rev. Wm. Flagg, pastor.
+
+ST. JAMS, Mooretown—Sunday services 11:00
+
+ANTIOCH, 308 Benedict St.-Sunday services
+Sunday-school 3 p. m.; Christian Endeavor 7 p. m.; preaching 8 p. m.; prayer meeting Wednesday night. Rev. Jas. L. Markin, pastor, 312 Hill street.
+
+MISSIONARY BAPTIST CHURCHES.
+M. Olive, Cedar St.-Sunday-school 9:30 a. m.; preaching 11:20 and 8 p. m.; Sundays teachers' meeting Tuesday evenings 7:30 prayer-meeting Tuesday nights; preaching on Thursday nights; communion every first Sunday in each month 3 p. m. Rev. C. H. Clark, 610 Joi Johnston avenue, pastor; Philip Douglas, Jackson street, Church Clerk; J. Elridge Hurt, 1205 Clinton street, Sunday-school Superintendent.
+SPRUCE STREET, 8th Ave., N.-Sunday-school at 0:30 a. m.; services 11:30 a. m. and 8 p. m.; B. Y. P. U. 7 p. m.; prayer meeting on Friday nights; communion services every first Sunday in each month. Rev. T. J. Townsend, D. D., pastor.
+SVLYN ST., Shelly Ave.-Sunday-school 0:30 a. m.; services 11:30 a. m. and 8 p. m.; Sundays; prayer-meeting Tuesday night; teachers' meeting Tuesday night; preaching services Friday night; B. Y. P. U. Sunday 7 p. m. Rev. W. Haynes, D. D., pastor. residence Whit's Creek Park, FIRST BAY'S Ave., N.-Sunday-school 0:30 a. m.; services 11:30 a. m. and 8 p. m.; Sundays; R. Y. P. U. 7 p. m.; prayer-meeting Tuesday nights; services Thursday nights; communion services every first Sunday. Rev. W. S. Ellington, A. M. D., Pastor; B. A. Carter, 710 Gay street, Clerk; Mr. J. D. Crenshaw, Superintendent of Sunday-school.
 
 The Baracas will augment the study of the regular Sunday-school Lesson by the discussion of the apostles as individuals. Prof. J. D. Crenshaw, who was reelected superintendent of the Sunday-school last Sunday, will appoint his teachers and give a brief outline of his plans for the year's work.
 
@@ -196,9 +251,25 @@ The Baracas will augment the study of the regular Sunday-school Lesson by the di
 
 Invitations are out announcing the annual banquet of the Railway Employees' Protective Association. This will be the fifth annual affair. The invitation says it will be given in the hall of the association Monday night, Jan. 24, at 8 o'clock, corner of Tenth avenue North, and Cedar street. President Humphrey Bowling is working as untiringly as horetofore to make this a success.
 
-SECOND, Stevens St., Cor. Deluge—Sunday-school 9:30 a.m.; services 11:30 a.m. and 8:30 p.m. Sundays; prayer meetings Tuesday nights; preaching Thursday nights; communion services every first Sunday. Rev. G. B. Taylor, pastor.
+SECOND, Stevens St., Cor. Deluge—Sunday-school 9:30 a.m. m.; services 11:30 a.m. m and 8:30 p. m. Sundays; prayer meetings Tuesday nights; preaching Thursday nights; communion services every first Sunday. Rev. G. B. Taylor, pastor.
 
-5TH AVE.—Sunday-school 9:30 a.m.
+5TH. AVE.—Sunday-school 9:30 a.m.
+
+FAIRFIELD.—Sunday-school 9:30 a. m.; services 11:30 a. m. and 8 p. m.; Sundays; communication services every first Sunday. Rev. B. Majors, pastor, 118 Green street. TABERNACLE. 8th Ave., N.-Sunday-school 9:30 a. m.; preaching services 11:30 a. m. and 8 p. m.; Sundays;
+
+ZION BAPSTEH, E. Nashville—Sunday-school 9:30; preaching 11:30 a. m. and 8 p. m. Sundays; communion services every first Sunday. Rev. Joseph Keel, pastor, 820 Joseph avenue.
+
+FREE SILVER PLANT MISSION—Sunday-school at 9:30 a. m. and 8:30 p. m. Sundays; communion services every first Sunday. Rev. H. E. Pennington, pastor, R. F. D. No. 2. PILGRIM—Sunday-school 9:30 a. m.; preaching 11:30 a. m. and 8:30 p. m. Sundays. Rev. R. Black, pastor.
+
+WEST NASHVILLE—Sunday-school at 9:30 a. m.; preaching 11:30 a. m. and 8 p. m. Tuesday night, prayer services; Wednesday night, preaching; communion services every first Sunday. Rev. W. M. Farrell, pastor.
+
+Mt. GILEAD, Trimble Bottom—Sunday-school 9:30 a. m
+
+NORTH SPRUCE, Cor. 8th Ave. and Jackson St.-Sunday-school 9:30; preaching 11 a. m. and 8 p. m., Sundays. Rev. Jeff Turner, pastor.
+
+LAKE PROVIDENCE, end of Nolensville Pike.-Sunday-school 9:30 a. m.; preaching services 11:30 a. m. and 8 p. m. Sunday. Rev. Cumby, pastor.
+
+BASS Str., BASS St.-Sunday-school 9:30 a. m.; preaching services 11:30 a. m. and 8 p. m., Sundays. W. J. Bogus, pastor. V. Grant, Jr. A. Bogus, N. and Nolas Pike.-Sunday-school 9:30 a. m.; preaching 11 a. m. and 8 p. m. Rev. James Small, pastor.
 
 Church and School Work a Specialty.
 

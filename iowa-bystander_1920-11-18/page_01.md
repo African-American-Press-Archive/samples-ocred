@@ -2,38 +2,60 @@
 
 # Negro Prisoner Lynched In Tenn-
 
-## Chapters To Be Established In New York, Maine, Illinois and California
+and not see your name in the honoramous (Ohio) state court before Christ to keep diseases of the chest at bay, says a writer in the Phil- cent. of persons of African birth or des- made at a meeting of colored profes- short and pointed remarks greatly en-
 
-KLU K
+FOR THE BAD YOU DO
+READ OTHER PAPERS
+FOR THE GOOD YOU DO
+READ THE BYSTANDER
+
+KLU KL
+
 Negro
-Chapters To Be
-In New
-Illinois
 
-New York, Nov. 3.—Announcement from the Ku Klux Klan, with headquarters in Atlanta, Ga., that they are planning an organization for the north beginning this month and a parade of the members of the society through the city of Jacksonville, Fla., were the outstanding events this week in the event of the cracker south to revive this infamous organization.
+Chapters To Be Established In New York Illinois an
 
-Announcement of New York branch was contained in a letter written to a business man who wrote for information about the society.
-
-The communication was written from the "Imperial Palace of the Invisible Empire of the Knights of the Ku Klux Klan, Atlanta, Ga," and was signed by Edward Young Clarke, "imperial Kleagle."
-
-"We expect to start an organization of work in New York state in November," the writer said. "We have in mind about 300 men in New York City whom we expect to honor by bringing into the initial organization in New York City. We are receiving letters from Maine, Illinois, Missouri, and California to send organizers to those places to begin work."
-
-Men of southern origin are the only ones who would be eligible to join what the "K. K. K." terms the "most sublime lineage in all history."
-
-Attached to the letter was a questionnaire which the applicant for membership was supposed to fill out and return to the "Kligrapp of the Great Wizard of the Invisible Empire" at the Silver Building in Atlanta. The "necessary interrogatories," as they were termed, were numerous, including queries as to age, education, race, occupation, birthplace, religion, and questions like "Do you believe in the principles of pure Americanism and "Do you believe in white supremacy in politics?"
-
-## Activity in South Carolina.
-
-Hooded night riders in long flowing white 'night gowns appeared in South Carolina last week to force farmers to reduce the rates of cotton picking and to compel thousands of people to work. White caps, several hundred strong, have ridden into several towns in the state, principally in Florence county, and as a result the cotton fields the next day were thick with cotton-pickers and the housewives have all the help they need, in the way of cooks and washerwomen. Farmers now see a way out of the ruin which faced them by having their crops spoil in the field
+## Chapters To Be Established In New York, Maine, Illinois and California
 
 New Orleans To Hear W. G. Harding Before He Sails
 
-President-Elect Continuues Effort Obliterate Sesturalism In U. S.
+President-Elect Continuues Effort Obliterate Sestionalism In U. S.
 
-(By The Associated Press.)
-Point Isabel, Texas, Nov. 12—President-elect Harding, whose outing at Point Isabel next Wednesday, has agreed to deliver an address in New Orleans on the following day just before he sails for the Panama. He is expected to discuss in particular the economic possibilities and requirements of the new south and the need for a national industrial policy uninfluenced by sectional interests.
+NEGROE
 
-Senator Harding's decision to accept the New Orleans speaking invitation means that in consonance with his oft-repeated ambition to obliterate sectionalism, his first three formal addresses as president-elect are to be delivered within the territory of the old confederacy and in states that long have been pillars of the domacrative solid south.
+London coast Neg fortunes. cocoa gave into business. More t and Europe than $200 more pros. Although who can s dinner is
+
+CEN
+
+The public reception extended by Mr. L. Shelton and M. Tracy E. Blagburn owners of the new drug store located at Tenth and Center streets was a grand success. Throughout the afternoon and evening several hundred citizens both white and colored came to admire and to patronize the model up to date drug store. This store is a credit to our race and these two worthy young men should be complimented for this great undertaking; and the colored citizens of the city should see to it that by their patronage and encouragement this worthy enterprise will flourish.
+
+Mr. Frank Blagburn, who for a number of years was an employee in the recorder of deeds office at Washington, D. D., is manager of the drug store and Mr. Lee Blagburn of Denver will be in charge of the soda fountain department.
+
+---
+
+VOL. XXVI. NO. 21.
+
+New York. Nov. 3.—Announcement from the Ku Klux Klan, with headquarters in Atlanta, Ga., that they are planning an organization for the north beginning this month and a parade of the members of the society through the city of Jacksonville, Fla., were the outstanding events this week in the event of the cracker south to revive this infamous organization.
+
+Announcement of New York branch was contained in a letter written to a business man who wrote for information about the society.
+
+The communication was written from the “Imperial Palace of the Invisible Empire of the Knights of the Ku Klux Klan, Atlanta, Ga,” and was signed by Edward Young Clarke, “imperial Kleagle.”
+
+“We expect to start an organization of work in New York state in November,” the writer said. “We have in mind about 300 men in New York City whom we expect to honor by bringing into the initial organization in New York City. We are receiving letters from Maine, Illinois, Missouri, and California to send organizers to those places to begin work.”
+
+Men of southern origin are the only ones who would be eligible to join what the “K. K. K.” terms the “most subline lineage in all history.”
+
+"Attached to the letter was a questionnaire which the applicant for membership was supposed to fill out and return to the "Kligrapp of the Great Wizard of the Invisible Empire" at the Silver Building in Atlanta. The "necessary interrogatories," as they were termed, were numerous, including queries as to age, education, race, occupation, birthplace, religion, and questions like "Do you believe in the principles of pure Americanism and "Do you believe in white supremacy in politics?"
+
+## Activity in South Carolina.
+
+Hooded nightriders in long flowing white'night gowns appeared in South Carolina last week to force farmers to reduce the rates of cotton picking and to compel thousands of people to work. White caps, several hundred strong, have ridden into several towns in the state, principally in Florence county, and as a result the cotton fields the next day were thick with cotton-pickers and the housewives have all the help they need, in the way of cooks and washerwomen. Farmers now see a way out of the ruin which faced them by having their crops spoil in the field
+
+(By The Associated Press)
+
+Point Isabel, Texas, Nov. 12.—President-elect Harding, whose outing at Point Isabel ends next Wednesday, has agreed to deliver an address in New Orleans on the following day just before he sails for the Panama. He is expected to discuss in particular the economic possibilities and requirements of the new south and the need for a national industrial policy uninfluenced by sectional interests.
+
+Senator Harding's decision to accept the New Orleans speaking invitation means that in consonance with his oft-repeated ambition to obliterate sectionalism, his first three formal addresses as president-elect are to be delivered within the territory of the old confederacy and in states that long have been pillars of the democratic solid south.
 
 The first of these addresses was delivered in Brownsville, Texas, Thursday and the third has been scheduled for Dec. 5, at Bedford, Va.
 
@@ -41,7 +63,9 @@ Speeches outside American territory are to be avoided, and Mr. Harding indicated
 
 ## Other Days.
 
-Until a New Jersey man tried to corner the potato crop of his neighborhood the mosquito was considered the most undesirable predatory insect produced in that section of the country. Washington Star
+Until a New Jersey man tried to corner the potato crop of his neighborhood the mosquito was considered the most undesirable predatory insect produced in that section of the country—Washington Star.
+
+A PAPER WITH A CLEAN POLICY The Bystander A WEEKLY FOR THE PEOPLE AND BY THE PEOPLE
 
 for lack of pickers.
 
@@ -51,9 +75,9 @@ The White Caps appeared in Lake City last night for a second time. First they ca
 
 "White Supremacy" was the real reason of the Ku Klux parade in Jacksonville, Florida last Saturday afternoon when an attempt was made to frighten the Negro voters who certain white factions felt, are growing to be too much of a political power in the state. More colored women than white registered in Jacksonville.
 
-The parade, notice of which was given several days in the newspapers, was made the subject of urgent representations by national Negro organizations who pled with the police department and also the state officials not to permit the parade. As no motion was made in any quarter to comply with the Negro requests, it was small wonder that when the long white robed parade came in right down the main street there were very few if any colored people abroad, either in the business section, or within any part of the city. With the coming of darkness most of the Negro population got indoors.
+The parade, notice of which was given several days in the newspapers, was made the subject of urgent representations by national Negro organizations who plied with the police department and also the state officials not to permit the parade. As no motion was made in any quarter to comply with the Negro requests, it was small wonder that when the long white robed parade came in right down the main street there were very few if any colored people abroad, either in the business section, or within any part of the city. With the coming of darkness most of the Negro population got indoors.
 
-The notice of the parade stated that members of the Ku Klux Klan from neighboring cities would take part. It also stated that it would be useless to attempt to escrime who the members of the Klan were. As a matter of fact, no one even vouchsafes the information as to where the Klan assembled or where it disbanded.
+The notice of the parade stated that members of the Ku Klux Klan from neighboring cities would take part. It also stated that it would be useless to attempt to escrimen who the members of the Klan were. As a matter of fact, no one even vouchsafes the information as to where the Klan assembled or where it disbanded.
 
 The Ku Klux Klan is the most dangerous tendency in the American life today and ought to be stamped out by local, state, and federal authority, says James Weldon Johnson, field secretary of the National Association for the Advancement of Colored People, 70 Fifth avenue, which has had investigators in the south gathering information on the subject. "The avowed purpose of the invisible empire is to keep the Negro from the rights of common citizenship, even if threats of bloodshed have to be resorted to."
 
@@ -68,10 +92,6 @@ Jackson, Miss., Nov. 12.-Mississippi has a population of 1,789,182. This is 7,93
 
 ## Grand Opening of Balgburn and Shelton
 
-The public reception extended by Mr. L. Shelton and M. Tracy E. Blagburn owners of the new drug store located at Tenth and Center streets was a grand success. Throughout the afternoon and evening several hundred citizens both white and colored came to admire and to patronize the model up to date drug store. This store is a credit to our race and these two worthy young men should be complimented for this great undertaking; and the colored citizens of the city should see to it that by their patronage and encouragement this worthy enterprise will flourish.
-
-Mr. Frank Blagburn, who for a number of years was an employee in the recorder of deeds office at Washington, D. D., is manager of the drug store and Mr. Lee Blagburn of Denver will be in charge of the soda fountain department.
-
 ## A. Worth While Habit
 
 "It is worth a thousand pounds a year to have the habit of looking on the bright side of things."—Samuel Johnson—
@@ -83,6 +103,8 @@ Born 1858 --Died
 
 President Wilson's
 lamat
+
+NORTHWESTERN CHURCH
 
 # President Wilson's Thanksgiving Proc-
 
@@ -113,17 +135,21 @@ Said the near cynic: "Judging from the time some of the young blood of this town
 
 ## A Question.
 
-Thanksgiving Proc-tion.
+Washington
+ed Nov. 14, 1915
+Thanksgiving Proc-
+tion.
 
 steady vindication in the support of a law-abiding people against various and sinister attacks, which have reflected only the baser agitation of war, now happily passing.
 
-“In plenty, security and peace, our virtuous and self-reliant people face the future, its duties and its opportunities. May we have vision to discern our duties; the strength, both of hand and resolve, to discharge them; and the soundness of heart to realize that the truest opportunities are those of service.
+"In plenty, security and peace, our virtuous and self-reliant people face the future, its duties and its opportunities. May we have vision to discern our duties; the strength, both of hand and resolve, to discharge them; and the soundness of heart to realize that the truest opportunities are those of service.
 
-“In a spirit, then, of devotion and stewardship we should give thanks in our hearts, and dedicate ourselves to the service of God’s merciful and loving purpose to His children.
+"In a spirit, then, of devotion and stewardship we should give thanks in our hearts, and give ourselves to the service of God's merciful and loving purpose to His children.
 
-“Wherefore, I, Woodrow Wilson, president of the United States, do hereby designate Thursday, the twenty-fifth day of November next as a day of thanksgiving and prayer, and I call upon my countrymen to cease from their ordinary tasks and avocations upon that day, giving it up to the remembrance of God and His blessings, and their dutiful and grateful acknowledgment.”
+"Wherefore, I, Woodrow Wilson, president of the United States, do hereby designate Thursday, the twenty-fifth day of November next as a day of thanksgiving and prayer, and I call upon my countrymen to cease from their ordinary tasks and avocations upon that day, giving it up to the remembrance of God and His blessings, and their dutiful and grateful acknowledgment."
 
-Cotton Blossoms In Davenport
+Cotton Blossoms
+In Davenport
 
 Davenport, Iowa, Nov. 13. — The Cotton Blossom singers entertained a full house at Bethel A. M. E. church last Thursday night.
 
@@ -133,14 +159,20 @@ Messrs. Jasper McAfee the Basso, and Daniel Rankin the tenor and the Misses Clad
 
 On Friday night one of the friends of the school arranged for the singers to have seats in the auditorium to hear the concert by Sousas band.
 
-They departed Saturday morning for Muscatine, from which place they will start for Mississippi in the school’s touring car.
+They departed Saturday morning for Muscatine, from which place they will start for Mississippi in the school's touring car.
 
 ## LEGIONNARIES RECEIVE
 VICTORY
 
 Armistice day, Nov. 11, the members of Lincoln post No. 126 American Legion assembled at the Community Center, Thirteenth and Crocker streets where Capt. W. B. Haller, ordnance department, U. S. army decorated them with the victory medals. Owing to the uncertainty of the time the crowd was not as large as anticipated. This ceremony was entirely new to the people here and those present were highly pleased. The ladies auxiliary assisted by the Sewing circle of the Community Center served the men with refreshments after the ceremony.
 
+THE BEST Advertising Medium to Reach the Colored,People
+
+NORTH Tenn- the Train By Angry Mob
+
 ## Taken From The Train By Angry Mob
+
+cambridge power to the younger Masons, and on
 
 Bristol, Tenn., Nov. 14—Dave Hunt, a Negro, age 25, captured after a chase on a passenger train and held for an alleged assault on an aged white woman, was taken from the jail at Wise, Va., early today by a mob of about seventy-five men and hanged to a bridge near Kent Junction.
 
@@ -168,22 +200,11 @@ Bishop Hurst, who is a native of Haiti, was in the city yesterday attending a me
 
 "It is the duty of the Republicans in the senate and house of representatives" he said, "to prove to the American people that the Haitian question was not merely a political issue. First a thorough congressional investigation is demanded. The inquiry by the naval board consisting of two admirals and a general is too limited in scope to bring out the facts. Civilian witnesses were not called while the naval board was sitting in the United States, and in Haiti the investigation seems doomed to consider nothing but military affairs.
 
-ORTH
-Tenn-
-rain By Angry Mob
-jail by breaking down the doors and
-the Negro was taken to the scene of the
-lynching in an automobile.
-The alleged attack on the woman,
-who is 60 years old, occurred at her
-home Friday. She flagged a passenger
-train as it came by and told members
-of the crew that she had been attacked
-by the Negro, whom they could see
-walking some distance ahead. The train
-started after the Negro, who headed for
-the mountainside. The trainmen left
-their train and followed.
+Price Five Cents
+
+jail by breaking down the doors and the Negro was taken to the scene of the lynching in an automobile.
+
+The alleged attack on the woman, who is 60 years old, occurred at her home Friday. She flagged a passenger train as it came by and told members of the crew that she had been attacked by the Negro, whom they could see walking some distance ahead. The train started after the Negro, who headed for the mountainside. The trainmen left their train and followed.
 
 ## Club Women Fete Mrs. Fleming
 
@@ -201,4 +222,71 @@ At the meeting of the board of directors of the association later in the day a t
 
 ## Where the Real Danger Lies.
 
-A Boston physician has sounded the warning that there is more or less danger in wearing clothes. There may be, but the most danger lies in the path of a man who attempts to trip merely through this life clad in filtered sunshine and a two days' growth of whiskers.
+A Boston physician has sounded the warning that there is more or less danger in wearing clothes. There may be, but the most danger lies in the path of a man who attempts to trip merely through this life clad in filtered sunshine and a two days' growth of whiskers
+
+ST
+ediu
+ed
+
+required
+not
+his
+nation
+mah
+to
+priere
+bark
+at h
+that
+retre
+fath
+furtr
+V. O.
+ince
+te
+sew
+ed.
+
+n,
+ren
+h
+CH
+high
+great
+ass
+sed
+ing
+vol
+for
+the
+fi
+t
+nd
+hi
+J
+t
+for
+me
+on
+love
+L
+ch
+un
+sec
+t
+s
+ev
+ill
+A
+e
+f
+h
+ly
+T
+d
+er
+w
+ch
+big lay
+arters
+a large

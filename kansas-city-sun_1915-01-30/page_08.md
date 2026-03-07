@@ -1,4 +1,19 @@
+Madam P. M. Dabney's
+XXTH CENTURY
+HAIR PREPARATIONS
 And Have Good Hair
+
+Mme. P. M. Dabney's
+XXth Century Hair Grower
+
+Madam P. M. Dabney's XXth Century Hair Grower promotes a beautiful growth of hair, stops falling out and breaking of hair, removes dandruff and relieves itching of scalp. It will make YOUR hair grow. For woman, man or child.
+
+PRICE 50c. PER JAR
+
+Mme. P. M. Dabney's
+XXth Century Hair Grower
+
+Mme. P. M. Dabney's XXth Century Pressing Oil
 
 Madam P. M. Dabney's XXth Century Pressing Oil is an ideal hair dressing, having properties which protect the hair from wind, weather and disease, make it soft and glossy; improves the quality of the hair and promotes straightening without irons. For woman, man or child.
 
@@ -10,11 +25,49 @@ Mme. P. M. Dabney's XXth Century Pressing Oil
 
 Make a course of treatment for the hair and scalp which will last six weeks. Send us an order today enclosing P. O. money order for $1.25 and receive them by parcel post prepaid, or write for literature and information to Madam P. M. Dabney's XXth Century HAIR PREPARATIONS CO. 1806 E. 24th St. Kansas City, Mo.
 
+to patronize a man who has been for lo these man-
+ing to help himself and also build up the busi-
+of his race.
+
+J. A. WILSON
+Kansas City's Pioneer Negro Jew-
+Sells Watches, Clocks, Diamon-
+and other Staple Reliable Jewel
+or will help you to buy the same from any leadi-
+house.
+
+You will receive courteous treatment and sq
+This store is at 1616 West 9th street, Kansas C
+half block west from Wyoming street or station.
+
 to patronize-a man who has been for lo these many years striving to help himself and also build up the business prestige of his race.
 
 Kansas City's Pioneer Negro Jeweler Sells Watches, Clocks, Diamonds and other Staple Reliable Jewelry or will help you to buy the same from any leading wholesale house.
 
 You will receive courteous treatment and square dealing. This store is at 1616 West 9th street, Kansas City, Mo., one half block west from Wyoming street or station.
+
+GIVE US A TRIAL
+TAYLOR & WILLIAMS COAL
+LOWEST PRICES BY TON OR QUART
+100 POUNDS COAL.....25 CENT
+CHEROKEE, LEXINGTON, RICHMOND and
+HAY, GRAIN AND CHOPS.
+1709 Lydia Avenue. Bell Phone
+
+CAMPBELL COLLEGE
+JACKSON, MISS.
+
+Departments--Theological, Collegiate, Collegiate, Scientific, Normal, Sub-Normal, Musical, Industrial
+
+Advantages--Trained Teachers, Thorough Disc Buildings and Christian Influences
+
+For further information, write to the Presidio College, Jackson, Miss.
+
+Bishop J. M. CONNOR, D. D., Ph. D. LL.D.
+WILLIAM T. VERNON, A. M., D. D., LL. D.
+
+Calling Cards, Business Cards, Church, Society
+Stationery Printing of all kinds.
 
 LOWEST PRICES BY TON OR QUANTITY
 100 POUNDS COAL.....25 CENTS,
@@ -35,6 +88,16 @@ Bishop J. M. CONNOR, D. D., Ph. D. LL.D., Chancellor.
 WILLIAM T. VERNON, A. M., D. D., LL. D., President.
 
 Calling Cards, Business Cards, Church, Society, Book and Stationery Printing of all kinds.
+
+JNO. R. FAIRLEY, Mgr.
+
+Square Deal Printing Co.
+
+The Printing House for the two Kansas Citys. Our Facilities for doing first class work unexcelled
+
+Home 2783 Main Ball 1647Y Grand 1731 Lydia Ave. (Hod Carriers' Hall.)
+
+Subscribe Now for The Su
 
 ## Square Deal Printing Co.
 
@@ -60,8 +123,6 @@ Mme. P. M. Dabney's XXth Century Hair Grower
 
 Telephone, Bell Main 6248R.
 
-## JACKSON, MISS.
-
 JNO. R· FAIRLEY, Mgr.
 
 ## TESTIMONIAL
@@ -83,8 +144,6 @@ XXth Century Shamoo . .
 ## CHILLICOTHE, MO.
 
 ## By BENJ. V. LONGDON
-
-## By BENJ V. LONGDON
 
 BY BENJ. V. LONGDON.
 
@@ -114,30 +173,24 @@ Annual Church Conferences and
 Associations,
 Secret society organizations,
 
-Farmers' Improvement Societies, Churches, schools, and other local organizations. State health officers.
+Farmers' Improvement Societies, Churches, schools, and other local organizations, State health officers.
 
-In Alabama, Louisiana, North Carolina and other states special Health Days have at one time or another been observed. For some years the Virginia Organization Society, under the leadership of Major R. R. Moton, has observed a Health or Clean-up Week. It is thought to be well to unite all these efforts into a National Movement and join the movement on to the Virginia effort.
+In Alabama, Louisiana, North Carolina and other states special Health Days have at one time or another been observed. For some years the Virginia Organization Society, under the leadership of Major R. R. Moton, has observed a Health or Cleanup Week. It is thought to be well to unite all these efforts into a National Movement and join the movement on to the Virginia effort.
 
 It is thought the race will welcome this opportunity to unite all these efforts in one great National Health Movement, and thus gain the benefit of the momentum and the enthusiasm that will come from the great united Health Movement.
 
-Without Health and until we reduce our high death rate it will be impossible for us to have permanent success in business, in property getting, in acquiring education, or to show other evidences of progress, WITHOUT HEALTH AND LONG LIFE ALL ELSE FAILS!
+Without Health and until we reduce our high death rate it will be impossible for us to have permanent success in business, in property getting, in acquiring education, or to show other evidences of progress. WITHOUT HEALTH AND LONG LIFE ALL ELSE FAILS!
 
 The following facts will illustrate something of the need and importance of this health movement:
 
 450,000 Negroes in the South alone are seriously ill all the time; the annual cost of the sickness of these 450,000 Negroes is $75,000,000.
 
 112,000 Negro workers in the South alone are sick all the time; their annual loss in earnings is $45,000,000; 45 per cent of the annual deaths among Negroes are preventable.
-
 225,000 Negroes of the working class die annually; 100,000 of these deaths can be prevented.
-
-The annual funeral expenses of Negroes in the South alone are $15,000,000; $6,500,000 of this amount could be saved.
-
+The annual funeral expenses of Negroes in the South alone are $15,000,000, $6,500,000 of this amount could be saved.
 Sickness and death cost Negroes of the South alone, $100,000,000; $50,000,000 of this amount could be saved.
-
-We must reduce our high death rate, dethrone disease and enthrohealth and long life. We may differ on other subjects, but there is no room for differences here. Let us make a strong, long, united pull together.
-
+We must reduce our high death rate, dethrone disease and enthrone health and long life. We may differ on other subjects, but there is no room for differences here. Let us make a strong, long, united pull together.
 Other facts will appear in the weekly press and in circulars from week to week, and information will be gladly furnished.
-
 BOOKER T. WASHINGTON,
 President National Negro
 Business League.
@@ -172,7 +225,9 @@ Hair Matched From Samples. Feathers and Hats Cleaned, Dyed and Blocked. Agents f
 
 GOOD SERVICE ELECTRIC LIGHTED
 
-BARBERS: T. E. Grear, Prop. F. J. Walker. Martin Franklin First Class Shaves, Hair Cuts and Shampoos. Best Shop in the City. Do not take your money down town when you can get good service for it at home. You will always find us at our post and ready to serve.
+BARBERS: T. E. Grear, Prop. F. J. Walker. Martin Frank!
+
+First Class Shaves, Hair Cuts and Shampoos. Best Shop in the City. Do not take your money down town when you can get good service for it at home. You will always find us at our post and ready to serve.
 
 If You are Pleased Tell Your Friends and if not Tell Us.
 

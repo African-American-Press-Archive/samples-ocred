@@ -23,44 +23,64 @@ Phone: Bell, E. 1987
 
 NOTARY PUBLIC
 
-1318 E. BROADWAY
+---
 
 ## Dr. Hall's Liniment
 
 Rheumatic and Ne
-Good for Rheumatism, Ne
-ing Joints. All Local Pai
+
+Good for Rheumatism, Ne-
+ing Joints. All Local Pai-
 ions and Toothache. The
-50c bottles. No order ser
-than $1.00. This Linime
+50c bottles. No order ser-
+than $1.00. This Linime-
 Distributor for Illinois, M
-903
+
+903 L
+
 DR. ERNEST
 
 Rev. J. B.
 
+Moderator of M
+Association a
+Unity Bapti
+Brookport, Ill
+the pastors and
+District Many Co
+
 Rheumatism, Neuraligia, Aching and Swell-
-s. All Local Pains, including Corns, Bun-
+All Local Pains, including Corns, Bun-
 Toothache. There are two sizes $1.00 and
 less. No order sent through the mail for less
-$00. This Liniment is guaranteed.
-For for Illinois, MRS. M. J. McCrary
+so. This Liniment is guaranteed.
+for Illinois, MRS. M. J. McCrary
 903 Pearl St., Metropolis, Ill.
 DR. ERNEST HALL, Atlanta, Ga.
 
 Rev. J. B. McCrary.
+Moderator of Mt. Olive Baptist
+Association and Pastor of
+Unity Baptist Church,
+Brookport, Ill., wishes all of
+the pastors and members of the
+District Many Conversions.
 
 ## Rheumatic and Neuraligia Liniment.
 
 Good for Rheumatism, Neuraligia, Aching and Swelling Joints. All Local Pains, including Corns, Bunions and Toothache. There are two sizes $1.00 and 50c bottles. No order sent through the mail for less than $1.00. This Liniment is guaranteed. Distributor for Illinois, MRS. M. J. McCRARY 903 Pearl St., Metropolis, Ill. DR. ERNEST HALL. Atlanta, Ga.
 
-Moderator of Mt. Olive Baptist Association and Pastor of Unity Baptist Church, Brookport, Ill., wishes all of the pastors and members of the District Many Conversions.
+Rev. J. B. McCrary.
 
-X
+Moderator of Mt. Olive Baptist Association and Pastor of Unity Baptist Church, Brookport, Ill., wishes all of the pastors and members of the District Many Conversions.
 
 "Every Colored man woman in the United States ought to make it thir primary business to see that the Dyer Anti-Lynching Bill H. B. 13, is passed by the Senate. Six human beings, all of them Colored people, were burned at the state in the United States during the fifteen days in the month of May, 1922. If that is not enough to stir Colored Americans to action, then nothing will or can. The National Association for the Advancement of Colored people offers every one an opportunity to
 
 ---
+
+1318 E. BROADWAY
+
+METROPOLIS WEEKLY GAZETTE. METROPOLIS. ILL
 
 Kin. St. Clair 1969
 
@@ -89,11 +109,9 @@ Soldier-like, Marshal Foch employs few words in answering the anonymous "America
 
 "If Gen. Robert E. Lee was a traitor," said the marshal of France, "Napoleon Bonaparte was a coward. If General Lee was a traitor, I wish France had more of them. He was one of the greatest military leaders the world has ever known."
 
-In winning the World war, Ferdinand and Foch leaned heavily upon the shoulder of Robert E. Lee. It was "the sword of Lee" that flashed on every battlefield in France from the first battle of the Marne to Armistice day.
+In winning the World war, Ferdinand Foch leaned heavily upon the shoulder of Robert E. Lee. It was "the sword of Lee" that flashed on every battlefield in France from the first battle of the Marne to Armistice day.
 
-Lee's strategy, revived and employed first by Joffre and later by Foch, held the Hun along the French front, swift to attack again, until at length the Hindenburg line was pierced and the enemies of civilization sued for peace.
-
-In his estimate of Lee, Marshal Foch takes his stand beside Viscount Wolseley, of England, who declared that Lee was "the greatest soldier given to the world since the days of Marlborough."
+Lee's strategy, revived and employed first by Joffre and later by Foch, held the Hun along the French front, swift to attack again, until at length the Hindenburg line was pierced and the enemies of civilization sued for peace. In his estimate of Lee, Marshal Foch takes his stand beside Viscount Wolseley, of England, who declared that Lee was "the greatest soldier given to the world since the days of Marlborough."
 
 ## TIGHT WRIST WATCH WARNING
 
@@ -125,7 +143,7 @@ It is customary to waste a lot of pity on the trader and the planter in remote p
 
 Of course, the road to fortune is a long and hard one. The average planter starts out with a little capital—say $500. He purchases a plot of land. The price he pays depends upon the locality in which he buys. In regions where the natives are still fairly unsophisticated he may get his land for almost nothing. Even where the natives are most astute, he can buy a square mile for what he would pay for an acre back home. His next step is to get his land cleared. To that end he buys a whaleboat and goes out to recruit natives to act as laborers. He needs five or six blacks. They will build his house and clear his land and plant his coconuts. Since it takes seven years for the coconuts to mature, sweet potatoes and cotton must be planted between the rows of trees. The sweet potatoes, with a little rice, will furnish all the food required by the blacks. The cotton, if the planter is diligent and lucky, will pay current expenses until the coconuts begin bearing.
 
-Though his small capital of $500 may be eaten up early in the game, the settler need not despair. The big trading companies that do business in the islands, will see him through if he shows any signs of being made of the right stuff. They will give him credit for food and supplies, and they will provide him with knives, calco and tobacco, which he can barter with the blacks for the sandal-wood and copra that will help balance his account with the companies. And after the first trying seven years his troubles are about over—if he can get labor enough to keep his plantation going.
+Though his small capital of $500 may be eaten up early in the game, the settler need not despair. The big trading companies that do business in the islands, will see him through if he shows any signs of being made of the right stuff. They will give him credit for food and supplies, and they will provide him with knives, calico and tobacco, which he can barter with the blacks for the sandal-wood and copra that will help balance his account with the companies. And after the first trying seven years his troubles are about over—if he can get labor enough to keep his plantation going.
 
 ## POSSIBLE LIFE ON PLANETS
 
@@ -149,11 +167,48 @@ In France women are dressing the hair to make the head look as small as possible
 
 A teacher asked, as reported by a London comic paper, "What would King Alfred, if he were alive now, think of the home rule bill?" and the boy answered, "If King Alfred were alive now he would be too old to be interested in politics."—Outlook.
 
+Page Three
+
+OPEN
+COLORED PARK
+to our people
+history, thereto-
+people, also
+wish to see
+soldiers,
+truly decide
+my people
+that I can g
+other race,
+other underst
+throughout,
+qualified to g
+ction.
+peared in Me-
+metrolis Public
+School in 191
+Anatomy, Sana
+from which
+I hold a
+small line of
+price on the
+undertaking
+ded on short
+class hearse
+day or night;
+J. S., Servi-
+safe for "De-
+nion equal oppi-
+3.
+Respea-
+MARY'S UN
+inois,
+
 ## AN OPEN LETTER
 
 ## TO THE COLORED PEOPLE-
 
-We wish to say to our people of Massac County, and the surrounding territory thereto. Having been solicited by a number of my people, also encouraged by some of my white friends who wish to see, and help secure employment for all returning soldiers, to enter the Undertaking business. I have finally decided to go into that business, with a view of serving my people, as well as having an employment, feeling that I can give them better service than members of the other race, 'though I am in friendly relation with all the other undertakers, and expect to retain that relationship throughout my business career
+We wish to say to our people of Massac County, and the surrounding territory, thereto. Having been solicited by a number of my people, also encouraged by some of my white friends who wish to see, and help secure employment for all returning soldiers, to enter the Undertaking business. I have finally decided to go into that business, with a view of serving my people, as well as having an employment, feeling that I can give them better service than members of the other race, 'though I am in friendly relation with all the other undertakers, and expect to retain that relationship throughout my business career
 
 I am perfectly qualified to give unexcelled service and will guarantee satisfaction.
 
@@ -163,11 +218,43 @@ We will carry a small line of caskets only, at present, owing to the advance pri
 
 We have a first class hearse at our command.
 
-Calls answered day or night; distance immaterial.
+Calls answered day or night: distance immaterial.
 
-We were in the U. S., Service for six months, trying to make this country safe for "Democracy," thereby insuring the colored man an equal opportunity with other races
+We were in the U. S., Service for six months, trying to make this country safe for "Democracy," thereby insuring the colored man an equal opportunity with other races Phone 229-Ring 3
 
-Phone 229-Ring 3
+Nollie
+Mme. C.
+and Scientific
+hair can have
+that condition
+beautiful Hair
+Name W
+lower. It is its
+persons will treat
+the scalp is
+use her met
+get your Scalp in
+wonderful Hair Co
+Salve, Temple
+Walker's Good
+e.
+NOLLIE GO
+
+ELECTRICI
+ears
+equipment
+less Servi
+Block S
+passenger
+stations
+right Hand
+
+passenger
+Louis, Spi
+Bloom
+diate por
+S TRACTION
+MCKINLEY
 
 ## Mme. Nollie Parks
 
@@ -179,86 +266,47 @@ Wonderful Hair Grower. It is positively guaranteed to grow hair, many persons wi
 
 Parlor Cars Sleeping Cars Standard Equipment Fast Express Service Automatic Block Signals Modern Passenger Coaches Passenger Stations Generally Loeated Heavy Freight Handled Between All Points Frequent passenger service between Peoria, St. Louis, Springfield, Decatur, Champaign, Bloomington, Danville, and intermediate points. ILLINOIS TRACTION SYSTEM
 
-Mme. Noll
-Agent for Mme.
-Hair preparations and Scientific woman who wants hair can help stubby or what condition
-Beautiful Madame
-Wonderful Hair Grower. It grows hair, many persons will grow hair where the scalp tetter. Let us use her and Dandruff Cure. Get your scalp or let us use the Wonderful Hair Shampoo, Tetter Salve, Tetter
-
-We use Mme. C. J. Walker's service you at any time.
-
-MME. NOLLIE
-
-A REAL ELECTRIC
-Parlor Cars
-Sleeping Cars
-Standard Equipment
-Fast Express Service
-Automatic Blocker
-Modern Passenger Station
-Heavy Freight Hair Points
-
-Frequent passenger, Peoria, St. Louis, Champaign, Blood and intermediate ILLINOIS TRAC
-
-(MCKINL
-
 In this issue appears an advertisement of the "Old Reliable" St. Louis Globe Democrat, to which we request your attention. The Globe-Democrat bases its claim for your subscription on its absolute fairness in printing the news in an unbiased uncolored way. There have been great and important additions to its news gathering facilities, both at home and abroad. There have also been added a number of new daily features. There is always
+
+M. J. MCGRARY, Manager.
 
 Hollie Parks
 name. C. J. walker's
-scientific Scalp Treatment. Every
+Scientific Scalp Treatment. Every
 man have it, no matter how short,
 condition the scalp. For long and
-soul Hair, Use
+Foul Hair, Use
 Walker's
 It is positively guaranteed to
 will tell you it is impossible to
 scalp is covered with dandruff or
 other method, the Tetter Salve.
-Our Scalp in a natural healthy condition
-ful Hair Grower and see the results.
-E, Temple Grower.
+Hair Scalp in a natural healthy condition
+Foul Hair Grower and see the results.
+Temple Grower.
 Glosine, Hair Grower.
-Her's Goods exclusively, will be glad to
-THE GORDON PARKS.
+Walker's Goods exclusively, will be glad to
+GORDON PARKS.
 
 ELECTRIC RAILWAY
 
 Equipment
 Service
 Stock Signals
-Singer Coaches
-ations Generally Located
+enger Coaches
+ions Generally Loeated
 Handled Between All
 
-Singer service between
-Is, Springfield, Decatur,
+enger service between
+is, Springfield, Decatur,
 Bloomington, Danville,
-state points.
+te points.
 
 TRACTION SYSTEM
-(NLEY LINES)
+(SINLEY LINES)
 
-tise-
-Louis
-quest
-operation
-tating
-ordered
-im-
-ering
-road.
-number
-ways
-
-a good continued story, news of the
-world in photographs, daily comic cartoons and many other regular features
-for men, women and children.
-For particulars we urge you to read the
-advertisement, and then send in your
-orders at once to the Globe Printing
-Co. Publishers St. Louis, Mo.
+a good continued story, news of the world in photographs, daily comic cartoons and many other regular features for men, women and children. For particulars we urge you to read the advertisement, and then send in your orders at once to the Globe Printing Co. Publishers St. Louis, 152.
 
 The Followers.
-We follow the fast-tags and the hall
-collectors follow us.—Globe News.
+
+We follow the fastness and the skill collectors follow us.—Globe News.

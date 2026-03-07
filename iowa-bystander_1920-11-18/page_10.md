@@ -1,3 +1,5 @@
+INTERNATIONAL
+
 For all thy ministries—
 For morning mist and gently falling dew;
 For summer rains, for winter ice and snow;
@@ -15,6 +17,8 @@ For rushing gale and for the great, glad calm;
 For Might so mighty and for Love so true,
 With equal mind,
 
+INTERNATIONALS
+
 LOADED with all the goods the living cost allows, the home boards of the day of thanks will give full witness to the fact that the passing years do not permit to grow flaccid the long-established custom of the land. Thanksgiving Day has yet full force of the day when first observed upon the bleak coast where the Pilgrim fathers closed their voyage adventure. The turkey and the pumpkin pie, cranberries and accessories will all feature as in the days gone by. And amid the fumes so redolent of cheer and peace and the sweet concord of home, will seem to fashion forth the features dear of the ones who at that board in other years were grouped. Memory that never lays aside attachments of the past will vivify the recollections of the ones whose passing meant contraction of the group, but cheer will be no less sincere because the pathos note is struck in token of mortality that time insures. From coast to coast, amid the mountains of the nearby range, amid the Rockies lifting high their peaks, where plaid lie the meadows by the brook, and in the tropic Southlands and the coast that borders the Pacific, will be found the units of the nation's strength and grace, she circles of the home with sweet content as savor for the simple heartfelt feasts. In many places strange and mid the scenes of desolation and of solitude the day and dinner will be given thought.
 
 # Thanksgiving Hymn Well Liked at Birth But Now Forgotten
@@ -23,7 +27,7 @@ The first presidential Thanksgiving proclamation was that of President Washingto
 
 The great victories of Gettysburg and Vicksburg were really the cause of Lincoln's proclamation, and his example has been followed by all his successors until the annual festival has become one of our national institutions.
 
-The proclamation of 1863 was remarkable as the first of a series, extending now over fifty years. It was also noticeable because it was the occasion of a thanksgiving hymn by the famous Reverend Doctor Muhlenburg of St. Luke's hospital, New York city. He is well known as the author of the familiar hymn, "I Would Not Live Always," and a poet of no small repute. Mr. Lincoln's glowing words met his eye and struck a responsive chord in his heart. A noble Thanksgiving hymn was the result, a hymn which at the time was often sung, but is now comparatively forgotten. It was published with appropriate music, and even yet is suitable for use on similar occasions.
+The proclamation of 1863 was remarkable as the first of a series, extending now over fifty years. It was also noticeable because it was the occasion of a thanksgiving hymn, by the famous Reverend Doctor Muhlenburg of St. Luke's hospital, New York city. He is well known as the author of the familiar hymn, "I Would Not Live Alway," and a poet of no small repute. Mr. Lincoln's glowing words met his eye and struck a responsive chord in his heart. A noble Thanksgiving hymn was the result, a hymn which at the time was often sung, but is now comparatively forgotten. It was published with appropriate music, and even yet is suitable for use on similar occasions.
 
 The hymn contains nine stanzas, with chorus, and takes up in order the various causes for thanksgiving mentioned in Mr. Lincoln's proclamation. The original title was "Give Thanks All Ye People," the first verse being as follows:
 
@@ -45,22 +49,41 @@ Lincoln's call upon the nation to give
 
 # THE DAY OF THANKS
 
-thanks, Doctor Muhlenburg spoke of it as "The President's Hymn," but would not permanently offer such a title without Mr. Lincoln's approval. Mr. Robert B. Minturn, a prominent member of Doctor Muhlenburg's congregation, was greatly pleased with the poem, and sent a copy to the President, with whom he was personally acquainted, asking permission to name the hymn as the author desired. Mr. Lincoln telegraphed back: "So let it be." In July, 1865, Dr. Horace Bushnell published in "Hours at Home" an article attacking the well-known hymn, "America," as an unworthy and really humiliating effusion—as a political anthem. Doctor Bushnell thus refers to Doctor Muhlenburg's production:
+thanks, Doctor Muhlenburg spoke of it as "The President's Hymn," but would not permanently offer such a title without Mr. Lincoln's approval. Mr. Robert B. Minturn, a prominent member of Doctor Muhlenburg's congregation, was greatly pleased with the poem, and sent a copy to the President, with whom he was personally acquainted, asking permission to name the hymn as the author desired. Mr. Lincoln telegraphed back: "So let it be." In July, 1865, Dr. Horace Bushnell published in "Hours at Home" an article attacking the well-known hymn, "America," as an unworthy and really humilizing effusion—as a political anthem. Doctor Bushnell thus refers to Doctor Muhlenburg's production: "The hymn and air that were given to the public by Doctor Muhlenburg a short time ago appear to have missed the accident of being fairly born, and for that reason have not succeeded. The want of good accident here is fatal, but the hymn has real merit. It was too long and included three or
 
-"The hymn and air that were given to the public by Doctor Muhlenburg a short time ago appear to have missed the accident of being fairly born, and for that reason have not succeeded. The want of good accident here is fatal, but the hymn has real merit. It was too long and included three or four verses that could have been omitted with advantage. Otherwise it might have stuck and would have had a fair chance of success; for the music, which we know only by the eye, and never heard in a public performance, appeared to have a look of promise."
+GREERFUL
+Toks
+make every
+Disk a Feast.
+
+four verses that could have been omitted with advantage. Otherwise it might have stuck and would have had a fair chance of success; for the music, which we know only by the eye, and never heard in a public performance, appeared to have a look of promise."
 
 The next known reference to this hymn occurs in connection with the observance of the fiftieth convocation of the University of Illinois, on November 20, 1913. The Alumni Quarterly says: "Touches of the unusual were added to the exercises by the singing of a forgotten hymn, dedicated to Lincoln in 1863 by Reverend Doctor Muhlenburg. The hymn, which had not previously been sung in public, was discovered by Professor Dodge in a contemporary issue of the New York Tribune."
 
 Preparing for Thanksgiving.
-
 Be ready for Thanksgiving by always having a list of your blessings corrected up to date.
 
-E DAY OF THAN
+THE BYSTANDER.
 
-ing cost allows, the home boards of the day of it permit to grow flaccid the long-established cushen first observed upon the bleak coast where the spinie pie, cranberries and accessories will all feel peace and the sweet concord of home, will see years were grounded. Memory that never lays as
+furnit
+the
+las
+plac
+yea
+has
+tha
+ucta
+Dor
+and
+ord
+mem
+dem
+an o
+non
+Buy
 
-John Oxenham
-C
+64
+
 INTERNATIONAL
 
 ## Some Reasons Why the Farmer Should Keep Thanksgiving
@@ -69,19 +92,26 @@ Just now, apart from our knowledge of food secure, perhaps some of us feel it ne
 
 A person was once visiting a friend whose home commanded a beautiful stretch of mountain scenery. It was, in fact, a magnificent view. "What a wonderful outlook you have here," he remarked to his host. "I am sure if I lived here I should spend most of my time viewing the landscape." "Why, I never thought of it that way," his host replied. "I never considered it anything remarkable. I have simply taken it as a matter of course."
 
-Thousands of people who live in the country enjoy a treasure which is dented to millions of their fellowmen—the blessing of good, pure, out-of-door air, fragrant in spring and summer with perfume of flowers or newmown hay, and in fall and winter laden with crisp, life-giving ozone.
+Thousands of people who live in the country enjoy a treasure which is denied to millions of their fellowmen—the blessing of good, pure, out-of-door air, fragrant in spring and summer with perfume of flowers or newmown hay, and in fall and winter laden with crisp, life-giving ozone.
 
-No one enjoys more blessings and treasures of this kind than the man or woman on the farm. He or she, if inclined to be of a complaining nature, is apt to find fault that life on the farm is so hard and composed so largely of drudgery. Furthermore, "far away fields are always green," and the one on the farm imagines that in the city all must be ease and contentment. These imaginations, however, will not stand the test of personal acquaintanceship with the life that is lived in the cities by hundreds of thousands of people. Farm work is hard, but there are no easy berths in life.
+No one enjoys more blessings and treasures of this kind than the man or woman on the farm. He or she, if inclined to be of a complaining nature, is apt to find fault that life on the farm is so hard and composed so largely of drudgery. Furthermore, "far away fields are always green," and the one on the farm imagines that in the city all must be ease and contentment. These imaginings, however, will not stand the test of personal acquaintance with the life that is lived in the cities by hundreds of thousands of people. Farm work is hard, but there are no easy berths in life.
 
 The average person on the farm lives better, enjoys better air to breathe, better water to drink, better food to eat, better conditions under which to work, better health than the man or woman in corresponding circumstances in the city.
 
-## FINE ARTS NEGRO SUBJECTS
+ANKS
 
-PICTURES, POST CARDS, CALENDARS, COLORED DOLLS Special prices given to business men with their card on the Calendars.
+Day of thanks will give full witness to the custom of the land. Thanksgiving Day is the Pilgrim fathers closed their voyage feature as in the days gone by. And seem to fashion forth the features dear aside attachments of the past will vivify their will be no less sincere because the amid the mountains of the nearby range, look and in the tropic Southlands and the
 
-# Invest To-day Invest Now
+mop
+mar
+gov
+expo
+pen
+par
+shou
+Va
 
-In a racial enterprise, with a Sound Investment.
+-John Oxenham
 
 The Verbena Perfumery Co., Inc. is the only Negro Perfume Company in America, maintaining its own laboratory for the manufacture of Toilet Preparations prepared from formulas discovered by our own Negro chemist. Every preparation placed on the market by us, has come as the result of many years study and experiments by our chemist, only after each has been thoroughly tested and found worthy of maintaining that high standard of distinctive individuality, which so Signally distinguished every Verbena Product.
 
@@ -95,22 +125,9 @@ A limited number of shares are being placed on the market. Buy Now, Buy Today.
 
 This establishment takes pride in several outstanding features of its business among which are:
 
-3. It is being supported by colored people.
-
 At present the business is growing rapidly under the efficient management of Mr. L. L. Bowles, and, assisted by Mrs. Emerald Mash. You can do no better thing than call or send your orders here for groceries.
 
 There is still on hand a few shares of stock which may be bought at ten dollars per share by paying either cash or on time. Investigate this concern and you will be convinced of its safety.
-
-DIRECTORS.
-
-E. Tracy Blagburn, President James B. Morris, Attorney
-L. J. Shelton, Vice President W. H. Bowles, Manager
-J. L. Brown, Secretary W. H. Humburd, Director.
-W. M. Warfield, Treasurer
-
-## GO TO SCHOOL IN CALIFORNIA
-
-# GO TO SCHOOL IN CALIFORNIA
 
 Vallejo Institute, located at Vallejo, California, a literary, industrial and vocational free training school and home for colored boys and girls open the year round established 1911 and incorporated in 1912. Books free, tuition free. $100.00 paid in full will pay for board and lodging the whole term nine months. $25.00 on entering pays two months advance then $1250 per month advance rest of term or stay after first two months. Grammar and high school graded work, vocal and instrumental music, government mild but firm principal has had twenty-five years experience as a teacher.
 
@@ -119,49 +136,58 @@ Energetic young men and women may work and earn expenses during day attend schoo
 Vallejo Institute, Vallejo, California
 C. H. TONEY, Principal
 
+## FINE ARTS NEGRO SUBJECTS
+
+PICTURES, POST CARDS, CALENDARS, COLORED DOLLS Special prices given to business men with their card on the Calendars.
+
+# Invest To-day Invest Now
+
+In a racial enterprize, with a Sound Investment.
+
+3. It is being supported by colored people.
+
+## GO TO SCHOOL IN CALIFORNIA
+
+# GO TO SCHOOL IN CALIFORNIA
+
+2513 Lake Street
+
 Invest To-day
 Invest Now
 
-In a racial enterprize, with a Sound Invest.
+In a racial enterprize, with a Sound Invest-
 The Verbena Perfumery Co., Inc. is the only
-fume Company in America, maintaining its own
+fume Company in America, maintaining its own B
 the manufacture of Toilet Preparations prepared
 has discovered by our own Negro chemist. Every
-placed on the market by us, has come as the rest
+placed on the market by us, has come as the rees
 years study and experiments by our chemist, one
 has been thoroughly tested and found worthy of
-that high standard of distinctive individuality, wh
+that high standard of distinctive individuality, whi
 by distinguished every Verbena Product.
 
 We are Negro Capital, Negro Chemist, Negro
-organized, 1919, on account of the large demand in
-ducts both here and in the following countries: Port
+organized 1919, on account of the large demand
+inducts both here and in the following countries: Port
 Domingo, Haiti, Panama Canal, South Africa, Lia-
 land Virgin Islands, we were compelled to be in
 order to raise more funds for a larger output.
-
 This is an opportunity for those who desire a
-ment with a quick turnover, with our foreign man
+ment with a quick turnover, with our foreign max
 demand created here for our products. There is a
 an early dividend to Shareholders.
 
-We are capitalized for $25,500.00 shares at $5.
+We are capitalized for $25,500.00 shares at $5
 non-assessable.
-
 A limited number of shares are being placed on
 Buy Now, Buy Today.
 
-Give Usa Call
-
-Our New Your Office Is Located
-1106 Lenox Ave.-Phone Auc
-Anticipating your kind patronage.
+Give Usa Call Our New Your Office Is Locat 646 Lenox Ave.-Phone Au Anticipating your kind patronage.
 
 The American Co-op
 Co., Inc.
 1106 Center Street, Des Moine
-Authorized Capital $10,000 Shares
-
+Authorized Capital $10,000 Shar
 A corporation organized under
 the Laws of Iowa operating
 Grocery Store
@@ -217,7 +243,9 @@ Sent Forth.
 INTERMEDIATE AND SENIOR TOPIC
 -Heralds of the King.
 
-Having set forth the laws of the kingdom in the sermon on the mount and his power to administer the affairs of the kingdom in the miracles of the eighth and ninth chapters, Matthew now sets forth us the methods which the king adopted in the propagation of the kingdom. The following divisions of the chapter suggest the dispensational aspects of the lesson:
+YOUNG PEOPLE AND ADULT TOPIC—Recruiting Christian Worker.
+
+Having set forth the laws of the kingdom in the sermon on the mount and his power to administer the affairs of the kingdom in the miracles of the eighth and ninth chapters, Matthew now sets before us the methods which the king adopted in the propagation of the kingdom. The following divisions of the chapter suggest the dispensational aspects of the lesson:
 
 1. Instructions Bearing Immediately Upon the Apostles' Work to the Death of Christ (vv. 1-15).
 
@@ -225,7 +253,7 @@ In strictness of interpretation these teachings have no application to any later
 
 1. The ministers chosen (vv. 1-4). These 12 humble men were chosen and commissioned for the work of the propagation of the kingdom. They were not commissioned with church truth. These 12 stood in a peculiar relation to Israel.
 
-2. The sphere of their mission (vv. 5, 6). They were only to go to Jews, and that to respectable ones. They had no message for gentiles or even Samaritans. After Pentecost this sphere was widened (see Luke 24:46-49; Acts 1.8). This would be a strange restriction to place upon ministers today, since the "middle wall of partition" was broken down by the death of Christ.
+2. The sphere of their mission (vv. 5, 6). They were only to go to Jews, and that to respectable ones. They had no message for gentiles or even Samaritans. After Pentecost this sphere was widened (see Luke 24:40-49; Acts 1:8). This would be a strange restriction to place upon ministers today, since the "middle wall of partition" was broken down by the death of Christ.
 
 3. Their message (v. 7). "The kingdom of heaven is at hand." This meant that the promised kingdom of Israel was at hand, that Jesus Christ, the promised king, was present and ready to set up his kingdom if they were willing to have it. This differs widely from the message of the ministers today.
 
@@ -235,11 +263,11 @@ In strictness of interpretation these teachings have no application to any later
 
 6. Responsibilities of those to whom the message was delivered (vv. 11-15). Upon entering the city or town they were to inquire for a reputable place to stay. Into that home they were to bring peace. If the people would not receive them or hear their message, they were to pronounce judgment upon them, and the turning of the Lord from them symbolized by the ministers wiping the dust from their feet when turning from the people who had rejected their message.
 
-II. Instructions Concerning the Testimony from Pentecost Onward (vv. 16-23). After Pentecost, testimony for Christ would be fraught with great danger. Both Jews and gentiles would assail the messengers and the most bitter persecutions. They were scourged in the synagogues before heathen magistrates. Instead of bringing peace into the homes they brought divisions of the fiercest kinds among families. In their defense they were to rely upon the Holy Spirit to aid them. These conditions were literally fulfilled in the period from Pentecost to the destruction of Jerusalem. Since the fall of Jerusalem no one has ever been scourged in a synagogue. Verse 23 seems to carry the work forward to the time of the preaching of the gospel of the kingdom in the tribulation times. The Lord's coming then is so speedy that their testimony is cut short.
+II. Instructions Concerning the Testimony from Pentecost Onward (vv. 16-23). After Pentecost, testimony for Christ would be fraught with great danger. Both Jews and gentiles would assail the messengers with the most bitter persecutions. They were scourged in the synagogues before heathen magistrates. Instead of bringing peace into the homes they brought divisions of the fiercest kinds among families. In their defense they were to rely upon the Holy Spirit to aid them. These conditions were literally fulfilled in the period from Pentecost to the destruction of Jerusalem. Since the fall of Jerusalem no one has ever been scourged in a synagogue. Verse 23 seems to carry the work forward to the time of the preaching of the gospel of the kingdom in the tribulation times. The Lord's coming then is so speedy that their testimony is cut short.
 
 III. Teaching Applicable in All Ages (vv. 24-42).
 
-The disciple has the position of oneness with his master. He is to courageously declare the whole counsel of God, though most violently opposed, knowing "that all things work together for good to them that love God." Though their testimony be met with the most bitter opposition, they should not be surprised or discouraged, for so completely is the Lord identified with his disciples that he accepts treatment of the disciples as treatment of himself.
+The disciple has the position of one-ness with his master. He is to courageously declare the whole counsel of God, though most violently opposed, knowing "that all things work together for good to them that love God." Though their testimony be met with the most bitter opposition, they should not be surprised or discouraged, for so completely is the Lord identified with his disciples that he accepts treatment of the disciples as treatment of himself.
 
 ## Seeking God's Aid.
 
@@ -247,3 +275,5 @@ Through the day we must often, even amidst our busiest occupations, renew our of
 
 Child Life.
 Child life is a poem written by God's own hand.
+
+e

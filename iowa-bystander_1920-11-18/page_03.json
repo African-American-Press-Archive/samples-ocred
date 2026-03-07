@@ -3,7 +3,29 @@
   "image": "images/page_03.jpg",
   "width": 2061,
   "height": 2800,
+  "processed_at": "2026-03-07T12:07:05.828558+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 89,
+    "after_merge": 54
+  },
   "regions": [
+    {
+      "bbox": [
+        166,
+        157,
+        1063,
+        1080
+      ],
+      "label": "text",
+      "text": "For the 1920 Thanksgiving\nFeast",
+      "status": "ok"
+    },
     {
       "bbox": [
         327,
@@ -12,7 +34,19 @@
         2116
       ],
       "label": "doc_title",
-      "text": "Daddy Gobbler's Premonition"
+      "text": "Daddy Gobbler's Premonition",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        162,
+        2135,
+        1054,
+        2549
+      ],
+      "label": "text",
+      "text": "MISERS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,17 +56,52 @@
         1196
       ],
       "label": "paragraph_title",
-      "text": "\"Think and Thank\" Suggested Motto for Nation Today"
+      "text": "\"Think and Thank\" Suggested Motto for Nation Today",
+      "status": "ok"
     },
     {
       "bbox": [
         145,
         1209,
+        446,
+        1673
+      ],
+      "label": "text",
+      "text": "\"Think and Thank\" was the motto upon the family crest of the great Hebrew philanthropist Sir Moses Montefiore. It would be an appropriate armorial motto for America today. These two little English words, differing in a single vowel, were originally identical. In the Anglo-Saxon tongue, a \"thank\" was a \"think.\" Thanking comes from thinking, and thankfulness from thoughtfulness and thanks giving from thought-giving. This will be a season of unusual thanksgiving\u2014for we are made to think as we have not been wont to think. It will be a very selfish soul that this season fails to think of the sorrows and the sufferings of others.\n\nLook back at that first American Thanksgiving. Strange skies, sparse settlements, sparse larder, savage enemy, but thankful spirit! What makes the memory of the Pilgrim so precious? His thankfulness! As Howell puts it:\n\n\"It is no improper comparison that a thankful heart is like a box of precious ointment which keeps the smell long after the thing is spent.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        148,
+        1675,
+        447,
+        2010
+      ],
+      "label": "text",
+      "text": "The Pilgrim and the Puritan have passed on, but they have left us a precious possession\u2014a Thanksgiving day and the Thanksgiving spirit. Theirs was the indomitable spirit because they \"thanked God and took courage.\" They landed undesignedly on a \"rock-bound wintry strand,\" but they thanked God and took courage. They found no gold, but they did find the golden grain of a first harvest and they thanked God and took courage. They found a rude wilderness, but they thanked God and took courage, and furrows were turned and towns were built and cities grew and factories flourished and culture developed and instead of a wilderness a garden blossomed and the fragrance of their memory still survives and the spirit of their grace still inspires.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        145,
+        2010,
+        447,
+        2564
+      ],
+      "label": "text",
+      "text": "Daddy",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        145,
+        2564,
         447,
         2780
       ],
       "label": "text",
-      "text": "\"Think and Thank\" was the motto upon the family crest of the great Hebrew philanthropist Sir Moses Montefiore. It would be an appropriate armorial motto for America today. These two little English words, differing in a single vowel, were originally identical. In the Anglo-Saxon tongue, a \"thank\" was a \"think.\" Thanking comes from thinking, and thankfulness from thoughtfulness and thanks giving from thought-giving. This will be a season of unusual thanksgiving\u2014for we are made to think as we have not been wont to think. It will be a very selfish soul that this season fails to think of the sorrows and the sufferings of others.\n\nLook back at that first American Thanksgiving. Strange skies, sparse settlements, sparse larder, savage enemy, but thankful spirit! What makes the memory of the Pilgrim so precious? His thankfulness! As Howell puts it:\n\n\"It is no improper comparison that a thankful heart is like a box of precious ointment which keeps the smell long after the thing is spent.\"\n\nThe Pilgrim and the Puritan have passed on, but they have left us a precious possession\u2014a Thanksgiving day and the Thanksgiving spirit. Theirs was the indomitable spirit because they \"thanked God and took courage.\" They landed undesignedly on a \"rock-bound wintry strand,\" but they thanked God and took courage. They found no gold, but they did find the golden grain of a first harvest and they thanked God and took courage. They found a rude wilderness, but they thanked God and took courage, and furrows were turned and towns were built and cities grew and factories flourished and culture developed and instead of a wilderness a garden blossomed and the fragrance of their memory still survives and the spirit of their grace still inspires.\n\nDaddy\n\nThere once did live a turkey cock, And he was very proud;\nAnd walking with his little flock He gobbled very loud.\nPerhaps it may your feelings shock\u2014He lived beneath a cloud."
+      "text": "There once did live a turkey cock,\nAnd he was very proud;\nAnd walking with his little flock\nHe gobbled very loud.\nPerhaps it may your feelings shock\nHe lived beneath a cloud.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,47 +111,118 @@
         1218
       ],
       "label": "paragraph_title",
-      "text": "Divine Lesson in the Garnering of the Golden Grain"
+      "text": "Divine Lesson in the Garnering of the Golden Grain",
+      "status": "ok"
     },
     {
       "bbox": [
         458,
         1232,
         755,
-        1811
+        1810
       ],
       "label": "text",
-      "text": "The summer is over and the harvest is past. The sad skies, the bleak fields, the bare trees, the raw winds that whistle and groan and sob and sigh their dirges mournfully remind us that the season of fruitage has gone by and the time has come when we can only turn away, each to himself, and measure up our garnerings.\n\nNature gives us a seed time and a harvest time.\n\nBut these would be meaningless to us did she not also send a season when, at the warning touch of winter chill, we must measure our gains and consider our losses.\n\nBut for the lessons of this season no man would labor; we would know naught of temperance or thrift; we would go through the bright spring only singing, and idle away the summer in dreams.\n\nSo it is part of the divine plan that each of us should, now go apart and carefully separate the wheat from the chaff, the flowers from the weeds, and that which is good and sound and enduring from all that perishes and talents. It is now that each must honestly examine and weigh the product of his own works.\n\nIt were useless now to try to deceive even ourselves.\n\n\u00b7 Now, if at no other time, we see the vast difference in value between the picked fruit and the windfalls."
+      "text": "The summer is over and the harvest is past. The sad skies, the bleak fields, the bare trees, the raw winds that whistle and groan and sob and sigh their dirges mournfully remind us that the season of fruitage has gone by and the time has come when we can only turn away, each to himself, and measure up our garnerings.\n\nNature gives us a seed time and a harvest time.\n\nBut these would be meaningless to us did she not also send a season when, at the warning touch of winter chill, we must measure our gains and consider our losses.\n\nBut for the lessons of this season no man would labor; we would know naught of temperance or thrift; we would go through the bright spring only singing, and idle away the summer in dreams.\n\nSo it is part of the divine plan that each of us should, now go apart and carefully separate the wheat from the chaff, the flowers from the weeds, and that which is good and sound and enduring from all that perishes and talents. It is now that each must honestly examine and weigh the product of his own works.\n\nIt were useless now to try to deceive even ourselves.\n\n\u00b7 Now, if at no other time, we see the vast difference in value between the picked fruit and the windfalls.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        459,
+        1812,
+        755,
+        2034
+      ],
+      "label": "text",
+      "text": "The one heap we proudly store away, knowing it will keep sweet and whole to the winter's depths, and the other we cast aside, that it may not contaminate as it rots.\n\nIt is a sad, sweet task\u2014sweet for the counted gains, sad for the opportunities lost and to come no more.\n\n* * * * * * * * * *\n\nAnd as we garner the gains we also garner wisdom.\n\nAs we separate the wheat from the chaff and the sound fruit from the windfalls, so, whether we will or not,",
+      "status": "ok"
     },
     {
       "bbox": [
         454,
-        1732,
+        2034,
+        757,
+        2566
+      ],
+      "label": "text",
+      "text": "Gobbler's Prem",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        454,
+        2566,
         757,
         2780
       ],
       "label": "text",
-      "text": "It were useless now to try to deceive even ourselves.\n\nNow, if at no other time, we see the vast difference in value between the picked fruit and the windfalls.\n\nThe one heap we proudly store away, knowing it will keep sweet and whole to the winter's depths, and the other we cast aside, that it may not contaminate as it rots.\n\nIt is a sad, sweet task\u2014sweet for the counted gains, sad for the opportunities lost and to come no more.\n\nAnd as we garner the gains we also garner wisdom.\n\nAs we separate the wheat from the chaff and the sound fruit from the windfalls, so, whether we will or not,\n\nGobbler's Prem\n\nHe could not speak of cranberry,\nNor mentien pumpkin pie\nWithout a painful reverie,\nWhile tears stood in his eye.\nAnd sage, and summer savory,\nThey always made him sigh."
+      "text": "He could not speak of cranberry,\nNor mentien pumpkin pie\nWithout a painful reverie,\nWhile tears stood in his eye.\nAnd sage, and summer savory,\nThey always made him sigh.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        765,
+        1127,
+        1064,
+        1622
+      ],
+      "label": "text",
+      "text": "we must in the inner consciousness separate the true from the false in principles of labor and living.\n\nNo man, even of three-score\u2014aye, four-score and ten, has ever known this law to fall in a single season. It knows no variation in all the cycles of time.\n\nBut grains and fruits, are not all that we are garnering. Chaff and weeds are not all we ought to separate and cast away. There are things more important still. In the store-house of the heart and mind and soul, is it not well to seek, just as carefully, though sometimes in vain, to keep only the better, the brighter, the more enduring things?\n\nWhen the bleak November of life comes we shall have need of them.\n\nDreary will be the winter to him whose granaries are empty. But drearier and more desolate still must be the winter of old age to the man or woman whose mind and heart and soul have brought from the harvest only the joys that are chaff and the virtues that are mere windfalls, attained and adhered to only through easy convenience.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        762,
+        1624,
+        1058,
+        2039
+      ],
+      "label": "text",
+      "text": "When that winter comes, as it must to many of us, we shall have only ourselves to turn to, and we shall find only that which we have sown and harvested in the bright spring and golden summer\u2014the good grain, the sound fruit, the flowers, the high impulses, the sacrifices, the loves, yes, and the cheat, the chaff, the weeds, the windfalls, the hates, the jealousies, the low passions\u2014all these and nothing more, to sustain us or to render us desolate.\n\nWe may, if we will, make each day a cycle of all the seasons. We sow each morning and reap each noon and garner each evening the fruits of our living in this little day. Day by day, if we strive on in right and hope and courage, must our knowledge and our strength, and our store increase. Day by day, through many fallings and fallings, do we come nearer to the true manhood and the true womanhood.\u2014Charles Grant Miller in the Christian Herald.",
+      "status": "ok"
     },
     {
       "bbox": [
         753,
-        1127,
+        2039,
+        1064,
+        2565
+      ],
+      "label": "text",
+      "text": "monition\nWALTERS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        753,
+        2565,
         1064,
         2780
       ],
       "label": "text",
-      "text": "we must in the inner consciousness separate the true from the false in principles of labor and living.\n\nNo man, even of three-score\u2014aye, four-score and ten, has ever known this law to fall in a single season. It knows no variation in all the cycles of time.\n\nBut grains and fruits, are not all that we are garnering. Chaff and weeds are not all we ought to separate and cast away. There are things more important still. In the store-house of the heart and mind and soul, is it not well to seek, just as carefully, though sometimes in vain, to keep only the better, the brighter, the more enduring things?\n\nWhen the bleak November of life comes we shall have need of them.\n\nDreary will be the winter to him whose granaries are empty. But drearier and more desolate still must be the winter of old age to the man or woman whose mind and heart and soul have brought from the harvest only the joys that are chaff and the virtues that are mere windfalls, attained and adhered to only through easy convenience.\n\nWhen that winter comes, as it must to many of us, we shall have only ourselves to turn to, and we shall find only that which we have sown and harvested in the bright spring and golden summer\u2014the good grain, the sound fruit, the flowers, the high impulses, the sacrifices, the loves, yes, and the cheat, the chaff, the weeds, the windfalls, the hates, the jealousies, the low passions\u2014all these and nothing more, to sustain us or to render us desolate.\n\nWe may, if we will, make each day a cycle of all the seasons. We sow each morning and reap each noon and garner each evening the fruits of our living in this little day. Day by day, if we strive on in right and hope and courage, must our knowledge and our strength, and our store increase. Day by day, through many fallings and fallings, do we come nearer to the true manhood and the true womanhood.\u2014Charles Grant Miller in the Christian Herald.\n\nAnd though in June he spread his tall, And looked alike Henry Eight, November always found him pale, Sans Delarte in his gair, If anyone would see him quall, Just say \"decapitate.\""
+      "text": "And though in June he spread his tail,\nAnd looked ilike Henry Eight,\nNovember always found him pale,\nSans Delsarte in his gait,\nIf anyone would see him quall,\nJust say \"decapitate.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1104,
+        177,
+        1350,
+        612
+      ],
+      "label": "text",
+      "text": "That Rose Beauty Cream\nPeroxidic, Produces the marvel\nCream. Produces the beauty\u2014an ex-\nof enhancing powder cream. Excel-\ncetting powder cream. Excel-\nlent for men and women. Price\n60C.\n\nFOR SALE AT\nMrs. E. B. Hobbs (Patula Sys-\ntem) 721 C Ave. Wiffi Albia.\nMrs. Laura Herrell (Poro System)\n731 N. Fellows Ave., Ottumwa.\nMrs. Margaret Walter (Scalp Cul-\nture) 601 N. Lincoln St., Mt.\nPleasant.\nMrs. Josephine Wilson (Hair Re-\nfiner) 136 S. 6th St. Burlington.\nMrs. Laura Green (Walter System)\n131 St. W. Cedar Rapids.\nMrs. A. Hobbs (Poro System)\n1107 Ripley St. Davenport.\nMrs. S. Emerson (Walter System)\n1014 St. Ace. Clinton.\nMrs. W. H. Perry (Poro System)\n500 W. 7th St. Slough City.\nMrs. E. Turner (Music System)\n1014 St. Ace. Clinton.\nMrs. Alice Thompson (Beauty\nCulturist) Iowa Ave., Muscatine.",
+      "status": "ok"
     },
     {
       "bbox": [
         1062,
-        381,
-        1374,
+        620,
+        1386,
         963
       ],
       "label": "text",
-      "text": "FOR SALE AT\nMrs. E. H. Bufals Bufals System) 721 C. Ave. Welf Albia.\nMrs. Laura Herrell (Poro System) 731 N. Fellows Ave. Ottumwa.\nMrs. Margaret Walter (Scalp Cul. 401 N. Lincoln St. Mt. Pleasant.\nMrs. Josephine Wilson (Hair Reformer) 136 S. 6th St. Raleigh.\nMrs. St. Furness (Walker System) 933 L. St. W. Cedar Rapbs.\nMrs. A. Hobbs (Poro System) 1107 Ripley St. Davenport.\nMrs. St. Furness (Walker System) 128 S. 3d Ave. Clinton.\nMrs. W. H. Perry (Poro System) 500 W. 7th St. Sioux City.\nMrs. W. H. Perry (Poro System) 1104 Ave. C. Council Blues.\nMrs. Alice Thompson (Beauty Culturist) Iowa Ave. Muscatine.\n\nWeilsonia Skin Ointment\nA 30 minute Instant Greaseless Bleach makes the skin several shades lighter instantly. For all skin diseases, discoloration, etc. A healthy 10 day cure. Price 35e\n\nGood News\nFor All Men\nSimply Wash the Hair Oh! Boy!!"
+      "text": "Neilsonia Skin Ointment\nA 80 minute Instant Greaseless\nBleach. An ointment that\nmakes the skin several shades\nlighter instantly. For all skin\ndiseases, discoloration, etc. A\nhealthy 10 day cure. Price 35e.\n\nGood News\nFor All Men\nSimply Wash the Hair Oh! Boy!!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +232,8 @@
         1193
       ],
       "label": "text",
-      "text": "Dr. Pryor's Wonderful Soap Is the only preparation on the market that will straighten the hair without turning it red or injuring the scalp. The latest scientific discovery. Will not give the hard, porcupine effect, but makes the hair soft and wavf. Price $1.1 per package. Agents' outfit $5.50. No samples. Big money for agents. A. STUART NOVELTY CO. 2513 Lake St., Omaha, Neb."
+      "text": "Dr. Pryor's Wonderful Soap Is the only preparation on the market that will straighten the hair without turning it red or injuring the scalp. The latest scientific discovery. Will not give the hard, porcupine effect, but makes the hair soft and wavf. Price $1.1 per package. Agents' outfit $5.50. No samples. Big money for agents. A. STUART NOVELTY CO. 2513 Lake St., Omaha, Neb.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +243,8 @@
         1331
       ],
       "label": "doc_title",
-      "text": "WONDERFUL Discovery"
+      "text": "WONDERFUL Discovery",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +254,8 @@
         1424
       ],
       "label": "text",
-      "text": "AGENTS; Ray's Hair Straitener Big Money; 50 cents Bxx Free. Send 46 cents stamps for mailing, etc. Box 152, Indianapolis, Ind.\n\nW. P. NEALEIGH & CO."
+      "text": "AGENTS; Ray's Hair Straitener Big Money; 50 cents Bxx Free. Send 46 cents stamps for mailing, etc. Box 152, Indianapolis, Ind.\n\nW. P. NEALEIGH & CO.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +265,8 @@
         1480
       ],
       "label": "paragraph_title",
-      "text": "Sick Headache."
+      "text": "Sick Headache.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,17 +276,8 @@
         1680
       ],
       "label": "text",
-      "text": "This distressing disease results from a disordered condition of the stomach and can be relieved by taking Chamberlain's Tablets.\u2014Adv.\n\nOffice Phone 85540-9881.\nTHEO. H. CAMPBELL\nFuneral Director\nPrivate Ambulance\n715 West Sixth St. Sioux City, Iowa\nFlowers for all occasions."
-    },
-    {
-      "bbox": [
-        1072,
-        1641,
-        1368,
-        1678
-      ],
-      "label": "text",
-      "text": "715 West Sixth St. Sioux City, Iowa Flowers for all occasions."
+      "text": "This distressing disease results from a disordered condition of the stomach and can be relieved by taking Chamberlain's Tablets.\u2014Adv.\n\nOffice Phone 85540-9881.\nTHEO. H. CAMPBELL\nFuneral Director\nPrivate Ambulance\n715 West Sixth St. Sioux City, Iowa\nFlowers for all occasions.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,17 +287,19 @@
         1841
       ],
       "label": "doc_title",
-      "text": "McCree's Drug Store"
+      "text": "McCree's Drug Store",
+      "status": "ok"
     },
     {
       "bbox": [
         1062,
         1846,
-        1374,
+        1386,
         2312
       ],
       "label": "text",
-      "text": "For\nCareful Prescription Service,\nMadam Walker's Hair Grower,\nKashmir Preparations,\nHigh Brown Goods, Black and\nWhite Preparations, and\nStraightening Combs.\nPrompt Mail Order Service.\n11th and Center St, Des Moines\nMarket 1485\nWADE H. McCREE\nPrescription Druggist\n\nV.L. JONES\nFormely of Jones ane Samuel\nUndertaker and\nEmbalmer\n725-9 Sixth Ave."
+      "text": "For\nCareful Prescription Service,\nMadam Walker's Hair Grower,\nKashmir Preparations,\nHigh Brown Goods, Black and\nWhite Preparations, and\nStraightening Combs.\nPrompt Mail Order Service.\n11th and Center St, Des Moines\nMarket 1485\nWADE H. McCREE\nPrescription Druggist\n\nV.L. JONES\nFormely of Jones ane Samuel\nUndertaker and\nEmbalmer\n725-9 Sixth Ave.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,37 +309,19 @@
         2376
       ],
       "label": "paragraph_title",
-      "text": "Phone Market 820 Res. Walnut -4964"
-    },
-    {
-      "bbox": [
-        1066,
-        2399,
-        1360,
-        2522
-      ],
-      "label": "text",
-      "text": "NOTICE.\nThose who desire the service of Rev.\nS. C. Crutcher, the worldwide evangelist will address\nRev. H. C. Claybrook.\n1551 Buchanan St.\nDes Moines, Iowa\nReference cheerfully furnished."
-    },
-    {
-      "bbox": [
-        1066,
-        2411,
-        1361,
-        2459
-      ],
-      "label": "text",
-      "text": "Those who desire the service of Rev. S. C. Crutcher, the worldwide evangelist will address"
+      "text": "Phone Market 820 Res. Walnut -4964",
+      "status": "ok"
     },
     {
       "bbox": [
         1062,
-        2549,
-        1374,
+        2411,
+        1386,
         2780
       ],
       "label": "text",
-      "text": "INTERURBAN SHINE PARLOR.\nAll ladius cordially invited. Our motto is quality and efficient service. 421 W. Second Street, Geo. Brown, Prop.\nTaxi Service\nService is at your service at all times.\nCall Walnut 2173.\nClaudius A. Meade, licensed broker.\nhigh grade stocks and bonds. Specialist"
+      "text": "Those who desire the service of Rev. S. C. Crutcher, the worldwide evangelist will address\nRev. H. C. Claybrook\n1551 Buchanan St.\nDes Moines, Iowa\nReference cheerfully furnished.\n\nINTERURBAN SHINE PARLOR.\nAll ladies cordially invited. Our motto is quality and efficient service. 421 W. Second Street, Geo. Brown, Prop.\nTaxi Service\nService is at your service at all times.\nCall Walnut 2173.\n\nClaudius A. Meade, licensed broker, high grade stocks and bonds. Specialist",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,17 +331,41 @@
         1189
       ],
       "label": "text",
-      "text": "FOR HUNDRED OF TRAINED WOMEN\n\nThe work Is Facinating And Lucrative\n$15. to $35 Per Week Jobs Waiting For YOU\nYou Can Easily Get One- We Teach You How\n\nOur course iucludes Shampooing, Scalp Treatments, Facial Massage Electrolysis, Manicuring Marcel Waving, Fair Manufacturing, etc.\nWhen you have finished we put you in touch with the best openings in this country's finest Beauty Shops or weatheriest cities.\nKnox Graduates Can Work Anywhere\nFOR RATES, SEND FOR BOOKLET\n\nDon't Procrastinate\n\nDO IT NOW\n\nKNOX COLLEGE OF Beauty Culture"
+      "text": "FOR HUNDRED OF TRAINED WOMEN\n\nThe work Is Facinating And Lucrative\n$15. to $35 Per Week Jobs Waiting For YOU\nYou Can Easily Get One- We Teach You How\n\nOur course iucludes Shampooing, Scalp Treatments, Facial Massage Electrolysis, Manicuring Marcel Waving, Fair Manufacturing, etc.\nWhen you have finished we put you in touch with the best openings in this country's finest Beauty Shops or weatheriest cities.\nKnox Graduates Can Work Anywhere\nFOR RATES, SEND FOR BOOKLET\n\nDon't Procrastinate\n\nDO IT NOW\n\nKNOX COLLEGE OF Beauty Culture",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1441,
+        2765,
+        1916,
+        2799
+      ],
+      "label": "text",
+      "text": "Palmer's SKIN-SUCCESS Ointment\u201435c-75c\n\nPalmer's HAIR SUCCESS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1406,
+        179,
+        1684,
+        660
+      ],
+      "label": "text",
+      "text": "EUFAULA\n(Pronounced U-FALL-ER)\nBEAUTY PREPARATIONS\nThe World's Fountain of\nBeauty Secrets",
+      "status": "ok"
     },
     {
       "bbox": [
         1371,
-        179,
-        1675,
+        671,
+        1684,
         1226
       ],
       "label": "text",
-      "text": "EUFAULA\n(Pronounced U-FALL-ER)\nBEAUTY PREPARATIONS\nThe World's Fountain of\nBeauty Secrets\n\nMain Laboratory\nEUFAULA CHEMICAL CO.\n151 West 53rd Street\nNew York City\nIOWA DISTRIBUTOR\nMME, M. BARRETT\n1010 Center St.\nDes Moines\n\nBeauty Parlo\nFOR HUNDRED OF\nThe work Is Facina\n$15. to $35 Per Week J\nYou Can Easily Get On\nOur course includes Shampooing,\nElectrolysis, Manicuring Marcel W\nWhen you have finished we put y\nin this country's finest Beauty Shop\nKnox Graduates Can\nFOR RATES, SEND\nDon't Procrastinate\nKNOX COLLEGE C\n451 East 31st St"
+      "text": "Main Laboratory\nEUFAULA CHEMICAL CO.\n151 West 53rd Street\nNew York City\nIOWA DISTRIBUTOR\nMME, M. BARRETT\n1010 Center St.\nDes Moines\n\nBeauty Parlour\nFOR HUNDRED OF T\nThe work Is Facinating\n$15. to $35 Per Week Job\nYou Can Easily Get One\nOur course iucludes Shampooing, S\nElectrolysis, Manicuring Marcel Way\nWhen you have finished we put you\nin this country's finest Beauty Shops\nKnox Graduates Can\nFOR RATES, SEND\nDon't Procrastinate\nKNOX COLLEGE O\n451 East 31st Street",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +375,8 @@
         1243
       ],
       "label": "paragraph_title",
-      "text": "A Reliable Remedy for"
+      "text": "A Reliable Remedy for",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +386,8 @@
         1524
       ],
       "label": "text",
-      "text": "It would surprise you to know the number of people who use and recommend Chamberlain's Cough Remedy, Mrs. J. N, Rose, Verona, Pa., writes 'Chamberlain's Cough Remedy has been used by myself and husband for a number of years for coughs and colds. I also gave it to my little granddaughter three and a half years of age when she had croup last winter. It broke up the attack at once. I have recommended this remedy to many of my friends and neighbors who have also used it with good results.'\u2014Adv.\n\nIf It is a Bilious Artack.\n\nTake three of Chamberlain's Tablets and a quick recovery is certain.\u2014Adv."
+      "text": "It would surprise you to know the number of people who use and recommend Chamberlain's Cough Remedy, Mrs. J. N, Rose, Verona, Pa., writes 'Chamberlain's Cough Remedy has been used by myself and husband for a number of years for coughs and colds. I also gave it to my little granddaughter three and a half years of age when she had croup last winter. It broke up the attack at once. I have recommended this remedy to many of my friends and neighbors who have also used it with good results.'\u2014Adv.\n\nIf It is a Bilious Artack.\n\nTake three of Chamberlain's Tablets and a quick recovery is certain.\u2014Adv.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +397,8 @@
         1563
       ],
       "label": "paragraph_title",
-      "text": "ORIGINAL NOTICE."
+      "text": "ORIGINAL NOTICE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +408,8 @@
         1616
       ],
       "label": "text",
-      "text": "In the District Court of the State of Iowa, in and for Polk County, January Term, A. D. 1921."
+      "text": "In the District Court of the State of Iowa, in and for Polk County, January Term, A. D. 1921.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +419,8 @@
         1986
       ],
       "label": "text",
-      "text": "Defendant.\nTo Oscar Davis:\nYou are hereby notified that the petition of the plaintiff in the above entitled cause is filed in the office of the Clerk of the District Court of the State of Iowa, in and Polk County, Iowa, claiming of you a divorce from the bonds of matrimony on the ground that you have been guilty of adultery with one Cora Phillips.\nFor further particulars see petition and unless you appear thereto and defend before noon of the second day of the next term, being the January term of said Court, which will commence at Des Moines, Polk County, Iowa, on the third day of January, 1921, default will be entered against you and judgment and decree rendered thereon.\nS. JOE BROWN,\nAttorney for Plaintiff."
+      "text": "Defendant.\nTo Oscar Davis:\nYou are hereby notified that the petition of the plaintiff in the above entitled cause is filed in the office of the Clerk of the District Court of the State of Iowa, in and Polk County, Iowa, claiming of you a divorce from the bonds of matrimony on the ground that you have been guilty of adultery with one Cora Phillips.\nFor further particulars see petition and unless you appear thereto and defend before noon of the second day of the next term, being the January term of said Court, which will commence at Des Moines, Polk County, Iowa, on the third day of January, 1921, default will be entered against you and judgment and decree rendered thereon.\nS. JOE BROWN,\nAttorney for Plaintiff.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +430,8 @@
         2113
       ],
       "label": "text",
-      "text": "A REAL PLACE TO EAT\nFirst Class Place\nFor First Class People\n$5.25 Meal Tickets For $5.00\nMcKEE CAFE\n208 Third Street."
+      "text": "A REAL PLACE TO EAT\nFirst Class Place\nFor First Class People\n$5.25 Meal Tickets For $5.00\nMcKEE CAFE\n208 Third Street.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +441,8 @@
         2404
       ],
       "label": "text",
-      "text": "Slightly used clothing for fifty women, saving man, and odd iots for children. Phone D. 4847-J. 954 14th Street Place.\n\nMake your home at THE RIVERVIEW HOTEL\n101 Main Street, St. Joseph, Mo.\nJOSEPH SMITH, Prop.\nSteam heated, electric lights, hot and cold running water in each room.\n\nROOM FOR RENT\nFor couple or single person. I also do all kinds of sewing work. Mrs. Katie Thomas, 907 Seventeenth Street."
+      "text": "Slightly used clothing for fifty women, saving man, and odd iots for children. Phone D. 4847-J. 954 14th Street Place.\n\nMake your home at THE RIVERVIEW HOTEL\n101 Main Street, St. Joseph, Mo.\nJOSEPH SMITH, Prop.\nSteam heated, electric lights, hot and cold running water in each room.\n\nROOM FOR RENT\nFor couple or single person. I also do all kinds of sewing work. Mrs. Katie Thomas, 907 Seventeenth Street.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,27 +452,52 @@
         2535
       ],
       "label": "text",
-      "text": "ATHLETIC BARBER SHOP\nHair Cutting by Electricity\nCigars and Soft Drinks\nShoe Shining\n919 Center\n9. WELDON & STONE BROS. Prons"
+      "text": "ATHLETIC BARBER SHOP\nHair Cutting by Electricity\nCigars and Soft Drinks\nShoe Shining\n919 Center\n9. WELDON & STONE BROS. Prons",
+      "status": "ok"
     },
     {
       "bbox": [
         1371,
         2581,
-        1675,
+        1684,
         2780
       ],
       "label": "text",
-      "text": "L. JACOBS FURNITURE CO.\nWill buy or sell. We pay highest prices\nfor stoves and furniture.\n221 Locust Street."
+      "text": "L. JACOBS FURNITURE CO.\nWill buy or sell. We pay highest prices\nfor stoves and furniture.\n221 Locust Street.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1707,
+        166,
+        1943,
+        560
+      ],
+      "label": "text",
+      "text": "Rose Face Powder\nThat Natural Completion Cre-\nsition. Irresistible with its\nclinging, velvety texture\u2014del-\nlite fragrance\u2014smooth as\nsilk. Price 80c.\n\nFOR SALE AT DES MOINES\n\nMiss Gertrude Hyde (Walker Sys-\ntem) 821 13th.\n\nMrs. W. J. Shepard (Poro Sys-\ntem) 1025 W. 13th.\n\nMrs. Anna Claybrook (Poro Sys-\ntem) 1551 Buchanan St.\n\nMrs. Mary Barrett (Walker Sys-\ntem) 1101 Buchanan St.\n\nMrs. Etta Smith (Poro Sys-\ntem) 1625 Buchanan.\n\nMrs. Izela Robinson, 1627 Walker\n(W) System\n\nMrs. Mary Scott (Walker System)\n1040 4th St. Place.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1685,
+        595,
+        1941,
+        801
+      ],
+      "label": "text",
+      "text": "For straightening and refina-\ning any grade of harsh or cur-\nley hair instantly leaving it\nlong, soft, silky and glossy\u2014\nguaranteed not to fade the\nhair. Price also.",
+      "status": "ok"
     },
     {
       "bbox": [
         1671,
-        396,
+        801,
         1972,
         1268
       ],
       "label": "text",
-      "text": "FOR SALE AT DES MOINES\nMiss Gertrude Hyde (Walker System) 821 11th.\nMrs. W. Shepard (Poro System) 1025 W. 13th.\nMrs. Anna Claybrook (Poro System) 155 Buchanan St.\nMrs. Mary Barret (Walker System) 1010 Center St.\nMrs. Etta Smith (Poro System) 1025 Buchanan.\nMrs. Ielia Robinson, 1627 Walka (Walker System).\nMrs. Mary Scott (Walker System) 1040 4th St. Place.\n\nFor straightening and refinishing any grade of harsh or curly hair instantly\u2014leaving it long, soft, silky and glossy\u2014guaranteed not to fade the hair. Price is:\n\nORS Issue Call\nFOR TRAINED WOMEN\nHating And Lucrative Jobs Waiting For YOU\nWe Teach You How\nScaip Treatments, Facial Massage, Hair, Fair Manufacturing, etc.\nYou in the best openings in jobs or weatheriest work Anywhere\nDO FOR BOOKLET\n\nDO IT NOW\n\nOF Beauty Culture\nStreet, Chicago 1"
+      "text": "Mors Issue Call\nTRAINED WOMEN\nHating And Lucrative\nJobs Waiting For YOU\nTime- We Teach You How\nOn Scaip Treatments, Facial Massage\nHaving, Hair Manufacturing, etc.\nYou in the best openings\nof jobs or weatherless\nWork Anywhere\nDO FOR BOOKLET\nDO IT NOW\nOF Beauty Culture\nStreet, Chicago 1",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +507,8 @@
         1333
       ],
       "label": "doc_title",
-      "text": "Do You Need Money?"
+      "text": "Do You Need Money?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +518,8 @@
         1333
       ],
       "label": "paragraph_title",
-      "text": "Do You Need Money?"
+      "text": "Do You Need Money?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +529,8 @@
         1727
       ],
       "label": "text",
-      "text": "We arrange loans quickly and strictly privately on farnithre, pianos, and other personal property, without removal.\n\nPAY YOUR DEBTS with our money, and repr us in easy monthly payments. Write call or phone us for prompt, confidential and courteous service.\n\nDes Moines Loan Co.\n\nDES MOINES LOAN CO.\nEstablished 1904\n\n312 Century Bldg. Wal. 1486\n\n517 Walnut St. Over Frankel's Clothing Store"
+      "text": "We arrange loans quickly and strictly privately on farnithre, pianos, and other personal property, without removal.\n\nPAY YOUR DEBTS with our money, and repr us in easy monthly payments. Write call or phone us for prompt, confidential and courteous service.\n\nDes Moines Loan Co.\n\nDES MOINES LOAN CO.\nEstablished 1904\n\n312 Century Bldg. Wal. 1486\n\n517 Walnut St. Over Frankel's Clothing Store",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +540,8 @@
         1892
       ],
       "label": "text",
-      "text": "JAMES B. MORRIS\nAttorney at Law and Notary Public\nAbstracts Examined, Real Estate for\nSale.\n201 Seventh St. Phone, Walnut 899\nAdv."
+      "text": "JAMES B. MORRIS\nAttorney at Law and Notary Public\nAbstracts Examined, Real Estate for\nSale.\n201 Seventh St. Phone, Walnut 899\nAdv.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +551,8 @@
         2016
       ],
       "label": "text",
-      "text": "CUT RATE DRUG CO.\nWillis Wolfe, Ph. G. Prop.\nVery Best Drugs in City\n1000 Center St. Des Moines, Iowa"
+      "text": "CUT RATE DRUG CO.\nWillis Wolfe, Ph. G. Prop.\nVery Best Drugs in City\n1000 Center St. Des Moines, Iowa",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +562,8 @@
         2133
       ],
       "label": "text",
-      "text": "JOHNSON'S CAFE\nMeals at All Hours\nPopular Prices\nMrs. Ethel Johnson, Prop.\n308 W. Grand Ave. Phone Wai. 3545."
+      "text": "JOHNSON'S CAFE\nMeals at All Hours\nPopular Prices\nMrs. Ethel Johnson, Prop.\n308 W. Grand Ave. Phone Wai. 3545.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +573,8 @@
         2277
       ],
       "label": "text",
-      "text": "Meaning, Pressing, Altering, Repetting\nWork Called for and Delivered.\nWe do first class work. Ph. Wal. 7374\n1108 Center St. Des Moines, Iowa"
+      "text": "Meaning, Pressing, Altering, Repetting\nWork Called for and Delivered.\nWe do first class work. Ph. Wal. 7374\n1108 Center St. Des Moines, Iowa",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +584,8 @@
         2361
       ],
       "label": "text",
-      "text": "B. H. Haskins B. J. Haskins\n\"The Store of Quality\"\nHASKIN DRUG CO."
+      "text": "B. H. Haskins B. J. Haskins\n\"The Store of Quality\"\nHASKIN DRUG CO.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +595,8 @@
         2538
       ],
       "label": "text",
-      "text": "Successory to E. L. Twining. Prescriptions Carefully Compounded. Mail Orders on all Preparations Promptly Filled. We deliver. N. W. Cor. 11th & Center.\n\nSPECIAL NOTICE.\n\nSufferers from Flue, Asthma, Bronchitis and Rheumatism will secure information free how to get relief in 20 minutes. Address 1320 West Twentieth St., Des Moines, Iowa.\n\nFrom One Who Suffered"
+      "text": "Successory to E. L. Twining. Prescriptions Carefully Compounded. Mail Orders on all Preparations Promptly Filled. We deliver. N. W. Cor. 11th & Center.\n\nSPECIAL NOTICE.\n\nSufferers from Flue, Asthma, Bronchitis and Rheumatism will secure information free how to get relief in 20 minutes. Address 1320 West Twentieth St., Des Moines, Iowa.\n\nFrom One Who Suffered",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +606,8 @@
         2780
       ],
       "label": "text",
-      "text": "Typewriters, Adding Machines and Check Protectors. All makes bought and sold. Agency Woodstock and Gourland Typewriters.\nGeneral Typewriter Exchange,\n511 Mulberry Street. Market 2474."
+      "text": "Typewriters, Adding Machines and Check Protectors. All makes bought and sold. Agency Woodstock and Gourland Typewriters.\nGeneral Typewriter Exchange,\n511 Mulberry Street. Market 2474.",
+      "status": "ok"
     }
   ]
 }

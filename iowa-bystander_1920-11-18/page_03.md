@@ -1,4 +1,9 @@
+For the 1920 Thanksgiving
+Feast
+
 # Daddy Gobbler's Premonition
+
+MISERS
 
 ## "Think and Thank" Suggested Motto for Nation Today
 
@@ -12,9 +17,12 @@ The Pilgrim and the Puritan have passed on, but they have left us a precious pos
 
 Daddy
 
-There once did live a turkey cock, And he was very proud;
-And walking with his little flock He gobbled very loud.
-Perhaps it may your feelings shock—He lived beneath a cloud.
+There once did live a turkey cock,
+And he was very proud;
+And walking with his little flock
+He gobbled very loud.
+Perhaps it may your feelings shock
+He lived beneath a cloud.
 
 ## Divine Lesson in the Garnering of the Golden Grain
 
@@ -32,13 +40,11 @@ It were useless now to try to deceive even ourselves.
 
 · Now, if at no other time, we see the vast difference in value between the picked fruit and the windfalls.
 
-It were useless now to try to deceive even ourselves.
-
-Now, if at no other time, we see the vast difference in value between the picked fruit and the windfalls.
-
 The one heap we proudly store away, knowing it will keep sweet and whole to the winter's depths, and the other we cast aside, that it may not contaminate as it rots.
 
 It is a sad, sweet task—sweet for the counted gains, sad for the opportunities lost and to come no more.
+
+* * * * * * * * * *
 
 And as we garner the gains we also garner wisdom.
 
@@ -67,22 +73,54 @@ When that winter comes, as it must to many of us, we shall have only ourselves t
 
 We may, if we will, make each day a cycle of all the seasons. We sow each morning and reap each noon and garner each evening the fruits of our living in this little day. Day by day, if we strive on in right and hope and courage, must our knowledge and our strength, and our store increase. Day by day, through many fallings and fallings, do we come nearer to the true manhood and the true womanhood.—Charles Grant Miller in the Christian Herald.
 
-And though in June he spread his tall, And looked alike Henry Eight, November always found him pale, Sans Delarte in his gair, If anyone would see him quall, Just say "decapitate."
+monition
+WALTERS
+
+And though in June he spread his tail,
+And looked ilike Henry Eight,
+November always found him pale,
+Sans Delsarte in his gait,
+If anyone would see him quall,
+Just say "decapitate."
+
+That Rose Beauty Cream
+Peroxidic, Produces the marvel
+Cream. Produces the beauty—an ex-
+of enhancing powder cream. Excel-
+cetting powder cream. Excel-
+lent for men and women. Price
+60C.
 
 FOR SALE AT
-Mrs. E. H. Bufals Bufals System) 721 C. Ave. Welf Albia.
-Mrs. Laura Herrell (Poro System) 731 N. Fellows Ave. Ottumwa.
-Mrs. Margaret Walter (Scalp Cul. 401 N. Lincoln St. Mt. Pleasant.
-Mrs. Josephine Wilson (Hair Reformer) 136 S. 6th St. Raleigh.
-Mrs. St. Furness (Walker System) 933 L. St. W. Cedar Rapbs.
-Mrs. A. Hobbs (Poro System) 1107 Ripley St. Davenport.
-Mrs. St. Furness (Walker System) 128 S. 3d Ave. Clinton.
-Mrs. W. H. Perry (Poro System) 500 W. 7th St. Sioux City.
-Mrs. W. H. Perry (Poro System) 1104 Ave. C. Council Blues.
-Mrs. Alice Thompson (Beauty Culturist) Iowa Ave. Muscatine.
+Mrs. E. B. Hobbs (Patula Sys-
+tem) 721 C Ave. Wiffi Albia.
+Mrs. Laura Herrell (Poro System)
+731 N. Fellows Ave., Ottumwa.
+Mrs. Margaret Walter (Scalp Cul-
+ture) 601 N. Lincoln St., Mt.
+Pleasant.
+Mrs. Josephine Wilson (Hair Re-
+finer) 136 S. 6th St. Burlington.
+Mrs. Laura Green (Walter System)
+131 St. W. Cedar Rapids.
+Mrs. A. Hobbs (Poro System)
+1107 Ripley St. Davenport.
+Mrs. S. Emerson (Walter System)
+1014 St. Ace. Clinton.
+Mrs. W. H. Perry (Poro System)
+500 W. 7th St. Slough City.
+Mrs. E. Turner (Music System)
+1014 St. Ace. Clinton.
+Mrs. Alice Thompson (Beauty
+Culturist) Iowa Ave., Muscatine.
 
-Weilsonia Skin Ointment
-A 30 minute Instant Greaseless Bleach makes the skin several shades lighter instantly. For all skin diseases, discoloration, etc. A healthy 10 day cure. Price 35e
+Neilsonia Skin Ointment
+A 80 minute Instant Greaseless
+Bleach. An ointment that
+makes the skin several shades
+lighter instantly. For all skin
+diseases, discoloration, etc. A
+healthy 10 day cure. Price 35e.
 
 Good News
 For All Men
@@ -107,8 +145,6 @@ Private Ambulance
 715 West Sixth St. Sioux City, Iowa
 Flowers for all occasions.
 
-715 West Sixth St. Sioux City, Iowa Flowers for all occasions.
-
 # McCree's Drug Store
 
 For
@@ -132,23 +168,19 @@ Embalmer
 
 ## Phone Market 820 Res. Walnut -4964
 
-NOTICE.
-Those who desire the service of Rev.
-S. C. Crutcher, the worldwide evangelist will address
-Rev. H. C. Claybrook.
+Those who desire the service of Rev. S. C. Crutcher, the worldwide evangelist will address
+Rev. H. C. Claybrook
 1551 Buchanan St.
 Des Moines, Iowa
 Reference cheerfully furnished.
 
-Those who desire the service of Rev. S. C. Crutcher, the worldwide evangelist will address
-
 INTERURBAN SHINE PARLOR.
-All ladius cordially invited. Our motto is quality and efficient service. 421 W. Second Street, Geo. Brown, Prop.
+All ladies cordially invited. Our motto is quality and efficient service. 421 W. Second Street, Geo. Brown, Prop.
 Taxi Service
 Service is at your service at all times.
 Call Walnut 2173.
-Claudius A. Meade, licensed broker.
-high grade stocks and bonds. Specialist
+
+Claudius A. Meade, licensed broker, high grade stocks and bonds. Specialist
 
 FOR HUNDRED OF TRAINED WOMEN
 
@@ -167,6 +199,10 @@ DO IT NOW
 
 KNOX COLLEGE OF Beauty Culture
 
+Palmer's SKIN-SUCCESS Ointment—35c-75c
+
+Palmer's HAIR SUCCESS
+
 EUFAULA
 (Pronounced U-FALL-ER)
 BEAUTY PREPARATIONS
@@ -182,20 +218,20 @@ MME, M. BARRETT
 1010 Center St.
 Des Moines
 
-Beauty Parlo
-FOR HUNDRED OF
-The work Is Facina
-$15. to $35 Per Week J
-You Can Easily Get On
-Our course includes Shampooing,
-Electrolysis, Manicuring Marcel W
-When you have finished we put y
-in this country's finest Beauty Shop
+Beauty Parlour
+FOR HUNDRED OF T
+The work Is Facinating
+$15. to $35 Per Week Job
+You Can Easily Get One
+Our course iucludes Shampooing, S
+Electrolysis, Manicuring Marcel Way
+When you have finished we put you
+in this country's finest Beauty Shops
 Knox Graduates Can
 FOR RATES, SEND
 Don't Procrastinate
-KNOX COLLEGE C
-451 East 31st St
+KNOX COLLEGE O
+451 East 31st Street
 
 ## A Reliable Remedy for
 
@@ -245,27 +281,55 @@ Will buy or sell. We pay highest prices
 for stoves and furniture.
 221 Locust Street.
 
+Rose Face Powder
+That Natural Completion Cre-
+sition. Irresistible with its
+clinging, velvety texture—del-
+lite fragrance—smooth as
+silk. Price 80c.
+
 FOR SALE AT DES MOINES
-Miss Gertrude Hyde (Walker System) 821 11th.
-Mrs. W. Shepard (Poro System) 1025 W. 13th.
-Mrs. Anna Claybrook (Poro System) 155 Buchanan St.
-Mrs. Mary Barret (Walker System) 1010 Center St.
-Mrs. Etta Smith (Poro System) 1025 Buchanan.
-Mrs. Ielia Robinson, 1627 Walka (Walker System).
-Mrs. Mary Scott (Walker System) 1040 4th St. Place.
 
-For straightening and refinishing any grade of harsh or curly hair instantly—leaving it long, soft, silky and glossy—guaranteed not to fade the hair. Price is:
+Miss Gertrude Hyde (Walker Sys-
+tem) 821 13th.
 
-ORS Issue Call
-FOR TRAINED WOMEN
-Hating And Lucrative Jobs Waiting For YOU
-We Teach You How
-Scaip Treatments, Facial Massage, Hair, Fair Manufacturing, etc.
-You in the best openings in jobs or weatheriest work Anywhere
+Mrs. W. J. Shepard (Poro Sys-
+tem) 1025 W. 13th.
+
+Mrs. Anna Claybrook (Poro Sys-
+tem) 1551 Buchanan St.
+
+Mrs. Mary Barrett (Walker Sys-
+tem) 1101 Buchanan St.
+
+Mrs. Etta Smith (Poro Sys-
+tem) 1625 Buchanan.
+
+Mrs. Izela Robinson, 1627 Walker
+(W) System
+
+Mrs. Mary Scott (Walker System)
+1040 4th St. Place.
+
+For straightening and refina-
+ing any grade of harsh or cur-
+ley hair instantly leaving it
+long, soft, silky and glossy—
+guaranteed not to fade the
+hair. Price also.
+
+Mors Issue Call
+TRAINED WOMEN
+Hating And Lucrative
+Jobs Waiting For YOU
+Time- We Teach You How
+On Scaip Treatments, Facial Massage
+Having, Hair Manufacturing, etc.
+You in the best openings
+of jobs or weatherless
+Work Anywhere
 DO FOR BOOKLET
-
 DO IT NOW
-
 OF Beauty Culture
 Street, Chicago 1
 

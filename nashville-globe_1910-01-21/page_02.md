@@ -1,3 +1,5 @@
+G
+
 # NATIONAL BAPTIST REVIEW
 
 A Religious Weekly Journal Of Special Interest to Pastors and Superintendents, Fills a Long-felt Want.
@@ -30,6 +32,14 @@ These seven departments will be kept up for the benefit of the readers of all go
 
 The National Baptist Review, the mouthpiece and official organ of the Home Mission and Publishing Boards, will also espouse the cause of the National Baptist Convention.
 
+PRICE.
+
+Per Year.....$1.00
+Si. Months.....50c
+Three Months.....25c
+
+IN ADVANCE.
+
 ## PRICE.
 
 It will be sent free to any superintendent or pastor for one year, who will send in two subscribers at $1.00 each for twelve months.
@@ -38,11 +48,7 @@ Nat'l Bap. Pub. Board,
 R. H. BOYD, Secretary.
 523 SECOND AVE., N., NASHVILLE, TENN.
 
-R. H. BOYD, Secretary.
-523 SECOND AVE., NASHVILLE, TENN.
-```markdown
-
-```
+THE NASHVILLE GLOBE. FRIDAY. JANUARY 21, 1910.
 
 ## BIRTHDAY CELEBRATION.
 
@@ -77,22 +83,19 @@ Very often it occurs that the several universities in the city prepare and pull 
 
 point of attendance. Both recitals on last Friday night proved to be of the very highest class. Large crowds attended each, notwithstanding the very cold weather and the attempt at showers.
 
-DARK DOLLS ONLY FOR BLACK BABES.
+DARK DOLLIS ONLY FOR BLACK BABES.
 
 Church Congregation Puts Ban on White Faces and Light Hair on Girl Toys.
 
 (Special to The Globe.)
 Wilmington, Del., Jan. 13.—A decision just posted in St. James Church (colored), puts the ban on white dolls so far as this congregation is concerned, and there is a general resort to stove polish and lamp black among the toy dealers with a hold-over stock of Christmas dolls.
 
-The decision was not reached lightly. All phases of the question, ethnological and theological, were considered in heated debate before the pink and white simulations of babyhood were barred from the houses of al self-respecting colored families.
-
-The debate took place last night, the question being
+The decision was not reached lightly. All phases of the question, ethnological and theological, were considered in heated debate before the pink and white simulations of babyhood were barred from the houses of al itself-respecting colored families.
 
 The debate took place last night, the question being,
 "Resolved, That colored mothers purchase colored dolls for their little children."
-The affirmative was maintained by the Rev. R. T. Pennington, of Clifton Mills, and George W. Benson, of this city, who endeavored vainly to uphold the superior attractions of the bleached-out playthings.
-But all to no purpose. When "Brother" Pennington boldly advanced the idea that the divine pan contemplated no bleaching process for the colored man preparatory to the resurrection, and consequently the Negro child should not run counter to the Creator's scheme and fondle white dolls, the judges gave a halting verdict in his favor by a score of 5 to 4.
-Following this, the congregation voted to uphold the decision and all pledged themselves to see that their children saved all their budding affections for dolls of their own ebon, or chocolate, or cafe au lait hue.—From The New York Globe.
+
+The affirmative was maintained by the Rev. R. T. Pennington, of Clifton Mills, and George W. Benson, of this city, who endeavored vainly to uphold the superior attractions of the bleached-out playthings. But all to no purpose. When "Brother" Pennington boldly advanced the idea that the divine pan contemplated no bleaching process for the colored man preparatory to the resurrection, and consequently the Negro child should not run counter to the Creator's scheme and fondle white dolls, the judges gave a halting verdict in his favor by a score of 5 to 4. Following this, the congregation voted to uphold the decision and all pledged themselves to see that their children saved all their budding affections for dolls of their own ebon, or chocolate, or cafe au lait hue.—From The New York Globe.
 
 ## DR. PIUS IN COLORADO.
 
@@ -101,22 +104,37 @@ For the next four weeks or more Dr. N. H. Pius, Superintendent of the Teacher-Tr
 ## WHERE IS A. T. TUCKER?
 
 WHERE IS A. T. TUCKER?
-About three years ago a gentleman by the name of A. T. Tucker sent to Dr. R. H. Boyd, the President of the One-Cent Savings Bank of this city, and purchased some stock in said bank. Since then efforts to reach this Mr. A. T. Tucker have been futile. He has not received his dividend which has been declared each year. Any one knowing the office address of Mr. A. T. Tucker will please send it marked "Personal" to R. H. Boyd, President of the One Cent Savings Bank, Nashville', Tenn., as he should get his dividend check for the years 1908 and 1909.
+About three years ago a gentleman by the name of A. T. Tucker sent to Dr. R. H. Boyd, the President of the One-Cent Savings Bank of this city, and purchased some stock in said bank. Since then efforts to reach this Mr. A. T. Tucker have been futile. He has not received his dividend which has been declared each year. Any one knowing the office address of Mr. A. T. Tucker will please send it marked "Personal" to R. H. Boyd, President of the One Cent Savings Bank, Nashville' e. Tenn., as he should get his dividend check for the years 1908 and 1909.
 
 MT. ZION BAPTIST CHURCH.
 Mt. Zion Missionary Baptist Church is progressing nicely under their new pastor, Rev. B. F. Ferrell, who is one among the leading ministers of the South. Not only Mt. Zion is proud of him, but the Nashville ministers are proud to have such a noble man in their midst.
-We are also glad to report that his wife, Mrs. Mattie Ferrell, is up again, after a serious illness. We thank God and Dr. Bandy for her recovery.
-Rev. Ferrell was a little indisposed himself, but like a hero was found at his post Sunday morning. The subject of his morning lesson was "Get your house in order." His discourse was very interesting.
 
-We are also glad to report that his wife, Mrs. Mattie Ferrell, is up again, after a serious illness. We thank God and Dr. Bandy for her recovery.
-
-Sunday afternoon he was invited to preach an ordination sermon at Fifth Avenue Baptist Church, which was enjoyed by all who heard him. At 6 p. m. he was again found at his post in the young people's meet-
+We are also glad to report that his wife, Mrs. Mattle Ferrell, is up again, after a serious illness. We thank God and Dr. Bandy for her recovery. Rev. Ferrell was a little indisposed himself, but like a hero was found at his post Sunday morning. The subject of his morning lesson was "Get your house in order." His discourse was very interesting. Sunday afternoon he was invited to preach an ordination sermon at Fifth Avenue Baptist Church, which was enjoyed by all who heard him. At 6 p. m. he was again found at his post in the young people's meet-
 
 And ALL KINDS OF HOUSEHOLD FURNISHINGS. We can furnish your home on easy payments. TELEPHONE MAIN 701
 
 MILARY E. HOWSE.
 
-No. 318 Broadway.
+HOWSE
+FURNITURE, STOVES
+
+TERMS TO SUIT
+
+We Can Furnish Your Home Co
+We Take Old Goods as First Paym
+
+304-306 BROADWAY.
+
+Broadway Fur
+J. H. SWINDEN
+
+FURNITURE
+
+And ALL KINDS OF HOUSE
+
+We can furnish your he
+
+TELEPHONE
 
 ## No. 318 Broadway.
 
@@ -155,19 +173,26 @@ Certified and Cashier's
 Checks ..... 1,193.20
 Deposits ..... 77,754.42
 
-Total Liabilities ..... $105,987.03
+Total Liabilities ..... $165,987.03
 
-Solvent Savings Bank & Trust Co. Fighth semi-annual statement showing the condition of the bank at the close of business December 31, 1909.
-
-PHONE,MA IN 1080
-
+BROS.
+CARPETS AND CARPETS
+EVERYBODY.
+complete from Parlor to Kitchen.
+ent; Balance Weekly or Monthly.
+NASHVILLE, TENN.
+Furniture Co.,
+WELL, MANAGER.
+E, STOVES
+HOUSEHOLD FURNISHINGS.
+home on easy payments.
+MAIN 701
 NASHVILLE, TENN.
 
 ENTERPRISE RESTAURANT
 OPEN DAY AND NIGHT.
-Orders Promptly Filld. — Neatly Furnished Rooms.
+Orders Promptly Fill d. — Neatly Furnished Rooms.
 Telephone, Main 2830.
-
 ROBT. L. MILLER, Prop.,
 714 Jo Johnston Ave., Nashville, Tenn.
 
@@ -204,25 +229,23 @@ U. S. MORTON, Mgr.
 ## WHY NOT RAISE POULTRY
 THAT WILL PAY?
 
+THE ROOSTER
+
 Hens that will give you on an average of 200 eggs each a year and guaranteed to lay at a time when eggs are at a premium, during the winter. Broilers that you can send to the market in six weeks, is the breed you want. This is what my Rhode Island Reds and White Plymouth
 
 Rocks are doing for me, and will do with the proper care and treatment the same lor your selection and your selection be only a matter of color and not the bird. Eggs shipped to all parts of the country, they hatch just the same, distance not the same, all times. Let me book your order for an early shipment.
 
-earlier the hatch better the results.
-Write for prices and catalogue, also information
-as to stock for sale if wanted.
+are loading for me, and will do with the piece care and treatment the same for your Either will fill the bill, so let your selection be only a matter of color and not the bird. Eggs shipped to all parts of the country, they hatch just the same,istance not considered. Eggs for sale at all times. Let me book your order for an early shipment, as earlier the hatch better the results. Write for prices and catalogue, also information as to stock for sale if wanted.
 
-THE LANDERS POULTRY PEN,
+THE LANDERS POULTRY PEN.
 1503 Fourteenth Ave., N., NASHVILLE, TENN.
 
-I. Harry H. Pace, Cashier of the
-above named bank, do solemnly swear
-that the above statement is true to
-the best of my knowledge and belief.
+I, Harry H. Pace, Cashier of the above named bank, do solemnly swear that the above statement is true to the best of my knowledge and belief.
 HARRY H. PACE, Cashier.
 R. R. CHURCH, President.
-Subscribed and sworn to before me
-this 31st day of December, 1907.
+Subscribed and sworn to before me this 31st day of December, 1907.
 J. T. Settle, Notary Public.
 
-I. Harry H. Pace, Cashier of the above named bank, do solemnly swear that the above statement is true to the best of my knowledge and belief, HARRY H. PACE, Cashier.
+```markdown
+
+```

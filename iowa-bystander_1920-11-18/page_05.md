@@ -21,9 +21,7 @@ Weekly news letters must be received not later than Tuesday of each week.
 
 ## THANKSGIVING
 
-While Thanksgiving in its present form is a distinctly American holiday, the idea did not originate in the brain of Governor Bradford in 1621 as some imagine. On the contrary, we may trace its origin back through the ages and the nations to the land of the Canaanites from whom the children of Israel copied many of their customs. The first record Thanksgiving was the Hebrew feast of the tabernacles. The first English Thanksgiving was on September 8, 1588, for the defeat of the Spanish Armada. There have been but two English Thanksgivings in this century. One was on February 27, 1872, for the recovery of the Prince of Wales from illness; the other June 21, 1887, for the Queen's Jubilee. The New England Thanksgiving dates from 1633 when the Massachusetts Bay colony set apart a day for Thanksgiving. The first national Thanksgiving proclamation were by congress during the revolutionary war. The first great American Thanksgiving was in 1784 for the declaration of peace. There was one more national Thanksgiving in 1789, and no other until 1863, when President Lincoln issued a national proclamation for a day of the Thanksgiving. Since that time the president has issued an annual proclamation.
-
-The most joyous Thanksgiving recorded in American annals occurred in May, 1788, when the news arrived that France had concluded a treaty of friendship and alliance with the thirteen states of the American union. It followed the winter of want and harrowing anxiety, which General Washington and his army passed at Valley Forge.
+While Thanksgiving in its present form is a distinctly American holiday, the idea did not originate in the brain of Governor Bradford in 1621 as some imagine. On the contrary, we may trace its origin back through the ages and the nations to the land of the Canaanites from whom the children of Israel copied many of their customs. The first record Thanksgiving was the Hebrew feast of the tabernacles. The first English Thanksgiving was on September 8, 1588, for the defeat of the Spanish Armada. There have been but two English Thanksgivings in this century. One was on February 27, 1872, for the recovery of the Prince of Wales from illness; the other June 21, 1887, for the Queen's Jubilee. The New England Thanksgiving dates from 1633 when the Massachusetts Bay colony set apart a day for Thanksgiving. The first national Thanksgiving proclamation were by congress during the revolutionary war. The first great American Thanksgiving was in 1784 for the declaration of peace. There was one more national Thanksgiving in 1789, and no other until 1863, when President Lincoln issued a national proclamation for a day of Thanksgiving. Since that time the president has issued an annual proclamation. The most joyous Thanksgiving recorded in American annals occurred in May, 1778, when the news arrived that France had concluded a treaty of friendship and alliance with the thirteen states of the American union. It followed the winter of want and harrowing anxiety, which General Washington and his army passed at Valley Forge.
 
 The most notable day of Thanksgiving in the history of the world was Monday, Nov. 11, 1918, when the people of the allied nations offered prayer and gave expressions of joy over the termination of the awful conflict that threatened the destruction of civilization.
 
@@ -33,35 +31,26 @@ The Bystander would suggest and urge that by statute and custom Nov. 11 be made 
 
 The progress of the colored American in the last five years has been the most marvelous of any period since emancipation. Visits and investigations north, east, south and west show an activity, a persistence and an accomplishment which is astounding. New ownership of land, new beautiful homes, new business enterprises, larger amounts of capital seeking investment, new appreciation of and joining with labor unions, new kinds of better paid work and a larger number of children pressing into the schools is the almost universal story. But above all comes the New Spirit: from a bewildered, almost listless, creeping sense of impotence and despair have come a new vigor, hopefulness and feeling of power. We are no longer depending upon ourselves. If mobs attack us we are preparing to defend ourselves as Washington and Chicago know. But far from seeking to arouse the mob spirit we are organizing for social uplift in every possible way and seeking alliance with the great national agencies.
 
-The secret of our new progress and success lies largely in our new self-discovery. There are still a few of us who are running away to avoid each other with the vague feeling that we shall thus lose ourselves in the world and be free. But the mass of black folks have made the Great Discovery: they have discovered each other. They have come to know what fine, lovable companionship and inspiration can be had in their own race. They are happily glad, almost at times mad, with the joy of the new discovery. It frees and heartens them, makes them self confident and human. The tide of the new day rises with majestic force, but does it yet fully feel and recognize the Industrial Revolution that is sweeping the earth? November "Crisis."
+The secret of our new progress and success lies largely in our new self-discovery. There are still a few of us who are running away to avoid each other with the vague feeling that we shall thus lose ourselves in the world and be free. But the mass of black folks have made the Great Discovery: they have discovered each other. They have come to know what fine, lovable companion-ship and inspiration can be had in their own race. They are happily glad, almost at times mad, with the joy of the new discovery. It frees and heartens them, makes them self confident and human. The tide of the new day rises with majestic force, but does it yet fully feel and recognize the Industrial Revolution that is sweeping the earth? November "Crisis."
 
-DROPSY
+DROPSY TREATED ONE WEEK FREE Short breathing relieved in a few hours; swelling and water reduced in a few days; registers liver, kidneys and heart. Write for Free Trial Treatment.
 
-TREATED ONE WEEK, FREE
+COLLUM DROPSY BEMERY CO. Dart H. Atlanta Ga.
 
-Short breathing relieved and water reduced in a few days; regenerates liver, kidneys and heart. Write for Free Trial Treatment.
+PS
+P
+e
+e
 
-COLLUM DROPSY REMEDY CO., Dept. M, Atlanta, Ga.
-
-WATCH YOUR STEPS
-WHY PAY $50.00?
-
-Get our Complete Course and Diploma in Hair Dressing and Beauty Culture for $10.00 including $5.00 worth of Treatments.
-
-Send address to-day for new terms.
-
-W. T. McKISSICK & CO.
-P. O. Box 102
-WILMINGTON, DEL.
-
-It grew mine
-It will grow yous.
+Get our Complete Course and Diploma in Hair Dressing and Beauty at $50 worth of Treatments. Send address to-day for new term.
 
 ## HOW TO KEEP WELL.
 
-(J. Alvin Jefferson, M. D).
+(J. Alvin Jefferson, M. D.)
 
-That bolus of food we masticated last week is now ready to start upon its long and hazardous journey through the alimentary tube a distance of about thirty feet. In other words the tube is said to be about nine or ten times the length of the body which contains it, that is measuring from the crown of the head to where the lower limbs join the body. In animals, the alimentary tube was originally a comparatively straight tube extending throughout the body and dilating into a sac or pouch about a third of the distance down from the mouth. This sac is now known as the stomach. It varies in size; in the infant it holds about one ounce or two tablespoonfuls, while in the adult it may hold from three to five pints.
+That bolus of food we masticated last week is now ready to start upon its long and hazardous journey through the alimentary tube a distance of about thirty feet. In other words the tube is said to be about nine or ten times the length of the body which contains it, that is measuring from the crown of the head to where the lower limbs join the body.
+
+In animals, the alimentary tube was originally a comparatively straight tube extending throughout the body and dilating into a sac or pouch about a third of the distance down from the mouth. This sac is now known as the stomach. It varies in size; in the infant it holds one ounce or two tablespoonfuls, while in the adult it may hold from three to five pints.
 
 This sac or pouch has two openings. The one through which the food enters the stomach is called the cardiac opening because of its near approach to the heart. The latter is known as the pylorus or gatekeeper.
 
@@ -106,39 +95,109 @@ You are hereby notified that on or before the 21st day of December, A. D. 1920 t
 
 For further particulars see petition, and unless you appear thereto and defend before noon of the second day of the next term, being the January, A. D. 1921 term of said court, which will commence at Des Moines, Polk County, Iowa, on the 3rd day of January, 1921, default will be entered against you and judgment and decree rendered thereon. Dated this 9th day of November, 1920.
 
+Blagburn & Shelton
+PRESCRIPTION
+DRUGGIST
+1200 Center St. J. Frank N
+"WE ARE HERE TO SERVE
+WE CARRY A COMPLETE
+Toilet Preparations D
+Rubber Goods S
+Candies C
+Our Fountain service is
+"Courteous treatment and e
+Always."
+
+Belfon Pharmacy
+SCRIPTION
+GISTS
+Frank Blagburn, Mgr.
+TO SERVE YOU".
+
+COMPLETE LINE OF
+Ins Drugs
+Sundries
+Cigars
+
+Service is unexcelled.
+and efficient service
+ways."
+
 # Blagburn & Shelton Pharmacy PRESCRIPTION DRUGGISTS
 
 1200 Center St. J. Frank Blagburn,Mgr.
 
 WE CARRY A COMPLETE LINE OF Toilet Preparations Drugs Rubber Goods Sundries Candies Cigars Our Fountain service is unexcelled. "Courteous treatment and efficient service Always."
 
-BE PROUD OF YOUR HAIR
+## PROVED TRUE TO HER WORD
 
-Have long, straight, soft hair that can be easily dressed. Carried of the dandruff, feed the starving hair roots and stop falling hair with
+Fair Autoist Had Said She Would Be Back Promptly, and It Was Even More So.
 
-EXELENTO
-QUININE POMADE
+On one of my first excursions in our new car, writes a correspondent, I stopped at the grocery with my car parked with the back toward the store door. I gave my order and told the clerk that I would be back to get my things in a very few minutes.
 
-the real hair grower. Send 25c 1/2 for either Exelento Quinine Pomade or Exelento Skin Beauilier.
-Agents wanted to sell Exelento Products in all parts of the country
-
-EXELENTO MEDICINE COMPANY
+EXELETO QUININE POMADE
+the real hair grease. Seed Exe toor
+the Exeleto Quineine Pomado or
+Exeleto Skin Denitifier.
+Agents wanted to sell Exeleto Products
+to retail or local stores.
+EXELETO MEDICINE COMPANY
 Atlanta, Georgia
 
-Exelento
-Skin Beauilier
+As I stepped into the car, my best "beau" came down the street, and anxious to show him how well I could drive, I hurriedly threw into gear. I raced the engine and let the clutch out to get a quick pickup. It proved to be a wonderful one, as I had thrown into reverse and found myself in the doorway of the grocery store. I had gone over the curbing and all, breaking the window as I bumped into the store.
 
-FOR DARK
+N.A.A.C.P. Urges Enforcement of 14th
+
+The grocer hurried out, and when he saw who it was, "Well," he said, "you have proved yourself a woman of your word, but it will cost you the price of a new show window."
+
+Frank Fowler Undertaking Co.
+EMBALMER & FUNERAL DIRECTOR
+200 E. 5th Street
+Phone Maple 631
+
+Mr. Fowler wishes to announce that he is not in any way connected with the Fowler Bros. Undertaking Co. located at 117 E. Walnut. Mr. Fowler has opened up one of the best equipped undertaking establishments in Des Moines.
+
+OUR NEW HOME
+
+25,000 MORE PORO AGENTS WANTED
+
+Equipped with the Very Latest Apparatus for Teaching the
+
+Poro System of Scalp and Hair Culture
+
+and all Branches of Beauty Culture
+
+Terms Moderate
+
+Diplomas Given
+
+Write Today for Further Information
+
+Poro Corner
+"Dept. A-5"
+
+St. Louis, Mo.
+
+Machine Disinfects Garments Thor-
+
+BE PROUD OF YOUR HAIR
+Have long, straight, soft hair that
+can be easily dressed. Got rid of the
+dresswork, feed the starving hair roots
+and stop falling hair with
+
+Ecelento
+FOR
+DARK
 SALLOW
 SKINS
+Skin Beautifier
 
-N.A.A.C.P. Urges
+Amendment
 
-Enforcement of 14th Amendment
+At the meeting of the Board of Directors on Nov. 8, it was voted that the following telegram urging the enforcement of the Fourteenth amendment and consequent reduction of representation in southern states in which colored voters are disfranchised, to be sent to the Hon. Isaac Siegel, chairman of the House Committee on the Census:
 
-At the meeting of the Board of Directors on Nov. 8, it was voted that the following telegram urging the enforcement of the Fourteenth amendment and consequent reduction of representation in southern states in which colored voters are disfranchised, to be sent to the House, Isaac Siegal, chairman of the House Committee on the Census:
-
-"The Board of Directors of the National Association for Advancement of Colored People in behalf of 12,000,000 colored people of the United States, urges upon the congress of the United States a reapportionment of representation in accordance with the terms of the Fourteenth amendment to the constitution.
+"The Board of Directors of the National Association for Advancement of Colored People in behalf of 12,000,000 colored people of the United States, urges upon the congress of the United States a reaportionment of representation in accordance with the terms of the Fourteenth amendment to the constitution,
 
 "Open and flagrant disfranchisement of colored voters in a number of states has occurred in the presidential election of 1920, of which this association is prepared to furnish evidence. The Board of Directors of the Association therefore urges that the qualifications for voting be defined by the Congress and the election laws enforced by the federal government.
 
@@ -158,31 +217,7 @@ The Russians formerly gave the prisoners well-nigh uneatable bread. The prisoner
 
 "Mayme's parrot gave her away so the other evening that she wanted to wring its neck. It sang out: 'Just one more, Harry.'" "She needn't have minded that. Everybody knows she's engaged."
 
-"They tell me this moonshine stuff will drive a man crazy."
-
-"It hasn't much drivin' to do," answered Uncle Bill Bottletop. "Any man who drinks moonshine is foolish to start with."
-
-Mr. Fowler wishes to announce that he is not in any way connected with the Fowler Bros. Undertaking Co. located at 117 E. Walnut. Mr. Fowler has opened up one of the best equipped undertaking establishments in Des Moines.
-
-25,000 MORE PORO AGENTS WANTED
-Equipped with the Very Latest Apparatus for Teaching the
-Poro System of Scalp and Hair Culture
-and all Branches of Beauty Culture
-Terms Moderate Diplomas Given
-Write Today for Further Information
-PORO COLLEGE
-
-## PROVED TRUE TO HER WORD
-
-Fair Autoist Had Said She Would Be Back Promptly, and It Was Even More So.
-
-On one of my first excursions in our new car, writes a correspondent, I stopped at the grocery with my car parked with the back toward the store door. I gave my order and told the clerk that I would be back to get my things in a very few minutes.
-
-As I stepped into the car, my best "beau" came down the street, and anxious to show him how well I could drive, I hurriedly threw into gear. I raced the engine and let the clutch out to get a quick pickup.
-
-It proved to be a wonderful one, as I had thrown into reverse and found myself in the doorway of the grocery store. I had gone over the curbing and all, breaking the window as I bumped into the store.
-
-The grocer hurried out, and when he saw who it was, "Well," he said, "you have proved yourself a woman of your word, but it will cost you the price of a new show window."
+"They tell me this moonshine stuff will drive a man crazy." "It hasn't much drivein' to do," answered Uncle Bill Bottletop. "Any man who drinks moonshine is foolish to start with."
 
 DYSART'S SENSATIONAL SYNCOPATED JAZZ ORCHESTRA
 

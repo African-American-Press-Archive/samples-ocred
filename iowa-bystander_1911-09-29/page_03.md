@@ -48,9 +48,10 @@ The mollycoddle thinks all the world has its eyes focused upon his slightest nos
 
 ## FAKE RACE MEN
 
-MANY COLORED MEN IN NEW ORLEANS INTERESTED IN THEMSELVES ONLY.
+MANY COLORED MEN IN NEW
+ORLAND AND NEW YORK
 
-New Orleans, La.—New Orleans is not without her good share of those negroes who, because they have a little business which they want the race to patronize, believe or pretend rather to believe, that they are helping the race up in the world. Those same negroes patronize white shops in New Orleans in patronizing colored people in the city, and hear them talk about race enterprise and what they do for the race, one would suppose that their hearts were in the right place and that they were really anxious to see the race become stronger, better off in influence and worth, and standing shoulder to shoulder in progress with the most advanced race in the world. It's all talk. They speak about the race sticking together and back up race enterprises, they mean the race should stick together, the speaker's enterprise. They own, the lawyer's enterprise. They fellows, the masses, are to do all the sticking together and all the backing up of the race enterprises, while they who are being patronized, are doing and patronizing white business places, drawing the line on the less favored of the race and in some cases having nothing but purely business relations with people with kinky hair and black faces. There are others in business in New Orleans who desire the backing of the race because they back up race enterprises all they know how and who never draw the color line or the law, because they have the law and custom in New Orleans do not permit persons with negro blood in their veins to commingle socially with the whites, so it is easy for negroes to stick together and patronize one another if they want to do so. There is no excuse for the negro who though he is in business himself and is always talking about negroes ought to stick together, does a very little of patronizing of negroes himself and then have the cheek to point to this little patronage he spares the race as if it was worth talking about. Such negroes are race men only when they are anything but race men at all other times. They are nothing but fake race men.
+New Orleans, La.—New Orleans is not without her good share of those negroes who, because they have a little business which they want the race to patronize, believe or pretend rather to believe, that they are helping the race up in the world. Those same negroes patronize white shops in preference to patronizing colored people in the same business. And yet to hear them talking about race enterprise and what they do for the race, one would suppose that their hearts were really anxious and that they were really anxious to become stronger, better off in influence and worth, and standing shoulder to shoulder in progress with the most advanced race in the world. It's all talk. When they speak about the race sticking together and backup up race enterprises, they mean the race should stick together and back up their own, the speaker's enterprise. They are the race (?) and the other fellows, the masses, are to do all the sticking together and all the backing the race enterprises, while they who are the race enterprises as they please, buying from and patronizing white business places, drawing the line on the less favored of the race and in some cases having nothing but purely business relations with people with kinky hair and black faces. There are others in business in New Orleans who desire the backing of the race because they back up race enterprises all they know how and who never draw the color line or the hairline on other negroes. The law and custom in New Orleans do not allow them to never draw the color line in their veins to commingle socially with the whites, so it is easy for negroes to stick together and patronize one another if they want to do so. There is no excuse for the negro who though he is in business himself and is always talking about negroes ought to stick together, does but a very little of patronizing negroes himself and then have the cheek to point to this little patronage he spares the race as if it was worth talking about. Such negroes are race men only when they are anything but race men at all other times. They are nothing but fake race men.
 
 Blithely beautiful was Ola; 
 She could play the planoa, 
@@ -67,11 +68,6 @@ Thought thoughts with a mentalola,
 Wrote things with a chitrogola — 
 But, alas, unhappy Ola, 
 Couldn't find a husband!
-
-Thought thoughts with a mentalola.
-Wrote things with a chikogrola—
-But, alas, unhappy Ola
-Couldn't find a husbandola!
 
 The winter cow may give a little less milk than the one upon pasture, but the difference in the price of butter fat more than makes up for this. The milk vessels should be cleaned just as soon as possible after being used.
 
@@ -103,22 +99,18 @@ No man knows when fate is ready to endow him with a mother-in-law or strike him 
 
 # HAPPY HAMPTON YOUNGSTERS
 
-KINDERGARTEN CLASS. HAMPTON N UNIVERSITY. THE TEACHER IS
-A FULL-BLOOD DED INDIAN.
+KINDERGARTEN CLASS, HAMPTON N UNIVERSITY. THE TEACHER IS A FULL-BLOODED INDIAN.
 
-Stuffing the coth with hay or straw or any coarse feed will spill its looks. Keep this ration down by the use of some grain and less coarse feed. Steers fed on clover hay will not only consume more roughage, but also more graat; than those fed on timothy hay if both grain and roughage are fed according to appetite. It is highly important that sheep for a number of years that finds them most profitable. Some years they will retrun a much better profit than others, and it is hard to sell and buy at just the right time.
-
-The ration of the driving horse should be different from that of the average work horse. This is due in a large measure to the peculiar demands of such an animal. It should be fed much less roughage in proportion to its size than a horse at ordinary work. The roughage should also be of different nature.
-
-The ram should not run with the ewes during the winter. He will worry them, and a bunt might kill a lamb. He should have a box stall, not large, with a good, strong yard attached, where he can be out of doors on all fine days. Never leave him out in a storm so that his fleece will become wet, as it might mean death. Feed him regularly and enough to keep him in good, thrifty condition.
+Stuffing the coth with hay or straw or any coarse feed will spoil its looks. Keep this ration down by the use of some grain and less coarse feed. Steers fed on clover hay will not only consume more roughage, but also more graat; than those fed on timothy hay if both grain and roughage are fed according to appetite. It is the farmer who keeps sheep for a number of years that finds them most profitable. Some years they will retrain a much better profit than others, and it is hard to sell and buy at juncture. The ration of the driving horse should be different from that of the average work horse. This is due in a large measure to the peculiar demands of such an animal. It should be fed much less roughage in proportion to its size than a horse at ordinary work. The roughage should also be of different nature. The ram should not run with the ewes during the winter. He will worry them, and one bunt might kill a lamb. He should have a box stall, not large, with a good, strong yard attached, where he can be out of doors on all fine days. Never leave him out in a storm so that his fleece will become wet, as it might mean death. Feed him regularly and enough to keep him in a thrifty condition.
 
 BAFFLING THE WINTER.
 
-A St. Louis man went down into Tennessee the other day to freshen memories of his youth. In the course of looking up everybody, he called upon an old negro mummy who is a fixture on the place.
+A St. Louis man went down into Tennessee the other day to freshen memories of his youth. In the course of looking up everybody, he called upon an old negro mummy who is a fature upon the place.
 
-"What's new, mammy?" he asked. "Well, Marse Bob, they ain't no nuthin' new cept Nelle's gwine marry Lee," she said.
-
-"That trifling nigger Lee, mommy? How did that happen? Marse Bob. You see Nelle's got a home on a stave's comin' on. Ab's spects that nigger Lee's jee' fixin' to baffle the winter, Marse Bob."—St. Louis Post-Dispatch.
+"What's new, mummy?" he asked.
+"Well, Marse Bob, they aren't no nuthin' new 'ept Nellie's gwine marry Lee," she said.
+"That trifling nigger Lee, mommy? How did that happen?"
+"Ah don't know, Marse Bob. You see Nellie's got a home an 'a stove an 'a fall's connin' on. Ah 'speets that nigger Lee's jee' fain' to baffle the winter, Marse Bob."—St. Louis Post-Dispatch.
 
 ## NEW FASHIONS AND HEALTH.
 
@@ -188,29 +180,25 @@ A charming revival of a somewhat later period is the fachu of finest, softest mu
 
 Nothing is so wonderfully becoming to both old and young as these fuchs of soft, snowy muslin. The reflection they throw on the face and throat of the wearer is deliciously becoming.
 
-The frilled fuchi is accompanied by frills to match at the elbow sleeves and, when possible, with frills on the hem of the skirt.
+The frilled fuchs is accompanied by the match to match at the elbow sleeve and when possible, with frills on the hem of the skirt.
 
-On fine lawn or batiste dresses and the Made Antillette fuchs or fuchs are the style of the moment for a finish to the bodice.
+On fine lawn or batiste dresses either the Marle Anothetine frills or fuchs are the style of the moment for a finish to the bodice.
 
 EFFECT OF EVE'S APPLE.
 
-The owner of a big clothing store was showing an old friend over the premises. After traversing the hundred-odd show rooms the pair陪arrived to the proprietor's private office. Here the visitor observed an apple enshrined in a crystal casket.
+The owner of a big diothing store who is owning an old friend over the premises. After traversing the hundred-odd show rooms the pair adjourned to the proprietor's private office. The visitor observed an apple enshrined in a crystal casket.
 
 "What do you keep this for?" he asked.
 
-"For sentimental reasons," repiled the proprietor. It signifies, so to speak, my business and the wealth I have grown up with."
+"For sentimental reasons," repiled the proprietor. "It signifies, so to speak, my business and the wealth I've made from it," he said the visitor after much thinking. "I quite fail to see the connection."
 
-"Well," said the visitor, after much thinking, "I quite fail to see the connection."
-
-"Why, man," returned the other, "don't you realize that Eve hadn't eaten the apple, the clothing business wouldn't have been of much account today?" - Ideas.
+"Why, man," returned the other, "don't you realize that if Eve hadn't eaten the apple, the clothing business wouldn't have been of much account today?" "Ideas.
 
 A TERRIBLE DREAM.
 
 Her face is drawn, her eyes are haggard and sunken, and her expression is that of a woman on the verge of nervous prostration.
 
-"What in the world is wrong?" asks the onlooker. "I never saw any look so terrily."
-
-"It is all because of an awful nightmare I had last night," explains the sufferer, "It simply shattered my nerves, and although I know it was merely a dream, still I cannot rid myself of its effects. I dreamed I was called upon unexpectedly to plan a dinner for Dr. Wiley, Dr. Woods Hutchinson and Upton Sinclair."—Life.
+"What in the world is wrong?" asks the astonished friend. "I never saw any one look so terribly." "It is all because of an awful night-mire I had last night," explains the sufferer. "It simply shattered my heart and although I knew, it was merely a dream, still I cannot rid my self of its effects. I dreamed I was called upon unexpectedly to plan a dinner for Dr. Wiley, Dr. Woods Hutchinson and Upton Sinclair."—Life.
 
 ## OBSERVING THE PROPRIETIES.
 
@@ -218,15 +206,17 @@ When Albert was about 7 his collel, that had grown up with him and to which he w
 
 SOUTHWESTERN CHRISTIAN ADVOCATE DISCUSSES MEETING OF NATIONAL NEGRO BUSINESS LEAGUE.
 
-The National Negro Business league is an organization with a purpose. It is seriously at the job of awakening the negro to an appreciation of his opportunities and the necessity of building a financial and commercial basis upon which he may build a still greater and larger life. This organization is the most influential race organization extant. It touches more people than any other. It touches them more definitely and at the point where they are much in need of help. There is little of the National Negro Business league of which you one could be a member, or a group which everyone can crisis. The prime leader of this movement is Dr. Booker T. Washington, and he never gave himself more unreservedly and thoughtfully to the development of a movement to the he has given himself to this movement. The league is racewide and takes in its scope all classes of our people. Specifically, it is a business league; in fact, it is a racewide movement, dead in earnest for the lifting of the ocean level of the race, reaching the highest levels of business and bringing them in touch with all that is good in the race. The organization is the strongest, the most practical of all the organizations of the race. Numbers will. They always have and they always will. The last season of the league was largely attended. The number of persons coming up from Oklahoma to Little Rock, Ark, was a revelation. They showed that the negro was thoroughly capable of meeting new conditions, of settling upon new territory and making a footnote to the progress of business and pride of the negroes from Boley and Muskogee and other towns of Oklahoma was a marvel. And to the most skeptical their success, illustrated in the spacious exhibition presented, was a genuine inspiration.
+The National Negro Business league is an organization with a purpose. It is seriously at the job of awakening the negro to an appreciation of his opportunities and the necessity of building a financial and commercial basis upon which he may build a still greater and larger life. This organization is the most influential race organization ever created, and that many other. It touches them more definitely and at the point where they are much in need of help. There is little of the National Negro Business league of which any one could complain. There is a great deal which everyone can praise. The prime leader of this movement is Dr. Booker T. Washington, and he never gave himself more unreservedly and thoughtfully to the development of the Negro race. He himself to this movement. The league is racewide and takes in its scope all classes of our people. Specifically, it is a business league; in fact, it is a racewide movement, dead in earnest for the lifting of the ocean level for the race's life by reaching hitherto unreached classes of people and bringing them in touch with all that is good in the race. The organization is one of the largest and most all the organizations of the race. Numbers more than the always have and they always will. The last season of the league was largely attended. The number of persons coming up from Oklahoma to Little Rock Ark, was a revelation. They showed that the negro was thoroughly capable of meeting new conditions, of settling upon new territory and making a foothold for himself. The bushes entered the city and the Muskeges and other towns of Oklahoma was a marvel. And to the most skeptical their success, illustrated in the spacious exhibition presented, was a genuine inspiration.
 
-Because of the success of this movement, the distinguished men that it is able to bring together, and because of the outstanding character of Dr. Washington, it commands large attention. The city of Little Rock and the state of Arkansas were all agog in the reception of the National Negro Rock league and the May River Veterans, and the hosts of that occasion joined hand with the negroes of Little Rock to make the reception of the Negro Business league worthy, not only of the hospitality of the negroes of that city and state, but of the whites as well.
+Because of the success of this movement, the distinguished men that it is able to bring together, and because of the outstanding character of Dr. Washington, it commands large attention. The city of Little Rock and the state of Arkansas were all agog in the reception of the National Negro Business league. Last May Little Rock had entertained the Confederate Veterans, and the hosts of that occasion joined hand with the negroes of Little Rock. The reception of the Negro Business was not only of the hospitality of the negroes of that city and state, but of the whites as well.
 
-Governor Donaghey of the state of Arkansas delivered with others, an address of welcome, the most practical, broad, sympathetic address we have ever heard from a southern official twice; the governor category apparently enjoyed to overflowing the mastery address of Dr. Washington. The address and the attitude of Governor Donaghey were in the interest of peace and good will in the belief of peace and good will in the message at this time is God's anointment; and as for him who would attempt to widen the chasm between races, it were better than a mill-stone were tired of the neck. Of course, the dominant personality of the business league is the task of the league is the promotion of peace between the races. If it did nothing else, this fact would more than justify its existence.
+Governor Donaghey of the state of Arkansas delivered with others, an address of welcome, the most practical, broad, sympathetic address we have ever heard from a southern official for some time. The governor caught his audience and he was given a great ovation. He not only remained throughout the morning session, but he returned in the evening with a large number of friends and remained throughout the entire session, and apparently enjoyed to overflowing the masterly address of Dr. Washington. The address and the attitude of Gov. Donaghey of Little Rock were of peace and good will between the races, and he who delivered such a message at this time is God's anointed; and as for him who would attempt to widen the chasm between races, it were better that a mill-stone were dled around his neck.
 
-The sessions were held in the Kemper theater, one of the exclusive theaters of Little Rock. Not only so, but the white people of Little Rock were involved in the delegation, and everything that could be done, was done for the comfort of the league.
+Of course, the dominant personality of the business league movement is Dr. Washington. One of the tasks of the league is the promotion of peace between the races. If it did nothing else, this fact would more than justify its existence.
 
-The program was a strong one. It was arranged by the corresponding secretary, Mr. Emmett J. Scott, a man of almost superhuman strength for continuous work. In this program he had picked out strategic men in all parts of the country as if he had them upon his finger-tips and knew them by note. No man could sit during the program and listen to the stories of successes in town-building, in bank operations, in other lines without the conviction that the negro is making good and will eventually come to his own. The principal address during the occasion was delivered by Dr. Washington. It was strong, pointed and masterful. In his ability to soften racial antipathy and promote inter-racial good will as a basis for inter-racial co-operation, there is not a man in the race who approaches Dr. Washington. In the inter-racial situation, the Washington is a master. He was given a great ovation, which he richly deserved, for his great, unselfish, patriotic, persistent practical work for the race.
+The sessions were held in the Kemper theater, one of the exclusive theaters of Little Rock. Not only so, but the white people of Little Rock were solicited for the welfare of the delegation, and everything that could be done was done for the comfort of the league.
+
+The program was a strong one. It was arranged by the corresponding Executive Editor, Scott, a man of almost supernatural length, continuous work. In this program he had picked out strategic men in all parts of the country as if he had them upon his finger-tips and knew them by note. No man could sit during the program and listen to the stories of successes in town-building, in banking, in manufacturing and in various other lines without the conviction that the negro is making good and will eventually come to his own. The principal address during the occasion was delivered by Dr. Washington. It was strong, pointed and masterful. In his ability to soften racial antipathy and promote inter-racial co-operation, he has handled for inter-racial co-operation approaches Dr. Washington. In the handling of this delicate phase in the inter-racial situation, Dr. Washington is a master. He was given a great ovation, which he richly deserved, for his great, unselfish, patriotic, persistent practical work for the race.
 
 ## NOT CONCLUSIVE
 
@@ -280,7 +270,9 @@ President Is Given Most Enthusiastic Reception in Iowa
 
 Starting At Council Bluffs, Chief Executive Travels Almost Across State Along Road That is Lined With People.
 
-Des Moines, Sept. 29—Rain kept up a running fight with President W. H. Taft throughout the first Iowa lap of the chief executive's "swing around the circle." The rain could not keep President Taft's spits down or dampen the order of Iowaans. As the day progressed the crowds that greeted the train became warmer, culminating in the greatest day of the summer at Waterloo, the night stop. Forty-eight tows along the line of the Illinois Central railroad were visited by the presidential train. In all but a dozen of the stations the train halted for at least a minute and the townpeople were given a glimpse of President Taft. The president was in especially good spirit. He did not overlook a single chance to say a few words in public. Even when the train only slowed down at small stations, the president took to the back platform, and waved to the crowd as was ever pictured. For the most part the president confined his remarks during the day to a discussion of the tariff question and a defense of his vetoes of the bills passed at the recent session of congress, and at Waterloo delivered an extended address on legislation affecting business. When occasion demanded, however, he deviated from his set remarks to talk patriotism and local pride, to praise the Grand Army of the Republic, admire babies and land the school children. The newspaper men, who have accompanied the president thus far on his country wide trip, are any barometer, President Taft is stronger in Iowa than he has ever been before. All who have made the trip with the president insisted that the Iowa reception thus far had been most cordial, and more than the most of them expected.
+Des Moines, Sept. 29. -Rain kept up a running fight with President W. H. Taft throughout the first Iowa lap of the chief executive's "swing around the circle." The rain could not keep President Taft's spirits down or dampen the ardor of Iowaans. As the day progressed the crowds that surrounded him grew creatively in the greatest display of enthusiasm of the day at Waterloo, the night stop. Forty-eight tows along the line of the Illinois Central railroad were visited by the presidential train. In all but a dozen of the stations the train halted for at least a minute and the townpeople were given a glimpse of President Taft. The president was in especially good spirits. He did not overlook a single chance to say a few words to the public. For the crowd slowed down at small stations, the president took to the back platform, and waved his hat and smiled as broad a smile was ever pictured. For the most part the president confined his remarks during the day to a discussion of the tariff question and a defense of his vetoes of the bills passed at the recent session of congress, and at Waterloo delivered an extended address on legislation affecting business. When occasion demanded, however, he deserved the patriotism and local pride, to praise the Grand Army of the Republic, admire babies and land the school children.
+
+If the newspaper men, who have accompanied the president thus far on his country wide trip, are any barometer, President Taft is stronger in Iowa than he has ever been before. All who have made the trip with the president insisted that the Iowa reception thus far had been most cordial, and more than the most of them expected.
 
 ## EMPLOYING PRINTERS MEET
 
@@ -320,3 +312,5 @@ Denison, Sept. 23—Father Matthews of Davenport will open a mission at the Cath
 Fifteen-Years for Forgery.
 
 Fort Dodge, Sept. 28—Ray Piper has been sentenced to the Anamosa prison for fifteen years. His wife was also sentenced. Both are about 24 years of age and were found guilty of forgery.
+
+2

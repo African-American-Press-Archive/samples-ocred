@@ -3,6 +3,17 @@
   "image": "images/page_04.jpg",
   "width": 1733,
   "height": 2519,
+  "processed_at": "2026-03-07T12:03:24.506728+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 159,
+    "after_merge": 71
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         224
       ],
       "label": "text",
-      "text": "ALBUM NEWS\nMrs. E. Grayson\u2014leaders of the city\nand the school board of her child-\nhood. Median Age: Bummings and Gray-\nson for a few years."
+      "text": "ALBUM NEWS\nMrs. E. Grayson\u2014leaders of the city\nand the school board of her child-\nhood. Median Age: Bummings and Gray-\nson for a few years.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         767
       ],
       "label": "text",
-      "text": "The Emancipation celebration was held in Buckton, Sept. 22d. A number of Albiana went over to mingle with the crowd in remembrance of the day of the issue of this great proclamation. Among the number was Messrs. Low, Franklin, Sam Johnson, Mrs. Harris and children, Mr. and Mrs. Ed. Butler and son Lawrence, Mr. W. A. Barnes editor Horace Barnes of the Republican. Mrs. Bert Allen and Mrs. Freeman returned from Minnesota, Minn., Monday. Rev. and Mrs. J. H. Bell and daughter, Nellie Bell of Clarinda are visiting a few days with friends in Alba before going to their new home in Oakloose for this year. Rev. R. B. Manley has returned to Alba as pastor of the A. M. E. church for this year. Mrs. Ella Bristo of Enterprise, Iowa, is visiting her brother, Mr. Lou Franklin, this week. Mr. Ed. and Mrs. Butler were Des visitors the first of the week Miss Cleo Cary of Buxton is stopping at the home of Rev. and Mrs. R. B Manley. She is a student in the Alba high school. Lawyer James Spears was in Albis this week. Selia Bros. and Foreaparegis's circle and big tent show was in Albia Tuesday, Sept. 19th, and a number of people from Hocking, Hiteman, Buxton and all over the county was in attendance."
+      "text": "The Emancipation celebration was held in Buckton, Sept. 22d. A number of Albiana went over to mingle with the crowd in remembrance of the day of the issue of this great proclamation. Among the number was Messrs. Low, Franklin, Sam Johnson, Mrs. Harris and children, Mr. and Mrs. Ed. Butler and son Lawrence, Mr. W. A. Barnes editor Horace Barnes of the Republican. Mrs. Bert Allen and Mrs. Freeman returned from Minnesota, Minn., Monday. Rev. and Mrs. J. H. Bell and daughter, Nellie Bell of Clarinda are visiting a few days with friends in Alba before going to their new home in Oakloose for this year. Rev. R. B. Manley has returned to Alba as pastor of the A. M. E. church for this year. Mrs. Ella Bristo of Enterprise, Iowa, is visiting her brother, Mr. Lou Franklin, this week. Mr. Ed. and Mrs. Butler were Des visitors the first of the week Miss Cleo Cary of Buxton is stopping at the home of Rev. and Mrs. R. B Manley. She is a student in the Alba high school. Lawyer James Spears was in Albis this week. Selia Bros. and Foreaparegis's circle and big tent show was in Albia Tuesday, Sept. 19th, and a number of people from Hocking, Hiteman, Buxton and all over the county was in attendance.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +45,8 @@
         824
       ],
       "label": "text",
-      "text": "Mr. Gordon and his friend from Hocking was in Alba Sunday. Mr. and Mrs. Roy Grayson was in town Monday, from Hocking."
+      "text": "Mr. Gordon and his friend from Hocking was in Alba Sunday. Mr. and Mrs. Roy Grayson was in town Monday, from Hocking.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +56,8 @@
         897
       ],
       "label": "text",
-      "text": "Mr. Alfred Grayson went to spend the week in Hocking with his grandson Roy A. Grayson. Quite a number of strangers in aown the past week."
+      "text": "Mr. Alfred Grayson went to spend the week in Hocking with his grandson Roy A. Grayson. Quite a number of strangers in aown the past week.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,17 +67,41 @@
         929
       ],
       "label": "paragraph_title",
-      "text": "OTTUMWA ITEMS"
+      "text": "OTTUMWA ITEMS",
+      "status": "ok"
     },
     {
       "bbox": [
         105,
         936,
+        333,
+        1526
+      ],
+      "label": "text",
+      "text": "Dan cupid's arrow has been in Ottumwa, recently and we are waiting for the the wedding bells to ring.\n\nRev. M. I. Gordon was welcomed to Mt. Zion A. M. E. church and we hope to have a most successful conference year with him as our pastor.\n\nMiss Baypin Guinn, 355 N. Marion St., left for her home in Chicago, Thursday Set. 21st, after a week visit with her grandmother, Mrs. Chas. Taylor.\n\nMrs. Wm. Bailen, Center avenue, is not recovering as rapidly as friends had hoped.\n\nWord has been received here of the auto accident that occurred in Des Moines, Sunday. The auto in which Miss Naomi Courtney and friends were driving in was struck by a street car and the occupants were badly shaken while some received serious injuries.\n\nOrville Spotts, E. M. St., was in Des Moines a few days last week.\n\nThe infant child of Mr. and Mrs. Geo, Robinson of the East End, died and will be buried Tuesday at 2:30 p. m.\n\nThe bereaved parents have our sympathy.\n\nMrs. Amy Greene, Center avenue is in St. Joe attending the conference.\n\nMr. T. Anderson, West 2d street, has returned from his vacation trip and reports a splendid time.\n\nMrs. M. I. Gordon, who has been ill for a few days is feeling some better at this writing.\n\nFrants Ballay is expected home soon.\n\nMrs. Frantz Henson's daughter-in-law, Mrs. Arthur Burns and children, left last night for their home in Fondula Wisconsin.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        108,
+        1527,
         334,
+        1986
+      ],
+      "label": "text",
+      "text": "Mr. Luther Williams of Grover St. is in Ottumwa, at present. He spent several weeks in Des Moines. Mrs. Maude Marshall has returned from a few days visit in Cedar Rapids where she was called by the illness of her son, LeRoy Warren. Rev. J. C. Reid family anticipate spending three months in the South at the beginning of the winter. Mrs. Nami Courtney of Des Moines is here attending the trial of Harry Richardson burglarized the Rev. Reid's house recently. Mrs Courtney had about $70,00 worth of clothing stolen. She recovered all. Mr. G. W. Jackson, christor of the Second Baptist church returned from Chicago, Saturday. Misa Emma Gardner and Mrs. J. C. Reid attended the quarterly meeting of the Woman's Federation (Executive Board) at Indiana. They report an excellent session. Rev. J. C. Reid will visit Omaha, Council Bluffs and Clarinda, next week. He will speak for Iowa's interest in educational work connected with the Western Baptist convention. Dr. Reid is chairman of the Educational Board of Iowa.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        106,
+        1991,
+        332,
         2154
       ],
       "label": "text",
-      "text": "Dan cupil's arrow has been in Ottumwa, recently and we are waiting for the wedding bells to ring.\n\nRev. M. I. Gordon was welcomed to Mt. Zion A. M. E. church and we hope to have a most successful conference year with him as our pastor.\n\nMiss Baypun Guinn, 555 N. Marion St., left for her home in Chicago, Thursday Set. 21st, after a week visit with her grandmother, Mrs. Chas. Taylor.\n\nMrs. Wm. Bailey, Center avenue, is not recovering as rapidly as friends had hoped.\n\nWord has been received here of the auto accident that occurred in Des Moines, Sunday. The auto in which Miss Naomi Courtney and friends were driving in was struck by a street car and the occupants were badly shaken while some received serious injuries.\n\nOrville Spotts, E. Main St., was in Des Moines a few days last week.\n\nThe infant child of Mr. and Mrs. Geo. Robinson of the East End, died and will be buried Tuesday at 2:30 p.m. The bereaved parents have our sympathy.\n\nMrs. Amy Greene, Center conference is in St. Joe attending the conference.\n\nMr. T. Anderson, West 2d street, has returned from his vacation trip and reports a splendid time.\n\nMr. M. I. Gordon, who has been ill for a few days is feeling some better at this writing.\n\nFrants Bailey is expected home soon.\n\nMrs. Frantz Henson's daughter-in-law, Mrs. Arthur Burns and children, last night for their home in Fondula Wisconsin.\n\nMr. Luther Williams of Grover St., is in Ottumwa, at present. He spent several weeks in Des Moines.\n\nMrs. Maude Marshall has returned from a few days visit in Cerak Rapids where she was called by the illness of her son, LeRoy Warren.\n\nRev. J. C. Reid family anticipate spending three months in the South at the beginning of the winter.\n\nMiss Namil Courtney of Des Moines is here attending the trial of Harry Richardson who bargained the Rev. Reid's house recently. Miss Courtney had about $70.00 worth of clothing stolen. She recovered all.\n\nMr. G. W. Jackson, chanter of the Second Baptist church returned from Chicago, Saturday.\n\nMiss Emma Gardner and Mrs. J. C. Reid attended the quarterly meeting of the Woman's Federation (the Executive Board) at Indiana. They report an excellent session.\n\nRev. J. C. Reid will visit Omaha, Council Bluffs and Clarinda, next week. He will speak for Iowa's interest in educational work connected with the Western Baptist convention. Dr. Reid is chairman of the Educational Board of Iowa.\n\nYou are not experimenting on yourself when you take Chamblain's Cough Remedy for a colds that preparation has won its great reputation and extensive sale sale by its remarkable cures of colds, and can always be depleted upon it. It is equally valuable for adults and children and may be given to young children with implicit confidence as it contains no harmful drug. Sold by all dealers."
+      "text": "You are not experimenting on yourself when you take Chamblein's Cough Remedy for a colds that preparation has won its great reputation and extensive sale sale by its remarkable curse of colds, and can always be deployed upon it. It is equally valuable for adults and children and may be given to young children with implicit confidence as it contains no harmful drug. Sold by all dealers.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +111,8 @@
         2362
       ],
       "label": "text",
-      "text": "Dr. Jones was the first man to open an account with the postal savings bank in Monmouth, Ill. The Dr. is always first. He is one of Monmouth best citizens. He reads more race journals and magazines than any other man in Monmouth. His only son has just finished his musical course in Wilberforce college. G. W. Jones is the trusted house doctor and lives at 914 So. Main street. Our city of Monmouth can boast of"
+      "text": "Dr. Jones was the first man to open an account with the postal savings bank in Monmouth, Ill. The Dr. is always first. He is one of Monmouth best citizens. He reads more race journals and magazines than any other man in Monmouth. His only son has just finished his musical course in Wilberforce college. G. W. Jones is the trusted house doctor and lives at 914 So. Main street. Our city of Monmouth can boast of",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +122,8 @@
         196
       ],
       "label": "text",
-      "text": "person of Mr. Parker. This is very good, certainly the Negro will soon be in it financially."
+      "text": "person of Mr. Parker. This is very good, certainly the Negro will soon be in it financially.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,17 +133,30 @@
         215
       ],
       "label": "paragraph_title",
-      "text": "ROCK ISLAND NEWS"
+      "text": "ROCK ISLAND NEWS",
+      "status": "ok"
     },
     {
       "bbox": [
         335,
         216,
         561,
+        706
+      ],
+      "label": "text",
+      "text": "The thirty-fifth annual session of the Heroes of Jericho just closed a successful session here last Thursday evening with an installation.\n\nThe session opened last Tuesday morning at 10 a.m. with the M. A. G. M., Mrs. Jennie A. Hatcher in the chair. The roll was called and the M. A. G. Matron proceeded to the regular business of appointing committees.\n\nThe afternoon was spent in hearing the annual addresses which were very good and profitable. In the evening a reception was given the delegates and the following program was rendered. Prayer by Mrs C. H. Marshall. Welcome address in behalf of Mt. Olive Court No. 83 by Athlone Moore. Welcome in behalf of the city by Mayor H. Schriver. Vocal solo, Mrs J. Gordin, Instrumental solo, Mrs Jean Allen. Closing remarks, Mr. H. E. Burris. Wednesday morning the meeting was called on at 9 a.m., opened by prayer and song. The reports of courts were read, and visitors were introduced. Memorial services were in the afternoon.\n\nThursday morning the meeting was called on by G. M. A. M. at 9 a.m. opened by song and prayer. Reports of committees and courts were furnished and the following were the Grand officers for the next year:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        335,
+        708,
+        555,
         850
       ],
       "label": "text",
-      "text": "The thirty-fifth annual session of the Heroines of Jericho just closed a successful session here last Thursday evening with an installation.\n\nThe session opened last Tuesday morning at 10 a.m. with the M. A. G. M., Mrs. Jennie A. Hatcher in the chair. The roll was called and the M. A. G. Matron proceeded to the regular business of appointing committees.\n\nThe afternoon was spent in hearing the annual addresses which were very good and profitable. In the evening a reception was given the delegates and the following program was rendered. Prayer by Mrs C. H. Marshall. Welcome address in behalf of M. Olive Court No. 83 by Althaed Moore. Welcome in behalf of the city by Mayor H. Schriver. Vocal solo, Mrs J. Gordin. Instrumental solo, Mrs Jean Allen. Closing remarks, Mr H. E. Burris. Wednesday morning the meeting was called on at 9 a.m., opened by prayer and song. The reports of courts were read, and visitors were introduced. Memorial services were in the afternoon.\n\nThursday morning the meeting was called on by G. M. A. M. at 9 a.m. opened by song and prayer. Reports of committees and courts were furnished and the following were the Grand officers for the next year:\n\nG. M. A. M. Mrs. J. A. Hatches. G. Jr. M. Mrs. Sadie Cooper. G. Secretary, Mrs Katie Burry. G. Treas, Mrs Lulu Slaughter. G. W. Joshua, Mr. \u2014 Kidd, G. I. G. K., Mrs. Susan Vaughn. G. O. G. K., Mrs Josephine Jones. Ist. G. C. D., Mr. G. E. Turner. 2d. G. C. C., Mr. J. W. Ingroham. 3d. G. C. D., Mr. Richard Flood."
+      "text": "G. M. A. M. Mrs. J. A. Hatches.\nG. Jr. M., Mrs. Sadie Cooper,\nG. Secretary, Mrs. Katie Burry.\nG. Tress , Mrs. Lulu Slaughter.\nG. W. Joshua, Mr. \u2014 Kidd.\nG. I. G. K., Mrs. Susan Vaughn.\nG. O. G. K., Mrs. Joasophine Jones.\n1st, G. C. D., Mr. G. E. Turner.\n2d. G. C. C., Mr. J. W. Ingroham.\n2d. G. C. D., Mr. Rtchard Flood.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +166,8 @@
         1374
       ],
       "label": "text",
-      "text": "The afternoon was spent in visiting the Colored Mason Home which is located in South Rock Island on Rock River. The home was in perfect order The visitors had song and prayer with inmates and bade them good bye and good luck. The evening was spent in installing the new officers which was conducted by Mrs. Ida McIntosh Dempsey, P. G. M. A, M.\nP. G. M. A, M. M. Ella Walkup, Mrs Ella Wood and Mrs. Clara Curt, were visitors from Iowa, and also Mrs. Alice Richardson of Iowa, and Mrs. Brown of Missouri.\nThe Iowa conference has closed in Des Moines and Rock Island has for their pastor Rev. Williams.\nMrs. Ida Dempsey and Mrs. Momie Quarles with Mrs. A. Moore, visited the arsenal and Watch Tower, Friday morning. They left in the afternoon for their home in Chicago\nMrs. S. E. Cooper left Mrs. M. E. Minnard of Chicago left Thursday evening on a late train to attend the Iowa conference in Des Moines.\n\nBilliousness is due to a disordered condition of the stomach. Chamberlain's Tablets are essentially a stomach medicine, intended especially to act on that organ; to cleanse it, strengthen it, tone and invigorate it to regulate the liver and to banish biliosness positively and effectually. For sale by all dealers"
+      "text": "The afternoon was spent in visiting the Colored Mason Home which is located in South Rock Island on Rock River. The home was in perfect order The visitors had song and prayer with inmates and bade them good bye and good luck. The evening was spent in installing the new officers which was conducted by Mrs. Ida McIntosh Dempsey, P. G. M. A, M.\nP. G. M. A, M. M. Ella Walkup, Mrs Ella Wood and Mrs. Clara Curt, were visitors from Iowa, and also Mrs. Alice Richardson of Iowa, and Mrs. Brown of Missouri.\nThe Iowa conference has closed in Des Moines and Rock Island has for their pastor Rev. Williams.\nMrs. Ida Dempsey and Mrs. Momie Quarles with Mrs. A. Moore, visited the arsenal and Watch Tower, Friday morning. They left in the afternoon for their home in Chicago\nMrs. S. E. Cooper left Mrs. M. E. Minnard of Chicago left Thursday evening on a late train to attend the Iowa conference in Des Moines.\n\nBilliousness is due to a disordered condition of the stomach. Chamberlain's Tablets are essentially a stomach medicine, intended especially to act on that organ; to cleanse it, strengthen it, tone and invigorate it to regulate the liver and to banish biliosness positively and effectually. For sale by all dealers",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +177,8 @@
         1398
       ],
       "label": "paragraph_title",
-      "text": "DAVENPORT ITEMS."
+      "text": "DAVENPORT ITEMS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +188,8 @@
         1642
       ],
       "label": "text",
-      "text": "Mrs. Ida Washington was called to the sick bed of her husband last week at Quincy, Ill., where he had gone to visit, his parents, Mr. and Mrs. Washington have the sympathy of all Davenport friends in this their hour of distress. Rev. S. M. Perkins wrote to Mr. Davenport, an able address to the Dorcas society. Rev. Perkins took for his text. St. John 2:45. We have found him. He pictured Christ as the example of the world, a son of glory, a light that shineth away darkness, etc. The ladies of this society were dressed in white and wore badges of white and black. The ladies of this address, Rev. Burr, presented the speaker with a badge of the society on behalf of the Dorcas circle."
+      "text": "Mrs. Ida Washington was called to the sick bed of her husband last week at Quincy, Ill., where he had gone to visit, his parents, Mr. and Mrs. Washington have the sympathy of all Davenport friends in this their hour of distress. Rev. S. M. Perkins wrote to Mr. Davenport, an able address to the Dorcas society. Rev. Perkins took for his text. St. John 2:45. We have found him. He pictured Christ as the example of the world, a son of glory, a light that shineth away darkness, etc. The ladies of this society were dressed in white and wore badges of white and black. The ladies of this address, Rev. Burr, presented the speaker with a badge of the society on behalf of the Dorcas circle.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +199,8 @@
         2078
       ],
       "label": "text",
-      "text": "Rev. T. B. Stovall receives his third appointment to Davenport as pastor of the A. M. E. church. The reverend preached two able sermons Sunday. Subject in the morning, \"Men and Religion Movement.\" He said in his speech that the students are face to face with obligations, with burdens that we ought not to excuse ourselves from. The world must be evangelized and God saved men and God-saved women, are the instruments that God intends to use for this purpose. Let every man and every woman who lives today and makes daily efforts with the progress of the world, intellectually and commercially, fall in line with this movement and first see to it that your own hearts and homes are right in the sight of God. Let there be a standard of righteousness set up in every home. That pure, honest, and faithful man came from. Realizing that righteousness the foundation upon which every man must build, if he would be a factor for good in this world. The evening subject was, \"Problems that the church must solve.\" Textt, St. John 9:4. Effective work is the secret of success in church as well as in state affairs. In church you see that is needed to be done. Use the material you have at hand. Do the work and do it now."
+      "text": "Rev. T. B. Stovall receives his third appointment to Davenport as pastor of the A. M. E. church. The reverend preached two able sermons Sunday. Subject in the morning, \"Men and Religion Movement.\" He said in his speech that the students are face to face with obligations, with burdens that we ought not to excuse ourselves from. The world must be evangelized and God saved men and God-saved women, are the instruments that God intends to use for this purpose. Let every man and every woman who lives today and makes daily efforts with the progress of the world, intellectually and commercially, fall in line with this movement and first see to it that your own hearts and homes are right in the sight of God. Let there be a standard of righteousness set up in every home. That pure, honest, and faithful man came from. Realizing that righteousness the foundation upon which every man must build, if he would be a factor for good in this world. The evening subject was, \"Problems that the church must solve.\" Textt, St. John 9:4. Effective work is the secret of success in church as well as in state affairs. In church you see that is needed to be done. Use the material you have at hand. Do the work and do it now.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +210,8 @@
         2386
       ],
       "label": "text",
-      "text": "Miss Gertrude O'Nell of Evanson, Ill., is visiting her parents, Mr. and Mrs. Wm. O'Nell.\n\nRev. J. D. Peterson stopped on his wife's charge to pay his children a visit.\n\nRev. W. A. Searcy made a flying visit in Davenport on his return to his work in Monmouth.\n\nThe new presiding elder, Rev. I. N. Daniels, was guest of the T-Cities Committee.\n\nBethel A. M. E. church will have a week's fair beginning October 16th. There will be twelve booths, representing every line of business. All the tri-cities and communities are asked to look to Bethel.\n\nEverybody is asked to donate something special to the tri-cities attractions each night. On Wednesday evening, October 4th, will cup the reception to Pastor Stowall and family. This reception is open to everybody. Come and have the time"
+      "text": "Miss Gertrude O'Nell of Evanson, Ill., is visiting her parents, Mr. and Mrs. Wm. O'Nell.\n\nRev. J. D. Peterson stopped on his wife's charge to pay his children a visit.\n\nRev. W. A. Searcy made a flying visit in Davenport on his return to his work in Monmouth.\n\nThe new presiding elder, Rev. I. N. Daniels, was guest of the T-Cities Committee.\n\nBethel A. M. E. church will have a week's fair beginning October 16th. There will be twelve booths, representing every line of business. All the tri-cities and communities are asked to look to Bethel.\n\nEverybody is asked to donate something special to the tri-cities attractions each night. On Wednesday evening, October 4th, will cup the reception to Pastor Stowall and family. This reception is open to everybody. Come and have the time",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +221,8 @@
         421
       ],
       "label": "text",
-      "text": "of your life. A program in the auditorium and reception in the dining hall of the church.\nThe A. M. McLane is Mite Mitsuronian pastor is to be highly entertained. Friday evening, October 6th.\nThe Rev. A. N. McLane, of the Berenan Congregational church, will presach at 8 o'clock. Rev. McLane an English minister will feel towards the Negro in America. Admission free.\nRev. L. J. Phillips, ex-presiding elder, passed through Davenport on his way to his work in Milwaukee, where he will wish our Ex. P. E. God's blessings.\nMrs. C. H. Marshall, P. S. Mrs. Sae E. Cooper and Mrs. Mary Manard, both of Chicago, are visiting Mr. and Mrs. Ben Bright. The coroner, who has been employed on the Steamer Sidney, is home for the fall and winter."
+      "text": "of your life. A program in the auditorium and reception in the dining hall of the church.\nThe A. M. McLane is Mite Mitsuronian pastor is to be highly entertained. Friday evening, October 6th.\nThe Rev. A. N. McLane, of the Berenan Congregational church, will presach at 8 o'clock. Rev. McLane an English minister will feel towards the Negro in America. Admission free.\nRev. L. J. Phillips, ex-presiding elder, passed through Davenport on his way to his work in Milwaukee, where he will wish our Ex. P. E. God's blessings.\nMrs. C. H. Marshall, P. S. Mrs. Sae E. Cooper and Mrs. Mary Manard, both of Chicago, are visiting Mr. and Mrs. Ben Bright. The coroner, who has been employed on the Steamer Sidney, is home for the fall and winter.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +232,8 @@
         443
       ],
       "label": "paragraph_title",
-      "text": "CLARINDA ITEMS."
+      "text": "CLARINDA ITEMS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +243,8 @@
         799
       ],
       "label": "text",
-      "text": "Rev. J. P. Sims, our pastor of the M. E. church, arrived in our city last Saturday, and preached two very leremonies Sunday. We give him welcome to our city.\n\nA number of strangers were in our city last week attending the Page courthouse.\n\nMr. and Mra. E. B. Cook left on Saturday for Alba, where they will open up their hamburger stand during the Monroe county fair.\n\nMessrs. Jack and Lewis Arnett left Saturday for Alba, where they expect to attend the Monroe county fair.\n\nBuffalo Bill wild west show brought a number of strangers to our city Tuesday.\n\nRev. J. H. Bell and family left last Saturday for Oakalcoa, where the Rev. will pastor this year. Mrs. Allen Jones left for Buxton Wednesday he was accompanied by little Dewey Jones, who is in this city.\n\nMr. Henry Cook left for Omaha on Tuesday to attend the exhibit.\n\nMrs. Etta Jones and daughter, Mary, of Red Oak, is visiting relatives in this city."
+      "text": "Rev. J. P. Sims, our pastor of the M. E. church, arrived in our city last Saturday, and preached two very leremonies Sunday. We give him welcome to our city.\n\nA number of strangers were in our city last week attending the Page courthouse.\n\nMr. and Mra. E. B. Cook left on Saturday for Alba, where they will open up their hamburger stand during the Monroe county fair.\n\nMessrs. Jack and Lewis Arnett left Saturday for Alba, where they expect to attend the Monroe county fair.\n\nBuffalo Bill wild west show brought a number of strangers to our city Tuesday.\n\nRev. J. H. Bell and family left last Saturday for Oakalcoa, where the Rev. will pastor this year. Mrs. Allen Jones left for Buxton Wednesday he was accompanied by little Dewey Jones, who is in this city.\n\nMr. Henry Cook left for Omaha on Tuesday to attend the exhibit.\n\nMrs. Etta Jones and daughter, Mary, of Red Oak, is visiting relatives in this city.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +254,8 @@
         821
       ],
       "label": "paragraph_title",
-      "text": "College Sources in Politics"
+      "text": "College Sources in Politics",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +265,8 @@
         1080
       ],
       "label": "text",
-      "text": "To Columbia university belongs the credit of offering the first course designed to give students a practical knowledge of the conduct of political affairs. That institution has asked the bureau of municipal research in New York to give the members of the class the benefit of the experience it gained in the training of the fairs of that city, and the invitation has been accepted. The growing demand for the adoption of the scientific methods of city governments lends support to the view that college men will be in demand in this department of the public service, hence the propriety and usefulness of a university course on the conduct of political affairs indicated by the innovation at Columbia."
+      "text": "To Columbia university belongs the credit of offering the first course designed to give students a practical knowledge of the conduct of political affairs. That institution has asked the bureau of municipal research in New York to give the members of the class the benefit of the experience it gained in the training of the fairs of that city, and the invitation has been accepted. The growing demand for the adoption of the scientific methods of city governments lends support to the view that college men will be in demand in this department of the public service, hence the propriety and usefulness of a university course on the conduct of political affairs indicated by the innovation at Columbia.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +276,8 @@
         1110
       ],
       "label": "paragraph_title",
-      "text": "Haltiana a Lazy Lot"
+      "text": "Haltiana a Lazy Lot",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +287,8 @@
         1663
       ],
       "label": "text",
-      "text": "Sydney Brooks, writing to the London Chronicle about Haiti, says the Haitians were the first people in the world to abolish slavery, and Mrs. C. R. Miller, writing in Leslie's Weekly, says of Haiti: \"In that little republic covering about 10,000 square miles, within five years' sail of New York, one may encounter more strange complications and a greater disregard for human life than in the remote countries of the east. Situated in the very heart of the West Indies, where civilization exists in a high degree, the island has the most recent progress. She became an independent state more than 100 years ago, fierer lands were already under cultivation, but the lazies allowed the plantations to go to run, and for sets have grown up instead.\"\n\nFarm Employment for Criminals. Gov. Harris of Ohio believes that criminals can be employed on a farm with advantage to themselves and the state. He proposes that prisoners in the penitentiary who are not confined criminals be transferred to the reformatory and put to work on the state farm. \"It is the conditions of our cities that breed crime,\" says the governor. \"Most of it can be traced to idleness and drink, and idleness is frequently the cause of drink. There are many criminals who practically no idleness. If the young man who had slipped over the bounds of a law were taught scientific farming he would come to like it and escape the associates who carry him down when he returns to the city.\""
+      "text": "Sydney Brooks, writing to the London Chronicle about Haiti, says the Haitians were the first people in the world to abolish slavery, and Mrs. C. R. Miller, writing in Leslie's Weekly, says of Haiti: \"In that little republic covering about 10,000 square miles, within five years' sail of New York, one may encounter more strange complications and a greater disregard for human life than in the remote countries of the east. Situated in the very heart of the West Indies, where civilization exists in a high degree, the island has the most recent progress. She became an independent state more than 100 years ago, fierer lands were already under cultivation, but the lazies allowed the plantations to go to run, and for sets have grown up instead.\"\n\nFarm Employment for Criminals. Gov. Harris of Ohio believes that criminals can be employed on a farm with advantage to themselves and the state. He proposes that prisoners in the penitentiary who are not confined criminals be transferred to the reformatory and put to work on the state farm. \"It is the conditions of our cities that breed crime,\" says the governor. \"Most of it can be traced to idleness and drink, and idleness is frequently the cause of drink. There are many criminals who practically no idleness. If the young man who had slipped over the bounds of a law were taught scientific farming he would come to like it and escape the associates who carry him down when he returns to the city.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +298,8 @@
         1692
       ],
       "label": "paragraph_title",
-      "text": "Milk an Intoxicant."
+      "text": "Milk an Intoxicant.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +309,8 @@
         1931
       ],
       "label": "text",
-      "text": "New York City alone consumes an\namount 840,000,000 quarts of milk. We drink 2,300,000 quarts a day. And\nthis does not include mothers' milk for infants; just cows' milk\u2014watered and unwatered, for both infants and adults. \"Milk\" says Emerson. \"It readily made intoxicating in warm climates simply by agitation. This feature was quickly discovered.\" Being placed in a skin and slung from the shoulder or over the back, it was agitated by the motion of the hunter, and fermentation was soon well under way. The skin was undoubtedly nond too clean, some milk of the previous day being left in it, which would not as a leaver."
+      "text": "New York City alone consumes an\namount 840,000,000 quarts of milk. We drink 2,300,000 quarts a day. And\nthis does not include mothers' milk for infants; just cows' milk\u2014watered and unwatered, for both infants and adults. \"Milk\" says Emerson. \"It readily made intoxicating in warm climates simply by agitation. This feature was quickly discovered.\" Being placed in a skin and slung from the shoulder or over the back, it was agitated by the motion of the hunter, and fermentation was soon well under way. The skin was undoubtedly nond too clean, some milk of the previous day being left in it, which would not as a leaver.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,27 +320,19 @@
         1956
       ],
       "label": "paragraph_title",
-      "text": "Good for Billiousness."
+      "text": "Good for Billiousness.",
+      "status": "ok"
     },
     {
       "bbox": [
         566,
         1960,
         790,
-        2068
-      ],
-      "label": "text",
-      "text": "\"I took two of Chamberlain's Stomach and Liver Tablets last night, and I feel fifty per cent, than I have for weeks, says J. J. Firestone of Allegan, Mich. \"They are certainly a fine article for billiousness.\" For sale by all dealers."
-    },
-    {
-      "bbox": [
-        566,
-        2202,
-        787,
         2375
       ],
       "label": "text",
-      "text": "FOR PERSONS AND BUSSSES SHOULD NOT BE SUPPLIED OR USED\nWITH THE PRODUCTS OR INSTRUCTIONS\nAND 20 BOTTLES WITH CHARLES FORD'S PRODUCT\nEVERY PACKAGE:\n\nTRY FORD'S ROYAL WHITE\nLOTION FOR THE COMPLEXION,\nUPON APPLICATION WILL NOT INITIATE\nTHE MOST DELICATE SKIN, UNEXKILLED\nFOR EZZEMA, BALE SALT, PIMPLES,\nROUGH SKIN AND PRECIOUS SKIN\nTHE MOST CAPABLE WE WILL USE IS IT YOUR JEWEL\nTHE FOLLOWING FRESH SKIN INTEGRAL SKIN OR NETIAL\nTHE FOLLOWING FRESH SKIN INTEGRAL SKIN OR NETIAL\nTHE FOLLOWING FRESH SKIN INTEGRAL SKIN OR NETIAL\nTHE FOLLOWING FRESH SKIN INTEGRAL SKIN OR NETIAL"
+      "text": "\"I took two of Chamberlain's Stomach and Liver Tablet last night, and I feel fifty per cent, than I have for weeks, says J. Firestone of Allegan, Mich. \"They are certainly a fine article for biliousness.\" For sale by all dealers.\n\nFORD'S HAIR POMADE\nMAKES HORSE NUNITY OR CROWN FLAME, GUNTER, SALTER AND PLUMAGE, LAST TO GROW AND NOT UP BY A YEAR\nFOR PREVENTION FROM BROOKS FLAWS AND COMBATION\nFOR PREVENTION FROM BROOKS FLAWS AND COMBATION\nFOR SCALE RELEASE OF RESTORATION, SET THE CERTAIN UP TO 100 AND 50 WITHERS FROM CHAMES FORD'S EVERY PACKAGE.\n\nFORD'S ROWAL WHITE\nSKIN LOTION FOR THE CORRECTION, MAKES THE SKIN WATER IMmediately UPON APPLICATION, WILL NOT IGNITATE THE MOST DELICATE SKIN, UNEXCEEDED FOR EBZEMBA, BALY ANIMAL, PHILIPPE, SOLD BY DRUGESTE. IF YOUR DRUGGESTE CANNOT SUPPLY YOU WILL BE SHELL TO IT FOR ATTENTION AT THE BOX GROUND OF THE CITY OF CALGARY, CALGARY, 91777.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,27 +342,30 @@
         1850
       ],
       "label": "doc_title",
-      "text": "Magic Hair Grower and Straightening"
+      "text": "Magic Hair Grower and Straightening",
+      "status": "ok"
     },
     {
       "bbox": [
         805,
-        2075,
+        1862,
         1129,
         2229
       ],
       "label": "text",
-      "text": "MME. JOHNSON & SOUTH\n\nThe most hair preparations on the market. When we ask Magic we do two things, as you can see great results in the first few treatments. We guarantee that Magic hair grower to stop the hair at once from falling off and breaking off much hair and silk. Magic Hair Grower grows hair on laid places of the back you use these preparations once you will never be without them. Magic Hair Grower and Straightening Oil are manufactured only by Mendan-South & Johnson. We also do scalp treating.\n\nMAGIC Hair Grower 800. STRAIGHTENING OIL 800.\n\nAll orders promptly filled send 10c for postage. Money must accompany all orders. AGENTS WANTED-Write for particular."
+      "text": "MM. JOHNSON & SOUTH\n\nThe most wonderful hair preparations on the market. When we say Magic we do not exaggerate, as you can see great results for their few treatments. We guarantee Magic Hair grower to stop the hair once from falling out and breaking off, making harsh stubborn hair soft and silky. Magic Hair Grower grows hair on hard places of the head, if we these preparations once you will never be without them. Magic Hair Grower and Streakkerhon 001 are manufactured only by Meadam South & Johnson. We also do scalp treating.\n\nMAGIC HAIR GROWER 800. STRAIGHTENING OIL 850.\n\nAll orders promptly filled, send 10c for postage. Money must accompany all orders. AGENTS WANTED\u2014Write for particulars.",
+      "status": "ok"
     },
     {
       "bbox": [
-        788,
+        791,
         156,
-        1016,
+        1015,
         721
       ],
       "label": "text",
-      "text": "\"He has enlisted success, who has lived long, laughed often, and loved much; who has gained the trust of pure women, the respect of intelligent men, and the love of little children; who has called his niche and accomplished his task; who has left the world better than he found it, whether by an improved puppy, a perfect poem, or a rescued soul; who has earned lactured appreciation it; who has not failed to express it; who has not looked for the best in others and given the best he had; whose life was an inspiration; whose memory is benediction.\"\u2014Beanie A. Stanley.\n\n\"Senator Foraker's Political Life is an Open Book.\"\n\nChe Foraker Cafe\nM. G. RUTLedge, Sr. Prop. and Mar.\n214 Third Street South.\nElectric Lights. Meals Served at all hours. Agency for Colored Magazines and Journals.\nTelephone N. W. Main 527.\nEstablished 1908. Minneapolis.\nOPEN ALL NIGHT Mon.\n\nDon't trifle with a cold is good advice for prudent men and women. It may be vital in case of a \"child. There is nothing better than Chamberlain's Crumb Remedy for coughs and colds in children. It is safe and sure. For sale by all dealers."
+      "text": "\"He has enlisted success, who has lived long, laughed often, and loved much; who has gained the trust of pure women, the respect of intelligent men, and the love of little children; who has called his niche and accomplished his task; who has left the world better than he found it, whether by an improved puppy, a perfect poem, or a rescued soul; who has earned lactured appreciation it; who has not failed to express it; who has not looked for the best in others and given the best he had; whose life was an inspiration; whose memory is benediction.\"\u2014Beanie A. Stanley.\n\n\"Senator Foraker's Political Life is an Open Book.\"\n\nChe Foraker Cafe\nM. G. RUTLedge, Sr. Prop. and Mar.\n214 Third Street South.\nElectric Lights. Meals Served at all hours. Agency for Colored Magazines and Journals.\nTelephone N. W. Main 527.\nEstablished 1908. Minneapolis.\nOPEN ALL NIGHT Mon.\n\nDon't trifle with a cold is good advice for prudent men and women. It may be vital in case of a \"child. There is nothing better than Chamberlain's Crumb Remedy for coughs and colds in children. It is safe and sure. For sale by all dealers.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +375,8 @@
         758
       ],
       "label": "paragraph_title",
-      "text": "ORIGINAL NOTICE"
+      "text": "ORIGINAL NOTICE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +386,8 @@
         1021
       ],
       "label": "text",
-      "text": "In the District Court of the State of Iowa, in and for Polk County, November term. A. D., 1911, Luecki Robinson vs. Deck Robinson. To Doek Robinson, defendant, you to Doek Robinson, defendant, that the petition of the plaintiff in the above entitled cause is now filed in the office of the Clerk of the District Court of the State of Iowa, in and for Polk County, Iowa, claiming of you a divorce from the bonds of married women on the ground of willful desertion without a cause, and unless you appear thereto and defend before noon of the second day of the next term of said court, which will commence at Des Moines on the willday day of the second day of the petitioned against you and judgment and decree rendered thereon."
+      "text": "In the District Court of the State of Iowa, in and for Polk County, November term. A. D., 1911, Luecki Robinson vs. Deck Robinson. To Doek Robinson, defendant, you to Doek Robinson, defendant, that the petition of the plaintiff in the above entitled cause is now filed in the office of the Clerk of the District Court of the State of Iowa, in and for Polk County, Iowa, claiming of you a divorce from the bonds of married women on the ground of willful desertion without a cause, and unless you appear thereto and defend before noon of the second day of the next term of said court, which will commence at Des Moines on the willday day of the second day of the petitioned against you and judgment and decree rendered thereon.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +397,8 @@
         1067
       ],
       "label": "paragraph_title",
-      "text": "ORIGINAL NOTICE."
+      "text": "ORIGINAL NOTICE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +408,8 @@
         1350
       ],
       "label": "text",
-      "text": "In the District Court of the State of Iowa, in and for Polk County, November term, 1911, Sils Wade vs. Clara Wade, Original Notice.\n\nTo Clara Wade, defendant, you are hereby notified that the petition of the plaintiff will now file in the office of the Clerk of the District Court of the State of Iowa, in and for Polk County, Iowa, claiming you a divorce from the bonds of matrimony, now existing between you, on the ground of wilful desertion, without assent, and sales\u4f60 you of the second day of the next term, being the November term of said court, which will commence at Des Moines TWO. Bystander. Sept. 21. R M C on the sixth day of November, 1911, default will be entered against you and judgment and degree rendered thereon."
+      "text": "In the District Court of the State of Iowa, in and for Polk County, November term, 1911, Sils Wade vs. Clara Wade, Original Notice.\n\nTo Clara Wade, defendant, you are hereby notified that the petition of the plaintiff will now file in the office of the Clerk of the District Court of the State of Iowa, in and for Polk County, Iowa, claiming you a divorce from the bonds of matrimony, now existing between you, on the ground of wilful desertion, without assent, and sales\u4f60 you of the second day of the next term, being the November term of said court, which will commence at Des Moines TWO. Bystander. Sept. 21. R M C on the sixth day of November, 1911, default will be entered against you and judgment and degree rendered thereon.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +419,8 @@
         1407
       ],
       "label": "text",
-      "text": "Attorney for Plaintiff.\n\nTRI-STATE ALL HOME\nPHONE 2718 COOKING"
+      "text": "Attorney for Plaintiff.\n\nTRI-STATE ALL HOME\nPHONE 2718 COOKING",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,17 +430,41 @@
         1563
       ],
       "label": "text",
-      "text": "Elegant Regular and A La Carte Meals for Ladies and Gentlemen . . . . . . . . . Meals 25c up 135 East Third St. St.Paul, Minn"
+      "text": "Elegant Regular and A La Carte Meals for Ladies and Gentlemen . . . . . . . . . Meals 25c up 135 East Third St. St.Paul, Minn",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        794,
+        1626,
+        1016,
+        1784
+      ],
+      "label": "text",
+      "text": "The very best service guaranteed. Prices the lowest Calls answered promptly day or night. No extra charges for distance-Reverse all phone charges. Phone East 2548. Office 519 East Court Des Moines Ia",
+      "status": "ok"
     },
     {
       "bbox": [
         788,
-        1626,
-        1016,
-        2028
+        1784,
+        1019,
+        2378
       ],
       "label": "text",
-      "text": "The very best service guaranteed. Prices the lowest. Calls answered promptly day or night. No extra charges for distance-Reverse all phone charges. Phone East 2548.\nOffice 519 East Court Des Moines Iowa\n\nMagic Hair Grower"
+      "text": "Magic Hair Grower and\n\nMKK. JOHNSON & SOUTH\n\nThe most wonderful hair preparations on the Magic we do not exaggerate, as you can see for all treatments. We guarantee Magic Hair grows once from selling oils and beating oil, mixing and silky. Magic Hair Grower grows hair on you use these preparations once you will never Hair Grower and Straightening Oil are manufactured South & Johnson. We also do scalp treating.\n\nMAGIC Hair GROWER 800.\n\nAll orders promptly filled; send 100 for post pay all orders.\n\nAGENTS WANTED\u2014WHITE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        788,
+        2378,
+        1019,
+        2499
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +474,8 @@
         162
       ],
       "label": "paragraph_title",
-      "text": "BUSINESS ESSENTIALS."
+      "text": "BUSINESS ESSENTIALS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +485,8 @@
         354
       ],
       "label": "text",
-      "text": "Right Chale, Knowledge and Env-\nsibility Necessary to Success.\nBy N. BARNETT DODSON.\nWith public and high schools,\nacademics, colleges and universities,\nagricultural schools, farmers institutes\nand local businesses leagues in all\nsections of the country there is no re-\nasonable excuse for any one remaining\nignorant. Efficiency is the watch-\nword of the times. Competition is\nclose, and therefore business methods\nare more exacting than they were a\ndecade ago."
+      "text": "Right Chale, Knowledge and Env-\nsibility Necessary to Success.\nBy N. BARNETT DODSON.\nWith public and high schools,\nacademics, colleges and universities,\nagricultural schools, farmers institutes\nand local businesses leagues in all\nsections of the country there is no re-\nasonable excuse for any one remaining\nignorant. Efficiency is the watch-\nword of the times. Competition is\nclose, and therefore business methods\nare more exacting than they were a\ndecade ago.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +496,8 @@
         535
       ],
       "label": "text",
-      "text": "In every ambitious movement in business, society, church, state or nation there is a striving for the master, and the person that is not master, make the sacrifice necessary to make his competence with or exert his competence will have to be satisfied with second, third or the last place in the line of commercial endeavor or what not. There should be no middle ground in business, no motionless riod, for unrest is written in the doom-post of every reputable business estab-"
+      "text": "In every ambitious movement in business, society, church, state or nation there is a striving for the master, and the person that is not master, make the sacrifice necessary to make his competence with or exert his competence will have to be satisfied with second, third or the last place in the line of commercial endeavor or what not. There should be no middle ground in business, no motionless riod, for unrest is written in the doom-post of every reputable business estab-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +507,8 @@
         914
       ],
       "label": "text",
-      "text": "While some of our strongest and longest established business concerns have either failed or ceased to exist for other reasons, the great bulk of Afro-American industry remains solid. Some have gone under because of lack of funds, others doubtless on account of being in the hands of inexperienced persons. In either case there is a lesson for the coming business man, who, if wise, will use these drawbacks as stepping stones upon which he will rise to success in the business world. Again, many persons fall in life because of a wrong choice. We should consider well the kind of business he wishes to enter, the character and possibilities for the development and his knowledge of and ability to conduct the business which he chooses. These are essentials of the first importance. Many persons go into business simply because they see others succeeding along certain lines without reference to any or either of the foregoing necessary qualifications. This is a mistake which is bound to result fatally, leaving discouragement if not disaster in its wake."
+      "text": "While some of our strongest and longest established business concerns have either failed or ceased to exist for other reasons, the great bulk of Afro-American industry remains solid. Some have gone under because of lack of funds, others doubtless on account of being in the hands of inexperienced persons. In either case there is a lesson for the coming business man, who, if wise, will use these drawbacks as stepping stones upon which he will rise to success in the business world. Again, many persons fall in life because of a wrong choice. We should consider well the kind of business he wishes to enter, the character and possibilities for the development and his knowledge of and ability to conduct the business which he chooses. These are essentials of the first importance. Many persons go into business simply because they see others succeeding along certain lines without reference to any or either of the foregoing necessary qualifications. This is a mistake which is bound to result fatally, leaving discouragement if not disaster in its wake.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +518,8 @@
         951
       ],
       "label": "paragraph_title",
-      "text": "Mara Earthquakes in France"
+      "text": "Mara Earthquakes in France",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +529,8 @@
         1371
       ],
       "label": "text",
-      "text": "Toulon.\u2014Slight scale shocks occurred on Monday in Draguignan, Vancille and Puy-St-Reparauda. No damage is reported, but the residents were painstruck.\n\n60 YEARS' EXPERIENCE\nPATENTS\nTRADE MARKS\nAND COPYRIGHTS & C.\nAnyone sending a sketch and description may be charged for possible patent infringement is probable potential. Compensation is possible from the agency for receiving patent. Oversee agency for receiving patent. Patents taken by Co. receive presided upon, without charge, in lieu of Scientific American.\nA licensed intellectual property by Jensen Corporation or any scientific journal. Terms, $3 a year. Four months, $1. Sold by mail newaddress.\nMUNN & CO. 311Broadway, New York Branch Office, 68 F. St., Washington, J.J. C."
+      "text": "Toulon.\u2014Slight scale shocks occurred on Monday in Draguignan, Vancille and Puy-St-Reparauda. No damage is reported, but the residents were painstruck.\n\n60 YEARS' EXPERIENCE\nPATENTS\nTRADE MARKS\nAND COPYRIGHTS & C.\nAnyone sending a sketch and description may be charged for possible patent infringement is probable potential. Compensation is possible from the agency for receiving patent. Oversee agency for receiving patent. Patents taken by Co. receive presided upon, without charge, in lieu of Scientific American.\nA licensed intellectual property by Jensen Corporation or any scientific journal. Terms, $3 a year. Four months, $1. Sold by mail newaddress.\nMUNN & CO. 311Broadway, New York Branch Office, 68 F. St., Washington, J.J. C.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,27 +540,52 @@
         1392
       ],
       "label": "paragraph_title",
-      "text": "WE SEND"
+      "text": "WE SEND",
+      "status": "ok"
     },
     {
       "bbox": [
         1019,
         1392,
         1243,
+        1786
+      ],
+      "label": "text",
+      "text": "SWITCHES\nand COIFFURES\nAll over the United States, Prepaid\nON APPROVAL\n(Examination Free.)\nHIGH CLASS HAIR GOODS.\nMODERATE PRICES\nSend sample of hair with a\nfew particulars; we will make\nan artistic selection and guar-\nantee satisfaction. We send\nthe hair to you prepaid on ap-\nproval. If you find it perfectly\nsatisfactory and a bargain\nremit the price. If not return\nat our expense.\nWe offer a 32 inch switch,\nlike cut, of natural wavy hu-\nman hair to match any\nordinary shade. $1.98\nTHE OLIVE HAIR CO.,\n608 Nice Ave., Minneapolis, Minn.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1024,
+        1860,
+        1235,
+        2385
+      ],
+      "label": "text",
+      "text": "market. When we say great results in the first vor to stop the hair at sarah stubborn hair only places of the head, 1 hair without them. Make sure only by Measame- WETTING OIL BSC. 1. Money must accompany particulars.\n\nWe carry everything in the latest fashionable hair goods at the lowest prices.\n\nWe make switches, puffs, transformation curls, coronet braids, and combings made to order, matching all shades a specialty. Send sample of hair with all orders.\n\n2405 Blondie Street\nPhone Webster 830. Omaha, Neb.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1019,
+        2385,
+        1243,
         2499
       ],
       "label": "text",
-      "text": "SWITCHES\nand COIFFURES\nAll over the United States, Prepaid\nON APPROVAL\n(Examination Free.)\nHIGH CLASS HAIR GOODS.\nMODERATE PRICES\nSend sample of hair with a few particulars; we will make an artistic selection and guarantee satisfaction. We send the hair to you prepaid on approval. If you find it perfectly satisfactory and a bargain remit the price. If not return at our expense.\nWe offer a 22 inch switch, like cut, of natural wavy human hair to match any ordinary shade....... $1.98\nTHE OLIVE HAIR CO.,\n608 Nic. Ave., Minneapolis, Minn.\n\nand Straightening Oil\n\nFEE:\nIn market. When we say great results in the first move to stop the hair from harsh strokes, we will pick up places of the head. I do without them. Make sure stored only by MeasLame.\nSTRETTING OIL 800.\nAGE: Money must accompany for particulars.\n\nWe carry everything in the latest fashionable hair goods at the lowest prices.\nWe make switches, puffs, transformation curls, cornet braids, and combings made to order, matching all shades a specialty. Send sample of hair with all orders.\n\n2405 Blondo Street\nPhone Webster 830. Omaha, Nebr."
+      "text": "```markdown\n\n```",
+      "status": "ok"
     },
     {
       "bbox": [
         1249,
-        2020,
+        1781,
         1698,
         2179
       ],
       "label": "text",
-      "text": "When we first began our wonderful work of growing all kinds, all qualities all lengths, and all conditions of hair, even to the growing of hair on hair places of the head, many persons scorned the idea that such a thing was worth bleb but we have grown the hair for hundreds, rapidly achieving success. The proof of the value of our work is that we are being imitated and largely by persons whose own hair we have actually grown and the further fact that they have very frequently mentioned us when trying to sell their goods (saying that theirs is the same or \"just as good\") or referred to PORO. We advise you we use only PORO Hair Grower, (the oldest and best of its kind.) See that the same PORO is on every box, not genuine without it. Prepared only by Mrs. M. POPE."
+      "text": "THE ORIGINAL HAIR GROWER\nWe Grew Our Hair\nNow Let Us Grow\nYours with\nPORO\nTRADE MARK\nREGISTERED.\n\nWhen we first began our wonderful work of growing all kinds, all qualities, all lengths, and all conditions of hair, even to the growing of hair on hair places of the head, many persons scorned the idea that such a thing was possible but we have grown the hair for hundreds; rapidly achieving success. The proof of the value of our work is that we are being imitated and largely by persons whose own hair we have actually grown and the further fact that they have very frequently mentioned us when trying to sell their goods (saying theirs is the same or \"just as good\") or referred to PORO. We advise you to use only PORO Hair Grower, (the oldest and best of its kind.) See that the name PORO is on every box, not genuine without it. Prepared only by Mrs. A. M. POPE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +595,8 @@
         194
       ],
       "label": "doc_title",
-      "text": "Watches...."
+      "text": "Watches....",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,17 +606,19 @@
         292
       ],
       "label": "text",
-      "text": "That you will be proud to carry and at prices that you can afford to buy.\n=Come in and see the wonderful showing we are making on"
+      "text": "That you will be proud to carry and at prices that you can afford to buy.\n=Come in and see the wonderful showing we are making on",
+      "status": "ok"
     },
     {
       "bbox": [
-        1276,
+        1265,
         342,
-        1442,
-        445
+        1456,
+        506
       ],
       "label": "text",
-      "text": "watches. If you are thinking of buying a watch now or later, your chance is here now. You will have no better opportunity this Spring. Crime in now and pick it out."
+      "text": "watches. If you are thinking of buying a watch now\u2014 or later, your chance is here now. You will have no better opportunity this Spring. Crime in now and pick it out Schlampp's",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +628,8 @@
         518
       ],
       "label": "text",
-      "text": "Sixth and Locust St."
+      "text": "Sixth and Locust St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +639,8 @@
         657
       ],
       "label": "text",
-      "text": "Why do we have pasted forever. He writes me to send back the ring.\" \"Tel him to call for it,\" advised the experienced friend.\u2014Louisville Coe rier Journal."
+      "text": "Why do we have pasted forever. He writes me to send back the ring.\" \"Tel him to call for it,\" advised the experienced friend.\u2014Louisville Coe rier Journal.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +650,8 @@
         682
       ],
       "label": "paragraph_title",
-      "text": "Would Beam 80."
+      "text": "Would Beam 80.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,7 +661,8 @@
         710
       ],
       "label": "text",
-      "text": "Crawford -Do the rich know how\nthe other half live?"
+      "text": "Crawford -Do the rich know how\nthe other half live?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,7 +672,8 @@
         1091
       ],
       "label": "text",
-      "text": "Crabshaw\u2014After taking their money from them they must be able to form some idea of how they are compelled to live\u2014Puck\n\nAncient Uses of Bloodnounds\nAlthough the use of bloodnounds for tracking criminals still survives, another ancient use of these dogs seems to have died out. Bloodnounds were at one time often called upon to assist an army in the field, the forces with which the art of Essex suppressed the Irish rebellion in the time of King Bothwath, for instance, being accompanied by 800 dogs. In the Scotch-Irish feuds and the wars between England and Scotland bloodnounds were regularly employed in tracking fugitive warriors, and both Wallace and Bruce were hunted in this manner. Wallace is said to have baffled his pursuers by killing a follower and leaving the corps for the hound to find, while Bruce adopted the less erudite plan of wading some distance down a stream and ascending a tree which overhang the water"
+      "text": "Crabshaw\u2014After taking their money from them they must be able to form some idea of how they are compelled to live\u2014Puck\n\nAncient Uses of Bloodnounds\nAlthough the use of bloodnounds for tracking criminals still survives, another ancient use of these dogs seems to have died out. Bloodnounds were at one time often called upon to assist an army in the field, the forces with which the art of Essex suppressed the Irish rebellion in the time of King Bothwath, for instance, being accompanied by 800 dogs. In the Scotch-Irish feuds and the wars between England and Scotland bloodnounds were regularly employed in tracking fugitive warriors, and both Wallace and Bruce were hunted in this manner. Wallace is said to have baffled his pursuers by killing a follower and leaving the corps for the hound to find, while Bruce adopted the less erudite plan of wading some distance down a stream and ascending a tree which overhang the water",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -552,7 +683,8 @@
         1121
       ],
       "label": "paragraph_title",
-      "text": "No More Gold Lace for Afghans."
+      "text": "No More Gold Lace for Afghans.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -562,7 +694,8 @@
         1607
       ],
       "label": "text",
-      "text": "The amoe has published an edited which applies to all parts of Afghanistan, prohibiting the import into the country of all kinds of gold face, including embroidered kullas limgia and embroidered shoes. The amoe is evidently actuated by a desire to prevent his subjects from spending their hard earned money on showy dress. It is the poorer classes who are accidentally addicted to the gold face, the nobility has decided to check. The gold laced coat of the Afghan is decidedly handmade, and although the amoe has acted wisely in bringing into general use clothing less costly, his majesty's orders will doubt less be received by his subjects with rather mixed feelings.\n\nProper Bestowal of Charity.\nDickens: There are not a few among the disciples of charity who require in their vocation, scarcely less excitement than the votaries of pleasure in theirs; and hence it is that diseased sympathy and compassion are every day expended on out-of-the way objects, when only too many demands upon the legitimate exercise of the amoe are being met, and constantly within the sight and hearing of the most unobeservant person alive. In short, charity must have romance, as the novellist or the playwright must have his."
+      "text": "The amoe has published an edited which applies to all parts of Afghanistan, prohibiting the import into the country of all kinds of gold face, including embroidered kullas limgia and embroidered shoes. The amoe is evidently actuated by a desire to prevent his subjects from spending their hard earned money on showy dress. It is the poorer classes who are accidentally addicted to the gold face, the nobility has decided to check. The gold laced coat of the Afghan is decidedly handmade, and although the amoe has acted wisely in bringing into general use clothing less costly, his majesty's orders will doubt less be received by his subjects with rather mixed feelings.\n\nProper Bestowal of Charity.\nDickens: There are not a few among the disciples of charity who require in their vocation, scarcely less excitement than the votaries of pleasure in theirs; and hence it is that diseased sympathy and compassion are every day expended on out-of-the way objects, when only too many demands upon the legitimate exercise of the amoe are being met, and constantly within the sight and hearing of the most unobeservant person alive. In short, charity must have romance, as the novellist or the playwright must have his.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -572,27 +705,19 @@
         1632
       ],
       "label": "paragraph_title",
-      "text": "A Friend to Negroes"
+      "text": "A Friend to Negroes",
+      "status": "ok"
     },
     {
       "bbox": [
         1247,
         1630,
         1470,
-        2013
+        1769
       ],
       "label": "text",
-      "text": "Lew Arntz, the well known Doctor of Optics, believes in treating the colored people the same as whites. This is evidenced by the fact, he offers to sell or rent to black or white alike, his residence at 3215 Fourth St., Highland Park, which contains city water, sewer, gas, barn, etc., for $1250, on monthly payments of $10."
-    },
-    {
-      "bbox": [
-        1477,
-        200,
-        1695,
-        337
-      ],
-      "label": "text",
-      "text": "Official paper of the M. W. J. Gr.\nLodge of Iowa, A. P. & A. M., and\nInternational Grand Congress of\nHercules of America,\nand Western Baptist Association.\nPublished every Friday by the Bp.\nstander Publishing Company,\nDe Moines, Iowa. Office in Chemical\nbuilding, corner Seventh and Mud\nberry streets. Iowa phone, Was-\nnut 899."
+      "text": "Low Arntz, the well known Doctor of Optics, believes in treating the colored people the same as whites. This is evidenced by the fact, he offers to sell or rent to black or white alike, his residence at 3215 Fourth St., Highland Park, which contains city water, sewer, gas, barn, etc., for $1280, on monthly payments of $10. tf",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -602,7 +727,8 @@
         862
       ],
       "label": "text",
-      "text": "Published every Friday by the Bp stands. Publisher, Company, Des Moines, Mo. Chemical building, corner Seventh and Maberry streets. Iowa phone, Wau nut 899.\n\nJOHN L. THOMPSON, EDITOR.\nJ. H. SHEPARD, MANAGER.\n\nEntered at the postoffice as soon and class matter.\n\nTERMS OF SUBSCRIPTION.\nOne year. $1.50.\nThree months. $75.\nAll subscriptions payable in advance.\nSend money by postoffice order, money order, express or draft.\nAll postmaster Company, Des Moines, Iowa.\n\nwe are prepared to do new-class job work at reasonable prices. All of our work is guaranteed.\n\nAdvertising rates for display ad 20 cents per inch, for each insertion. Three to six months' contract. 15 cents per inch. Local advertising insertion. counting seven words to a litter. churches and secret societies where admission is charged, one-half of the above-mentioned rates. For professional, legal and announcement careers, terms are given on application. A advertising is to be paid in advance.\n\nN. B. Correspondents: Please mail your latest notice for publication not later than day night to insure publication for the current week; and sign your name, not for publication, but that we may know who writes the news. Communication must be written in English, and be of interest to the public. \"Bruisy is the soul of wit.\" remember."
+      "text": "Published every Friday by the Bp stands. Publisher, Company, Des Moines, Mo. Chemical building, corner Seventh and Maberry streets. Iowa phone, Wau nut 899.\n\nJOHN L. THOMPSON, EDITOR.\nJ. H. SHEPARD, MANAGER.\n\nEntered at the postoffice as soon and class matter.\n\nTERMS OF SUBSCRIPTION.\nOne year. $1.50.\nThree months. $75.\nAll subscriptions payable in advance.\nSend money by postoffice order, money order, express or draft.\nAll postmaster Company, Des Moines, Iowa.\n\nwe are prepared to do new-class job work at reasonable prices. All of our work is guaranteed.\n\nAdvertising rates for display ad 20 cents per inch, for each insertion. Three to six months' contract. 15 cents per inch. Local advertising insertion. counting seven words to a litter. churches and secret societies where admission is charged, one-half of the above-mentioned rates. For professional, legal and announcement careers, terms are given on application. A advertising is to be paid in advance.\n\nN. B. Correspondents: Please mail your latest notice for publication not later than day night to insure publication for the current week; and sign your name, not for publication, but that we may know who writes the news. Communication must be written in English, and be of interest to the public. \"Bruisy is the soul of wit.\" remember.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -612,7 +738,8 @@
         1243
       ],
       "label": "text",
-      "text": "We will not return rejected manuscript, unless accompanied by postage stamps.\n\nThe Iowa State Bystander is the oldest Afro-American journal published in Iowa. It was established in 1894, and is read by nearly all the colored people of Iowa. We have correspondents in the following town:\n\nAlbia          Miss May Davis\nFt. Madison    Miss Lulu Williams\nOaklanda      Luella B. Franklin\nWashington      N. L. Black\nBurlington    Mrs. J. E. Johns\nMoberly, Mo.  Mrs. M. Eta Bolden\nMt. Pleasant    Mrs. M. Musdall Bursage\nMonmouth, Ill.  Georgia Norwood\nGalesburg, Ill.  Mayme Richardson\nCedar Rapids    Mrs. H. Horse\nPeoria, Ill.    Miss Bell Lee\nDavenport    Mrs. C. H. Marshal\nSt. Paul        Mrs. Q. H. Hicks\nMinneapolis    H. K. Hicks\nJackson Island  Mrs. W. H. Mow\nMoline, Ill.  Miss Mabile Tarvet\nSloug'r City  Miss Etta Grant\nClinton        A. A. Bush\nOttumwa        Miss Lorena Viscosa"
+      "text": "We will not return rejected manuscript, unless accompanied by postage stamps.\n\nThe Iowa State Bystander is the oldest Afro-American journal published in Iowa. It was established in 1894, and is read by nearly all the colored people of Iowa. We have correspondents in the following town:\n\nAlbia          Miss May Davis\nFt. Madison    Miss Lulu Williams\nOaklanda      Luella B. Franklin\nWashington      N. L. Black\nBurlington    Mrs. J. E. Johns\nMoberly, Mo.  Mrs. M. Eta Bolden\nMt. Pleasant    Mrs. M. Musdall Bursage\nMonmouth, Ill.  Georgia Norwood\nGalesburg, Ill.  Mayme Richardson\nCedar Rapids    Mrs. H. Horse\nPeoria, Ill.    Miss Bell Lee\nDavenport    Mrs. C. H. Marshal\nSt. Paul        Mrs. Q. H. Hicks\nMinneapolis    H. K. Hicks\nJackson Island  Mrs. W. H. Mow\nMoline, Ill.  Miss Mabile Tarvet\nSloug'r City  Miss Etta Grant\nClinton        A. A. Bush\nOttumwa        Miss Lorena Viscosa",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -622,7 +749,8 @@
         1263
       ],
       "label": "paragraph_title",
-      "text": "Willing to Oblige"
+      "text": "Willing to Oblige",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -632,7 +760,8 @@
         1406
       ],
       "label": "text",
-      "text": "\"When you feels any temptations comin' along,\" said the frind and so viser, \"you mus' say: 'Get the belm me, Satan.'\"\n\n\"Da's what I done said,\" answered Mr. Erasmus Pinkley, \"an 'dun I maghses, I hybus Satan answer me back way, nowoh. We both know same way, nowoh, 'it' or'm uso diffence to me which leds de subsiexsion.\""
+      "text": "\"When you feels any temptations comin' along,\" said the frind and so viser, \"you mus' say: 'Get the belm me, Satan.'\"\n\n\"Da's what I done said,\" answered Mr. Erasmus Pinkley, \"an 'dun I maghses, I hybus Satan answer me back way, nowoh. We both know same way, nowoh, 'it' or'm uso diffence to me which leds de subsiexsion.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,7 +771,8 @@
         1487
       ],
       "label": "doc_title",
-      "text": "McCall's Magazine and McCall Patterns"
+      "text": "McCall's Magazine and McCall Patterns",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -652,7 +782,8 @@
         1764
       ],
       "label": "text",
-      "text": "For Women\nHave More Friends than any other magazine or patterns. McCall's is the reliable fashion Guide monthly is one million one hundred thousand homes. Besides showing all the latest designs of McCall Patterns, each issue is brimful of sparkling short stories and helpful information for women.\nSave Money and Keep Style by attending McCall's. This is a year, including any one of the celebrate McCall Patterns free.\nMcCall Patterns: Lead all others in style, pride, and fun. More designers sell McCall Patterns than any other two magazines combined. Nine more than 19 cents from your door.\nMcCALL'S MAGAZINE\n238-248 W. 31th St., New York City\nKnopf-Sample Copy, Presswood, Queens and Patterson Avenue, no reprint."
+      "text": "For Women\nHave More Friends than any other magazine or patterns. McCall's is the reliable fashion Guide monthly is one million one hundred thousand homes. Besides showing all the latest designs of McCall Patterns, each issue is brimful of sparkling short stories and helpful information for women.\nSave Money and Keep Style by attending McCall's. This is a year, including any one of the celebrate McCall Patterns free.\nMcCall Patterns: Lead all others in style, pride, and fun. More designers sell McCall Patterns than any other two magazines combined. Nine more than 19 cents from your door.\nMcCALL'S MAGAZINE\n238-248 W. 31th St., New York City\nKnopf-Sample Copy, Presswood, Queens and Patterson Avenue, no reprint.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -662,7 +793,8 @@
         1935
       ],
       "label": "text",
-      "text": "We Grew Our Hail\nNow Let Us Grow\nYours with"
+      "text": "We Grew Our Hail\nNow Let Us Grow\nYours with",
+      "status": "ok"
     }
   ]
 }

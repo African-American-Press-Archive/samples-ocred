@@ -3,7 +3,40 @@
   "image": "images/page_02.jpg",
   "width": 2067,
   "height": 2800,
+  "processed_at": "2026-03-07T12:06:38.413205+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 153,
+    "after_merge": 53
+  },
   "regions": [
+    {
+      "bbox": [
+        2,
+        2771,
+        1962,
+        2797
+      ],
+      "label": "text",
+      "text": "n the stocks of the colored corporation",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        201,
+        164,
+        740,
+        468
+      ],
+      "label": "text",
+      "text": "10",
+      "status": "ok"
+    },
     {
       "bbox": [
         213,
@@ -12,17 +45,19 @@
         680
       ],
       "label": "doc_title",
-      "text": "\"My Complexion Is Much Brighter!\""
+      "text": "\"My Complexion Is Much Brighter!\"",
+      "status": "ok"
     },
     {
       "bbox": [
-        236,
+        184,
         698,
-        697,
-        1046
+        748,
+        1288
       ],
       "label": "text",
-      "text": "\"If every woman knew what I know about the secret of a good complexion, she would not hesitate one minute but would use Palmer's \"SKIN-SUCCESS\" Ointment, which has done so much for my complexion.\"\n\nThis is what a prominent woman of the South has said about this wonderful Ointment. Thousands of other women throughout the world owe to it their charm of complexion and their personal attractiveness. Your druggist will tell you all about it."
+      "text": "\"If every woman knew what I know about the secret of a good complexion, she would not hesitate one minute but would use Palmer's 'SKIN-SUCCESS' Ointment, which has done so much for my complexion.\"\n\nThis is what a prominent woman of the South has said about this wonderful Ointment. Thousands of other women throughout the world owe to it their charm of complexion and their personal attractiveness. Your druggist will tell you all about it.\n\nPALMER'S\n\n\"SKIN-SUCCESS\"\n\nREGISTERED IN U.S. PATENT OFFICE\n\nOintment",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +67,8 @@
         1381
       ],
       "label": "text",
-      "text": "Palmer's SKIN-SUCCESS Ointment\u201435c-75c\nPalmer's HAIR-SUCCESS Dressing\u201435c\nPalmer's SKIN-SUCCESS Soap--\nThe Morgan Drug Co., Brooklyn, N. Y"
+      "text": "Palmer's SKIN-SUCCESS Ointment\u201435c-75c\nPalmer's HAIR-SUCCESS Dressing\u201435c\nPalmer's SKIN-SUCCESS Soap--\nThe Morgan Drug Co., Brooklyn, N. Y",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +78,8 @@
         1467
       ],
       "label": "paragraph_title",
-      "text": "NEW AND OLD FRIENDSHIPS"
+      "text": "NEW AND OLD FRIENDSHIPS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +89,8 @@
         2023
       ],
       "label": "text",
-      "text": "Writer Makes Assertion That Fresh Acquaintanceships Have Tendency to Make Life Brighter.\n\nAs a rule so-called old friends are simply those we have known from our youth. We know all about them and they know all about us. If you have succeeded in life, and they have not, they envy you, and if you have not succeeded and they have they simply pity or ignore you.\n\nWith new acquaintances it is different. They come fresh upon the scene. You take each other at face value and each puts forward the best foot. You do not undertake to inquire into the past, but discuss the present and future. In this way you interest each other and your hearts do really burn within you.\n\nWith old friends it is different. You are constantly bringing up the past, much of which both of you would like to forget. With new acquaintances we are apt to look upon the new and bright side of life; with the so-called old friends we are apt to dwell upon past events, and it is not always the brightest outlook. New acquaintances revive us, brighten up our mentality; we take a new and brighter view of life.\u2014Exchange."
+      "text": "Writer Makes Assertion That Fresh Acquaintanceships Have Tendency to Make Life Brighter.\n\nAs a rule so-called old friends are simply those we have known from our youth. We know all about them and they know all about us. If you have succeeded in life, and they have not, they envy you, and if you have not succeeded and they have they simply pity or ignore you.\n\nWith new acquaintances it is different. They come fresh upon the scene. You take each other at face value and each puts forward the best foot. You do not undertake to inquire into the past, but discuss the present and future. In this way you interest each other and your hearts do really burn within you.\n\nWith old friends it is different. You are constantly bringing up the past, much of which both of you would like to forget. With new acquaintances we are apt to look upon the new and bright side of life; with the so-called old friends we are apt to dwell upon past events, and it is not always the brightest outlook. New acquaintances revive us, brighten up our mentality; we take a new and brighter view of life.\u2014Exchange.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +100,8 @@
         2058
       ],
       "label": "paragraph_title",
-      "text": "FIND ALTAR ROOM OF AZTECS"
+      "text": "FIND ALTAR ROOM OF AZTECS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +111,8 @@
         2529
       ],
       "label": "text",
-      "text": "Interesting Discovery in Pueblo Ruin in New Mexico Has Recently Been Made.\n\nThe most satisfactory event to mark so far the work of the American Museum of Natural History in its excavation of the Pueblo ruin at Aztec, N. M., is the recent discovery of what was evidently the holiest shrine of this prehistoric people, records Popular Mechanics Magazine. It takes the form of a room, bare of furniture, but in perfect condition. The walls are plastered, and are painted in a glaring white with dull red borders and a frieze of triangular designs. On the ceiling beams are strange marks made by rubbing the palm and fingers in white paint, and then pressing them upon the wood. From these beams hang several strands of beautifully made rope, presumably for the support of some sacred objects. On the ceiling, too, is carved a serpent, two and one-half feet in length, and in design unlike anything known to the archeologists in charge."
+      "text": "Interesting Discovery in Pueblo Ruin in New Mexico Has Recently Been Made.\n\nThe most satisfactory event to mark so far the work of the American Museum of Natural History in its excavation of the Pueblo ruin at Aztec, N. M., is the recent discovery of what was evidently the holiest shrine of this prehistoric people, records Popular Mechanics Magazine. It takes the form of a room, bare of furniture, but in perfect condition. The walls are plastered, and are painted in a glaring white with dull red borders and a frieze of triangular designs. On the ceiling beams are strange marks made by rubbing the palm and fingers in white paint, and then pressing them upon the wood. From these beams hang several strands of beautifully made rope, presumably for the support of some sacred objects. On the ceiling, too, is carved a serpent, two and one-half feet in length, and in design unlike anything known to the archeologists in charge.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +122,8 @@
         2564
       ],
       "label": "paragraph_title",
-      "text": "COULDN'T TAKE HER IN CUP"
+      "text": "COULDN'T TAKE HER IN CUP",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,8 @@
         2627
       ],
       "label": "text",
-      "text": "\"Honey\" Was What the Youngster Was After, But Not in Quite Such a Generous Quantity."
+      "text": "\"Honey\" Was What the Youngster Was After, But Not in Quite Such a Generous Quantity.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,17 +144,8 @@
         1759
       ],
       "label": "text",
-      "text": "Tommy Brown had not studied pelmanism and his brain was like a sieve. When his mother told him to take a cup to the grocer's and get it filled with honey he heard what she said; but when he got to the grocer's he forgot what he had come for.\n\nThe grocer named one article after another in the good-natured attempt to refresh his memory, but all to no avail. Then he turned to his plump wife and said:\n\n\"Honey, can you think what it might be?\"\n\n\"That's it; that's it!\" cried the boy, excited. \"Honey! But, look here,\" he added, eyeing the buxom lady, \"you'd better put her on my back and let me take her that way, for the cup wouldn't hold her.\""
-    },
-    {
-      "bbox": [
-        477,
-        1773,
-        682,
-        1789
-      ],
-      "label": "paragraph_title",
-      "text": "A. Regular One."
+      "text": "Tommy Brown had not studied pelmanism and his brain was like a sieve. When his mother told him to take a cup to the grocer's and get it filled with honey he heard what she said; but when he got to the grocer's he forgot what he had come for.\n\nThe grocer named one article after another in the good-natured attempt to refresh his memory, but all to no avail. Then he turned to his plump wife and said:\n\n\"Honey, can you think what it might be?\"\n\n\"That's it; that's it!\" cried the boy, excited. \"Honey! But, look here,\" he added, eyeing the buxom lady, \"you'd better put her on my back and let me take her that way, for the cup wouldn't hold her.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +155,8 @@
         1789
       ],
       "label": "paragraph_title",
-      "text": "A Regular One."
+      "text": "A Regular One.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +166,8 @@
         2032
       ],
       "label": "text",
-      "text": "He was looking for a good canine companion, and had answered, an advertisement in the newspaper. The following conversation ensued:\n\n\"You advertised a sensible dog for sale?\"\n\"Yep.\"\n\"What do you mean by a sensible dog?\"\n\"This pup has never had a ribbon around his neck and has never ridden in a limousine since the day he was born. He's a happy-hearted, bone-burying, cat-chasing, 100 per cent dog.\"\u2014Houston Post."
+      "text": "He was looking for a good canine companion, and had answered, an advertisement in the newspaper. The following conversation ensued:\n\n\"You advertised a sensible dog for sale?\"\n\"Yep.\"\n\"What do you mean by a sensible dog?\"\n\"This pup has never had a ribbon around his neck and has never ridden in a limousine since the day he was born. He's a happy-hearted, bone-burying, cat-chasing, 100 per cent dog.\"\u2014Houston Post.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +177,8 @@
         2060
       ],
       "label": "paragraph_title",
-      "text": "From Bad to Worse."
+      "text": "From Bad to Worse.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +188,8 @@
         2399
       ],
       "label": "text",
-      "text": "\"I don't find so many people borrowing umbrellas and forgetting to return them,\" remarked the observant citizen.\n\n\"I believe the umbrella borrower was a less expensive friend,\" rejoined the man who is always longing for the old days. \"What you've got to lend now is a taxicab fare all the way to the suburbs.\"\n\nSparing Her Feelings.\n\n\"The prima donna says she won't follow the trained chimpanzee.\"\n\n\"We can't change the bill just to please her,\" said the vaudeville manager. \"Tell her to stay in her dressing room until time to go on and she won't know whether she's following a trained chimpanzee or a troupe of dancing seals.\""
+      "text": "\"I don't find so many people borrowing umbrellas and forgetting to return them,\" remarked the observant citizen.\n\n\"I believe the umbrella borrower was a less expensive friend,\" rejoined the man who is always longing for the old days. \"What you've got to lend now is a taxicab fare all the way to the suburbs.\"\n\nSparing Her Feelings.\n\n\"The prima donna says she won't follow the trained chimpanzee.\"\n\n\"We can't change the bill just to please her,\" said the vaudeville manager. \"Tell her to stay in her dressing room until time to go on and she won't know whether she's following a trained chimpanzee or a troupe of dancing seals.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +199,8 @@
         2427
       ],
       "label": "paragraph_title",
-      "text": "Under Surveillance"
+      "text": "Under Surveillance",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +210,8 @@
         2545
       ],
       "label": "text",
-      "text": "Mrs. Littiefat\u2014Tilly, you've left my lingerie scattered all around this room and I'm expecting company any minute.\n\nTilly the Maid\u2014That's all right, ma'am. I'll keep my eye on 'em and see they don't pinch nothin'."
+      "text": "Mrs. Littiefat\u2014Tilly, you've left my lingerie scattered all around this room and I'm expecting company any minute.\n\nTilly the Maid\u2014That's all right, ma'am. I'll keep my eye on 'em and see they don't pinch nothin'.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,17 +221,19 @@
         2644
       ],
       "label": "text",
-      "text": "\"That fellow seems to have horse sense.\"\n\n\"Huh?\"\n\n\"He keeps away from the races.\""
+      "text": "\"That fellow seems to have horse sense.\"\n\n\"Huh?\"\n\n\"He keeps away from the races.\"",
+      "status": "ok"
     },
     {
       "bbox": [
-        781,
-        183,
-        1072,
-        211
+        988,
+        129,
+        1172,
+        148
       ],
       "label": "text",
-      "text": "CHANGING STYLES IN HUMOR"
+      "text": "THE BYSTANDER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,17 +243,19 @@
         278
       ],
       "label": "text",
-      "text": "CHANGING STYLES IN HUMOR\n\"Stuff\" Laughed At by One Generation Is Found Insufferably Dull by Another."
+      "text": "CHANGING STYLES IN HUMOR\n\"Stuff\" Laughed At by One Generation Is Found Insufferably Dull by Another.",
+      "status": "ok"
     },
     {
       "bbox": [
         776,
-        218,
+        282,
         1072,
         850
       ],
       "label": "text",
-      "text": "\"Stuff\" Laughed At by One Generation Is Found Insufferably Dull by Another.\n\nWriting about the old-time humorists, Mr. Ellsworth notes the well-known fact that what is funny for one generation is not, generally speaking, funny for the next. This is a curious phenomenon. It is an extremely hard thing now to get any amusement out of the writings of Artemus Ward. It takes a good deal of indulgence to find that chapter, so immortally read by Lincoln at the famous cabinet meeting, funny now. And yet the humor of Lincoln himself, as evidenced in the Lincoln stories still current, was perennial. Mr. Ellsworth notes the interesting fact that Mark Twain, who wrote for two generations, changed the style and smack of his humor several times. If we compare \"The Prince and the Pauper\" with \"The Jumping Frog\" we find that this is undoubtedly true, and yet \"The Jumping Frog\" is funny to read today. The Nomad fancies that the humor of Mark Twain will be found to possess more of the perennial quality than that of Artemus Ward, Josh Billings or Petroleum V. Nasby. He also has an idea that the humor of most of our columists of the present day will be found incomprehensible 20 years from now. It is incomprehensible to a good many people even now. And that is what makes it so delightful.\u2014\"Nomad,\" in the Boston Transcript."
+      "text": "Writing about the old-time humorists, Mr. Ellsworth notes the well-known fact that what is funny for one generation is not, generally speaking, funny for the next. This is a curious phenomenon. It is an extremely hard thing now to get any amusement out of the writings of Artemus Ward. It takes a good deal of indulgence to find that chapter, so immortally read by Lincoln at the famous cabinet meeting, funny now. And yet the humor of Lincoln himself, as evidenced in the Lincoln stories still current, was perennial. Mr. Ellsworth notes the interesting fact that Mark Twain, who wrote for two generations, changed the style and smack of his humor several times. If we compare \"The Prince and the Pauper\" with \"The Jumping Frog,\" we find that this is undoubtedly true, and yet \"The Jumping Frog\" is funny to read today. The Nomad fancies that the humor of Mark Twain will be found to possess more of the perennial quality than that of Artemus Ward, Josh Billings or Petroleum V. Nasby. He also has an idea that the humor of most of our columists of the present day will be found incomprehensible 20 years from now. It is incomprehensible to a good many people even now. And that is what makes it so delightful.\u2014\"Nomad,\" in the Boston Transcript.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,47 +265,30 @@
         887
       ],
       "label": "paragraph_title",
-      "text": "MILK AND MEAT AS RIVALS"
+      "text": "MILK AND MEAT AS RIVALS",
+      "status": "ok"
     },
     {
       "bbox": [
         775,
         901,
         1071,
-        1321
+        1464
       ],
       "label": "text",
-      "text": "Rising Prices May Yet Force People to Turn to the Fluid to Sustain Life.\n\nAs the price of meat soars upward, many people are forced to be parttime vegetarians. Thus the old question, \"Is meat essential to human wellbeing?\" arises again. The committee on food and nutrition of the National Research council has issued an interesting report on the relative value of meat and milk.\n\nEighteen per cent of the protein and energy of grain used in feeding a cow goes into the milk, and is therefore recovered for human consumption; whereas only three and a half per cent is recovered in beef. As for the mineral elements in hay and grain, not much is stored in the tissues, but a great amount goes into milk.\n\nBeef profiteers, beware! The hard-pressed public may decide to let milk take the place of beefsteak\u2014Popular Science Monthly."
+      "text": "Rising Prices May Yet Force People to Turn to the Fluid to Sustain Life.\n\nAs the price of meat soars upward, many people are forced to be part-time vegetarians. Thus the old question, \"Is meat essential to human well-being?\" arises again. The committee on food and nutrition of the National Research council has issued an interesting report on the relative value of meat and milk.\n\nEighteen per cent of the protein and energy of grain used in feeding a cow goes into the milk, and is therefore recovered for human consumption; whereas only three and a half per cent is recovered in beef. As for the mineral elements in hay and grain, not much is stored in the tissues, but a great amount goes into milk.\n\nBeef profiteers, beware! The hard-pressed public may decide to let milk take the place of beefsteak\u2014Popular Science Monthly.\n\nAwful Possibility.\n\nAn Australian dignitary was being entertained by New York society. For what seemed to be an endless night he was dragged through the intricacies of the pigeon-walk, the fox-trot, the camel-limp, and the rest. At last came his day, of departure.",
+      "status": "ok"
     },
     {
       "bbox": [
-        850,
-        1337,
-        991,
-        1351
-      ],
-      "label": "paragraph_title",
-      "text": "Awful Possibility"
-    },
-    {
-      "bbox": [
-        776,
-        1351,
+        777,
+        1466,
         1070,
         1626
       ],
       "label": "text",
-      "text": "An Australian dignitary was being entertained by New York society. For what seemed to be an endless night he was dragged through the intricacies of the pigeon-walk, the fox-trot, the camel-limp, and the rest. At last came his day of departure.\n\n\"Please madam,\" he implored of his late hostess, as they parted at the gang-plank, \"don't ever come to Australia.\"\n\n\"But, wh-wh-why not?\" gasped that surprised and offended lady.\n\n\"Because,\" answered the Australian, wiping his brow, \"I don't want you ever to see a kangaroo at play.\"\u2014American Legion Weekly."
-    },
-    {
-      "bbox": [
-        781,
-        1641,
-        992,
-        1658
-      ],
-      "label": "paragraph_title",
-      "text": "Unequal Losses."
+      "text": "\"Please madam,\" he implored of his late hostess, as they parted at the gang-plank, \"don't ever come to Australia.\"\n\n\"But, wh-wh-why-not?\" gasped that surprised and offended lady.\n\n\"Because,\" answered the Australian, wiping his brow; \"I don't want you ever to see a kangaroo at play.\"\u2014American Legion Weekly.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,17 +298,8 @@
         1904
       ],
       "label": "text",
-      "text": "Frederick was sitting on the curb, crying, when Billy came along and asked him what was the matter. \"Oh, I feel so bad 'cause Major's dead\u2014my nice old cloie!\" sobbed Frederick. \"Shucks!\" said Billy. \"My grandmother's been dead a week and you don't catch me crying.\" Frederick gave his eyes and nose a swipe with his hand and, looking up at Billy, sobbed despairingly: \"Yes, but you didn't raise your grandmother from a pup.\"\u2014Harper's Magazine."
-    },
-    {
-      "bbox": [
-        868,
-        1922,
-        984,
-        1935
-      ],
-      "label": "paragraph_title",
-      "text": "Hypersensitive."
+      "text": "Frederick was sitting on the curb, crying, when Billy came along and asked him what was the matter. \"Oh, I feel so bad 'cause Major's dead\u2014my nice old cloie!\" sobbed Frederick. \"Shucks!\" said Billy. \"My grandmother's been dead a week and you don't catch me crying.\" Frederick gave his eyes and nose a swipe with his hand and, looking up at Billy, sobbed despairingly: \"Yes, but you didn't raise your grandmother from a pup.\"\u2014Harper's Magazine.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,17 +309,8 @@
         2160
       ],
       "label": "text",
-      "text": "\"Here's a mighty interesting map of the place where old Cap Kid is said to have come ashore frequently,\" remarked the willing worker.\n\n\"I thought you were supposed to be securing campaign funds,\" commented the hustler in tones of weary sarcasm.\n\n\"I am doing my best. But you can't ask any of the live ones for subscriptions without getting yourself talked about. I have about decided our only chance is to dig up some buried treasure.\""
-    },
-    {
-      "bbox": [
-        851,
-        2178,
-        996,
-        2192
-      ],
-      "label": "paragraph_title",
-      "text": "By the Calendar."
+      "text": "\"Here's a mighty interesting map of the place where old Cap Kid is said to have come ashore frequently,\" remarked the willing worker.\n\n\"I thought you were supposed to be securing campaign funds,\" commented the hustler in tones of weary sarcasm.\n\n\"I am doing my best. But you can't ask any of the live ones for subscriptions without getting yourself talked about. I have about decided our only chance is to dig up some buried treasure.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +320,63 @@
         2355
       ],
       "label": "text",
-      "text": "\"Mr. Bibbs, I'd like to see you about that little loan of $50 I made you three months ago, which you agreed to repay in a week.\"\n\n\"My dear fellow, I was feeling good all over, and now you have spoiled my day.\"\n\n\"Umph! By not paying'me when you said you would you have spoiled 77 days for me.\""
+      "text": "\"Mr. Bibbs, I'd like to see you about that little loan of $50 I made you three months ago, which you agreed to repay in a week.\"\n\n\"My dear fellow, I was feeling good all over, and now you have spoiled my day.\"\n\n\"Umph! By not paying'me when you said you would you have spoiled 77 days for me.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        776,
+        2387,
+        1072,
+        2675
+      ],
+      "label": "text",
+      "text": "Jimmie felt the heat and asked his mother if he could take off his shoes and stockings. He could. Later the mother found him naked. \"Jimmie, what do you mean?\" \"Why,\" said he, looking straight into her eyes, \"all my clothing slipped off and I couldn't get 'em on again.\"\n\nClothes Makes the Man.\nTeacher\u2014Now, who can tell just what is meant by the saying \"All men are created equal?\" We all know that some of us are born with wealth and many other advantages not shared by all.\n\n\"We are all created with an equal need for clothes,\" suggested Johnny.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        850,
+        1337,
+        991,
+        1351
+      ],
+      "label": "paragraph_title",
+      "text": "Awful Possibility",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        781,
+        1641,
+        992,
+        1658
+      ],
+      "label": "paragraph_title",
+      "text": "Unequal Losses.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        868,
+        1922,
+        984,
+        1935
+      ],
+      "label": "paragraph_title",
+      "text": "Hypersensitive.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        851,
+        2178,
+        996,
+        2192
+      ],
+      "label": "paragraph_title",
+      "text": "By the Calendar.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,17 +386,8 @@
         2384
       ],
       "label": "paragraph_title",
-      "text": "Tee Hot"
-    },
-    {
-      "bbox": [
-        778,
-        2387,
-        1071,
-        2520
-      ],
-      "label": "text",
-      "text": "Jimmie felt the heat and asked his mother if he could take off his shoes and stockings. He could. Later the mother found him naked. \"Jimmie, what do you mean?\" \"Why,\" said he, looking straight into her eyes. \"all my clothing slipped off and I couldn't get 'em on again.\""
+      "text": "Tee Hot",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,17 +397,8 @@
         2542
       ],
       "label": "paragraph_title",
-      "text": "Clothes Makes the Man"
-    },
-    {
-      "bbox": [
-        776,
-        2539,
-        1072,
-        2675
-      ],
-      "label": "text",
-      "text": "Clothes Makes the Man.\n\nTeacher\u2014Now, who can tell just what is meant by the saying \"All men are created equal\"? We all know that some of us are born with wealth and many other advantages not shared by all.\n\n\"We are all created with an equal need for clothes,\" suggested Johnny."
+      "text": "Clothes Makes the Man",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,17 +408,63 @@
         217
       ],
       "label": "paragraph_title",
-      "text": "CAUGHT IN PASSING"
+      "text": "CAUGHT IN PASSING",
+      "status": "ok"
     },
     {
       "bbox": [
         1080,
         231,
         1379,
+        810
+      ],
+      "label": "text",
+      "text": "What man has done woman can undo.\n\nSteam is the perspiration from hot water.\n\nA forced kindness deserves no thanks.\n\nHigh water never raises the price of milk.\n\nA kiss is an explosion of condensed emotion.\n\nIf you are in a hurry avoid the train of thought.\n\nFancy penmanship never made a man wealthy.\n\nIf you go into a labyrinth take a clew with you.\n\nNext to the kindly act is the appreciation thereof.\n\nSome men take to religion as a political afterthought.\n\nGirls like compliments\u2014also ice cream and oysters.\n\nWhatsoever a man reaps some man must have planted.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1082,
+        819,
+        1377,
+        1380
+      ],
+      "label": "text",
+      "text": "The best antidote for sorrow is steady employment.\n\nWhen money talks the cream of the conversation is rich.\n\nIt is a long lane that has no turning\u2014Dutch Proverb.\n\nIt is sometimes easier to meet a bill than it is to dodge it.\n\nDon't growl at what you can't help or what you can help.\n\nThe man who is the first to argue is usually the last to act.\n\nA warning paragraph often saves a chapter of explanation.\n\nA little leaven leaventh the whole lump.\u2014New Testament.\n\nThe business of a dog dealer is apt to be a howling success.\n\nPlain, unvarnished truth is better than questionable rhetoric.\n\nHe's a brave man who dies to stop a woman's runaway tongue.\n\nBent pins and carpet tacks come under the head of felt goods.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1081,
+        1392,
+        1375,
+        1971
+      ],
+      "label": "text",
+      "text": "The world deals good-naturedly with the good-natured person.\n\nTrue love and ghosts are often talked about but seldom seen.\n\nWhen the money of some people converses it uses a megaphone.\n\nIt is easy to see through people who make spectacles of themselves.\n\nThe telephone enables some men to lie without becoming confused.\n\nLack of credit prevents some people from living beyond their means.\n\nSometimes it's the cashier that gets the best of the run on the bank.\n\nDiplomacy is the art of getting what you want by pretending you don't want it.\n\nThe ennul of a rich man is synonymous with the laziness of the poor man.\n\nThere is no effect without a cause\u2014except when a woman changes her mind.\n\nA man is presumed to be guilty by his neighbors until he is proved innocent.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1081,
+        1984,
+        1376,
+        2553
+      ],
+      "label": "text",
+      "text": "The man who never looks up is a rank failure when it comes to lifting up.\n\nUnless a man has plenty of money and a wife who can cook, eating is a nuisance.\n\nSome people seem to have no use for anything common\u2014not even common sense.\n\nCharitable persons speak one to another; uncharitable persons speak one of another.\n\nNothing squeezes the water out of a man's possessions like a visit from the assessor.\n\nThere isn't much hope for a man so deaf he is unable to hear the noise of a paper dollar.\n\nDon't pay any attention to the disagreeable things people say about you\u2014if they are not true.\n\nIn order to win success a man must be in a position to grasp opportunity by the back of the neck.\n\nAfter locking your family skeleton in your chest hide the key where your neighbors can't find it.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1080,
+        2562,
+        1379,
         2780
       ],
       "label": "text",
-      "text": "What man has done woman can undo.\n\nSteam is the perspiration from hot water.\n\nA farced kindness deserves no thanks.\n\nHigh water never raises the price of milk.\n\nA kiss is an explosion of condensed emotion.\n\nIf you are in a hurry avoid the train of thought.\n\nFancy penmanship never made a man wealthy.\n\nIf you go into a labyrinth take a clew with you.\n\nNext to the kindly act is the appreciation thereof.\n\nSome men take to religion as a political afterthought.\n\nGirls like compliments\u2014also ice cream and oysters.\n\nWhatsoever a man reaps some man must have planted.\n\nThe best antidote for sorrow is steady employment.\n\nWhen money talks the cream of the conversation is rich.\n\nIt is a long lane that has no turning\u2014Dutch Proverb.\n\nIt is sometimes easier to meet a bill than it is to dodge it.\n\nDon't growl at what you can't help or what you can help.\n\nThe man who is the first to argue is usually the last to act.\n\nA warning paragraph often saves a chapter of explanation.\n\nA little leaven leaventh the whole lump\u2014New Testament.\n\nThe business of a dog dealer is apt to be a howling success.\n\nPlain, unvarnished truth is better than questionable rhetoric.\n\nHe's a brave man who dies to stop a woman's runaway tongue.\n\nBent pins and carpet tacks come under the head of felt goods.\n\nThe world deals good-naturedly with the good-natured person.\n\nTrue love and ghosts are often talked about but seldom seen.\n\nWhen the money of some people converses it uses a megaphone.\n\nIt is easy to see through people who make spectacles of themselves.\n\nThe telephone enables some men to lie without becoming confused.\n\nLack of credit prevents some people from living beyond their means.\n\nSometimes it's the cashier that gets the best of the run on the bank.\n\nDiplomacy is the art of getting what you want by pretending you don't want it.\n\nThe ennul of a rich man is synonymous with the laziness of the poor man.\n\nThere is no effect without a cause\u2014except when a woman changes her mind.\n\nA man is presumed to be guilty by his neighbors until he is proved innocent.\n\nThe man who never looks up is a rank failure when it comes to lifting up.\n\nUnless a man has plenty of money and a wife who can cook, eating is a nuisance.\n\nSome people seem to have no use for anything common\u2014not even common sense.\n\nCharitable persons speak one to another; uncharitable persons speak one of another.\n\nNothing squeezes the water out of a man's possessions like a visit from the assessor.\n\nThere isn't much hope for a man so deaf he is unable to hear the noise of a paper dollar.\n\nDon't pay any attention to the disagreeable things people say about you\u2014if they are not true.\n\nIn order to win success a man must be in a position to grasp opportunity by the back of the neck.\n\nAfter locking your family skeleton in your chest hide the key where your neighbors can't find it.\n\nAt the exact moment the proposal is made a young man actually believes he is not worthy of the girl.\n\nProsperity has ruined more men than adversity\u2014but that kind of ruin is so much more delightful."
+      "text": "At the exact moment the proposal is made a young man actually believes he is not worthy of the girl.\n\nProsperity, has ruined more men, than adversity\u2014but that kind of ruin is so much more delightful.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,37 +474,129 @@
         518
       ],
       "label": "doc_title",
-      "text": "A SEA PICTURE A Story of Thanksgiving by Mary GrahamBonner"
+      "text": "A SEA PICTURE A Story of Thanksgiving by Mary GrahamBonner",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1391,
+        536,
+        1681,
+        1097
+      ],
+      "label": "text",
+      "text": "RANCES ROBBINS was tall and beautiful and rich and admired. If you had told this to Frances it would not have surprised her. She had been told it many times. She believed it and knew it to be the truth. When Gerald Adams had told her she was beautiful and that he admired her, though of her money he spoke with disdain and expressed the wish that she possessed none, she listened encouragingly. Gerald was, however, relieved, though he was sympathetic with Frances for her own sake, when her father suddenly lost his fortune. He loved her too much to have it said of him that he was marrying a girl with money. At first poverty didn't seem so hard to Frances\u2014and It was poverty compared to her former financial condition. She began in a short time, though, to grow depressed and annoyed and thought marriage was a trial. Gerald, even, angered her. He was prosalc, he had settled down, he seemed so contented with life and with the \"dull\" work which he did in the bank. He was so everlastingly patient with her. And that, too, made her tribulations seem greater.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1390,
+        1098,
+        1680,
+        1387
+      ],
+      "label": "text",
+      "text": "So she had an imaginary nervous breakdown and left the city to spend the autumn at a seashore place nearby, where Gerald could come for the week ends. She didn't entirely want Gerald out of her way. When times got very bad, her poverty and her boredom got beyond control, she could let off steam at least by talking to Gerald.\n\nIt was hard stinting for Gerald\u2014the double expenses\u2014but he felt disgusted with himself because he couldn't give her more. Alone in town he looked upon himself as a failure.\n\nA great many people were staying at the seashore until after Christmas. Apartments had been so hard to ob",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1403,
+        1408,
+        1673,
+        1837
+      ],
+      "label": "text",
+      "text": "Thought Marriage Was a Trial.",
+      "status": "ok"
     },
     {
       "bbox": [
         1387,
-        536,
-        1681,
-        2780
+        1848,
+        1678,
+        2448
       ],
       "label": "text",
-      "text": "RANCES ROBBINS was tall and beautiful and rich and admired. If you had told this to Frances it would not have surprised her. She had been told it many times. She believed it and knew it to be the truth. When Gerald Adams had told her she was beautiful and that he admired her, though of her money he spoke with disdain and expressed the wish that she possessed none, she listened encouragingly.\n\nGerald was, however, relieved, though he was sympathetic with Frances for her own sake, when her father suddenly lost his fortune. He loved her too much to have it said of him that he was marrying a girl with money.\n\nAt first poverty didn't seem so hard to Frances\u2014and It was poverty compared to her former financial condition. She began in a short time, though, to grow depressed and annoyed and thought marriage was a trial. Gerald, even, angered her. He was prosalc, he had settled down, he was prosaic, he had settled down with life and with the \"dull\" work which he did in the bank. He was so everlastingly patient with her. And that, too, made her tribulations seem greater.\n\nSo she had an imaginary nervous breakdown and left the city to spend the autumn at a seashore place nearby, where Gerald could come for the week ends. She didn't entirely want Gerald out of her way. When times got very bad, her poverty and her boredom got beyond control, she could let off steam at least by talking to Gerald.\n\nIt was hard stinting for Gerald\u2014the double expenses\u2014but he felt disgusted with himself because he couldn't give her more. Alone in town he looked upon himself as a failure.\n\nA great many people were staying at the seashore until after Christmas. Apartments had been so hard to obtain that they had stayed in the attractive Inn, and many of the men, with plenty of funds and time for commuting, came down every evening. There were idle men there, too. More and more she recognized their attitude toward a \"grass widow\" was not such as greatly appealed to her. She wished she hadn't called Gerald a \"stick-in-the-mud.\" Yes, that had been her cruel epithet of him.\n\nGerald had written her that he would not be down for Thanksgiving. That was the great blow. It was altogether right for her to leave Gerald, but that Gerald should stay away on Thanksgiving day was something unheard of. What would people think? More, what did she herself think? Had she driven Gerald to someone else? More and more clearly she seemed to see herself. How horribly she had treated him. How fine and devoted and splendid he was. How much more wonderful than any one she had ever met\u2014a million times better and finer than plenty of, these men with far more money.\n\nThanksgiving day came, bright and sunny. It was like Indian summer. Many people came down to the beach and wrapped themselves in rugs and enjoyed the comforting scashine. Again and again she had said, in answer to the question, that her husband would not be able to get down. She was mortified, worried, sad.\n\nShe wandered off by herself and sat at a distance from the various groups.\n\nSuddenly a freak buzzing, whirring airplane flew overhead. It was an excitement for everyone. To their great delight they saw it land on the beach. Everyone hurried towards it\u2014everyone but Frances. An airplane was not going to make her appear excited, interested. She had always trained herself to suppress any feelings of curiosity such as this."
+      "text": "tain that they had stayed in the attractive Inn, and many of the men, with plenty of funds and time for commuting, came down every evening. There were idle men there, too. More and more she recognized their attitude toward a \"grass widow\" was not such as greatly appealed to her. She wished she hadn't called Gerald a \"stick-in-the-mud.\" Yes, that had been her cruel epithet of him.\n\nGerald had written her that he would not be down for Thanksgiving. That was the great blow. It was altogether right for her to leave Gerald, but that Gerald should stay away on Thanksgiving day was something unheard of. What would people think? More, what did she herself think? Had she driven Gerald to someone else? More and more clearly she seemed to see herself. How horribly she had treated him. How fine and devoted and splendid he was. How much more wonderful than any one she had ever met\u2014a million times better and finer than plenty of, these men with far more money.\n\nThanksgiving day came, bright and sunny. It was like Indian summer. Many people came down to the beach and wrapped themselves in rugs and enjoyed the comforting snashline. Again and again she had said, in answer to the question, that her husband would not be able to get down. She was mortified, worried, sad.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1686,
+        1387,
+        2450,
+        1678,
+        2659
+      ],
+      "label": "text",
+      "text": "She wandered off by herself and sat at a distance from the various groups. Suddenly a freak buzzing, whirring airplane flew overhead. It was an excitement for everyone. To their great delight they saw it land on the beach. Everyone hurried towards it\u2014everyone but Frances. An airplane was not going to make her appear excited, interested. She had always trained herself to suppress any feelings of curiosity such as this.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1691,
         532,
         1982,
+        714
+      ],
+      "label": "text",
+      "text": "The people now had gathered around. Frances was quite by herself. Without too much appearance of hurry (though, if Frances had been properly aware of the truth she would have realized that no one was watching her) she went toward the airplane.\n\nSuddenly, as she drew nearer, she saw Gerald. She was about to call out to him when a girl, young and",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1690,
+        729,
+        1979,
+        1274
+      ],
+      "label": "text",
+      "text": "Frances Was Quite by Herself.\n\nvery pretty, rushed toward him, threw her arms around him and cried:\n\n\"Oh, my own, my own!\"\n\nShe jumped into the airplane. A mechanic turned the propeller and they were off!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1687,
+        1275,
+        1979,
+        1810
+      ],
+      "label": "text",
+      "text": "\"Gerald, Gerald F\" Frances called to the buzzing birds above. The people turned and looked at her and laughed uproariously. She put her hands to her ears as though to shut off their cruel laughter and ran back to the Inn.\n\nWho was the girl? And why did he meet her here? Had he wanted to make Frances suffer so? Was that it? Did he want her to divorce him? Of course. She asked herself these questions over and over again.\n\nAcross her mind in rapidly vivid pictures passed the happy hours she had had with Gerald. As blots upon them appeared the unkindness she had dealt him; all appeared before her mind.\n\nFrom time to time she sobbed convulsively. \"I've lost him, and it has been my own fault,\" she cried.\n\nThrough the day she sat and thought and cried. Toward evening from time to time she heard voices in the hall, people going to dress for dinner and for the dance to be given that evening, and later she heard them go down. Only she stayed alone.\n\nA little later she heard a sound at the door, something\u2014one of those strange somethings\u2014made her turn around. There she saw Gerald.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1688,
+        1813,
+        1979,
         1957
       ],
       "label": "text",
-      "text": "The people now had gathered around. Frances was quite by herself. Without too much appearance of hurry (though, if Frances had been properly aware of the truth she would have realized that no one was watching her) she went toward the airplane.\n\nSuddenly, as she drew nearer, she saw Geraid. She was about to call out to him when a girl, young and\n\nFrances Was Quite by Herself.\n\nvery pretty, rushed toward him, threw her arms around him and cried:\n\"Oh, my own, my own!\"\nShe jumped into the airplane. A mechanic turned the propeller and they were off!\n\n\"Gerald, Gerald!\" Frances called to the buzzing birds above. The people turned and looked at her and laughed uproariously. She put her hands to her ears as though to shut off their cruel laughter and ran back to the Inn.\n\nWho was the girl? And why did he meet her here? Had he wanted to make Frances suffer so? Was that it? Did he want her to divorce him? Of course. She asked herself these questions over and over again.\n\nAcross her mind in rapidly vivid pictures passed the happy hours she had had with Geraid. As blots upon them appeared the unkindnesses she had dealt him; all appeared before her mind.\n\nFrom time to time she sobbed convulsively. \"I've lost him, and it has been my own fault,\" she cried.\n\nThrough the day she sat and thought and cried. Toward evening from time to time she heard voices in the hall, people going to dress for dinner and for the dance to be given that evening, and later she heard them go down. Only she stayed alone.\n\nA little later she heard a sound at the door, something\u2014one of those strange somethings\u2014made her turn around. There she saw Gerald.\n\n\"Is it you?\" she asked, looking at him from her reddened eyes\u2014the had gotten far beyond the tear-stained state.\n\n\"It is,\" he said, \"and I believe I can spend a lot of time down here. Wasn't it great? What in thunder are you crying about?\"\n\n\"What's great?\" she asked."
+      "text": "\"Is it you?\" she asked, looking at him from her reddened eyes\u2014they had gotten far beyond the tear-stained state.\n\n\"It is,\" he said, \"and I believe I can spend a lot of time down here. Wasn't it great? What in thunder are you crying about?\"\n\n\"What's great?\" she asked.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1689,
+        1953,
+        1979,
+        2462
+      ],
+      "label": "text",
+      "text": "\"Don't you get my letter?\" He felt in his pocket in a moment of sudden misgiving. \"Why no, of course, you\n\n\"Pretty Good Appetites We've Got.\"",
+      "status": "ok"
     },
     {
       "bbox": [
         1686,
-        1953,
-        1982,
-        2780
+        2471,
+        1980,
+        2666
       ],
       "label": "text",
-      "text": "\"Pretty Good Appetites We've Got.\"\n\ndidn't. Here it is in my pocket. Why, you see I never did like banking anyway\u2014and I knew I never could get very far\u2014not for years anyway\u2014and I wrote you I thought I couldn't get down Thanksgiving\u2014and after I had sent the letter, several days later, it dawned on me I'd not told you why! I wrote you again\u2014the letter is here,\" he admitted. \"and told you I would be down. They were not going to make me work in town that day or"
+      "text": "didn't. Here it is in my pocket. Why, you see I never did like banking anyway\u2014and I knew I never could get very far\u2014not for years anyway\u2014and I wrote you I thought I couldn't get down Thanksgiving\u2014and after I had sent the letter, several days later, it dawned on me I'd not told you why I wrote you again\u2014the letter is here, he admitted, \"and told you I would be down. They were not going to make me work in town that day or",
+      "status": "ok"
     }
   ]
 }

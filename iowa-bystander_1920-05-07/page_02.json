@@ -3,6 +3,17 @@
   "image": "images/page_02.jpg",
   "width": 2029,
   "height": 2800,
+  "processed_at": "2026-03-07T12:04:52.129174+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 106,
+    "after_merge": 58
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         224
       ],
       "label": "doc_title",
-      "text": "THE BYSTANDER"
+      "text": "THE BYSTANDER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         428
       ],
       "label": "text",
-      "text": "Published every Friday by the Bystander Publishing Company Des Moines,\nIowa. Office in Chemical Building, Corner of Seventh and Mulberry streets.\nPhone Walnut 899.\nEntered at the Post Office of Des Moines, Iowa, as Second Class matter.\n\nEMERALD E. MASH ..... Managing Editor\n\nSUBSCRIPTION RATES:\n\nTo any part of the United States one year, postage paid ..... $1.50\nSix Months ..... .75\n\nADVERTISING RATES.\n\nDisplay, per inch ..... $.50\nReading Notices, per line ..... .10\nContract rates given upon applications.\nAll Advertisements paid for in advance."
+      "text": "Published every Friday by the Bystander Publishing Company Des Moines,\nIowa. Office in Chemical Building, Corner of Seventh and Mulberry streets.\nPhone Walnut 899.\nEntered at the Post Office of Des Moines, Iowa, as Second Class matter.\n\nEMERALD E. MASH ..... Managing Editor\n\nSUBSCRIPTION RATES:\n\nTo any part of the United States one year, postage paid ..... $1.50\nSix Months ..... .75\n\nADVERTISING RATES.\n\nDisplay, per inch ..... $.50\nReading Notices, per line ..... .10\nContract rates given upon applications.\nAll Advertisements paid for in advance.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,47 +45,8 @@
         504
       ],
       "label": "text",
-      "text": "Weekly news letters must be received not later than Wednesday of each week."
-    },
-    {
-      "bbox": [
-        174,
-        1348,
-        713,
-        1433
-      ],
-      "label": "doc_title",
-      "text": "How much should I give to make this a better world?"
-    },
-    {
-      "bbox": [
-        187,
-        1451,
-        684,
-        2332
-      ],
-      "label": "text",
-      "text": "ACERTAIN man in New York filled out his income tax report.\n\nIt showed an income so large that his tax was 53%. And his total gifts to church and charity for the year were $148.\n\nThink of it\u2014thousands spent for luxuries and pleasure for himself; and $148 to leave the world a little better than he found it!\n\nMost of us do better than that; but not so very much better.\n\nOur average daily gift for all church causes is\n\n\u2014less than we spend for daily papers\n\u2014less than a local telephone call\n\u2014less than a third of the day's car fare\n\u2014less than 3 cents a day\n\nNo wonder that 80% of the ministers of America are paid less than $20 a week. No wonder that the church hospitals turn away thousands of sick people a year. No wonder that China has only one doctor for every 400,000 people. No wonder that every church board and charity society is forever meeting deficits, forever passing the hat.\n\nIt isn't because we are selfish; it isn't because we don't want to help. It's just because no one has ever put up a great big program to us, and asked us to think of the work of the church in a systematic businesslike way.\n\nThe Interchurch World Movement represents the united program of thirty denominations. They have surveyed their whole task, no business could have done it better.\n\nThey have budgeted their needs; no business could have a more scientific budget. They have united to prevent the possibility of waste and duplication. At least a million dollars will be saved by the fact that thirty individual campaigns are joined in one united effort.\n\nAnd they come to the men or women who love America\u2014to you\u2014this week asking you to use them as the channel through which a certain definite part of your income can be be applied to make this a better world.\n\nOnly you can determine what part of your income that should be.\n\nIt's a good time right now to answer that question. We're passing through the world just once; how much better will the world be because you passed through?"
-    },
-    {
-      "bbox": [
-        189,
-        2456,
-        711,
-        2620
-      ],
-      "label": "text",
-      "text": "The INTERCHURCH World Movement of North America The publication of this advertisement is made possible through the cooperation of thirty denominations."
-    },
-    {
-      "bbox": [
-        205,
-        528,
-        414,
-        542
-      ],
-      "label": "paragraph_title",
-      "text": "MOTHER'S DAY. MAY 9."
+      "text": "Weekly news letters must be received not later than Wednesday of each week.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +56,74 @@
         808
       ],
       "label": "text",
-      "text": "Sunday May 9, is Mother's day. Let us all write her a letter, telling her of our love and deep appreciation, for all she has done for us. Also, whether at home or away, let us go to church, at least once on Sunday. If our mothers are alive, let us wear a red flower. If she is no longer alive, let us wear a white one. Let us do something for her, or do it in her name and to her memory. John D. Rochefeller, Jr. gave four million dollars to the Interchurch world Movement in honor of his mother. We cannot do such big things but we can do the little ones in a big way. Let us live as she lived and let us pray as she prayed."
+      "text": "Sunday May 9, is Mother's day. Let us all write her a letter, telling her of our love and deep appreciation, for all she has done for us. Also, whether at home or away, let us go to church, at least once on Sunday. If our mothers are alive, let us wear a red flower. If she is no longer alive, let us wear a white one. Let us do something for her, or do it in her name and to her memory. John D. Rochefeller, Jr. gave four million dollars to the Interchurch world Movement in honor of his mother. We cannot do such big things but we can do the little ones in a big way. Let us live as she lived and let us pray as she prayed.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        145,
+        866,
+        733,
+        1340
+      ],
+      "label": "text",
+      "text": "Mrs. Paul, Gram, residing at 916 Fourth Street, Milwaukee, Wis., recently gave out the following statement: \"I had suffered with Fits (Epilepsy) for over fourteen years. Doctors and medicine did me no good. It seemed that I was beyond all hope of relief, when at last I secured a preparation that cured me sound and well. Over ten years have passed and the attacks have not returned. I wish everyone who suffers from this terrible disease would write to L. Lepso, 194 Island Avenue, Milwaukee, Wis., and ask for a bottle of the same kind of medicine which he gave me. He has generously promised to send it prepaid, free, to anyone who writes him.\"\u2014Adv.\n\nEdwards, Mr. See. Recitation and praise recital by Miss Wilson. Also Ottum quartet. Amount of money receiver #\n\nWe have a gang of colored sexten on the road in Albia.\n\nMr. Son Morris is working at Albia Packing House.\n\nBernice Gordon errand boy Hollingsworth Dry goods store.\n\nSijll heavy rain falls and cold weather in this section.\n\nThe Social Six, entertained Thursday night in the home of George Jordy and wife on N. Seventh street as farewell to Miss Doris Barquette.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        174,
+        1348,
+        713,
+        1433
+      ],
+      "label": "doc_title",
+      "text": "How much should I give to make this a better world?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        187,
+        1451,
+        684,
+        2005
+      ],
+      "label": "text",
+      "text": "ACERTAIN man in New York filled out his income tax report.\n\nIt showed an income so large that his tax was 53%. And his total gifts to church and charity for the year were $148.\n\nThink of it\u2014thousands spent for luxuries and pleasure for himself; and $148 to leave the world a little better than he found it!\n\nMost of us do better than that; but not so very much better.\n\nOur average daily gift for all church causes is\n\n\u2014less than we spend for daily papers\n\u2014less than a local telephone call\n\u2014less than a third of the day's car fare\n\u2014less than 3 cents a day\n\nNo wonder that 80% of the ministers of America are paid less than $20 a week. No wonder that the church hospitals turn away thousands of sick people a year. No wonder that China has only one doctor for every 400,000 people. No wonder that every church board and charity society is forever meeting deficits, forever passing the hat.\n\nIt isn't because we are selfish; it isn't because we don't want to help. It's just because no one has ever put up a great big program to us, and asked us to think of the work of the church in a systematic businesslike way.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        213,
+        2012,
+        683,
+        2332
+      ],
+      "label": "text",
+      "text": "The Interchurch World Movement represents the united program of thirty denominations. They have surveyed their whole task, no business could have done it better. They have budgeted their needs; no business could have a more scientific budget. They have united to prevent the possibility of waste and duplication. At least a million dollars will be saved by the fact that thirty individual campaigns are joined in one united effort.\n\nAnd they come to the men or women who love America\u2014to you\u2014this week asking you to use them as the channel through which a certain definite part of your income can be be applied to make this a better world.\n\nOnly you can determine what part of your income that should be.\n\nIt's a good time right now to answer that question. We're passing through the world just once; how much better will the world be because you passed through?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        189,
+        2456,
+        711,
+        2620
+      ],
+      "label": "text",
+      "text": "The INTERCHURCH World Movement of North America The publication of this advertisement is made possible through the cooperation of thirty denominations.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        205,
+        528,
+        414,
+        542
+      ],
+      "label": "paragraph_title",
+      "text": "MOTHER'S DAY. MAY 9.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,17 +133,8 @@
         860
       ],
       "label": "paragraph_title",
-      "text": "CURED HER FITS"
-    },
-    {
-      "bbox": [
-        145,
-        866,
-        440,
-        1059
-      ],
-      "label": "text",
-      "text": "Mrs. Fauir Gram, residing at 916 Fourth Street, Milwaukee, Wis., recently gave out the following statement: \"I had suffered with Fits (Epilepsy) for over fourteen years. Doctors and medicine did me no good. It seemed that I was beyond all hope of relief, when at last I secured a preparation that cured me sound and well. Over ten years have passed and the attacks have not returned. I wish everyone who suffers from this terrible disease would write to L. Lepso, 1941 Island Avenue, Milwaukee, Wis., and ask for a bottle of the same kind of medicine which he gave me. He has generously promised to send it prepaid, free, to anyone who writes him.\"\u2014Adv."
+      "text": "CURED HER FITS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +144,8 @@
         964
       ],
       "label": "text",
-      "text": "Mr. Idell Lewis of Peoria, Ill., is visiting at the parental B. T. Lewis home in Alba.\n\nMrs. Allie Bowman of Des Moines, is visiting her daughter, Mrs. Joe Hollingworth in Alba for a few weeks.\n\nThe Alba branch of the N. A. A. C. P. association to the number of about ten visited in Ottumwa on Thursday April 15 and reported a most delightful as well as instructive meeting of this organization. The Ottumwa branch of the N. A. A. C. P. association to the number of about thirty-five or forty visited in Alba on Thursday April 22. The Alba people prepared supper and lunch at the A. M. E. church, Mrs. E. Butler and Mrs. Charles Washington also a program by Alba Young people committee, and in which some of the Ottumwa talent took part. Speaker Rev. Edwadds, Mr. See. Recitation and piano recital by Miss Wilson. Also Ottumwa quartet. Amount of money receiver $30. We have a gang of colored sextons en the road in Alba.\n\nMr. Son Morris is working at the Alba Packing House."
+      "text": "Mr. Idell Lewis of Peoria, Ill., is visiting at the parental B. T. Lewis home in Alba.\n\nMrs. Allie Bowman of Des Moines, is visiting her daughter, Mrs. Joe Hollingworth in Alba for a few weeks.\n\nThe Alba branch of the N. A. A. C. P. association to the number of about ten visited in Ottumwa on Thursday April 15 and reported a most delightful as well as instructive meeting of this organization. The Ottumwa branch of the N. A. A. C. P. association to the number of about thirty-five or forty visited in Alba on Thursday April 22. The Alba people prepared supper and lunch at the A. M. E. church, Mrs. E. Butler and Mrs. Charles Washington also a program by Alba Young people committee, and in which some of the Ottumwa talent took part. Speaker Rev. Edwadds, Mr. See. Recitation and piano recital by Miss Wilson. Also Ottumwa quartet. Amount of money receiver $30. We have a gang of colored sextons en the road in Alba.\n\nMr. Son Morris is working at the Alba Packing House.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +155,8 @@
         987
       ],
       "label": "text",
-      "text": "Mr. Bernice Gordon errand boy at Hollingsworth Dry goods store."
+      "text": "Mr. Bernice Gordon errand boy at Hollingsworth Dry goods store.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +166,63 @@
         1070
       ],
       "label": "text",
-      "text": "Still heavy rain falls and cold weather in this section. The Social Six, entertained Thursday night in the home of George Jones and wife on N. Seventh street as a farewell to Miss Doris Barquette of"
+      "text": "Still heavy rain falls and cold weather in this section. The Social Six, entertained Thursday night in the home of George Jones and wife on N. Seventh street as a farewell to Miss Doris Barquette of",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        408,
+        1070,
+        497,
+        2353
+      ],
+      "label": "text",
+      "text": "in show\nis a be\nman in New\nport.\nWe so large\ngifts to\nwere $148\nbands spend\n; and $148\none found i\nr than that\ngift for all\nwe spend for\nlocal telephone\nthird of a day\n% of the m\na week\nturn away\nwonder th\ny 400,000\nboard and\nrecits, forever\nare selfish\njust because\nto us, and\na systemat\nMovement\nominations.\nbusiness could\ntheir needs; n\nthey have\nduplication\nthe fact that\nunited effort\nasking you to\ncertain define\ntake this a b\ne what part\nbut now to\nin the world\nbecause y",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        408,
+        2353,
+        497,
+        2720
+      ],
+      "label": "text",
+      "text": "ERCHE\nMow\nNorth An\nment is made\nerty denominatio",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        990,
+        139,
+        1176,
+        161
+      ],
+      "label": "text",
+      "text": "THE BYSTANDER",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        990,
+        161,
+        1176,
+        1447
+      ],
+      "label": "text",
+      "text": "My H\nLove\n\nthink of the\ncoarse and stubby\ndid not dress and\nso, I am filled with\nPalmer's \"HAIR-\nressing, which has\ngave me beautif\nI positively look\nin since using it\n\nyou want beauty\nrist will tell you\nHAIR-SUCCESS\non a standard a\nand that it is\nthe purpose he\nand ask him.\n\nALMER'S\nP-SUCCESS\nENTERED IN U.S. FATENED OFFICE\n\nressing\n\nHAIR-SUCCESS Ointment\nHAIR-SUCCESS Dress\nSKIN-SUCCESS So-\nn Drug Co., Brooklyn",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        787,
+        180,
+        1321,
+        490
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +232,8 @@
         639
       ],
       "label": "doc_title",
-      "text": "Now My Hair is Lovely!\""
+      "text": "Now My Hair is Lovely!\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,17 +243,19 @@
         1046
       ],
       "label": "text",
-      "text": "\"When I think of the years I spent with coarse and stubborn hair that I could not dress and could hardly comb, I am filled with gratitude for Palmer's \"HAIR-SUCCESS\" Dressing, which has done so much to give me beautiful, soft; silky hair. I positively look like another person since using it.\"\n\nOf course you want beautiful hair. Your druggist will tell you that Palmer's \"HAIR-SUCCESS\" Dressing has been a standard article for many years, and that it is the best thing for the purpose he has ever handled. Go and ask him."
+      "text": "\"When I think of the years I spent with coarse and stubborn hair that I could not dress and could hardly comb, I am filled with gratitude for Palmer's \"HAIR-SUCCESS\" Dressing, which has done so much to give me beautiful, soft; silky hair. I positively look like another person since using it.\"\n\nOf course you want beautiful hair. Your druggist will tell you that Palmer's \"HAIR-SUCCESS\" Dressing has been a standard article for many years, and that it is the best thing for the purpose he has ever handled. Go and ask him.",
+      "status": "ok"
     },
     {
       "bbox": [
-        830,
-        1308,
-        1298,
+        784,
+        1068,
+        1334,
         1395
       ],
       "label": "text",
-      "text": "Palmer's SKIN-SUCCESS Ointment\u201435c-75c Palmer's HAIR-SUCCESS Dressing\u201435c Palmer's SKIN-SUCCESS Soap\u201425c The Morgan Drug Co., Brooklyn, N. Y."
+      "text": "PALMER'S\nHAIR-SUCCESS\"\nREGISTERED IN U.S. PATENT OFFICE\nDressing\nPalmer's SKIN-SUCCESS Ointment\u201435c-75c\nPalmer's HAIR-SUCCESS Dressing\u201435c\nPalmer's SKIN-SUCCESS Soap\u201425c\nThe Morgan Drug Co., Brooklyn, N. Y.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,17 +265,8 @@
         1908
       ],
       "label": "text",
-      "text": "Minneapolis, Supper cards and dineing and a jolly good time was the program of the evening.\n\nMiss Barrette left Friday for Minneapolis returning to service with the Minneapolis Athletic club where she has had employment for two years.\n\nRev, R. P, Palmer, of the Second Baptist church, trustees and members began their drive for $500.00 Tuesday morning. The amount raised to be used in the completion of their new church.\n\nSunday was rally day at the Second Baptist church. The sermons delivered by Rev. Palmer. The singing and the financial part went for the completion of the church and friends.\n\nSECOND BAPSTIST CHURCH DRIVE.\nRev, R. P, Palmer of the Second Baptist church and trustees will begin their drive for $500 Tuesday morning at 9 o'clock and will continue until aid amount is raised. This amount will be used for the completion of the new church on B. Avenue west.\n\nSunday May 2 is general rally day, $67 was raised Sunday April 25, by the members and friends in our afternoon meeting at the church. Many thanks to the pastor and members of the Shorty A, M. E, church for their co-operation. We hope to go over the top."
-    },
-    {
-      "bbox": [
-        825,
-        1922,
-        995,
-        1936
-      ],
-      "label": "paragraph_title",
-      "text": "MASON CITY ITEMS"
+      "text": "Minneapolis, Supper cards and dineing and a jolly good time was the program of the evening.\n\nMiss Barrette left Friday for Minneapolis returning to service with the Minneapolis Athletic club where she has had employment for two years.\n\nRev, R. P, Palmer, of the Second Baptist church, trustees and members began their drive for $500.00 Tuesday morning. The amount raised to be used in the completion of their new church.\n\nSunday was rally day at the Second Baptist church. The sermons delivered by Rev. Palmer. The singing and the financial part went for the completion of the church and friends.\n\nSECOND BAPSTIST CHURCH DRIVE.\nRev, R. P, Palmer of the Second Baptist church and trustees will begin their drive for $500 Tuesday morning at 9 o'clock and will continue until aid amount is raised. This amount will be used for the completion of the new church on B. Avenue west.\n\nSunday May 2 is general rally day, $67 was raised Sunday April 25, by the members and friends in our afternoon meeting at the church. Many thanks to the pastor and members of the Shorty A, M. E, church for their co-operation. We hope to go over the top.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +276,8 @@
         2501
       ],
       "label": "text",
-      "text": "Mr. Andrew Dammons is visiting friends in the south part of the state. The Social Evening club was entertained by Mr. and Mrs. Wingston and Mr. and Mrs. Harvey Spencer. They served light refreshments and later gave a very clever fortune telling sance. The Spencer Brothers are very busy on the foundation of a large new number vard. The Just Right club met with Mrs. Maude Brewton. A fruit shower was given for the Delta Sigma Theta girls of Iowa City. Miss Irma Caldwell has left for an her home in Minneapolis. Mrs. Vergil Warren is slightly under the weather. A very enjoyable Leap Year party was given by Mrs. Harvey Spencer adn Mrs. Ernest Gooden. The ladies for the evening usurped all the privileges generally granted to the men. The lovely home of the Goodens was most tastefully arranged for the occasion. A dainty luncheon was served at a late hour. Mr. Virgel recently sold his home in the southwest part of the city. The King's Daughters held their weekly meeting at the home of Mrs. Paul Scott. Miss Irma Calrwell has left for an indefinite stay in western Canada. Mrs. Maude Brewton was taken suddenly ill last Saturday and has been confined to her home ever since."
+      "text": "Mr. Andrew Dammons is visiting friends in the south part of the state. The Social Evening club was entertained by Mr. and Mrs. Wingston and Mr. and Mrs. Harvey Spencer. They served light refreshments and later gave a very clever fortune telling sance. The Spencer Brothers are very busy on the foundation of a large new number vard. The Just Right club met with Mrs. Maude Brewton. A fruit shower was given for the Delta Sigma Theta girls of Iowa City. Miss Irma Caldwell has left for an her home in Minneapolis. Mrs. Vergil Warren is slightly under the weather. A very enjoyable Leap Year party was given by Mrs. Harvey Spencer adn Mrs. Ernest Gooden. The ladies for the evening usurped all the privileges generally granted to the men. The lovely home of the Goodens was most tastefully arranged for the occasion. A dainty luncheon was served at a late hour. Mr. Virgel recently sold his home in the southwest part of the city. The King's Daughters held their weekly meeting at the home of Mrs. Paul Scott. Miss Irma Calrwell has left for an indefinite stay in western Canada. Mrs. Maude Brewton was taken suddenly ill last Saturday and has been confined to her home ever since.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,17 +287,8 @@
         2528
       ],
       "label": "text",
-      "text": "Mrs. John Taylor is the new president of the Just Rite club."
-    },
-    {
-      "bbox": [
-        818,
-        2539,
-        1006,
-        2553
-      ],
-      "label": "paragraph_title",
-      "text": "NOTICE IN PROBATE."
+      "text": "Mrs. John Taylor is the new president of the Just Rite club.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,17 +298,74 @@
         2652
       ],
       "label": "text",
-      "text": "You are hereby notified to appear at the court house in Polk county, Iowa, or the 25th day of May, A. D. 1920, at 10 o'clock a. m., to attend the probate of an instrument purporting to be the last will, and testament of Robert"
+      "text": "You are hereby notified to appear at the court house in Polk county, Iowa, or the 25th day of May, A. D. 1920, at 10 o'clock a. m., to attend the probate of an instrument purporting to be the last will, and testament of Robert",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        990,
+        2652,
+        1176,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        825,
+        1922,
+        995,
+        1936
+      ],
+      "label": "paragraph_title",
+      "text": "MASON CITY ITEMS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        818,
+        2539,
+        1006,
+        2553
+      ],
+      "label": "paragraph_title",
+      "text": "NOTICE IN PROBATE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1061,
+        161,
+        1352,
+        1455
+      ],
+      "label": "text",
+      "text": "My Hair\nlovely!\"\n\nof the years I\nand stubborn hair\ndress and could\nfill with grati-\nrer's \"HAIR-SUC-\nwhich has done so\nme beautiful, soft;\nrelatively look like an-\ne using it.\"\n\nwant beautiful hair.\nwill tell you that\n\"SUCCESS\" Dres-\nstandard article for\nthat it is the best\npose he has ever\nask him.\n\nMER'S\nSUCCESS\"\nUS FATENUT OFFICE\n\nESS Ointment\u201435c-75e\nESS Dressing\u201435c\nSUCCESS Soap\u201425c\nCo., Brooklyn, N. Y.",
+      "status": "ok"
     },
     {
       "bbox": [
         1061,
         1455,
         1352,
-        1570
+        1784
       ],
       "label": "text",
-      "text": "Luce, deceased late of Polk county, Iowa, at which time and place, you will a hearer, and show cause, if any, why said will should not be admitted to probate. In witness whereof, I have hereunto set my hand and affixed the seal of the District Court, at Des Moines, this 26th day of April, A. D., 1920."
+      "text": "Druce, deceased late of Polk county, Iowa, at which time and place, you will a year, and show cause, if any, why said will should not be admitted to probate. In witness whereof, I have hereunto set my hand and affixed the seal of the District Court, at Des Moines, this 26th day of April, A. D., 1920,\nA. E. MAHAN,\n(SEAL) Clerk District Court.\nC. A. HORNER,\nDeputy.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1073,
+        1659,
+        1937,
+        2659
+      ],
+      "label": "text",
+      "text": "OUR NEW HOME\n\nPENDLETON AVE. ST. PERDINAND AVE.\n\n25,000 MORE PORO AGENTS WANTED\nEquipped with the Very Latest Apparatus for Teaching the\nPoro System of Scalp and Hair Culture\nand all Branches of Beauty Culture\n\nTerms Moderate Diplomas Given\n\nWrite Today for Further Information\n\n\"PORO\" COLLEGE\n\nPoro Corner St. Louis. Mo.\n\n\"Dept. A-5'",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,17 +375,19 @@
         225
       ],
       "label": "doc_title",
-      "text": "ASPIRIN"
+      "text": "ASPIRIN",
+      "status": "ok"
     },
     {
       "bbox": [
-        1361,
-        319,
-        1648,
+        1651,
+        225,
+        1942,
         412
       ],
       "label": "text",
-      "text": "You want genuine Aspirin\u2014the Aspirin prescribed by physicians for nineteen years. The name \"Bayer\" means the true, world-famous Aspirin, proved safe by millions of people. (Perry)"
+      "text": "to Physicians in 1900\n\nRheumatism, Neuritis and for Pain generally.\n\nAlways say \"Bayer\" when buying Aspirin. Then look for the safety \"Bayer Cross\" on the package and on the tablets.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,117 +397,30 @@
         474
       ],
       "label": "text",
-      "text": "Each unbroken package of \"bayer\nTablets of Aspirin\" contains proper\ndirections for Colds, Headache, Tooth-\nache, Fever, Neuralgia, Lumbago,\nsell larger packages."
+      "text": "Each unbroken package of \"bayer\nTablets of Aspirin\" contains proper\ndirections for Colds, Headache, Tooth-\nache, Fever, Neuralgia, Lumbago,\nsell larger packages.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1411,
+        1651,
+        412,
+        1942,
+        533
+      ],
+      "label": "text",
+      "text": "Handy tin boxes of twelve tablets cost but a few cents. Druggists also sell larger packages. \n\nVacture Mononectil acidester of Salicylic acid",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1368,
         472,
         1912,
-        499
+        707
       ],
       "label": "text",
-      "text": "Earache, Neuritis\nAmuria is trade mark of Bayer Manufacture Mononectic acidester of Salicylic acid"
-    },
-    {
-      "bbox": [
-        1359,
-        766,
-        1644,
-        829
-      ],
-      "label": "text",
-      "text": "In the District Court of the state of\nTown, in and for Polk county, July\nterm, A. D., 1929.\nLillian Minor."
-    },
-    {
-      "bbox": [
-        1357,
-        896,
-        1646,
-        1136
-      ],
-      "label": "text",
-      "text": "You are hereby notified that the petition of the philipint in the above entitled cause is filed in the office of the clerk of the District Court of the state of Iowa, in and for Polk county, Iowa, claiming of you an absolute divorce from the band of marriancy on the grounds of desertion.\n\nFor further particulars see petition, and unless you appear thereto and defend before moon of the second day of the next term, being the July term of said court, which will commence at Des Moines, Polk county, Iowa, on the fifth day of July, 1920, default will be counted against you and judgment and decree rendered thereon."
-    },
-    {
-      "bbox": [
-        1434,
-        1135,
-        1629,
-        1177
-      ],
-      "label": "text",
-      "text": "his 61st day of May, 1920.\nGERTRUDE E. RUSHL\nAttorney for Plaintiff."
-    },
-    {
-      "bbox": [
-        1377,
-        1193,
-        1622,
-        1218
-      ],
-      "label": "paragraph_title",
-      "text": "CLASS \"B\" CASE ORIGINAL\nNOTICE"
-    },
-    {
-      "bbox": [
-        1359,
-        1222,
-        1645,
-        1282
-      ],
-      "label": "text",
-      "text": "In the Municipal Court of the City of Des Moines, Polk county, Iowa, fifth floor of Observatory Building Fourth and Locust streets."
-    },
-    {
-      "bbox": [
-        1359,
-        1346,
-        1647,
-        1593
-      ],
-      "label": "text",
-      "text": "To the above named defendant:\nYou are hereby notified that the plaintiff above named claims of you the sum of Fifty-three ($53.00) dollars, as justly due from you, from the 15th day of March, 1920, also legal attorney's fee, on account of money justly due and unpaid to plaintiff for unpaid house rent.\nFor further particulars see petition now on file.\nAnd that unless you appear in said court on the sixth day of May 1920, at nine o'clock in the forenoon of that day, and make defense to said claim, judgment will be rendered against you for that amount and costs."
-    },
-    {
-      "bbox": [
-        1358,
-        1586,
-        1646,
-        1642
-      ],
-      "label": "text",
-      "text": "Dated at Des Moines, Town, April 6,\n1920.\n\nJOHN L. THOMPSON.\nAttorney for Plaintiff."
-    },
-    {
-      "bbox": [
-        1653,
-        341,
-        1941,
-        412
-      ],
-      "label": "text",
-      "text": "generally\nAlways say \"Bayer\" when buying\nAspirin. Then look for the safety\n\"Bayer Cross\" on the package and on\nthe tablets."
-    },
-    {
-      "bbox": [
-        1724,
-        533,
-        1934,
-        560
-      ],
-      "label": "paragraph_title",
-      "text": "TUBERCULOSIS"
-    },
-    {
-      "bbox": [
-        1722,
-        563,
-        1933,
-        721
-      ],
-      "label": "text",
-      "text": "It was when physicians said it was impossible for J. M. Miller, Ohio Druggist to survive the ravage of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as A D D I LINE. An one with coughs showing tubercular tendency or your name and address in LUMBERS, ottio"
+      "text": "TUBERCULOSIS\n\nIt was when physician said it was impossible J. M. Miller, Ohio Drugs to survive the ravage of Tuberculosis, he began perimenting on himself, and discovered the Home Treatment, known as AD LINE. An one with cousins showing tubercular tendency.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,137 +430,140 @@
         767
       ],
       "label": "paragraph_title",
-      "text": "POLITICAL ANNOUNCEMENTS."
+      "text": "POLITICAL ANNOUNCEMENTS.",
+      "status": "ok"
     },
     {
       "bbox": [
         1651,
         788,
         1942,
-        1009
+        1352
       ],
       "label": "text",
-      "text": "C. W. Rhonds candidate for county auditor, Twelve years deputy auditor, Subject to Republican primaries.\n\nJ. G. Cooke.\nJ. G. Cook, now first deputy county auditor, republican candidate for county auditor, Polk county, subject to June primaries. Your vote will be appreciated.\n\nJohn W. Stewart,\nJohn W. Stewart, for sheriff of Polk county, a friend of every man, rich or poor. Subject to Republican primaries."
-    },
-    {
-      "bbox": [
-        1731,
-        1005,
-        1864,
-        1017
-      ],
-      "label": "paragraph_title",
-      "text": "Charles Saverude."
-    },
-    {
-      "bbox": [
-        1655,
-        1017,
-        1940,
-        1048
-      ],
-      "label": "text",
-      "text": "Charles Saveride, Republican candidate for sherriff of Iolk county, Iowa"
-    },
-    {
-      "bbox": [
-        1729,
-        1057,
-        1865,
-        1069
-      ],
-      "label": "paragraph_title",
-      "text": "Homer Thompson"
-    },
-    {
-      "bbox": [
-        1653,
-        1070,
-        1941,
-        1149
-      ],
-      "label": "text",
-      "text": "Candidate for coroner, subject to Republican primaries. During the sickness and death of Claude Koons I did the work as a Justice of the Peace (substitute) and understand it thoroughly."
-    },
-    {
-      "bbox": [
-        1735,
-        1151,
-        1863,
-        1162
-      ],
-      "label": "paragraph_title",
-      "text": "W S Manbeck"
+      "text": "C. W. Rhonds candidate for county auditor, Twelve years deputy auditor, Subject to Republican primaries.\n\nJ. G. Cooke.\nJ. G. Cook, now first deputy county auditor, Republican candidate for county auditor, Polk county, subject to June primaries. Your vote will be appreciated.\n\nJohn W. Stewart.\nJohn W. Stewart, for sherrif of Polk county, a friend of every man, rich or poor. Subject to Republican primar",
+      "status": "repetition"
     },
     {
       "bbox": [
         1651,
-        1164,
-        1941,
-        1209
-      ],
-      "label": "text",
-      "text": "Vote for W. S. Manbeek for sheriff of Park county subject to Republican primaries June 7."
-    },
-    {
-      "bbox": [
-        1730,
-        1216,
-        1867,
-        1230
-      ],
-      "label": "paragraph_title",
-      "text": "W. M. Hammill."
-    },
-    {
-      "bbox": [
-        1653,
-        1232,
-        1941,
-        1352
-      ],
-      "label": "text",
-      "text": "W. M. Hammill announces his candidacy for county treasurer subject to Republican primaries June 7, 1920.\n\nJames B. Weaver\nI hereby announce my candidacy for reelection as state representative subject to the approval of the Republican voters of Poins county."
-    },
-    {
-      "bbox": [
-        1733,
-        1358,
-        1860,
-        1370
-      ],
-      "label": "paragraph_title",
-      "text": "F. R. BENNETT"
-    },
-    {
-      "bbox": [
-        1654,
         1371,
-        1941,
-        1412
+        1942,
+        1872
       ],
       "label": "text",
-      "text": "Candidate for County Treasurer of\nPolk county, subject to primaries June"
+      "text": "Candidate for County Treasurer of Polk county, subject to primaries June 7.\n\nE. A. Lingenfeiter.\nE. A. Lingenfeiter candidate for election as state representative subject to Republican primaries June 7. Fifteen years practice of law in Des Moines, Ia.\n\nSANTAL CAPSTONE MIDY\n\nCATARPH of the BLADDER relieved in 24 HOURS\nEach Caprule bears the name MIDY\nDiscourse of counterfeits",
+      "status": "ok"
     },
     {
       "bbox": [
-        1730,
-        1425,
-        1868,
-        1438
+        1361,
+        319,
+        1648,
+        412
+      ],
+      "label": "text",
+      "text": "You want genuine Aspirin\u2014the Aspirin prescribed by physicians for nineteen years. The name \"Bayer\" means the true, world-famous Aspirin, proved safe by millions of people. (Perry)",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1359,
+        766,
+        1644,
+        829
+      ],
+      "label": "text",
+      "text": "In the District Court of the state of\nTown, in and for Polk county, July\nterm, A. D., 1929.\nLillian Minor.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1357,
+        896,
+        1646,
+        1136
+      ],
+      "label": "text",
+      "text": "You are hereby notified that the petition of the philipint in the above entitled cause is filed in the office of the clerk of the District Court of the state of Iowa, in and for Polk county, Iowa, claiming of you an absolute divorce from the band of marriancy on the grounds of desertion.\n\nFor further particulars see petition, and unless you appear thereto and defend before moon of the second day of the next term, being the July term of said court, which will commence at Des Moines, Polk county, Iowa, on the fifth day of July, 1920, default will be counted against you and judgment and decree rendered thereon.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1434,
+        1135,
+        1629,
+        1177
+      ],
+      "label": "text",
+      "text": "his 61st day of May, 1920.\nGERTRUDE E. RUSHL\nAttorney for Plaintiff.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1377,
+        1193,
+        1622,
+        1218
       ],
       "label": "paragraph_title",
-      "text": "E. A. Lingeufelter"
+      "text": "CLASS \"B\" CASE ORIGINAL\nNOTICE",
+      "status": "ok"
     },
     {
       "bbox": [
-        1656,
-        1441,
-        1939,
-        1501
+        1359,
+        1222,
+        1645,
+        1282
       ],
       "label": "text",
-      "text": "E. A. Lingenfelter candidate for election as state representative subject to Republican primaries June 7. Fifteen years practice of law in Des Moines, IA"
+      "text": "In the Municipal Court of the City of Des Moines, Polk county, Iowa, fifth floor of Observatory Building Fourth and Locust streets.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1359,
+        1346,
+        1647,
+        1593
+      ],
+      "label": "text",
+      "text": "To the above named defendant:\nYou are hereby notified that the plaintiff above named claims of you the sum of Fifty-three ($53.00) dollars, as justly due from you, from the 15th day of March, 1920, also legal attorney's fee, on account of money justly due and unpaid to plaintiff for unpaid house rent.\nFor further particulars see petition now on file.\nAnd that unless you appear in said court on the sixth day of May 1920, at nine o'clock in the forenoon of that day, and make defense to said claim, judgment will be rendered against you for that amount and costs.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1358,
+        1586,
+        1646,
+        1642
+      ],
+      "label": "text",
+      "text": "Dated at Des Moines, Town, April 6,\n1920.\n\nJOHN L. THOMPSON.\nAttorney for Plaintiff.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1724,
+        533,
+        1934,
+        560
+      ],
+      "label": "paragraph_title",
+      "text": "TUBERCULOSIS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1722,
+        563,
+        1933,
+        721
+      ],
+      "label": "text",
+      "text": "It was when physicians said it was impossible for J. M. Miller, Ohio Druggist to survive the ravage of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as A D D I LINE. An one with coughs showing tubercular tendency or your name and address in LUMBERS, ottio",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +573,8 @@
         788
       ],
       "label": "paragraph_title",
-      "text": "C. W. Rhoads."
+      "text": "C. W. Rhoads.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,7 +584,74 @@
         853
       ],
       "label": "paragraph_title",
-      "text": "J. G. Cooke"
+      "text": "J. G. Cooke",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1731,
+        1005,
+        1864,
+        1017
+      ],
+      "label": "paragraph_title",
+      "text": "Charles Saverude.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1729,
+        1057,
+        1865,
+        1069
+      ],
+      "label": "paragraph_title",
+      "text": "Homer Thompson",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1735,
+        1151,
+        1863,
+        1162
+      ],
+      "label": "paragraph_title",
+      "text": "W S Manbeck",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1730,
+        1216,
+        1867,
+        1230
+      ],
+      "label": "paragraph_title",
+      "text": "W. M. Hammill.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1733,
+        1358,
+        1860,
+        1370
+      ],
+      "label": "paragraph_title",
+      "text": "F. R. BENNETT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1730,
+        1425,
+        1868,
+        1438
+      ],
+      "label": "paragraph_title",
+      "text": "E. A. Lingeufelter",
+      "status": "ok"
     }
   ]
 }

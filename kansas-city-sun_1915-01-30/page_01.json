@@ -3,6 +3,17 @@
   "image": "images/page_01.jpg",
   "width": 2121,
   "height": 2800,
+  "processed_at": "2026-03-07T12:13:07.245769+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 98,
+    "after_merge": 56
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         401
       ],
       "label": "doc_title",
-      "text": "Go-to-Church-Sunday is February 7th. Lets Everybody Close Up and Go"
+      "text": "Go-to-Church-Sunday is February 7th. Lets Everybody Close Up and Go",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,19 @@
         299
       ],
       "label": "text",
-      "text": "VOLUME VI1. NUMBER 22."
+      "text": "VOLUME VI1. NUMBER 22.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        124,
+        127,
+        370,
+        229
+      ],
+      "label": "text",
+      "text": "A FEARLESS DEFENDER OF THE RACE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +56,8 @@
         469
       ],
       "label": "text",
-      "text": "TUSKEGEE ANNUAL NEGRO CON\nFERENCE TELLS HOW TO\nWIN OUT IN HARD TIMES"
+      "text": "TUSKEGEE ANNUAL NEGRO CON\nFERENCE TELLS HOW TO\nWIN OUT IN HARD TIMES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,27 +67,52 @@
         532
       ],
       "label": "paragraph_title",
-      "text": "Crop Diversification, Raising Food to Eat and Organized Effort Needed."
+      "text": "Crop Diversification, Raising Food to Eat and Organized Effort Needed.",
+      "status": "ok"
     },
     {
       "bbox": [
         103,
         543,
         370,
+        1041
+      ],
+      "label": "text",
+      "text": "Tuskegee Institute, Ala., Jan. 29.\u2014To one who was present when the first Tuskegee Negro Conference met at the Tuskegee Institute, twenty-four years ago, and who followed the conferences held during the subsequent ten years, something was missing from the monster crowds which met today to visit or have part in the Tuskegee Negro oCinference of farmers which has just closed.\n\nThis \"something\" was the once familiar type of old colored men and women, carelessly dressed, primitive, timid, but ready to stand up in the conference and tell about their troubles and hindrances. Many times during the day persons who saw the earlier conferences were heard to remark that there was a difference\u2014that the old bandana handkerchief is seldom seen now at the conference, that coattail discouraged men seldom appear as old old, and that few persons ever come now to tell of their \"troubles.\"\n\nHow Program Has Changed.\n\nThe old men and women were here today in numbers as of yore; but the habits, manners, dress, and general views of things which made them so picturesque some twenty years ago have largely disappeared.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        103,
+        1043,
+        370,
         1599
       ],
       "label": "text",
-      "text": "Tuskegee Institute, Ala., Jan. 29.\u2014To one who was present when the first Tuskegee Negro Conference met at the Tuskegee Institute, twenty-four years ago, and who followed the conferences held during the subsequent ten years, something was missing from the monster crowds which met today to visit or have part in the Tuskegee NegroOconference of farmers which has just closed.\n\nThis \"something\" was the once familiar type of old colored men and women, carelessly dressed, primitive, timid, but ready to stand up in the conference and tell about their troubles and hindrances. Many times during the day persons who saw the earlier conferences were heard to remark that there was a difference\u2014that the old bandana handierchief iseldom seen now at the conference, that coatless discouraged men seldom appear as old old, and that few persons ever come now to tell of their \"troubles.\"\n\nHow Program Has Changed.\n\nThe old men and women here today in numbers as of yore; but the habits, manners, dress, and general views of things which made them so picturesque some twenty years ago have largely disappeared.\n\nTwenty-four years ago, the Tuskegee NegroOconference was started with the idea of helping encourage the colored people to get out of debt and to abandon the one-room cabins for better and more comfortable homes.\n\nSteadily the Conference \"pegged\" away with these objects in view. Slowly improvements began to be observed; and year after year the colored farmers began to come back and tell proudly how they had gotten out of debt and had added more rooms to their houses.\n\nThe Conference widened its program and began working for better teachers, better ministers and longer school terms. Very soon there was added to the program a campaign for the ownership of homes and land. Visitors to the Conference, from all parts of the oSuth, caught the inspiration of the slogan, \"Buy a home and some land; get a good preacher and keep him; lengt\u0259n the school term and employ a worthy teacherc\"; and these visitors went back home and sent the message far and wide. In any one will take the trouble to examine the United States Census Reports and the proceedings of the Tuskegee Conference, he will find that negroes made the greatest advance in home-ownership during the period\u20141900-1910\u2014in which the Tuskegee Conference was hammering home the entreaty to colored people in the"
+      "text": "Twenty-four years ago, the Tuskegee Nc oConference was started with the idea of helping encourage the colored people to get out of debt and to abandon the one-room cabins for better and more comfortable homes.. Steadily the Conference \"pegged\" away with these objects in view. Slowly improvements began to be observed; and year after year the colored farmers began to come back and tell proudly how they had gotten out of debt and had added more rooms to their houses.\n\nThe Conference widened its program and began working for better teachers, better ministers and longer school terms. Very soon there was added to the program a campaign for the ownership of homes and land. Visitors to the Conference, from all parts of the oSuth, caught the inspiration of the slogan, \"Buy a home and some land; get a good preacher and keep him; lengtten the school term and employ a worthy teacherc\"; and these visitors went back home and sent the message far and wide. If any one will take the trouble to examine the United States Census Reports and the proceedings of the Tuskegee Conference, he will find that negroes made the greatest advance in home-ownership during the period\u20141900-1910\u2014in which the Tuskegee Conference was hammering home the entreaty to colored people in the",
+      "status": "ok"
     },
     {
       "bbox": [
         109,
-        1962,
+        1618,
+        376,
+        2099
+      ],
+      "label": "text",
+      "text": "SIR. GEO. BROOMFIFLD, ST.\nLOUIS, MO.\nGrand High Priest of the Royal\nArch Masons of the Missouri Juris-\ndiction, and a Masonic Scholar of\nWide Reputation.\n\nSouth\u2014\"Buy a home! Get some\nland, if only a few acres!\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        111,
+        2101,
         377,
         2338
       ],
       "label": "text",
-      "text": "SIR. GEO. BROOMFIILD, ST. LOUIS, MO.\nGrand High Priest of the Royal Arch Masons of the Missouri Jurisdiction, and a Masonic Scholar of Wide Reputation.\n\nSouth\u2014\"Buy a home! Get some land, if only a few acres!\"\nAnd, so, the program has widened until today the dominant note was and is crop diversification and the raising at home of food enough for man beast. The old type visitor and delegate has gone, but in its place is another made up of coloured men and women who are learning how to live. For this twenty-fourth annual conference, it is certain that not less than 3,000 people had gathered, farmers, their wives and children, teachers, ministers, editors, physicians and representatives of every group of persons now laboring with and fo rthe colored people."
+      "text": "And, so, the program has widened until today the dominant note was and is crop diversification and the raising at home of food enough for man beast. The old type visitor and delegate has gone, but in its place is another made up of colored men and women who are learning how to live. For this twenty-fourth annual conference, it is certain that not less than 3,000 people had gathered, farmers, their wives and children, teachers, ministers, editors, physicians and representatives of every group of persons now laboring with and so rhe colored people.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +122,8 @@
         2356
       ],
       "label": "paragraph_title",
-      "text": "Agricultural Parade."
+      "text": "Agricultural Parade.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +133,8 @@
         2672
       ],
       "label": "text",
-      "text": "Agricultural Parade.\n\nThe exercises began with the agricultural parade which left the Millbank Agricultural building; at 9 intended to contrast old methods of farming' with those now in general use and as carried on by the Tuskegee Institute and the Farm Demonstration work of the United States government, was begun at the last conference; but the one today included many new features and wa smo instructive. The parade left the agricultural building on time, led by twenty-four horsemen, two abreast. These were followed by twenty-four bearing rods to which various agricultural products were attached, came next, and were immediately followed by the same number of young men from the Institute Agricultural also carried staffs to whichearMM"
+      "text": "Agricultural Parade.\n\nThe exercises began with the agricultural parade which left the Millbank Agricultural building; at 9 intended to contrast old methods of farming' with those now in general use and as carried on by the Tuskegee Institute and the Farm Demonstration work of the United States government, was begun at the last conference; but the one today included many new features and wa smo instructive. The parade left the agricultural building on time, led by twenty-four horsemen, two abreast. These were followed by twenty-four bearing rods to which various agricultural products were attached, came next, and were immediately followed by the same number of young men from the Institute Agricultural also carried staffs to whichearMM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,17 +144,30 @@
         253
       ],
       "label": "doc_title",
-      "text": "The Kansas City Sun"
+      "text": "The Kansas City Sun",
+      "status": "ok"
     },
     {
       "bbox": [
         375,
         423,
         642,
+        1013
+      ],
+      "label": "text",
+      "text": "department and the county. These also carried staffs to which farm products were attached. The band, playing a number of lively airs, came next and was followed by the experiment station float on which was shown a bale of cotton and select cotton seed produced on the institute experiment plat. The process of ginning and grading cotton was exhibited while the parade moved; and, at the same time, quantities of home-made fertilizer composed of leaves, swamp muck, pine straw, barnyard manure, etc., were mixed in the presence of the beholders.\n\nOn the orchard float were shown a tree planter, and young men pruning and spraying fruit trees; while the truck garden showed a variety of vegetables indicated how they are prepared for market and exhibited the method of selling them from a wagon. Other floats showed a dairy and creamery, a poultry, piggy and meat house; from the canning factory; horses and mules; cotton and corn; individual floats; the new and the old\u2014rural church, etc.; the rural school; hospital aid\u2014children's house.\n\nSlowly the long line passed from the starting point to Carnegie Library, where a monster reviewing stand had been erected for the special guests. The spectacle was imposing, but eloquent in its showings of what can be done on the farm through intelligent efforts.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        377,
+        1016,
+        640,
         1060
       ],
       "label": "text",
-      "text": "department and the county. These also carried staffs to which farm products were attached. The band, playing a number of lively airs, came next and was followed by the experiment station float on which was shown a bale of cotton and select cotton seed produced on the institute experiment plat. The process of ginning and grading cotton was exhibited while the parade moved; and, at the same time, quantities of home-made fertilizer composed of leaves, swamp muck, pine straw, barnyard manure, etc., were mixed in the presence of the beholders.\n\nOn the orchard float were shown a tree planter, and young men pruning and spraying fruit trees; while the truck garden showed a variety of vegetables indicated how they are prepared for market and exhibited the method of selling them from a wagon. Other floats showed a dairy and creamery, a poultry, piggery and meat house; from the canning factory; horses and mules; cotton and corn; individual floats; the new and the old\u2014rural church, etc.; the rural school; hospital aid\u2014children's house.\n\nSlowly the long line passed from the starting point to Carnegie Library, where a monster reviewing stand had been erected for the special guests. The spectacle was imposing, but eloquent in its showings of what can be done on the farm through intelligent efforts.\n\nAt last the long procession reached the chapel, where, at 11 o'clock, the session began."
+      "text": "At last the long procession reached the chapel, where, at 11 o'clock, the session began.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,17 +177,52 @@
         1077
       ],
       "label": "paragraph_title",
-      "text": "Cause of Hard Times."
+      "text": "Cause of Hard Times.",
+      "status": "ok"
     },
     {
       "bbox": [
         376,
         1079,
+        644,
+        1545
+      ],
+      "label": "text",
+      "text": "The chapel was packed. Prominent educators, white and colored, had seats on the platform. Around the walls were a number of charts showing some of the causes of the present hard times, the main one being that too much cotton and too little corn are produced. For instance, it was sown that Negroes grow $340,000,000 worth of cotton and only $161,000,000 woft of all other farm products combined, a ratio of one dollar's worth of cotton for every forty-five cents frth of all other farm products. The charts showed in detail the value of all farm products grown in varionous states y Negro farmers for every dollars' worth of cotton. To give but a few examples\u2014The Arkansasas colored farmer grows 30 cents worth of all other crops for every dollar's worth of cotton he produces; in Georgia, the colored man produces 40 cents worth of other crops for his dollar's worth of cotton; Louisiana, 55 cents worth; and in Ala-ama, 62 cents worth. The meeting was opened by a song and prayer, after which Dr. Booker T. Washington, delivered his annual address. He said in part:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        376,
+        1546,
+        645,
+        1935
+      ],
+      "label": "text",
+      "text": "Notwithstanding the strenuous financial experiences through which most farmers of this section are passing, I am glad to note many evidences of continued progress on your part. First of all, the farmers' parade in which you took part this morning is evidence of a higher character that the Negro farmers are not discourages that the are learning to produce that on their farms which is making them independent and more useful. One of the weights that our people should throw off is the habit of carrying pistols, of keeping pistols on the body and in the home. I know many colored people who spend more on a pistol every year than they do on the education of their children. The pistol, in nine cases out of ten, not only does not protect the individual, but it leads him to trouble. One of the weights, then, that we can throw off first is the expense of buying and keeping the use of a pistol will lead us into.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        381,
+        1937,
+        649,
+        2508
+      ],
+      "label": "text",
+      "text": "Another weight which our race is getting altogether too fast, especially this year, of stealing\u2014pilinger. Perhaps there has never been a season when there have been so many cases reported in town and country districts of people attempting to steal or pilfer. I am aware of the fact that this, y no means, is confined to the Negro race. The same charges are eling brought against white people, but the ooing of wrong on the part of white people does not help our people, an dI am talking just now especially to the Negro.\n\nDon't Go in Blind Tigers.\n\nStill another thing that we can throw off is that of supporting and patronizing \"blind tigers.\" There are not a few petty officers of the law who make their living by arresting colored people who are changed with patronizing the \"blind tiger.\" Let us throw off that weight and wherever the law prohibits the selling or buying of whiskey, let us comply with the law at any cost.\n\nStill another weight that we can throw off is the habit, in too many of our country and farming districts, of gambling. Gambling leads to a loss of time, to a loss of money, to a loss of character and in many cases, it leads to murder and finally to the prison and often to the gallows. Galmbling, then, is a weight which we should get rid of in every farming district.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        385,
+        2509,
         650,
         2674
       ],
       "label": "text",
-      "text": "The chapel was packed. Prominent educators, white and colored, had seats on the platform. Around the walls were a number of charts showing some of the causes of the present hard times, the main one being that too much cotton and too little corn are produced. For instance, it was sown that Negroes grow $340,000,000 worth of cotton and only $161,000,000 worth of all other farm products combined, a ratio of one dollar's worth of cotton for every forty-five cents forth of all other farm products.\n\nThe charts showed in detail the value of all farm products grown in varionus states y Negro farmers for every dollars' worth of cotton. To give but a few examples\u2014The Arkansas colored farmer grows 30 cents worth of all other crops for every dollar's worth of cotton he produces; in Georgia, the colored man produces 40 cents worth of other crops for his dollar's worth of cotton; Louisiana, 55 cents worth; and in Alabama, 62 cents worth.\n\nThe meeting was opened by a song and prayer, after which Dr. Booker T. Washington delivered his annual address. He said in part:\n\nNotwithstanding the strenuous financial experiences through which most farmers of this section are passing, I am glad to note many evidences of continued progress on your part. First of all, the farmers' parade in which you took part this morning is evidence of a higher character that the Negro farmers are not discourages that the are learning to produce that on their farms which is making them independent and more useful.\n\nOne of the weights that our people should throw off is the habit of carrying pistols, of keeping pistols on the body and in the home. I know many colored people who spend more on a pistol every year than they do on the education of their children. The pistol, in nine cases out of ten, not only does not protect the individual, but it leads him to trouble. One of the weights, then, that we can throw off first is the expense of buying and keeping the use of a pistol will lead us into.\n\nAnother weight which our race is getting altogether too fast, especially this year, of stealing\u2014pilling. Perhaps there has never been a season when there have been so many cases reported in town and country districts of people attempting to steal or plifer. I am aware of the fact that this, y no means, is confined to the Negro race. The same charges are eing brought against white people, but the doing of wrong on the part of white people does not help our people, an dI am talking just now especially to the Negro.\n\nDon't Go in Blind Tigers.\n\nStill another thing that we can throw off is that of supporting and patronizing \"blind tigers.\" There are not a few petty officers of the law who make petty officers of the"
+      "text": "Another weight which we can easily throw off is the habit of spending so much money and time in useless law suits-law suits that are founded upon some trivial matter that could be settled in five minutes by the minister, by the teacher, or by somebody, else, or some person in the community. Often weeks are spent and much money is spent in hanging around a court house in connection",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,17 +232,30 @@
         301
       ],
       "label": "text",
-      "text": "KANSAS CITY, MISSOURI, SATURDAY, JANUARY 30, 1915."
+      "text": "KANSAS CITY, MISSOURI, SATURDAY, JANUARY 30, 1915.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        647,
+        429,
+        913,
+        990
+      ],
+      "label": "text",
+      "text": "REV. ARMSTEAD MILTON WARD,\nD. D., Presiding Elder of the Rocky Mountain District of the Colorado Conference of the A. M. E. Church.\n\nwith some little law suit not worth five minutes discussion. Let us throw off that weight during this year and put the same time and the same money into a better farm, a better home; to the education of our children and the strengthening of the church.",
+      "status": "ok"
     },
     {
       "bbox": [
         645,
-        788,
-        913,
+        991,
+        912,
         1174
       ],
       "label": "text",
-      "text": "REV. ARMSTEAD MILTON WARD,\nD. D., Presiding Elder of the Rocky\nMountain District of the Colorado\nConference of the A. M. E. Church.\n\nwith some little law suit not worth\nfive minutes discussion. Let us\nthrow off that weight during this year\nand put the same time and the same\nmoney into a better farm, a better\nhome, to the education of our children\nand the strengthening of the church.\n\nFinally, as you go home from this\nFarmers' Conference carry in your\nminds a fire resolve that this year,\nmore than ever, you will raise every\nthing necessary to keep you and your\nfamily at home. Raise it in your garden,\nraise it on your farm, raise your\nown poultry, your own stock, your\nown fruit and in proportion as you do\nthis, you will have better homes, bet-\nracial relations and more righteous\nand law-abiding community."
+      "text": "Finally, as you go home from this Farmers' Conference carry in your minds a fire resolve that this year, more than ever, you will raise everything necessary to keep you and your family at home. Raise it in your garden, raise it on your farm, raise your own poultry, your own stock, your own fruit and in proprotion as you do this, you will have better homes, betracial relations and more righteous and law-abiding community.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +265,8 @@
         1293
       ],
       "label": "text",
-      "text": "Raising Their Own Food Supplies.\nAfter concluding this address,\nwhich was received with great and\nprolonged cheering. Dr. Washington\nbrought the Conference right down\nto business by calling for reports\nfrom persons who are raising their\nown food supplies."
+      "text": "Raising Their Own Food Supplies.\nAfter concluding this address,\nwhich was received with great and\nprolonged cheering. Dr. Washington\nbrought the Conference right down\nto business by calling for reports\nfrom persons who are raising their\nown food supplies.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +276,8 @@
         1436
       ],
       "label": "text",
-      "text": "Mrs. Eliza Russell and Mr. and Mrs. J. H. Robinson wish to thank the many friends and especially Gate City Lodge G. U. O. of O. F., who have been so kind during the illness of Mr. Russell. 1903 East 24th street. Mr. Russell is slowly improving."
+      "text": "Mrs. Eliza Russell and Mr. and Mrs. J. H. Robinson wish to thank the many friends and especially Gate City Lodge G. U. O. of O. F., who have been so kind during the illness of Mr. Russell. 1903 East 24th street. Mr. Russell is slowly improving.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +287,8 @@
         1535
       ],
       "label": "doc_title",
-      "text": "FREE LECTURE"
+      "text": "FREE LECTURE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +298,8 @@
         1664
       ],
       "label": "doc_title",
-      "text": "Pastor W. A. Wisdom"
+      "text": "Pastor W. A. Wisdom",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +309,19 @@
         1897
       ],
       "label": "text",
-      "text": "In His Lectures\n\n\"DISTRESS OF NATIONS; THEN ARMAGGEDON\"\n\n\"WHY FINANCIERS TREMBLE\"\n\nSUNDAY, JANUARY 31, 3 P. M. FRATERNAL HALL\nKANSAS CITY, KANS.\n\nDILLENBECK HALL 8 P. M. Ninth and Locust Streets\nKANSAS CITY, MO.\n\nPastor Wisdom is a speaker of international reputation,\nfluent delivery and a close Bible student."
+      "text": "In His Lectures\n\n\"DISTRESS OF NATIONS; THEN ARMAGGEDON\"\n\n\"WHY FINANCIERS TREMBLE\"\n\nSUNDAY, JANUARY 31, 3 P. M. FRATERNAL HALL\nKANSAS CITY, KANS.\n\nDILLENBECK HALL 8 P. M. Ninth and Locust Streets\nKANSAS CITY, MO.\n\nPastor Wisdom is a speaker of international reputation,\nfluent delivery and a close Bible student.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        666,
+        2012,
+        1701,
+        2633
+      ],
+      "label": "text",
+      "text": "25,000\nFEB 27\n1419\nRESTAURANT\nM.E.A.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +331,8 @@
         2674
       ],
       "label": "text",
-      "text": "A group of the hustlers who went through the snow and storm to make the present Y. M. C. A. possible. Two of the group have passed on to the Great Beyond. Nearly all the rest are still on the firing line and expect to see the work through to the end."
+      "text": "A group of the hustlers who went through the snow and storm to make the present Y. M. C. A. possible. Two of the group have passed on to the Great Beyond. Nearly all the rest are still on the firing line and expect to see the work through to the end.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +342,8 @@
         1325
       ],
       "label": "paragraph_title",
-      "text": "CARD OF THANKS."
+      "text": "CARD OF THANKS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +353,8 @@
         762
       ],
       "label": "text",
-      "text": "The Kansas City Sun is authorized to announce the engagement of Mrs. Lydia C. Smith, general secretary of the Yates Branch of the Young Women's Christian association Kansas City, Kansas and the Rev. Armnstead Milton Ward, Presiding Elder of the Rocky Mountain district of the African M. E. Church of Denver, Colo., who are to be united in marriage on the evening of Wednesday, February 10, 1915 at 5:00 o'clock at the First A. M. E. church, Eighth and Nebraska avenue, Kansas City, Kansas. All friends are cordially invited. No cards will be issued. An informal reception will be given by the Yates Y. W. C. A. from 6:00 to 9:00 p. m. at the church. At home after February 22, at 2337 Ogden street, Denver, Colo."
+      "text": "The Kansas City Sun is authorized to announce the engagement of Mrs. Lydia C. Smith, general secretary of the Yates Branch of the Young Women's Christian association Kansas City, Kansas and the Rev. Armnstead Milton Ward, Presiding Elder of the Rocky Mountain district of the African M. E. Church of Denver, Colo., who are to be united in marriage on the evening of Wednesday, February 10, 1915 at 5:00 o'clock at the First A. M. E. church, Eighth and Nebraska avenue, Kansas City, Kansas. All friends are cordially invited. No cards will be issued. An informal reception will be given by the Yates Y. W. C. A. from 6:00 to 9:00 p. m. at the church. At home after February 22, at 2337 Ogden street, Denver, Colo.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +364,8 @@
         1054
       ],
       "label": "text",
-      "text": "The Sun desires to extend its sincere thanks to those friends, new and old who so enthusiastically and generously assisted in its campaign during this month for new subscribers. We especially desire to thank each and every one of the 638 persons to date who have availed themselves of our special offer and assure them it will be our highest aim throughout the year to give them our other subscribers and the race, absolutely the Best Negro Newspaper published in these United States of America."
+      "text": "The Sun desires to extend its sincere thanks to those friends, new and old who so enthusiastically and generously assisted in its campaign during this month for new subscribers. We especially desire to thank each and every one of the 638 persons to date who have availed themselves of our special offer and assure them it will be our highest aim throughout the year to give them our other subscribers and the race, absolutely the Best Negro Newspaper published in these United States of America.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +375,8 @@
         1431
       ],
       "label": "text",
-      "text": "From a 33d Degree Mason, Topeka, Kansas. Dear Editor:\u2014 You will find herewith enclosed my check for a year's subscription to your valued publication. In making this renewal of my subscription, I would be unmindful of the greatest duty I owe myself, if I failed to testify my sense of a preciation of what I seem to be, that your publication is the greatest effort and triumph of Negro Journalism pat forward in this country. I am a reader and subscriber of many publications in the interest of the race, but the Kansas City Sun excels them all and a Negro home would be incomplete without its presence. I am\n\nYours for continued success.\n\nALLEN P. SMITH."
+      "text": "From a 33d Degree Mason, Topeka, Kansas. Dear Editor:\u2014 You will find herewith enclosed my check for a year's subscription to your valued publication. In making this renewal of my subscription, I would be unmindful of the greatest duty I owe myself, if I failed to testify my sense of a preciation of what I seem to be, that your publication is the greatest effort and triumph of Negro Journalism pat forward in this country. I am a reader and subscriber of many publications in the interest of the race, but the Kansas City Sun excels them all and a Negro home would be incomplete without its presence. I am\n\nYours for continued success.\n\nALLEN P. SMITH.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +386,8 @@
         1110
       ],
       "label": "paragraph_title",
-      "text": "A HIGH COMPLIMENT."
+      "text": "A HIGH COMPLIMENT.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +397,8 @@
         1253
       ],
       "label": "text",
-      "text": "---"
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +408,8 @@
         1316
       ],
       "label": "doc_title",
-      "text": "Go to Church Sunday"
+      "text": "Go to Church Sunday",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +419,19 @@
         1579
       ],
       "label": "text",
-      "text": "8:00 to 10:00 a. m.\u2014Breakfast.\n12:30 to 3:00 p. m.\u2014Dinner.\n5:30 to 8:00 p. m.\u2014Dinner."
+      "text": "8:00 to 10:00 a. m.\u2014Breakfast.\n12:30 to 3:00 p. m.\u2014Dinner.\n5:30 to 8:00 p. m.\u2014Dinner.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1188,
+        425,
+        1441,
+        806
+      ],
+      "label": "text",
+      "text": "MRS. LYDIA C. SMITH\nSecretary of the Yates Y. M. C. A.\nKansas City, Kansas.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,17 +441,8 @@
         806
       ],
       "label": "text",
-      "text": "MRS. LYDIA C. SMITH\nSecretary of the Yates Y. M. C. A.\nKansas City, Kansas"
-    },
-    {
-      "bbox": [
-        1188,
-        762,
-        1441,
-        806
-      ],
-      "label": "text",
-      "text": "MRS. LYDIA C. SMITH Secretary of the Yates Y. M. C. A. Kansas City, Kansas"
+      "text": "MRS. LYDIA C. SMITH\nSecretary of the Yates Y. M. C. A.\nKansas City, Kansas",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,17 +452,8 @@
         875
       ],
       "label": "paragraph_title",
-      "text": "SMITH'S PHARMACY\nASK FOR SURE SHOT"
-    },
-    {
-      "bbox": [
-        1234,
-        835,
-        1397,
-        851
-      ],
-      "label": "paragraph_title",
-      "text": "SMITH'S PHARMACY"
+      "text": "SMITH'S PHARMACY\nASK FOR SURE SHOT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,27 +463,30 @@
         1203
       ],
       "label": "text",
-      "text": "It will cure that severe case of Rheumatism. That severe cough, and cold.\u2014That severe case of Female weakness.\u2014When you can't get relief after you have tried a number of other remedies.\n\nAsk for SURE SHOT they are the remedies that cure. Prices 50 cents, 75 cents and $1.00 at SMITH'S DRUG STORE\n1301 East 18th Street,\nBell Phone No. 4591 Grand Home Phone No. 5467 Main.\nAnything in the Drug line by phone and mail orders."
+      "text": "It will cure that severe case of Rheumatism. That severe cough, and cold.\u2014That severe case of Female weakness.\u2014When you can't get relief after you have tried a number of other remedies.\n\nAsk for SURE SHOT they are the remedies that cure. Prices 50 cents, 75 cents and $1.00 at SMITH'S DRUG STORE\n1301 East 18th Street,\nBell Phone No. 4591 Grand Home Phone No. 5467 Main.\nAnything in the Drug line by phone and mail orders.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1201,
-        1168,
-        1428,
-        1202
+        1181,
+        1203,
+        1450,
+        1624
       ],
       "label": "text",
-      "text": "Anything in the Drug line by phone and mail orders."
+      "text": "Go to Chur\nAfter\nGo to the Y.M.C\nSunday Hours:\n8:00 to 10:00 a.\n12:30 to 3:00 p.\n5:30 to 8:00 p.",
+      "status": "ok"
     },
     {
       "bbox": [
         1181,
         1605,
         1450,
-        1968
+        2199
       ],
       "label": "text",
-      "text": "MOON'S\nLive and Dressed Poultry, Eggs and\nGame, Fresh from the Country.\nWholesale and Retail.\nQUICK ACTION!\nThe spirit of the times is, do if\nnow\u2014when there is an emergency to\nmeet, when a need of business or the\nhome presents itself, quick, decisive\naction is demanded.\nMOON\u2014with the best of live and\ndressed poultry\u2014quality in all the\nword implies\u2014has been, is now and\nshall be a large factor in the distribution\nof produce products and the\nmoney, too. Why? Because we have\nthe goods, and the cost is no more.\nSaturday Specials!\nKansas trapped rabbits . . . 14\nSprings . . . 15\u00bd\u00a2\nBroilers . . . 16\u00bd\u00a2\nNice fat, young hens . . . 15\u00bd\u00a2\nFor quick service call Bell Phone,\nGrand 1746W. 1335 E. 18th St."
+      "text": "MOON'S Live and Dressed Poultry, Eggs and Game, Fresh from the Country. Wholesale and Retail. QUICK ACTION!\n\nThe spirit of the times is, do if now\u2014when there is an emergency to meet, when a need of business or the home presents itself, quick, decisive action is demanded.\n\nMOON\u2014with the best of live and dressed poultry\u2014quality in all the word implies\u2014has been, is now and shall be a large factor in the distribution of produce products and the money, too. Why? Because we have the goods, and the cost is no more.\n\nSaturday Specials!\n\nKansas trapped rabbits.....14\nSprings.....15\u00bd c\nBroilers.....16\u00bd c\nNice fat, young hens.....15\u00bd c\n\nFor quick service call Bell Phone, Grand 1746W. 1335 E. 18th St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,27 +496,63 @@
         457
       ],
       "label": "paragraph_title",
-      "text": "Y. M. C. A. NOTES"
+      "text": "Y. M. C. A. NOTES",
+      "status": "ok"
     },
     {
       "bbox": [
         1447,
         472,
         1715,
-        1216
+        941
       ],
       "label": "text",
-      "text": "Don't you know your relatives and friends who formerly lived in Kansas City would enjoy the Sun for a present better than anything else you could send them?\n\nWatch for the Volley Ball League schedule.\n\nMr. Julius Rosenwald has just sent the Y. M. C. A. an autograph photograph of himself.\n\nThe boy's work committee has decided to place the Kansas City boys work at the head of the list of all associations of the country as to membership. To do this, it will be necessary to bring the total memberhship up to two hundred.\n\nThe Washington, D. C. and Chicago Y. M. C. A.'s now have waiting lists for the men's departments. The manner in which the young men who now occupy our apartments are enjoying their new comfortable homes, points to an early waiting list in Kansas City. Once in, they do not care to leave.\n\nMen are making decisions for Christian living every Sunday at the men's meetings; connecting with the various churches and becoming active vital members of the community. Rev. J. R. Ransom's address last Sunday on \"Good Citizenship\" was intensely interesting and instructive. Rev. W. A. Boren addresses next Sunday's meeting.\n\nEvery man should be able to swim. Noone knows when he will be called upon for a practical test of his ability to swim even to the saving of his own or another's life. It is obvious therefore that instruction in swimming and"
+      "text": "Don't you know your relatives and friends who formerly lived in Kansas City would enjoy the Sun for a present better than anything else you could send them?\n\nWatch for the Volley Ball League schedule.\n\nMr. Julius Rosenwald has just sent the Y. M. C. A. an autograph photograph of himself.\n\nThe boy's work committee has decided to place the Kansas City boys work at the head of the list of all associations of the country as to membership. To do this, it will be necessary to bring the total memberhship up to two hundred.\n\nThe Washington, D. C. and Chicago Y. M. C. A.'s now have waiting lists for the men's departments. The manner in which the young men who now occupy our apartments are enjoying their new comfortable homes, points to an early waiting list in Kansas City. Once in, they do not care to leave.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1449,
-        1601,
-        1717,
-        1968
+        1448,
+        956,
+        1712,
+        1216
       ],
       "label": "text",
-      "text": "life saving should be a part of everyone's training. The Y. M. C. A. offers to the men and youth of Kansas City the largest, best and most modern swimming pool in the city. LEARN TO SWIM in filtered, event tempered water in February.\n\nNext Sunday is the Second Anniversary of the opening Sunday of the great building fund campaign of 1913. A great record has been made in the collecting of the funds, the typ eof building erected, the early date of entering the building and finally the great activity shown in the new plant. Only $2,000.00 more is needed to reach the amount of $25,000.00, which the colored citizens were asked to give. An appeal is being made the week to all who have not yet met their payments in full to do so immediately that the required amount might be reached."
+      "text": "Men are making decisions for Christian living every Sunday at the men's meetings; connecting with the various churches and becoming active vital members of the community Rev. J. R. Ransom's address last Sunday on \"Good Citizenship\" was in tensely interesting and instructive Rev. W. A. Boren addresses next Sunday's meeting.\n\nEvery man should be able to swim Noone knows when he will be called upon for a practical test of his ability to swim even to the saving of his own or another life. It is obvious there fore that instruction in swimming and",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1447,
+        1216,
+        1717,
+        1710
+      ],
+      "label": "text",
+      "text": "Church Sunday\nChurch\nC.A. for Dinner\nm. m.\u2014Breakfast.\nm. m.\u2014Dinner.\nm. m.\u2014Dinner.\n\nlife saving should be a part of everyone's training. The Y. M. C. A. offers to the men and youth of Kansas City the largest, best and most modern swimming pool in the city. LEARN TO SWIM in filtered, even-tempered water in February.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1447,
+        1728,
+        1717,
+        2199
+      ],
+      "label": "text",
+      "text": "Next Sunday is the Second Anniversary of the opening Sunday of the great building fund campaign of 1913. A great record has been made in the colecting of the funds, the typ eof building erected, the early date of entering the building and finally the great activity shown in the new plant. Only $2,000.00 more is needed to reach the amount of $25,000.00, which the colored citizens were asked to give. An appeal is being made the week to all who have not yet met their payments in full to do so immediately that the required amount might be reached.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1731,
+        145,
+        1950,
+        223
+      ],
+      "label": "text",
+      "text": "ALL THE NEWS ALL THE TIME",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +562,8 @@
         302
       ],
       "label": "text",
-      "text": "PRICE. 5c."
+      "text": "PRICE. 5c.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,27 +573,63 @@
         467
       ],
       "label": "paragraph_title",
-      "text": "All Honor to Kenneth Oden"
+      "text": "All Honor to Kenneth Oden",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1718,
+        493,
+        1982,
+        911
+      ],
+      "label": "text",
+      "text": "May the Race Produce More Courageous and Manly Young Men Like Him, With Strength in Their Arms and Courage in Their Hearts.\n\n* \"Kenneth Oden, Negro, a senior in Lincoln high school, was fined $5 in the South Municipal court this morning, on a charge of disturbing the peace Oden struck W. I. Richards, 3809 Baltimore, a white man, while riding on a Union Station car yesterday afternoon.\n\nOden was accompanying a cousin a caterer of Topeka, Kas., and her two daughters, to the 1/2 Union station. Oden and his cousin testified Richards winked at her and motioned to her. Richards denied this.\u2014Wednesday Post.",
+      "status": "ok"
     },
     {
       "bbox": [
         1713,
-        493,
+        916,
+        1984,
+        1577
+      ],
+      "label": "text",
+      "text": "The above clipping from the Kansas City Post should stir the heart of every manly\u2014uprightNegro in greater Kansas City and it should be a source of pride to know that we are developing a class of young men who do not fear, regardless of the odds to protect the womanhood of the race. He alleges a big burly white man ogles and winks and insults a colored girl as many of them have done before in a crowded street car, feeling secure that whatever he does will be endorsed by his fellows and that no punishment will come to him on account of the cowardice and the inferiority in numbers of the Negroes present. But in this case a mere youth, a pupil in the high school imbued with the courage of a determined fathr and mother resents this insult, and cuffs and kicks the big burly masher until he cries for mercy and the youth is arrested by the representatives of the law, taken before the courts and fined for defending the honor and the peace of his relatives. Had the situation been reversed and it had been a \"drunken Negro\" who ogles white women not only would one white man have assaulted him but every white man in the car would have felt it his bounded duty to have administered a blow or a kick to this vicious enemy of society. And instead of the assailant being fined on the presentation of these facts, he would have been liberated with words of praise from the court and its attaches and the culprit would have had administered to him the severest penalty upon the statute books.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1721,
+        1578,
+        1986,
+        1847
+      ],
+      "label": "text",
+      "text": "And yet what can we expect in these days of prejudice and racial hatred? It was only a few days ago that Police Commissioner Reynolds is alleged to have said in discussing the case of a police officer on trial for shooting a white man and a Negro, \"I will not take the word of any Negro or a number of Negroes against that of a whit eman.\" So colored men if this is the sentiment of those who are sworn to administer impartially the law, then it is our duty regardless of consequences whether we are fined, go to prison or die to protect our women, when they are right against the insults of any man white or black.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1724,
+        1847,
+        1996,
+        2434
+      ],
+      "label": "text",
+      "text": "Kenneth Oden comes from one of the most cultured, industrious and respectable families in this state and inherits all the finer instincts and high ideals of his father and mother. But he can ill afford school boy as he is, to pay out five dollars and costs at this season of the year for no other reason than having defended the integrity and honor of women relatives so the Sun believes that the Negroes of greater Kansas City should rally to his support and should instantly and enthusiastically raise not only enough money to reimburse him for the fine but to enable him to finish his studies in the high school and pursue a course later in some of the universities or colleges where manhood and honor is esteemed and respected. We start this collection with one dollar and call on every other Negro in Kansas City to give anywhere from five cents to one dollar to show this young man and all other young men of our race that we appreciate their courage and manood in matters of tails kind. We shall publish a list in our next Saturday's issue of all those who have contributed to this fund and every Church, school, club, fraternal organization and individual should contribute to this high and laudable cause.\n\nMr. A. W. Harris, of the Harris Printing Co. had the honor of eing the first subscriber. Subscriptions are as follows:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1726,
+        2435,
         1998,
         2679
       ],
       "label": "text",
-      "text": "May the Race Produce More Courageous and Manly Young Men Like Him, With Strength in Their Arms and Courage in Their Hearts.\n\n* \"Kenneth Oden, Negro, a senior in Lincoln high school, was *fined $5 in the South Municipal* court this morning, on a charge of disturbing the peace Oden *struck W. I. Richards, 3899 Balti* more, a white man, while riding on a Union Station car yesterday afternoon.\n\n* Oden was accompanying a *cousin a caterer of Topeka, Kas.* and her two daughters, to the \u00bd Union station. Oden and his *cousin testified Richards winked* at her and motioned to her. *Richards denied this\u2014Wednesday* day Post.\n\nThe above clipping from the Kansas City Post should stir the heart of every manly\u2014upright Negro in greater Kansas City and it should be a source of pride to know that we are developing a class of young men who do not fear, regardless of the odds to protect the womanhood of the race. He alleges a big burly white man and winks and insults a colored girl as many of them have done before in a crowded street car, feeling secure that whatever he does will be endorsed by his fellows and that no punishment will come to him on account of the cowardice and the inferiority in numbers of the Negroes present. But in this case a mere youth, a pupil in the high school imbued with the courage of a determined father and mother resents this insult, and cuffs and kicks the big burly masher until he cries for mercy and the youth is arrested by the representatives of the law, taken before the courts and fined for defending the honor and the peace of his relatives. Had the situation been reversed and it had been a \"drunken Negro\" who ogles white women not only would one white man have assaulted him but every white man in the car would have felt it his bounded duty to have administered a blow or a kick to this vicious enemy of society. And instead of the assailant being fined on the presentation of these facts, he would have been liberated with words of praise from the court and its attaches and the culprit would have had administered to him the severest penalty upon the statute books.\n\nAnd yet what can we expect in these days of prejudice and racial hatred? It was only a few days ago that Police Commissioner Reynolds is alleged to have said in discussing the case of a police officer on trial for shooting a white man and a Negro, \"I will not take the word of any Negro or a number of Negroes against that of a whit eman.\" So colored men if this is the sentiment of those who are sworn to administer impartially the law, then it is our duty regardless of consequences whether we are fired, to prison or die to protect our women, when they are right against the insults of any man white or black.\n\nKenneth Oden comes from one of the most cultured, industrious and respectable families in this state and inherits all the finer instincts and high ideals of his father and mother. But he can ill afford school boy as he is, to pay out five dollars and costs at this season of the year for no other reason than having defended the integrity and honor of women relatives so the Sun believes that the Negroes of greater Kansas City should rally to his support and should instantly and enthusiastically raise not only enough money to reimburse him for the fine but to enable him to finish his studies in the high school and pursue a course later in some of the universities or colleges where manhood in matters of tails kind. We shall publish a list of our next Saturday's issue of all those who have contributed to this fund and every Church, school, club, fraternal organization and individual should contribute to this high and laudable cause.\n\nMr. A. W. Harris, of the Harris Printing Co. had the honor of eing the first suscriber. Subscriptions are as follows:\n\nThe Kansas City Sun... $1.00\nA. W. Harris... $1.00\nGeo. W. K. Love... $50\nL. C. Smith... $50\nW. G. Moseley... $1.00\nMiss Eva P. Washington... $25\nH. Compton... $25\nCriterion Cafe... $40\nR. C. Long... $15\nDr. Theo Smith... $1.00\nProf. J. C. Hobbs... $50\nC. A. Starks... $50\nJos. R. Dimery... $25\nT. D. Henderson... $10\nC. A. Franklin... $15\nMrs. Stella Hubbard... $15"
-    },
-    {
-      "bbox": [
-        1968,
-        2437,
-        2000,
-        2682
-      ],
-      "label": "text",
-      "text": "$11.00\n.50\n1.00\n.25\n.40\n.15\n1.00\n.50\n.25\n.10\n.15"
+      "text": "The Kansas City Sun.....$1.00\nA. W. Harris.....$1.00\nGeo. W. K. Love.....50\nL. C. Smith.....50\nW. G. Moseley.....1.00\nMiss Eva P. Washington.....25\nH. Compton.....25\nCriterion Cafe.....40\nR. C. Long.....15\nDr. Theo. Smith.....1.00\nProf. J. C. Hobbs.....50\nC. A. Starks.....50\nJos. R. Dimery.....25\nT. D. Henderson.....10\nC. A. Franklin.....15\nMrs. Stella Hubbard.....15",
+      "status": "ok"
     }
   ]
 }

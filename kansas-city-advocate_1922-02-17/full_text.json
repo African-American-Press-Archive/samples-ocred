@@ -6,7 +6,29 @@
       "image": "images/page_01.jpg",
       "width": 2041,
       "height": 3053,
+      "processed_at": "2026-03-07T12:10:43.725624+00:00",
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "cleanup_reprocess": true
+      },
+      "layout": {
+        "raw_detections": 28,
+        "after_merge": 29
+      },
       "regions": [
+        {
+          "bbox": [
+            57,
+            98,
+            598,
+            190
+          ],
+          "label": "text",
+          "text": "KANSAS",
+          "status": "ok"
+        },
         {
           "bbox": [
             92,
@@ -15,7 +37,8 @@
             2894
           ],
           "label": "text",
-          "text": "GEORGE WASHINGTON\nCELEBRATION\nAND CHICKEN SUPPER\nGIVEN BY\nTRUSTEE HELPERS\nTUESDAY, FEBRUARY 21, 1922\nNIGHT SCHOOL TO RENDER\nA FINE PLAY\nAT THE\nFIRST A. M. E. CHURCH\nA BIG EVENING'S ENTERTAINMENT\nADMISSION TO BOTH.....35 CENTS"
+          "text": "GEORGE WASHINGTON\nCELEBRATION\nAND CHICKEN SUPPER\nGIVEN BY\nTRUSTEE HELPERS\nTUESDAY, FEBRUARY 21, 1922\nNIGHT SCHOOL TO RENDER\nA FINE PLAY\nAT THE\nFIRST A. M. E. CHURCH\nA BIG EVENING'S ENTERTAINMENT\nADMISSION TO BOTH.....35 CENTS",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -25,17 +48,30 @@
             913
           ],
           "label": "text",
-          "text": "The Pythians and Calantheians of the city will open next Monday night, in the basement of the new Pythian Temple, 524 State avenue, the beginning of a two weeks carnival. A large mass meeting was held Monday night, when several hundred of the two bodies met in the basement of the Temple for the purpose of making arrangements for the big affair."
+          "text": "The Pythians and Calantheians of the city will open next Monday night, in the basement of the new Pythian Temple, 524 State avenue, the beginning of a two weeks carnival. A large mass meeting was held Monday night, when several hundred of the two bodies met in the basement of the Temple for the purpose of making arrangements for the big affair.",
+          "status": "ok"
         },
         {
           "bbox": [
             49,
             912,
             365,
+            1432
+          ],
+          "label": "text",
+          "text": "N. W. Thatcher, the president, presided, and gave a full and complete history of the work thus far and what he expected of the Pythians and Calantheians, in order to carry the building on to completion. A committee of five was selected from each of the lodges, Courts and Uniform companies and the band, which met Wednesday evening and made arrangements for the two weeks carnival. Tonight (Friday) the opening of the basement will be held when a band concert will begin at 7:45 and a program will commence at 8:15. Attorney L. A. Knox of Kansas City, Mo. will be the principle speaker of the evening. There is no admittance fee to this opening and the general public is invited to be present.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            49,
+            1451,
+            359,
             1538
           ],
           "label": "text",
-          "text": "N. W. Thatcher, the president, presided, and gave a full and complete history of the work thus far and what he expected of the Pythians and Calantheians, in order to carry the building on to completion. A committee of five was selected from each of the lodges, Courts and Uniform companies and the band, which met Wednesday evening and made arrangements for the two weeks carnival.\n\nTonight (Friday) the opening of the basement will be held when a band concert will begin at 7:45 and a program will commence at 8:15. Attorney L. A. Knox of Kansas City, Mo.. will be the principle speaker of the evening. There is no admittance fee to this opening and the general public is invited to be present.\n\nKeep off of date, Thursday. March 23\u2014Annual Knife and Fork Banquet at First A. M. E. church. Bigger than ever."
+          "text": "Keep off of date, Thursday. March 23\u2014Annual Knife and Fork Banquet at First A.M.E. church. Bigger than ever.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -45,27 +81,30 @@
             1604
           ],
           "label": "paragraph_title",
-          "text": "W. A. JARRETT OPENS REAL ESTATE OFFICE"
+          "text": "W. A. JARRETT OPENS REAL ESTATE OFFICE",
+          "status": "ok"
         },
         {
           "bbox": [
-            46,
+            41,
             1622,
-            363,
-            1973
+            365,
+            2202
           ],
           "label": "text",
-          "text": "Mr. W. A. Jarrett of 923 Freeman avenue, a well known and substantial citizen for many years in this city, has opened a real estate office at 516 Minnesota avenue, which will be known by the name of the Advance Realty Investment company. Mr. Jarrett has been a railroad man for several years and was one who saved his money and knew how to place it to make money and today he can point out a number of valuable real estate properties in this city alone."
+          "text": "Mr. W. W. Jarrett of 923 Freeman avenue, a well known and substantial citizen for many years in this city, has opened a real estate office at 516 Minnesota avenue, which will be known by the name of the Advance Realty Investment company. Mr. Jarrett has been a railroad man for several years and was one who saved his money and knew how to place it to make money and today he can point out a number of valuable real estate properties in this city alone. It is said that in all deals Mr. Jarret thus made in real estate, not a single depreciation in value has been his, but always went the upward trend. Mr. Jarrett says he has a new plan whereby the purchaser will have the advantage in many ways of anything that has ever been established here to the buying public.",
+          "status": "ok"
         },
         {
           "bbox": [
-            50,
+            41,
             2202,
-            363,
-            2346
+            365,
+            2601
           ],
           "label": "text",
-          "text": "There is no doubt of Mr. Jarrett's success in this field, as his experience in real estate and his reputation in honest dealing with the public gives his clients a confidence that a stranger would have to work up to."
+          "text": "There is no doubt of Mr. Jarrett's success in this field, as his experience in real estate and his reputation in honest dealing with the public gives his clients a confidence that a stranger would have to work up to.\n\nIt's certain Mr. Jarrett's many friends will ever be interested in his success.\n\nPrescriptions called for and delivered free. Call Drexel 2556.\n\nGEORGE W\nCELEBI",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -75,17 +114,19 @@
             1395
           ],
           "label": "paragraph_title",
-          "text": "MRS.GRAVES ENTERTAINS WHAT-SO-EVER CLUB"
+          "text": "MRS.GRAVES ENTERTAINS WHAT-SO-EVER CLUB",
+          "status": "ok"
         },
         {
           "bbox": [
-            688,
+            684,
             807,
-            997,
-            1034
+            998,
+            1178
           ],
           "label": "text",
-          "text": "Every member on the program was full of impersonation and in every way entertaining. There was a conference of members and friends of the club held in the afternoon at which session committees on resolutions and nominations for officers were appointed and the business of the club in general disposed of."
+          "text": "Every member on the program was full of impersonation and in every way entertaining. There was a conference of members and friends of the club held in the afternoon at which session committees on resolutions and nominations for officers were appointed and the business of the club in general disposed of.\n\nAt the night session, Mr. Dan Richmond addressed the club on the importance of the National Association for the Advancement of Colored People, urging an increase in membership.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -95,7 +136,19 @@
             1692
           ],
           "label": "text",
-          "text": "Mr. J. M. Wright delivered the eulogy on the life of the late Colonel Charles Young, and Prof. P. G. Porter, of Olathe, spoke very eloquently and interestingly on the life of John Brown. Judge I. F. Bradley, Sr., very ably presented to the audience the life of Frederick Douglass, and the Rev. N. J. Johnson, of the Mount Olive M. E. church and a student in the law department of Washington College, delivered the principal address of the evening on the life and character of Lincoln. It is said by all who expressed themselves to have been the most able address ever delivered to the club. For one hour the distinguished prelate held the people spellbound with flights of oratory, logic and reason. It was a most wonderful speech."
+          "text": "Mr. J. M. Wright delivered the eulogy on the life of the late Colonel Charles Young, and Prof. P. G. Porter, of Olathe, spoke very eloquently and interestingly on the life of John Brown. Judge I. F. Bradley, Sr., very ably presented to the audience the life of Frederick Douglass, and the Rev. N. J. Johnson, of the Mount Olive M. E. church and a student in the law department of Washington College, delivered the principal address of the evening on the life and character of Lincoln. It is said by all who expressed themselves to have been the most able address ever delivered to the club. For one hour the distinguished prelate held the people spellbound with flights of oratory, logic and reason. It was a most wonderful speech.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            684,
+            1692,
+            998,
+            2023
+          ],
+          "label": "text",
+          "text": "Lincoln's Gettysburg speech was delivered by Master Robert Mosley, a student in the Industrial institute, and music for the occasion was furnished by the band of that institution. Prof. J. P. King of Kansas City. Kansas, was elected president; W. A. Betts, Wichita, vice-president; Thos. Kennedy, of Kansas City, secretary; and Prof. P. G. Porter of Olathe, chairman of the executive committee. Topeka was selected as the next place of meeting.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -105,17 +158,30 @@
             2539
           ],
           "label": "text",
-          "text": "Executive Committee\u2014Prof. P. G. Porter; Olathe; Attorney Dorsey Green, Kansas City; D. L. Taylor, Salina; Dr. G. G. Brown, Wichita; Mr. George Williams, Topeka; Dr. J. F. Griffin, Kansas City; Mr. E. Percy Roberson, Parsons; Dr. Frank Eagleson, Coffeyville; Hon. John Wright, Topeka; Mr. Leonard Tolson, Garnett; Prof. Fred Roundtree, Topeka; Mr. James Harden, Chetopa; Clarcence Kerford, Atchison; Rev. George McNeal, Kansas City; Prof. E. J. Hawkins, Fort Scott; L. W. Harden, Junction City; Dr. Dowdell Davis, Independence; Prof. George Bridgeforth, Topeka; Prof. Walter Gray, Atchison; Mr. T. W. Ganaway, Pratt; Mr. Mike Banks, Bonner Springs; Dr. C. M. Moates, Leavenworth; Judge I. F. Bradley, Sr., Kansas City."
+          "text": "Executive Committee\u2014Prof. P. G. Porter; Olathe; Attorney Dorsey Green, Kansas City; D. L. Taylor, Salina; Dr. G. G. Brown, Wichita; Mr. George Williams, Topeka; Dr. J. F. Griffin, Kansas City; Mr. E. Percy Roberson, Parsons; Dr. Frank Eagleson, Coffeyville; Hon. John Wright, Topeka; Mr. Leonard Tolson, Garnett; Prof. Fred Roundtree, Topeka; Mr. James Harden, Chetopa; Clarcence Kerford, Atchison; Rev. George McNeal, Kansas City; Prof. E. J. Hawkins, Fort Scott; L. W. Harden, Junction City; Dr. Dowdell Davis, Independence; Prof. George Bridgeforth, Topeka; Prof. Walter Gray, Atchison; Mr. T. W. Ganaway, Pratt; Mr. Mike Banks, Bonner Springs; Dr. C. M. Moates, Leavenworth; Judge I. F. Bradley, Sr., Kansas City.",
+          "status": "ok"
         },
         {
           "bbox": [
             684,
-            2640,
+            2539,
             998,
-            2832
+            3033
           ],
           "label": "text",
-          "text": "Mr. H. L. Gavden, 626 Troup avenue, one of the very popular railway mail clerks, is able to make his regular runs again, after more than two months confinement to the house with illness. His co-workers and many friends are exceedingly glad to see him out again."
+          "text": "\"Best Chili in town.\" Yes, we deliver, too, 50c a quart. Dillard & Rodgers, Drexel 2556.\n\nMr. H. L. Gavden, 626 Troup avenue, one of the very popular railway mail clerks, is able to make his regular runs again, after more than two months confinement to the house with illness. His co-workers and many friends are exceedingly glad to see him out again.\n\nIn the Memorium of last week for Mrs. Palmer's daughter it should have read in memory of Mrs. Sewal-Pryor.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1234,
+            100,
+            1949,
+            192
+          ],
+          "label": "text",
+          "text": "ADVOCATE",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -125,7 +191,8 @@
             935
           ],
           "label": "text",
-          "text": "Mr. Barksdale, whose major is French, is a great lover of France and things French. Especially does Mr. Barksdale love the cathedrals of France, upon which subject he is to speak next Wednesday."
+          "text": "Mr. Barksdale, whose major is French, is a great lover of France and things French. Especially does Mr. Barksdale love the cathedrals of France, upon which subject he is to speak next Wednesday.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -135,7 +202,19 @@
             1004
           ],
           "label": "paragraph_title",
-          "text": "QUARTERLY MEETING AT ST. PAUL SUNDAY"
+          "text": "QUARTERLY MEETING AT ST. PAUL SUNDAY",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1005,
+            1004,
+            1314,
+            1286
+          ],
+          "label": "text",
+          "text": "Quarterly meeting will be held Sunday, February 19, at St. Paul A. M. E. church in Argentine. Rev. A. C. Terrill, the presiding elder, will preach at the morning service. Communion service at 3 p.m. All ministers, members and friends are invited to worship with us in some of the day's services. J. A. BROADNAX, Pastor.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -145,37 +224,52 @@
             1336
           ],
           "label": "paragraph_title",
-          "text": "GRAND MASTER RROADNAX TO VISIT CRAFTS"
+          "text": "GRAND MASTER RROADNAX TO VISIT CRAFTS",
+          "status": "ok"
         },
         {
           "bbox": [
             1005,
-            1436,
-            1313,
+            1336,
+            1314,
             1581
           ],
           "label": "text",
-          "text": "Topeka, March 7; Manhattan, March 8; Junction City, March 9; Ellsworth, March 10; Ottawa, March 13; Garnett, March 14; Coffeyville, March 15; Eldorado, March 16; Newton, March 17; Spring Hill, March 21."
+          "text": "The following dates the Grand Master of King Solomon Grand Lodge will visit the crafts, as dates below designate: Topeka, March 7; Manhattan, March 8; Junction City, March 9; Ellsworth, March 10; Ottawa, March 13; Garnett, March 14; Coffeyville, March 15; Eldorado, March 16; Newton, March 17; Spring Hill, March 21.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1005,
+            1581,
+            1314,
+            2330
+          ],
+          "label": "text",
+          "text": "We ask all the Worshipful Masters and crafts to have everything in readiness for a big meeting. Also to subscribe for our official organ, The Kansas City Advocate. It's ours and you should have it coming to your homes.\n\nFraternally yours,\nJ. A. BROADNAX, G. M.\n\nOur best efforts are put forth in our Prescription Department. Let us fill your next one. Dillard & Rodgers, Drexel 2556.\n\nMr. L. J. Maddux, at one time the leading grocer of our racial group in the city and today probably the best informed from a commercial standpoint in our group of business enterprises as to when it comes to real value. Mr. Maddux was out of the business for some years, but went back to his first love about a year ago, and is now running a well stocked room of fancy groceries and meats at 615 Garfield avenue, where he is doing a nice business and serving a fine community of appreciative citizens.",
+          "status": "ok"
         },
         {
           "bbox": [
             1005,
             2330,
-            1313,
-            2543
+            1314,
+            2805
           ],
           "label": "text",
-          "text": "-Kansas City, Kansas, probably leads all other cities in the number of colored employees in the mail service, there being more than one hundred whose homes are here. A large number of them are in the railway mail service and quite a few at the Terminal and clerks and carriers of the city."
+          "text": "-Kansas City, Kansas, probably leads all other cities in the number of colored employees in the mail service, there being more than one hundred whose homes are here. A large number of them are in the railway mail service and quite a few at the Terminal and clerks and carriers of the city.\n\nRev. M. C. Lewis, of this city, has been called to the pastorate of Mt. Olive Baptist church, at West Plains, Mo. The friends of Rev. Lewis, who is well known here, as a Christian minister, wish for him the greatest of success in his new field of labor.\n\nMrs. Dovie Foster bought a fine home last week, located at",
+          "status": "ok"
         },
         {
           "bbox": [
             1320,
-            392,
-            1628,
+            242,
+            1631,
             583
           ],
           "label": "text",
-          "text": "The new secretary of the Yates Branch, Young Women's Christian Association, Miss Amy Hall, of Pittsburgh, Pa., on her arrival Monday morning was entertained by the Board of Directors at breakfast at the home of Mrs. A. J. Neely, 1003 Nebraska avenue."
+          "text": "THOMAS KENNEDY\nEDITOR AND PUBLISHER\n\nNEW SECRETARY OF\nY.W.C.A. ENTERTAINED\nAT BREAKFAST MONDAY\n\nThe new secretary of the Yates Branch, Young Women's Christian Association, Miss Amy Hall, of Pittsburgh, Pa., on her arrival Monday morning was entertained by the Board of Directors at breakfast at the home of Mrs. A. J. Neely, 1003 Nebraska avenue.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -185,7 +279,19 @@
             627
           ],
           "label": "paragraph_title",
-          "text": "BURLEIGH MUSIC CLUB"
+          "text": "BURLEIGH MUSIC CLUB",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1320,
+            627,
+            1631,
+            1539
+          ],
+          "label": "text",
+          "text": "The First Friday night in each month, Burleigh Music Club has what is known as its \"Round Table and Party\" at which time guests are received through invitations extended by members.\n\nOn February 3, the members were surprised with a review of some of the questions they had studied in the form of puzzles, the answers to same were musical terms or meanings. Some of the questions were as follows:\n\n1. I am placing a tone.\n2. My that wind goes right through me.\n3. Isn't it Bright?\n4. How smoothly the swan glides.\n5. They cut the time at the packing house.\n6. I am so sad.\n7. I am just walking along.\n8. Be steadfast and immovable.\n9. See that Sign? Well, go back to it.\n10. This is the end of a perfect day.\n\nHow many can you answer? Ask Burleigh Music Club members. Any information concerning the club will be gladly given by writing \"Burleigh Music Club,\" care Mrs. Emma Black, president, 2940 North Hallock street, or writing or calling Mrs. Gertrude E. Williams, secretary. 828 Walker avenue. Bell phone Fifield 5142W.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -195,7 +301,19 @@
             1589
           ],
           "label": "paragraph_title",
-          "text": "DR. A. PORTER DAVIS HAS SALARIED ASSISTANT"
+          "text": "DR. A. PORTER DAVIS HAS SALARIED ASSISTANT",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1320,
+            1589,
+            1631,
+            1791
+          ],
+          "label": "text",
+          "text": "Dr. A. Porter Davis, one of the leading physicians and surgeons of Greater Kansas City, has built up such an enormous practice that he has had to have an assistant to take care of his large practice. He has, as his assistant, Dr. J. Franklin Wilson, who is on a salary",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -205,7 +323,8 @@
             870
           ],
           "label": "text",
-          "text": "Montgomery, Ala.\u2014\"If you want to see the devil run, just get you a Gospel gun.\" I used to hear the old saints say that when I was a boy, and these words have followed me up to this date, but I am about to understand the meaning of them, and I have been made to sing and shout, and I am so happy I hardly know what to do."
+          "text": "Montgomery, Ala.\u2014\"If you want to see the devil run, just get you a Gospel gun.\" I used to hear the old saints say that when I was a boy, and these words have followed me up to this date, but I am about to understand the meaning of them, and I have been made to sing and shout, and I am so happy I hardly know what to do.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -215,7 +334,8 @@
             1179
           ],
           "label": "text",
-          "text": "I have been hearing about the various churches, and the number has been increasing right along, until now it is hard to tell just what you are meeting. The Lord has been very busy making denominations of late years, and now some of them are about to get together and become one great Christian body to fight sin and the devil, and I am told that they may rout him out of Hades. I hope they will keep him confined there just a little longer."
+          "text": "I have been hearing about the various churches, and the number has been increasing right along, until now it is hard to tell just what you are meeting. The Lord has been very busy making denominations of late years, and now some of them are about to get together and become one great Christian body to fight sin and the devil, and I am told that they may rout him out of Hades. I hope they will keep him confined there just a little longer.",
+          "status": "ok"
         }
       ]
     },
@@ -224,16 +344,39 @@
       "image": "images/page_02.jpg",
       "width": 2041,
       "height": 3031,
+      "processed_at": "2026-03-07T12:11:14.065877+00:00",
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "cleanup_reprocess": true
+      },
+      "layout": {
+        "raw_detections": 127,
+        "after_merge": 79
+      },
       "regions": [
         {
           "bbox": [
-            102,
-            137,
+            2,
+            2982,
+            2039,
+            3026
+          ],
+          "label": "text",
+          "text": "---",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            96,
+            87,
             388,
             495
           ],
           "label": "text",
-          "text": "THE KANSAS CITY ADVOCATE\n\nTHOMAS KENNEDY,\nEditor and Prop.\n\nThos. Knapper\nAssociate Editor\n\nMRS. M. C. MATTHEW8.\nSociety Editor\n\nWALTER SCOTT\nCirculating Manager\n\nPUBLISHED EVERY FRIDAY\nat\nOffice 610 North Sixth St.\nPhone Fairfax 2407\nResidence Phone, Fairfax 2663"
+          "text": "Page Two.\n\nTHE KANSAS CITY\nADVOCATE\n\nTHOMAS KENNEDY,\nEditor and Prop.\n\nThos. Knapper\nAssociate Editor\n\nMBS. M. C. MATTHEW8.\nSociety Editor\n\nWALTER SCOTT\nCirculating Manager\n\nPUBLISHED EVERY FRIDAY\nat\nOffice 610 North Sixth St.\nPhone Fairfax 2407\nResidence Phone, Fairfax 2663",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -243,7 +386,8 @@
             660
           ],
           "label": "text",
-          "text": "Eentered as second-class matter August 29, 1914, at the postoffice at Kansas City, Kansas, under the Act of March 3, 1879."
+          "text": "Eentered as second-class matter August 29, 1914, at the postoffice at Kansas City, Kansas, under the Act of March 3, 1879.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -253,7 +397,8 @@
             852
           ],
           "label": "text",
-          "text": "Have your news in our office not later than Tuesday of each week to insurance publication.\n\nMEMBER\nNATIONAL NEGRO PRESS\nASSOCIATION."
+          "text": "Have your news in our office not later than Tuesday of each week to insurance publication.\n\nMEMBER\nNATIONAL NEGRO PRESS\nASSOCIATION.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -263,17 +408,30 @@
             911
           ],
           "label": "paragraph_title",
-          "text": "CITIZENS' FORUM"
+          "text": "CITIZENS' FORUM",
+          "status": "ok"
         },
         {
           "bbox": [
             92,
             930,
+            399,
+            2129
+          ],
+          "label": "text",
+          "text": "Such a large audience assembled at the Forum, February 12. until many were compelled to find seats in the balcony. President Davis presided. After a sacred chorus, the invocation was given by Mrs. B. S. Jones. Quotations were led by Mrs. J. H. Clayborne. Many ladies and others gave quotations in praise of women as it was Women's Day. Some gave quotations from Abraham Lincoln as it was his birthday. but Mrs. M. C. Matthews gave an original poetical quotation on Lincoln and Women's Day. Mrs. I. Thomas gave good current events. Mrs. Davidson's solo was good. Then came good talks on Women's Clubs as follows: Parent-Teachers' Federation. Mrs. John Hodge; Douglass P. T. A., Mrs. P. Freeman; Home Beautiful, Mrs. Tillery; Alpha, Mrs. Herndon; Intli-gensia, Mrs. F. D. Booker; Y. W. C. A., Mrs. Nellie Wilson; Pleasure Seekers. Mrs. Crump; Paramount Club. Miss Black; Fern Leaf, Mrs. A. Boone. The piano duet by Misses E. Neely and S. Miller was a classic and was encored. Miss Olive Henderson introduced the main speaker in a few well chosen words. The address by Mrs. Childs was very fine, practical and an incentive to mothers to teach children common sense, morals and Christianity. She is a member of the State Welfare Board and president of the State Federation of Women's Clubs. Her parting plea was \"that our race do as the Caucasian race; that is do all we can to 'get back to God,' and teach others to do so.\" She received a prolonged applause. Mrs. A. Allsbrook read a good critic's report. Mrs. Clara Adams, president of the Kansas City, Mo., Federation, was introduced and made remarks. Ladies took up a collection of $7. President Davis presides pleasantly.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            94,
+            2130,
             401,
             2232
           ],
           "label": "text",
-          "text": "Such a large audience assembled at the Forum, February 12. until many were compelled to find seats in the balcony. President Davis presided. After a sacred chorus, the invocation was given by Mrs. B. S. Jones. Quotations were led by Mrs. J. H. Clayborne. Many ladies and others gave quotations in praise of women as it was Women's Day. Some gave quotations from Abraham Lincoln as it was his birthday. but Mrs. M. C. Matthews gave an original poetical quotation on Lincoln and Women's Day. Mrs. I. Thomas gave good current events. Mrs. Davidson's solo was good. Then came good talks on Women's Clubs as follows: Parent-Teachers' Federation. Mrs. John Hodge; Douglass P. T. A., Mrs. P. Freeman; Home Beautiful, Mrs. Tillery; Alpha, Mrs. Herndon; Intiligensia, Mrs. F. D. Booker; Y. W. C. A., Mrs. Nellie Wilson; Pleasure Seekers. Mrs. Crump; Paramount Club. Miss Black; Fern Leaf, Mrs. A. Boone. The piano duet by Misses E. Necly and S. Miller was a classic and was encored. Miss Olive Henderson introduced the main speaker in a few well chosen words. The address by Mrs. Childs was very fine, practical and an incentive to mothers to teach children common sense, morals and Christianity. She is a member of the State Welfare Board and president of the State Federation of Women's Clubs. Her parting plea was \"that our race do as the Caucasian race; that is do all we can to 'get back to God,' and teach others to do so.\" She received a prolonged applause. Mrs. A. Allsbrook read a good critic's report. Mrs. Clara Adams, president of the Kansas City. Mo., Federation, was introduced and made remarks. Ladies took up a collection of $7. President Davis presides pleasantly.\n\nSunday, February 19, another fine program will be rendered and we think the Forum orchestra will surely be present."
+          "text": "Sunday, February 19, another fine program will be rendered and we think the Forum orchestra will surely be present.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -283,7 +441,8 @@
             2252
           ],
           "label": "paragraph_title",
-          "text": "Notes on Forum"
+          "text": "Notes on Forum",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -293,7 +452,8 @@
             2570
           ],
           "label": "text",
-          "text": "Mrs. Tillie Moss sang a nice solo at a previous Forum meeting and was accompanied by Mrs. E. Buckner.\nOriginal Quotation Lincoln and Women's Day by Mrs. M. C. Matthews, first president of the City Federation and author of the prize song of the State Federation:\nOn this day I'd not be content, Unless I'd something to say, About our sixteenth president, Who was born on this day. -Dear Lincoln with a single"
+          "text": "Mrs. Tillie Moss sang a nice solo at a previous Forum meeting and was accompanied by Mrs. E. Buckner.\nOriginal Quotation Lincoln and Women's Day by Mrs. M. C. Matthews, first president of the City Federation and author of the prize song of the State Federation:\nOn this day I'd not be content, Unless I'd something to say, About our sixteenth president, Who was born on this day. -Dear Lincoln with a single",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -303,7 +463,8 @@
             2633
           ],
           "label": "text",
-          "text": "stroke\nSet our forefathers free,\nFrom underneath the tyrants'"
+          "text": "stroke\nSet our forefathers free,\nFrom underneath the tyrants'",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -313,7 +474,8 @@
             2744
           ],
           "label": "text",
-          "text": "That we this day might see: Let's cheer the Emancipator And with our women pay Thanks to our great Creator For this great Women's Day."
+          "text": "That we this day might see: Let's cheer the Emancipator And with our women pay Thanks to our great Creator For this great Women's Day.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -323,17 +485,8 @@
             2798
           ],
           "label": "paragraph_title",
-          "text": "Small Leans"
-        },
-        {
-          "bbox": [
-            99,
-            2777,
-            409,
-            2964
-          ],
-          "label": "text",
-          "text": "Small Loans\nWEEKLY PAYMENTS\nLIBERTY BONDS BOUGHT AND\nSOLD\nCredit Investment Co.\nRoom 268. Wyndette Building\nFifth and Minnesota Avenue\nBrexel 117 Home"
+          "text": "Small Leans",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -343,7 +496,8 @@
             227
           ],
           "label": "doc_title",
-          "text": "THE WEEKLY ANNOUNCER OF FIRST A. M. E. CHURCH"
+          "text": "THE WEEKLY ANNOUNCER OF FIRST A. M. E. CHURCH",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -353,7 +507,8 @@
             227
           ],
           "label": "paragraph_title",
-          "text": "THE WEEKLY ANNOUNCER OF FIRST A. M. E. CHURCH"
+          "text": "THE WEEKLY ANNOUNCER OF FIRST A. M. E. CHURCH",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -363,7 +518,8 @@
             547
           ],
           "label": "text",
-          "text": "J. F. GRIFFIN, Pastor.\nResidence, 1111 North Eighth St.\nResidence Phone, Fairfax 2904\nAlex. Jones, Assistant Pastor.\nORDER OF SERVICES.\n9:30 A. M., Sunday School.\n11:00 A. M., preaching.\n5:00 P. M., Junior Allen League.\n6:00 P. M., Senior Allen League.\n7:30 P. M., preaching.\nWEEKLY SERVICES.\nOfficial Board, 2nd and 4th Monday.\n7:30 P. M."
+          "text": "J. F. GRIFFIN, Pastor.\nResidence, 1111 North Eighth St.\nResidence Phone, Fairfax 2904\nAlex. Jones, Assistant Pastor.\nORDER OF SERVICES.\n9:30 A. M., Sunday School.\n11:00 A. M., preaching.\n5:00 P. M., Junior Allen League.\n6:00 P. M., Senior Allen League.\n7:30 P. M., preaching.\nWEEKLY SERVICES.\nOfficial Board, 2nd and 4th Monday.\n7:30 P. M.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -373,7 +529,8 @@
             615
           ],
           "label": "text",
-          "text": "Choir rehearsal, Tuesday 7:30 P.M.\nWednesday, prayer meeting, 7:30\nP. M. Friday class meeting 8 P. M."
+          "text": "Choir rehearsal, Tuesday 7:30 P.M.\nWednesday, prayer meeting, 7:30\nP. M. Friday class meeting 8 P. M.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -383,17 +540,30 @@
             668
           ],
           "label": "paragraph_title",
-          "text": "CHURCH NEWS"
+          "text": "CHURCH NEWS",
+          "status": "ok"
         },
         {
           "bbox": [
             406,
             690,
+            715,
+            1291
+          ],
+          "label": "text",
+          "text": "While the Sabbath day was cold and chilly, it did not keep the worshippers from the house of prayer. A large and appreciative congregation was present to hear the first sermon of Rev. J. F. Griffin, of the series of four sermons he is to deliver His subject was \"Father's Home,\" which in a plain, strong Gospel way compared our earthly parents' home with the home of our Heavenly Father. The sermon was eloquent, logical and helpful. The second sermon of the series will be this Sunday, subject: \"Departure to a Far Country.\" These sermons, as the series of some weeks ago preached by this noted divine, are reaching a class of our community life that has never been reached before. A number of converts was the result of the first series of sermons and last Sunday's sermon brought, two into the fold and others of the faith joined the church of their choice.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            407,
+            1291,
             717,
             1828
           ],
           "label": "text",
-          "text": "While the Sabbath day was cold and chilly, it did not keep the worshippers from the house of prayer. A large and appreciative congregation was present to hear the first sermon of Rev. J. F. Griffin, of the series of four sermons he is to deliver His subject was \"Father's Home,\" which in a plain, strong Gospel way compared our earthly parents' home with the home of our Heavenly Father. The sermon was eloquent, logical and helpful. The second sermon of the series will be this Sunday, subject: \"Departure to a Far Country.\" These sermons, as the series of some weeks ago preached by this noted divine, are reaching a class of our community life that has never been reached before. A number of converts was the result of the first series of sermons and last Sunday's sermon brought two into the fold and others of the faith joined the the church of their choice.\n\nThe pastor preached another spiritual sermon at the evening service.\n\nThe choir rendered some beautiful anthems at morning service. Mr. Alexander Gatewood, is now in charge of the senior choir and greater things are in store for those who enjoy good music.\n\nThe Junior choir, under the supervision of Prof. Wise, who furnishes the music at the evening service, always renders soul-stirring music.\n\nThe Friday night class meetings are being well attended and spiritual blessings are being received by those who come.\n\nParents send your children to Sabbath school and the Junior Endeavor League. Sunday school at 9:30 a. m., and the Lerque at 5:30 p. m.\n\nVisitors and strangers always welcome at First Church."
+          "text": "The pastor preached another spiritual sermon at the evening service.\n\nThe choir rendered some beautiful anthems at morning service. Mr. Alexander Gatewood, is now in charge of the senior choir and greater things are in store for those who enjoy good music.\n\nThe Junior choir, under the supervision of Prof. Wise, who furnishes the music at the evening service, always renders soul-stirring music.\n\nThe Friday night class meetings are being well attended and spiritual blessings are being received by those who come.\n\nParents send your children to Sabbath school and the Junior Endeavor League. Sunday school at 9:30 a. m., and the Lerague at 5:30 p. m.\n\nVisitors and strangers always welcome at First Church.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -403,7 +573,8 @@
             1870
           ],
           "label": "paragraph_title",
-          "text": "Argentine, Kansas"
+          "text": "Argentine, Kansas",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -413,7 +584,8 @@
             2036
           ],
           "label": "text",
-          "text": "St. Paul A. M. E. church, Kansas City, Kans. 2325 Ruhy avenue. J. A. Breadnax, Pastor. Services every Sunday. Sunday school, 9:30 a.m. Preaching at 11. Class, 12:15. Preaching 7:30 p. m. Prayer meeting Wednesday nights. You are welcome to all services."
+          "text": "St. Paul A. M. E. church, Kansas City, Kans. 2325 Ruhy avenue. J. A. Breadnax, Pastor. Services every Sunday. Sunday school, 9:30 a.m. Preaching at 11. Class, 12:15. Preaching 7:30 p. m. Prayer meeting Wednesday nights. You are welcome to all services.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -423,7 +595,8 @@
             2320
           ],
           "label": "text",
-          "text": "ST. LUKE A. M. E. CHURCH\n12th & Ann Ave.\n(J. M. Watts, Pastor)\nServices: Preaching, 11 a. m.\nand 8 p.m. Sunday school, 2:30\np. m. A. C. L. E., 6:30 to 7:30\np. m. Official Board meeting,\nMonday, 8 p. m. Class meeting,\nTuesday, 7:30 p. m. ' Prayer\nmeeting, Thursday, 7:30 p. m.\nAll are cordially invited to\nattend these services."
+          "text": "ST. LUKE A. M. E. CHURCH\n12th & Ann Ave.\n(J. M. Watts, Pastor)\nServices: Preaching, 11 a. m.\nand 8 p.m. Sunday school, 2:30\np. m. A. C. L. E., 6:30 to 7:30\np. m. Official Board meeting,\nMonday, 8 p. m. Class meeting,\nTuesday, 7:30 p. m. ' Prayer\nmeeting, Thursday, 7:30 p. m.\nAll are cordially invited to\nattend these services.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -433,7 +606,8 @@
             2405
           ],
           "label": "paragraph_title",
-          "text": "KING SOLOMON BAPTIST CHURCH"
+          "text": "KING SOLOMON BAPTIST CHURCH",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -443,7 +617,8 @@
             2732
           ],
           "label": "text",
-          "text": "Third Stret and Garfield Avenue Parsonage, 206 Garfield Ave. Phone Fairfax 4536\nServices:\nPreaching, Sunday, 11 a. m. and 8 p.m. Sunday School,\n9:30 a. m. B. Y. P. U., Sunday,\n6:00 p. m. Prayer services,\nTuesday evening, Choir rehearsal, Thursday evening. Missionary meeting, Friday evening. You are welcome to all of these services.\nMINNIE L. FORD,\nClerk."
+          "text": "Third Stret and Garfield Avenue Parsonage, 206 Garfield Ave. Phone Fairfax 4536\nServices:\nPreaching, Sunday, 11 a. m. and 8 p.m. Sunday School,\n9:30 a. m. B. Y. P. U., Sunday,\n6:00 p. m. Prayer services,\nTuesday evening, Choir rehearsal, Thursday evening. Missionary meeting, Friday evening. You are welcome to all of these services.\nMINNIE L. FORD,\nClerk.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -453,7 +628,8 @@
             2780
           ],
           "label": "paragraph_title",
-          "text": "DRESS MAKING"
+          "text": "DRESS MAKING",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -463,7 +639,19 @@
             2944
           ],
           "label": "text",
-          "text": "We guarantee our dress making, in workmanship and fit.\nLet us make that next dress.\nChildren's Dresses a specialty.\nSatisfaction is our motto.\nPrices very reasonable.\nMrs. T. J. Anderson\n1040 Freeman Av. Fairfax 4448"
+          "text": "We guarantee our dress making, in workmanship and fit.\nLet us make that next dress.\nChildren's Dresses a specialty.\nSatisfaction is our motto.\nPrices very reasonable.\nMrs. T. J. Anderson\n1040 Freeman Av. Fairfax 4448",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            733,
+            77,
+            1353,
+            106
+          ],
+          "label": "text",
+          "text": "The Kansas City Advocate for February 17, 1922",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -473,7 +661,8 @@
             308
           ],
           "label": "paragraph_title",
-          "text": "WALNUT BOULEVARD BAPTIST CHURCH"
+          "text": "WALNUT BOULEVARD BAPTIST CHURCH",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -483,7 +672,8 @@
             518
           ],
           "label": "text",
-          "text": "(J. R. Richardson, Pastor) Services Sunday, February 12, 1922: Junior church, 10:30 a.m. Preaching, Rev. J. R. Richardson, 11:30 a.m. Sunday school, 1:15 p.m. Community meeting, 4:30 p.m. Mothers' meeting, 6:30 p.m. Preaching, 8 p.m."
+          "text": "(J. R. Richardson, Pastor) Services Sunday, February 12, 1922: Junior church, 10:30 a.m. Preaching, Rev. J. R. Richardson, 11:30 a.m. Sunday school, 1:15 p.m. Community meeting, 4:30 p.m. Mothers' meeting, 6:30 p.m. Preaching, 8 p.m.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -493,7 +683,8 @@
             598
           ],
           "label": "paragraph_title",
-          "text": "GREEN CHAPEL BAPTIST CHURCH"
+          "text": "GREEN CHAPEL BAPTIST CHURCH",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -503,7 +694,8 @@
             959
           ],
           "label": "text",
-          "text": "1012 North Third Street\nRev. E. M. Mosley, Pastor\nParsonage 1903 North Tremont\nServices:\nPreaching 11 a. m., and 8\np. m. Sabbath School, 9 a. m.\nChoir rehearsal, Tuesday night.\nPrayer meeting, Wednesday\nnight. B. Y. P. U. Sunday even-\nning, 5 p. m.\nROBERT T. BARTON,\nClerk.\n\nKeep off of date, Thursday,\nMarch 23\u2014Annual Knife and\nFork Banquet at First A. M. E.\nchurch. Bigger than ever."
+          "text": "1012 North Third Street\nRev. E. M. Mosley, Pastor\nParsonage 1903 North Tremont\nServices:\nPreaching 11 a. m., and 8\np. m. Sabbath School, 9 a. m.\nChoir rehearsal, Tuesday night.\nPrayer meeting, Wednesday\nnight. B. Y. P. U. Sunday even-\nning, 5 p. m.\nROBERT T. BARTON,\nClerk.\n\nKeep off of date, Thursday,\nMarch 23\u2014Annual Knife and\nFork Banquet at First A. M. E.\nchurch. Bigger than ever.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -513,7 +705,8 @@
             1023
           ],
           "label": "paragraph_title",
-          "text": "FIRST BAPTIST"
+          "text": "FIRST BAPTIST",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -523,7 +716,8 @@
             1231
           ],
           "label": "text",
-          "text": "The Women's Division of the First Baptist church solicits your presence at their Musicale from 3' to 5 o'clock, Sunday, February 19, 1922, at First Baptist church, Fifth street and Nebraska avenue. The public is cordially invited to be present."
+          "text": "The Women's Division of the First Baptist church solicits your presence at their Musicale from 3' to 5 o'clock, Sunday, February 19, 1922, at First Baptist church, Fifth street and Nebraska avenue. The public is cordially invited to be present.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -533,17 +727,30 @@
             1315
           ],
           "label": "paragraph_title",
-          "text": "CO-OPERATION SAVES A FORTUNE FOR FARMERS"
+          "text": "CO-OPERATION SAVES A FORTUNE FOR FARMERS",
+          "status": "ok"
         },
         {
           "bbox": [
             724,
             1334,
+            1032,
+            1562
+          ],
+          "label": "text",
+          "text": "Hard times on the farm has done more to promote co-operation than all the talking in the country. For more who used to \"get along well enough\" by themselves are now anxious to co-operate with their neighbors. For the saving of a thousand dollars in marketing crops of buying supplies may now mean all the difference between bankruptcy and solvency.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            724,
+            1564,
             1033,
             2059
           ],
           "label": "text",
-          "text": "Hard times on the farm has done more to promote co-operation than all the talking in the country. Far more who used to \"get along well enough\" by themselves are now anxious to co-operate with their neighbors. For the saving of a thousand dollars in marketing crops of buying supplies may now mean all the difference between bankruptcy and solvency.\n\nThe farmers of Oklahoma have found that co-operation pays. They saved $20,000 last year on purchasing a million pounds of binding twine through their Farmers' Exchange. They bought co-operatively over 400 cars of coal at a saving of $3 a ton. The 15,000 bushels of steel potatoes they needed cost them $22,500 less than the best price from private dealers and a further saving of $16,125 was made on 43 cars of eating potatoes, purchased this fall. In addition, the farmers who marketed their peach crop co-operatively through the Exchange received $1 a bushel more than the price paid by local buyers. Profiting by this example and success elsewhere, the cotton farmers of Oklahoma are now forming a co-operative association to market their crop without the aid of brokers, speculators and other middlemen."
+          "text": "The farmers of Oklahoma have found that co-operation pays. They saved $20,000 last year on purchasing a million pounds of binding twine through their Farmers' Exchange. They bought co-operatively over 400 cars of coal at a saving of $3 a ten. The 15,000 bushels of seed potatoes they needed cost them $22,500 less than the best price from private dealers and a further saving of $16,-125 was made on 43 cars of eating potatoes, purchased this fall. In addition, the farmers who marketed their peach crop co-operatively through the Exchange receive $1 a bushel more than the price paid by local buyers. Profiting by this example and success elsewhere, the cotton farmers of Oklahoma are now forming a co-operative association to market their crop without the aid of brokers, speculators and other middlemen.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -553,17 +760,41 @@
             2125
           ],
           "label": "paragraph_title",
-          "text": "HOW THEY DID IT"
+          "text": "HOW THEY DID IT",
+          "status": "ok"
         },
         {
           "bbox": [
             726,
             2145,
+            1039,
+            2703
+          ],
+          "label": "text",
+          "text": "How did we do it? Simply by going without everything we needed. When I first married my salary was $30 a month.\n\nMy mother-in-law who lived with us, decided to save enough out of my salary to build us a home.\n\nWhen the cellar was finished I became ill and lost my position and had to mortgage the cellar to make my first payment.\n\nAlthough we went without food for 30 days the first year, we never missed a monthly payment.\n\nThe taxes interest on mortgage and monthly payment on house were now three times the amount of my earnings.\n\nHowever, by dispensing with the service of a doctor, we lost our father and mother-in-law which so reduced our expenses that we were able to pay for th parlor floor and windows.\n\nIn 10 years seven of our nine children died, possibly owing to our diet of excelsior and prunes.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            730,
+            2706,
             1041,
             2947
           ],
           "label": "text",
-          "text": "How did we do it? Simply by going without everything we needed. When I first married my salary was $30 a month.\n\nMy mother-in-law who lived with us, decided to save enough out of my salary to build us a home.\n\nWhen the cellar was finished I became ill and lost-my position and had to mortgage the cellar to make my first payment.\n\nAlthough we went without food for 30 days the first year, we never missed a monthly payment.\n\nThe taxes interest on mortgage and monthly payment on house were now three times the amount of my earnings.\n\nHowever, by dispensing with the service of a doctor, we lost our father and mother-in-law which so reduced our expenses that we were able to pay for th parlor floor and windows.\n\nIn 10 years seven of our nine children died, possibly owing to our diet of excelsior and prunes.\n\nI only mention these little things to show how we were helped in saving up for a home.\n\nI wore the same overcoat for 15 years and was then able to build the front porch, which you see at the right of the front door.\n\nNow, at the age of 87, my wife and I feel sure we can own our comfortable little home in about ten years and live a few weeks to enjoy it.\u2014Life."
+          "text": "I only mention these little things to show how we were helped in saving up for a home.\n\nI wore the same overcoat for 15 years and was then able to build the front porch, which you see at the right of the front door.\n\nNow, at the age of 87, my wife and I feel sure we can own our comfortable little home in about ten years and live a few weeks to enjoy it.\u2014Life.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1063,
+            175,
+            1347,
+            618
+          ],
+          "label": "text",
+          "text": "TOMMY PARKER",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -573,17 +804,30 @@
             756
           ],
           "label": "paragraph_title",
-          "text": "TO THE CRAFTS OF THE YORK RITE MASONS"
+          "text": "TO THE CRAFTS OF THE YORK RITE MASONS",
+          "status": "ok"
         },
         {
           "bbox": [
             1040,
             768,
+            1351,
+            1496
+          ],
+          "label": "text",
+          "text": "I wish to call the attention of all Worshipful Masters and members of the F. and A. A. York Masons of Kansas and Jurisdiction, that the 1920 Communication held at Manhattan, Kansas, that the Kansas City (Kansas) Advocate was adopted as our official organ. It was also unanimously carried in open session that all lodges in the jurisdiction were to subscribe for The Advocate, so at least the lodge might be informed from time to time of the general workings of the jurisdiction. Now, we understand a number of lodges throughout the jurisdiction has not compiled with the ruling of this Grand Boly. We need this organ and its editor has ben giving us regularly a splendid service and plenty of it; so we must not and can not afford to allow ourselves to withhold our support to our only organ. Let every Worshipful Master see to it, at once, that their subscription is sent in for 1922. Send money order or express order of $1.50 to The Kansas City Advocate, 831 Nebraska avenue. Kansas City, Kansas, or to the editor, Thos Kennedy.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1041,
+            1497,
             1352,
             1684
           ],
           "label": "text",
-          "text": "I wish to call the attention of all Worshipful Masters and members of the F. and A. A. York Masons of Kansas and Jurisdiction, that the 1920 Communication held at Manhattan, Kansas, that the Kansas City (Kansas) Advocate was adopted as our official organ. It was also unanimously carried in open session that all lodges in the jurisdiction were to subscribe for The Advocate, so at least the lodge might be informed from time to time of the general workings of the jurisdiction. Now, we understand a number of lodges throughout the jurisdiction has not compiled with the ruling of this Grand Boly. We need this organ and its editor has ben giving us regularly a splendid service and plenty of it; so we must not and can not afford to allow ourselves to withhold our support to our only organ. Let every Worshipful Master see to it, at once, that their subscription is sent in for 1922. Send money order or express order of $1.50 to The Kansas City Advocate, 831 Nebraska avenue, Kansas City, Kansas, or to the editor, Thos Kennedy. Note: Also have as many of the members as possible to send in their subscriptions, as this publication is worthy of their patronage from a general news point, besides its worth to our jurisdiction. Send in your lodge news and it will be published."
+          "text": "Note: Also have as many of the members as possible to send in their subscriptions, as this publication is worthy of their patronage from a general news point, besides its worth to our jurisdiction. Send in your lodge news and it will be published.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -593,7 +837,8 @@
             1701
           ],
           "label": "text",
-          "text": "Yours for the Craft."
+          "text": "Yours for the Craft.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -603,7 +848,8 @@
             1726
           ],
           "label": "text",
-          "text": "16th for the Craft.\nJ. A. Broadnax, W.M.G.M."
+          "text": "16th for the Craft.\nJ. A. Broadnax, W.M.G.M.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -613,7 +859,8 @@
             1871
           ],
           "label": "paragraph_title",
-          "text": "Wanted\u2014County Managers"
+          "text": "Wanted\u2014County Managers",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -623,7 +870,8 @@
             2543
           ],
           "label": "text",
-          "text": "Large corporation manufacturing noncompetitive product that has conclusivey proven that it aids in producing larger crops is opening a branch in each county and requires the services of a capable man to act as Manager. Applicant must be competent to handle large sums of money, hire and handle help. $500 required, fully secured. This proposition should not a live man from $5000 to to $10,000 per year. Big advertising campaign already started, full page ads in national magazines. When writing give full particulars in first letter to secure interview. Applicants must be able to go to Kansas City, Mo., for instructions. Unless you can do so at once meet all requirements of this ad and your reputation is faultless, save your stamps and our time. Will pay all expenses to and from Kansas City if you qualify. This is a real opportunity and presents itself but once in a lifetime. Write or wire immediately."
+          "text": "Large corporation manufacturing noncompetitive product that has conclusivey proven that it aids in producing larger crops is opening a branch in each county and requires the services of a capable man to act as Manager. Applicant must be competent to handle large sums of money, hire and handle help. $500 required, fully secured. This proposition should not a live man from $5000 to to $10,000 per year. Big advertising campaign already started, full page ads in national magazines. When writing give full particulars in first letter to secure interview. Applicants must be able to go to Kansas City, Mo., for instructions. Unless you can do so at once meet all requirements of this ad and your reputation is faultless, save your stamps and our time. Will pay all expenses to and from Kansas City if you qualify. This is a real opportunity and presents itself but once in a lifetime. Write or wire immediately.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -633,7 +881,8 @@
             2604
           ],
           "label": "text",
-          "text": "National Nitro-Bacter Corporation Co., Ltd., Transportation Building, Chicago."
+          "text": "National Nitro-Bacter Corporation Co., Ltd., Transportation Building, Chicago.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -643,7 +892,8 @@
             2640
           ],
           "label": "paragraph_title",
-          "text": "\"SAY\""
+          "text": "\"SAY\"",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -653,7 +903,8 @@
             2948
           ],
           "label": "text",
-          "text": "Count your dollars paid out for rent. Buy you your children a home. Say you are going home and mean it. Don't be forced to move. Invest your money in property that will mean money and wealth to you. Show me a man without real estate. I will show you a por man. Start from small investments. Call and see W. R. Johnson Real Estate Co., 516 Minnesota avenue, or phone office Fairfax 0255; residence, Fairfax 4106."
+          "text": "Count your dollars paid out for rent. Buy you your children a home. Say you are going home and mean it. Don't be forced to move. Invest your money in property that will mean money and wealth to you. Show me a man without real estate. I will show you a por man. Start from small investments. Call and see W. R. Johnson Real Estate Co., 516 Minnesota avenue, or phone office Fairfax 0255; residence, Fairfax 4106.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -663,7 +914,8 @@
             183
           ],
           "label": "paragraph_title",
-          "text": "NEW"
+          "text": "NEW",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -673,7 +925,8 @@
             624
           ],
           "label": "text",
-          "text": "UNDERTAKER\nREADY FOR BUSINESS\nWith Fine Parlors and\nShow Rooms\n312 Nebraska\nFraternity Building\nCan Save You Money\nOpen Day and Night\nLady Attendant\nPhone Baltimore 3623-W\nJ. S. SANDERS\nUNDERTAKING\nCOMPANY\nKansas City, Kansas"
+          "text": "UNDERTAKER\nREADY FOR BUSINESS\nWith Fine Parlors and\nShow Rooms\n312 Nebraska\nFraternity Building\nCan Save You Money\nOpen Day and Night\nLady Attendant\nPhone Baltimore 3623-W\nJ. S. SANDERS\nUNDERTAKING\nCOMPANY\nKansas City, Kansas",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -683,7 +936,8 @@
             859
           ],
           "label": "text",
-          "text": "Dr. Harrison had the third poem by Mrs. M. C. Matthews printed in the Texas state paper.\n\nMrs. Grigsby, on Nebraska avenue, between Eighth and Ninth streets, is quite sick."
+          "text": "Dr. Harrison had the third poem by Mrs. M. C. Matthews printed in the Texas state paper.\n\nMrs. Grigsby, on Nebraska avenue, between Eighth and Ninth streets, is quite sick.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -693,7 +947,8 @@
             913
           ],
           "label": "paragraph_title",
-          "text": "DIAMOND REAL ESTATE CO."
+          "text": "DIAMOND REAL ESTATE CO.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -703,7 +958,8 @@
             1334
           ],
           "label": "text",
-          "text": "One five-room, stricty modern home, $3100. ,$600 cash, Terms to suit.\n\nOne six-room modern home, $4000. $500 cash. Terms to suit.\n\nOne four-room house, modern except heat, $1600. $300 cash. Terms to suit.\n\nOne six-room house, modern except heat. $2600. $500 cash. Terms to suit.\n\nCall to see us. We have everything.\n\nDiamond Real Estate Company\nA. P. Ouzley,President\n733 Minnesota Ave., K. C., K.\nDrexel 2287"
+          "text": "One five-room, stricty modern home, $3100. ,$600 cash, Terms to suit.\n\nOne six-room modern home, $4000. $500 cash. Terms to suit.\n\nOne four-room house, modern except heat, $1600. $300 cash. Terms to suit.\n\nOne six-room house, modern except heat. $2600. $500 cash. Terms to suit.\n\nCall to see us. We have everything.\n\nDiamond Real Estate Company\nA. P. Ouzley,President\n733 Minnesota Ave., K. C., K.\nDrexel 2287",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -713,7 +969,8 @@
             1375
           ],
           "label": "paragraph_title",
-          "text": "MME. PATE"
+          "text": "MME. PATE",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -723,7 +980,8 @@
             1482
           ],
           "label": "text",
-          "text": "HAIR AND SCALP\nTREATMENT, A Specialty\nOil and Grower for Sale\n1815 N 8th St., K. C., K.\nPhone Fifield, 5112W"
+          "text": "HAIR AND SCALP\nTREATMENT, A Specialty\nOil and Grower for Sale\n1815 N 8th St., K. C., K.\nPhone Fifield, 5112W",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -733,7 +991,8 @@
             1556
           ],
           "label": "paragraph_title",
-          "text": "MISS EDNA HAYNES HAIR DRESSER"
+          "text": "MISS EDNA HAYNES HAIR DRESSER",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -743,17 +1002,8 @@
             1741
           ],
           "label": "text",
-          "text": "HAIR DRESSER\nIf you want your hair to grow you\nmust have a healthy scalp\nTreatments for Scalp and its diseases a specialty\nWill positively grow hair, if instruc tions are followed\nMadame C. B. Steele System\nthe Best\nCall for appointment\nFifield 0646-W"
-        },
-        {
-          "bbox": [
-            1360,
-            1558,
-            1665,
-            1740
-          ],
-          "label": "text",
-          "text": "If you want your hair to grow you\nmust have a healthy scalp\nTreatments for Scalp and its dis-\ncases a specialty\nWill positively grow hair, if in-\nstructions are followed\nMadame C. B. Steele System\nthe Best\nCall for appointment\nFifield 0646-W"
+          "text": "HAIR DRESSER\nIf you want your hair to grow you\nmust have a healthy scalp\nTreatments for Scalp and its diseases a specialty\nWill positively grow hair, if instruc tions are followed\nMadame C. B. Steele System\nthe Best\nCall for appointment\nFifield 0646-W",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -763,7 +1013,8 @@
             1794
           ],
           "label": "paragraph_title",
-          "text": "MEADOW'S"
+          "text": "MEADOW'S",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -773,7 +1024,8 @@
             2199
           ],
           "label": "text",
-          "text": "MEADOW'S\nNEW DISCOVERY\nPrepared for\nALL KINDS OF DISEASES\nBy\nDR. W. H. MEADOWS\nExaminations Free\n430 Haskell Kansas City, Kan.\n\nDR. W. M. BLOUNT\nPHYSICIAN AND SURGEON\n428\u00bd MINNESOTA AVENUE\nResidence, 402 Lafayette Avenue\nKANSAS CITY, KANSAS\nPHONES\nOffice Fairfax 1258; Res., Drexel 1258\n6 to 7;30 P. M. Sundays by appointment only.\nOFFICE HOURS\n9:30 to 11:30 A. M. 2:30 to 4:30"
+          "text": "MEADOW'S\nNEW DISCOVERY\nPrepared for\nALL KINDS OF DISEASES\nBy\nDR. W. H. MEADOWS\nExaminations Free\n430 Haskell Kansas City, Kan.\n\nDR. W. M. BLOUNT\nPHYSICIAN AND SURGEON\n428\u00bd MINNESOTA AVENUE\nResidence, 402 Lafayette Avenue\nKANSAS CITY, KANSAS\nPHONES\nOffice Fairfax 1258; Res., Drexel 1258\n6 to 7;30 P. M. Sundays by appointment only.\nOFFICE HOURS\n9:30 to 11:30 A. M. 2:30 to 4:30",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -783,17 +1035,19 @@
             2474
           ],
           "label": "text",
-          "text": "M.C. WEBB\nMaker of\nWebb's Wonderful\nHair\nPreparations\nNotary Public\n334 Greeley Avenue\nFifield 2461-W\nKansas City, Kansas"
+          "text": "M.C. WEBB\nMaker of\nWebb's Wonderful\nHair\nPreparations\nNotary Public\n334 Greeley Avenue\nFifield 2461-W\nKansas City, Kansas",
+          "status": "ok"
         },
         {
           "bbox": [
-            1412,
-            2359,
-            1616,
-            2470
+            1363,
+            2532,
+            1658,
+            2751
           ],
           "label": "text",
-          "text": "Preparations\nNotary Public\n334 Greeley Avenue\nFifield 2461-W\nKansas City, Kansas"
+          "text": "[Illustration of an eye surrounded by radiating rays]",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -803,17 +1057,19 @@
             2929
           ],
           "label": "paragraph_title",
-          "text": "All Work Guaranteed\nKassel Jewelry Co.\n548 Minnesota Ave.\nKansas City Kansas"
+          "text": "All Work Guaranteed\nKassel Jewelry Co.\n548 Minnesota Ave.\nKansas City Kansas",
+          "status": "ok"
         },
         {
           "bbox": [
             1672,
-            128,
+            76,
             1979,
             159
           ],
           "label": "text",
-          "text": "F. & A. A. York Masons"
+          "text": "Kansas City, Kansas. F. & A. A. York Masons",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -823,7 +1079,8 @@
             209
           ],
           "label": "paragraph_title",
-          "text": "DIRECTORY"
+          "text": "DIRECTORY",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -833,7 +1090,8 @@
             378
           ],
           "label": "text",
-          "text": "Rev. J. A. Broadnax, M. W. G. M., 2325 Ruby Ave. Tel. Arg. 1001. Kansas City, Kansas. Dr. G. Franklin Wilson., D. G. M., 1403 N. Tenth St., Kansas City, Kansas. Clyde L. Briggs, R. W. G. Sec. 612, T St. Atchison, Kansas."
+          "text": "Rev. J. A. Broadnax, M. W. G. M., 2325 Ruby Ave. Tel. Arg. 1001. Kansas City, Kansas. Dr. G. Franklin Wilson., D. G. M., 1403 N. Tenth St., Kansas City, Kansas. Clyde L. Briggs, R. W. G. Sec. 612, T St. Atchison, Kansas.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -843,7 +1101,8 @@
             747
           ],
           "label": "text",
-          "text": "Milton Washington, G. Organizer, 1114 Oakland Ave., Kansas City, Kansas.\n\nAlbert Williams, G. S. W.; Miles Newlin, G. J. W.; A. McRoy, G. Tyler; Dr. J. R. Lemma, G. Lecturer; D. W. Hurley. G. S. Dea.; S. H. Madison, G. J. Dea.; Dr. D. W. Gooden, G. Med. Ex.; Rev. Jas. \\ Reeves. G. Chaplain; W. C. Lamon, G. S. S.; J. H. Lee, G. J. S.; Chas. Marzette, G. S. S.; Wm. Cavens, G. P.; C. J. Goode, G. Marshal; W. H. Ford, G. Historian; Milton Washington, G. Organizer;"
+          "text": "Milton Washington, G. Organizer, 1114 Oakland Ave., Kansas City, Kansas.\n\nAlbert Williams, G. S. W.; Miles Newlin, G. J. W.; A. McRoy, G. Tyler; Dr. J. R. Lemma, G. Lecturer; D. W. Hurley. G. S. Dea.; S. H. Madison, G. J. Dea.; Dr. D. W. Gooden, G. Med. Ex.; Rev. Jas. \\ Reeves. G. Chaplain; W. C. Lamon, G. S. S.; J. H. Lee, G. J. S.; Chas. Marzette, G. S. S.; Wm. Cavens, G. P.; C. J. Goode, G. Marshal; W. H. Ford, G. Historian; Milton Washington, G. Organizer;",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -853,7 +1112,8 @@
             806
           ],
           "label": "paragraph_title",
-          "text": "York Masons"
+          "text": "York Masons",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -863,7 +1123,8 @@
             1021
           ],
           "label": "text",
-          "text": "St. John Lodge No. 9, F. & A. A.\nYork Masons, meets the first and\nthird Tuesday evenings of each\nmonth at Ninth street and Everett\navenue, 8 p.m. Visitors always are\nwelcome.\nDR. J. FRANKLIN WILSON, W.M.\n1403 North Tenth Street.\nCLARENCE HICKMAN, Secretary.\n1517 Lydia, Kansas City, Mo."
+          "text": "St. John Lodge No. 9, F. & A. A.\nYork Masons, meets the first and\nthird Tuesday evenings of each\nmonth at Ninth street and Everett\navenue, 8 p.m. Visitors always are\nwelcome.\nDR. J. FRANKLIN WILSON, W.M.\n1403 North Tenth Street.\nCLARENCE HICKMAN, Secretary.\n1517 Lydia, Kansas City, Mo.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -873,17 +1134,30 @@
             1097
           ],
           "label": "paragraph_title",
-          "text": "Frank Wilson Lodge No.88"
+          "text": "Frank Wilson Lodge No.88",
+          "status": "ok"
         },
         {
           "bbox": [
             1668,
             1101,
             1985,
+            1646
+          ],
+          "label": "text",
+          "text": "F. and A. A. York Masons meet the First and Third Saturday evenings of each month at 8 p. m., Ninth and Everett avenue. Visitors ever welcome.\n\nS. H. MADISON, W. M.\n1336 Barnett Avenue,\nT. A. MOZEE, Executive,\nR. F. D. No. 2.\n\nEUREKA LODGE NO 21,\nY. A. A. Y. M.\n\nMeets second and fourth Thursdays or each month. Knights of Tabor Hall, Ninth and Everett. All visiting brothers in good standing invited.\nR. T. TAYLOR, W. M.\nW. D. McQUAY, Sec.\n\nPROGRESS LODGE NO. 90\nMeets first and third Monday nights in each month at Ninth street and Everett avenue, Knights of Tabor hall. Visitors welcome.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1738,
+            1648,
+            1983,
             1755
           ],
           "label": "text",
-          "text": "F. and A. A. York Masons meet the First and Third Saturday evenings of each month at 8 p.m., Ninth and Everett avenue. Visitors ever welcome.\n\nS. H. MADISON, W. M.\n1336 Barnett Avenue,\nT. A. MOZEE, Secretary,\nR. F. D. No. 2.\n\nEUREKA LODGE NO 21,\nY. A. A. Y. M.\n\nMeets second and fourth Thursdays or each month. Knights of Tabor Hall, Ninth and Everett. All visiting brothers in good standing invited.\n\nR. T. TAYLOR, W. M.\nW. D. McQUAY, Sec.\n\nPROGRESS LODGE NO. 90\nMeets first and third Monday nights in each month at Ninth street and Everett avenue, Knights of Tabor hall. Visitors welcome.\n\nArthur Ballance, W. M.\n839 New Jersey Ave.\nPhone Fairfax 1642.\nChas. Gable, Secretary,\n833 New Jersey Ave."
+          "text": "Arthur Ballance, W. M.\n839 New Jersey Ave.\nPhone Fairfax 1642.\nChas. Gable, Secretary,\n833 New Jersey Ave.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -893,7 +1167,8 @@
             2029
           ],
           "label": "text",
-          "text": "Far West Lodge No. 5, F. & A. A. York Masons, meets the second and fourth Tuesday evenings of each month at Masonic Hall, 737 N. H. St, 8 pm. Visitors are always welcome. J. S. Stone, W. M., 442 Locust Street; Elgin Woody, Secretary, 640 Ark. Street, Lawrence Kans."
+          "text": "Far West Lodge No. 5, F. & A. A. York Masons, meets the second and fourth Tuesday evenings of each month at Masonic Hall, 737 N. H. St, 8 pm. Visitors are always welcome. J. S. Stone, W. M., 442 Locust Street; Elgin Woody, Secretary, 640 Ark. Street, Lawrence Kans.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -903,7 +1178,8 @@
             2093
           ],
           "label": "paragraph_title",
-          "text": "HIRAM LODGE NO. 2\n(Toneka, Kansas)"
+          "text": "HIRAM LODGE NO. 2\n(Toneka, Kansas)",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -913,7 +1189,8 @@
             2241
           ],
           "label": "text",
-          "text": "Meeting nights First and Third Tuesdays of each month. Visiting brother in good standing always welcome. Rev. M. W. Dickerson, W. M., 909 College Ave.; P. W. Hardiman, 1801 Kansas Ave, Secretary."
+          "text": "Meeting nights First and Third Tuesdays of each month. Visiting brother in good standing always welcome. Rev. M. W. Dickerson, W. M., 909 College Ave.; P. W. Hardiman, 1801 Kansas Ave, Secretary.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -923,17 +1200,19 @@
             2285
           ],
           "label": "paragraph_title",
-          "text": "OMAHA, NEBRASKA"
+          "text": "OMAHA, NEBRASKA",
+          "status": "ok"
         },
         {
           "bbox": [
-            1671,
+            1668,
             2285,
-            1981,
-            2398
+            1985,
+            2863
           ],
           "label": "text",
-          "text": "Keystone Lodge No. 42\nMeets first and third Monday nights in each month at 4923 South 25th street at 7:30. C. J. Goode,\nW. M., 2503 P. St.; D. V. Smith, secretary, 2121 Seward street."
+          "text": "Meets first and third Monday nights in each month at 4923 South 25th street at 7:30. C. J. Goode, W. M., 2503 P. St.; D. V. Smith, secretary, 2121 Seward stree.\n\nSANTAL CAPSULES MIDY\n\nEasy to Take-Quick to Receive CATARRH of the BLADDER Safe, Successful\n\nEach Capsule bears name MIDY\n\nBeware of counterfeits\n\nCall\nFair- 380 Or\nfax 4422",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -943,7 +1222,8 @@
             2955
           ],
           "label": "text",
-          "text": "Mr. and Mrs. S. and W. are in the city. I want you to meet them."
+          "text": "Mr. and Mrs. S. and W. are in the city. I want you to meet them.",
+          "status": "ok"
         }
       ]
     },
@@ -952,6 +1232,17 @@
       "image": "images/page_03.jpg",
       "width": 2041,
       "height": 3082,
+      "processed_at": "2026-03-07T12:11:53.301819+00:00",
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "cleanup_reprocess": true
+      },
+      "layout": {
+        "raw_detections": 132,
+        "after_merge": 67
+      },
       "regions": [
         {
           "bbox": [
@@ -961,7 +1252,8 @@
             318
           ],
           "label": "doc_title",
-          "text": "GROCERY OF MERIT STANDARD GOODS ONLY FRESH AND PURE"
+          "text": "GROCERY OF MERIT STANDARD GOODS ONLY FRESH AND PURE",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -971,7 +1263,8 @@
             430
           ],
           "label": "text",
-          "text": "Our Fresh Meat Market Handles Nothing But the Highest Grade of Meats"
+          "text": "Our Fresh Meat Market Handles Nothing But the Highest Grade of Meats",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -981,27 +1274,63 @@
             585
           ],
           "label": "text",
-          "text": "CLAYBORNE'S MARKET TENTH AND WASHINGTON BOULEVARD FAIRFAX 2682 J. H. CLAYBORNE, PROP."
+          "text": "CLAYBORNE'S MARKET TENTH AND WASHINGTON BOULEVARD FAIRFAX 2682 J. H. CLAYBORNE, PROP.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            8,
+            108,
+            355,
+            707
+          ],
+          "label": "text",
+          "text": "Kansas City, Kansas.\n\nGROCERY\nSTANDARD O\nFRESH A\nOur Fresh Meat\nNothing But the\nof M\nService A\nCLAYBORNE\nTENTH AND WASHI\nFAIRFAX 2682\n\nThe Bouldin Cleaners have\nfurnished printed programs for\nthe Forum for two consecutive\nSundays.",
+          "status": "ok"
         },
         {
           "bbox": [
             40,
-            621,
+            723,
             354,
             1109
           ],
           "label": "text",
-          "text": "The Bouldin Cleaners have furnished printed programs for the Forum for two consecutive Sundays.\n\nMr. Richard Spencer, 351 Everett avenue, was on the sick list this week.\n\nMrs. Viola Printz of Rochester, Miss., visited her brother, Mr. Richard Spencer and family several days, at 351 Everett avenue. Mrs. Printz left for Hot Springs, where she will remain for some time.\n\nPrescriptions called for and delivered free. Call Drexel 2556.\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas."
+          "text": "Mr. Richard Spencer, 351 Everett avenue, was on the sick list this week.\n\nMrs. Viola Printz of Rochester, Miss., visited her brother, Mr. Richard Spencer and family several days, at 351 Everett avenue. Mrs. Printz left for Hot Springs, where she will remain for some time.\n\nPrescriptions called for and delivered free. Call Drexel 2556.\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            39,
+            1105,
+            352,
+            1591
+          ],
+          "label": "text",
+          "text": "Rachel Rose, Plaintiff, vs. George Rose, Defendant.\nTo George Rose:\nYou are hereby notified that you have been sued by the above named plaintiff in the District Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court, of Wyandotte County, Kansas, on or before the 2nd day of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of plaintiff granting him an absolute divorce of and from you, and for such other and further relief as the nature of the case may require and for costs.\nDORSEY GREEN,\nAtorney for Plaintiff.\n(First published Feb. 10, 1922.)\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas. Division No. 3.\nSteel Turner, Plaintiff, vs. Robert M. Turner, Defended t. No 17718A.",
+          "status": "ok"
         },
         {
           "bbox": [
             38,
-            1105,
+            1595,
+            353,
+            2009
+          ],
+          "label": "text",
+          "text": "To Robert M. Turner, Greeting:\nYou are hereby notified that you have been sued by your wife, Stella Turner, for a decree of divorce in the District Court of Wyandotte County, Kansas, or the grounds of gross neglect of duty, extreme cruelty and abandonment, and that unless you answer the petition of said plaintiff filed herein or before the 1st day of April, 1922, said petition will be taken as true and judgment will be rendered against granting said plaintiff an absolute d'voce she may be entitled to in equity.\nWM. H. TOWERS,\nAttorney for Plaintiff.\n(First published Feb. 17, 1922.)\n\nPUBLICATION NOTICE\nIn the District Court of Wyna datte County, Kansas, Division No. 3.\nEdna Mae Berry, Plaintiff. vs.\nRoss Berry, Defendant. No. 17688A.\nTo Ross Berry, Greeting:",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            42,
+            2010,
             355,
             2454
           ],
           "label": "text",
-          "text": "Rachel Rose, Plaintiff, vs. George Rose, Defendant.\nTo George Rose:\nYou are hereby notified that you have been sued by the above named plaintiff in the District Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court, of Wyandotte County, Ka"
+          "text": "You are hereby notified that you have been sued by your wife, Edna Mae Berry, for a decree of divorce in the District Court of Wyandotte County, Kansas, on the grounds of gross neglect of duty, extreme cruelty and abandonment, and that unless you answer the petition of said plaintiff filed heroin or before the 1st day of April, 1922, said petition will be taken as true and judgment will be rendered against granting said plaintiff an absolute d'voice and such other and further relief as she may be entitled to in equity.\n\nWM. H. TOWERS,\nAttorney for Plaintiff.\n(First published Feb. 17, 192')\n\nPUBLICATION NOTICE\nIn the City Court 2nd District, before D. C. McCombs, Judge in and for Kansas City Township Wyandotte County, Kansas.\n\nRobert Henry, Plaintiff, vs. A. D. Parron, Defendant.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1011,7 +1340,8 @@
             2477
           ],
           "label": "text",
-          "text": "To the above named defendant, A. D. Parron:"
+          "text": "To the above named defendant, A. D. Parron:",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1021,7 +1351,8 @@
             3024
           ],
           "label": "text",
-          "text": "You are hereby notified that you have been sued in the above entitled Court, by the plaintiff above named on a promissory note for the amount of $300.00, and that an order of attachment has been served on Morris & Company of Kansas City, Kansas, attaching four shares of stock in said Company, and that the plaintiff, Robert Henry, herein will ask the Court to apply, the same to the payment of the plaintiff's claim filed in the City Court 2nd District before Don C. McCombs, judge thereof. That said Company answered holding in their possession four shares of common stock of the value of $400.00 belonging to said A. D. Parron, the defendant herein, and that unless you appear and answer said Bill of Particulars filed against you on or before the 24th day of February, 1922, evidence will be presented and judgment taken in said Court, before the Judge thereof on said date against you in favor of the plaintiff above named for the sum of $300.00, and granting him the relief herein prayed for.\n\nDORSEY GREEN.\nAttorney for Plaintiff.\n\n(First published Feb. 10, 1922.)"
+          "text": "You are hereby notified that you have been sued in the above entitled Court, by the plaintiff above named on a promissory note for the amount of $300.00, and that an order of attachment has been served on Morris & Company of Kansas City, Kansas, attaching four shares of stock in said Company, and that the plaintiff, Robert Henry, herein will ask the Court to apply, the same to the payment of the plaintiff's claim filed in the City Court 2nd District before Don C. McCombs, judge thereof. That said Company answered holding in their possession four shares of common stock of the value of $400.00 belonging to said A. D. Parron, the defendant herein, and that unless you appear and answer said Bill of Particulars filed against you on or before the 24th day of February, 1922, evidence will be presented and judgment taken in said Court, before the Judge thereof on said date against you in favor of the plaintiff above named for the sum of $300.00, and granting him the relief herein prayed for.\n\nDORSEY GREEN.\nAttorney for Plaintiff.\n\n(First published Feb. 10, 1922.)",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1031,7 +1362,8 @@
             677
           ],
           "label": "paragraph_title",
-          "text": "METROPOLITAN\nTEMPLE NOTES"
+          "text": "METROPOLITAN\nTEMPLE NOTES",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1041,7 +1373,8 @@
             1222
           ],
           "label": "text",
-          "text": "Our pastor being on a week's visit in Texas, Rev. Alva Royston preached a good sermon Sunday morning from Phil 1:29 \"For unto you it is given in behalf of Christ, not only to believe in Him, but to suffer for His sake.\" The large congregation enjoyed the good sermon. At night he preached again. Dr. Harrison will return Saturday and preach Sunday, February 19. All who are so anxious to hear him come next Sunday. The Sunday school and B. Y. P. U. will have an installment of their officers and a glorious time is expected all day. Some of the sick are: Mrs. L. Moore, Mrs. Thompson, Mr. and Mrs. J. T. Roberts and S. Lewis. Come to Metropolitan church. It is growing greater and greater."
+          "text": "Our pastor being on a week's visit in Texas, Rev. Alva Royston preached a good sermon Sunday morning from Phil 1:29 \"For unto you it is given in behalf of Christ, not only to believe in Him, but to suffer for His sake.\" The large congregation enjoyed the good sermon. At night he preached again. Dr. Harrison will return Saturday and preach Sunday, February 19. All who are so anxious to hear him come next Sunday. The Sunday school and B. Y. P. U. will have an installment of their officers and a glorious time is expected all day. Some of the sick are: Mrs. L. Moore, Mrs. Thompson, Mr. and Mrs. J. T. Roberts and S. Lewis. Come to Metropolitan church. It is growing greater and greater.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1051,17 +1384,52 @@
             1264
           ],
           "label": "paragraph_title",
-          "text": "IN SOCIETY"
+          "text": "IN SOCIETY",
+          "status": "ok"
         },
         {
           "bbox": [
             359,
             1282,
+            671,
+            1806
+          ],
+          "label": "text",
+          "text": "Mrs. Forest is making a fine matron at the \"Y.\"\nDr. E. L. Harrison and one of his daughters and his little son are visiting in Texas this week and will return Saturday, February 18.\nMiss Mildred Curry, on Nebraska avenue, has been quite sick, but is better.\nMrs. J. W. Robinson, on James street, has been sick.\nMisses G. Wright, B. Scott, N. Steppe, C. Adams, M. Jones and L. Crump were ushers at the Forum Women's Day.\nMrs. M. C. Matthews attended Lincoln's birthdav program at the white Methodist church Sundav night and was invited back by the pastor and trustees.\nA pleasant Valentine social was given at Mrs. A. Allsbrook's Tuesday evening. February 14.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            362,
+            1825,
+            675,
+            2386
+          ],
+          "label": "text",
+          "text": "Mrs. N. P. Powell, 1016 New Jersey avenue, who has been in the hospital, is able to be out, of which her friends are happy to see her being restored to health again.\n\nMrs. Harriet Allen of Russellville, Ala., is visiting her daughter, Mrs. G. W. White, and husband, 2061 North Third street. Mrs. Allen will spend several months here before returning to her southern home.\n\nMrs. C. R. Johnson, 1964 North Sixth street, is confined to her room with chronical pneumonia. Her friends wish for her a speedy recovery.\n\nThe Metropolitan Sewing Circle will have a unique ntertainment on March 17. All are invited to, attend and reserve that date so you can attend.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            364,
+            2405,
+            677,
+            2895
+          ],
+          "label": "text",
+          "text": "The Advocate appreciated the renewals by money order from Mrs. Bettie Norman and Mrs: Stella Owens of Argentine, who never wait for time to elapse when due.\n\nThose who attended Lincoln Day banquet at Topeka from here Monday were: Judge I. F. Bradley, Sr.; Prof. J. P. King. Mr.-Wm. Boone and Lawyer Dorsey Green.\n\nProf. G. B. Buster of Sumner High school, returned Monday from Wilmington, Ohio, where he had been called by the serious illness of his father. He left his father, as he hopes, on the road to recovery, of which Prof. Buster's friends here will be pleased to learn.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            366,
+            2908,
             680,
             3023
           ],
           "label": "text",
-          "text": "Mrs. Forest is making a fine mation at the \"Y.\"\n\nDr. E. L. Harrison and one of his daughters and his little son are visiting in Texas this week and will return Saturday, February 18.\n\nMiss Mildred Curry, on Nebraska avenue, has been quite sick, but is better.\n\nMrs. J. W. Robinson, on James street, has been sick.\n\nMisses G. Wright, B. Scott, N. Steppe, C. Adams, M. Jones and L. Crump were ushers at the Forum Women's Day.\n\nMrs. M. C. Matthews attended Lincoln's birthday program at the white Methodist church Sunday night and was invited back by the pastor and trustees.\n\nA pleasant Valentine social was given at Mrs. A. Allsbrook's Tuesday evening, February 14.\n\nMrs. N. P. Powell, 1016 New Jersey avenue, who has been in the hospital, is able to be out of which her friends are happy to see her being restored to health again.\n\nMrs. Harriet Allen of Russellville, Ala., is visiting her daughter, Mrs. G. W. White, and husband, 2061 North Third street. Mrs. Allen will spend several months here before returning to her southern home.\n\nMrs. C. R. Johnson, 1964 North Sixth street, is confined to her room with chronical pneumonia. Her friends wish for her a speedy recovery.\n\nThe Metropolitan Sewing Circle will have a unique ntertainment on March 17. All are invited to attend and reserve that date so you can attend.\n\nThe Advocate appreciated the renewals by money order from Mrs. Bettie Norman and Mrs. Stella Owens of Argentine, who never wait for time to elapse when due.\n\nThose who attended Lincoln Day banquet at Topeka from here Monday were: Judge I. F. Bradley, Sr.; Prof. J. P. King; Mr.-Wm. Boone and Lawyer Dorsey Green.\n\nProf. G. B. Buster of Sumner High school, returned Monday from Wilmington, Ohio, where he had been called by the serious illness of his father. He left his father, as he hopes, on the road to recovery, of which Prof. Buster's friends here will be pleased to learn.\n\nHas the grip got you in its toils? There should be runs on sales of handkerchiefs. Many people have been kept busy taking care of the extra overflow from their heads."
+          "text": "Has the grip got you in its toils? There should be runs on sales of handkerchiefs. Many people have been kept busy taking care of the extra overflow from their heads.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1071,7 +1439,8 @@
             2627
           ],
           "label": "paragraph_title",
-          "text": "ADVANCE REALTY INVESTMENT CO."
+          "text": "ADVANCE REALTY INVESTMENT CO.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1081,7 +1450,8 @@
             2817
           ],
           "label": "text",
-          "text": "If you have plenty of money anybody can sell you: If your finances are limited we will help you financially to buy. Let us be your agent ------"
+          "text": "If you have plenty of money anybody can sell you: If your finances are limited we will help you financially to buy. Let us be your agent ------",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1091,7 +1461,8 @@
             2993
           ],
           "label": "text",
-          "text": "ADVANCE REALTY INVESTMENT CO.\nW. A. JARRETT, Manager\nOffice Phone Fairfax 0424 516 Minnesota Ave.\nResidence, Fifield 2802-W Kansas City, Kans."
+          "text": "ADVANCE REALTY INVESTMENT CO.\nW. A. JARRETT, Manager\nOffice Phone Fairfax 0424 516 Minnesota Ave.\nResidence, Fifield 2802-W Kansas City, Kans.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1101,7 +1472,8 @@
             214
           ],
           "label": "text",
-          "text": "Amerian Style.\n\nNow\u2014Do you give your wife can\nallow her?"
+          "text": "Amerian Style.\n\nNow\u2014Do you give your wife can\nallow her?",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1111,27 +1483,19 @@
             231
           ],
           "label": "text",
-          "text": "West-No. she gives me one!"
+          "text": "West-No. she gives me one!",
+          "status": "ok"
         },
         {
           "bbox": [
-            680,
+            678,
             266,
-            990,
-            597
-          ],
-          "label": "text",
-          "text": "\"What's his present salary?\"\n\"He save it never present long enough to know!\"\u2014Wayside Tales.\n\nViews of One.\n\"Then you think a man can't live entirely on permits?\"\n\"No, it's a shell game.\"\n\nNo Plain Ones.\n\"My appeal is to the plain people.\"\n\"Don't forget the women voters.\"\u2014Louisville Courier-Journal.\n\nEarly Indications.\n\"I think my boy is sure to be President.\" \"Play's a good game of golf, eh?\""
-        },
-        {
-          "bbox": [
-            684,
-            707,
-            990,
+            994,
             780
           ],
           "label": "text",
-          "text": "Limitations of an Adage.\n\"Man wants little here below,\" quoted Bolt. \"That goes for trouble only,\" replied Nutt."
+          "text": "\"What's his present salary?\"\n\"He says it's never present long enough to know!\"\u2014Wayside Tales.\n\nViews of One.\n\"Then you think a man can't live entirely on permits?\"\n\"No, it's a shell game.\"\n\nNo Plain Ones.\n\"My appeal is to the plain people.\"\n\"Don't forget the women voters.\"\u2014Louisville Courier-Journal.\n\nEarly Indications.\n\"I think my boy is sure to be President.\" \"Plays a good game of golf, eh?\n\nDry Goods.\n\"Colonel, should a dry goods store sell soda water?\"\n\n\"Yes, I guess it's dry enough.\"\n\nLimitations of an Adage.\n\"Man wants little here below.\" quoted Bolt. \"That goes for trouble only,\" replied Nutt.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1141,27 +1505,19 @@
             812
           ],
           "label": "paragraph_title",
-          "text": "No Chance"
+          "text": "No Chance",
+          "status": "ok"
         },
         {
           "bbox": [
-            684,
+            678,
             813,
-            990,
-            891
-          ],
-          "label": "text",
-          "text": "\"So you've been speculating in the market, have you?\" \"Not at all; I always lose my money on sure things.\"\u2014Life."
-        },
-        {
-          "bbox": [
-            685,
-            977,
-            988,
+            994,
             1023
           ],
           "label": "text",
-          "text": "\"The gasket is too thin.\"\u2014Farm Life."
+          "text": "\"So you've been speculating in the market, have you?\" \"Not at all; I always lose my money on sure things.\"\u2014Life.\n\nMotoristically Speaking.\n\n\"Key, mister, this cheese sandwich.\"\n\n\"Speatter with it?\"\n\n\"The gasket is too thin.\"\u2014Farm Life.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1171,7 +1527,8 @@
             1056
           ],
           "label": "paragraph_title",
-          "text": "Taking Precautions."
+          "text": "Taking Precautions.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1181,7 +1538,8 @@
             1355
           ],
           "label": "text",
-          "text": "A tourist in Scotland came to a wide river. It was a stormy day and the wind was constantly increasing, but he asked a boatman to take him across. The latter agreed to do so, if the tourist would wait until he'd take his cow over. Later, as they were nearing the opposite bank, the tourist asked: \"Will you tell me why you took your cow over and made me wait?\" \"Well, now,\" explained the old fellow, \"see we the cow wud valitable, and I feared the wind wud increase so the boat might upset on the second trip.\""
+          "text": "A tourist in Scotland came to a wide river. It was a stormy day and the wind was constantly increasing, but he asked a boatman to take him across. The latter agreed to do so, if the tourist would wait until he'd take his cow over. Later, as they were nearing the opposite bank, the tourist asked: \"Will you tell me why you took your cow over and made me wait?\" \"Well, now,\" explained the old fellow, \"see we the cow wud valitable, and I feared the wind wud increase so the boat might upset on the second trip.\"",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1191,7 +1549,8 @@
             1390
           ],
           "label": "paragraph_title",
-          "text": "176 CF0.000 Lives SaveJ."
+          "text": "176 CF0.000 Lives SaveJ.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1201,7 +1560,8 @@
             1614
           ],
           "label": "text",
-          "text": "Superintendent C. F. Culler reports that approximately 176000000 fish were received from lindocked waters along the Mississippi river during the season which closed November 1. This work establishes a record in the history of the bureau's operations and serves to illustrate the tremendous mortality to which the river fishes are liable because of physical conditions resulting from freshs.\u2014Fisheries Service Bulletin."
+          "text": "Superintendent C. F. Culler reports that approximately 176000000 fish were received from lindocked waters along the Mississippi river during the season which closed November 1. This work establishes a record in the history of the bureau's operations and serves to illustrate the tremendous mortality to which the river fishes are liable because of physical conditions resulting from freshs.\u2014Fisheries Service Bulletin.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1211,7 +1571,8 @@
             1663
           ],
           "label": "paragraph_title",
-          "text": "Where It Originated."
+          "text": "Where It Originated.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1221,7 +1582,8 @@
             1701
           ],
           "label": "text",
-          "text": "Here is the original of all the mother-raww stories in the world:"
+          "text": "Here is the original of all the mother-raww stories in the world:",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1231,17 +1593,19 @@
             1777
           ],
           "label": "text",
-          "text": "As Mr. Caveman was gnawing at a home in his cave one morning, Mrs. Caveman resisted in and said: \"Quick! Get your club! Oh, quick!\""
+          "text": "As Mr. Caveman was gnawing at a home in his cave one morning, Mrs. Caveman resisted in and said: \"Quick! Get your club! Oh, quick!\"",
+          "status": "ok"
         },
         {
           "bbox": [
-            684,
+            678,
             1815,
-            993,
-            1927
+            994,
+            2098
           ],
           "label": "text",
-          "text": "\"Saber-toothed tiger chasing mother!\" gasped his wife.\n\nMr Caveman uttered an expression of annoyance. \"And what the deuce,\" he assessed, \"do I care what happens to a saber-toothed tiger?\""
+          "text": "\"Saber-toothed tiger chasing mother!\" grasped his wife.\n\nMr Caveman uttered an expression of annoyance. \"And what the deuce,\" he asked. \"do I care what happens to a saber-toothed tiger?\"\n\nDecided.\n\n\"Jones and I have made a bet, and you are to settle it. I say that\"\u2014\u2014\n\n\"What are the terms of the wager?\"\n\n\"Oh, the loser is to buy a good dinner for the three of us. I claim that\"\u2014\u2014\n\n\"Nemmine that. I never knew Jones to pay a bet. You lose.\"\u2014\u2014Judge.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1251,7 +1615,8 @@
             1963
           ],
           "label": "paragraph_title",
-          "text": "Decided."
+          "text": "Decided.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1261,17 +1626,19 @@
             2523
           ],
           "label": "text",
-          "text": "To be truly out of the world is never to hear any of the risque stories.\n\nIt will generally be found that one has less faith in exercise than he has in medicine.\n\nDon't tell your hard luck story to the other fellow\u2014he may be waiting to tell his.\n\nMost of the uplifts fall because the uplifters are mad at the folks they want uplifted.\n\nNever hit a man when he is down unless you are sure of your ability to keep him down.\n\nOne of the faults of antique furniture is that it needs a room about 20 by 30 to show it off."
+          "text": "To be truly out of the world is never to hear any of the risque stories.\n\nIt will generally be found that one has less faith in exercise than he has in medicine.\n\nDon't tell your hard luck story to the other fellow\u2014he may be waiting to tell his.\n\nMost of the uplifts fall because the uplifters are mad at the folks they want uplifted.\n\nNever hit a man when he is down unless you are sure of your ability to keep him down.\n\nOne of the faults of antique furniture is that it needs a room about 20 by 30 to show it off.",
+          "status": "ok"
         },
         {
           "bbox": [
-            745,
-            2949,
-            1003,
-            2993
+            678,
+            2523,
+            994,
+            2877
           ],
           "label": "text",
-          "text": "Office Phone Fairfax-0424\nResidence, Fifield 2802-W"
+          "text": "ADVANCE REALTY\n\nIf you have plenty\ncan sell you. If\nlimited we will help\nbuy. Let us be yo",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1281,7 +1648,8 @@
             494
           ],
           "label": "text",
-          "text": "The English Winston.\n\nSir Auckland Geddes, the British ambassador, said the other day at an art exhibition:\n\n\"Winston Churchill paints, you know. He writes as well, but painting is his latest hobby.\n\n\"He's a good painter, too, though his friends joke him a great deal about it. He stayed not long ago at Dumrobin castle with the duke and duchess of Sutherland, and after he was gone the duchess said:\n\n\"Mr. Churchill is so original. He spent all his time while here painting one of the castle towers. He is gone now. I am so glad he took his picture with him.\""
+          "text": "The English Winston.\n\nSir Auckland Geddes, the British ambassador, said the other day at an art exhibition:\n\n\"Winston Churchill paints, you know. He writes as well, but painting is his latest hobby.\n\n\"He's a good painter, too, though his friends joke him a great deal about it. He stayed not long ago at Dumrobin castle with the duke and duchess of Sutherland, and after he was gone the duchess said:\n\n\"Mr. Churchill is so original. He spent all his time while here painting one of the castle towers. He is gone now. I am so glad he took his picture with him.\"",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1291,7 +1659,8 @@
             532
           ],
           "label": "paragraph_title",
-          "text": "Obvious!"
+          "text": "Obvious!",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1301,7 +1670,8 @@
             849
           ],
           "label": "text",
-          "text": "The family was seated at dinner, and the conversation turned to school lessons, much to the consternation and disgust of Cynthia.\n\n\"What period in English history are you doing?\" inquired her father.\n\n\"The Stuarts,\" replied Cynthia, timidly; after which an ominous pause suggested that father was thinking of a question upon a period of history about which his facts were dim and hazy.\n\n\"What was the first thing James I did when he came to the throne?\" he asked at length.\n\n\"Nat on it, I suppose,\" replied Cynthia, with calm conviction."
+          "text": "The family was seated at dinner, and the conversation turned to school lessons, much to the consternation and disgust of Cynthia.\n\n\"What period in English history are you doing?\" inquired her father.\n\n\"The Stuarts,\" replied Cynthia, timidly; after which an ominous pause suggested that father was thinking of a question upon a period of history about which his facts were dim and hazy.\n\n\"What was the first thing James I did when he came to the throne?\" he asked at length.\n\n\"Nat on it, I suppose,\" replied Cynthia, with calm conviction.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1311,7 +1681,8 @@
             885
           ],
           "label": "paragraph_title",
-          "text": "Would Get His Money's Worth"
+          "text": "Would Get His Money's Worth",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1321,7 +1692,8 @@
             1166
           ],
           "label": "text",
-          "text": "Billy was quite displeased when the stork brought him a sister, for sisters are of no earthly use to 6-year-old boys.\n\nAfter Evelyn's arrival he crowled upon daddy's lap and whispered, \"Say, dad, I'm going over and ask Glenn's dad if he won't trade us Glenn (his playmate) for sister. They've been wanting a girl, anyhow.\"\n\nSeeing the look of assumed horror on dad's face, Billy, who always tries to get the best of a bargain, said, \"Don't worry, dad. I'll make him give us a quarter to boot.\""
+          "text": "Billy was quite displeased when the stork brought him a sister, for sisters are of no earthly use to 6-year-old boys.\n\nAfter Evelyn's arrival he crowled upon daddy's lap and whispered, \"Say, dad, I'm going over and ask Glenn's dad if he won't trade us Glenn (his playmate) for sister. They've been wanting a girl, anyhow.\"\n\nSeeing the look of assumed horror on dad's face, Billy, who always tries to get the best of a bargain, said, \"Don't worry, dad. I'll make him give us a quarter to boot.\"",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1331,7 +1703,8 @@
             1197
           ],
           "label": "paragraph_title",
-          "text": "What Ailed Her Pulse"
+          "text": "What Ailed Her Pulse",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1341,7 +1714,8 @@
             1480
           ],
           "label": "text",
-          "text": "Little Louise was recovering from a bit of fever and her appetite had begun to assert itself. She gave a look at the meager slice of toast and the broth that had been brought to her bedside.\n\n\"Can't I have more than this, mother?\" she asked. \"It isn't half enough.\" \"Not just yet,\" said mother. \"I am afraid to give you more. Your pulse is still too quick.\"\n\n\"But, mother,\" urged Louise. \"don't you see it's my excitement because I can't get enough to eat that makes my pulse so quick?\" Wayside Tales."
+          "text": "Little Louise was recovering from a bit of fever and her appetite had begun to assert itself. She gave a look at the meager slice of toast and the broth that had been brought to her bedside.\n\n\"Can't I have more than this, mother?\" she asked. \"It isn't half enough.\" \"Not just yet,\" said mother. \"I am afraid to give you more. Your pulse is still too quick.\"\n\n\"But, mother,\" urged Louise. \"don't you see it's my excitement because I can't get enough to eat that makes my pulse so quick?\" Wayside Tales.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1351,27 +1725,19 @@
             1513
           ],
           "label": "paragraph_title",
-          "text": "Too Late."
+          "text": "Too Late.",
+          "status": "ok"
         },
         {
           "bbox": [
-            1001,
+            998,
             1513,
-            1312,
-            1800
-          ],
-          "label": "text",
-          "text": "A New Englander, who is a hypochondriac and devotes much of his time in looking forward \"to the end,\" was in a particularly depressed mood one day, when he said to his wife:\n\n\"When I am gone, dear, and that must be soon, you must marry again. It is my wish.\"\n\n\"No, Henry,\" observed the wife, \"no one will marry an old woman like me. You ought to have died ten years ago for that.\"\n\nThe fewer friends a man has the more popular he is with himself."
-        },
-        {
-          "bbox": [
-            1004,
-            1913,
             1315,
             2044
           ],
           "label": "text",
-          "text": "Some elopements are due to the fact that there are no wedding presents in sight.\n\nMan is a creature who knows a lot but can hardly ever write it in a letter."
+          "text": "A New Englander, who is a hypo-chondriate and devotes much of his time in looking forward \"to the end,\" was in a particularly depressed mood one day, when he said to his wife:\n\n\"When I am gone, dear, and that must be soon, you must marry again. It is my wish.\"\n\n\"No Henry,\" observed the wife, \"no one will marry an old woman like me. You ought to have died ten years ago for that.\"\n\nThe fewer friends a man has the more popular he is with himself.\n\nPoverty often pinches the body and wealth sometimes pinches the soul.\n\nOne who predicts thunderstorms isn't necessarily a lightning calculator.\n\nSome elopements are due to the fact that there are no wedding presents in sight.\n\nMan is a creature who knows a lot but can hardly ever write it in a letter.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1381,7 +1747,8 @@
             2068
           ],
           "label": "paragraph_title",
-          "text": "THE DIFFERENCE"
+          "text": "THE DIFFERENCE",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1391,7 +1758,8 @@
             2153
           ],
           "label": "text",
-          "text": "\"Who is that poor fellow with the guards watching him?\" asked a visitor to the penitentiary."
+          "text": "\"Who is that poor fellow with the guards watching him?\" asked a visitor to the penitentiary.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1401,17 +1769,19 @@
             2527
           ],
           "label": "text",
-          "text": "\"And who is that trusty who seems to have so many privileges?\" asked the visitor.\n\n\"Ih, he's a financier,\" replied the warden. \"He's doing two years. He wrecked a railroad.\"\u2014Blacksmith's Journal.\n\nDoes any one know if there is a city ordinance which allows a city employee to work 40 hours per week while in the city's employ? Some employees have not been getting 40 hours per week. Can a man live and support his family on less?"
+          "text": "\"And who is that trusty who seems to have so many privileges?\" asked the visitor.\n\n\"Ih, he's a financier,\" replied the warden. \"He's doing two years. He wrecked a railroad.\"\u2014Blacksmith's Journal.\n\nDoes any one know if there is a city ordinance which allows a city employee to work 40 hours per week while in the city's employ? Some employees have not been getting 40 hours per week. Can a man live and support his family on less?",
+          "status": "ok"
         },
         {
           "bbox": [
-            1039,
-            2946,
-            1268,
-            2990
+            998,
+            2527,
+            1315,
+            2880
           ],
           "label": "text",
-          "text": "516 Minnesota Ave. Kansas City, Kans."
+          "text": "INVESTMENT CO.\n\nof money anybody\nyour finances are\nhelp you financially to\nur agent - - - - -",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1421,27 +1791,30 @@
             258
           ],
           "label": "text",
-          "text": "The Young Peoples' Guild, of tables.\" It was an enjoyable affair. A nice program was rendered. Mrs. Ira Jones is the president of this club."
-        },
-        {
-          "bbox": [
-            1456,
-            291,
-            1786,
-            317
-          ],
-          "label": "paragraph_title",
-          "text": "SUBSCRIPTION AGREEMENT"
+          "text": "The Young Peoples' Guild, of tables.\" It was an enjoyable affair. A nice program was rendered. Mrs. Ira Jones is the president of this club.",
+          "status": "ok"
         },
         {
           "bbox": [
             1315,
             331,
             1946,
+            876
+          ],
+          "label": "text",
+          "text": "AGREEMENT between W. H. Lambright, Sr., President of the Lambright Coal & Fuel Co., a Kansas corporation, with its principal offices at 1620 North Third street, in the City of Kansas\n\nCity, Kansas, of the FIRST PART, and\n\nof.....hereinafter called \"The Subscriber.\"\n\nWITNESSETH: W. H. Lambright, Sr., hereby agrees to sell to the subscriber, and the Subscriber hereby agrees to purchase (.....).....Shares of the Common Stock of the Lambright Coal & Fuel Co., such Common Stock being of the par value of Five ($5.00) Dollars per Share.\n\nat and for the sum of.....Dollars payable upon the execution of this contract, receipt whereof is hereby acknowledged.\n\nIt is further agreed that payment as above provided shall be made by the Subscriber, by check, draft, postoffice or express money order, payable to the Minnesota Avenue State Bank of Kansas City, Kansas, for the account of W. H. LAMBRIGHT, President, Lambright Coal & Fuel Co., and not otherwise.\n\nIt is further agreed that upon receipt of said subscription money, said shares of stock will be mailed (registered) by the bank to the subscriber direct.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1318,
+            877,
+            1942,
             939
           ],
           "label": "text",
-          "text": "AGREEMENT between W. H. Lambright, Sr., President of the Lambright Coal & Fuel Co., a Kansas corporation, with its principal offices at 1620 North Third street, in the City of Kansas\n\nCity, Kansas, of the FIRST PART, and\n\nof.....hereinafter called \"The Subscriber.\"\n\nWITNESSETH: W. H. Lambright, Sr., hereby agrees to sell to the subscriber, and the Subscriber hereby agrees to purchase (.....).....Shares of the Common Stock of the Lambright Coal & Fuel Co., such Common Stock being of the par value of Five ($5.00) Dollars per Share, at and for the sum of.....Dollars payable upon the execution of this contract, receipt whereof is hereby acknowledged.\n\nIt is further agreed that payment as above provided shall be made by the Subscriber, by check, draft, postoffice or express money order, payable to the Minnesota Avenue State Bank of Kansas City, Kansas, for the account of W. H. LAMBRIGHT, President, Lambright Coal & Fuel Co., and not otherwise.\n\nIt is further agreed that upon receipt of said subscription money, said shares of stock will be mailed (registered) by the bank to the subssriber direct.\n\nIt is further agreed that no agreement or condition or statement not herein contained shall be binding upon either party hereto."
+          "text": "It is further agreed that no agreement or condition or statement not herein contained shall be binding upon either party hereto.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1451,17 +1824,19 @@
             1338
           ],
           "label": "text",
-          "text": "City and State..... (Clip the above coupon, sign and mail.)"
+          "text": "City and State..... (Clip the above coupon, sign and mail.)",
+          "status": "ok"
         },
         {
           "bbox": [
             1317,
             1466,
             1942,
-            1666
+            1632
           ],
           "label": "text",
-          "text": "6-room modern except heat; one block of Quindaro car line; $2300, $350 down; balance like rent.\n6-room strictly modern house near Tenth street and Everett avenue; $2700, $400 down.\n6-room modern except heat, near Fourth street and Nebraska avenue; $3200 on terms.\n9-room house on paved street, close to car line, only $1350; terms, $500 down.\n\nIf you have property to sell list with us."
+          "text": "6-room modern except heat; one block of Quindaro car line; $2300, $350 down; balance like rent.\n\n6-room strictly modern house near Tenth street and Everett avenue; $2700, $400 down.\n\n6-room modern except heat, near Fourth street and Nebraska avenue; $3200 on terms.\n\n9-room house on paved street, close to car line, only $1350; terms, $500 down.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1471,17 +1846,19 @@
             1843
           ],
           "label": "doc_title",
-          "text": "LAUNDRY PRICES REDUCED"
+          "text": "LAUNDRY PRICES REDUCED",
+          "status": "ok"
         },
         {
           "bbox": [
             1360,
-            1867,
+            1994,
             1902,
             2147
           ],
           "label": "text",
-          "text": "WET WASH\n20 LBS.\n85 CENTS\n\nJONES LAUNDRY CO.\nF. D. WILLIAMS, MANAGER\n\n900 Walker Avenue Phone Fairfax 2060\nKansas City :- :- :- :- Kansas"
+          "text": "JONES LAUNDRY CO.\nF. D. WILLIAMS, MANAGER\n900 Walker Avenue Phone Fairfax 2060\nKansas City -:- -:- -:- -:- Kansas",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1491,7 +1868,8 @@
             2305
           ],
           "label": "text",
-          "text": "BBell Clifton 0838\u2014OFFICE PHONES\u2014Fell Fairfax 1258\n\nOffice Hours\u20141 to 3 P. M."
+          "text": "BBell Clifton 0838\u2014OFFICE PHONES\u2014Fell Fairfax 1258\n\nOffice Hours\u20141 to 3 P. M.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1501,17 +1879,8 @@
             2494
           ],
           "label": "text",
-          "text": "DR. M. G. BROOKINS\nDiseases and Surgery of\nEYE, EAR, NOSE AND THHOAT\nGLASSES FITTED ACCURATELY\n428 MINNESOTA AVE. KANSAS CITY, KANSAS"
-        },
-        {
-          "bbox": [
-            1496,
-            2573,
-            1769,
-            2607
-          ],
-          "label": "paragraph_title",
-          "text": "B. I. WORTHY"
+          "text": "DR. M. G. BROOKINS\nDiseases and Surgery of\nEYE, EAR, NOSE AND THHOAT\nGLASSES FITTED ACCURATELY\n428 MINNESOTA AVE. KANSAS CITY, KANSAS",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1521,7 +1890,8 @@
             2758
           ],
           "label": "text",
-          "text": "GROCERIES AND MEATS\nLET US SERVE YOU GOOD EATS. OUR MOTTO IS TO PLEASE\nWE DELIVER____PHONE FAIRFAX 2557\nCORNER FROUP AVENUE AND HALLOCK ST:\nIf We Please You, Tell Others; if not Tell Us"
+          "text": "GROCERIES AND MEATS\nLET US SERVE YOU GOOD EATS. OUR MOTTO IS TO PLEASE\nWE DELIVER____PHONE FAIRFAX 2557\nCORNER FROUP AVENUE AND HALLOCK ST:\nIf We Please You, Tell Others; if not Tell Us",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1531,7 +1901,85 @@
             2971
           ],
           "label": "text",
-          "text": "HOME OR PROPERTY TO BUY OR SELL\n510 MINNEOTA AVE. PHONE FAIRFAX 0255"
+          "text": "HOME OR PROPERTY TO BUY OR SELL\n510 MINNEOTA AVE. PHONE FAIRFAX 0255",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1456,
+            291,
+            1786,
+            317
+          ],
+          "label": "paragraph_title",
+          "text": "SUBSCRIPTION AGREEMENT",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1359,
+            317,
+            1786,
+            1640
+          ],
+          "label": "text",
+          "text": "AGREEMENT between W. H. Lambright, Sr., and Lambright Coal & Fuel Co., a Kansas corporate offices at 1620 North Third street, in the city, Kansas, of the FIRST PART, and\n\nthe Subscriber.\"\n\nWITNESSETH: W. H. Lambright, Sr., heir to the subscriber, and the Subscriber hereby make (....) and for the sum of .....\n\nable upon the execution of this contract, reckonly acknowledged.\n\nIt is further agreed that payment as above payable by the Subscriber, by check, draft, postal money order, payable to the Minnesota Avenue Kansas City, Kansas, for the account of W. H. President, Lambright Coal & Fuel Co., and not here.\n\nIt is further agreed that upon receipt of money, said shares of stock will be mailed (reg. back to the subssriber direct.\n\nIt is further agreed that no agreement or contract not herein contained shall be binding upon.\n\nIn Witness Whereof, the parties have herewith and seas this day of\n\nback to be issued in Name of.....\n\n(Print in name)\n\nThis contract is not valid unless countersigned by\n\nH. LAMBRIGHT, SR., President, Lambright\n\nPer.....\n\nSubscript\n\nDirect and Number\n\nCity and State\n\n(Clip the above coupon, sign and maiden)\n\nTHE REAL ESTATE BURGAGE\n\n529 STATE AVENUE. FAIRFAX\n\nFOR SALE\n\n6-room modern except heat; one block of Queen 100, $350 down; balance like rent.\n\n6-room strictly modern house near Tenth street; $2700, $400 down.\n\n6-room modern except heat, near Fourth street; $3200 on terms.\n\n9-room house on paved street, close to car lanes, $500 down.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1359,
+            1640,
+            1786,
+            1968
+          ],
+          "label": "text",
+          "text": "If you have property to sell list with us.\n\nLAUNDRY PRIC\nREDUCED\n\nWET WASH\n20 LBS.\n85 CENTS",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1359,
+            1968,
+            1786,
+            2573
+          ],
+          "label": "text",
+          "text": "JONES LAUNDRY\nF. D. WILLIAMS, MANAGER\n900 Walker Avenue Phone Fain\nKansas City :- :- :- :-\n\nBBell Clifton 0838\u2014OFFICE PHONES\u2014Bell Fain\nOffice Hours\u20141 to 3 P. M.\n\nDR. M. G. BROOKINS\nDiseases and Surgery of\nEYE, EAR, NOSE AND TH\n\nGLASSES FITTED ACCURATE\n428 MINNESOTA AVE. KANSAS CITY",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1496,
+            2573,
+            1769,
+            2607
+          ],
+          "label": "paragraph_title",
+          "text": "B. I. WORTHY",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1359,
+            2607,
+            1786,
+            2954
+          ],
+          "label": "text",
+          "text": "GROCERIES AND ME\nT US SERVE YOU GOOD EATS. OUR MOTTO\nWE DELIVER--------PHONE FAIR\nCORNER TROUP AVENUE AND HALL\nIf We Please You, Tell Others; if not T\n\nCALL W. R. JOHNSON &\nConcerning that\nHOME OR PROPERTY TO BUY",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1776,
+            112,
+            1936,
+            141
+          ],
+          "label": "text",
+          "text": "Page Three.",
+          "status": "ok"
         }
       ]
     },
@@ -1540,7 +1988,29 @@
       "image": "images/page_04.jpg",
       "width": 2041,
       "height": 3040,
+      "processed_at": "2026-03-07T12:12:21.764679+00:00",
+      "pipeline": {
+        "layout_model": "PP-DocLayout_plus-L",
+        "ocr_model": "mlx-community/GLM-OCR-bf16",
+        "ocr_timeout": 25,
+        "cleanup_reprocess": true
+      },
+      "layout": {
+        "raw_detections": 51,
+        "after_merge": 32
+      },
       "regions": [
+        {
+          "bbox": [
+            72,
+            107,
+            698,
+            733
+          ],
+          "label": "text",
+          "text": "BABIES\nBABIES\nAND\nMORE\nBABIES\n\nWE HAVE THEM FOR\nADOPTION\n\nLET US CARE FOR YOUR BABY,\nSICK OR WELL, IN OUR\nNURSERY DEPARTMENT\n\nPrivate Confinement\na Specialty\n\nTHE PIONEER\nMATERNITY\nSANITARIUM\n\n422 MINNESOTA AVENUE\nKANSAS CITY, KANSAS\nPHONE FAIRFAX 4995\n\nDR. A. PORTER DAVIS\nSuperintendent",
+          "status": "ok"
+        },
         {
           "bbox": [
             109,
@@ -1549,17 +2019,63 @@
             780
           ],
           "label": "paragraph_title",
-          "text": "J. O. MIDNIGHT"
+          "text": "J. O. MIDNIGHT",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            68,
+            809,
+            380,
+            1188
+          ],
+          "label": "text",
+          "text": "(Continued from First Page) present and who had their say, and who were in the ring.\n\nNow if you will couple with all the bishops all the bishops the hunlreds of men who are anxious to be bishops and declare the Lord has called them to be, but they seem to be just a little ahead of the Lord, but they are ready to serve, and will serve if they can just get the Lord to tell the voters, that He has called them to be bishops, general officers and the like. But I am not going to meddle with God's business, and you will excuse me, please.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            68,
+            1188,
+            378,
+            1642
+          ],
+          "label": "text",
+          "text": "There were brains enough down here this week to float the city of New York, and I am here to tell you that them men made some real speeches. I heard them all, and I just shouted when some of them were speaking. I heard some of them were speaking. I heard some one speaking of me say, \"I think the fool is crazy, and should be locked up.\"\n\nGo back sixty years ago, look at our condition then, and see where we are today, and I think you would just shout your fool brains out as I was about to do. But, honey, let me tell you we have some smart men in this country, some of them as smart as Woodrow Wilson.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            67,
+            1644,
+            379,
+            2163
+          ],
+          "label": "text",
+          "text": "There were many men here from Texas. The Rev. Dr. E. J. Howard, of Texas, shook my lily black hand, and then came along Rev. G. B. Young, and Rev. S. D. Butler, and Rev. H. A. Carr, all have been stung by that buzzing bishop bee, and they have bad cases, and I will tell you the results if I am here. I have only mentioned a few of the men, for there are others who were not present, but they are buzzing just the same. Rev. S. J. Johnson, who is now mentioned for successor to Dr. B. F. Watson, whose health is not so good, but who will retire after the next general conference so as to live all the longer. Just so much work can a man do, and if he tries to go over that nature will demand its toll, and you must settle up whether you want to or not.",
+          "status": "ok"
         },
         {
           "bbox": [
             66,
-            809,
+            2164,
+            381,
+            2493
+          ],
+          "label": "text",
+          "text": "I found some of them bishops as angry as a wet hen, and they had made up their minds that it was time to do something. Ira T. Bryant had been writing and had said something that would have been unsaid for all concerned in this saying they felt that Secretary Bryant had reflected on all bishops of the race, and I was surprised when I heard Bishop Smith read a document which was an apology for what the secretary-treasurer had said. He made this to the other bishops.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            67,
+            2495,
             383,
             2807
           ],
           "label": "text",
-          "text": "(Continued from First Page) present and who had their say, and who were in the ring.\n\nNow if you will couple with all the bishops all the bishops the hunreds of men who are anxious to be bishops and declare the Lord has called them to be, but they seem to be just a little ahead of the Lord, but they are ready to serve, and will serve if they can just get the Lord to tell the voters, that He has called them to be bishops, general officers and the like. But I am not going to meddle with God's business, and you will excuse me, please.\n\nThere were brains enough down here this week to float the city of New York, and I am here to tell you that them men made some real speeches. I heard them all, and I just shouted when some of them were speaking. I heard some of them were speaking. I heard some one speaking of me say, \"I think the fool is crazy, and should be locked up.\"\n\nGo back sixty years ago, look at our condition then, and see where we are today, and I think you would just shout your fool brains out as I was about to do. But, honey, let me tell you we have some smart men in this country, some of them as smart as Woodrow Wilson.\n\nThere were many men here from Texas. The Rev. Dr. E. J. Howard, of Texas, shook my lily black hand, and then came along Rev. G. B. Young, and Rev. S. D. Butler, and Rev. H. A. Carr, all have been stung by that buzzing bishop bee, and they have bad cases, and I will tell you the results if I am here. I have only mentioned a few of the men, for there are others who were not present, but they are buzzing just the same. Rev. S. J. Johnson, who is now mentioned for successor to Dr. B. F. Watson, whose health is not so good, but who will retire after the next general conference so as to live all the longer. Just so much work can a man do, and if he tries to go over that nature will demand its toll, and you must settle up whether you want to or not.\n\nI found some of them bishops as angry as a wet hen, and they had made up their minds that it was time to do something. Ira T. Bryant had been writing and had said something that would have been unsaid for all concerned in this saying they felt that Secretary Bryant had reflected on all bishops of the race, and I was surprised when I heard Bishop Smith read a document which was an apology for what the secretary-treasurer had said. He made this to the other bishops.\n\nNow then you want to know what happened. Well, them bishops just called Secretary-Treasurer Bryant before them and I am told that after putting to him a direct question concerning the article demanded that he resign, and Mr. Bryant, without saying a word, walked out of the room. I have been informed that he now has on his fighting gloves, and is going to contend to the last for what he conceives to be his rights."
+          "text": "Now then you want to know what happened. Well, them bishops just called Secretary-Treasurer Bryant before them and I am told that after putting to him a direct question concerning the article demanded that he resign, and Mr. Bryant, without saying a word, walked out of the room. I have been informed that he now has on his fighting gloves, and is going to contend to the last for what he conceives to be his rights.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1569,7 +2085,8 @@
             2931
           ],
           "label": "text",
-          "text": "It was a great big meeting and big things were accomplished if you will just take the time to find.out. I will go on to: other important events. When I wrote to you that other"
+          "text": "It was a great big meeting and big things were accomplished if you will just take the time to find.out. I will go on to: other important events. When I wrote to you that other",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1579,7 +2096,8 @@
             1266
           ],
           "label": "text",
-          "text": "letter I was in Memphis, but I got away from there and went down to Birmingham, where I found a representative of Tuggle Institute awaiting my arrival, and got in a car which toted me down to see Prof. Glover, and then we were off to the school. Mrs. Tuggle met me with that broad smile and declared that she was glad to see me. I felt good, for Mrs. Tuggle is one of the greatest women in this country, and a leader among women. She has dedicated her life to the unfortunate boys and girls\u2014those that no one wants to bother with them. She takes them and moulds them over again. She is a wonderful character, and I was delighted to be in her home and see the good things she is doing here in town."
+          "text": "letter I was in Memphis, but I got away from there and went down to Birmingham, where I found a representative of Tuggle Institute awaiting my arrival, and got in a car which toted me down to see Prof. Glover, and then we were off to the school. Mrs. Tuggle met me with that broad smile and declared that she was glad to see me. I felt good, for Mrs. Tuggle is one of the greatest women in this country, and a leader among women. She has dedicated her life to the unfortunate boys and girls\u2014those that no one wants to bother with them. She takes them and moulds them over again. She is a wonderful character, and I was delighted to be in her home and see the good things she is doing here in town.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1589,7 +2107,8 @@
             1721
           ],
           "label": "text",
-          "text": "After sending into my eternity some fine chicken, well cooked, I went over and met the student body\u2014a fine set of young people. I wish you could just drop down and look at them and see what this unselfish woman is doing for her people and you will agree at once with me that she is one of the greatest women of the age. Modest, intelligent, and just a leader of women, and she is also a leader in thought.\n\nI think I will have to bring this letter to a stop. My next one will be from Florida.. Look out for it, for it is coming. I am going to spend just a little time with Bishop John Hurst and others. John H. Murphy is down here."
+          "text": "After sending into my eternity some fine chicken, well cooked, I went over and met the student body\u2014a fine set of young people. I wish you could just drop down and look at them and see what this unselfish woman is doing for her people and you will agree at once with me that she is one of the greatest women of the age. Modest, intelligent, and just a leader of women, and she is also a leader in thought.\n\nI think I will have to bring this letter to a stop. My next one will be from Florida.. Look out for it, for it is coming. I am going to spend just a little time with Bishop John Hurst and others. John H. Murphy is down here.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1599,47 +2118,41 @@
             1913
           ],
           "label": "text",
-          "text": "Miss Mattie Wilson of Memphis. Tenn., is visiting her brother and wife. Mr. and Mrs. C. G. Wilson. 1609 North Tenth street. Mr. Wilson, who has been quite sick, is much improved."
+          "text": "Miss Mattie Wilson of Memphis. Tenn., is visiting her brother and wife. Mr. and Mrs. C. G. Wilson. 1609 North Tenth street. Mr. Wilson, who has been quite sick, is much improved.",
+          "status": "ok"
         },
         {
           "bbox": [
             383,
             1984,
-            699,
-            2363
-          ],
-          "label": "text",
-          "text": "Hazel Lovelace Plaintiff, vs. Robert Lovelace, Defendant. No. 17538A.\nTo the above named defendant, Robert Lovelace, Greeting:\nYou are hereby notified that you have been sued in the above entitled court by Hazel Lovelace, the plaintiff, and that this action is brought to obtain an absolute divorce for said plaintiff from you.\nThat the grounds therein alleged are gross neglect of duty, extreme cruelty and abandonment.\nYou are further notified that unless you answer the petition heietorefiled in said cause on or before the 13th day of March 1922, a divorce and judgment will be rendered against you, decreeing and adjudging a divorce to plaintiff, on the grounds therein mentioned as prayed for by the plaintiff."
-        },
-        {
-          "bbox": [
-            391,
-            2481,
             700,
             2532
           ],
           "label": "text",
-          "text": "Willie McReynolds. Plaintiff, vs.\nLoyd McReynolds, Defendant. No.\n17539-1."
+          "text": "Hazel Lovelace Plaintiff, vs. Robert Lovelace, Defendant. No. 17538A.\nTo the above named defendant, Robert Lovelace, Greeting:\nYou are hereby notified that you have been sued in the above entitled court by Hazel Lovelace, the plaintiff, and that this action is brought to obtain an absolute divorce for said plaintiff from you.\nThat the grounds therein alleged are gross neglect of duty, extreme cruelty and abandonment.\nYou are further not filed that unless you answer the petition heietofore filed in said cause on or before the 19th day of March 1922, a divorce and judgment will be rendered against you, decreeing and adjudging a divorce to plaintiff, on the grounds therein mentioned as prayed for by the plaintiff.\n\nGUY BOOKER.\nAttorney for Plaintiff.\n(First published Feb. 3, 1922)\n\nPUBLICATION NOTICE\nIn the D-strict Court of Wyandotte County, Kansas,\nWillie McReynolds. Plaintiff, vs. Loyd McReynolds, Defendant. No. 17539-1.",
+          "status": "ok"
         },
         {
           "bbox": [
-            400,
-            2880,
+            383,
+            2532,
             700,
-            2934
+            3020
           ],
           "label": "text",
-          "text": "GUY BOOKER.\nAttorney for Plaintiff.\n/ (First published Feb. 3., 1922)"
+          "text": "To the above named defendant, Lovd McReynolds, Greeting:\n\nYou are hereby notified that you have been sued in the above entitled court by Willie Mae McReynolds, the plaintiff and this action is brought to obtain an absolute divorce for said plaintiff from you.\n\nThat the grounds therein alleged are gross neglect of duty, cruelty and abandonment.\n\nYou are further notified that unless you answer the petition heretofore filed in said cause on or before the 13th day of March 1922, a divorce and judgment will be rendered against you, decreeing and adjudging a divorce to plaintiff, on the grounds therein mentioned as prayed for by the plaintiff.\n\nGUY BOOKER.\nAttorney for Plaintiff.\n/ (First published Feb. 3, 1922)",
+          "status": "ok"
         },
         {
           "bbox": [
             704,
-            114,
-            1020,
+            61,
+            1339,
             506
           ],
           "label": "text",
-          "text": "Prof. King will give a concert at and for Metropolitan Mission Circle, February 23, with the famous Sumner Night school.\n\nKeep off of date, Thursday. March 23\u2014Annual Knife and Fork Banquet at First A.M.E. church. Bigger than ever.\n\nOur best efforts are put forth in our Prescription Department. Let us fill your next one. Dillard & Rodgers, Drexel 2556.\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas, 2nd Div."
+          "text": "The Kansas City Advocate for February 17, 1922\n\nProf. King will give a concert at and for Metropolitan Mission Circle, February 23, with the famous Sumner Night school.\n\nKeep off of date, Thursday, March 23\u2014Annual Knife and Fork Banquet at First A. M. E. church. Bigger than ever.\n\nOur best efforts are put forth in our Prescription Department. Let us fill your next one. Dillard & Rodgers, Drexel 2556.\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas, 2nd Div.\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, State of Kansas. No. 17511A. August Anderson, Plaintiff, vs. P. Sidney Post, Edwin Post, and Mary D. Post, his wife; Phillip Post, Alson C. Dayls, and Willh Davis, his wife; Andrew J. Colvin, Anthony J. Colvin; Margaret C. Alling Colvin, his wife; Mary Louise Jugg, Byron Jugg. A. J. Colvin, M. C. Alling Colvin, Ella Stone Davis, F. M. Barthlow, Marie C. Fletcher, William Fletcher, Howard Corwin, M. C. Fletcher, Alfred Anderson and Laura Anderson his wife and their unknown heirs, administrators, executors, trustees, devisees and assigns, Defendants.\n\nState of Kansas, Wyandotte County, ss.\n\nState of Kansas to the above named defendants; namely: P. Sidney Post, Edwin Post, and Mary D.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1649,7 +2162,8 @@
             968
           ],
           "label": "text",
-          "text": "Edward Everitt, Plaintiff. vs. Bessie. Lee Everitt, Defendant. No. 17606.\n\nTo Bessie Lee Everitt:\n\nYou are hereby notified that you have been sued by the above named plaintiff in the District Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court of Wyandotte County, Kansas, on or before the 15th day of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of plaintiff granting him an absolute divorce from you and for such other and further relief as the nature of the case may require, and for costs.\n\nDORSEY GREEN,\nAttorney for Plaintiff.\n\n(First published Feb. 3, 1922.)\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas."
+          "text": "Edward Everitt, Plaintiff. vs. Bessie. Lee Everitt, Defendant. No. 17606.\n\nTo Bessie Lee Everitt:\n\nYou are hereby notified that you have been sued by the above named plaintiff in the District Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court of Wyandotte County, Kansas, on or before the 15th day of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of plaintiff granting him an absolute divorce from you and for such other and further relief as the nature of the case may require, and for costs.\n\nDORSEY GREEN,\nAttorney for Plaintiff.\n\n(First published Feb. 3, 1922.)\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1659,7 +2173,8 @@
             1026
           ],
           "label": "text",
-          "text": "Maude Starr, Plaintiff vs. Hazel Starr, Defendant. No. 17589A. The State of Kansas to the defend- an, Hutchison Co."
+          "text": "Maude Starr, Plaintiff vs. Hazel Starr, Defendant. No. 17589A. The State of Kansas to the defend- an, Hutchison Co.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1669,7 +2184,8 @@
             1489
           ],
           "label": "text",
-          "text": "ant, Hazel Starr, Greeting: You are hereby notified that you have been sued for a divorce by the plaintiff upon the grounds of having unlawfully abandoned her continuously for one year next preceding the filing of plaintiffs petition and gross neglect of duty; and that unless you shall file an answer to said petition, denying the allegatoins thereof, on or before the 18th day of March, A. D. 1922, the said petition as well as the material allegations thereof will be taken as true and confessed, and a judgment or decree of divorce dissolving the bonds of matrimony now existing between you and plaintiff and restoring the surname of Maryweather to the latter will be rendered accordingly.\n\nMAUDE STARR, Plaintiff.\nD. E. HENDERSON.\nAttorney for Plaintiff.\nAttest: R. J. McFarland, Clerk of the District Court, Wyarddotte County, Kansas, by H. E. Meade, Deputy Clerk.\n(First published Feb. 3, 1922.)"
+          "text": "ant, Hazel Starr, Greeting: You are hereby notified that you have been sued for a divorce by the plaintiff upon the grounds of having unlawfully abandoned her continuously for one year next preceding the filing of plaintiffs petition and gross neglect of duty; and that unless you shall file an answer to said petition, denying the allegatoins thereof, on or before the 18th day of March, A. D. 1922, the said petition as well as the material allegations thereof will be taken as true and confessed, and a judgment or decree of divorce dissolving the bonds of matrimony now existing between you and plaintiff and restoring the surname of Maryweather to the latter will be rendered accordingly.\n\nMAUDE STARR, Plaintiff.\nD. E. HENDERSON.\nAttorney for Plaintiff.\nAttest: R. J. McFarland, Clerk of the District Court, Wyarddotte County, Kansas, by H. E. Meade, Deputy Clerk.\n(First published Feb. 3, 1922.)",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1679,7 +2195,8 @@
             1897
           ],
           "label": "text",
-          "text": "10 Percy S. Williams, Greeting:\nYou are hereby notified that you have been sued by your wife, Margie L. Williams, for a decree of divorce in the District Court of Wyandotte County, Kansas, on the ground of gross neglect of dirty, extreme cruelty and abandonment, and that unless you answer the petition filed herein on or before the 10th day of March, 1922, said petition will be taken as true and a decree of divorce will be granted the plaintiff divorcing the plaintiff from you and judgment for such other and further relief as she may be entitled to in equity."
+          "text": "10 Percy S. Williams, Greeting:\nYou are hereby notified that you have been sued by your wife, Margie L. Williams, for a decree of divorce in the District Court of Wyandotte County, Kansas, on the ground of gross neglect of dirty, extreme cruelty and abandonment, and that unless you answer the petition filed herein on or before the 10th day of March, 1922, said petition will be taken as true and a decree of divorce will be granted the plaintiff divorcing the plaintiff from you and judgment for such other and further relief as she may be entitled to in equity.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1689,7 +2206,8 @@
             2026
           ],
           "label": "text",
-          "text": "PETITION FOR DIVORCE\nIn the District Court of Wyandotte\nCounty, Kansas. 31d Div."
+          "text": "PETITION FOR DIVORCE\nIn the District Court of Wyandotte\nCounty, Kansas. 31d Div.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1699,7 +2217,8 @@
             2073
           ],
           "label": "text",
-          "text": "Irene Cammack, Plaintiff, vs. Henry Cammack, Defendant. No. 17526.\nTo Henry Cammack:"
+          "text": "Irene Cammack, Plaintiff, vs. Henry Cammack, Defendant. No. 17526.\nTo Henry Cammack:",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1709,7 +2228,8 @@
             2439
           ],
           "label": "text",
-          "text": "You are hereby notified that you have been sued by the above named plaintiff in the D'strict Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court of Wyandotte County, Kansas, on or before the 9th day of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of plaintiff granting her an absolute divorce of and from you and for the care, custody and control of your minor child, viz: Vivian Cammack, aged eight years, and for such other and further relief as the nature of the case may require and for costs.\n\nDORSEY GREEN.\nAttorney for Plaintiff\n\n(First published Jan. 27, 1922)"
+          "text": "You are hereby notified that you have been sued by the above named plaintiff in the D'strict Court of Wyandotte County, Kansas, for divorce, and that you are required to answer the petition of plaintiff filed in the office of the Clerk of the District Court of Wyandotte County, Kansas, on or before the 9th day of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of plaintiff granting her an absolute divorce of and from you and for the care, custody and control of your minor child, viz: Vivian Cammack, aged eight years, and for such other and further relief as the nature of the case may require and for costs.\n\nDORSEY GREEN.\nAttorney for Plaintiff\n\n(First published Jan. 27, 1922)",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1719,7 +2239,8 @@
             2852
           ],
           "label": "text",
-          "text": "PUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas. Division No \u2014.\nKatie Driver, Plaintiff, vs. James Driver, Defendant. No. 17542A.\nTo James Driver:\nYou are hereby notified that you have been sued by above named plaintiff, in the District Court of Wyandotte County, for divorce and that you are required to answer the petition of the plaintiff filed in the office of the Clerk of the District Court of Wyandotte County, Kansas, on or before the 4th of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of the plaintiff granting her an absolute divorce of and from you and such other and further relief as the nature of the case may require and for the cost of this action."
+          "text": "PUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas. Division No \u2014.\nKatie Driver, Plaintiff, vs. James Driver, Defendant. No. 17542A.\nTo James Driver:\nYou are hereby notified that you have been sued by above named plaintiff, in the District Court of Wyandotte County, for divorce and that you are required to answer the petition of the plaintiff filed in the office of the Clerk of the District Court of Wyandotte County, Kansas, on or before the 4th of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of the plaintiff granting her an absolute divorce of and from you and such other and further relief as the nature of the case may require and for the cost of this action.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1729,7 +2250,8 @@
             2938
           ],
           "label": "text",
-          "text": "FORREST B. ANDERSON,\nAttorney for Plaintiff.\nAtlest: R. J. McFarland; Clerk, by\nW. F. Mathis, Deputy.\n(First published Jan. 27, 1922)"
+          "text": "FORREST B. ANDERSON,\nAttorney for Plaintiff.\nAtlest: R. J. McFarland; Clerk, by\nW. F. Mathis, Deputy.\n(First published Jan. 27, 1922)",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1739,7 +2261,8 @@
             418
           ],
           "label": "text",
-          "text": "PUBLICATION NOTICE\nIn the District Court of Wyandotte\nCounty, State of Kansas. No. 17511A\nAugust Anderson, Plaintiff, vs. P.\nSidney Post, Edwin Post, and Mary\nD. Post, his wife; Phillip Post, Alison\nC. Dayis, and Willi Davis, his wife;\nAndrew J. Colvin, Anthony J. Colvin;\nMargaret C. Alling Colvin, his wife;\nMary Louise Jugg, Byron Jugg, A.\nJ. Colvin, M. C. Alling Colvin, Ella\nStone Davis, F. M. Barthlow, Marie\nC. Fletcher, William Fletcher, How-\nard Corwin, M. C. Fletcher, Allred\nAnderson and Laura Anderson his\nwife and their unknown heirs, admini-\nministrators, executors, trustees,\ndevisees and assigns, Defendants."
+          "text": "PUBLICATION NOTICE\nIn the District Court of Wyandotte\nCounty, State of Kansas. No. 17511A\nAugust Anderson, Plaintiff, vs. P.\nSidney Post, Edwin Post, and Mary\nD. Post, his wife; Phillip Post, Alison\nC. Dayis, and Willi Davis, his wife;\nAndrew J. Colvin, Anthony J. Colvin;\nMargaret C. Alling Colvin, his wife;\nMary Louise Jugg, Byron Jugg, A.\nJ. Colvin, M. C. Alling Colvin, Ella\nStone Davis, F. M. Barthlow, Marie\nC. Fletcher, William Fletcher, How-\nard Corwin, M. C. Fletcher, Allred\nAnderson and Laura Anderson his\nwife and their unknown heirs, admini-\nministrators, executors, trustees,\ndevisees and assigns, Defendants.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1749,7 +2272,8 @@
             451
           ],
           "label": "text",
-          "text": "State of Kansas, Wyardotte County, ss."
+          "text": "State of Kansas, Wyardotte County, ss.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1759,17 +2283,30 @@
             750
           ],
           "label": "text",
-          "text": "State of Kansas to the above named defendants; namely: P. Sidney Post, Edwin Post, and Mary D. Post, his wife; Phillip Post Alson C. Davis, and Willa Davis his wife; Andrew J. Colvin Anthony J. Colvin, Margaret C. Alling Colvin, his wife; Mary Louise Jugg, Byron Jugg, A. J. Colvin, M. C. Alling Colvin, Ella Stone Davis, F. M. Barithlow, Marie Fletcher, William Fletcher, Howard Corwin, M. C. Fletcher, Alfred Anderson, and Laura Anderson, his wife, and each of them if living and if the above named defendants are dead, then to their unknown heirs, administrators, executors, trustees and assigns."
+          "text": "State of Kansas to the above named defendants; namely: P. Sidney Post, Edwin Post, and Mary D. Post, his wife; Phillip Post Alson C. Davis, and Willa Davis his wife; Andrew J. Colvin Anthony J. Colvin, Margaret C. Alling Colvin, his wife; Mary Louise Jugg, Byron Jugg, A. J. Colvin, M. C. Alling Colvin, Ella Stone Davis, F. M. Barithlow, Marie Fletcher, William Fletcher, Howard Corwin, M. C. Fletcher, Alfred Anderson, and Laura Anderson, his wife, and each of them if living and if the above named defendants are dead, then to their unknown heirs, administrators, executors, trustees and assigns.",
+          "status": "ok"
         },
         {
           "bbox": [
             1023,
             747,
             1334,
+            1298
+          ],
+          "label": "text",
+          "text": "Greeting: You and each of you are hereby notified that the above named plaintiff did o on the 18th day of January, 1922, file a petition against you in the above and entitled cause and in the above named court to quiet the title to the following described real property, to-wit: Lot forty-eight (48), Block seventy-one (71), Wyardotte City, now a part of Kansas City, Kansas, according to the recorded plat thereof now on file in the register of deeds' office in and for Wyandotte County, State of Kansas; and that you must answer said petition on or before the 4th day of March, 1922, or the allegations, statements and averments contained in said petition will be taken as true and judgment will be rendered against you and each of you quieting the title against you and each of you to the above described real property. You and each of you will be forever barred and enjoined and all persons claiming through and under you from claiming any interest or right or asserting any claim or title in and to the above described property adverse to the title of plaintiff and for such other and further relief as may be equitable and proper. I. W. JOHNSON.",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1023,
+            1303,
+            1332,
             1847
           ],
           "label": "text",
-          "text": "Greeting: You and each of you are hereby notified that the above named plaintiff did on the 18th day of January, 1922, file a petition against you in the above and entitled cause and in the above named court to quiet the title to the following described real property, to-wit: Lot forty-eight (48), Block seventy-one (71), Wyardotte City, now a part of Kansas City, Kansas, according to the recorded plat thereof now on file in the register of deeds' office in and for Wyandotte County, State of Kansas; and that you must answer said petition on or before the 4th day of March, 1922, or the allegations, statements and averments contained in said petition will be taken as true and judgment will be rendered against you and each of you quieting the title against you and each of you to the above described real property. You and each of you will be forever barred and enjoined and all persons claiming through and under you from claiming any interest or right or asserting any claim or title in and to the above described property adverse to the title of plaintiff and for such other and further relief as may be equitable and proper.\n\nL. W. JOHNSON,\nAttorney for Plaintiff.\nAttest: R. J. McFarland, Clerk,\nby W. F. Matthis, Deputy.\n(First published Jan. 27, 1922)\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte County, Kansas. Division No. 2.\nRosezela Turner, Plaintiff, vs. Jessie Turner, Defendant. No. 17552A.\nTo Jessie Turner:\nYou are hereby notified that you have been sued by the above named plaintiff, in the District court of Wyandotte County, for divorce and that you are required to answer the petition filed in the office of the Clerk of the District Court of Wyandotte County, Kansas, on or before the 5th of March, 1922, or said petition will be taken as true and judgment will be rendered against you in favor of the plaintiff granting her an absolute divorce of and from you and further relief as the nature of the case may require and for the cost of this action.\n\nFORREST B. ANDERSON,\nAttorney for Plaintiff.\nAttest: R. J. McFarland, Clerk, by H. E. Meade, Deputy.\n(First published Jan. 27, 1922)"
+          "text": "Attorney for Plaintiff.\nAttest: R. J. McFarland, Clerk,\nby W. F. Mathis, Deputy.\n(First published Jan. 27, 1922)\n\nPUBLICATION NOTICE\nIn the District Court of Wyandotte\nCounty, Kansas. Division No. 2.\nRosezela Turner, Plaintiff, vs. Jessie\nTurner. Defendant. No. 17552A.\nTo Jessie Turner:\nYou are hereby notified that you have\nbeen sued by the above named plaintif,\nin the District court of Wyandotte\nCounty, for divorce and that you are required to answer the petition\nfiled in the office of the Clerk\nof the District Court of Wyandotte\nCounty, Kansas, on or before the 5th\nof March, 1922, or said petition will\nbe taken as true and judgment will\nbe rendered against you in favor of\nthe plaintiff granting her an absolute\ndivorce of and from you and further\nrelief as the nature of the case may\nrequire and for the cost of this action.\n\nFORREST B. ANDERSON,\nAttorney for Plaintiff.\nAttest: R. J. McFarland, Clerk, by\nH. E. Mende. Deputy.\n(First published Jan. 27, 1922)",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1779,7 +2316,8 @@
             102
           ],
           "label": "text",
-          "text": "Kansas City, Kansas."
+          "text": "Kansas City, Kansas.",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1789,7 +2327,8 @@
             1692
           ],
           "label": "text",
-          "text": "THE BEST LAUNRY SERVICE POSSIBLE SOFT WATER USED EXCLUSIVELY BY US Home Phone 6856 Main Bell Phone 0180 Grand"
+          "text": "THE BEST LAUNRY SERVICE POSSIBLE SOFT WATER USED EXCLUSIVELY BY US Home Phone 6856 Main Bell Phone 0180 Grand",
+          "status": "ok"
         },
         {
           "bbox": [
@@ -1799,7 +2338,19 @@
             2002
           ],
           "label": "text",
-          "text": "Vacant Afternoons in Fraternity Hall, West Side West Side ..... First Tuesday Afternoons East Side.....2nd and 4th Monday Afternoons East Side.....1st and 3rd Wednesday Afternoons"
+          "text": "Vacant Afternoons in Fraternity Hall, West Side West Side ..... First Tuesday Afternoons East Side.....2nd and 4th Monday Afternoons East Side.....1st and 3rd Wednesday Afternoons",
+          "status": "ok"
+        },
+        {
+          "bbox": [
+            1333,
+            2025,
+            2038,
+            2970
+          ],
+          "label": "text",
+          "text": "Office Phone, Fairfax 9944 Res. Phone, Fairfax 1584\n\n\"GIVE US A TRIAL\"\n\nJ. H. JOHNSON TRANSFER CO.\nMoving, Shipping, Packing, Storing\nPrompt, Careful Service\n\n737 MINNESOTA AVENUE KANSAS CITY, KAN.\n\nBell Phone Fairfax 3577 Kansas City, Kansas\n\nSamuel Diggs\nScrap Iron, Rags\nand Metal\n\n1004-1068 N. Third St. Home Phone Dr\u00e9xel 632",
+          "status": "ok"
         }
       ]
     }

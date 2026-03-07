@@ -1,4 +1,9 @@
-THE KANSAS CITY ADVOCATE
+---
+
+Page Two.
+
+THE KANSAS CITY
+ADVOCATE
 
 THOMAS KENNEDY,
 Editor and Prop.
@@ -6,7 +11,7 @@ Editor and Prop.
 Thos. Knapper
 Associate Editor
 
-MRS. M. C. MATTHEW8.
+MBS. M. C. MATTHEW8.
 Society Editor
 
 WALTER SCOTT
@@ -28,7 +33,7 @@ ASSOCIATION.
 
 ## CITIZENS' FORUM
 
-Such a large audience assembled at the Forum, February 12. until many were compelled to find seats in the balcony. President Davis presided. After a sacred chorus, the invocation was given by Mrs. B. S. Jones. Quotations were led by Mrs. J. H. Clayborne. Many ladies and others gave quotations in praise of women as it was Women's Day. Some gave quotations from Abraham Lincoln as it was his birthday. but Mrs. M. C. Matthews gave an original poetical quotation on Lincoln and Women's Day. Mrs. I. Thomas gave good current events. Mrs. Davidson's solo was good. Then came good talks on Women's Clubs as follows: Parent-Teachers' Federation. Mrs. John Hodge; Douglass P. T. A., Mrs. P. Freeman; Home Beautiful, Mrs. Tillery; Alpha, Mrs. Herndon; Intiligensia, Mrs. F. D. Booker; Y. W. C. A., Mrs. Nellie Wilson; Pleasure Seekers. Mrs. Crump; Paramount Club. Miss Black; Fern Leaf, Mrs. A. Boone. The piano duet by Misses E. Necly and S. Miller was a classic and was encored. Miss Olive Henderson introduced the main speaker in a few well chosen words. The address by Mrs. Childs was very fine, practical and an incentive to mothers to teach children common sense, morals and Christianity. She is a member of the State Welfare Board and president of the State Federation of Women's Clubs. Her parting plea was "that our race do as the Caucasian race; that is do all we can to 'get back to God,' and teach others to do so." She received a prolonged applause. Mrs. A. Allsbrook read a good critic's report. Mrs. Clara Adams, president of the Kansas City. Mo., Federation, was introduced and made remarks. Ladies took up a collection of $7. President Davis presides pleasantly.
+Such a large audience assembled at the Forum, February 12. until many were compelled to find seats in the balcony. President Davis presided. After a sacred chorus, the invocation was given by Mrs. B. S. Jones. Quotations were led by Mrs. J. H. Clayborne. Many ladies and others gave quotations in praise of women as it was Women's Day. Some gave quotations from Abraham Lincoln as it was his birthday. but Mrs. M. C. Matthews gave an original poetical quotation on Lincoln and Women's Day. Mrs. I. Thomas gave good current events. Mrs. Davidson's solo was good. Then came good talks on Women's Clubs as follows: Parent-Teachers' Federation. Mrs. John Hodge; Douglass P. T. A., Mrs. P. Freeman; Home Beautiful, Mrs. Tillery; Alpha, Mrs. Herndon; Intli-gensia, Mrs. F. D. Booker; Y. W. C. A., Mrs. Nellie Wilson; Pleasure Seekers. Mrs. Crump; Paramount Club. Miss Black; Fern Leaf, Mrs. A. Boone. The piano duet by Misses E. Neely and S. Miller was a classic and was encored. Miss Olive Henderson introduced the main speaker in a few well chosen words. The address by Mrs. Childs was very fine, practical and an incentive to mothers to teach children common sense, morals and Christianity. She is a member of the State Welfare Board and president of the State Federation of Women's Clubs. Her parting plea was "that our race do as the Caucasian race; that is do all we can to 'get back to God,' and teach others to do so." She received a prolonged applause. Mrs. A. Allsbrook read a good critic's report. Mrs. Clara Adams, president of the Kansas City, Mo., Federation, was introduced and made remarks. Ladies took up a collection of $7. President Davis presides pleasantly.
 
 Sunday, February 19, another fine program will be rendered and we think the Forum orchestra will surely be present.
 
@@ -45,15 +50,6 @@ From underneath the tyrants'
 That we this day might see: Let's cheer the Emancipator And with our women pay Thanks to our great Creator For this great Women's Day.
 
 ## Small Leans
-
-Small Loans
-WEEKLY PAYMENTS
-LIBERTY BONDS BOUGHT AND
-SOLD
-Credit Investment Co.
-Room 268. Wyndette Building
-Fifth and Minnesota Avenue
-Brexel 117 Home
 
 # THE WEEKLY ANNOUNCER OF FIRST A. M. E. CHURCH
 
@@ -79,7 +75,7 @@ P. M. Friday class meeting 8 P. M.
 
 ## CHURCH NEWS
 
-While the Sabbath day was cold and chilly, it did not keep the worshippers from the house of prayer. A large and appreciative congregation was present to hear the first sermon of Rev. J. F. Griffin, of the series of four sermons he is to deliver His subject was "Father's Home," which in a plain, strong Gospel way compared our earthly parents' home with the home of our Heavenly Father. The sermon was eloquent, logical and helpful. The second sermon of the series will be this Sunday, subject: "Departure to a Far Country." These sermons, as the series of some weeks ago preached by this noted divine, are reaching a class of our community life that has never been reached before. A number of converts was the result of the first series of sermons and last Sunday's sermon brought two into the fold and others of the faith joined the the church of their choice.
+While the Sabbath day was cold and chilly, it did not keep the worshippers from the house of prayer. A large and appreciative congregation was present to hear the first sermon of Rev. J. F. Griffin, of the series of four sermons he is to deliver His subject was "Father's Home," which in a plain, strong Gospel way compared our earthly parents' home with the home of our Heavenly Father. The sermon was eloquent, logical and helpful. The second sermon of the series will be this Sunday, subject: "Departure to a Far Country." These sermons, as the series of some weeks ago preached by this noted divine, are reaching a class of our community life that has never been reached before. A number of converts was the result of the first series of sermons and last Sunday's sermon brought, two into the fold and others of the faith joined the church of their choice.
 
 The pastor preached another spiritual sermon at the evening service.
 
@@ -89,7 +85,7 @@ The Junior choir, under the supervision of Prof. Wise, who furnishes the music a
 
 The Friday night class meetings are being well attended and spiritual blessings are being received by those who come.
 
-Parents send your children to Sabbath school and the Junior Endeavor League. Sunday school at 9:30 a. m., and the Lerque at 5:30 p. m.
+Parents send your children to Sabbath school and the Junior Endeavor League. Sunday school at 9:30 a. m., and the Lerague at 5:30 p. m.
 
 Visitors and strangers always welcome at First Church.
 
@@ -131,6 +127,8 @@ Prices very reasonable.
 Mrs. T. J. Anderson
 1040 Freeman Av. Fairfax 4448
 
+The Kansas City Advocate for February 17, 1922
+
 ## WALNUT BOULEVARD BAPTIST CHURCH
 
 (J. R. Richardson, Pastor) Services Sunday, February 12, 1922: Junior church, 10:30 a.m. Preaching, Rev. J. R. Richardson, 11:30 a.m. Sunday school, 1:15 p.m. Community meeting, 4:30 p.m. Mothers' meeting, 6:30 p.m. Preaching, 8 p.m.
@@ -161,9 +159,9 @@ The Women's Division of the First Baptist church solicits your presence at their
 
 ## CO-OPERATION SAVES A FORTUNE FOR FARMERS
 
-Hard times on the farm has done more to promote co-operation than all the talking in the country. Far more who used to "get along well enough" by themselves are now anxious to co-operate with their neighbors. For the saving of a thousand dollars in marketing crops of buying supplies may now mean all the difference between bankruptcy and solvency.
+Hard times on the farm has done more to promote co-operation than all the talking in the country. For more who used to "get along well enough" by themselves are now anxious to co-operate with their neighbors. For the saving of a thousand dollars in marketing crops of buying supplies may now mean all the difference between bankruptcy and solvency.
 
-The farmers of Oklahoma have found that co-operation pays. They saved $20,000 last year on purchasing a million pounds of binding twine through their Farmers' Exchange. They bought co-operatively over 400 cars of coal at a saving of $3 a ton. The 15,000 bushels of steel potatoes they needed cost them $22,500 less than the best price from private dealers and a further saving of $16,125 was made on 43 cars of eating potatoes, purchased this fall. In addition, the farmers who marketed their peach crop co-operatively through the Exchange received $1 a bushel more than the price paid by local buyers. Profiting by this example and success elsewhere, the cotton farmers of Oklahoma are now forming a co-operative association to market their crop without the aid of brokers, speculators and other middlemen.
+The farmers of Oklahoma have found that co-operation pays. They saved $20,000 last year on purchasing a million pounds of binding twine through their Farmers' Exchange. They bought co-operatively over 400 cars of coal at a saving of $3 a ten. The 15,000 bushels of seed potatoes they needed cost them $22,500 less than the best price from private dealers and a further saving of $16,-125 was made on 43 cars of eating potatoes, purchased this fall. In addition, the farmers who marketed their peach crop co-operatively through the Exchange receive $1 a bushel more than the price paid by local buyers. Profiting by this example and success elsewhere, the cotton farmers of Oklahoma are now forming a co-operative association to market their crop without the aid of brokers, speculators and other middlemen.
 
 ## HOW THEY DID IT
 
@@ -171,7 +169,7 @@ How did we do it? Simply by going without everything we needed. When I first mar
 
 My mother-in-law who lived with us, decided to save enough out of my salary to build us a home.
 
-When the cellar was finished I became ill and lost-my position and had to mortgage the cellar to make my first payment.
+When the cellar was finished I became ill and lost my position and had to mortgage the cellar to make my first payment.
 
 Although we went without food for 30 days the first year, we never missed a monthly payment.
 
@@ -187,9 +185,13 @@ I wore the same overcoat for 15 years and was then able to build the front porch
 
 Now, at the age of 87, my wife and I feel sure we can own our comfortable little home in about ten years and live a few weeks to enjoy it.—Life.
 
+TOMMY PARKER
+
 ## TO THE CRAFTS OF THE YORK RITE MASONS
 
-I wish to call the attention of all Worshipful Masters and members of the F. and A. A. York Masons of Kansas and Jurisdiction, that the 1920 Communication held at Manhattan, Kansas, that the Kansas City (Kansas) Advocate was adopted as our official organ. It was also unanimously carried in open session that all lodges in the jurisdiction were to subscribe for The Advocate, so at least the lodge might be informed from time to time of the general workings of the jurisdiction. Now, we understand a number of lodges throughout the jurisdiction has not compiled with the ruling of this Grand Boly. We need this organ and its editor has ben giving us regularly a splendid service and plenty of it; so we must not and can not afford to allow ourselves to withhold our support to our only organ. Let every Worshipful Master see to it, at once, that their subscription is sent in for 1922. Send money order or express order of $1.50 to The Kansas City Advocate, 831 Nebraska avenue, Kansas City, Kansas, or to the editor, Thos Kennedy. Note: Also have as many of the members as possible to send in their subscriptions, as this publication is worthy of their patronage from a general news point, besides its worth to our jurisdiction. Send in your lodge news and it will be published.
+I wish to call the attention of all Worshipful Masters and members of the F. and A. A. York Masons of Kansas and Jurisdiction, that the 1920 Communication held at Manhattan, Kansas, that the Kansas City (Kansas) Advocate was adopted as our official organ. It was also unanimously carried in open session that all lodges in the jurisdiction were to subscribe for The Advocate, so at least the lodge might be informed from time to time of the general workings of the jurisdiction. Now, we understand a number of lodges throughout the jurisdiction has not compiled with the ruling of this Grand Boly. We need this organ and its editor has ben giving us regularly a splendid service and plenty of it; so we must not and can not afford to allow ourselves to withhold our support to our only organ. Let every Worshipful Master see to it, at once, that their subscription is sent in for 1922. Send money order or express order of $1.50 to The Kansas City Advocate, 831 Nebraska avenue. Kansas City, Kansas, or to the editor, Thos Kennedy.
+
+Note: Also have as many of the members as possible to send in their subscriptions, as this publication is worthy of their patronage from a general news point, besides its worth to our jurisdiction. Send in your lodge news and it will be published.
 
 Yours for the Craft.
 
@@ -264,17 +266,6 @@ the Best
 Call for appointment
 Fifield 0646-W
 
-If you want your hair to grow you
-must have a healthy scalp
-Treatments for Scalp and its dis-
-cases a specialty
-Will positively grow hair, if in-
-structions are followed
-Madame C. B. Steele System
-the Best
-Call for appointment
-Fifield 0646-W
-
 ## MEADOW'S
 
 MEADOW'S
@@ -307,18 +298,14 @@ Notary Public
 Fifield 2461-W
 Kansas City, Kansas
 
-Preparations
-Notary Public
-334 Greeley Avenue
-Fifield 2461-W
-Kansas City, Kansas
+[Illustration of an eye surrounded by radiating rays]
 
 ## All Work Guaranteed
 Kassel Jewelry Co.
 548 Minnesota Ave.
 Kansas City Kansas
 
-F. & A. A. York Masons
+Kansas City, Kansas. F. & A. A. York Masons
 
 ## DIRECTORY
 
@@ -343,18 +330,17 @@ CLARENCE HICKMAN, Secretary.
 
 ## Frank Wilson Lodge No.88
 
-F. and A. A. York Masons meet the First and Third Saturday evenings of each month at 8 p.m., Ninth and Everett avenue. Visitors ever welcome.
+F. and A. A. York Masons meet the First and Third Saturday evenings of each month at 8 p. m., Ninth and Everett avenue. Visitors ever welcome.
 
 S. H. MADISON, W. M.
 1336 Barnett Avenue,
-T. A. MOZEE, Secretary,
+T. A. MOZEE, Executive,
 R. F. D. No. 2.
 
 EUREKA LODGE NO 21,
 Y. A. A. Y. M.
 
 Meets second and fourth Thursdays or each month. Knights of Tabor Hall, Ninth and Everett. All visiting brothers in good standing invited.
-
 R. T. TAYLOR, W. M.
 W. D. McQUAY, Sec.
 
@@ -376,8 +362,18 @@ Meeting nights First and Third Tuesdays of each month. Visiting brother in good 
 
 ## OMAHA, NEBRASKA
 
-Keystone Lodge No. 42
-Meets first and third Monday nights in each month at 4923 South 25th street at 7:30. C. J. Goode,
-W. M., 2503 P. St.; D. V. Smith, secretary, 2121 Seward street.
+Meets first and third Monday nights in each month at 4923 South 25th street at 7:30. C. J. Goode, W. M., 2503 P. St.; D. V. Smith, secretary, 2121 Seward stree.
+
+SANTAL CAPSULES MIDY
+
+Easy to Take-Quick to Receive CATARRH of the BLADDER Safe, Successful
+
+Each Capsule bears name MIDY
+
+Beware of counterfeits
+
+Call
+Fair- 380 Or
+fax 4422
 
 Mr. and Mrs. S. and W. are in the city. I want you to meet them.

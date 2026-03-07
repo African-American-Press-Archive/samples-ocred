@@ -3,6 +3,17 @@
   "image": "images/page_01.jpg",
   "width": 2087,
   "height": 2800,
+  "processed_at": "2026-03-07T12:06:07.688661+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 95,
+    "after_merge": 68
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         550
       ],
       "label": "doc_title",
-      "text": "KLU KLUX KLAN INVADES NORTH"
+      "text": "KLU KLUX KLAN INVADES NORTH",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,41 @@
         680
       ],
       "label": "doc_title",
-      "text": "Negro Prisoner Lynched In Tenn-"
+      "text": "Negro Prisoner Lynched In Tenn-",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        57,
+        2759,
+        1905,
+        2800
+      ],
+      "label": "text",
+      "text": "and not see your name in the honoramous (Ohio) state court before Christ to keep diseases of the chest at bay, says a writer in the Phil- cent. of persons of African birth or des- made at a meeting of colored profes- short and pointed remarks greatly en-",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        70,
+        161,
+        450,
+        355
+      ],
+      "label": "text",
+      "text": "FOR THE BAD YOU DO\nREAD OTHER PAPERS\nFOR THE GOOD YOU DO\nREAD THE BYSTANDER",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        70,
+        375,
+        450,
+        841
+      ],
+      "label": "text",
+      "text": "KLU KL\n\nNegro\n\nChapters To Be Established In New York Illinois an",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,127 +78,19 @@
         833
       ],
       "label": "paragraph_title",
-      "text": "Chapters To Be Established In New York, Maine, Illinois and California"
+      "text": "Chapters To Be Established In New York, Maine, Illinois and California",
+      "status": "ok"
     },
     {
       "bbox": [
         70,
-        355,
-        373,
-        1548
+        1788,
+        450,
+        2052
       ],
       "label": "text",
-      "text": "KLU K\nNegro\nChapters To Be\nIn New\nIllinois\n\nNew York, Nov. 3.\u2014Announcement from the Ku Klux Klan, with headquarters in Atlanta, Ga., that they are planning an organization for the north beginning this month and a parade of the members of the society through the city of Jacksonville, Fla., were the outstanding events this week in the event of the cracker south to revive this infamous organization.\n\nAnnouncement of New York branch was contained in a letter written to a business man who wrote for information about the society.\n\nThe communication was written from the \"Imperial Palace of the Invisible Empire of the Knights of the Ku Klux Klan, Atlanta, Ga,\" and was signed by Edward Young Clarke, \"imperial Kleagle.\"\n\n\"We expect to start an organization of work in New York state in November,\" the writer said. \"We have in mind about 300 men in New York City whom we expect to honor by bringing into the initial organization in New York City. We are receiving letters from Maine, Illinois, Missouri, and California to send organizers to those places to begin work.\"\n\nMen of southern origin are the only ones who would be eligible to join what the \"K. K. K.\" terms the \"most sublime lineage in all history.\"\n\nAttached to the letter was a questionnaire which the applicant for membership was supposed to fill out and return to the \"Kligrapp of the Great Wizard of the Invisible Empire\" at the Silver Building in Atlanta. The \"necessary interrogatories,\" as they were termed, were numerous, including queries as to age, education, race, occupation, birthplace, religion, and questions like \"Do you believe in the principles of pure Americanism and \"Do you believe in white supremacy in politics?\""
-    },
-    {
-      "bbox": [
-        119,
-        1557,
-        328,
-        1570
-      ],
-      "label": "paragraph_title",
-      "text": "Activity in South Carolina."
-    },
-    {
-      "bbox": [
-        70,
-        1571,
-        373,
-        2507
-      ],
-      "label": "text",
-      "text": "Hooded night riders in long flowing white 'night gowns appeared in South Carolina last week to force farmers to reduce the rates of cotton picking and to compel thousands of people to work. White caps, several hundred strong, have ridden into several towns in the state, principally in Florence county, and as a result the cotton fields the next day were thick with cotton-pickers and the housewives have all the help they need, in the way of cooks and washerwomen. Farmers now see a way out of the ruin which faced them by having their crops spoil in the field\n\nNew Orleans To Hear W. G. Harding Before He Sails\n\nPresident-Elect Continuues Effort Obliterate Sesturalism In U. S.\n\n(By The Associated Press.)\nPoint Isabel, Texas, Nov. 12\u2014President-elect Harding, whose outing at Point Isabel next Wednesday, has agreed to deliver an address in New Orleans on the following day just before he sails for the Panama. He is expected to discuss in particular the economic possibilities and requirements of the new south and the need for a national industrial policy uninfluenced by sectional interests.\n\nSenator Harding's decision to accept the New Orleans speaking invitation means that in consonance with his oft-repeated ambition to obliterate sectionalism, his first three formal addresses as president-elect are to be delivered within the territory of the old confederacy and in states that long have been pillars of the domacrative solid south.\n\nThe first of these addresses was delivered in Brownsville, Texas, Thursday and the third has been scheduled for Dec. 5, at Bedford, Va.\n\nSpeeches outside American territory are to be avoided, and Mr. Harding indicated Friday that he did not expect during his Panama trip to go within the boundaries or waters of any foreign country."
-    },
-    {
-      "bbox": [
-        156,
-        2560,
-        280,
-        2575
-      ],
-      "label": "paragraph_title",
-      "text": "Other Days."
-    },
-    {
-      "bbox": [
-        70,
-        2575,
-        373,
-        2780
-      ],
-      "label": "text",
-      "text": "Until a New Jersey man tried to corner the potato crop of his neighborhood the mosquito was considered the most undesirable predatory insect produced in that section of the country. Washington Star"
-    },
-    {
-      "bbox": [
-        379,
-        844,
-        673,
-        1042
-      ],
-      "label": "text",
-      "text": "for lack of pickers.\n\nThe White Caps appeared in Lake City last night for a second time. First they called on some farmers who had been paying as much as $1.50 a hundred pounds for picking cotton and suggested to them that this' was too much. The price promptly fell to $1. The cavalcade then proceeded to the Negro section and threw out several hints to the effect that more work and less loafing would be required. Hence the new hordes of pickers."
-    },
-    {
-      "bbox": [
-        383,
-        1049,
-        613,
-        1062
-      ],
-      "label": "paragraph_title",
-      "text": "Parade in Jacksonville"
-    },
-    {
-      "bbox": [
-        375,
-        1062,
-        671,
-        1784
-      ],
-      "label": "text",
-      "text": "\"White Supremacy\" was the real reason of the Ku Klux parade in Jacksonville, Florida last Saturday afternoon when an attempt was made to frighten the Negro voters who certain white factions felt, are growing to be too much of a political power in the state. More colored women than white registered in Jacksonville.\n\nThe parade, notice of which was given several days in the newspapers, was made the subject of urgent representations by national Negro organizations who pled with the police department and also the state officials not to permit the parade. As no motion was made in any quarter to comply with the Negro requests, it was small wonder that when the long white robed parade came in right down the main street there were very few if any colored people abroad, either in the business section, or within any part of the city. With the coming of darkness most of the Negro population got indoors.\n\nThe notice of the parade stated that members of the Ku Klux Klan from neighboring cities would take part. It also stated that it would be useless to attempt to escrime who the members of the Klan were. As a matter of fact, no one even vouchsafes the information as to where the Klan assembled or where it disbanded.\n\nThe Ku Klux Klan is the most dangerous tendency in the American life today and ought to be stamped out by local, state, and federal authority, says James Weldon Johnson, field secretary of the National Association for the Advancement of Colored People, 70 Fifth avenue, which has had investigators in the south gathering information on the subject. \"The avowed purpose of the invisible empire is to keep the Negro from the rights of common citizenship, even if threats of bloodshed have to be resorted to.\""
-    },
-    {
-      "bbox": [
-        376,
-        1826,
-        669,
-        2012
-      ],
-      "label": "text",
-      "text": "OWN AUTOMORILES\nLondon.\u2014West African and Gold coast Negroes are rapidly making their fortunes. The increasing demand for cocoa gave them the opportunity to go into business and amass wealth.\nMore than 200 have their own motors and European-style houses costing more than $20,000 are being built by the more prosperous.\nAlthough there is hardly one of them who can sign his own name, dressing for dinner is now the fashion."
-    },
-    {
-      "bbox": [
-        380,
-        2023,
-        628,
-        2037
-      ],
-      "label": "paragraph_title",
-      "text": "CENSUS SHOWS EXODUS"
-    },
-    {
-      "bbox": [
-        374,
-        2038,
-        668,
-        2142
-      ],
-      "label": "text",
-      "text": "Jackson, Miss., Nov. 12.-Mississippi has a population of 1,789,182. This is 7,932 less than was reported by the census of 1910. The decrease is said to be caused by the large emigration of colored people from the state during the past few years."
-    },
-    {
-      "bbox": [
-        376,
-        2166,
-        665,
-        2237
-      ],
-      "label": "paragraph_title",
-      "text": "Grand Opening of Balgburn and Shelton"
+      "text": "New Orleans To Hear W. G. Harding Before He Sails\n\nPresident-Elect Continuues Effort Obliterate Sestionalism In U. S.\n\nNEGROE\n\nLondon coast Neg fortunes. cocoa gave into business. More t and Europe than $200 more pros. Although who can s dinner is\n\nCEN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +100,206 @@
         2582
       ],
       "label": "text",
-      "text": "The public reception extended by Mr. L. Shelton and M. Tracy E. Blagburn owners of the new drug store located at Tenth and Center streets was a grand success. Throughout the afternoon and evening several hundred citizens both white and colored came to admire and to patronize the model up to date drug store. This store is a credit to our race and these two worthy young men should be complimented for this great undertaking; and the colored citizens of the city should see to it that by their patronage and encouragement this worthy enterprise will flourish.\n\nMr. Frank Blagburn, who for a number of years was an employee in the recorder of deeds office at Washington, D. D., is manager of the drug store and Mr. Lee Blagburn of Denver will be in charge of the soda fountain department."
+      "text": "The public reception extended by Mr. L. Shelton and M. Tracy E. Blagburn owners of the new drug store located at Tenth and Center streets was a grand success. Throughout the afternoon and evening several hundred citizens both white and colored came to admire and to patronize the model up to date drug store. This store is a credit to our race and these two worthy young men should be complimented for this great undertaking; and the colored citizens of the city should see to it that by their patronage and encouragement this worthy enterprise will flourish.\n\nMr. Frank Blagburn, who for a number of years was an employee in the recorder of deeds office at Washington, D. D., is manager of the drug store and Mr. Lee Blagburn of Denver will be in charge of the soda fountain department.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        70,
+        2672,
+        450,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        84,
+        355,
+        278,
+        375
+      ],
+      "label": "text",
+      "text": "VOL. XXVI. NO. 21.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        76,
+        841,
+        373,
+        1360
+      ],
+      "label": "text",
+      "text": "New York. Nov. 3.\u2014Announcement from the Ku Klux Klan, with headquarters in Atlanta, Ga., that they are planning an organization for the north beginning this month and a parade of the members of the society through the city of Jacksonville, Fla., were the outstanding events this week in the event of the cracker south to revive this infamous organization.\n\nAnnouncement of New York branch was contained in a letter written to a business man who wrote for information about the society.\n\nThe communication was written from the \u201cImperial Palace of the Invisible Empire of the Knights of the Ku Klux Klan, Atlanta, Ga,\u201d and was signed by Edward Young Clarke, \u201cimperial Kleagle.\u201d\n\n\u201cWe expect to start an organization of work in New York state in November,\u201d the writer said. \u201cWe have in mind about 300 men in New York City whom we expect to honor by bringing into the initial organization in New York City. We are receiving letters from Maine, Illinois, Missouri, and California to send organizers to those places to begin work.\u201d\n\nMen of southern origin are the only ones who would be eligible to join what the \u201cK. K. K.\u201d terms the \u201cmost subline lineage in all history.\u201d",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        76,
+        1361,
+        369,
+        1548
+      ],
+      "label": "text",
+      "text": "\"Attached to the letter was a questionnaire which the applicant for membership was supposed to fill out and return to the \"Kligrapp of the Great Wizard of the Invisible Empire\" at the Silver Building in Atlanta. The \"necessary interrogatories,\" as they were termed, were numerous, including queries as to age, education, race, occupation, birthplace, religion, and questions like \"Do you believe in the principles of pure Americanism and \"Do you believe in white supremacy in politics?\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        119,
+        1557,
+        328,
+        1570
+      ],
+      "label": "paragraph_title",
+      "text": "Activity in South Carolina.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        74,
+        1571,
+        369,
+        1788
+      ],
+      "label": "text",
+      "text": "Hooded nightriders in long flowing white'night gowns appeared in South Carolina last week to force farmers to reduce the rates of cotton picking and to compel thousands of people to work. White caps, several hundred strong, have ridden into several towns in the state, principally in Florence county, and as a result the cotton fields the next day were thick with cotton-pickers and the housewives have all the help they need, in the way of cooks and washerwomen. Farmers now see a way out of the ruin which faced them by having their crops spoil in the field",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        70,
+        2052,
+        368,
+        2507
+      ],
+      "label": "text",
+      "text": "(By The Associated Press)\n\nPoint Isabel, Texas, Nov. 12.\u2014President-elect Harding, whose outing at Point Isabel ends next Wednesday, has agreed to deliver an address in New Orleans on the following day just before he sails for the Panama. He is expected to discuss in particular the economic possibilities and requirements of the new south and the need for a national industrial policy uninfluenced by sectional interests.\n\nSenator Harding's decision to accept the New Orleans speaking invitation means that in consonance with his oft-repeated ambition to obliterate sectionalism, his first three formal addresses as president-elect are to be delivered within the territory of the old confederacy and in states that long have been pillars of the democratic solid south.\n\nThe first of these addresses was delivered in Brownsville, Texas, Thursday and the third has been scheduled for Dec. 5, at Bedford, Va.\n\nSpeeches outside American territory are to be avoided, and Mr. Harding indicated Friday that he did not expect during his Panama trip to go within the boundaries or waters of any foreign country.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        156,
+        2560,
+        280,
+        2575
+      ],
+      "label": "paragraph_title",
+      "text": "Other Days.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        72,
+        2575,
+        364,
+        2672
+      ],
+      "label": "text",
+      "text": "Until a New Jersey man tried to corner the potato crop of his neighborhood the mosquito was considered the most undesirable predatory insect produced in that section of the country\u2014Washington Star.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        503,
+        131,
+        1448,
+        315
+      ],
+      "label": "text",
+      "text": "A PAPER WITH A CLEAN POLICY The Bystander A WEEKLY FOR THE PEOPLE AND BY THE PEOPLE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        379,
+        844,
+        673,
+        1042
+      ],
+      "label": "text",
+      "text": "for lack of pickers.\n\nThe White Caps appeared in Lake City last night for a second time. First they called on some farmers who had been paying as much as $1.50 a hundred pounds for picking cotton and suggested to them that this' was too much. The price promptly fell to $1. The cavalcade then proceeded to the Negro section and threw out several hints to the effect that more work and less loafing would be required. Hence the new hordes of pickers.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        383,
+        1049,
+        613,
+        1062
+      ],
+      "label": "paragraph_title",
+      "text": "Parade in Jacksonville",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        375,
+        1062,
+        671,
+        1574
+      ],
+      "label": "text",
+      "text": "\"White Supremacy\" was the real reason of the Ku Klux parade in Jacksonville, Florida last Saturday afternoon when an attempt was made to frighten the Negro voters who certain white factions felt, are growing to be too much of a political power in the state. More colored women than white registered in Jacksonville.\n\nThe parade, notice of which was given several days in the newspapers, was made the subject of urgent representations by national Negro organizations who plied with the police department and also the state officials not to permit the parade. As no motion was made in any quarter to comply with the Negro requests, it was small wonder that when the long white robed parade came in right down the main street there were very few if any colored people abroad, either in the business section, or within any part of the city. With the coming of darkness most of the Negro population got indoors.\n\nThe notice of the parade stated that members of the Ku Klux Klan from neighboring cities would take part. It also stated that it would be useless to attempt to escrimen who the members of the Klan were. As a matter of fact, no one even vouchsafes the information as to where the Klan assembled or where it disbanded.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        375,
+        1582,
+        667,
+        1784
+      ],
+      "label": "text",
+      "text": "The Ku Klux Klan is the most dangerous tendency in the American life today and ought to be stamped out by local, state, and federal authority, says James Weldon Johnson, field secretary of the National Association for the Advancement of Colored People, 70 Fifth avenue, which has had investigators in the south gathering information on the subject. \"The avowed purpose of the invisible empire is to keep the Negro from the rights of common citizenship, even if threats of bloodshed have to be resorted to.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        376,
+        1826,
+        669,
+        2012
+      ],
+      "label": "text",
+      "text": "OWN AUTOMORILES\nLondon.\u2014West African and Gold coast Negroes are rapidly making their fortunes. The increasing demand for cocoa gave them the opportunity to go into business and amass wealth.\nMore than 200 have their own motors and European-style houses costing more than $20,000 are being built by the more prosperous.\nAlthough there is hardly one of them who can sign his own name, dressing for dinner is now the fashion.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        380,
+        2023,
+        628,
+        2037
+      ],
+      "label": "paragraph_title",
+      "text": "CENSUS SHOWS EXODUS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        374,
+        2038,
+        668,
+        2142
+      ],
+      "label": "text",
+      "text": "Jackson, Miss., Nov. 12.-Mississippi has a population of 1,789,182. This is 7,932 less than was reported by the census of 1910. The decrease is said to be caused by the large emigration of colored people from the state during the past few years.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        376,
+        2166,
+        665,
+        2237
+      ],
+      "label": "paragraph_title",
+      "text": "Grand Opening of Balgburn and Shelton",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +309,8 @@
         2600
       ],
       "label": "paragraph_title",
-      "text": "A. Worth While Habit"
+      "text": "A. Worth While Habit",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +320,8 @@
         2668
       ],
       "label": "text",
-      "text": "\"It is worth a thousand pounds a year to have the habit of looking on the bright side of things.\"\u2014Samuel Johnson\u2014"
+      "text": "\"It is worth a thousand pounds a year to have the habit of looking on the bright side of things.\"\u2014Samuel Johnson\u2014",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +331,8 @@
         775
       ],
       "label": "paragraph_title",
-      "text": "Memory"
+      "text": "Memory",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +342,19 @@
         1515
       ],
       "label": "text",
-      "text": "Booker T.\nBorn 1858 --Died\n\nPresident Wilson's\nlamat"
+      "text": "Booker T.\nBorn 1858 --Died\n\nPresident Wilson's\nlamat",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        778,
+        812,
+        1179,
+        1313
+      ],
+      "label": "text",
+      "text": "NORTHWESTERN CHURCH",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +364,8 @@
         1466
       ],
       "label": "doc_title",
-      "text": "President Wilson's Thanksgiving Proc-"
+      "text": "President Wilson's Thanksgiving Proc-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +375,8 @@
         1953
       ],
       "label": "text",
-      "text": "Washington, Nov. 12\u2014President Wilson issued his Thanksgiving proclamation Friday night saying that \"in plenty, security and peace, our virtuous and self-reliant people face the future,\" and setting aside Thursday, Nov. 25, for the usual observances. The text follows:\n\n\"The season approaches when it behooves us to turn from the distractions and preoccupations of our daily life, that we may contemplate the mercies which have been vouchsafed to us, and render heartfelt and unfaigned thanks unto God for His manifold goodness.\n\n\"This is an old observance of the American people, deeply imbedded in our thoughts and habits. The burdens and the stresses of life have their own insistence.\n\n\"We have abundant cause for thanksgiving. The lessons of the war are rapidly healing. The great army of freemen, which America sent to the defense of liberty, returning to the grateful embrace of the nation, have resumed the useful pursuits of peace, as simply and as promptly as it rushed to arms in obedience to the country's call. The equal justice of our laws has received"
+      "text": "Washington, Nov. 12\u2014President Wilson issued his Thanksgiving proclamation Friday night saying that \"in plenty, security and peace, our virtuous and self-reliant people face the future,\" and setting aside Thursday, Nov. 25, for the usual observances. The text follows:\n\n\"The season approaches when it behooves us to turn from the distractions and preoccupations of our daily life, that we may contemplate the mercies which have been vouchsafed to us, and render heartfelt and unfaigned thanks unto God for His manifold goodness.\n\n\"This is an old observance of the American people, deeply imbedded in our thoughts and habits. The burdens and the stresses of life have their own insistence.\n\n\"We have abundant cause for thanksgiving. The lessons of the war are rapidly healing. The great army of freemen, which America sent to the defense of liberty, returning to the grateful embrace of the nation, have resumed the useful pursuits of peace, as simply and as promptly as it rushed to arms in obedience to the country's call. The equal justice of our laws has received",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +386,8 @@
         2066
       ],
       "label": "paragraph_title",
-      "text": "Fisrst Colored Woman Instructor"
+      "text": "Fisrst Colored Woman Instructor",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +397,8 @@
         2286
       ],
       "label": "text",
-      "text": "Philadelphia, Pa., Nov. 12.\u2014The first colored woman to be an assistant inspector of housing and sanitation in the Bureau of eHalth has been appointed to that position.\n\nShe is Mayme D. Turner. Miss Turner was appointed from an eligible list on which she stood first, with an average of eighty. The list contained the names of seven candidates of whom the first two were women, including Miss Turner, and the remaining five, men.\n\nIt is expected that Miss Turner's services will be especially valuable. Her position pays $1,300 a year."
+      "text": "Philadelphia, Pa., Nov. 12.\u2014The first colored woman to be an assistant inspector of housing and sanitation in the Bureau of eHalth has been appointed to that position.\n\nShe is Mayme D. Turner. Miss Turner was appointed from an eligible list on which she stood first, with an average of eighty. The list contained the names of seven candidates of whom the first two were women, including Miss Turner, and the remaining five, men.\n\nIt is expected that Miss Turner's services will be especially valuable. Her position pays $1,300 a year.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +408,8 @@
         2478
       ],
       "label": "text",
-      "text": "DEPARTMENT AT ATLANTIC CITY\nAtlantic City, N. J., Nov. 12\u2014Twenty men are in training here for enrollment as firemen. Announcement has been made by Wm S. Cuthbert, that when the men become proficient they will be stationed at the Indiana avenue branch of the city fire department."
+      "text": "DEPARTMENT AT ATLANTIC CITY\nAtlantic City, N. J., Nov. 12\u2014Twenty men are in training here for enrollment as firemen. Announcement has been made by Wm S. Cuthbert, that when the men become proficient they will be stationed at the Indiana avenue branch of the city fire department.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +419,8 @@
         2538
       ],
       "label": "text",
-      "text": "Although Atlantic City has many colored policemen and one colored policeergeant, it has never before had colored firemen."
+      "text": "Although Atlantic City has many colored policemen and one colored policeergeant, it has never before had colored firemen.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +430,8 @@
         2780
       ],
       "label": "text",
-      "text": "Said the near cynic: \"Judging from the time some of the young blood of this town arrive home in the morning, it's hard to tell whether to call them night owls or larks.\""
+      "text": "Said the near cynic: \"Judging from the time some of the young blood of this town arrive home in the morning, it's hard to tell whether to call them night owls or larks.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +441,8 @@
         2352
       ],
       "label": "paragraph_title",
-      "text": "NEW COLORED FIRE"
+      "text": "NEW COLORED FIRE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,17 +452,41 @@
         2581
       ],
       "label": "paragraph_title",
-      "text": "A Question."
+      "text": "A Question.",
+      "status": "ok"
     },
     {
       "bbox": [
         974,
         775,
         1273,
+        1514
+      ],
+      "label": "text",
+      "text": "Washington\ned Nov. 14, 1915\nThanksgiving Proc-\ntion.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        974,
+        1514,
+        1273,
+        2054
+      ],
+      "label": "text",
+      "text": "steady vindication in the support of a law-abiding people against various and sinister attacks, which have reflected only the baser agitation of war, now happily passing.\n\n\"In plenty, security and peace, our virtuous and self-reliant people face the future, its duties and its opportunities. May we have vision to discern our duties; the strength, both of hand and resolve, to discharge them; and the soundness of heart to realize that the truest opportunities are those of service.\n\n\"In a spirit, then, of devotion and stewardship we should give thanks in our hearts, and give ourselves to the service of God's merciful and loving purpose to His children.\n\n\"Wherefore, I, Woodrow Wilson, president of the United States, do hereby designate Thursday, the twenty-fifth day of November next as a day of thanksgiving and prayer, and I call upon my countrymen to cease from their ordinary tasks and avocations upon that day, giving it up to the remembrance of God and His blessings, and their dutiful and grateful acknowledgment.\"\n\nCotton Blossoms\nIn Davenport",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        976,
+        2054,
+        1272,
         2376
       ],
       "label": "text",
-      "text": "Thanksgiving Proc-tion.\n\nsteady vindication in the support of a law-abiding people against various and sinister attacks, which have reflected only the baser agitation of war, now happily passing.\n\n\u201cIn plenty, security and peace, our virtuous and self-reliant people face the future, its duties and its opportunities. May we have vision to discern our duties; the strength, both of hand and resolve, to discharge them; and the soundness of heart to realize that the truest opportunities are those of service.\n\n\u201cIn a spirit, then, of devotion and stewardship we should give thanks in our hearts, and dedicate ourselves to the service of God\u2019s merciful and loving purpose to His children.\n\n\u201cWherefore, I, Woodrow Wilson, president of the United States, do hereby designate Thursday, the twenty-fifth day of November next as a day of thanksgiving and prayer, and I call upon my countrymen to cease from their ordinary tasks and avocations upon that day, giving it up to the remembrance of God and His blessings, and their dutiful and grateful acknowledgment.\u201d\n\nCotton Blossoms In Davenport\n\nDavenport, Iowa, Nov. 13. \u2014 The Cotton Blossom singers entertained a full house at Bethel A. M. E. church last Thursday night.\n\nThe audience judging from the encores must have been extremely well pleased.\n\nMessrs. Jasper McAfee the Basso, and Daniel Rankin the tenor and the Misses Cladia Mae Bogan, Ella Clemons and Julia Campbell, all came in for a share of applause.\n\nOn Friday night one of the friends of the school arranged for the singers to have seats in the auditorium to hear the concert by Sousas band.\n\nThey departed Saturday morning for Muscatine, from which place they will start for Mississippi in the school\u2019s touring car."
+      "text": "Davenport, Iowa, Nov. 13. \u2014 The Cotton Blossom singers entertained a full house at Bethel A. M. E. church last Thursday night.\n\nThe audience judging from the encores must have been extremely well pleased.\n\nMessrs. Jasper McAfee the Basso, and Daniel Rankin the tenor and the Misses Cladia Mae Bogan, Ella Clemons and Julia Campbell, all came in for a share of applause.\n\nOn Friday night one of the friends of the school arranged for the singers to have seats in the auditorium to hear the concert by Sousas band.\n\nThey departed Saturday morning for Muscatine, from which place they will start for Mississippi in the school's touring car.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +496,8 @@
         2444
       ],
       "label": "paragraph_title",
-      "text": "LEGIONNARIES RECEIVE\nVICTORY"
+      "text": "LEGIONNARIES RECEIVE\nVICTORY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +507,30 @@
         2780
       ],
       "label": "text",
-      "text": "Armistice day, Nov. 11, the members of Lincoln post No. 126 American Legion assembled at the Community Center, Thirteenth and Crocker streets where Capt. W. B. Haller, ordnance department, U. S. army decorated them with the victory medals. Owing to the uncertainty of the time the crowd was not as large as anticipated. This ceremony was entirely new to the people here and those present were highly pleased. The ladies auxiliary assisted by the Sewing circle of the Community Center served the men with refreshments after the ceremony."
+      "text": "Armistice day, Nov. 11, the members of Lincoln post No. 126 American Legion assembled at the Community Center, Thirteenth and Crocker streets where Capt. W. B. Haller, ordnance department, U. S. army decorated them with the victory medals. Owing to the uncertainty of the time the crowd was not as large as anticipated. This ceremony was entirely new to the people here and those present were highly pleased. The ladies auxiliary assisted by the Sewing circle of the Community Center served the men with refreshments after the ceremony.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1512,
+        143,
+        1881,
+        360
+      ],
+      "label": "text",
+      "text": "THE BEST Advertising Medium to Reach the Colored,People",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1512,
+        382,
+        1881,
+        751
+      ],
+      "label": "text",
+      "text": "NORTH Tenn- the Train By Angry Mob",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +540,19 @@
         742
       ],
       "label": "paragraph_title",
-      "text": "Taken From The Train By Angry Mob"
+      "text": "Taken From The Train By Angry Mob",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1512,
+        2656,
+        1881,
+        2780
+      ],
+      "label": "text",
+      "text": "cambridge power to the younger Masons, and on",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +562,8 @@
         926
       ],
       "label": "text",
-      "text": "Bristol, Tenn., Nov. 14\u2014Dave Hunt, a Negro, age 25, captured after a chase on a passenger train and held for an alleged assault on an aged white woman, was taken from the jail at Wise, Va., early today by a mob of about seventy-five men and hanged to a bridge near Kent Junction.\n\nAfter the lynching the mob dispersed quietly and tonight no arrests had been reported. Entrance was gained to the"
+      "text": "Bristol, Tenn., Nov. 14\u2014Dave Hunt, a Negro, age 25, captured after a chase on a passenger train and held for an alleged assault on an aged white woman, was taken from the jail at Wise, Va., early today by a mob of about seventy-five men and hanged to a bridge near Kent Junction.\n\nAfter the lynching the mob dispersed quietly and tonight no arrests had been reported. Entrance was gained to the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +573,8 @@
         1119
       ],
       "label": "doc_title",
-      "text": "Japanese Society Takes Scarborough as Members."
+      "text": "Japanese Society Takes Scarborough as Members.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +584,8 @@
         1119
       ],
       "label": "paragraph_title",
-      "text": "Japanese Society Takes Scarborough as Members."
+      "text": "Japanese Society Takes Scarborough as Members.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +595,8 @@
         1337
       ],
       "label": "text",
-      "text": "Dr. W. Scarborough of Wilberforce, Ohio, was recently elected a member of the American Japan Society. This organization founded several years ago contained a membership of 1,200 eminent American and Japanese citizens. One of its objects is to promote and foster a closer and more friendly relation between America and Japan. It is not political, but social, in its object and interest. In accepting this able race man, nothing but good can be extended in all directions, because he is fully capable of representing America in any country."
+      "text": "Dr. W. Scarborough of Wilberforce, Ohio, was recently elected a member of the American Japan Society. This organization founded several years ago contained a membership of 1,200 eminent American and Japanese citizens. One of its objects is to promote and foster a closer and more friendly relation between America and Japan. It is not political, but social, in its object and interest. In accepting this able race man, nothing but good can be extended in all directions, because he is fully capable of representing America in any country.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +606,8 @@
         1426
       ],
       "label": "paragraph_title",
-      "text": "Rural Life of Negroes To be Investigated"
+      "text": "Rural Life of Negroes To be Investigated",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +617,8 @@
         1736
       ],
       "label": "text",
-      "text": "Jefferson City, Mo.-Nov. 5.\u2014Associated Press.)\u2014Negroes will investigate their rural life conditions, the cause of criminality, the extent of their people leaving the farm, the lack of school and church facilities, through the Negro Industrial Commission. When the commission has the facts through the data gathered by the commissioners, it will suggest remedies to the people, and make recommendations to the legislature and to congress.\n\nThe Missouri Negro Industrial Commission, appointed on Oct. 7 by Gov. Gardner, whose duty it is to \"Discover, ferret out, survey and recommend remedies, educational, moral and industrial for the betterment of the Negroes,\" is meeting here today at the capitol to work out additional plans for more thoroughly carrying out this work."
+      "text": "Jefferson City, Mo.-Nov. 5.\u2014Associated Press.)\u2014Negroes will investigate their rural life conditions, the cause of criminality, the extent of their people leaving the farm, the lack of school and church facilities, through the Negro Industrial Commission. When the commission has the facts through the data gathered by the commissioners, it will suggest remedies to the people, and make recommendations to the legislature and to congress.\n\nThe Missouri Negro Industrial Commission, appointed on Oct. 7 by Gov. Gardner, whose duty it is to \"Discover, ferret out, survey and recommend remedies, educational, moral and industrial for the betterment of the Negroes,\" is meeting here today at the capitol to work out additional plans for more thoroughly carrying out this work.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +628,8 @@
         2007
       ],
       "label": "text",
-      "text": "Those present were: Chairman N. C. Bruce, Dalton, Mo.; Secretary R. S. Cobb, Cape Giradeau, A. C. Maclin, Hannibal, Ephriam Rucker, St. Joseph, B. F. Butler, Auxvasse, J. B. Coleman, Columbia; Levi Ribeau, St. Genevieve; Burt Hayden, Kirkwood; Phillip Jordan and Joseph Haskell. Among the visitors present were the Rev. Dr. E. L. Scruggs, of the Second Baptist church of this city, who gave some helpful suggestions. Prof. G. F. Neil also present from Auxvasse, spoke complimentary of the work of the commission. Mr. Wagoner, secretary of the state board of charities was introduced, and having had a wide experience along similar lines, he was able to give us very helpful suggestions."
+      "text": "Those present were: Chairman N. C. Bruce, Dalton, Mo.; Secretary R. S. Cobb, Cape Giradeau, A. C. Maclin, Hannibal, Ephriam Rucker, St. Joseph, B. F. Butler, Auxvasse, J. B. Coleman, Columbia; Levi Ribeau, St. Genevieve; Burt Hayden, Kirkwood; Phillip Jordan and Joseph Haskell. Among the visitors present were the Rev. Dr. E. L. Scruggs, of the Second Baptist church of this city, who gave some helpful suggestions. Prof. G. F. Neil also present from Auxvasse, spoke complimentary of the work of the commission. Mr. Wagoner, secretary of the state board of charities was introduced, and having had a wide experience along similar lines, he was able to give us very helpful suggestions.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +639,8 @@
         2213
       ],
       "label": "doc_title",
-      "text": "Bishop Hurst Calls For Inquiry"
+      "text": "Bishop Hurst Calls For Inquiry",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,17 +650,30 @@
         2661
       ],
       "label": "text",
-      "text": "The Rev. John Hurst, bishop of the African Methodist Episcopal church in Florida, wants a congressional investigation of American military rule in Haiti, and reparation made to Haitians for injuries and losses as a consequence of the presence of American marines on the island.\n\nBishop Hurst, who is a native of Haiti, was in the city yesterday attending a meeting of the National Association for the Advancement of Colored People. He called on the incoming administration in Washington to \"repudiate the five years' long terrorization of Haiti.\"\n\n\"It is the duty of the Republicans in the senate and house of representatives\" he said, \"to prove to the American people that the Haitian question was not merely a political issue. First a thorough congressional investigation is demanded. The inquiry by the naval board consisting of two admirals and a general is too limited in scope to bring out the facts. Civilian witnesses were not called while the naval board was sitting in the United States, and in Haiti the investigation seems doomed to consider nothing but military affairs."
+      "text": "The Rev. John Hurst, bishop of the African Methodist Episcopal church in Florida, wants a congressional investigation of American military rule in Haiti, and reparation made to Haitians for injuries and losses as a consequence of the presence of American marines on the island.\n\nBishop Hurst, who is a native of Haiti, was in the city yesterday attending a meeting of the National Association for the Advancement of Colored People. He called on the incoming administration in Washington to \"repudiate the five years' long terrorization of Haiti.\"\n\n\"It is the duty of the Republicans in the senate and house of representatives\" he said, \"to prove to the American people that the Haitian question was not merely a political issue. First a thorough congressional investigation is demanded. The inquiry by the naval board consisting of two admirals and a general is too limited in scope to bring out the facts. Civilian witnesses were not called while the naval board was sitting in the United States, and in Haiti the investigation seems doomed to consider nothing but military affairs.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1579,
+        1676,
         360,
+        1827,
+        382
+      ],
+      "label": "text",
+      "text": "Price Five Cents",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1581,
+        751,
         1881,
         936
       ],
       "label": "text",
-      "text": "ORTH\nTenn-\nrain By Angry Mob\njail by breaking down the doors and\nthe Negro was taken to the scene of the\nlynching in an automobile.\nThe alleged attack on the woman,\nwho is 60 years old, occurred at her\nhome Friday. She flagged a passenger\ntrain as it came by and told members\nof the crew that she had been attacked\nby the Negro, whom they could see\nwalking some distance ahead. The train\nstarted after the Negro, who headed for\nthe mountainside. The trainmen left\ntheir train and followed."
+      "text": "jail by breaking down the doors and the Negro was taken to the scene of the lynching in an automobile.\n\nThe alleged attack on the woman, who is 60 years old, occurred at her home Friday. She flagged a passenger train as it came by and told members of the crew that she had been attacked by the Negro, whom they could see walking some distance ahead. The train started after the Negro, who headed for the mountainside. The trainmen left their train and followed.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +683,8 @@
         1015
       ],
       "label": "paragraph_title",
-      "text": "Club Women Fete Mrs. Fleming"
+      "text": "Club Women Fete Mrs. Fleming",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +694,8 @@
         1479
       ],
       "label": "text",
-      "text": "Cleveland, O.-At Mt. Zion Congregational church, Monday night, a number of representative citizens joined in a reception to Mrs. Lethia C. Fleming, wife of Councilman Thomas W. Fleming, Mrs. Fleming recently returned from Chicago, where she directed the Colored Women's Bureau of the Republican National Committee. Numerous tributes to the sterling worth and serviceableness of the honored guest were paid by the following speakers: Atty, Hazel E. Mountain, representing the Autumn Leaf Culture Club, under whose auspices the affair was held; Miss Virginia Cline, representing the Colored Women's Republican Clubs of Cuyahoga County and Attorney Walter Stowers, the veteran Detroit jurist. The presentation of a silver tray and flowers was made by Mrs. Richard Stowers, in a few well chosen remarks, Mrs. Fleming was visibly touched by the tribute. In the musical program which made up the evening's program, the contributors were: Miss Clara Daugherty, Mrs. Ruth Macfarland Taylor, Miss Cash Holland, Mr. Raymond Smith; and a quartet from the Twentieth Century Club. Mrs. Ruby Yates Slaughter who was scheduled to contribute to the program was prevented by illness."
+      "text": "Cleveland, O.-At Mt. Zion Congregational church, Monday night, a number of representative citizens joined in a reception to Mrs. Lethia C. Fleming, wife of Councilman Thomas W. Fleming, Mrs. Fleming recently returned from Chicago, where she directed the Colored Women's Bureau of the Republican National Committee. Numerous tributes to the sterling worth and serviceableness of the honored guest were paid by the following speakers: Atty, Hazel E. Mountain, representing the Autumn Leaf Culture Club, under whose auspices the affair was held; Miss Virginia Cline, representing the Colored Women's Republican Clubs of Cuyahoga County and Attorney Walter Stowers, the veteran Detroit jurist. The presentation of a silver tray and flowers was made by Mrs. Richard Stowers, in a few well chosen remarks, Mrs. Fleming was visibly touched by the tribute. In the musical program which made up the evening's program, the contributors were: Miss Clara Daugherty, Mrs. Ruth Macfarland Taylor, Miss Cash Holland, Mr. Raymond Smith; and a quartet from the Twentieth Century Club. Mrs. Ruby Yates Slaughter who was scheduled to contribute to the program was prevented by illness.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +705,8 @@
         1522
       ],
       "label": "paragraph_title",
-      "text": "Grand Matron Visit."
+      "text": "Grand Matron Visit.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +716,8 @@
         2093
       ],
       "label": "text",
-      "text": "TELLS OF VISIT TO CHAPTERS\n\nNotwithstanding the fact that Mrs. S. Joe Brown consented to and did contribute a large portion of time during the recent campaign in lining up the women of her state for the G. O. P. as grand matron of the Order of the Eastern Star for the state of Iowa and jurisdiction. She did not allow her interest to wane in this order and during the six week's previous to election on Nov. 2 in addition to filling numerous engagements over the state for the Republican national committee. Mrs. Brown made her annual visit to the following chapters after constituting Queen of Sheba chapter of St. Paul, Minn., which was formerly connected with the grand chapter of Illinois and presided over by Mrs. Bettie Jones of that city; Pride of the West No. 14 of Minneapolis presided over by Mrs."
+      "text": "TELLS OF VISIT TO CHAPTERS\n\nNotwithstanding the fact that Mrs. S. Joe Brown consented to and did contribute a large portion of time during the recent campaign in lining up the women of her state for the G. O. P. as grand matron of the Order of the Eastern Star for the state of Iowa and jurisdiction. She did not allow her interest to wane in this order and during the six week's previous to election on Nov. 2 in addition to filling numerous engagements over the state for the Republican national committee. Mrs. Brown made her annual visit to the following chapters after constituting Queen of Sheba chapter of St. Paul, Minn., which was formerly connected with the grand chapter of Illinois and presided over by Mrs. Bettie Jones of that city; Pride of the West No. 14 of Minneapolis presided over by Mrs.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +727,8 @@
         2443
       ],
       "label": "text",
-      "text": "\"The congress of the United States should consider at once the question of reparation to Haitians for injuries and losses inflicted upon them and appoint a joint American-Haitian commission, which will restore self-government in Haiti.\"\n\nAt the meeting of the board of directors of the association later in the day a telegram was sent to Representative saac Siegal of the Twentieth Congressional district, who is chairman of the house committee on the census, urging enforcement of the Fourteenth amendment at elections in the south and reduction of the representation in the house of southern states where Negroes are deprived of their right to vote. Resolutions adopted by the association charged \"open and flaunt dischisement of colored voters in a number of states\" in Tuesday election."
+      "text": "\"The congress of the United States should consider at once the question of reparation to Haitians for injuries and losses inflicted upon them and appoint a joint American-Haitian commission, which will restore self-government in Haiti.\"\n\nAt the meeting of the board of directors of the association later in the day a telegram was sent to Representative saac Siegal of the Twentieth Congressional district, who is chairman of the house committee on the census, urging enforcement of the Fourteenth amendment at elections in the south and reduction of the representation in the house of southern states where Negroes are deprived of their right to vote. Resolutions adopted by the association charged \"open and flaunt dischisement of colored voters in a number of states\" in Tuesday election.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,17 +738,30 @@
         2530
       ],
       "label": "paragraph_title",
-      "text": "Where the Real Danger Lies."
+      "text": "Where the Real Danger Lies.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1579,
+        1580,
         2531,
-        1881,
-        2780
+        1878,
+        2656
       ],
       "label": "text",
-      "text": "A Boston physician has sounded the warning that there is more or less danger in wearing clothes. There may be, but the most danger lies in the path of a man who attempts to trip merely through this life clad in filtered sunshine and a two days' growth of whiskers."
+      "text": "A Boston physician has sounded the warning that there is more or less danger in wearing clothes. There may be, but the most danger lies in the path of a man who attempts to trip merely through this life clad in filtered sunshine and a two days' growth of whiskers",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        2033,
+        34,
+        2087,
+        2760
+      ],
+      "label": "text",
+      "text": "ST\nediu\ned\n\nrequired\nnot\nhis\nnation\nmah\nto\npriere\nbark\nat h\nthat\nretre\nfath\nfurtr\nV. O.\nince\nte\nsew\ned.\n\nn,\nren\nh\nCH\nhigh\ngreat\nass\nsed\ning\nvol\nfor\nthe\nfi\nt\nnd\nhi\nJ\nt\nfor\nme\non\nlove\nL\nch\nun\nsec\nt\ns\nev\nill\nA\ne\nf\nh\nly\nT\nd\ner\nw\nch\nbig lay\narters\na large",
+      "status": "ok"
     }
   ]
 }

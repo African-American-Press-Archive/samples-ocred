@@ -143,8 +143,6 @@ Colored Agent for
 
 ## DAVID J. KUHN.
 
-## DAVID J. KUHN.
-
 DRUGGIST.
 
 Will call to your home with a complete line of Toilet Articles, etc., etc. Call him, PHONES M 1718 or 4035 when you wish to see him. He will take pleasure in showing you his line of goods.
@@ -155,8 +153,10 @@ DEALER IN
 STAPLE AND FANCY
 GROCERIES
 ORDERS PROMPTLY FILLED.
-'Phone, Hain 4682-l. 451 Eighth Ave., H
-26-mo.
+'Phone, Main 4482-L. 451 Eighth Ave., D
+2-5 mon.
+
+THE NASHVILLE GLOBE, FRIDAY, JANUARY 21, 1910.
 
 heard much of Nashville and was very anxious to see the amount of progress being made here. He was enthused over the Negro Doll Idea, and carried samples of Negro dolls away from Nashville with him to his Michigan home. He says that the Negro Doll Idea will be as popular and as much of a race argument in Michigan as it can ever expect to be in Nashville.
 
@@ -180,11 +180,11 @@ The new style church seats are generally shipped carefully crated. Each part is 
 
 ## TWO THOUSAND VARIETIES OF FRUITS AND NUTS ON ONE FARM.
 
-In McClure's Magazine for February, I. S. Browne'1 has an article on the Canadian syste of experimental farms founded by Dr. Saunders.
+In McClure's Magazine for February, I. S. Browne'll has an article on the Canadian system of experimental farms founded by Dr. Saunders.
 
-"The director's object was to place each farm where it could be readily seen, readily visited, yet where it would be under no specially favoring circumstance, but would have to solve for itself the average problem of the region it was to serve. The Indian Head Problem is that of the open prairie. At the last farm, at Agassiz, British Columbia, the problem is that of fruit and nut tree growing in a mild climate, and two thousand kinds of fruits and nuts are now flourishing in its fertile valley land and mountain-side.
+"The director's object was to place each farm where it could be readily seen, readily visited, yet where it would be under no specially favoring circumstance, but would have to solve for itself the average problem of the region it was to serve. The Indian Head Problem is that of the open prairie. At the last farm, at Agassiz, British Columbia, the problem is that of fruit and nut tree growing in a mild c'imate, and two thousand kinds of fruits and nuts are now flourishing in its fertile valley land and mountain-side.
 
-"At the present time a number of small supplementary stations are being established. The most interesting of these is the "farthest north"—Fort Vermillion, on the Peace River, in northern Alberta, six hundred miles above the United States boundary. In the spring of 1907 the first lot of seeds, trees, and plants was sent there for experiment, via Edmonton, from the Central Farm. On the first of May, 'as there was no immediate prospect of the breaking up of the rivers'—the usual line of travel—these supplies were driven for seventeen days over four hundred miles, and ferried on a raft three hundred miles farther till they reached Fort Vermillion. By the first of June the seeds were in and the land was fenced. It cannot be said that the Experimental Farms are not squarely facing Canada's problems."
+"At the present time a number of small supplementary stations are being estab'ished. The most interesting of these is the "farthest north"—Fort Vermillion, on the Peace River, in northern Alberta, six hundred miles above the United States boundary. In the spring of 1907 the first lot of seeds, trees, and plants was sent there for experiment, via Edmonton, from the Central Farm. On the first of May, 'as there was no immediate prospect of the breaking up of the rivers'—the usual line of travel—these supplies were driven for seventeen days over four hundr'd miles, and ferried on a raft three hundred miles farther till they reached Fort Vermillion. By the first of June the seeds were in and the land was fenced. It cannot be said that the Experimental Farms are not squarely facing Canada's problems."
 
 ## GLOBE MANAGER HONORED
 
@@ -200,35 +200,31 @@ In McClure's Magazine for February, I. S. Browne'1 has an article on the Canadia
 
 NOTES ON RACIAL PROGRESS AS REPORTED BY THE NATIONAL NEGRO BUSINESS LEAGUE.
 
-Another Negro bank has flung open its doors for business. It is "The Safety Banking and Realty Company" of Mobile, Ala. The first day's deposits (January 8) amounted to $1,890.91. The bank has an authorized capital of $50,000, with $26,045 paid in.
+Another Negro bank has flung open its doors for business. It is "The Safety Banking and Realty Company" of Mobile, Ala. The first day's deposits (January 8) amounted to $1,800.91. The bank has an authorized capital of $50,000, with $26,045 paid in.
 
-Its president is Henry N. Newsome, cashier; James R. Knox, manager of the Real Estate Department. Wm. J. Robinson; stenographer, Miss Sarah J. Duncan. The bank will do business in its own quarters, a trestory brick building, 256 St. Michael street, which the directors recently purchased.
+Its president is Henry N. Newsome, cashier; James R. Knox, manager of the Real Estate Department. Wm. J. Robinson; stenographer, Miss Sarah J. Duncan. The bank will do business in its own quarters, a three-story brick building, 256 St. Michael street, which the directors recently purchased.
 
-Marion, Ala., although a small town is fortunate in having quite a number of thrifty, industrious and well-to-do business men and farmers. Some of those who are worthy of mention are Messrs. S. Daniel, Gilbert Jones, Charles Smiley, J. H. Key and Gus Mitchell, who are principally in the grocery business, carrying stock any where fro $500 to $2,000. The leading merchants, however, are the Childs Bros., who are not only the proprietors of one of the largest groceries in the place, located on the main street in their own building, but they are also confectioners and own the only bakery in town. Twenty-five or thirty years ago their father started the latter business, and the sons have continued it ever since, without any competition. They likewise run a truck patch, of two acres, from which they sold $500 worth of plants last spring and $500 worth of cabbage this fall, besides other garden products.
+Marion, Ala., although a small town is fortunate in having quite a number of thrifty, industrious and well-to-do business men and farmers. Some of those who are worthy of mention are Messrs. S. Daniel, Gilbert Jones, Charles Smiley, J. H. Key and Gus Mitchell, who are principally in the grocery business, carrying stock any where fro $500 to $2,000. The leading merchants, however, are the Child's Bros., who are not only the proprietors of one of the largest groceries in the place, located on the main street in their own building, but they are also confectioners and own the only bakery in town. Twenty-five or thirty years ago their father started the latter business, and the sons have continued it ever since, without any competition. They likewise run a truck patch, of two acres, from which they sold $500 worth of plants last spring and $500 worth of cabbage this fall, besides other garden products.
 
-Some of the other frugal and well-to-do farmers are Messrs. Edward Wedgeworth, Summit Anderson, Edward Towns and Orange Benson, who manage from 100 to 150 acres yearly.
+Some of the other frugal and wel-to-do farmers are Messrs. Edward Wedgeworth, Summit Anderson, Edward Towns and Orange Benson, who manage from 100 to 150 acres yearly.
 
-H. B. Davis is the proprietor of a cafe for whites. It is very popular and well patronized. He has been in the business for over thirty years and has made money at it.
+H. B. Davis is the proprietor of a cafe for whites. It is very popular and we'll patronized. He has been in the business for over thirty years and has made money at it.
 
 John Williams is a brick manufacturer, having years of experience, by means of which he has prospered.
 
 Wm. Alston has been for over fourteen years instructor in the Mechanical Department of the Orphan Home for white children, located at Oxford, N. C. The Home is the property of the Grand Lodge of white Masons of the state. The Legislature usually appropriates $10,000 for its maintenance annually.
 
-There are about 335 pupils of both sexes in the cranphanage—125 of whom are boys. Mr. Alston teaches the latter how to make sash, doors, blinds, and build stairways. He is the only colored person employed there in such a capacity.
+There are about 335 pupils of both sexes in the crphanage—125 of whom are boys. Mr. Alston teaches the latter how to make sash, doors, blinds, and build stairways. He is the only colored person employed there in such a capacity.
 
-More than once, efforts have been made to displace him for a white man; but on account of his services being so satisfactory, the authorities of the institution have persistently refused to heed the entreties of the petitioners, or to be influenced by the demands of the prejudiced.
+More than once, efforts have been made to displace him for a white man; but on account of his services being so satisfactory, the authorities of the institution have persistently refused to heed the entreaties of the petitioners, or to be influenced by the demands of the prejudiced.
 
-The Silk Manufacturing Company of Rocky Mount, N. C., incorporated with an authorized capital of $50,000, began business November 15, 1909. It is the only Negro manufacture in the world on so extensive a plan of operation. The work is done in a four-story wooden building with a frontage of 40 feet and a depth of 150.
+The Silk Manufacturing Company of Rocky Mount, N. C., incorporated with an authorized capital of $50,000, began business November 15, 1909. It is the only Negro manufacture in the world on so extensive a plan of operation. The work is done in a four-story wooden building with a frontage of 40 feet and a depth of 150. On the first floor is the silk factory; the second and third, cotton; on the fourth, there is an evolution of the raw material into the finished products, such as overalls, jackets, aprons and the like. The operatives in this factory are two or three hundred boys and girls, whose ages range from ten to fifteen years, together with a goodly number of young women. The officers of the company are T. W. Thurston, president; O. J. Pittman, vice-president; C. F. Rich, secretary and attorney; S. M. Young, treasurer; F. W. Davis, president of the Board.
 
-On the first floor is the silk factory; the second and third, cotton; on the fourth, there is an evolution of the raw material into the finished products, such as overalls, jackets, aprons and the like.
-
-The operatives in this factory are two or three hundred boys and girls, whose ages range from ten to fifteen years, together with a good number of young women. The officers of the company are T. W. Thurston, president; O. J. Pittman, vice-president; C. F. Rich, secretary and attorney; S. M. Young, treasurer; F. W. Davis, president of the Board.
-
-The president and founder, T. W. Thurston, was once manager of silk mills now in successful operation at Fayetteville and Kinston, N. C., in which there are from 600 to 700 little colored boys and girls skillfully and carefully manipulating the delicate skins of silk, as they spin around the thousands of bobbins and pass over hundreds of looms. The owners of these mills are Northern men of New Jersey, but they are run entirely by colored help. The silk and cotton mill of Rocky Mount, however, is altogether owned and operated by Negroes.
+The president and founder, T. W. Thurston, was once manager of silk mills now in successful operation at Fayetteville and Kinston, N. C., in which there are from 600 to 700 little colored boys and girls skillfully and carefully manipulating the delicate skeins of silk, as they spin around the thousands of bobbins and pass over hundreds of looms. The owners of these mills are Northern men of New Jersey, but they are run entirely by colored help. The silk and cotton mill of Rocky Mount, however, is altogether owned and operated by Negroes.
 
 R. L. Kearney, of Greenville, N. C., is another member of the race who has demonstrated the fact that the Negro can do things like other people. He is the inventor of a patented improvement in plows.
 
-It is a boltless cobination plow. The work of three plows is accomplished in one. A cotton plow with double front points and shares or
+It is a bottless cobination plow. The work of three plows is accomplished in one. A cotton plow with double front points and shares or
 
 # BANK DIRECTORY.
 
@@ -282,41 +278,15 @@ C. R. STRINGER.
 E. W. LAMPTGN.
 B. H. CRESWELL.
 
-MOUND BAYOU, MISS.
-CAPITAL STOCK, $10,000.00.
-JOHN W. FRANCIS, President.
-W. T. MONTGOMERY, Vice President.
-CHAS. BANKS, Cashier.
-R. M. McCARTY.
-CHAS. BANKS.
-J. W. FRANCIS.
-H. A. GODBOLD.
-S. M. MORGAN.
-W. T. MONTGOMERY.
-C. R. STRINGER.
-E. W. LAMPTON.
-B. H. CRESWELL.
-
 ## ALABAMA PENNY SAVINGS BANK.
 
-ALABAMA PENNY SAVINGS BANK.
 BIRMINGHAM, ALA.
 CAPITAL STOCK, $25,000.00.
-W. R. PETTIBONE, President.
-B. H. MUDSON, Cashier.
+W. R. PETTIDOR, President.
+B. H. MUNSON, Cashier.
 J. O. DEFFAY, Vice President.
 P. F. CLARK, Assistant Cashier.
 217 North Eighteenth Street.
-
-People's Bank and Trust Co.
-Capital $25,000
-MUSKOGEE, OKLAHOMA.
-
-4 Per Cent Interest
-On Time Deposits
-Deposits Guaranteed.
-
-T Escor, President. J. E. Johnson, Cashier.
 
 ## People's Bank and Trust Co.
 
@@ -337,23 +307,27 @@ Hundreds of letters are being received from friends and patrons of the National 
 
 ## St. Luke Penny Savings Bank
 
-St. Luke Penny Savings Bank
 RICHMOND, VA.
-CAPITAL STOCK, $50,000.
+CAPITAL STOCK, $50.000.
 New York and Foreign
 Drafts issued.
 Bankers' Money Orders payable in any part of
 U. S. for sale. Collections receive
 prompt attention.
 3 Per Cent. Paid on Time Deposits.
-MAGGIE L. WALKER,
-President.
-EMMETT C. BURKH
-Cashier.
+MAGGIE L. WALKER, EMMETT C. BURKH
+President. Cashier.
 
 ## The People's Dime Saving Bank and Truck Association.
 
-The People's Dime Saving Bank and Trust Association. Staunton, Va. CAPITAL STOCK. $10.000.00 SHARES $5.00 EACH. Collections and out-of-town business solicited. Interest paid on time deposit. SAM'L LINDSAY, President. C.F. POINTS, Vice President. Jackson, Cashier. Ic. Ass't Cashier.
+Staunton, Va.
+CAPITAL STOCK, $10.000.00
+SHARES $5.00 EACH.
+Collections and out-of-town business solicited. Interest paid on time deposit.
+SAM'L LINDSAY, President.
+C F POINTS, Vice President.
+Jackson, Cashier.
+Ie. Ass't Cashier.
 
 ## Savings Bank of the Grand Fountain.
 
@@ -368,29 +342,21 @@ S systematic Saving hal t is an anchor
 of safety to every man." Deposits so
 licited.
 
-W. L. TAYLOR, President.
-
 THE PENNY SAVINGS BANK.
 COLUMBUS, MISS.
 CAPITAL STOCK, $10,000.00.
-
-Strict Attention Paid to Business. Call
-sections Solicited.
-
-W. I. MITCHEL L, President.
+Strict Attention Paid to Business.
+Selections Solicited.
+W. L. MITCHELL, President.
 H. E. ROBERTS, Vice President.
 J. M. COLEMAN, Cashier.
-G. A. LITTLEJOHN, Assistant Cashier.
-
-DIRECTORS--Dr. T. V. Jones, J. M. Shumann,
-E. S. Evans, O. H. Campbell, E. S. Jones, W. W.
-Cox.
-
+G. A. LITTLEJOHN, Assistant Custodian.
+DIRECTORS--Dr. T. V. Jones, J. M. Shumson.
+E. S. Evans, O. H. Campbell, E. S. Jones, W. W. Cox.
 W. A. ATZAVAY, M. D., Pres.
 W. W. COX, Cashier.
-W. H. COATS, Vice Freer
-M. B. BURNETT, Assistant Cashier.
-
+W. H. COATS, Vice Frer
+M. B. BURNETT, A. T. Cashier.
 Delta Penny savings Bank
 
 Does a General Banking Business. Makes
@@ -414,15 +380,9 @@ W. E. MOLLSON, President.
 B. F. LACEY, Vice-President.
 M. Z. MOLLSON, Carper
 
-First moneyed institution managed
-colored men in Mississippi.
-Constantly growing, constantly dote
-good.
-Does general banking business.
-Stock for Sale, $3.00 per Share,
-W. E. MOLLSON, President.
-B. F. LACEY, Vice-President.
-M. Z. MOLLSON, Cashier
+---
+
+W. L. TAYLOR. President.
 
 success, I think it will do the race and denomination incalculable, good.
 
@@ -435,3 +395,11 @@ If the friends of THE REVIEW and the departments of the Publishing work would ta
 ## HELIOTROPE CIRCLE
 
 The Heliotrope Circle was entertained by Mrs. W. P. Phillips, of 703 Sixth avenue, South, January 11, 1910. The ladies commenced to gather at 3:00 o'clock p. m. and the whole afternoon was spent in the making of roses under the direction of Mrs. J. H. Hale. At the close of the meeting there were many beautiful Marechal Niel roses. The hostess served a two-course menu after which the club adjourned to meet with Mrs. J. H. Kelly, 653 Bass street, January 25, 1910.
+
+7
+
+CH
+
+99
+
+---

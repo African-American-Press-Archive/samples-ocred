@@ -1,20 +1,20 @@
 ## Visit Smith's drug store.
 
-Miss Cecil Penniston, of 2626 Highland, is quite ill with malarial fever.
+Miss. Cecil Penniston, of 2626 Highland, is quite ill with malarial fever.
 
 Mrs. Mary E. Stone, 544 Cherry street is confined to her home with pneumonia.
 
 The Misses Hutchins will entertain with a dancing party at Lyric Hall Saturday evening.
 
-Mr. and Mrs. Dan Carson, 314 New Jersey avenue entertained at reakfast Sunday morning, Miss Eva P. Washington.
+Mr. and Mrs. Dan Carson, 314 New Jersey avenue entertained at reak fast Sunday morning, Miss Eva P. Washington.
 
 Mrs. Emmett Lee has returned to her home, in Britt, Ia., after a very pleasant stay with Mrs. Mary Walker, 3409 Wyandotte street.
 
 Men taking the physical work, with shower baths and swimming, who have in the past been subject to colds each winter, now seem to be immune.
 
-Richard Fulbright, of 2613 Highland, one of the best known Masons in this city, has been ill during the week with la grippe, but is improving nicely.
+Richard Fulbright, of 2613 Highland, one of the best known Masons in this city, has been ill during the week with la gripe, but is improving nicely.
 
-Mrs. Fannie Carson of Kansas City, Mo., and Mrs. Amelia Lewis of Lexington, Mo., were called to Evans, Ia., on the account of the death of their father, Andrew Nelson.
+Mrs. Fannie Carson of Kansas City, Mo., and Mrs. Amelia Lewis of Lexington, Mo., were called to Evans, la., on the account of the death of their father, Andrew Nelson.
 
 Mr. and Mrs. Geo. W. Ford, formerly of 1810 Tracy, recently moved to Portland, Ore., and write that they are doing nicely. They have been loyal supporters of the Sun every since it was established.
 
@@ -24,17 +24,17 @@ The quiet wedding of Miss Carrie E. Morgan to Mr. W. J. Dixon was solemnized at 
 
 On Saturday night, January 16, while Rev. Sister Pearl was attending a reception given in honor of her return home by Mrs. M. C. Hays, her beautiful residence was destroyed by fire.
 
-Dancing every Wednesday night at Armory Hall, Cottage and Vine streets. Prof. Rose White, Dancing Master. Class every Saturday night. Mrs. Jennie White, teacher. Bell Phone, East 4594.
+Dancing every Wednesday night at Armory Hall, Cottage and Vine streets. Prof. Rose White, Dancing Master. Class every Saturday night. Mrs. Jennie White, teacher. Bell Phone. East 4594.
 
-Mrs. Minnie White, the amiable wife of I. W. White, 922 E. 21st, underwent an abdominal operation last Monday the 18. The operation was performed by Drs. Perry and Walker. Negro physicians. Mrs. White is doing nicely at Phyllis Wheatley Hospital, 1214 Vine street.
+Mrs. Minnie White, the amiable wife of I. W. White, 922 E. 21st, underwent an abdominal operation last Monday the 18. The operation was performed by Drs. Perry and Walker, Negro physicians. Mrs. White is doing nicely at Phyllis Wheatley Hospital, 1214 Vine street.
 
-“Grandma” Hartwell, of 2645 Vine Street, one of the oldest and most faithful members of Centenniel M. E. Church and who is beloved by all who know her, lies dangerously ill at her home at this time and little hope is held out for her recovery. Her daughters and Miss Maude Olden are constantly at her bedside.
+"Grandma" Hartwell, of 2645 Vine Street, one of the oldest and most faithful members of Centeniel M. E. Church and who is beloved by all who know her, lies dangerously ill at her home at this time and little hope is held out for her recovery. Her daughters and Miss Maude Olden are constantly at her bedside.
 
-Note—As we go to press word comes that Sister Hartwell passed away this (Friday morning and the funeral will be from her church Sunday at 1 p.m., Rev. Davis, officiating.
+Note—As we go to press word comes that Sister Hartwell passed away this (Friday morning and the funeral will be from her church Sunday at 1 p. m., Rev. Davis, officiating.
 
 Mrs. W. M. Johnson, of 1426 W. 35th street, Los Angeles, Calif., writes Mrs. Payne to renew her subscription for another year for the Sun, which Mrs. Payne has done, also saying that she could not get along without the Sun, which she considers the best edited and most interesting Negro journal that has ever come into her home.
 
-The proceedings of the last Grand Session Court of Calanthe, Sun Flower Lodge K. of P., of Kansas, was turned this week in best of form and style by the Harris Printing Establishment, 1515 E. 18th street. The Proceedings for United Grand Chapter Order of the Eastern Star, of which Mrs. Victoria Clay Haley of St. Louis, Mo. is Grand Matron, is the next in order and is now being run. Both of these books are evidences of the best workmanship to be had from any of the smaller printing establishments outside the state. The various other orders who have book work to let at a nominal cost would do well to get in touch with this establishment. Stop in at 1515 E. 18th street or call the Bell Phone, East 2782.
+The proceedings of the last Grand Session Court of Calanthe, Sun Flower Lodge K. of P., of Kansas, was turned this week in best of form and style by the Harris Printing Establishment, 1515 E. 18th street. The Proceedings for United Grand Chapter Order of the Eastern Star, of which Mrs. Victoria Clay Haley of St. Louis, Mo. is Grand Matron, is the next in order and is now being run. Both of these books are evidences o f the best workmanship to be had from any of the smaller printing establishments through the state. The various other orders who have book work to let at a nominal cost would do well to get in touch with this establishment. Stop in at 1515 E. 18th street or call the Bell Phone, East 2782.
 
 ## IN MEMORIAM.
 
@@ -59,34 +59,53 @@ I desire to thank my many friends of the Second Baptist Church and New Hope Temp
 
 ## THE EDITOR
 
-Who's the most useful man in town, from preacher, lawyer, doctor, down who neither smiles nor wears a frown?
+Who's the most useful man in town,
+From preacher, lawyer, doctor, down
+who neither smiles nor wears a
+frown?
 The Editor.
 
-In all the world who's most ignored. Slighted, deceived, abused and bored. And yet who's flag is never lowered?
+In all the world who's most ignored.
+Slighted, deceived, abused and bored.
+And yet who's flag is never lower-
+ered?
 The Editor.
 
-Who flights the battle none dare fight,
+Who flights the battle none dare
+fight,
 For what is clearly just and right
 And drives the foe out of sight?
 The Editor.
 
-And yet, who even hides his name Unmindful of the scroll of fame
+And yet, who even hides his name
+Unmindful of the scroll of fame
 Or of the public's loud acclaim?
 The Editor.
 
-Who lights the torch for other men To honor, gain and wealth, and then, Who hears them say "Do it again?"
+Who lights the torch for other men
+To honor, gain and wealth, and then,
+Who hears them say "Do it again?"
 The Editor.
 
-Who works most like a galley slave And stems the tide of wind and wave With faith and hope and courage brave?
+Who works most like a galley slave
+And stems the tide of wind and wave
+With faith and hope and courage
+brave?
 The Editor.
 
-Whose heavy task is never done, But meets him with each rising sun As big as when 'twas first begun?
+Whose heavy task is never done,
+But meets him with each rising sun
+As big as when 'twas first begun?
 The Editor.
 
-Who in this world shall know no rest Nor peace within his troubled breast To come a moment as his guest?
+Who in this world shall know no rest
+Nor peace within his troubled breast
+To come a moment as his guest?
 The Editor.
 
-Who'll go to heaven when he dies, And sing with angels in the skies, So very much to other's surprise?
+Who'll go to heaven when he dies
+And sing with angels in the skies,
+So very much to other's surprise?
 The Editor.
 
 ## Ancient Gateways
@@ -200,19 +219,16 @@ Hours 8:30 A. M. to 7:30 P. M.
 MRS. A. B. HOLT,
 Hours 6:408 2:355 Main St
 
-Home South 2408. 3215 Main St
-
 Home South 2408. 3215 Main St.
 
 "Why Jesus Was a Man and Not a Woman" and "Why Jesus Never Married.""There is a reason..Do you desire to know why?.If so, send 10 cents in stamps and get the booklet containing the addresses and proceedings of the second anniversary of Sidney C. Tapp's books on the sex law of the Bible..Address Sidney C. Tapp, 406 Reliance Building, Kansas City, Mo.
 
+THE WOMAN
+
 ## REV. MRS. PEARL.
 The Famous Evangelist.
 
-REV. MRS. PEARL.
-The Famous Evaangelist.
-
-Rev. Sister Dee Pearl, 3101 East 16 has reopened her Church Grant Chapel at 533 Harrison street . It is a beautiful Church room easily seating 100 persons. To add to its comfort Sister Pearl is master in her profession of and altogether it is a very comfortable and cozy Church room. Sister Pearl it master in her profession of divine healing coupled also with the gift of wisdom to preach the infallible doctrine of truth makes her a tower of strength in advancing the cause of Christ, unfortunate and fallen humanity and giving God the praise. Sister Pearl will also open a spiritual study at her church for the acceptance of members and all those who are spiritually inclined that they may gain strength and knowledge in the study of the scripture in this great works with faith in Jesus-Christ. For information consult Sister Pearl at her residence, 3101 E. 16th. Bell Phone: East 2387.
+Rev. Sister Dee Pearl, 3101 East 16 has reopened her Church Grant Chapel at 533 Harrison street. It is a beautiful Church room easily seating 100 persons. To add to its comfort Sister Pearl is master in her profession of and altogether it is a very comfortable and cozy Church room. Sister Pearl it master in her profession of divine healing coupled also with the gift of wisdom to preach the infallible doctrine of truth makes her a tower of strength in advancing the cause of Christ, unfortunate and fallen humanity and giving God the praise. Sister Pearl will also open a spiritual study at her church for the acceptance of members and all those who are spiritually inclined that they may gain strength and knowledge in the study of the scripture in this great work with faith in Jesus-Christ. For information consult Sister Pearl at her residence, 3101 E. 16th. Bell Phone-E 2387.
 
 ## OSKALOOSA, IA.
 
@@ -238,8 +254,6 @@ healed.
 
 Sadly missed by mother, father sisters and brothers.
 
-HEALTH, HAPPINESS AND PROS PERITY.
-
 ## HEALTH, HAPPINESS AND PROS PERITY.
 
 What a Blessed condition. I want every colored person in America to realize this great truth. I teach you how. I also give treatments for all undesirable conditions. Out of town patients cared for through telepathy and correspondence.
@@ -250,13 +264,14 @@ Metaphysical Practitioner,
 Kansas City, Mo.
 
 A BEAUTIFUL DESIGN.
-Sprays .....$1.00 and upward
-Designs .....$150 and upward
+Sprays ... $1.00 and upward
+Designs ... $150 and upward
+
 We please the people oth in price
 and aquality.
-Flowers for all occasions.
+
 WEAVER FLORAL CO.
-1510 E. 18th St-
+1510 E. 18th St.
 Home phone Main 7555.
 Bell phone East 4798.
 
@@ -275,16 +290,16 @@ Although the weather was very disagreeable yet a fair sized audience was in atte
 On account of the cold weather our attendance was poor. Sunday our pastor preached, morning and evening, both sermons were full of instruction.....We were shocked to hear of the death of our pastor's mother. We extend to him and family our heartfelt sympathy and say to them: Meet her in heaven where all is peace and joy and love, and death is a stranger.....he following are on the sick list: Mesdames. Ella Lawson, Clara Patterson, Ella Gillham, Agnes Pollard, Maggie Reiner and Mr. Bragg Liggins for all of whom we hope an early recovery.
 
 REV. J. R. RANSOM, D. D.
-The Scholarily and Eloquent Pastor of the First A. M. E. Church, Kansas City, Kansas, Who Delivered One of the Most Forceful and Remarkable Addresses on "Good Government"
+The Scholarly and Eloquent Pastor of the First A. M. E. Church, Kansas City, Kansas, Who Delivered One of the Most Forceful and Remarkable Addresses on "Good Government"
 Ever Heard at the Y. M. C. A.
 
 ## Finds Cure for Epilepsy After Years of Suffering
 
 'My daughter was afflicted with epileptic fits for three years, the attacks coming every few weeks. We employed several doctors but they did her no
 
-good. About a year ago we heard of Dr. Miles' Nervine, and it certainly has proved a blessing to our little girl. She is now apparently cured and is enjoying the best of Health. It is over a year since she has had a flair. We cannot speak too highly of Dr. Miles' Nervine."
+good. About a year ago we heard of Dr. Miles' Nervine, and it certainly has proved a blessing to our little girl. She is now apparently cured and is enjoying the best of health. It is over a year since she has had surgery, and cannot speak too high.
 
-MRS. FRANK ANDERSON, Comfrey, Minn.
+year ago we heard of Dr. Miles' Nervine, and it certainly has proved a blessing to our little girl. She is now apparently cured and is enjoying the host of Health. It is over a year since she has had a fit. We cannot speak too highly of Dr. Miles' Nervine. MRS. FRANK ANDERSON, Comfrey, Minn.
 
 Thousands of children in the United States who are suffering from attacks of epilepsy are a burden and sorrow to their parents, who would give anything to restore health to the sufferers.
 
@@ -296,12 +311,34 @@ MILES MEDICAL CO., Elkhart, Ind.
 
 # TRADE PORO MARK
 
+Mr A.M.P.Peturubo
+
 "THE HAITIAN RESOLUTION 1791-1804"
 —Or—
 Sidelights of the French Revolution by
 —By—
-T. G. STEWART, RETIRED CHAPLAIN 25TH INFANTRY
-U. S. A.
+
+THAPLAIN 25TH INFANTRY
+A.
+of black men who broke their
+expelled their former masters,
+us stood the twelve tests of a
+$1.25
+2126 TRACY
+FREE! FREE!
+Singing Six New Subscribers of
+fruit for the Sun.
+
+THE
+PHARMACY
+IN TEMPLE
+FOR BUYING YOUR
+Net Articles
+Lundries
+FREE—CALL US UP
+
+T. G. STEWART, RETIRED CHAPLAIN 25TH INFANTRY U. S. A.
+
 A true and accurate account of black men who broke their chains, made themselves free, expelled their former masters, and constructed a state that has stood the twelve tests of a century without help.
 
 FREE! FREE! FREE! FREE! The above book to anyone bringing Six New Subscribers of One Dollar Each for the Sun.
@@ -310,16 +347,31 @@ Special New Line of Prescription Drugs Graduate Prescriptionist.
 
 EIGHTEENTH AND WOODLAND
 
-are responding to his love. Men and women are imbued with his spirit, having his spirit they love—love him and love what he loves. Saved men and women are loving their neighbors, loving lost men and women for whom Christ died and acting from a spontaneous impulse are giving their time, their money and themselves to the rescue of the pershing. The Christ spirit is a spirit of service. Christ spirit is a spirit of service. Christ was the greatest of servants. Hear this work from Paul:
+are responding to his love. Men and women are imbued with his spirit having his spirit they love—love him and love what he loves. Saved men and women are loving their neighbors, loving lost men and women for whom Christ died and acting from a spontaneous impulse are giving their time, their money and themselves to the rescue of the pershing. The Christ spirit is a spirit of service. Christ spirit is a spirit of service. Christ was the greatest of servants. Hear this work from Paul:
 
-Have this mind in you which was also in Christ Jesus, who existing in the form of God accounted not his being on an equality with God, accounted not his being on an equality with God a thing to be grasped, but emptied himself taking the form of a servant, becoming in the likeness of man; he being found in fashion as a ma, he humbled himself becoming obedient to death and the death of the Cross. Of himself Jesus said: "For even the son of man came not to be ministered unto, but to minister." And at the same time he said to his disciples; but whosoever will be great among you shall be your minister; and whosoever of you will be the chiefest shall be the servant of all." So the spirit of Christ gives itself in service to other. How wide this field of service. The more there is of the Christ spirit in the lives of men and women, the more will be of unselfish service. The Christ spirit is the spirit of sacrifice. Christ gave his life as a ransom. He became obedient unto death even the death of the cross. He laid down his life to save the objects of his love. It is in the nature of love to sacrifice. We may say that love loves to sacrifice in the interest of the objects of love. True love is always and everywhere sacrificial. There are no limits to which it will not go and no price that it will not pay. There is no pain that it will not suffer and no depth of his mutilation to which it will not descend. Love will suffer without complaints and die if need be.
+Have this mind in you which was also in Christ Jesus, who existing in the form of God accounted not his being on an equality with God, accounted not his being on an equality with God a thing to be grasped, but emptied himself taking the form of a servant, becoming in the likeness of man; and being found in fashion as a ma, he humbled himself becoming obedient to death and the death of the Cross. Of himself Jesus said: "For even the son of man came not to be ministered unto, but to minister." And at the same time he said to his disciples; but whosoever will be great among you shall be your minister; and whosoever of you will be the chiefest shall be the servant of all." So the spirit of Christ gives itself in service to other. How wide this field of service. The more there is of the Christ spirit in the lives of men and women, the more there will be of unselfish service. The Christ spirit is the spirit of sacrifice. Christ gave his life as a ransom. He became obedient unto death even the death of the cross. He laid down his life to save the objects of his love. It is in the nature of love to sacrifice. We may say that love loves to sacrifice in the interest of the objects of love. True love is always and everywhere sacrificial. There are no limits to which it will not go and no price that it will not pay. There is no pain that it will not suffer and no depth of humiliation to which it will not descent. Love will suffer without complaints and die if need be.
 
-Jerry Larkins, 9 East Galenna street, Butte, Mont., proprietor of the Up to Date Tonsorial Parlor is the agent for the Kansas City Sun and the Chicago Defender. These papers can be had every Monday morning by calling at the shop or phoning Independent phone 5708 and a paper will be delivered to your address. The Crisis is also for sale. Leave your orders for any of these papers and see what progress the race is making. Let Larkins help you get them.
+Jerry Larkins, 9 East Galena street,
+Butte, Mont, proprietor of the Up to
+Date Tonsorial Parlor is the agent for
+the Kansas City Sun and the Chicago
+Defender. These papers can be had
+every Monday morning by calling at
+the shop or phoning Independent
+phone 5708 and a paper will be de-
+livred to your address. The Crisis
+is also for sale. Leave your orders
+for any of these papers and see what
+progress the race is making. Let
+Larkins help you get them.
 
 ## THE CHRIST SPIRIT.
 
-By MRS. J. L. JACKSON, Kansas City, Kas.
+By MRS. J. L. JACKSON,
+Kansas City, Kas
 
-"Whatever things are true, whatever things are venerable, whatever things are
+"Whatever things are true, whatever things are venerable, whatever things are righteous, whatever things are pure, whatever things are lovely, whatever things are of good report," all owe their origin and continuance to the Christ spirit. In this Christmas season is a good time to meditate upon the Christ spirit and to reckon up the blessings that have their origin and impulse in the Christ spirit. Is it possible to think of anything in all the wide world that contributes to human hope and happiness that does not exist because of the Christ spirit? All consolation, all comfort, all hope, all gladness, all that soothes, the rough asperities of life in this human world all of these exist and abound because Christ came into the world and breathed upon it his spirit. The Christ spirit is a spirit of good will. In the angel's song that echoed over the Judean hills on the night of the birth of Jesus was the glad and glorious refrain: "Good will toward men."
+
+That was an expression and declaration of the kindly purpose of God toward sinful men. It contained the that the greatest blessing and the highest good might come to all men. Just this is what the Christ spirit means in the world today. As this spirit gets possession of human minds and hearts and wills there is good will toward men—all men. There is no enmity, no malice, no hatred, no feeling of revenge but the desire that blessings may be upon the heads of all men. The Christ spirit is a spirit of good cheer. Again and again during his ministerial work on earth Christ spoke these words: "Be of good cheer." He tried to show men how there was solid ground for good cheer. He endeavored to assure them that if they would ally themselves with him and trust him and follow him that there was even in a world of sin and sorrow and in spite of all the difficulties and burdens and trials and sorrows good reason for hope and cheer. The Christ spirit smiles and sings glad songs and lightens burdens and puts light in dark places and gives flowers and wipes away tears. The Christ spirit is a spirit of love. The love of Christ is boundless and timeless. He loves the unworthy the ungrateful, the lowest and most lost of all the earth. His love never falters nor fails. "Having loved his own, he loved them to the end." He so loved that he gave his life for the ungodly. The Christ spirit of love in the world today. Human heart
 
 ## BUTTE, MONT

@@ -7,23 +7,17 @@
 
 # There' A Reason For Wanting To Indict Governor Len Small
 
-The factional enemies of the Governor propose if possible to indict him and again place him on trial. They are said to be conferring for the purpose, That is the political news of the week.
-
-After the pitiable fiasco at Waukegan and its tragic consequences this is a startling proposition. No ordinary motive can be behind it. From the political view point it can hardly be understood.
+The factional enemies of the Governor propose if possible to indict him and again place him on trial. They are said to be conferring for the purpose. That is the political news of the week. After the pitiable fiasco at Waukegan and its tragic consequences this is a startling proposition. No ordinary motive can be behind it. From the political view point it can hardly be understood.
 
 Messrs. McCormick, Brundage and other leaders of the Governor's political enemies are in politics--for what? That is plain, the offices and the political power that goes with the offices. That is plain, not only on general political principles but on the evidence of their own political careers. Yet how can they expect to retain the offices and power that they covet--and the other offices and additional power to which they aspire--if as agents of half the Republican party they go on with their effort to put the leaders of the other half in jail?
 
-A penitentiary prosecution in this case is not the road to success in politics. It is the road to destruction. The McCormick and Brundage leaders know it. They know that by going again to the criminal courts with their political case they would rouse in party organization a hostile fury against themselves that would annihilate them in any popular election. Then why this effort to go on with their criminal prosecution of the Governor, after a fair trial and full acquittal?
-
-Politically there can be but one explanation. It is that the
+A penitentiary prosecution in this case is not the road to success in politics. It is the road to destruction. The McCormick and Brundage leaders know it. They know that by going again to the criminal courts with their political case they would rouse in party organization a hostile fury against themselves that would annihilate them in any popular election. Then why this effort to go on with their criminal prosecution of the Governor, after a fair trial and full acquittal? Politically there can be but one explanation. It is that the
 
 ## Dr. Jones Touring South.
 
-Evanston, III. Special
+Evanston, Ill. Special The Baptist throughout the United States are making a determined effort to pay the ten thousand seven hundred and fifty dollars, which they owe on their Seminary and Training School at Nashville.
 
-The Baptist throughout the United States are making a determined effort to pay the ten thousand and seven hundred and fifty dollars, which they owe on their Seminary and Training School at Nashville.
-
-Dr. Edward P. Jones, for the last seven years president of the Convention, said just before leaving Evanston for the South where he has been invited by the Baptist that every indication points to the Convention at Nashville in September as the most constructive in all the denominaton in history. Our aim and purpose to put over a program emphasizing the importance of Christian Education and the spreading of the Gospel must appeal to every right thinking man and woman throughout the country. The slogan at Nashville in September will be "Every Baptist a doer and lifting as we climb." He is spending this week in North Carolina and goes from there to attend the Louisiana State Convention at Baton Rouge.
+Dr. Edward P. Jones, for the last seven years president of the Convention, said just before leaving Evanston for the South where he has been invited by the Baptist that every indication points to the Convention at Nashville in September as the most constructive in all the denominaton in history. Our aim and pnpose to put over a program emphasizing the importance of Christian Education and the spreading of the Gospel must appeal to every right thinking man and woman throughout the country. The slogan at Nashville in September will be "Every Baptist a doer and lifting as we climb." He is spending this week in North Carolina and goes from there to attend the Louisiana State Convention at Baton Rouge.
 
 ## Trustees of Old Ministers' Home
 
@@ -37,31 +31,27 @@ Crary, Dr. G. W. Alexander.
 
 Please Pay Your Subscription.
 
-McCormick and Brundage leaders are so entangled with their commercial allies and their traction associates that they cannot stop to consider the political interests of themselves or the general interests of the people of Illinois.
-
-These commercial allies and traction associates are hard masters in politics. They do not consider political possibilities or political careers. Their eyes are always on business interests regardless of political consequences to leaders or followers. to voters or the commonwealth. Profit-sure profit--that is their one aim and ambition, and they refuse to consider any other. Those with whom they do politics must conform to this aim and ambition, or the commercial gentlemen retire from the field and seek other allies.
+McCormick and Brundage leaders are so entangled with their commercial allies and their traction associates that they cannot stop to consider the political interests of themselves or the general interests of the people of Illinois. These commercial allies and traction associates are hard masters in politics. They do not consider political possibilities or political careers. Their eyes are always on business interests regardless of political consequences to leaders or followers, to voters or the commonwealth. Profit-sure profit--that is their one aim and ambition, and they refuse to consider any other. Those with whom they do politics must conform to this aim and ambition, or the commercial gentlemen retire from the field and seek other allies.
 
 All this is a commonplace of Chicago politics. It is commonplace of politics in Springfield. Apparently it also is a commonplace in the counsels of the Governor's political foes.
 
 Only with these facts in mind can one explain any removal of the effort to prove the Governor a criminal and remove him from the office in which he is not so much a stumbling block to the McCormick and Brundage politicians as to the traction managers and corporation manipulators of Illinois.
 
-Politically such an effort on the part of sane men in politics is simply unthinkable for, whether put forth rightly or wrongly. it could bring in its train only political ruin and disaster to all concerned.
+Politically such an effort on the part of sane men in politics is simply unthinkable for, whether put forth rightly or wrongly, it could bring in its train only political ruin and disaster to all concerned.
 
 ## Eigyth Anniversary of Unity Baptist To Be Celebrated at Brookport
 
 ## Sunday July 16th.
 
-There will be a rally the 3rd Sunday, July 16, at Unity Baptist church, Brookport, celebrating the 8th Anniversary of the Organization. It begins on Saturday night with a program and entertainment, and continues until Sunday night. Every one will be asked to give one cent for each pound they weigh. Don't forget the day and occasion. The people of Metropolis, Round Knob, Unionville, Shady Grove, and Belgrade, are cordially invited. Bros. Wm. King, John Edmonds, James Goodman, Henry Stewart, C. D. Lassiter, Rev. Geo. Crippens, are requested to be present and appear on program on Sunday. A pleasant time is in store for every one.
+There will be a rally the 3rd Sunday, July 16, at Unity Baptist church, Brookport, celebrating the 8th Anniversary of the Organization. It begins on Saturday night with a program and entertainment, and continues until Sunday night. Every one will be asked to give one cent for each pound they weigh. Don't forget the day and occasion. The people of Metropolis, Round Knob, Unionville, Shady Grove, and Belgrade, are cordially invited. Bros. Wm. King, John Edmonds, James Goodman. Henry Stewart. C. D. Lassiter, Rev. Geo. Crippens, are requested to be present and appear on program on Sunday. A pleasant time is in store for every one.
 
-Cotp, Ill., Ill., July 7, 1922.
+Colp, Ill., Ill., July 7, 1922. My dear Editor, please allow me space in your paper to say a few things about the Aged Minis- ers' Home which has been purchased by the Baptists of Illinois. One of the rigid tests of any age is demonstrated in the provessions made for helpless members of society found among children, mothers and the aged. Ancient history records the destruction of un- and especially we should appreciate the efforts of our retir-
 
-My dear Editor, please allow me space in your paper to say a few things about the Aged Minisisters' Home which has been purchased by the Baptists of Illinois. One of the rigid tests of any age is demonstrated in the provisions made for helpless members of society found among children, mothers and the aged. Ancient history records the destruction of un- and especially we should appreciate the efforts of our retir-
+MOTTO: "HEW TO THE LINE, LET THE CHIPS FALL WHERE THEY MAY."
 
-ed aged ministers of the gospel, for theirs was a pioneer life in the undeveloped territory. Their lives have made possible our present day comforts and blessing with the overflowing success now enjoyed by our younger ministers and students. favorably born infants and speedy death for unfit, with the dawn of Christianity the scene has been changed to that of ample provision for all conditions and walks in life. Infants and other phases of child welfare are well established. Many departments of uplift work and the age certainly demands our careful consideration. They have furnished brain and brawn in developing the world in all of the avenues of science, arts, commerce, education, social and civic achievements, together with religious fervor, seldom known to this present day, all for us to pass on the rising generation that follow us. Can we ever forget their attainment having won success under circumstances we would consider impossible today. We cannot overlook if we expect to give those who follow us rich heritage as we have received from
+ed aged ministers of the gospel, for theirs was a pioneer life in the undeveloped territory. Their lives have made possible our present day comforts and blessing with the overflowing success now enjoyed by our younger ministers and students.
 
 favorably born infants and speedy death for unfit, with the dawn of christianity the scene has been changed to that of ample provision for all conditions and walks in life. Infants and other phases of child welfare are well established. Many departments of uplift work and the age certainly demands our careful consideration. They have furnished brain and brawn in developing the world in all of the avenues of science, arts, commerce, education, social and civic achievements, together with religious fervor, seldom known to this present day, all for us to pass on the rising generation that follow us. Can we ever forget their attainment having won success under circumstances we would consider impossible today. We cannot overlook if we expect to give those who follow us rich heritage as we have received from Illinois is proud of her home for aged ministers at Golsonda, situated three hundred yourds from the Ohio River and almost on the line of Ky, at an elevation of some three hundred feet above the city, at the summit of a hill reminding one of the city set on a hill for surely the good deeds of these men are not submerged because of their present nobility.
-
-Illinois is proud of her home for aged ministers at Golconda, situated three hundred yourds from the Ohio River and almost on the line of Ky, at an elevation of some three hundred feet above the city, at the summit of a hill reminding one of the city set [on a hill for surely the good deeds of those men are not submerged because of their present nobility.
 
 The home was erected by a wealthy German fifty years ago, and ranks today as a monument of architectural beauty with homemade bricks, twenty seven rooms, spacious reception halls, all rooms large, porches and many windows. The appearances are kept up to an ideal standard in beautiful decoration and comfortable with three systems of heating; grates, radiators, and stoves. There a modern plumbing in lavatories and laundry, in addition to linen closets and store rooms, arranged in sections. On the second floor near the back porch is a well of natural water the best and coldest in town.
 
@@ -70,18 +60,18 @@ The grounds of beautiful flowers blooming, plants extending into a farm of three
 of the great Illinois Baptists we are now singing, On to victory, we are conquering every foe.
 
 Yours interested in the work,
-W. E. Reynolds,
+W. E Reynolds,
 Box. 182 Colp, Ill.
 
 Decatur, Ill., July 3rd 1922
 To The Metropolis, Weekly
 Gazette, Metropolis, Ill.
 
-Please allow space in your newsheet to say to the constituents of the General Missionary Baptist Association of Illinois, that it is just twenty six days from our great rally in Golconda for our Aged Ministers' Home which convenes on the 30th of July, which is the fifth Sunday. I have been looking for the S. S. churches, B. Y. P. U.'s. Mission Societies and especially the Agents to make their financial reports to me for the Home, but all of them seem to have gone to sleep and forgotten their obligation for the Home. My Brethren, are you not willing to help me bear the burden that should lay heavy on each of our hearts? I did not want to say what I am about to say, but the neglegence of my brethren forces me to say, that I put myself in debt. $348.50 Three Hundred Forty-eight Dollars and Fifty Cents to make our State Association able to purchase our Aged Ministers' Home without one iota of security. We adjourned on May the 26, 1922. And from this entire State, I received $12 80. Brethren this is not in accord with our big speeches on the floor of the Association at Centralia, last May. I ask that you begin to relieve me of this mighty burden so I can at least, have some sleep. I am not unmindful of the great work you helped to do in purchasing the property, but we had better not purchased than to have done so, then take our seat and lose both our effort and money. I will be glad to get a letter from some brother or sister, if it only contains one dollar.
+Please allow space in your newsy sheet to say to the constituents of the General Missionary Baptist Association of Illinois, that it is just twenty six days from our great rally in Golconda for our Aged Ministers' Home which convenes on the 30th of July, which is the fifth Sunday. I have been looking for the S. S. churches, B Y. P. U.'s. Mission Societies and especially the Agents to make their financial reports to me for the Home, but all of them seem to have gone to sleep and forgotten their obligation for the Home. My Brethren, are you not willing to help me bear the burden that should lay heavy on each of our hearts? I did not want to say what I am about to say, but the neglegence of my brethren forces me to say, that I put myself in debt. $348.50 Three Hundred Forty-eight Dollars and Fifty Cents to make our State Association able to purchase our Aged Ministers' Home without one iota of security. We adjourned on May the 26, 1922. And from this entire State, I received $12 80. Brethren this is not in accord with our big speeches on the floor of the Association at Centralia, last May. I ask that you begin to relieve me of this mighty burden so I can at least, have some sleep. I am not unmindful of the great work you helped to do in purchasing the property, but we had better not purchased than to have done so, then take our seat and lose both our effort and money. I will be glad to get a letter from some brother or sister, if it only contains one dollar.
 
 If what has been done will not stir the Baptists to action, our case is a hopeless one. I hope to hear from some of the Agents if not all of them in the next few days, and I am praying that every Baptist Organization in the State will send a contribution to Golconda, for our rally for the 5th Sunday in this month.
 
-I am asking that Dr. C H Clark of Chicago, will prepare himself to be the principal speaker at the eleven o'clock hour on the 30th inst.
+I am asking that Dr. C. H Clark of Chicago, will prepare himself to be the principal speaker at the eleven o'clock hour on the 30th inst.
 
 Our slogan is $1,500.00 that day. I am asking all who read this article to please send me one dollar at once for the Home.
 
@@ -131,11 +121,11 @@ The Above Beautiful Old Ministers'
 
 Located at Golconda, Ill. Recent the General Baptist State Adsoo $20,000.00.
 
-This is to inform you that the McCrary's Undertaking Company will still continue its operation under a new manager during the absence of George L. B. McCrary, the Licensed Embalmer and Manager, who has gone to Chicago, to better equip himself along his line of work in order that he might be better prepared to look after the interests of our people.
+This is to inform you that the McCrary's Undertaking Company will still continue its operation under a new manager during the absence of George L. B. McCryar, the Licensed Embalmer and Manager, who has gone to Chicago, to better equip himself along his line of work in order that he might be better prepared to look after the interests of our people.
 
 During his absence the business will receive careful and prompt attention, under the new management, superintendency of a competent Licensed Embalmer.
 
-We will guarantee satisfaction and fair treatment both as to work and price, and all we ask of you is a trial, and WE will convince you of truthfulness of this above statement.
+We will guarantee satisfaction and fair treatment both as to work and price, and all we ask of you is a trial, and WE will convince you of truthfulness of this the above statement.
 
 When the unfortunate moment happens to you and Death invades your home, or your neighbor's or friends', don't hesitate, but call us by Phone, No. 229 Ring 3, and leave the rest to us. Take us into your confidence and we will prove to you, that we are in sympathy with you in the hour of sadness and distress.
 
@@ -144,6 +134,8 @@ We have made arrangements with one of the largest Casket Companies of the Northw
 We have been in business at 903 Pearl St., over a quarter of a Century, and that of itself is guarantee enough as to our reliability.
 
 If you fail to reach us by Phone have Central to send a messenger and we will pay the messenger fee. Respectfully yours. M. J. McCRARY.
+
+THE FORTY-FOURTH FARM HOUSE
 
 # The Above Beautiful Cut Is The Old Ministers' Home
 
@@ -182,21 +174,19 @@ Sadly missed by your children, Boyd Hamilton, Lydia Wheeler, Arbella Washington,
 
 ## Metropolis Gazette
 
-PUBLISHED ON FRIDAY BY
-THE GAZETTE PRINTING CO.
-METROPOLIS, . . . . . ILL.
-MRS. M. J. McCRARY, MANAGER.
-O. LB. McCRARY, EDITOR
+PUBLISHED ON FRIDAY BY THE GAZETTE PRINTING CO. METROPOLIS, ILL. MRS. M. J. McCRARY, MANAGER
+
+O. L. B. McCRAY, EDITOR
 EDGAR MCCRARY
 ASS'T. EDITOR
 
-FRIDAY JULY 14, 1922
+FRIDAY JULY 14, 1922.
 
 Office 9th and Pearl Streets, Metropolis, Illinois.
 
-Enwatered as second-class mail mat at Metropolis, Illinois, Postoffice.
+Enatered as second-class mail mat at Metropolis, Illinois, Postoffice.
 
-Address all communications to J. B. McAby, 903 Pearl St. Metropolis, Ill.
+Address all communications to J. B. McCRAY, 903 Pearl St. Metropolis, Ill.
 
 The names and addresses of contributors must be known to us in every instance, in order to secure publication.
 
@@ -207,7 +197,7 @@ TERMS OF SUBSCRIPTION:
 One Year.....$2.00
 Six Months.....1.00
 Three Months.....50
-Single Copy....05
+Single Copy.....05
 In Advance.
 
 DVERTISING RATES.
@@ -219,13 +209,12 @@ You must mail copy on Mondays to secure publication.
 
 When you have business of this kind call to see me, will take care of it for you.
 
-Office 317 W. 8th St..
-
+Office 317 W. 8th St.,
 Metropolis, Ill.
 
-Metropolis, Ill.
-
-We met Dr. Thos. H. Harris, of Princeton, who is the manufacturer of the best medicines for Indigestion, kidney, liver and bladder trouble, also rheumatism and the blood. This medicine has only one year but is eclipsing every other medicine now on the market Contains no poisons nor alcohol, as it is compounded from herbs. Retails at $1. and $1.25 per bottle. Use it and be cured. Mrs. M. J. McCrary, Agent, 903 Pearl St., Metropolis, Ill.
+We met Dr. Thos. H. Harris,
+of Princeton, who is the manufacturer of the best medicines for Indigestion, kidney, liver and bladder trouble, also rheumatism and the blood. This medicine has only one year but is eclipsing every other medicine now on the market. Contains no poisons nor alcohol, as it is compounded from herbs. Retails at $1. and $1.25 per bottle. Use it and be cured. Mrs.
+M. J. McCrary, Agent, 903 Pearl St., Metropolis, Ill.
 
 ## Time Table of C. B. & O.
 
@@ -279,49 +268,33 @@ Regular services will be held at Unity Baptist church, Brookport, Sunday.
 
 Rev. Thos. Harmon is on the sick list this week.
 
-Pay Your Subscriptions.
-
 Take a box with you
 
 If you have headache, backache, toothache, neuralgia, rheumatism, sciatica, you'll be surprised at the quick relief
 
-Dr. Miles' Anti-Pain Pills will give you.
+Dr. Miles' Anti-Pain Pills will give you
 
-A package of these pills in your pocket or in your shopping bag may save you hours of suffering.
-
-Buy them of your Druggist.
+A package of these pills in your pocket or in your shopping bag may save you hours of suffering. Buy them of your Druggist.
 
 ## Walter Roberts, Solicitor Master in Chancery Sale
 
-## Walter Roberts, Solicitor
+State of Illinois, Massac County, SS.. In the Circuit Court of said County, April Term A. D. 1922. Amelia Armstrong Vs. Anderson Bryant and Nina Bryant, Bill in Chancery to foreclose mortgage No. 1062. Public notice is hereby given that in pursuance of a decree entered at the April term of said Court, to-wit) on the 13th day of April A. D. 1922 in the above entitled cause, I, S. Bartlett Kerr, Master in Chancery of ssid County, will at the hour of 11 o'clock A. M. Saturday July 29th A. D. 1922 at the Court House in the City of Metropolis, County of Massac and State of Illinois, sell at public vendue to the highest and best bidder the following described real estate to-wit-.
 
-State of Illinois, Massac County, SS.
-In the Circuit Court of said County,
-April Term A. D. 1922.
-Amelia Armstrong Vs. Anderson
-Bryant and Nina Bryant, Bill in
-Chancery to foreclose mortgage No.
-1062.
-
-State of Illinois, Massac County, SS.-
-In the Circuit Court of said County,
-April Term A. D. 1922.
-Amelia Armstrong Vs. Anderson Bryant and Nina Bryant, Bill in Chancery to foreclose mortgage No. 1062.
-Public notice is hereby given that in pursuance of a decree entered at the April term of said Court, to-wit) on the 13th day of April A. D. 1922 in the above entitled cause, I, S. Bartlett Kerr, Master in Chancery of ssid County, will at the hour of 11 o'clock A. M. Saturday July 29th A. D. 1922 at the Court House in the City of Metropolis, County of Massac and State of Illinois, sell at public vendue to the highest and best bidder the following described real estate to-wit:-
-
-The North Half of the Southwest fourth of the Sounheast quarter of section numbered Eleven (11) of Township Sixteen (16) South of Range Five (5) east, 3rd P. M. Massac County, Illinois.
+The North Half of the Southwest fourth of the Souneheat quarter of section numhered Eleven (11) of Township Sixteen (16) South of Range Five (5) east, 3rd P. M. Massac County, Illinois.
 
 Terms of Sale, Cash in hand.
+
 Dated this 1st day of July A. D. 1922.
 
-S. Bartlett Kerr,
-Master in Chancery.
+S. Bartlett Kerr, Master in Chancery.
+
+METROPOLIS WEEKLY GAZETTE, METROPOLIS, ILL
 
 ## Cartarrhal Deafness Cannot Be Cured
 
-by local applications, as they cannot reach the diseased portion of the ear. There is only one way to cure cartarrah deafness, and that is by a constitutional remedy. Catarrhal Deafness is caused by an inflamed condition of the mucous lining of the Eustachian Tubes When this tube inflamed you have a rumbling sound or imperfect hearing, and when it is entirely closed, Deafness is the result. Unless the inflammation can be reduced and this tube to its normal condition, hearing will be destroyed forever. Many cases of deafness are caused by catarrh, which is an inflamed condition of the mucous surfaces. Hall's Catarrh Medicine acts thru the blood on the mucous surfaces of the system.
+by local applications, as they cannot reach the diseased portion of the ear. There is only one way to cure cartarrhaj deafness, and that is by a constitutional remedy. Catarrhal Deafness is caused by an inflamed condition of the mucous lining of the Eustachian Tubes When this tube inflamed you have a rumbling sound or imperfect hearing, and when it is entirely closed, Deafness is the result. Unless the inflammation can be reduced and this tube to its normal condition, hearing will be destroyed forever. Many cases of deafness are caused by catarrh, which is an inflamed condition of the mucous surfaces. Hall's Catarrrh Medicine acts thru the blood on the mucous surfaces of the system.
 
-We will give One Hundred Dollars for any case of Catarrrah Peafness that cannot be cured by Hall's Catarrh Medicine, Circulars free. All Druggists, 75c.
+We will give One Hundred Dollars for any case of Catarrrah Peafness that cannot be cured by Hall's Catarrrh Medicine. Circulars free. All Druggists, 75c.
 
 F. J. Cheney & Co., Toledo, O. By Associated Negro Press.
 
@@ -335,7 +308,7 @@ The Grand chapter of Eastern Star will hold its annual session in Cairo this yea
 
 ## TO ALL ILLINOIS CENTRAL SYSTEM SHOPMEN:
 
-On June 14 I addressed a communication to you in which I appealed to, you to cast your vote against the proposed strike. Since that time the strike has been called by your leaders, and some of you have left your positions, while others have remitted steadfast. I feel that the time has arrived when I should make clear to those of you who have left your positions, as well as those of you who have remained the proposition of the Illinois Central System with reference to this entire matter.
+On June 14 I addressed a communication to you in which I appealed to you to cast your vote against the proposed strike. Since that time the strike has been called by your leaders, and some of you have left your positions, while others have remitted steadfast. I feel that the time has arrived when I should make clear to those of you who have left your positions, as well as those of you who have remained the proposition of the Illinois Central System with reference to this entire matter.
 
 In my letter to you of June 14th I enumerated the three things which your leaders proposed to have you strike against: namely, (1) contracting of shop plants to outsiders, (2) the order of the United States Railroad Labor Board relating to rules and working conditions, and (3) the order of the United States Railroad Labor Board establishing rates of pay effective July 1.
 
@@ -343,7 +316,7 @@ The question of contracting shops to outsiders is not a part of the controversy 
 
 It goes without saying that the public welfare cannot permit the revocation of a decision of a governmental agency under a threat of the use of force. No patriotic citizen would expect such a thing to be done, or would have it done. We believe that we have the best government in the world, but you will all agree with me that it would not so remain if its institutions could be overridden and set aside in the manner sought by those who are contending against the lawful decisions of the United States Railroad Labor Board.
 
-The management of the Illinois Central System believes that those of you who are out on strike have been misled. It bears no feeling of hostility toward those who left its service. To those who have remained loyal it acknowledges a debt of gratitude. It feels that it has a valuable asset in its old employes, and it is eager to hold them together. It believes that, if those of you who are out will calmly analyze the issues upon which you are striking your better judgment will assert itself and you will return to your positions. I sincerely invite you to return. Moreover, I earnestly advise you to pursue that course.
+The management of the Illinois Central System believes that those of you who are out on strike have been misled. It bears no feeling of hostility toward those who left its service. To those who have remained loyal it acknowledges a debt of gratitude. It feels that it has a valuable asset in its old employees, and it is eager to hold them together. It believes that, if those of you who are out will calmly analyze the issues upon which you are striking your better judgment will assert itself and you will return to your positions. I sincerely invite you to return. Moreover, I earnestly advise you to pursue that course.
 
 ## ILLINOIS CENTRAL RAILROAD COMPANY
 
@@ -351,9 +324,9 @@ Mrs. Lizzie Lassiter, of Belgrade, is still very weak.
 
 Bro. C. D. Lassiter of Belgrade brought to this office seven of his choice apples of the Early Harvest. They were the finest we've seen anywhere this year, Thanks Brother for the fruit.
 
-Rev. J. B. McCrary, leaves on the 21st July, for Quincy, where he has been invited to supply the pulpit at 8th and Efm St. Baptist church, for Dr. B. N. Murrell, pastor, for two weeks. Arrangements have been made to fill the pulpits during his stay in Quincy, week for H. B. Stone, Canton, Mo.; Rev. Laws, Palmyra, Mo.; Rev. Howard, Lagrange, Mo. On our return home we intended to visit Springfield, Ill., East St. Louis, and St. Louis, Mo.
+Rev. J. B. McCrary, leaves on the 21st July, for Quincy, where he has been invited to supply the pulpit at 8th and Efm St. Baptist church, for Dr. B. N. Murrell, pastor, for two weeks. Arrangements have been made to fill the pulpits during his stay in Quincy, week for H. B. Stone, Canton, Mo. ; Rev. Laws, Palmyra, Mo. ; Rev. Howard, Lagrange, Mo. On our return home we inted to visit Springfield, Ill., East St. Louis, and St. Louis, Mo.
 
-We certainly thank Dr. C. C. Phillips for the interest taken in the editor of the Gazette each time. We are reminded of the $15. set aside for this paper as a kind of appreciation for the work of the General Baptist State Association of Ill., but by some miscarriage of the rules and regulations governing the paying out the money we failed to get ours before it was all paid out. We placed the matter in the hands of Dr. Philsips, for adjustment and he has sent us $10.00 and he has been promised by Sec. Snowden to send the balance within 10 days. We hope he will do so as he made the same promise nearly 60 days ago. We thank you my dear good Doctor for all you have ever done for us. We had in our mind to say more when we wrote this article but refrain for the time
+We certainly thank Dr. C. C. Phillips for the interest taken in the editor of the Gazette each time. We are reminded of the $15. set aside for this paper as a kind of appreciation for the work of the General Baptist State Association of Ill., but by some miscarriage of the rules and regulations governing the paying out the money we failed to get ours before it was all paid out. We placed the matter in the hands of Dr. Philsils, for adjustnment and he has sent us $10.00 and he has been promised by Sec. Snowden to send the balance within 10 days. We hope he will do so as he made the same promise nearly 60 days ago. We thank you my dear good Doctor for all you have ever done for us. We had in our mind to say more when we wrote this article but refrain for the time
 
 CHICAGO, ILLINOIS, July 10, 1922.
 
@@ -365,11 +338,11 @@ Notice is hereby given by the manager of this paper, that beginning with August 
 
 All papers, Obituaries, Programs, Resolutions Essays, Sermons, Personal Write-ups, etc.
 
-There will be a charge of $1.00 for the above named for 15 lines and all articles containing more than 15 type lines 10c will be charged for every additional line.
+There will be a charge of $1 00 for the above named for 15 lines and all articles containing more than 15 type lines 100 will be charged for every additional line.
 
 This does not apply to news of the churches.
 
-We are compelled to do this for financial protection. Our more than 23 years of experience in the newspaper world has taught us that we have been giving away hundaeds of dollrrs annually paying for setting type for such things in which the general public is not interested in, and most of the time the persons writing are not subscribers and not interested in and have no Race pride or Race Loyalty, they make long and loud speeches to the galleries, preach great sermons and write fine papers on patronizing Race enterprises and that is as far as it goes with them, as nine times out ten they give their job work what little they have, to other persons other than race papers and are withholding the support from the men who are fighting mob and
+We are compelled to do this for financial protection. Our more than 23 years of experience in the newspaper world has taught us that we have been giving away hundaeds of dollrrs annually paying for setting type for such things in which the general public is not interested in, and most of the time the persons writing are not subscribers and not interested in and have no Race pride on Race Loyalty, they make long and loud speeches to the galleries, preach great sermons and write fine papers on patronizing Race enterprises and that is as far as it goes with them, as nine times out ten they give their job work what little they have, to other persons other than race papers and are withholding the support from the men who are fighting,mob and
 
 ADVERTISEMENT
 
@@ -379,15 +352,22 @@ I trust that those of you who are out will consider this matter seriously and th
 
 I ask those of you who are striking to bear in mind that you accepted the decisions of the United States Railroad Labor Board when they were favorable to you, and that the Illinois Central System accepted those decisions which were unfavorable to it. Let me also again remind you that since December, 1917, you have received three general increases in wages and that your hourly rates of wages in effect at present, as fixed by the United States Railroad Labor Board, are from 40 to 113 per cent higher than in 1917 as follows.
 
+Machinists, boiler-
+makers, blacksmiths 70c 50c 40 per cent
+Helpers, various classes 47c 29½ to 32½c 45 to 59 ppr cent
+Coach Carpenters 70c 40c 75c per cent
+Freight car carpenters 63c 35½c 77 per cent
+Car repairmen 63c 29½c 113 per cent
+
 Upon reflection, I believe that you will be broad-minded enough to accept the recent decisions of the United States Railroad Labor Board which you consider unfavorable. A long-drawn-out contest would mean losses and suffering not only for you and your families but also for the public. We should all recognize that the public interest always rises above the interests of the railroad or of its employes.
 
 None of us is fortunate enough to have issues affecting his life always decided in his favor. The principle of "rule or ruin" invariably has led t odisaster. It can have no other ending. The wisdom of the principles of "give and take" and "live and let live" have been fully demonstrated. Those are the principles upon which we desire to conduct this railway system for the benefit of the public, the employes and the owners.
 
-The management of the Illinois Central System is under obligations to serve the public with uninterrupted transportation and under any conditions which may arise it must faithfully-discharge that obligation.
+The management of the Illinois Central System is under obligations to serve the public with uninterrupted transportation and under any conditions which may arise it must faithfully discharge that obligation.
 
 I ask that you accept this letter in that same friendly spirit in which I address you, free from many feeling of hostility or censure for anything that has been said or done in regard to this unhappy affair.
 
-lynch law and the many other inequalities and evils which contaminate the race fifty two weeks in the year, while these would be race lovers find excuses in giving their work to others claiming they are too high priced or the work is inferior to others, when at the same time these same papers that they refuse to let do theirs are doing work for Negroes who do not pose as Race leaders, and too, these same race papers are doing job work for some of best business firms and individuals of the white race. The papers are great so long as they boost this class of individuals for naught and let him help the fellow who does not need his financial assistance. There seems too much racial jealousy and envy among the majority of our great leaders and that accounts for slow progress along race enterprises.
+lynch law and the many other inequalities and evils which contaminate the race fifty two weeks in the year," while these would be race lovers find excuses in giving their work to others claiming they are too high priced or the work is inferior to others, when at the same time these same papers that they refuse to let do theirs are doing work for Negroes who do not pose as Race leaders, and too, these same race papers are doing job work for some of best business firms and individuals of the white race. The papers are great so long as they boost this class of individuals for naught and let him help the fellow who does not need his financial assistance. There seems too much racial jealousy and envy among the majority of our great leaders and that accounts for slow progress along race enterprises.
 
 Therefore we have taken the matter under careful advisement and have concluded to place a small charge on all matter except purely news. All Associational, Conventional matter we expect the officers of the Bodies to take care of in a more systematic way hereafter at quarterly and annual meeting. Our experience at the meetings in the past forces us to make this request.
 
@@ -395,25 +375,31 @@ No one who believes in a just compensation for honest work will object to this r
 
 The Colored People of Harrisburg, will celebrate the Emancipation Proclamation August 8th at White City. There will be plenty of real enjoyment and all kinds of amusement for all. Harry Burbridge, Chairman.
 
-not later that 11:59 p. m., Monday, the resumption of full seniority and as if their services had been conferred that time, if accepted will rank so are out will consider this matter whatever it may be, will turn out its, as well as the best interests of it upon you for a living.
+not later that 11:59 p. m., Monday, the resumption of full seniority and as if their services had been con- der that time, if accepted will rank
 
-liking to bear in mind that you accepted States Railroad Labor Board you, and that the Illinois Central System which were unfavorable to it, that since December, 1917, you have been in wages and that your hourly rent, as fixed by the United States 40 to 113 per cent higher than in 1917
+to are out will consider this matter whatever it may be, will turn out its, as well as the best interests of upon you for a living.
 
-Hourly Rates 1917 Increase Over 1917
+liking to bear in mind that you ac- ted States Railroad Labor Board you, and that the Illinois Central us which were unfavorable to it. that since December, 1917, you have in wages and that your hourly rent, as fixed by the United States 40 to 113 per cent higher than in
+
+1917 Increase
+Hourly Rates.
+Over 1917
 
 50c 40 per cent
-29½ to 32½c 45 to 59 ppr cent
+29½ to 32½ c 45 to 59 ppr cent
 40c 75c per cent
-35½c 77 per cent
-29½c 113 per cent
+35½ c 77 per cent
+29½ c 113 per cent
 
-you will be broad-minded enough to the United States Railroad Labor favorable. A long-drawn-out contest not only for you and your families but all recognize that the public interests of the railroad or of its wish to have issues affecting his life the principle of "rule or ruin" invariably have no other ending. The wise and take" and "live and let live" those are the principles upon which may system for the benefit of the owners.
+you will be broad-minded enough the United States Railroad Labor probable. A long-drawn-out contest not only for you and your families but all recognize that the public in- interests of the railroad or of its
 
-Central System is under obliga-uninterrupted transportation and arise it must faithfully discharge
+to have issues affecting his life the principle of "rule or ruin" inva- have no other ending. The wis- and take" and "live and let live" those are the principles upon which may system for the benefit of the owners.
+
+Central System is under obliga- uninterrupted transportation and arise it must faithfully discharge
 
 in that same friendly spirit in many feeling of hostility or censure or done in regard to this unhappy
 
-C. H. MARKHAM,
+C. H. MARKHAM.
 President.
 
 ---
@@ -444,44 +430,64 @@ Phone: Bell, E. 1987
 
 NOTARY PUBLIC
 
-1318 E. BROADWAY
+---
 
 ## Dr. Hall's Liniment
 
 Rheumatic and Ne
-Good for Rheumatism, Ne
-ing Joints. All Local Pai
+
+Good for Rheumatism, Ne-
+ing Joints. All Local Pai-
 ions and Toothache. The
-50c bottles. No order ser
-than $1.00. This Linime
+50c bottles. No order ser-
+than $1.00. This Linime-
 Distributor for Illinois, M
-903
+
+903 L
+
 DR. ERNEST
 
 Rev. J. B.
 
+Moderator of M
+Association a
+Unity Bapti
+Brookport, Ill
+the pastors and
+District Many Co
+
 Rheumatism, Neuraligia, Aching and Swell-
-s. All Local Pains, including Corns, Bun-
+All Local Pains, including Corns, Bun-
 Toothache. There are two sizes $1.00 and
 less. No order sent through the mail for less
-$00. This Liniment is guaranteed.
-For for Illinois, MRS. M. J. McCrary
+so. This Liniment is guaranteed.
+for Illinois, MRS. M. J. McCrary
 903 Pearl St., Metropolis, Ill.
 DR. ERNEST HALL, Atlanta, Ga.
 
 Rev. J. B. McCrary.
+Moderator of Mt. Olive Baptist
+Association and Pastor of
+Unity Baptist Church,
+Brookport, Ill., wishes all of
+the pastors and members of the
+District Many Conversions.
 
 ## Rheumatic and Neuraligia Liniment.
 
 Good for Rheumatism, Neuraligia, Aching and Swelling Joints. All Local Pains, including Corns, Bunions and Toothache. There are two sizes $1.00 and 50c bottles. No order sent through the mail for less than $1.00. This Liniment is guaranteed. Distributor for Illinois, MRS. M. J. McCRARY 903 Pearl St., Metropolis, Ill. DR. ERNEST HALL. Atlanta, Ga.
 
-Moderator of Mt. Olive Baptist Association and Pastor of Unity Baptist Church, Brookport, Ill., wishes all of the pastors and members of the District Many Conversions.
+Rev. J. B. McCrary.
 
-X
+Moderator of Mt. Olive Baptist Association and Pastor of Unity Baptist Church, Brookport, Ill., wishes all of the pastors and members of the District Many Conversions.
 
 "Every Colored man woman in the United States ought to make it thir primary business to see that the Dyer Anti-Lynching Bill H. B. 13, is passed by the Senate. Six human beings, all of them Colored people, were burned at the state in the United States during the fifteen days in the month of May, 1922. If that is not enough to stir Colored Americans to action, then nothing will or can. The National Association for the Advancement of Colored people offers every one an opportunity to
 
 ---
+
+1318 E. BROADWAY
+
+METROPOLIS WEEKLY GAZETTE. METROPOLIS. ILL
 
 Kin. St. Clair 1969
 
@@ -510,11 +516,9 @@ Soldier-like, Marshal Foch employs few words in answering the anonymous "America
 
 "If Gen. Robert E. Lee was a traitor," said the marshal of France, "Napoleon Bonaparte was a coward. If General Lee was a traitor, I wish France had more of them. He was one of the greatest military leaders the world has ever known."
 
-In winning the World war, Ferdinand and Foch leaned heavily upon the shoulder of Robert E. Lee. It was "the sword of Lee" that flashed on every battlefield in France from the first battle of the Marne to Armistice day.
+In winning the World war, Ferdinand Foch leaned heavily upon the shoulder of Robert E. Lee. It was "the sword of Lee" that flashed on every battlefield in France from the first battle of the Marne to Armistice day.
 
-Lee's strategy, revived and employed first by Joffre and later by Foch, held the Hun along the French front, swift to attack again, until at length the Hindenburg line was pierced and the enemies of civilization sued for peace.
-
-In his estimate of Lee, Marshal Foch takes his stand beside Viscount Wolseley, of England, who declared that Lee was "the greatest soldier given to the world since the days of Marlborough."
+Lee's strategy, revived and employed first by Joffre and later by Foch, held the Hun along the French front, swift to attack again, until at length the Hindenburg line was pierced and the enemies of civilization sued for peace. In his estimate of Lee, Marshal Foch takes his stand beside Viscount Wolseley, of England, who declared that Lee was "the greatest soldier given to the world since the days of Marlborough."
 
 ## TIGHT WRIST WATCH WARNING
 
@@ -546,7 +550,7 @@ It is customary to waste a lot of pity on the trader and the planter in remote p
 
 Of course, the road to fortune is a long and hard one. The average planter starts out with a little capital—say $500. He purchases a plot of land. The price he pays depends upon the locality in which he buys. In regions where the natives are still fairly unsophisticated he may get his land for almost nothing. Even where the natives are most astute, he can buy a square mile for what he would pay for an acre back home. His next step is to get his land cleared. To that end he buys a whaleboat and goes out to recruit natives to act as laborers. He needs five or six blacks. They will build his house and clear his land and plant his coconuts. Since it takes seven years for the coconuts to mature, sweet potatoes and cotton must be planted between the rows of trees. The sweet potatoes, with a little rice, will furnish all the food required by the blacks. The cotton, if the planter is diligent and lucky, will pay current expenses until the coconuts begin bearing.
 
-Though his small capital of $500 may be eaten up early in the game, the settler need not despair. The big trading companies that do business in the islands, will see him through if he shows any signs of being made of the right stuff. They will give him credit for food and supplies, and they will provide him with knives, calco and tobacco, which he can barter with the blacks for the sandal-wood and copra that will help balance his account with the companies. And after the first trying seven years his troubles are about over—if he can get labor enough to keep his plantation going.
+Though his small capital of $500 may be eaten up early in the game, the settler need not despair. The big trading companies that do business in the islands, will see him through if he shows any signs of being made of the right stuff. They will give him credit for food and supplies, and they will provide him with knives, calico and tobacco, which he can barter with the blacks for the sandal-wood and copra that will help balance his account with the companies. And after the first trying seven years his troubles are about over—if he can get labor enough to keep his plantation going.
 
 ## POSSIBLE LIFE ON PLANETS
 
@@ -570,11 +574,48 @@ In France women are dressing the hair to make the head look as small as possible
 
 A teacher asked, as reported by a London comic paper, "What would King Alfred, if he were alive now, think of the home rule bill?" and the boy answered, "If King Alfred were alive now he would be too old to be interested in politics."—Outlook.
 
+Page Three
+
+OPEN
+COLORED PARK
+to our people
+history, thereto-
+people, also
+wish to see
+soldiers,
+truly decide
+my people
+that I can g
+other race,
+other underst
+throughout,
+qualified to g
+ction.
+peared in Me-
+metrolis Public
+School in 191
+Anatomy, Sana
+from which
+I hold a
+small line of
+price on the
+undertaking
+ded on short
+class hearse
+day or night;
+J. S., Servi-
+safe for "De-
+nion equal oppi-
+3.
+Respea-
+MARY'S UN
+inois,
+
 ## AN OPEN LETTER
 
 ## TO THE COLORED PEOPLE-
 
-We wish to say to our people of Massac County, and the surrounding territory thereto. Having been solicited by a number of my people, also encouraged by some of my white friends who wish to see, and help secure employment for all returning soldiers, to enter the Undertaking business. I have finally decided to go into that business, with a view of serving my people, as well as having an employment, feeling that I can give them better service than members of the other race, 'though I am in friendly relation with all the other undertakers, and expect to retain that relationship throughout my business career
+We wish to say to our people of Massac County, and the surrounding territory, thereto. Having been solicited by a number of my people, also encouraged by some of my white friends who wish to see, and help secure employment for all returning soldiers, to enter the Undertaking business. I have finally decided to go into that business, with a view of serving my people, as well as having an employment, feeling that I can give them better service than members of the other race, 'though I am in friendly relation with all the other undertakers, and expect to retain that relationship throughout my business career
 
 I am perfectly qualified to give unexcelled service and will guarantee satisfaction.
 
@@ -584,11 +625,43 @@ We will carry a small line of caskets only, at present, owing to the advance pri
 
 We have a first class hearse at our command.
 
-Calls answered day or night; distance immaterial.
+Calls answered day or night: distance immaterial.
 
-We were in the U. S., Service for six months, trying to make this country safe for "Democracy," thereby insuring the colored man an equal opportunity with other races
+We were in the U. S., Service for six months, trying to make this country safe for "Democracy," thereby insuring the colored man an equal opportunity with other races Phone 229-Ring 3
 
-Phone 229-Ring 3
+Nollie
+Mme. C.
+and Scientific
+hair can have
+that condition
+beautiful Hair
+Name W
+lower. It is its
+persons will treat
+the scalp is
+use her met
+get your Scalp in
+wonderful Hair Co
+Salve, Temple
+Walker's Good
+e.
+NOLLIE GO
+
+ELECTRICI
+ears
+equipment
+less Servi
+Block S
+passenger
+stations
+right Hand
+
+passenger
+Louis, Spi
+Bloom
+diate por
+S TRACTION
+MCKINLEY
 
 ## Mme. Nollie Parks
 
@@ -600,120 +673,109 @@ Wonderful Hair Grower. It is positively guaranteed to grow hair, many persons wi
 
 Parlor Cars Sleeping Cars Standard Equipment Fast Express Service Automatic Block Signals Modern Passenger Coaches Passenger Stations Generally Loeated Heavy Freight Handled Between All Points Frequent passenger service between Peoria, St. Louis, Springfield, Decatur, Champaign, Bloomington, Danville, and intermediate points. ILLINOIS TRACTION SYSTEM
 
-Mme. Noll
-Agent for Mme.
-Hair preparations and Scientific woman who wants hair can help stubby or what condition
-Beautiful Madame
-Wonderful Hair Grower. It grows hair, many persons will grow hair where the scalp tetter. Let us use her and Dandruff Cure. Get your scalp or let us use the Wonderful Hair Shampoo, Tetter Salve, Tetter
-
-We use Mme. C. J. Walker's service you at any time.
-
-MME. NOLLIE
-
-A REAL ELECTRIC
-Parlor Cars
-Sleeping Cars
-Standard Equipment
-Fast Express Service
-Automatic Blocker
-Modern Passenger Station
-Heavy Freight Hair Points
-
-Frequent passenger, Peoria, St. Louis, Champaign, Blood and intermediate ILLINOIS TRAC
-
-(MCKINL
-
 In this issue appears an advertisement of the "Old Reliable" St. Louis Globe Democrat, to which we request your attention. The Globe-Democrat bases its claim for your subscription on its absolute fairness in printing the news in an unbiased uncolored way. There have been great and important additions to its news gathering facilities, both at home and abroad. There have also been added a number of new daily features. There is always
+
+M. J. MCGRARY, Manager.
 
 Hollie Parks
 name. C. J. walker's
-scientific Scalp Treatment. Every
+Scientific Scalp Treatment. Every
 man have it, no matter how short,
 condition the scalp. For long and
-soul Hair, Use
+Foul Hair, Use
 Walker's
 It is positively guaranteed to
 will tell you it is impossible to
 scalp is covered with dandruff or
 other method, the Tetter Salve.
-Our Scalp in a natural healthy condition
-ful Hair Grower and see the results.
-E, Temple Grower.
+Hair Scalp in a natural healthy condition
+Foul Hair Grower and see the results.
+Temple Grower.
 Glosine, Hair Grower.
-Her's Goods exclusively, will be glad to
-THE GORDON PARKS.
+Walker's Goods exclusively, will be glad to
+GORDON PARKS.
 
 ELECTRIC RAILWAY
 
 Equipment
 Service
 Stock Signals
-Singer Coaches
-ations Generally Located
+enger Coaches
+ions Generally Loeated
 Handled Between All
 
-Singer service between
-Is, Springfield, Decatur,
+enger service between
+is, Springfield, Decatur,
 Bloomington, Danville,
-state points.
+te points.
 
 TRACTION SYSTEM
-(NLEY LINES)
+(SINLEY LINES)
 
-tise-
-Louis
-quest
-operation
-tating
-ordered
-im-
-ering
-road.
-number
-ways
-
-a good continued story, news of the
-world in photographs, daily comic cartoons and many other regular features
-for men, women and children.
-For particulars we urge you to read the
-advertisement, and then send in your
-orders at once to the Globe Printing
-Co. Publishers St. Louis, Mo.
+a good continued story, news of the world in photographs, daily comic cartoons and many other regular features for men, women and children. For particulars we urge you to read the advertisement, and then send in your orders at once to the Globe Printing Co. Publishers St. Louis, 152.
 
 The Followers.
-We follow the fast-tags and the hall
-collectors follow us.—Globe News.
+
+We follow the fastness and the skill collectors follow us.—Globe News.
 
 ---
 ## Page 4
 
-A. W.
-FUNERAL DIRT
-COMPLETE
-All Calls Given
--- 2 Ex
-Kentucky Licenses No.
+McGraw
+M. J.
+
+McGrary's Undertaking
+M. J. MCCRAR
+Pearl St.
+
+A. W. Watkins Co.
+GENERAL DIRECTORS AND EMBALMERS
+COMPLETE MOTOR EQUIPMENT
+Vails Given Our Most Courteous Attention
+- 2 Expert Embalmers 2 -
+Excenses No. 625 and 1284, Illinois License
+es, 241 - Paducah, K.
+
+Maple and Fancy Groceries
+Dream and Confections on hand
+always to be served in the Latest Styles
+At
+S. T. A. DAVIDSO
+North St. Phone St. Clair, 727
+EAST ST. LUUIS, ILL.
+
+C. N. JOHNSON
+Delicatassen
+For Hot And Cold Lunches
+Dream And Soda Water
+Bridge 3421. 23.North 10th
+EAST ST. LOUIS, ILL.
+
+Office 901 Pearl St.
+
+A. W. Watt
+FUNERAL DIRECTORS
+COMPLETE MOTO
+All Calls Given Our Mo
+- - 2 Expert En
+Kentucky Licenses No. 625 and
 Both Phones, 241
 
-Staple and Ice Cream and
-always to be
+Staple and Fash
+Ice Cream and Con
+always to be served in
+At
 
-MRS. T.
-
+MRS. T. A.
 100 N. 11th St.
+EAST S
 
-C. N.
-De
-For Hot Ice Cream
-Phone Bell Bridge 3421
-
-PORC
-Scalp
-Mrs.
-
-268 Division Ave.
-
-Furnished Rooms
+C. N. JOHN
+Delicate
+For Hot And C
+Ice Cream And
+Phone Bell Bridge 3421.
+EAST
 
 FUNERAL DIRECTORS AND EMBALMERS
 COMPLETE MOTOR EQUIPMENT
@@ -735,12 +797,14 @@ EAST ST. LOUIS, ILL.
 
 ## Poro System
 
-Poro System
-Scientific and Sanitary Scalp and Hair Treatment
-Mrs. M. M. Johnson
-25 N. 10th St., - - EAST ST. LOUIS, ILL.
-
-Poro System Scientific and Sanitary Scalp and Hair Treatment Mrs. M. M. Johnson 25 N. 10th St., EAST ST. LOUIS, ILL.
+Scientific and Sanitary Sc
+Mrs. M. M.
+25 N. 10th St.,
+PORO S
+Scalp and Hair
+Mrs. Etta
+268 Division Ave.
+Furnished Rooms Cigars, Tob
 
 and Sanitary Scalp and Hair Treatment
 Mrs. M. M. Johnson
@@ -755,19 +819,40 @@ rooms Cigars, Tobacco Fruits and
 PORO SYSTEM Scalp and Hair Treatment Mrs. Etta Bates.
 
 GEO. ALLEN
-Pocket Billards,
+Pocket Billards.
 100 N. 21st St.
 EAST ST. LOUIS, ILL.
 
-EAGLE "MIKADO"
-For Sale at your Dealer
-ASK FOR THE Y
+EAGLE "MIKADO" Pencil N.
+For Sale at your Dealer Made in five
+ASK FOR THE YELLOW PENCH, WITH THE RED JAND
+EAGLE MIKADO
+EAGLE PENCIL COMPANY, NEW YORK
 
----
+Body Blow.
+A Maryland man slept with his twin by mistake, and is
+
+Explanations.
+It never does take a man explain when he is drunk or
+
+MIKADO" Pencil No.
+174 SEASON MIKADO NEW YORK
+Our Dealer Made in five
+K FOR THE YELLOW PENCH, WITH THE RED JAND
+EAGLE MIKADO
+ELE PENCIL COMPANY, NEW YORK
+Blow.
+on eiped with his
+hy mistake, and is
+Explanations.
+It never does take a ma-
+ry explain when he investigs our
 
 In times of family stress unusual problems often arise where those in charge require unusual service that can be promptly, efficiently rendered by our organization. We are equipped to meet all emergencies, of any kind pertaining to our profession
 
 We honor calls from any part of Metropolis, or the county. Consult us, we can save you Worry, Time and Money.
+
+METROPOLIS WEEKLY GAZETTE. METROPOLIS. ILL.
 
 ## SERVICE IS IMPORTANT
 
@@ -811,8 +896,9 @@ Success will make you. hair soft, no matter how stubby and long, no matter how s
 
 ## Satisfaction or money Refunded
 
-Satisfaction or money Refunded
-Agents wanted. For full particulars write Madam A. C. Bolden, 406 N, 17, St.
+hand Agents want ticulars write M den, 406 N, 17 Murphysbe OSON
+
+Agents wanted. For full particulars write Madam A. C. Bolden, 406 N, 17. St.
 Murphysboro, Ill.
 
 ## List of Officers of the Mt. Olive Baptist Dist. S. S. Institute for 1920-21
@@ -866,15 +952,20 @@ Agent, Metropolis, III.
 
 ## Walker's Indigestian Cure.
 
-Walker's Indigestian Cure.
-Rev. J. B. McCrary is agent for
-Dr. Walker's Sure cure for Indigestion and Dyspepsia. 50c and
-$1.00 bottles. $1.10 by mail.
-We can obviously recommend it.
+YORK
+ations.
+like a man long to
+nightly or drinks he
+punches a man goes
+off with combinations
 
----
+Rev. J. B. M.
+Dr. Walker's S
+gestion and Dy
+$1.00 bottles.
+We can cheer
 
----
+Rev. J. B. McCrary is agent for Dr. Walker's Sure cure for Indigestion and Dyspepsia. 50c and $1.00 bottles. $1.10 by mail. We can cheerfully recommend it.
 
 Phone 364
 
@@ -882,9 +973,7 @@ Phone 364
 
 "Go West" Slogan Now Passe; Better Chance for Young Man in the Foreign Countries.
 
-Probably no saying of Horace Greeley, the bencon light of multitudes of three-quarters of a century ago, was more widely read, more generally followed, or longer remembered than his continually reiterated exhortation, "Young man, go West!"
-
-That, says the San Francisco Chronicle, was a satisfactory way of relieving what was then thought congestion of population in eastern communities, but it no longer answers the purpose. Today the place for the enterprising young man to look for is in some undeveloped foreign country. It will be a new thought to most of us that the time has come when we must consider emigration as well as immigration—that there are lands of opportunity other than our own.
+Probably no saying of Horace Greeley, the beacon light of multitudes of three-quarters of a century ago, was more widely read, more generally followed, or longer remembered than his continually reiterated exhortation, "Young man, go West!" That, says the San Francisco Chronicle, was a satisfactory way of relieving what was then thought congestion of population in eastern communities, but it no longer answers the purpose. Today the place for the entertising young man to look for is in some undeveloped foreign country. It will be a new thought to most of us that the time has come when we must consider emigration as well as immigration—that there are lands of opportunity other than our own.
 
 This was emphasized recently by Frank D. Waterman, a name well known to those who do not habitually use a typewriter, with special reference to the centenary celebration which begins at Rio Janeiro, Brazil, next September. It has become a necessity with us, as it has long been with overpopulated Europe, to seek outlets in foreign countries for the surplus products of our workers. The one way to do it is by commercial missionaries going to foreign countries while still forming their minds and staying there. That is the way Europe has built up trade in undeveloped countries. That is the way we must adopt if we expect to successfully compete with those countries.
 
@@ -925,25 +1014,24 @@ You can now subscribe for the good old St. Louis Globe-Democrat by mail at the f
 
 These prices are now back to normal and as low as formerly, considering that approximately $2.00 more per yearly subscription is paid the government for postage than a few years ago. This, of course, is not within the control of any newspaper.
 
-## Special Club-Raisers' Rates
+Special Club-Raisers' Rates
 
-As in former years, the Globe-Democrat is making a special club-raisers' rate, reduced from the regular rates when three or more, yearly subscriptions, by mail are sent at one time. The club raisers' rate now in force is $15.75 net for a club of three yearly subscriptions to the Daily (only) Globe-Democrat, or $23.25 for a club of three yearly Daily and Sunday Globe-Democrat subscriptions. This reduces the price to each club member to $5.25 for Daily and $7.75 for the Daily and Sunday Globe-Democrat. More than three subscriptions can be included in a club, at the same club raisres' rates.
+As in former years, the Globe-Democrat is making a special club-raisers' rate, reduced from the regular rates when three or more, yearly subscriptions, by mail are sent at one time. The club raisers' rate now in force is $15.75 net for a club of three yearly subscriptions to the Daily (only) Globe-Democrat, or $23.25 for a club of three yearly Daily and Sunday Globe-Democrat subscriptions. This reduces the price to each club member to $5.25 for Daily and $7.75 for the Daily and Sunday Globe-Democrat. More than three subscriptions can be included in a club, at the same club raisers' rates.
+
+Not a Reduction in Quality
+
+The price reduction does not mean that either the quantity or quality that Globe Democrat readers have grown accustomed to will be reduced. Regular readers will continue to enjoy and benefit by the same extensive up-to-the last-minute news service, the same accurate complete market and financial reports, the same editorial page, renowned and quoted all over the world and the same vast store of unequal features that have placed the Globe-Democrat among the leading newspapers in the universe.
+
+THE GLOBE PRINTING CO., Publishers St. Louis, MO.
+
+# OUR JOB OFFICE
+
+## Pay your Subscriptions to The Gazette Please.
+
+## Special Club-Raisers' Rates
 
 former years, the Globe-Democrat raisers' rate, reduced from the regular ore, yearly subscriptions, by mail's club raisers' rate now in force is $4 fewer yearly subscriptions to the Daily. $23.25 for a club of three yearly D Democrat subscriptions. This reduce to member to $5.25 for Daily and Sunday Globe-Democrat. More than can be included in a club, at the same
 
 ## Not a Reduction in Quality
 
-The price reduction does not mean that either the quantity or quality that Globe Democrat readers have grown accustomed to will be reduced. Regular readers will continue to enjoy and benefit by the same extensive up-to-the last-minute news service, the same accurate complete market and financial reports, the same editorial page, renowned and quoted all over the world and the same vast store of unequal features that have placed the Globe-Democrat among the leading newspapers in the universe.
-
-THE GLOBE PRINTING CO., Publishers
-St. Louis, MO.
-
-# OUR JOB OFFICE
-
-We have had over 23 years of Active Experience in the printing office and will give you the benefit of same just for the asking on that next job of yours. "Let Us Show You."
-
-We give courteous attention to all inquiries and your patronage is earnestly solicited. Out of town work done promptly.
-
-100 Negro Boys and Girls Wanted as Reporters and Agents for The Gazatte. The largest and the best Selling Negao Newspaper in Southern Illinois. Agents wanted in every town and village. Liberal Commission. Keep own commission before sending to company. Write for particulars if interssted. MRS. M. J. McCRARY, Manager, 903 Pearl St., Metropolis. Ill
-
-## Pay your Subscriptions to The Gazette Please.
+Page Four

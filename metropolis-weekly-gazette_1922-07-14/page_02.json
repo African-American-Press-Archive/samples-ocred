@@ -3,6 +3,17 @@
   "image": "images/page_02.jpg",
   "width": 1904,
   "height": 2800,
+  "processed_at": "2026-03-07T12:18:07.158247+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 89,
+    "after_merge": 46
+  },
   "regions": [
     {
       "bbox": [
@@ -12,17 +23,41 @@
         161
       ],
       "label": "paragraph_title",
-      "text": "Metropolis Gazette"
+      "text": "Metropolis Gazette",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        88,
+        168,
+        367,
+        267
+      ],
+      "label": "text",
+      "text": "PUBLISHED ON FRIDAY BY THE GAZETTE PRINTING CO. METROPOLIS, ILL. MRS. M. J. McCRARY, MANAGER",
+      "status": "ok"
     },
     {
       "bbox": [
         83,
-        168,
+        267,
         375,
+        905
+      ],
+      "label": "text",
+      "text": "O. L. B. McCRAY, EDITOR\nEDGAR MCCRARY\nASS'T. EDITOR\n\nFRIDAY JULY 14, 1922.\n\nOffice 9th and Pearl Streets, Metropolis, Illinois.\n\nEnatered as second-class mail mat at Metropolis, Illinois, Postoffice.\n\nAddress all communications to J. B. McCRAY, 903 Pearl St. Metropolis, Ill.\n\nThe names and addresses of contributors must be known to us in every instance, in order to secure publication.\n\nWe want the news of your vicinity week.\n\nTERMS OF SUBSCRIPTION:\n\nOne Year.....$2.00\nSix Months.....1.00\nThree Months.....50\nSingle Copy.....05\nIn Advance.\n\nDVERTISING RATES.\nmade known on application.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        92,
+        905,
+        374,
         948
       ],
       "label": "text",
-      "text": "PUBLISHED ON FRIDAY BY\nTHE GAZETTE PRINTING CO.\nMETROPOLIS, . . . . . ILL.\nMRS. M. J. McCRARY, MANAGER.\nO. LB. McCRARY, EDITOR\nEDGAR MCCRARY\nASS'T. EDITOR\n\nFRIDAY JULY 14, 1922\n\nOffice 9th and Pearl Streets, Metropolis, Illinois.\n\nEnwatered as second-class mail mat at Metropolis, Illinois, Postoffice.\n\nAddress all communications to J. B. McAby, 903 Pearl St. Metropolis, Ill.\n\nThe names and addresses of contributors must be known to us in every instance, in order to secure publication.\n\nWe want the news of your vicinity week.\n\nTERMS OF SUBSCRIPTION:\n\nOne Year.....$2.00\nSix Months.....1.00\nThree Months.....50\nSingle Copy....05\nIn Advance.\n\nDVERTISING RATES.\nmade known on application.\n\nYou must mail copy on Mondays to secure publication."
+      "text": "You must mail copy on Mondays to secure publication.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,27 +67,19 @@
         1033
       ],
       "label": "paragraph_title",
-      "text": "MRS. ELIZABETH C. ALSTON Notary Public"
-    },
-    {
-      "bbox": [
-        89,
-        1036,
-        375,
-        1167
-      ],
-      "label": "text",
-      "text": "When you have business of this kind call to see me, will take care of it for you.\n\nOffice 317 W. 8th St..\n\nMetropolis, Ill."
+      "text": "MRS. ELIZABETH C. ALSTON Notary Public",
+      "status": "ok"
     },
     {
       "bbox": [
         88,
-        1144,
-        374,
+        1036,
+        375,
         1566
       ],
       "label": "text",
-      "text": "Metropolis, Ill.\n\nWe met Dr. Thos. H. Harris, of Princeton, who is the manufacturer of the best medicines for Indigestion, kidney, liver and bladder trouble, also rheumatism and the blood. This medicine has only one year but is eclipsing every other medicine now on the market Contains no poisons nor alcohol, as it is compounded from herbs. Retails at $1. and $1.25 per bottle. Use it and be cured. Mrs. M. J. McCrary, Agent, 903 Pearl St., Metropolis, Ill."
+      "text": "When you have business of this kind call to see me, will take care of it for you.\n\nOffice 317 W. 8th St.,\nMetropolis, Ill.\n\nWe met Dr. Thos. H. Harris,\nof Princeton, who is the manufacturer of the best medicines for Indigestion, kidney, liver and bladder trouble, also rheumatism and the blood. This medicine has only one year but is eclipsing every other medicine now on the market. Contains no poisons nor alcohol, as it is compounded from herbs. Retails at $1. and $1.25 per bottle. Use it and be cured. Mrs.\nM. J. McCrary, Agent, 903 Pearl St., Metropolis, Ill.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +89,8 @@
         1612
       ],
       "label": "paragraph_title",
-      "text": "Time Table of C. B. & O."
+      "text": "Time Table of C. B. & O.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +100,8 @@
         1825
       ],
       "label": "text",
-      "text": "Train No. 71 going North will leave Metropolis 6:15 P. M. instead of 5:15. No 72 going South will leave Metropolis 8:55 A. M.\n\nJ. B. Draper. Agt.\n\nWill Adams is still in the hospital and is said to be improving."
+      "text": "Train No. 71 going North will leave Metropolis 6:15 P. M. instead of 5:15. No 72 going South will leave Metropolis 8:55 A. M.\n\nJ. B. Draper. Agt.\n\nWill Adams is still in the hospital and is said to be improving.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +111,8 @@
         1901
       ],
       "label": "paragraph_title",
-      "text": "Officers of Mt. Olive Baptist S. Sn Conveuention for 1922"
+      "text": "Officers of Mt. Olive Baptist S. Sn Conveuention for 1922",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +122,8 @@
         2001
       ],
       "label": "text",
-      "text": "Pres. M. Duncan, Colp\nRecording Sec. Marie Humble\nCentralia"
+      "text": "Pres. M. Duncan, Colp\nRecording Sec. Marie Humble\nCentralia",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +133,8 @@
         2291
       ],
       "label": "text",
-      "text": "Supt. of Cradle Roll, W. D\nParran, Carbondale.\n\nOfficers of the B. Y, P. U.\nPres. Rev. John Bruen, Mt\nVernon\n1st Vice Pres., Bessie Bryant\nSparta\n2nd Vice Pres. Lola Autry\nCarbondale"
+      "text": "Supt. of Cradle Roll, W. D\nParran, Carbondale.\n\nOfficers of the B. Y, P. U.\nPres. Rev. John Bruen, Mt\nVernon\n1st Vice Pres., Bessie Bryant\nSparta\n2nd Vice Pres. Lola Autry\nCarbondale",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +144,8 @@
         2542
       ],
       "label": "text",
-      "text": "Rec. Sec. Allineal Humble,\nCentralia\nCor: Sec. Lois Mason, Centralia\nTreas. Rev. C. W. Norment,\nMounds\nMissionary, Rev. R. S. Anderson;\nCentralia\nAdded Members, Bro. Arthur\nBell, Sparta"
+      "text": "Rec. Sec. Allineal Humble,\nCentralia\nCor: Sec. Lois Mason, Centralia\nTreas. Rev. C. W. Norment,\nMounds\nMissionary, Rev. R. S. Anderson;\nCentralia\nAdded Members, Bro. Arthur\nBell, Sparta",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +155,8 @@
         2780
       ],
       "label": "text",
-      "text": "Praise ye the Lord."
+      "text": "Praise ye the Lord.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +166,8 @@
         577
       ],
       "label": "text",
-      "text": "To insure publication all correspondence should reach this office not later than Tuesday morning. The editor.\n\nIf you want your articles to appear in The Gazette, each week you must mail out on Monday, or they will appear the following week. Promptness is our Moto-Editor."
+      "text": "To insure publication all correspondence should reach this office not later than Tuesday morning. The editor.\n\nIf you want your articles to appear in The Gazette, each week you must mail out on Monday, or they will appear the following week. Promptness is our Moto-Editor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,17 +177,41 @@
         672
       ],
       "label": "paragraph_title",
-      "text": "Garden Seed For Free Distribution"
+      "text": "Garden Seed For Free Distribution",
+      "status": "ok"
     },
     {
       "bbox": [
-        375,
+        380,
         703,
         664,
+        1168
+      ],
+      "label": "text",
+      "text": "The office of The Gazette has received a mail pouch of garden seed for free distribution. Seed are sent out every year from the Agricultural department at Washington, D. C. This year Congressman Thos. S. Williams, sent them direct to this office for distribution. Call and get them.\n\nBaby Chicks. Barred Rocks, Reds 10c ea.; White Rocks, Wyan. 11c ea.; Buff Orp. 12c ea.; Leghorns 9c ea.\nFARROW-HIRSH CO., Peoria, Ill.\n\nRegular services will be held at Unity Baptist church, Brookport, Sunday.\n\nRev. Thos. Harmon is on the sick list this week.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        387,
+        1235,
+        657,
+        1821
+      ],
+      "label": "text",
+      "text": "Take a box with you\n\nIf you have headache, backache, toothache, neuralgia, rheumatism, sciatica, you'll be surprised at the quick relief\n\nDr. Miles' Anti-Pain Pills will give you",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        388,
+        1825,
+        650,
         1936
       ],
       "label": "text",
-      "text": "The office of The Gazette has received a mail pouch of garden seed for free distribution. Seed are sent out every year from the Agricultural department at Washington, D. C. This year Congressman Thos. S. Williams, sent them direct to this office for distribution. Call and get them.\n\nBaby Chicks. Barred Rocks, Reds 10c ea.; White Rocks, Wyan. 11c ea.; Buff Orp. 12c ea.; Leghorns 9c ea.\nFARROW-HIRSH CO., Peoria, Ill.\n\nRegular services will be held at Unity Baptist church, Brookport, Sunday.\n\nRev. Thos. Harmon is on the sick list this week.\n\nPay Your Subscriptions.\n\nTake a box with you\n\nIf you have headache, backache, toothache, neuralgia, rheumatism, sciatica, you'll be surprised at the quick relief\n\nDr. Miles' Anti-Pain Pills will give you.\n\nA package of these pills in your pocket or in your shopping bag may save you hours of suffering.\n\nBuy them of your Druggist."
+      "text": "A package of these pills in your pocket or in your shopping bag may save you hours of suffering. Buy them of your Druggist.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,37 +221,30 @@
         2027
       ],
       "label": "paragraph_title",
-      "text": "Walter Roberts, Solicitor Master in Chancery Sale"
-    },
-    {
-      "bbox": [
-        430,
-        1983,
-        608,
-        2003
-      ],
-      "label": "paragraph_title",
-      "text": "Walter Roberts, Solicitor"
-    },
-    {
-      "bbox": [
-        378,
-        2039,
-        660,
-        2172
-      ],
-      "label": "text",
-      "text": "State of Illinois, Massac County, SS.\nIn the Circuit Court of said County,\nApril Term A. D. 1922.\nAmelia Armstrong Vs. Anderson\nBryant and Nina Bryant, Bill in\nChancery to foreclose mortgage No.\n1062."
+      "text": "Walter Roberts, Solicitor Master in Chancery Sale",
+      "status": "ok"
     },
     {
       "bbox": [
         375,
         2039,
-        664,
-        2780
+        661,
+        2616
       ],
       "label": "text",
-      "text": "State of Illinois, Massac County, SS.-\nIn the Circuit Court of said County,\nApril Term A. D. 1922.\nAmelia Armstrong Vs. Anderson Bryant and Nina Bryant, Bill in Chancery to foreclose mortgage No. 1062.\nPublic notice is hereby given that in pursuance of a decree entered at the April term of said Court, to-wit) on the 13th day of April A. D. 1922 in the above entitled cause, I, S. Bartlett Kerr, Master in Chancery of ssid County, will at the hour of 11 o'clock A. M. Saturday July 29th A. D. 1922 at the Court House in the City of Metropolis, County of Massac and State of Illinois, sell at public vendue to the highest and best bidder the following described real estate to-wit:-\n\nThe North Half of the Southwest fourth of the Sounheast quarter of section numbered Eleven (11) of Township Sixteen (16) South of Range Five (5) east, 3rd P. M. Massac County, Illinois.\n\nTerms of Sale, Cash in hand.\nDated this 1st day of July A. D. 1922.\n\nS. Bartlett Kerr,\nMaster in Chancery."
+      "text": "State of Illinois, Massac County, SS.. In the Circuit Court of said County, April Term A. D. 1922. Amelia Armstrong Vs. Anderson Bryant and Nina Bryant, Bill in Chancery to foreclose mortgage No. 1062. Public notice is hereby given that in pursuance of a decree entered at the April term of said Court, to-wit) on the 13th day of April A. D. 1922 in the above entitled cause, I, S. Bartlett Kerr, Master in Chancery of ssid County, will at the hour of 11 o'clock A. M. Saturday July 29th A. D. 1922 at the Court House in the City of Metropolis, County of Massac and State of Illinois, sell at public vendue to the highest and best bidder the following described real estate to-wit-.\n\nThe North Half of the Southwest fourth of the Souneheat quarter of section numhered Eleven (11) of Township Sixteen (16) South of Range Five (5) east, 3rd P. M. Massac County, Illinois.\n\nTerms of Sale, Cash in hand.\n\nDated this 1st day of July A. D. 1922.\n\nS. Bartlett Kerr, Master in Chancery.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        667,
+        70,
+        1212,
+        89
+      ],
+      "label": "text",
+      "text": "METROPOLIS WEEKLY GAZETTE, METROPOLIS, ILL",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,17 +254,30 @@
         351
       ],
       "label": "paragraph_title",
-      "text": "Cartarrhal Deafness Cannot Be Cured"
+      "text": "Cartarrhal Deafness Cannot Be Cured",
+      "status": "ok"
     },
     {
       "bbox": [
         671,
         359,
+        953,
+        836
+      ],
+      "label": "text",
+      "text": "by local applications, as they cannot reach the diseased portion of the ear. There is only one way to cure cartarrhaj deafness, and that is by a constitutional remedy. Catarrhal Deafness is caused by an inflamed condition of the mucous lining of the Eustachian Tubes When this tube inflamed you have a rumbling sound or imperfect hearing, and when it is entirely closed, Deafness is the result. Unless the inflammation can be reduced and this tube to its normal condition, hearing will be destroyed forever. Many cases of deafness are caused by catarrh, which is an inflamed condition of the mucous surfaces. Hall's Catarrrh Medicine acts thru the blood on the mucous surfaces of the system.\n\nWe will give One Hundred Dollars for any case of Catarrrah Peafness that cannot be cured by Hall's Catarrrh Medicine. Circulars free. All Druggists, 75c.\n\nF. J. Cheney & Co., Toledo, O. By Associated Negro Press.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        672,
+        863,
         957,
         1272
       ],
       "label": "text",
-      "text": "by local applications, as they cannot reach the diseased portion of the ear. There is only one way to cure cartarrah deafness, and that is by a constitutional remedy. Catarrhal Deafness is caused by an inflamed condition of the mucous lining of the Eustachian Tubes When this tube inflamed you have a rumbling sound or imperfect hearing, and when it is entirely closed, Deafness is the result. Unless the inflammation can be reduced and this tube to its normal condition, hearing will be destroyed forever. Many cases of deafness are caused by catarrh, which is an inflamed condition of the mucous surfaces. Hall's Catarrh Medicine acts thru the blood on the mucous surfaces of the system.\n\nWe will give One Hundred Dollars for any case of Catarrrah Peafness that cannot be cured by Hall's Catarrh Medicine, Circulars free. All Druggists, 75c.\n\nF. J. Cheney & Co., Toledo, O. By Associated Negro Press.\n\nFARM WANTED-Wanted to hear from owner of a farm for sale, give lowest price, and full particulars. L. Jones, Box. 551, Olney, Ill.\n\nCorrection\u2014in the article last week giving the amount of money reported to E. Mt. Olive Association in letters for the Old Ministers' Home as $9 00, it should have read $19 00.\n\nThe Grand chapter of Eastern Star will hold its annual session in Cairo this year. A number of the sisters are planning to attend."
+      "text": "FARM WANTED-Wanted to hear from owner of a farm for sale, give lowest price, and full particulars. L. Jones, Box. 551, Olney, Ill.\n\nCorrection\u2014in the article last week giving the amount of money reported to E. Mt. Olive Association in letters for the Old Ministers' Home as $9 00, it should have read $19 00.\n\nThe Grand chapter of Eastern Star will hold its annual session in Cairo this year. A number of the sisters are planning to attend.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +287,8 @@
         1323
       ],
       "label": "paragraph_title",
-      "text": "ADVERTISEMENT"
+      "text": "ADVERTISEMENT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,17 +298,41 @@
         1474
       ],
       "label": "paragraph_title",
-      "text": "TO ALL ILLINOIS CENTRAL SYSTEM SHOPMEN:"
+      "text": "TO ALL ILLINOIS CENTRAL SYSTEM SHOPMEN:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        674,
+        1491,
+        1235,
+        1829
+      ],
+      "label": "text",
+      "text": "On June 14 I addressed a communication to you in which I appealed to you to cast your vote against the proposed strike. Since that time the strike has been called by your leaders, and some of you have left your positions, while others have remitted steadfast. I feel that the time has arrived when I should make clear to those of you who have left your positions, as well as those of you who have remained the proposition of the Illinois Central System with reference to this entire matter.\n\nIn my letter to you of June 14th I enumerated the three things which your leaders proposed to have you strike against: namely, (1) contracting of shop plants to outsiders, (2) the order of the United States Railroad Labor Board relating to rules and working conditions, and (3) the order of the United States Railroad Labor Board establishing rates of pay effective July 1.",
+      "status": "ok"
     },
     {
       "bbox": [
         672,
-        1491,
-        1235,
+        1841,
+        1232,
+        2355
+      ],
+      "label": "text",
+      "text": "The question of contracting shops to outsiders is not a part of the controversy so far as you and the management of the Illinois Central System are concerned, because this railroad system has not contracted any of its shops to outsiders. The questions involved in the matter of rules and working conditions and the order establishing rates of pay effective July 1 are the only ones at issue. They are not questions between you and the Illinois Central System management. They were decided by the United State Railroad Labor Board and those of you who are out on strike are striking against lawful decisions of a branch of the United States government.\n\nIt goes without saying that the public welfare cannot permit the revocation of a decision of a governmental agency under a threat of the use of force. No patriotic citizen would expect such a thing to be done, or would have it done. We believe that we have the best government in the world, but you will all agree with me that it would not so remain if its institutions could be overridden and set aside in the manner sought by those who are contending against the lawful decisions of the United States Railroad Labor Board.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        672,
+        2370,
+        1232,
         2619
       ],
       "label": "text",
-      "text": "On June 14 I addressed a communication to you in which I appealed to, you to cast your vote against the proposed strike. Since that time the strike has been called by your leaders, and some of you have left your positions, while others have remitted steadfast. I feel that the time has arrived when I should make clear to those of you who have left your positions, as well as those of you who have remained the proposition of the Illinois Central System with reference to this entire matter.\n\nIn my letter to you of June 14th I enumerated the three things which your leaders proposed to have you strike against: namely, (1) contracting of shop plants to outsiders, (2) the order of the United States Railroad Labor Board relating to rules and working conditions, and (3) the order of the United States Railroad Labor Board establishing rates of pay effective July 1.\n\nThe question of contracting shops to outsiders is not a part of the controversy so far as you and the management of the Illinois Central System are concerned, because this railroad system has not contracted any of its shops to outsiders. The questions involved in the matter of rules and working conditions and the order establishing rates of pay effective July 1 are the only ones at issue. They are not questions between you and the Illinois Central System management. They were decided by the United State Railroad Labor Board and those of you who are out on strike are striking against lawful decisions of a branch of the United States government.\n\nIt goes without saying that the public welfare cannot permit the revocation of a decision of a governmental agency under a threat of the use of force. No patriotic citizen would expect such a thing to be done, or would have it done. We believe that we have the best government in the world, but you will all agree with me that it would not so remain if its institutions could be overridden and set aside in the manner sought by those who are contending against the lawful decisions of the United States Railroad Labor Board.\n\nThe management of the Illinois Central System believes that those of you who are out on strike have been misled. It bears no feeling of hostility toward those who left its service. To those who have remained loyal it acknowledges a debt of gratitude. It feels that it has a valuable asset in its old employes, and it is eager to hold them together. It believes that, if those of you who are out will calmly analyze the issues upon which you are striking your better judgment will assert itself and you will return to your positions. I sincerely invite you to return. Moreover, I earnestly advise you to pursue that course."
+      "text": "The management of the Illinois Central System believes that those of you who are out on strike have been misled. It bears no feeling of hostility toward those who left its service. To those who have remained loyal it acknowledges a debt of gratitude. It feels that it has a valuable asset in its old employees, and it is eager to hold them together. It believes that, if those of you who are out will calmly analyze the issues upon which you are striking your better judgment will assert itself and you will return to your positions. I sincerely invite you to return. Moreover, I earnestly advise you to pursue that course.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,17 +342,30 @@
         1374
       ],
       "label": "paragraph_title",
-      "text": "ILLINOIS CENTRAL RAILROAD COMPANY"
+      "text": "ILLINOIS CENTRAL RAILROAD COMPANY",
+      "status": "ok"
     },
     {
       "bbox": [
         959,
         119,
+        1242,
+        672
+      ],
+      "label": "text",
+      "text": "Mrs. Lizzie Lassiter, of Belgrade, is still very weak.\n\nBro. C. D. Lassiter of Belgrade brought to this office seven of his choice apples of the Early Harvest. They were the finest we've seen anywhere this year, Thanks Brother for the fruit.\n\nRev. J. B. McCrary, leaves on the 21st July, for Quincy, where he has been invited to supply the pulpit at 8th and Efm St. Baptist church, for Dr. B. N. Murrell, pastor, for two weeks. Arrangements have been made to fill the pulpits during his stay in Quincy, week for H. B. Stone, Canton, Mo. ; Rev. Laws, Palmyra, Mo. ; Rev. Howard, Lagrange, Mo. On our return home we inted to visit Springfield, Ill., East St. Louis, and St. Louis, Mo.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        961,
+        695,
         1244,
         1270
       ],
       "label": "text",
-      "text": "Mrs. Lizzie Lassiter, of Belgrade, is still very weak.\n\nBro. C. D. Lassiter of Belgrade brought to this office seven of his choice apples of the Early Harvest. They were the finest we've seen anywhere this year, Thanks Brother for the fruit.\n\nRev. J. B. McCrary, leaves on the 21st July, for Quincy, where he has been invited to supply the pulpit at 8th and Efm St. Baptist church, for Dr. B. N. Murrell, pastor, for two weeks. Arrangements have been made to fill the pulpits during his stay in Quincy, week for H. B. Stone, Canton, Mo.; Rev. Laws, Palmyra, Mo.; Rev. Howard, Lagrange, Mo. On our return home we intended to visit Springfield, Ill., East St. Louis, and St. Louis, Mo.\n\nWe certainly thank Dr. C. C. Phillips for the interest taken in the editor of the Gazette each time. We are reminded of the $15. set aside for this paper as a kind of appreciation for the work of the General Baptist State Association of Ill., but by some miscarriage of the rules and regulations governing the paying out the money we failed to get ours before it was all paid out. We placed the matter in the hands of Dr. Philsips, for adjustment and he has sent us $10.00 and he has been promised by Sec. Snowden to send the balance within 10 days. We hope he will do so as he made the same promise nearly 60 days ago. We thank you my dear good Doctor for all you have ever done for us. We had in our mind to say more when we wrote this article but refrain for the time"
+      "text": "We certainly thank Dr. C. C. Phillips for the interest taken in the editor of the Gazette each time. We are reminded of the $15. set aside for this paper as a kind of appreciation for the work of the General Baptist State Association of Ill., but by some miscarriage of the rules and regulations governing the paying out the money we failed to get ours before it was all paid out. We placed the matter in the hands of Dr. Philsils, for adjustnment and he has sent us $10.00 and he has been promised by Sec. Snowden to send the balance within 10 days. We hope he will do so as he made the same promise nearly 60 days ago. We thank you my dear good Doctor for all you have ever done for us. We had in our mind to say more when we wrote this article but refrain for the time",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +375,8 @@
         1437
       ],
       "label": "text",
-      "text": "CHICAGO, ILLINOIS, July 10, 1922."
+      "text": "CHICAGO, ILLINOIS, July 10, 1922.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +386,8 @@
         237
       ],
       "label": "text",
-      "text": "being at least. There are times when patience ceases to be a virtue and we have almost reached that point with some things and some people."
+      "text": "being at least. There are times when patience ceases to be a virtue and we have almost reached that point with some things and some people.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,17 +397,30 @@
         307
       ],
       "label": "paragraph_title",
-      "text": "Notice of Change of Policy of this Paper Regarding Writ-Ups, Etc."
+      "text": "Notice of Change of Policy of this Paper Regarding Writ-Ups, Etc.",
+      "status": "ok"
     },
     {
       "bbox": [
         1248,
         337,
+        1534,
+        736
+      ],
+      "label": "text",
+      "text": "Notice is hereby given by the manager of this paper, that beginning with August 1st there will be a charge on all matter sent here for publication except purely news.\n\nAll papers, Obituaries, Programs, Resolutions Essays, Sermons, Personal Write-ups, etc.\n\nThere will be a charge of $1 00 for the above named for 15 lines and all articles containing more than 15 type lines 100 will be charged for every additional line.\n\nThis does not apply to news of the churches.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1250,
+        743,
         1536,
         1278
       ],
       "label": "text",
-      "text": "Notice is hereby given by the manager of this paper, that beginning with August 1st there will be a charge on all matter sent here for publication except purely news.\n\nAll papers, Obituaries, Programs, Resolutions Essays, Sermons, Personal Write-ups, etc.\n\nThere will be a charge of $1.00 for the above named for 15 lines and all articles containing more than 15 type lines 10c will be charged for every additional line.\n\nThis does not apply to news of the churches.\n\nWe are compelled to do this for financial protection. Our more than 23 years of experience in the newspaper world has taught us that we have been giving away hundaeds of dollrrs annually paying for setting type for such things in which the general public is not interested in, and most of the time the persons writing are not subscribers and not interested in and have no Race pride or Race Loyalty, they make long and loud speeches to the galleries, preach great sermons and write fine papers on patronizing Race enterprises and that is as far as it goes with them, as nine times out ten they give their job work what little they have, to other persons other than race papers and are withholding the support from the men who are fighting mob and"
+      "text": "We are compelled to do this for financial protection. Our more than 23 years of experience in the newspaper world has taught us that we have been giving away hundaeds of dollrrs annually paying for setting type for such things in which the general public is not interested in, and most of the time the persons writing are not subscribers and not interested in and have no Race pride on Race Loyalty, they make long and loud speeches to the galleries, preach great sermons and write fine papers on patronizing Race enterprises and that is as far as it goes with them, as nine times out ten they give their job work what little they have, to other persons other than race papers and are withholding the support from the men who are fighting,mob and",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +430,8 @@
         1329
       ],
       "label": "text",
-      "text": "ADVERTISEMENT"
+      "text": "ADVERTISEMENT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,27 +441,52 @@
         1859
       ],
       "label": "text",
-      "text": "Those who report for duty not later that 11:59 p. m., Monday, July 17, 1922, may do so with the resumption of full seniority and pension rgihts and will be treated as if their services had been continuous. Those returning after that time, if accepted will rank as new employes.\n\nI trust that those of you who are out will consider this matter seriously and that your action, whatever it may be, will turn out to be for your own best interests, as well as the best interests of your families and those dependent upon you for a living.\n\nI ask those of you who are striking to bear in mind that you accepted the decisions of the United States Railroad Labor Board when they were favorable to you, and that the Illinois Central System accepted those decisions which were unfavorable to it. Let me also again remind you that since December, 1917, you have received three general increases in wages and that your hourly rates of wages in effect at present, as fixed by the United States Railroad Labor Board, are from 40 to 113 per cent higher than in 1917 as follows."
+      "text": "Those who report for duty not later that 11:59 p. m., Monday, July 17, 1922, may do so with the resumption of full seniority and pension rgihts and will be treated as if their services had been continuous. Those returning after that time, if accepted will rank as new employes.\n\nI trust that those of you who are out will consider this matter seriously and that your action, whatever it may be, will turn out to be for your own best interests, as well as the best interests of your families and those dependent upon you for a living.\n\nI ask those of you who are striking to bear in mind that you accepted the decisions of the United States Railroad Labor Board when they were favorable to you, and that the Illinois Central System accepted those decisions which were unfavorable to it. Let me also again remind you that since December, 1917, you have received three general increases in wages and that your hourly rates of wages in effect at present, as fixed by the United States Railroad Labor Board, are from 40 to 113 per cent higher than in 1917 as follows.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1256,
-        2025,
-        1821,
+        1250,
+        1866,
+        1827,
+        2465
+      ],
+      "label": "text",
+      "text": "Machinists, boiler-\nmakers, blacksmiths 70c 50c 40 per cent\nHelpers, various classes 47c 29\u00bd to 32\u00bdc 45 to 59 ppr cent\nCoach Carpenters 70c 40c 75c per cent\nFreight car carpenters 63c 35\u00bdc 77 per cent\nCar repairmen 63c 29\u00bdc 113 per cent\n\nUpon reflection, I believe that you will be broad-minded enough to accept the recent decisions of the United States Railroad Labor Board which you consider unfavorable. A long-drawn-out contest would mean losses and suffering not only for you and your families but also for the public. We should all recognize that the public interest always rises above the interests of the railroad or of its employes.\n\nNone of us is fortunate enough to have issues affecting his life always decided in his favor. The principle of \"rule or ruin\" invariably has led t odisaster. It can have no other ending. The wisdom of the principles of \"give and take\" and \"live and let live\" have been fully demonstrated. Those are the principles upon which we desire to conduct this railway system for the benefit of the public, the employes and the owners.\n\nThe management of the Illinois Central System is under obligations to serve the public with uninterrupted transportation and under any conditions which may arise it must faithfully discharge that obligation.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1257,
+        2470,
+        1814,
         2562
       ],
       "label": "text",
-      "text": "Upon reflection, I believe that you will be broad-minded enough to accept the recent decisions of the United States Railroad Labor Board which you consider unfavorable. A long-drawn-out contest would mean losses and suffering not only for you and your families but also for the public. We should all recognize that the public interest always rises above the interests of the railroad or of its employes.\n\nNone of us is fortunate enough to have issues affecting his life always decided in his favor. The principle of \"rule or ruin\" invariably has led t odisaster. It can have no other ending. The wisdom of the principles of \"give and take\" and \"live and let live\" have been fully demonstrated. Those are the principles upon which we desire to conduct this railway system for the benefit of the public, the employes and the owners.\n\nThe management of the Illinois Central System is under obligations to serve the public with uninterrupted transportation and under any conditions which may arise it must faithfully-discharge that obligation.\n\nI ask that you accept this letter in that same friendly spirit in which I address you, free from many feeling of hostility or censure for anything that has been said or done in regard to this unhappy affair."
+      "text": "I ask that you accept this letter in that same friendly spirit in which I address you, free from many feeling of hostility or censure for anything that has been said or done in regard to this unhappy affair.",
+      "status": "ok"
     },
     {
       "bbox": [
         1537,
         119,
+        1823,
+        704
+      ],
+      "label": "text",
+      "text": "lynch law and the many other inequalities and evils which contaminate the race fifty two weeks in the year,\" while these would be race lovers find excuses in giving their work to others claiming they are too high priced or the work is inferior to others, when at the same time these same papers that they refuse to let do theirs are doing work for Negroes who do not pose as Race leaders, and too, these same race papers are doing job work for some of best business firms and individuals of the white race. The papers are great so long as they boost this class of individuals for naught and let him help the fellow who does not need his financial assistance. There seems too much racial jealousy and envy among the majority of our great leaders and that accounts for slow progress along race enterprises.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1542,
+        708,
         1827,
         1058
       ],
       "label": "text",
-      "text": "lynch law and the many other inequalities and evils which contaminate the race fifty two weeks in the year, while these would be race lovers find excuses in giving their work to others claiming they are too high priced or the work is inferior to others, when at the same time these same papers that they refuse to let do theirs are doing work for Negroes who do not pose as Race leaders, and too, these same race papers are doing job work for some of best business firms and individuals of the white race. The papers are great so long as they boost this class of individuals for naught and let him help the fellow who does not need his financial assistance. There seems too much racial jealousy and envy among the majority of our great leaders and that accounts for slow progress along race enterprises.\n\nTherefore we have taken the matter under careful advisement and have concluded to place a small charge on all matter except purely news. All Associational, Conventional matter we expect the officers of the Bodies to take care of in a more systematic way hereafter at quarterly and annual meeting. Our experience at the meetings in the past forces us to make this request.\n\nNo one who believes in a just compensation for honest work will object to this requirement."
+      "text": "Therefore we have taken the matter under careful advisement and have concluded to place a small charge on all matter except purely news. All Associational, Conventional matter we expect the officers of the Bodies to take care of in a more systematic way hereafter at quarterly and annual meeting. Our experience at the meetings in the past forces us to make this request.\n\nNo one who believes in a just compensation for honest work will object to this requirement.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,17 +496,30 @@
         1276
       ],
       "label": "text",
-      "text": "The Colored People of Harrisburg, will celebrate the Emancipation Proclamation August 8th at White City. There will be plenty of real enjoyment and all kinds of amusement for all. Harry Burbridge, Chairman."
+      "text": "The Colored People of Harrisburg, will celebrate the Emancipation Proclamation August 8th at White City. There will be plenty of real enjoyment and all kinds of amusement for all. Harry Burbridge, Chairman.",
+      "status": "ok"
     },
     {
       "bbox": [
         1537,
         1329,
         1828,
+        2570
+      ],
+      "label": "text",
+      "text": "not later that 11:59 p. m., Monday, the resumption of full seniority and as if their services had been con- der that time, if accepted will rank\n\nto are out will consider this matter whatever it may be, will turn out its, as well as the best interests of upon you for a living.\n\nliking to bear in mind that you ac- ted States Railroad Labor Board you, and that the Illinois Central us which were unfavorable to it. that since December, 1917, you have in wages and that your hourly rent, as fixed by the United States 40 to 113 per cent higher than in\n\n1917 Increase\nHourly Rates.\nOver 1917\n\n50c 40 per cent\n29\u00bd to 32\u00bd c 45 to 59 ppr cent\n40c 75c per cent\n35\u00bd c 77 per cent\n29\u00bd c 113 per cent\n\nyou will be broad-minded enough the United States Railroad Labor probable. A long-drawn-out contest not only for you and your families but all recognize that the public in- interests of the railroad or of its\n\nto have issues affecting his life the principle of \"rule or ruin\" inva- have no other ending. The wis- and take\" and \"live and let live\" those are the principles upon which may system for the benefit of the owners.\n\nCentral System is under obliga- uninterrupted transportation and arise it must faithfully discharge\n\nin that same friendly spirit in many feeling of hostility or censure or done in regard to this unhappy",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1537,
+        2570,
+        1828,
         2780
       ],
       "label": "text",
-      "text": "not later that 11:59 p. m., Monday, the resumption of full seniority and as if their services had been conferred that time, if accepted will rank so are out will consider this matter whatever it may be, will turn out its, as well as the best interests of it upon you for a living.\n\nliking to bear in mind that you accepted States Railroad Labor Board you, and that the Illinois Central System which were unfavorable to it, that since December, 1917, you have been in wages and that your hourly rent, as fixed by the United States 40 to 113 per cent higher than in 1917\n\nHourly Rates 1917 Increase Over 1917\n\n50c 40 per cent\n29\u00bd to 32\u00bdc 45 to 59 ppr cent\n40c 75c per cent\n35\u00bdc 77 per cent\n29\u00bdc 113 per cent\n\nyou will be broad-minded enough to the United States Railroad Labor favorable. A long-drawn-out contest not only for you and your families but all recognize that the public interests of the railroad or of its wish to have issues affecting his life the principle of \"rule or ruin\" invariably have no other ending. The wise and take\" and \"live and let live\" those are the principles upon which may system for the benefit of the owners.\n\nCentral System is under obliga-uninterrupted transportation and arise it must faithfully discharge\n\nin that same friendly spirit in many feeling of hostility or censure or done in regard to this unhappy\n\nC. H. MARKHAM,\nPresident."
+      "text": "C. H. MARKHAM.\nPresident.",
+      "status": "ok"
     }
   ]
 }
