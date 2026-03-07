@@ -3,6 +3,17 @@
   "image": "images/page_05.jpg",
   "width": 1790,
   "height": 2800,
+  "processed_at": "2026-03-07T12:25:13.761193+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 49,
+    "after_merge": 46
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         644
       ],
       "label": "doc_title",
-      "text": "HILL'S 26 STORES Can Supply Your Needs"
+      "text": "HILL'S 26 STORES Can Supply Your Needs",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         899
       ],
       "label": "paragraph_title",
-      "text": "Make Your Picnic or Outings a Joy by Having a Good Spread of Eatables."
+      "text": "Make Your Picnic or Outings a Joy by Having a Good Spread of Eatables.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +45,8 @@
         2589
       ],
       "label": "text",
-      "text": "H. G. Hill Grocery & Baking Co. Big Store IOI Public Square. Phones, Main 435-1232"
+      "text": "H. G. Hill Grocery & Baking Co. Big Store IOI Public Square. Phones, Main 435-1232",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +56,19 @@
         1004
       ],
       "label": "paragraph_title",
-      "text": "Canned Goods"
+      "text": "Canned Goods",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        146,
+        1016,
+        406,
+        1346
+      ],
+      "label": "text",
+      "text": "Peas, Diana Brand, sweet garden, per can..... 10c\nPeas, Diana Brand, extra sweet garden, 2 cans..... 25c\nPeas, Golden Wedding, sweet, extra sifted, per can 15c\nSpring Beans, Monroe Brand, Tender and Tempting, No. 2 can 2 for..... 15c\nString Beans, Cut Refugee Brand, a fine grade select, per can..... 12c\nTomatoes, No. 3 Winner Brand red, ripe fruit per can 10c\nTomatoes, No. 2 stewed and strained, sanitary cans, per can..... 5c",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,27 +78,19 @@
         1410
       ],
       "label": "paragraph_title",
-      "text": "Bakery Specials"
+      "text": "Bakery Specials",
+      "status": "ok"
     },
     {
       "bbox": [
-        147,
+        146,
         1419,
-        410,
-        1517
-      ],
-      "label": "text",
-      "text": "Hot From Our Own Ovens Daily Our Breads are without any equal both in quality and size of loaf."
-    },
-    {
-      "bbox": [
-        150,
-        1735,
-        368,
+        411,
         1900
       ],
       "label": "text",
-      "text": "Grandma's Rolls, 10-cents\nvalue, per dozen ...\n\nSalt Rising, just like homemade, large loaf ...\n\nRye Bread, largest loaf in\nthe city ...\n\nOur Big Dandy, a mam\nloaf of white, flaky,\nbrown-crust Bread, each"
+      "text": "Hot From Our\nOwn Ovens Daily\n\nOur Breads are without any equal\nboth in quality and size of loaf.\n\nGrandma's Wonder Bread\n\n2 LARGE LOAVES 5c\n\nMILK BREAD\n\n3 LARGE Loaves 10c\n\nGrandma's Rolls, 10-cents\nvalue, per dozen ..... 5c\n\nSalt Rising, just like home-\nmade, large loaf ..... 5c\n\nRye Bread, largest loaf in\nthe city ..... 5c\n\nOur Big Dandy, a mammoth\nloaf of white, flaky,\nbrown-crust Bread, each 10c",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +100,30 @@
         1964
       ],
       "label": "paragraph_title",
-      "text": "Fresh Cakes Daily"
+      "text": "Fresh Cakes Daily",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        151,
+        1970,
+        411,
+        2449
+      ],
+      "label": "text",
+      "text": "Large, two-layer Cakes in Cocoanut, Vanilla, or Rich Milk Chocolate Icing. Each... 20c\n(Actual 30c value) Lemon... 20c\nVanilla Wafers, lb... 20c\nCrescent Cake, vanilla or chocolate icing, pound... 20c\nSmall Pies, each... 5c\nLarge Pies in Lemon-Maringue and assorted fruits, each... 15c\nLady Fingers, lb... 25c\nMacaroons, lb... 30c\nMuffin Cakes, dozen... 10c\nCookies dozen... 10c\nDoughnuts, dozen... 10c\nGinger Snaps, lb... 7c\nJelly Roll, per cut... 5c",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        146,
+        2449,
+        411,
+        2673
+      ],
+      "label": "text",
+      "text": "H. G. Hill Groce Big Store 101 Public Squ",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,30 @@
         1013
       ],
       "label": "paragraph_title",
-      "text": "Picnic Specials"
+      "text": "Picnic Specials",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        419,
+        1023,
+        680,
+        1411
+      ],
+      "label": "text",
+      "text": "Everything that you might wish can be secured here at money-saving prices.\n\n**Deviled Meat**, ham flavor 1-4, size; a 5c value ..... 4c\n\n**Deviled Ham**, Underwood's original, I-4 size 15c, I-2 size ..... 25c\n\n**Vienna Sausage**, No. I-2 can, per can ..... 8c\n\n**Luncheon Sausage**, No. I-2 cans ..... 8c\n\n**Chipped Beef**, No. I-2 cans, a 10c value ..... 8c\n\n**Chipped Beef**, I-2 lb jar, a 15c value ..... 10c\n\n**Sliced Beef**, I 1b jar, Beechnut ..... 25c\n\n**Sliced Beef**, I-2 lb cans, fine grade ..... 15c",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        426,
+        1430,
+        684,
+        1804
+      ],
+      "label": "text",
+      "text": "Corned Beef, extra fine quality No. 1 can..... 17c\nRoast Beef,\nNo. 1 cans..... 17c\nVeal Loaf,\nNo. 1-2 can..... 10c\nPig Feet, (boneless)\nper can..... 18c\nBacon, 1 lb glass jars\nwafer sliced..... 28c\nLobster,\nNo. 1-2 cans..... 20c\nLobster,\nNo. 1 can..... 35c\nCrab Meat, Japanese,\nNo. 2 can..... 25c\nShrimp,\nNo. 1 can..... 10c",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +166,52 @@
         1881
       ],
       "label": "paragraph_title",
-      "text": "Sardines"
+      "text": "Sardines",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        419,
+        1893,
+        685,
+        2446
+      ],
+      "label": "text",
+      "text": "Sardines, American 1-4 oil, small fish ..... 5c\nSardines, 3-4 mustard a 10c value ..... 8c\nSardines, French 1-4 size, 10c value 3 for ..... 25c\n\nSalmon, fine pink meat; per can ..... 12c\nSalmon, No. 1-2 cans red meat ..... 10c\nSalmon, Red Sockeye No. 1 can ..... 20c\n\nPickles, small sour, 20 pickles to quart; per quart ..... 10c\nPickles, Heinz' sweet mixed, sweet plain, per quart ..... 20c\nBottle Pickles, sweet or sour, mixed, 10 oz bottle ..... 10c\nBottle Pickles, sweet or sour, mixed, 10 oz bottle ..... 10c\nBottle Pickles, sweet, mixed, 24 oz bottle at ..... 15c\nPicalli Pickles, large bottle ..... 10c",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        419,
+        2446,
+        685,
+        2669
+      ],
+      "label": "text",
+      "text": "ery & Baking Co. \nare. Phones, Main 435-1232",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        647,
+        179,
+        1130,
+        200
+      ],
+      "label": "text",
+      "text": "NASHVILLE GLOBE. FRIDAY. JUNE 30, 1911.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        714,
+        1865,
+        1091,
+        2537
+      ],
+      "label": "text",
+      "text": "A Coal Deal That\n\nSt. Bernard\n\nAT A SAVING O\n\nThe difference in cost\n\nLet us figure\n\nClean Coal. Freshly M\n\nTHE HO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,17 +221,19 @@
         2331
       ],
       "label": "text",
-      "text": "The difference in cost now and a month hence is startling. Let us figure with you-It means a big saving. Clean Coal. Freshly Mined-Full Weight-Promptly Delivery."
+      "text": "The difference in cost now and a month hence is startling. Let us figure with you-It means a big saving. Clean Coal. Freshly Mined-Full Weight-Promptly Delivery.",
+      "status": "ok"
     },
     {
       "bbox": [
-        832,
+        714,
         2537,
         1091,
-        2567
+        2780
       ],
       "label": "text",
-      "text": "OFFICE 4 ARCADE"
+      "text": "OFFICE 4 ARCADE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +243,8 @@
         546
       ],
       "label": "text",
-      "text": "PARIS NOTES.\nThe work of the Henry County Institute closed Thursday afternoon, the 22nd, with favorable results. Friday and Saturday were examination days. The teachers were entertained with a one-course menu, which was refreshing and enjoyed by all. Mr. Robert Woodson, one of the honorary members of the institute who has recently returned from Atlanta Baptist College, delivered an address on \"The Circulation of the Blood\" Mrs. Ruth Dumas, of East Paris, is seriously ill. Mr. Tobe Porter continue ill. Mrs. T. W. Hampton left for Columbia, where she goes to the bedside of her mother, who continues ill."
+      "text": "PARIS NOTES.\nThe work of the Henry County Institute closed Thursday afternoon, the 22nd, with favorable results. Friday and Saturday were examination days. The teachers were entertained with a one-course menu, which was refreshing and enjoyed by all. Mr. Robert Woodson, one of the honorary members of the institute who has recently returned from Atlanta Baptist College, delivered an address on \"The Circulation of the Blood\" Mrs. Ruth Dumas, of East Paris, is seriously ill. Mr. Tobe Porter continue ill. Mrs. T. W. Hampton left for Columbia, where she goes to the bedside of her mother, who continues ill.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +254,8 @@
         579
       ],
       "label": "paragraph_title",
-      "text": "CARD OF THANKS."
+      "text": "CARD OF THANKS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +265,8 @@
         721
       ],
       "label": "text",
-      "text": "Johnnie H. White, who is a member of class 1911, Pearl High School, wishes to express her deep appreciation by a vote of thanks to her relatives and friends for the many valuable and useful presents of which she was the recipient at her graduation."
+      "text": "Johnnie H. White, who is a member of class 1911, Pearl High School, wishes to express her deep appreciation by a vote of thanks to her relatives and friends for the many valuable and useful presents of which she was the recipient at her graduation.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,17 +276,41 @@
         752
       ],
       "label": "paragraph_title",
-      "text": "CORDOVA NOTES."
+      "text": "CORDOVA NOTES.",
+      "status": "ok"
     },
     {
       "bbox": [
         715,
         751,
+        1018,
+        997
+      ],
+      "label": "text",
+      "text": "The crops are looking nicely since the rain. The Pythians and Calanthians of this portion of the state desire that everybody know that Dr. W. T. Horton, the efficient deputy, has done much to promote the cause of the order. He is worthy of any promotion that the Grand Lodge may fit to give. West Tennessee is unqualifiedly for him. We believe that right and justice demand the recognition of his claims for Grand Medical Register. All West Tennessee is behind Dr. W. T. Horton.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        722,
+        1024,
+        1024,
+        1696
+      ],
+      "label": "text",
+      "text": "William Jackson Norman, age 25 years, died very suddenly Thursday morning, June 22. He was born in Columbia, Tenn., November 5. 1886. When four years old he came with his parents to Nashville, where he has since resided. He was married to Miss Tennie Davis Rhodes, March 27, 1911. He leaves to mourn his loss a devoted wife, a son, a brother, a sister and loving mother and father. He was a trusted son and companion to his father, a devoted and dutiful husband to his wife. His character was exemplary, being generous to a fault he naturally attracted friends and held them by his friendliness. His fellow-workmen sold him in the highest regard. He will be sadly missed not only by his immediate family but by a legion of friends. In his infancy he was christened at St. Paul A. M. E. Church at Columbia; since his marriage he has been a constant worshipper at St. Eli Baptist Church. He was a bricklayer by profession, working for the firm of Norman and Rhodes. His death came like a thunderbolt in the clear sky. On the morning of his death he had prepared breakfast for his sick wife, sat down to read the morning paper and when his wife came looking for him she found that he was dead. His remains were interred at Mt. Ararat Cemetery Monday afternoon; funeral was held at Mt. Eli Baptist Church by Revs. Sam Bryant and Sampson Brooks.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        727,
+        1708,
         1029,
         1865
       ],
       "label": "text",
-      "text": "The crops are looking nicely since the rain. The Pythians and Calanthians of this portion of the state desire that everybody know that Dr. W. T. Horton, the efficient deputy, has done much to promote the cause of the order. He is worthy of any promotion that the Grand Lodge may fit to give. West Tennessee is unqualifiedly for him. We believe that right and justice demand the recognition of his claims for Grand Medical Register. All West Tennessee is behind Dr. W. T. Horton.\n\nYOUNG MAN DIES.\n\nWilliam Jackson Norman, age 25 years, died very suddenly Thursday morning, June 22. He was born in Columbia, Tenn., November 5, 1886. When four years old he came with his parents to Nashville, where he has resided. He was married to Miss Tennie Davis Rhodes, March 27, 1911. He leaves to mourn his loss a devoted wife, a son, a brother, a sister and loving mother and father. He was a trusted son and companion to his father; a devoted and dutiful husband to his wife. His character was exemplary, being generous to a fault he naturally attracted friends and held them by his friendliness. His fellow-workmen sold him in the highest regard. He will be sadly missed not only by his immediate family but by a legion of friends. In his infancy he was christened at St. Paul A. M. E. Church at Columbia; since his marriage he has been a constant worshipper at St. Eli Baptist Church. He was a bricklayer by profession, working for the firm of Norman and Rhodes. His death came like a thunderbolt in the clear sky. On the morning of his death he had prepared breakfast for his sick wife, sat down to read the morning paper, and when his wife came looking for him she found that he was dead. His remains were interred at Mt. Ararat Cemetery Monday afternoon; funeral was held at Mt. Eli Baptist Church by Revs. Sam Bryant and Sampson Brooks.\n\nINQUIRY FOR GRANDMOTHER.\n\nEditor Nashville Globe, Dear Sir;\n\nI have or had a grandmother living in that city by the name of Mrs. Celtie Burns, but I have been unable to hear from her for about three years. I was told that you could locate her; if so, let me know, and oblige, yours very truly."
+      "text": "INQUIRY FOR GRANDMOTHER.\nEditor Nashville Globe, Dear Sir:\nI have or had a grandmother living\nin that city by the name of Mrs.\nCelie Burns, but I have been unable\nto hear from her for about three\nyears I was told that you could locate\nher; if so, let me know, and\noblige, yours very truly,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +320,8 @@
         1348
       ],
       "label": "paragraph_title",
-      "text": "\"WHITE'S SPECIFIC\""
+      "text": "\"WHITE'S SPECIFIC\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +331,8 @@
         1553
       ],
       "label": "text",
-      "text": "A wonderful FACE CREAM that positively does all that is claimed for it. Cures Pimples and Ringworms, removes Tan, Freckles, Sunburn, Liver Biotches and other Facial discolorations. A perfect BLEACH that beautifies the Complexion, without injury to the most delicate skin. Its merit has given it a national reputation. \"ONCE USED ALWAYS USED,\" has been the experience of our thousands of customers. A trial will convince you.\n\nPRICE 25c AT ALL DRUGGISTS.\n\nWHITE'S SPECIFIC TOILET COMPANY,\nNASHVILLE, TENN."
+      "text": "A wonderful FACE CREAM that positively does all that is claimed for it. Cures Pimples and Ringworms, removes Tan, Freckles, Sunburn, Liver Biotches and other Facial discolorations. A perfect BLEACH that beautifies the Complexion, without injury to the most delicate skin. Its merit has given it a national reputation. \"ONCE USED ALWAYS USED,\" has been the experience of our thousands of customers. A trial will convince you.\n\nPRICE 25c AT ALL DRUGGISTS.\n\nWHITE'S SPECIFIC TOILET COMPANY,\nNASHVILLE, TENN.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +342,8 @@
         1794
       ],
       "label": "text",
-      "text": "PARIOD ROOFING USED BY U. S. GOVERNMENT GUARANTEED FOR TEN YEARS."
+      "text": "PARIOD ROOFING USED BY U. S. GOVERNMENT GUARANTEED FOR TEN YEARS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +353,8 @@
         381
       ],
       "label": "text",
-      "text": "ARTHUR THOMAS BURNS.\n2005 State street, Chicago, Ill.\nP. S.\u2014When last heard from she\nwas living at 66 South Fillmore\nstreet.\nAny one who can give information\nabout the above named Mrs. Burns\nwill please send same to Nashville\nGlobe, 447 Fourth avenue, North."
+      "text": "ARTHUR THOMAS BURNS.\n2005 State street, Chicago, Ill.\nP. S.\u2014When last heard from she\nwas living at 66 South Fillmore\nstreet.\nAny one who can give information\nabout the above named Mrs. Burns\nwill please send same to Nashville\nGlobe, 447 Fourth avenue, North.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +364,19 @@
         424
       ],
       "label": "paragraph_title",
-      "text": "DEATHS."
+      "text": "DEATHS.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1024,
+        428,
+        1322,
+        916
+      ],
+      "label": "text",
+      "text": "Edward M. Southall, 2900 W. Hill street, 1 year.\nEzekiel Winston, 1311 9th avenue, North, 82 years.\nWalter Lyons, 230 Fillmore street, 31 years.\nAndrew Nelson, 611 Brown street, 2 months.\nSarah McDowell, 1312 South Market street, 43 years.\nNancy Barnes, 1407 Buchanan street, 74 years.\nCallie Humphrey, 610 Eighth avenue, North, 63 years.\nRobt. Johnson, 522 Sycamore street, 63 years.\nWm. Norman, 905 Twelfth avenue, North, 26 years.\nBennetta Gaines, 1608 Jackson street, 24 years.\nLouis Golston, 24 rear Fillmore street, 50 years.\nEddie Hunter, City Hospital, 7 years.\nAndrew Starks, Gallatin, Tenn., 36 years.\nSamuel Dickerson, 1503 Harding street, 4 years.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,17 +386,74 @@
         1261
       ],
       "label": "text",
-      "text": "Robert Tolbert and Irene Robertson.\nJohn R. Watson and Elizabeth Collins.\nBrown Gillens and Katherine Simms.\nCharley Sumner and Malinda Ann Lyons.\nAlfred Mason and Eva Talley.\nJoe Frame and Mattie Mason.\nOscar Stevenson and Maggie May Sneed.\nRobert Robertson and Sarah Gurley.\nMelvin W. Wade, Masonic Home, 8 years.\nGrannie Harding, Neal avenue, 118 years."
+      "text": "Robert Tolbert and Irene Robertson.\nJohn R. Watson and Elizabeth Collins.\nBrown Gillens and Katherine Simms.\nCharley Sumner and Malinda Ann Lyons.\nAlfred Mason and Eva Talley.\nJoe Frame and Mattie Mason.\nOscar Stevenson and Maggie May Sneed.\nRobert Robertson and Sarah Gurley.\nMelvin W. Wade, Masonic Home, 8 years.\nGrannie Harding, Neal avenue, 118 years.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1059,
-        1812,
-        1257,
+        1023,
+        1261,
+        1326,
         1836
       ],
       "label": "text",
-      "text": "325 Broadway"
+      "text": "\"WHITE'S\nTHE GREATEST OF\nA wonderful FACE CREAM\nclaimed for it. Cures Pimple\nFreckles, Sunburn, Liver Blot\ntions. A perfect BLEACH\nwithout injury to the most del\na national reputation. \"ON\nhas been the experience of our\nwill con\n\nPRICE 25c AT\nWHITE'S SPECIFIC TOILET COM\n\nBUY\n\nDAN G. C\n\nYour Hardware, I\n\nPARIOD ROOFING USED BY\nTEED FOR TEN YEARS.\n\n325 Broadway",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1023,
+        1836,
+        1326,
+        2077
+      ],
+      "label": "text",
+      "text": "hat Warm Weather",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1333,
+        679,
+        1638,
+        1257
+      ],
+      "label": "text",
+      "text": "Everywhere\n\nDrink the satisfactory beverage\nCoca-Cola\nCarbonated in bottles.\nDelicious, Wholesome,\nThirst-Quenching\nRelieves fatigue\n\nWm. Brinkle, 1010 Ivy street, 50 years.\nInfant of Carrie Goodman, 47 Lincoln street.\nPriscilla Swanson, 1302 Twelfth avenue, South, 36 years.\nJames Jennings, rear 1605 Third avenue, North, 18 years.\nAlma Carter, 1514 Tenth avenue, South, 3 months.\nJoseph Holt, 24 East Hill street, 21 years.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1331,
+        1257,
+        1638,
+        1833
+      ],
+      "label": "text",
+      "text": "SPECIFIC\"\nFOR ALL BEAUTIFIERS.\n\nI that positively does all that is\nand Ringworms, removes Tan,\nhides and other Facial discolora-\nthat beautifies the Complexion,\ncate skin. Its merit has given it\nUSE USED ALWAYS USED,\"\nthousands of customers. A trial\nsince you.\n\nALL DRUGGISTS.\nCOMPANY, NASHVILLE, TENN.\n\nFROM\n\nLARK, Jr.\nLawn Fence, Paints\nU. S. GOVERNMENT GUARAN-\nNashville, Tenn.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1331,
+        1833,
+        1638,
+        2540
+      ],
+      "label": "text",
+      "text": "r Presents You\nico Coal\nDUGHT NOW\nance is startling.\nsaving.\nomply Delivery.\n\nCE CO.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1331,
+        2568,
+        1638,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +463,8 @@
         318
       ],
       "label": "paragraph_title",
-      "text": "MAKE YOUR SELECTIONS EARLY"
+      "text": "MAKE YOUR SELECTIONS EARLY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,47 +474,8 @@
         640
       ],
       "label": "text",
-      "text": "You'll want nice Slippers on the day the eagle screams. About 300 pairs Ladies' Oxfords, Ties and Slippers, $2.50 and $3.00 grade, at only $1.65 J. S. HOPKINS SHOE CO. ON THE SQUARE"
-    },
-    {
-      "bbox": [
-        1335,
-        1048,
-        1633,
-        1084
-      ],
-      "label": "text",
-      "text": "Wm. Brinkle, 1010 Ivy street, 50 years."
-    },
-    {
-      "bbox": [
-        1333,
-        1050,
-        1634,
-        1257
-      ],
-      "label": "text",
-      "text": "Wm. Brinkle, 1010 Ivy street, 50 years.\nInfant of Carrie Goodman, 47 Lincoln street.\nPriscilla Swanson, 1302 Twelfth avenue, South, 36 years.\nJames Jennings, rear 1605 Third avenue, North, 18 years.\nAlma Carter, 1514 Tenth avenue, South, 3 months.\nJoseph Holt, 24 East Hill street, 21 years."
-    },
-    {
-      "bbox": [
-        1334,
-        1220,
-        1632,
-        1257
-      ],
-      "label": "text",
-      "text": "Joseph Holt, 24 East Hill street. 21 years."
-    },
-    {
-      "bbox": [
-        1371,
-        1807,
-        1612,
-        1833
-      ],
-      "label": "text",
-      "text": "Nashville, Tenn."
+      "text": "You'll want nice Slippers on the day the eagle screams. About 300 pairs Ladies' Oxfords, Ties and Slippers, $2.50 and $3.00 grade, at only $1.65 J. S. HOPKINS SHOE CO. ON THE SQUARE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +485,41 @@
         2568
       ],
       "label": "text",
-      "text": "Phone Main 43"
+      "text": "Phone Main 43",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1608,
+        179,
+        1621,
+        679
+      ],
+      "label": "text",
+      "text": "5",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1608,
+        1257,
+        1621,
+        1807
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1608,
+        1833,
+        1621,
+        2081
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     }
   ]
 }

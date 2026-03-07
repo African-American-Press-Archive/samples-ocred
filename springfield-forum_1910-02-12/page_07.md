@@ -1,11 +1,8 @@
 ## Negro Joins Mrs. Belmont.
 
-# Negro Joins
-Mrs. Belmont.
+# Negro Joins Mrs. Belmont.
 
 ## Society Leader Includes Blacks in Her Fight for Rights for Women.
-
-Society Leader Includes Blacks in Her Fight for Rights for Women.
 
 New York, Monday—Society women who have joined with Mrs. O. H. P. Belmont, in the war for equal rights for all, especially in the matter of voting are faltering today because Mrs. Belmont has taken Negro women into the fold on the equal rights basis.
 
@@ -13,45 +10,9 @@ Mrs. Belmont, as president of the Political Equality association, went motoring 
 
 ## 50th Wedding Anniversary of Mr. and Mrs. Robt. Wormley.
 
-On Thursday evening, January 27, 1910, occurred the 50th wed
-ding anniversary of Mr. and Mrs.
-Robert Wormley. At 8.30 o'clock
-the bride, Mrs. Wormley came
-into the church leaning on the
-arm of her youngest son, Jesse
-and Mr. Wormley came in attended
-by his daughter, Miss Jennie.
-They were met at the attar by
-Rev B. L. Ivory. Preceeding
-the bride and groom were the
-flower bearers, Little Inez Crad-
-dock and Master Theodore
-Wormley, Rev. B. L. Ivory
-performed the ceremony after
-which Dr. J. H. Magee spoke of
-the forebearance of these vener-
-able people who, even admidst
-adversity, had spent so long a
-time together, and it was his sin-
-cere hope that they might live
-fifty years longer. It death
-should separate them it was his
-fond hope that the one who
-would depart first would wait at
-the banks of sweet Jerusalem un-
-til his companion should join him
-in that haven of rest.
+On Thursday evening, January 27, 1910, occurred the 50th wedding anniversary of Mr. and Mrs. Robert Wormley. At 8.30 o'clock the bride, Mrs. Wormley came into the church leaning on the arm of her youngest son, Jesse and Mr. Wormley came in attended by his daughter, Miss Jennie. They were met at the altar by Rev B. L. Ivory. Preceeding the bride and groom were the flower bearers. Little Inez Craddock and Master Theodore Wormley, Rev. B. L. Ivory performed the ceremony after which Dr. J. H. Magee spoke of the forebearance of these venerable people who, even admidst adversity, had spent so long a time together, and it was his sincere hope that they might live fifty years longer. If death should separate them it was his fond hope that the one who would depart first would wait at the banks of sweet Jerusalem until his companion should join him in that haven of rest.
 
-The decorations prevailing in
-the lecture room of the church
-were white and gold which were
-artistically arranged. The ta-
-cles were decorated with white
-and yellow carnations and palms.
-Seated at the first table were the
-endery ladies and gentlemen,
-friends of the bride and groom.
-The menu consist of—
+The decorations prevailing in the lecture room of the church were white and gold which were artistically arranged. The taulles were decorated with white and yellow carnations and palms. Seated at the first table were the elderly ladies and gentlemen, friends of the bride and groom. The menu consist of—
 
 Pickles Olives
 Bread and Butter Sandwiches
@@ -60,13 +21,7 @@ Gold Ice Cream White Ice Cream
 Golden Cake
 Coffee
 
-Mr. and Mrs. Wormley recei-
-ved a bag of gold from state house
-employees and many others and
-they were also the recipients of
-many other valuable presents.
-The Union Baptist church pres-
-ented them $10 in gold.
+Mr. and Mrs. Wormley received a bag of gold from state house employees and many others and they were also the recipients of many other valuable presents. The Union Baptist church presented them $10 in gold.
 
 Mrs. Virgie Cummings of Decatur, spent several days in the city this week visiting her sick sister. Mrs. C. Grant.
 
@@ -90,13 +45,19 @@ Died at 7:40 o'clock Sunday morning February 6, 1910, at the residence, 18th and
 
 A colored girl won first honors in her class at Hoboken, N. J., last week among a large number of white children. All the papers made comments thus keeping the Negro before the time light. There are but few colored people in the city which has a population of 10.000.
 
-Last Sunday the services at Grace M. E. church were conducted at 11 a. m. by Rev. E. K. Manuel and at 8 p. m. by Rev. Ben Johnson of St Paul church. The Sunday school and Epworth League are making material progres.
+Last Sunday the services at Grace M. E. church were conducted at 11 a. m. by Rev. E. K. Manuel and at 8 p. m. by Rev. Ben Johnson of St Paul church The Sunday school and Epworth League are making material progres.
 
 Tonight at Union Baptist church the Lincoln Memorial services will be held. Come early, no reserved seats—the house will be crowded. A most excellent program will be rendered—see it on another page of this issue.
 
 Mr. Brown of Yonkers, N. Y.. is in the city.
 
 The many friends of Mrs. Fannie Carter, formerly of this city, will be surprised no doubt to hear of her marriage to a Mr. Smith of Quincy.
+
+## HERE IS YOUR CHANCE.
+
+WE WANT AGENTS for that GREAT BOOK "POINTING THE WAY," By Sutton E. Griggs. This is the ripest work of this well known author. The book will certainly sell, for in a beautiful, charming, forceful manner, it points outs the way for THE SOLVING of the much discussed race question. It takes equally well with white and colored people. Ask any one who has read it and he will tell you it is simply great. Splendid commissions given agents. Send $1.00 for a complete book and full outfit. Price of book $1.00. By mail $1.10.
+
+TENNESSEE.
 
 NO MONEY REQUIRED until you receive and approve of your bicycle. We ship to anyone, anywhere in the U.S. without a cent deposit in advance, prepay freight, and allow TEN DAYS' FREE TRIAL during which time you may ride the bicycle and put it to any test you wish. If you are then not perfectly satisfied or do not wish to keep the bicycle ship it back to us at our expense and you will not be out one cent.
 
@@ -108,33 +69,65 @@ SECOND HAND BICYCLES. We do not regularly handle second hand bicycles, but usual
 
 COASTER-BRAKES. single wheels, imported roller pedals, parts, repairs and equipment of all kinds at half the retail price
 
+COASTER-BRAKES, single wheels, imported roller
+equipment of all kinds at half the usual
+$ 8.50 HEDGETHORN PUNCT
+SELF-HEALING TIRES
+The regular retail price of these tires is
+$8.50 per pair, but to introduce we will
+sell you a sample pair for $4.80 (cash with order $4.55).
+NO MORE TROUBLE FROM PUNCTURES
+
 # 50 HEDGETHORN PUNCTURE-PROOF SELF-HEALING TIRES A SAMPLE PAIR TO INTRODUCE,ONLY
+
+HEDGE THORN RECORD
+PUNCTURE TIRE 00
+PROOF CHICAGO
+SELF HEALING U.S.A.
+
+a specialist in clothing and which closes up small punctures without allowing the air to escape. We have hundreds of letters from satisfied customers stating that their tires have only been pumped up once or twice in a whole season. They weigh no more than an ordinary tire, the puncture resisting qualities being given by several layers of thin, specially prepared fabric on the tread. The regular price of these tires is $5.50 per pair, but for advertising purposes we are making a special factory price to
 
 the rider of only $4.80 per pair. All orders shipped same day letter is received. We ship C. O. D. on approval. You do not pay a cent until you have examined and found them strictly as represented. We will allow a cash discount of 5 per cent (thereby making the price $4.55 per pair) if you send FULL CASH WITH ORDER and enclose this advertisement. We will also send one nickel plated brass hand pump. Tires to be returned at OUR expense if for any reason they are not satisfactory on examination. We are perfectly reliable and money sent to us is as safe as in a bank. If you order a pair of these tires, you will find that they will ride easier, run faster, wear better, last longer and look finer than any tire you have ever used or seen at any price. We know that you will be so well pleased that when you want a bicycle you will give us your order. We want you to send us a trial order at once, hence this remarkable tire offer.
 
-IF YOU NEED TIRES don't buy any kind at any price until you send for a pair of the special introductory price quoted above; or write for our big Tire and Sundry Catalogue which describes all makes and kinds of tires at about half the usual prices.
+the rider of only $4.80 per pair. All orders shipped same day approval. You do not pay a cent until you have examined as well. We will allow a cash discount of 5 per cent (thereby may send FULL CASH WITH ORDER and enclose this ad nickel plated brass hand pump. Tires to be returned at OR not satisfactory on examination. We are perfectly reliable bank. If you order a pair of these tires, you will find the wear better, last longer and look finer than any tire you have know that you will be so well pleased that when you want. We want you to send us a trial order at once, hence this rem IF YOU NEED TIRES don't buy any kind at the special introductory price quoted above; or write for our
+
+IF YOU NEED TIRES don't buy any kind at any price until you send for a pair of Hedgethorn Puncture-Proof tires on approval and trial at the special introductory price quoted above; or write for our big Tire and Sundry Catalogue which describes and quotes all makes and kinds of tires at about half the usual prices.
 
 DO NOT WAIT but write us a postal today. DO NOT THINK OF BUYING a bicycle or a pair of tires from anyone until you know the new and wonderful offers we are making. It only costs a postal to learn everything. Write it NOW.
 
 ## J. L. MEAD CYCLE COMPANY, CHICAGO, ILL.
 
-## HERE IS YOUR CHANCE.
+Shoes
 
-WE WANT AGENTS for that GREAT BOOK "POINTING THE WAY," By Sutton E. Griggs.
+Walk Over For Men
 
-This is the ripest work of this well known author. The book will certainly sell, for in a beautiful, charming, forceful manner, it points outs the way for THE SOLVING of the much discussed race question. It takes equally well with white and colored people. Ask any one who has read it and he will tell you it is simply great. Splendid commissions given agents. Send $1.00 for a complete book and full outfit. Price of book $1.00. By mail $1.10.
+Dorothy Dodd For Ladies
 
-THE ORION PUB., CO.
-NASHVILLE,
-TENNESSEE.
+F. M. Legg Shoe Co.
+125 South Fifth Street.
+
+THE ORION PUB.. CO.
+
+double ou
+SECON
+usually have
+promptly at pr
+COASTER-BRAKES,
+$ 8 50 HE
+SELF-
+The regular
+$ 50 per pair
 
 NAILS, Tacks or Glass will not let the air out. Sixty thousand pairs sold last year. Over two hundred thousand pairs now in use. DESCRIPTION: Made in all sizes. It is lively and easy riding, very durable and lined inside with a special quality of rubber, which never becomes
-
-a specialist in clothing and which closes up small punctures without allowing the air to escape. We have hundreds of letters from satisfied customers stating that their tires have only been pumped up once or twice in a whole season. They weigh no more than an ordinary tire, the puncture resisting qualities being given by several layers of thin, specially prepared fabric on the tread. The regular price of these tires is $5.50 per pair, but for advertising purposes we are making a special factory price to
 
 SUTTON E. GRIGGS,
 Author, Orator, Philosopher.
 
-SUTTON E. GRIGGS, Author, Orator, Philosopher.
+SUTTON E. GRIGGS,
+Author, Orator, Philosopher.
+
+```markdown
+
+```
 
 Notice the thick rubber tread "A" and puncture strips "B" and "D," also rim strip "H" to prevent rim cutting. This tire will outlast any other make—SOFT, ELASTIC and EASY RIDING.

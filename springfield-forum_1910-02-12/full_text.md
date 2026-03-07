@@ -13,7 +13,7 @@ The Home Culture Section will meet at the residence of Mrs. Bettie Watson, 1711 
 
 ## Mattoon News Notes
 
-Cottage prayer meetings are being held at the homes of Chas. Parker and wife and Wright Elliott and wife. Everyone is invited to these meetings. They will be held till the great revival begins.
+Cottage prayer meetings are being held at the homes of Chas. Parker and wife and Wright Ehlott and wife. Everyone is invited to these meetings. They will be held till the great revival begins.
 
 The quarterly meeting will be held at St. David's Chapel, Sunday, Feb. 13.
 
@@ -39,19 +39,41 @@ I love my money, but oh you valentine promenade at Masonic Hall, Feb. 14.
 
 H. W. Jameson of Peoria was in the city this week.
 
+"Be ye doers and not sayers only."
+
+The New Hope Baptist church will rally Sunday for the purpose of meeting the requirements of the main debt of the church. At 11 o'clock service the pastor, Rev. D. J. Tate will preach, this service will be followed with a financial appeal by a representative of the Booker T. Washington meeting for Sunday night. At 3 p. m. Dr. B. L. Ivory, will preach. Special music will be rendered by the choir. At this a financial appeal will be made by Rev. Bloodworth. The old line workers of the church, the sewing circle represented by Mrs H K. Wilson, its president and the Woodside club represented by Frank Coleman, its president are asking their friends to stand by them in giving as the Lord has prospered them on this great Booker T. Washington day in Springfield.
+
+At 7 p.m. on this day we close our doors and will listen to our much honored race leader, Dr. Booker T. Washington at the Armory. The monthly missionary program will be observed February 27, 1910, at 3 o'clock p.m.
+
+## Washington's Birthday
+
+Washington's birthday will be celebrated at St. Paul church, February 22d under the auspices of the Stewardess Board No. 2. and Company H of the June rally club. An excellent program has been arranged by the committee and we invite the public to come and help us to show our appreciation of the talent of the participants. The ladies of the board will serve an enjoyable lunch or supper, which ever you desire in the lecture room
+
+Kiddo! Take your hands away. I am going to Masonic Hall Monday evening, Feb. 14th to hear the Cubana Slide played.
+
+Mrs. Katie Cosby of Cairo, is in the city and is the guest of Mrs. T. W. Warrick of S. 16th street.
+
+Rev. Jordan Chavis of Chicago was in the city this week on U. B. F. business.
+
+All members of the united choirs who wish badges for the Booker T. Washington meeting can secure them tonight.
+
+Be a jolly good fellow if you don't last but a day and go to the Valentine Promenade. A good time assured to all.
+
+Two rooms for rent, partially furnished.—527 S. 12th St.
+
 ## East End Notes.
 
 The people are well in this end of town this week for which we are always thankful. Mrs. Pride is not feeling so well at this writing. Marguerite Slater has left us again. The boys are a little lonesome.
 
-A number of our boys and girls are attending the Manual Training school, and are singing high notes of its praise.
+A number of our bys and girls are attending the Manual Training school, and are singing high notes of its praise.
 
-Mrs. Susan Davis, of N. 4 h street, is visiting in this end of town at this writing.
+Mrs Susan Davis, of N. 4 h street, is visiting in this end of town at this writing.
 
 Mrs. Anna White visited in Glenarm, this week. She reports a fine time.
 
-Mrs. Etta Harvey will make a business trip to St. Louis Saturday. After she returns hairdressing will take place at 1508.
+Mrs. Etta Harvey will make a business trip to St. Louis Saturday. After she returns hair-dressing will take place at 1508.
 
-We are watching Ruby Mitchell yet, we don't want him to get away for he is the star pitcher for the Merchant Blacks. Robt. Canister is watching him for he is expecting to catch him this summer. But they say Bob likes the Wheatty girl, too.
+We are watching Ruby Mitchell yet, we don't want him to get away for he is the star putcher for the Merchant Blacks Robt. Canister is watching him for he is expecting to catch him this summer. But they say Bob likes the Wheatty girl, too.
 
 We are off to a political meeting tonight. We are better satisfied. Now we are jubilant over our candidate. We are going to shove him over the plate says the east end man.
 
@@ -67,23 +89,10 @@ NOTICE—All subscribers out of the city who wish The Forum continued, please se
 
 ## New Hope News.
 
-The New Hope Baptist church will rally Sunday for the purpose of meeting the requirements of the main debt of the church. At 11 o'clock service the pastor, Rev. D. J. Tate will preach, this service will be followed with a financial appeal by a representative of the Booker T. Washington meeting for Sunday night. At 3 p. m. Dr. B. L. Ivory, will preach. Special music will be rendered by the choir. At this a financial appeal will be made by Rev. Bloodworth. The old line workers of the church, the sewing circle represented by Mrs H K. Wilson, its president and the Woodside club represented by Frank Coleman, its president are asking their friends to stand by them in giving as the Lord has prospered them on this great Booker T. Washington day in Springfield. At 7 p. m. on this day we close our doors and will listen to our much honored race leader, Dr. Booker T. Washington at the Armory. The monthly missionary program will be observed February 27, 1910, at 3 o'clock p m
+Captains { Mrs. Anna Williams }
+Mrs. Sidoev Sims
 
-## Washington's Birthday
-
-Washington's birthday will be celebrated at St. Paul church, February 22d under the auspices of the Stewardess Board No.2. and Company H of the June rally club. An excellent program has been arranged by the committee and we invite the public to come and help us to show our appreciation of the talent of the participants. The ladies of the board will serve an enjoyable lunch or sapper, which ever you desire in the lecture room Captains Mrs. Anna Williams Mrs. Sidney Sims
-
-Kiddo! Take your hands away. I am going to Masonic Hall Monday evening, Feb. 14th to hear the Cubana Slide played.
-
-Mrs. Katie Cosby of Cairo, is in the city and is the guest of Mrs. T. W. Warrick of S. 16th street.
-
-Rev. Jordan Chavis of Chicago was in the city this week on U. B. F. business.
-
-All members of the united choirs who wish badges for the Booker T. Washington meeting can secure them tonight.
-
-Be a jolly good fellow if you don't last but a day and go to the Valentine Promenade. A good time assured to all.
-
-Two rooms for rent, partially furnished.—527 S. 12th St.
+I
 
 ## Dies Very Suddenly.
 
@@ -99,7 +108,7 @@ Alderman L. L. Flinn of the 5th ward is highly praised for the high ground he ta
 
 Subscribe for The Forum, the only regular Negro paper here.
 
-Meet Mr. Dudley and friends at the Valentine Promenade after the show.
+nd Local Meet Mr. Dudley and friends at the Valentine Promenade after the show.
 
 Dr. N. B. Ford successfully performed surgical operations on three different patients at St. John's hospital this week
 
@@ -116,7 +125,26 @@ Mrs. M C. Watkins, who served an elaborate dinner Sunday to invited guests and e
 
 Entered as second-class matter, February 24, 1904, at the postoffice at Springfield, Ill., under the Act of Congress of March 3, 1879.
 
-Saturday, February 12, 1910
+ROGERS & BARBOUR . . . Proprietors
+
+One Year . . . $1.50
+One Month . . . 15c
+Per Copy . . . 5c
+
+OFFICE: 305 1-2 S. Sixth St. Phone Main 928
+
+THE FORUM'S STAFF.
+
+B. L. Rogers, Editor and Manager
+Will H. arbour, Associate Editor and Secretary.
+
+Thompson Bros., Branch Once.
+
+Gemma The Printer 1051 So. 6th St.
+
+EDITORIAL
+
+Saturday, February 12, 1910.
 
 ## SEPARATE SCHOOLS.
 
@@ -126,9 +154,11 @@ Several prominent colored men think separate schools for colored children in the
 
 Friendly criticism at all times tends to make ones efforts better, more conscientious; that is, when made for that specific purpose. Some of us make palpable blunders in many ways, they are varigated and diversified, and we stumble and keep right on regardless. In our home life, our church, lodge and literary affairs, much criticism is wont to be made and if given at the opportunity time and in the proper spirit, will be a remedial panacea for all the little ills that crop out in our every day life. Apropos the above, we wish to say that the Negro newspaper extols many things done by the race when they know that way down deep under the left side of our vests, censure should be made without reserve. This has its cause, you know—his subscription list keeps him mute. All literary productions are criticised. Who has not heard of Jenette Guder, or W. L. Hubbard, the musical critic of the Chicago Tribune? Then there is our own Sylvester Russell who has done so much to bring the Negro stage performers to such an attitude of excellence. For our part, we intend to say things advisedly and our prime object shall be for the betterment of all concerned. Friendly criticism will be a boor to us.
 
-It is sometimes with the church as it is with nations, 'War must sometimes be carried on in order to establish a sound and durable peace at last.'-N.B Union.
+It is sometimes with the church as it is with nations, 'War must sometimes be carried on in order to establish a sound and durable peace at last.' — N. B. Union.
 
-We met the governor early last fall and on first sight, he impressed us as being perfectly trustworthy, fair and conscientious; we had faith in him because of his clear and concise manner of expressing himself, his countenance as was expressed through his facial contour at once made us lose any fear or ill-att-easiness we had contemplated, superinduced by individuals who are averse to the governor and who have said that he was cold and not approachable. Not an atom of the marble heart, nor a tint or scintilla of the iceberginess no refrigerator greeting, no evaseness, but the direct antithesis met us; cordial, pleasant and businesslike. We were agreeably surprised, as we had felt all along that the governor was friendly toward us. From now on we shall feel that Charles S. Deneen whether governor of this great state, or United States Senator, President, minister extraordinary plenipotentiary to the Court of St. James, we shall abide in our faith of his friendship for the Negro. Guess everyone has read of the Cairo hellishness, well the governor's stand in that affair magnifies our already well-founded and premeditated impressions of his magnanimity.—W.H.B.
+OUR IMPRESSION OF GOVERNOR DENEEN.
+
+We met the governor early last fall and on first sight, he impressed us as being perfectly trustworthy, fair and conscientious we had faith in him because of his clear and concise manner of expressing himself, his countenance as was expressed through his facial contour at once made us lose any fear or ill-at-easiness we had contemplated, superinduced by individuals who are averse to the governor and who have said that he was cold and not approachable. Not an atom of the marble heart, nor a tint or scintilla of the iceberginess no refrigerator greeting, no evaseness, but the direct antithesis met us; cordial, pleasant and businesslike. We were agreeably surprised, as we had felt all along that the governor was friendly toward us. From now on we shall feel that Charles S. Deneen whether governor of this great state, or United States Senator, President, minister extraordinary plenipotentiary to the Court of St. James, we shall abide in our faith of his friendship for the Negro. Guess everyone has read of the Cairo hellishness, well the governor's stand in that affair magnifies our already well-founded and premeditated impressions of his magnanimity.—W.H.B.
 
 The required number of signatures to the petition of the local option advocates having been secured, a real and genuine combat is to ensue. The petition is: Shall Springfield become local option territory? Those who are for it will vote yes in the square and the contrary no.
 
@@ -148,7 +178,51 @@ Mrs. Clark Thompson is in Chicago and will spend a week buying her spring stock 
 
 First class accommodations Regular meals at regular meal hours.
 
+H TU
+
 H TUCKER, Proprietor.
+
+Imperial 5 Hats
+
+MYERS & CO.
+529 North Side Square
+
+PETER MYLL
+529
+
+For Fine Commercial Work
+
+HAMANN The Printer
+
+305 SOUTH SIXTH ST.
+
+Phone 998
+
+time, 150
+6 months
+ade.
+Office Old Phone
+518 Gilbert Ave: 2812
+
+"Oh, Douglas! Thou hast passed be yond the shore,
+
+But still thy voice is ringing o'er the gale—
+
+Thou'st taught thy race how high her hope may soar,
+
+And bid them seek the heights, nor faint nor fall."
+
+Paul Laurence Dunbar on Freed Douglass.
+
+high her
+
+ghts, no
+
+Call at The
+
+---
+
+---
 
 New Telepnone, 1478.
 
@@ -201,15 +275,21 @@ Miss Marie Elison of Jacksonville, is visiting friends in Decatur, this week.
 
 Mrs. Ed Garner of Detroit, Michigan, is here visiting her parents and friends.
 
-The St. Peters church choir under the leadership of Mrs. E. N. Morrow, is making music as they never did before. She is an able instructress and is well versed in music. We can well say we have the best choir in the state, with no exception.
+The St. Peters church choir under the leadership of Mrs. E N. Morrow, is making music as they never did before. She is an able instructress and is well versed in music. We can well say we have the best choir in the state, with no exception.
 
 E. J. McWhirter has a first class pantatorium at 141 N. Main street. Call and see him.
 
 Mrs. Ollie Ward-McNab went to Chicago this week on business
 
-The following names have been added to The Forum's subscription list this week—Messrs. Heggings, White, Bowens, Eukie Davis, Dulin, Tandy, Browner, Trice, Walters, McWhirter; Mesdames McGregory, Bledsoe, Long, Pierce. Johnson. We want 200 subscribers for The Forum. It is the cleanest journal in the state and has been out every week for the last six years and always takes the stand for the best interests of the Negro race. Now have in this city 137 paid subscribers,
+The following names have been added to The Forum's subscription list this week—Messrs. Heggings, White, Bowens, Eukie Davis, Dulin, Tandy, Browner, Trice, Walters, McWhirter; Mesdames McGregory, Bledsoe, Long, Pierce. Johnson. We want 200 subscribers for The Forum. It is the cleanest journal in the state and has been out every week for the last six years and always takes the stand for the best interests of the Negro race. Now have in this city 137 paid subscribers.
 
-The Maple Leaf Court of Calanthe No. 25, had their installation of officers last Monday evening, about 60 invited guests were out and a fine repast was served, consisting of—
+The Maple Leaf Court of Calanthe No. 25, had their installation of officers last Monday evening, about 60 invited guests were out and a fine repast was served, consisting of
+
+Chicken Salad
+Escalloped Oysters
+Bread and Butter Sandwiches
+Ice Cream and Cake
+Coffee
 
 Mr. Moses Bass who has been in St. Mary's hospital for the last three weeks, is able to be out.
 
@@ -235,11 +315,11 @@ THE NEEDS OF THE RACE.
 
 We are aware of the fact that the needs of the race are many and varied. One of the greatest needs is the return to the true worship of God. The race or nation that neglects the worship of God finds themselves confronting problems too difficult for human minds. Education is the instrument by which we reach man's higher senses bringing him into closer relation with God, better preparing him to lift his fellowman to a higher plane of religious and civic righteousness. Industry is God's highest earthly law for the development of man and beasts. An empty head and an idle hand leads to the destruction of race or nation. To develop spiritually we must put our talents to the exchange and give to the spiritual world the best we have in us, otherwise we become spiritual dwarfs and have no claim upon heaven or earth.
 
-What is true of the moral world is true of the physical world. The man who fails to toil and develop the physical man becomes a weakling and can't give back to the world more than he is. We can never give out more than we take on. If the race would take on more of the science of agriculture he would be better prepared to supply the wants and meet the real needs of the country. The farm will bring him to the front as no other avocation. When we produce the necessities of life we are sought by all.
+What is true of the moral world is true of the physical world. The man who fails to toil and develop the physical man becomes a weakling and can't give back to the world more than he is. We can never give out more than we take on If the race would take on more of the science of agriculture he would be better prepared to supply the wants and meet the real needs of the country. The farm will bring him to the front as no other avocation. When we produce the necessities of life we are sought by all.
 
-It is high time that the race besir themselves and take time by the forelock, for it is a fact that we are living in the most crucial period of the race's history since Emancipation as it pertains to the laws of the government. racial hatred and the business world.
+It is high time that the race besir themselves and take time by the forelock, for it is a fact that we are living in the most crucial period of the race's history since Emancipation as it pertains to the laws of the government, racial hatred and the business world.
 
-The time is far spent and the opportunities that presented themselves thirty-five or forty years ago will never return. Land that could be bought then for five, ten, fifteen and twenty dollars per acre, sells now for one hundred and fifty dollars per acre. We admit that the employment as waiters in cafe, hotels, porters and coachmen are well enough and the race should do its best to please their employer and hold these jobs, but the avocation that will bring the race and his into demand is the farm-life—the only independent life lived by the human family and the best place to raise the boys and girls.
+The time is far spent and the opportunities that presented themselves thirty-five or forty years ago will never return. Land that could be bought then for five, ten, fifteen and twenty dollars per acre, sells now for one hundred and fifty dollars per acre. We admit that the employment as waiters in cafe, hotels, porters and coachmen are well enough and the race should do its best to please their employer and hold these jobs, but the avocation that will bring the race and his into demand is the farm life—the only independent life lived by the human family and the best place to raise the boys and girls.
 
 A large per cent of those raised in cities and towns generally develop into city dudes.
 
@@ -255,21 +335,12 @@ Proof Reader and Stenographer.
 Address matter for the paper to The Forum, 305 $ \frac{1}{2} $ So. Sixth St.
 Matters of business or information to E. L. Rogers, Mgr.
 
-Matters of business or information to E. L. Rogers, Mgr.
-
 ## TIME TABLE OF THE SPRINGFIELD CONSOLIDATED RAILWAY CO.
-
-Cars leave Fifth and Monroe streets as follows:
 
 Cars leave Fifth and Monroe streets as follows:
 
 For North Fifth street every 10 minutes from 6:00 a. m. until 11:20 p. m. Owl cars at 11:40 p. m., 12:07 and 12:30 a. m.
 For South Fifth street every 10 minutes from 6:05 a. m. until 11:20 p. m. Owl cars at 1
-
-Cars leave Fifth and Washington:
-For South Eleventh street every 15 minutes from 6:07 a. m. until 12:52 a. m.
-For Rutledge street every 15 minutes from 6:07 a. m. until 11:22 p. m.
-Owl cars at 11:52 p. m. and 12:23 a. m.
 
 ## The Clubs, Social and Otherwise.
 
@@ -280,8 +351,6 @@ St. Paul Sewing Circle meets every Thursday at Lecture room of St. Paul church, 
 Mothers' Literary, meets every month, auxiliary to St. Paul Sewing Circle.
 
 The Woman's Club, meets every week, is the oldest club—has been and is a rescue club for the fallen, a philanthropic agency, this club has a social and juvenile section.
-
-Don't Worry Twelve is composed of of the elderly married ladies—meets weekly.
 
 Don't Worry Twelve is composed of of the elderly married ladies—meets weekly.
 
@@ -363,11 +432,13 @@ Ten cents a copy; $1 a year; Canadian, $1.25. Send for a copy, or, better, send 
 
 # Ford's Hair Pomade
 
+```markdown
+
+```
+
 ## Fifty years of success have proved the merits of this preparation.
 
 What is more attractive than a beautiful head of hair? It has been the ambition of women in all ages. The use of Ford's Hair Pomade makes stubborn, harsh, kinky or curly hair softer, more pliable and glossy, easy to comb and arrange in any style desired consistent with its length, as long as the Pomade remains in the hair. This result may be obtained by one thorough application according to directions. Two to four applications a month will keep the hair in satisfactory condition, and two to four bottles, regular size, are usually sufficient for a year. Directions with every bottle.
-
-Before Using
 
 ## Ford's Hair Pomade
 
@@ -382,6 +453,8 @@ One " small " " " . . .25
 
 We pay postage and express charges to all points in U.S.A. When ordering send Postal or Express Money Order. All orders shipped promptly on receipt of price.
 
+## DIXIE LIQUID BLEACH Fish! Fish! Fish!
+
 Call at Thompson's, 815 East Wash ington st for colored papers.
 
 B. Kirman,
@@ -390,9 +463,66 @@ B. Kirman,
 
 # The Tailor
 
+Cleaning, Dyeing, Repairing and Pressing.....
+
+While You Wait Of Ladies and Gents Garments
+
+Second hand clothes to sell also new ones for Ladies and Men. Hats cleaned and Blocked. Prices very cdeap on all articles.
+
+Springfield, - Illinois Old hone 1550.
+
+## Public stenogra phy.
+
+Done at This Office.
+
+Short-hand. typewriting and amanuensis work. Business letters, accounts itemized, Essays, speeches or Sermons. written on machine.
+
+## Give us a Trial.
+
+The FORUM, 305 S. 6
+MISS DAISY DONALDSON,
+Stenographer.
+Old 'Phone, 998. Springfield Illinois
+
+DIXIE LIQUID BLEACH
+(Alcohol 16-10 per cent)
+A High Class Complexion Beautifier
+For Ladies and Gentlemen
+of All Races.
+
+Before Using After Using
+
+JACKIE STANLEY
+
+(1)
+
+PETER H. BROWN
+
+M.
+
+After Using
+
+Before Using After Using This preparation will not make you white, but will make your complexion fair.
+
+For removing pimples, blackheads, ring worms, and sun burn, wrinkles, bumps, chapped hands and tetter, or exzema, also liver spots. Keeps the skin soft and youthful, makes people good looking.
+
+## 4 OZ. BOTTLE, PRICE 50 CENTS
+
+If your Druggist hasn't it, send Money order, to address below. We will send it to you either by mail or express, charges prepaid. Reference, Owensboro Banking Co. Owensboro, Ky.
+
+Serial No. 27862, guaranteed by JONES, WESTERFIELD & CO., Owensboro, Ky., under Pure Food and Drug Act, June 30, 1909
+
+Dixie Liquid Bleach Made Only By JONES, WESTERFIELD & CO.
+
+If you desire special write-ups of social or church affairs, with all details, no condensation, etc., see the manager, as there will be some charges.
+
+ILLINOIS
+TRACTION SYSTEM
+
 TIME TABLE
 ILLINOIS TRACTION SYSTEM—CARS
 leave Springfield:
+
 East. North. South.
 5:00 a.m. 5:00 a.m. *5:00 a.m.
 6:00 a.m. *6:40 a.m. 6:00 a.m.
@@ -412,28 +542,17 @@ East. North. South.
 8:30 p.m. 9:00 p.m.
 10:00 p.m. 11:20 p.m.
 11:00 p.m. †11:30 p.m.
+
 *Limited. †Sleeper. All others local.
-
-Cleaning, Dyeing, Repairing and Pressing.....
-
-Second hand clothes to sell also new ones for Ladies and Men. Hats cleaned and Blocked. Prices very cdeap on all articles.
-
-Springfield, - Illinois Old hone 1550.
 
 NO DUST
 DIRT
 SMOKE
 CINDER
 
-## Public stenogra phy.
-
 ## Adjustment Notice.
 
 Estate of William A. Garth, deceased. The undersigned, having been appointed Administratrix of the estate of said deceased, hereby gives notice that she will appear before the Probate Court of Sangamon County, Illinois, at the March Term thereof, which will be held at the Court House of said County, beginning on the 7th day of March 1910, at which time all persons having claims against said estate are hereby notified to attend for the purpose of having the same adjusted. All persons indebted to said Estate are also requested to make immediate payment to the undersigned.
-
-Done at This Office.
-
-Short-hand. typewriting and amanuensis work. Business letters, accounts itemized, Essays, speeches or Sermons. written on machine.
 
 ated this 13th day of January 1910.
 
@@ -443,76 +562,102 @@ Attorney, Administratrix
 
 ## Neal & Brown
 
-Have moved to 80912 E. Washington Street. Furnished Rooms and Private Boarding House. Special attention given to serv-
+Have moved to 8091 E. Washington Street. Furnished Rooms and Private Boarding House. Special attention given to serving parties and banquets. Good Service Rendered. Your Patronage Solicited. 8091-2 E. Washington
 
-## Give us a Trial.
-
-Good Service Rendered. Your Patronage Solicited.
-
-Old'Phone.998. Springfield Illinois
-
-8091-2 E.Washington
-
-## DIXIE LIQUID BLEACH Fish! Fish! Fish!
-
-## Fish! Fish! Fish!
-
-(Alcohol 16-10 per cent) A High Class Complexion Beautifier For Ladies and Gentlemen of All Races.
-
-The East End Fish Market
-Fresh and Fried, all hours during the day and until 11.30 p.m.
-at night. 1519 E. Mason street,
-Bell Telephone 3439
+Fish! Fish! Fish!
+The East End Fish Market—Fresh and Fried, all hours during the day and until 11.30 p.m. at night. 1519 E. Mason street, Bell Telephone 3439
 
 S. J. Fisher,
 Proprietor.
 
 ## Millinery &
 
-Dressmaking Taught by Mrs. Clark Thompfon.
-
-Before Using After Using This preparation will not make you white, but will make your complexion fair.
-
+Dressmaking
+Taught by Mrs. Clark
+Thompfon.
 1207 E. Washington
-
-For removing pimples, blackheads, ring worms, and sun burn, wrinkles, bumps, chapped hands and tetter, or exzema, also liver spots. Keeps the skin soft and youthful, makes people good looking.
 
 ## Y. M. C. A. March.
 
 We have yet a few copies the Y. M. C. A. March by that brilliant young composer, Maurice . Thomas. This is one of the prettiest compositions we have heard in recent years if the piano lovers will give it a trial, we are satisfied that it will go big in this city. This music is for sale at this office.
 
-## 4 OZ. BOTTLE, PRICE 50 CENTS
-
-If your Druggist hasn't it, send Money order, to address below. We will send it to you either by mail or express, charges prepaid. Reference, Owensboro Banking Co. Owensboro, Ky.
-
 Residence Phone
 2819-R 3
-
-Office Phone Residence Phone
-2322 2819—R 3
 
 Office Phone
 2322
 
-Serial No. 27862, guaranteed by JONES,
-WESTERFIELD & CO., Owensboro, Ky.
-under Pure Food and Drug Act, June 30, 1909
-Dixie Liquid Bleach Made Only By
-JONES, WESTERFIELD & CO.
-
 ## A Morris Williams
 
-Attorney a+ Law.
+Attorney-at-Law.
 
 WILLIAMS' BLDG.
 11th and Washington Sts.
 
 Springfield, - Illinois
 
-If you desire special write-ups of social or church affairs, with all details, no condensation, etc., see the manager, as there will be some charges.
-
 ---
 ## Page 5
+
+forums and on the stump. Here are the names of some of the books: "Famous Orators of the World and Their Orations," "Dunbar's Complete Works," "This Country of Ours," "Farming by Inches," "Hiawatha," 75 ture," by 100 colored young men; "Young People's History of the World," "Masterpieces of English Oratory," and anything else not listed, call on or write E. L. ROGERS, Agent.
+
+To Peoria
+-VIA-
+nois Traction
+System.
+
+Illinois
+Sys
+
+$1 00 O
+$1 95 R
+
+Cars Leave
+
+$1 00 ONE WAY
+$1 95 ROUND TRIP
+
+rs Leave Springfield
+5:40—6:40—8:40—10:40 A. M.
+12:40—2:40—4:40—6:40 P. M.
+
+THE SAFE WAY NO DUST DIRT SMOKE CINDERS.
+
+the regular low price, subscriptions will be accepted for a
+Louis Weekly Globe-Democrat, issued twice every
+large pages each Tuesday and Friday. Send one dollar
+get this great semi-weekly newspaper two full years.
+With another name, and the paper will be mailed one year
+car to the other subscriber. All the news of all the
+complete market reports. Ably edited departments for
+arm. Many features of interest and value to every
+Republican in politics. Conservative, dignified, truth-
+ute and up-to-date. Don't miss the biggest Newspaper
+Write for free Sample copy. Better still, send in your
+
+Address
+
+At just one-half the regular low price, subscriptions will be accepted for a limited time to the St. Louis Weekly Globe-Democrat, issued twice every week; eight or more large pages each Tuesday and Friday. Send one dollar promptly, and you will get this great semi-weekly newspaper two full years. Or send one dollar with another name, and the paper will be mailed one year to you, and also one year to the other subscriber. All the news of all the Earth. Correct and complete market reports. Ably edited departments for the home and for the farm. Many features of interest and value to every member of the family. Republican in politics. Conservative, dignified, truthful, reliable, progressive and up-to-date. Don't miss the biggest Newspaper bargain ever offered. Write for free Sample copy. Better still, send in your order today. Address
+
+GLOBE PRINTING COMPANY, St. Louis, Mo.
+
+AWRENCEDUNBAR'S
+
+Life Work for Only $1.75
+
+PAULLAWRENCEDUNBAR'S
+
+Complete Life Work for Only $1.75
+
+For sale by E. L. ROGERS, Agent
+
+With Gorgeous Illustrations
+
+Should be in every intelligent home over the land
+
+No poet sings so sweet, no poet is so humurous nor pathetic than Dunbar. While celestial ages shall roll on, the glory of his greatuess shall become known
+
+Brown & Brown
 
 ## J.B. OSBY REAL ESTATE
 
@@ -529,6 +674,8 @@ Expert!
 Terms to Suit. No Students.
 Painless Extracting Free
 $3 00-Set of Teeth$-3 00
+
+ABD
 
 Hours—8 to 8 Sundays—9 to 1.
 Davis Dental Specialists
@@ -597,7 +744,9 @@ Sociologist Instructor,
 
 That Negro Business Men's League is the timeliest thing of the last decade organized here.
 
-forums and on the stump. Here are the names of some of the books:
+THE
+SAFE
+WAY
 
 CHAS. S. GIBBS
 Attorney and Counsellor
@@ -607,41 +756,14 @@ Office 2231 S. 5th St.
 Rear of White Dental Parlors.
 Old Phone 1963
 
-"Famous Orators of the World and Their Orations," "Dunbar's Complete Works," "This Country of Ours," "Farming by Inches," "Hiawatha," 75 ture," by 100 colored young men; "Young People's History of the World," "Masterpieces of English Oratory," and anything else not listed, call on or write E. L. ROGERS, Agent.
-
-$ \frac { \$ 1 0 0 O N E W A Y } { \$ 1 9 5 R O U N D T R I P } $
-
-rs Leave Springfield
-5:40—6:40—8:40—10:40 A. M.
-12:40—2:40—4:40—6:40 P. M.
-
 THE RAPID WAY
-
-NO DUST DIRT SMOKE CINDERS.
-
-DUST
-DIRT
-SWOKE
-CINDERS
-
-THE
-SAFE
-WAY
-
-At just one-half the regular low price, subscriptions will be accepted for a limited time to the St. Louis Weekly Globe-Democrat, issued twice every week; eight or more large pages each Tuesday and Friday. Send one dollar promptly, and you will get this great semi-weekly newspaper two full years. Or send one dollar with another name, and the paper will be mailed one year to you, and also one year to the other subscriber. All the news of all the Earth. Correct and complete market reports. Ably edited departments for the home and for the farm. Many features of interest and value to every member of the family. Republican in politics. Conservative, dignified, truthful, reliable, progressive and up-to-date. Don't miss the biggest Newspaper bargain ever offered. Write for free Sample copy. Better still, send in your order today. Address
-
-GLOBE PRINTING COMPANY, St. Louis, Mo.
-
-Complete Life Work for Only $1.75
-
-For sale by E. L. ROGERS, Agent
-
-Should be in every intelligent home over the land.
-
-No poet sings so sweet, no poet is so humurous nor pathetic than Dunbar. While celestial ages shall roll on, the glory of his greatuess shall become known
 
 ---
 ## Page 6
+
+---
+
+NICHOLAS H.
 
 ## of the State Insurance Department.
 
@@ -714,7 +836,13 @@ H. SALLIE, C. C.
 
 WANTED-Colored girls for cooks and house work. Apply at Illinois Free Employment Bureau. 3054 S.6th St.
 
-Anyone sending a sketch and description may quickly ascertain our opinion free whether an invention is probably patentable. Communications strictly confidential. HANDBOOK on Patents seeks patenting patents. Patents taken through Munn & receive special notice, without charge, in the
+60 YEARS' EXPERIENCE
+PATENTS
+TRADE MARKS
+DESIGNS
+COPYRIGHTS & C.
+Anyone sending a sketch and description may quickly ascertain our opinion free whether an invention is probably patentable. Communications strictly confidential. HANDBOOK on Patents sent free. Oldest agency for securing patents.
+Patents taken through Munn & Co. receive special notice, without charge, in the
 
 ## Scientific American.
 
@@ -730,37 +858,51 @@ Nothing Pays Like Advertising
 
 THE FORUM Will be offered for the next
 
-To all who pay in advance when name is given.
+```markdown
+
+```
+
+30 Days
+
+FOR
+
+$1.00
+
+—PER YEAR—
+
+To all who pay in ad-
+vance when name is
+given.
 
 Gov. Chas. S. Deneen
 
+S.
+
 Is taking the stump in defense of his idea of the importance of the deep water ways and a primary bill whereby the people may directly name the men for political office and is being enthusiastically applauded.
+
+No matter what your physician calls for in the Prescription you can depend on getting it at Clarkson'S Modern Drug Store
+
+213 S. 6th St.
 
 ## Judge Murray Visits the Schools.
 
-Judge George W. Murray's work in the juvenile court has been so fruitful, so benificent, so deserving of commendation, that the schools of this county and other counties are soliciting his services in a series of lectures to their scholars. The object being to instruct the pupils the way of right living. We take the following from the January number of the monthly publication, entitled, "Sangamon School Interests," which is a very creditable publication, devoted to the Sangamon County School interests, published every month by the County Superintendent of the Sangamon County Schools; the State Officers support this journal, and we are informed have attended several of the lectures of Judge Murray to the school children named below:
+Judge George W. Murray's work in the juvenile court has been so fruitful, so benificent, so deserving of commendation, that the schools of this county and other counties are soliciting his services in a series of lectures to their scholars. The object being to instruct the pupils the way of right living. We take the following from the January number of the monthly publication, entitled, "Sangamon School Interests," which is a very creditable publication, devoted to the Sangamon County School interests, published every month by the County Superintendent of the Sangamon County Schools; the State Officers support this journal, and we are informed have attended several of the lectures of Judge Murray to the school children named below;
 
-Hon George W. Murray, Judge of the Juvenile Court on invitation of the County Superintendent has been doing a great work for the boys and girls of our county, and it is not making statements too strong to say that this kind of education for right living and the up building of moral principles in the youth of the land is not surpassed by any Juvenile Court Judge in the United States.
+Hon George W. Murray, Judge of the Juvenile Court on invitation of the County Superintendent has been doing a great work for the boys and girls of our county, and it is not making statesments too strong to say that this kind of education for right living and the up building of moral principles in the youth of the land is not surpassed by any Juvenile Court Judge in the United States.
 
 The lecture on the "Two Ways" illustrated by a handsome chart, has been delivered by Judge Murray at the following places during the month of December:
 
-December 3. New City, when Mr. P. H. Fitzsimmon's room had 22 present and Miss Craig's with a like number; South Cotton Hill, with Miss Priscilla Nave and 11 pupils; Miss Mildred Tobin, from Cascade School came with 8 pupils, Miss Edna Nutt, teacher at Rienzi School came with 17 pupils and the Colean district was represented by 6 pupils.
+December 3. New City, when Mr. P. H. Fitzsimmon's room had 22 present and Miss Craig's with a like number; South Cotton Hill, with Miss Priscilla Nave and 11 pupils; Miss Mildred Tobin, from Cascade School came with 8 pupils, Miss Edna Nutt. teacher at Rienzi School came with 17 pupils and the Colean district was represented by 6 pupils.
 
 This meeting was held in the M. E. church and was attended by more than 150 people. It was a decided success.
 
 On the evening of December 9, a fine meeting was held at the
 
-No matter what your physician calls for in the
+Douglas Avenue M. E. church under the auspices of the Mothers' Club of the Dubois Scyool and was presided over by Mrs Cy Morrow, President of the Club A program by pupils of the school was given prior to the lecture. On the afternoon of December 10, a meeting was held at the M.E. church at Lowder. for the schools in Talkington township.
 
-Douglas Avenue M. E. church under the auspices of the Mothers' Club of the Dubois Scyool and was presided over by Mrs Cy Morrow, President of the Club A program by pupils of the school was given prior to the lecture.
+Mr. Oscar Mounce, principal of the Lowder School and Miss Mary Muckleston, primary teacher were present with 24 pupils each The Prospect School was represented by W.A. Taylor, teacher and 11 pupils. The Sherman School sent 9 pupils and teacher, Miss Hattie Goass. The Victory School had 18 pupils and teacher, Miss Maude Caswell. John's Creek School was represented by Miss Bertha Bullard teacher. The County Line had 10 pupils, with Miss Anna Smith teacher, present. The Larrabee School sent 15 pupils with William Wilson, director. The Bumgardner had 4 pupils and teacher, miss Ida Ramsey, present. The Prosperity School sent one pupil, and teacher, miss mayre Bailey.
 
-On the afternoon of December 10, a meeting was held at the M.E. church at Lowder, for the schools in Talkington township.
-
-Mr. Oscar Mounce, principal of the Lowder Schoool and Miss Mary Muckleston, primary teacher were present with 24 pupils each. The Prospect School was represented by W. A. Taylor, teacher and 11 pupils. The Sherman School sent 9 pupils and teacher, Miss Hattie Goass. The Victory School had 18 pupils and teacher, Miss Maude Caswell. John's Creek School was represented by Miss Bertha Bullard teacher. The County Line had 10 pupils, with Miss Anna Smith teacher, present. The Larrabee School sent 15 pupils with William Wilson, director. The Bumgardner had 4 pupils and teacher, Miss Ida Ramsey, present. The Prosperity School sent one pupil, and teacher, Miss Mayre Bailey.
-
-On December 17, Educational Day for the schools of Logan County, Judge Murray spoke at Lincoln to boys, girls and teachers. The meeting was held in the Circuit Court room which was too small for the large audience attending.
-
-Large crowds greeted the Judge at meetings held at Loami and Glenarn during the month.
+On December 17, Educational Day for the schools of Logan County, Judge Murray spoke at Lincoln to boys, girls and teachers. The meeting was held in the Circuit Court room which was too small for the large audience attending. Large crowds greeted the Judge at meetings held at Loami and Glenarn during the month.
 
 ## The Program at Grace M. M.
 
@@ -773,12 +915,9 @@ Subscribe for The Forum and keep posted.
 
 ## Negro Joins Mrs. Belmont.
 
-# Negro Joins
-Mrs. Belmont.
+# Negro Joins Mrs. Belmont.
 
 ## Society Leader Includes Blacks in Her Fight for Rights for Women.
-
-Society Leader Includes Blacks in Her Fight for Rights for Women.
 
 New York, Monday—Society women who have joined with Mrs. O. H. P. Belmont, in the war for equal rights for all, especially in the matter of voting are faltering today because Mrs. Belmont has taken Negro women into the fold on the equal rights basis.
 
@@ -786,45 +925,9 @@ Mrs. Belmont, as president of the Political Equality association, went motoring 
 
 ## 50th Wedding Anniversary of Mr. and Mrs. Robt. Wormley.
 
-On Thursday evening, January 27, 1910, occurred the 50th wed
-ding anniversary of Mr. and Mrs.
-Robert Wormley. At 8.30 o'clock
-the bride, Mrs. Wormley came
-into the church leaning on the
-arm of her youngest son, Jesse
-and Mr. Wormley came in attended
-by his daughter, Miss Jennie.
-They were met at the attar by
-Rev B. L. Ivory. Preceeding
-the bride and groom were the
-flower bearers, Little Inez Crad-
-dock and Master Theodore
-Wormley, Rev. B. L. Ivory
-performed the ceremony after
-which Dr. J. H. Magee spoke of
-the forebearance of these vener-
-able people who, even admidst
-adversity, had spent so long a
-time together, and it was his sin-
-cere hope that they might live
-fifty years longer. It death
-should separate them it was his
-fond hope that the one who
-would depart first would wait at
-the banks of sweet Jerusalem un-
-til his companion should join him
-in that haven of rest.
+On Thursday evening, January 27, 1910, occurred the 50th wedding anniversary of Mr. and Mrs. Robert Wormley. At 8.30 o'clock the bride, Mrs. Wormley came into the church leaning on the arm of her youngest son, Jesse and Mr. Wormley came in attended by his daughter, Miss Jennie. They were met at the altar by Rev B. L. Ivory. Preceeding the bride and groom were the flower bearers. Little Inez Craddock and Master Theodore Wormley, Rev. B. L. Ivory performed the ceremony after which Dr. J. H. Magee spoke of the forebearance of these venerable people who, even admidst adversity, had spent so long a time together, and it was his sincere hope that they might live fifty years longer. If death should separate them it was his fond hope that the one who would depart first would wait at the banks of sweet Jerusalem until his companion should join him in that haven of rest.
 
-The decorations prevailing in
-the lecture room of the church
-were white and gold which were
-artistically arranged. The ta-
-cles were decorated with white
-and yellow carnations and palms.
-Seated at the first table were the
-endery ladies and gentlemen,
-friends of the bride and groom.
-The menu consist of—
+The decorations prevailing in the lecture room of the church were white and gold which were artistically arranged. The taulles were decorated with white and yellow carnations and palms. Seated at the first table were the elderly ladies and gentlemen, friends of the bride and groom. The menu consist of—
 
 Pickles Olives
 Bread and Butter Sandwiches
@@ -833,13 +936,7 @@ Gold Ice Cream White Ice Cream
 Golden Cake
 Coffee
 
-Mr. and Mrs. Wormley recei-
-ved a bag of gold from state house
-employees and many others and
-they were also the recipients of
-many other valuable presents.
-The Union Baptist church pres-
-ented them $10 in gold.
+Mr. and Mrs. Wormley received a bag of gold from state house employees and many others and they were also the recipients of many other valuable presents. The Union Baptist church presented them $10 in gold.
 
 Mrs. Virgie Cummings of Decatur, spent several days in the city this week visiting her sick sister. Mrs. C. Grant.
 
@@ -863,13 +960,19 @@ Died at 7:40 o'clock Sunday morning February 6, 1910, at the residence, 18th and
 
 A colored girl won first honors in her class at Hoboken, N. J., last week among a large number of white children. All the papers made comments thus keeping the Negro before the time light. There are but few colored people in the city which has a population of 10.000.
 
-Last Sunday the services at Grace M. E. church were conducted at 11 a. m. by Rev. E. K. Manuel and at 8 p. m. by Rev. Ben Johnson of St Paul church. The Sunday school and Epworth League are making material progres.
+Last Sunday the services at Grace M. E. church were conducted at 11 a. m. by Rev. E. K. Manuel and at 8 p. m. by Rev. Ben Johnson of St Paul church The Sunday school and Epworth League are making material progres.
 
 Tonight at Union Baptist church the Lincoln Memorial services will be held. Come early, no reserved seats—the house will be crowded. A most excellent program will be rendered—see it on another page of this issue.
 
 Mr. Brown of Yonkers, N. Y.. is in the city.
 
 The many friends of Mrs. Fannie Carter, formerly of this city, will be surprised no doubt to hear of her marriage to a Mr. Smith of Quincy.
+
+## HERE IS YOUR CHANCE.
+
+WE WANT AGENTS for that GREAT BOOK "POINTING THE WAY," By Sutton E. Griggs. This is the ripest work of this well known author. The book will certainly sell, for in a beautiful, charming, forceful manner, it points outs the way for THE SOLVING of the much discussed race question. It takes equally well with white and colored people. Ask any one who has read it and he will tell you it is simply great. Splendid commissions given agents. Send $1.00 for a complete book and full outfit. Price of book $1.00. By mail $1.10.
+
+TENNESSEE.
 
 NO MONEY REQUIRED until you receive and approve of your bicycle. We ship to anyone, anywhere in the U.S. without a cent deposit in advance, prepay freight, and allow TEN DAYS' FREE TRIAL during which time you may ride the bicycle and put it to any test you wish. If you are then not perfectly satisfied or do not wish to keep the bicycle ship it back to us at our expense and you will not be out one cent.
 
@@ -881,34 +984,66 @@ SECOND HAND BICYCLES. We do not regularly handle second hand bicycles, but usual
 
 COASTER-BRAKES. single wheels, imported roller pedals, parts, repairs and equipment of all kinds at half the retail price
 
+COASTER-BRAKES, single wheels, imported roller
+equipment of all kinds at half the usual
+$ 8.50 HEDGETHORN PUNCT
+SELF-HEALING TIRES
+The regular retail price of these tires is
+$8.50 per pair, but to introduce we will
+sell you a sample pair for $4.80 (cash with order $4.55).
+NO MORE TROUBLE FROM PUNCTURES
+
 # 50 HEDGETHORN PUNCTURE-PROOF SELF-HEALING TIRES A SAMPLE PAIR TO INTRODUCE,ONLY
+
+HEDGE THORN RECORD
+PUNCTURE TIRE 00
+PROOF CHICAGO
+SELF HEALING U.S.A.
+
+a specialist in clothing and which closes up small punctures without allowing the air to escape. We have hundreds of letters from satisfied customers stating that their tires have only been pumped up once or twice in a whole season. They weigh no more than an ordinary tire, the puncture resisting qualities being given by several layers of thin, specially prepared fabric on the tread. The regular price of these tires is $5.50 per pair, but for advertising purposes we are making a special factory price to
 
 the rider of only $4.80 per pair. All orders shipped same day letter is received. We ship C. O. D. on approval. You do not pay a cent until you have examined and found them strictly as represented. We will allow a cash discount of 5 per cent (thereby making the price $4.55 per pair) if you send FULL CASH WITH ORDER and enclose this advertisement. We will also send one nickel plated brass hand pump. Tires to be returned at OUR expense if for any reason they are not satisfactory on examination. We are perfectly reliable and money sent to us is as safe as in a bank. If you order a pair of these tires, you will find that they will ride easier, run faster, wear better, last longer and look finer than any tire you have ever used or seen at any price. We know that you will be so well pleased that when you want a bicycle you will give us your order. We want you to send us a trial order at once, hence this remarkable tire offer.
 
-IF YOU NEED TIRES don't buy any kind at any price until you send for a pair of the special introductory price quoted above; or write for our big Tire and Sundry Catalogue which describes all makes and kinds of tires at about half the usual prices.
+the rider of only $4.80 per pair. All orders shipped same day approval. You do not pay a cent until you have examined as well. We will allow a cash discount of 5 per cent (thereby may send FULL CASH WITH ORDER and enclose this ad nickel plated brass hand pump. Tires to be returned at OR not satisfactory on examination. We are perfectly reliable bank. If you order a pair of these tires, you will find the wear better, last longer and look finer than any tire you have know that you will be so well pleased that when you want. We want you to send us a trial order at once, hence this rem IF YOU NEED TIRES don't buy any kind at the special introductory price quoted above; or write for our
+
+IF YOU NEED TIRES don't buy any kind at any price until you send for a pair of Hedgethorn Puncture-Proof tires on approval and trial at the special introductory price quoted above; or write for our big Tire and Sundry Catalogue which describes and quotes all makes and kinds of tires at about half the usual prices.
 
 DO NOT WAIT but write us a postal today. DO NOT THINK OF BUYING a bicycle or a pair of tires from anyone until you know the new and wonderful offers we are making. It only costs a postal to learn everything. Write it NOW.
 
 ## J. L. MEAD CYCLE COMPANY, CHICAGO, ILL.
 
-## HERE IS YOUR CHANCE.
+Shoes
 
-WE WANT AGENTS for that GREAT BOOK "POINTING THE WAY," By Sutton E. Griggs.
+Walk Over For Men
 
-This is the ripest work of this well known author. The book will certainly sell, for in a beautiful, charming, forceful manner, it points outs the way for THE SOLVING of the much discussed race question. It takes equally well with white and colored people. Ask any one who has read it and he will tell you it is simply great. Splendid commissions given agents. Send $1.00 for a complete book and full outfit. Price of book $1.00. By mail $1.10.
+Dorothy Dodd For Ladies
 
-THE ORION PUB., CO.
-NASHVILLE,
-TENNESSEE.
+F. M. Legg Shoe Co.
+125 South Fifth Street.
+
+THE ORION PUB.. CO.
+
+double ou
+SECON
+usually have
+promptly at pr
+COASTER-BRAKES,
+$ 8 50 HE
+SELF-
+The regular
+$ 50 per pair
 
 NAILS, Tacks or Glass will not let the air out. Sixty thousand pairs sold last year. Over two hundred thousand pairs now in use. DESCRIPTION: Made in all sizes. It is lively and easy riding, very durable and lined inside with a special quality of rubber, which never becomes
-
-a specialist in clothing and which closes up small punctures without allowing the air to escape. We have hundreds of letters from satisfied customers stating that their tires have only been pumped up once or twice in a whole season. They weigh no more than an ordinary tire, the puncture resisting qualities being given by several layers of thin, specially prepared fabric on the tread. The regular price of these tires is $5.50 per pair, but for advertising purposes we are making a special factory price to
 
 SUTTON E. GRIGGS,
 Author, Orator, Philosopher.
 
-SUTTON E. GRIGGS, Author, Orator, Philosopher.
+SUTTON E. GRIGGS,
+Author, Orator, Philosopher.
+
+```markdown
+
+```
 
 Notice the thick rubber tread "A" and puncture strips "B" and "D," also rim strip "H" to prevent rim cutting. This tire will outlast any other make—SOFT, ELASTIC and EASY RIDING.
 
@@ -929,10 +1064,6 @@ Ladies' Guild Meets every
 Friday at ..... 2:00 p. m.
 Principal Saints' Days are observed by
 the celebration of Holy Commun-
-
-Friday at the
-Saints' Days are observed by
-the celebration of Holy Communion.
 
 ## St. Paul's A. M. E. Church,
 
@@ -1033,10 +1164,7 @@ Office: 1071 W. Side Square,
 
 SPRINGFIELD, ILLINOIS
 
-Hours: {9 to 11 a.m.} Diseases and
-3 to 5 p.m. A iliments of
-7 to 8 p.m. Women, a
-Specialty.
+HOURS: { 9 to 11 a.m. } Diseases and Ailments of Women, a Specialty.
 
 # FURNITURE STORE
 
@@ -1054,6 +1182,8 @@ OF LIFE that grows on you.
 You find yourself waiting
 with interest for what "Bill"
 has to say next.
+
+A. F. G.
 
 "BILL" OF LIFE. It is written by Mary Ives Todd, the ablest writer of Liberal fiction since Grant Allen, and is a beautiful presentation of the essentially modern problem of the Woman in Business.
 
@@ -1092,6 +1222,65 @@ Today is Saturday, pay for the Forum.
 
 Hear.....
 
+Dr. Book
+
+State
+
+Sum
+
+It will be a church choirs
+
+Admi
+
+For Sale
+Colored Pencil
+the
+
+N. Y. Ag
+
+Some of the be
+The Age gives you
+Colored pe
+
+Call at Thompson's,
+Resturant, Masonic
+tol Ave., L.
+
+Lincoln
+Program, Unic
+
+Opening song......
+
+Invocation......
+
+Patriotic Song......
+
+Introduction......
+
+Patriotic Song......
+
+Paper......
+
+Patriotic song......
+
+Oration......
+
+Jubilee song......
+
+Oration......
+
+Voice......
+
+Oration......
+
+Jubilee song......
+
+Free will Offering
+
+Jubilee song......
+
+Benediction.....
+
 It will be an inspiring occasion. The united church choirs of 100 voices, will render music.
 
 Admission Free
@@ -1102,30 +1291,24 @@ Admission Free
 
 Some of the best weekly papers in the Country. The Age gives you the most complete details of what the Colored people are doing worthy of note. Call at Thompson's, 815 Washington St. Neal and Brown's Resturant, Masonic Hall. Robert's Shoe store, 1707 E. Capitol Ave., L. J. Harris store, 1015 So. 17 St..
 
-Opening song...United Choirs
-Invocation...Rev. E. T. Cottman, D. D.
-Patriotic Song...United Choirs
-Introduction...Dr. J. H. Magee
-Patriotic Song...Juvenile Chorus
-Paper...Madam Jennie Coleman McClain
-Patriotic song...United Choirs
-Oration...Lincoln as a Statesman
-Rev. J. M. Smalley
-Jubilee song...United Choirs
-Oration...Lincoln as a Soldier
-Major Otis B. Duncan
-Voice...Madam Bowling
-Oration...Lincoln The Emancipator
-Capt. R. A. Byrd
-Jubilee song...United Choirs
-Free will Offering
-Jubilee song...Juvenile Choirs
-Benediction...Rev. R. L. Wilson
+Opening song.....United Choirs
+Invocation.....Rev. E. T. Cottman, D. D.
+Patriotic Song.....United Choirs
 
 Old Phone 1458
+
+FIRST W
+Brown Bros.
+
+Have your Old Clothing, Cleaned, Presse
+for and delivered pr
 
 ## FIRST WARD PANATORIUM
 
 Brown Bros., (better known as "Sticks") Props.
 
-Have your Old Clothes Made New—Ladies' and Gent's' Clothing, Cleaned, Pressed, Dyed and Repaired—All work called for and delivered promptly by Brown Brothers, the Clothes Doctors. 15th & Reynolds Sts. Springfield Ill
+Have your Old Clothes Made New—Ladies' and Gent's' Clothing, Cleaned, Pressed, Dyed and Repaired—All work called for and delivered promptly by Brown Brothers, the Clothes Doctors.
+
+15th & Reynolds Sts.
+
+Springfield, Ill

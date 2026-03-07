@@ -7,21 +7,12 @@ Proof Reader and Stenographer.
 Address matter for the paper to The Forum, 305 $ \frac{1}{2} $ So. Sixth St.
 Matters of business or information to E. L. Rogers, Mgr.
 
-Matters of business or information to E. L. Rogers, Mgr.
-
 ## TIME TABLE OF THE SPRINGFIELD CONSOLIDATED RAILWAY CO.
-
-Cars leave Fifth and Monroe streets as follows:
 
 Cars leave Fifth and Monroe streets as follows:
 
 For North Fifth street every 10 minutes from 6:00 a. m. until 11:20 p. m. Owl cars at 11:40 p. m., 12:07 and 12:30 a. m.
 For South Fifth street every 10 minutes from 6:05 a. m. until 11:20 p. m. Owl cars at 1
-
-Cars leave Fifth and Washington:
-For South Eleventh street every 15 minutes from 6:07 a. m. until 12:52 a. m.
-For Rutledge street every 15 minutes from 6:07 a. m. until 11:22 p. m.
-Owl cars at 11:52 p. m. and 12:23 a. m.
 
 ## The Clubs, Social and Otherwise.
 
@@ -32,8 +23,6 @@ St. Paul Sewing Circle meets every Thursday at Lecture room of St. Paul church, 
 Mothers' Literary, meets every month, auxiliary to St. Paul Sewing Circle.
 
 The Woman's Club, meets every week, is the oldest club—has been and is a rescue club for the fallen, a philanthropic agency, this club has a social and juvenile section.
-
-Don't Worry Twelve is composed of of the elderly married ladies—meets weekly.
 
 Don't Worry Twelve is composed of of the elderly married ladies—meets weekly.
 
@@ -115,11 +104,13 @@ Ten cents a copy; $1 a year; Canadian, $1.25. Send for a copy, or, better, send 
 
 # Ford's Hair Pomade
 
+```markdown
+
+```
+
 ## Fifty years of success have proved the merits of this preparation.
 
 What is more attractive than a beautiful head of hair? It has been the ambition of women in all ages. The use of Ford's Hair Pomade makes stubborn, harsh, kinky or curly hair softer, more pliable and glossy, easy to comb and arrange in any style desired consistent with its length, as long as the Pomade remains in the hair. This result may be obtained by one thorough application according to directions. Two to four applications a month will keep the hair in satisfactory condition, and two to four bottles, regular size, are usually sufficient for a year. Directions with every bottle.
-
-Before Using
 
 ## Ford's Hair Pomade
 
@@ -134,6 +125,8 @@ One " small " " " . . .25
 
 We pay postage and express charges to all points in U.S.A. When ordering send Postal or Express Money Order. All orders shipped promptly on receipt of price.
 
+## DIXIE LIQUID BLEACH Fish! Fish! Fish!
+
 Call at Thompson's, 815 East Wash ington st for colored papers.
 
 B. Kirman,
@@ -142,9 +135,66 @@ B. Kirman,
 
 # The Tailor
 
+Cleaning, Dyeing, Repairing and Pressing.....
+
+While You Wait Of Ladies and Gents Garments
+
+Second hand clothes to sell also new ones for Ladies and Men. Hats cleaned and Blocked. Prices very cdeap on all articles.
+
+Springfield, - Illinois Old hone 1550.
+
+## Public stenogra phy.
+
+Done at This Office.
+
+Short-hand. typewriting and amanuensis work. Business letters, accounts itemized, Essays, speeches or Sermons. written on machine.
+
+## Give us a Trial.
+
+The FORUM, 305 S. 6
+MISS DAISY DONALDSON,
+Stenographer.
+Old 'Phone, 998. Springfield Illinois
+
+DIXIE LIQUID BLEACH
+(Alcohol 16-10 per cent)
+A High Class Complexion Beautifier
+For Ladies and Gentlemen
+of All Races.
+
+Before Using After Using
+
+JACKIE STANLEY
+
+(1)
+
+PETER H. BROWN
+
+M.
+
+After Using
+
+Before Using After Using This preparation will not make you white, but will make your complexion fair.
+
+For removing pimples, blackheads, ring worms, and sun burn, wrinkles, bumps, chapped hands and tetter, or exzema, also liver spots. Keeps the skin soft and youthful, makes people good looking.
+
+## 4 OZ. BOTTLE, PRICE 50 CENTS
+
+If your Druggist hasn't it, send Money order, to address below. We will send it to you either by mail or express, charges prepaid. Reference, Owensboro Banking Co. Owensboro, Ky.
+
+Serial No. 27862, guaranteed by JONES, WESTERFIELD & CO., Owensboro, Ky., under Pure Food and Drug Act, June 30, 1909
+
+Dixie Liquid Bleach Made Only By JONES, WESTERFIELD & CO.
+
+If you desire special write-ups of social or church affairs, with all details, no condensation, etc., see the manager, as there will be some charges.
+
+ILLINOIS
+TRACTION SYSTEM
+
 TIME TABLE
 ILLINOIS TRACTION SYSTEM—CARS
 leave Springfield:
+
 East. North. South.
 5:00 a.m. 5:00 a.m. *5:00 a.m.
 6:00 a.m. *6:40 a.m. 6:00 a.m.
@@ -164,28 +214,17 @@ East. North. South.
 8:30 p.m. 9:00 p.m.
 10:00 p.m. 11:20 p.m.
 11:00 p.m. †11:30 p.m.
+
 *Limited. †Sleeper. All others local.
-
-Cleaning, Dyeing, Repairing and Pressing.....
-
-Second hand clothes to sell also new ones for Ladies and Men. Hats cleaned and Blocked. Prices very cdeap on all articles.
-
-Springfield, - Illinois Old hone 1550.
 
 NO DUST
 DIRT
 SMOKE
 CINDER
 
-## Public stenogra phy.
-
 ## Adjustment Notice.
 
 Estate of William A. Garth, deceased. The undersigned, having been appointed Administratrix of the estate of said deceased, hereby gives notice that she will appear before the Probate Court of Sangamon County, Illinois, at the March Term thereof, which will be held at the Court House of said County, beginning on the 7th day of March 1910, at which time all persons having claims against said estate are hereby notified to attend for the purpose of having the same adjusted. All persons indebted to said Estate are also requested to make immediate payment to the undersigned.
-
-Done at This Office.
-
-Short-hand. typewriting and amanuensis work. Business letters, accounts itemized, Essays, speeches or Sermons. written on machine.
 
 ated this 13th day of January 1910.
 
@@ -195,70 +234,36 @@ Attorney, Administratrix
 
 ## Neal & Brown
 
-Have moved to 80912 E. Washington Street. Furnished Rooms and Private Boarding House. Special attention given to serv-
+Have moved to 8091 E. Washington Street. Furnished Rooms and Private Boarding House. Special attention given to serving parties and banquets. Good Service Rendered. Your Patronage Solicited. 8091-2 E. Washington
 
-## Give us a Trial.
-
-Good Service Rendered. Your Patronage Solicited.
-
-Old'Phone.998. Springfield Illinois
-
-8091-2 E.Washington
-
-## DIXIE LIQUID BLEACH Fish! Fish! Fish!
-
-## Fish! Fish! Fish!
-
-(Alcohol 16-10 per cent) A High Class Complexion Beautifier For Ladies and Gentlemen of All Races.
-
-The East End Fish Market
-Fresh and Fried, all hours during the day and until 11.30 p.m.
-at night. 1519 E. Mason street,
-Bell Telephone 3439
+Fish! Fish! Fish!
+The East End Fish Market—Fresh and Fried, all hours during the day and until 11.30 p.m. at night. 1519 E. Mason street, Bell Telephone 3439
 
 S. J. Fisher,
 Proprietor.
 
 ## Millinery &
 
-Dressmaking Taught by Mrs. Clark Thompfon.
-
-Before Using After Using This preparation will not make you white, but will make your complexion fair.
-
+Dressmaking
+Taught by Mrs. Clark
+Thompfon.
 1207 E. Washington
-
-For removing pimples, blackheads, ring worms, and sun burn, wrinkles, bumps, chapped hands and tetter, or exzema, also liver spots. Keeps the skin soft and youthful, makes people good looking.
 
 ## Y. M. C. A. March.
 
 We have yet a few copies the Y. M. C. A. March by that brilliant young composer, Maurice . Thomas. This is one of the prettiest compositions we have heard in recent years if the piano lovers will give it a trial, we are satisfied that it will go big in this city. This music is for sale at this office.
 
-## 4 OZ. BOTTLE, PRICE 50 CENTS
-
-If your Druggist hasn't it, send Money order, to address below. We will send it to you either by mail or express, charges prepaid. Reference, Owensboro Banking Co. Owensboro, Ky.
-
 Residence Phone
 2819-R 3
-
-Office Phone Residence Phone
-2322 2819—R 3
 
 Office Phone
 2322
 
-Serial No. 27862, guaranteed by JONES,
-WESTERFIELD & CO., Owensboro, Ky.
-under Pure Food and Drug Act, June 30, 1909
-Dixie Liquid Bleach Made Only By
-JONES, WESTERFIELD & CO.
-
 ## A Morris Williams
 
-Attorney a+ Law.
+Attorney-at-Law.
 
 WILLIAMS' BLDG.
 11th and Washington Sts.
 
 Springfield, - Illinois
-
-If you desire special write-ups of social or church affairs, with all details, no condensation, etc., see the manager, as there will be some charges.

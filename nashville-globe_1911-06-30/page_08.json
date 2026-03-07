@@ -3,7 +3,51 @@
   "image": "images/page_08.jpg",
   "width": 1755,
   "height": 2800,
+  "processed_at": "2026-03-07T12:26:32.497301+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 73,
+    "after_merge": 47
+  },
   "regions": [
+    {
+      "bbox": [
+        171,
+        461,
+        472,
+        1187
+      ],
+      "label": "text",
+      "text": "glory\nhold\nwho\nDR.\nAtt'y\n\nF\nBril\ncom\nmal\n\nThis\n8 DI\n\nBA",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        324,
+        1164,
+        777,
+        1764
+      ],
+      "label": "text",
+      "text": "RIGHT STARCH RIGHT\nIRON RIGHT ALL RIGHT\nAl Laundry Dry Cleaning Company\nGordon Bros.\n3999 1618 Jackson Street\n\nENWOOD PARK.\nJULY 4 TUESDAY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        171,
+        1357,
+        472,
+        1764
+      ],
+      "label": "text",
+      "text": "WASH RIGHT S\nIRON RIGHT\nNational Laundry D\nGordon H\nPhone Main 3999\n\nGREENWO\nTUESDAY JUL",
+      "status": "ok"
+    },
     {
       "bbox": [
         211,
@@ -12,17 +56,52 @@
         1548
       ],
       "label": "text",
-      "text": "WASH RIGHT STARCH RIGHT\nIRON RIGHT ALL RIGHT\nNational Laundry Dry Cleaning Company\nGordon Bros.\nPhone Main 3999 1618 Jackson Street"
+      "text": "WASH RIGHT STARCH RIGHT\nIRON RIGHT ALL RIGHT\nNational Laundry Dry Cleaning Company\nGordon Bros.\nPhone Main 3999 1618 Jackson Street",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        324,
+        1764,
+        622,
+        1821
+      ],
+      "label": "text",
+      "text": "BASE BALL, foot races and every attractions of the day.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        171,
+        1821,
+        472,
+        2140
+      ],
+      "label": "text",
+      "text": "SHAM BATTLE\n\nYou are not sick,\nall. Come to the\n\nNoon Lu\n\n215 Locu\n\nand get a full dinn",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        324,
+        1821,
+        777,
+        2142
+      ],
+      "label": "text",
+      "text": "not sick, just hungry that's me to the\noon Lunch Cafe\n215 Locust Street\na full dinner for 10c",
+      "status": "ok"
     },
     {
       "bbox": [
         198,
-        1764,
+        1836,
         742,
         1861
       ],
       "label": "text",
-      "text": "BASE BALL, foot races and every attractions of the day. SHAM BATTLE BY COMPANY G."
+      "text": "SHAM BATTLE BY COMPANY G.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,27 +111,41 @@
         1992
       ],
       "label": "text",
-      "text": "You are not sick, just hungry that's all. Come to the"
-    },
-    {
-      "bbox": [
-        198,
-        2097,
-        619,
-        2161
-      ],
-      "label": "text",
-      "text": "and get a full dinner for 10c OPEN FROM 11:00 A.M. TO 2:00 P.M. L. Land"
+      "text": "You are not sick, just hungry that's all. Come to the",
+      "status": "ok"
     },
     {
       "bbox": [
         171,
-        2329,
-        472,
+        2097,
+        619,
         2622
       ],
       "label": "text",
-      "text": "Miss Elnora Sanders, of East Nashville, will leave the city Friday to spend a pleasant vacation with her father, Mr. Anthony Sanders, of Columbia, Tenn.\n\nMr. Hannibal Black, of 1015 Warren street, is visiting quite a few of the large cities in the west.\n\nMr. S. L. Ferguson and little son, La Ventriss, visited Clarksville Sunday.\n\nAt J. H. Foreman's corner Eleventh avenue, North, and Jefferson street (Matison's old stand), you can get just what you want in shoes, furnishings or dry goods at greatly reduced prices."
+      "text": "City Items.\n\nMiss Elnora Sanders, of East Nashville, will leave the city Friday to spend a pleasant vacation with her father, Mr. Anthony Sanders, of Columbia, Tenn.\n\nMr. Hannibal Black, of 1015 Warren street, is visiting quite a few of the large cities in the west.\n\nMr. S. L. Ferguson and little son, La Veptriss, visited Clarksville Sunday.\n\nAt J. H. Foreman's corner Eleventh avenue, North, and Jefferson street (Matison's old stand), you can get just what you want in shoes, furnishings or dry goods at greatly reduced prices.\n\nMiss L. Mae B who came over fright with the special School Congress was the guest of Hughes, of Fourteen left Saturday for go, Ill.\n\nDr. C. A. Adam Tex., a graduate will be in the city important mission.\n\nAll former recast Wednesday a tist Publishing B of orders for litter.\n\nMrs. Spencer C cago, Ill., who about two months er, Mrs. James Hynes street, left day night, as he to improve in her Mrs. C. H. Phil",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        171,
+        2622,
+        472,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        324,
+        2622,
+        777,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +155,8 @@
         461
       ],
       "label": "text",
-      "text": "CONEY ISLAND\nPARK\nNASHVILLE'S\nGREAT\nAMUSEMENT\nRESORT"
+      "text": "CONEY ISLAND\nPARK\nNASHVILLE'S\nGREAT\nAMUSEMENT\nRESORT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +166,19 @@
         1357
       ],
       "label": "text",
-      "text": "GONEY ISLAND\nPARK\nNASHVILLE'S\nGREAT\nAMUSEMENT\nRESORT"
+      "text": "GONEY ISLAND\nPARK\nNASHVILLE'S\nGREAT\nAMUSEMENT\nRESORT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        663,
+        195,
+        1144,
+        218
+      ],
+      "label": "text",
+      "text": "NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +188,8 @@
         491
       ],
       "label": "paragraph_title",
-      "text": "THE FORMAL OPENING LAST SUNDAY WAS DROWNED OUT"
+      "text": "THE FORMAL OPENING LAST SUNDAY WAS DROWNED OUT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +199,8 @@
         583
       ],
       "label": "text",
-      "text": "BE SURE you are on hand next Sunday and witness our opening in all of its glory. EVERY Visitor will be given absolutely free a ticket at the gate. The holder of the lucky ticket will be given a handsome prize."
+      "text": "BE SURE you are on hand next Sunday and witness our opening in all of its glory. EVERY Visitor will be given absolutely free a ticket at the gate. The holder of the lucky ticket will be given a handsome prize.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +210,8 @@
         685
       ],
       "label": "text",
-      "text": "Mayor H. E. Howse will open park and turn same over to the colored people, who will be addressed by the following well known colored orators:\nDR. R. F. BOYD A. N. JOHNSON DR. C. V. ROMAN\nAtt'y R. L. MAYFIELD PROF. RICHARD HILL DR. H. T NOEL"
+      "text": "Mayor H. E. Howse will open park and turn same over to the colored people, who will be addressed by the following well known colored orators:\nDR. R. F. BOYD A. N. JOHNSON DR. C. V. ROMAN\nAtt'y R. L. MAYFIELD PROF. RICHARD HILL DR. H. T NOEL",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,17 +221,8 @@
         805
       ],
       "label": "paragraph_title",
-      "text": "On July 4th RACES FOOT SACK POTATO FAT MEN'S Races"
-    },
-    {
-      "bbox": [
-        432,
-        737,
-        854,
-        803
-      ],
-      "label": "paragraph_title",
-      "text": "On July 4th RACES"
+      "text": "On July 4th RACES FOOT SACK POTATO FAT MEN'S Races",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +232,8 @@
         994
       ],
       "label": "text",
-      "text": "FREE Band Concerts Day and Night Brilliant display of Fireworks, dazzling and bewildering, worth coming miles to witness. No expense will be spared in making the 4th of July, 1911, a day never to be forgotten."
+      "text": "FREE Band Concerts Day and Night Brilliant display of Fireworks, dazzling and bewildering, worth coming miles to witness. No expense will be spared in making the 4th of July, 1911, a day never to be forgotten.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +243,8 @@
         1091
       ],
       "label": "text",
-      "text": "This is for you and yours. Come out. A good time for everybody. 8 DIFFERENT WATERS FREE. FREE GATE."
+      "text": "This is for you and yours. Come out. A good time for everybody. 8 DIFFERENT WATERS FREE. FREE GATE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +254,8 @@
         1206
       ],
       "label": "text",
-      "text": "As Usual a Valuable Prize Given to the Lucky Ticket Holder"
+      "text": "As Usual a Valuable Prize Given to the Lucky Ticket Holder",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +265,8 @@
         1164
       ],
       "label": "paragraph_title",
-      "text": "BAXTER McGAVOCK"
+      "text": "BAXTER McGAVOCK",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +276,8 @@
         2162
       ],
       "label": "text",
-      "text": "L. Landers, Mgr."
+      "text": "L. Landers, Mgr.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +287,8 @@
         2621
       ],
       "label": "text",
-      "text": "Miss L. Mae Boxley, of Michigan, who came over from Meridian, Miss., with the special party of Sunday-School Congress delegates and who was the guest of Miss Tennie L. Hughes, of Fourteenth avenue, North, left Saturday for her home via Chicago, Ill.\n\nDr. C. A. Adams, of Smithville, Tex., a graduate of Meharry College, will be in the city real soon on an important mission.\n\nAll former records were smashed last Wednesday at the National Baptist Publishing Board in the receipt of orders for literature and supplies.\n\nMrs. Spencer C. Dickerson, of Chicago, Ill., who has been here for about two months visiting her mother, Mrs. James L. Hunter, of 1309 Hynes street, left for her home Sunday night, as her mother continues to improve in health.\n\nMrs. C. H. Phillips, of Twelfth ave."
+      "text": "Miss L. Mae Boxley, of Michigan, who came over from Meridian, Miss., with the special party of Sunday-School Congress delegates and who was the guest of Miss Tennie L. Hughes, of Fourteenth avenue, North, left Saturday for her home via Chicago, Ill.\n\nDr. C. A. Adams, of Smithville, Tex., a graduate of Meharry College, will be in the city real soon on an important mission.\n\nAll former records were smashed last Wednesday at the National Baptist Publishing Board in the receipt of orders for literature and supplies.\n\nMrs. Spencer C. Dickerson, of Chicago, Ill., who has been here for about two months visiting her mother, Mrs. James L. Hunter, of 1309 Hynes street, left for her home Sunday night, as her mother continues to improve in health.\n\nMrs. C. H. Phillips, of Twelfth ave.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,17 +298,41 @@
         1167
       ],
       "label": "text",
-      "text": "Manager"
+      "text": "Manager",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        779,
+        1429,
+        1080,
+        2021
+      ],
+      "label": "text",
+      "text": "nue, North, is slowly convakessing, but is not able to do a deal of going.\n\nMr. Robert Shaw and Miss Goldie Kealing the brother and daughter of Mrs. H. T. Kealing, left this week for Philadelphia, where Miss Kealing will pursue her education and where Mr. Shaw will enter business.\n\nIt will pay you to attend our great clearance sale. Prices reduced on everything during this great sale. J. H. Foreman (Matison's old stand, Eleventh avenue and Jefferson street).\n\nMr. and Mrs. Eugene Clayton, of 907-Warren street, are rejoicing over the arrival of a bouncing baby boy.\n\nMrs. Amanda Foster, of Ivory street, gave a peanut hunt for the benefit of her church last Sunday evening.\n\nMiss Georgia Essa Willis gave a party Wednesday in honor of Mr. Le Roy Hosty, of St. Louis, Mo.\n\nStringer Lodge No. 6 K. of P will have a smoker at their hall on July 6. All members are invited.\n\nMiss Lola West left Monday morning for Mount Eagle Springs.\n\nMrs. Fannie Hamilton left the city recently for the springs.\n\nMiss A. M. Freeman was elected to teach in the county, school.",
+      "status": "ok"
     },
     {
       "bbox": [
         778,
-        1429,
+        2025,
         1086,
         2621
       ],
       "label": "text",
-      "text": "nue, North, is slowly convalescing, but is not able to do a deal of going.\nMr. Robert Shaw and Miss Goldie Kealing the brother and daughter of Mrs. H. T. Kealing, left this week for Philadelphia, where Miss Kealing will pursue her education and where Mr. Shaw will enter business.\nIt will pay you to attend our great clearance sale. Prices reduced on everything during this great sale.\nJ. H. Foreman (Matison's old stand, Eleventh avenue and Jefferson street).\nMr. and Mrs. Eugene Clayton, of 907-Warren street, are rejoicing over the arrival of a bouncing baby boy.\nMrs. Amanda Foster, of Ivory street, gave a peanut hunt for the benefit of her church last Sunday evening.\nMiss Georgia Essa Willis gave a party Wednesday in honor of Mr. Le Roy Hosty, of St. Louis, Mo.\nStringer Lodge No. 6 K. of P will have a smoker at their hall on July 6. All members are invited.\nMiss Lola West left Monday morning for Mount Eagle Springs.\nMrs. Fannie Hamilton left the city recently for the springs.\nMiss A. M. Freeman was elected to teach in the county, school.\nJ. B. Kennedy, Livery, Board and Sale Stables. Special care taken of Boarding Horses. Fine Livery of every description for hire. 440 Third Avenue, North. Phone, Main 4156.\nMrs. Julia Whitaker is very sick and has been confined to her bed since last week.\nMiss Mattie Lou Scott; of Lebanon, is here visiting relatives and friends.\nThe Knights and daughters of Tabor had their annual sermon at the First Baptist Church, West Nashville, preached by Rev. S. L. Howard.\nBorn Sunday evening to Mr. and Mrs. T. Clay Moore a fourteen pound girl. Mother and baby are reported doing well.\nProf. J. F. Booker, of Trenton, Tenn., was here this week.\nMr. Jeff Bragg is in McMinnville.\nMr. Henry McCotley, of St. Louis, Mo., who spent two weeks in the city visiting his mother, has returned to his home.\nMiss Effle T. Griffins, of Louisville, is in the city visiting her mother, Mrs. G. W. Griffins, of 1209 Phillips street.\nShop with us. We save you money on all your purchases. First quality goods at less price than elsewhere for \"shoddy\" stuff. J. H. FOREMAN (Matison's old stand, Eleventh avenue and Jefferson street.)"
+      "text": "J. B. Kennedy, Livery, Board and Sale Stables. Special care taken of Boarding Horses. Fine Livery of every description for hire. 440 Third Avenue, North, Phone, Main 4156. Mrs. Julia Whitaker is very sick and has been confined to her bed since last week. Miss Mattie Lou Scott; of Lebanon, is here visiting relatives and friends. The Knights and daughters of Tabor had their annual sermon at the First Baptist Church, West Nashville, preached by Rev. S. L. Howard. Born Sunday evening to Mr. and Mrs. T. Clay Moore a fourteen pound girl; Mother and baby are reported doing well. Prof. J. F. Booker, of Trenton, Tenn., was here this week. Mr. Jeff Bragg is in McMinnville. Mr. Henry McCotley, of St. Louis, Mo., who spent two weeks in the city visiting his mother, has returned to his home. Miss Effle T. Griffins, of Louisville, is in the city visiting her mother, Mrs. G. W. Griffins, of 1209 Phillips street. Shop with us. We save you money on all your purchases. First quality goods at less price than elsewhere for \"shoddy\" stuff. J. H. FOREMAN (Matison's old stand, Eleventh avenue and Jefferson street.)",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1087,
+        466,
+        1392,
+        1192
+      ],
+      "label": "text",
+      "text": "The\npeople,\nMAN\nDEL\nes\nght\north\nd in\ntten.\nbody.\nTE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +342,8 @@
         1962
       ],
       "label": "text",
-      "text": "Mrs. W. H. Richardson is at her home again from a two weeks' visit to McMinnville and a week at Murfreesboro, where she was called to the bedside of a sick mother. With this exception she reports a very pleasant trip.\n\nMrs. Henry B. Merry and her little daughter, Elizabeth Page, of Clarksville, spent last Thursday at the home of Mrs. P. J. Ewing, on Elmhill road.\n\nAlice E., daughter of Mr. and Mrs. M. W. Blake, is spending a few days with Mrs. P. J. Ewing, on Elmhill road.\n\nMrs. Lillie J. Hall will entertain next Thursday in honor of Mrs. H. R. Merry, of Clarksville.\n\nMiss Eugenia Walker is home again taking her vacation.\n\nMrs. Geo. B. Brady and daughter, Mrs. Robert E. Eason, and Master Robert Brady Eason, Jr., left Wednesday for Kansas City, Kans., and other western points.\n\nAttend the great clearance sale at J. H. Foreman's (Matlison's old stand) and get fresh seasonable dress goods, shoes, furnishings, etc., at money-saving prices."
+      "text": "Mrs. W. H. Richardson is at her home again from a two weeks' visit to McMinnville and a week at Murfreesboro, where she was called to the bedside of a sick mother. With this exception she reports a very pleasant trip.\n\nMrs. Henry B. Merry and her little daughter, Elizabeth Page, of Clarksville, spent last Thursday at the home of Mrs. P. J. Ewing, on Elmhill road.\n\nAlice E., daughter of Mr. and Mrs. M. W. Blake, is spending a few days with Mrs. P. J. Ewing, on Elmhill road.\n\nMrs. Lillie J. Hall will entertain next Thursday in honor of Mrs. H. R. Merry, of Clarksville.\n\nMiss Eugenia Walker is home again taking her vacation.\n\nMrs. Geo. B. Brady and daughter, Mrs. Robert E. Eason, and Master Robert Brady Eason, Jr., left Wednesday for Kansas City, Kans., and other western points.\n\nAttend the great clearance sale at J. H. Foreman's (Matlison's old stand) and get fresh seasonable dress goods, shoes, furnishings, etc., at money-saving prices.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +353,8 @@
         2117
       ],
       "label": "text",
-      "text": "Miss Carrie O. Richardson entertained Misses L. Mae Moxley and T. Clentonia Holt, who were the guests of Miss T. L. Hughes. An ice-course was served. Miss L. Mae Boxley left for Marcellus, Mich., Saturday night, stopping in Chicago for a few days."
+      "text": "Miss Carrie O. Richardson entertained Misses L. Mae Moxley and T. Clentonia Holt, who were the guests of Miss T. L. Hughes. An ice-course was served. Miss L. Mae Boxley left for Marcellus, Mich., Saturday night, stopping in Chicago for a few days.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,17 +364,19 @@
         2268
       ],
       "label": "text",
-      "text": "Mrs. Henry Cooper announces the approaching marriage of her daughter. Miss Willie Cooper, to Attorney J. A. Trabune, of Chicago. The wedding will take place July 12th at the home of her mother, 921 Jackson street."
+      "text": "Mrs. Henry Cooper announces the approaching marriage of her daughter. Miss Willie Cooper, to Attorney J. A. Trabune, of Chicago. The wedding will take place July 12th at the home of her mother, 921 Jackson street.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1093,
+        1087,
         2303,
         1392,
-        2629
+        2780
       ],
       "label": "text",
-      "text": "The members of the St. James A. M. E. Church are having the parsonage rebuilt, under the direction of Rev. F. J. Dean, pastor. The immaculates are preparing to have a 4th of July picnic. Rev. Smith held his third quarterly conference at St. James A. M. E. Church. On account of the inclementy of the weather the crowd was small. Mrs. Addie Cunningham fell and sprained her ankle. Miss Lillian Gordon is on the sick list. Miss B. Childress is ill. Mrs. Tina Halbert is still on the sick list. Mrs. Caroline Scott is ill. Mrs. Lucy Porter is confined to her bed. Mr. and Mrs. Suggs entertained Mrs. Beulah Cohn and Dr. Miles with a two-course menu dinner. Dr"
+      "text": "The members of the St. James A. M. E. Church are having the parsonage rebuilt, under the direction of Rev. F. J. Dean, pastor. The immaculates are preparing to have a 4th of July picnic. Rev. Smith held his third quarterly conference at St. James A. M. E. Church. On account of the inclementity of the weather the crowd was small. Mrs. Addie Cunningham fell and sprained her ankle. Miss Lillian Gordon is on the sick list. Miss B. Childress is ill. Mrs. Tina Halbert is still on the sick list. Mrs. Caroline Scott is ill. Mrs. Lucy Porter is confined to her bed. Mr. and Mrs. Suggs entertained Mrs. Beulah Cohn and Dr. Miles with a two-course menu dinner. Dr.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +386,8 @@
         466
       ],
       "label": "text",
-      "text": "GONEY ISLAND PARK NASHVILLE'S GREAT AMUSEMENT T RESORT"
+      "text": "GONEY ISLAND PARK NASHVILLE'S GREAT AMUSEMENT T RESORT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +397,8 @@
         1366
       ],
       "label": "text",
-      "text": "CONEY ISLAND\nPARK\nNASHVILLE'S\nGREAT\nAMUSEMENT\nRESORT"
+      "text": "CONEY ISLAND\nPARK\nNASHVILLE'S\nGREAT\nAMUSEMENT\nRESORT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +408,8 @@
         1994
       ],
       "label": "paragraph_title",
-      "text": "ENTERTAINED."
+      "text": "ENTERTAINED.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +419,8 @@
         2148
       ],
       "label": "paragraph_title",
-      "text": "ANNOUNCEMENT"
+      "text": "ANNOUNCEMENT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +430,30 @@
         2303
       ],
       "label": "paragraph_title",
-      "text": "DICKSON NOTES"
+      "text": "DICKSON NOTES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1440,
+        378,
+        1650,
+        493
+      ],
+      "label": "text",
+      "text": "L&N",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1397,
+        510,
+        1701,
+        1104
+      ],
+      "label": "text",
+      "text": "NORTH\u2014NORTHEAST ARIVERS.\n3:10 am\u2014Louisville...2:15 am\n8:05 am\u2014New York Special (through service)...8:35 pm\n8:35 pm\u2014New York Limited (through service)...8:05 am\na12:15 pm\u2014Louisville Accommodation...8:30 pm\na2:20 am\u2014Evansville & Chicago...2:05 am\na2:20 am\u2014Evansville & St. Louis...2:05 am\na7:25 am\u2014Evansville & St. Louis...8:25 pm\n7:55 pm\u2014The Chicago Limited...7:55 am\n4:10 pm\u2014Evansville & Chicago (Dixie Flyer)...11:42 am\n7:55 pm\u2014The St. Louis Flyer...7:55 am\nSOUTH.\n2:25 am\u2014Birmingham, Montgomery Mobile, New Orleans...2:53 am\n8:25 am\u2014Birmingham, Montgomery Mobile, New Orleans...7:40 pm\n9:05 pm\u2014Birmingham and Montgomery...7:00 am\nACCOMMODATION TRAINS.\n13:10 pm\u2014Nashville & Scottsville Accommodation",
+      "status": "repetition"
     },
     {
       "bbox": [
@@ -302,17 +463,19 @@
         1116
       ],
       "label": "text",
-      "text": "R. C. WALLIS, District Passenger Agt.\nW. H. MUSTAINE, City Passenger Agt."
+      "text": "R. C. WALLIS, District Passenger Agt.\nW. H. MUSTAINE, City Passenger Agt.",
+      "status": "ok"
     },
     {
       "bbox": [
         1398,
-        1606,
+        1406,
         1699,
         1698
       ],
       "label": "text",
-      "text": "MIDDLE TENNESSEE BAILROAD.\nSchedule Effective Wednesday, June 1, 1910.\nLeave Leatherwood.....6:15 am 2:00 pm\nArrive Franklin.....7:45 am 3:30 pm\nArrive Franklin.....8:45 am 3:30 pm\nArrive Leatherwood.....11:20 am 6:30 pm\nSubject to change without notice."
+      "text": "Leave\nNashville.\n\n7:00 am ..... 8:00 am\n8:00 am ..... 9:00 am\n9:00 am ..... 10:00 am\n9:00 am ..... 11:00 am\n12:00 noon ..... 1:00 am\n1:00 pm ..... 2:00 pm\n3:00 pm ..... 4:00 pm\n4:00 pm ..... 5:00 pm\n5:00 pm ..... 6:00 pm\n6:00 pm ..... 7:00 pm\n8:00 pm ..... 9:00 pm\n10:00 pm\n11:30 pm ..... 12:30 am\n\nMIDDLE TENNESSEE EAILROAD\n\nSchedule Effective Wednesday, June 1, 1910.\n\nLeave Leatherwood ..... 6:15 am ..... 2:00 pm\nArrive Franklin ..... 7:45 am ..... 3:20 pm\nArrive Franklin ..... 10:00 am ..... 5:00 pm\nArrive Leatherwood ..... 11:30 am ..... 5:30 pm\n\nSubject to change without notice.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +485,19 @@
         1735
       ],
       "label": "paragraph_title",
-      "text": "N. C. & ST. L. Ry."
+      "text": "N. C. & ST. L. Ry.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1399,
+        1741,
+        1537,
+        1832
+      ],
+      "label": "text",
+      "text": "NC & ST L",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,17 +507,30 @@
         1836
       ],
       "label": "text",
-      "text": "Union Station, Broadway; City Office, Maxwell house, corner Church St. and Fourth Ave. N., Phone Main 877"
+      "text": "Union Station, Broadway; City Office, Maxwell house, corner Church St. and Fourth Ave. N., Phone Main 877",
+      "status": "ok"
     },
     {
       "bbox": [
         1402,
-        2445,
+        1851,
+        1698,
+        2482
+      ],
+      "label": "text",
+      "text": "WEST AND NORTHWEST.\nLeaves.\n7:00 am\u2014Memphis, Hickman,\nPaducah, St. Louis,\nconnects for Centreville\n(!).\n2:15 pm\u2014Jackson, Memphis,\nHickman, Paducah.\n5:30 pm\u2014Waverly, Accommodation,\nconnects for Centreville\n(!).\n8:00 pm\u2014\"Dixie Flyer,\" solid train to St. Louis.\n11:30 pm\u2014Memphis and Hickman.\nSOUTH AND EAST.\n2:25 am\u2014Chattanooga and Atlanta.\n9:30 am\u2014St. Louis-Jacksonville \"Dixie Flyer,\" connections (4) for all branch line points.\n11:55 am\u2014\"Dixie Flyer\"-Solid vestibulated train to Chattanooga, Atlanta and Jacksonville. Dining cars.\n8:20 pm\u2014Chattanooga and connecting (4) for Shelbyville, Spartan Fayetteville, Huntsville, Tracy City, South Pittsburg.\n6:00 pm\u2014Tullahoma Accommodation (connects for Shelbyville). m.\n9:30 pm\u2014Chattanooga, Atlanta, Sleeper to New York. LEBANON TRAINS.\n7:00 am\u2014Lebanon Mixed.\n9:25 am\u2014Lebanon Express. 12:10 pm\n4:00 pm\u2014Lebanon Accom. 6:40 pm\n5:00 pm\u2014Lebanon Accom. 8:30 am\nDaily except Sunday.\nW. M. HUNT, City Ticket Agent, Maxwell House.\nPOWELL PHILLIPS, P. A., Maxwell House, W. L. DANLEY, G. P. A., Union Station.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1403,
+        2499,
         1702,
         2637
       ],
       "label": "text",
-      "text": "POWELL PHILLIPS, P. A., Maxwell House, W. L. DANLEY, G. P. A., Union Station.\n\nM. V. Umble and his bride will visit Dickson this week. Mrs. Harriet Sanders is ill. Mrs. Fannie Vingard is still on the sick list. Ed. Graham is improving. Will Holmes is ill. Mrs. Birdie Tidwell will entertain a few of her friends with a house party Wednesday evening."
+      "text": "M. V. Umble and his bride will visit Dickson this week Mrs. Harriet Sanders is ill. Mrs. Fannie Vingard is still on the sick list. Ed. Graham is improving. Will Holmes is ill. Mrs. Birdie Tidwell will entertain a few of her friends with a house party Wednesday evening.",
+      "status": "ok"
     }
   ]
 }

@@ -3,6 +3,17 @@
   "image": "images/page_01.jpg",
   "width": 2107,
   "height": 2800,
+  "processed_at": "2026-03-07T12:53:48.374246+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 62,
+    "after_merge": 39
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         299
       ],
       "label": "doc_title",
-      "text": "THE FORUM"
+      "text": "THE FORUM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         464
       ],
       "label": "paragraph_title",
-      "text": "Woman's Club Notes"
+      "text": "Woman's Club Notes",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +45,8 @@
         944
       ],
       "label": "text",
-      "text": "The business meeting was largely attended on the 7. The sections made good reports. The Philanthropic Section under the chairmanship of Mrs Julia Duncan has raised nearly $100 during the past three months. This section works entirely for the Home. The sections will give a bazaar commencing March 30. inclusive April 1, at the Home. Please take note of the same. Each member must work hard in this bazaar.\n\nThe Home Culture Section will meet at the residence of Mrs. Bettie Watson, 1711 E. Moffatt Ave., 14. at 230 p. m.\u2014Leana Outland, reporter."
+      "text": "The business meeting was largely attended on the 7. The sections made good reports. The Philanthropic Section under the chairmanship of Mrs Julia Duncan has raised nearly $100 during the past three months. This section works entirely for the Home. The sections will give a bazaar commencing March 30. inclusive April 1, at the Home. Please take note of the same. Each member must work hard in this bazaar.\n\nThe Home Culture Section will meet at the residence of Mrs. Bettie Watson, 1711 E. Moffatt Ave., 14. at 230 p. m.\u2014Leana Outland, reporter.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,17 +56,41 @@
         1021
       ],
       "label": "paragraph_title",
-      "text": "Mattoon News Notes"
+      "text": "Mattoon News Notes",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        314,
+        1048,
+        689,
+        1578
+      ],
+      "label": "text",
+      "text": "Cottage prayer meetings are being held at the homes of Chas. Parker and wife and Wright Ehlott and wife. Everyone is invited to these meetings. They will be held till the great revival begins.\n\nThe quarterly meeting will be held at St. David's Chapel, Sunday, Feb. 13.\n\nThe S. F. Club met with Mrs. Arthur Anderson. Saturday evening. Refreshments were served by the hostess, assisted by Mrs Wesley Hartwood.\n\nMessrs. Launce Williams and Charles Brown of Champaign, spent a few days in the city last week.",
+      "status": "ok"
     },
     {
       "bbox": [
         313,
-        1048,
+        1602,
+        691,
+        2166
+      ],
+      "label": "text",
+      "text": "Alexander Robinson and wife of Lerna, entertained at dinner Sunday, in honor of their daughter, Sarah, it being her birthday. Those from this city who attended were: Mesdames Wesley Hartwood and Arcnie Carter; Miss Izetta Smith and James Anderson.\n\nMiss Iva Smith spent Sunday in Tuscola.\n\nCarson Moss of Champaign is spending a few days in the city.\n\nThe life of Frederick Douglas will be discussed Sunday, at the Educational Literary Society.\n\nGeorge Barnette and wife passed through the city Thursday from Metropolis, enroute to their home in Indianapolis.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        316,
+        2193,
         694,
         2315
       ],
       "label": "text",
-      "text": "Cottage prayer meetings are being held at the homes of Chas. Parker and wife and Wright Elliott and wife. Everyone is invited to these meetings. They will be held till the great revival begins.\n\nThe quarterly meeting will be held at St. David's Chapel, Sunday, Feb. 13.\n\nThe S. F. Club met with Mrs. Arthur Anderson. Saturday evening. Refreshments were served by the hostess, assisted by Mrs Wesley Hartwood.\n\nMessrs. Launce Williams and Charles Brown of Champaign, spent a few days in the city last week.\n\nAlexander Robinson and wife of Lerna, entertained at dinner Sunday, in honor of their daughter, Sarah, it being her birthday. Those from this city who attended were: Mesdames Wesley Hartwood and Arcnie Carter; Miss Izetta Smith and James Anderson.\n\nMiss Iva Smith spent Sunday in Tuscola.\n\nCarson Moss of Champaign is spending a few days in the city.\n\nThe life of Frederick Douglas will be discussed Sunday, at the Educational Literary Society.\n\nGeorge Barnette and wife passed through the city Thursday from Metropolis, enroute to their home in Indianapolis.\n\nThe Phyllis Wheatley club of David's Chapel will meet with Mrs. Mary Anderson on Thursday afternoon at her home. 1509 Shelby Ave."
+      "text": "The Phyllis Wheatley club of David's Chapel will meet with Mrs. Mary Anderson on Thursday afternoon at her home. 1509 Shelby Ave.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,107 +100,52 @@
         2457
       ],
       "label": "text",
-      "text": "FIRST CLASS upholstering and general furniture repairing. James B. Bondman, 2020 Kansas street. New phone 420."
+      "text": "FIRST CLASS upholstering and general furniture repairing. James B. Bondman, 2020 Kansas street. New phone 420.",
+      "status": "ok"
     },
     {
       "bbox": [
-        317,
+        311,
         2494,
         695,
-        2639
+        2780
       ],
       "label": "text",
-      "text": "I love my money, but oh you valentine promenade at Masonic Hall, Feb. 14.\n\nH. W. Jameson of Peoria was in the city this week."
+      "text": "I love my money, but oh you valentine promenade at Masonic Hall, Feb. 14.\n\nH. W. Jameson of Peoria was in the city this week.",
+      "status": "ok"
     },
     {
       "bbox": [
-        749,
-        433,
-        1033,
-        462
-      ],
-      "label": "paragraph_title",
-      "text": "East End Notes."
-    },
-    {
-      "bbox": [
-        699,
-        487,
-        1078,
-        1344
+        781,
+        313,
+        1375,
+        346
       ],
       "label": "text",
-      "text": "The people are well in this end of town this week for which we are always thankful. Mrs. Pride is not feeling so well at this writing. Marguerite Slater has left us again. The boys are a little lonesome.\n\nA number of our boys and girls are attending the Manual Training school, and are singing high notes of its praise.\n\nMrs. Susan Davis, of N. 4 h street, is visiting in this end of town at this writing.\n\nMrs. Anna White visited in Glenarm, this week. She reports a fine time.\n\nMrs. Etta Harvey will make a business trip to St. Louis Saturday. After she returns hairdressing will take place at 1508.\n\nWe are watching Ruby Mitchell yet, we don't want him to get away for he is the star pitcher for the Merchant Blacks. Robt. Canister is watching him for he is expecting to catch him this summer. But they say Bob likes the Wheatty girl, too.\n\nWe are off to a political meeting tonight. We are better satisfied. Now we are jubilant over our candidate. We are going to shove him over the plate says the east end man."
+      "text": "\"Be ye doers and not sayers only.\"",
+      "status": "ok"
     },
     {
       "bbox": [
-        797,
-        1372,
-        973,
-        1397
-      ],
-      "label": "paragraph_title",
-      "text": "A SURPRISE."
-    },
-    {
-      "bbox": [
-        700,
-        1425,
-        1076,
-        1783
+        1087,
+        488,
+        1467,
+        1080
       ],
       "label": "text",
-      "text": "The Pastor's Aid of St. John church tendered Rev. Jones and wife a surprise, February 7. The pastor, after having a meeting at his own church then prepared to visit the Episcopal church on S. Grand Ave., but was interrupted by a host of friends who rushed from his dining room. They served ice cream, cake and fruit. Rev. Jones and wife received many gifts such as eatables and can goods. This showed the high esteem in which the pastor and wife are held."
-    },
-    {
-      "bbox": [
-        787,
-        1825,
-        989,
-        1845
-      ],
-      "label": "paragraph_title",
-      "text": "Zion Baptist Notes."
-    },
-    {
-      "bbox": [
-        702,
-        1874,
-        1080,
-        2424
-      ],
-      "label": "text",
-      "text": "All are preparing to attend the Lincoln Celebration at Union church Saturday evening at 7 45. Quite a number of the members are on the sick list. Mrs Octava Rederrick was taken to the St. John hospital yesterday. The church attendance is good considering the weather. Rev. S. S. Scisson was the guest of Rev. A W. Williams and family last week. The financial interest is beginning to awaken thru the envelope system that has been put in operation by the pastor. There will be a measuring sociable and musical program on the evening of February 17. All are invited to attend. Mrs. Eula Richards entertained the Nacmi Sewing Circle last Thursday. The circle was largely attended. An elegant lunch was served."
-    },
-    {
-      "bbox": [
-        704,
-        2471,
-        1079,
-        2639
-      ],
-      "label": "text",
-      "text": "NOTICE\u2014All subscribers out of the city who wish The Forum continued, please send in their remittance promptly when statement is sent. else we shall be forced to stop paper in accordance with business demands."
-    },
-    {
-      "bbox": [
-        1120,
-        432,
-        1439,
-        466
-      ],
-      "label": "paragraph_title",
-      "text": "New Hope News."
+      "text": "The New Hope Baptist church will rally Sunday for the purpose of meeting the requirements of the main debt of the church. At 11 o'clock service the pastor, Rev. D. J. Tate will preach, this service will be followed with a financial appeal by a representative of the Booker T. Washington meeting for Sunday night. At 3 p. m. Dr. B. L. Ivory, will preach. Special music will be rendered by the choir. At this a financial appeal will be made by Rev. Bloodworth. The old line workers of the church, the sewing circle represented by Mrs H K. Wilson, its president and the Woodside club represented by Frank Coleman, its president are asking their friends to stand by them in giving as the Lord has prospered them on this great Booker T. Washington day in Springfield.",
+      "status": "ok"
     },
     {
       "bbox": [
         1086,
-        488,
-        1467,
+        1084,
+        1462,
         1273
       ],
       "label": "text",
-      "text": "The New Hope Baptist church will rally Sunday for the purpose of meeting the requirements of the main debt of the church. At 11 o'clock service the pastor, Rev. D. J. Tate will preach, this service will be followed with a financial appeal by a representative of the Booker T. Washington meeting for Sunday night. At 3 p. m. Dr. B. L. Ivory, will preach. Special music will be rendered by the choir. At this a financial appeal will be made by Rev. Bloodworth. The old line workers of the church, the sewing circle represented by Mrs H K. Wilson, its president and the Woodside club represented by Frank Coleman, its president are asking their friends to stand by them in giving as the Lord has prospered them on this great Booker T. Washington day in Springfield. At 7 p. m. on this day we close our doors and will listen to our much honored race leader, Dr. Booker T. Washington at the Armory. The monthly missionary program will be observed February 27, 1910, at 3 o'clock p m"
+      "text": "At 7 p.m. on this day we close our doors and will listen to our much honored race leader, Dr. Booker T. Washington at the Armory. The monthly missionary program will be observed February 27, 1910, at 3 o'clock p.m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,27 +155,162 @@
         1387
       ],
       "label": "paragraph_title",
-      "text": "Washington's Birthday"
+      "text": "Washington's Birthday",
+      "status": "ok"
     },
     {
       "bbox": [
         1086,
         1408,
         1463,
-        1817
+        1742
       ],
       "label": "text",
-      "text": "Washington's birthday will be celebrated at St. Paul church, February 22d under the auspices of the Stewardess Board No.2. and Company H of the June rally club. An excellent program has been arranged by the committee and we invite the public to come and help us to show our appreciation of the talent of the participants. The ladies of the board will serve an enjoyable lunch or sapper, which ever you desire in the lecture room Captains Mrs. Anna Williams Mrs. Sidney Sims"
+      "text": "Washington's birthday will be celebrated at St. Paul church, February 22d under the auspices of the Stewardess Board No. 2. and Company H of the June rally club. An excellent program has been arranged by the committee and we invite the public to come and help us to show our appreciation of the talent of the participants. The ladies of the board will serve an enjoyable lunch or supper, which ever you desire in the lecture room",
+      "status": "ok"
     },
     {
       "bbox": [
-        1088,
-        2005,
-        1466,
+        1086,
+        1817,
+        1467,
+        2318
+      ],
+      "label": "text",
+      "text": "Kiddo! Take your hands away. I am going to Masonic Hall Monday evening, Feb. 14th to hear the Cubana Slide played.\n\nMrs. Katie Cosby of Cairo, is in the city and is the guest of Mrs. T. W. Warrick of S. 16th street.\n\nRev. Jordan Chavis of Chicago was in the city this week on U. B. F. business.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1086,
+        2347,
+        1467,
+        2780
+      ],
+      "label": "text",
+      "text": "All members of the united choirs who wish badges for the Booker T. Washington meeting can secure them tonight.\n\nBe a jolly good fellow if you don't last but a day and go to the Valentine Promenade. A good time assured to all.\n\nTwo rooms for rent, partially furnished.\u2014527 S. 12th St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        749,
+        433,
+        1033,
+        462
+      ],
+      "label": "paragraph_title",
+      "text": "East End Notes.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        699,
+        487,
+        1078,
+        1003
+      ],
+      "label": "text",
+      "text": "The people are well in this end of town this week for which we are always thankful. Mrs. Pride is not feeling so well at this writing. Marguerite Slater has left us again. The boys are a little lonesome.\n\nA number of our bys and girls are attending the Manual Training school, and are singing high notes of its praise.\n\nMrs Susan Davis, of N. 4 h street, is visiting in this end of town at this writing.\n\nMrs. Anna White visited in Glenarm, this week. She reports a fine time.\n\nMrs. Etta Harvey will make a business trip to St. Louis Saturday. After she returns hair-dressing will take place at 1508.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        699,
+        1008,
+        1076,
+        1344
+      ],
+      "label": "text",
+      "text": "We are watching Ruby Mitchell yet, we don't want him to get away for he is the star putcher for the Merchant Blacks Robt. Canister is watching him for he is expecting to catch him this summer. But they say Bob likes the Wheatty girl, too.\n\nWe are off to a political meeting tonight. We are better satisfied. Now we are jubilant over our candidate. We are going to shove him over the plate says the east end man.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        797,
+        1372,
+        973,
+        1397
+      ],
+      "label": "paragraph_title",
+      "text": "A SURPRISE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        700,
+        1425,
+        1076,
+        1783
+      ],
+      "label": "text",
+      "text": "The Pastor's Aid of St. John church tendered Rev. Jones and wife a surprise, February 7. The pastor, after having a meeting at his own church then prepared to visit the Episcopal church on S. Grand Ave., but was interrupted by a host of friends who rushed from his dining room. They served ice cream, cake and fruit. Rev. Jones and wife received many gifts such as eatables and can goods. This showed the high esteem in which the pastor and wife are held.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        787,
+        1825,
+        989,
+        1845
+      ],
+      "label": "paragraph_title",
+      "text": "Zion Baptist Notes.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        702,
+        1874,
+        1080,
+        2424
+      ],
+      "label": "text",
+      "text": "All are preparing to attend the Lincoln Celebration at Union church Saturday evening at 7 45. Quite a number of the members are on the sick list. Mrs Octava Rederrick was taken to the St. John hospital yesterday. The church attendance is good considering the weather. Rev. S. S. Scisson was the guest of Rev. A W. Williams and family last week. The financial interest is beginning to awaken thru the envelope system that has been put in operation by the pastor. There will be a measuring sociable and musical program on the evening of February 17. All are invited to attend. Mrs. Eula Richards entertained the Nacmi Sewing Circle last Thursday. The circle was largely attended. An elegant lunch was served.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        704,
+        2471,
+        1079,
         2639
       ],
       "label": "text",
-      "text": "Kiddo! Take your hands away. I am going to Masonic Hall Monday evening, Feb. 14th to hear the Cubana Slide played.\n\nMrs. Katie Cosby of Cairo, is in the city and is the guest of Mrs. T. W. Warrick of S. 16th street.\n\nRev. Jordan Chavis of Chicago was in the city this week on U. B. F. business.\n\nAll members of the united choirs who wish badges for the Booker T. Washington meeting can secure them tonight.\n\nBe a jolly good fellow if you don't last but a day and go to the Valentine Promenade. A good time assured to all.\n\nTwo rooms for rent, partially furnished.\u2014527 S. 12th St."
+      "text": "NOTICE\u2014All subscribers out of the city who wish The Forum continued, please send in their remittance promptly when statement is sent. else we shall be forced to stop paper in accordance with business demands.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1120,
+        432,
+        1439,
+        466
+      ],
+      "label": "paragraph_title",
+      "text": "New Hope News.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1105,
+        1750,
+        1460,
+        1817
+      ],
+      "label": "text",
+      "text": "Captains { Mrs. Anna Williams }\nMrs. Sidoev Sims",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1098,
+        1849,
+        1190,
+        1989
+      ],
+      "label": "text",
+      "text": "I",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +320,8 @@
         470
       ],
       "label": "paragraph_title",
-      "text": "Dies Very Suddenly."
+      "text": "Dies Very Suddenly.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +331,8 @@
         773
       ],
       "label": "text",
-      "text": "Mrs. Maud Grant, wife of Charles Grant of S. Pasfield St., while enroute to the doctor's office, Friday afternoon in a cab, when scarce a block from home, became very ill and was hastened back home but expired in a short time. She was accompanied by her sister, Mrs. Cummins. Surviving her are her husband, two daughters, mother, five sisters and one brother."
+      "text": "Mrs. Maud Grant, wife of Charles Grant of S. Pasfield St., while enroute to the doctor's office, Friday afternoon in a cab, when scarce a block from home, became very ill and was hastened back home but expired in a short time. She was accompanied by her sister, Mrs. Cummins. Surviving her are her husband, two daughters, mother, five sisters and one brother.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +342,8 @@
         846
       ],
       "label": "paragraph_title",
-      "text": "A CARD OF THANKS"
+      "text": "A CARD OF THANKS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +353,8 @@
         1015
       ],
       "label": "text",
-      "text": "Mrs. E. L. Rogers wishes to thank the participants on the program at the entertainment at Grace M. E. church last Tuesday evening and the public for its patronage."
+      "text": "Mrs. E. L. Rogers wishes to thank the participants on the program at the entertainment at Grace M. E. church last Tuesday evening and the public for its patronage.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +364,8 @@
         1112
       ],
       "label": "paragraph_title",
-      "text": "ALDERMAN FLINN'S POSITION."
+      "text": "ALDERMAN FLINN'S POSITION.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,27 +375,30 @@
         1740
       ],
       "label": "text",
-      "text": "Alderman L. L. Flinn of the 5th ward is highly praised for the high ground he takes on all questions affecting the public. He has proven himself to be a strong man since his election to the council three years ago. The people think well of him for the position he took regarding the mail carriers and free transportation on street cars and are incensed at the critics who took a different view. The contention of Mr. Flinn is well taken. What he asked for is simply a little rest for the poor tired mail carrier, the same privilege being in vogue in several other cities Mr Flinn has the highest endorsement of all well thinking people, not only for his stand in this case but all measures in the council where justice and right are at stake. He is a young man and well liked by his constituents."
+      "text": "Alderman L. L. Flinn of the 5th ward is highly praised for the high ground he takes on all questions affecting the public. He has proven himself to be a strong man since his election to the council three years ago. The people think well of him for the position he took regarding the mail carriers and free transportation on street cars and are incensed at the critics who took a different view. The contention of Mr. Flinn is well taken. What he asked for is simply a little rest for the poor tired mail carrier, the same privilege being in vogue in several other cities Mr Flinn has the highest endorsement of all well thinking people, not only for his stand in this case but all measures in the council where justice and right are at stake. He is a young man and well liked by his constituents.",
+      "status": "ok"
     },
     {
       "bbox": [
         1472,
         1772,
-        1852,
-        1821
+        1864,
+        2008
       ],
       "label": "text",
-      "text": "Subscribe for The Forum, the only regular Negro paper here."
+      "text": "Subscribe for The Forum, the only regular Negro paper here.",
+      "status": "ok"
     },
     {
       "bbox": [
         1475,
-        2008,
+        1852,
         1853,
         2086
       ],
       "label": "text",
-      "text": "Meet Mr. Dudley and friends at the Valentine Promenade after the show."
+      "text": "nd Local Meet Mr. Dudley and friends at the Valentine Promenade after the show.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +408,8 @@
         2220
       ],
       "label": "text",
-      "text": "Dr. N. B. Ford successfully performed surgical operations on three different patients at St. John's hospital this week"
+      "text": "Dr. N. B. Ford successfully performed surgical operations on three different patients at St. John's hospital this week",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +419,8 @@
         2353
       ],
       "label": "text",
-      "text": "W. H. Pendergrass has been confined to his bed three weeks but we are glad to see him at work again."
+      "text": "W. H. Pendergrass has been confined to his bed three weeks but we are glad to see him at work again.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,17 +430,19 @@
         2463
       ],
       "label": "text",
-      "text": "Mrs. Henry Perry of E. Brown street, is spending a few days with her mother in Chicago."
+      "text": "Mrs. Henry Perry of E. Brown street, is spending a few days with her mother in Chicago.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1476,
+        1472,
         2496,
-        1854,
-        2639
+        1864,
+        2780
       ],
       "label": "text",
-      "text": "Mrs. M C. Watkins, who served an elaborate dinner Sunday to invited guests and enjoyed herself with her many friends became suddenly ill but is much better at this writing."
+      "text": "Mrs. M C. Watkins, who served an elaborate dinner Sunday to invited guests and enjoyed herself with her many friends became suddenly ill but is much better at this writing.",
+      "status": "ok"
     }
   ]
 }

@@ -61,6 +61,14 @@
   }
   .issue-card .date { font-size: 16px; font-weight: 700; color: #1a1a1a; margin-top: 2px; }
   .issue-card .meta { font-size: 12px; color: #8a7d6d; font-family: sans-serif; margin-top: 4px; }
+  .issue-card .pipeline-badge {
+    display: inline-block; font-size: 10px; font-family: sans-serif; font-weight: 600;
+    padding: 2px 6px; border-radius: 3px; margin-top: 6px; letter-spacing: 0.3px;
+  }
+  .issue-card .pipeline-badge.current { background: #d4edda; color: #155724; }
+  .issue-card .pipeline-badge.old { background: #fff3cd; color: #856404; }
+  .issue-card.stale { opacity: 0.55; }
+  .issue-card.stale:hover { opacity: 1; }
 
   /* Empty state */
   .empty { text-align: center; padding: 60px 20px; color: #8a7d6d; }
@@ -128,18 +136,27 @@ function renderGrid(filtered) {
   }
   grid.innerHTML = filtered.map(issue => {
     const info = parseIssue(issue.name);
-    return `<div class="issue-card">
+    const isCurrent = !!issue.processed_at;
+    const cardClass = isCurrent ? 'issue-card' : 'issue-card stale';
+    const badge = isCurrent
+      ? `<div class="pipeline-badge current">OCR ${issue.processed_at}</div>`
+      : `<div class="pipeline-badge old">Needs reprocessing</div>`;
+    return `<div class="${cardClass}">
       <a href="${issue.name}/index.html">
         <div class="thumb"><img src="${cdnUrl(issue.name, 'page_01.jpg')}" loading="lazy" alt="${info.paper}"></div>
         <div class="info">
           <div class="paper">${info.paper}</div>
           <div class="date">${info.date}</div>
           <div class="meta">${issue.pages} pages</div>
+          ${badge}
         </div>
       </a>
     </div>`;
   }).join('');
-  document.getElementById('count').textContent = `${filtered.length} of ${issues.length} issues`;
+  const current = filtered.filter(i => i.processed_at).length;
+  const stale = filtered.length - current;
+  const staleText = stale > 0 ? ` (${current} current, ${stale} old)` : '';
+  document.getElementById('count').textContent = `${filtered.length} issues${staleText}`;
 }
 
 function sortIssues(list, mode) {

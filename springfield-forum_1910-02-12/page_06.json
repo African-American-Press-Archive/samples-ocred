@@ -3,7 +3,40 @@
   "image": "images/page_06.jpg",
   "width": 2138,
   "height": 2800,
+  "processed_at": "2026-03-07T12:54:06.324037+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 52,
+    "after_merge": 37
+  },
   "regions": [
+    {
+      "bbox": [
+        278,
+        2645,
+        751,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        306,
+        257,
+        643,
+        770
+      ],
+      "label": "text",
+      "text": "NICHOLAS H.",
+      "status": "ok"
+    },
     {
       "bbox": [
         284,
@@ -12,7 +45,8 @@
         896
       ],
       "label": "paragraph_title",
-      "text": "of the State Insurance Department."
+      "text": "of the State Insurance Department.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +56,8 @@
         1060
       ],
       "label": "text",
-      "text": "Capt. Byrd will introduce Dr. Booker T. Wa hington to the large audience at the arsenal and who will deliver an address before the audience tonight at the Union Baptist church."
+      "text": "Capt. Byrd will introduce Dr. Booker T. Wa hington to the large audience at the arsenal and who will deliver an address before the audience tonight at the Union Baptist church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +67,8 @@
         1135
       ],
       "label": "paragraph_title",
-      "text": "Chancery Notice."
+      "text": "Chancery Notice.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +78,8 @@
         1271
       ],
       "label": "text",
-      "text": "STATE OF ILLINOIS |\nSangamon Co. |\nss.\n\nCharles S. Gibbs, Complainant's Solicitor,\nCircuit Court, March Term, A. D. 1910.\nRobert White"
+      "text": "STATE OF ILLINOIS |\nSangamon Co. |\nss.\n\nCharles S. Gibbs, Complainant's Solicitor,\nCircuit Court, March Term, A. D. 1910.\nRobert White",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +89,8 @@
         1655
       ],
       "label": "text",
-      "text": "Afidavit of the non residence of Sadie White, defendant above named, having been filed in the office of the Clerk of the Circuit Court of said county, notice is hereby given to the said Sadie White that the complainant filed his bill of complaint in said court in the Chancery side thereof, on the 27th day of January, A. D. 1910, and that a summons issued out of said court against said defendant, returnable on the first Monday of March next, 1910, as is by law required.\n\nNow, unless you, the said Sadie White, shall be and appear before the Sangamon County Circuit Court on the first day of the next term thereof, to be holden at the Court House in the City of Springfield, on the first Monday of March, A. D. 1910, and plead, answer and demur to said complainant's bill of complaint, the same and the matters and things therein charged and stated will be taken as confessed, and a decree entered against you according to the prayer of said bill."
+      "text": "Afidavit of the non residence of Sadie White, defendant above named, having been filed in the office of the Clerk of the Circuit Court of said county, notice is hereby given to the said Sadie White that the complainant filed his bill of complaint in said court in the Chancery side thereof, on the 27th day of January, A. D. 1910, and that a summons issued out of said court against said defendant, returnable on the first Monday of March next, 1910, as is by law required.\n\nNow, unless you, the said Sadie White, shall be and appear before the Sangamon County Circuit Court on the first day of the next term thereof, to be holden at the Court House in the City of Springfield, on the first Monday of March, A. D. 1910, and plead, answer and demur to said complainant's bill of complaint, the same and the matters and things therein charged and stated will be taken as confessed, and a decree entered against you according to the prayer of said bill.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +100,8 @@
         1668
       ],
       "label": "text",
-      "text": "S. T. JONES, Clerk."
+      "text": "S. T. JONES, Clerk.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +111,8 @@
         1730
       ],
       "label": "paragraph_title",
-      "text": "SECRET SOCIETIES."
+      "text": "SECRET SOCIETIES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +122,8 @@
         1864
       ],
       "label": "text",
-      "text": "Central Lodge No. 3, A. F. and A. M.\nMeets every first and fourth Wednesday night at Masonic Hall, 119 North Eighth street.\nM. VANTREACE, W. M.\nWYATT JOHNSON, Sec'y."
+      "text": "Central Lodge No. 3, A. F. and A. M.\nMeets every first and fourth Wednesday night at Masonic Hall, 119 North Eighth street.\nM. VANTREACE, W. M.\nWYATT JOHNSON, Sec'y.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,8 @@
         1975
       ],
       "label": "text",
-      "text": "St. John's Chapter No. 2, H. R. A. M.\nMeets every third Wednesday night at\nMasonic Hall, 119 North Eighth St.\nTHOMAS DONNIGAN, See'y."
+      "text": "St. John's Chapter No. 2, H. R. A. M.\nMeets every third Wednesday night at\nMasonic Hall, 119 North Eighth St.\nTHOMAS DONNIGAN, See'y.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +144,8 @@
         2126
       ],
       "label": "text",
-      "text": "Ivanhoe Commandery No. 3,\nKnights Templar.\nMeets every fourth Friday night at\nMasonic Hall, 119 North Eighth St.\nWM. NOBLE, E. C.\nTHOMAS DONNIGAN, Rec'dr."
+      "text": "Ivanhoe Commandery No. 3,\nKnights Templar.\nMeets every fourth Friday night at\nMasonic Hall, 119 North Eighth St.\nWM. NOBLE, E. C.\nTHOMAS DONNIGAN, Rec'dr.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +155,8 @@
         2645
       ],
       "label": "text",
-      "text": "Charles Young Lodge No. 103,\nI. B. P. O. E.\nMeets every first and third Tuesday at\nMasonic Hall, 119 North Eighth St.\nJ. W. GRADY, Sec'y.\n\nLincoln Monument Lodge No. 1,\nG. U. O. O. F.\nMeets every first and third Tuesday at\nThirteenth and Madison Sts.\nGEO. ROLLINS, N. G.\nJOS. DOUGLAS, Sec'y.\n\nGolden Gate Temple No. 2,\nKnights of Tabor.\nMeets every first and third Monday at\nMasonic Hall, 119 North Eighth St.\nF. H. HART, C. M.\nTHOMAS WARRICK, C. S.\n\nU. B. F.\nMeets every second and fourth Tuesday\nat Masonic Hall, 119 N. Eighth St.\nBENJ. LUCAS, W. M.\n\nCapitol City No. 12, K. of P.\nMeets at Masonic Hall, 119 N. Eighth\nSt., every second and fourth Monday.\nH. SALLIE, C. C."
+      "text": "Charles Young Lodge No. 103,\nI. B. P. O. E.\nMeets every first and third Tuesday at\nMasonic Hall, 119 North Eighth St.\nJ. W. GRADY, Sec'y.\n\nLincoln Monument Lodge No. 1,\nG. U. O. O. F.\nMeets every first and third Tuesday at\nThirteenth and Madison Sts.\nGEO. ROLLINS, N. G.\nJOS. DOUGLAS, Sec'y.\n\nGolden Gate Temple No. 2,\nKnights of Tabor.\nMeets every first and third Monday at\nMasonic Hall, 119 North Eighth St.\nF. H. HART, C. M.\nTHOMAS WARRICK, C. S.\n\nU. B. F.\nMeets every second and fourth Tuesday\nat Masonic Hall, 119 N. Eighth St.\nBENJ. LUCAS, W. M.\n\nCapitol City No. 12, K. of P.\nMeets at Masonic Hall, 119 N. Eighth\nSt., every second and fourth Monday.\nH. SALLIE, C. C.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,17 +166,19 @@
         303
       ],
       "label": "text",
-      "text": "WANTED-Colored girls for cooks and house work. Apply at Illinois Free Employment Bureau. 3054 S.6th St."
+      "text": "WANTED-Colored girls for cooks and house work. Apply at Illinois Free Employment Bureau. 3054 S.6th St.",
+      "status": "ok"
     },
     {
       "bbox": [
         686,
-        548,
+        334,
         1035,
         639
       ],
       "label": "text",
-      "text": "Anyone sending a sketch and description may quickly ascertain our opinion free whether an invention is probably patentable. Communications strictly confidential. HANDBOOK on Patents seeks patenting patents. Patents taken through Munn & receive special notice, without charge, in the"
+      "text": "60 YEARS' EXPERIENCE\nPATENTS\nTRADE MARKS\nDESIGNS\nCOPYRIGHTS & C.\nAnyone sending a sketch and description may quickly ascertain our opinion free whether an invention is probably patentable. Communications strictly confidential. HANDBOOK on Patents sent free. Oldest agency for securing patents.\nPatents taken through Munn & Co. receive special notice, without charge, in the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +188,8 @@
         675
       ],
       "label": "paragraph_title",
-      "text": "Scientific American."
+      "text": "Scientific American.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +199,8 @@
         759
       ],
       "label": "text",
-      "text": "A handsomely illustrated weekly. Largest circulation of any scientific journal. Terms, $3 a year; four months. $1. Sold by all newsdealers. MUNN & Co. 361 Broadway, New York Branch Office, 625 F. St., Washington, D. C."
+      "text": "A handsomely illustrated weekly. Largest circulation of any scientific journal. Terms, $3 a year; four months. $1. Sold by all newsdealers. MUNN & Co. 361 Broadway, New York Branch Office, 625 F. St., Washington, D. C.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +210,8 @@
         863
       ],
       "label": "doc_title",
-      "text": "This Space"
+      "text": "This Space",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +221,8 @@
         927
       ],
       "label": "text",
-      "text": "I $ \\cap $ FOR"
+      "text": "I $ \\cap $ FOR",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +232,8 @@
         1023
       ],
       "label": "text",
-      "text": "YOU"
+      "text": "YOU",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +243,8 @@
         1094
       ],
       "label": "text",
-      "text": "Nothing Pays Like Advertising"
+      "text": "Nothing Pays Like Advertising",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,17 +254,30 @@
         1242
       ],
       "label": "text",
-      "text": "THE FORUM Will be offered for the next"
+      "text": "THE FORUM Will be offered for the next",
+      "status": "ok"
     },
     {
       "bbox": [
-        671,
-        1643,
-        1046,
+        672,
+        1140,
+        751,
+        1278
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        670,
+        1242,
+        1055,
         1768
       ],
       "label": "text",
-      "text": "To all who pay in advance when name is given."
+      "text": "30 Days\n\nFOR\n\n$1.00\n\n\u2014PER YEAR\u2014\n\nTo all who pay in ad-\nvance when name is\ngiven.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,17 +287,41 @@
         1840
       ],
       "label": "text",
-      "text": "Gov. Chas. S. Deneen"
+      "text": "Gov. Chas. S. Deneen",
+      "status": "ok"
     },
     {
       "bbox": [
-        675,
-        2474,
-        1055,
-        2644
+        686,
+        1892,
+        1038,
+        2420
       ],
       "label": "text",
-      "text": "Is taking the stump in defense of his idea of the importance of the deep water ways and a primary bill whereby the people may directly name the men for political office and is being enthusiastically applauded."
+      "text": "S.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        670,
+        2474,
+        1055,
+        2780
+      ],
+      "label": "text",
+      "text": "Is taking the stump in defense of his idea of the importance of the deep water ways and a primary bill whereby the people may directly name the men for political office and is being enthusiastically applauded.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1064,
+        1908,
+        1817,
+        2634
+      ],
+      "label": "text",
+      "text": "No matter what your physician calls for in the Prescription you can depend on getting it at Clarkson'S Modern Drug Store\n\n213 S. 6th St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,37 +331,74 @@
         239
       ],
       "label": "paragraph_title",
-      "text": "Judge Murray Visits the Schools."
+      "text": "Judge Murray Visits the Schools.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1057,
+        285,
+        1440,
+        864
+      ],
+      "label": "text",
+      "text": "Judge George W. Murray's work in the juvenile court has been so fruitful, so benificent, so deserving of commendation, that the schools of this county and other counties are soliciting his services in a series of lectures to their scholars. The object being to instruct the pupils the way of right living. We take the following from the January number of the monthly publication, entitled, \"Sangamon School Interests,\" which is a very creditable publication, devoted to the Sangamon County School interests, published every month by the County Superintendent of the Sangamon County Schools; the State Officers support this journal, and we are informed have attended several of the lectures of Judge Murray to the school children named below;",
+      "status": "ok"
     },
     {
       "bbox": [
         1052,
-        285,
+        880,
+        1439,
+        1373
+      ],
+      "label": "text",
+      "text": "Hon George W. Murray, Judge of the Juvenile Court on invitation of the County Superintendent has been doing a great work for the boys and girls of our county, and it is not making statesments too strong to say that this kind of education for right living and the up building of moral principles in the youth of the land is not surpassed by any Juvenile Court Judge in the United States.\n\nThe lecture on the \"Two Ways\" illustrated by a handsome chart, has been delivered by Judge Murray at the following places during the month of December:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1054,
+        1386,
         1442,
         1889
       ],
       "label": "text",
-      "text": "Judge George W. Murray's work in the juvenile court has been so fruitful, so benificent, so deserving of commendation, that the schools of this county and other counties are soliciting his services in a series of lectures to their scholars. The object being to instruct the pupils the way of right living. We take the following from the January number of the monthly publication, entitled, \"Sangamon School Interests,\" which is a very creditable publication, devoted to the Sangamon County School interests, published every month by the County Superintendent of the Sangamon County Schools; the State Officers support this journal, and we are informed have attended several of the lectures of Judge Murray to the school children named below:\n\nHon George W. Murray, Judge of the Juvenile Court on invitation of the County Superintendent has been doing a great work for the boys and girls of our county, and it is not making statements too strong to say that this kind of education for right living and the up building of moral principles in the youth of the land is not surpassed by any Juvenile Court Judge in the United States.\n\nThe lecture on the \"Two Ways\" illustrated by a handsome chart, has been delivered by Judge Murray at the following places during the month of December:\n\nDecember 3. New City, when Mr. P. H. Fitzsimmon's room had 22 present and Miss Craig's with a like number; South Cotton Hill, with Miss Priscilla Nave and 11 pupils; Miss Mildred Tobin, from Cascade School came with 8 pupils, Miss Edna Nutt, teacher at Rienzi School came with 17 pupils and the Colean district was represented by 6 pupils.\n\nThis meeting was held in the M. E. church and was attended by more than 150 people. It was a decided success.\n\nOn the evening of December 9, a fine meeting was held at the"
+      "text": "December 3. New City, when Mr. P. H. Fitzsimmon's room had 22 present and Miss Craig's with a like number; South Cotton Hill, with Miss Priscilla Nave and 11 pupils; Miss Mildred Tobin, from Cascade School came with 8 pupils, Miss Edna Nutt. teacher at Rienzi School came with 17 pupils and the Colean district was represented by 6 pupils.\n\nThis meeting was held in the M. E. church and was attended by more than 150 people. It was a decided success.\n\nOn the evening of December 9, a fine meeting was held at the",
+      "status": "ok"
     },
     {
       "bbox": [
-        1263,
-        2014,
-        1590,
-        2077
+        1450,
+        183,
+        1834,
+        497
       ],
       "label": "text",
-      "text": "No matter what your physician calls for in the"
+      "text": "Douglas Avenue M. E. church under the auspices of the Mothers' Club of the Dubois Scyool and was presided over by Mrs Cy Morrow, President of the Club A program by pupils of the school was given prior to the lecture. On the afternoon of December 10, a meeting was held at the M.E. church at Lowder. for the schools in Talkington township.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1449,
+        501,
+        1833,
+        1132
+      ],
+      "label": "text",
+      "text": "Mr. Oscar Mounce, principal of the Lowder School and Miss Mary Muckleston, primary teacher were present with 24 pupils each The Prospect School was represented by W.A. Taylor, teacher and 11 pupils. The Sherman School sent 9 pupils and teacher, Miss Hattie Goass. The Victory School had 18 pupils and teacher, Miss Maude Caswell. John's Creek School was represented by Miss Bertha Bullard teacher. The County Line had 10 pupils, with Miss Anna Smith teacher, present. The Larrabee School sent 15 pupils with William Wilson, director. The Bumgardner had 4 pupils and teacher, miss Ida Ramsey, present. The Prosperity School sent one pupil, and teacher, miss mayre Bailey.",
+      "status": "ok"
     },
     {
       "bbox": [
         1447,
-        183,
-        1834,
+        1136,
+        1830,
         1449
       ],
       "label": "text",
-      "text": "Douglas Avenue M. E. church under the auspices of the Mothers' Club of the Dubois Scyool and was presided over by Mrs Cy Morrow, President of the Club A program by pupils of the school was given prior to the lecture.\n\nOn the afternoon of December 10, a meeting was held at the M.E. church at Lowder, for the schools in Talkington township.\n\nMr. Oscar Mounce, principal of the Lowder Schoool and Miss Mary Muckleston, primary teacher were present with 24 pupils each. The Prospect School was represented by W. A. Taylor, teacher and 11 pupils. The Sherman School sent 9 pupils and teacher, Miss Hattie Goass. The Victory School had 18 pupils and teacher, Miss Maude Caswell. John's Creek School was represented by Miss Bertha Bullard teacher. The County Line had 10 pupils, with Miss Anna Smith teacher, present. The Larrabee School sent 15 pupils with William Wilson, director. The Bumgardner had 4 pupils and teacher, Miss Ida Ramsey, present. The Prosperity School sent one pupil, and teacher, Miss Mayre Bailey.\n\nOn December 17, Educational Day for the schools of Logan County, Judge Murray spoke at Lincoln to boys, girls and teachers. The meeting was held in the Circuit Court room which was too small for the large audience attending.\n\nLarge crowds greeted the Judge at meetings held at Loami and Glenarn during the month."
+      "text": "On December 17, Educational Day for the schools of Logan County, Judge Murray spoke at Lincoln to boys, girls and teachers. The meeting was held in the Circuit Court room which was too small for the large audience attending. Large crowds greeted the Judge at meetings held at Loami and Glenarn during the month.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +408,8 @@
         1513
       ],
       "label": "paragraph_title",
-      "text": "The Program at Grace M. M."
+      "text": "The Program at Grace M. M.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +419,8 @@
         1883
       ],
       "label": "text",
-      "text": "The program rendered at Grace M. E. church last Tuesday, was highly commeddable. Mrs. E. L. Rogers and assistants are praised for the marked success, both from a literary and financial standpoint. The church was crowded. The numbers on the program by Mesdames Yates, Brown, Gaddie, Warrick, Rogers and Misses Anna Carey and Wiola Alexander, were exceptionally good.\n\nSubscribe for The Forum and keep posted."
+      "text": "The program rendered at Grace M. E. church last Tuesday, was highly commeddable. Mrs. E. L. Rogers and assistants are praised for the marked success, both from a literary and financial standpoint. The church was crowded. The numbers on the program by Mesdames Yates, Brown, Gaddie, Warrick, Rogers and Misses Anna Carey and Wiola Alexander, were exceptionally good.\n\nSubscribe for The Forum and keep posted.",
+      "status": "ok"
     }
   ]
 }

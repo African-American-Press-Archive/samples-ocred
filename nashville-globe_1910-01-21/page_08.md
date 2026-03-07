@@ -1,14 +1,8 @@
-## Johnson's Popularity on Increase.
+The question of Jeffries' condition arouses as much interest now as did weeks ago. While Jeffries was in Chicago the first of the year he was examined by a physician. The latter gave an enthusiastic account of the fighter's general physical state. Among other things he said, however, was that he judged Jeffries weighed about 250 pounds. This weight is from twelve to twenty pounds more than the former champion has announced his weight to be at different times lately. But is we consider the physician capable of deciding many points in regard to Jeffries' condition we can probably take his opinion concerning the weight of the fighter.
 
-The question of Jeffries' condition arouses as much interest now as it did weeks ago. While Jeffries was in Chicago the first of the year he was examined by a physician. The latter gave an enthusiastic account of the fighter's general physical state. Among other things he said, however, was that he judged Jeffries weighed about 250 pounds. This weight is from twelve to twenty pounds more than the former champion has announced his weight to be at different times lately. But is we consider the physician capable of deciding many points in regard to Jeffries' condition we can probably take his opinion concerning the weight of the fighter.
+The examination of a pugilist by a physician is, of course, no new thing. The physician should be able to ascertain whether or not the fighter has a physique capable of withstanding the enormous strain of a long battle; he can also tell, no doubt, whether the fighter has good heart action, strong lungs, good stomach, and so on, but I do not believe that he can learn anything whatever which will be of value to them an who is at attempting to figure out the chances that the fighter will have of defeating another man.
 
-The examination of a pugilist by a physician is, of course, no new thing. The physician should be able to ascertain whether or not the fighter has a physique capable of withstanding the enormous strain of a long battle; he can also tell, no doubt, whether the fighter has good heart action, strong lungs, good stomach, and so on, but I do not believe that he can learn anything whatever which will be of value to them who is at attempting to figure out the chances that the fighter will have of defeating another man.
-
-The most curious ideas prevail in regard to Jeffries. Many persons who have read that the big pugilist may not be able to get back into the condition he formerly was in seem to believe that this statement means that Jeffries is a broken down man.
-
-Such an idea is, of course, ridiculous. Jeffries might be in most wonderful condition compared with the ordinary man, and yet not be in condition fit to make him the choice in a long fight. Any time these last five years when Jeffries was not in training there can be little question that he was in a physical condition far superior to that of the average man.
-
-At any time during this period a physician might have examined him and pronounced him a wonderful specimen of manhood and in better condition organically than any man he had ever seen.
+The most curious ideas prevail in regard to Jeffries. Many persons who have read that the big pupilist may not be able to get back into the condition he formerly was in seem to believe that this statement means that Jeffries is a broken down man. Such an idea is, of course, ridiculous. Jeffries might be in most wonderful condition compared with the ordinary man, and yet not be in condition fit to make him the choice in a long fight. Any time these last five years when Jeffries was not in training there can be little question that he was in a physical condition far superior to that of the average man. At any time during this period a physician might have examined him and pronounced him a wonderful specimen of manhood and in better condition organically than any man he had ever seen.
 
 The trouble is, however, that the word condition as used by a physician and the same word as used by a trainer do not mean the same thing at all. A man with diabetes and a dash of incipient paresis would probably be declared to be in bad shape by a physician, yet at the same time the man might be in excellent condition from the trainer's standpoint.
 
@@ -18,8 +12,6 @@ But the question is, Can Johnson defeat Jeffries? and the inability of the latte
 
 However, as time has romped along the impression has grown that Jeffries will have a tough time in disposing of Johnson, no matter how good his condition is. Men who a couple of months ago would hardly give the Negro a chance are now disposed to look forward to the fight as one of the hardest battles that was ever fought.
 
-## Fighters Fear Sam Langford.
-
 Even to those who have never seen Sam Langford in action, the attitude of other topnotch fighters toward him must make it evident that he is one of the most wonderful machines the Queensberry world has ever known. Most of the men at the top of the ladder work all the tricks of the trade to sidestep matches with him. Honest ones like Jim Barry frankly confess that they have no chance with him, while many others who scrape up enough courage to face him realize that they are committing pugilistic suicide.
 
 That proves the awe in which most fighters stand of Langford and his terrible punches.
@@ -28,6 +20,14 @@ That proves the awe in which most fighters stand of Langford and his terrible pu
 amples Cited as Proof.
 
 The great majority of the best athletes produced in this country have been flat footed. This statement sounds ridiculous, says the World, but the best authority in the country, "Sparrow" Robertson, who has been making shoes for every one of the star performers from the period when Malcolm W. Ford competed up to the present time, says
+
+DO
+
+## Johnson's Popularity on Increase.
+
+## Fighters Fear Sam Langford.
+
+THE NASHVILLE GLOBE, FRIDAY, JANUARY 21, 1910.
 
 that few athletes with well arched feet have become champions.
 
@@ -39,17 +39,15 @@ Champion with Shapeless Feet.
 
 "Hugh Baxter, holder of the vaulting record for many years, was another athlete with large flat feet. He was one of the hardest men to fit with spikes of all. The shoes made for him had almost no shape. During his whole career as a champion pole vaulter he was at no time bothered in any way with injuries or strains to either of his feet, and many considered that the great leverage he derived from his long feet was responsible to a considerable extent for his splendid performances.
 
-"Alexander Jordan, of the N. Y. A. C., winner of at least two all around championships, was flat footed. Shrubb, Svanberg, and Jim Crowley all belong to the low arched class.
-
-"Emilio Lunghi, the great Italian runner, has only a slight arch to his feet, while Harmon, of Yale, who won the intercollegiate one mile championship in 4 minutes, 36 seconds, could never have won had he been high up on his toes. He is exceedingly big-footed and no sign of an arch appears on either foot. He is a heavy man, and that may account for his lack of instep.
+"Alexander Jordan, of the N. Y. A. C., winner of at least two all around championships, was flat footed. Shrubb, Svanberg, and Jim Crowley all belong to the low arched class. "Emilio Lunghi, the great Italian runner, has only a slight arch to his feet, while Harmon, of Yale, who won the intercollegiate one mile championship in 4 minutes, 36 seconds, could never have won had he been high up on his toes. He is exceedingly big-footed and no sign of an arch appears on either foot. He is a heavy man, and that may account for his lack of instep.
 
 Broken Instep Never Tires.
 
 "Harry Cohn, a splendid distance runner, broke down the instep of his left foot and was forced to wear it in a plaster cast for months. He was afraid at that time his running days were over. However, the foot became strong again, and Cohn has been going along in fine form ever since. His insteps were originally high, but he says that the broken down one never tires now.
 
-"Just take a look at Lawson Robertson's feet next time you see them. They are generous in size and width, and have carried him a winner to the tape many and many a time.
+"Just take a look at Lawson Robertson's feet next time you see them. They are generous in size and width, and have carried him a winner to the tane many and many a time."
 
-"Longboat, the Indian Marathoner, has feet typical of his race, and St. Yves, the Frenchman, has small but flat feet. Although he is lightly built, they are naturally shaped like a flat-iron.
+"Longboat, the Indian Marathoner, has feet typical of his race, and St. Yves, the Frenchman, has small but flat feet. Although he is lightly built, they are naturally shaped like a flat iron.
 
 "Here are the boxing shoes of Jack Johnson, the colored pugilist. They show that his foot is perfectly flat, but not nearly as large as one would expect after seeing the cartoons of them. He has not a large foot for a man of his size. Look at the shoes and you can tell they belong to an Ethiopian beyond any doubt.
 
@@ -67,16 +65,34 @@ The stockholders had invested in paid up capital on December 31, 1909, at the cl
 
 Figuring from this same point of view, we could have declared a dividend of 1 and 1-2 per cent on the entire capital stock of the bank. With this showing, we ask, "Have the present officials of this bank succeeded in making good for stockholders?" With the continued co-operation of the stockholders and our friends in the community, we believe we can within the next twelve months wipe out the entire expense account, and put the bank on a paying basis. And if the Stockholders unite as one man in an effort to induce people to take stock and deposit in the bank, we can before very long, be one of the strongest banking institutions in the South of our ace.
 
-Capital stock paid $2,802 00
+Capital stock paid ..... $2,802 00
 Total resources to-day, Jan
-17, 1910 $11,119 11
-Total liabilities, to-day, Jan.
+17, 1910 ..... $11,119 11
+Total liabilities to-day, Jan.
 
 # SHOE BARGAINS!
 
 THURSDAY MORNING, January 20, we will begin our Clearance Sale of BROKEN SIZES in High-Grade Footwear for Men, Women, Boys, Misses and Children, at prices much less than cost of making.
 
 ## Men's Department
+
+Stetson's & Johnson & Murphy's $6 Shoes, all leathers
+
+Hurley's and K. & O. $5.00 Shoes, all leathers
+
+Thompson Bros'. (and other makes) $4.00 Shoes, all leathers
+
+Misses and Children's D
+
+Misses' $2.50 and $2.00 values, all leathers
+
+Children's $2.00 and $1.50 values, all leathers
+
+All Sorosis Shoes
+
+GEO. P.
+
+FOOT COVERERS TO ALL MANKIND
 
 Stetson's & Johnson & Murphy's $6 Shoes, all leathers 3.85
 Hurley's and K. & O. $5.00 Shoes, all leathers 2.45
@@ -92,26 +108,55 @@ All Sorosis Shoes $3.50 and $4.00 values at $1.95
 
 # GEO. P. STALEY CO. FOOT COVERERS TO ALL MANKIND 416 UNION STREET
 
+---
+
 17, 1910 ..... $11,119 11
-Profits for fifteen days ....$11,190 00
+Profits for fifteen days ..... $11,190 00
 The meeting was enthusiastic, and much stock which had been previously subscribed for was paid up. Only two changes took place in the directorate, and in each of these cases it was caused by the removal from the city of the directors resigned. W. H. Hodgkins was elected to succeed E. R. Carney, and W. A. Lewis succeeded H. L. W. Washington.
 The officers are as follows: R. F. Boyd, President; A. N. Johnson, First Vice President; A. M. Townsend, Second Vice President; D. A. Hart, Third Vice President; T. G. Ewing, Cachier; W. D. Hawkins, Teller; S. P. Harris, Auditor; James Bumpas, attorney, and T. Clay Moore, manager real estate department.
 Following is the Executive Committee also re-elected: J. B. Singleton, Chairman; R. F. Boyd, T. G. Ewing, J. H. Hale and J. W. Simmons.
-The Board of Directors follows: R. F. Boyd, A. N. Johnson, J. H. Hale, J. B. Singleton, S. P. Harris, T. Clay Moore, James Bumpas, W. D. Boger, R. A. Ewin, John W. Childress, D. A. Hart, I. L. Moore, D. W. Dunn, J. W. Simmons, T. J. Townsend, G. E. Washington, H. A. Cameron, W. D. Hawkins, H. T. Kealing, D. Davidson, W. H. Hodgkins, W. A. Lewis, E. M. Lawrence, J. T. Phillips and A. M. Townsend.
+
+The Board of Directors follows: R. F. Boyd, A. N. Johnson, J. H. Hale, J. B. Singleton, S. P. Harris, T. Clay Moore, James Bumpas, W. D. Boger, R. A. Ewin, John W. Childress, D. A. Hart, l. L. Moore, D. W. Dunn, J. W. Simmons, T. J. Townsend, G. E. Washington, H. A. Cameron, W. D. Hawkins, H. T. Kealing, D. Davidson, W. H. Hodgkins, W. A. Lewis, E. M. Lawrence, J. T. Phillips and A. M. Townsend.
+
 The People's Savings Bank and Trust Company is the only institution of its kind in the South, being a Negro institution conducting trust and other features which, up to the time of its commencement this year, none of the other Negro banks throughout the country had attempted.
-Rev. W. L. Craft purchased one share of stock for his little daughter, Cora Elnora, that is only three months old and she is probably the youngest owner of bank stock in the country, Mr. I. L. Moore purchased a share for his little grandson. Every stockholder pledged himself to double his energy in the effort to increase the paid up capital stock. The board of directors were notified to meet on Wednesday night, January 26.
+
+Rev. W. L. Craft purchased one share of stock for his little daughter, Cora Elnora, that is only three months old and she is probably the youngest owner of bank stock in the country. Mr. I. L. Moore purchased a share for his little grandson. Every stockholder pledged himself to double his energy in the effort to increase the paid up capital stock. The board of directors were notified to meet on Wednesday night, January 26.
 
 ## ---
 
 ## A CALL ISSUED FOR THE FINAL MASS-MEETING.
-
-A CALL ISSUED FOR THE FINAL MASS-MEETING.
 
 ## The Last Chance for the Negroes of Nashville and Middle Tennessee to Get the Normal College.
 
 In issuing a call for a mass-meeting of colored citizens to be held next Thursday night, January 27, Mr. B. J. Carr, the chairman elected by the citizens, urges a large attendance. He points out the fact that an effort should be put forth in this final struggle to capture the location of the Normal, Agricultural and Mechanical College for Negroes, so that it can be located in Nashville. Every citizen is no doubt interested in the outcome, and especially will this meeting prove of great importance, as more light on the Normal School situation will be turned on. The call will practically settle the question until the State Board of Education makes its final ruling.
 
 ## Women's Department
+
+$5.00 Shoes, all styles and leathers ..... 2.95
+$4.00 Shoes, all styles and leathers ..... 2.45
+One lot $3.00 to $5.00 values ..... 1.95
+One lot $3.00 to $5.00 values ..... 95c
+One lot Fancy Slippers,
+$3.00 to $5.00 values ..... 95c
+Boys' Department
+C. H. Alden $3.50 and $2.50 Shoes, all leathers ..... 1.85
+
+10 Shoes, all styles
+leathers.....2.95
+10 Shoes, all styles
+leathers.....2.45
+lot $3.00 to $5.00
+es.....1.95
+lot $3.00 to $5.00
+es.....95c
+lot Fancy Slippers,
+10 to $5.00 values.....95c
+Boys' Department
+L. Alden $3.50 and $2.50
+es, all leathers.....1.85
+$4.00 values at $1.95
+LEY CO.
+416 UNION STREET
 
 LOST.—Thursday morning between the car station and Globe office, or between Globe office and National Baptist Publishing House a lady's open-face gold watch with L. B. S. engraved on the back. Finder please return to 447 Fourth avenue, North.
 
@@ -129,49 +174,38 @@ Miss Josephine Satterfield has been employed as bookkeeper for the firm of Taylo
 
 Mrs. Fannie Spence, of 1243 Third avenue South, who has been ill, is improving.
 
-Mrs. Jenkins, of Third avenue South, is quite ill.
-
+Mrs. Jenkins, of Third avenue, South, is quite ill.
 Mrs. L. C. Lawrence is indisposed this week.
-
 Mrs. Ada Bedford Hadley left last Sunday for Atlanta, Ga., her future home.
-
 Mrs. Marie Oterberry, of 7 Garden street, who has been sick for a few weeks, is able to be up.
-
 Miss Alberta Davis, who has been indisposed, is able to be out.
-
 Little Fannie Louise Carter, daughter of Mr. and Mrs. Wm. A. Carter, spent Sunday with her little cousin, Master James N. Johnson, of 511 Lischey avenue, East Nashville.
-
 Miss Ida Jackson, of South Nashville, is still very sick.
-
 Messrs. Lovell and A. T. Landers left Nashville last Saturday morning for Mobile, Ala., where they went on the very sad mission to be present at the funeral of the late Rev. A. N. McEwen, who was their stepfather.
-
 Mr. Lovell Landers returned to the city Tuesday morning, while Mr. A. T., who is in the Dental Department of Meharry, was detained in Alabama on important business until the latter part of the week.
-
 Mrs. N. H. Plus and two daughters reached the city Saturday morning from Indianapolis, Ind. They are to
+
+```markdown
+
+```
 
 ## CITY ITEMS
 
-C.V. ROMAN, Ph.D., M., Ocullet and Aurist Nashville Tennesse.
+Maybe that Headache is caused by defective eyesight or badly adjusted
 
-416 UNION STREET
+Better See
 
-make their future home in this city. At present they are at the residence of Prof. and Mrs. W. S. Thompson, 1305 Demonbreun street.
+C. V. ROMAN, Ph. D., M.,
+Ocullet and Auriet
+Nashville Tennessee.
 
-Mr. and Mrs. I. J. Watkins, of 1706-1-2 Scovel street, entertained at dinner last Sunday. Their guest were Miss Mary Branch and Messrs. Atkins and King.
-
-Miss Alberta Dabney, who has been sick for two months, is able to be out again.
-
-Mrs. Adella M. Mitchell, of 316 Eighth avenue, North, fell on the ice last week and hurt her back. She is confined to her bed.
-
-Mrs. Emma Dunlap spent the first week in the year in Memphis visiting her son and attending to other business.
-
-The Woman's Sentiment Moulding Movement Club will hold its first annual convention at the First Baptist Church, East Nashville, on the second Sunday in February. Every woman's club of the city will be represented. The program will appear in the next issue of this paper.
+make their future home in this city. At present they are at the residence of Prof. and Mrs. W. S. Thompson, 1305 Demonbreun street. Mr. and Mrs. I. J. Watkins, of 1706-1-2 Scovel street, entertained at dinner last Sunday. Their guest were Miss Mary Branch and Messrs. Atkins and King. Miss Alberta Dabney, who has been sick for two months, is able to be out again. Mrs. Adella M. Mitchell, of 316 Eighth avenue, North, fell on the ice last week and hurt her back. She is confined to her bed. Mrs. Emma Dunlap spent the first week in the year in Memphis visiting her son and attending to other business. The Woman's Sentiment Moulding Movement Club will hold its first annual convention at the First Baptist Church, East Nashville, on the second Sunday in February. Every woman's club of the city will be represented. The program will appear in the next issue of this paper.
 
 ALABAMA PENNY SAVINGS & LOAN CO.
 
 The Alabama Penny Savings Bank, of Birmingham, Ala.
 
-We are endeavoring through this anniversary year, to raise our deposits account to a million dollars. The Bank has issued a circular asking the depositors and stockholders to use their influence in helping them to accomplish this undertaking. It is also aiming to sell the balance of the hundred-thousand-dollar stock by October 15, its twentieth anniversary. They have two branch banks, one at Selma and the other at Aniston, Alabama. Both are doing well. This will add valuable interest to the capital stock. Stock for sale at $5.00 per share. For further information direct the Alabama Penny Savings Bank, Eighteenth street, Birmingham, Ala.
+We are endeavoring through this anniversary year, to raise our deposits account to a million dollars. The Bank has issued a circular asking the depositors and stockholders to use their influence in helping them to accomplish this undertaking. It is also aiming to sell the balance of its hundred-thousand-dollar stock by October 15, its twentieth anniversary. They have two branch banks, one at Selma and the other at Anniston, Alabama. Both are doing well. This will add valuable interest to the capital stock. Stock for sale at $5.00 per share. For further information direct the Alabama Penny Savings Bank, Eighteenth street, Birmingham, Ala.
 
 W. R. PETTIFORD, President.
 R. H. HUDSON, Cashier.

@@ -9,7 +9,7 @@ Former Louisville Boy Speaks on "Journalism."
 
 Special to the Globe:
 
-Louisville, Ky., June 27.—James R. Harris and T. H. Goodall, editors and publishers of the Louisville Defender, tendered a banquet last Saturday night to Cary B. Lewis, managing editor of the Illinois Chronicle, formerly of Louisville, but now of Chicago.
+Louisville, Ky., June 27-James R. Harris and T. H. Goodall, editors and publishers of the Louisville Defender, tendered a banquet last Saturday night to Cary B. Lewis, managing editor of the Illinois Chronicle, formerly of Louisville, but now of Chicago.
 
 Mr. Lewis was given quite a number of social functions during his stay in the old home city, but the most enjoyable was a stag given him on Saturday night by the Defender, at 822 West Walnut street.
 
@@ -23,6 +23,8 @@ The Advisory Board of the Pythian Grand Lodge delegation, Mr. W. M. Allison, cha
 
 DEATH OF MRS. B. O. GAINES.
 Mrs. Bennetta Douglass Gaines departed this life Saturday evening, June 24, at 4:35 o'clock, after an illness of nearly twelve months. She was the only daughter of Mrs. Beddie Douglass and a granddaughter of Mr. and Mrs. Bedford Hughes. She
+
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.
 
 That Is To Be Printed, From A Calling Card To An Encyclopedia.
 
@@ -43,8 +45,6 @@ A. J. Norman, Son.
 
 ## HOW TO CARE FOR BABY.
 (Continued from Last Issue.)
-
-## HOW TO CARE FOR BABY
 
 milk yourself, you may be able to get along without it, but the baby needs If you cannot afford drink good milk and the cleanest milk that can be obtained. Cheap milk is not clean. It is usually keeping milk from getting dirty that makes it expensive.
 
@@ -84,13 +84,9 @@ Give two teaspoonfuls of castor oil and feed nothing but barley water until the 
 
 ## Flies.
 
-Remember that files are dirty and often carry disease.
-
 Remember that files are dirty and often carry disease. Keep milk or other food covered or where files cannot get at it.
 
-Keep milk or other food covered or where files cannot at it.
-
-NASHVILLE. TENN.
+NASHVILLE, TENN.
 
 have it do so will save much time for them other and enable her to do many more important things in the way of keeping things clean, and of resting herself.
 
@@ -101,6 +97,10 @@ Crying is one of the ways in which babies develop their lungs—a certain amount
 Try to get people to leave the baby alone. Think how tired and irritable you get yourself on a hot day and shield the baby as much as possible from excitement and "attention."
 
 "Some of these things may seem like extra work, but they keep the baby well, and it is far less trouble keep a baby well than to take care of a sick baby."
+
+Lots For
+
+or Sale
 
 # Lots For Sale
 

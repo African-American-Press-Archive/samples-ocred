@@ -2,7 +2,9 @@ The A. & I. State Normal School at Nashville, Tennessee, is indeed a splendid Ed
 
 The A. & I. State Normal School at Nashville, Tennessee, is indeed a splendid Educational Institution and one of the best in the Southland. It has at its head, a man of unusual strength of character and force of thought, both progressive and aggressive in everything that pertains to the development of the school. Education is considered by him an absolute necessity in the development of the young manhood of our race.
 
-The A. & I. State Normal School though young in years is doing a great work and is using a longleft want not only throughout the length and breadth of the state of Tennessee, but throughout the conimes of this country. Students are going from the school teaching the doctrine of good fellowship and showing improved methods of treating Mother Earth and coaxing her to bring forth more bountifully those things for which we as a nation stand most in need.
+The A. & I. State Normal School though young in years is doing a great work and is using a longleft want not only throughout the length and breadth of the state of Tennessee, but throughout the conines of this country. Students are going from the school teaching the doctrine of good fellowship and showing improved methods of treating Mother Earth and coaxing her to bring forth more bountifully those things for which we as a nation stand most in need.
+
+PETER
 
 The A. & I. State Normal School indeed offers to the colored youth a splendid opportunity for development in his
 
@@ -40,6 +42,8 @@ Each state, city and town will have its own industrial situation with which to g
 
 Let us suppose there will come an invitation by some agent to go into another city. We would do well to remember the old ad-dage, "A rolling stone gathers no moss."
 
+NASHVILLE GLOBE. FRIDAY DECEMBER 6. 1918.
+
 ## NASHVILLE'S BID TO HER LABORERS.
 
 We make no reference to the past, but speak of the present when we say, that Nashville, all things being considered, offers more and greater opportunities to the colored man, under greater improved conditions than any other city in the Union.
@@ -58,15 +62,13 @@ The colored men get a lion's share of construction and up keep work. It would be
 
 ## INDUSTRIAL EMERGENCY IS PASSED.
 
-INDUSTRIAL EMERGENCY IS PASSED.
-
-The war created such a demand for man power to produce coal for the transportation of extra tonnage on land and sea. Man power for the manufacture of extra weapons of warfare of numerous kinds, man power for the construction of extra high ways, both at home and in foreign lands, man power for the building of cantonments. So great was the demand for man power, the things which go to make up that power were vigilantly guarded. But the laboring man must not forget that if the war is over, and it looks as if it then this emergency is passed.
+The war created such a demand for man power to produce coal for the transportation of extra tonnage on land and sea. Man power for the manufacture of extra weapons of numerous kinds, man power for the construction of extra high ways, both at home and in foreign lands, man power for the building of cantonments. So great was the demand for man power, the things which go to make up that power were vigilantly guarded. But the laboring man must not forget that if the war is over, and it looks as if it then this emergency is passed.
 
 We were compelled to increase the acreage of our farms, increase the wages of the laborers on the farm. This was done as a patriotic duty as well as for sustenance or profit. Men who were not physically strong were employed at good wages, so as to utilize every bit of man power that was available. This too, was patriotic. In many places women are being used to do the work formerly done by men, this may be regarded as highly patriotic on the part of the women. But now that the war is over, in some cases it will take a long time to convince both the employer and the women that their places should be given to the men.
 
 The sensible and industrious colored man, will not leave this city to better his condition. He will not sacrifice his health by the change of climate for health is better than wealth. He will not sacrifice the education of his children, such as he can get in Nashville for a few dollars and for the sake of being addressed as a capitalist. He will not sacrifice his right to buy and own a home in the city that can boast of one of the largest government plants in the world for the sake of a few extra dollars in a city so congested that the mere thought of his buying a home is out of the question, for such is the present conditions in all of the larger cities in the country.
 
-As a was measure, many German and alien workmen were forced out of employment and their places given to citizens, some of those citizens were colored. But now the war is over and if we have a league of fitions as our President is advocating, and it looks as if we would have such a league. Then it becomes the moral duty of the Eastern, Northern and Western cities to give every man an equal chance to make a living. Those who were once suspected as enemies will be considered with preference because of the great foreign element in those cities. This will be the influence of moral persuasion.
+As a was measure, many German and alien workmen were forced out of employment and their places given to citizens, some of those citizens were colored. But now the war is over and if we have a league of nations as our President is advocating, and it looks as if we would have such a league. Then it becomes the moral duty of the Eastern, Northern and Western cities to give every man an equal chance to make a living. Those who were once suspected as enemies will be considered with preference because of the great foreign element in those cities. This will be the influence of moral persuasion.
 
 Nashville has no such labor situation to master. So the colored workman will find this city offering the greatest and best opportunities of any city in the Union.
 
@@ -78,7 +80,7 @@ Unlike other cities, Nashville has not time or place for the loafers. Every effo
 
 In Nashville, you as a colored man, are allowed to choose your own occupation and ask for the kind of work you want.
 
-In many other cities you are told by the employers just what kind of work you are allowed to do regardless as to your ability to do some thing else.
+In many other cities you are told bythe employers just what kind of work you are allowed to do regardless as to your ability to do some thing else.
 
 You are given a chance here to make good at whatever you wish to attempt. No city in the Union the size of Nashville has as many colored business houses and enterprises as has this city. There are more colored professional men and women here than in any other city of its size. You have a chance to have what you want, be what you want to be and do what you want to do.
 
@@ -92,12 +94,34 @@ The Atlantic Coal and Ice Co., is the largest ice manufacturing company in Nashv
 Halt Dressers' Supplies
 Agents' Club Terms
 
-RHODAO COLLEGE,
-Miami, FL
-514 10th Avenue, South
-514 10th Avenue, South
+Hair Dressers' Stimulus
+Agents' Club Terms
+
+RHODAO COLLEGE
+Madam Bessie T. P. Rhoda,
+514 10th Avenue, South,
+Nashville, Louis.
+
+MEN. WHY NOT?
+KONGOLENE
+WILL MAKE YOU SMILE
+
+POSITIVELY
+STRAIGHTENS THE HAIR
+KONGOLENE $1.00 Per JAR
+EBONIZED GROUND OIL-25'
+A NECESSARY ADDITION TO KONGOLENE
+
+SEND $25
+FOR DIVIDUAL JARS
+KONGO
+PRODUCTS CO.
+1215 WYLLIE AVE.
+PITTSBURGH PA.
 
 Your Gold Tooth Polished—Your White Teeth Bleach
+
+19
 
 A ISOLUTELY FREE FROM GRIT AND ACID AND PREVENTS-DECAY
 For Sale by all Loading Druggist Everywhere
@@ -115,34 +139,11 @@ QUINO is the Quality Scalp Food
 
 THE "Q" IN QUINO STANDS FOR QUALITY
 
-HERE THEY ARE: Not Something Merey To Grease Your Head--But Scientifically Compounded Scalp Foods To Arrest Scalp Diseases.
+HERE THEY ARE: Not Something Merely To Crease Your Head--But Scientifically Compounded Scalp Foods To Arrest Scalp Diseases.
 
-QUINO HAIR GROWER
-Manufactured to make growable hair grow here other remedies have failed. QUINO has won the day and surprised even a friend with the excellent results obtained. Price 30 ce ts.
+QUINO HAIR GROWER Manufactured to make growable hair grow, here other remedies have failed. QUINO has won the day and surprised its friends with the excellent results obtained. Price 50 ce ts.
 
-QUINO TEMPLE OIL
-Made for a specific purpose—to grow hair on bald temples, to thicken the hair and promote its growth. For use upon Price 75 cents.
-
-QUINO TETTER SALVE
-ur remarkable cure for badly diseased scals. No matter how obstinate, this preparation ches it. Price 75 cents.
-
-QUINO HAIRTONE
-The finest of Scalp Food. Nothing on the market has been found that thickens the hair so quickly and rapidly as Hairline. It is a wonderful preaion guarantee to be what we claim for it. Price $1.00.
-
-QUINO PRESSING OIL
-Or Straightener makes the hai soft and straighten it WITHOUT the use of hot irons. When used in connection with ented irons the result is miraculous. Gentlemen may use this oil to advantage. Price 50 cents.
-
-QUINO LIQUID PRODUCTS
-QUINO TAR LOTION is our great scalp cleanser. Nothing removes dandruff in worst areas better than this lotion. Price 50 cents.
-
-QUINO HAIR TONIC-A preparation especially a spotted for those who do not like oily prep rations. A Regular Hair Tonic. Price 75 cents.
-
-QUINO LIQUID HAIRTOE-E-A purely liquid vegetable oil preparation different from another hair rinse. In that it is a LIQUID vegetable compound made of the finest and best oils promoting the health of the scalp and growth of the hair. Price $1.00.
-
-ALL LIQUID PRODUCTS SENT BY X-PRESS, CHARGES, PAID BY GUSTOMERS
-
-QUINO PRESSING OIL
-Or Straightener makes the hai soft and straighten it WITHOUT the use of hot irons. When used in connection with cured irons the result is miraculous. Gentlemen may use this oil to advantage.
+QUINO PRESSING OIL Or Straightener makes the hair soft and straighten it WITHOUT the use of hot irons. When used in connection with ented irons the result is miraculous. Gentlemen may use this oil to advantage. Price 50 cents.
 
 QUINO HAIR GROWER
 Manufactured to make growable hair grow, here other remedies have failed,
@@ -202,6 +203,8 @@ makes short tub-
 born hair grow-
 ing and clogging.
 
+MARIA
+
 Ever present help in trouble,
 Guide, philosopher and friend,
 Pass the shark meat and fried stubble.
@@ -212,17 +215,7 @@ Will the conflict ever end?
 
 Arthur Raines received a card of greetings from Corp. Samuel H. Webb who is now in France. He was a member of Bright Jowell Lodge No. 2, of the United Order of Sons and Daughters of Abraham. And also a member of Anniversary Lodge No. 210, K. of P., and was formerly a packer for the firm of L. Jonas and Co.
 
-Give it a trial, one box will convince you of
-imperior merrits. Coca-Cola Balm SUCE-
-CED MONEY ALL OTHERS ALSO. Money Back guarantee, Seed 32s, 20-cm
-and get a box of this wonderful Hair Grows.
-ACENTS WANTED EVERYWHERE
-Address
-REGINALL LABORATORY
-161 Bell Street
-Alanta, Ga.
-
-member of Anniversary Lodge No. 210, K. of P., and was formerly a packer for the firm of L. Jonas and Co.
+greetings from Corp. Samuel W. who is now in France. He was a member of Bright Jewell Lodge No. 2, of the United Order of Sons and Daughters of Abraham. And also a member of Anniversary Lodge No. 210, K. of P., and was formerly a packer for the firm of L. Jonas and Co.
 
 The greater number of drivers, truckmen, firemen, pipe-men, etc., are colored. They are well paid and their personal interests are considered by the management of this company.
 

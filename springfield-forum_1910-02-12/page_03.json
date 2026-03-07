@@ -3,6 +3,17 @@
   "image": "images/page_03.jpg",
   "width": 2114,
   "height": 2800,
+  "processed_at": "2026-03-07T12:32:53.528673+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 27,
+    "after_merge": 20
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         303
       ],
       "label": "doc_title",
-      "text": "DECATUR, ILLINOIS."
+      "text": "DECATUR, ILLINOIS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         504
       ],
       "label": "paragraph_title",
-      "text": "Local Option a Hindrance Here."
+      "text": "Local Option a Hindrance Here.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,27 +45,63 @@
         620
       ],
       "label": "paragraph_title",
-      "text": "Society and Personals--Rev. J. T. Morrow Writes on the Needs of the Race."
+      "text": "Society and Personals--Rev. J. T. Morrow Writes on the Needs of the Race.",
+      "status": "ok"
     },
     {
       "bbox": [
-        313,
+        316,
         643,
         696,
-        2168
+        1061
       ],
       "label": "text",
-      "text": "The revival services at St. Peters church are progressing nicely. There have been several converts and additions to the church. Rev. Morrow is having Rev. J. I. Thomas of Normal, helping him this week.\n\nMiss Marie Elison of Jacksonville, is visiting friends in Decatur, this week.\n\nMrs. Ed Garner of Detroit, Michigan, is here visiting her parents and friends.\n\nThe St. Peters church choir under the leadership of Mrs. E. N. Morrow, is making music as they never did before. She is an able instructress and is well versed in music. We can well say we have the best choir in the state, with no exception.\n\nE. J. McWhirter has a first class pantatorium at 141 N. Main street. Call and see him.\n\nMrs. Ollie Ward-McNab went to Chicago this week on business\n\nThe following names have been added to The Forum's subscription list this week\u2014Messrs. Heggings, White, Bowens, Eukie Davis, Dulin, Tandy, Browner, Trice, Walters, McWhirter; Mesdames McGregory, Bledsoe, Long, Pierce. Johnson. We want 200 subscribers for The Forum. It is the cleanest journal in the state and has been out every week for the last six years and always takes the stand for the best interests of the Negro race. Now have in this city 137 paid subscribers,\n\nThe Maple Leaf Court of Calanthe No. 25, had their installation of officers last Monday evening, about 60 invited guests were out and a fine repast was served, consisting of\u2014"
+      "text": "The revival services at St. Peters church are progressing nicely. There have been several converts and additions to the church. Rev. Morrow is having Rev. J. I. Thomas of Normal, helping him this week.\n\nMiss Marie Elison of Jacksonville, is visiting friends in Decatur, this week.\n\nMrs. Ed Garner of Detroit, Michigan, is here visiting her parents and friends.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        316,
+        1082,
+        696,
+        1495
+      ],
+      "label": "text",
+      "text": "The St. Peters church choir under the leadership of Mrs. E N. Morrow, is making music as they never did before. She is an able instructress and is well versed in music. We can well say we have the best choir in the state, with no exception.\n\nE. J. McWhirter has a first class pantatorium at 141 N. Main street. Call and see him.\n\nMrs. Ollie Ward-McNab went to Chicago this week on business",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        314,
+        1517,
+        695,
+        1973
+      ],
+      "label": "text",
+      "text": "The following names have been added to The Forum's subscription list this week\u2014Messrs. Heggings, White, Bowens, Eukie Davis, Dulin, Tandy, Browner, Trice, Walters, McWhirter; Mesdames McGregory, Bledsoe, Long, Pierce. Johnson. We want 200 subscribers for The Forum. It is the cleanest journal in the state and has been out every week for the last six years and always takes the stand for the best interests of the Negro race. Now have in this city 137 paid subscribers.",
+      "status": "ok"
     },
     {
       "bbox": [
         313,
-        2327,
-        694,
-        2669
+        1999,
+        696,
+        2539
       ],
       "label": "text",
-      "text": "Mr. Moses Bass who has been in St. Mary's hospital for the last three weeks, is able to be out.\n\nLeave all the news for The Forum at my office, 124 E. Wood St.\n\nTwo years ago we had 30 men employed as cooks, waiters and porters in the saloons and the good local optionists promised"
+      "text": "The Maple Leaf Court of Calanthe No. 25, had their installation of officers last Monday evening, about 60 invited guests were out and a fine repast was served, consisting of\n\nChicken Salad\nEscalloped Oysters\nBread and Butter Sandwiches\nIce Cream and Cake\nCoffee\n\nMr. Moses Bass who has been in St. Mary's hospital for the last three weeks, is able to be out.\n\nLeave all the news for The Forum at my office, 124 E. Wood St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        313,
+        2555,
+        696,
+        2780
+      ],
+      "label": "text",
+      "text": "Two years ago we had 30 men employed as cooks, waiters and porters in the saloons and the good local optionists promised",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +111,8 @@
         391
       ],
       "label": "paragraph_title",
-      "text": "Edited By H. A. Watkins."
+      "text": "Edited By H. A. Watkins.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +122,8 @@
         1215
       ],
       "label": "paragraph_title",
-      "text": "Watch This Space"
+      "text": "Watch This Space",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +133,8 @@
         1908
       ],
       "label": "paragraph_title",
-      "text": "This Space Reserved"
+      "text": "This Space Reserved",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +144,8 @@
         2458
       ],
       "label": "paragraph_title",
-      "text": "Give Us Your Ad."
+      "text": "Give Us Your Ad.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +155,8 @@
         768
       ],
       "label": "text",
-      "text": "the Negro to get them better jobs if they would vote saloons out, now I find the saloons out and also the Negro out of employment. Those who led the local option fight among the Negro race, why don't you hold those God fearing people to their promise. Now when you get in to the fight this spring, be sure and ask them about it, and find"
+      "text": "the Negro to get them better jobs if they would vote saloons out, now I find the saloons out and also the Negro out of employment. Those who led the local option fight among the Negro race, why don't you hold those God fearing people to their promise. Now when you get in to the fight this spring, be sure and ask them about it, and find",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +166,8 @@
         762
       ],
       "label": "text",
-      "text": "the reason one of the Decatur expastors did not give to one of our churches the $100 he promised them before leaving the city to complete their building for their faithful work in the local option fight two years ago.\n\nWe want our people to patronize the advertisers who will appear in the next issue of The Forum."
+      "text": "the reason one of the Decatur expastors did not give to one of our churches the $100 he promised them before leaving the city to complete their building for their faithful work in the local option fight two years ago.\n\nWe want our people to patronize the advertisers who will appear in the next issue of The Forum.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,17 +177,63 @@
         464
       ],
       "label": "text",
-      "text": "THE NEEDS OF THE RACE."
+      "text": "THE NEEDS OF THE RACE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1490,
+        506,
+        1872,
+        1250
+      ],
+      "label": "text",
+      "text": "We are aware of the fact that the needs of the race are many and varied. One of the greatest needs is the return to the true worship of God. The race or nation that neglects the worship of God finds themselves confronting problems too difficult for human minds. Education is the instrument by which we reach man's higher senses bringing him into closer relation with God, better preparing him to lift his fellowman to a higher plane of religious and civic righteousness. Industry is God's highest earthly law for the development of man and beasts. An empty head and an idle hand leads to the destruction of race or nation. To develop spiritually we must put our talents to the exchange and give to the spiritual world the best we have in us, otherwise we become spiritual dwarfs and have no claim upon heaven or earth.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1488,
+        1258,
+        1871,
+        1738
+      ],
+      "label": "text",
+      "text": "What is true of the moral world is true of the physical world. The man who fails to toil and develop the physical man becomes a weakling and can't give back to the world more than he is. We can never give out more than we take on If the race would take on more of the science of agriculture he would be better prepared to supply the wants and meet the real needs of the country. The farm will bring him to the front as no other avocation. When we produce the necessities of life we are sought by all.",
+      "status": "ok"
     },
     {
       "bbox": [
         1487,
-        506,
-        1872,
+        1747,
+        1868,
+        2002
+      ],
+      "label": "text",
+      "text": "It is high time that the race besir themselves and take time by the forelock, for it is a fact that we are living in the most crucial period of the race's history since Emancipation as it pertains to the laws of the government, racial hatred and the business world.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1488,
+        2011,
+        1869,
+        2581
+      ],
+      "label": "text",
+      "text": "The time is far spent and the opportunities that presented themselves thirty-five or forty years ago will never return. Land that could be bought then for five, ten, fifteen and twenty dollars per acre, sells now for one hundred and fifty dollars per acre. We admit that the employment as waiters in cafe, hotels, porters and coachmen are well enough and the race should do its best to please their employer and hold these jobs, but the avocation that will bring the race and his into demand is the farm life\u2014the only independent life lived by the human family and the best place to raise the boys and girls.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1488,
+        2589,
+        1869,
         2672
       ],
       "label": "text",
-      "text": "We are aware of the fact that the needs of the race are many and varied. One of the greatest needs is the return to the true worship of God. The race or nation that neglects the worship of God finds themselves confronting problems too difficult for human minds. Education is the instrument by which we reach man's higher senses bringing him into closer relation with God, better preparing him to lift his fellowman to a higher plane of religious and civic righteousness. Industry is God's highest earthly law for the development of man and beasts. An empty head and an idle hand leads to the destruction of race or nation. To develop spiritually we must put our talents to the exchange and give to the spiritual world the best we have in us, otherwise we become spiritual dwarfs and have no claim upon heaven or earth.\n\nWhat is true of the moral world is true of the physical world. The man who fails to toil and develop the physical man becomes a weakling and can't give back to the world more than he is. We can never give out more than we take on. If the race would take on more of the science of agriculture he would be better prepared to supply the wants and meet the real needs of the country. The farm will bring him to the front as no other avocation. When we produce the necessities of life we are sought by all.\n\nIt is high time that the race besir themselves and take time by the forelock, for it is a fact that we are living in the most crucial period of the race's history since Emancipation as it pertains to the laws of the government. racial hatred and the business world.\n\nThe time is far spent and the opportunities that presented themselves thirty-five or forty years ago will never return. Land that could be bought then for five, ten, fifteen and twenty dollars per acre, sells now for one hundred and fifty dollars per acre. We admit that the employment as waiters in cafe, hotels, porters and coachmen are well enough and the race should do its best to please their employer and hold these jobs, but the avocation that will bring the race and his into demand is the farm-life\u2014the only independent life lived by the human family and the best place to raise the boys and girls.\n\nA large per cent of those raised in cities and towns generally develop into city dudes."
+      "text": "A large per cent of those raised in cities and towns generally develop into city dudes.",
+      "status": "ok"
     }
   ]
 }

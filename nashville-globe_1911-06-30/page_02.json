@@ -3,6 +3,17 @@
   "image": "images/page_02.jpg",
   "width": 1768,
   "height": 2800,
+  "processed_at": "2026-03-07T12:24:33.547335+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 49,
+    "after_merge": 39
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         356
       ],
       "label": "doc_title",
-      "text": "PRICES ADVANCE JULY FIRST."
+      "text": "PRICES ADVANCE JULY FIRST.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         576
       ],
       "label": "text",
-      "text": "Minimum Summer Prices Effective Only TWO MORE DAYS Place your order to-day for"
+      "text": "Minimum Summer Prices Effective Only TWO MORE DAYS Place your order to-day for",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,17 +45,19 @@
         779
       ],
       "label": "text",
-      "text": "ECONOMY"
+      "text": "ECONOMY",
+      "status": "ok"
     },
     {
       "bbox": [
-        189,
-        1522,
-        721,
-        1701
+        155,
+        997,
+        754,
+        1882
       ],
       "label": "text",
-      "text": "Third Ave., N,\nDavenports $12.50 AND UP $60.00\nOne Suit Oak - $25.00\nOne Range - - $32.00"
+      "text": "Nashville Furniture Co.\n\nGeneral House Furnishers\nCash or Credit\n\nTelephone M.\n1761.\n\n216\nThird Ave., N,\n\nDavenports $12.50 AND UP $60.00\nOne Suit Oak - $25.00\nOne Range - - $32.00\n\nOld Stoves as First Pay",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +67,19 @@
         2002
       ],
       "label": "text",
-      "text": "Out of Town Notes."
+      "text": "Out of Town Notes.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        147,
+        199,
+        162,
+        216
+      ],
+      "label": "text",
+      "text": "2",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +89,19 @@
         725
       ],
       "label": "text",
-      "text": "Telephone\nM--765"
+      "text": "Telephone\nM--765",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        147,
+        725,
+        463,
+        2048
+      ],
+      "label": "text",
+      "text": "PINNER\n\"The Company with the Coal a\n\nNashville F\n\nGeneral House\nCash or\n\nDavenports $1\nOne Suit Oak\nOne Range\n\nOld Stoves\n\nOut of To",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +111,8 @@
         2068
       ],
       "label": "text",
-      "text": "FAYETTEVILLE NOTES."
+      "text": "FAYETTEVILLE NOTES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +122,8 @@
         2117
       ],
       "label": "paragraph_title",
-      "text": "Suggs-Pamplin."
+      "text": "Suggs-Pamplin.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,30 @@
         2638
       ],
       "label": "text",
-      "text": "Mr. James W. Suggs and Miss Myrte L. Pamplin were united in matrimony June 22, at the home of the bride's parents, by Rev. J. M. W. Deshong. The Pamplin residence was beautifully decorated. The color scheme was white and lavender. The windows were banked with hydrangea. White tapers were used. The lawn was illuminated with Japanese lanterns. Miss Katie B. Hall presided at the organ. She wore a beautiful costume of white liberty satin. A vocal solo by little Joice Moore. \"Since Baby Went Away, a vocal solo by Miss Sadie B. Moore, \" Promise Me.\" At 8:30 p. m. the strains of Mendelssohn's wedding march pealed forth; the bridal procession entered. Miss Georgin Martin was maked of honor. She wore a beautiful gown of white marquette. The bride was given away by her brother, Mr. Theophilus Pamplin. The ring ceremony was used. The attendants were as follows: Miss Ola Pamplin attended by Mr. James Wilson; Miss Mabel P. Hall, attended by Mr. Elridge Suggs; Wiss Leoda Morris by Mr. Claudie T. Hall. The bride's"
+      "text": "Mr. James W. Suggs and Miss Myrte L. Pamplin were united in matrimony June 22, at the home of the bride's parents, by Rev. J. M. W. Deshong. The Pamplin residence was beautifully decorated. The color scheme was white and lavender. The windows were banked with hydrangea. White tapers were used. The lawn was illuminated with Japanese lanterns. Miss Katie B. Hall presided at the organ. She wore a beautiful costume of white liberty satin. A vocal solo by little Joice Moore. \"Since Baby Went Away, a vocal solo by Miss Sadie B. Moore, \" Promise Me.\" At 8:30 p. m. the strains of Mendelssohn's wedding march pealed forth; the bridal procession entered. Miss Georgin Martin was maked of honor. She wore a beautiful gown of white marquette. The bride was given away by her brother, Mr. Theophilus Pamplin. The ring ceremony was used. The attendants were as follows: Miss Ola Pamplin attended by Mr. James Wilson; Miss Mabel P. Hall, attended by Mr. Elridge Suggs; Wiss Leoda Morris by Mr. Claudie T. Hall. The bride's",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        147,
+        2638,
+        463,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        625,
+        185,
+        1110,
+        210
+      ],
+      "label": "text",
+      "text": "NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +166,8 @@
         2287
       ],
       "label": "text",
-      "text": "maids wore white embroidered dresses. The bride wore a beautiful creation of white silk mull, trimmed with baby Irish and real lace. The bridal veil was caught with orange blossoms. She carried a bouquet of Marechal Niel roses. She received many valuable presents. Mrs. Bettie Bryson acted as matron of honor. Mr. and Mrs. Suggs left for Chattanooga Saturday morning, where they will make their home. The bride's going away gown was a gray tailored suit, with hat to match."
+      "text": "maids wore white embroidered dresses. The bride wore a beautiful creation of white silk mull, trimmed with baby Irish and real lace. The bridal veil was caught with orange blossoms. She carried a bouquet of Marechal Niel roses. She received many valuable presents. Mrs. Bettie Bryson acted as matron of honor. Mr. and Mrs. Suggs left for Chattanooga Saturday morning, where they will make their home. The bride's going away gown was a gray tailored suit, with hat to match.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +177,8 @@
         2328
       ],
       "label": "paragraph_title",
-      "text": "WARREN NOTES."
+      "text": "WARREN NOTES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,27 +188,19 @@
         2631
       ],
       "label": "text",
-      "text": "On last Thursday morning, June 22, at 6 o'clock, the monster Death came into the home of Mrs. Emma Fleenroy, and claimed for its victim her beloved mother, Mrs. Sara Smith. Mrs. Smith lived to the ripe old age of sixty-six years. Over a third of these years were spent in Christian service. The funeral was held at Carter's Chapel Baptist Church. The Revs. D. B. Hardy and W. A. Rodgers conducted the funeral services with much credit. She is survived by a son, Mr. R. L. Dandridge, and one daughter, and a host of other relatives. We wish to extend our sympathy to the bereaved ones she left"
+      "text": "On last Thursday morning, June 22, at 6 o'clock, the monster Death came into the home of Mrs. Emma Fleenroy, and claimed for its victim her beloved mother, Mrs. Sara Smith. Mrs. Smith lived to the ripe old age of sixty-six years. Over a third of these years were spent in Christian service. The funeral was held at Carter's Chapel Baptist Church. The Revs. D. B. Hardy and W. A. Rodgers conducted the funeral services with much credit. She is survived by a son, Mr. R. L. Dandridge, and one daughter, and a host of other relatives. We wish to extend our sympathy to the bereaved ones she left",
+      "status": "ok"
     },
     {
       "bbox": [
-        883,
+        757,
         666,
-        994,
-        709
-      ],
-      "label": "text",
-      "text": "Telephone M--984"
-    },
-    {
-      "bbox": [
-        924,
-        906,
-        1023,
+        1077,
         931
       ],
       "label": "text",
-      "text": "27 Arcade."
+      "text": "Telephone\nM--984\n\nIPANY,\n27 Arcade.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +210,8 @@
         1171
       ],
       "label": "text",
-      "text": "behind to mourn her death. The county examination will be held this week at Somerville. The young people of North Warren are planning a big fishing outing for the 4th of July. Rev. W. A. Rodgers visited the home of Mr. and Mrs. J. C. Montagut last Friday. Mr. Alex Brewer and C. H. Mason, of Mason, Tenn., visited the home of Mr. B! R. Flippin Sunday."
+      "text": "behind to mourn her death. The county examination will be held this week at Somerville. The young people of North Warren are planning a big fishing outing for the 4th of July. Rev. W. A. Rodgers visited the home of Mr. and Mrs. J. C. Montagut last Friday. Mr. Alex Brewer and C. H. Mason, of Mason, Tenn., visited the home of Mr. B! R. Flippin Sunday.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +221,8 @@
         1206
       ],
       "label": "paragraph_title",
-      "text": "UNA NOTES."
+      "text": "UNA NOTES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,17 +232,41 @@
         1513
       ],
       "label": "text",
-      "text": "Revs. T. G. Hadden and C. H. Simmons have returned from their trip to the District Conference at Franklin, Tenn. The annual basket meeting and rally will be at Solomon Chapel on Sunday, Mr. David Fosafter an absence of twenty-one years, returned to visit his father, Mr. Robert Foster, Sr. Mr. and Mrs. Phil. Maney received the sad message of the death of their son, Mr. Sam Maney. Mr. Charlotte continues very ill.\n\nPREPARATIONS ALL READY FOR THE MEETING OF THE NATIONAL NEGRO BUSI-"
+      "text": "Revs. T. G. Hadden and C. H. Simmons have returned from their trip to the District Conference at Franklin, Tenn. The annual basket meeting and rally will be at Solomon Chapel on Sunday, Mr. David Fosafter an absence of twenty-one years, returned to visit his father, Mr. Robert Foster, Sr. Mr. and Mrs. Phil. Maney received the sad message of the death of their son, Mr. Sam Maney. Mr. Charlotte continues very ill.\n\nPREPARATIONS ALL READY FOR THE MEETING OF THE NATIONAL NEGRO BUSI-",
+      "status": "ok"
     },
     {
       "bbox": [
         765,
         1556,
+        1071,
+        2043
+      ],
+      "label": "text",
+      "text": "Special to the Globe.\n\nLittle Rock, Ark., June 26.\u2014The twelfth annual meeting of the National Negro Business League will be held here Wednesday, Thursday and Friday, August 16, 17 and 18, 1911. The program for the meeting is now being formulated and will soon be published.\n\nThe progress being made by the Negro people of Oklahoma has induced the officers of the League to set aside the morning session, Thursday, August 17th, as Oklahoma Day. Opportunity will be afforded the live Negro business men of this new state to put before the country not only the opportunities that are open to enterprising people, but a statement as to how these opportunities are already being taken advantage of along all lines of business and in professional and educational directions as well. The Negro town of Boley, for instance, has just installed a $35,000 light and power plant, and there are many other evidences of superior progress being made by the Negroes of that state.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        772,
+        2043,
         1077,
         2629
       ],
       "label": "text",
-      "text": "Little Rock, Ark., June 26.\u2014The twelfth annual meeting of the National Negro Business League will be held here Wednesday, Thursday and Friday, August 16, 17 and 18, 1911. The program for the meeting is now being formulated and will soon be published.\n\nThe progress being made by the Negro people of Oklahoma has induced the officers of the League to set aside the morning session, Thursday, August 17th, as Oklahoma Day. Opportunity will be afforded the live Negro business men of this new state to put before the country not only the opportunities that are open to enterprising people, but a statement as to how these opportunities are already being taken advantage of along all lines of business and in professional and educational directions as well. The Negro town of Boley, for instance, has just installed a $35,000 light and power plant, and there are many other evidences of superior progress being made by the Negroes of that state.\n\nHon. Sculpio A. Jones, President of the State Negro Business League of Arkansas, announces that the State League and the Local Negro Business League of Little Rock, now have their plans fully matured for the coming meeting. The Chamber of Commerce and the Board of Trade, through their representative secretaries, are in active co-operation with Messrs. Jones, Bush, Booker and others. The Entertainment Committee of the Chamber of Commerce has applated $500.00 for the entertainment of the League, and in addition will provide for the place of meeting The Local Negro Business League of Little Rock will also make large appropriations to cover all features of entertainment for those who are present at the coming meeting.\n\nDelegates from the Eastern and Western states can reach Little Rock without annoyance of any character, if they will organize special Pullman or Tourist Car Parties in accordance with the plans already announced by the National Organization and published in the various newspapers of the country. Hon. John E. Bush, a member of the Executive Committee of the National Organization is especially anxious that large numbers of delegates from the Northern, Eastern"
+      "text": "Hon. Scipio A. Jones, President of the State Negro Business League of Arkansas, announces that the State League and the Local Negro Business League of Little Rock, now have their plans fully matured for the coming meeting. The Chamber of Commerce and the Board of Trade, through their representative secretaries, are in active co-operation with Messrs. Jones, Bush, Booker and others. The Entertainment Committee of the Chamber of Commerce has appropriated $500.00 for the entertainment of the League, and in addition will provide for the place of meeting The Local Negro Business League of Little Rock will also make large appropriations to cover all features of entertainment for those who are present at the coming meeting.\n\nDelegates from the Eastern and Western states can reach Little Rock without annoyance of any character, if they will organize special Pullman or Tourist Car Parties in accordance with the plans already announced by the National Organization and published in the various newspapers of the country. Hon. John E. Bush, a member of the Executive Committee of the National Organization is especially anxious that large numbers of delegates from the Northern Eastern",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        757,
+        2629,
+        1077,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +276,8 @@
         295
       ],
       "label": "text",
-      "text": "and Western states attend the coming meeting, so as to see something of the progress being made by the Nores of the South."
+      "text": "and Western states attend the coming meeting, so as to see something of the progress being made by the Nores of the South.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,17 +287,41 @@
         383
       ],
       "label": "paragraph_title",
-      "text": "MISSISSIPPI STATE TEACHERS'\nASSOCIATION MEETS IN\nUTICA."
+      "text": "MISSISSIPPI STATE TEACHERS'\nASSOCIATION MEETS IN\nUTICA.",
+      "status": "ok"
     },
     {
       "bbox": [
         1059,
         389,
+        1363,
+        786
+      ],
+      "label": "text",
+      "text": "Utica, Miss., June 23.\u2014The Fifth annual session of the State Association of Colored Teachers was held at the Utica Normal and Industrial Institute, June 20, 21, 22. The meeting was attended by a large number of teachers. The convention was marked by several important and strong papers bearing upon various phases of the profession, punctured by several vigorous discussion, the chief of which were an interting talk on the Jeanness Fund by Prof. J. H. Webber, of Darbun; a discussion of \"How to Make Negro Education Popular in the South,\" by W. A. Battle, of Okolona Normal and Industrial Institute; Self-Help in the Secondry Schools, Prof. J. C. Moseley, Christ's College, Jackson, and the Responsibility of Women as Teachers,\" by Misses Armelda Greene and L. P. Winfrey, of Jackson.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1063,
+        787,
+        1368,
+        1274
+      ],
+      "label": "text",
+      "text": "The \"back to the farm\" slogan was changed to \"stay on the farm,\" Prof. W. H. Holtzclaw, principal of the Utica Institute, declaring that the farm was too important in the economy of the race and the nation to be made a refuge for failures in other walks of life. Farming subjects were given the lion's share of attention and industrial education stressed by nearly every speaker, while President Martin in his annual address made several important recommendations with reference to agricultural and other industrial work in the public schools.\n\nProf. Z. T. Hubert, the new president of Jackson College, by whose coming means the placing of an all Negro faculty into this well-equipped institution, was introduced to the association. He declared it his intention to enter heartily into co-operation with other schools in the state, and that henceforth Jackson College would enter the field of extension work in the effort to reach the colored people.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1070,
+        1276,
         1374,
         1748
       ],
       "label": "text",
-      "text": "Utica, Miss., June 23.\u2014The Fifth annual session of the State Association of Colored Teachers was held at the Utica Normal and Industrial Institute, June 20, 21, 22. The meeting was attended by a large number of teachers. The convention was marked by several important and strong papers bearing upon various phases of the profession, punctured by several vigorous discussion, the chief of which were an interesting talk on the Jeannes Fund by Prof. J. H. Webber, of Darbun; a discussion of \"How to Make Negro Education Popular in the South,\" by W. A. Battle, of Okolona Normal and Industrial Institute; Self-Help in the Secondry Schools, Prof. J. C. Moseley, Christ's College, Jackson, and the Responsibility of Women as Teachers, by Misses Armela Greene and L. P. Winfrey, of Jackson.\n\nThe \"back to the farm\" slogan was changed to \"stay on the farm,\" Prof. W. H. Holtzclaw, principal of the Utica Institute, declaring that the farm was too important in the economy of the race and the nation to be made a refuge for failures in other walks of life. Farming subjects were given the lion's share of attention and industrial education stressed by nearly every speaker, while President Martin in his annual address made several important recommendations with reference to agricultural and other industrial work in the public schools.\n\nProf. Z. T. Hubert, the new president of Jackson College, by whose coming means the placing of an all Negro faculty into this well-equipped institution, was introduced to the association. He declared it his intention to enter heartily into co-operation with other schools in the state, and that henceforth Jackson College would enter the field of extension work in the effort to reach the colored people.\n\nDr. J. B Lehman, president of the Southern Christian Institute, Edwards, Miss., spoke to the teachers at a special hour Wednesday, and Bishop Theodore D. Bratton, of the piscopal Diocese of Mississippi, was the guest of the Institution and the Association Thursday. Bishop Bratton is a wholesouled Christian gentleman, a worthy successor to the late Bishop Charles B. Galloway, and in every respect a friend to the black man. His subject was \"The Ministry of Education,\" yet throughout his discourse, he breathed the spirit of friendliness and sympathy with the work of the colored teacher.\n\nProf. A. Martin was re-elected President, and William H. Holtzclaw made corresponding secretary in the Place of President L. J. Rowan, of Alcorn College, who becomes first vice president. There were no important changes in the officer of the convention, the list standing as formerly. The next session will be held in Okolona."
+      "text": "Dr. J. B Lehman, president of the Southern Christian Institute, Edwards, Miss., spoke to the teachers at a special hour Wednesday, and Bishop Theodore D. Bratton, of the piscopal Diocese of Mississippi, was the guest of the Institution and the Association Thursday. Bishop Bratton is a wholesouled Christian gentleman, a worthy successor to the late Bishop Charles B. Galloway, and in every respect a friend to the black man. His subject was \"The Ministry of Education,\" yet throughout his discourse, he breathed the spirit of friendliness and sympathy with the work of the colored teacher.\n\nProf. A. Martin was re-elected President, and William H. Holtzolaw made corresponding secretary in the place of President L. J. Rowan, of Alcorn College, who becomes first vice president. There were no important changes in the officiary of the convention, the list standing as formerly. The next session will be held in Okolona.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +331,8 @@
         1819
       ],
       "label": "paragraph_title",
-      "text": "SOUTH  NASHVILLE  DISTRICT\n CONFERENCE A SUCCESS."
+      "text": "SOUTH  NASHVILLE  DISTRICT\n CONFERENCE A SUCCESS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +342,8 @@
         2022
       ],
       "label": "text",
-      "text": "Special to the Globe.\n\nFranklin, Tenn., June 26.\u2014The South Nashville District Conference closed here at the A. M. E. Church last night. Saturday and Sunday's sessions were well attended. On Saturday afternoon Mr. D. A. Hart, of St. John, Nashville, visited the conference and made a short talk. The collections totaled $374:50, of which $302 was for Turner Normal College."
+      "text": "Special to the Globe.\n\nFranklin, Tenn., June 26.\u2014The South Nashville District Conference closed here at the A. M. E. Church last night. Saturday and Sunday's sessions were well attended. On Saturday afternoon Mr. D. A. Hart, of St. John, Nashville, visited the conference and made a short talk. The collections totaled $374:50, of which $302 was for Turner Normal College.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +353,8 @@
         2085
       ],
       "label": "paragraph_title",
-      "text": "CHURCH DIRECTORY"
+      "text": "CHURCH DIRECTORY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +364,8 @@
         2630
       ],
       "label": "text",
-      "text": "MT. BETHEL BAPSTEH CHURCH\u2014Sunday-school 9:30 a.m.; m. preaching 11:30 a.m. m. and 8:00 p. m.; communion first Sunday; prayer-meeting Tuesday night. Bro. Ed Hunt, superendent, 714 Smiley street; Sister Lizzie B. Merritt, Secretary, 82 Berry street; Rev. A M. Merritt, pastor, 82 Berry street; Bro. James Hall, Church Secretary.\n\nCLARK MEMORIAL M. E. CHURCH, 308 Franklin street. Rev. R. T. Wetthery, pastor, residence 20 North Hill street. Sunday-school 9:15 a.m.; m. preaching Sunday 11 a.m. and 7:30 p. m.; Epworth League, 6:15 p. m.; prayer-meeting Wednesday 7:30 p. m.; class-meeting Friday, 7:30 p. m.\n\nLEA AVENUE CHRISTIAN CHURCH\u2014Sunday-school 9:30 a.m.; m. preaching and communion 11 a.m.; m. Christian Endeavor 7 p. m.; preaching, night service, 8 p. m.; prayer-meeting Wednesday evening 8 p. m.;\u4f1f\u666f Treston Taylor, pastor, 440 Porth ave. church clerk; Miss Ida D. Mallory, super-intendent of Sunday-school; Miss Martha Turner, secretary.\n\nUNION CONGREGATIONAL CHURCH, FISK UNIVERSITY.\u2014Y. M. C. A.,Theological Hall (Sunday) 9:00 a.m.; m. preaching Fisk Mennonah Church (Sunday) 9:00 a.m.; Sunday-school 1:00 p. m.; prayer-meeting (Wednesday, Livingston Hall) 7:00 p. m. Rev. C. W. Morrow, D. D., pastor.\n\nFIRST BAPSTEH CHURCH, Eighth avenue North.\u2014Sunday-school 9:30 a.m.; preach-"
+      "text": "MT. BETHEL BAPSTEH CHURCH\u2014Sunday-school 9:30 a.m.; m. preaching 11:30 a.m. m. and 8:00 p. m.; communion first Sunday; prayer-meeting Tuesday night. Bro. Ed Hunt, superendent, 714 Smiley street; Sister Lizzie B. Merritt, Secretary, 82 Berry street; Rev. A M. Merritt, pastor, 82 Berry street; Bro. James Hall, Church Secretary.\n\nCLARK MEMORIAL M. E. CHURCH, 308 Franklin street. Rev. R. T. Wetthery, pastor, residence 20 North Hill street. Sunday-school 9:15 a.m.; m. preaching Sunday 11 a.m. and 7:30 p. m.; Epworth League, 6:15 p. m.; prayer-meeting Wednesday 7:30 p. m.; class-meeting Friday, 7:30 p. m.\n\nLEA AVENUE CHRISTIAN CHURCH\u2014Sunday-school 9:30 a.m.; m. preaching and communion 11 a.m.; m. Christian Endeavor 7 p. m.; preaching, night service, 8 p. m.; prayer-meeting Wednesday evening 8 p. m.;\u4f1f\u666f Treston Taylor, pastor, 440 Porth ave. church clerk; Miss Ida D. Mallory, super-intendent of Sunday-school; Miss Martha Turner, secretary.\n\nUNION CONGREGATIONAL CHURCH, FISK UNIVERSITY.\u2014Y. M. C. A.,Theological Hall (Sunday) 9:00 a.m.; m. preaching Fisk Mennonah Church (Sunday) 9:00 a.m.; Sunday-school 1:00 p. m.; prayer-meeting (Wednesday, Livingston Hall) 7:00 p. m. Rev. C. W. Morrow, D. D., pastor.\n\nFIRST BAPSTEH CHURCH, Eighth avenue North.\u2014Sunday-school 9:30 a.m.; preach-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,17 +375,41 @@
         555
       ],
       "label": "text",
-      "text": "ing Sunday 11 a. m. and 8 p. m.; Communion, First Sunday in each 8 p. m.; 11 a. m.; teachers' meeting Tuesday, 7:30 p. m.; prayer-meeting Tuesday, 8:00 p. m. Rev. W. S. Ellington, D. D., pastor, 914 Seventh avenue north, North; Prof. S. P. Harris church clerk, 1730 Jefferson street, Jr. D. Crenshaw, superintendent, 528 second avenue, New York; Octavia Coffey, Sunday-school secretary, 1624 State street. Mr. Barry Barristen, Crunch, Cedar street; Sunrise prayer-meeting 6 a. m.; Sunday-school 9:30 a. m.; preaching Sunday at 11:30 a. m. and 8 p. m.; first Sunday, communion services at 3:30 p. m.; teachers' meeting Tuesday evenings 7:30; prayer-meeting Tuesday evening at 7:30; preaching Thursday night; Rev. C. H. Clark, D. D., pastor, 610 Jo Johns avenue; Mr. Phillip Clark, dongle, 1309 Jackson, Sunday-school superintendent, Rev. T. J. Jackson, Sunday-school superintendent, 1210 Clinton street; Mr. Andrew Allison, Sunday-school secretary, Jackson street; Women's Missionary Society Monday afternoon 2:30 o'clock."
+      "text": "ing Sunday 11 a. m. and 8 p. m.; Communion, First Sunday in each 8 p. m.; 11 a. m.; teachers' meeting Tuesday, 7:30 p. m.; prayer-meeting Tuesday, 8:00 p. m. Rev. W. S. Ellington, D. D., pastor, 914 Seventh avenue north, North; Prof. S. P. Harris church clerk, 1730 Jefferson street, Jr. D. Crenshaw, superintendent, 528 second avenue, New York; Octavia Coffey, Sunday-school secretary, 1624 State street. Mr. Barry Barristen, Crunch, Cedar street; Sunrise prayer-meeting 6 a. m.; Sunday-school 9:30 a. m.; preaching Sunday at 11:30 a. m. and 8 p. m.; first Sunday, communion services at 3:30 p. m.; teachers' meeting Tuesday evenings 7:30; prayer-meeting Tuesday evening at 7:30; preaching Thursday night; Rev. C. H. Clark, D. D., pastor, 610 Jo Johns avenue; Mr. Phillip Clark, dongle, 1309 Jackson, Sunday-school superintendent, Rev. T. J. Jackson, Sunday-school superintendent, 1210 Clinton street; Mr. Andrew Allison, Sunday-school secretary, Jackson street; Women's Missionary Society Monday afternoon 2:30 o'clock.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1389,
-        1776,
-        1691,
-        2020
+        1370,
+        555,
+        1695,
+        993
       ],
       "label": "text",
-      "text": "We are prepared to make all kinds of badges for societies and associations a prices that are as reasonable as can be had anywhere."
+      "text": "SOGIETY BADGES All Styles and Prices",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1381,
+        993,
+        1638,
+        1735
+      ],
+      "label": "text",
+      "text": "MEMBER\n\nLOCAL NO. 1\nI.U.J.H.\nNEW YORK, N.Y.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1370,
+        1776,
+        1695,
+        2107
+      ],
+      "label": "text",
+      "text": "We are prepared to make all kinds of badges for societies and associations a prices that are as reasonable as can be had anywhere.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +419,8 @@
         2313
       ],
       "label": "text",
-      "text": "They are made of the best satin ribbon, stamped with pure gold leaf and trimmed with imported gold bullion fringe."
+      "text": "They are made of the best satin ribbon, stamped with pure gold leaf and trimmed with imported gold bullion fringe.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,17 +430,19 @@
         2473
       ],
       "label": "text",
-      "text": "Write us for prices and specifications stating the number of badges you want."
+      "text": "Write us for prices and specifications stating the number of badges you want.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1399,
+        1370,
         2538,
         1695,
-        2628
+        2780
       ],
       "label": "text",
-      "text": "National Baptist Publishing Board\nR. H. BOYD, Sec'y,\n523 Second Ave., N\nNASHVILLE, TENN"
+      "text": "National Baptist Publishing Board\nR. H. BOYD, Sec'y,\n523 Second Ave., N NASHVILLE, TENNES",
+      "status": "ok"
     }
   ]
 }

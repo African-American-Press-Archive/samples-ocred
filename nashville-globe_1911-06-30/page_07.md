@@ -11,11 +11,8 @@ Stoves, Ranges and Household
 Goods
 Hard Wood Mantels and Furna-
 ces, Guttering and Roofing
-
-Hard Wood Mantels and Furnaces, Guttering and Roofing
-
 Sales Department, Factory and Shops
-207 THIRD AVENUE, N.
+207 THIRD AVENUE. N.
 
 ## Distilled Water
 
@@ -23,13 +20,29 @@ Is the Doctor that prevents Disease. Its perfect cleanliness alone is enough to 
 
 ## DAINTY and PALATABLE
 
-WANTED-An elderly, colored, single man to look after two horses, and small place for physician. Salary $15.00 per month, board and room. Must have good character. Write
+There isn't a germ in it—
+Not a chance for a germ to get in it.
+
+Therefore Healthy
+DRINK
+Howe's
+DISTILLED WATER
+
+WANTED—An elderly, colored,
+single man to look after two
+horses, and small place for phys-
+sician. Salary $15.00 per month,
+board and room. Must have good
+character. Write
+
 W. J. F. Kirk, M. D.,
 Kimmswick, Mo.
 
 ## CULLEOKA NOTES.
 
-Miss Birdie Hunt, M. B. Huggins and Ella M. Hunt went to Columbia last Monday to attend the Maury County Institute, and returned last Thursday. Miss Lula M. Ford and Mr. Jim Ballafant were quietly married at the home of Mr. Anderson Hughes Sunday morning. Rev. M. C. Skillern officiated. Mr. Johnnie Abernathy and Miss Sallie McBride were quietly married at the home of the bride, Sunday evening. Rev. C. W. Norman officiated. The bride and groom and a host of friends went from there up to Mr. Will Reed's, where Mr. Bruce Fitzpatrick and Miss Rebecca Wilerford and Mr. Tom Abernathy and Miss Ethel Wilerford were married under the same ceremony, the latter couples receiving quite a number of pres
+Miss Birdie Hunt, M. B. Huggins and Ella M. Hunt went to Columbia last Monday to attend the Maury County Institute, and returned last Thursday. Miss Lula M. Ford and Mr. Jim Ballafant were quietly married at the home of Mr. Anderson Hughes Sunday morning. Rev. M. C. Skillern officiated. Mr. Johnnie Abernathy and Miss Sallie McBride were quietly married at the home of the bride, Sunday evening. Rev. C. W. Norman officiated. The bride and groom and a host of friends went from there up to Mr. Will Reed's, where Mr. Bruce Fitzpatrick and Miss Rebecca Wilerford and Mr. Tom Abernathy and Miss Ethel Wilerford were married under the same ceremony, the latter couples receiving quite a number of pres-
+
+NASHVILLE GLOBE. FRIDAY. JUNE 30. 1911.
 
 ents. Mrs. Josie Wilks is quite ill at this writing. Mr. W. D. Dean and Mrs. Amanda Harris made a flying trip to Chicago, Ill., where they will spend a few months visiting their children and friends. Mrs. Ann Hughes was called to Columbia Sunday morning to visit her invalid sister, Mrs. Ella Moore. Miss Ella M. Hunt and Miss Birdie Hunt have been elected to teach the Culleoka public school. Mr. Rob Lundon and Mr. Eli Amos fought a duel on the railroad crossing Sunday night. Mr. Amos was found on the railroad crossing in a very bad pericardic. Mrs. Jane Bolton has been busy for a fortnight making soap; she is an expert soap maker.
 
@@ -69,7 +82,9 @@ The rally a the A. M. E. Church last Sunday at Dry Creek. Tenn., was a success f
 
 ## MURFREESBORO NOTES.
 
-Mr. Laurence Miller died at the home of his mother and father, Mr. and Mrs. Rick Miller, last Friday. Mr. Miller made his home in Paris, Tenn., for the past twenty years. A few months ago he was taken ill and came to his mother. He was an active member of the K. of P. and Masonic Lodges of Paris, Tenn. The K. of P.'s turned out to pay the last tribute of respect Sunday. Mrs. Helen Thomas spent about ten days in Nashville last week, visiting her mother and daughters. Miss Carrie Lee Hill, of Davidson County, was the guest of Miss Mary Lee Rucker last week. Mr. and Mrs. Walter Rucker and little niece were the guests of Rev and Mrs. H. W. Rucker last Sunday. Mr. J. M. Windrow has made his beautiful home look more attractive by having a cement pavement laid all around his premises. Dr. G. C. Harden has purchased the "All-Hail" Homestead on Spring street." The Murfreesoro brass band went to Tulahoma last week to play at a big picnic. Dr. J. W. Whitfield went to Mt. Pleasant last week on business. Mrs. Mary Holden, who has been sick for several weeks, is no better. Mrs. Maria Smith is also on the sick list. Mrs. Tom Watkins, who has been ill for several days, is improving.
+Mr. Laurence Miller died at the home of his mother and father, Mr. and Mrs. Rick Miller, last Friday. Mr. Miller made his home in Paris, Tenn., for the past twenty years. A few months ago he was taken ill and came to his mother. He was an active member of the K, of P. and Masonic Lodges of Paris, Tenn. The K. of P.'s turned out to pay the last tribute of respect Sunday. Mrs. Helen Thomas spent about ten days in Nashville last week, visiting her mother and daughters. Miss Carrie Lee Hill, of Davidson County, was the guest of Miss Mary Lee Rucker last week. Mr. and Mrs. Walter Rucker and little nieces were the guests of Rev. and Mrs. H. W. Rucker last Sunday. Mr. J. M. Windrow has made his beautiful home look more attractive by having a cement pavement laid all around his premises. Dr. G. C. Harden has purchased the "All-Hall" Homestead on Spring street."
+
+The Murfreesoro brass band went to Tullahoma last week to play at a big picnic. Dr J. W. Whitfield went to Mt. Pleasant last week on business. Mrs. Mary Holden, who has been sick for several weeks, is no better. Mrs. Mara Smith is also on the sick list. Mrs. Tom Watkins, who has been ill for several days, is improving.
 
 411 Fourth Avenue, North,
 NASHVILLE, TENNESSEE
@@ -82,19 +97,16 @@ W. H. COATS, Vice Pres. M. B. BURNETT, Ass't Cashier.
 INCORPORATED OCT., 1904
 
 CAPITAL..... $ 37,000.00
+
 RESOURCES OVER..... 100,000.00
 
-Does a General Banking Business. Makes Loans
-on Approved Securities. Pays interest on Deposits.
-Collects Rent. Pay Taxes. Handles Real Estate.
-etc. Correspond with us. Your Business, however
-small, is solicited. We Pay Four Per Cent. Interest
-on Time Deposits.
+Does General Banking Business, Makes Loans on Approved Security, Pays Interest on Deposits, Collects Rent, Pays Taxes, Handles Real Estate, Correspond with us, Your Business, however small, is solicited. We Pay Four Per Cent. Interest on Time Deposits.
 
 INDIANOLA, : : MISSISSIPPL
 
-People's Bank & Trust Co.
-CAPITAL, $25,000.00,
+## People's Bank & Trust Co.
+
+CAPITAL, $25,000.00.
 MUSKOGEE, - OKLAHOMA.
 
 4 Per Cent Interest
@@ -102,13 +114,16 @@ On Time Deposits
 
 Deposits Guaranteed.
 
-T. V. COR.
+T. JOR.
 President.
 
 J. E. JOHNSON,
-Cashies
+Cashier
 
-## People's Bank & Trust Co.
+ALABAMA PENNY SAVINGS BANK,
+BIRMINGHAM, ALA..
+
+Capital Stock, $25,000.00.
 
 W. R. PETTIFORD, President.
 J. O. DIFFAY, Vice President.
@@ -120,13 +135,15 @@ P. F. CLARK, Assistant Cashier.
 The People's Investment and Banking Company,
 BIRMINGHAM, ALA.
 CAPITAL STOCK $50,000
-
 Doing a regular banking business. Collections solicited. Depository for the Great Southern Industrial Home Insurance Company.
-
 W. L. LAUDERDALE, President
 DR. R. D. MACKLIN, Vice-President
 DR. S. H. THOMPSON, Cashier
 REV. S. J. JACKSON, Teller and acting Cashier.
+
+Solvent Savings Bank and Trust Co.,
+392 BEALE AVE., MEMPHIS, TENN.
+CAPITAL STOCK $25,000.00.
 
 OFFICERS:
 
@@ -148,15 +165,27 @@ Special attention given to all work.
 ## RICHARD HILL
 
 NOTARY PUBLIC,
-Real Estate, Loans, Liens notes bought and sold.
-Will sell you a home like paying rent. Pension
+Real Estate, Loans, Lien notes bought and sold.
+Will sell you a home like paying rent. Pension.
 Cases a specialty.
-TELEPHONES { Office: Main 1889
-Miss one, call the other Res. Hemlock 1940
+
+TELEPHONES { Office: Main 1880
+Miss one, call the other { Res. Hemlock 1940
 410 1-2 CEDAR ST., NASHVILLE, TENN.
+
 Robt. H. Fite Harry L. Albright
 Theo. W. Eckhardt
+
 FITE, ECKHARDT & CO.
 GENERAL INSURANCE
 Nashville, Tenn.,
-Phone, Main 602 302 Third A-
+
+Phone, Main 602 302 Third A. - North
+
+k t.
+
+T
+
+EN
+
+---

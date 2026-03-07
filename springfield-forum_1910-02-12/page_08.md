@@ -13,10 +13,6 @@ Friday at ..... 2:00 p. m.
 Principal Saints' Days are observed by
 the celebration of Holy Commun-
 
-Friday at the
-Saints' Days are observed by
-the celebration of Holy Communion.
-
 ## St. Paul's A. M. E. Church,
 
 622 EAST MISSION STREET
@@ -116,10 +112,7 @@ Office: 1071 W. Side Square,
 
 SPRINGFIELD, ILLINOIS
 
-Hours: {9 to 11 a.m.} Diseases and
-3 to 5 p.m. A iliments of
-7 to 8 p.m. Women, a
-Specialty.
+HOURS: { 9 to 11 a.m. } Diseases and Ailments of Women, a Specialty.
 
 # FURNITURE STORE
 
@@ -137,6 +130,8 @@ OF LIFE that grows on you.
 You find yourself waiting
 with interest for what "Bill"
 has to say next.
+
+A. F. G.
 
 "BILL" OF LIFE. It is written by Mary Ives Todd, the ablest writer of Liberal fiction since Grant Allen, and is a beautiful presentation of the essentially modern problem of the Woman in Business.
 
@@ -175,6 +170,65 @@ Today is Saturday, pay for the Forum.
 
 Hear.....
 
+Dr. Book
+
+State
+
+Sum
+
+It will be a church choirs
+
+Admi
+
+For Sale
+Colored Pencil
+the
+
+N. Y. Ag
+
+Some of the be
+The Age gives you
+Colored pe
+
+Call at Thompson's,
+Resturant, Masonic
+tol Ave., L.
+
+Lincoln
+Program, Unic
+
+Opening song......
+
+Invocation......
+
+Patriotic Song......
+
+Introduction......
+
+Patriotic Song......
+
+Paper......
+
+Patriotic song......
+
+Oration......
+
+Jubilee song......
+
+Oration......
+
+Voice......
+
+Oration......
+
+Jubilee song......
+
+Free will Offering
+
+Jubilee song......
+
+Benediction.....
+
 It will be an inspiring occasion. The united church choirs of 100 voices, will render music.
 
 Admission Free
@@ -185,30 +239,24 @@ Admission Free
 
 Some of the best weekly papers in the Country. The Age gives you the most complete details of what the Colored people are doing worthy of note. Call at Thompson's, 815 Washington St. Neal and Brown's Resturant, Masonic Hall. Robert's Shoe store, 1707 E. Capitol Ave., L. J. Harris store, 1015 So. 17 St..
 
-Opening song...United Choirs
-Invocation...Rev. E. T. Cottman, D. D.
-Patriotic Song...United Choirs
-Introduction...Dr. J. H. Magee
-Patriotic Song...Juvenile Chorus
-Paper...Madam Jennie Coleman McClain
-Patriotic song...United Choirs
-Oration...Lincoln as a Statesman
-Rev. J. M. Smalley
-Jubilee song...United Choirs
-Oration...Lincoln as a Soldier
-Major Otis B. Duncan
-Voice...Madam Bowling
-Oration...Lincoln The Emancipator
-Capt. R. A. Byrd
-Jubilee song...United Choirs
-Free will Offering
-Jubilee song...Juvenile Choirs
-Benediction...Rev. R. L. Wilson
+Opening song.....United Choirs
+Invocation.....Rev. E. T. Cottman, D. D.
+Patriotic Song.....United Choirs
 
 Old Phone 1458
+
+FIRST W
+Brown Bros.
+
+Have your Old Clothing, Cleaned, Presse
+for and delivered pr
 
 ## FIRST WARD PANATORIUM
 
 Brown Bros., (better known as "Sticks") Props.
 
-Have your Old Clothes Made New—Ladies' and Gent's' Clothing, Cleaned, Pressed, Dyed and Repaired—All work called for and delivered promptly by Brown Brothers, the Clothes Doctors. 15th & Reynolds Sts. Springfield Ill
+Have your Old Clothes Made New—Ladies' and Gent's' Clothing, Cleaned, Pressed, Dyed and Repaired—All work called for and delivered promptly by Brown Brothers, the Clothes Doctors.
+
+15th & Reynolds Sts.
+
+Springfield, Ill

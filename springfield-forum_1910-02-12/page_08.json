@@ -3,6 +3,17 @@
   "image": "images/page_08.jpg",
   "width": 2124,
   "height": 2800,
+  "processed_at": "2026-03-07T12:33:31.406168+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 60,
+    "after_merge": 53
+  },
   "regions": [
     {
       "bbox": [
@@ -12,17 +23,8 @@
         447
       ],
       "label": "text",
-      "text": "South Grand Ave. and Loveland St.\nREV. R. L. WILSON. Rector.\nSunday School ..... 10:00 a. m.\nMorning Prayer and Sermon.11:00 a. m.\nEvening Prayer and Sermon. 8:00 p. m.\nCelebration of Holy Commun-\nion, first Sunday of each\nmonth at ..... 11:00 a. m.\nLitany with instruction every\nWednesday at ..... 8:00 p. m.\nLadies' Guild Meets every\nFriday at ..... 2:00 p. m.\nPrincipal Saints' Days are observed by\nthe celebration of Holy Commun-"
-    },
-    {
-      "bbox": [
-        295,
-        408,
-        673,
-        449
-      ],
-      "label": "text",
-      "text": "Friday at the\nSaints' Days are observed by\nthe celebration of Holy Communion."
+      "text": "South Grand Ave. and Loveland St.\nREV. R. L. WILSON. Rector.\nSunday School ..... 10:00 a. m.\nMorning Prayer and Sermon.11:00 a. m.\nEvening Prayer and Sermon. 8:00 p. m.\nCelebration of Holy Commun-\nion, first Sunday of each\nmonth at ..... 11:00 a. m.\nLitany with instruction every\nWednesday at ..... 8:00 p. m.\nLadies' Guild Meets every\nFriday at ..... 2:00 p. m.\nPrincipal Saints' Days are observed by\nthe celebration of Holy Commun-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +34,8 @@
         473
       ],
       "label": "paragraph_title",
-      "text": "St. Paul's A. M. E. Church,"
+      "text": "St. Paul's A. M. E. Church,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +45,8 @@
         688
       ],
       "label": "text",
-      "text": "622 EAST MISSION STREET\nREV. THEOPHILUS PRICE, Pastor.\nPreaching every Sunday at...10:45 a.m.\nand...7:45 p.m.\nSunday School at...2:45 p.m.\nAlien Christian Endeavor at...6:30 p.m.\nClass every Sunday at...12:00 noon\nPleasant Grove Baptist Church.\nEighteenth and Cass St.\nREV. O. W. BLOODWURTH Pastor.\nServices, Sunday at...11:00 a.m.\nSunday School at...2:00 p.m.\nEvening Service at...7:30 p.m.\nPrayer meeting Wednesday\nat...8:00 p.m."
+      "text": "622 EAST MISSION STREET\nREV. THEOPHILUS PRICE, Pastor.\nPreaching every Sunday at...10:45 a.m.\nand...7:45 p.m.\nSunday School at...2:45 p.m.\nAlien Christian Endeavor at...6:30 p.m.\nClass every Sunday at...12:00 noon\nPleasant Grove Baptist Church.\nEighteenth and Cass St.\nREV. O. W. BLOODWURTH Pastor.\nServices, Sunday at...11:00 a.m.\nSunday School at...2:00 p.m.\nEvening Service at...7:30 p.m.\nPrayer meeting Wednesday\nat...8:00 p.m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +56,8 @@
         714
       ],
       "label": "paragraph_title",
-      "text": "Grace M. E. Church."
+      "text": "Grace M. E. Church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +67,8 @@
         806
       ],
       "label": "text",
-      "text": "Fourteenth and Brown Sts.\nREV. J. M. SMALLEY, Pastor.\nServices, Sunday at ..... 11:00 a. m.\nSunday School at ..... 9:00 a. m.\nEvering Service at ..... 8:00 p. m.\nPraver meeting Wednesday at ..... 8:00 p. m."
+      "text": "Fourteenth and Brown Sts.\nREV. J. M. SMALLEY, Pastor.\nServices, Sunday at ..... 11:00 a. m.\nSunday School at ..... 9:00 a. m.\nEvering Service at ..... 8:00 p. m.\nPraver meeting Wednesday at ..... 8:00 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +78,8 @@
         843
       ],
       "label": "paragraph_title",
-      "text": "Holy Trinity Evangelical Lutheran Church."
+      "text": "Holy Trinity Evangelical Lutheran Church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +89,8 @@
         936
       ],
       "label": "text",
-      "text": "J. H. DOSWELL, Pastor,\nREV. J. H. DOSWELL,\nServices Every Sunday at ... 8:00 p. m.\nSunday School at ... 2:30 p. m.\nInstruction Every Wed. at ... 8:00 p. m."
+      "text": "J. H. DOSWELL, Pastor,\nREV. J. H. DOSWELL,\nServices Every Sunday at ... 8:00 p. m.\nSunday School at ... 2:30 p. m.\nInstruction Every Wed. at ... 8:00 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +100,8 @@
         959
       ],
       "label": "paragraph_title",
-      "text": "Union Baptist Church."
+      "text": "Union Baptist Church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +111,8 @@
         1074
       ],
       "label": "text",
-      "text": "Twelfth and Mason Streets,\nREV. B, B. L, IVORY, Pastor,\nServices, Sunday at ..... 11:00 a.m.\nB. Y, P. U, at ..... 7:00 p.m.\nSermon at ..... 8:00 p.m.\nPrayer Meeting Wednesday at 8:00 p.m.\nHoly Communion first Sunday of each\nmonth"
+      "text": "Twelfth and Mason Streets,\nREV. B, B. L, IVORY, Pastor,\nServices, Sunday at ..... 11:00 a.m.\nB. Y, P. U, at ..... 7:00 p.m.\nSermon at ..... 8:00 p.m.\nPrayer Meeting Wednesday at 8:00 p.m.\nHoly Communion first Sunday of each\nmonth",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +122,8 @@
         1103
       ],
       "label": "paragraph_title",
-      "text": "Zion Baptist Church."
+      "text": "Zion Baptist Church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +133,8 @@
         1209
       ],
       "label": "text",
-      "text": "Ninth and Carpenter Streets.\nREV. A. W. WILLIAMS, Pastor.\nSunday Service at ..... 11:00 a. m.\nSunday School at ..... 1:00 p. m.\nB. Y. P. U. at ..... 6:00 p. m.\nEvening Service at ..... 8:00 p. m.\nPrayer Meeting Wednesday at 8:00 p. m."
+      "text": "Ninth and Carpenter Streets.\nREV. A. W. WILLIAMS, Pastor.\nSunday Service at ..... 11:00 a. m.\nSunday School at ..... 1:00 p. m.\nB. Y. P. U. at ..... 6:00 p. m.\nEvening Service at ..... 8:00 p. m.\nPrayer Meeting Wednesday at 8:00 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +144,8 @@
         1234
       ],
       "label": "paragraph_title",
-      "text": "New Hope Baptist Church,"
+      "text": "New Hope Baptist Church,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +155,8 @@
         1324
       ],
       "label": "text",
-      "text": "Eighth and Miller Streets,\nREV. D, J. TATE, Pastor.\nSunday Services at.....11:00 a. m.\nSunday School at.....9:15 a. m.\nSermon at.....8:00 p. m.\nPrayer Meeting Wednesday at 8:00 p. m."
+      "text": "Eighth and Miller Streets,\nREV. D, J. TATE, Pastor.\nSunday Services at.....11:00 a. m.\nSunday School at.....9:15 a. m.\nSermon at.....8:00 p. m.\nPrayer Meeting Wednesday at 8:00 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +166,8 @@
         1347
       ],
       "label": "paragraph_title",
-      "text": "St. John A. M. E. Church."
+      "text": "St. John A. M. E. Church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +177,8 @@
         1644
       ],
       "label": "text",
-      "text": "Fourteenth and Mason Streets.\nREV. G. W. JONES, Pastor.\nSunday Services at ..... 10:45 a.m.\nSunday School at ..... 2:30 p.m.\nEvening Service at ..... 7:45 p.m.\nOfficial Board Meeting Mon-\ndays at ..... 8:00 p.m.\nPrayer and Praise Meeting\nWednesdays at ..... 8:00 p.m.\nSunday School Teachers'\nMeeting Thursdays at ..... 8:00 p.m.\nChoir Rehearsal Fridays at ..... 8:00 p.m.\n\nOld Line Methodist Church,\nNineteenth and Cook.\nREV. N. GRIFFIN, In Charge.\nSunday Services ..... 10:30 a.m.\nSunday School ..... 1:30 p.m.\nPreaching ..... 3:00 p.m. and 7:30 p.m.\nPrayer Meeting, Tuesday ..... 8:00 p.m.\nHolliness Meeting Thursday ..... 8:00 p.m."
+      "text": "Fourteenth and Mason Streets.\nREV. G. W. JONES, Pastor.\nSunday Services at ..... 10:45 a.m.\nSunday School at ..... 2:30 p.m.\nEvening Service at ..... 7:45 p.m.\nOfficial Board Meeting Mon-\ndays at ..... 8:00 p.m.\nPrayer and Praise Meeting\nWednesdays at ..... 8:00 p.m.\nSunday School Teachers'\nMeeting Thursdays at ..... 8:00 p.m.\nChoir Rehearsal Fridays at ..... 8:00 p.m.\n\nOld Line Methodist Church,\nNineteenth and Cook.\nREV. N. GRIFFIN, In Charge.\nSunday Services ..... 10:30 a.m.\nSunday School ..... 1:30 p.m.\nPreaching ..... 3:00 p.m. and 7:30 p.m.\nPrayer Meeting, Tuesday ..... 8:00 p.m.\nHolliness Meeting Thursday ..... 8:00 p.m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +188,8 @@
         1761
       ],
       "label": "text",
-      "text": "Telephone: (Bell) 337."
+      "text": "Telephone: (Bell) 337.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +199,8 @@
         1758
       ],
       "label": "text",
-      "text": "Northwestern University, Medical School, Class of '83."
+      "text": "Northwestern University, Medical School, Class of '83.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +210,8 @@
         1854
       ],
       "label": "doc_title",
-      "text": "Dr. James E. Henderson"
+      "text": "Dr. James E. Henderson",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +221,8 @@
         1924
       ],
       "label": "text",
-      "text": "Office: 1071 W. Side Square,"
+      "text": "Office: 1071 W. Side Square,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,17 +232,19 @@
         1987
       ],
       "label": "text",
-      "text": "SPRINGFIELD, ILLINOIS"
+      "text": "SPRINGFIELD, ILLINOIS",
+      "status": "ok"
     },
     {
       "bbox": [
-        295,
+        290,
         2028,
-        672,
-        2108
+        678,
+        2208
       ],
       "label": "text",
-      "text": "Hours: {9 to 11 a.m.} Diseases and\n3 to 5 p.m. A iliments of\n7 to 8 p.m. Women, a\nSpecialty."
+      "text": "HOURS: { 9 to 11 a.m. } Diseases and Ailments of Women, a Specialty.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,17 +254,19 @@
         2325
       ],
       "label": "doc_title",
-      "text": "FURNITURE STORE"
+      "text": "FURNITURE STORE",
+      "status": "ok"
     },
     {
       "bbox": [
-        296,
+        290,
         2362,
         678,
-        2664
+        2780
       ],
       "label": "text",
-      "text": "We have a complete line of New and Second hand furniture. Heating Stoves, Cook Stoves and Ranges We have a nice line of house furnishing goods Sold for cash or on easy payments. 128 N. 7th St. Old Phone: 2311 H. SALLIE, Prop."
+      "text": "We have a complete line of New and Second hand furniture. Heating Stoves, Cook Stoves and Ranges We have a nice line of house furnishing goods Sold for cash or on easy payments. 128 N. 7th St. Old Phone: 2311 H. SALLIE, Prop.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +276,8 @@
         310
       ],
       "label": "text",
-      "text": "Lodges and their meeting nights and place of meeting will be carried for 25c the month. We have all manner of lodges here."
+      "text": "Lodges and their meeting nights and place of meeting will be carried for 25c the month. We have all manner of lodges here.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +287,8 @@
         471
       ],
       "label": "text",
-      "text": "WANTED-Colored girls for cooks and house work Apply at Illinois Free Employment Bureau. 3054 S. 6th St."
+      "text": "WANTED-Colored girls for cooks and house work Apply at Illinois Free Employment Bureau. 3054 S. 6th St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +298,19 @@
         634
       ],
       "label": "text",
-      "text": "BILL'S AVENUE\nmakes you cheerful and\nthoughtful. It is a personal\ndepartment in the WHEEL\nOF LIFE that grows on you.\nYou find yourself waiting\nwith interest for what \"Bill\"\nhas to say next."
+      "text": "BILL'S AVENUE\nmakes you cheerful and\nthoughtful. It is a personal\ndepartment in the WHEEL\nOF LIFE that grows on you.\nYou find yourself waiting\nwith interest for what \"Bill\"\nhas to say next.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        686,
+        510,
+        813,
+        695
+      ],
+      "label": "text",
+      "text": "A. F. G.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +320,8 @@
         951
       ],
       "label": "text",
-      "text": "\"BILL\" OF LIFE. It is written by Mary Ives Todd, the ablest writer of Liberal fiction since Grant Allen, and is a beautiful presentation of the essentially modern problem of the Woman in Business.\n\nTHE WHEEL OF LIFE. A monthly periodical. It deals with ORIGINS, the origin of Marriage, of Ethics, of Religion, of Brotherhood, of the belief in Immorality. It treats broadly of Love, of Human Instincts and Ideals. It takes in the whole Wheel of Life, treating all subjects in such a clear, plain and spicy way that the dust is shaken out and they become as interesting as a novel to even the casual reader. Send 10 cents for a six months' trial subscription or a quarter for a year."
+      "text": "\"BILL\" OF LIFE. It is written by Mary Ives Todd, the ablest writer of Liberal fiction since Grant Allen, and is a beautiful presentation of the essentially modern problem of the Woman in Business.\n\nTHE WHEEL OF LIFE. A monthly periodical. It deals with ORIGINS, the origin of Marriage, of Ethics, of Religion, of Brotherhood, of the belief in Immorality. It treats broadly of Love, of Human Instincts and Ideals. It takes in the whole Wheel of Life, treating all subjects in such a clear, plain and spicy way that the dust is shaken out and they become as interesting as a novel to even the casual reader. Send 10 cents for a six months' trial subscription or a quarter for a year.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +331,8 @@
         978
       ],
       "label": "paragraph_title",
-      "text": "\"CONFESSIONS OF A"
+      "text": "\"CONFESSIONS OF A",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +342,8 @@
         1058
       ],
       "label": "text",
-      "text": "DRONE\" by Joseph Medill Patterson, author of \"A LITTLE BROTHER OF THE RICH,\" sent without extra charge with a 6months'trial subscription to the WHEEL OF LIFE. Address"
+      "text": "DRONE\" by Joseph Medill Patterson, author of \"A LITTLE BROTHER OF THE RICH,\" sent without extra charge with a 6months'trial subscription to the WHEEL OF LIFE. Address",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +353,8 @@
         1076
       ],
       "label": "text",
-      "text": "LIFE PUB. CO., Desk A, St. Louis, Mo."
+      "text": "LIFE PUB. CO., Desk A, St. Louis, Mo.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +364,8 @@
         1191
       ],
       "label": "text",
-      "text": "Bell ' Phone: 2156 7th & Adams Sts\nOffice Hours: 9 to 12\nRoom No. 1 2 to 5 P. M.\nUpstairs 7 to 9 P. M."
+      "text": "Bell ' Phone: 2156 7th & Adams Sts\nOffice Hours: 9 to 12\nRoom No. 1 2 to 5 P. M.\nUpstairs 7 to 9 P. M.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +375,8 @@
         1239
       ],
       "label": "paragraph_title",
-      "text": "Dr. N. B. FORD."
+      "text": "Dr. N. B. FORD.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +386,8 @@
         1418
       ],
       "label": "text",
-      "text": "PHYSICIAN and SURGEON special Attention Given Diseases of Women, Children add. General surgery. N. W. Corner 7h & Adams, Room I. Springfield, Illinois."
+      "text": "PHYSICIAN and SURGEON special Attention Given Diseases of Women, Children add. General surgery. N. W. Corner 7h & Adams, Room I. Springfield, Illinois.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +397,8 @@
         1535
       ],
       "label": "text",
-      "text": "Colored men, stand for better government.\n\nSubscribe for The Forum."
+      "text": "Colored men, stand for better government.\n\nSubscribe for The Forum.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +408,8 @@
         1623
       ],
       "label": "paragraph_title",
-      "text": "WEEKLYCOURIERJOURNAL HENRY WATTERSON. Editor."
+      "text": "WEEKLYCOURIERJOURNAL HENRY WATTERSON. Editor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +419,8 @@
         1905
       ],
       "label": "text",
-      "text": "Is a National Newspaper, Democratic in politics. It prints all the news without fear or favor. The regular price is $1.00 a year, but you can get the Weekly Courier-Journal and The Forum, both one yr for $1.50 if you will give or send your order to this paper\u2014not to the Courier-Journal. Daily Courier-Journal, a year, $6.00; Sunday Courier-Journal, a year, $2.00. We will give you a combination cut rate on Daily or Sunday if you will write this paper."
+      "text": "Is a National Newspaper, Democratic in politics. It prints all the news without fear or favor. The regular price is $1.00 a year, but you can get the Weekly Courier-Journal and The Forum, both one yr for $1.50 if you will give or send your order to this paper\u2014not to the Courier-Journal. Daily Courier-Journal, a year, $6.00; Sunday Courier-Journal, a year, $2.00. We will give you a combination cut rate on Daily or Sunday if you will write this paper.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +430,8 @@
         1957
       ],
       "label": "paragraph_title",
-      "text": "THE ADVERTISEB."
+      "text": "THE ADVERTISEB.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +441,8 @@
         2211
       ],
       "label": "text",
-      "text": "Your attention is constantly called to the people and the firms who advertise through the Forum. We carry some of the best and most reliable firms in the city and will take it as a special favor if our readers and our friends would make our advertisers their trading places. When convenient, mention the fact that you saw the ad. in the Forum."
+      "text": "Your attention is constantly called to the people and the firms who advertise through the Forum. We carry some of the best and most reliable firms in the city and will take it as a special favor if our readers and our friends would make our advertisers their trading places. When convenient, mention the fact that you saw the ad. in the Forum.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +452,8 @@
         2294
       ],
       "label": "text",
-      "text": "Today is Saturday, pay for the Forum."
+      "text": "Today is Saturday, pay for the Forum.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +463,8 @@
         2357
       ],
       "label": "paragraph_title",
-      "text": "REISCH BREWERY CO"
+      "text": "REISCH BREWERY CO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +474,19 @@
         273
       ],
       "label": "text",
-      "text": "Hear....."
+      "text": "Hear.....",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1092,
+        273,
+        1328,
+        2271
+      ],
+      "label": "text",
+      "text": "Dr. Book\n\nState\n\nSum\n\nIt will be a church choirs\n\nAdmi\n\nFor Sale\nColored Pencil\nthe\n\nN. Y. Ag\n\nSome of the be\nThe Age gives you\nColored pe\n\nCall at Thompson's,\nResturant, Masonic\ntol Ave., L.\n\nLincoln\nProgram, Unic\n\nOpening song......\n\nInvocation......\n\nPatriotic Song......\n\nIntroduction......\n\nPatriotic Song......\n\nPaper......\n\nPatriotic song......\n\nOration......\n\nJubilee song......\n\nOration......\n\nVoice......\n\nOration......\n\nJubilee song......\n\nFree will Offering\n\nJubilee song......\n\nBenediction.....",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +496,8 @@
         656
       ],
       "label": "text",
-      "text": "It will be an inspiring occasion. The united church choirs of 100 voices, will render music."
+      "text": "It will be an inspiring occasion. The united church choirs of 100 voices, will render music.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +507,8 @@
         778
       ],
       "label": "text",
-      "text": "Admission Free"
+      "text": "Admission Free",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +518,8 @@
         1087
       ],
       "label": "doc_title",
-      "text": "For Sale! For Sale! Colored Papers from all over the United States."
+      "text": "For Sale! For Sale! Colored Papers from all over the United States.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +529,8 @@
         1169
       ],
       "label": "paragraph_title",
-      "text": "N. Y. Age, Freeman, Planet."
+      "text": "N. Y. Age, Freeman, Planet.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,17 +540,30 @@
         1376
       ],
       "label": "text",
-      "text": "Some of the best weekly papers in the Country. The Age gives you the most complete details of what the Colored people are doing worthy of note. Call at Thompson's, 815 Washington St. Neal and Brown's Resturant, Masonic Hall. Robert's Shoe store, 1707 E. Capitol Ave., L. J. Harris store, 1015 So. 17 St.."
+      "text": "Some of the best weekly papers in the Country. The Age gives you the most complete details of what the Colored people are doing worthy of note. Call at Thompson's, 815 Washington St. Neal and Brown's Resturant, Masonic Hall. Robert's Shoe store, 1707 E. Capitol Ave., L. J. Harris store, 1015 So. 17 St..",
+      "status": "ok"
     },
     {
       "bbox": [
         1087,
         1627,
         1819,
-        2294
+        2243
       ],
       "label": "text",
-      "text": "Opening song...United Choirs\nInvocation...Rev. E. T. Cottman, D. D.\nPatriotic Song...United Choirs\nIntroduction...Dr. J. H. Magee\nPatriotic Song...Juvenile Chorus\nPaper...Madam Jennie Coleman McClain\nPatriotic song...United Choirs\nOration...Lincoln as a Statesman\nRev. J. M. Smalley\nJubilee song...United Choirs\nOration...Lincoln as a Soldier\nMajor Otis B. Duncan\nVoice...Madam Bowling\nOration...Lincoln The Emancipator\nCapt. R. A. Byrd\nJubilee song...United Choirs\nFree will Offering\nJubilee song...Juvenile Choirs\nBenediction...Rev. R. L. Wilson\n\nOld Phone 1458"
+      "text": "Opening song.....United Choirs\nInvocation.....Rev. E. T. Cottman, D. D.\nPatriotic Song.....United Choirs",
+      "status": "repetition"
+    },
+    {
+      "bbox": [
+        1092,
+        2271,
+        1328,
+        2613
+      ],
+      "label": "text",
+      "text": "Old Phone 1458\n\nFIRST W\nBrown Bros.\n\nHave your Old Clothing, Cleaned, Presse\nfor and delivered pr",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +573,8 @@
         2386
       ],
       "label": "paragraph_title",
-      "text": "FIRST WARD PANATORIUM"
+      "text": "FIRST WARD PANATORIUM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,17 +584,19 @@
         2422
       ],
       "label": "text",
-      "text": "Brown Bros., (better known as \"Sticks\") Props."
+      "text": "Brown Bros., (better known as \"Sticks\") Props.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1094,
+        1092,
         2458,
         1818,
-        2637
+        2780
       ],
       "label": "text",
-      "text": "Have your Old Clothes Made New\u2014Ladies' and Gent's' Clothing, Cleaned, Pressed, Dyed and Repaired\u2014All work called for and delivered promptly by Brown Brothers, the Clothes Doctors. 15th & Reynolds Sts. Springfield Ill"
+      "text": "Have your Old Clothes Made New\u2014Ladies' and Gent's' Clothing, Cleaned, Pressed, Dyed and Repaired\u2014All work called for and delivered promptly by Brown Brothers, the Clothes Doctors.\n\n15th & Reynolds Sts.\n\nSpringfield, Ill",
+      "status": "ok"
     }
   ]
 }

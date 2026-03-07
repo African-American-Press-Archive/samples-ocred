@@ -8,7 +8,7 @@ The Home Culture Section will meet at the residence of Mrs. Bettie Watson, 1711 
 
 ## Mattoon News Notes
 
-Cottage prayer meetings are being held at the homes of Chas. Parker and wife and Wright Elliott and wife. Everyone is invited to these meetings. They will be held till the great revival begins.
+Cottage prayer meetings are being held at the homes of Chas. Parker and wife and Wright Ehlott and wife. Everyone is invited to these meetings. They will be held till the great revival begins.
 
 The quarterly meeting will be held at St. David's Chapel, Sunday, Feb. 13.
 
@@ -34,19 +34,41 @@ I love my money, but oh you valentine promenade at Masonic Hall, Feb. 14.
 
 H. W. Jameson of Peoria was in the city this week.
 
+"Be ye doers and not sayers only."
+
+The New Hope Baptist church will rally Sunday for the purpose of meeting the requirements of the main debt of the church. At 11 o'clock service the pastor, Rev. D. J. Tate will preach, this service will be followed with a financial appeal by a representative of the Booker T. Washington meeting for Sunday night. At 3 p. m. Dr. B. L. Ivory, will preach. Special music will be rendered by the choir. At this a financial appeal will be made by Rev. Bloodworth. The old line workers of the church, the sewing circle represented by Mrs H K. Wilson, its president and the Woodside club represented by Frank Coleman, its president are asking their friends to stand by them in giving as the Lord has prospered them on this great Booker T. Washington day in Springfield.
+
+At 7 p.m. on this day we close our doors and will listen to our much honored race leader, Dr. Booker T. Washington at the Armory. The monthly missionary program will be observed February 27, 1910, at 3 o'clock p.m.
+
+## Washington's Birthday
+
+Washington's birthday will be celebrated at St. Paul church, February 22d under the auspices of the Stewardess Board No. 2. and Company H of the June rally club. An excellent program has been arranged by the committee and we invite the public to come and help us to show our appreciation of the talent of the participants. The ladies of the board will serve an enjoyable lunch or supper, which ever you desire in the lecture room
+
+Kiddo! Take your hands away. I am going to Masonic Hall Monday evening, Feb. 14th to hear the Cubana Slide played.
+
+Mrs. Katie Cosby of Cairo, is in the city and is the guest of Mrs. T. W. Warrick of S. 16th street.
+
+Rev. Jordan Chavis of Chicago was in the city this week on U. B. F. business.
+
+All members of the united choirs who wish badges for the Booker T. Washington meeting can secure them tonight.
+
+Be a jolly good fellow if you don't last but a day and go to the Valentine Promenade. A good time assured to all.
+
+Two rooms for rent, partially furnished.—527 S. 12th St.
+
 ## East End Notes.
 
 The people are well in this end of town this week for which we are always thankful. Mrs. Pride is not feeling so well at this writing. Marguerite Slater has left us again. The boys are a little lonesome.
 
-A number of our boys and girls are attending the Manual Training school, and are singing high notes of its praise.
+A number of our bys and girls are attending the Manual Training school, and are singing high notes of its praise.
 
-Mrs. Susan Davis, of N. 4 h street, is visiting in this end of town at this writing.
+Mrs Susan Davis, of N. 4 h street, is visiting in this end of town at this writing.
 
 Mrs. Anna White visited in Glenarm, this week. She reports a fine time.
 
-Mrs. Etta Harvey will make a business trip to St. Louis Saturday. After she returns hairdressing will take place at 1508.
+Mrs. Etta Harvey will make a business trip to St. Louis Saturday. After she returns hair-dressing will take place at 1508.
 
-We are watching Ruby Mitchell yet, we don't want him to get away for he is the star pitcher for the Merchant Blacks. Robt. Canister is watching him for he is expecting to catch him this summer. But they say Bob likes the Wheatty girl, too.
+We are watching Ruby Mitchell yet, we don't want him to get away for he is the star putcher for the Merchant Blacks Robt. Canister is watching him for he is expecting to catch him this summer. But they say Bob likes the Wheatty girl, too.
 
 We are off to a political meeting tonight. We are better satisfied. Now we are jubilant over our candidate. We are going to shove him over the plate says the east end man.
 
@@ -62,23 +84,10 @@ NOTICE—All subscribers out of the city who wish The Forum continued, please se
 
 ## New Hope News.
 
-The New Hope Baptist church will rally Sunday for the purpose of meeting the requirements of the main debt of the church. At 11 o'clock service the pastor, Rev. D. J. Tate will preach, this service will be followed with a financial appeal by a representative of the Booker T. Washington meeting for Sunday night. At 3 p. m. Dr. B. L. Ivory, will preach. Special music will be rendered by the choir. At this a financial appeal will be made by Rev. Bloodworth. The old line workers of the church, the sewing circle represented by Mrs H K. Wilson, its president and the Woodside club represented by Frank Coleman, its president are asking their friends to stand by them in giving as the Lord has prospered them on this great Booker T. Washington day in Springfield. At 7 p. m. on this day we close our doors and will listen to our much honored race leader, Dr. Booker T. Washington at the Armory. The monthly missionary program will be observed February 27, 1910, at 3 o'clock p m
+Captains { Mrs. Anna Williams }
+Mrs. Sidoev Sims
 
-## Washington's Birthday
-
-Washington's birthday will be celebrated at St. Paul church, February 22d under the auspices of the Stewardess Board No.2. and Company H of the June rally club. An excellent program has been arranged by the committee and we invite the public to come and help us to show our appreciation of the talent of the participants. The ladies of the board will serve an enjoyable lunch or sapper, which ever you desire in the lecture room Captains Mrs. Anna Williams Mrs. Sidney Sims
-
-Kiddo! Take your hands away. I am going to Masonic Hall Monday evening, Feb. 14th to hear the Cubana Slide played.
-
-Mrs. Katie Cosby of Cairo, is in the city and is the guest of Mrs. T. W. Warrick of S. 16th street.
-
-Rev. Jordan Chavis of Chicago was in the city this week on U. B. F. business.
-
-All members of the united choirs who wish badges for the Booker T. Washington meeting can secure them tonight.
-
-Be a jolly good fellow if you don't last but a day and go to the Valentine Promenade. A good time assured to all.
-
-Two rooms for rent, partially furnished.—527 S. 12th St.
+I
 
 ## Dies Very Suddenly.
 
@@ -94,7 +103,7 @@ Alderman L. L. Flinn of the 5th ward is highly praised for the high ground he ta
 
 Subscribe for The Forum, the only regular Negro paper here.
 
-Meet Mr. Dudley and friends at the Valentine Promenade after the show.
+nd Local Meet Mr. Dudley and friends at the Valentine Promenade after the show.
 
 Dr. N. B. Ford successfully performed surgical operations on three different patients at St. John's hospital this week
 

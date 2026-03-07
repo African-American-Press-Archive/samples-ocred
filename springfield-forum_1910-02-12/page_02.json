@@ -3,6 +3,17 @@
   "image": "images/page_02.jpg",
   "width": 2120,
   "height": 2800,
+  "processed_at": "2026-03-07T12:32:45.375740+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 40,
+    "after_merge": 44
+  },
   "regions": [
     {
       "bbox": [
@@ -12,27 +23,19 @@
         205
       ],
       "label": "paragraph_title",
-      "text": "THE FORUM"
+      "text": "THE FORUM",
+      "status": "ok"
     },
     {
       "bbox": [
-        265,
+        260,
         279,
-        632,
-        358
-      ],
-      "label": "text",
-      "text": "Entered as second-class matter, February 24, 1904, at the postoffice at Springfield, Ill., under the Act of Congress of March 3, 1879."
-    },
-    {
-      "bbox": [
-        293,
-        813,
-        623,
+        645,
         840
       ],
       "label": "text",
-      "text": "Saturday, February 12, 1910"
+      "text": "Entered as second-class matter, February 24, 1904, at the postoffice at Springfield, Ill., under the Act of Congress of March 3, 1879.\n\nROGERS & BARBOUR . . . Proprietors\n\nOne Year . . . $1.50\nOne Month . . . 15c\nPer Copy . . . 5c\n\nOFFICE: 305 1-2 S. Sixth St. Phone Main 928\n\nTHE FORUM'S STAFF.\n\nB. L. Rogers, Editor and Manager\nWill H. arbour, Associate Editor and Secretary.\n\nThompson Bros., Branch Once.\n\nGemma The Printer 1051 So. 6th St.\n\nEDITORIAL\n\nSaturday, February 12, 1910.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +45,8 @@
         899
       ],
       "label": "paragraph_title",
-      "text": "SEPARATE SCHOOLS."
+      "text": "SEPARATE SCHOOLS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +56,8 @@
         1442
       ],
       "label": "text",
-      "text": "Several prominent colored men think separate schools for colored children in the districts where the colored population is so large will be a good thing. The logic used in the argument is sound. The claim is that colored teachers will serve to change the atmosphere and not only inspire but elevate the colored youth. The claimants point to several cities where colored schools or separate schools are in vogue. This does not mean that it will be practicable to have all ward schools separate, as there are but few colored people in some wards. This idea does not mean to interfere with the high school either. These ideas are good ones"
+      "text": "Several prominent colored men think separate schools for colored children in the districts where the colored population is so large will be a good thing. The logic used in the argument is sound. The claim is that colored teachers will serve to change the atmosphere and not only inspire but elevate the colored youth. The claimants point to several cities where colored schools or separate schools are in vogue. This does not mean that it will be practicable to have all ward schools separate, as there are but few colored people in some wards. This idea does not mean to interfere with the high school either. These ideas are good ones",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +67,8 @@
         1513
       ],
       "label": "paragraph_title",
-      "text": "THE BENEFITS OF CRITICISM."
+      "text": "THE BENEFITS OF CRITICISM.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,27 +78,41 @@
         2486
       ],
       "label": "text",
-      "text": "Friendly criticism at all times tends to make ones efforts better, more conscientious; that is, when made for that specific purpose. Some of us make palpable blunders in many ways, they are varigated and diversified, and we stumble and keep right on regardless. In our home life, our church, lodge and literary affairs, much criticism is wont to be made and if given at the opportunity time and in the proper spirit, will be a remedial panacea for all the little ills that crop out in our every day life. Apropos the above, we wish to say that the Negro newspaper extols many things done by the race when they know that way down deep under the left side of our vests, censure should be made without reserve. This has its cause, you know\u2014his subscription list keeps him mute. All literary productions are criticised. Who has not heard of Jenette Guder, or W. L. Hubbard, the musical critic of the Chicago Tribune? Then there is our own Sylvester Russell who has done so much to bring the Negro stage performers to such an attitude of excellence. For our part, we intend to say things advisedly and our prime object shall be for the betterment of all concerned. Friendly criticism will be a boor to us."
+      "text": "Friendly criticism at all times tends to make ones efforts better, more conscientious; that is, when made for that specific purpose. Some of us make palpable blunders in many ways, they are varigated and diversified, and we stumble and keep right on regardless. In our home life, our church, lodge and literary affairs, much criticism is wont to be made and if given at the opportunity time and in the proper spirit, will be a remedial panacea for all the little ills that crop out in our every day life. Apropos the above, we wish to say that the Negro newspaper extols many things done by the race when they know that way down deep under the left side of our vests, censure should be made without reserve. This has its cause, you know\u2014his subscription list keeps him mute. All literary productions are criticised. Who has not heard of Jenette Guder, or W. L. Hubbard, the musical critic of the Chicago Tribune? Then there is our own Sylvester Russell who has done so much to bring the Negro stage performers to such an attitude of excellence. For our part, we intend to say things advisedly and our prime object shall be for the betterment of all concerned. Friendly criticism will be a boor to us.",
+      "status": "ok"
     },
     {
       "bbox": [
-        270,
+        260,
         2530,
         645,
-        2670
+        2780
       ],
       "label": "text",
-      "text": "It is sometimes with the church as it is with nations, 'War must sometimes be carried on in order to establish a sound and durable peace at last.'-N.B Union."
+      "text": "It is sometimes with the church as it is with nations, 'War must sometimes be carried on in order to establish a sound and durable peace at last.' \u2014 N. B. Union.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        653,
+        170,
+        1033,
+        220
+      ],
+      "label": "text",
+      "text": "OUR IMPRESSION OF GOVERNOR DENEEN.",
+      "status": "ok"
     },
     {
       "bbox": [
         646,
-        170,
-        1033,
+        247,
+        1026,
         1151
       ],
       "label": "text",
-      "text": "We met the governor early last fall and on first sight, he impressed us as being perfectly trustworthy, fair and conscientious; we had faith in him because of his clear and concise manner of expressing himself, his countenance as was expressed through his facial contour at once made us lose any fear or ill-att-easiness we had contemplated, superinduced by individuals who are averse to the governor and who have said that he was cold and not approachable. Not an atom of the marble heart, nor a tint or scintilla of the iceberginess no refrigerator greeting, no evaseness, but the direct antithesis met us; cordial, pleasant and businesslike. We were agreeably surprised, as we had felt all along that the governor was friendly toward us. From now on we shall feel that Charles S. Deneen whether governor of this great state, or United States Senator, President, minister extraordinary plenipotentiary to the Court of St. James, we shall abide in our faith of his friendship for the Negro. Guess everyone has read of the Cairo hellishness, well the governor's stand in that affair magnifies our already well-founded and premeditated impressions of his magnanimity.\u2014W.H.B."
+      "text": "We met the governor early last fall and on first sight, he impressed us as being perfectly trustworthy, fair and conscientious we had faith in him because of his clear and concise manner of expressing himself, his countenance as was expressed through his facial contour at once made us lose any fear or ill-at-easiness we had contemplated, superinduced by individuals who are averse to the governor and who have said that he was cold and not approachable. Not an atom of the marble heart, nor a tint or scintilla of the iceberginess no refrigerator greeting, no evaseness, but the direct antithesis met us; cordial, pleasant and businesslike. We were agreeably surprised, as we had felt all along that the governor was friendly toward us. From now on we shall feel that Charles S. Deneen whether governor of this great state, or United States Senator, President, minister extraordinary plenipotentiary to the Court of St. James, we shall abide in our faith of his friendship for the Negro. Guess everyone has read of the Cairo hellishness, well the governor's stand in that affair magnifies our already well-founded and premeditated impressions of his magnanimity.\u2014W.H.B.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +122,8 @@
         1408
       ],
       "label": "text",
-      "text": "The required number of signatures to the petition of the local option advocates having been secured, a real and genuine combat is to ensue. The petition is: Shall Springfield become local option territory? Those who are for it will vote yes in the square and the contrary no."
+      "text": "The required number of signatures to the petition of the local option advocates having been secured, a real and genuine combat is to ensue. The petition is: Shall Springfield become local option territory? Those who are for it will vote yes in the square and the contrary no.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +133,8 @@
         1638
       ],
       "label": "text",
-      "text": "Adversity is not necessarily an evil. To be thrown upon one's own resources is to be cast in the very lap of fortune, for our faculties then undergo a development and display an energy of which they were previously unsusceptible.\u2014N. B. Union."
+      "text": "Adversity is not necessarily an evil. To be thrown upon one's own resources is to be cast in the very lap of fortune, for our faculties then undergo a development and display an energy of which they were previously unsusceptible.\u2014N. B. Union.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +144,8 @@
         1706
       ],
       "label": "paragraph_title",
-      "text": "OUR REPRESENTATIVES."
+      "text": "OUR REPRESENTATIVES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +155,8 @@
         2187
       ],
       "label": "text",
-      "text": "The people of this congressional district, two years ago, elected men to legislate for them of the highest political and moral integrity\u2014men to whom they can point to with some degree of pride These men have stood for sound legislation and for the popular bills versed by their constituents\u2014the primary, deep waterways, the commission farm and safe mining bills. These men on the Republican side are: Messrs. Logan Hay, in the senate; Thos. E. Lyon and Harry W. Wilson representatives. The future of these young men is bright. These men may be depended on on all sane measures."
+      "text": "The people of this congressional district, two years ago, elected men to legislate for them of the highest political and moral integrity\u2014men to whom they can point to with some degree of pride These men have stood for sound legislation and for the popular bills versed by their constituents\u2014the primary, deep waterways, the commission farm and safe mining bills. These men on the Republican side are: Messrs. Logan Hay, in the senate; Thos. E. Lyon and Harry W. Wilson representatives. The future of these young men is bright. These men may be depended on on all sane measures.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +166,8 @@
         2259
       ],
       "label": "paragraph_title",
-      "text": "Rev. Wilson Preaches Able Sermon"
+      "text": "Rev. Wilson Preaches Able Sermon",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +177,8 @@
         2525
       ],
       "label": "text",
-      "text": "Rev. R. L. Wilson of the Episcopal church (St. Luke) preached a most able and classic sermon last Sunday-all of his sermons are masterly ones but the one last Sunday was especially good. The Sunday school is increasing and the instructions are thorough. Last Sunday was A-sh Wednesday and services were held at the edifice."
+      "text": "Rev. R. L. Wilson of the Episcopal church (St. Luke) preached a most able and classic sermon last Sunday-all of his sermons are masterly ones but the one last Sunday was especially good. The Sunday school is increasing and the instructions are thorough. Last Sunday was A-sh Wednesday and services were held at the edifice.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +188,8 @@
         2668
       ],
       "label": "text",
-      "text": "Mrs. Clark Thompson is in Chicago and will spend a week buying her spring stock of millinery goods."
+      "text": "Mrs. Clark Thompson is in Chicago and will spend a week buying her spring stock of millinery goods.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +199,8 @@
         224
       ],
       "label": "doc_title",
-      "text": "TUCKER'S PLACE."
+      "text": "TUCKER'S PLACE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +210,19 @@
         467
       ],
       "label": "text",
-      "text": "First class accommodations Regular meals at regular meal hours."
+      "text": "First class accommodations Regular meals at regular meal hours.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1036,
+        613,
+        1430,
+        720
+      ],
+      "label": "text",
+      "text": "H TU",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +232,96 @@
         684
       ],
       "label": "text",
-      "text": "H TUCKER, Proprietor."
+      "text": "H TUCKER, Proprietor.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1049,
+        720,
+        1430,
+        1378
+      ],
+      "label": "text",
+      "text": "Imperial 5 Hats",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1327,
+        1349,
+        1812,
+        1562
+      ],
+      "label": "text",
+      "text": "MYERS & CO.\n529 North Side Square",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1036,
+        1378,
+        1430,
+        1935
+      ],
+      "label": "text",
+      "text": "PETER MYLL\n529\n\nFor Fine Commercial Work\n\nHAMANN The Printer\n\n305 SOUTH SIXTH ST.\n\nPhone 998",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1327,
+        1978,
+        1812,
+        2066
+      ],
+      "label": "text",
+      "text": "time, 150\n6 months\nade.\nOffice Old Phone\n518 Gilbert Ave: 2812",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1036,
+        2263,
+        1430,
+        2597
+      ],
+      "label": "text",
+      "text": "\"Oh, Douglas! Thou hast passed be yond the shore,\n\nBut still thy voice is ringing o'er the gale\u2014\n\nThou'st taught thy race how high her hope may soar,\n\nAnd bid them seek the heights, nor faint nor fall.\"\n\nPaul Laurence Dunbar on Freed Douglass.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1327,
+        2385,
+        1812,
+        2491
+      ],
+      "label": "text",
+      "text": "high her\n\nghts, no\n\nCall at The",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1327,
+        2663,
+        1812,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1036,
+        2668,
+        1430,
+        2780
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +331,8 @@
         613
       ],
       "label": "text",
-      "text": "New Telepnone, 1478."
+      "text": "New Telepnone, 1478.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +342,8 @@
         1592
       ],
       "label": "text",
-      "text": "For Fine Commercial Work"
+      "text": "For Fine Commercial Work",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +353,8 @@
         1958
       ],
       "label": "paragraph_title",
-      "text": "OUR ADVERTISING RATES."
+      "text": "OUR ADVERTISING RATES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +364,8 @@
         2263
       ],
       "label": "text",
-      "text": "For display matter one time, 15c the inch; over one time, 10c, 6 months or one year, special prices made.\n\nReading matter, one time, 7c the line; seven words to the line; over one time 5c; for long articles or church advertising, some reduction.\n\nFor clubs, socials, ect., when matter contains over 75 words and under 200, send 50 cents if you desire it published in full. MANAGER."
+      "text": "For display matter one time, 15c the inch; over one time, 10c, 6 months or one year, special prices made.\n\nReading matter, one time, 7c the line; seven words to the line; over one time 5c; for long articles or church advertising, some reduction.\n\nFor clubs, socials, ect., when matter contains over 75 words and under 200, send 50 cents if you desire it published in full. MANAGER.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +375,8 @@
         2668
       ],
       "label": "text",
-      "text": "You can always depend on The Forum to stand for principle above all else."
+      "text": "You can always depend on The Forum to stand for principle above all else.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +386,8 @@
         770
       ],
       "label": "text",
-      "text": "You won't find styles like the"
+      "text": "You won't find styles like the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +397,8 @@
         863
       ],
       "label": "paragraph_title",
-      "text": "IMPERIAL"
+      "text": "IMPERIAL",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +408,8 @@
         1349
       ],
       "label": "text",
-      "text": "You won't find styles near as swagger. You won't find Imperial $3 Hats at any other store because we have the exclusive agency for this town. We believe it's the best $3 Hat made. That's why we secured the exclusive agency for them. You'll think so when you see the new winter shapes that are ready."
+      "text": "You won't find styles near as swagger. You won't find Imperial $3 Hats at any other store because we have the exclusive agency for this town. We believe it's the best $3 Hat made. That's why we secured the exclusive agency for them. You'll think so when you see the new winter shapes that are ready.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +419,8 @@
         1610
       ],
       "label": "text",
-      "text": "$1.50 to East St. Louis every Saturday and Sunday"
+      "text": "$1.50 to East St. Louis every Saturday and Sunday",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +430,8 @@
         1739
       ],
       "label": "text",
-      "text": "Call at this office for type-writing, work. $ 3 0 5 \\frac {1}{2} $ So. 6th St. Old phone 998. short hand and general stenographic"
+      "text": "Call at this office for type-writing, work. $ 3 0 5 \\frac {1}{2} $ So. 6th St. Old phone 998. short hand and general stenographic",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +441,8 @@
         1791
       ],
       "label": "paragraph_title",
-      "text": "TO THE LAWYER."
+      "text": "TO THE LAWYER.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +452,8 @@
         1978
       ],
       "label": "text",
-      "text": "Special\u2014The Forum will be pleased to have that legal notice, divorces, etc. It is a paper of general circulation; careful in reading proof; no errors shall occur. Published regularly and out on time."
+      "text": "Special\u2014The Forum will be pleased to have that legal notice, divorces, etc. It is a paper of general circulation; careful in reading proof; no errors shall occur. Published regularly and out on time.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +463,8 @@
         2097
       ],
       "label": "paragraph_title",
-      "text": "C. H. JONES"
+      "text": "C. H. JONES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +474,8 @@
         2385
       ],
       "label": "text",
-      "text": "CONTRACTOR AND BUILDER Real Estate, Rentals and Investment Loans H. Henshaw, Solicitor TERRE HAUTE, IND Special services at Episcopal church Sunday-don't miss it Everybody invited. 7:30, out by 8:45 or 9 P.M."
+      "text": "CONTRACTOR AND BUILDER Real Estate, Rentals and Investment Loans H. Henshaw, Solicitor TERRE HAUTE, IND Special services at Episcopal church Sunday-don't miss it Everybody invited. 7:30, out by 8:45 or 9 P.M.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +485,8 @@
         2455
       ],
       "label": "paragraph_title",
-      "text": "Call at The"
+      "text": "Call at The",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +496,8 @@
         2663
       ],
       "label": "text",
-      "text": "New millinery shop for the latest style hats. Best courtiies given all and your patronage is solicited. Come one and all.\u2014Mattie Tucker, Prop., 206 N. 14th St."
+      "text": "New millinery shop for the latest style hats. Best courtiies given all and your patronage is solicited. Come one and all.\u2014Mattie Tucker, Prop., 206 N. 14th St.",
+      "status": "ok"
     }
   ]
 }

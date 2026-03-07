@@ -21,11 +21,11 @@ TO BUSINESS IN QUICK ORDER
 —DELEGATES EAGER TO TELL
 THEIR STORY—MANY INTERESTING PAPERS—PROGRESS OF NEGRO MERCHANTS.
 
-Natchez, Miss June 29.—The most successful and interesting session ever held in the history of the Mississippi Negro Business League will close to-night. There is a large delegation from all parts of the state and a number of prominent visitors from other parts of the country are present.
+Natchez, Miles June 29.—The most successful and interesting session ever held in the history of the Mississippi Negro Business League will close-to-night. There is a large delegation from all parts of the state and a number of prominent visitors from other parts of the country are present.
 
 The League was called to order at 10 oclock Wednesday morning by Prof. S. H. C. Owens, president of the Local League, and also president of Natchez College. Prayer was offered by Rev. P. H. Polk, pastor of St. Matthew's A. M. E. Church. The president made a short address in which he congratulated the members of the League on the wonderful progress made by the Mississippi Negro in business.
 
-Following this came the welcome addresses. In the name of Natchez, Mayor W. G. Benbrook delivered the address. He assured the delegates that the people of Natchez extended them a hearty welcome. He was in position to congratulate the Negro on his wonderful progress. "We welcome you to our city," he said, "because you come to do good, and we are proud of you. We hope you will enjoy your stay here. We bid you welcome." Prof. S. H. C. Owens represented the citizens and Dr. A. W. Dumas, the local league, Responses to the addresses were mae by Prof. L. J. Rowen, of Alcorn A. & M. College; Rev. J. H. D. Robinson, of Durant, and J. E. Johnson, of Prentiss.
+Following this came the welcome addresses. In the name of Natchez, Mayor W. G. Benbrook delivered the address. He assured the delegates that the people of Natchez extended them a hearty welcome. He was in position to congratulate the Negro on his wonderful progress. "We welcome you to our city," the said, "because you come to do good, and we are proud of you. We hope you will enjoy your stay here. We bid you welcome." Prof. S. H. C. Owens represented the citizens and Dr. A. W. Dumas, the local league. Responses to the addresses were mae by Prof. L. J. Rowen, of Alcorn A. & M. College; Rev. J. H. D. Robinson, of Durant, and J. E. Johnson, of Prentiss.
 
 The gavel was turned over to Hon. Chas. Banks, president of the State League. Mr. Banks is one of the most successful business men of the race in the state of Mississippi. For a long time he was a successful merchant in Clarksdale, and closed out his business to establish the Bank of Mound Bayou, which is now one of the strong banking institutions of the country. In addition to this he is first vice president of the National Negro Business League. Mr. Banks is a young man and is directly interested in all that is for the betterment of his race. "The age of talk is now a thing of the past," said Mr. Banks; "and this is the age of do something. As a race we must show the world what we can do by doing and not by talking. It has been said so often that we must not stand around and complain, but must do something. I am glad to see so many of you present. This is a practical meeting and not a meeting for a display of oratory. These are the men and women who are going to tell you the story of their success, and how it has been achieved, and out of it we want to be able to inspire others. You come here to get new inspiration and to help others. That man is the happy man who is doing something for his fellowman. I think it was the Apostle Paul who said: "No man liveth unto himself no man dieth unto himself. How true. But I am not to make a speech," was the abrupt manner in which the president ended his speech, and at once got down to business. Several committees were announced and the program was dived into at once. C. W. Kelly, of Port Gibson, told how to "Conduct a Shoe Store." "A Wife's Place in Her Husband's Business," was discussed by Mrs. L. C. Jefferson, of Vicksburg, Miss. "A Message from the Medical Association of Mississippi" was delivered by Dr. D. W. Sherrod, Meridian and a "Message from the Teachers Association" was delivered by Prof W. W. Blackburn, Port Gibson.
 
@@ -39,9 +39,9 @@ The main address to the League was delivered Wednesday night by Prof. Kelly Mill
 
 Thursday was the closing day. Promptly at 9 o'clock President Banks called the League to order and made a short address telling about the work of the day before and outlining the things to come before the league during the day. He said it was growing in itinerest and much good was being done for the whole race.
 
-Rev. P. E. Frisby, of Natchez, made the opening prayer, and the program started off with a message from Louisiana, by Prof. M. P. Nicholson, of New Orleans, La. E. P. Booze, of Mound Bayou, discussed "Merchandising. There were several other short speeches made "Obstacle Confronting Negro Fraternities and How to Overcome them," was discussed by Rev. S. P. Felder, D. D. of Greenville, Miss., and a "Message from the Negro Press of Mississippi," was delivered by J. C. Chapelle, of Greenville, "Farming in Spite of Boll Weevil," was the subject of an address delivered by Harry Ransom, of Natchez, and Prof. H. T. Tanner told how to Reclaim Worn Out Land. Isom Jefferson, of Lexington, discussed Blacksmithing and Wheelwrighting.
+Rev. P. E Frisby, of Natchez, made the opening prayer, and the program started off with a message from Louisiana, by Prof. M. P. Nicholson, of New Orleans, La. E. P. Booze, of Mound Bayou, discussed "Merchandising. There were several other short speeches made "Obstacle Confronting Negro Fraternities and How to Overcome them," was discussed by Rev. S. P. Felder, D. D., of Greenville, Miss, and a "Message from the Negro Press of Mississippi," was delivered by J. C. Chapelle, of Greenville, "Farming in Spite of Boll Weevil," was the subject of an address delivered by Harry Ransom, of Natchez, and Prof. H. T. Tanner told how to Reclaim Worn Out Land. (Isom Jefferson, of Lexington, discussed Blacksmithing and Wheelwrighting.
 
-The following officers were elected: Hon. Chas. Banks, Mound Bayou, president; T. G. Ewing, Vicksburg, first vice president; C. W. Gilliam, Okalona, L. J. Rowan, Alcorn; vice presidents; G. W. Malone, Coahoma, secretary; J. T. Strong, Itta Bena, assistant secretary; P. W. Howard, Jackson, corresponding secretary; E. B. Topp, Jackson, transportation agent; E. H. McKissack, Holly Springs, treasurer; W. E. Mollison, legal adviser; W. W. Cox, Indianola, E. D. Bolling, Edwards, registrars; E. L. Reuben, Bolton, state organizer; Sam Anderson, Laurel, and J. H. D. Robinson, Durant, statisticians.
+The following officers were elected: Hon. Chas. Banks, Mound Bayon president; T. G. Ewing, Vicksburg, first vice president; C. W. Gilliam, Okalona, L. J. Rowan, Alcorn; vice presidents; G W. Malone, Coahoma, secretary; J. T. Strong, Itta Bena, assistant secretary; P. W. Howard, Jackson, corresponding secretary; E. B. Topp, Jackson, transportation agent; E. H. McKissack, Holly Springs, treasurer; W. E. Mollison, legal adviser; W. W. Cox, Indianola, E. D. Bolling, Edwards, registrars; E. L. Reuben, Bolton, state organizer; Sam Anderson, Laurel, and J. H. D. Robinson, Durant, statisticians.
 
 ## TEACHERS ASSIGNED TO COUNTY SCHOOLS.
 
@@ -77,7 +77,7 @@ The people of Shelbyville of both races have risen up as one man, and offered us
 
 It is our aim to erect the new building this summer and fall on the campus in Shelbyville, and move into it before the first term, if the board of trustees can be induced to rescind their action.
 
-It is in this state of things that the destiny of Turner Normal hangs. What the trustees will do is entirely problematical and cannot be determined until after the meeting in Au
+It is in this state of things that the destiny of Turner Normal hangs. What the trustees will do is entirely problematical and cannot be determined until after the meeting in Au-
 
 gust, but unless the Nashville ministers can guarantee more aid than the people of Shelbyville have, the sentiment now seems to favor that place.
 
@@ -120,17 +120,13 @@ B. Y. P. U. AND SUNDAY-SCHOOL
 
 DELEGATES FROM ALL PARTS OF THE STATE—WORK OF YOUNG PEOPLE FULLY DISCUSSED—SESSION IN PUBLISHING HOUSE CHAPEL—ALL OLD OFFICERS RE-ELECTED—FINAL ADJDURNMENT SUNDAY NIGHT.
 
-"We want more young people connected with every department of our religious and moral life." This was the declaration of Mr. L. C. Moore president of the Tennessee Baptist Young People's Union Convention, which opened its regular annual session in this city at the Kayne Avenue Baptist Church, Wednesday morning. A splendid representation, largely from West and Middle Tennessee, was present. The bulk of the delegation came in on Wednesday night in a special car starting at Memphis. They came over the N. C. & St. L. R. R., picking up representatives all the way. It was an enthusiastic and inspiring session Wednesday morning. The program provided for devotions to begin at 9:30 o'clock, conducted by Mr. J. A. Hay and Mr. W. M. Lane, of Memphis. The calling of the Convention to order by President L. C. Moore; Convention echoes; appointment of committees on enrollment and finance; Rev. J. H. Lawrence, pastor of Kayne Avenue Baptist Church, extended a hearty welcome on the part of the church. The response was made by Mr. J. C. Allen. Then came papers and discussions, the first one being "The Baptist People's Convention, What Is It?" Then the enrollment and finance committees were named; an instructive sermon by Rev. G. L. Harris.
+"We want more young people connected with every department of our religious and moral life." This was the declaration of Mr. L. C. Moore president of the Tennessee Baptist Young People's Union Convention, which opened its regular annual session in this city at the Kayne Avenue Baptist Church, Wednesday morning. A splendid representation, largely from West and Middle Tennessee, was present. The bulk of the delegation came in on Wednesday night in a special car starting at Memphis. They came over the N. C. & St L. R. R., picking up representatives all the way. It was an enthusiastic and inspiring session Wednesday morning. The program provided for devotions to begin at 9:30 o'clock, conducted by Mr. J. A. Hay and Mr. W. M. Lane, of Memphis. The calling of the Convention to order by President L. C. Moore; Convention echoes; appointment of committees on enrollment and finance; Rev. J. H. Lawrence, pastor of Kayne Avenue Baptist Church, extended a hearty welcome on the part of the church. The response was made by Mr. J. C. Allen. Then came papers and discussions, the first one being "The Baptist Young People's Convention, What Is It?" Then the enrollment and finance committees were named; an instructive sermon by Rev. G. L. Harris.
 
-The afternoon session was full of life and greatly enjoyed. Prominent visitors, who have their connections with the national affairs of the Baptists throughout the country, graced this convention with their presence. Each gave his hearty God speed for continued success.
+The afternoon session was full of life and greatly enjoyed. Prominent visitors, who have their connections with the national affairs of the Baptists throughout the country, graced this convention with their presence. Each gave his hearty God speed for continued success. The evening session provided for devotions, papers and a sermon. On the second day, the morning session was opened with more work in front of the convention to be accomplished. While nothing unusual at this session took place, the anticipation of the afternoon session was looked forward to with much interest. At 3 p. m. this convention was called to order in the chapel of the National Baptist Publishing House. A hearty welcome on the part of the Secretary Boyd who, in turning over the room in which devotion is carried on daily by the employees as he styled himself and others, assured them it was the most sacred spot in all of the Volunteer State and that the eyes of the nation were then resting upon this very place.
 
-The evening session provided for devotions, papers and a sermon. On the second day, the morning session was opened with more work in front of the convention to be accomplished. While nothing unusual at this session took place, the anticipation of the afternoon session was looked forward to with much interest.
+President Moore responded in a few well-chosen words. While the session was not lengthy, only such business as came before it was despatched with precision and precision. The principal feature of the program for Thursday afternoon, aside from the meeting at the Publishing House, where the entire delegation viewed the mammoth plant, was the address by Rev. E. W. D. Isaac, D. D., Secretary of the B. Y. P. U. Board of the National Baptist Convention. Several visitors were introduced. After the adjournment of the meeting, Secretary Boyd entertained the entire delegation, serving refreshments at the Noon-Lunch Cafe at 215 Locust street.
 
-At 3 p. m. this convention was called to order in the chapel of the National Baptist Publishing House. A hearty welcome on the part of the Secretary Boyd who, in turning over the room in which devotion is carried on daily by the employees as he styled himself and others, assured them it was the most sacred spot in all of the Volunteer State and that the eves of the nation were then resting upon this very place.
-
-President Moore responded in a few well-chosen words. While the session was not lengthy, only such business as came before it was depicted with precision and precision. The principal feature of the program for Thursday afternoon, aside from the meeting at the Publishing House, where the entire delegation viewed the mammoth plant, was the address by Rev. E. W. D. Isaac, D. D., Secretary of the B. Y. P. U. Board of the National Baptist Convention. Several visitors were introduced. After the adjournment of the meeting, Secretary Boyd entertained the entire delegation, serving refreshments at the Noon-Lunch Cafe at 215 Locust street.
-
-The evening session was held at the Kayne Avenue Baptist Church. The program for this session provided for devotions by S. P. Harris and Mrs. Josie Henderson; a paper, "Why Young People of the Rural Districts Should Be Encouraged in B. Y. P. U. and Sunday-School Work;" a solo by Mrs. A. W. Miller; sermon by Rev. T. J. Goodall; a fifty-cent rally closed this session of the B. Y. P. U. proper. The entire official board of the B. Y. P. U. Convention was re-elected unanimously.
+The evening session was held at the Kayne Avenue Baptist Church. The program for this session provided for devotions by S. P. Harris and Mrs. Josie Henderson: a paper, "Why Young People of the Rural Districts Should Be Encouraged in B. Y. P. U. and Sunday-School Work;" a solo by Mrs. A. W. Miller; sermon by Rev. T. J. Goodall; a fifty-cent rally closed this session of the B. Y. P. U. proper. The entire official board of the B. Y. P. U. Convention was re-elected unanimously.
 
 ---
 ## Page 2
@@ -141,15 +137,45 @@ Minimum Summer Prices Effective Only TWO MORE DAYS Place your order to-day for
 
 ECONOMY
 
+Nashville Furniture Co.
+
+General House Furnishers
+Cash or Credit
+
+Telephone M.
+1761.
+
+216
 Third Ave., N,
+
 Davenports $12.50 AND UP $60.00
 One Suit Oak - $25.00
 One Range - - $32.00
 
+Old Stoves as First Pay
+
 Out of Town Notes.
+
+2
 
 Telephone
 M--765
+
+PINNER
+"The Company with the Coal a
+
+Nashville F
+
+General House
+Cash or
+
+Davenports $1
+One Suit Oak
+One Range
+
+Old Stoves
+
+Out of To
 
 FAYETTEVILLE NOTES.
 
@@ -157,14 +183,20 @@ FAYETTEVILLE NOTES.
 
 Mr. James W. Suggs and Miss Myrte L. Pamplin were united in matrimony June 22, at the home of the bride's parents, by Rev. J. M. W. Deshong. The Pamplin residence was beautifully decorated. The color scheme was white and lavender. The windows were banked with hydrangea. White tapers were used. The lawn was illuminated with Japanese lanterns. Miss Katie B. Hall presided at the organ. She wore a beautiful costume of white liberty satin. A vocal solo by little Joice Moore. "Since Baby Went Away, a vocal solo by Miss Sadie B. Moore, " Promise Me." At 8:30 p. m. the strains of Mendelssohn's wedding march pealed forth; the bridal procession entered. Miss Georgin Martin was maked of honor. She wore a beautiful gown of white marquette. The bride was given away by her brother, Mr. Theophilus Pamplin. The ring ceremony was used. The attendants were as follows: Miss Ola Pamplin attended by Mr. James Wilson; Miss Mabel P. Hall, attended by Mr. Elridge Suggs; Wiss Leoda Morris by Mr. Claudie T. Hall. The bride's
 
+---
+
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.
+
 maids wore white embroidered dresses. The bride wore a beautiful creation of white silk mull, trimmed with baby Irish and real lace. The bridal veil was caught with orange blossoms. She carried a bouquet of Marechal Niel roses. She received many valuable presents. Mrs. Bettie Bryson acted as matron of honor. Mr. and Mrs. Suggs left for Chattanooga Saturday morning, where they will make their home. The bride's going away gown was a gray tailored suit, with hat to match.
 
 ## WARREN NOTES.
 
 On last Thursday morning, June 22, at 6 o'clock, the monster Death came into the home of Mrs. Emma Fleenroy, and claimed for its victim her beloved mother, Mrs. Sara Smith. Mrs. Smith lived to the ripe old age of sixty-six years. Over a third of these years were spent in Christian service. The funeral was held at Carter's Chapel Baptist Church. The Revs. D. B. Hardy and W. A. Rodgers conducted the funeral services with much credit. She is survived by a son, Mr. R. L. Dandridge, and one daughter, and a host of other relatives. We wish to extend our sympathy to the bereaved ones she left
 
-Telephone M--984
+Telephone
+M--984
 
+IPANY,
 27 Arcade.
 
 behind to mourn her death. The county examination will be held this week at Somerville. The young people of North Warren are planning a big fishing outing for the 4th of July. Rev. W. A. Rodgers visited the home of Mr. and Mrs. J. C. Montagut last Friday. Mr. Alex Brewer and C. H. Mason, of Mason, Tenn., visited the home of Mr. B! R. Flippin Sunday.
@@ -175,13 +207,17 @@ Revs. T. G. Hadden and C. H. Simmons have returned from their trip to the Distri
 
 PREPARATIONS ALL READY FOR THE MEETING OF THE NATIONAL NEGRO BUSI-
 
+Special to the Globe.
+
 Little Rock, Ark., June 26.—The twelfth annual meeting of the National Negro Business League will be held here Wednesday, Thursday and Friday, August 16, 17 and 18, 1911. The program for the meeting is now being formulated and will soon be published.
 
 The progress being made by the Negro people of Oklahoma has induced the officers of the League to set aside the morning session, Thursday, August 17th, as Oklahoma Day. Opportunity will be afforded the live Negro business men of this new state to put before the country not only the opportunities that are open to enterprising people, but a statement as to how these opportunities are already being taken advantage of along all lines of business and in professional and educational directions as well. The Negro town of Boley, for instance, has just installed a $35,000 light and power plant, and there are many other evidences of superior progress being made by the Negroes of that state.
 
-Hon. Sculpio A. Jones, President of the State Negro Business League of Arkansas, announces that the State League and the Local Negro Business League of Little Rock, now have their plans fully matured for the coming meeting. The Chamber of Commerce and the Board of Trade, through their representative secretaries, are in active co-operation with Messrs. Jones, Bush, Booker and others. The Entertainment Committee of the Chamber of Commerce has applated $500.00 for the entertainment of the League, and in addition will provide for the place of meeting The Local Negro Business League of Little Rock will also make large appropriations to cover all features of entertainment for those who are present at the coming meeting.
+Hon. Scipio A. Jones, President of the State Negro Business League of Arkansas, announces that the State League and the Local Negro Business League of Little Rock, now have their plans fully matured for the coming meeting. The Chamber of Commerce and the Board of Trade, through their representative secretaries, are in active co-operation with Messrs. Jones, Bush, Booker and others. The Entertainment Committee of the Chamber of Commerce has appropriated $500.00 for the entertainment of the League, and in addition will provide for the place of meeting The Local Negro Business League of Little Rock will also make large appropriations to cover all features of entertainment for those who are present at the coming meeting.
 
-Delegates from the Eastern and Western states can reach Little Rock without annoyance of any character, if they will organize special Pullman or Tourist Car Parties in accordance with the plans already announced by the National Organization and published in the various newspapers of the country. Hon. John E. Bush, a member of the Executive Committee of the National Organization is especially anxious that large numbers of delegates from the Northern, Eastern
+Delegates from the Eastern and Western states can reach Little Rock without annoyance of any character, if they will organize special Pullman or Tourist Car Parties in accordance with the plans already announced by the National Organization and published in the various newspapers of the country. Hon. John E. Bush, a member of the Executive Committee of the National Organization is especially anxious that large numbers of delegates from the Northern Eastern
+
+---
 
 and Western states attend the coming meeting, so as to see something of the progress being made by the Nores of the South.
 
@@ -189,7 +225,7 @@ and Western states attend the coming meeting, so as to see something of the prog
 ASSOCIATION MEETS IN
 UTICA.
 
-Utica, Miss., June 23.—The Fifth annual session of the State Association of Colored Teachers was held at the Utica Normal and Industrial Institute, June 20, 21, 22. The meeting was attended by a large number of teachers. The convention was marked by several important and strong papers bearing upon various phases of the profession, punctured by several vigorous discussion, the chief of which were an interesting talk on the Jeannes Fund by Prof. J. H. Webber, of Darbun; a discussion of "How to Make Negro Education Popular in the South," by W. A. Battle, of Okolona Normal and Industrial Institute; Self-Help in the Secondry Schools, Prof. J. C. Moseley, Christ's College, Jackson, and the Responsibility of Women as Teachers, by Misses Armela Greene and L. P. Winfrey, of Jackson.
+Utica, Miss., June 23.—The Fifth annual session of the State Association of Colored Teachers was held at the Utica Normal and Industrial Institute, June 20, 21, 22. The meeting was attended by a large number of teachers. The convention was marked by several important and strong papers bearing upon various phases of the profession, punctured by several vigorous discussion, the chief of which were an interting talk on the Jeanness Fund by Prof. J. H. Webber, of Darbun; a discussion of "How to Make Negro Education Popular in the South," by W. A. Battle, of Okolona Normal and Industrial Institute; Self-Help in the Secondry Schools, Prof. J. C. Moseley, Christ's College, Jackson, and the Responsibility of Women as Teachers," by Misses Armelda Greene and L. P. Winfrey, of Jackson.
 
 The "back to the farm" slogan was changed to "stay on the farm," Prof. W. H. Holtzclaw, principal of the Utica Institute, declaring that the farm was too important in the economy of the race and the nation to be made a refuge for failures in other walks of life. Farming subjects were given the lion's share of attention and industrial education stressed by nearly every speaker, while President Martin in his annual address made several important recommendations with reference to agricultural and other industrial work in the public schools.
 
@@ -197,7 +233,7 @@ Prof. Z. T. Hubert, the new president of Jackson College, by whose coming means 
 
 Dr. J. B Lehman, president of the Southern Christian Institute, Edwards, Miss., spoke to the teachers at a special hour Wednesday, and Bishop Theodore D. Bratton, of the piscopal Diocese of Mississippi, was the guest of the Institution and the Association Thursday. Bishop Bratton is a wholesouled Christian gentleman, a worthy successor to the late Bishop Charles B. Galloway, and in every respect a friend to the black man. His subject was "The Ministry of Education," yet throughout his discourse, he breathed the spirit of friendliness and sympathy with the work of the colored teacher.
 
-Prof. A. Martin was re-elected President, and William H. Holtzclaw made corresponding secretary in the Place of President L. J. Rowan, of Alcorn College, who becomes first vice president. There were no important changes in the officer of the convention, the list standing as formerly. The next session will be held in Okolona.
+Prof. A. Martin was re-elected President, and William H. Holtzolaw made corresponding secretary in the place of President L. J. Rowan, of Alcorn College, who becomes first vice president. There were no important changes in the officiary of the convention, the list standing as formerly. The next session will be held in Okolona.
 
 ## SOUTH  NASHVILLE  DISTRICT
  CONFERENCE A SUCCESS.
@@ -220,6 +256,14 @@ FIRST BAPSTEH CHURCH, Eighth avenue North.—Sunday-school 9:30 a.m.; preach-
 
 ing Sunday 11 a. m. and 8 p. m.; Communion, First Sunday in each 8 p. m.; 11 a. m.; teachers' meeting Tuesday, 7:30 p. m.; prayer-meeting Tuesday, 8:00 p. m. Rev. W. S. Ellington, D. D., pastor, 914 Seventh avenue north, North; Prof. S. P. Harris church clerk, 1730 Jefferson street, Jr. D. Crenshaw, superintendent, 528 second avenue, New York; Octavia Coffey, Sunday-school secretary, 1624 State street. Mr. Barry Barristen, Crunch, Cedar street; Sunrise prayer-meeting 6 a. m.; Sunday-school 9:30 a. m.; preaching Sunday at 11:30 a. m. and 8 p. m.; first Sunday, communion services at 3:30 p. m.; teachers' meeting Tuesday evenings 7:30; prayer-meeting Tuesday evening at 7:30; preaching Thursday night; Rev. C. H. Clark, D. D., pastor, 610 Jo Johns avenue; Mr. Phillip Clark, dongle, 1309 Jackson, Sunday-school superintendent, Rev. T. J. Jackson, Sunday-school superintendent, 1210 Clinton street; Mr. Andrew Allison, Sunday-school secretary, Jackson street; Women's Missionary Society Monday afternoon 2:30 o'clock.
 
+SOGIETY BADGES All Styles and Prices
+
+MEMBER
+
+LOCAL NO. 1
+I.U.J.H.
+NEW YORK, N.Y.
+
 We are prepared to make all kinds of badges for societies and associations a prices that are as reasonable as can be had anywhere.
 
 They are made of the best satin ribbon, stamped with pure gold leaf and trimmed with imported gold bullion fringe.
@@ -228,8 +272,7 @@ Write us for prices and specifications stating the number of badges you want.
 
 National Baptist Publishing Board
 R. H. BOYD, Sec'y,
-523 Second Ave., N
-NASHVILLE, TENN
+523 Second Ave., N NASHVILLE, TENNES
 
 ---
 ## Page 3
@@ -245,7 +288,7 @@ Former Louisville Boy Speaks on "Journalism."
 
 Special to the Globe:
 
-Louisville, Ky., June 27.—James R. Harris and T. H. Goodall, editors and publishers of the Louisville Defender, tendered a banquet last Saturday night to Cary B. Lewis, managing editor of the Illinois Chronicle, formerly of Louisville, but now of Chicago.
+Louisville, Ky., June 27-James R. Harris and T. H. Goodall, editors and publishers of the Louisville Defender, tendered a banquet last Saturday night to Cary B. Lewis, managing editor of the Illinois Chronicle, formerly of Louisville, but now of Chicago.
 
 Mr. Lewis was given quite a number of social functions during his stay in the old home city, but the most enjoyable was a stag given him on Saturday night by the Defender, at 822 West Walnut street.
 
@@ -259,6 +302,8 @@ The Advisory Board of the Pythian Grand Lodge delegation, Mr. W. M. Allison, cha
 
 DEATH OF MRS. B. O. GAINES.
 Mrs. Bennetta Douglass Gaines departed this life Saturday evening, June 24, at 4:35 o'clock, after an illness of nearly twelve months. She was the only daughter of Mrs. Beddie Douglass and a granddaughter of Mr. and Mrs. Bedford Hughes. She
+
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.
 
 That Is To Be Printed, From A Calling Card To An Encyclopedia.
 
@@ -279,8 +324,6 @@ A. J. Norman, Son.
 
 ## HOW TO CARE FOR BABY.
 (Continued from Last Issue.)
-
-## HOW TO CARE FOR BABY
 
 milk yourself, you may be able to get along without it, but the baby needs If you cannot afford drink good milk and the cleanest milk that can be obtained. Cheap milk is not clean. It is usually keeping milk from getting dirty that makes it expensive.
 
@@ -320,13 +363,9 @@ Give two teaspoonfuls of castor oil and feed nothing but barley water until the 
 
 ## Flies.
 
-Remember that files are dirty and often carry disease.
-
 Remember that files are dirty and often carry disease. Keep milk or other food covered or where files cannot get at it.
 
-Keep milk or other food covered or where files cannot at it.
-
-NASHVILLE. TENN.
+NASHVILLE, TENN.
 
 have it do so will save much time for them other and enable her to do many more important things in the way of keeping things clean, and of resting herself.
 
@@ -337,6 +376,10 @@ Crying is one of the ways in which babies develop their lungs—a certain amount
 Try to get people to leave the baby alone. Think how tired and irritable you get yourself on a hot day and shield the baby as much as possible from excitement and "attention."
 
 "Some of these things may seem like extra work, but they keep the baby well, and it is far less trouble keep a baby well than to take care of a sick baby."
+
+Lots For
+
+or Sale
 
 # Lots For Sale
 
@@ -380,19 +423,15 @@ READING MATTER RATES.
 8 cents per line for each insertion.
 10 cents per line for each insertion in (black face).
 
-Advertising copy should be in the office not later than 9 a.m. m. Tuesday of each week.
+Advertising copy should be in the office not later than 9 a.m. Tuesday of each week.
 
-## TO THE PUBLIC
+TO THE PUBLIC.
 
-Any erroneous reflections upon the character, standing or reputation of any person, firm or corporation, which may appear in the columns of the NASHVILLE GLOBE will be gladly corrected upon being brought to the attention of the management.
+Any erroneous reflections upon the character, standing or reputation of any person, firm or corporation, which may appear in the column of the NASHVILLE GLOBE will be gladly corrected upon being brought to the attention of the management.
 
-Send correspondence for publication so as to reach the office Monday. No matter intended for current issue which arrives as late as Thursday can appear in that number, as Thursday is press day.
+Send correspondence for publication so as to reach the office Monday. No matter intended for current issue which arrives as late as Thursday can appear in that number, as Thursday is public.
 
-You should send as for publication must be written only on one side of the paper, and should be accompanied by the name of the contributor, not necessarily for publication, but as evidence of good faith.
-
-## FRIDAY, JUNE 30, 1911.
-
-## A Sign of Progress.
+All news sent as for publication must be written only on one side of the paper, and should be accompanied by the name of the contributor, not necessarily for publication, but as evidence of good faith.
 
 In last week's issue our worthy contemporary, The Demonstrator, of Mound Bayou, Miss., says:
 
@@ -400,25 +439,47 @@ The Demonstrator has finally reached the stage where it has truthfully to say th
 
 It can be clearly seen from the above that Mound Bayou's citizens are pushing to the front, and we congratulate the Demonstrator on the decision to lead the way. Other Negro newspaper publishers would do well to catch this same spirit. The people deserve the best service that can be given them.
 
-## Tennessee State Fair.
-
 The time is drawing near for our annual State Fair, which will be held at Greenwood Park, near this city. The efforts of the Negroes of Tennessee in this direction are to be commended, and those who have not taken any part in these celebrations in the past should bestir themselves and see to it that the reputation of our fair state docs not suffer.
 
 Since the fair ground is located so close to Nashville, it should make the citizens here feel that a special duty rests upon them. The success of our fair will always depend largely upon the people of Nashville. They can make it a grand success if all will pull together with one aim in view. The Tennessee Colored State Fair should rank with the best that are held by the Negroes of other states. HThose who are in authority in this matter have worked hard to make it a success, and what they have accomplished is worthy of commendation, but the fact remains that the State Fair has never been what it should nor what it would be if the Negroes in every part of the state would become interested in it.
 
 The county fairs are all about over by September, and the exhibitors can easily ship their exhibits here in time for them to be installed before the opening day. Every citizen owes it to himself to make this institution a success for the glory of it will come to all alike.
 
-## The Proposed Allen Memorial Building.
-
 The Christian Recorder, the oldest Negro publication in this country, is asking the African Methodist Church to erect in Philadelphia a memorial buillding to the memory of Richard
 
-Allen, the founder of the Church. In the current issue the Recorder says:
+4
 
-Some weeks ago we proposed, through the Recorder, the erection in Philadelphia of a suitable building, to be known as the "Richard Allen Memorial Building." When this idea was first put forward, there were some who doubted that it could be done. But our idea is beginning to gain. At Wilberforce we talked with a number of representative ministers from different parts of the country about the building, and it seemed to meet their approval. Such a building as we would suggest would be located in close proximity to our colored population in Philadelphia. It would be six or seven stories, having room for a first-class printing plant, with pressroom, bindery composing room, store rooms, mailing rooms, stereotyping rooms and clerical rooms for the Book Concern; also a managers office, editorial rooms for the Christian Recorder, offices for the Missionary and Church Extension Departments, Episcopal rooms, one for the Bishop of the First District and one for any visiting bishop. The building would also have a room for board meetings, two or three small committee rooms, a small chapel, and a large auditorium, with a capacity for about 1,500 people. There would be a store on the ground floor for the sale of books, and offices on the other floors for rent to representative business and professional men.
+No
+D.
+H.
+On
+Six
+Th
+Sin
 
-Such a building would not cost less than 5,000, but will be worth many thousands more in usefulness and the prestige it will bring to race.
+```markdown
 
-In a later editorial we will discuss the paying for the building. If this suggestion can be made a reality it would be an everlasting memorial to a man who ranks with the pioneer churchmen of the world. It would also be a great achievement for the Negro race, and especially the African Methodist Church. Editor Wright, that brilliant and thorough going young churchman, has faith in the project, and his success with the Book Concern should be sufficient to inspire the members of his church to undertake the erection of the building under his guidance.
+```
+
+## TO THE PUBLIC
+
+## FRIDAY, JUNE 30, 1911.
+
+## A Sign of Progress.
+
+## Tennessee State Fair.
+
+## The Proposed Allen Memorial Building.
+
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911
+
+Allen, the founder of the Church. In the current issue the Recorder says
+
+Some weeks ago we proposed, through the Recorder, the erection in Philadelphia of a suitable building, to be known as the "Richard Allen Memorial Building." When this idea was first put forward, there were some who doubted that it could be done. But our idea is beginning to gain. At Wilborforce we talked with a number of representative ministers from different parts of the country about the building, and it seemed to meet their approval. Such a building as we would suggest would be located in close proximity to our colored population in Philadelphia. It would be six or seven stories, having room for a first-class printing plant, with pressroom, bindery composing room, store rooms, mailing rooms, stereotyping rooms and clerical rooms for the Book Concern; also a managers office, editorial rooms for the Christian Recorder, offices for the Missionary and Church Extension Departments, Episcopal rooms, one for the Bishop of the First District and one for any visiting bishop. The building would also have a room for board meetings, two or three small committee rooms, a small chapel, and a large auditorium, with a capacity for about 1,500 people. There would be a store on the ground floor for the sale of books, and offices on the other floors for rent to representative business and professional men.
+
+Such a building would not cost less than 15,000, but will be worth many thousands more in usefulness and the prestige it will bring to race.
+
+In a later editorial we will discuss the paying for the building. If this suggestion can be made a reality it would be an everlasting memorial to a man who ranks with the pioneer churchmen of the world. It would also be a great achievement for the Negro race, and especially the African Methodist Church. Editor Wright, that brilliant and thorough going young churchman, has faith in the project, and has success with the Book Concern should be sufficient to inspire the members of his church to undertake the erection of the building under his guidance.
 
 The Negroes of this country need to convince the white man of the North as they have the white man of the South, that they have those business qualities to carry to a successful completion great undertakings, and no better opportunity presents itself than the suggestion of the the Christian Recorder.
 
@@ -426,7 +487,7 @@ A bill has been introduced in both houses of the State Assembly to appropriate $
 
 The Negro business men of Nashville are planning to have a big delegation at the National meeting in August. Get in line and send your name in to the Globe office for registration.
 
-In a couple of weeks the Pythians of the state will charge Lookout Mountain and then the Masons and the Odd Fellows. My! if Chattanooga could take the census during this summer it would be the biggest city in the state.
+In a couple of weeks the Pythians of the state will charge Lookout Mountain and then the Masons and the Old Fellows. My! if Chattanooga could take the census during this summer it would be the biggest city in the state.
 
 Jack Johnson and his auto are setting old England wild. A few more rounds like that and the pride of "Aunt Hagar's" ten million will be just like the rest of us.
 
@@ -440,11 +501,13 @@ The leading feature in the July McClure's is Burton J. Hendrick's article, "The 
 
 "Reclaiming the eath," by Hen-
 
+DIEHL and LORD
+
 Largest, Most Complete and Oldest Soda Water Plant in the South
 
 ESTABLISHED 44 YEARS
 
-Honest Goods and Square deal to everyone-Our Motto.
+Honest Goods and Square deal to everyone—Our Motto.
 
 1y Stoddard Leach, is the story of how Denmark converted a desert into a farming country.
 
@@ -462,8 +525,6 @@ HILL-TAYLOR.
 
 Former Nashville, Tenn., Groom Mar
 vince, Berkeley, Md., Glint
-
-Former: Nashville, Tenn., Groom Mar
 
 There was a pretty church wedding last evening in the Church of the Ascension, Washington street, when Miss Clara Belle Taylor, daughter of Mr. and Mrs. John D. Taylor, of 19 Kenilworth street, Roxbury, and William Tolbert Hill were married by Rev. Wm. Clarke, pastor. Misses Catherine and Ethel Elliot, of Worcester, were flower girls. The bride's maid was Miss Ida Elliott, of the same city. The best man was Edwin Haskell, of Boston. The bride wore a handsome pearl-white satin gown with baby Irish and Venetian lace and a long white veil. The flower girls wore white organdic gowns and the bridesmaid pink mouselline. The ushers were Wm. Pew, Alfred Willard, Andrew Williams and Rollin Robinson.
 
@@ -503,6 +564,18 @@ Mrs. Louis Gill, of 606 Sylvan street, entertained beautifully Wednesday evening
 
 How about some goodlooking Footwear for the Fourth at your own price? Three or four hundred pairs of ladies' fine, up to date, this season's $3.00 to $4.00 Oxford, Ties, Strap Slippers, in patent; in Tan, in Gun Metal, in everything that is worn this season at only
 
+$1.95
+J. S. HOPKINS
+SHOE COMPANY
+ON THE SQUARE
+
+FOR HIM
+
+FOR HER
+
+Walk-over Shoe Co.
+235 FIFTH AVENUE, NORTH
+
 B. Driver, Nannie Gill, Emma Boyd, Estella Hollins, Georgia Scoby, Georgia Holland, Ninnie Barfield, Willie B. Flagg, Richie Rideout, Messrs. A. M. Townsend, John Goodloe, Susa Turner, Lila Clem, Preston Scales, Mr. and Mrs. William Smith, Messrs. Manus Ross, Wm. Rose, John Barnes, Albert Duncan, Rufus Duncan, Clarence Harwell, Bennie F. Lewis, Wm Haynes, Jr., Raleigh Morgan, Frank Douglass, Joe Porter, John Mayberry, Joe Hunt, Frank Liones, Elmer Winston and — Mitchell.
 
 ## ***
@@ -510,6 +583,8 @@ B. Driver, Nannie Gill, Emma Boyd, Estella Hollins, Georgia Scoby, Georgia Holla
 ## Culin.ry Art Club. b
 
 What proved to be one of the most helpful demonstrations ever held by the Culinary Art Club took place at the residence of Mrs. J. H. Hale, of Wetmore street, on Wednesday afternoon. Mrs. Searcy was the demonstrator at this meeting. She tastefully prepared the following: sunflower tomato salad, pimento sandwich, caserole chicken, French salad dress and rainbow cream. After this a general discussion on different modes of preparing eatables was indulged in, as were other topics of interest to the housewife. Plans were discussed for different entertainments to be given during the summer. The following members were present: Mesdames S. P. Harris, W. S. Ellington, H. A. Boyd, E. D. Kennedy, J. H. Hale, Geo. Gibson. The time and place of the next meeting is to be announced in the next issue of The Globe.
+
+ORD
 
 ---
 ## Page 5
@@ -522,27 +597,134 @@ H. G. Hill Grocery & Baking Co. Big Store IOI Public Square. Phones, Main 435-12
 
 ## Canned Goods
 
+Peas, Diana Brand, sweet garden, per can..... 10c
+Peas, Diana Brand, extra sweet garden, 2 cans..... 25c
+Peas, Golden Wedding, sweet, extra sifted, per can 15c
+Spring Beans, Monroe Brand, Tender and Tempting, No. 2 can 2 for..... 15c
+String Beans, Cut Refugee Brand, a fine grade select, per can..... 12c
+Tomatoes, No. 3 Winner Brand red, ripe fruit per can 10c
+Tomatoes, No. 2 stewed and strained, sanitary cans, per can..... 5c
+
 ## Bakery Specials
 
-Hot From Our Own Ovens Daily Our Breads are without any equal both in quality and size of loaf.
+Hot From Our
+Own Ovens Daily
+
+Our Breads are without any equal
+both in quality and size of loaf.
+
+Grandma's Wonder Bread
+
+2 LARGE LOAVES 5c
+
+MILK BREAD
+
+3 LARGE Loaves 10c
 
 Grandma's Rolls, 10-cents
-value, per dozen ...
+value, per dozen ..... 5c
 
-Salt Rising, just like homemade, large loaf ...
+Salt Rising, just like home-
+made, large loaf ..... 5c
 
 Rye Bread, largest loaf in
-the city ...
+the city ..... 5c
 
-Our Big Dandy, a mam
+Our Big Dandy, a mammoth
 loaf of white, flaky,
-brown-crust Bread, each
+brown-crust Bread, each 10c
 
 ## Fresh Cakes Daily
 
+Large, two-layer Cakes in Cocoanut, Vanilla, or Rich Milk Chocolate Icing. Each... 20c
+(Actual 30c value) Lemon... 20c
+Vanilla Wafers, lb... 20c
+Crescent Cake, vanilla or chocolate icing, pound... 20c
+Small Pies, each... 5c
+Large Pies in Lemon-Maringue and assorted fruits, each... 15c
+Lady Fingers, lb... 25c
+Macaroons, lb... 30c
+Muffin Cakes, dozen... 10c
+Cookies dozen... 10c
+Doughnuts, dozen... 10c
+Ginger Snaps, lb... 7c
+Jelly Roll, per cut... 5c
+
+H. G. Hill Groce Big Store 101 Public Squ
+
 ## Picnic Specials
 
+Everything that you might wish can be secured here at money-saving prices.
+
+**Deviled Meat**, ham flavor 1-4, size; a 5c value ..... 4c
+
+**Deviled Ham**, Underwood's original, I-4 size 15c, I-2 size ..... 25c
+
+**Vienna Sausage**, No. I-2 can, per can ..... 8c
+
+**Luncheon Sausage**, No. I-2 cans ..... 8c
+
+**Chipped Beef**, No. I-2 cans, a 10c value ..... 8c
+
+**Chipped Beef**, I-2 lb jar, a 15c value ..... 10c
+
+**Sliced Beef**, I 1b jar, Beechnut ..... 25c
+
+**Sliced Beef**, I-2 lb cans, fine grade ..... 15c
+
+Corned Beef, extra fine quality No. 1 can..... 17c
+Roast Beef,
+No. 1 cans..... 17c
+Veal Loaf,
+No. 1-2 can..... 10c
+Pig Feet, (boneless)
+per can..... 18c
+Bacon, 1 lb glass jars
+wafer sliced..... 28c
+Lobster,
+No. 1-2 cans..... 20c
+Lobster,
+No. 1 can..... 35c
+Crab Meat, Japanese,
+No. 2 can..... 25c
+Shrimp,
+No. 1 can..... 10c
+
 ## Sardines
+
+Sardines, American 1-4 oil, small fish ..... 5c
+Sardines, 3-4 mustard a 10c value ..... 8c
+Sardines, French 1-4 size, 10c value 3 for ..... 25c
+
+Salmon, fine pink meat; per can ..... 12c
+Salmon, No. 1-2 cans red meat ..... 10c
+Salmon, Red Sockeye No. 1 can ..... 20c
+
+Pickles, small sour, 20 pickles to quart; per quart ..... 10c
+Pickles, Heinz' sweet mixed, sweet plain, per quart ..... 20c
+Bottle Pickles, sweet or sour, mixed, 10 oz bottle ..... 10c
+Bottle Pickles, sweet or sour, mixed, 10 oz bottle ..... 10c
+Bottle Pickles, sweet, mixed, 24 oz bottle at ..... 15c
+Picalli Pickles, large bottle ..... 10c
+
+ery & Baking Co. 
+are. Phones, Main 435-1232
+
+NASHVILLE GLOBE. FRIDAY. JUNE 30, 1911.
+
+A Coal Deal That
+
+St. Bernard
+
+AT A SAVING O
+
+The difference in cost
+
+Let us figure
+
+Clean Coal. Freshly M
+
+THE HO
 
 The difference in cost now and a month hence is startling. Let us figure with you-It means a big saving. Clean Coal. Freshly Mined-Full Weight-Promptly Delivery.
 
@@ -559,15 +741,17 @@ Johnnie H. White, who is a member of class 1911, Pearl High School, wishes to ex
 
 The crops are looking nicely since the rain. The Pythians and Calanthians of this portion of the state desire that everybody know that Dr. W. T. Horton, the efficient deputy, has done much to promote the cause of the order. He is worthy of any promotion that the Grand Lodge may fit to give. West Tennessee is unqualifiedly for him. We believe that right and justice demand the recognition of his claims for Grand Medical Register. All West Tennessee is behind Dr. W. T. Horton.
 
-YOUNG MAN DIES.
-
-William Jackson Norman, age 25 years, died very suddenly Thursday morning, June 22. He was born in Columbia, Tenn., November 5, 1886. When four years old he came with his parents to Nashville, where he has resided. He was married to Miss Tennie Davis Rhodes, March 27, 1911. He leaves to mourn his loss a devoted wife, a son, a brother, a sister and loving mother and father. He was a trusted son and companion to his father; a devoted and dutiful husband to his wife. His character was exemplary, being generous to a fault he naturally attracted friends and held them by his friendliness. His fellow-workmen sold him in the highest regard. He will be sadly missed not only by his immediate family but by a legion of friends. In his infancy he was christened at St. Paul A. M. E. Church at Columbia; since his marriage he has been a constant worshipper at St. Eli Baptist Church. He was a bricklayer by profession, working for the firm of Norman and Rhodes. His death came like a thunderbolt in the clear sky. On the morning of his death he had prepared breakfast for his sick wife, sat down to read the morning paper, and when his wife came looking for him she found that he was dead. His remains were interred at Mt. Ararat Cemetery Monday afternoon; funeral was held at Mt. Eli Baptist Church by Revs. Sam Bryant and Sampson Brooks.
+William Jackson Norman, age 25 years, died very suddenly Thursday morning, June 22. He was born in Columbia, Tenn., November 5. 1886. When four years old he came with his parents to Nashville, where he has since resided. He was married to Miss Tennie Davis Rhodes, March 27, 1911. He leaves to mourn his loss a devoted wife, a son, a brother, a sister and loving mother and father. He was a trusted son and companion to his father, a devoted and dutiful husband to his wife. His character was exemplary, being generous to a fault he naturally attracted friends and held them by his friendliness. His fellow-workmen sold him in the highest regard. He will be sadly missed not only by his immediate family but by a legion of friends. In his infancy he was christened at St. Paul A. M. E. Church at Columbia; since his marriage he has been a constant worshipper at St. Eli Baptist Church. He was a bricklayer by profession, working for the firm of Norman and Rhodes. His death came like a thunderbolt in the clear sky. On the morning of his death he had prepared breakfast for his sick wife, sat down to read the morning paper and when his wife came looking for him she found that he was dead. His remains were interred at Mt. Ararat Cemetery Monday afternoon; funeral was held at Mt. Eli Baptist Church by Revs. Sam Bryant and Sampson Brooks.
 
 INQUIRY FOR GRANDMOTHER.
-
-Editor Nashville Globe, Dear Sir;
-
-I have or had a grandmother living in that city by the name of Mrs. Celtie Burns, but I have been unable to hear from her for about three years. I was told that you could locate her; if so, let me know, and oblige, yours very truly.
+Editor Nashville Globe, Dear Sir:
+I have or had a grandmother living
+in that city by the name of Mrs.
+Celie Burns, but I have been unable
+to hear from her for about three
+years I was told that you could locate
+her; if so, let me know, and
+oblige, yours very truly,
 
 ## "WHITE'S SPECIFIC"
 
@@ -592,6 +776,21 @@ Globe, 447 Fourth avenue, North.
 
 ## DEATHS.
 
+Edward M. Southall, 2900 W. Hill street, 1 year.
+Ezekiel Winston, 1311 9th avenue, North, 82 years.
+Walter Lyons, 230 Fillmore street, 31 years.
+Andrew Nelson, 611 Brown street, 2 months.
+Sarah McDowell, 1312 South Market street, 43 years.
+Nancy Barnes, 1407 Buchanan street, 74 years.
+Callie Humphrey, 610 Eighth avenue, North, 63 years.
+Robt. Johnson, 522 Sycamore street, 63 years.
+Wm. Norman, 905 Twelfth avenue, North, 26 years.
+Bennetta Gaines, 1608 Jackson street, 24 years.
+Louis Golston, 24 rear Fillmore street, 50 years.
+Eddie Hunter, City Hospital, 7 years.
+Andrew Starks, Gallatin, Tenn., 36 years.
+Samuel Dickerson, 1503 Harding street, 4 years.
+
 Robert Tolbert and Irene Robertson.
 John R. Watson and Elizabeth Collins.
 Brown Gillens and Katherine Simms.
@@ -603,13 +802,41 @@ Robert Robertson and Sarah Gurley.
 Melvin W. Wade, Masonic Home, 8 years.
 Grannie Harding, Neal avenue, 118 years.
 
+"WHITE'S
+THE GREATEST OF
+A wonderful FACE CREAM
+claimed for it. Cures Pimple
+Freckles, Sunburn, Liver Blot
+tions. A perfect BLEACH
+without injury to the most del
+a national reputation. "ON
+has been the experience of our
+will con
+
+PRICE 25c AT
+WHITE'S SPECIFIC TOILET COM
+
+BUY
+
+DAN G. C
+
+Your Hardware, I
+
+PARIOD ROOFING USED BY
+TEED FOR TEN YEARS.
+
 325 Broadway
 
-## MAKE YOUR SELECTIONS EARLY
+hat Warm Weather
 
-You'll want nice Slippers on the day the eagle screams. About 300 pairs Ladies' Oxfords, Ties and Slippers, $2.50 and $3.00 grade, at only $1.65 J. S. HOPKINS SHOE CO. ON THE SQUARE
+Everywhere
 
-Wm. Brinkle, 1010 Ivy street, 50 years.
+Drink the satisfactory beverage
+Coca-Cola
+Carbonated in bottles.
+Delicious, Wholesome,
+Thirst-Quenching
+Relieves fatigue
 
 Wm. Brinkle, 1010 Ivy street, 50 years.
 Infant of Carrie Goodman, 47 Lincoln street.
@@ -618,11 +845,50 @@ James Jennings, rear 1605 Third avenue, North, 18 years.
 Alma Carter, 1514 Tenth avenue, South, 3 months.
 Joseph Holt, 24 East Hill street, 21 years.
 
-Joseph Holt, 24 East Hill street. 21 years.
+SPECIFIC"
+FOR ALL BEAUTIFIERS.
 
+I that positively does all that is
+and Ringworms, removes Tan,
+hides and other Facial discolora-
+that beautifies the Complexion,
+cate skin. Its merit has given it
+USE USED ALWAYS USED,"
+thousands of customers. A trial
+since you.
+
+ALL DRUGGISTS.
+COMPANY, NASHVILLE, TENN.
+
+FROM
+
+LARK, Jr.
+Lawn Fence, Paints
+U. S. GOVERNMENT GUARAN-
 Nashville, Tenn.
 
+r Presents You
+ico Coal
+DUGHT NOW
+ance is startling.
+saving.
+omply Delivery.
+
+CE CO.
+
+---
+
+## MAKE YOUR SELECTIONS EARLY
+
+You'll want nice Slippers on the day the eagle screams. About 300 pairs Ladies' Oxfords, Ties and Slippers, $2.50 and $3.00 grade, at only $1.65 J. S. HOPKINS SHOE CO. ON THE SQUARE
+
 Phone Main 43
+
+5
+
+---
+
+---
 
 ---
 ## Page 6
@@ -646,45 +912,64 @@ ON THE SQUARE
 
 ## Wooden Money Barrels
 
-Express charges Extra.
+WINE BOX
 
+Wooden Money Eggs
+Specially suited for collecting money which is to be returned at Easter time. Appropriate exercises may be easily arranged for this, if thought desirable to hold an entertainment in connection with the return of eggs.
+Price, unpolished, 4c each by mail or per 100. $2.50
+Express charges Extra.
 National Baptist Publishing Board,
 523 Second Avenue, N., Nashville, Tenn.
 
 ## NATIONAL CALL BELLS
 
-All sizes and at prices to suit you.
-Made of the verp best Bell metal and
+All sizes and at prices to suit pou.
+Made of the vep best Bell metal and
 will stand any amount of usage without
 breaking.
 
-No. 70.-Made entirely of wrought steel.
+No. 70.—Made entirely of wrought steel.
 Japaned base, nickel plated gong; size.
-3-3 8 in diameter. Price..... $ 60
-No. 72.-Base and gong wrought steel,
+3 3-8 in diameter. Price..... $ 60
+
+No. 72.—Base and gong wrought steel,
 finely polished and heavily nickel plated
 on copper; size, 3 3-8 inches in diameter.
 Price..... $ 75
-No. 74.-Wrought brass base, cast bell,
+
+No. 74.—Wrought brass base, cast bell,
 metal gong, handsomely nickel plated;
-size, 3 3-8 inches in diameter. Price. $ 100
-No. 62.-Cast bell metal, nickel plated;
-size, 3 inches in diameter. Price..... $ 125
-No. 81.-Cast bell metal, nickel plated,
-gilt iron base. Diameter of base 3 1-2
-inches. Price..... $ 150
-No. 85.-Silver plated bell, bronze metal
+size, 3 3-8 inches in diameter. Price..... $1 00
+
+No. 62.—Cast bell metal, nickel plated;
+size, 3 inches in diameter. Price..... $1 25
+
+No. 81.—Cast bell metal, nickel plated,
+glitron base. Diameter of base 3 1-2
+inches. Price..... $1 50
+
+No. 95.—Silver plated bell, bronze metal
 base. Diameter of base, 3 3-8 inches
-Price..... $ 2 25
+Price..... $2 25
 
 SEND ALL ORDERS TO
-National Baptist Publishing Board:
+National Baptist Publishing Board-
 523 Second Ave., N., Nashville, Tenn.
 
 ## DR. J. ALONZO NAPIER
 DENTIST
 
-Dr. W. H. D. VALENTINE DENTAL SURGEON
+413 1-2 Fourth Ave., N. Napier Court
+PHONE MAIN 1477
+Nashville, Tenn.
+OFFICE HOURS: JAMES BUILDING
+9 A. M. TO 5 P. M. ROOM 3
+RESIDENCE PHONE, HEMLOCK 126
+Dr. W. H. D. VALENTINE
+DENTAL SURGEON
+124 ½ E. 9TH ST. CHATTANOOGA, TENN
+
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.
 
 ## OUT OF TOWN N. TES.
 
@@ -730,7 +1015,40 @@ Sells a GAS IRON that you can iron ten hours a day for
 
 Call at gas office and see one on exhibition SOLD ON TIME.
 
+NASHVILLE GAS COM
+
 PHONE MAIN 160
+
+VILLE GAS COMPANY. PHONE MAIN 160
+
+DOWSE BROS.
+FURNISH, STOVES AND CARPETS
+TERMS TO SUIT EVERYBODY.
+Narnish Your Home Complete from Parlor to Kitchen.
+Goods as First Payment; Balance Weekly or Monthly.
+WAY. NASHVILLE, TENN.
+
+enwood Park
+
+Open Day and Night
+During the Summer
+
+will run regularly to PARK
+
+HOWSE
+FURNITURE, STOVES
+TERMS TO SUIT
+We Can Furnish Your Home Co.
+We Take Old Goods as First Paymen
+304-306 BROADWAY.
+
+Greenwo
+
+Open Day
+
+During the
+
+Cars will run reg
 
 We Can Furnish Your Home Complete from Parlor to Kitchen.
 We Take Old Goods as First Payment; Balance Weekly or Monthly.
@@ -738,11 +1056,31 @@ We Take Old Goods as First Payment; Balance Weekly or Monthly.
 
 Cars will run regularly to PARK
 
-Dr. J. D. Fowler occupies rooms 2 and 3 in the Napier Building, 411 Fourth avenue, North.
+Dr. J. D. Fowler occupies rooms
+2 and 3 in the Napier Building, 411
+Fourth avenue, North.
+
+Office Hours:
+
+9 to 11 a. m.
+3 to 4 p. m.
+7 to 9 p. m.
+
+Residence. 1720 Jefferson street.
+Phone 2842-M. Office phone.
+1477-M.
+
+Campbell and wife. Mr. Sam White
+returned home from St. Louis Sat-
+urday.
 
 ## CUNNINGHAM NOTES.
 
-The members and friends of Sulphur Spring A. M. E. Church regret very much to learn of the illness of Presiding Elder G. W. Porter, of the Clarksville district. Sunday being quarterly meeting day at the A. M. E. Church, Rev. T. H Hamilton, the pastor, conducted the quarter, which was quite a success. The total reports for the quarter was $96. Rev. T. H Hamilton made a flying trip to Memphis last week. Mrs. Ada Hopkins visited relatives at Strange Town last week. Mrs. Robertson and daughter, of Clarksville, were the guests of Mrs. Eliza Wiley last. week. Mrs. Percy L. Beam is able to be out again
+The members and friends of Sulphur Spring A. M. E. Church regret very much to learn of the illness of Presiding Elder G. W. Porter, of the Clarksville district. Sunday being quarterly meeting day at the A. M. E. Church, Rev. T. H Hamilton, the pastor, conducted the quarter, which was quite a success. The total reports for the quarter was $96. Rev. T. H. Hamilton made a flying trip to Memphis last week. Mrs. Ada Hopkins visited relatives at Strange Town last week. Mrs. Robertson and daughter, of Clarksville, were the guests of Mrs. Eliza Wiley last week. Mrs. Percy L. Beam is able to be out again
+
+```markdown
+
+```
 
 HILARY E. HOWSE.
 
@@ -782,11 +1120,8 @@ Stoves, Ranges and Household
 Goods
 Hard Wood Mantels and Furna-
 ces, Guttering and Roofing
-
-Hard Wood Mantels and Furnaces, Guttering and Roofing
-
 Sales Department, Factory and Shops
-207 THIRD AVENUE, N.
+207 THIRD AVENUE. N.
 
 ## Distilled Water
 
@@ -794,13 +1129,29 @@ Is the Doctor that prevents Disease. Its perfect cleanliness alone is enough to 
 
 ## DAINTY and PALATABLE
 
-WANTED-An elderly, colored, single man to look after two horses, and small place for physician. Salary $15.00 per month, board and room. Must have good character. Write
+There isn't a germ in it—
+Not a chance for a germ to get in it.
+
+Therefore Healthy
+DRINK
+Howe's
+DISTILLED WATER
+
+WANTED—An elderly, colored,
+single man to look after two
+horses, and small place for phys-
+sician. Salary $15.00 per month,
+board and room. Must have good
+character. Write
+
 W. J. F. Kirk, M. D.,
 Kimmswick, Mo.
 
 ## CULLEOKA NOTES.
 
-Miss Birdie Hunt, M. B. Huggins and Ella M. Hunt went to Columbia last Monday to attend the Maury County Institute, and returned last Thursday. Miss Lula M. Ford and Mr. Jim Ballafant were quietly married at the home of Mr. Anderson Hughes Sunday morning. Rev. M. C. Skillern officiated. Mr. Johnnie Abernathy and Miss Sallie McBride were quietly married at the home of the bride, Sunday evening. Rev. C. W. Norman officiated. The bride and groom and a host of friends went from there up to Mr. Will Reed's, where Mr. Bruce Fitzpatrick and Miss Rebecca Wilerford and Mr. Tom Abernathy and Miss Ethel Wilerford were married under the same ceremony, the latter couples receiving quite a number of pres
+Miss Birdie Hunt, M. B. Huggins and Ella M. Hunt went to Columbia last Monday to attend the Maury County Institute, and returned last Thursday. Miss Lula M. Ford and Mr. Jim Ballafant were quietly married at the home of Mr. Anderson Hughes Sunday morning. Rev. M. C. Skillern officiated. Mr. Johnnie Abernathy and Miss Sallie McBride were quietly married at the home of the bride, Sunday evening. Rev. C. W. Norman officiated. The bride and groom and a host of friends went from there up to Mr. Will Reed's, where Mr. Bruce Fitzpatrick and Miss Rebecca Wilerford and Mr. Tom Abernathy and Miss Ethel Wilerford were married under the same ceremony, the latter couples receiving quite a number of pres-
+
+NASHVILLE GLOBE. FRIDAY. JUNE 30. 1911.
 
 ents. Mrs. Josie Wilks is quite ill at this writing. Mr. W. D. Dean and Mrs. Amanda Harris made a flying trip to Chicago, Ill., where they will spend a few months visiting their children and friends. Mrs. Ann Hughes was called to Columbia Sunday morning to visit her invalid sister, Mrs. Ella Moore. Miss Ella M. Hunt and Miss Birdie Hunt have been elected to teach the Culleoka public school. Mr. Rob Lundon and Mr. Eli Amos fought a duel on the railroad crossing Sunday night. Mr. Amos was found on the railroad crossing in a very bad pericardic. Mrs. Jane Bolton has been busy for a fortnight making soap; she is an expert soap maker.
 
@@ -840,7 +1191,9 @@ The rally a the A. M. E. Church last Sunday at Dry Creek. Tenn., was a success f
 
 ## MURFREESBORO NOTES.
 
-Mr. Laurence Miller died at the home of his mother and father, Mr. and Mrs. Rick Miller, last Friday. Mr. Miller made his home in Paris, Tenn., for the past twenty years. A few months ago he was taken ill and came to his mother. He was an active member of the K. of P. and Masonic Lodges of Paris, Tenn. The K. of P.'s turned out to pay the last tribute of respect Sunday. Mrs. Helen Thomas spent about ten days in Nashville last week, visiting her mother and daughters. Miss Carrie Lee Hill, of Davidson County, was the guest of Miss Mary Lee Rucker last week. Mr. and Mrs. Walter Rucker and little niece were the guests of Rev and Mrs. H. W. Rucker last Sunday. Mr. J. M. Windrow has made his beautiful home look more attractive by having a cement pavement laid all around his premises. Dr. G. C. Harden has purchased the "All-Hail" Homestead on Spring street." The Murfreesoro brass band went to Tulahoma last week to play at a big picnic. Dr. J. W. Whitfield went to Mt. Pleasant last week on business. Mrs. Mary Holden, who has been sick for several weeks, is no better. Mrs. Maria Smith is also on the sick list. Mrs. Tom Watkins, who has been ill for several days, is improving.
+Mr. Laurence Miller died at the home of his mother and father, Mr. and Mrs. Rick Miller, last Friday. Mr. Miller made his home in Paris, Tenn., for the past twenty years. A few months ago he was taken ill and came to his mother. He was an active member of the K, of P. and Masonic Lodges of Paris, Tenn. The K. of P.'s turned out to pay the last tribute of respect Sunday. Mrs. Helen Thomas spent about ten days in Nashville last week, visiting her mother and daughters. Miss Carrie Lee Hill, of Davidson County, was the guest of Miss Mary Lee Rucker last week. Mr. and Mrs. Walter Rucker and little nieces were the guests of Rev. and Mrs. H. W. Rucker last Sunday. Mr. J. M. Windrow has made his beautiful home look more attractive by having a cement pavement laid all around his premises. Dr. G. C. Harden has purchased the "All-Hall" Homestead on Spring street."
+
+The Murfreesoro brass band went to Tullahoma last week to play at a big picnic. Dr J. W. Whitfield went to Mt. Pleasant last week on business. Mrs. Mary Holden, who has been sick for several weeks, is no better. Mrs. Mara Smith is also on the sick list. Mrs. Tom Watkins, who has been ill for several days, is improving.
 
 411 Fourth Avenue, North,
 NASHVILLE, TENNESSEE
@@ -853,19 +1206,16 @@ W. H. COATS, Vice Pres. M. B. BURNETT, Ass't Cashier.
 INCORPORATED OCT., 1904
 
 CAPITAL..... $ 37,000.00
+
 RESOURCES OVER..... 100,000.00
 
-Does a General Banking Business. Makes Loans
-on Approved Securities. Pays interest on Deposits.
-Collects Rent. Pay Taxes. Handles Real Estate.
-etc. Correspond with us. Your Business, however
-small, is solicited. We Pay Four Per Cent. Interest
-on Time Deposits.
+Does General Banking Business, Makes Loans on Approved Security, Pays Interest on Deposits, Collects Rent, Pays Taxes, Handles Real Estate, Correspond with us, Your Business, however small, is solicited. We Pay Four Per Cent. Interest on Time Deposits.
 
 INDIANOLA, : : MISSISSIPPL
 
-People's Bank & Trust Co.
-CAPITAL, $25,000.00,
+## People's Bank & Trust Co.
+
+CAPITAL, $25,000.00.
 MUSKOGEE, - OKLAHOMA.
 
 4 Per Cent Interest
@@ -873,13 +1223,16 @@ On Time Deposits
 
 Deposits Guaranteed.
 
-T. V. COR.
+T. JOR.
 President.
 
 J. E. JOHNSON,
-Cashies
+Cashier
 
-## People's Bank & Trust Co.
+ALABAMA PENNY SAVINGS BANK,
+BIRMINGHAM, ALA..
+
+Capital Stock, $25,000.00.
 
 W. R. PETTIFORD, President.
 J. O. DIFFAY, Vice President.
@@ -891,13 +1244,15 @@ P. F. CLARK, Assistant Cashier.
 The People's Investment and Banking Company,
 BIRMINGHAM, ALA.
 CAPITAL STOCK $50,000
-
 Doing a regular banking business. Collections solicited. Depository for the Great Southern Industrial Home Insurance Company.
-
 W. L. LAUDERDALE, President
 DR. R. D. MACKLIN, Vice-President
 DR. S. H. THOMPSON, Cashier
 REV. S. J. JACKSON, Teller and acting Cashier.
+
+Solvent Savings Bank and Trust Co.,
+392 BEALE AVE., MEMPHIS, TENN.
+CAPITAL STOCK $25,000.00.
 
 OFFICERS:
 
@@ -919,21 +1274,67 @@ Special attention given to all work.
 ## RICHARD HILL
 
 NOTARY PUBLIC,
-Real Estate, Loans, Liens notes bought and sold.
-Will sell you a home like paying rent. Pension
+Real Estate, Loans, Lien notes bought and sold.
+Will sell you a home like paying rent. Pension.
 Cases a specialty.
-TELEPHONES { Office: Main 1889
-Miss one, call the other Res. Hemlock 1940
+
+TELEPHONES { Office: Main 1880
+Miss one, call the other { Res. Hemlock 1940
 410 1-2 CEDAR ST., NASHVILLE, TENN.
+
 Robt. H. Fite Harry L. Albright
 Theo. W. Eckhardt
+
 FITE, ECKHARDT & CO.
 GENERAL INSURANCE
 Nashville, Tenn.,
-Phone, Main 602 302 Third A-
+
+Phone, Main 602 302 Third A. - North
+
+k t.
+
+T
+
+EN
+
+---
 
 ---
 ## Page 8
+
+glory
+hold
+who
+DR.
+Att'y
+
+F
+Bril
+com
+mal
+
+This
+8 DI
+
+BA
+
+RIGHT STARCH RIGHT
+IRON RIGHT ALL RIGHT
+Al Laundry Dry Cleaning Company
+Gordon Bros.
+3999 1618 Jackson Street
+
+ENWOOD PARK.
+JULY 4 TUESDAY
+
+WASH RIGHT S
+IRON RIGHT
+National Laundry D
+Gordon H
+Phone Main 3999
+
+GREENWO
+TUESDAY JUL
 
 WASH RIGHT STARCH RIGHT
 IRON RIGHT ALL RIGHT
@@ -941,19 +1342,49 @@ National Laundry Dry Cleaning Company
 Gordon Bros.
 Phone Main 3999 1618 Jackson Street
 
-BASE BALL, foot races and every attractions of the day. SHAM BATTLE BY COMPANY G.
+BASE BALL, foot races and every attractions of the day.
+
+SHAM BATTLE
+
+You are not sick,
+all. Come to the
+
+Noon Lu
+
+215 Locu
+
+and get a full dinn
+
+not sick, just hungry that's me to the
+oon Lunch Cafe
+215 Locust Street
+a full dinner for 10c
+
+SHAM BATTLE BY COMPANY G.
 
 You are not sick, just hungry that's all. Come to the
 
-and get a full dinner for 10c OPEN FROM 11:00 A.M. TO 2:00 P.M. L. Land
+City Items.
 
 Miss Elnora Sanders, of East Nashville, will leave the city Friday to spend a pleasant vacation with her father, Mr. Anthony Sanders, of Columbia, Tenn.
 
 Mr. Hannibal Black, of 1015 Warren street, is visiting quite a few of the large cities in the west.
 
-Mr. S. L. Ferguson and little son, La Ventriss, visited Clarksville Sunday.
+Mr. S. L. Ferguson and little son, La Veptriss, visited Clarksville Sunday.
 
 At J. H. Foreman's corner Eleventh avenue, North, and Jefferson street (Matison's old stand), you can get just what you want in shoes, furnishings or dry goods at greatly reduced prices.
+
+Miss L. Mae B who came over fright with the special School Congress was the guest of Hughes, of Fourteen left Saturday for go, Ill.
+
+Dr. C. A. Adam Tex., a graduate will be in the city important mission.
+
+All former recast Wednesday a tist Publishing B of orders for litter.
+
+Mrs. Spencer C cago, Ill., who about two months er, Mrs. James Hynes street, left day night, as he to improve in her Mrs. C. H. Phil
+
+---
+
+---
 
 CONEY ISLAND
 PARK
@@ -969,6 +1400,8 @@ GREAT
 AMUSEMENT
 RESORT
 
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.
+
 ## THE FORMAL OPENING LAST SUNDAY WAS DROWNED OUT
 
 BE SURE you are on hand next Sunday and witness our opening in all of its glory. EVERY Visitor will be given absolutely free a ticket at the gate. The holder of the lucky ticket will be given a handsome prize.
@@ -978,8 +1411,6 @@ DR. R. F. BOYD A. N. JOHNSON DR. C. V. ROMAN
 Att'y R. L. MAYFIELD PROF. RICHARD HILL DR. H. T NOEL
 
 ## On July 4th RACES FOOT SACK POTATO FAT MEN'S Races
-
-## On July 4th RACES
 
 FREE Band Concerts Day and Night Brilliant display of Fireworks, dazzling and bewildering, worth coming miles to witness. No expense will be spared in making the 4th of July, 1911, a day never to be forgotten.
 
@@ -1003,27 +1434,39 @@ Mrs. C. H. Phillips, of Twelfth ave.
 
 Manager
 
-nue, North, is slowly convalescing, but is not able to do a deal of going.
+nue, North, is slowly convakessing, but is not able to do a deal of going.
+
 Mr. Robert Shaw and Miss Goldie Kealing the brother and daughter of Mrs. H. T. Kealing, left this week for Philadelphia, where Miss Kealing will pursue her education and where Mr. Shaw will enter business.
-It will pay you to attend our great clearance sale. Prices reduced on everything during this great sale.
-J. H. Foreman (Matison's old stand, Eleventh avenue and Jefferson street).
+
+It will pay you to attend our great clearance sale. Prices reduced on everything during this great sale. J. H. Foreman (Matison's old stand, Eleventh avenue and Jefferson street).
+
 Mr. and Mrs. Eugene Clayton, of 907-Warren street, are rejoicing over the arrival of a bouncing baby boy.
+
 Mrs. Amanda Foster, of Ivory street, gave a peanut hunt for the benefit of her church last Sunday evening.
+
 Miss Georgia Essa Willis gave a party Wednesday in honor of Mr. Le Roy Hosty, of St. Louis, Mo.
+
 Stringer Lodge No. 6 K. of P will have a smoker at their hall on July 6. All members are invited.
+
 Miss Lola West left Monday morning for Mount Eagle Springs.
+
 Mrs. Fannie Hamilton left the city recently for the springs.
+
 Miss A. M. Freeman was elected to teach in the county, school.
-J. B. Kennedy, Livery, Board and Sale Stables. Special care taken of Boarding Horses. Fine Livery of every description for hire. 440 Third Avenue, North. Phone, Main 4156.
-Mrs. Julia Whitaker is very sick and has been confined to her bed since last week.
-Miss Mattie Lou Scott; of Lebanon, is here visiting relatives and friends.
-The Knights and daughters of Tabor had their annual sermon at the First Baptist Church, West Nashville, preached by Rev. S. L. Howard.
-Born Sunday evening to Mr. and Mrs. T. Clay Moore a fourteen pound girl. Mother and baby are reported doing well.
-Prof. J. F. Booker, of Trenton, Tenn., was here this week.
-Mr. Jeff Bragg is in McMinnville.
-Mr. Henry McCotley, of St. Louis, Mo., who spent two weeks in the city visiting his mother, has returned to his home.
-Miss Effle T. Griffins, of Louisville, is in the city visiting her mother, Mrs. G. W. Griffins, of 1209 Phillips street.
-Shop with us. We save you money on all your purchases. First quality goods at less price than elsewhere for "shoddy" stuff. J. H. FOREMAN (Matison's old stand, Eleventh avenue and Jefferson street.)
+
+J. B. Kennedy, Livery, Board and Sale Stables. Special care taken of Boarding Horses. Fine Livery of every description for hire. 440 Third Avenue, North, Phone, Main 4156. Mrs. Julia Whitaker is very sick and has been confined to her bed since last week. Miss Mattie Lou Scott; of Lebanon, is here visiting relatives and friends. The Knights and daughters of Tabor had their annual sermon at the First Baptist Church, West Nashville, preached by Rev. S. L. Howard. Born Sunday evening to Mr. and Mrs. T. Clay Moore a fourteen pound girl; Mother and baby are reported doing well. Prof. J. F. Booker, of Trenton, Tenn., was here this week. Mr. Jeff Bragg is in McMinnville. Mr. Henry McCotley, of St. Louis, Mo., who spent two weeks in the city visiting his mother, has returned to his home. Miss Effle T. Griffins, of Louisville, is in the city visiting her mother, Mrs. G. W. Griffins, of 1209 Phillips street. Shop with us. We save you money on all your purchases. First quality goods at less price than elsewhere for "shoddy" stuff. J. H. FOREMAN (Matison's old stand, Eleventh avenue and Jefferson street.)
+
+The
+people,
+MAN
+DEL
+es
+ght
+orth
+d in
+tten.
+body.
+TE.
 
 Mrs. W. H. Richardson is at her home again from a two weeks' visit to McMinnville and a week at Murfreesboro, where she was called to the bedside of a sick mother. With this exception she reports a very pleasant trip.
 
@@ -1043,7 +1486,7 @@ Miss Carrie O. Richardson entertained Misses L. Mae Moxley and T. Clentonia Holt
 
 Mrs. Henry Cooper announces the approaching marriage of her daughter. Miss Willie Cooper, to Attorney J. A. Trabune, of Chicago. The wedding will take place July 12th at the home of her mother, 921 Jackson street.
 
-The members of the St. James A. M. E. Church are having the parsonage rebuilt, under the direction of Rev. F. J. Dean, pastor. The immaculates are preparing to have a 4th of July picnic. Rev. Smith held his third quarterly conference at St. James A. M. E. Church. On account of the inclementy of the weather the crowd was small. Mrs. Addie Cunningham fell and sprained her ankle. Miss Lillian Gordon is on the sick list. Miss B. Childress is ill. Mrs. Tina Halbert is still on the sick list. Mrs. Caroline Scott is ill. Mrs. Lucy Porter is confined to her bed. Mr. and Mrs. Suggs entertained Mrs. Beulah Cohn and Dr. Miles with a two-course menu dinner. Dr
+The members of the St. James A. M. E. Church are having the parsonage rebuilt, under the direction of Rev. F. J. Dean, pastor. The immaculates are preparing to have a 4th of July picnic. Rev. Smith held his third quarterly conference at St. James A. M. E. Church. On account of the inclementity of the weather the crowd was small. Mrs. Addie Cunningham fell and sprained her ankle. Miss Lillian Gordon is on the sick list. Miss B. Childress is ill. Mrs. Tina Halbert is still on the sick list. Mrs. Caroline Scott is ill. Mrs. Lucy Porter is confined to her bed. Mr. and Mrs. Suggs entertained Mrs. Beulah Cohn and Dr. Miles with a two-course menu dinner. Dr.
 
 GONEY ISLAND PARK NASHVILLE'S GREAT AMUSEMENT T RESORT
 
@@ -1060,21 +1503,89 @@ RESORT
 
 ## DICKSON NOTES
 
+L&N
+
+NORTH—NORTHEAST ARIVERS.
+3:10 am—Louisville...2:15 am
+8:05 am—New York Special (through service)...8:35 pm
+8:35 pm—New York Limited (through service)...8:05 am
+a12:15 pm—Louisville Accommodation...8:30 pm
+a2:20 am—Evansville & Chicago...2:05 am
+a2:20 am—Evansville & St. Louis...2:05 am
+a7:25 am—Evansville & St. Louis...8:25 pm
+7:55 pm—The Chicago Limited...7:55 am
+4:10 pm—Evansville & Chicago (Dixie Flyer)...11:42 am
+7:55 pm—The St. Louis Flyer...7:55 am
+SOUTH.
+2:25 am—Birmingham, Montgomery Mobile, New Orleans...2:53 am
+8:25 am—Birmingham, Montgomery Mobile, New Orleans...7:40 pm
+9:05 pm—Birmingham and Montgomery...7:00 am
+ACCOMMODATION TRAINS.
+13:10 pm—Nashville & Scottsville Accommodation
+
 R. C. WALLIS, District Passenger Agt.
 W. H. MUSTAINE, City Passenger Agt.
 
-MIDDLE TENNESSEE BAILROAD.
+Leave
+Nashville.
+
+7:00 am ..... 8:00 am
+8:00 am ..... 9:00 am
+9:00 am ..... 10:00 am
+9:00 am ..... 11:00 am
+12:00 noon ..... 1:00 am
+1:00 pm ..... 2:00 pm
+3:00 pm ..... 4:00 pm
+4:00 pm ..... 5:00 pm
+5:00 pm ..... 6:00 pm
+6:00 pm ..... 7:00 pm
+8:00 pm ..... 9:00 pm
+10:00 pm
+11:30 pm ..... 12:30 am
+
+MIDDLE TENNESSEE EAILROAD
+
 Schedule Effective Wednesday, June 1, 1910.
-Leave Leatherwood.....6:15 am 2:00 pm
-Arrive Franklin.....7:45 am 3:30 pm
-Arrive Franklin.....8:45 am 3:30 pm
-Arrive Leatherwood.....11:20 am 6:30 pm
+
+Leave Leatherwood ..... 6:15 am ..... 2:00 pm
+Arrive Franklin ..... 7:45 am ..... 3:20 pm
+Arrive Franklin ..... 10:00 am ..... 5:00 pm
+Arrive Leatherwood ..... 11:30 am ..... 5:30 pm
+
 Subject to change without notice.
 
 ## N. C. & ST. L. Ry.
 
+NC & ST L
+
 Union Station, Broadway; City Office, Maxwell house, corner Church St. and Fourth Ave. N., Phone Main 877
 
+WEST AND NORTHWEST.
+Leaves.
+7:00 am—Memphis, Hickman,
+Paducah, St. Louis,
+connects for Centreville
+(!).
+2:15 pm—Jackson, Memphis,
+Hickman, Paducah.
+5:30 pm—Waverly, Accommodation,
+connects for Centreville
+(!).
+8:00 pm—"Dixie Flyer," solid train to St. Louis.
+11:30 pm—Memphis and Hickman.
+SOUTH AND EAST.
+2:25 am—Chattanooga and Atlanta.
+9:30 am—St. Louis-Jacksonville "Dixie Flyer," connections (4) for all branch line points.
+11:55 am—"Dixie Flyer"-Solid vestibulated train to Chattanooga, Atlanta and Jacksonville. Dining cars.
+8:20 pm—Chattanooga and connecting (4) for Shelbyville, Spartan Fayetteville, Huntsville, Tracy City, South Pittsburg.
+6:00 pm—Tullahoma Accommodation (connects for Shelbyville). m.
+9:30 pm—Chattanooga, Atlanta, Sleeper to New York. LEBANON TRAINS.
+7:00 am—Lebanon Mixed.
+9:25 am—Lebanon Express. 12:10 pm
+4:00 pm—Lebanon Accom. 6:40 pm
+5:00 pm—Lebanon Accom. 8:30 am
+Daily except Sunday.
+W. M. HUNT, City Ticket Agent, Maxwell House.
 POWELL PHILLIPS, P. A., Maxwell House, W. L. DANLEY, G. P. A., Union Station.
 
-M. V. Umble and his bride will visit Dickson this week. Mrs. Harriet Sanders is ill. Mrs. Fannie Vingard is still on the sick list. Ed. Graham is improving. Will Holmes is ill. Mrs. Birdie Tidwell will entertain a few of her friends with a house party Wednesday evening.
+M. V. Umble and his bride will visit Dickson this week Mrs. Harriet Sanders is ill. Mrs. Fannie Vingard is still on the sick list. Ed. Graham is improving. Will Holmes is ill. Mrs. Birdie Tidwell will entertain a few of her friends with a house party Wednesday evening.

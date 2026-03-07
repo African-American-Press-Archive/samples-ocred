@@ -1,71 +1,129 @@
 [
   {
     "name": "baltimore-afro-american_1915-09-25",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-06",
+    "pipeline": "v2"
+  },
+  {
+    "name": "baltimore-afro-american_1921-12-23",
+    "pages": 2,
+    "processed_at": "2026-03-06",
+    "pipeline": "v2"
   },
   {
     "name": "california-eagle_1919-08-09",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-06",
+    "pipeline": "v2"
+  },
+  {
+    "name": "chicago-defender_1913-06-07",
+    "pages": 7,
+    "processed_at": "2026-03-06",
+    "pipeline": "v2"
+  },
+  {
+    "name": "chicago-defender_1916-07-22",
+    "pages": 13,
+    "processed_at": "2026-03-06",
+    "pipeline": "v2"
   },
   {
     "name": "chicago-defender_1920-05-15",
-    "pages": 16
+    "pages": 16,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "chicago-defender_1921-01-22",
-    "pages": 12
+    "pages": 12,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "chicago-defender_1924-04-12",
-    "pages": 12
+    "pages": 12,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
+  },
+  {
+    "name": "cleveland-advocate_1918-05-31",
+    "pages": 3,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "denver-star_1914-02-21",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "iowa-bystander_1910-01-14",
-    "pages": 6
+    "pages": 6,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "iowa-bystander_1910-09-23",
-    "pages": 4
+    "pages": 4,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "iowa-bystander_1911-09-29",
-    "pages": 5
+    "pages": 5,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "iowa-bystander_1920-05-07",
-    "pages": 4
+    "pages": 4,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "iowa-bystander_1920-11-18",
-    "pages": 10
+    "pages": 10,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "kansas-city-advocate_1922-02-17",
-    "pages": 4
+    "pages": 4,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "kansas-city-sun_1915-01-30",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "metropolis-weekly-gazette_1922-07-14",
-    "pages": 4
+    "pages": 4,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "nashville-globe_1910-01-21",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "nashville-globe_1911-06-30",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "nashville-globe_1918-12-06",
-    "pages": 16
+    "pages": 16,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "negro-world_1922-11-11",
@@ -85,11 +143,21 @@
   },
   {
     "name": "richmond-planet_1915-02-06",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-06",
+    "pipeline": "v1"
+  },
+  {
+    "name": "richmond-planet_1918-07-27",
+    "pages": 2,
+    "processed_at": "2026-03-06",
+    "pipeline": "v1"
   },
   {
     "name": "springfield-forum_1910-02-12",
-    "pages": 8
+    "pages": 8,
+    "processed_at": "2026-03-07",
+    "pipeline": "v2"
   },
   {
     "name": "springfield-forum_1910-08-20",
@@ -129,7 +197,9 @@
   },
   {
     "name": "st-paul-appeal_1922-12-02",
-    "pages": 4
+    "pages": 4,
+    "processed_at": "2026-03-06",
+    "pipeline": "v1"
   },
   {
     "name": "st-paul-appeal_1923-06-16",

@@ -9,19 +9,15 @@ READING MATTER RATES.
 8 cents per line for each insertion.
 10 cents per line for each insertion in (black face).
 
-Advertising copy should be in the office not later than 9 a.m. m. Tuesday of each week.
+Advertising copy should be in the office not later than 9 a.m. Tuesday of each week.
 
-## TO THE PUBLIC
+TO THE PUBLIC.
 
-Any erroneous reflections upon the character, standing or reputation of any person, firm or corporation, which may appear in the columns of the NASHVILLE GLOBE will be gladly corrected upon being brought to the attention of the management.
+Any erroneous reflections upon the character, standing or reputation of any person, firm or corporation, which may appear in the column of the NASHVILLE GLOBE will be gladly corrected upon being brought to the attention of the management.
 
-Send correspondence for publication so as to reach the office Monday. No matter intended for current issue which arrives as late as Thursday can appear in that number, as Thursday is press day.
+Send correspondence for publication so as to reach the office Monday. No matter intended for current issue which arrives as late as Thursday can appear in that number, as Thursday is public.
 
-You should send as for publication must be written only on one side of the paper, and should be accompanied by the name of the contributor, not necessarily for publication, but as evidence of good faith.
-
-## FRIDAY, JUNE 30, 1911.
-
-## A Sign of Progress.
+All news sent as for publication must be written only on one side of the paper, and should be accompanied by the name of the contributor, not necessarily for publication, but as evidence of good faith.
 
 In last week's issue our worthy contemporary, The Demonstrator, of Mound Bayou, Miss., says:
 
@@ -29,25 +25,47 @@ The Demonstrator has finally reached the stage where it has truthfully to say th
 
 It can be clearly seen from the above that Mound Bayou's citizens are pushing to the front, and we congratulate the Demonstrator on the decision to lead the way. Other Negro newspaper publishers would do well to catch this same spirit. The people deserve the best service that can be given them.
 
-## Tennessee State Fair.
-
 The time is drawing near for our annual State Fair, which will be held at Greenwood Park, near this city. The efforts of the Negroes of Tennessee in this direction are to be commended, and those who have not taken any part in these celebrations in the past should bestir themselves and see to it that the reputation of our fair state docs not suffer.
 
 Since the fair ground is located so close to Nashville, it should make the citizens here feel that a special duty rests upon them. The success of our fair will always depend largely upon the people of Nashville. They can make it a grand success if all will pull together with one aim in view. The Tennessee Colored State Fair should rank with the best that are held by the Negroes of other states. HThose who are in authority in this matter have worked hard to make it a success, and what they have accomplished is worthy of commendation, but the fact remains that the State Fair has never been what it should nor what it would be if the Negroes in every part of the state would become interested in it.
 
 The county fairs are all about over by September, and the exhibitors can easily ship their exhibits here in time for them to be installed before the opening day. Every citizen owes it to himself to make this institution a success for the glory of it will come to all alike.
 
-## The Proposed Allen Memorial Building.
-
 The Christian Recorder, the oldest Negro publication in this country, is asking the African Methodist Church to erect in Philadelphia a memorial buillding to the memory of Richard
 
-Allen, the founder of the Church. In the current issue the Recorder says:
+4
 
-Some weeks ago we proposed, through the Recorder, the erection in Philadelphia of a suitable building, to be known as the "Richard Allen Memorial Building." When this idea was first put forward, there were some who doubted that it could be done. But our idea is beginning to gain. At Wilberforce we talked with a number of representative ministers from different parts of the country about the building, and it seemed to meet their approval. Such a building as we would suggest would be located in close proximity to our colored population in Philadelphia. It would be six or seven stories, having room for a first-class printing plant, with pressroom, bindery composing room, store rooms, mailing rooms, stereotyping rooms and clerical rooms for the Book Concern; also a managers office, editorial rooms for the Christian Recorder, offices for the Missionary and Church Extension Departments, Episcopal rooms, one for the Bishop of the First District and one for any visiting bishop. The building would also have a room for board meetings, two or three small committee rooms, a small chapel, and a large auditorium, with a capacity for about 1,500 people. There would be a store on the ground floor for the sale of books, and offices on the other floors for rent to representative business and professional men.
+No
+D.
+H.
+On
+Six
+Th
+Sin
 
-Such a building would not cost less than 5,000, but will be worth many thousands more in usefulness and the prestige it will bring to race.
+```markdown
 
-In a later editorial we will discuss the paying for the building. If this suggestion can be made a reality it would be an everlasting memorial to a man who ranks with the pioneer churchmen of the world. It would also be a great achievement for the Negro race, and especially the African Methodist Church. Editor Wright, that brilliant and thorough going young churchman, has faith in the project, and his success with the Book Concern should be sufficient to inspire the members of his church to undertake the erection of the building under his guidance.
+```
+
+## TO THE PUBLIC
+
+## FRIDAY, JUNE 30, 1911.
+
+## A Sign of Progress.
+
+## Tennessee State Fair.
+
+## The Proposed Allen Memorial Building.
+
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911
+
+Allen, the founder of the Church. In the current issue the Recorder says
+
+Some weeks ago we proposed, through the Recorder, the erection in Philadelphia of a suitable building, to be known as the "Richard Allen Memorial Building." When this idea was first put forward, there were some who doubted that it could be done. But our idea is beginning to gain. At Wilborforce we talked with a number of representative ministers from different parts of the country about the building, and it seemed to meet their approval. Such a building as we would suggest would be located in close proximity to our colored population in Philadelphia. It would be six or seven stories, having room for a first-class printing plant, with pressroom, bindery composing room, store rooms, mailing rooms, stereotyping rooms and clerical rooms for the Book Concern; also a managers office, editorial rooms for the Christian Recorder, offices for the Missionary and Church Extension Departments, Episcopal rooms, one for the Bishop of the First District and one for any visiting bishop. The building would also have a room for board meetings, two or three small committee rooms, a small chapel, and a large auditorium, with a capacity for about 1,500 people. There would be a store on the ground floor for the sale of books, and offices on the other floors for rent to representative business and professional men.
+
+Such a building would not cost less than 15,000, but will be worth many thousands more in usefulness and the prestige it will bring to race.
+
+In a later editorial we will discuss the paying for the building. If this suggestion can be made a reality it would be an everlasting memorial to a man who ranks with the pioneer churchmen of the world. It would also be a great achievement for the Negro race, and especially the African Methodist Church. Editor Wright, that brilliant and thorough going young churchman, has faith in the project, and has success with the Book Concern should be sufficient to inspire the members of his church to undertake the erection of the building under his guidance.
 
 The Negroes of this country need to convince the white man of the North as they have the white man of the South, that they have those business qualities to carry to a successful completion great undertakings, and no better opportunity presents itself than the suggestion of the the Christian Recorder.
 
@@ -55,7 +73,7 @@ A bill has been introduced in both houses of the State Assembly to appropriate $
 
 The Negro business men of Nashville are planning to have a big delegation at the National meeting in August. Get in line and send your name in to the Globe office for registration.
 
-In a couple of weeks the Pythians of the state will charge Lookout Mountain and then the Masons and the Odd Fellows. My! if Chattanooga could take the census during this summer it would be the biggest city in the state.
+In a couple of weeks the Pythians of the state will charge Lookout Mountain and then the Masons and the Old Fellows. My! if Chattanooga could take the census during this summer it would be the biggest city in the state.
 
 Jack Johnson and his auto are setting old England wild. A few more rounds like that and the pride of "Aunt Hagar's" ten million will be just like the rest of us.
 
@@ -69,11 +87,13 @@ The leading feature in the July McClure's is Burton J. Hendrick's article, "The 
 
 "Reclaiming the eath," by Hen-
 
+DIEHL and LORD
+
 Largest, Most Complete and Oldest Soda Water Plant in the South
 
 ESTABLISHED 44 YEARS
 
-Honest Goods and Square deal to everyone-Our Motto.
+Honest Goods and Square deal to everyone—Our Motto.
 
 1y Stoddard Leach, is the story of how Denmark converted a desert into a farming country.
 
@@ -91,8 +111,6 @@ HILL-TAYLOR.
 
 Former Nashville, Tenn., Groom Mar
 vince, Berkeley, Md., Glint
-
-Former: Nashville, Tenn., Groom Mar
 
 There was a pretty church wedding last evening in the Church of the Ascension, Washington street, when Miss Clara Belle Taylor, daughter of Mr. and Mrs. John D. Taylor, of 19 Kenilworth street, Roxbury, and William Tolbert Hill were married by Rev. Wm. Clarke, pastor. Misses Catherine and Ethel Elliot, of Worcester, were flower girls. The bride's maid was Miss Ida Elliott, of the same city. The best man was Edwin Haskell, of Boston. The bride wore a handsome pearl-white satin gown with baby Irish and Venetian lace and a long white veil. The flower girls wore white organdic gowns and the bridesmaid pink mouselline. The ushers were Wm. Pew, Alfred Willard, Andrew Williams and Rollin Robinson.
 
@@ -132,6 +150,18 @@ Mrs. Louis Gill, of 606 Sylvan street, entertained beautifully Wednesday evening
 
 How about some goodlooking Footwear for the Fourth at your own price? Three or four hundred pairs of ladies' fine, up to date, this season's $3.00 to $4.00 Oxford, Ties, Strap Slippers, in patent; in Tan, in Gun Metal, in everything that is worn this season at only
 
+$1.95
+J. S. HOPKINS
+SHOE COMPANY
+ON THE SQUARE
+
+FOR HIM
+
+FOR HER
+
+Walk-over Shoe Co.
+235 FIFTH AVENUE, NORTH
+
 B. Driver, Nannie Gill, Emma Boyd, Estella Hollins, Georgia Scoby, Georgia Holland, Ninnie Barfield, Willie B. Flagg, Richie Rideout, Messrs. A. M. Townsend, John Goodloe, Susa Turner, Lila Clem, Preston Scales, Mr. and Mrs. William Smith, Messrs. Manus Ross, Wm. Rose, John Barnes, Albert Duncan, Rufus Duncan, Clarence Harwell, Bennie F. Lewis, Wm Haynes, Jr., Raleigh Morgan, Frank Douglass, Joe Porter, John Mayberry, Joe Hunt, Frank Liones, Elmer Winston and — Mitchell.
 
 ## ***
@@ -139,3 +169,5 @@ B. Driver, Nannie Gill, Emma Boyd, Estella Hollins, Georgia Scoby, Georgia Holla
 ## Culin.ry Art Club. b
 
 What proved to be one of the most helpful demonstrations ever held by the Culinary Art Club took place at the residence of Mrs. J. H. Hale, of Wetmore street, on Wednesday afternoon. Mrs. Searcy was the demonstrator at this meeting. She tastefully prepared the following: sunflower tomato salad, pimento sandwich, caserole chicken, French salad dress and rainbow cream. After this a general discussion on different modes of preparing eatables was indulged in, as were other topics of interest to the housewife. Plans were discussed for different entertainments to be given during the summer. The following members were present: Mesdames S. P. Harris, W. S. Ellington, H. A. Boyd, E. D. Kennedy, J. H. Hale, Geo. Gibson. The time and place of the next meeting is to be announced in the next issue of The Globe.
+
+ORD

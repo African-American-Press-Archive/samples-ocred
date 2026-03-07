@@ -17,45 +17,64 @@ ON THE SQUARE
 
 ## Wooden Money Barrels
 
-Express charges Extra.
+WINE BOX
 
+Wooden Money Eggs
+Specially suited for collecting money which is to be returned at Easter time. Appropriate exercises may be easily arranged for this, if thought desirable to hold an entertainment in connection with the return of eggs.
+Price, unpolished, 4c each by mail or per 100. $2.50
+Express charges Extra.
 National Baptist Publishing Board,
 523 Second Avenue, N., Nashville, Tenn.
 
 ## NATIONAL CALL BELLS
 
-All sizes and at prices to suit you.
-Made of the verp best Bell metal and
+All sizes and at prices to suit pou.
+Made of the vep best Bell metal and
 will stand any amount of usage without
 breaking.
 
-No. 70.-Made entirely of wrought steel.
+No. 70.—Made entirely of wrought steel.
 Japaned base, nickel plated gong; size.
-3-3 8 in diameter. Price..... $ 60
-No. 72.-Base and gong wrought steel,
+3 3-8 in diameter. Price..... $ 60
+
+No. 72.—Base and gong wrought steel,
 finely polished and heavily nickel plated
 on copper; size, 3 3-8 inches in diameter.
 Price..... $ 75
-No. 74.-Wrought brass base, cast bell,
+
+No. 74.—Wrought brass base, cast bell,
 metal gong, handsomely nickel plated;
-size, 3 3-8 inches in diameter. Price. $ 100
-No. 62.-Cast bell metal, nickel plated;
-size, 3 inches in diameter. Price..... $ 125
-No. 81.-Cast bell metal, nickel plated,
-gilt iron base. Diameter of base 3 1-2
-inches. Price..... $ 150
-No. 85.-Silver plated bell, bronze metal
+size, 3 3-8 inches in diameter. Price..... $1 00
+
+No. 62.—Cast bell metal, nickel plated;
+size, 3 inches in diameter. Price..... $1 25
+
+No. 81.—Cast bell metal, nickel plated,
+glitron base. Diameter of base 3 1-2
+inches. Price..... $1 50
+
+No. 95.—Silver plated bell, bronze metal
 base. Diameter of base, 3 3-8 inches
-Price..... $ 2 25
+Price..... $2 25
 
 SEND ALL ORDERS TO
-National Baptist Publishing Board:
+National Baptist Publishing Board-
 523 Second Ave., N., Nashville, Tenn.
 
 ## DR. J. ALONZO NAPIER
 DENTIST
 
-Dr. W. H. D. VALENTINE DENTAL SURGEON
+413 1-2 Fourth Ave., N. Napier Court
+PHONE MAIN 1477
+Nashville, Tenn.
+OFFICE HOURS: JAMES BUILDING
+9 A. M. TO 5 P. M. ROOM 3
+RESIDENCE PHONE, HEMLOCK 126
+Dr. W. H. D. VALENTINE
+DENTAL SURGEON
+124 ½ E. 9TH ST. CHATTANOOGA, TENN
+
+NASHVILLE GLOBE, FRIDAY, JUNE 30, 1911.
 
 ## OUT OF TOWN N. TES.
 
@@ -101,7 +120,40 @@ Sells a GAS IRON that you can iron ten hours a day for
 
 Call at gas office and see one on exhibition SOLD ON TIME.
 
+NASHVILLE GAS COM
+
 PHONE MAIN 160
+
+VILLE GAS COMPANY. PHONE MAIN 160
+
+DOWSE BROS.
+FURNISH, STOVES AND CARPETS
+TERMS TO SUIT EVERYBODY.
+Narnish Your Home Complete from Parlor to Kitchen.
+Goods as First Payment; Balance Weekly or Monthly.
+WAY. NASHVILLE, TENN.
+
+enwood Park
+
+Open Day and Night
+During the Summer
+
+will run regularly to PARK
+
+HOWSE
+FURNITURE, STOVES
+TERMS TO SUIT
+We Can Furnish Your Home Co.
+We Take Old Goods as First Paymen
+304-306 BROADWAY.
+
+Greenwo
+
+Open Day
+
+During the
+
+Cars will run reg
 
 We Can Furnish Your Home Complete from Parlor to Kitchen.
 We Take Old Goods as First Payment; Balance Weekly or Monthly.
@@ -109,11 +161,31 @@ We Take Old Goods as First Payment; Balance Weekly or Monthly.
 
 Cars will run regularly to PARK
 
-Dr. J. D. Fowler occupies rooms 2 and 3 in the Napier Building, 411 Fourth avenue, North.
+Dr. J. D. Fowler occupies rooms
+2 and 3 in the Napier Building, 411
+Fourth avenue, North.
+
+Office Hours:
+
+9 to 11 a. m.
+3 to 4 p. m.
+7 to 9 p. m.
+
+Residence. 1720 Jefferson street.
+Phone 2842-M. Office phone.
+1477-M.
+
+Campbell and wife. Mr. Sam White
+returned home from St. Louis Sat-
+urday.
 
 ## CUNNINGHAM NOTES.
 
-The members and friends of Sulphur Spring A. M. E. Church regret very much to learn of the illness of Presiding Elder G. W. Porter, of the Clarksville district. Sunday being quarterly meeting day at the A. M. E. Church, Rev. T. H Hamilton, the pastor, conducted the quarter, which was quite a success. The total reports for the quarter was $96. Rev. T. H Hamilton made a flying trip to Memphis last week. Mrs. Ada Hopkins visited relatives at Strange Town last week. Mrs. Robertson and daughter, of Clarksville, were the guests of Mrs. Eliza Wiley last. week. Mrs. Percy L. Beam is able to be out again
+The members and friends of Sulphur Spring A. M. E. Church regret very much to learn of the illness of Presiding Elder G. W. Porter, of the Clarksville district. Sunday being quarterly meeting day at the A. M. E. Church, Rev. T. H Hamilton, the pastor, conducted the quarter, which was quite a success. The total reports for the quarter was $96. Rev. T. H. Hamilton made a flying trip to Memphis last week. Mrs. Ada Hopkins visited relatives at Strange Town last week. Mrs. Robertson and daughter, of Clarksville, were the guests of Mrs. Eliza Wiley last week. Mrs. Percy L. Beam is able to be out again
+
+```markdown
+
+```
 
 HILARY E. HOWSE.
 

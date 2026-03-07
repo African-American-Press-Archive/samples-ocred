@@ -1,3 +1,63 @@
+forums and on the stump. Here are the names of some of the books: "Famous Orators of the World and Their Orations," "Dunbar's Complete Works," "This Country of Ours," "Farming by Inches," "Hiawatha," 75 ture," by 100 colored young men; "Young People's History of the World," "Masterpieces of English Oratory," and anything else not listed, call on or write E. L. ROGERS, Agent.
+
+To Peoria
+-VIA-
+nois Traction
+System.
+
+Illinois
+Sys
+
+$1 00 O
+$1 95 R
+
+Cars Leave
+
+$1 00 ONE WAY
+$1 95 ROUND TRIP
+
+rs Leave Springfield
+5:40—6:40—8:40—10:40 A. M.
+12:40—2:40—4:40—6:40 P. M.
+
+THE SAFE WAY NO DUST DIRT SMOKE CINDERS.
+
+the regular low price, subscriptions will be accepted for a
+Louis Weekly Globe-Democrat, issued twice every
+large pages each Tuesday and Friday. Send one dollar
+get this great semi-weekly newspaper two full years.
+With another name, and the paper will be mailed one year
+car to the other subscriber. All the news of all the
+complete market reports. Ably edited departments for
+arm. Many features of interest and value to every
+Republican in politics. Conservative, dignified, truth-
+ute and up-to-date. Don't miss the biggest Newspaper
+Write for free Sample copy. Better still, send in your
+
+Address
+
+At just one-half the regular low price, subscriptions will be accepted for a limited time to the St. Louis Weekly Globe-Democrat, issued twice every week; eight or more large pages each Tuesday and Friday. Send one dollar promptly, and you will get this great semi-weekly newspaper two full years. Or send one dollar with another name, and the paper will be mailed one year to you, and also one year to the other subscriber. All the news of all the Earth. Correct and complete market reports. Ably edited departments for the home and for the farm. Many features of interest and value to every member of the family. Republican in politics. Conservative, dignified, truthful, reliable, progressive and up-to-date. Don't miss the biggest Newspaper bargain ever offered. Write for free Sample copy. Better still, send in your order today. Address
+
+GLOBE PRINTING COMPANY, St. Louis, Mo.
+
+AWRENCEDUNBAR'S
+
+Life Work for Only $1.75
+
+PAULLAWRENCEDUNBAR'S
+
+Complete Life Work for Only $1.75
+
+For sale by E. L. ROGERS, Agent
+
+With Gorgeous Illustrations
+
+Should be in every intelligent home over the land
+
+No poet sings so sweet, no poet is so humurous nor pathetic than Dunbar. While celestial ages shall roll on, the glory of his greatuess shall become known
+
+Brown & Brown
+
 ## J.B. OSBY REAL ESTATE
 
 Farm and City Property Bought, Sold and Exchanged
@@ -13,6 +73,8 @@ Expert!
 Terms to Suit. No Students.
 Painless Extracting Free
 $3 00-Set of Teeth$-3 00
+
+ABD
 
 Hours—8 to 8 Sundays—9 to 1.
 Davis Dental Specialists
@@ -81,7 +143,9 @@ Sociologist Instructor,
 
 That Negro Business Men's League is the timeliest thing of the last decade organized here.
 
-forums and on the stump. Here are the names of some of the books:
+THE
+SAFE
+WAY
 
 CHAS. S. GIBBS
 Attorney and Counsellor
@@ -91,35 +155,4 @@ Office 2231 S. 5th St.
 Rear of White Dental Parlors.
 Old Phone 1963
 
-"Famous Orators of the World and Their Orations," "Dunbar's Complete Works," "This Country of Ours," "Farming by Inches," "Hiawatha," 75 ture," by 100 colored young men; "Young People's History of the World," "Masterpieces of English Oratory," and anything else not listed, call on or write E. L. ROGERS, Agent.
-
-$ \frac { \$ 1 0 0 O N E W A Y } { \$ 1 9 5 R O U N D T R I P } $
-
-rs Leave Springfield
-5:40—6:40—8:40—10:40 A. M.
-12:40—2:40—4:40—6:40 P. M.
-
 THE RAPID WAY
-
-NO DUST DIRT SMOKE CINDERS.
-
-DUST
-DIRT
-SWOKE
-CINDERS
-
-THE
-SAFE
-WAY
-
-At just one-half the regular low price, subscriptions will be accepted for a limited time to the St. Louis Weekly Globe-Democrat, issued twice every week; eight or more large pages each Tuesday and Friday. Send one dollar promptly, and you will get this great semi-weekly newspaper two full years. Or send one dollar with another name, and the paper will be mailed one year to you, and also one year to the other subscriber. All the news of all the Earth. Correct and complete market reports. Ably edited departments for the home and for the farm. Many features of interest and value to every member of the family. Republican in politics. Conservative, dignified, truthful, reliable, progressive and up-to-date. Don't miss the biggest Newspaper bargain ever offered. Write for free Sample copy. Better still, send in your order today. Address
-
-GLOBE PRINTING COMPANY, St. Louis, Mo.
-
-Complete Life Work for Only $1.75
-
-For sale by E. L. ROGERS, Agent
-
-Should be in every intelligent home over the land.
-
-No poet sings so sweet, no poet is so humurous nor pathetic than Dunbar. While celestial ages shall roll on, the glory of his greatuess shall become known
