@@ -3,6 +3,17 @@
   "image": "images/page_01.jpg",
   "width": 1836,
   "height": 2573,
+  "processed_at": "2026-03-07T00:39:11.721637+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 109,
+    "after_merge": 84
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         558
       ],
       "label": "doc_title",
-      "text": "MINISTER SUED; CHURCH FUNDS IN DANGER"
+      "text": "MINISTER SUED; CHURCH FUNDS IN DANGER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         665
       ],
       "label": "doc_title",
-      "text": "Laborer Inherits Valuable Oil Fields"
+      "text": "Laborer Inherits Valuable Oil Fields",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +45,8 @@
         856
       ],
       "label": "doc_title",
-      "text": "Ft. Dodge Worker Falls Heir to Estate"
+      "text": "Ft. Dodge Worker Falls Heir to Estate",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +56,8 @@
         1193
       ],
       "label": "text",
-      "text": "Parents Leave 550 Acres of\nValuable Oil Land to\nDay Laborer\n\n(BY CENTURY NEWS SERVICE.)\nFort Dodge, Iowa, Jan. 21.-Leonard\nWright, day laborer here, has fallen\nheir to a fortune of $56,000 in cash and\n550 acres of oil land. He is an employee of the Fort Dodge Creamery\nCompany.\nHis parents died in the West Indies\nwhen he was infant, leaving him\n$5,000, which was placed in trust for\nhim until he was 27 years of age. He\nwill be 27 years old next August and\nreceive this inheritance, which with\ninterest compounded will amount to\n$65,000."
+      "text": "Parents Leave 550 Acres of\nValuable Oil Land to\nDay Laborer\n\n(BY CENTURY NEWS SERVICE.)\nFort Dodge, Iowa, Jan. 21.-Leonard\nWright, day laborer here, has fallen\nheir to a fortune of $56,000 in cash and\n550 acres of oil land. He is an employee of the Fort Dodge Creamery\nCompany.\nHis parents died in the West Indies\nwhen he was infant, leaving him\n$5,000, which was placed in trust for\nhim until he was 27 years of age. He\nwill be 27 years old next August and\nreceive this inheritance, which with\ninterest compounded will amount to\n$65,000.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +67,8 @@
         1205
       ],
       "label": "paragraph_title",
-      "text": "Hold Various Jobs"
+      "text": "Hold Various Jobs",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +78,8 @@
         1306
       ],
       "label": "text",
-      "text": "! Wright has been employed at various jobs about the state of Iowa. Last summer he worked with a paving crew at Rock Rapids, Iowa. Previous to the war he was a craneman for the American Foundry Company of Granite City, served in the world war-us as a second \"Heutician\" in the Canadian army."
+      "text": "! Wright has been employed at various jobs about the state of Iowa. Last summer he worked with a paving crew at Rock Rapids, Iowa. Previous to the war he was a craneman for the American Foundry Company of Granite City, served in the world war-us as a second \"Heutician\" in the Canadian army.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +89,8 @@
         1320
       ],
       "label": "paragraph_title",
-      "text": "Many \"Managers\" Present"
+      "text": "Many \"Managers\" Present",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +100,8 @@
         1460
       ],
       "label": "text",
-      "text": "He won a record for firing a coconitive on the Union Pacific railway with low fire, full glass and getting up a full head of steam. Since Wright acclimatized, and had several white men visiting him with the desire of becoming his \"manager,\" Wright has been informed of the manner in which members of his Race have been robbed and helds in Oklahoma and says he is going to profit by their experiences."
+      "text": "He won a record for firing a coconitive on the Union Pacific railway with low fire, full glass and getting up a full head of steam. Since Wright acclimatized, and had several white men visiting him with the desire of becoming his \"manager,\" Wright has been informed of the manner in which members of his Race have been robbed and helds in Oklahoma and says he is going to profit by their experiences.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +111,8 @@
         1734
       ],
       "label": "text",
-      "text": "Speculation was rife in the courtroom of Judge George Kersten when the jury, after deliberating five and a half hours, decided that they had reached a verdict in the case of Grover C. Redding, 449 East 45th street, and his six companions\u2014Oscar Henry Lee, 2041 East Kandolph street; Henry Lee, 2041 East Wardrush; 2027 East avenue; James Briggs, 2031 Austin avenue; Dennis Briggs, 2031 Palmut street, and Alison Wills, 2242 East Avenue had been accused of the murder of Robert Lawton Rose (white), a sailor, at 35th street and Indiana avenue, who became known as the Abyssinian riot."
+      "text": "Speculation was rife in the courtroom of Judge George Kersten when the jury, after deliberating five and a half hours, decided that they had reached a verdict in the case of Grover C. Redding, 449 East 45th street, and his six companions\u2014Oscar Henry Lee, 2041 East Kandolph street; Henry Lee, 2041 East Wardrush; 2027 East avenue; James Briggs, 2031 Austin avenue; Dennis Briggs, 2031 Palmut street, and Alison Wills, 2242 East Avenue had been accused of the murder of Robert Lawton Rose (white), a sailor, at 35th street and Indiana avenue, who became known as the Abyssinian riot.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +122,8 @@
         1746
       ],
       "label": "paragraph_title",
-      "text": "Sentenced to Hang"
+      "text": "Sentenced to Hang",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +133,8 @@
         1948
       ],
       "label": "text",
-      "text": "The jury found Redding and McGavock guilty as charged, and fixed their punishment at death, but the inference was that they were a tenon, which covered a broad arch, resulted in the acquittal of the other defendants. When the verdict was read, the judge ordered the defendant to unjustly during the trial, straightened up, said: \"I do not want a new trial, judge; if they are going to hang me, let them kill me; if they are going to be over, Arguments for a new trial will begin Jan. 31, and Redding asked the court, when he was considering the advisability, would he also be under witness the application of bail in his case."
+      "text": "The jury found Redding and McGavock guilty as charged, and fixed their punishment at death, but the inference was that they were a tenon, which covered a broad arch, resulted in the acquittal of the other defendants. When the verdict was read, the judge ordered the defendant to unjustly during the trial, straightened up, said: \"I do not want a new trial, judge; if they are going to hang me, let them kill me; if they are going to be over, Arguments for a new trial will begin Jan. 31, and Redding asked the court, when he was considering the advisability, would he also be under witness the application of bail in his case.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +144,8 @@
         1957
       ],
       "label": "paragraph_title",
-      "text": "Exposes Redding"
+      "text": "Exposes Redding",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +155,8 @@
         2137
       ],
       "label": "text",
-      "text": "Dr. William O. Krohn, an alienist of International repute, told the jury that he had been asked to dig he had told him that he had no idea of committing murder upon the memorable Sunday afternoon, but had made a point of money. He saw that the people in Chicago were much more easily swayed than in some cities, for he had bought them. He asked, \"What did they and 15 cents, and had sold them here to his followers for $1, and the physi- asked: \"Is that your graft?\" and Redding had replied, \"No, that is my profit.\""
+      "text": "Dr. William O. Krohn, an alienist of International repute, told the jury that he had been asked to dig he had told him that he had no idea of committing murder upon the memorable Sunday afternoon, but had made a point of money. He saw that the people in Chicago were much more easily swayed than in some cities, for he had bought them. He asked, \"What did they and 15 cents, and had sold them here to his followers for $1, and the physi- asked: \"Is that your graft?\" and Redding had replied, \"No, that is my profit.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +166,8 @@
         2147
       ],
       "label": "paragraph_title",
-      "text": "Antics in `Courtroom`"
+      "text": "Antics in `Courtroom`",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +177,8 @@
         2348
       ],
       "label": "text",
-      "text": "Redding, in order to impress the jury with his unfitness of mind, would call white women who entered the courthouse, \"enthrasers,\" would call Race women \"mothers,\" he throw law books about the room, match boxes at the judge's clerk, Chas. Stroop, and language unprintable was able to prove that he only indulged in these tactics when incriminating evidence was given against him. Barnett closed his argument he pleaded for the library of the men identified with Redding; the latter jumped to his feet and instilling an imaginary rope about his neck."
+      "text": "Redding, in order to impress the jury with his unfitness of mind, would call white women who entered the courthouse, \"enthrasers,\" would call Race women \"mothers,\" he throw law books about the room, match boxes at the judge's clerk, Chas. Stroop, and language unprintable was able to prove that he only indulged in these tactics when incriminating evidence was given against him. Barnett closed his argument he pleaded for the library of the men identified with Redding; the latter jumped to his feet and instilling an imaginary rope about his neck.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +188,8 @@
         2511
       ],
       "label": "text",
-      "text": "From Bridge A11 Night\nDouglas, Ga., Jan. 2. \u2014 Henry Thomas, employed on the plantation hitched. He hitched a hanging; head down on a bridge, near here last Saturday. He was uninterested and told authorities investigating the case that he fell through a hole in the roof, and was unbleached, attic grafts himself."
+      "text": "From Bridge A11 Night\nDouglas, Ga., Jan. 2. \u2014 Henry Thomas, employed on the plantation hitched. He hitched a hanging; head down on a bridge, near here last Saturday. He was uninterested and told authorities investigating the case that he fell through a hole in the roof, and was unbleached, attic grafts himself.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,17 +199,8 @@
         781
       ],
       "label": "doc_title",
-      "text": "ARREST RECALLS RIOT OF 24TH INFANTRYMEN"
-    },
-    {
-      "bbox": [
-        295,
-        810,
-        530,
-        901
-      ],
-      "label": "text",
-      "text": "Ex-Policeman, Who Caused Conflict, Nabbed for Making Moonshine Whisky"
+      "text": "ARREST RECALLS RIOT OF 24TH INFANTRYMEN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +210,8 @@
         901
       ],
       "label": "paragraph_title",
-      "text": "Ex-Policeman, Who Caused Conflict, Nabbed for Making Moonshine Whisky"
+      "text": "Ex-Policeman, Who Caused Conflict, Nabbed for Making Moonshine Whisky",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +221,8 @@
         1133
       ],
       "label": "text",
-      "text": "(BY CONTINENTAL PRESS)**\nHouston, Texas, Jan. 21. On August 22, 1917, this city was thrown into a reign of terror when corporal Charles Baltimore of the 24th United States fainty, stationed here, was brutally snuffed by a city policeman when he poached the body of a woman who was being clubbed by the officer, Baltimore, who was later hanged after trial by court-martial, raiding the city and participating in rages. Excellent ran high among the soldiers when Baltimore told his story and Sergent Vida Henry collected a number of infantrymen and marched on the town."
+      "text": "(BY CONTINENTAL PRESS)**\nHouston, Texas, Jan. 21. On August 22, 1917, this city was thrown into a reign of terror when corporal Charles Baltimore of the 24th United States fainty, stationed here, was brutally snuffed by a city policeman when he poached the body of a woman who was being clubbed by the officer, Baltimore, who was later hanged after trial by court-martial, raiding the city and participating in rages. Excellent ran high among the soldiers when Baltimore told his story and Sergent Vida Henry collected a number of infantrymen and marched on the town.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +232,8 @@
         1147
       ],
       "label": "paragraph_title",
-      "text": "Saya He's Bootleggor"
+      "text": "Saya He's Bootleggor",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +243,8 @@
         1293
       ],
       "label": "text",
-      "text": "Grewson's scenes on that fatal night were recalled here recently, but the Sparks (white), the ex-policeman, who clubbed the woman and attacked Corporal Baltimore, was arrested by fed-der law enforcement, booting whisky in volunteer uniforms the Volstead act. The fact that Sparks was placed behind the bars by federal officials gives citizens here the assurance that police cannot interfere with justice."
+      "text": "Grewson's scenes on that fatal night were recalled here recently, but the Sparks (white), the ex-policeman, who clubbed the woman and attacked Corporal Baltimore, was arrested by fed-der law enforcement, booting whisky in volunteer uniforms the Volstead act. The fact that Sparks was placed behind the bars by federal officials gives citizens here the assurance that police cannot interfere with justice.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +254,8 @@
         1308
       ],
       "label": "paragraph_title",
-      "text": "Saas Conviction"
+      "text": "Saas Conviction",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +265,8 @@
         1481
       ],
       "label": "text",
-      "text": "Authorities that he has been under investigation for several months, and that he has clear case against him. The doctors it is, have no surprise. Judge J. C. Hutchison is scheduled to try the case. Manufacture of whiskey carries with it a penalty of $1,000. He has openly boasted of the fact that he is responsible for 41-soldiers being in Leavenworth prison, and that he did not commit any crimes. White people of Houston were killed during the clash with soldiers."
+      "text": "Authorities that he has been under investigation for several months, and that he has clear case against him. The doctors it is, have no surprise. Judge J. C. Hutchison is scheduled to try the case. Manufacture of whiskey carries with it a penalty of $1,000. He has openly boasted of the fact that he is responsible for 41-soldiers being in Leavenworth prison, and that he did not commit any crimes. White people of Houston were killed during the clash with soldiers.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +276,8 @@
         1509
       ],
       "label": "paragraph_title",
-      "text": "DEPARTMENT OF LABOR"
+      "text": "DEPARTMENT OF LABOR",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +287,8 @@
         1808
       ],
       "label": "text",
-      "text": "ISSUES WORK BULLETIN\nWashington, D.C. Jan. 21. U.-S. P.\neconomics. This report provides an\nlocation of its second study of labor,\nwhich will be issued soon from the\noffice of the secretary, division of\nregional economics. This report gives\ninsight into the relationship to the great inclusion of wage-\nearners in American industry during\nthe world war and the first ten months\nof reconstruction. There is a summary\nof observations on women in industry.\nThe report gives a brief account of\nthe advisory and conciliatory service\nof state advisers of state advisers\nunder Dr. George E. Smith and the\nSecretary of Labor, on matters\nrelating to our people and their relations\nto white workers and employers. The\ndata have produced information on the\ntences of instructive value for state\nand local approach to these questions."
+      "text": "ISSUES WORK BULLETIN\nWashington, D.C. Jan. 21. U.-S. P.\neconomics. This report provides an\nlocation of its second study of labor,\nwhich will be issued soon from the\noffice of the secretary, division of\nregional economics. This report gives\ninsight into the relationship to the great inclusion of wage-\nearners in American industry during\nthe world war and the first ten months\nof reconstruction. There is a summary\nof observations on women in industry.\nThe report gives a brief account of\nthe advisory and conciliatory service\nof state advisers of state advisers\nunder Dr. George E. Smith and the\nSecretary of Labor, on matters\nrelating to our people and their relations\nto white workers and employers. The\ndata have produced information on the\ntences of instructive value for state\nand local approach to these questions.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +298,8 @@
         1833
       ],
       "label": "paragraph_title",
-      "text": "JUSTICE RETIRES AFTER"
+      "text": "JUSTICE RETIRES AFTER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +309,8 @@
         2065
       ],
       "label": "text",
-      "text": "40 YEARS OF SERVICE\nPine Blow, Ark. Jan. 21.\u2014S. Gibbons, justice of the peace in Victoria township since 1880, retired recently as president of A celebration in his hometown was given at Stewart's chapel A. M. E. church, and the retiring officer was presented with an embossed with Masonic emblems. In accepting the gift Gibbons said:\n\"I am proud to receive this tribute from sons of the voters who first elected me and my virtues have brought me up from the shores of bondage to this honorable retirement.\""
+      "text": "40 YEARS OF SERVICE\nPine Blow, Ark. Jan. 21.\u2014S. Gibbons, justice of the peace in Victoria township since 1880, retired recently as president of A celebration in his hometown was given at Stewart's chapel A. M. E. church, and the retiring officer was presented with an embossed with Masonic emblems. In accepting the gift Gibbons said:\n\"I am proud to receive this tribute from sons of the voters who first elected me and my virtues have brought me up from the shores of bondage to this honorable retirement.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +320,8 @@
         2319
       ],
       "label": "text",
-      "text": "Washington, D. C. Jan. 21.\u2014The will of the late Dr. R. W. Brown, who was shot to death in his home here recently, was read to the family, it is claimed. The physician was reputed to be worth $500,000. He was president of the National Health Insurance company. Reports are that he provides an income of $200 per month for each of the doctors' daughters. One of the doctors was recently married to Merrill Curtis, son of Dr. Curtis, who was a student at Northwestern University, Chicago. He took place after the physician's funeral couple now reside at the Curtis home."
+      "text": "Washington, D. C. Jan. 21.\u2014The will of the late Dr. R. W. Brown, who was shot to death in his home here recently, was read to the family, it is claimed. The physician was reputed to be worth $500,000. He was president of the National Health Insurance company. Reports are that he provides an income of $200 per month for each of the doctors' daughters. One of the doctors was recently married to Merrill Curtis, son of Dr. Curtis, who was a student at Northwestern University, Chicago. He took place after the physician's funeral couple now reside at the Curtis home.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +331,8 @@
         2344
       ],
       "label": "paragraph_title",
-      "text": "MAN, WIFE AND THREE"
+      "text": "MAN, WIFE AND THREE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +342,19 @@
         2511
       ],
       "label": "text",
-      "text": "CHILDREN DIE IN FIRE\nMonroe, La. Jan. 21. - Robbery is believed to have been the motive for the killing of Elder Nencoy, his wife of children, who were found burned to a coal heap by Guy P'Bush's plantation, in what is known as the colony neighborhood of Ouacha in parish, ten miles east of this city. Seven shots were fired at Nencoy's house and later the dwelling was in flames. Coal oil is believed to have been used in the building to make it run out quickly."
+      "text": "CHILDREN DIE IN FIRE\nMonroe, La. Jan. 21. - Robbery is believed to have been the motive for the killing of Elder Nencoy, his wife of children, who were found burned to a coal heap by Guy P'Bush's plantation, in what is known as the colony neighborhood of Ouacha in parish, ten miles east of this city. Seven shots were fired at Nencoy's house and later the dwelling was in flames. Coal oil is believed to have been used in the building to make it run out quickly.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        542,
+        749,
+        1277,
+        1327
+      ],
+      "label": "text",
+      "text": "THE OVERWATCH",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +364,8 @@
         1359
       ],
       "label": "text",
-      "text": "Native African mon watching their women build houses. The follow who wrote \"Let the Women Do the Work\" must have visited that part of the world before he got the inspiration for the words of his song."
+      "text": "Native African mon watching their women build houses. The follow who wrote \"Let the Women Do the Work\" must have visited that part of the world before he got the inspiration for the words of his song.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +375,8 @@
         1528
       ],
       "label": "doc_title",
-      "text": "Coolness of Pastor Saves Many Lives at Church Fire"
+      "text": "Coolness of Pastor Saves Many Lives at Church Fire",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +386,8 @@
         1698
       ],
       "label": "text",
-      "text": "Cleveland, O., Jan. 21. \"What might have been the greatest catastrophe in church history in Cleveland was averted, the cool-headedness of the pastor and the worshippers who were attending morning services. Just as Dr. J. B. Redmond, pastor of Cory M. E. church, 38th and Scotvill one of the oldest churches in one of the oldest churches in the text dens puffs of smoke were seen to emit from the woodwork about the windows and baseboards of the west side of the auditorium, which"
+      "text": "Cleveland, O., Jan. 21. \"What might have been the greatest catastrophe in church history in Cleveland was averted, the cool-headedness of the pastor and the worshippers who were attending morning services. Just as Dr. J. B. Redmond, pastor of Cory M. E. church, 38th and Scotvill one of the oldest churches in one of the oldest churches in the text dens puffs of smoke were seen to emit from the woodwork about the windows and baseboards of the west side of the auditorium, which",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +397,8 @@
         1737
       ],
       "label": "paragraph_title",
-      "text": "Finds Arsenic in"
+      "text": "Finds Arsenic in",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,17 +408,41 @@
         1818
       ],
       "label": "text",
-      "text": "Brooklyn, N. Y., Jan. 21.\u2014Social circles were greatly stirred here on when January 12 Dr. Gladstone M. Hinson, 313 Cumberland street, has his wife,"
+      "text": "Brooklyn, N. Y., Jan. 21.\u2014Social circles were greatly stirred here on when January 12 Dr. Gladstone M. Hinson, 313 Cumberland street, has his wife,",
+      "status": "ok"
     },
     {
       "bbox": [
         536,
         1816,
         658,
+        1923
+      ],
+      "label": "text",
+      "text": "Mrs. Eva E. Hinckley, hailed to the hall for charging her with malicious mis-sheet. He further stated that on several occasions he had been threatened.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        666,
+        1832,
+        780,
+        2027
+      ],
+      "label": "text",
+      "text": "1",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        537,
+        1923,
+        657,
         2068
       ],
       "label": "text",
-      "text": "Mrs. Eva E Hinkley\nfourth floor court\ncharging her with\nmalicious mischief.\nHe further\nseveral occults\nhis life had been\nthreatened.\nA box of candy,\nsent to his house\nrecently, and when\nanalyzed was\nfound to contain\nkill three persons.\nAll of this is the\ncultivation, the\nphysician assures\nunsuccessful at-"
+      "text": "A box of candy,\nthe claim was\nrecently, and when\nanalyzed was\nfound to contain\nenough arsenic to\nkill a cow.\nAll of this is the\nculmination, the\nphysician assers-\ntion unsuccessful at-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +452,8 @@
         2150
       ],
       "label": "text",
-      "text": "tempt to obtain a divorce from him last March. In an affidavit he states that he has been sent on bogus calls to patients for medical care from Mrs. Hinton plied a guilty and was paroled until this week, when she will appear for a hearing."
+      "text": "tempt to obtain a divorce from him last March. In an affidavit he states that he has been sent on bogus calls to patients for medical care from Mrs. Hinton plied a guilty and was paroled until this week, when she will appear for a hearing.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +463,8 @@
         2161
       ],
       "label": "paragraph_title",
-      "text": "Has Wife Shadowed"
+      "text": "Has Wife Shadowed",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +474,8 @@
         2377
       ],
       "label": "text",
-      "text": "Dr. Hinkson in a statement to a Defender reporter said on returning from a call at a patient's home on New Year's night, his residence had been vacant for months, and he stayed. On that night, he declared, a private detective who had been shadowing Mrs. Hinkson, stated that she and an unknown man were seen near the house. Notifying Mrs. Hinkson of divorce proceedings instituted by the physician, were served on her recently at her home in Manhattan where she has resided since the estrangement. Yoyan Thomas, a native of Hattli, who was the victim of Mrs. Hinkson at 391 Cumberland street, was named as co-respondent."
+      "text": "Dr. Hinkson in a statement to a Defender reporter said on returning from a call at a patient's home on New Year's night, his residence had been vacant for months, and he stayed. On that night, he declared, a private detective who had been shadowing Mrs. Hinkson, stated that she and an unknown man were seen near the house. Notifying Mrs. Hinkson of divorce proceedings instituted by the physician, were served on her recently at her home in Manhattan where she has resided since the estrangement. Yoyan Thomas, a native of Hattli, who was the victim of Mrs. Hinkson at 391 Cumberland street, was named as co-respondent.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +485,8 @@
         2398
       ],
       "label": "paragraph_title",
-      "text": "WAS \"DIVINE GENERAL\""
+      "text": "WAS \"DIVINE GENERAL\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +496,8 @@
         2511
       ],
       "label": "text",
-      "text": "Tuscaloosa, Ala. Jan. 21\u2014A manta for military buttons put Tobe Horne, ex-soldier, behind the bars. He was a uniform, behind the army uniform, according every one he wearing a like uniform, and attempting to cut off all buttons. Horne declared he was a, \"dilyio, general,\" and was going to demote, all present-day army officers."
+      "text": "Tuscaloosa, Ala. Jan. 21\u2014A manta for military buttons put Tobe Horne, ex-soldier, behind the bars. He was a uniform, behind the army uniform, according every one he wearing a like uniform, and attempting to cut off all buttons. Horne declared he was a, \"dilyio, general,\" and was going to demote, all present-day army officers.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,17 +507,8 @@
         1958
       ],
       "label": "text",
-      "text": "is on the second floor. As the smoke seemed to become more dense, Dr. Redmond, requested the worshippers to stay in the office and dredge-obeyed the pastor, but several impatient and skeptic ones in the rear tried to get out through the windows, and as the result were more or less dredged in the office's story to the ground or pavement below.\n\nThe fire department arrived and a second dredged the whole second floor to be heated caused by an over-heated furnace. They subdued the flames and it was found that the basement, which included the rooms, had been damaged to the amount of $15,000. Most of the damage on the second floor was caused by water and smoke and several windows were damaged by fire. The injuries he jumped through a window and missed the firemen's net below; Miss Mary Hines, 2255 E. 43rd St; Charles Sexon, 2255 E. 43rd St; and Jill St. injuries when he jumped back when she jumped from a second-story window, missing the firemen's net. The pastor and wife and officers of the worked faithfully, saving many lives."
-    },
-    {
-      "bbox": [
-        791,
-        1964,
-        1020,
-        2000
-      ],
-      "label": "paragraph_title",
-      "text": "WHITE BANDITS BLACK\nFACES TO POP STOP"
+      "text": "is on the second floor. As the smoke seemed to become more dense, Dr. Redmond, requested the worshippers to stay in the office and dredge-obeyed the pastor, but several impatient and skeptic ones in the rear tried to get out through the windows, and as the result were more or less dredged in the office's story to the ground or pavement below.\n\nThe fire department arrived and a second dredged the whole second floor to be heated caused by an over-heated furnace. They subdued the flames and it was found that the basement, which included the rooms, had been damaged to the amount of $15,000. Most of the damage on the second floor was caused by water and smoke and several windows were damaged by fire. The injuries he jumped through a window and missed the firemen's net below; Miss Mary Hines, 2255 E. 43rd St; Charles Sexon, 2255 E. 43rd St; and Jill St. injuries when he jumped back when she jumped from a second-story window, missing the firemen's net. The pastor and wife and officers of the worked faithfully, saving many lives.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +518,8 @@
         1986
       ],
       "label": "paragraph_title",
-      "text": "WHITE BANDITS BLACK"
+      "text": "WHITE BANDITS BLACK",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +529,8 @@
         2170
       ],
       "label": "text",
-      "text": "HOLDS TO OUD STREET\nSt. Paul's University of\nthe polisce that the two \"Negro\"\nbandits who have appeared in three\nstore robberies in Minneapolis recently\nare white men with hands and faces\nblacked with burnt cork, were said to\nhave been infiltrated by deserts\nfurnished of the men in the first robberies since Christmas eve. The two\nblackface bandits made their appearance\nat the store of O. C. Ferris, 33\nand 131, in Minneapolis and holding\nthe cash drawer of $14 after opening up\nthe proprietor."
+      "text": "HOLDS TO OUD STREET\nSt. Paul's University of\nthe polisce that the two \"Negro\"\nbandits who have appeared in three\nstore robberies in Minneapolis recently\nare white men with hands and faces\nblacked with burnt cork, were said to\nhave been infiltrated by deserts\nfurnished of the men in the first robberies since Christmas eve. The two\nblackface bandits made their appearance\nat the store of O. C. Ferris, 33\nand 131, in Minneapolis and holding\nthe cash drawer of $14 after opening up\nthe proprietor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +540,8 @@
         2198
       ],
       "label": "paragraph_title",
-      "text": "FARMERS' CONFERENCE"
+      "text": "FARMERS' CONFERENCE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +551,8 @@
         2375
       ],
       "label": "text",
-      "text": "TO WELCOME AT UTICA INSTITUTE\nUtica, Miss., Jan. 21. - The Fifteenth\ninstitute will be held at the Utica Institute, Feb. 3\nand 10. Besides Prof. George W. Carter,\nagricultural chemist of Tuskegee,\nand Prof. William J. Edwards, Snow\nInstitute, there will be a large\nnumber of other prominent men present.\nUtica Institute is one of the largest\ninstitutions of its kind in the state.\nLast year its enrollment was 660. It\nis the property is valued at near $200,000."
+      "text": "TO WELCOME AT UTICA INSTITUTE\nUtica, Miss., Jan. 21. - The Fifteenth\ninstitute will be held at the Utica Institute, Feb. 3\nand 10. Besides Prof. George W. Carter,\nagricultural chemist of Tuskegee,\nand Prof. William J. Edwards, Snow\nInstitute, there will be a large\nnumber of other prominent men present.\nUtica Institute is one of the largest\ninstitutions of its kind in the state.\nLast year its enrollment was 660. It\nis the property is valued at near $200,000.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +562,8 @@
         2391
       ],
       "label": "paragraph_title",
-      "text": "ASSAULTS WOMAN"
+      "text": "ASSAULTS WOMAN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +573,8 @@
         2514
       ],
       "label": "text",
-      "text": "New York, N. Y., Jan. 17.\u2014Wm. Syph (wyth), 31, of 67 Court street, Miss Gussie Montani, 49 W. 142d street, Wednesday, and assulted her in a brutal manner. Syph entered the door, entered her, with a loaded revolver, when she answered his ring at the door, assulting Syph is being held for interrogation."
+      "text": "New York, N. Y., Jan. 17.\u2014Wm. Syph (wyth), 31, of 67 Court street, Miss Gussie Montani, 49 W. 142d street, Wednesday, and assulted her in a brutal manner. Syph entered the door, entered her, with a loaded revolver, when she answered his ring at the door, assulting Syph is being held for interrogation.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +584,8 @@
         1402
       ],
       "label": "paragraph_title",
-      "text": "ANNOUNCE DATE OF"
+      "text": "ANNOUNCE DATE OF",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +595,8 @@
         1736
       ],
       "label": "text",
-      "text": "Knoxville, Tenn., Jan. 21. \"The second trial of Maurice Huesy, who is charged with the murder of Mrs. Bertie Lindsay (white), will be held at the Knox county courthouse Monday, April 18. Mayes' first trial resulted in a conviction and sentence to electrocution. The case was appealed to the court and the jurors in the record permitted by the lower court. The action of the Supreme court made Judge T. A. Nelson, before whom the case was first tried, was dismissed and Judge Heks of Clinton was chosen as special judge.\n\nGen. James A. Fowler (white), premise of attorney's case, was once added to Mayes' case and Judge Heks of Clinton was caricatured in the state penitentiary at Nashville, where he was taken shortly after the murder to avoid a lynching, admitting that his innocence ever since the trial was adjudicated is one of the most sensational in the history of criminal law in Knox county,"
+      "text": "Knoxville, Tenn., Jan. 21. \"The second trial of Maurice Huesy, who is charged with the murder of Mrs. Bertie Lindsay (white), will be held at the Knox county courthouse Monday, April 18. Mayes' first trial resulted in a conviction and sentence to electrocution. The case was appealed to the court and the jurors in the record permitted by the lower court. The action of the Supreme court made Judge T. A. Nelson, before whom the case was first tried, was dismissed and Judge Heks of Clinton was chosen as special judge.\n\nGen. James A. Fowler (white), premise of attorney's case, was once added to Mayes' case and Judge Heks of Clinton was caricatured in the state penitentiary at Nashville, where he was taken shortly after the murder to avoid a lynching, admitting that his innocence ever since the trial was adjudicated is one of the most sensational in the history of criminal law in Knox county,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,7 +606,8 @@
         1767
       ],
       "label": "paragraph_title",
-      "text": "Wow! Gin and Religion Mix"
+      "text": "Wow! Gin and Religion Mix",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,7 +617,8 @@
         1942
       ],
       "label": "text",
-      "text": "New York, Jan. 21\u2014According to the station of the East 126th street police station for John Pork's action in trying to preach a sermon in the Star of Bethlehem church, 127th\u8857 and Lexington church, 128th\u8857 are 58 years old, and lives at 18-20 West 117th\u8857, is alleged to have walked into the church while the Rev. Green preached. The church is started to preach about hell. The ushers grabbed the man and a general comedian foroke. Durser asked John Pork to have his examination before Magistrate Tobias."
+      "text": "New York, Jan. 21\u2014According to the station of the East 126th street police station for John Pork's action in trying to preach a sermon in the Star of Bethlehem church, 127th\u8857 and Lexington church, 128th\u8857 are 58 years old, and lives at 18-20 West 117th\u8857, is alleged to have walked into the church while the Rev. Green preached. The church is started to preach about hell. The ushers grabbed the man and a general comedian foroke. Durser asked John Pork to have his examination before Magistrate Tobias.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -552,37 +628,19 @@
         1961
       ],
       "label": "paragraph_title",
-      "text": "DESPERADQ NABBED"
+      "text": "DESPERADQ NABBED",
+      "status": "ok"
     },
     {
       "bbox": [
         1038,
         1965,
         1286,
-        2033
-      ],
-      "label": "text",
-      "text": "Springfield, Mass. Jan. 21. \u2014Charged with assault rifle officer and with carrying a loaded revolver. William Hood, 35, said to be in custody was last week held in bonds of $2,000."
-    },
-    {
-      "bbox": [
-        1052,
-        2303,
-        1273,
         2503
       ],
       "label": "text",
-      "text": "Reason enough why he buys the CHICAGO DEFENDER every week\u2014He wants\u2014THE TRUTH\n\nThe journalistic fad of imaginative reporters to rewrite fact into fiction to make a \"good story\" may be a form of entertainment, but the men and women who prepare the news for the CHICAGO DEFENDER have but one idea in mind: to tell\u2014\n\nALL THE TRUTH\n\n\"No Matter Whom It Hurts\"\n\nALL THE TIME"
-    },
-    {
-      "bbox": [
-        1293,
-        715,
-        1538,
-        803
-      ],
-      "label": "text",
-      "text": "Politician Wounded by Orchestra Leader in Cleo Quinn's House"
+      "text": "Springfield, Mass., Jan. 21.\u2014Charged with assault with intent to kill a police officer, and with carrying a loaded revolver, William Good, 35, mid to have a long police record, was last week held in bonds of $24,000.\n\nA Buyer of Facts\n\nReason enough why he buys the CHICAGO DEFENDER every week\u2014He wants\u2014THE TRUTH\n\nThe journalistic fad of imaginative reporters to rewrite fact into fiction to make an \"good story\" may be romantic and sensational, but the men and women who prepare the news for the CHICAGO DEFENDER have but one idea in mind: to tell\u2014\n\nALL THE TRUTH\n\n\"No Matter Whom It Hurts\"\n\nALL THE TIME",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -592,7 +650,8 @@
         803
       ],
       "label": "paragraph_title",
-      "text": "Politician Wounded by Orchestra Leader in Cleo Quinn's House"
+      "text": "Politician Wounded by Orchestra Leader in Cleo Quinn's House",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -602,7 +661,8 @@
         1047
       ],
       "label": "text",
-      "text": "Erie, Pa., Jan. 21\u2014Fred F. Moran (white), alderman of the Second ward and county Democratic leader, was shot and perhaps fatally wounded Sunday morning at 4 o'clock in a resort located at 15 West 17th street and run by Miss Cloin Quinn, age 40. The bullet which may cost Moran's life penetrated his left side a few inches back 18h. Herschell led beneath a back 18h. Herschell playing at a local dance hall in State street, is being held by the police as the man who fired the shot. Miss Quinn is charged with being present when the shot was fired."
+      "text": "Erie, Pa., Jan. 21\u2014Fred F. Moran (white), alderman of the Second ward and county Democratic leader, was shot and perhaps fatally wounded Sunday morning at 4 o'clock in a resort located at 15 West 17th street and run by Miss Cloin Quinn, age 40. The bullet which may cost Moran's life penetrated his left side a few inches back 18h. Herschell led beneath a back 18h. Herschell playing at a local dance hall in State street, is being held by the police as the man who fired the shot. Miss Quinn is charged with being present when the shot was fired.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -612,7 +672,8 @@
         1053
       ],
       "label": "paragraph_title",
-      "text": "Has Reputation"
+      "text": "Has Reputation",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -622,7 +683,8 @@
         1225
       ],
       "label": "text",
-      "text": "The shooting took place in the Quinn woman's bedroom, where several of Brassfield's associates were giving an interview by music and liquor. Adderal Moran, who have been told, was the only white man present as guest. The house, police admit, has long been commonly raided and visited by police, despite its reputation, although government officers raided a place formerly kept by a woman in Sixteenth street. Moran its design to have been a visitor at both places."
+      "text": "The shooting took place in the Quinn woman's bedroom, where several of Brassfield's associates were giving an interview by music and liquor. Adderal Moran, who have been told, was the only white man present as guest. The house, police admit, has long been commonly raided and visited by police, despite its reputation, although government officers raided a place formerly kept by a woman in Sixteenth street. Moran its design to have been a visitor at both places.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -632,7 +694,8 @@
         1238
       ],
       "label": "paragraph_title",
-      "text": "Acted As Peacemaker"
+      "text": "Acted As Peacemaker",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,7 +705,8 @@
         1437
       ],
       "label": "text",
-      "text": "All of the witnesses questioned thus far by detectives say the bullet was not aimed at Alderman Moran, but that Quinn woman's room and attempted to separate quarreling members of the musician's troupe. Brassfield says when he came to the house he found the woman's company by the woman. Policifans together with ministers of the city, are endeavoring to have Moran unseated as alderman because of his connection with Miles that has been frequently discussed prior to the Brassfield is being held pending the outcome of the alderman's condition."
+      "text": "All of the witnesses questioned thus far by detectives say the bullet was not aimed at Alderman Moran, but that Quinn woman's room and attempted to separate quarreling members of the musician's troupe. Brassfield says when he came to the house he found the woman's company by the woman. Policifans together with ministers of the city, are endeavoring to have Moran unseated as alderman because of his connection with Miles that has been frequently discussed prior to the Brassfield is being held pending the outcome of the alderman's condition.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -652,17 +716,30 @@
         1536
       ],
       "label": "text",
-      "text": "Little Russeul LaSieurie, 11 years old, the store owned by Hyman Rolsteinis, the store owned by Hyman Rolsteinis."
+      "text": "Little Russeul LaSieurie, 11 years old, the store owned by Hyman Rolsteinis, the store owned by Hyman Rolsteinis.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1295,
+        1530,
+        1411,
+        1856
+      ],
+      "label": "text",
+      "text": "(white), 2816 State street, when he saw three men, who ripped over, dash from the place and fade away into the darkness. He had purchased a package of Gold Dust for a barber at State street. Russel thought they were \"playing\" and dnl laughed heartily at the chase. In the house, saw Rotstein on the floor with a bullet wound in his head. He had by the fleeing highwaymen who only a few minutes previous had ridden by Russell.",
+      "status": "ok"
     },
     {
       "bbox": [
         1291,
-        1530,
+        1539,
         1537,
         2046
       ],
       "label": "text",
-      "text": "(white), 2816 State street, when he\ntried to drive one with a revolver,\ndash from the place and fade\ninto the darkness. He had been sent there to\npurchase a package\nof cigarettes, Dusit\na barber at 2824 State street.\nRussell says he\nmyself were \"plunging\"\nlaughed heartily at the chase. Inside\nthe store he hid,\nthe floor with a\nbullet wound in\nhis head. He had\nbeen arrested by\nthe feeling\nhighwaymen who\nonly a few minu-\nnevious had\ndashed by Rus-\nsell.\n\nMonday Detecti-\ntion, Hilderdon, Scott, Stark\nand Smith of the bureau\nGreen, alias Will Jones, 2832 State\nstreet, and Nolan Welsh, 2856 State\nstreet, and Sergentia Welsh, with the\nmurder, Ernst Ernest, 3029 State street, was\nplaced under arrest by Sergeants La-\nkart, Kilgore and Russell, Third presc\nident, without hesitation, placed out Green. Road\nWelsh as the bandits, who are being\nhold charged with the murder."
+      "text": "(white), 2816 State street, when he\ntried to drive one with a revolver,\ndash from the place and fade\ninto the darkness. He had been sent there to\npurchase a package\nof cigarettes, Dusit\na barber at 2824 State street.\nRussell says he\nmyself were \"plunging\"\nlaughed heartily at the chase. Inside\nthe store he hid,\nthe floor with a\nbullet wound in\nhis head. He had\nbeen arrested by\nthe feeling\nhighwaymen who\nonly a few minu-\nnevious had\ndashed by Rus-\nsell.\n\nMonday Detecti-\ntion, Hilderdon, Scott, Stark\nand Smith of the bureau\nGreen, alias Will Jones, 2832 State\nstreet, and Nolan Welsh, 2856 State\nstreet, and Sergentia Welsh, with the\nmurder, Ernst Ernest, 3029 State street, was\nplaced under arrest by Sergeants La-\nkart, Kilgore and Russell, Third presc\nident, without hesitation, placed out Green. Road\nWelsh as the bandits, who are being\nhold charged with the murder.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -672,7 +749,8 @@
         2068
       ],
       "label": "paragraph_title",
-      "text": "CHARGE DOCTOR WITH"
+      "text": "CHARGE DOCTOR WITH",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -682,7 +760,8 @@
         2204
       ],
       "label": "text",
-      "text": "SALE OF WORTHLINE\nCovinion, Ky., Jan 21.\u2014Charged with violating a code of morale cottage law by the sale of morphine at Henderson in January, 1918, and in violation of the Code of Morale physician, of East 11th street, was placed under arrest on a warrant based on federal indictment returned in the United States District court at Owensboro."
+      "text": "SALE OF WORTHLINE\nCovinion, Ky., Jan 21.\u2014Charged with violating a code of morale cottage law by the sale of morphine at Henderson in January, 1918, and in violation of the Code of Morale physician, of East 11th street, was placed under arrest on a warrant based on federal indictment returned in the United States District court at Owensboro.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -692,7 +771,8 @@
         2266
       ],
       "label": "text",
-      "text": "Dr. Beam denied the charge and exonerated him before judge Oscar H. Roostken (1986) and his physician was formerly a resident of Henderson and came to this city recently."
+      "text": "Dr. Beam denied the charge and exonerated him before judge Oscar H. Roostken (1986) and his physician was formerly a resident of Henderson and came to this city recently.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -702,7 +782,8 @@
         2286
       ],
       "label": "paragraph_title",
-      "text": "\"SCRAPINGS\" LEFT TO"
+      "text": "\"SCRAPINGS\" LEFT TO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -712,17 +793,19 @@
         2522
       ],
       "label": "text",
-      "text": "IMPROVE DALLAS PARK\nDalhousie, Tex., Jan. 21. A sum of $3,539 is left for a pariment for improving the park for our people at the corner of Hall and Central avenues, according to a report made by W. F. Jacoby, director of the park, known among our people how the \"Park made from the leaves.\" This phrase was created by people who pointed to the fact that out of the year's tax budget of $188,540 only $5,000 was left to improve the park.\nTo Build Hospital\nBristol, Pa., Jan. 21. Citizens here are soliciting a building a hospital. Several thousand dollars has been raised."
+      "text": "IMPROVE DALLAS PARK\nDalhousie, Tex., Jan. 21. A sum of $3,539 is left for a pariment for improving the park for our people at the corner of Hall and Central avenues, according to a report made by W. F. Jacoby, director of the park, known among our people how the \"Park made from the leaves.\" This phrase was created by people who pointed to the fact that out of the year's tax budget of $188,540 only $5,000 was left to improve the park.\nTo Build Hospital\nBristol, Pa., Jan. 21. Citizens here are soliciting a building a hospital. Several thousand dollars has been raised.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1543,
+        1540,
         317,
-        1787,
-        340
+        1796,
+        592
       ],
       "label": "text",
-      "text": "PRICE TEN CENTS"
+      "text": "PRICE TEN CENTS\nNGER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -732,17 +815,19 @@
         757
       ],
       "label": "doc_title",
-      "text": "Member Charges Pastor With Fraud"
+      "text": "Member Charges Pastor With Fraud",
+      "status": "ok"
     },
     {
       "bbox": [
-        1543,
-        908,
-        1793,
+        1540,
+        757,
+        1796,
         1050
       ],
       "label": "text",
-      "text": "Omaha, Neb. Jan. 21.\u2014A suit has been filed in the District court here against Rev. William C. Williams, pastor of St. John's A. M. E. church, by Attorney Harrison J. Pinkett, member of the congregation, and until recently n member of the official board of the church, charging the pastor with the diversion of the church funds to his own personal use."
+      "text": "Attorney Files Suit Against Prelate in Factory Deal\n\nOmaha, Neb., Jan. 21.\u2014A suit has been filed in the District court here against Rev. William C. Williams, pastor of St. John's A. M. E. church, by Attorney Harrison J. Pinkett, member of the congregation, and until recently a member of the official board of the church, charging the pastor with the diversion of the church funds to his own personal use.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -752,7 +837,8 @@
         1064
       ],
       "label": "paragraph_title",
-      "text": "Purchase Factory"
+      "text": "Purchase Factory",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -762,7 +848,8 @@
         1313
       ],
       "label": "text",
-      "text": "the sum of $6,000 to Rev. Mr. Williams which was to be used by him in purchasing a site and creating a factory which would give employment to girls and women; that the lots were purchased in the minister's own property; that the factory was regimented, and that about the time the factory was completed the plaintiff alleges that Rev. Mr. Williams turned over seven-eighths of the land for a half interest in the property, whereas it is asserted, he should have turned over seven-eighths of the land for a half interest in the property,vested only $750 of his own money in the project, which was $50 less than the $800 the minister received as his own money and superintendent of the building."
+      "text": "the sum of $6,000 to Rev. Mr. Williams which was to be used by him in purchasing a site and creating a factory which would give employment to girls and women; that the lots were purchased in the minister's own property; that the factory was regimented, and that about the time the factory was completed the plaintiff alleges that Rev. Mr. Williams turned over seven-eighths of the land for a half interest in the property, whereas it is asserted, he should have turned over seven-eighths of the land for a half interest in the property,vested only $750 of his own money in the project, which was $50 less than the $800 the minister received as his own money and superintendent of the building.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -772,7 +859,8 @@
         1326
       ],
       "label": "paragraph_title",
-      "text": "Demands Accounting"
+      "text": "Demands Accounting",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -782,7 +870,8 @@
         1477
       ],
       "label": "text",
-      "text": "Attorney Pinkett demands an accounting from Rov. Mr. Williams as to the disposition of funds intrusted to him by the church and to Rov. Mr. Williams came to this city from Kansas City, Mo., where the church is located six years. This, according reports, is the first charge ever placed against him in the church. The suit is located at 24th and Burdette streets and is leased by M. E. Smith & Co."
+      "text": "Attorney Pinkett demands an accounting from Rov. Mr. Williams as to the disposition of funds intrusted to him by the church and to Rov. Mr. Williams came to this city from Kansas City, Mo., where the church is located six years. This, according reports, is the first charge ever placed against him in the church. The suit is located at 24th and Burdette streets and is leased by M. E. Smith & Co.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -792,7 +881,8 @@
         1526
       ],
       "label": "paragraph_title",
-      "text": "CONTEST SEATS OF WHITE\nSTATE REPRESENTATIVES"
+      "text": "CONTEST SEATS OF WHITE\nSTATE REPRESENTATIVES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -802,7 +892,8 @@
         1719
       ],
       "label": "text",
-      "text": "Boston, Mass., Jan. 21.\u2014Matthew W. Bulblec and Andrew B. Lattimore, unsuccessful, Republican candidates, for the house of representatives at the No. 20 district. Born in district, Roxbury, lied a petition with the clerk of the house, asking that their successful opponents, Representatives Frank Burke and Timothy Driscoll, be declared and the petitioners be declared the legally elected representatives.\n\nThe petition states that Burke and Driscoll gained office through fraud and unauthorized voters were threatened with prosecution if they appeared at the polls."
+      "text": "Boston, Mass., Jan. 21.\u2014Matthew W. Bulblec and Andrew B. Lattimore, unsuccessful, Republican candidates, for the house of representatives at the No. 20 district. Born in district, Roxbury, lied a petition with the clerk of the house, asking that their successful opponents, Representatives Frank Burke and Timothy Driscoll, be declared and the petitioners be declared the legally elected representatives.\n\nThe petition states that Burke and Driscoll gained office through fraud and unauthorized voters were threatened with prosecution if they appeared at the polls.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -812,7 +903,8 @@
         2173
       ],
       "label": "text",
-      "text": "Austin D. Sutton, real estate dealer, 2931 State street, was given one year in the county jail and fined one dollar for creating a confidence game. Sutton was arrested by Police Officer Rufus Williams in November, when warrants were sworn out against him for taking his property by him, which he had no authority to rent and refusing to give back the deposits.\n\nThe case came up in the Harrison Street court and Sutton was recognized by the judge for his bravery. It was proven he had violated his parole and he was bound over to the grand jury. On Nov. 16 the fiver bonds set at $20,000. Bonds set at $20,000. Unable to raise the necessary amount, he spent the Christmas holidays behind the iron bars on the North Side. His case came to light on November 16, times faced him. Although Atty, Owen peared as his counsel; Sutton proceeded to do all the talking. Unable to stop, heudge McDonald told the court the most hurt time he would spend in pail. Sutton admitted he had been in jail twice before and that he was on on parole at his arrest. He claimed membership in a prominent lodges. His victims will ask to have him expelled from these."
+      "text": "Austin D. Sutton, real estate dealer, 2931 State street, was given one year in the county jail and fined one dollar for creating a confidence game. Sutton was arrested by Police Officer Rufus Williams in November, when warrants were sworn out against him for taking his property by him, which he had no authority to rent and refusing to give back the deposits.\n\nThe case came up in the Harrison Street court and Sutton was recognized by the judge for his bravery. It was proven he had violated his parole and he was bound over to the grand jury. On Nov. 16 the fiver bonds set at $20,000. Bonds set at $20,000. Unable to raise the necessary amount, he spent the Christmas holidays behind the iron bars on the North Side. His case came to light on November 16, times faced him. Although Atty, Owen peared as his counsel; Sutton proceeded to do all the talking. Unable to stop, heudge McDonald told the court the most hurt time he would spend in pail. Sutton admitted he had been in jail twice before and that he was on on parole at his arrest. He claimed membership in a prominent lodges. His victims will ask to have him expelled from these.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -822,7 +914,8 @@
         2203
       ],
       "label": "paragraph_title",
-      "text": "RICHARDSON FIRST MAN"
+      "text": "RICHARDSON FIRST MAN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -832,7 +925,8 @@
         2329
       ],
       "label": "text",
-      "text": "TO ACT AS JUDGE\nRichmond, ind., Jan. 21\u2014Cornelius R. Richardson, an attorney here, was named as special judge, hear the cases of three men, indicted for violations of the ll.4ur laws. The defendants asked for a change of venue or judge of the ll.4ur judge of the Wayne County Circuit court, and Attorney Richardson was named."
+      "text": "TO ACT AS JUDGE\nRichmond, ind., Jan. 21\u2014Cornelius R. Richardson, an attorney here, was named as special judge, hear the cases of three men, indicted for violations of the ll.4ur laws. The defendants asked for a change of venue or judge of the ll.4ur judge of the Wayne County Circuit court, and Attorney Richardson was named.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -842,7 +936,8 @@
         2521
       ],
       "label": "text",
-      "text": "It is the first time in the history of Wayne county that a man of our Race, Judge A. Jury which deliberated all night was discharged by Judge Bond because it failed to agree on a verdict in the case of Jason Watkins.\n\nDIES AT AGE OF 110 YEARS\nCordova, Jenn. Tenn. 21.\u2014Mrs. Debbie Gittard died Tuesday, Jan. 12, at the home of her husband, John, drop. Although she served the white people faithfully during the War of the Rebellion, they refused to address her as \"Mrs.\" The old southern term \"cunty\" was used in reference to her."
+      "text": "It is the first time in the history of Wayne county that a man of our Race, Judge A. Jury which deliberated all night was discharged by Judge Bond because it failed to agree on a verdict in the case of Jason Watkins.\n\nDIES AT AGE OF 110 YEARS\nCordova, Jenn. Tenn. 21.\u2014Mrs. Debbie Gittard died Tuesday, Jan. 12, at the home of her husband, John, drop. Although she served the white people faithfully during the War of the Rebellion, they refused to address her as \"Mrs.\" The old southern term \"cunty\" was used in reference to her.",
+      "status": "ok"
     }
   ]
 }

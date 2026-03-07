@@ -1,4 +1,57 @@
-Mrs. Hossom Lee Hayes, French Visiting in the city as the guest of her mother, Mickensey Bowles, Dearborn, Michigan. E. G. Hamilton, Mound, Illinois, was in the city last week on lodge business, visiting in the city as the gu
+JUDGE FOR YOURSELF
+
+The Madam C.J. Walker SUPERFINE PREPARATIONS for the HAIR and SKIN and SCIENTIFIC WALKER TREATMENTS for the Hair and Scalp by efficient, willing and well trained
+
+WALKER AGENTS
+GOOD RESULTS HAVE MADE THEM WORLD RENOWNED
+
+SEND FOR THIS TO DAY
+
+TRY THEM
+
+A WALKER AGENT IS YOUR NEIGHBOR
+
+USE ONLY MADAM C.J.WALKER'S WONDERFUL HAIR GROWER
+
+Supplied to you by WALKER AGENTS, Good Drug Stores and by Mail.
+
+THE MADAM C.J. WALKER MFG. CO.
+640 N. West St.
+Indianapolis, Ind.
+
+SPECIAL 6 WEEKS TRIAL OFFER for the Scalp
+
+Wonderful Hair Grower
+
+Here are four preparations especially recommended for short, thin and brittle hair, itching scalp, baldness, dandruff and tears of the scalp—our special trial offer—order it now.
+
+Glossine
+
+The Mme. C. J. Walker Mfg. Co.
+640 N. West St.
+Indianapolis, Ind.
+
+Vegetable Shampoo Soap
+
+Here enclosed is P. O. order for $1.50, please enclose a 4 week trial treatment for my scalp.
+
+Name
+
+St. Add.
+
+City
+
+State
+
+This Company Serves You Money—Use It Today
+
+PAGE EIGHT—PART ONE
+
+[OCR timeout]
+
+Mr. and Mrs. Buck White, 231 Chileno
+party in honor of their niece, Miss Joe
+Brown.
 
 Mrs. Elizabeth Hutchins and Mrs. Elizabeth W. Brown, 2645 Indiana Ave. enter, through the South, March 25, Mrs. W. Brown, 2645 Indiana Ave. enter, through the South, in honor of Arthur A. Rousseau at the Rhodes Ave. and Mrs. A. Finney, 3715 Rhodes Ave. and Mrs. A. Fi
 
@@ -7,23 +60,11 @@ Walsh Ave. entertained Friday eve-
 
 # Lemon Juice Whitens Skin
 
-The only harmless way to bleach the skin white is to mix the juice of two lemons with three ounces of Cocoa. Any drugs will supply for a few cents. Shake well in a bottle, and you have a whole quarter pint of the most wonderful skin softener and beautifier.
+FIT
 
-Massage this sweetly fragrant lemon bleach into the face, neck, arms and hands. It cannot irritate. Famous sage beauties use it to bring that clear, youthful skin and rosy, complimated skin so soft, rough or chapped hands and face. You must mix this remarkable bleach yourself. It cannot be bought ready to use because it acts immediately after it is prepared.
+The only harmless way to bleach the skin the longer you juice of two lemons with three ounces of water any druggist will supply for a few cents. Shake well in a bottle, and any druggist quarter pint of the most wonderful skin softener and beautifier.
 
-JUDGE FOR YOU
-
-Madam C.J.WALKER'S WONDERFUL HAIR GROWER
-
-SEND FOR THIS TO DAY
-
-USE ONLY MADAM C.J.WALKER'S WONDERFUL HAIR GROWER
-
-Supplied to you by WALKER AGENTS, Good Drug Stores and by Mail.
-
-THE MADAM C.J. WALKER MFG. CO.
-640 N. West St.
-Indianapolis, IN.
+Massage this sweetly fragrant lemon bleach into the face, neck, arm and hand, then most stage beauties use it to bring that clear, youthful skin and rosy-white complexion; also soothe red, irritated skin. You must mix this remarkable bleach yourself. It cannot be bought ready immediately after it is prepared.
 
 All notes for the Society Column must be signed and the adhere to the fore they will be given consideration. Address all communications to: Defender, 3425 Indiana Ave. ning with a dancing party in honor of Blazer Wilson, St. Louis, Mo. The host was hostage at a party given Tuesday night, April 1. In C. A., the "T" girls and a few friends Wilkeron, Cleveland; Charles Brooke and Clarence Morris of the Illinois College, Johnson and Xance. Dr. Graddy, Johnson and Mr. and Mra Stuart Hedgepath.
 
@@ -81,27 +122,7 @@ Among the many features of the re-recorded work of Mme. Mira, displayed by Mrs. 
 
 ## Manikins Misplaced
 
-Several creations in gowns and mille-annais and students of Mme. Marquette Cox, but unfortunately the manikinning and students of Mme. Marquette Cox, and not found until after the performance. Madam Cox was to be at Harland, Dr. Vada Summersville, Mrs. Marquette Cox, and not fo
-
-Much credit must be given Mrs. Ellia Moore, president of the committee, for her unmitten efforts to establish the Palm Depot, master designer, who served us during the early years of the Palm Depot, in color harmony and electric lighting. The furniture was furnished by the lamps and the damps by Carrie Nicholson, the designer, and the damps by Car
-
-The following are the officers of the
-company was organized in 1918, and has
-presented them to the President, Bethel C. G. Walker, president
-Mrs. Alice Cohn, vice-president and
-secretary, Mrs. Marle Johlin,
-coordinating secretary; Mrs. Marle Johlin,
-palliatedancer; Mrs. Elia White,
-palliatedancer; members of the club are
-Misses Bessie Bluett, George A.
-Georgia, Robinson, M. Betselina,
-Georgia, Robinson, M. Betselina,
-Someville and Mrs. Jonie Worsham,
-Bluestet, Martie Dodes, Mattie Porter,
-Bible Prelude, Robert Hobson, and
-Honorary members, Mrs. F. M. Alexander,
-Cole-Tahir and Mrs. A. Lelia Walker,
-Colle-Tahir and Mrs. A. Lelia Walker.
+[OCR timeout]
 
 ## HURT IN COLLISION
 
@@ -115,26 +136,44 @@ Miss Florence Perkins, teacher in the public schools of Indianapolis, Indiana, w
 
 People who have endured fortunes from itching eczema will be happy to be imperfect and is already enjoying unhardened of popularity on account of the quick way it gets rid of the itching. It can be body seemed able to figure out before. Most all devices have been forced to be a supply of this Black and White Ointment on account of the tremendous demand which has already reached the mammoth rate of the millions packages a year in its sales. It is economical too. The big 360 is much as the leather 360 is—Adry.
 
+THE CHICAGO DEFENDER
+
 # NEWS OF THE MUSIC WORLD
 
 By NAUDE ROBERTS GEORGE
 
 tary: Miss Winona Mason Brown, corssor and treasurer. Two members of the board of directors were elected by the Theo T. Taylor, Martha B. Anderson, the Ethel Bonda and Clara Hutchison are the holder memoirs. 40 years of service in the fashionable St. George Epiphany Orchestra, the composer and solist, the musical program of the entire school, by this eminent musician. Chicago musicians conceive of this hope of the praise that Mr. Burleigh will be heard in Chicago in the near future.
 
-Monday night at Bergen Baptist Church, in preparation for a reception in precaled for a large and appreciative audience, in which the Chicago Music association was present. The Chicago Music association was assisted by Walter C. Gosset, organist, and Estella C. Gosset, pianist position of a Nego, Mr. Amourette voice and piano player, and the National Association of Nego Musicians, one of the Nego, Mr. Amourette voice an
+[OCR timeout]
 
-THE Japanese soprano, Mine, Tamaki Mori, will be the role of "Mime, Butterfly." This is the first time a Japanese soprano will be a cabaret group wired to welcome her back and to hear her open which will be her first performance. This company is composed of many stars who are trained in the music. This company is much lower than those of our company, the highest priced music students in the country, but it is expected that there will be a record of success. The concert will be held at Palbert, who recently appeared in recital here and made such an successful tour through the state and borrows students from Fort Madison, Keokuk and Burlington. Dickinson will be heard in recital at the National University of Music Friday night.
+[OCR timeout]
 
-Vickersham, Miss. Miss. 11—Mrs. Daisy E. Lampkin of Pittsburgh, Pa. will be honored at the music students will attend many performances of Colored Women. She is the honored guest at a reception given the residence of Mrs. Salle Morgan.
+[OCR timeout]
 
-The clubs which sponsored the reception are the Camellia club, Mrs. Hettlein; the Marchiel Niel club, Mrs. Hettlein; the Marchiel Niel club, Mrs. Hettlein; the Booker Washington club, Mrs. Ophelia Williams, president of the organization; Mrs. Geraldine M. Gray, president; Mrs. Lampkin addressed the ladies, and then organized the clubs into a city federation. The officers elected to head the federation were: Salle Morgan, first vice president; Mrs. M. B. R. Bowen, second vice president; Mary M. Thema Watson, corresponding secretary, and Bette M. Following the serving of a delicious luncheon, Mrs. Lampkin was invited to a church, where she delivered a very inspiring lecture to the citizens of this city. Local talent insisted in making this program a success.
+[OCR timeout]
 
-GROUND STONE WEEK
-WEEK Chief Counsel "stone" week 42 to 27. The "Song of Ethiopia" has been released. Let it cheer 150,000.-
+Stout Women
+"Original World Bargain"
 
-Hazel Harrison, artist pianist and a pupil of the great composer of the American church Festival Friday night under the management of Theta Omega chapter of the Alpha Music Society, review from all over the country of reviews from all over the country, have been read in their column and been interested had been acknowledged place with the foremost plantation of the country. Music loves Miss Harrison and the wonderful auditorium to her.
+Slenderizing Hand Beaded
+Spanish Lace
+Trimmed
+Tussah Silk Dress
+$3.98
 
-Miss Harrison was one which only a truly great artist would have attempted and because she numbered in the column, three choricles by Bash-Busch, sonata G. sharp minor and quade in G major, choral motion by Meyer, Arabesque on Sequiklinder, Scherer in E flat minor by Brahms, Serenade by Rosini-Liust, Motion by Meyer, Arabe
+One-Piece Model
+
+Regular and Stout Sizes 22 to 64
+
+SEND NO MONEY With Order
+
+Money Back Guarantee
+
+World Mail Order Co.
+
+[OCR timeout]
+
+[OCR timeout]
 
 Miss Tren Taylor, a resident of the Chicago office of Mr. Chipperidge of Kimmel Hall, will return to her home in Philadelphia, where she has been heard upon many important occasions and has made warm admiration of her musicales at Metropolitan Community University. Berta D. Tyre has returned to work in many new newspapers in the West and has published of press comments that are most compelling in this city and we are sure the reader will mean success. We quote a few comments below: A accomplished singer that has come to us from the orphanage so often, she was equally at home in coloratura in Rigoletto. A charming personality plus brains, which is her fine artist—California Kalee. The greatest dramatist of the day, a politician of her voice was a revelation to the audience of her great ovation—Stockton Daily Independent. Annual election of officers was held at the meeting of the Chicago officers the officers were read and an interview with the business men was given. The following officers were elected: J. Wesley one, J. Merrill two, Miss Marlina Lewis, records secret-
 
@@ -146,12 +185,13 @@ Before coming to his present passivity, he was a man of distinction five years, 
 
 Encyclopedia, the largest and most popular book ever published, cook books. A book for the school, a book for the home, Nothing published before. It will be completely before. If you want to be a cook, undergrad, buy one. Book is $25 for 5 days only. No book dates only. Do but all must be in English. A Beatle's World book.
 
-Cooking Encyclopedia, 140 W. 93d St.
-New York city—(Adrimentement.)
+complete cook book covering 1,200 recipes. A book for the school cook, a book for the hotel, a book for the restaurant, like it has ever been published before. If you complete it, if you have any other book you buy, one if you are undermild, buy one. If you are mild, book it as $2 for 50 dollars, buy it as $4 for 50 dollars, send C. O. D., but all must be in New York city. - Advertisement.
 
 Dear Princess: I have for some time been thinking of you, as you are my all-time favorite of your many inquiries, so I venture to ask you to, as you am as blue as blue, how old you are, old I, let my husband for nonsupportive years old. He is in prison, but it isn't bad. He is a good friend and a good company. He is of fine qualities even if he may have never seen him, but I love him that much. I have been corresponding with you more months to serve. Shall I wait for you to care for me—Down Heartbeat?
 
-No one is ever quite an black as they know him because he has been unfortunate and becomes a prisoner, but still I feel that he becomes a prisoner, but sti
+[OCR timeout]
+
+[OCR timeout]
 
 # 98 Out of Every 100 Women Benefited
 
@@ -183,7 +223,7 @@ Alpha Phi Alpha Fraternity to Broadcast Educational Campaign Talks by Radio
 
 Washington, D. C., April 11—Go to High School—Go to College Week.” pronounced by leading educators as the most forward-looking movement ever inaugurated by a group of college students will be observed this year throughout the United States during the week of May 4-11, inclusive, by the 59 old chapters of the fraternity and by the year this movement is making a deeper impression upon the youth of America and its influence has been noted as the increase of the variety of schools and colleges of the country, conduct of this great nation-wide education campaign to encourage youths to continue their education, to attend college and to attend 3,000,000 parents and students were reached through circulation of literature through the philanthropy through the funding and the leadership by the chapters and members of the fraternity to the various sections of High School.
 
-This year marks the fifth annual education campaign to encourage youth to continue their education, with 3,000,000 parents and students reached through circulation of literature, the display of placards, through the chapters and members of the fraternity in the various sections of the United States. To be aware this year promises to be more effective than those of previous years. In addition to the cities of the country, plans are under way to have the gospel of "Stay in High School and Go to College" broadcast stations in every-large city in America. Including other unique features to be used in bringing the movement to the attention of as many as 5,000,000 persons will be published by Norman L. McGhee of Washington, D. C. the national secretary of the campaign this year is under the immediate direction of Raymond W. Cannon of Minnesota Milpita, N.Y., and Alpha fraternity. Mr. Cannon states that from all indications the message will be heard in every state of the Union as there are now chapters or members of the fraternity in practice of importance in the United States. A committee, headed by Oscar C. Brown of Minnesota Milpita, N.Y., is work upon the preparation of placards, posters, pamphlets and other materials to present important data showing the advantages of education. This literature will be distributed through the country by the fraternity during the week of May 4-11.
+[OCR timeout]
 
 ## MARRIED
 
@@ -191,23 +231,12 @@ the marriage of Miss Sarah E. Douglass to James Guest on March 22 is
 
 those 16 james lahore by the bride's mother, Mrs. J. E. Burke. The bride and the only immediate friends of Mrs. J. E. Burke the bride is a Chihuahua who acquaints the acquaintance with the friends. The groom is a chaucepain of the city for five years, the bride has been planned in the home at 424 E. 48th h. at home 424 E. 48th h.
 
-Many汕头 schoolmates Mrs. Jas Guest their honor. Mr. and Mrs. Guest are home at n42 E. 46th Pl.
-
-THE REV. LANGFORD DIES
-B. Langford, 41st. Wagstown St. died last week. He was 75 years old and united from Hampion institute in the class of 75. After teaching school for 40 years, he became associated with the New York faithfully served 40 years, which he
+[OCR timeout]
 
 Of course we know that our medicine does benefit the large majority of women who take it. But that only two out of 100 received no benefit is most astonishing. It only goes to prove, however, that a medicine specialized for certain definite ailments—not a cure all—one that is made by the most scientific process; not from drugs, but from a combination of nature's roots and herbs, can and does do more good than hastily prepared prescriptions. You see, we have been making improving and refining this medicine for over 50 years until it is so perfect and so well adapted to women's needs that it actually has the virtue to benefit 98 out of every 100 women who take it. It's reliability and recognized efficiency has gained for it a sale in almost every country in the world—leading all others.
 
-It's reliability and recognized efficiency has gained for it a sale in almost every country in the world—leading all others.
+[OCR timeout]
 
-of a fiery and dangerous temper. With
-thwung things and light when angry. I
-am afraid of her, could not stand
-away. Please help me, please, please.
-Please help me, please, please.
+[OCR timeout]
 
-You deserve much sympathy and I will do my best to ensure that the future you walk away to return no more. A temper such as you de-
-dermine may be capable of doing, and you may be able to help with such a person to such an extent that you want to think he or she is
-not your mother. You may be able to increase the violence of her husband's love for her individual, but, the average
-mother is the same, so I advise you to live apart from him as long as you can
-have a mother. You may be able t
+[OCR timeout]

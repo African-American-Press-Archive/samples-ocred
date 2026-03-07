@@ -3,7 +3,29 @@
   "image": "images/page_15.jpg",
   "width": 1836,
   "height": 2586,
+  "processed_at": "2026-03-07T00:33:23.580721+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 264,
+    "after_merge": 120
+  },
   "regions": [
+    {
+      "bbox": [
+        34,
+        80,
+        294,
+        250
+      ],
+      "label": "text",
+      "text": "Room Rent\nAdvertise your rooms in this\ncolumn. We rented over\n4,000 rooms last year.",
+      "status": "ok"
+    },
     {
       "bbox": [
         60,
@@ -12,7 +34,8 @@
         371
       ],
       "label": "doc_title",
-      "text": "FURNISHED ROOMS FOR RENT\nFRANKLIN\nFAMILY HOTELS\n4524-26 and 3940-42\nIndiana Ave."
+      "text": "FURNISHED ROOMS FOR RENT\nFRANKLIN\nFAMILY HOTELS\n4524-26 and 3940-42\nIndiana Ave.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +45,8 @@
         446
       ],
       "label": "text",
-      "text": "Phonice Drexel 5123 and Blvd. 2518.\n\nBeautifully furnished rooms, with all modern conveniences. Also sanitary locker lockers. Price $4 to $8 per week."
+      "text": "Phonice Drexel 5123 and Blvd. 2518.\n\nBeautifully furnished rooms, with all modern conveniences. Also sanitary locker lockers. Price $4 to $8 per week.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +56,8 @@
         523
       ],
       "label": "doc_title",
-      "text": "Mrs. P. Franklin, Prop.\nW. C. McQuire, Mgr.\nROOMS"
+      "text": "Mrs. P. Franklin, Prop.\nW. C. McQuire, Mgr.\nROOMS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +67,8 @@
         783
       ],
       "label": "text",
-      "text": "BY DAY OR WEEK\nIDLEWILD HOTEL\nCORNER CAR LINE AND JASH AV.\nNEAR CAR LINE AND JASH STATION.\nDINING ROOM SERVICE\n42. E. 420 II., 2D APT.\u2014TWO SINGLE AND\none double room for gentlemen, in respectable\nand all modern conveniences, electricity,\nsteam and water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16\n421. E. 420 II., 2D APT.\u2014TWO SINGLE AND\none double room for gentlemen, in respectable\nand all modern conveniences, electricity,\nsteam and water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16\nWAHAMAH AV., 3201, APT.\u201440-TWO NEATLY\nfront rooms. Hot and cold water. Steam\nand water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16\nWAHAMAH AV., 3201, APT.\u201440-TWO NEATLY\nfront rooms. Hot and cold water. Steam\nand water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16"
+      "text": "BY DAY OR WEEK\nIDLEWILD HOTEL\nCORNER CAR LINE AND JASH AV.\nNEAR CAR LINE AND JASH STATION.\nDINING ROOM SERVICE\n42. E. 420 II., 2D APT.\u2014TWO SINGLE AND\none double room for gentlemen, in respectable\nand all modern conveniences, electricity,\nsteam and water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16\n421. E. 420 II., 2D APT.\u2014TWO SINGLE AND\none double room for gentlemen, in respectable\nand all modern conveniences, electricity,\nsteam and water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16\nWAHAMAH AV., 3201, APT.\u201440-TWO NEATLY\nfront rooms. Hot and cold water. Steam\nand water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16\nWAHAMAH AV., 3201, APT.\u201440-TWO NEATLY\nfront rooms. Hot and cold water. Steam\nand water; 420 III., 420 IV., 420\nstreet and Indian arches. Oat. 2353\nafter 4 p. m. J. R. Primes.\n8-16",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +78,8 @@
         818
       ],
       "label": "text",
-      "text": "40 \u2014 A6 seat furnishment front room 10, and\n41 \u2014 A7 seat furnishment rear 2 car seat 10,\n\"f1.\" \u2014 Call after 3 p. in,.\n\"f2.\" \u2014 Call after 3 p. in."
+      "text": "40 \u2014 A6 seat furnishment front room 10, and\n41 \u2014 A7 seat furnishment rear 2 car seat 10,\n\"f1.\" \u2014 Call after 3 p. in,.\n\"f2.\" \u2014 Call after 3 p. in.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,17 +89,30 @@
         1205
       ],
       "label": "text",
-      "text": "423 E. 48TH PL. APT. 3 - NEATLY FURN.\nroom, suitable for couple, modern conven-\ntions, car car line and \"12\"; must have bake-\nreference. 8-15\n424 SD PARK AVE. APT. 3 - NEATLY FURN.\nroom, $100.00, $50.00, phone boun. 850.10\nWAHABAV AV. HOTEL, VERHENDS. APT. 3 -\nexclusive and best housekeeping suite.\nroom, steam bath, heat boun. 850.10\nWABAHS AV. HOTEL, VERHENDS. APT. 3 -\nexclusive and best housekeeping suite.\nroom, steam bath, heat boun. 850.10\nWABAHS AV. HOTEL, VERHENDS. APT. 3 -\nexclusive and best housekeeping suite.\nroom, steam bath, heat boun. 850.10\nFORESTVILLE AV. 4388, 3D APT. - front\nroom in modern apt. Call after 4 p. m. Dres.\n6082\nVINNERS AV. 4388 - NEATLY FURN.\nroom; steam, electricity; all modern conven-\ntances. 8-15\n524 SOUTH PARK AV. 3D APT. - front\nroom will bath; baths; modern. 3572. 8-15\nINDIANA AV. 4388 - LIGHT HOUSEKEEPING\nroom; steam bath, electric lights. Phone\nVictoria 8617.\nWAHABAV AV. 5104, 3D FLAT - FURNISHED\nrooms; steam heat, hot and cold water. Ken.\n041\nLIGHT HOUSEKEEPING ROOMS FOR COP-\nple; also plus for bachelor. Phone\n4567, evenings.\n445 E. 48TH PL. APT. 3 - MODERN ROOMS.\nfurnished or unfurnished. Call eagle calls."
+      "text": "423 E. 48TH PL. APT. 3 - NEATLY FURN.\nroom, suitable for couple, modern conven-\ntions, car car line and \"12\"; must have bake-\nreference. 8-15\n424 SD PARK AVE. APT. 3 - NEATLY FURN.\nroom, $100.00, $50.00, phone boun. 850.10\nWAHABAV AV. HOTEL, VERHENDS. APT. 3 -\nexclusive and best housekeeping suite.\nroom, steam bath, heat boun. 850.10\nWABAHS AV. HOTEL, VERHENDS. APT. 3 -\nexclusive and best housekeeping suite.\nroom, steam bath, heat boun. 850.10\nWABAHS AV. HOTEL, VERHENDS. APT. 3 -\nexclusive and best housekeeping suite.\nroom, steam bath, heat boun. 850.10\nFORESTVILLE AV. 4388, 3D APT. - front\nroom in modern apt. Call after 4 p. m. Dres.\n6082\nVINNERS AV. 4388 - NEATLY FURN.\nroom; steam, electricity; all modern conven-\ntances. 8-15\n524 SOUTH PARK AV. 3D APT. - front\nroom will bath; baths; modern. 3572. 8-15\nINDIANA AV. 4388 - LIGHT HOUSEKEEPING\nroom; steam bath, electric lights. Phone\nVictoria 8617.\nWAHABAV AV. 5104, 3D FLAT - FURNISHED\nrooms; steam heat, hot and cold water. Ken.\n041\nLIGHT HOUSEKEEPING ROOMS FOR COP-\nple; also plus for bachelor. Phone\n4567, evenings.\n445 E. 48TH PL. APT. 3 - MODERN ROOMS.\nfurnished or unfurnished. Call eagle calls.",
+      "status": "ok"
     },
     {
       "bbox": [
         44,
         1270,
         294,
+        1855
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        51,
+        1859,
+        294,
         2106
       ],
       "label": "text",
-      "text": "INDIANA AV, 4511, 4512 FLAT-FURN, HJRE, BIETIarly modern; gentlemen preferred, Dreser.\n61. LAWRENCE AV, 4444, 4534 FLOUR-FURN, purrished room for couple, Heimo, Steam heat, electric lights.\nVERONA AV, 4513, NEATLY FURN, ROOMS for married and married couples, Kitchen privileges, Respectable only.\nLARGE, LIGHT, STEAM HEATED AND MICRO, Dishroom, electric lights, and surface, Went, 9090.\nFORESTVILLE AV, 4538, 4539 FURN, room, steam, electric lights; hostelle, Ken. 1500.\nINDIANA AV, 4511, 4512 HOOMS for RENT; also rooms for light housekeeping. Furished furnished, Ken. 6258.\nFORESTVILLE AV, 4538, 4539 FURN, room, steam, electric lights; hostelle, Ken. 1500.\nPRAIRIE AV, 3221, 321 DFT-FURN, ROOMS for large or two people; steam bream. 8125.\nCALUMET AV, 4401-FURN, ROOMS, hot and cold water, steam and electric lights; hostelle, Ken. 1500.\nLAWRENCE AV, 4840, 4830 DFT-MODERN furn, room, Kitchen privileges, Ken. 1500.\nWINEN AV, 4501, 4512 AFT-FURN, ROOMS, steam heat, electricity, Near Grand Bldd, Oak. 5802.\nWINEN AV, 4501, 4512 A"
+      "text": "MICHIGAN AV, 3310, 187 APT\u2014FURN, RMS.\nhalloween men preferred.\nMICHIGAN AV, 3310, 187 APT\u2014FURN, RMS.\nall concouecues. Private family. Doug, 740.\nBLENWOOD AV, 3280\u2014NATLYFURN, RMS.\nman and wife or single men. Doug, 7170.\nELLIAS AV, 3227\u2014BEAUTIFULLY FURN.\nlarge room with kitchenette.\nELLIAS AV, 3227\u2014BEAUTIFULLY FURN.\nto gentianite. Private family. Doug, 3501.\nINDIANA AV, 4230, 20 APT\u20142 LARGE FURN-\nished rooms; gentlemen preferred.\nNEATLYFURN. ROOMS WITH MODERN\nGALISTER AV, 2930, IGON FURN DES-\npectable man and wife. Doug, 6003. 18-29\nWADASHI AV, 3813\u2014FURN, RMS. 40, CALL\nSunday after 8 p. m. Normal 4760.\nPAIRIA AV, 3811\u2014FURN. ROOM AND\nSTUDENTS. Doug, 6001.\nINDIANA AV, 4551, 20 FL-FURN. BMS.\nModern. Drex, 1748.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +122,8 @@
         2250
       ],
       "label": "text",
-      "text": "SOUTH AIR AVE. 315G- FURN. ROOMS, ON 13\nWASHIAS HAV. 315G- NELLY FURN. LIGHT,\nairy rooms. Modern, impaired. Re. 102.\nMADAMET ST. 315G- NELLY FURN. LIGHT,\nsmall room. Great space.\nMADAMET AV. 351G- NICILLY FURN. ROOMS,\nModern. 4202. 15:22"
+      "text": "SOUTH AIR AVE. 315G- FURN. ROOMS, ON 13\nWASHIAS HAV. 315G- NELLY FURN. LIGHT,\nairy rooms. Modern, impaired. Re. 102.\nMADAMET ST. 315G- NELLY FURN. LIGHT,\nsmall room. Great space.\nMADAMET AV. 351G- NICILLY FURN. ROOMS,\nModern. 4202. 15:22",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,8 @@
         2315
       ],
       "label": "text",
-      "text": "LAWRENCE W. 491, 492, 500, CD APT\u2014MODERN\nfarm. room. Kitchen privileges."
+      "text": "LAWRENCE W. 491, 492, 500, CD APT\u2014MODERN\nfarm. room. Kitchen privileges.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +144,8 @@
         2566
       ],
       "label": "text",
-      "text": "VERNON AV, 3315, 2D APT.-LARGE FRONT\nmodern furn. room. Geolithones $1 per week.\nPOWERFUL FURN. ROOM. 8310-NEATLY FURN. ROOMS.\nDoug. 653.\nPRAIRIE AV, 2973-NEATLY FURN. ROOMS.\nKitchen privileges. Doug. 6534, 15 23\n110 E. 45TH RD., 2D APT.-FURN. ROOM,\ncouple or single man. Knifewood 1333, 15 23\n111 FURN. ROOM. Modern rooms. Drexel 2990,\nSisterly room. Drexel 2990.\nCALMESTA AV, 2012-FURN. ROOMS. Doug.\n6559.\nFOREST AV, 3315-NEATLY FURN. ROOMS.\nFURNISHED rooms. Doug. 6560, 15 12-22-30\n45TH ST.-FURN. ROOM. QUICK HOME."
+      "text": "VERNON AV, 3315, 2D APT.-LARGE FRONT\nmodern furn. room. Geolithones $1 per week.\nPOWERFUL FURN. ROOM. 8310-NEATLY FURN. ROOMS.\nDoug. 653.\nPRAIRIE AV, 2973-NEATLY FURN. ROOMS.\nKitchen privileges. Doug. 6534, 15 23\n110 E. 45TH RD., 2D APT.-FURN. ROOM,\ncouple or single man. Knifewood 1333, 15 23\n111 FURN. ROOM. Modern rooms. Drexel 2990,\nSisterly room. Drexel 2990.\nCALMESTA AV, 2012-FURN. ROOMS. Doug.\n6559.\nFOREST AV, 3315-NEATLY FURN. ROOMS.\nFURNISHED rooms. Doug. 6560, 15 12-22-30\n45TH ST.-FURN. ROOM. QUICK HOME.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +155,8 @@
         262
       ],
       "label": "text",
-      "text": "FURNISHED ROOMS FOR RENT\nCOTTAGE GROVE, 20-BURN-PURRIMED ROOMS\nof all descriptions. Suites and kitchenettes.\nCottage Grove L, 520 and 550th and\nPhoenix Doug. 2020. 15:22-30\nEVANS AV. 4805, 2D FLOOR-NICE. Near\nlike rooms for single use or couples. Near\n24-inch. Electric lights, hot water. Rec.\n3510.\nINDIANIA AV. 418, AVE. 39-7 NELLY PURN.\ntable couples only; electric required. Mrs.\nBruce. 16:22"
+      "text": "FURNISHED ROOMS FOR RENT\nCOTTAGE GROVE, 20-BURN-PURRIMED ROOMS\nof all descriptions. Suites and kitchenettes.\nCottage Grove L, 520 and 550th and\nPhoenix Doug. 2020. 15:22-30\nEVANS AV. 4805, 2D FLOOR-NICE. Near\nlike rooms for single use or couples. Near\n24-inch. Electric lights, hot water. Rec.\n3510.\nINDIANIA AV. 418, AVE. 39-7 NELLY PURN.\ntable couples only; electric required. Mrs.\nBruce. 16:22",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +166,8 @@
         292
       ],
       "label": "text",
-      "text": "INDIANA AV, 3F45, APT, 6\u2014NEATLY FURN\ntable only."
+      "text": "INDIANA AV, 3F45, APT, 6\u2014NEATLY FURN\ntable only.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +177,8 @@
         323
       ],
       "label": "text",
-      "text": "WABASH AV, 4387-LAIGRE, LIGHT, ICE\n2 men or couple\nbear like. Brewer 2002."
+      "text": "WABASH AV, 4387-LAIGRE, LIGHT, ICE\n2 men or couple\nbear like. Brewer 2002.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +188,8 @@
         448
       ],
       "label": "text",
-      "text": "LANGLEY AV, 451-LIANGE, LIGHT, AIMY\nKITCHEN privileges,\nINDIANA AV, 8031-NEATY FURN, HOMER,\nin each room. Doug, 8032, running water\nCHAMBIA AV, 4511-PAPERL BEDROOM\nR, use or watches pre-\nferred. Doug, 4528.\nLANGLEY AV, 4527-LIANGE FURNISHED\nlittle; suitable for couple, electric lights; very\nlight; suitable for couple."
+      "text": "LANGLEY AV, 451-LIANGE, LIGHT, AIMY\nKITCHEN privileges,\nINDIANA AV, 8031-NEATY FURN, HOMER,\nin each room. Doug, 8032, running water\nCHAMBIA AV, 4511-PAPERL BEDROOM\nR, use or watches pre-\nferred. Doug, 4528.\nLANGLEY AV, 4527-LIANGE FURNISHED\nlittle; suitable for couple, electric lights; very\nlight; suitable for couple.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +199,8 @@
         640
       ],
       "label": "text",
-      "text": "SOUTH PAIK AVE. 3835.\u2014JUST OPENED.\nLittlest group. Modern conveniences $11,279.\nMODERN conveniences $11,279.\nORAND BLDY. 3835.\u2014NEATLY NURT. DMS.\ngentlemen or couple. Steam heat, electric\nlights. Doug. 2032.\nVERSON AV. 3511.\u2014FURN. ROOM, GENTLE-\nness or Italy. With or without oak. Oak.\n4037.\n12 E. 20 ST.\u2014NICE, LARGE, LIGHT FRONT\nroom. 434 M. Cottage and \"L\" transportation.\n2-12 W. Cottage. Suitable for couple. Electric lights and hot\nwater. Use of kitchen."
+      "text": "SOUTH PAIK AVE. 3835.\u2014JUST OPENED.\nLittlest group. Modern conveniences $11,279.\nMODERN conveniences $11,279.\nORAND BLDY. 3835.\u2014NEATLY NURT. DMS.\ngentlemen or couple. Steam heat, electric\nlights. Doug. 2032.\nVERSON AV. 3511.\u2014FURN. ROOM, GENTLE-\nness or Italy. With or without oak. Oak.\n4037.\n12 E. 20 ST.\u2014NICE, LARGE, LIGHT FRONT\nroom. 434 M. Cottage and \"L\" transportation.\n2-12 W. Cottage. Suitable for couple. Electric lights and hot\nwater. Use of kitchen.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +210,8 @@
         742
       ],
       "label": "text",
-      "text": "442 B. 457TH ST., LAWRENCE PURNISHED PIONE\nroom and others. Ken. 4810. 18-22\n221 B. 457TH ST., 18TH STAT-LIGHT, FURN\nrooms. Electric lights. Maleron."
+      "text": "442 B. 457TH ST., LAWRENCE PURNISHED PIONE\nroom and others. Ken. 4810. 18-22\n221 B. 457TH ST., 18TH STAT-LIGHT, FURN\nrooms. Electric lights. Maleron.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +221,8 @@
         1112
       ],
       "label": "text",
-      "text": "NEXTLY PURN. ROOM FOR RESPECTABLE\nmums no other rooms. Douglas 4815.\nNEXTLY PURN. ROOM FOR PURNISHED\nrooms for working women.\nSOUTH PARK AVE. 4811 - 2 ROOMS. LARAH\nfront room twin beds. Douglas 6147. 15-2\nmums. LARAH front room twin beds. Douglas 6147. 15-2\nmums. LARAH front room twin beds. Douglas 6147. 15-2\nmums. All convenience rooms. Oak, grade 10.\nPLAINE AVENUE. 2030-A LARAH BASEMENT\nroom with kitchenette. Douglas 4815.\nFOR PURNISHED ROOMS UNPURNISHED OR UNPURNISHED\nROOMS. Woodbury 5107.\nSTATE ST. 3003 - TOP PLAT. NEXTLY PURNISHED\nrooms. Calumet 5107.\n282 E. 48TH ST. PLAT 33 - MODERN FRONT\nUNPURNISHED ROOMS. Woodbury 5107.\nUNPURNISHED ROOMS AND LIGHT HOUSE\nkeepin room. Douglas 7035. 16-2\n\nUNFUR 'ISHED ROOMS FOR RENT\nBOYEN AV. 4002 - UNPURNISHED ROOMS.\nstorm, use of kitchen. $0 per week. No childen.\nW. LANE W. 2D FLOOR. NO DESIGN. No childen.\nW. LANE W. 2D FLOOR. Store 14 kitchen.\nCall after 6:30 p.m.\n\nINDIANA AV. 4745. 48TH APT. 2 - UNPURNISHED\nunfurnished rooms and bath. Store 14 kitchen.\nCall after 6:30 p.m."
+      "text": "NEXTLY PURN. ROOM FOR RESPECTABLE\nmums no other rooms. Douglas 4815.\nNEXTLY PURN. ROOM FOR PURNISHED\nrooms for working women.\nSOUTH PARK AVE. 4811 - 2 ROOMS. LARAH\nfront room twin beds. Douglas 6147. 15-2\nmums. LARAH front room twin beds. Douglas 6147. 15-2\nmums. LARAH front room twin beds. Douglas 6147. 15-2\nmums. All convenience rooms. Oak, grade 10.\nPLAINE AVENUE. 2030-A LARAH BASEMENT\nroom with kitchenette. Douglas 4815.\nFOR PURNISHED ROOMS UNPURNISHED OR UNPURNISHED\nROOMS. Woodbury 5107.\nSTATE ST. 3003 - TOP PLAT. NEXTLY PURNISHED\nrooms. Calumet 5107.\n282 E. 48TH ST. PLAT 33 - MODERN FRONT\nUNPURNISHED ROOMS. Woodbury 5107.\nUNPURNISHED ROOMS AND LIGHT HOUSE\nkeepin room. Douglas 7035. 16-2\n\nUNFUR 'ISHED ROOMS FOR RENT\nBOYEN AV. 4002 - UNPURNISHED ROOMS.\nstorm, use of kitchen. $0 per week. No childen.\nW. LANE W. 2D FLOOR. NO DESIGN. No childen.\nW. LANE W. 2D FLOOR. Store 14 kitchen.\nCall after 6:30 p.m.\n\nINDIANA AV. 4745. 48TH APT. 2 - UNPURNISHED\nunfurnished rooms and bath. Store 14 kitchen.\nCall after 6:30 p.m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +232,8 @@
         1138
       ],
       "label": "text",
-      "text": "SOUTH PARK AVE., 3229 - UNFURNISHED\nrooms for light housekeeping. 15.22"
+      "text": "SOUTH PARK AVE., 3229 - UNFURNISHED\nrooms for light housekeeping. 15.22",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +243,8 @@
         1270
       ],
       "label": "text",
-      "text": "PLAIRH AV. 505-3-LARGE UNFURNISHED ROOM.\nST. LAWRENCH AV. 600-3-LARGE UNFURNISHED ROOM.\nST. LAWRENCH AV. 600-3-LARGE UNFURNISHED ROOM.\n605 L. 415T UNFURNISHED ROOM.\nCall after 4:30 p. m. 15-22\nPLAIRH AV. 316-2-FURNISHED ROOM.\nTUNG UNFURNISHED ROOM WITH WATER.\nDouglas 6234. 316th Prairie Ave.\nDOWEN AV. 651-2 UNFURNISHED ROOMS."
+      "text": "PLAIRH AV. 505-3-LARGE UNFURNISHED ROOM.\nST. LAWRENCH AV. 600-3-LARGE UNFURNISHED ROOM.\nST. LAWRENCH AV. 600-3-LARGE UNFURNISHED ROOM.\n605 L. 415T UNFURNISHED ROOM.\nCall after 4:30 p. m. 15-22\nPLAIRH AV. 316-2-FURNISHED ROOM.\nTUNG UNFURNISHED ROOM WITH WATER.\nDouglas 6234. 316th Prairie Ave.\nDOWEN AV. 651-2 UNFURNISHED ROOMS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +254,8 @@
         1349
       ],
       "label": "text",
-      "text": "FOR RENT - FIURNISHED FLATS\nIN MAIN STREET\nROOMS FURNISHED\nper range $1,990, 311 sq. ft.\nMARSHALS"
+      "text": "FOR RENT - FIURNISHED FLATS\nIN MAIN STREET\nROOMS FURNISHED\nper range $1,990, 311 sq. ft.\nMARSHALS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +265,8 @@
         1368
       ],
       "label": "paragraph_title",
-      "text": "WANTED TO RENT"
+      "text": "WANTED TO RENT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +276,8 @@
         1535
       ],
       "label": "text",
-      "text": "MAN WANTS ROOM ON NEW SIDEN AND\nreasonable price by May 16. John Barrell,\n1215 Pls. St., Philadelphia, Ph.\n\nMARRIED CHOICE WOULD LIKE TO RENT 2\nreasonable respectable man and\nfamily. Box 45, Defender.\n\nROOFS AND BOARD\nBOARD ROOM\nChicago for children of all ages. 200 S.\nState st. room 1810. Phone Harrison 1627.\n\nWANTED: A COUPLE OF MEN TO ROOM\nboard. All convenience. Very reasonable.\n1635 Brans Av., 1st apt. Ken, 16188."
+      "text": "MAN WANTS ROOM ON NEW SIDEN AND\nreasonable price by May 16. John Barrell,\n1215 Pls. St., Philadelphia, Ph.\n\nMARRIED CHOICE WOULD LIKE TO RENT 2\nreasonable respectable man and\nfamily. Box 45, Defender.\n\nROOFS AND BOARD\nBOARD ROOM\nChicago for children of all ages. 200 S.\nState st. room 1810. Phone Harrison 1627.\n\nWANTED: A COUPLE OF MEN TO ROOM\nboard. All convenience. Very reasonable.\n1635 Brans Av., 1st apt. Ken, 16188.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +287,8 @@
         1881
       ],
       "label": "text",
-      "text": "If you want to study real estate, renting, insurance, commercial law, mortgages, brokerage, etc., write Lincoln Business Institute, 410 Illinois Av., Chicago, IL. Evening classes. Correspondence classes.\n\nJOIN US AND MEET YOU WANTED MAN WANTED TO WEAR THE LATEST style made-to-measure suit and be generalist. Please contact kinkerbrooke Tailoring Co., Dept. 412, Chicago. If WANTED WHIL EDUCATED MAN WOULD buy interest in real estate. Fortune for right person. Must have $1,000 to achieve the business. Address Bx Chelsea Hill.\n\nPRACTICAL TYPEWRITER, DON'T SEND A BILL. Pay position $2.50 on arrival. Sample catalog, 106, Gatlincard, 2222 Lake St., Chicago.\n\nPIANOS\n\nCALL J. A. RICHARDSON, SALESMAN, AT Bierger & Sons, Whaley av. and Jackson bird, Flushing, NY. Phone 1-800-262-1900 or residence phone 8005."
+      "text": "If you want to study real estate, renting, insurance, commercial law, mortgages, brokerage, etc., write Lincoln Business Institute, 410 Illinois Av., Chicago, IL. Evening classes. Correspondence classes.\n\nJOIN US AND MEET YOU WANTED MAN WANTED TO WEAR THE LATEST style made-to-measure suit and be generalist. Please contact kinkerbrooke Tailoring Co., Dept. 412, Chicago. If WANTED WHIL EDUCATED MAN WOULD buy interest in real estate. Fortune for right person. Must have $1,000 to achieve the business. Address Bx Chelsea Hill.\n\nPRACTICAL TYPEWRITER, DON'T SEND A BILL. Pay position $2.50 on arrival. Sample catalog, 106, Gatlincard, 2222 Lake St., Chicago.\n\nPIANOS\n\nCALL J. A. RICHARDSON, SALESMAN, AT Bierger & Sons, Whaley av. and Jackson bird, Flushing, NY. Phone 1-800-262-1900 or residence phone 8005.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +298,8 @@
         1909
       ],
       "label": "paragraph_title",
-      "text": "LOST AND FOUND"
+      "text": "LOST AND FOUND",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +309,8 @@
         1994
       ],
       "label": "text",
-      "text": "LOST-ONE-HALF DOZEN PHOTOGRAPHY HISTORY\n1923-6421 State ZONE and 1222 E. 314t St.\nLakewood, WI. 53024. BUG 2006. Victory\n3264. Aria L. D. Muller.\nLOST-ANTIQUE EAR HING WITH SMALL\njewels. Monday night, between Avenue and\nEast. Call Bug 3085. Miss Shelia\n3105 Indiana and"
+      "text": "LOST-ONE-HALF DOZEN PHOTOGRAPHY HISTORY\n1923-6421 State ZONE and 1222 E. 314t St.\nLakewood, WI. 53024. BUG 2006. Victory\n3264. Aria L. D. Muller.\nLOST-ANTIQUE EAR HING WITH SMALL\njewels. Monday night, between Avenue and\nEast. Call Bug 3085. Miss Shelia\n3105 Indiana and",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +320,8 @@
         2015
       ],
       "label": "paragraph_title",
-      "text": "FORMULAS"
+      "text": "FORMULAS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +331,8 @@
         2133
       ],
       "label": "text",
-      "text": "FORMULAS- WE ARE FORMULA EXPERTS\nand chemists. Compounds, ores, etc., analyzed.\ngauged standard formulas for everything\nand all its uses. College Gage Stats\nAv., Chicago, Ill.\n\nFURNACES REPAIRED\n\nFURNACES CLEANED AND REPAIRED BY\nVPAIRS, parts furnished. New steel\nfoundation installed. Plugs the\n2014 12m\u00b3 te\u6a61\u540a 4 State Rt."
+      "text": "FORMULAS- WE ARE FORMULA EXPERTS\nand chemists. Compounds, ores, etc., analyzed.\ngauged standard formulas for everything\nand all its uses. College Gage Stats\nAv., Chicago, Ill.\n\nFURNACES REPAIRED\n\nFURNACES CLEANED AND REPAIRED BY\nVPAIRS, parts furnished. New steel\nfoundation installed. Plugs the\n2014 12m\u00b3 te\u6a61\u540a 4 State Rt.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +342,8 @@
         2151
       ],
       "label": "paragraph_title",
-      "text": "JEWELRY"
+      "text": "JEWELRY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +353,8 @@
         2225
       ],
       "label": "text",
-      "text": "DIAMONDS AND JEWELRY. CALL OR\nWRITE, I will bring you a selection. When\nat the store ask for me. I will give you any\nmandatory attention. Year the goods will pay you.\nPay, 10% deposit. Phone: 800-432-3200.\nCoat, 108 N. Blatte St. Office phone: C\nentral 1020; resident phone: Blvd. 4300."
+      "text": "DIAMONDS AND JEWELRY. CALL OR\nWRITE, I will bring you a selection. When\nat the store ask for me. I will give you any\nmandatory attention. Year the goods will pay you.\nPay, 10% deposit. Phone: 800-432-3200.\nCoat, 108 N. Blatte St. Office phone: C\nentral 1020; resident phone: Blvd. 4300.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +364,8 @@
         2245
       ],
       "label": "paragraph_title",
-      "text": "INSTRUCTION"
+      "text": "INSTRUCTION",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +375,8 @@
         2389
       ],
       "label": "text",
-      "text": "PIANO PLAYING TAUGHT IN 20 LESSONS;\ntolpi, saxophone, cornet; all strings and wind\ninstrument; Music School of Music, 45-\nbass St. BIRG, 600, 15-22-20\n\nMANICURING\n\nMANICURING HAND IN MASSAGE\nProf. Vinhth, 10124\nPine St. St. Louis, Mo.\n\nLESSONS BY MAIL IN MASSAGE AND\nmanicuring. 04 W. Handolph, Room 1200,\n4-10-5-20"
+      "text": "PIANO PLAYING TAUGHT IN 20 LESSONS;\ntolpi, saxophone, cornet; all strings and wind\ninstrument; Music School of Music, 45-\nbass St. BIRG, 600, 15-22-20\n\nMANICURING\n\nMANICURING HAND IN MASSAGE\nProf. Vinhth, 10124\nPine St. St. Louis, Mo.\n\nLESSONS BY MAIL IN MASSAGE AND\nmanicuring. 04 W. Handolph, Room 1200,\n4-10-5-20",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +386,8 @@
         2399
       ],
       "label": "paragraph_title",
-      "text": "SITUATIONS WANTED"
+      "text": "SITUATIONS WANTED",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +397,8 @@
         2509
       ],
       "label": "text",
-      "text": "REGISTERED, EXPERIENCED DRUGGERS\nWHO KNOWS THE DRUG BUSINESS, WIDE\nOR WHITE E. G. SMITH, 1853 W. WALNUT\n87, LOUISVILLE, KY.\n\nHELP WANTED--MALE & FEMALE\nACT IN MOTION PICTURES, MAKE IT YOUR\nprofession; send seal for free trophy. Be\nin touch. E. G. SMITH, Inc., Webb Avenue, and 22nd\n8th St., Chicago."
+      "text": "REGISTERED, EXPERIENCED DRUGGERS\nWHO KNOWS THE DRUG BUSINESS, WIDE\nOR WHITE E. G. SMITH, 1853 W. WALNUT\n87, LOUISVILLE, KY.\n\nHELP WANTED--MALE & FEMALE\nACT IN MOTION PICTURES, MAKE IT YOUR\nprofession; send seal for free trophy. Be\nin touch. E. G. SMITH, Inc., Webb Avenue, and 22nd\n8th St., Chicago.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +408,8 @@
         245
       ],
       "label": "text",
-      "text": "Read the advertisements in this column if you want work. A thousand jobs are waiting now. Read the ads."
+      "text": "Read the advertisements in this column if you want work. A thousand jobs are waiting now. Read the ads.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +419,8 @@
         344
       ],
       "label": "doc_title",
-      "text": "BUS BOYS"
+      "text": "BUS BOYS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +430,8 @@
         844
       ],
       "label": "text",
-      "text": "No Sunday or holiday work.\nApply Mr. Kaplan.\nHARMONY CAPETERIA\n27 W. Handolph St\n\nWANTED\nBRIGHT BOY\nOver 16 years old for light work.\nModern Garment Co.\n3977 Cottage Grove Ave.\n3d floor.\n\nWANTED-MEN TO WORK IN LAUNDRY,\nSTEADY POSITION, GOLD BALARY, CHICAGO TOWEL CO. 2233 S. WABASH AV.\n\nMAN WANTED TO DO CLEANING AND pressing, also requires one who can do typing preferred; age from 18 to 30) pay, 50 p.m.\u6bcf\u5468\u4e00\u6b21; two (fathers information write Logwood falloring Co. Box 10, Amherstside W. W.\n\nMAN WANTED WITH TECHNICAL TRANSPairing in building trades; must have experience in actual construction, know how to handle items for decorating at heights exceed 600 per year. Address Samuel Plate, Citizen Trust Ridge, Marion, Ind.\n\nAT INTERNS AND DECORATORS;\nGOOD DAYS, BED HALLWAY, GERALD ALE, S. W. CORNER 28TH AND STATE STS."
+      "text": "No Sunday or holiday work.\nApply Mr. Kaplan.\nHARMONY CAPETERIA\n27 W. Handolph St\n\nWANTED\nBRIGHT BOY\nOver 16 years old for light work.\nModern Garment Co.\n3977 Cottage Grove Ave.\n3d floor.\n\nWANTED-MEN TO WORK IN LAUNDRY,\nSTEADY POSITION, GOLD BALARY, CHICAGO TOWEL CO. 2233 S. WABASH AV.\n\nMAN WANTED TO DO CLEANING AND pressing, also requires one who can do typing preferred; age from 18 to 30) pay, 50 p.m.\u6bcf\u5468\u4e00\u6b21; two (fathers information write Logwood falloring Co. Box 10, Amherstside W. W.\n\nMAN WANTED WITH TECHNICAL TRANSPairing in building trades; must have experience in actual construction, know how to handle items for decorating at heights exceed 600 per year. Address Samuel Plate, Citizen Trust Ridge, Marion, Ind.\n\nAT INTERNS AND DECORATORS;\nGOOD DAYS, BED HALLWAY, GERALD ALE, S. W. CORNER 28TH AND STATE STS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +441,8 @@
         1185
       ],
       "label": "text",
-      "text": "PILMERIES WANTED IN OHIO, MUST\nhave opportunity for field work. Repair,\nfood opportunity for storage. Wanted to\nmanage at once with RIGGS-BARNETT CO.\nYOUNG MEN WANTED BLETTER OATHERS\nand postoffice clerk. We train you\nin office duties. Wanted to work in\nOliver School, 3533 S. Stats St.\n10.29.30\n\nWANTED-MAN AND WIFE TO TAKE\ncharge of residents good recommendation\ngood attitude. Wanted to work in\nChicago Hotel Men's Association, 3335 Indiana\nAvenue.\n\nJANITOR WANTED-MUST BDP first CLAS\nON REPAIRS; LIVING AUFMENTS\nGOOD WAGES. WARES 7833 AFTER 6 P.M.\nMUNCHER WANTED-HOOD HOURS. Good\nand good meals. 853 S. Clark St.\nMerrison hotel.\n\nWANTED - SHOPMAKERS, JAMES AND\n701 W. Fulton St., 8d 600, Burp\nstreet. C.\n\nWANTED - LABORADERS FOR LUMBER WARD\ntrade. Borton & CO., 1726 Dickens St.\nMEN FOR WORKWORK. 813-899 W.\n25th St.\n\nHELP WANTED - FEMALE\nWANTED"
+      "text": "PILMERIES WANTED IN OHIO, MUST\nhave opportunity for field work. Repair,\nfood opportunity for storage. Wanted to\nmanage at once with RIGGS-BARNETT CO.\nYOUNG MEN WANTED BLETTER OATHERS\nand postoffice clerk. We train you\nin office duties. Wanted to work in\nOliver School, 3533 S. Stats St.\n10.29.30\n\nWANTED-MAN AND WIFE TO TAKE\ncharge of residents good recommendation\ngood attitude. Wanted to work in\nChicago Hotel Men's Association, 3335 Indiana\nAvenue.\n\nJANITOR WANTED-MUST BDP first CLAS\nON REPAIRS; LIVING AUFMENTS\nGOOD WAGES. WARES 7833 AFTER 6 P.M.\nMUNCHER WANTED-HOOD HOURS. Good\nand good meals. 853 S. Clark St.\nMerrison hotel.\n\nWANTED - SHOPMAKERS, JAMES AND\n701 W. Fulton St., 8d 600, Burp\nstreet. C.\n\nWANTED - LABORADERS FOR LUMBER WARD\ntrade. Borton & CO., 1726 Dickens St.\nMEN FOR WORKWORK. 813-899 W.\n25th St.\n\nHELP WANTED - FEMALE\nWANTED",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +452,8 @@
         1236
       ],
       "label": "doc_title",
-      "text": "DISH WASHERS"
+      "text": "DISH WASHERS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +463,8 @@
         1295
       ],
       "label": "text",
-      "text": "To work in clean place.\n\nExcellent surroundings.\n\nGood salary."
+      "text": "To work in clean place.\n\nExcellent surroundings.\n\nGood salary.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +474,8 @@
         1573
       ],
       "label": "text",
-      "text": "27 W. Randolph St.\n\nWANTED - LADY BARRWS, 2 OF NEAT AP\npreference for first class shop, Mixed trade.\nshop, 124th Street, Detroit, Michigan. Phone\ndorp, 12428 Hard Road, Detroit, Michigan. Phone\nWHY WANTED - WANTED A POSTAL\nclerk, clarks clerk, departmental and liaison\nclerks, etc., no experience necessary. Monday,\nSaturday, 10 a.m. - 12 p.m. School Service.\n3533 S. State St., 15-2-20\n\nWANTED - NEAT WOMAN FOR HOUSEWORK\nalso preferred, 122 per week. Owner can stay\nagreed, 122 per week. Owner can stay\naway, Miss. J. Holder, 1500 S. State St., phone\n\nPOWER MACHINE OPERATORS WANTED\nAlso prefers for island's wear. Good pay, shop,\nLADY BARRWS, LADY BARRWS, LADY BARRWS\nRoad."
+      "text": "27 W. Randolph St.\n\nWANTED - LADY BARRWS, 2 OF NEAT AP\npreference for first class shop, Mixed trade.\nshop, 124th Street, Detroit, Michigan. Phone\ndorp, 12428 Hard Road, Detroit, Michigan. Phone\nWHY WANTED - WANTED A POSTAL\nclerk, clarks clerk, departmental and liaison\nclerks, etc., no experience necessary. Monday,\nSaturday, 10 a.m. - 12 p.m. School Service.\n3533 S. State St., 15-2-20\n\nWANTED - NEAT WOMAN FOR HOUSEWORK\nalso preferred, 122 per week. Owner can stay\nagreed, 122 per week. Owner can stay\naway, Miss. J. Holder, 1500 S. State St., phone\n\nPOWER MACHINE OPERATORS WANTED\nAlso prefers for island's wear. Good pay, shop,\nLADY BARRWS, LADY BARRWS, LADY BARRWS\nRoad.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +485,8 @@
         1782
       ],
       "label": "text",
-      "text": "WOMEN AND GIRLS, LIGHT CLEAN WORK,\n18th and 19th Ave. Kennedy Library,\n11th and 12th Ave. Cottage Grove.\n\nWANTED\u2014WOMEN WHO CAN STITCH ON\npower machines; unpleasant good wages.\nMilwaukee 405. 212. 555. 844.\n\nWANTED\u2014EXPERIENCED MAINS. 465 per\nmonth; also laundry girls; good pays. Apply\nto CHAMBERMAID WANTED\u2014GO HOUSE.\nCHAMBERMAID 405 per month and lunch. 623 S. Clark St.\n180 per month and lunch. 623 S. Clark St.\n\nWANTED\u2014GIRLS WHO CAN STITCH ON\npower power machines; good wages guaranteed.\nGlove Co. 405 S. Hoyne Ave. 18\n3rd and 4th St. 300-555-6300.\n\nWANTED\u2014MANS, 300 Cottage Grove Ave."
+      "text": "WOMEN AND GIRLS, LIGHT CLEAN WORK,\n18th and 19th Ave. Kennedy Library,\n11th and 12th Ave. Cottage Grove.\n\nWANTED\u2014WOMEN WHO CAN STITCH ON\npower machines; unpleasant good wages.\nMilwaukee 405. 212. 555. 844.\n\nWANTED\u2014EXPERIENCED MAINS. 465 per\nmonth; also laundry girls; good pays. Apply\nto CHAMBERMAID WANTED\u2014GO HOUSE.\nCHAMBERMAID 405 per month and lunch. 623 S. Clark St.\n180 per month and lunch. 623 S. Clark St.\n\nWANTED\u2014GIRLS WHO CAN STITCH ON\npower power machines; good wages guaranteed.\nGlove Co. 405 S. Hoyne Ave. 18\n3rd and 4th St. 300-555-6300.\n\nWANTED\u2014MANS, 300 Cottage Grove Ave.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +496,8 @@
         1891
       ],
       "label": "text",
-      "text": "TO SELL, CLOCKS, WRIST\nWATCHES, ETC. WRITE\nAT ONCE."
+      "text": "TO SELL, CLOCKS, WRIST\nWATCHES, ETC. WRITE\nAT ONCE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +507,8 @@
         2017
       ],
       "label": "text",
-      "text": "UNCALLED FOR\nMADE TO MEASURE SUITS.\n\nIf we have your size you can get a\nsuit at half price. Same as low as\n$19.75. Agents can make big money\nselling our made to measure suits."
+      "text": "UNCALLED FOR\nMADE TO MEASURE SUITS.\n\nIf we have your size you can get a\nsuit at half price. Same as low as\n$19.75. Agents can make big money\nselling our made to measure suits.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +518,8 @@
         2045
       ],
       "label": "paragraph_title",
-      "text": "Chicago, Ill."
+      "text": "Chicago, Ill.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,17 +529,8 @@
         2273
       ],
       "label": "text",
-      "text": "WANTED- BY JUNE 1, 1920, 0,000 DLHENDER readers-to represent us to your own home office and to advertise Wilfred's \"Jillmentary toys and games\" to you. We work will secure for you an income for life. Paid from our profits. Many are receiving from our office. We also serve bottlenecks and particulars. Be among the first. We do as we say or refund your money. Address P. O. Box 658. 50 Malto St., Birchgrove P. O. Box 658. 8-15-23 ALL THE MONEY YOU WANT AGENTS AND COLLECTORS WANTED TO MAKE to measure. Every man should offer for free samples, new titles and agents\u6682\u884c. Agents and Collectors Taelling Co. Dept. 234, Chicago, IL. AGENTS AND COLLECTORS WANT"
-    },
-    {
-      "bbox": [
-        546,
-        2272,
-        787,
-        2355
-      ],
-      "label": "text",
-      "text": "$80 suit offer. Made to measure. Every man should write for free samplers, new styles and new products. Tailoring Co. Dept. 284, Chicago, IL. To 10,000 LADIES TO NELS SCALE SNAIL PHPRPATIONS. Needed in every community. Hire 652, Malvern, Ark. 24-18-13"
+      "text": "WANTED- BY JUNE 1, 1920, 0,000 DLHENDER readers-to represent us to your own home office and to advertise Wilfred's \"Jillmentary toys and games\" to you. We work will secure for you an income for life. Paid from our profits. Many are receiving from our office. We also serve bottlenecks and particulars. Be among the first. We do as we say or refund your money. Address P. O. Box 658. 50 Malto St., Birchgrove P. O. Box 658. 8-15-23 ALL THE MONEY YOU WANT AGENTS AND COLLECTORS WANTED TO MAKE to measure. Every man should offer for free samples, new titles and agents\u6682\u884c. Agents and Collectors Taelling Co. Dept. 234, Chicago, IL. AGENTS AND COLLECTORS WANT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +540,8 @@
         2356
       ],
       "label": "text",
-      "text": "10.000 DN: XN: YN: YN: KA:CA:CA:TN:TH:TH\nDN: XN: YN: YN: KA:CA:C"
+      "text": "10.000 DN: XN: YN: YN: KA:CA:CA:TN:TH:TH\nDN: XN: YN: YN: KA:CA:C",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +551,8 @@
         2433
       ],
       "label": "text",
-      "text": "SALESMEN AND WOMEN, SELL DIRECT TO\nthe consumer. Big proposition. Right party\noffice. 333 West 42nd St. Co., room 504, 333 S. Dearborn St., Chicago.\nAGENTS-MAKE $ 4 PER DAY SPARK TIME;\nnew race notice; everybody burs; life profile;\nbusiness description; baskystan Novice 0, 602\n89th St."
+      "text": "SALESMEN AND WOMEN, SELL DIRECT TO\nthe consumer. Big proposition. Right party\noffice. 333 West 42nd St. Co., room 504, 333 S. Dearborn St., Chicago.\nAGENTS-MAKE $ 4 PER DAY SPARK TIME;\nnew race notice; everybody burs; life profile;\nbusiness description; baskystan Novice 0, 602\n89th St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +562,19 @@
         2511
       ],
       "label": "text",
-      "text": "HIGH MONEY PAID FOR ADDRESSES; IN-\nSTUDIO, 10c. Garachiel, 2222 LAKE St.\nChicago.\n\nPERSONAL\nPYA MALONE, CALL AT 3100 INDIANA AV,\nand 280 SQUARE, MEDY order."
+      "text": "HIGH MONEY PAID FOR ADDRESSES; IN-\nSTUDIO, 10c. Garachiel, 2222 LAKE St.\nChicago.\n\nPERSONAL\nPYA MALONE, CALL AT 3100 INDIANA AV,\nand 280 SQUARE, MEDY order.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        747,
+        88,
+        1081,
+        110
+      ],
+      "label": "text",
+      "text": "THE CHICAGO DEFENDER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +584,8 @@
         478
       ],
       "label": "text",
-      "text": "8-Broom brick house, furnace heat,\nhardwood first floor, every room off\nfrom hall, basement and laundry, front\nroom, first floor, 646 East 37th\nstreet, $3,500 and $500 cash, balance\n$6,500 monthly.\n8-Flat building, stone front, hard\nwood, oak finish. One 7 and two 8\nroom flats, one block from Grand boulo-\nn on East 1 flat street. Bargain:\n$8,500 and $1,600 cash, balance $15,000\nmonthly.\n6-Flat building, practically new,\nthoroughly modern, rents for $300\nmonthly; on Indiana car on\nTrails ave.; bargain: $17,500;\non 10th street. Bargain: $15,000.\n6-Flat building, brick, only 5 years\nold, garage in rear. Lot 60124 ft.\n42d and Champlain ave., a bargain for\n$16,000 and $5,000 cash, balance $10\nmonthly. See our sale department for\nbargains when you want to buy a\nhouse.\nI write fire insurance: property for\nsale in all parts of the city."
+      "text": "8-Broom brick house, furnace heat,\nhardwood first floor, every room off\nfrom hall, basement and laundry, front\nroom, first floor, 646 East 37th\nstreet, $3,500 and $500 cash, balance\n$6,500 monthly.\n8-Flat building, stone front, hard\nwood, oak finish. One 7 and two 8\nroom flats, one block from Grand boulo-\nn on East 1 flat street. Bargain:\n$8,500 and $1,600 cash, balance $15,000\nmonthly.\n6-Flat building, practically new,\nthoroughly modern, rents for $300\nmonthly; on Indiana car on\nTrails ave.; bargain: $17,500;\non 10th street. Bargain: $15,000.\n6-Flat building, brick, only 5 years\nold, garage in rear. Lot 60124 ft.\n42d and Champlain ave., a bargain for\n$16,000 and $5,000 cash, balance $10\nmonthly. See our sale department for\nbargains when you want to buy a\nhouse.\nI write fire insurance: property for\nsale in all parts of the city.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +595,8 @@
         822
       ],
       "label": "text",
-      "text": "**Phono Douglas 1714**\n3510 Indiana Ave., Chicago\n\n**BUY A LOT IN BRADFORD IDLEWILD**\nLots are only $15 each, turms up 2 lots are\n$8 cash down and $4 per month, with no inter-\nmission.\n\nThe size of the lot is 30 by 100 feet and\nsome lots are unch larger. All lots are high\nceiling. The lot is 12' x 12'. The I & M, railroad runs through idlewild. The lots are offering for sale are only 14' x 12'. The lot is 12' x 12'. The I & M, railroad runs through idlewild. The lots are offering for sale are only 14' x 12'. The lot is 12' x 12'. The I & M, railroad runs through idlewild.\n\nThe price on all lots will be advanced May\n21, 1020, from $55 to $50. So send in your\nWILLIAM JILLIEN BIRST ADDITION TO\nIDLEWild\n\nMain Office: 1201 W. 15th St., Chicago, IL.\nBranch Office: Detroit, Mich.\n\n**GET AWAY FROM HIGH HENT\u2014BUY**\n6-room bungalow, with 10 lot bargains, $4,500\n7-room bungalow, with 10 lot bargains, $4,500\n8-room bungalow, with 10 lot bargains, $4,500\nBrick 4 set, good condition, all painted, 0,000\nLot prices, $25 and up, $23 cash and $10 per"
+      "text": "**Phono Douglas 1714**\n3510 Indiana Ave., Chicago\n\n**BUY A LOT IN BRADFORD IDLEWILD**\nLots are only $15 each, turms up 2 lots are\n$8 cash down and $4 per month, with no inter-\nmission.\n\nThe size of the lot is 30 by 100 feet and\nsome lots are unch larger. All lots are high\nceiling. The lot is 12' x 12'. The I & M, railroad runs through idlewild. The lots are offering for sale are only 14' x 12'. The lot is 12' x 12'. The I & M, railroad runs through idlewild. The lots are offering for sale are only 14' x 12'. The lot is 12' x 12'. The I & M, railroad runs through idlewild.\n\nThe price on all lots will be advanced May\n21, 1020, from $55 to $50. So send in your\nWILLIAM JILLIEN BIRST ADDITION TO\nIDLEWild\n\nMain Office: 1201 W. 15th St., Chicago, IL.\nBranch Office: Detroit, Mich.\n\n**GET AWAY FROM HIGH HENT\u2014BUY**\n6-room bungalow, with 10 lot bargains, $4,500\n7-room bungalow, with 10 lot bargains, $4,500\n8-room bungalow, with 10 lot bargains, $4,500\nBrick 4 set, good condition, all painted, 0,000\nLot prices, $25 and up, $23 cash and $10 per",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +606,8 @@
         921
       ],
       "label": "text",
-      "text": "HOUSE FOR SALL\u2014$200 DOWN. $20 ITER\nmonths buys 2-catering. 2-room house in the\nmountain. 3-room house in the mountain.\ndetached, on large lot, suitable for business.\ndetached, on large lot, suitable for business.\ndetached, on large lot, suitable for business.\n717 P. 50th. in st. 1-835"
+      "text": "HOUSE FOR SALL\u2014$200 DOWN. $20 ITER\nmonths buys 2-catering. 2-room house in the\nmountain. 3-room house in the mountain.\ndetached, on large lot, suitable for business.\ndetached, on large lot, suitable for business.\ndetached, on large lot, suitable for business.\n717 P. 50th. in st. 1-835",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,7 +617,8 @@
         1115
       ],
       "label": "text",
-      "text": "IDLEWILD COTTAGES\u2014WRITE TO MI JEFF\nfor 6 more collages this season. Can save you\nmoney. I also have beautiful Idlewild take from\n4 more collages this season. Address H. I. K. Jones,\nIdlewild, Mich. Mick\nTWO FLAT BUILDING 21 ROOMS: MODERN,\nalmost front, separate steam heating plate,\nalmost front, separate heating plate,\nsuitable neighborhood; terms to suit. Chicago\nDefender, Box O.\nCOTTAGES 6 AND 7 ROOMS\n$1,000 and $1,500, $500 down, balance in\nmonthly payments, on land and Decorators\n$100. W. Garfield Bldd, or phone Tardis\n6521.\nROOING HOME FOR SALE\u201421 ROOMS,\nalmost front, or above; good location; cali-\nbate Island; 100 W. Garfield Bldd, or phone Tardis\nMay 1, 1921; low rental. Call Douglas S.\n541-342-3900."
+      "text": "IDLEWILD COTTAGES\u2014WRITE TO MI JEFF\nfor 6 more collages this season. Can save you\nmoney. I also have beautiful Idlewild take from\n4 more collages this season. Address H. I. K. Jones,\nIdlewild, Mich. Mick\nTWO FLAT BUILDING 21 ROOMS: MODERN,\nalmost front, separate steam heating plate,\nalmost front, separate heating plate,\nsuitable neighborhood; terms to suit. Chicago\nDefender, Box O.\nCOTTAGES 6 AND 7 ROOMS\n$1,000 and $1,500, $500 down, balance in\nmonthly payments, on land and Decorators\n$100. W. Garfield Bldd, or phone Tardis\n6521.\nROOING HOME FOR SALE\u201421 ROOMS,\nalmost front, or above; good location; cali-\nbate Island; 100 W. Garfield Bldd, or phone Tardis\nMay 1, 1921; low rental. Call Douglas S.\n541-342-3900.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,7 +628,8 @@
         1271
       ],
       "label": "text",
-      "text": "G 1 THAI BUILDING, FOUR 5 ROOMS AND\n10 BEDROOMS. Wood floors, wood\nwood floors, wood floors, rye bed,\n$2,000 down, box G, Chicago Defender, 8-10\nFOR SALE - A PIN-10 BLOOM HOUSE IN MAY\nARCHITECTURAL, $12,000. Churchies, etc. Pricable reasonable. For spotlight\nFOR SALE - SUBTANTIAL 0,000 TRANS\nhomes. Good furnace, electric lights, Part\nware, lighting. For sale $1,600. G,\n& Co. 4217 Hollys Ave."
+      "text": "G 1 THAI BUILDING, FOUR 5 ROOMS AND\n10 BEDROOMS. Wood floors, wood\nwood floors, wood floors, rye bed,\n$2,000 down, box G, Chicago Defender, 8-10\nFOR SALE - A PIN-10 BLOOM HOUSE IN MAY\nARCHITECTURAL, $12,000. Churchies, etc. Pricable reasonable. For spotlight\nFOR SALE - SUBTANTIAL 0,000 TRANS\nhomes. Good furnace, electric lights, Part\nware, lighting. For sale $1,600. G,\n& Co. 4217 Hollys Ave.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -552,7 +639,8 @@
         1309
       ],
       "label": "text",
-      "text": "ON NAME-21247, STORE THRU 11:59,\nsteatus, 1,250, dushed, $1,200, drumm\nsteatus, 1,250, dushed, $1,200, drumm"
+      "text": "ON NAME-21247, STORE THRU 11:59,\nsteatus, 1,250, dushed, $1,200, drumm\nsteatus, 1,250, dushed, $1,200, drumm",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -562,7 +650,8 @@
         1404
       ],
       "label": "text",
-      "text": "12 ROOM HOUSE, 31TH AND VERNON AV.\u2014\nfender, $1,600, box G. Chicago, 8\nfender."
+      "text": "12 ROOM HOUSE, 31TH AND VERNON AV.\u2014\nfender, $1,600, box G. Chicago, 8\nfender.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -572,7 +661,8 @@
         1433
       ],
       "label": "text",
-      "text": "MODERN STONE PUTT. 12-18H REM. $1,000\nand 24H REM. $1,500. SiB and Vib\nAve. Ise Ave. 60, Defender."
+      "text": "MODERN STONE PUTT. 12-18H REM. $1,000\nand 24H REM. $1,500. SiB and Vib\nAve. Ise Ave. 60, Defender.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -582,7 +672,8 @@
         1467
       ],
       "label": "text",
-      "text": "TWO DISHIBISHABLE CREEK OF PROPERTY.\nF. Butter, 9242 Federal et. Keo. 6100, (f)\n8242 Federal et. Keo. 6100, (f)"
+      "text": "TWO DISHIBISHABLE CREEK OF PROPERTY.\nF. Butter, 9242 Federal et. Keo. 6100, (f)\n8242 Federal et. Keo. 6100, (f)",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -592,7 +683,8 @@
         1571
       ],
       "label": "doc_title",
-      "text": "FOR SALE--MISCELLANEOUS\nSALE\n100 TALKING MACHINES\n$27.00"
+      "text": "FOR SALE--MISCELLANEOUS\nSALE\n100 TALKING MACHINES\n$27.00",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -602,7 +694,8 @@
         1714
       ],
       "label": "text",
-      "text": "$27.00 cash will buy a large ..binet talking machine, slightly used and in perfect working condition. This machine includes high and plays any record. It then allows you to play the Pathe and Edison records. Also a selection of records, and many other bargains in second hand machines, all makes and sells your own piano. Open daily 2 a.m. to 2 p.m."
+      "text": "$27.00 cash will buy a large ..binet talking machine, slightly used and in perfect working condition. This machine includes high and plays any record. It then allows you to play the Pathe and Edison records. Also a selection of records, and many other bargains in second hand machines, all makes and sells your own piano. Open daily 2 a.m. to 2 p.m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -612,7 +705,8 @@
         1800
       ],
       "label": "doc_title",
-      "text": "ECONOMY SAMPLE\nPHONOCRAPH SHOP"
+      "text": "ECONOMY SAMPLE\nPHONOCRAPH SHOP",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -622,7 +716,8 @@
         2045
       ],
       "label": "text",
-      "text": "3948 S. State St.\n\nHIGHWAY GRAD CHARD WOOD GLOBTARY POOL\ndale, Saleper goods, fancy lines, bride-case,\nelec. Men, women and children, conc. Look-in\nEconomy Clothes Shop, 5437 Lake Park Ave.\nEconomy Clothes Shop, 5437 Lake Park Ave.\nTuesday and Saturday areas, 7:00, 15:22-20:1\nFOR SALE-HIGH GRAD DLAYERS\nwith rols, Cheap for cash, 618-870-6800\nGrove Ave.\nFOR SALE-MANER ELECTRIC CALL, TANZER\nmodel, in excellent condition, with rectangular\nfor floor rug, 81,000 cash. Phone Stewart 1047\nDISTRIBUTOR FOR SALE ON E. 1834 ST.\nDISTRIBUTOR FOR SALE ON E. 1834 ST.\nCall Doug, 6042. Good location.\nFOR SALE-DANBERT LUNCH ROOM, GOOD\ntrains and location, Reasonable, 49 W. 88th St.\nB. State Doug, MARKET, 4108\nB. State Doug, A. O. Brown"
+      "text": "3948 S. State St.\n\nHIGHWAY GRAD CHARD WOOD GLOBTARY POOL\ndale, Saleper goods, fancy lines, bride-case,\nelec. Men, women and children, conc. Look-in\nEconomy Clothes Shop, 5437 Lake Park Ave.\nEconomy Clothes Shop, 5437 Lake Park Ave.\nTuesday and Saturday areas, 7:00, 15:22-20:1\nFOR SALE-HIGH GRAD DLAYERS\nwith rols, Cheap for cash, 618-870-6800\nGrove Ave.\nFOR SALE-MANER ELECTRIC CALL, TANZER\nmodel, in excellent condition, with rectangular\nfor floor rug, 81,000 cash. Phone Stewart 1047\nDISTRIBUTOR FOR SALE ON E. 1834 ST.\nDISTRIBUTOR FOR SALE ON E. 1834 ST.\nCall Doug, 6042. Good location.\nFOR SALE-DANBERT LUNCH ROOM, GOOD\ntrains and location, Reasonable, 49 W. 88th St.\nB. State Doug, MARKET, 4108\nB. State Doug, A. O. Brown",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -632,7 +727,8 @@
         2069
       ],
       "label": "paragraph_title",
-      "text": "CLEANING"
+      "text": "CLEANING",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,7 +738,19 @@
         2513
       ],
       "label": "text",
-      "text": "Curtains Cleaned\nLACT CURTAINS CLEANED, 400 PER PAIR,\nMrs. Mary Jackson, 3932 S. Deerborn St.,\nChicago, IL. Phoebe Doug. 7655.\n\nTUITION\nTO THOSE WISHING PRIVATE TUTORING\nIN LACT. 20 days to 10 weeks. Instructor\nwill give individual attention. Day or evening.\nreasonable. Shelley 1802 or address Box\n23, Defender.\n\nHAIRDRESSING\nHAIR CURTUIRT, LYDA SLACHTER SYSTEM.\nDouglas 3015, Mrs. Wilma Taylor. 7-17.\n\nFURNITURE\nUNCLAIMED STORAGE FOR SALE\u2014TWENTY-\none ft. wide load of furniture and household\ncooler of water, will be included. Charge.\nCall and be convinced. Russell Brose.\nStorage, 6133 State St.\n\nCLOTHING\nSPECIAL SALON ON LUNCH AND CHI-\ndle dreas dresses, suits, coats and hats. 1020\nChestnut st., corner 7th. Milwaukee, WI.\n6-13\n\nCHIRDPODISTS\nSPE DR. MILW WREVER, 3344 INDIANA AV.\n,N. Corner, for sore, tired feet, Corn and\ntunnels given immediate relief. Phoebe Doug. 5553.\n\nMUSICAL AND DRAMATIC\nGOOD TRAINER WANTS POSITION.\nChris, C. Orweg, 3355 Forest Ave, Milwaukee, WI."
+      "text": "Curtains Cleaned\nLACT CURTAINS CLEANED, 400 PER PAIR,\nMrs. Mary Jackson, 3932 S. Deerborn St.,\nChicago, IL. Phoebe Doug. 7655.\n\nTUITION\nTO THOSE WISHING PRIVATE TUTORING\nIN LACT. 20 days to 10 weeks. Instructor\nwill give individual attention. Day or evening.\nreasonable. Shelley 1802 or address Box\n23, Defender.\n\nHAIRDRESSING\nHAIR CURTUIRT, LYDA SLACHTER SYSTEM.\nDouglas 3015, Mrs. Wilma Taylor. 7-17.\n\nFURNITURE\nUNCLAIMED STORAGE FOR SALE\u2014TWENTY-\none ft. wide load of furniture and household\ncooler of water, will be included. Charge.\nCall and be convinced. Russell Brose.\nStorage, 6133 State St.\n\nCLOTHING\nSPECIAL SALON ON LUNCH AND CHI-\ndle dreas dresses, suits, coats and hats. 1020\nChestnut st., corner 7th. Milwaukee, WI.\n6-13\n\nCHIRDPODISTS\nSPE DR. MILW WREVER, 3344 INDIANA AV.\n,N. Corner, for sore, tired feet, Corn and\ntunnels given immediate relief. Phoebe Doug. 5553.\n\nMUSICAL AND DRAMATIC\nGOOD TRAINER WANTS POSITION.\nChris, C. Orweg, 3355 Forest Ave, Milwaukee, WI.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1041,
+        180,
+        1287,
+        287
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -652,7 +760,8 @@
         362
       ],
       "label": "doc_title",
-      "text": "HUDSON\nSEDAN"
+      "text": "HUDSON\nSEDAN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -662,7 +771,8 @@
         402
       ],
       "label": "paragraph_title",
-      "text": "Mechanically Perfect"
+      "text": "Mechanically Perfect",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -672,7 +782,8 @@
         456
       ],
       "label": "text",
-      "text": "Completely equipped. Five good tires\nTerms or will trade for smaller car\nOpen evenings and Sundays."
+      "text": "Completely equipped. Five good tires\nTerms or will trade for smaller car\nOpen evenings and Sundays.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -682,7 +793,8 @@
         485
       ],
       "label": "paragraph_title",
-      "text": "3843 Grand Boulevard"
+      "text": "3843 Grand Boulevard",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -692,7 +804,8 @@
         698
       ],
       "label": "text",
-      "text": "Douglas 3400\n\nWILLYS-KNIGHT\nCoupe, 4 passenger, 5 wins wheels.\nPerfect mechanical condition. Ideal\ncar for doctor. Terms can be arranged.\nOpen evenings and Sundays. 3843\nGrand Blvd. Doug 3400.\n\nBUCKLE ONETON TRUCK JUST OVER\n835. Act quick. 835 McGhee Ar. rear.\nColumbus 6038.\n\nFIRM SALE-TRENDGROUND GO PERKLEM\nDowntown Al Ahque will sell cheap.\nMcKinley 847 Mr. Grissom."
+      "text": "Douglas 3400\n\nWILLYS-KNIGHT\nCoupe, 4 passenger, 5 wins wheels.\nPerfect mechanical condition. Ideal\ncar for doctor. Terms can be arranged.\nOpen evenings and Sundays. 3843\nGrand Blvd. Doug 3400.\n\nBUCKLE ONETON TRUCK JUST OVER\n835. Act quick. 835 McGhee Ar. rear.\nColumbus 6038.\n\nFIRM SALE-TRENDGROUND GO PERKLEM\nDowntown Al Ahque will sell cheap.\nMcKinley 847 Mr. Grissom.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -702,7 +815,8 @@
         716
       ],
       "label": "paragraph_title",
-      "text": "MISCELLANEOUS"
+      "text": "MISCELLANEOUS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -712,7 +826,8 @@
         756
       ],
       "label": "text",
-      "text": "CHIEFINSTEIN - YOU MAY HAVE GOLD, SILVER,\nBROWN, WHITE, YELLOW, GREEN, PINK, BLACK,\nOR TAN. $10.00 &amp; t.o.\nOlive Drove Grown &amp; All-Season\nVine."
+      "text": "CHIEFINSTEIN - YOU MAY HAVE GOLD, SILVER,\nBROWN, WHITE, YELLOW, GREEN, PINK, BLACK,\nOR TAN. $10.00 &amp; t.o.\nOlive Drove Grown &amp; All-Season\nVine.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -722,7 +837,8 @@
         836
       ],
       "label": "text",
-      "text": "FOR QUICK SERVICE MOTOR EXPRESS\n1000, longe, 4042, or call at 223 E. 208th St.\nJOIN LIVE POSTAL CLUB, MEMBERSHIP\n10:00 AMNICHAND, 2222 Ikeau St., Chico, Ca"
+      "text": "FOR QUICK SERVICE MOTOR EXPRESS\n1000, longe, 4042, or call at 223 E. 208th St.\nJOIN LIVE POSTAL CLUB, MEMBERSHIP\n10:00 AMNICHAND, 2222 Ikeau St., Chico, Ca",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -732,7 +848,8 @@
         869
       ],
       "label": "paragraph_title",
-      "text": "NEW YORK CLASSIFIED"
+      "text": "NEW YORK CLASSIFIED",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -742,7 +859,8 @@
         934
       ],
       "label": "text",
-      "text": "FURNISHED ROOMS FOR RENT\nTWO RENT-TWO ELEGANT FURNISHED\nrooms for couple, with kitchen privileges.\nJess. W. Hewitt, T. Adolph St. Jannahca, N. Y."
+      "text": "FURNISHED ROOMS FOR RENT\nTWO RENT-TWO ELEGANT FURNISHED\nrooms for couple, with kitchen privileges.\nJess. W. Hewitt, T. Adolph St. Jannahca, N. Y.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -752,7 +870,8 @@
         949
       ],
       "label": "paragraph_title",
-      "text": "HELP WANTED"
+      "text": "HELP WANTED",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -762,7 +881,8 @@
         1093
       ],
       "label": "text",
-      "text": "BOOKKEEPER, STUDENT OF ACCOUNT-\nANCE wishes a visit; can furnish the best\nof his knowledge in accounting to New\nChicago December, 220 W. 135th St., New\nNew York city.\nTHE WOMEN WANTED FOR POSITIONS\nas waitresses, chambermen, &\nthe Atlantic seaboard. City & Shore Agency,\n1161 South Orange, N. J. These\n1161 South Orange\nTWOTH CLASS BARBERS WANTED:\nApply or write to Win.\nWhile, care definite, offer 220 W. 135th\nNew York city."
+      "text": "BOOKKEEPER, STUDENT OF ACCOUNT-\nANCE wishes a visit; can furnish the best\nof his knowledge in accounting to New\nChicago December, 220 W. 135th St., New\nNew York city.\nTHE WOMEN WANTED FOR POSITIONS\nas waitresses, chambermen, &\nthe Atlantic seaboard. City & Shore Agency,\n1161 South Orange, N. J. These\n1161 South Orange\nTWOTH CLASS BARBERS WANTED:\nApply or write to Win.\nWhile, care definite, offer 220 W. 135th\nNew York city.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -772,7 +892,8 @@
         1180
       ],
       "label": "text",
-      "text": "TRAINID NURSED AND LICENSED MIDWIFE.\n123d St., New York City, New York.\nRichardson.\n\nNURSES\n\nMMP. B. HICHARDSON. HBURVICES 1171-\n123d St., New York City, New York.\n123d St., New York City, New York."
+      "text": "TRAINID NURSED AND LICENSED MIDWIFE.\n123d St., New York City, New York.\nRichardson.\n\nNURSES\n\nMMP. B. HICHARDSON. HBURVICES 1171-\n123d St., New York City, New York.\n123d St., New York City, New York.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -782,7 +903,8 @@
         1217
       ],
       "label": "paragraph_title",
-      "text": "CARD OF THANKS"
+      "text": "CARD OF THANKS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -792,7 +914,8 @@
         1217
       ],
       "label": "doc_title",
-      "text": "CARD OF THANKS"
+      "text": "CARD OF THANKS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -802,17 +925,30 @@
         1498
       ],
       "label": "text",
-      "text": "Mrs. Ophelia Turner, beloved wife of J. J. Turner, died April 30 at 8:45 am, in the family residence, 5657 Prairie Drive, Montgomery, Mrs. Ophelia wishes to thank their friends for the beautiful floral offerings and sympathy, during their sad bereavement, at the reception, Mrs. Ophelia Wells and Miss Jessica the beautiful selections which were the requests of the deceased. \"Although her chair is vacant, she is still with the Turner, husband, Edytho Brown, daughter, and relatives.\n\nI wish to thank the Robert Mitchell Local No. 11, K. of K, Troop B, K. of K, Troop B, K., to Olive Branch F, A. M, Ivy Dr. Scott of Grant Memorial Chapel, and to many solicitous friends for their kindness rendered during the bereavement of the beloved husband, George H. Lewis, who died May 6\u2014Mrs. Corn Lewis, Wife."
+      "text": "Mrs. Ophelia Turner, beloved wife of J. J. Turner, died April 30 at 8:45 am, in the family residence, 5657 Prairie Drive, Montgomery, Mrs. Ophelia wishes to thank their friends for the beautiful floral offerings and sympathy, during their sad bereavement, at the reception, Mrs. Ophelia Wells and Miss Jessica the beautiful selections which were the requests of the deceased. \"Although her chair is vacant, she is still with the Turner, husband, Edytho Brown, daughter, and relatives.\n\nI wish to thank the Robert Mitchell Local No. 11, K. of K, Troop B, K. of K, Troop B, K., to Olive Branch F, A. M, Ivy Dr. Scott of Grant Memorial Chapel, and to many solicitous friends for their kindness rendered during the bereavement of the beloved husband, George H. Lewis, who died May 6\u2014Mrs. Corn Lewis, Wife.",
+      "status": "ok"
     },
     {
       "bbox": [
         1038,
         1542,
         1283,
+        2129
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1039,
+        2133,
+        1282,
         2329
       ],
       "label": "text",
-      "text": "A great many people have become rich, not through any particular effort or self-improvement, but in spite of themselfs own, but in spite of themselfs own, for instance, many bought lots and little parcels of land for a mere pitrance and had sense enough to hold a hundred million dollars. It has been repeatedly demonstrated that an investment in real estate is the safest and most profitable and had supremely growth of Chicago in recent years. From a population of none to $8,000 in 15 years is rather a remarkable showing; from buying land at $10 an hour to buying it at $20 a foot is also something to ponder over. But this is the history of Gary, Ind.\n\nThey say fortune knocks at your door showing, from buying land at $10"
+      "text": "MINISTERS' GATHERING CLOSES\nMemphis, Tenn., May 14--Members of the Tennessee State Conference of Congregational Churches and the Second Congregational church of this city at 742 Walker ave., brought their conference to a close with the conclusion of the day's program included the sermon and holy communion by Rev. O. Howard McGown of Little Rock, Ark.\n\nHave a Complexion Like a Rose\nUse Dr. Pryor's JAPO Wonder Bleaching Cream. The greatest skin condition produces a soft, velvet complexion. Price 85c. Terms to agents.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -822,7 +958,8 @@
         2515
       ],
       "label": "text",
-      "text": "Pryor Chemical Co., 3219 S. State\nSt. Chicago\u2014Advt.\n\nWith Coloridge-Taylor School\nMiss Irena Howard, graduate of the\nChicago Musical college, wishes to\nthat she is now affiliated with the\nColoridge-Taylor School of Music, 5\nEast 36th place, as cornet teacher.\nBeginners and advanced pupils are\nbeing enrolled daily.\n\nRaising Kangaroo's\nKangaroo farming is an important\nindustry. Most of the tendons\nare the best material to surgeons\nfor sewing up wounds."
+      "text": "Pryor Chemical Co., 3219 S. State\nSt. Chicago\u2014Advt.\n\nWith Coloridge-Taylor School\nMiss Irena Howard, graduate of the\nChicago Musical college, wishes to\nthat she is now affiliated with the\nColoridge-Taylor School of Music, 5\nEast 36th place, as cornet teacher.\nBeginners and advanced pupils are\nbeing enrolled daily.\n\nRaising Kangaroo's\nKangaroo farming is an important\nindustry. Most of the tendons\nare the best material to surgeons\nfor sewing up wounds.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -832,7 +969,8 @@
         166
       ],
       "label": "doc_title",
-      "text": "DEATH TO RHEUMATISM"
+      "text": "DEATH TO RHEUMATISM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -842,7 +980,8 @@
         360
       ],
       "label": "text",
-      "text": "It Costs Only $1.00 to Give Your Rheumatism an Up-to-Date Fuerbera THE FAMOUS JAPANESE ANTI-RHEUMATIC POWDERBAs are ancient death to Rheumatism. 16 Days Treatment Only $1.00. When the PowderBas go in your Rheumatism goes out--that is all there is to it. This Powder is the prettiest remedy the world has ever known for Rheumatism treatment. For indigestion it is equally as good; and most excellent for weak backs and ruddy shoulders. For rheumatism it is equally as good; and most excellent for weak backs and ruddy shoulders. For indigestion it"
+      "text": "It Costs Only $1.00 to Give Your Rheumatism an Up-to-Date Fuerbera THE FAMOUS JAPANESE ANTI-RHEUMATIC POWDERBAs are ancient death to Rheumatism. 16 Days Treatment Only $1.00. When the PowderBas go in your Rheumatism goes out--that is all there is to it. This Powder is the prettiest remedy the world has ever known for Rheumatism treatment. For indigestion it is equally as good; and most excellent for weak backs and ruddy shoulders. For rheumatism it is equally as good; and most excellent for weak backs and ruddy shoulders. For indigestion it",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -852,7 +991,8 @@
         400
       ],
       "label": "paragraph_title",
-      "text": "IN MEMORIAM"
+      "text": "IN MEMORIAM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -862,7 +1002,8 @@
         521
       ],
       "label": "text",
-      "text": "In memory of our dear mother, Mrs. Lavina Fleming Smith, who died May 5, 1919:\nWhen he has passed, dear mother,\nSince you were called away:\nHow well do we remember\nThe sad and weary day.\nNone know how sad the parting\nOf our lives.\nBut God and Ila folk angels"
+      "text": "In memory of our dear mother, Mrs. Lavina Fleming Smith, who died May 5, 1919:\nWhen he has passed, dear mother,\nSince you were called away:\nHow well do we remember\nThe sad and weary day.\nNone know how sad the parting\nOf our lives.\nBut God and Ila folk angels",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -872,7 +1013,8 @@
         629
       ],
       "label": "text",
-      "text": "By Mrs. Ida M. Scott, daughter, Cleveland, Ohio; Mrs. Laura Henderson, daughter, Meadville, Pa., and Thomas W. Fleming, son, Cleveland, Ohio."
+      "text": "By Mrs. Ida M. Scott, daughter, Cleveland, Ohio; Mrs. Laura Henderson, daughter, Meadville, Pa., and Thomas W. Fleming, son, Cleveland, Ohio.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -882,17 +1024,30 @@
         650
       ],
       "label": "paragraph_title",
-      "text": "MATTIE WRIGHT"
+      "text": "MATTIE WRIGHT",
+      "status": "ok"
     },
     {
       "bbox": [
         1287,
         653,
+        1531,
+        1202
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1287,
+        1209,
         1533,
         1600
       ],
       "label": "text",
-      "text": "Mattie Wright departed this life May 18, 1917, in Atlanta, Ga. In sad and memory of my dear, precious mother, I remember my dear and too home to glory three years ago today, Sleeping, mother dear, peacefully, Sleeping in Jesus' tender care; Mother, oh how sad and too My life is. since you left me. We shall meet to part no more the golden former gate. Love I have earned. Your loving child, ANNIE E. APPLEY. \u2014Adult.\n\nIn loving memory of my dear mother, Mrs. Corter, who died May 16, 1919. In St. Louis cementy softly sleeping lies the one we love so dearly, where flowers gently wave on her lonely, it be. Ive longed for their; I count the days every one apart, and, oh mother, how it breaks my heart. Memory is how I remember the evening she died. I offered her to own. One more soul has gone to rest, one more angel added to glory. Mother, dear, God knows best.\" Your loving daughter, Mrs. Hettie C. Leo.\n\nIn sad and loving memory of my dear mother, Mrs. Marina Anderson, who died one year ago, 16, 1919. In my memory the evening she died. Mary Dixon, who have left me, gone to heaven with Christ to Live, soon, alright, I too, will follow, with my greatest daughter, Hera Anderson.\n\nIn sad remembrance of Will H. Dixon, who died our hearts 14, 1917. Leaving sadness in our lives, we loved him to the point of calling him theomb. We will try to meet him.\u2014Mary Dixon, mother to brother W. Dixon and Harry Dixon, brother; Estella Robinson, sister.\n\nIn memory of William Wade, who died May 7, 1919. \"Thou art gone to the grave, but you will not deplore the tombs, but you will compass the tomb. The Savior has passed through the portals before thee, and the light of His love is thy guide through the gloom.\"\u2014Mother, Brother and Sister.\n\nIn sad and loving mem"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -902,7 +1057,8 @@
         1617
       ],
       "label": "paragraph_title",
-      "text": "Mrs. Ida Sykes Wanted"
+      "text": "Mrs. Ida Sykes Wanted",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -912,7 +1068,8 @@
         1717
       ],
       "label": "text",
-      "text": "A reward will be paid for any information Mr. Dykes, Mrs. Idia Sykes, formerly Miss Idia Mexackle, last heard of In. Arkansas, who was three years ago, with daughter by name of Mellisla Gharrete, kindly sent her to S. 5th West St., Salt Lake City, Utah."
+      "text": "A reward will be paid for any information Mr. Dykes, Mrs. Idia Sykes, formerly Miss Idia Mexackle, last heard of In. Arkansas, who was three years ago, with daughter by name of Mellisla Gharrete, kindly sent her to S. 5th West St., Salt Lake City, Utah.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -922,7 +1079,8 @@
         1779
       ],
       "label": "doc_title",
-      "text": "HOBBS & GRUBB\n454 East 47th Street\nKenwood 798"
+      "text": "HOBBS & GRUBB\n454 East 47th Street\nKenwood 798",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -932,7 +1090,8 @@
         1953
       ],
       "label": "text",
-      "text": "Roaming house. Double matched stone front\nfloor. Double double basement. In suite.\nRunning water in all bedrooms;\nelectric lights. Two brick garage in rear.\nPrice complete $2,500. $4,000 carab. Income\n$7,LAWRENCE AVENUE. NEAR $4.00 ST.\nPrice complete $4,000. $4,000 carab.\nEYANG AVE. NEAR $4.00 ST.\nPrice complete $2,500. $4,000 carab.\nframing store above. Price $2,500.\nGEAR GRAND DWVD.\nRooms; furnace heat; electric light. Price\n$4,000. terna.\nPrice $4,000. terna."
+      "text": "Roaming house. Double matched stone front\nfloor. Double double basement. In suite.\nRunning water in all bedrooms;\nelectric lights. Two brick garage in rear.\nPrice complete $2,500. $4,000 carab. Income\n$7,LAWRENCE AVENUE. NEAR $4.00 ST.\nPrice complete $4,000. $4,000 carab.\nEYANG AVE. NEAR $4.00 ST.\nPrice complete $2,500. $4,000 carab.\nframing store above. Price $2,500.\nGEAR GRAND DWVD.\nRooms; furnace heat; electric light. Price\n$4,000. terna.\nPrice $4,000. terna.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -942,7 +1101,8 @@
         2044
       ],
       "label": "text",
-      "text": "- 8-stone stone front; furnace heat; oak floor;\n- 8-stone stone front; fireplace;\n- VICENCIES AVE. 84TH ST. 68TH ST.\n- 8-stone stone front; steam heat; electric\n$2D AND VERSON AVE.\n- 8-stone stone front; furnace heat;\n2010 S. 68TH ST. 68TH ST.\n- Glaze; 6-stone brick in rear.\nFrio for quick sale $2,750, $1,000 cash."
+      "text": "- 8-stone stone front; furnace heat; oak floor;\n- 8-stone stone front; fireplace;\n- VICENCIES AVE. 84TH ST. 68TH ST.\n- 8-stone stone front; steam heat; electric\n$2D AND VERSON AVE.\n- 8-stone stone front; furnace heat;\n2010 S. 68TH ST. 68TH ST.\n- Glaze; 6-stone brick in rear.\nFrio for quick sale $2,750, $1,000 cash.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -952,7 +1112,8 @@
         2202
       ],
       "label": "text",
-      "text": "4.5 rooms; slave heat; gas light. Image-\nment; price $1,000. Newly decorated.\nLAST: Price $1,000. 4.500 floor.\n2.7 rooms; II, W, heat; gas light. $7,000.\nfurniture\n312 10TH BT.\n5.8 rooms; furnace heat; electric light.\nPrice $1,000.\n3250 INDIANA AVE.\n4.5 rooms. Modern. Price $11,000. $2,000\nfurniture\n3250 INDIANA AVE.\n4.5 rooms. Modern. Price $11,000. $2,000"
+      "text": "4.5 rooms; slave heat; gas light. Image-\nment; price $1,000. Newly decorated.\nLAST: Price $1,000. 4.500 floor.\n2.7 rooms; II, W, heat; gas light. $7,000.\nfurniture\n312 10TH BT.\n5.8 rooms; furnace heat; electric light.\nPrice $1,000.\n3250 INDIANA AVE.\n4.5 rooms. Modern. Price $11,000. $2,000\nfurniture\n3250 INDIANA AVE.\n4.5 rooms. Modern. Price $11,000. $2,000",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -962,7 +1123,8 @@
         2224
       ],
       "label": "text",
-      "text": "CHAMPAIN AVE., NEAR 47TH ST.\n1-2-8 rooms; alcohol; steam room. Price $9,000."
+      "text": "CHAMPAIN AVE., NEAR 47TH ST.\n1-2-8 rooms; alcohol; steam room. Price $9,000.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -972,7 +1134,8 @@
         2566
       ],
       "label": "text",
-      "text": "DEARBORN ST. NEAR 34TH ST.\n112TH ST. stores; above heat. Price $1,000.\n$1,000. CAB. 6 FLASTS.\nPRAIRIE AV. NEAR 41TH ST.\n2nd and 4th floors; electric light.\nPrice $3,000. 6 CAB. 6 FLASTS.\nCALMERNE AV. NEAR 34TH ST.\n2nd and 4th floors; steam heat. Garage.\nPrice $1,000. $3,000. CAB.\nCALMERNE AV. NEAR 41TH ST.\nAll 6 floors. Modern throughout. Price\n$1,000. CAB.\nINDIANA AV. NEAR 41TH ST.\n2nd and 4th floor. Modern throughout.\nThere are real bargains and will not be on\nthe market long at these prices.\n\nFOR SALE WHILE THE LAST\nNEW BOOM ATTRACTIVE\nBUNGALOWS\n112TH ST. AND S. ASHLAND AV.\nLET US TELL YOU ABOUT THEM.\nPADDOCK BOND CO.\n55 N. DEARBORN ST."
+      "text": "DEARBORN ST. NEAR 34TH ST.\n112TH ST. stores; above heat. Price $1,000.\n$1,000. CAB. 6 FLASTS.\nPRAIRIE AV. NEAR 41TH ST.\n2nd and 4th floors; electric light.\nPrice $3,000. 6 CAB. 6 FLASTS.\nCALMERNE AV. NEAR 34TH ST.\n2nd and 4th floors; steam heat. Garage.\nPrice $1,000. $3,000. CAB.\nCALMERNE AV. NEAR 41TH ST.\nAll 6 floors. Modern throughout. Price\n$1,000. CAB.\nINDIANA AV. NEAR 41TH ST.\n2nd and 4th floor. Modern throughout.\nThere are real bargains and will not be on\nthe market long at these prices.\n\nFOR SALE WHILE THE LAST\nNEW BOOM ATTRACTIVE\nBUNGALOWS\n112TH ST. AND S. ASHLAND AV.\nLET US TELL YOU ABOUT THEM.\nPADDOCK BOND CO.\n55 N. DEARBORN ST.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -982,7 +1145,8 @@
         613
       ],
       "label": "text",
-      "text": "Pure Herbs\n\nI can relieve you if you suffer with the slowing complaints of influenza, loss of appetite, eye aches, stomach or head), rheumatism or syphilis. This medicine is prepared of weeds, seeds, roots, flowers, leaves, bark and grabs, which produces a sucrose of weeds, seeds, roots, flowers, leaves and all other troubles of the blood. Then the blood and stimulates the circulation to renal disease germs, which will send you this marvelous herbal medicine all mail to Smith Sales Agency, Root, I, 32001, S. State St. Chicago\u2014Advert."
+      "text": "Pure Herbs\n\nI can relieve you if you suffer with the slowing complaints of influenza, loss of appetite, eye aches, stomach or head), rheumatism or syphilis. This medicine is prepared of weeds, seeds, roots, flowers, leaves, bark and grabs, which produces a sucrose of weeds, seeds, roots, flowers, leaves and all other troubles of the blood. Then the blood and stimulates the circulation to renal disease germs, which will send you this marvelous herbal medicine all mail to Smith Sales Agency, Root, I, 32001, S. State St. Chicago\u2014Advert.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -992,7 +1156,8 @@
         630
       ],
       "label": "paragraph_title",
-      "text": "Help Go Over Top"
+      "text": "Help Go Over Top",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1002,7 +1167,8 @@
         871
       ],
       "label": "text",
-      "text": "Attend the musical, May carnival\nway and gives by women's division\nways and may come to public\npublic national committee at Eighth\nRegiment Armory Wednesday evening,\nat 8:30 p.m. clock sharp. Five\nprograms in armory will offer\nall kinds. Dancing 10 p.m. clock,\nWashington's orchestra. Admission\nto the orchestra. Majors\ndivision chairman, national\nmeans committee; Mrs. Elia Charles,\nsecretary; Mrs. Bertha Marshall, chair-\nsister of arrangements\u2014Advertisement.\nDr. C. M. Wade, Specialist\nDr. C. M. Wade, veteran specialist;\n30 years' experience at Hot Springs,\nArk. Correspondence solicited. U2\nMalvern Avt. Hot Springs, Ark."
+      "text": "Attend the musical, May carnival\nway and gives by women's division\nways and may come to public\npublic national committee at Eighth\nRegiment Armory Wednesday evening,\nat 8:30 p.m. clock sharp. Five\nprograms in armory will offer\nall kinds. Dancing 10 p.m. clock,\nWashington's orchestra. Admission\nto the orchestra. Majors\ndivision chairman, national\nmeans committee; Mrs. Elia Charles,\nsecretary; Mrs. Bertha Marshall, chair-\nsister of arrangements\u2014Advertisement.\nDr. C. M. Wade, Specialist\nDr. C. M. Wade, veteran specialist;\n30 years' experience at Hot Springs,\nArk. Correspondence solicited. U2\nMalvern Avt. Hot Springs, Ark.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1012,7 +1178,8 @@
         946
       ],
       "label": "doc_title",
-      "text": "FOR SALE"
+      "text": "FOR SALE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1022,7 +1189,8 @@
         1023
       ],
       "label": "text",
-      "text": "PRAIRIE AVE, NEAR 37TH ST.\n12-BROOM STONE FRONT HOUSE;\nCOMBINATION HABIT; HARD\nWINDOWS; MAIRAGE; NEWLY\nDECORATED."
+      "text": "PRAIRIE AVE, NEAR 37TH ST.\n12-BROOM STONE FRONT HOUSE;\nCOMBINATION HABIT; HARD\nWINDOWS; MAIRAGE; NEWLY\nDECORATED.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1032,7 +1200,8 @@
         1123
       ],
       "label": "text",
-      "text": "G-ROOM FRAME COTTAGE;\nELECTRIC; FURNACE HEAT;\nNEWLY DECORATED; FIRST\nCLASS."
+      "text": "G-ROOM FRAME COTTAGE;\nELECTRIC; FURNACE HEAT;\nNEWLY DECORATED; FIRST\nCLASS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1042,7 +1211,8 @@
         1210
       ],
       "label": "text",
-      "text": "LANGLEY AVE., NEAR 39TH\n6-7 ROOMS; ALLEY, STEAM\nHEAT; HARD FLOORS; $-CAR\nGARAGE WITH ROOMS."
+      "text": "LANGLEY AVE., NEAR 39TH\n6-7 ROOMS; ALLEY, STEAM\nHEAT; HARD FLOORS; $-CAR\nGARAGE WITH ROOMS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1052,7 +1222,8 @@
         1442
       ],
       "label": "text",
-      "text": "WABASH AVE., NEAR 49TH ST.\n8-ROOM PRESSED BRICK\nHOUSE; ALL ROOMS LIGHT\nOFF HALL; STEAM HEAT;\nHARD FLOORS.\nFIRST CLASS, PRICE $6,000\nJESSE BINGA\n3633 STATE STREET\nBOULEVARD 1555"
+      "text": "WABASH AVE., NEAR 49TH ST.\n8-ROOM PRESSED BRICK\nHOUSE; ALL ROOMS LIGHT\nOFF HALL; STEAM HEAT;\nHARD FLOORS.\nFIRST CLASS, PRICE $6,000\nJESSE BINGA\n3633 STATE STREET\nBOULEVARD 1555",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1062,7 +1233,8 @@
         1467
       ],
       "label": "doc_title",
-      "text": "FOR SALE"
+      "text": "FOR SALE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1072,7 +1244,8 @@
         1681
       ],
       "label": "text",
-      "text": "3427 Dearborn Street\nA two-story brick building, stone\ntrimmings, 5 and 6 rooms; toilet, bath,\nand fireplace; four furnace heat; 20\nfloor stove heat.\nPrice $4,500; cash $1,000.\n4713 Dearborn Street\nTwo-story frame building with two\nfats on rear, a real bargain.\nPrice $3,500; cash $1,000.\nEvans Ava, near 47th Street\nTwo-story brick building with four\nfats; can porches; rental $3,600; can\nbe increased. This building could not\nbe duplicated for $30,600. Owner leav-\ning charge at the price of $21,600. Cash $3,500."
+      "text": "3427 Dearborn Street\nA two-story brick building, stone\ntrimmings, 5 and 6 rooms; toilet, bath,\nand fireplace; four furnace heat; 20\nfloor stove heat.\nPrice $4,500; cash $1,000.\n4713 Dearborn Street\nTwo-story frame building with two\nfats on rear, a real bargain.\nPrice $3,500; cash $1,000.\nEvans Ava, near 47th Street\nTwo-story brick building with four\nfats; can porches; rental $3,600; can\nbe increased. This building could not\nbe duplicated for $30,600. Owner leav-\ning charge at the price of $21,600. Cash $3,500.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1082,7 +1255,8 @@
         1722
       ],
       "label": "doc_title",
-      "text": "T. W. Champion & Co."
+      "text": "T. W. Champion & Co.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1092,7 +1266,8 @@
         1801
       ],
       "label": "paragraph_title",
-      "text": "FOR SALE"
+      "text": "FOR SALE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1102,7 +1277,8 @@
         1839
       ],
       "label": "doc_title",
-      "text": "8 ROOM HOUSE"
+      "text": "8 ROOM HOUSE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1112,7 +1288,19 @@
         2069
       ],
       "label": "text",
-      "text": "Lot 25x161. Near 49th St. on Wabash. Price $650-$500 cash\u2014balance monthly.\n\nH. J. COLMAN & CO.\n4729 SOUTH STATE STREET\nOAKLAND 36\n\nTHE MAN WHO KNOWS CAN\n\n\"W, Allison Sweeney,\nauthor of YEAR\nDEATH, LULLOWS\nBURDEN\" palette with\nPowerful Strokes the\nAmateur of the Colored race in\nAmerica.\" Editor of\nAmerica.\" Editor of\nAmerica.\""
+      "text": "Lot 25x161. Near 49th St. on Wabash. Price $650-$500 cash\u2014balance monthly.\n\nH. J. COLMAN & CO.\n4729 SOUTH STATE STREET\nOAKLAND 36\n\nTHE MAN WHO KNOWS CAN\n\n\"W, Allison Sweeney,\nauthor of YEAR\nDEATH, LULLOWS\nBURDEN\" palette with\nPowerful Strokes the\nAmateur of the Colored race in\nAmerica.\" Editor of\nAmerica.\" Editor of\nAmerica.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1663,
+        2003,
+        1773,
+        2196
+      ],
+      "label": "text",
+      "text": "M. C. H.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1122,7 +1310,8 @@
         2237
       ],
       "label": "text",
-      "text": "Tunkesau, Ala., Dec. 21\nThe Editor of *Daily News* \"Mr.\nMike\" told the editor what might be called the issue. He knows of Negro attitudes and we are accomplished.\nWASHINGTON. We voice and pan calls to the newsmen in sending it to WALLSON SWEENY, per-\nson of information bureau or metropolitan than"
+      "text": "Tunkesau, Ala., Dec. 21\nThe Editor of *Daily News* \"Mr.\nMike\" told the editor what might be called the issue. He knows of Negro attitudes and we are accomplished.\nWASHINGTON. We voice and pan calls to the newsmen in sending it to WALLSON SWEENY, per-\nson of information bureau or metropolitan than",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1132,7 +1321,8 @@
         2276
       ],
       "label": "text",
-      "text": "wife, or in the case of a\nwife, in an affair, when she\nwas married, or in a marriage,\nbefore she became a wife,\nHAVE"
+      "text": "wife, or in the case of a\nwife, in an affair, when she\nwas married, or in a marriage,\nbefore she became a wife,\nHAVE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -1142,7 +1332,8 @@
         2514
       ],
       "label": "text",
-      "text": "YOU?\n\nFRIENDSHIP\nLOVE\nBUSINESS\nESSAYS\nPAPERS\nADDRESSES\nSPEECHES\nGORMONS\nEDITORIALS\nTOASTS\nPOEMS\n\nANYTHING you wish REVIEWED,\nCORRECTED, WRITTEN or RE-\nVIEWED OR BUGGES GIVEN?\nPUT IN SHAPE for PUBLICATION?\nSEE OR WRITE HIM.\nPrices Reasonable\u2014All Business\nCONFIDENTIAL.\n\nALL Letters MUST be Accompanied\nwith Stamp to Assure Reply\n\nPATRONIZE OUR ADVERTISERS"
+      "text": "YOU?\n\nFRIENDSHIP\nLOVE\nBUSINESS\nESSAYS\nPAPERS\nADDRESSES\nSPEECHES\nGORMONS\nEDITORIALS\nTOASTS\nPOEMS\n\nANYTHING you wish REVIEWED,\nCORRECTED, WRITTEN or RE-\nVIEWED OR BUGGES GIVEN?\nPUT IN SHAPE for PUBLICATION?\nSEE OR WRITE HIM.\nPrices Reasonable\u2014All Business\nCONFIDENTIAL.\n\nALL Letters MUST be Accompanied\nwith Stamp to Assure Reply\n\nPATRONIZE OUR ADVERTISERS",
+      "status": "ok"
     }
   ]
 }

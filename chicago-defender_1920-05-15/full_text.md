@@ -3,6 +3,10 @@
 ---
 ## Page 1
 
+THE Chicago Defender WORLD'S GREATEST WEEKLY 5c Everywhere Except in Canada
+
+VOL. XV NO. 20. SATURDAY CHICAGO, MAY 15, 1920 16 PAGES. TWO PARTS PRICE FIVE CENTS
+
 # Convict Another Arkansas "Rioter"
 
 # Bayonets Halt Charge of Mob
@@ -164,8 +168,6 @@ To course all the delegates talk the bishop's interest is the desire to widen th
 
 The report of Ira I. Bryant, secretary of the department at Nashville, together with that made by Prof. John R. Hawkins, created enthusiasm almost without obstruction, and publishing, have made strides under these laymen. And their Hart, another layman, who seeks the office of business manager of the mother publishing house at Philadelphia, encourages any other church in the United States, encourages the laity to take part in any other church in the United States, the bishops being one on this point.
 
-The A. M. E. F. Church, more than any other church in the United States, takes part in the efforts of the church, the bishops being one of the point.
-
 ## Caroy the One Word
 
 Talking about bishops, that is enunciable to talk about down this way. The hard line between delegates is not to elect bishops, but to among a field of peers, for all the candidates are good men and true, first name of Dr. Cary is always the first mentioned when talk of bishops gets loose. Favorites other than Carry are Johnson, George and Mckee Johnson, Johnson, George and Mckee Caldwell, Dr. Morant being the big force in Mississippi and Dr. Caldwell secretary of the Allon C. E. League.
@@ -205,8 +207,6 @@ Recently at the annual convention of the African Methodist Episcopal Church in t
 ## FREE EDWARD WATERS
 COLLEGE FROM DERF
 
-## FREE EDWARD WATERS
-
 **COLEGE THOM. DELLE** Jacksouw in Florida are interested in their own education can be seen from the results of the semi-nannual meet of Waters college here Wednesday when the presiding edifice of the African M. E. church, together with the president over $14,000 for Christian education. The success of the trustee board is largely due to the masterly leadership of Hobson John Burt, who during the 1990s raised the college out of debt, built an administration building costing more than $60,000 and increased the annual tuition by $200. He has also built up the church in the state very materially, and all conferences in the district are asking for his help. A. Gregs is president of the college.
 
 ## Dog as Thiof Clue
@@ -222,28 +222,17 @@ Mr. McGee spoke from the subject: "Public Opinion An a Functional Element in the
 
 ## Prominent Attorney Seeks
 
-## Prominont Attorney Seeks
-State's Attorney Office
-
 Mounds, Ill. . . May 14—Attorney Charles I. Rice, prominent member of thePUkushi county bar, has announced an attorney on the Republican ticket. He has very little opposition and is being backed by the local machine. The population is large, and the number that of the whites and the election of Attorney Rice is practically ensured. The young age ago he was candidate for Circuit Judge, but was counted nigat at the "twelveth hour." As a compromise the party chief appointed him Master in Chancery and the demand account of the ballots was dropped.
 
 ## SCHOOL DESTROYED
 
 Oakwood, Tex. May 14. The Boyd Institute, located about a mile from town, was completely destroyed by fire which is thought to have originated in a dormitory. The main building in the area was to ashes. There no insurance.
 
-PRICE FIVE CENTS
+New York, Mr. Lord delivered an address in which he spoke in detail of the Indian conditions, both social and political, as follows:
 
-GIRLS
+Hate Military, Government
 
-African Soldiers
-Grave Crimes
-The Women
-
-Now York, Mr. Lord delivered an address in which he spoke in detail of the Haitian conditions, both social and political. He remarked as follows:
-
-Hee Military, Occupation
-
-"It would be a civilian police on the part of the American administration that win the friendship of the Haitians than to beat them into submission. The Haitians want the friendship of the American people, but now the trust is everywhere. They want no military occupation. They want, and have been me to say to you that they work in American hands of their men and women, with new ideas for their generation. They want back their government, for the Haitians who plotted to bring foreign control are now dead.
+"It would be a better policy on the part of the American administration to win the friendship of the Haitians to beat them into subjugation. The Haitians will be under the leadership of the American people, but trust is everywhere. They want no military occupation. They want, and want to give their way to you that they want, an American government to treat men and women with new ideas for their generation. They want back their government, for the Haitians who want to bring foreign control, are now dead.
 
 "In one night alone in the bushless nation nine little girls from 10 years old from the city of American soldiers." "The people are willing to help the American people to commercial and the American government to help the military forces and send an army of industrial teachers and social workers." "Americans Darespectful." It is declared that the Haitian people preferred Colored United States troops in the event the American forces were to deterate over the republic, it is declared that the white troops are too aggressive and are known for their discipline, capability women and girls.
 
@@ -285,52 +274,6 @@ Mystery surrounds the shooting of Richard Fletcher, age 14, of 2481 Westchester,
 ---
 ## Page 2
 
-# WIDER SCOPE OF A.M.E. CHURCH
-
-(Continued From First Page)
-
-the fraternal delegate from Zion, whose general conference is now meeting at Knoxville, is also here, and lively here, with an armful of statistics.
-
-Among the candidates for office Dr. F. C. Durden of Mound Bayou, Miss., is looming large for missionary secretary. He is a young man of fine poise and attainments.
-
-## Col. Simmons Coming
-
-The general regret of the conference is that Bishop Parks' invitation to Roscoe Conkling Simmons to deliver a speech to the other officer into for acceptance. However, it is likely that he will speak to the great body before the close of the sessions. Col. Simmons has a spot in the men that no other Race man ins, and it would be like depriving a man of his rights to fall to have him speak before this body. The bishops are that "will Roscoe speak" to what time will "that Roscoe speak."
-
-## Candidates for Bishop Active
-
-The election of bishops from all indications is likely to occur Friday, the 14th. W. A. Fountain, president of Morris Brown College, Atlanta, Ga., is very likely to be numbered among the bishops who are as being a man of unusual ability, energy and vigor. He enjoys the unique distinction of being held in high esteem by those who know him as a man of wisdom and humility. Among others who are seeking the bishopric are Rev. C. Runsam, W. T. Vernon, William Docker-Johnson, Bennie C. Caldwell, E. M. Hines, P. P. Peterson, W. W. G. Alexander, and last but by no means least, the matchless financier and church builder, whose name appears to be upon every longo-Dr. Election, and whose election is assured without a doubt.
-
-The foremost candidate for the missionary department, C. M. Tauer, has issued a statement directing the at-terrorism services which could be rendered by a more liberal extension of the work to foreign fields through training courses thereby connecting correspondence and manpower America, West Indies and Abysalia.
-
-## SIDELIGHTS OF CONVENTION
-
-The Poro college has been the mecca of social events during the conference. It is the home of the great and near-great. Mr. and Mrs. Aaron Malone, the business sagacity and intelligence, the institution has been made famous, are leaving no stone unturned to facilitate the pleasure of their many guests, the success of a conspicuous sample of race pride, the importance of Mr. Malone, who was elected permanent president of the Lay Delegates association, tendered a sumptuous banquet a few nights ago to the visiting doctores. Speeches were made by a number of representative men, all paying great deference to the builders of the Poro institution, especially Mrs. Aaron Malone, the business woman is unquired and unpassed by any member of our group.
-
-Mme. Patti Brown Arrives
-Mme. Patti Brown, the international song bird, arrived Sunday morning, not唱歌, but to present Patti's beauty and improvement. W. S. Evelyn Horton and Mme. W. S. Winston of St. Louis are in evidence at the Coliseum, acquainting the delegates with the virtual audience.
-
-Mass Meeting Thursday Night
-Dr. Leroy N. Bundy, formerly of East St. Leroy N. was presented for the conference Thursday night. Others who took part in the program were Attorney Dr. Charles L. Phillips, St. Louis; W. C. Linton, Attorney Joseph D. Bibb and A. N. Fields of Chicago; Bishop Joshua H. Jones, Willberforce; W. T. Vernon, the musical face of the occasion was directed by Prof. Gorin of Gorin. Hon. W. W. Fisher of Evanson is mon. in evidence at the general conference and is exerting every possible effort of Gov. Frank O. Lowden, Mr. Fisher is connected with the office of the attorney general and is one of the right hand men of Hon. Charles G. Rives, a possible presidential candidate.
-
-## Repudiates Race Superiority
-
-Hepatulates Race Superiority
-Washington D. C., introduced a resolution the afternoon session Monday which met the unanimous approval of the general conference. The purport of the resolution was, "That there is but one matter how much the people of this earth may vary as to color, hair, language, customs, laws or geographical locations, that the Creator hats indoors upon the earth." The resolution that welcomes as false and pernicious the doctrine of the superior race and superman, and declared that opportunities and
-
-People suffering from headaches and nervous diseases—they take over every known romody, but give their temporary gibt. To note the cause in the work of a.
-
-I have cared numbers given up as hostess, and I can prove it by letters in my office. I want you to read a few—see how I remove Cataracts, Growths, Drooping Eyes, Scums on Eyesight, Cross Eyes.
-Nose diseases are responsible not only for ear and other diseases; they are responsible for many of disturbances. Hence, when your eyes are ill, your eyes, it is well to discover if there is some disease present. If so, this should be corrected, and then the eyes cared for. In many cases, after the nose disease is clear, the eyeycases are no longer needed.
-
-## DR. F. O. CARTER
-
-Specialist in Ego, Ear, Nose and Throat
-Dentist, Chicago, St. Joseph
-Floor, Chicago, One door
-growth of The Fair.
-Hours: 0 to 8; Sundays 10 to 12.
-
 environments, coupled with education, were the only essential elements to hold away over and dominate other forms of education nationally, and that equal opportunities have always been the keynote for equal capacity and improvement.
 
 ## Nightly Concerts Featured
@@ -370,39 +313,123 @@ the Republican national convention,
 and Ald. F. Hardin, senate-monate
 speech" of the convention and delegates said it reminded them of the old days of Chauncey Depow.
 
-## Kiamst Triumpha Again
+Brooklyn, N. Y., May 14—As usual, the fourth annual vaudeville and dance of the popular Kismet club lived up to its previous reputation when it held most successful affair at Lobby Hall last month, last one thousand of the younger set were present and danced until the woefull hours of the morning after witnessing the usual vaudeville at the Amphitheater and White, Slither and Groen, Andy Pendleton's Jazzy Four, featuring Milford Smallwood, the wonderful little toon dancer; Dave Watkins from the association's midnight show, Parrell and the Amphitheater, accented by Miss Andrudes and Groen, all the acts were good, each receiving their share of applause. Wm. Brown's society orchestra furnished the music in their usual jazzy style. The Kismet club for the pleasure of their patrons and credit is their for this high class affair.
 
-Brooklyn, N. Y., May 14—As usual, the fourth annual vaudeville and dance of the popular Kismet club lived up to its previous reputation when they stage their most successful affair last month at the last lust. One thousand of the younger set were present and danced until the wee small hours of the morning after witnessing the usual vaudeville attractions. Among the acts were Shaw and Wendell, the children of Pendleton's Jazzy Four, featuring Milford Smallwood, the wonderful little toe dance; Dave Watkins from the association's midnight show, Farrell and Hatch and Paul Robison, accompanying Lindsay. All the acts were good, and their share of applause, Wm. Brown's society orchestra furnished the music in their usual jazzy style. The Kismet members did all in their power for the pleasure of their patrons and is theirs for this high class affair.
+Brooklynite Drops Dead
+Brooklyn, N. Y., May 14—Thophilus Fletcher, a younger brother of W. W. Fletcher, president of the Progressive Improvement association, dropped dead home Monday, May 5, at his home in Montgomery heart disease. Fletcher was a member of the chauffeurs and other organizations. The body was shipped to Elizabeth, Pa., for burial and was acceded a brother of the deceased. A widow and numerous other relatives are left.
+
+Flushing, N. Y., May 14—Because their home was neglected and because they wore without proper guardian-ship, James Lloyd and I. Henry Garner of Wocks avenue, Bayside, were placed in the New York Juvenile asylum. Their father was in court and apparently does a little trucking business, so the court ordered him to pay $2 per week for each child.
+
+Chocolate Brown Candy Company
+(Incorporated)
+
+324 East 39th Street, Chicago, IL
+Manufacturers and Brokers of Candies
+
+PRICE LIST
+
+Wrigley Chewing Gum, 1 box lot. 660
+Doublemint ... 650
+Spearmint ... 650
+Icely Fruit ... 650
+
+Canelo Chocolate Puddings... $1.05
+Brach Chocolate, 1 lb. boxes... 650
+Brach Chocolate, 1/2 lb. boxes... 320
+Brach Almond Bars, 2 doz... $1.20
+Brach Milk Chocolate Bars... $1.20
+Bulk Chocolates in 5 lb. lots... $2.75
+Spanish Pear Bars, 2 doz... $1.10
+
+We are in a position to ship R.O.B. to your city or town by parcel post at any time. In sending in your order mail us a postal money order to take care of same.
+
+Now Is the Time
+
+We repair and in-stall steam and hot water plants of all kinds.
+If your furnaces smoke and won't burn fire of coal call J. BARRETT, Diesel 1673, THE COAL SAVER.
+
+A. A. BOYD
+1807 S. WABASH AVE., CHICAGO
+Telephone Calumet 4073
+Representing
+N. ZAKED & BRO.
+Incorporated
+IMPORTERS OF
+ORIENTAL GOODS READY
+MADE AND JAPANESE
+KIMONOS
+AT WHOLESALE PRICES
+SPECIAL SALE EVERY SAT.
+
+---
+
+PAGE TWO
+
+# WIDER SCOPE OF A.M.E. CHURCH
+
+(Continued From First Page)
+
+the fraternal delegate from Zion, whose general conference is now meeting at Knoxville, is also here, and lively here, with an armful of statistics.
+
+Among the candidates for office Dr. F. C. Durden of Mound Bayou, Miss., is looming large for missionary secretary. He is a young man of fine poise and attainments.
+
+## Col. Simmons Coming
+
+The general regret of the conference is that Bishop Parks' invitation to Roscoe Conkling Simmons to deliver a speech to the other officer into for acceptance. However, it is likely that he will speak to the great body before the close of the sessions. Col. Simmons has a spot in the men that no other Race man ins, and it would be like depriving a man of his rights to fall to have him speak before this body. The bishops are that "will Roscoe speak" to what time will "that Roscoe speak."
+
+## Candidates for Bishop Active
+
+The election of bishops from all indications is likely to occur Friday, the 14th. W. A. Fountain, president of Morris Brown College, Atlanta, Ga., is very likely to be numbered among the bishops who are as being a man of unusual ability, energy and vigor. He enjoys the unique distinction of being held in high esteem by those who know him as a man of wisdom and humility. Among others who are seeking the bishopric are Rev. C. Runsam, W. T. Vernon, William Docker-Johnson, Bennie C. Caldwell, E. M. Hines, P. P. Peterson, W. W. G. Alexander, and last but by no means least, the matchless financier and church builder, whose name appears to be upon every longo-Dr. Election, and whose election is assured without a doubt.
+
+The foremost candidate for the missionary department, C. M. Tauer, has issued a statement directing the at-terrorism services which could be rendered by a more liberal extension of the work to foreign fields through training courses thereby connecting correspondence and manpower America, West Indies and Abysalia.
+
+## SIDELIGHTS OF CONVENTION
+
+The Poro college have been the mecca of social events during the conference. It is the home of the great and near-great. Mr. and Mrs. Aaron Malone, the chairperson of the conference, business sagacity and intelligence, the institution has been made famous, a leaving no stone unturned to facilitate the pleasure of their many guests. The institution is a conspicuous example of Malone, who was elected permanent president of the Lay Delegates association, tendered a sumptuous banquet a few nights ago to the visiting doctores of the conference. Speeches were made by a number of representative men, all paying great deference to the builders of the Poro institution, especially Mrs. Aaron Malone, a prominent business woman is unbounded and unpassed by any member of our group.
+
+Mme. Patti Brown Arrives
+Mme. Patti Brown, the international song bird, arrived Sunday morning, not to shup, but to present Patti's beauty improvement. W. Mee, Evolven Horton and Mme. W. S. Winston of St. Louis are much in evidence at the Coliseum, acquainting the delegates with the virtues of the group.
+
+Meeting Thursday Night
+Dr. Leroy N. Bundy, formerly of East St. Leroy, was presented to the conference Thursday night. Others who took part in the program were Attoroye H., Charles H. Phillips, St. Liesh; C. Linton, Attorney Joseph D. Bibb and A. N. Fields of Chicago; Bishop Joshua H. Jones, Wilberforce; W. T. Vernon, Tennessee. The musical feature of the conference is directed by Prof. Gourg. Gourg of Chicago.
+
+Hon. W. W. Fisher of Evanson is much in evidence at the general convention in is exerting every possible role of Gov. Frank O. Lowden, Mr. Fisher is connected with the office of the attorney general and is one of the right hand men of Hon. Charles G. James, a possible presidential candidate.
+
+## Repudiates Race Superiority
+
+Hepatulates Race Superiority
+Washington D. C., introduced a resolution the afternoon session Monday which met the unanimous approval of the general conference. The purport of the resolution was, "That there is but one matter how much the people of this earth may vary as to color, hair, language, customs, laws or geographical locations, that the Creator hats indoors upon the earth." The resolution that welcomes as false and pernicious the doctrine of the superior race and superman, and declared that opportunities and
+
+```markdown
+
+```
+
+People suffering from headaches and nervous diseases—they take over every known romody, but give their temporary gibt. To note the cause in the work of a.
+
+I have cared numbers given up as hostess, and I can prove it by letters in my office. I want you to read a few—see how I remove Cataracts, Growths, Drooping Eyes, Scums on Eyesight, Cross Eyes.
+Nose diseases are responsible not only for ear and other diseases; they are responsible for many of disturbances. Hence, when your eyes are ill, your eyes, it is well to discover if there is some disease present. If so, this should be corrected, and then the eyes cared for. In many cases, after the nose disease is clear, the eyeycases are no longer needed.
+
+## DR. F. O. CARTER
+
+Specialist in Ego, Ear, Nose and Throat
+Dentist, Chicago, St. Joseph
+Floor, Chicago, One door
+growth of The Fair.
+Hours: 0 to 8; Sundays 10 to 12.
+
+## Kiamst Triumpha Again
 
 ## Brooklynite Drone Road
 
-Brooklyn, N. Y, May 14—Theophilus Fletcher, a younger brother of W. W. Fletcher, president of the Progressive Hospital, visited Wednesday evening, May 6 at his home in Horkimer place, a victim of heart disease. Fletcher was a memorial organizer for the organizations. The body was shipped to Elizabeth, Pa. for burial and was accompanied by the brother of the deceased wife and numerous other relatives are left.
-
 ## Placed in Asylum
-
-Flushing, N. Y., May 14—Because their home was neglected and because they were without proper guardian care, the Worcester Worcestershire of Wocks area, Bayside, were placed in the New York Juvenile asylum. Their father was in court and apparently had been living business, so the court ordered him to pay $2 per week for each child.
 
 ## PRICE LIST
 
-Wrigley Chewing Gum, 1 box lot, 650
-Doublemint ..... 650
-Spearmint ..... 650
-Juicy Fruit ..... 650
-Cunco Chocolate Puddings.....$1.05
-Brach Chocolate, 1 lb. boxes.....650
-Brach Chocolate, ½ lb. boxes.....320
-Brach Almond Bars, 2 doz.....$1.20
-Brach Milk Chocolate Bars.....$1.20
-Bulk Chocolates in 5 lb. lots.....$2.75
-Spanish Peanut Bars, 2 doz.....$1.10
+THE CHICAGO DEFENDER
 
 # NEVERKINK
 
-Very few Race men or women applied for or took the recent Brooklyn postoffice examination for clerks or jobs. He had recently held recently. It has been said that it required high wages obtained in private jobs. *Lawyer Frances F. Giles was the principal speaker at a large reception given at two evenings ago, *Evelyn of the early evening Rev. J. E. Sheppard, president of the National Training School at Durham, N. C. Rev. S. Parks Cudman (white), N. C. Rev. J. M. Congrangional church, has calculated that the commencement day orater at the school on May 27th. *Winfield Holland, one of the popular young men of the city, has come on once more coming to town recently from
-
 Very few Race men or women applied for or took the recent Brooklyn postoffice examination for clerks or carriers, which was held recently. It required a background check, and wages obtained in private jobs. *Lawyer Frances F. Gilles was the principal speaker at a large reception given at Macedonia church, Flushing, a few evening age. *Through the efforts of the national Training School, Dennis N. C. Rev. S. Parks Cudman (white), the famous pastor of Central Congregational church, has consented to he commencement day orator at the National Training School,
-
-* Leonard Moody, 161 Dulufold street, had the misfortune to give his car "too much gas" and also of being a second offender and was fired $100 in the traffic violation. Because they went on strike for poor treatment, Davis Post No. 116 of the American Legion will first the smoker at the Universal Republican Club on this Saturday evening, May 15th. It will be under the management of the member's office. Because they went on
 
 mother of Mrs. Dolaney, a prominent member of Bridge Street church. G. H. Harris was the undertaker. * The mother of the exclusive neighborhood on Franklin avenue between Pacific and Dean streets by our group is almost complete, for the apartment houses purchased by them are all emplied of the exclusive neighborhood filled. * Mrs. Rachol Tucker, 413 Carlin avenue, is still on the slick list, but slowly improving. * The League Forum's Sunday afternoon meetings purchased by them feature is the high character of subjects discussed and the musical programs. * Boys' week was brought to a litting close Sunday, May 9, after a meeting of the faculty interested in themselves. The work was full of big events, which embraced everything from religion, education and athletics to social entertainments. * Harris Borchacno No. 8 of the Galileo Theater, for successful reception, May 3, at Labor Lycium. Mrs. C. Rafford was chairman of the entertainment committee. Mrs. L. J. Johnson is president of the school Company, F. Second Attendance of the 154 fantasy, of which Lout. Luther Evans is president, is planning a big event for the latter part of the month, to be Summer half. * Anniversary day, that Summer half. * Will take part in the event. * Wesley Friend and Matilda Michaelson, both of 1594 Dean street, took out marriage licenses last week. * Mothers' day was celebrated in the churches in an appropriate manner, carriage was in evidence everywhere.
 
@@ -411,6 +438,10 @@ Miss Eather Bradley, president of the Concord Linen Shower club, will head a com
 ## MT. VERNON MATTERS
 
 Mt. Vernon, N. Y., May 14—Rov. and Mrs. G. S. Boyd were given a surprise party by many of their church friends recently. The shower consisted of many donations. *Rev. and Mrs. Boyd have gone to Knoxville, Tenn., to attend the general conference. Their daughter, Miss Mary E. C., has resigned from Westinghouse College, Salisbury, N. C., and has attended among her friends again. The donate last Thursday evening at Macdonald church was in every way a success. Mr. Whitney was the winner. Rev. Nelson is well pleased at the way the members are striving to raise the funds for the Macdonald avenue, is very ill. Mr. Brown of South Seventh avenue is still very sick. Mrs. Hunt, West Third street, who has been ill, is able to be up. *George Wood, 37, 46 West Lincoln avenue, who was alleged to have stabbed Lawrences, was given the grand jury last week, in the course of special sessions on a charge of second degree assault.
+
+```markdown
+
+```
 
 ## NEW YORK CITY NEWS
 
@@ -423,10 +454,11 @@ The Hillcrest Monograph Co., the Howard Manufacture Co., the National and local 
 ## Mrs. Alice Jackson's Recital
 
 Mrs. Alice Jackson's Recital
-Mrs. Conrad Jackson announces the birth of one of his music pupils to take place on Tuesday evening, May 18, at Harlem Casino, 116th street and Lonox avenue. Upon this occasion Mrs. Jackson will have a private teacher, Mrs. S. Gitterman, the school lecturer and reader. Among Mrs. Gitterman's pupils are such prominent artists as Mina, M. N. Currie, soprano, co-star for two seasons with John M. Currie, 129th street, U. S. Community chorus, and others. The concert will be followed by dancing, Admission, 60 cents, Boxes, seating 8 persons, $2.50, and on sale at M. Currie, 129th street, U. S. Community chorus, furnished by Prof. W. H. Clair—Advt.
+Mrs. Alice Conrad Jackson announces her musical take to place of her music pupil to take place on Monday evening, May 18, at Harlem Casino, 116th street and Lonox avenue. Upon this occasion Mrs. Jackson will have the assistance of her vocal teacher, Mrs. A. S. Gitterman, the well known Mrs. Gitterman, among Mrs. Gitterman's pupils are among the artists as Mina, M. N. Currie, soprano, co-star for two seasons with John McCormack; Harry Barrhart, leader of U. S. Community chorus, and others. The concert will be followed by dance classes, 8 boxes, seating 8 persons, $2.50 each, at A. C. Jackson's, 129 W, 138th street, Music for dancing furnished by Prof. W, H. Clair.-Advt.
 
-United Homes Club Collation
-Brooklyn, N. Y. May 14—The United Homes Club reception Friday evening, April 14, the residence of Mr. and Mrs. Joseph Askew, 169 Lexington avenue. A fine collection was enjoyed by all present, the officers installed were; President, P. Askew, president of the treasurer, Joseph Askew; chaplain, J. Simmons; Joseph Askew, vice president; J. Rold, assistant secretary, and Wm. Smith, assistant treasurer. The members are Mr. and Mrs. V. Toppins, P. Askew, president
+United Homes Club Collation Brooklyn. N. T. Clark co-founded Homes club holds its installation reception Friday evening, April 30, at the residence of Mr. and Mrs. Joseph Askew, 169 Lexington avenue. A fine collation was enjoyed by all present. The officers installed were: President, James secretary, J. H. Smith; treasurer, Joseph Askew; Simmons; Joseph Askew, vice president; J. Rold, assistant secretary, and Wm. Smith, assistant treasurer. The members are Mr. and Mrs. V. Toppins, Mrs. M. Duffy, Mrs. H. Smith, Mrs. J. B along with the guests present were Mr. and Mrs. Massele; Mrs. W. Kemp, Mrs. Blanche Ward, Mr. and Mrs. J. H. Williams and W. H. Smith.-Advt.
+
+C. Marcolus Dorsey writes in the May Crisis: The average white priest and many of the Catholic bishops readily agree that there should be a priesthood in the gro priesthood—supposedly to conform to American prejudice. What the Negro youth demands and the Raco must have is a priesthood according to the same moral standards as the slim one that provided for all other peoples in the Catholic church.
 
 ## Dr. Bouafield Here
 
@@ -555,57 +587,60 @@ TAME RAIL
 We buy a
 Price Bul
 
-Bola E. Grayson
-Park Av., Chicago, Ill.
-MRS. LOLA E. GRAYS
-Boalp Speciali
+Park Av, Chicago, Ill.
+
+MRS. LOLA P. GRAN
+Boalp Speciall
 
 WANTED
 AME RABBIT SK
-We buy all you can send; Write
-Price Bulletin "W" and free Bo
+We buy all you can send: Write
+Price Bulletin "W" and free Box
+"How to Raise Rabbits for Pa
+VANDEWEGHE BROTH
 
 Men's hair can be straightened by simply wiping a little liquid Creoline Hair Trainer upon it. It can be washed without kinking. By mail 686. Creoline Hair Trainer, 686. Creoline Lustre Oil, 32k. Combination, $1.00. Stamps, Money Order or Draft.
 
-Ottawa News Stand
-author, known to Harlemites
-as Chicago Defender, man,
-opened a shrine booth and news
-paper stand at the southwest corner.
-He is a resident and 5th avenue. He
+Others News Stand
+Others, known to Harlemites
+and the Chicago Defender" man, has
+opened hoo shining booth and news
+paper stand at the southwest corner
+133d street in Chicago. He
 be pleased to see and serve his new
 patrons at his new place in the
-turore.
+ture.
 
 Postal Employees Hold Meeting
 An interesting meeting attended by
 many of our people was held last
-Sunday afternoon in St. Mark's hall,
-West 9th street. Plans were formulated
+Sunday afternoon in Los Angeles hall
+West of the city by the postal employees
+at New York. Plans were formulated
 for a big parade of clerks and carriers
-to be held soon in this city as a pro-
-test against the present low salaries of
+to be held soon in this city as a protest
+against the present low salaries of
 these employees.
 
-NE—WITH YOUR HELP WE
+LINE—WITH YOUR HELP WE
 ANYTHING"
 
-MY LIFE
-Company
+ITY LIFE
+to Company
 $100,000.00
-
 AT $30.00 PER SHARE
 
-OLD LINE or LEGAL RESERVE
-or incorporated under the laws of
-CONTROLLED BY NEGROES.
+OT OLD LINE or LEGAL RESERVE
+ever incorporated under the laws of
+OD CONTROLLED BY NEGROES.
 
-FOR YOUR INVESTMENT
+ALL OF YOUR INVESTMENT
+
 for stock is deposited with a bank which is
-not remain there until the organization is
-opened. By Jan. 30 1927, the
-company to the Stockholders. The remi-
-nial organization expenses.
+will remain there until the organization is
+the organization by June 30, 1927, the
+be returned to the Stockholders. The remain-
+organization expenses.
 
 for ONE MILLION DOLLARS every
 and they have repeatedly refused to
@@ -615,19 +650,47 @@ ing for one or more shares of stock
 
 part, will thank you to send me
 ing stock in your company.
+paper in your reply.
+
+Your Own Hair
+RN how to care, treat and beautify
+and grow other people's hair can do
+WAYSON'S Correspondence Course
+as the
+
+Q
+
+MRS. LOLA E. GRAYSON.
+Boalp Specialist
+
+RABBIT SKINS
+All you can send: Write for
+detin "W" and free Booklet
+Raise Rabbits for Profit"
 
 ---
 ## Page 3
+
+---
 
 # RACE PEOPLE ARE INVITED TO INVEST IN DESIRABLE BUILDING LOTS AND ESTABLISH RESIDENCES AT
 
 # New Brunswick Highlands
 
-Near the large industrial city of New Brunswick, "The Hub of New Jersey," known as "The City of Contented Workman," whore equal rights and opportunities provail for all. You can own your own home at New Brunswick Highlands and pay for same like rent. We have established many families in their own homes and made them happy and independent. Let us do the same for you.
+NEW BRUNSWICK
+50,000 POPULATION
 
-DESIRABLE BUILDING LOTS, $89 EACH AND UP. SMALL FARMS, CONTAINING 10,000 SQ. FT., $236 AND UP; GOOD TILLABLE LAND, SUITABLE FOR CHICKENS AND VEGETABLE RAISING; GOOD MARKETS AND BIG DEMAND.
+Near the large industrial city of New Brunswick, "The Hub of New Jersey," known as "The City of Contented Workman," where equal rights and opportunities prevail for all.
 
-NEW BRUNSWICK HIGHLANDS is less than two miles from the heart of the city. Trolley passes property, which is 12 minutes' ride from New Brunswick, having over 150 factories and industries paying a high scale of wages and the finest schools and colleges, including the Rice Industrial school for Colored Children. Do not wait until prices go up and the choicest selections are gone. BUY NOW and have your share and say.
+You can own your own home at New Brunswick Highlands and pay for same like rent. We have established many families in their own homes and made them happy and independent. Let us do the same for you.
+
+DESIRABLE BUILDING LOTS, $80 EACH AND UP,
+SMALL FARMS, CONTAINING 10,000 SQ. FT.,
+$236 AND UP; GOOD TILLABLE LAND, SUITABLE FOR CHICKENS AND VEGETABLE RAISING; GOOD MARKETS AND BIG DEMAND.
+
+NEW BRUNSWICK HIGHLANDS is less than two miles from the heart of the city. Trolley passes property, which is 12 minutes' ride from New Brunswick, having over 150 factories and industries paying a high scale of wages and the finest schools and colleges, including the Rice Industrial school for Colored Children.
+
+Do not wait until prices go up and the choicest selections are gone. BUY NOW and have your share and say.
 
 ## N. T. HEGEMAN COMPANY
 
@@ -650,33 +713,41 @@ Mrs. Daisy Closco, 138 West 143d street, left Wednesday of this week for her hom
 
 ## Boy Causes Father's Death
 
-Ernest Salters, 45. 506 Lenox avenue, was crushed to death Wednesday, May 5, while greasing the elevator cables of a car operated by his son, Garold, 18, at 21-26 West 13th street. The father was at work on top of the elevator, his son being inside an operator suddenly the lift ... not upward carrying the elder Salters to the top, crushing him between the shaft and roof of the car. His body was extricated by the fire department.
+Ernest Salters, 45. 506 Lenox avenue, was crushed to death Wednesday, May 5, while greasing the elevator cables of five elevators his son, Corold, 18, a 24-16 Week 13th father was at work on top of the elevator, his son being inside as operator. Suddenly the lift not upward carrying the elevator Salters to the top, crushing the elevator itself and roof of the car. His body was extirpated by the fire department.
 
-RACE PEOPLE ARE INVOLVED
+RACE PEOPLE ARE INV
 
-New Brunswick
+New Bru
 
-TRENTON
 PHILADELPHIA
 1,500,000 POPULATION
-53 MILES
 
-Near the large industrial city of New Workmen," where equal rights and You can own your own home at N many families in their own homes.
+TRENTON
+1,00,000 POPULATION
+
+Near the large industrial city of N
+Workman," whore equal rights and
+You can own your own home at N
+many families in their own homes.
+
+Payable in easy
+monthly pay-
+ments to suit
+convenience of
+purchaser.
 
 DESIRA
 SMALL
 $236 A
 FOR CH
-MARKET
 
-Payable in easy monthly payments to suit convenience of purchaser.
-
-NEW BRUNSWICK HIGHLANDERY, which is 12 minutes' ride from scale of wages and the finest school. Do not wait until prices go up and say.
-
-Write for free illustrated booklet.
-
+NEW BRUNSWICK HIGHLANDS
+erty, which is 12 minutes' ride from
+scalp of wages and the finest colli-
+Do not wait until prices go up and
+say.
+Write for free illustrated booklet
 N. T.
-
 9 CHURCH ST., N
 REPRESENT
 
@@ -705,9 +776,29 @@ The first copies of "Tomorrow," a new magazine published in Chicago by Nahum Dan
 
 In an interesting review of Darkwater (Harcourt, Brace and Howo) by Prof. W. B. Court, the Literary Digest in the May I issue advises that we want an adventure in souls to read the work. The Digest gives an exhaustive view of the work and quotes some of the powerful points which the noted author brings out in this, his latest work.
 
+```markdown
+
+```
+
 ## JAMAICA JOTTINGS
 
-Jamaica, N. Y., May 14.—The lecture given by Miss K. M. Johnson last Thursday on the sufferings our men endured in the late war, was well received. It was brought out that the popaganda spread by the southern French and French and our boys are welcome to return there at any time. * Sunday was Mother's day at Allen church, and while only one of the speakers booked to speak was present, the services were well attended. The pastor spoke at the night and the fair will open Monday at 10 a.m. Browster in the evening. The Sunday school banner for collection went to Mrs. B. A. Jackson's class and for attendance to the hostess's class. * The next meeting for the fair will be held on the night and the fair will open Monday at 10 a.m. Browster in the evening. P. Taylor Missionary Society will be addressed at 3:30 p. m. on Sunday by Mrs. Rose Edwards. * At the regular meeting of the M. S. Circle at Mrs. George Carter's residence, officers were now present for the year. Mrs. Gurnes is now present for the year
+Jamaica, N. Y., May 14.—The lecture given by Miss K. M. Johnson last Thursday on the sufferings our men endured in the late war, was well received. It was brought out that the propaganda spread by the southern whites was not well taken by the French and our boys are welcome to attend. It was also the Mother's day at Allon church, and while only one of the speakers booked to speak was present, the services were well attended. The pastor spoke at the morning service and Mrs. P. E. Browster in the evening. The Sunday school banner for collection went to Ms. W. J. Jackson's class and for attendance to the next meeting for the fair will be held Tuesday night and the fair will open Monday night, May 24th. * The Nora P. Taylor Missionary Society will be addressed at 3:20 p. m. on Sunday by Mrs. Rose Edwards. * At the regular meeting of the M. S. Circle at Mrs. Corey Carter's residence, officers were checked in and a new president. The next meeting will be held May 19th at Mrs. E. Marshall's home. * Mrs. Anna Mussle and mother, Huttle Y. Wyatt, formerly of Burlington, Vt., and Edward Fitch are making their home with Pearl Fitch, 79 Cumberland street. * Mrs. Frederika Bay, who has removed from Brooklyn and is now on a public court. * Mrs. Oakley of Ohio has been spending a few weeks at the home of Mr. and Mrs. Childs, 155 Pacific street. * The A. C. Club has renovated the upstairs front room of the parsonage and the dining room.
+
+Now York News Charity Bureau Ball
+The biggest attraction of the season
+is scheduled to take place in Manhattan
+Casino, Friday night, May 21st.
+The Costume Charity Ball always carries
+the honors for splendor, and the
+pleasure seeking folk of Harlem will
+crowd the casino to see who will carry
+away the prize for wearing the most
+beautiful evening gown, also the lady
+who will capture prizes for
+wearing the most beautiful
+Twenty-one valuable prizes will be
+awarded. Program begins at 8:30.—
+Advt.
 
 ## A Poatponed Wedding
 
@@ -723,29 +814,36 @@ John J. Cleary (white), 16, of 698 Greenwich street, was arrested last week and 
 
 ## Rico Recital Monday
 
-Pureza Rico, the world's greatest bazaar, will be heard in a song recital in Agollan hall, 33 West 43d street, on Monday evening. His program is an unusually attractive one, having relied on bokeh frombekow Kresler, Mozart, Philips and others. Tickets are now on sale at the box office.
+Pureza Rico, the world's greatest bago, will be heard in a song recital in Acollan hall, 23 West 43d street, on Monday evening. His program is an unusually attractive one, having collections from DeKevon, Kreisler, Mozart, Phillips and others. "Tickets are now on sale at the box office.
 
-RABLE BUILDING LOTS AND AT Highlands
+ABLE BUILDING LOTS AND AT Highlands
 
 NEWARK
-$50,000 POPULATION
+50,000 POPULATION
 32 MILES
 
 NEW YORK
-$50,000 POPULATION
+500,000 POPULATION
 
-Corsoy," known as "The City of Contented for same like rent. We have established student. Let us do the same for you.
+foreey," known as "The City of Contented for same like rent. We have established student. Let us do the same for you.
 
 EACH AND UP.
-1,000 SQ. FT.,
+
+000 SQ. FT.,
 AND, SUITABLE
 RAISING; GOOD
 
-Homes Built from $1,500 up.
-Payable $15 monthly and up.
+Homes Built
+from $1,500 up.
+Payable
+$15 monthly
+and up.
 
-The heart of the city. Trolley passos prop-factories and industries paying a high rate industrial school for Colored Children.
-BUY NOW and have your share and occupied by Race people.
+heart of the city. Trolley passes prop-
+factories and industries paying a high
+co industrial school for Colored Children.
+BUY NOW and have your share and
+occupied by Race people.
 
 COMPANY
 S AND DEVELOPERS
@@ -753,7 +851,9 @@ ABLE TERMS
 
 INVESTED IN
 
-You through its various listed and unlisted paying stocks an opportunity such as has offered before.
+You through its various listed and unlisted
+buying stocks an opportunity such as has
+offered before.
 
 ## $50.00 OR $100.00
 
@@ -782,14 +882,50 @@ Name:
 Address:
 Letters and Stats:
 
-NEGRO WELFARE-IN
+---
+
+TIMESHELDING
+
+York, N. York, M. May 14—Mr. and Mrs. St. Ives, M. 386 Rivera avenue, last Saturday evening. Cards and music were enjoyed during the evening. Among those present were Mr. and Mrs. J. Valdez, Mr. and Mrs. G. Newkins, Mrs. E. Bush of Manhattan, Mrs. E. Messrs. H. Rue, Claud and Hurry Spotsett. Some of the choir members of Mossiah Baptist church led a surprise on Mrs. Daisy Rux last Saturday night. Mrs. Rux received many handsome gifts, and refreshments were enjoyed by the guests. The surprise was started by a number of Yowkers took attendance for Nursery affair last Friday evening. The Old Fellows' reception last Friday evening was a great success, and well attended by a large number of out-of-town people. * Rev. S. W. Smith attended the 25th anniversary of Mr. New. York last week. * Joseph松松 of Providence, R. L. visited Miss Pauline Smith last week. * Mother's day was celebrated at all the churches Sunday. * The 25th marriaged anniversary of Mrs. Ogle Lawton, 207 West 186th street, evening, was a grand affair. Nearly 300 guests were present to do honor to this splendid pair, who had journeyed together all of these years. Mr. and Mrs. Lawton were the recipients of many costly presents from their friends Brooklyn and other parks. Several bass solos were rendered by Mr. Robeson, the great football, star and others.
+
+1. Vernon Graye, the original howay man who blow into New York from the wild west. Is again on the job with his official directory and guide. The howay band has brought out in the interest of the Harlem Tenants and Lodgers' League.
+
+O-KA-YA-MA Japaneso Ruby Hair Pomado will make hair grow long, straight and glossy. Price, 60c. Large shipment on hand for agents. "Crome de la Crene" cold cream makes the skin soft and beautiful. Price, 60c. Dr. Benson's Incomparable Hair Tonic, smells better, looks better, it is better. Wonder City Chemical Co., Porfumers, Box 45, Station J, New York City.—Advt.
+
+NEGRO WELFARE-IND
 EXPOSIT
 LENOX OVAL, 145TH STREET AND
-MAY 17th t
-MILITARY MANEUVERS BY THE
-MENT; AMUSEMENT ZONE; 20
-ING SHOWS AND ENTERTAINM
-RIDES; MUSIC AND
+MAY 17th to
+MILITARY MANEUVERS BY THE IN
+MENT; AMUSEMENT ZONE; 20 N
+ING SHOWS AND ENTERTAINMENT
+RIDES; MUSIC AND DA
+
+PRE-INDUSTRIAL
+SITION
+SHEET AND LENOX AVENUE
+un to 27th
+BY THE FIFTEENTH REGI-
+ME; 20 NOVEL, INTEREST-
+TAINMENTS; FOUR NEW
+AND DANCING
+ION 10C
+
+SKIN AND COMPLEXION
+commonly employed for the care of the
+things regarded as the necessity for them
+imperfections that they are designed to
+high cleansing and building process is of
+kind that salowness, blotches, freckles,
+neck, arms and shoulders will speedily
+ream night and morning; this removes
+the skin, rendering it clear, velvety and
+freshness of youth.
+best safeguard against, or relief for sun-
+salt-septic, and is a Natural Skin-Iod,
+and Beauty Shops, 50 cents, or sent
+Harmless. Agents Wanted. Write for
+facturers, 1456 Fulton St., Brooklyn, N.Y.
 
 # EXPOSITION
 
@@ -826,12 +962,17 @@ Every Jar Guaranteed Pure and Harmless. Agents Wanted. Write for liberal terms.
 
 BOYDULUS PRODUCTS CO., Inc. Manufacturers, 1456 Fulton St. Brooklyn, N.Y.
 
-BERRY
-& ROSS
-Inc.,
-Factory
-36-38 W. 135th St.,
-N. Y. C.
+The La Biel News and Delivery Service. Newspapers, Magazines and Periodicals. Agent for Dr. Denson's Hair Tonic. Twenty-One Things for the Hair. French Cold Cream and Japanese Pomade. 11½ Palisade Ave., Yonkers, N. Y.
+
+THREATT'S PURE FOOD RESTAURANT
+646 LENOX AVE., NEW YORK
+SERVICE A LA CARTE
+Harlem's Finest Eating Place
+
+RETIRING FROM BEAUTY BUSINESS
+For Sale...The rights, cuts, stock of steel combs and tins, the Panama Morris Straightening tins to growers, Hot Oil, Straighteners, Face Cream, etc. Valuable to those who specialize in Beauty in New York. Straighteners for professional people in New York. Philadelphia, Chicago. For further particulars address: MRS. H. E. N. MOURIS, 141 N. 211 81, Philadelphia.
+
+THE CHICAGO DEFENDER
 
 Many Attend Monster Meeting
 
@@ -847,39 +988,26 @@ Mrs. M. Cappie and Little daughter of Hot Springs, Ark., are visiting her and si
 
 # Clothing Factory BUY DIRECT FROM FACTORY AND SAVE MONEY
 
-Bungalow aprons,
-silk shirtwalts,
-children's dresses,
-middy blouses, etc.
-at Rock Bottom
-Prices.
+```markdown
 
+```
+
+Bungalow aprons, silk shirtwalt, children's dresses, middy blouses, etc., at Rock Bottom Prices.
 Send for catalog.
+Stock on sale, $10 per share. Paya 6% every three months, guaranteed.
 
-Stock on sale. $10
-per share. Paya 6%
-every three months,
-guaranteed.
+BERRY & ROSS
 
 ## VICTROLAS REPAIRED
 
-VICTROLAS REPAIRED
-TALKING AND SEWING MACHINES
-CLOCKS AND WATCHES
-REPAIRED
 Worrell Bros., 246 W. 143d St.
 Drop a card or phone Audubon 4123.
 We will call at your home.
 
 Retiring From Beauty Business
 FOR SALE
-The right cuts, stock of steel counters and pro-
-fessors, and much wanted beauty seeds in Greens,
-Hot Butts, Straighteners, Shampoo, Face Grasus,
-Valuables to those who specialize in beauty
-protectives. Professionals professional
-people in New York, Philadelphia and Chicago.
-For further information address:
+The fights, cuts, stock of steel couches and recliners, the famous Morphy Straightlining outfit, the hot sets, Straightlining, Siouxau, The Grans, Valeable to those who specialize in beauty people in New York, Philadelphia and Chicago.
+For further information address
 MME, H. E. W. MORRIS,
 
 ## OPTICIAN
@@ -892,32 +1020,10 @@ Promises.
 
 ## YONKERS YIELDINGS
 
-TIMESHELDING
-
-York, N. York, M. May 14—Mr. and Mrs. St. Ives, M. 386 Rivera avenue, last Saturday evening. Cards and music were enjoyed during the evening. Among those present were Mr. and Mrs. J. Valdez, Mr. and Mrs. G. Newkins, Mrs. E. Bush of Manhattan, Mrs. E. Messrs. H. Rue, Claud and Hurry Spotsett. Some of the choir members of Mossiah Baptist church led a surprise on Mrs. Daisy Rux last Saturday night. Mrs. Rux received many handsome gifts, and refreshments were enjoyed by the guests. The surprise was started by a number of Yowkers took attendance for Nursery affair last Friday evening. The Old Fellows' reception last Friday evening was a great success, and well attended by a large number of out-of-town people. * Rev. S. W. Smith attended the 25th anniversary of Mr. New. York last week. * Joseph松松 of Providence, R. L. visited Miss Pauline Smith last week. * Mother's day was celebrated at all the churches Sunday. * The 25th marriaged anniversary of Mrs. Ogle Lawton, 207 West 186th street, evening, was a grand affair. Nearly 300 guests were present to do honor to this splendid pair, who had journeyed together all of these years. Mr. and Mrs. Lawton were the recipients of many costly presents from their friends Brooklyn and other parks. Several bass solos were rendered by Mr. Robeson, the great football, star and others.
-
 ## Howdy, Man on job
-
-1. Vernon Graye, the original howay man who blow into New York from the wild west. Is again on the job with his official directory and guide. The howay band has brought out in the interest of the Harlem Tenants and Lodgers' League.
 
 ## ATTENTION!
 BEAUTY LOVERS
-
-O-KA-YA-MA Japaneso Ruby Hair Pomado will make hair grow long, straight and glossy. Price, 60c. Large shipment on hand for agents. "Crome de la Crème" cold cream makes the skin soft and beautiful. Price, 60c. Dr. Benson's Incomparable Hair Tonic, smells better, looks better, it is better. Wonder City Chemical Co., Perfumers, Box 45, Station J, New York City.—Advt.
-
-PRE-INDUSTRIAL
-SITION
-SEET AND LENOX AVENUE
-in to 27th
-BY THE FIFTEENTH REGI-
-ME; 20 NOVEL, INTEREST-
-TAINMENTS; FOUR NEW
-AND DANCING
-ION 10C
-
-SKIN AND COMPLEXION
-commonly employed for the care of the is regarded as the necessity for them imperfections that they are designed to high cleansing and building process is of mind that sallowness, blotches, freckles, neck, arms and shoulders will speedily cream night and morning; this removes the skin, rendering it clear, velvety and freshness of youth.
-Just configured against, or relief for sun- and dustleptic, and is a Natural Skin-Food, and Beauty Shops, 50 cents, or sent Harmless. Agents Wanted. Write for Facturers, 1456 Fulton St., Brooklyn, N.Y.
 
 ## "NU-LIFE"
 
@@ -948,17 +1054,18 @@ Inc.
 MADAM ESTELLE, Principal
 72 W. 133d St, New York
 
-The La Biel News and Delivery Service. Newspapers, Magazines and Periodicals. Agent for Dr. Denson's Hair Tonic. Twenty-One Things for the Hair. French Cold Cream and Japanese Pomade. 11½ Palisade Ave., Yonkers, N. Y.
+NEW YORK AND BROOKLYN NEWS
 
-THREATT'S PURE FOOD RESTAURANT
-646 LENOX AVE., NEW YORK
-SERVICE A LA CARTE
-Harlem's Finest Eating Place
+$750 If I Fail to Grow Hair
+World's Wonder Hair Grower
 
-RETIRING FROM BEAUTY BUSINESS
-For Sale...The rights, cuts, stock of steel combs and tins, the Panama Morris Straightening tins to growers, Hot Oil, Straighteners, Face Cream, etc. Valuable to those who specialize in Beauty in New York. Straighteners for professional people in New York. Philadelphia, Chicago. For further particulars address: MRS. H. E. N. MOURIS, 141 N. 211 81, Philadelphia.
+```markdown
+
+```
 
 # $750 If I Fail to Grow Hair
+
+P
 
 For Dandruff, Falling Hair, Scalp Diseases and Itching Scalp. It feeds the scalp, nourishes the roots and causes a natural growth of long hair, no matter how bad your hair may be. One month's treatment shows a different head; a regular scalp food. Send $110 for a regular treatment, or a $5.50 order in goods and services to a book of our beauty system of art and instruments in hair dressing, scalp treatment, facial massage and manlacing.
 
@@ -974,41 +1081,44 @@ Massage Cream.....690, Vanillaating Cream.....690
 
 We also carry a full supply of real human hair. All of our goods are strictly made to order. Transformations, switches, puffs and braids.
 
-$3.00
+54.60
 
-We also carry a full supply of real human hair. All of our goods are strictly made to order. Transformations, switches, nails and hairs.
+```markdown
+
+```
 
 Orders for Human Hair:
 Address Dept. C
-$3.60
+$4.00 $3.00
 ALL ORDERS MUST BE ACCOMPANIED BY MONEY ORDER
-
 WORLD'S WONDER MANUFACTURING COMPANY,
-203 WEST 140TH STREET
+203 WEST 140TH STREET NEW YORK CITY
 MME. CARRIE, President
-Agents Wanted Everywhere.
-Make Easy Money
+Agents Wanted Everywhere. Make Easy Money
 
 EUFAULA BEAUTY PREPARATIONS
 ENCLOSES THE WORLD'S FAMOUS ENHANCE OF BEAUTY SECRETS
 AND DO DECLARE
-
 "Gold That Buys Health and Beauty Can Never Be Ill Spent, Nor Hours
 Laid Out in Harmless Merriment."
 
 Make Easy Money
 
 ENCLOSES THE WORLD'S FAMOUS ENHANCE OF BEAUTY SECRETS AND DO DECLARE
+"Gold That Buys Health and Beauty Can Never Be Ill Spent, Nor Hours
+Laid Out in Harmless Merriment."
+EUFAULA BEAUTY CREAM—A greaseless, rose-
+colored provide Vanishing Cream for soothing,
+refreshing and beautifying the exposition. Powder is needed when this cream is used.
+Ladies' specialty—delightful for men.
 
-"Gold That Buys Health and Beauty Can Never Be Ill Spent, Nor Hours Laid Out in Harmless Merriment."
+A
 
-EUFAULA BEAUTY CREAM—A greaseless, rose-colored peroxide Vanishing Cream for soothing, refreshing and beautifying the complexion. No Powder is needed when this cream is used. Ladies' specialty—delightful for men.
-
-EUFAULA ROSE BROWN FACE POWDER—Made of the highest grade of fragrant, pure de rich imported talcum. Specialty for brown skins. Most pleasing shade ever made. Produces a smooth, velvety complexion. Has no equal.
+EUFAULA ROSE BROWN FACE POWDER—Made of the highest grade of fragrant, pure darix imported talcum. Specialty for brown skins. Most pleasing shade ever made. Produces a smooth, velvety complexion. Has no equal.
 
 EUFAULA INSTANTANEOUS SKIN BLEACH—A greaseless paste that's guaranteed to make the skin several shades lighter each treatment of 30 minutes. Absolutely harmless.
 
-EUFAULA SKIN WHITENER—A greaseless ointment like vanishing cream, for whitening the discolored skin and removing tan, sunburn, freckles and all discolorations of the skin. Olly skin and shiny nose remedied, a specialty.
+EUFAULA SKIN WHITENER—A greaseless ointment vanishing cream, for whitening the discolored skin and removing tan, sunburn, freckles and all discolorations of the skin. Oily skin and shiny nose remedied, a speciality.
 
 EUFAULA HAIR GROWER, POMADE, GLOSSINE, EMPERIER TONIC AND DRESSING are the help of Hair Beauty—Never fail to give excellent results.
 
@@ -1033,50 +1143,58 @@ EUFAULA CHEMICAL CO., 151 West 53d St., New York
 
 # Hair Seed Hair Grower
 
+```markdown
+
+```
+
 ## A MAGIC WONDER
 
-Nature's Way of Forcing the Hair to grow long, soft and healthy. A combination of dried and powdered seed. Just clean your scalp and plant the seed often by rubbing the HAIR SHEED GROWER gently in the scalp.
+Nature's Way of Forcing the Hair to grow long, soft and healthy. A combination of dried and powdered seed. Just clean your scalp and apply the seed often by rubbing the HAIR SHEED GROWER gently in the scalp.
 
-Do this tonight, watch your hair grow, it is a mystery, Hair Seed is a powerful stimulant, it excites the scalp to a new and healthy action. Kills dandruff and tetter the very first treatment; stops the itching of the scalp and at once the short temple hair begins to grow fine. This compound has the indulgence of the Medical Profession longing the best possible ever offered to the public. IT GREW HAIR out a head that had been bald ten years. We can prove it.
+Do this tonight; watch your hair grow, it is a mystery. It is a powerful stimulant, it excites the scalp to grow faster action. Kidnails dandruff and tatter the very first moment; stops the tearing of the scalp and at once the short temple hair begins to grow fine. This compound has the indolescent of the Medical Company, the most grower ever offered to the public. IT GROWES in head that had been bald ten years. We can train DIRECTIONS: Get a 25 cent package of Hair Seed Hair Grower and mix it in two ounces of pure melted vasseline and perfume nicely and you will have a powerful old-fashioned, true and highest hair grower. Try it. Ladies, let us send you a full six months' treatment for $100.
 
-DIRECTIONS: Get a 25 cent package of Hair Seed Hair Grower and mix it in two ounces of pure mooted vaseline and perfume nicely and you will have a powerful old-fashioned, true and honest hair grower. Try it. Lailies. It is send you a full six months' treatment for $1.00.
+At Your Drugsist's or Direct From
 
-At Your Druggist's or Direct From QUEENS MAIL ORDER HOUSE
+QUEENS MAIL ORDER HOUSE
 P. O. B. O. JAMAICA, LONG ISLAND
 
 HEALTH IS WEALTH
 VINO TONIC
-taken as directed on the bottle is the best preventive against INFLUENZA
+taken as directed on the bottle is
+the best preventive against
+INFLUENZA
+
+THE F. T. BERKMAN PHARMACY
+448 Lonox Avenue New York City
+or
+VINO INDUSTRIAL COMPANY
+200 West Houston Street New York City
+
+QUEENS MAIL ORDER HOUSE
+P. O. B. O. JAMAICA, LONG ISLAND
+
+HEALTH IS WEALTH
+VINO TONIC
+taken as directed on the bottle is
+the best preventive against
+INFLUENZA
 
 THE F. T. BERKMAN PHARMACY
 448 Lenox Avenue New York City
 or
-VINO MEDICAL COMPANY
+VINO F. T. DAL COMPANY
 200 West Houston Street New York City
-
-MME, E. R. CARGEL'S CELEBRATED ELITE HAIR GROWER
-Best on the market for Dandruff, Failing Hair, and All Scalp Diseases. Cargel's Elite Preparations have gruddened many discouraged ladies—growing their hair one to two inches monthly.
-Elite Hair Grower, 50 cts; Elite Hair Dressing, 50 cts;
-Elite Tetter Salve, 50 cts; Elite Hair Lustre, 50 cts;
-Elite Shampoo, 25 cts.
-Mme. Cargel's Elite System Correspondence Course Agents wanted. Send $1.00 for special outfit. Address mail and money orders.
-
-Mme. E. R. Cargel, Station J, Box 14, N. Y. City
-
-QUEENS MAIL ORDER HOUSE
-P. O. B. O. JAMAICA, LONG ISLAND
 
 taken as directed on the bottle is the best preventive against INFLUENZA
 
 THE F. T. BERKMAN PHARMACY
 448 Lonox Avenue New York City
 
-MME, E. R. CARGEL'S CELEBRATED ELITE
-HAIR GROWER
-Best on the market for Dampruff, Falling Hair, and
-All Scalp Diseases. Cargel's Preparations have
-gladdened many discouraged ladies—growing their
-hair one to two inches monthly.
+MME, E. R. CARGEL'S GELEBRATED ELITE HAIR GROWER
+
+PRESIDENT
+
+Best on the market for Danduff, Falling Hair, and All Scalp Diseases. Cargel's Elite Preparations have gladdened many discouraged ladies—growing their hair one to two inches monthly.
 
 Elite Hair Grower, 50 cts; Elite Hair Dressing, 50 cts;
 Elite Tetter Salve, 50 cts; Elite Hair Lusto, 50 cts;
@@ -1103,11 +1221,17 @@ Allegro Massage for Stiff Fingers, $1.00 a Jar, Postpaid, Allegro Co., 26 East 1
 ---
 ## Page 4
 
+PAGE FOUR
+
+```markdown
+
+```
+
 # In Memory of the Founder and President of the Mme. C. J. Walker Mfg. Co.
 
-# "Beauty Thoughts' of Madam Walker"
+SHELBY
 
-By SERGT. ALLEN R. GRIGGS, JR., Author of the "Negro's Tribute to Roosevelt," "Are They Equal in the Eyes of the Law," and other poems.
+# "Beauty Thoughts' of Madam Walker"
 
 Can she be dead, whose soul still breathes,
 'Tho casket's hid 'neath withered wreathes,
@@ -1123,6 +1247,19 @@ Sweet thoughts of her whose self-made star
 Mounted its zenith in the sky, too far,
 Its light to hide?
 
+By SERGT. ALLEN R. GRIGGS, JR., Author of the "Negro's Tribute to Roosevelt," "Are They Equal in the Eyes of the Law," and other poems.
+
+THE CHICAGO DEFENDER
+
+the Founder
+C. J. Walke
+
+Ime. C. Z. Walker
+
+Died M
+
+thoughts' of Mad
+
 Can she be dead, whose memory's stamped
 On million hearts with sorrows cramped,
 While thoughts of love
@@ -1131,6 +1268,9 @@ To her within the gates ajar,
 The home above?
 
 Can she be dead, who never fogot The sorrows that were freedmen's lot, And strove to lift The burdens that held them entwined, The obstacles that made them blind, To freedom's gift?
+
+By SERGT. ALLEN R. G.
+Roosevelt," "Are They En
 
 Can she be dead, whose mantle fell On those so near who now can tell With mighty pen, The "thoughts of beauty" she did hold, Were naught with her, if not two-fold Without—within?
 
@@ -1143,12 +1283,21 @@ That "beauty thought" her soul still
 breathes,
 Without—within.
 
+SATURDAY, MAY 15,
+
 ---
 ## Page 5
 
 # On the 25th of May, 1919, MADAM C. J. WALKER, widely known for her unparalleled achievements and her broad philanthropies, passed into The Great Silence.
 
-T WAS all so near to us then that we called it death, but today, as we recall her life among us, we say with the poet, "There is no death." A great soul had borne its load cheerfully, had accepted defeats and victories with equal poise, had completed its labors while it was day, and, when the night came, it went to sleep. Those who were near her recall with pleasure that she was cheerful, hopeful, brave to the last, and looked forward with joyful anticipation to the life before her, waiting by the shores, worn, but not tired of life and its changeful struggles. When the time came for embarkation, and the ropes were cast off, her craft now at sea, we would believe that she still looked forward with hopefulness to the new world, to which the unknown voyage should bring her.
+BATI
+ADAY, MAY 18, 1920
+
+e 25th of May
+KER, widely known for her unparallel
+ilanthropies, passed into The Great Si
+
+IT WAS all so near to us then that we called it death, but today, as we recall her life among us, we say with the poet, "There is no death." A great soul had borne its load cheerfully, had accepted defeats and victories with equal poise, had completed its labors while it was day, and, when the night came, it went to sleep. Those who were near her recall with pleasure that she was cheerful, hopeful, brave to the last, and looked forward with joyful anticipation to the life before her, waiting by the shores, worn, but not tired of life and its changeful struggles. When the time came for embarkation, and the ropes were cast off, her craft now at sea, we would believe that she still looked forward with hopefulness to the new world, to which the unknown voyage should bring her.
 
 Those privileged to witness the throng that paid its last respects to her memory, who listened to the eulogies spoken by those of high attainments in life, white and Colored, cannot forget—so impressive were the many lessons brought home to them. We did not understand, and we almost asked why she went away, just when her influence was becoming a power for the advancement of the Race—just when we needed her most, and it was hard to realize and understand that His ways are not like man's. It was Madam Walker alone who could look up through it all and say, "It's all right."
 
@@ -1156,11 +1305,15 @@ What can we say of her? To say that she was born in Delta, Louisiana, in 1867, l
 
 When the word went forth that a Negro had passed away, leaving an estate valued at $1,000,000, including a mansion on the Hudson, the world stood aghast. There were those who called it "The last straw of Americanism;" others, the marvel of the twentieth century; others said it was the work of genius, while many referred to her's as the greatest achievement of the Negro Race. A few were left without words. They could not understand it then, and they can scarcely believe it now. Sphinx-like, they have waited for a broader comprehension, for a sixth sense, as it were, to understand how a member of the so-called inferior race, one descended from slave parents, born in that state that offers the meagerest educational opportunities, could establish a colossal business, grapple with the problems of big finance, and build up a mansion for herself in the most favored spot in America. The most conservative of the stronger races were forced to conclude that genius is not limited to any particular race; that it is possible for a member of the Negro Race to overcome the handicaps of centuries in a single generation; that it is impossible for human beings to forecast the personal equation. Some have endeavored to seize upon the secret of Madam Walker's success, but it has seemed more or less elusive. Doubtless she herself would have said it was hard work, intense application, determination not to yield to discouragements, and ambition tempered with Christian ideals. Indeed Madam Walker's career was a marvel—it was more. It was a timely proclamation to Anglo-Saxon civilization, declaring that the way can not be obstructed; a message to the world that the Negro can reach the American standard; it was Destiny's challenge to the closed door of opportunity.
 
-Madam Walker was endowed with initiative, zeal, sympathy, ambition, understanding, and that rarest of all gifts, uncommon common sense. She recognized her weaknesses and her strength, her mistakes and her successes, her possibilities and her human limitations. Well has it been said of her that her heart was broader than any race, her faith greater than any creed, and her life larger than any circumstance. She was a woman of vision, and her courage was always equal to her tasks.
+Madam Walker was endowed with initiative, zeal, sympathy, ambition, understanding, and that rarest of all gifts, uncommon common sense. She recognized her weaknesses and her strength, her mistakes and her successes, her possibilities and her human limitations. Well has it been said of her that her heart was broader than any raco, her faith greater than any creed, and her life larger than any circumstance. She was a woman of vision, and her courage was always equal to her tasks.
 
-What was her mission? History bears out the belief that for every great crisis Providence has raised up some one to fill the need. To many it seems that Madam Walker came to give economic vision to a struggling race. Before her time the way to the highest goals seemed so steep and rugged! Colored Americans were not accustomed to let their thoughts "soar into real money." Hence it was not strange that a smile went round when Madam Walker expressed her desire to become a millionaire, in order that she might accomplish the good she desired for her Race. She thought big things, and, as a result, she did big things. What a singular coincidence, or was it a coincidence, that Madam Walker amassed a fortune just at the time when the Racoon can reach the American standard; it was Destiny's challenge to the closed door of opportunity.
+What was her mission? History bears out the belief that for every great crisis Providence has raised up some one to fill the need. To many it seems that Madam Walker came to give economic vision to a struggling race. Before her time the way to the highest goals seemed so steep and rugged! Colored Americans were not accustomed to let their thoughts "soar into real money." Hence it was not strange that a smile went round when Madam Walker expressed her desire to become a millionaire, in order that she might accomplish the good she desired for her Race. She thought big things, and, as a result, she did big things. What a singular coincidence, or was it a coincidence, that Madam Walker amassed a fortune just at the time when the Racoe was beginning to experience industrial and economic emancipation? At a time when the Race most needed an object lesson in thrift. The lesson is, "Go thou and do likewise." This is not saying, either, that wealth was Madam Walker's chief desire, as an end in itself, but it was her strong desire as a means to an end.
 
-In her ideals Madam Walker was a pioneer. She was was privileged to set new standards for business, for Christian giving, for home-making and racial co-operation. According to published statements, Madam Walker was the first Colored woman to give $1,000 for the promotion of Christian work. After making this gift, her appreciation for service increased in proportion to her large income, and throughout her entire career, as a woman of wealth, Madam Walker devoted serious thought to constructive giving. Then it was not unusual to find her car parked at the entrance to some alley, while she went among the lowliest, distributing gifts, giving money where it was needed, and all the time giving sunshine and encouragement. It was not unusual to f
+In her ideals Madam Walker was a pioneer. She was privileged to set new standards for business, for Christian giving, for home-making and racial co-operation. According to published statements, Madam Walker was the first Colored woman to give $1,000 for the promotion of Christian work. After making this gift, her appreciation for service increased in proportion to her large income, and throughout her entire career, as a woman of wealth, Madam Walker devoted serious thought to constructive giving. Then it was not her large contributions, that the world knew about, that made her life one of helpfulness, but it was the many little human charities of which the public knew nothing, that distinguished her giving. It was not unusual to find her car parked at the entrance to some alley, while she went among the lowliest, distributing gifts, giving money where it was needed, and all the time giving sunshine and encouragement. It was her custom at Christmas time to remember the poor of her home city with Christmas baskets containing everything necessary for a good Christmas dinner. Often she visited the jails and encouraged the wayward. Where it seemed that the guilt had not been sufficiently established against the accused, she provided
+
+---
+
+PAGE FIVE
 
 the services of an attorney to see that justive was given. In many instances she provided bonds, without charge, where there was no one to look after the unfortunate ones. As she went about over the country, meeting often with the downhearted and the poor, she gave money for immediate relief in hundreds of instances, and went about her way, leaving no story of her deeds, but only a beautiful memory in the hearts of those she helped. She believed it was worth while to lend money to persons struggling to buy homes for themselves, and in not a few instances she helped others to help themselves. She believed that the talent in the Race should be cultivated, and when young people were without means it is well known to what extent she offered financial encouragement. She was not discouraged, either, when her benefactions were bestowed upon the undeserving, when she judged wrongly, but was just as willing to try it the next time, lest the deserving should go unassisted.
 
@@ -1172,18 +1325,46 @@ Madam Walker had insight into human nature. She studied people. She knew whom sh
 
 What shall be said of her courage? Only a few have shown the remarkable degree of courage exhibited by Madam Walker. When she entered upon her work, that was to bring her a fortune in a few years, her friends thought it an "end-of-the-rainbow" venture, that would end disastrously. Discouragements came thick and fast. As she went from place to place advertising her hair preparations the cold reception was not an unknown happening, but she had made up her mind that "none of these things shall move me," or, a better translation, "none of these things shall keep me from moving." Did she move? The great Tuskeegian was right when he said, "If you keep a man in the ditch, you must stay down there with him," but he spoke only part of the truth. He might have added, "and you must be the better man, for all can't be kept in the ditch." There is a distinct class that is willing to stay down if by so doing it can keep others down. This class is unwilling to make the struggle to the top, and its energies are diverted to holding others down on the same level with themselves. If stumbling blocks and knocks could have curbed Madam Walker's free, brave spirit, Villa Lewaro in Irvington-on-the-Hudson would have been only the shadow of a vanished dream.
 
-Madam Walker struck a new note in human relations when she refused to forget the steps by which she reached the top. Shakespeare was thinking of his own race when he wrote, "But when he once attains the utmost rounds, he looks into the clouds, scorning the base degrees by which he did ascend." Madam Walker never forgot that she was once an orphan, poor and neglected, that she had lived in humble surroundings, that she had worked hard for a living. She never forgot those who rendered her any service, however small, in the days of struggle. She never rose above her friends. Even in her mansion she entertained her humblest friends. She provided the expenses of many who could never have seen her beautiful home otherwise. She was able to adjust herself to conditions and to the last was able to be perfectly comfortable in modest homes; nor were her friends embarrassed in her presence. She believed herself that there is no great or small, so long as any one is doing his best.
+Madam Walker struck a new note in human relations when she refused to forget the steps by which she reached the top. Shakespeare was thinking of his own race when he wrote, "But when he once attains the utmost rounds, he looks into the clouds, scorning the base degrees by which he did ascend." Madam Walker never forgot that she was once an orphan, poor and neglected, that she had lived in humble surroundings, that she had worked hard for a living. She never forgot those who rendered her any service, however small, in the days of struggle. She never rose above her friends. Even in her mansion she entertained her humblest friends. She provided the expenses of many who could never have seen her beautiful home otherwise. She was able to adjust herself to conditions and to the last was able to be perfectly comfortable in modest homos; nor were her friends embarrassed in her presence. She believed herself that there is no great or small, so long as any one is doing his best.
 
-A few years ago the strenuous life which Madam Walker loved so much began to tell on her physical condition, and she was told that she must give up her activities, but they had become so much a part of her very life that she could not easily follow this advice. There were friends and admirers who felt that it would have been an easy thing to do, and that her life might have been prolonged for years. They did not know that for her, and others like her, it is far easier to go on than to stop. Given her choice, there was no doubt that she would have preferred making a name for herself in a short time rather than to press to press on, because
+A few years ago the strenuous life which Madam Walker loved so much began to tell on her physical condition, and she was told that she must give up her activities, but they had become so much a part of her very life that she could not easily follow this advice. There were friends and admirers who felt that it would have been an easy thing to do, and that her life might have been prolonged for years. They did not know that for her, and others like her, it is far easier to go on than to stop. Given her choice, there was no doubt that she would have preferred making a name for herself in a short time rather than a long life unknown. She preferred the "day of crowded life to an age without a name."
 
-"It matters not how straight the gate."
+The only difference in people, after all, lies in the things they believe, and finally Madam Walker believed that she was indeed the captain of her own soul. And, acting in this great faith in the invincible, she went about life in earnest, undaunted, hopeful, and with a great faith. She made no apologies for her existence and looked upon herself as the equal of any. When she found that the lack of educational training was a handicap, she set to work and with studious effort overcame this great obstacle, for to her obstacles were only a challenge to her powers, and as such she met them. As she went about the land delivering public addresses those who heard her recognized continual growth. She mastered the intricacies of business and filled her place uniquely and will forever be an inspiration to those who tremble in face of handicaps and natural hindrances.
+
+How truly has it been said that the subject of this sketch left her mark. The generations coming after her will be the better because of this noble heritage. When the shadows hang low, and when it seems that God has forgotten, the memory of one who has fought and won, and who has lived the simple life of trust, will enhearten and bid the weary and tried to press on, because
+
+"It matters not how straight the gate.
 
 FRANCES BERRY COSTON.
 
 ---
 ## Page 6
 
+Tony Langston's DRAMA AND MOVIE REVIEW
+
 # "Return of Eve" Pleases at Avenue; Irvin Miller's "Rastus" Still Hitting
+
+AGAIN!
+
+We Are Obliged by Popular Demand to Present Once More
+
+WEEK OF MONDAY, MAY 17th
+
+Irvin C. Miller's
+
+BROADWAY RASTUS of 1920
+
+Biggest, Brightest and Best Musical Comedy of All
+
+HOME OF REAL ENTERTAINMENT
+
+GRAND THEATER
+
+STATE AT 31ST, DOUGLAS 500
+
+Usual Shows at the Usual Times at the Usual Prices
+
+PAGE BIX
 
 "Return of Eve," which is the first offering of the present company of Lafayette Players at the Avenue theater,
 
@@ -1214,7 +1395,7 @@ the garden of the weal-
 ty are usually
 raised, that the
 
-wealth which Tony Lannonton he has accumulated will be foolishly squandered. Therefore he sends them far from civilization, placing who it it keep watch over them till they reach maturity. Then they will be able to face the world pure in mind and body. The serpent in the garden is avoided, but upon their return, theagination the serpent turtles their every moment, engulfed in all sorts of evil, as if they were brought up in it. To tell more of the story would be to rob you of the pleasure that is sure to be yours when you witness the splendid manner in which this many of players is presenting the play.
+is a 'interior drama, strong in truth, romance and human in ternary, in an music plot, the entail rising on a boy and girl in a modern Garden of Eden, far from civilization. They are the heirs of a wealthy man who has original ideas to no manner in which children should be reared. He figures that if they are brought up in the way that children of the wealthy are raised, that the wealth in which he has accumulated will be foolishly squandered. Therefore he sends them far from civilization, placing them in the care of an aged tutor, who will keep watch over them until they reach maturity. Then they will be taught to live in the world and mind and body. The serpent in the garden is avoided, but upon their return to civilization the serpent lurks at their every step, and we find them engulfed in all sorts of evil, as if they were brought up in it. To tell more of the story would be to rob you of the pleasure it is sure to be yours when this company of players is presenting the play.
 
 Chicagoans had their first opportunity to see the much heralded Ide Anderson in action. This handsome and talented young actress is one of the greatest assets of which the Quality Amusement corporation can boast, and the talent of Anderson gives an impressive display of her line ability. As Evo she is all that could be asked for; she takes full advantage of all the chances and is equally at home in either tense or lighter situations. Miss Anderson is bound to become popular with the crowd given Lawrence Chonault, always a great favorite of the crowd, proud as Adam, handling the part with his usual skill. Chonault is well fitted for characters of this sort, as is Babo Townsend as Seymour Purchall, a heavy character that requires a world of ability for interpretation. Babo is without a doubt one of the most conspicuous performers in the business and can always be relied on. As Old Winters, Sidney Kirkpatrick does some wonderful character work; it is a type that gives him plenty of chances, and he accepts them all. The popular Ingene, Alice Gorgas, as Chirce, has never been seen to battle advantage, and the same can therefore be said of Mrs. Tupper-Bellamy, a man as Mrs. Tupper-Bellamy, a man that seems to have been built to suit that come to have been built. Susie Sutton as Trixie is also well cast and does more than justice to the part. Ivy Hubbard as Mrs. Connyhee does and so does Helen Wilson as Matilde. And Anderson gives a fine portrayal and the cast is completed by A. B. DeConchierre and Harry Plater us the first and second guests.
 
@@ -1285,6 +1466,8 @@ The Dewey Trio are at Elkhart, Ind, and going great, as usual.
 The Humbour Jones company is at
 Philadelphia, Virginia. Lesson in the lead.
 
+THE CHICAGO DEFENDER
+
 ## "PLEASE GET MARRIED"
 
 Next week at the Avenues theater the Chicago home of Quality Productions, the company of Lafayette Players, which opened their western engagement this week, will be seen in Olive J. Morsose's hilarious bedroom fare "Pilgrimage of the Earth."
@@ -1297,17 +1480,17 @@ It is bad enough to be alone with a strange young woman on the first night of yo
 
 ## "LOCKED LIPS"
 
-At the States Theater next Sunday theater-goers of this city will be given an opportunity to see the Japanese Bernhardt, Tauri Aold, in her latest photodrama, "Locked Lips."
+At the States Theater next Sunday theater-goers of this city will be given an opportunity to see the Japanese Bernhardt, Tsuru Aoki, in her latest photodrama, "Looked Lips."
 
-The success scored by Miss Aold in her first Universal production, "The Breath of the Gods," has established this Japanese actress as one of the foremost figures on the screen.
+The success scored by Miss Aoki in her first Universal production, "The Breath of the Gods," has established this Japanese actress as one of the foremost figures on the screen.
 
-"Locked Lips" differs from any other photodrama not produced in which a Japanese character holds the center of the screen. Its scenes are not laid out plainly. There is no theme nor situation that is foreign to an American audience.
+Like Lips differs from any other photodrama, Japanese character holds the center of the screen. Its scenes are not laid in Japan. There is no theme nor situation to the story that is foreign to an American audience.
 
-The story opens in a clubroom in an American city where Henry Stanwood, in a brawl over a game of cards, shoots a man and makes his escape. Fleeing from justice, his wanderers bring him to the island of Hilo. There he breaks into a cottage in search of food. It is home of Lotus Blossom, a Japanese girl who touched a native school. She nurses him back to health, strength and they are eventually married. The man's real nature soon asserts itself and he deserts Lotus Blossom.
+An early opens in a clubroom in an American college house is Stanwood, in a brave over a game of cards shows a man and makes his escape. Fleeing from justice, his wanderings bring him to the island of Hilo. There he breaks into a cottage in search of food. It is the home of Lotus Blossom, a Japanese college native school. She nurses him back to the island and strength and they are eventually married. The man's real nature soon ascents itself and he deserts Lotus Blossom.
 
-His escape from the island, the changing of clothes with a body which had been washed ashore, his marriage to a girl in San Francisco and Blossom's real identity interrupted when she finds that her husband is married to the woman who had befriended her, are told in a series of gripping, tense situations that end in a breathless olimax.
+His escape from the island, the changing of clothing with a body which had been washed ashore, his to an American girl in San Francisco and Blossom's real romance, which is interpreted when she finds that her husband is married to the woman who had befriended her, are told in a series of interactions that end in a breathless culinary
 
-The production shows the directorial of William C. Dowlan, while the star is requested by such players as Stanhope Wheateroff, Maigda Lane, Jack Abbey and others.
+The production shows the directoral touch of William C. Dowlan, while all players are surrounded by such players as Stanlbom and Magda Lano, Jack Abbey, and others.
 
 ## LULU COATES & CO.
 
@@ -1352,6 +1535,38 @@ Clarence Potter's Jazz Band is being
 
 Clarence Potter's Jazz Band is being booked by the Kelth Enterprises.
 
+ADOLPH ZUKOR PRESENTS
+
+JOHN BARRYMORE In
+
+DR. JEKYLL AND MR. HYDE
+
+By Robert Louis Stevenson
+
+HE WANTED to yield to all that appeals to the flesh, yet leave his soul untouched. So
+
+DR. JEKYLL
+CONCOCTED THE POTION
+THAT MADE HIM
+
+MR. HYDE
+SEE
+Before Your Very Eyes the Most Amazing Change of Character Ever Achieved by a Modern Actor!
+
+John Barrymore
+in
+"DR.JEKYLL
+AND
+MR.HYDE"
+
+THURSDAY, FRIDAY AND SATURDAY, MAY 13-14-15
+
+THIRTY-FIRST BLOCK
+HAMMOND & SONS
+VENDOME
+"BIGGEST AND BEST"
+ON STATE ST.
+
 THE VAUDETTE E.B. DUDLEY PROPRIETOR ALWAYS THE BEST Vaudeville and Pictures WILLIE TYLER'S ORCHESTRA CRATIOT AVENUE DETROIT, MICH.
 
 THE HOME OF GREAT FEATURES
@@ -1360,30 +1575,81 @@ E. M. WYER'S STATES ORCHESTRA
 
 ## THE SCOTTS
 
-Richard Scott and wife of the Con. T. Kennedy shows spent two days in Chicago last week in a visit to his aunt, Mrs. Annie Debardlebien, of 6540 Grove avenue. Mr. Scott has been with the Con. T. Kennedy shows for more than a year a great responsibility with that company. He has absolute charge of the sleeping and dining of this vast aggregation, having the sole management of nine sleeping cars, one private car and the dining car. He has nine assistants and cares for 450 people. His position is unprecedented for a member of the team, the responsibilities of which a nature that it would be almost impossible to replace him in the person of one individual. For instance, he has charge and operates the motors which generate the electricity for the eleven cars, he lets out contracts for laundry, cloths pressing, etc.; he collects all monies for births, meals, etc., pays out bills presented, has the living discharged, does the living wife, Mrs. Scott, does the catering for the private car, in which travel the owner of the shows and his family. The Con. T. Kennedy shows appeared all of the past week at Elgin, and proceeds from that place to Freeport. Ill. Mr. Scott's season with this company is for thirty weeks during the year; the balance of the work is done by the partner of Prof. Means in the Prince of India Company.
+Richard Scott and wife of the Con. T. Kennedy shows spent two days in Chicago last week in a visit to his aunt, Mrs. Annie Debardlebien, of 6540 Grove avenue. Mr. Scott has been with the Con. T. Kennedy shows for five great responsibility with that company. He has absolute charge of the sleeping and dining of this vast aggregation, having the sole management of nine sleeping cars, one private car and the dining car. He has nine assistants and cares for 450 people. His position is unprecedented for a member of the Con., the responsible manager of such a nature that it would be almost impossible to replace him in the person of one individual. For instance, he has charge and operates the motors which generate the electricity for the eleven cars, he lets out contracts for laundry, clothes pressing, etc.; he collects all monies for borths, meals, etc., pays out all primitives for the living discharging of all help whilst his wife, Mrs. Scott, does the catering for the private car, in which travel the owner of the shows and his family. The Con. T. Kennedy shows appeared all of the past week at Elgin, and proceeds from that place to Freeport. Ill. Mr. Scott's season with this company is for thirty hours during the year; finance the time alone in vaudeville as the partner of Prof. Means in the Prince of India Company.
 
-Rucker & Winfred are at the Pantaga Theater, Vancouver, B. C.
-Jeff & Rollinson are doing on the
+Rucker & Winfred are at the Pantagene Theater, Vancouver, B.C. of Jeff & Rollinson are doing fine on the Fort. Rosa Valyda is at the Pantagene Theater, Butte, Mont.
 
-Rucker & Winfried are at the Pantages Theater, Vancouver, B.C.
-Jeff & Rollinson are doing line on the Fox time.
-Rosa Valyda is at the Pantages Theater, Bette, Mont.
+15. 1920
+
+VIEW
+
+---
 
 ## "THE ADVENTURER"
 
-William Farnum, well-known picture star of Fox Film corporation, who opens at the States Theater on Thursday and Friday, May 20 and 21, in "The Adventurer," a story written by 13. Lloyd Sheldon, believes that one of the most valuable talents to a sound great actor has been is fencing. The great actor has been nine years for the excellence of his swordsmith ship, and in "The Adventurer" he proves that only years of training in this little appreciated art has enabled him to take his place in the front rank of the swordmen of the world. His photophys demand that he keep his body in perfect condition at all times, and he never fails to spend at least one hour a day in physical exercise. Fifteen minutes of this time he allows for fencing—which demands quickness and great agility. Even before he left the stage for the art, and was noted for his ability with the rapier, broad-sword and foil.
+William Furnum, well-known mime picture star of Fox Film corporation, who opens at the States Theater on Thursday and Friday, May 20 and 21, in "The Adventurer," a story written by 12, Ines Sheldon, beloves that one of the most valuable a sound and a strong body is fencing. The great actor has been noted for year for the excellence of his swordsmanship, and in "The Adventurer" he proves that only years of training in this appreciated art has enabled him to take his place in the front rank of the swordmen of the world. Furnum is always in training. His photography demand that he keep his body in perfect condition at all times, and he never falls to spend an hour a day in physical exercise. Fifteen minutes of this time he allows for fencing—which demands quickness of eye and great agility. Even before he left the stage for the screen he had mastered the art, and was noted for his ability with the rapiper, broadsword. "There is not a muscle that is not exercised in fencing," said the popular star. "It is not necessary to have a broadsword or a rapiper or a foll. a broomstick will do. Women and men can keep themselves in perfect physical condition by 10 minutes a day with two sticks." "Sweet Adellino' is being sung with focus by Billy 12. Jones, the popular singer.
 
-"There is not a muscle that is not excerised in fencing," said the popular actor, but necessary to have a broadsword or a broomski will do. Women and men can keep themselves in perfect physical condition by 10 minutes a day with two sticks."
+OR PRESENTS
+RYMORE In
 
-"Sweet Adelina" is being sung with fine success by Billy J. Jones, the popular singer.
+---
+
+6ATURDAY, MAY
+
+---
 
 ---
 ## Page 7
+
+BELL WALNUT 4631 GIBSON'S RES. BELL POPLAR 903
+
+NEW STANDARD THEATER
+
+John T. Gibson, Solo Owner and Directing Manager
+SOUTH STREET, AT 12TH, PHILADELPHIA, PENNA,
+VAUDEVILLE, NOVELTY ACTS, ROAD SHOWS
+SEND IN YOUR OPEN TIME.
+WRITE OR WIRE
+EVERY COMMUNICATION GETS
+IMMEDIATE ATTENTION
+
+AVENUE THEATRE
+31st Street and Indiana Avenue
+PANAMA AMUSEMENT CO.
+LOUIS WEINBERG, PRESIDENT AND GENERAL MANAGER
+
+WEEK STARTING MONDAY, MAY 17
+THE QUALITY AMUSEMENT CO., EDWARD C. BROWN, Pres. & Gen. Mgr.
+PRESENTS A NEW COMPANY OF LAFAYETTE PLAYERS
+—IN A—
+WHIRLWIND HONEYMOON FARCE
+
+"PLEASE GET MARRIED"
 
 FUNNIER THAN THE FUNNIEST FARCE EVER WRITTEN
 RAN 39 WEEKS AT FULTON THEATER, NEW YORK
 NOW EN ROUTE BY MOROSCO COMPANIES AT $2 PRICES
 NO ADVANCE IN AVENUE PRICES
+
+BOX OFFICE
+OPEN FROM
+11 A.M. TO
+11 P.M.
+Seats on Sale
+Storling
+Monday
+EACH WEEK
+
+Matinees: Sat. & Sun. 2:15
+Every Night (One Show Only), 3:15 Sharp
+Dargain Matinee Saturday—Prices 15c and 25c
+
+One Week Only All Seats Reserved
+NOW PLAYING—"THE RETURN OF EVE"
+
+---
+
+>ATURDAY, MAY 15, 1920
 
 # LEMONIER'SLETTER
 
@@ -1391,7 +1657,9 @@ Hello, Palie: Irvin C. Miller brought us some show; the Grand was too small for 
 
 Tom Lemonier
 
-The Old Time Tomi Lemonier Darkies Quartet cleaned up at the Keith theater, Evansville, Ind. They are singing hounds, Moss and Frye tickled their funny bones. Williams is jazzing the banjo at the Royal Gardens. Bob Kemp is back in his old form and singing as sweetly as ever. Atta boy! The Cief Club Trio are picking up plenty of pickets at Bert Kelly's roadhouse. Staff and Williams are growing bigger at the Vaudottie theater, Detroit, Micha Simms & Warfield, at the Windser, last half, were a hit. Some act. Sue Grundy Blackwell, on her way to church, didn't look a minute over 28 years of age after her illness of five starks. Starks are setting pretty. The Man from Bam is coming to the Grand soon, Harry Fox and Emilio Nelson are at the Stato-Lake. All the boys and girls send regards to the Dressing Room Club, Gant & Perkins are in the hit shop. Mrs. Barnett of the Vincent hotel, Mrs. Randall hold their own at Waltha Walla and Seattle, Wash., last week. Dave & Lillian are about to spread some joy over the Pan time; they start soon. It is a good act and the venues are full of stuff when it comes to doing business. Also and clever woman. Every time I see Dave Peyton he is on the way to a bank, and I guess that poor Phil Jones, the big boss at the Defender and played by everybody. Wash., will have to cease. He good, Atta Boy. Your old pal, Tom Lemonier, 3159 State St., Chicago, Ill.
+Toni Lemonier
+
+cleaned up at the Keith theater, Evansville, Ind. They are singing hounds, Moss & Frye tickled their funny bones at the Palace theater last week. Ed Roya is jazzing the banjo at Roya's home and at back his old form and singing as sweetly as ever. Atta boy! The Cief Club Trio are picking up plenty of pickets at Bert Kelly's roadhouse, Staffo & Watts were the neck bones and groaned Simma & Vadu theater, Detroit Simma & Vadu at the Windsor, insult half, were a hit. Some act. Sue Grundy Blackwell, on her way to church, didn't look a minute over 23 months. She is well again. Jerome & from Bam is coming to the Grand soon, Harry Fox and Emilio Nelson are at the Stato-Lake. All the boys and girls send regards to the Dressing Room Club, Gant & Perkins are in thorna and everywhere Hunter & Rana are in Walla Walla Walla and Seattle, Wash, last week. Dave & Lillian are about to spread some joy over the Pan time; they start soon. It is a good act and cant miss. Mrs. Barnett of the Vinnery big boy, the teacher of class and well used by everybody, will have to cause. He good, Atta Boy. Your old pal, Tom Lemonier, 3169 State St., Chicago, Ill.
 
 ## COAST DOPE
 
@@ -1410,6 +1678,8 @@ Billy Tucker.
 
 Maybelle Whitman and her Dixie Boys are a real sensation at the Rialto Theater, Chicago, this week. The act has the real spot on the bill and what to do is to be baffled but are doing to the lineup is a heap much plenty. Some act.
 
+.
+
 # A NOTE OR TWO
 
 Minstrel Morris is going along as smoothly as ever. He is at the Palaco Theater, Norfolk, Va., the present week. He is also coming to them on the big time. They are splitting the week between Salem and Brockton, Muss.
@@ -1424,9 +1694,11 @@ Musical Spillers, featuring with the Pole-a-Hoo company, are at the Gayev Theate
 
 Go Get 'Em Rogers, the Dancing Bricklayer and Plasterer, is at Locurc's Theater, Hamilton, Canada. Green & Pugh, making them like it on the stage, are the Plasterer, Theater, Ogden, Utah, the present half. Soymour & Jeanette are hitting them hard at the Lewes Theater, Toronto, Canada. Valyda the Marvel, the best single on the Pan time, is playing the week at Anchor Bay, Charles Anderson, the Yodier, the neatest single in the business, is playing the week at the Star Theater, Baltimore, Md. Billy Cumber, featured comedian with the Beauty Review, is playing the week at the
 
-Billy Cumby, featured comedian with the Beauty Review, is playing the week at the Palme Theater, Milwaukee, WIs. Harrington & Mills, still traveling in New Portland Theater, Portland, Maine. Emil Nelson, featured in the dressing-room with Harry Fox, is at the State-Lake Theater, Chicago.
+Emil Nelson, featured in the dress-
 
-Fiddler & Stovens are playing the week at the Lafayette Theater, New York City. Musson & English are playing the Philadelphia Theater, Norfolk, Va., and going great guns. Snimms & Warford are making the hit of their young lives. They are splitting the week between Torro Haute and Evansville, Ind. Snimms and Warford Block Dota one of the hat tricks in vaudeville, are splitting the week between Bakersfield and Turt, Cal. George Day is now secretary for S. H. Dudley and is located at 1223 7th street, N. W. Washington, D. C. Alex's company of Stovens Players turned them last week at the Putnam Theater, Brooklyn, N.Y., where they presented "This and That." Alex's great musical comedy success. Buzzin' Burton is beating it back with his Jazzlanders. He says hello to all of the Address, general delivery, Albany, Ga.
+at the State-Lake Theater, Chicago.
+
+Fiddler & Stovens are playing the week at the Lafayette Theater, New York City. & English are playing the Palace Theater, Norfolk, Va., and going great guns. Simms & Warfield are making the hit of their young lives. They are splitting the week between Toro Haute and Joe Shofelt's Eight Black Dots, one of the real hits in vaudville, are splitting the week between Bakersfield and Taft, Cal. Day is now secretary for S. H. Diddley and is located at 1223 7th street, N. W., Washington, D. C.
 
 Buzzin' Burton is heating it back with his Jazzlanders. He says hello to Albury, Address, general delivery, Albany, Moss and Frye are at the Temple Theater, Detroit, Mich. Tribble & Diggs are a hit at the Palais des Festivals. Lulu Contes & Crackerjacks are at the Gayety Theater, Washington, D.C. Maybello & Whitman and his Dixie Boys are a hit at the Ralto Theater, Orlando. Old Time Darkies' Quartet are rioting at the Majestic Theater, Chicago.
 
@@ -1442,73 +1714,64 @@ Gorta Saunders dropped in on the Old River Park. She depot to attend the Derby a
 
 Williamn & Roscoo are a hit on the
 
+---
+
 Dudley time. They are at Baltimore, Md., this week. The Walker's stock company are playing a four weeks engagement at Washington, D.C.
 
 Jolly Joe Saunders played the first half at the Lafayette Theater, New York, and is playing the final half at Pa., this week, with Sam Gray and one of the Loew theaters in the same village.
 
 ## REAL NOTICE
 
-The Commercial Appeal of Memphis, Tennessee, is no doubt the biggest and most newspaper in the South. Needless to mention, surely spread himself typed the following review of a recent concert given in the Tennessee metropolis. We shoot, and judge for yourself:
+"The Commercial Appeal of Memphis, Penn. is no doubt the biggest and most newspaper in the South. Ned Courtington wrote in one of his daily, surely spread himself when typed the following review of a recent concert given in the Tennessee metropolis. We shoot, and judge for you."
 
-Beaulie street to Broadway several years ago went Handy with his band, with his vision that the Negro race has and will have a distinctive music of its own: that one day instead of being regarded in more or less common form, Negro melody will echo in men; will be edited in the great American composite national music, just as folk songs of Europe have been embellished and placed in the garature of rhapsodies and opera.
+"From Beaulock street to Broadway several years ago went Handy with his band, with his vision that the Negro race has and will have a distinctive form of owning, at one day instead being ignored, less of a comic light Negro melody will echo in opera; will be incorporated in the great American composite musical, just as folk songs of New York, and received playback in the house at Church's auditorium last night. More than 1,000 people were turned away and standing room was premium. There was a liberal sprinkling with the appeal who attracted the real merit of the performance, enjoyed over note.
 
-The Broadway back to Beaulie street came Handy with his band, fresh from the triumphs of New York, and received plaudits from a packed house at Church's auditorium last night. More than 1,000 people were at a premium. There was a club sprinkling of white people present who, attracted by the real merit of the performance, enjoyed every note.
+"Handy has caught the spirit of the folk song of the Negro from the fields, and received playback in the mills. Handy has been a worker for still is a worker—a worker for the uplift of his Racoe and the creation of music that has an appeal to the car. "Vory one who loves melody that comes from the worker who gets joy out of his work."
 
-Handy has caught the spirit of the folk music of the factories, the quarries and the mills. Handy has been a worker. He still is a worker—a worker for the uplift of his Race and the creation of music that has an appeal to the car industry and who lives melody that comes from the worker who goes out of his work.
+"From the midday, Beaulock Street to Broadway, to the finale, when the orchestra stood and played the 'Memoirs' and which made Handy, there was melody, there was real musical proficiency."
 
-From the midday, Beaulie Street to Broadway, to the finale, the orchestra is real musical proficiency. Handy has explained the 'Memoirs' work and made Handy, there was melody, there was real musical proficiency.
+"The climax of the performance was the overture, Aunt Maga's Childrine; to catch some of the Negro melody and give it a blameless of classic setting. It opened well. Real orchestral skill was demonstrated in the open-ended and the sequence and antiphonal and composition. "It was a demonstration of the beginning of the work of weaving a theme about a cycle of folk songs, or other echoes of folk songs, and the singing of the Negro manmy to her babe.
 
-The climax of the performance was the overture, 'Aunt Mara's Child' on the handy, explained an anti-physical and counter harmony, and made Handy, there was melody, there was real musical proficiency.
+"The Yellow Dog Blues" probably written over the blue prospect a Mississippi Negro night face when catcher Sammy train out of Clarkedale, perhaps to the successful of Handy's recent compositions, brought the heaviest applause. Had the "Memphis Blues" had the same effect of the program a riot probably would have been.
 
-It opened well. Real orchestral skill was demonstrated in the opening strains, the sequence and antiphonal and counter harmony, the beginning of the work of weaving a theme about a cycle of folk songs, and the crooning of the Negro manny to her blues.
+"There was a liberal outpouring of Colorod society of Memphis to welcome Handy back again and bid him Gospeed back on his path, already stricken."
 
-The 'Yellow Dog Blues' probably written over the blue prospect a Mississippi Negro night face when catching the Yellow Dog train out of Clarksdale, perhaps the most successful of Handy's recent compositions, and echoes of folk songs, and the crooning of the Negro manny to her blues.
-
-The 'Yellow Dog Blues' probably written over the blue prospect a Mississippi Negro night face when catching the Yellow Dog train out of Clarksdale, perhaps the most successful of Handy's recent compositions, and echoes of folk songs, and the crooning of the Negro manny to her blues.
-
-There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all Black, and the Memphis Blues are in the same spot on the program a riot probably would have ensued.
-
-There are a liberal outpouring of Colorsoe society of Memphis to welcome the hack again and bid him Godspooned on his path, already strewn with success.
-
-There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all Black, and the Memphis Blues are in the same spot on the program a riot probably would have ensued.
-
-There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all Black, and the Memphis Blues are in the same spot on the program a riot probably would have ensued.
+"There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all outfists. H. H. Pace, Handy's business partner, H. H. Pace, was recognized as a leader in New York. Lee Concert showed Memphis the reason."
 
 A second concert will be given this afternoon the Grand Theater on Beale avenue."
 
 ## SOME NOTICE
 
-Here is a little write-up that appeared in a recent issue of the Memphis (Tenn.) Press, the biggest and best paper published by white folks in that city that year.
+Here is a little write-up that appeared in a recent issue of the Memphis (Tenn.) Press, the biggest and best paper published by white folks in the area.
 
-"Handy's famous band, which has done about as much as anything else to put Memphis on the map, may return to this city about May 16 to give a concert for white people. B. M. Roddy, cashier of the Solvent Savings bank in that city, is trying to make such arrangements."
+"Handy's famous band, which has done about as much as anything else to put Memphis on the map, may return to this city about May 16 to give a concert for white people. B. M. Roddy, cashier of the Solvent Savings Bank, today is trying to make such arrangements. 1,000 Negroes were turned away from Church Park last night, where Handy gave a concert for members of his Race. There was a huge demonstration when the composer of 'The Memphis Blues' led his band in that famous piece.
 
-"More than 1,000 Negroes were turned away from Church Park last night, where Handy gave a concert for members of his Race. There was a huge demonstration when the composer of The Memphis Blues' led his band in the concert."
+This afternoon a concert will be given at the Grand Theater, on Peavey avenue, for the band to perform for a Negro dance at Church Park and leave immediately thereafter for Little Rock, the next stop on its present tour.
 
-"This afternoon concert will be given at the Grand Theater, on Beale avenue. Tonight the band will play for a Negro dance at Church Park and leave immediately thereafter for Little Rock, the next stop on its present."
-
-"Handy, a Memphis Negro, is the originator of a dozen different blues." A few years ago he moved his headquarters from Beale avenue to Broadway. H. H. Pace, former assistant cashier of the Solvent Bank, is his business partner."
+"Handy, a Memphis Negro, is the originator of a dozen different 'blues.' A few years ago he moved his headache across the street avenue to a new way. H. H. Pace, assistant cashier of the Solvent Bank, is his business partner."
 
 INFORMATION
-The Season's Salient Song Success
+The Season's Salient Song
+Success
 
 "BABY BLUES"
 (Now Out on Q. R. S. Rolls)
 Get It
-
 Get C. Luckeyth Roberts'
 
 "RAILROAD BLUES"
-(Now Out on Q. R. S. and Vocal-style Rolls)
-And His
-
+(Now Out on Q. R. S. and Vocal-
+style Rolls)
+and His
 "Stamping the Blues Away"
-Get the Giat and Only
+Get the Guit and Only
 
 BERT WILLIAMS
 COLUMBIA RECORD
 
-"Elder Entmore on Genocosity"
-"Elder Eatmore on Throwing Stones"
+"Elder Eatmore on Gencosity"
+"Elder Eatmore on Throwing
+Stones"
 
 Written by Alex. Rogers
 And by All Means Get
@@ -1517,11 +1780,13 @@ BERT WILLIAMS
 Latest Big Song Hit
 
 "WHEN I RETURN"
-(Columbia Record A:2552)
-
-Written by Alex. Rogers and Will H. Vodney
-
-Ask your elder son to photograph records and music rolls of the following hits from the musical comedy success:
+(Columbia Record A.2552)
+Written by Alex. Rogers and
+Will H. Vodney
+Ask your child to photograph
+records and music rolls of the
+following bite from the musical
+comedy success:
 
 ## "BABY BLUES"
 
@@ -1552,9 +1817,9 @@ Dept. D. Brooklyn, N. Y.
 
 All Pace & Handy Music is on sale at all WOOLWORTH, KRESS, KRESGE, McCRORY, GRANT and METROPOLITAN STORES
 
-## THE TRIP
+THE CHICAGO DEFENDER
 
-Old Roll Top Man Takes Another Slant at Harlem and the Harlemites in the history of the big Pennsvania deposit diary of the big pot and prize train of the F. G. system
+## THE TRIP
 
 at Harlem and the Harlemites
 Nover in the history of the big Pennsylvania passenger pot and prize train in the city — the Broadway Limited—cause less excitement than did the arrival of the Old Roll Top Desk Man on his recent play and prize train in the city and not a gang cheered. Even the Red Caps went to sleep on the boy from in front of the Stock Yards, and he fought his weary way through the three rows in his hand and a Drs. Prescription in the other, he hummed that beautiful though sympathetic time. "What Was I Before He Was What He Is To Today?"
@@ -1587,32 +1852,13 @@ Seymour & Feamonte are at the Windsor & Push ore at the Pantages Theater, Oden, 
 
 ## ANDREW BISHOP
 
-Possibly the most popular male member of the Lafayette Players is the subject of this short stitch, christened Andrew Stovens Bishop. Club, as he is affectionately designated by his host of friends, was born at Mt. Kisco, N. Y., in 1893. He is a son of Rev. Hutchens Bishop, rector of St. Philip's P. E. church of New York city, and gained his first experience in the show
-
-Held in Chicago
-Recently
-
-Gen. Leonard W.
-Thompson, Alds.
-of Cleveland, Ald
-others, wi
-
-ROYAL
-459 E. 31ST STRE
-
-EXHIBIT
-
-FOR THE GREAT
-
-"Love
-
-G. Bishop
+Possibly the most popular male member of the Lafayette Players is the subject of this short match, cherished Andrew Hawkins Bishop. Bishop, who is affectionately designated by his host of friends, was born at Mt. Kisco, N. Y., in 1803. He is a son of Rev. Hutchens Bishop, rector of St. Philip's P. E. church of New York city, and gained his first experience in the show
 
 Andrew S. Bishop
-business as a member of Alex Rogers and Hepre Crocker a member of Al McKay playing the title role with more than ordinary success. This aggregation toured the south in 1911. After closing at the end of the season, Bishop invested a few million kopecks in the automobile and garage business. The late in 1918 he cranked up and joined the Anita Bush Stock Company, which played long and successful engagements at both the Lincoln and Lafayette theaters in Harlem. He was also ordered Players, which held the stage at the Garrick theater on Broadway for several weeks. After severing connections with "The Little Mother of Colored Stock" he signed with the Lafayette theaters, being given small parts under the supervision of former celebrated promoter and director, Bishop developed and advanced until today he stands out as an actor of real ability.
 
-Man's Man
-Andrew Bishop is a master all things, a "man's man". He stands something like 6 feet in his silk hose and is built along the lines of Paul Jones, who recently won the Kentucky Derby. He is a real athlete, and had he adopted the prize ring instead of the stage for the performance on a mighty fine trial horse. He is what might be called a real specimen of the "mathes idol" and it is an ordinary sight to hear the ladies in the audience sigh aloud when his work calls for an example of toew performance than Wilson sent to Europe before the late peace conference and hundreds of dollars are spent every season, by the different theaters at which he plays in replacing the glasses which are supposed to protect his job, with the jewelry or flash clothes and among the other splendid facts that go to give him an enviable record is the one that he never has his finger mails maneuvered in a barber window. He has ever turned down an invitation to crook his elbow it has never leaked out, all of which goes to show that he is a real fella after our own heart.
+business as a member of Alex Rogers and Henry Creamer's "Old Man's Boy," playing the title role with more than ordinary success. This aggregation of talent was initiated at the end of the season, Bishop invested a few million kopecks in the automobile and garage business. The odor of gasoline palled upon Bish, so late in 1916 he cranked up and joined the Anita Bush Stock Company, which successfully engaged at both the Lincoln and Ford theaters in Harlem. He was also a member of the Mrs. Hopgood's Colored Players, which held the stage at the Garrick theater on Broadway for several weeks. After severing connections with the Ford-colored Stock" he signed with the Lafayette Players, being given small parts. Under the tutorship of Edgar Forrest, the celebrated promoter and director, Bishop developed and advanced until today he stands out as an actor of
+
+Andrew Bishop is, above all things, a "man's man." He stands something like 6 feet in his silk hose and is built along the lines of Paul Jones, who recently won the Kentucky Derby. He stood on the prize ring instead of the stage for a livelihood he would have either made a champion or a mighty fine trial horse. He is what might be called a real specimen of the "mathesus idol" and it is an ordinary thing to hear the his work calls for an eye on the making. He gets more notes at every performance than Wilson sent to Europe before the late peacock conference and hundreds of dollars are spent every season, by the different theaters at which he plays in replacing the glasses on his wrist. He sees by photos from the dust. He wears no jewelry or fashy clothes and among the other splendid facts that go to give him an enviable record is the one that he never has his finger mails manneled in a barber shop window. He wears a wide-brimmed hat ever turned down an invitation to crook his elbow it has never leaked out, all of which goes to show that he is a real fella after our own heart.
 
 ## NEW YORK NEWS
 
@@ -1639,30 +1885,31 @@ HANDY MUSIC
 
 PUBLISHED
 
-LOOK FOR OUR TRADES
+FOR OUR TRADES
 WHEN YOU WANT
-HANDY MUSIC or I
+MUSIC or I
 PUBLISHED BY
-MUSIC O. CO. INC.
-[HOME OF THE BLUES]
+FACE & HANDY
+MUSIC & CO. INC.
+| HOME OF THE BLUES |
 GAIETY THEATRE BUILDING
 1547 BROADWAY, NEW YORK CITY
-SEE THAT THIS MARK IS ON EACH COPY
 
-MUSIC IS A HOUSEHOLD
+SEE THAT THIS MARQUE
 
-LIS
-OUR 15 OF
+MUSIC IS A HOME
+
+GELS
+
 -----Big Chief Blues
 -----Saxophone Blues
------Never Had the Blues
+-----Never Had the B
 -----Worried Blues
------Oh Saroo Saroo Blues
------A Good Man Is Hard to Find
------Think of Me, Little Daddy
+-----Oh Saroo Saroo
+-----A Good Man Is
+-----Think of Me, Li
 
 50
-All 15c Copies,
 
 WE THAT THIS MARK IS ON EACH COPY
 
@@ -1711,62 +1958,81 @@ Clarence H. Black's Symphony Orchestra SELECTED PHOTO-PLAYS of CLASS
 
 4404 STATE ST.
 
-A Picture of Real National Interest
+PAGE SEVEN
 
-BLOWING CLOSE-UPS OF Roscoe Conkling Simmons, Wm. Hale Jackson and Jackson of Chicago, Ald. Fleming is of New York City, De Priest and many percepts of their thrilling speeches.
+BOOKING!
+LASTEST PICTURIZATION OF
+League Convention
+A Picture of Real
+National Interest
 
+BROWING CLOSE-UPS OF
+Roscoe Conkling Simmons, Wm. Hale
+Soon and Jackson of Chicago, Ald. Fleming
+is of New York City, De Priest and many
+percepts of their thrilling speeches.
 Address for Dates,
-EENS MOTION PICTURE CO.
+CENS MOTION PICTURE CO.
 CHICAGO, ILL.
 
 ER, ATTENTION!
-LOOKING NOW READY!
-REEL ALL STAR COLORED FEATURE
+WORKING NOW READY!
+REEL ALL STAR COLORED FEATURE,
 Real Hearts"
-Donos & Thias Nehill Kelana Assisted by Vera Lavaasor and Maurice Staple
-Picture Ever Made. The Picture that Made a Go Wild! A Swet Love Drama, Showing Prejudice Was Overcome.
-
+Dones & Thias Nehll Kalana Assisted by
+Vera Lavassor and Maurice Staple
+Picture Ever Made. The Picture that Made
+a Go Wild! A Sweet Love Drama, Showing
+Prejudice Was Overcome.
 WILL SOON BE READY FOR RELEASE
-
-TO or Wire for Dates
+into or Wire for Dates
 RTEE FILM EXCHANGE
-LOS ANGELES, CAL.
+LOS ANGELES, GAL.
 
 Williams' New Song Shop
-of Player Rolls, Records, Sheet Music,thing in the music line, pay us a visit at 4 State Street. Repairing and tuning of any make a specialty.
+of Player Rolls, Records, Sheet Music,
+thing in the music line, pay us a visit at
+4 State Street. Repairing and tuning
+of any make a specialty.
 
 AND PIRON, PUBLISHERS
 "HOME OF JAZZ"
+
 CHICAGO, ILL.
 
 PLACES OF AMUSEMENT
 TAINER CAFE
 8 ST. AT INDIANA AVE.
-SUS FAMOUS GINGER BAND
-MUSIC FOR THE DANCING. SOME BANDS DON'T FAIL TO VISIT THE POPULAR
+IS FAMOUS GINGER BAND
+MUSIC FOR THE DANCING. SOME BAND
+WILL DON'T FAIL TO VISIT THE POPULAR
 RDENS, 3503 State St.
 HEAR THE BAND PLAY
 
 THEATRE
 NEAR 47TH ST.
-Dipped Theatre Outside the Loop
+Skipped Theatre Outside the Loop
 1200 ROOMY SEATS
-ES AND HIS SELECT ORGHESTREIGHT LAST SHOW STARTS AT 10:30 P.M.
+ES AND HIS SELECT ORCHESTRA
+RIGHT LAST SHOW STARTS AT 10:30 P. M.
 THEATRE ON THE SOUTH SIDE
 
-RD THEATRE
-Set and Michigan Avenue
-Jack's Symphony Orchestra
+ORD THEATRE
+et and Michigan Avenue
+Black's Symphony Orchestra
 PHOTO-PLAYS of CLASS
-OWNER OF PICKFORD, PHOENIX AND VENDOME THEATERS
+OWNER OF PICKFORD, PHOENIX
+AND VENDOME THEATERS
 
 MARK
-ANDY'S BLUES
+INDY'S BLUES
 SONGS
 BLUES
+
 BALLADS
 
 NECESSITY
+
 SPECIALS
 -----Darktown Regimental Band
 -----Oh Death, Where Is Thy Sting
@@ -1774,18 +2040,21 @@ SPECIALS
 -----Beautiful Land of Dreams
 -----Remember and Be Careful
 -----Nightie Night
------I'm Going Back to My Used to Be
+---I'm Going Back to My Used to Be
 for $1.50
 
-OF SONGS DESIRED
-RANT and METROPOLITAN STORES
+IF SONGS DESIRED
 
-THE BLUES,"
+GRANT and METROPOLITAN STORES
+
+THE BLUES."
 
 way, New York, N.Y.
 
 ---
 ## Page 8
+
+PAGE EIGHT
 
 # ALL OF TEXAS HEARS SIMMONS
 
@@ -1839,13 +2108,31 @@ persons subject to imprisonment for
 six months or by a fine of not more
 than $200.
 
-FUL
-FORCED TO MOVE! DUS
-LARGER DRESSING PARLORS
+FULL
+D TO MOVE! DUS
+ER DRESSING PARLORS
 MORE DAYLIGHT
-"Woman's Ha
-FULTO POSITIVELY GROW
-"FLU" VICTIM
+Woman's Hav-
+LTO POSITIVELY GROW
+"FLU" VICTIMI
+(RETAIL PRICE)
+Food (double strength).....62c
+Food (plain).....52c
+Oil.....52c
+Oil.....52c
+Scalp healthy, free from dandruff,
+noses color and promotes an abundant
+air. One 50c box convinces; 5c extra
+
+Diplomas given. A thorough co-
+No C. O. D. orders. No sai-
+ss MRS. E. O.
+Prairie Ave., Apt. 2
+PHONE OA
+
+Beauty is th
+Nature giv
+and the f
 
 ULTO
 ! BUSINESS OUTGRO
@@ -1862,23 +2149,12 @@ ING A HARVEST. WRITE
 
 Fulto Hair Food (double strength).....62c
 Fulto Hair Food (plain).....62c
-Fulto Tompolo Oil.....52c
+Fulto Temple Oil.....52c
 Fulto Pressing Oil.....52c
-It keeps the Scalp healthy, free from dandruff,
+it keeps the Scalp healthy, free from dandruff,
 thickens, gives color and promotes an abundant
 growth of hair. One 50c box convinces; 5c extra
 for postage.
-
-Diplomas given. A thorough co
-No C. O. D. orders. No sa
-
-Address MRS. E. C
-4808 Prairie Ave., Apt. 2
-PHONE OA
-
-Beauty is the
-Nature give
-and the f
 
 ven. A thorough course by mail. Termsreasonable
 O. D. orders. No samples. No checks accepted.
@@ -1891,14 +2167,31 @@ y is the first prie he gives to a w he first that
 takes away.
 
 Your Co
+through neglect or imp
+harred by blemishes so
+rough, dark skin, you
+all-many shades bright
+use of two toilet prep
 
-If through neglect or impaired by blemishes such a rough, dark skin, you are ideal - many shades bright the use of two toilet preparations.
+Black
+Beauty
 
-Black Beauty
+Treatment consists of BLACK and WHITE
+BLACK and WHITE Soap. Both must be
+the quickest results.
 
-This Beauty Treatment consists of BLACK and WHITE Treatment and BLACK and WHITE Soap. Both must be together to get the quickest results.
-
-The BLACK and WHITE Beauty Treatment works magic—you wash the face, hands, neck and arms with water and BLACK and WHITE SOAP. Then apply BLACK and WHITE Ointment according to directions being gently into the skin with the tips of the fingers following morning, you cleansse the face with warm water and BLACK and WHITE Soap. Even one night's treatment with BLACK and WHITE Ointment and Soap the BLACK and WHITE Beauty Treatment) will make skin brighter and remove some of the blemishes. You be delighted with your complexion, if you continue treatment as directed.
+and WHITE Beauty Treatment work
+to wash the face, hands, neck and arms with
+BLACK and WHITE SOAP. Then apply
+WHITE Ointment according to directions
+the skin with the tips of the fingers.
+ing, you cleanse the face with warm
+and WHITE Soap. Even one night!
+BLACK and WHITE Ointment and Soa
+(WHITE Beauty Treatment) will make
+and remove some of the blemishes. You
+with your complexion, if you continue
+rected.
 
 Plough Che
 
@@ -1955,7 +2248,7 @@ The BLACK and WHITE Beauty Treatment works like magic—you wash the face, hands
 
 Memphis, Tenn., U. S. A.
 
-Agents Wanted--You can make big money selling BLACK and WHITE Toilet Preparations. Write Dept., R B C for Special Introductory Offer.
+Wanted--You can make big money and WHITE Toilet Preparations. Written for Special Introductory Offer.
 
 make big money preparations. Write Offer.
 
@@ -1965,40 +2258,62 @@ Agents Wanted--You can make big money selling BLACK and WHITE Toilet Preparation
 
 Jersey City, N. J., May 14—A mistake was made in reporting the death of Rev. R. D. Wynn. * The matron's May party, under the auspices of the I. B. P. O. Flicks, last Friday night, was a grand success. * Mrs. Selma Branham and Mrs. Ellington Brown were directors of the affair. * Mrs. M. Tibbs and daughter Wilder will leave soon for Oakland, Cal. * Thomas Cabinas will make Washington, D. C., his future home and will be located at 1744 K street. * The City Federation of Women's Clubs meets regularly the first and third Wednesday night in each month at the X. W. C. A. They are making preparations for the annual meeting July 9. * The Community Center is being visited by many citizens and is the place for recreation and pleasure. * Memorial celebration of the Booker T. Washington post 209, American Legion, will be held at Dickson high school Sunday afternoon, May 30. A splendid program has been arranged. * B. Clon Jones, commander.
 
-TO
-BUSINESS OUTGROWS SPACE!
+FORCED TO MOVE
+LARGER DRESSING PA
+MORE DAYLIGHT
+"Woman
+FULTO
+POSIT
+"(RETAIL PRICE)
+Fulto Hair Food (double strength)
+Fulto Hair Food (plain)
+Fulto Tompole Oil
+Fulto Pressing Oil
+It keeps the Sculp healthy, free
+thickens, gives color and promoter
+growth of hair. One 50c box conv
+for postage.
+
+Diplomas give
+No C. O
+
+Address MRS
+4808 Prairie Ave
+
+Beauty
+Nature
+and th
+
+Your
+
+THE CIFICAGO DEFENDER
+
+## GuaiCraig to Open Hotel
+
+L.TO
+NESS OUTGROWS SPACE!
 SPACIOUS SHIPPING DEPARTMENT
 MORE EMPLOYES
-
-Ten of Delight"
-
-HAIR AND CURES DISEASED SCALPS
+en of Delight"
+S HAIR AND GURES DISEASED SCALPS
 HAIR RESTORED. AGENTS REAP-
 A HARVEST. WRITE
-
 Write for particulars. $1.75 outfit will start you
 in business. Send Money Order. Send stamps
 for reply.
-
 ASTONISHING OFFER
-
 Send money order for $5.00 (five dollars) and
-receive "Fulto" printed instructions how to cor-
+receive "Fulto" printed instructions how to corre-
 rectly care for your hair.
-so by mail. Termsreasonable.
-les. No checks accepted.
 
-M. FULTON
-CHICAGO, ILLINOIS
-LAND 2439
+FULTON CHICAGO, ILLINOIS
 
-The first present
+the first present
 is to a woman,
 first that she
 
-Complexion
-
-Oper treatment, your beauty
+complexion
+oper treatment, your beauty
 such as pimples, blackheads or
 can make your complexion
 er and as soft as a baby - by
@@ -2007,10 +2322,10 @@ rations, known as the
 AND White
 Treatment
 
-Both BLACK and WHITE Ointment and BLA-
+Both BLACK and WHITE Ointment and BLA
 WHITE Soap are guaranteed to please you. In
 you are not satisfied after using the BLACK and
-Beauty Treatment, or any of the other Plough's BLA-
+Beauty Treatment, or any of the other Plough's BLA
 WHITE Toilet Preparations, your money will be p
 returned to you.
 
@@ -2018,7 +2333,7 @@ You can try BLACK and WHITE Ointment fr
 get a copy of the BLACK and WHITE Birthday and
 Book by writing Dept. R B C, Plough Chemical Co.
 
-If your druggist cannot supply you with BLA-
+If your druggist cannot supply you with BLA
 WHITE Ointment and Soap at 25c a package, b
 be sent you postpaid on receipt of 50c.
 
@@ -2032,17 +2347,23 @@ If your druggist cannot supply you with BLACK and WHITE Ointment and Soap at 25c
 
 P
 
-## GuaiCraig to Open Hotel
-
 ## WAR ON LOAFERS
 
 # ASPIRIN-A Talk
 
-The name "Bayer" identifies the true, world-famous Aspirin prescribed by physicians for over eighteen years. The name "Bayer" means genuine Aspirin proved safe by millions of people. In each unbroken package of "Bayer Tablets of Aspirin" you are told how to safely take this genuine Aspirin for Colds, Headache, Toothache, Earache, Neuralgia, Lumb Rheumatism, Neuritis and Pain erally. Always say "Bayer" when bu Aspirin. Then look for the sa "Bayer Cross" on the package and the tablets. Handy tin boxes of twelve tal cost but a few cents. Druggists sell larger packages.
+The name "Bayer" identifies the true, world-famous Aspirin prescribed by physicians for over eighteen years. The name "Bayer" means genuine Aspirin proved safe by millions of people. In each unbroken package of "Bayer Tablets of Aspirin" you are told how to safely take this genuine Aspirin for Colds, Headache, Tooth-
 
-Aspirin is trade mark of Bayer Manufacture Monoaceticacidate of Salicylicacid
+DEFENDER ADVERTISERS
+
+Aspirin is trade mark of Bayer Manufacture Monoaceticacidester of Salicylicacid
 
 ## PATRONIZE DEFENDER ADVERTISERS
+
+A
+
+---
+
+:
 
 ache, Earache, Neuralgia, Lumbago, Rheumatism, Neuritis and Pain generally.
 
@@ -2050,17 +2371,19 @@ Always say "Bayer" when buying Aspirin. Then look for the safety "Bayer Cross" o
 
 Handy tin boxes of twelve tablets cost but a few cents. Druggists also sell larger packages.
 
-A picture Monoaceticacidester of Salicylicacid
-
-DER ADVERTISERS
-
 MRS. E. Q. FULTON
+
+SATURDAY, MAY 15. 1920.
+
+```markdown
+
+```
 
 # REGINALL COCOA BALM
 
 If you want LONG and BEAUTIFUL HAIR take no chances, but use REGINALL COCOA BALM, the most WONDERFUL discovery of the age. This hair grower has no equal. It cleanses the scalp of dandruff, stops itching, stops the hair from falling out and breaking off, and makes it grow long, straight and beautiful.
 
-REGINALL COCOA BALM has been given satisfaction for more than fifteen years. Every box Guar-By using this wonderful hair grower, in a short time you able to do up your hair in any style you wish. This grower needed where all others have failed.
+REGINALL COCOA BALM has been given perfect satisfaction for more than fifteen years. Every box Guaranteed. By using this wonderful hair grower, in a short time you will be able to do up your hair in any style you wish. This grower has succeeded where all others have failed.
 
 perfect satisfaction for more than fifteen years. Every box Guaranteed. By using this wonderful hair grower, in a short time you will be able to do up yourhair in any style you wish. This grower has succeeded where all others have failed.
 
@@ -2068,24 +2391,23 @@ REGINALL SKIN FOOD AND WHITENER
 
 It keeps the skin beautiful and good looking. It is a beautifully salve to keep the skin smooth, fair and bright. It is a harmless cleansing preparation for imperfections, tans, blackheads, eczema, tetter, pimples, sunburns and ring-worms. Thousands of satisfied customers are using it daily with perfect results. Goods sent by mail on receipt of price.
 
-uses the skin beautiful and good looking. It is a beautifying
-keep the skin smooth, fair and bright. It is a harmless
-preparation for imperfections, tans, blackheads, eczema,
-samples, sunburns and ring-worms. Thousands of satisfied
-are using it daily with perfect results. Goods sent by mail
-of price.
+It keeps the skin beautiful and good looking. It is a beautifying salve to keep the skin smooth, fair and bright. It is a harmless cleansing preparation for imperfections, tans, blackheads, ecrema, tetter, pimples, sunburns and ring-worms. Thousands of satisfied customers are using it daily with perfect results. Goods sent by mail on receipt of price.
 
-small Cocoa Balm.....25c
-small Skin Food add Whitener.....25c
-small Shampoo Jelly.....25c
-small Supreme Pressing Oil.....50c
-small Toilet Soap.....28c
-Everywhere. Agents Wanted
+Reginall Cocoa Balm.....25c
+Reginall Skin Food add Whitener.....25c
+Reginall Shampoo Jelly.....25c
+Reginall Supreme Pressing Oil.....50c
+Reginall Toilet Soap.....28c
+
+For Sale Everywhere.
+
+Agents Wanted
+
 Write for special terms to agents today.
+
 Address The Reginall Laboratory, 161 Bell St., Atlanta, Ga.
 
-O REWARD IF I FAIL
-To Grow Hair
+$500 REWARD IF I FAIL
 
 Reginall Cocoa Balm.....250
 Reginall Skin Food add Whitener.....250
@@ -2098,6 +2420,10 @@ Address The Reginall Laboratory, 161 Bell St., Atlanta, Ga.
 
 # $500 REWARD IF I FAIL
 
+```markdown
+
+```
+
 HAIR ROOT HAIR GROWER
 
 Is a sclentiflo vegetable compound of hair root and Alno Oil, together with several other positive herbs, therefore making the most powerful harmless Hair Grower known, actually forcing hair to grow in most obstinate cases. Unexcelled for Dandruff, Itching, Sore Scalp and Falling Hair. Will grow mustache and eyebrows like maggia. It must not be put where hair is not wanted.
@@ -2108,33 +2434,32 @@ Hair Root Grower is 50c a box or bottle. Shampoo 25c. Agents wanted everywhere. 
 
 ROYAL CHEMICAL COMPANY, Jamaica, N. Y.
 
+1
+
 # Your Gold Tooth Polished Your White Teeth Bleached BY USING DR. WELTERS' ANTISEPTIC ToothPowder
 
-ABSOLUTELY FREE FROM GRIT AND ACID AND PREVENTS DECAY
-Ask your druggist. If he hasn't got it ask him to order it for you. Send 2 to in stamps for a full size package.
+ABSOLUTELY FREE FROM GRIT
+AND ACID AND PREVENTS DECAY
+Ask your druggist. If he hasn't got it
+ask him to order it for you. Send 370
+in stamps for a full size package.
 THE E. A. WELTERS'
-TOOTH POWDER CO., INC.
-410 Broad St., Jacksonville, Fla.
-AGENTS AND DISTRIBUTORS WANTED
+TOOTH POWDER CO., INC
 
-and only tooth powder manufacturing corporation owned and controlled by Negroes in the United States.
-Binary dentifrice, but a scientific preparation specially pre-
-lobishing "Gold" in the mouth, "Bleaching" the teeth and pre-
-venting decay.
+The largest and only tooth powder manufacturing corporation owned and controlled by Negroes in the United States. Not an ordinary dentifrice, but a scientific preparation specially prepared for polishing "Gold" in the mouth. "Bleaching" the teeth and preventing decay.
 
-AM COTTON'S WONDERFUL HAIR GROWER
+MADAM COTTON'S WONDERFUL HAIR GROWER
 GROWS HAIR ON TEMPLES
 
-Of this Hair Grower, which is made from sixteen ingredients, doing everything necessary to GROW Hair, prevent Dandruff and prevent the Hair from falling out, and keeps it looking very nice at its Hair Grower will not make the Hair sticky, but keeps it soft it makes the Hair awfully nice and straight without pressing, press it if you desire. I guarantee this Hair Grower to GROW average of one inch a month, also to darken gray Hair.
+The inventor of this Hair Grower, which is made from sixteen ingredients, and containing everything necessary to GROW Hair, prevent Dandruff and Tetler, prevent the Hair from falling out, and keeps it looking very nice at all times; this Hair Grower will not make the Hair sticky, but keeps it soft and fluffy; it makes the Hair awfully nice and straight without pressing, but you may press it if you desire. I guarantee this Hair Grower to GROW Hair on an average of one inch a month, also to darken gray Hair.
 
-Small: 1 box, 60c; Pressing Oil, 60c; Shampoo Paste, 60c
+Price by mail: 1 box, 60c; Pressing Oil, 60c; Shampoo Paste, 60c
 Send 10c extra with order for return.
 
-Included—Inclose 2c stamp for reply to letters. Send postoffice or express money order payable to
+Agents wanted—Inclose 2c stamp for reply to letters. Send postoffice or express money order payable to
 
 E. J. COTTON & CO.
-Ave., Crown Barber Shop
-OKLAHOMA CITY, OKLA.
+9 W. Calif. Ave., Crown Barber Shop OKLAHOMA CITY, OKLA.
 
 The largest and only tooth powder manufacturing corporation owned and controlled by Negroes in the United States. Not an ordinary dentifrice. The powder formulation specially prepared for polishing "Gold" in the mouth. "Bleaching" the teeth and preventing decay.
 
@@ -2149,45 +2474,76 @@ Agents wanted—Inclose 2c stamp for reply to letters. Send postoffice or expres
 
 ## FREE SAMPLE
 
-Of Creoline Hair Producer, the most wonderful hair grower in the world. CREOLINE the only really different hair growing system to all others in the world. Free hair dressing course, full diploma and hair dressing window sign in colors, by mail. 6 weeks full treatment $1.50. Producer, the wonder, see the box. Beautiful hair dressing window sign free with 1 doz. Producer $3.00. Completo $35.00 hair dressing outfit only $18.00. Short time only. Write quick. Special low terms to agents.
+10
 
-Of Creolino Hair Producer, the most wonderful hair grower in the world. CREOLINE the only really different hair growing system to all others in the world. Free hair dressing course, full diploma and hair dressing window sign in colors, by mail. 6 weeks full treatment $1.50. Producer, the wonder, 500 the box. Beautiful hair dressing window sign free with 1 doz. Producer $3.00. Completo $25.00 hair dressing outfit only $18.00. Short time only. Write quick. Special low terms to agents.
+Of Creolino Hair Producer, the most wonderful hair grower in the world. CREOLINE the only really different hair growing system to all others in the world. Free hair dressing course, full diploma and hair dressing window sign in colors, by mail. 6 weeks full treatment $1.50. Producer, the wonder, 50c the box. Beautiful hair dressing window sign free with 1 doz. Producer $3.00. Completo $25.00 hair dressing outfit only $18.00. Short time only. Write quick. Special low terms to agents.
 
 AGENTS WANTED
 
-fg. Co., Dept. A., 455 W. 10th St., Indianapolis, Ind.
+Jackson Mfg. Co., Dept. A., 455 W. 10th St., Indianapolis, Ind.
 
 MODERN MAGICAL MASTER for Mon
 
-is rigid or sturdy hair in 15 minutes; makes it straight or wavy as desired application. It is a straightener and a scalp cleaner, a soft lathering brush through the hair and easy to wash out. NOIR OL must be card wipe to make a black native finish. Sold by all first class druggist. Hair dressers for men. Personal checks not accepted.
+Straightens rigid or stubborn hair in 15 minutes; makes it straight or wavy as desired with no one application. It is a straightener and a scalp cleaner, a soft lathering brush, easy to touch through the hair and easy to wash out. NOIR OL must be hard with MADAGASCO to make a black natto finish. Sold by all first class druggists. Hair Dressers and Barber shops. Price $1.55. The two large jars sent by mail postpaid. Write for wholesale prices. Personal checks not accepted.
 
-ALL CHEMICAL CO.
-
-5915 State St., Chicago, Ill.
-Henwood 6305
+O'NEALL CHEMICAL CO.
 
 GET IT AT
 
-441 Clinton St., Detroit, Mich.; Mrs. Pilla Hill Lane, 221 W. Glat St., New York A. Hammond, 51th and 52nd Ace; Chicago; B. Johnson, 440 Front St., R. D. Hunt, Roland, Okla.; Arnold & Co., 15th and Clinton St., Leamington, Ontario; Dacette, Ala.; A. L. Williams, 719 Main St., Winnipeg, Man.; C. F. Christian, Canal Zone.
+G. H. A. BN., 444 Canton St., Detroit, Mich.; Mrs. Ella HILL Lane, 221 W. Glat St., New York City; Stenell A. Humeon, Bath and Tuxedo A.; Chicago; Tudoblahon, OLent St., Leamington, MN.; H. H. Infield, Holland, OML; Arnold & Co., 15th and Clinton St., Leamington, MN.; J. W. Gasson, Dupette, Ala.; A. J. Williams, 719 Main St., Winnipeg, Mo.; G. F. Long, Dew Toad, Christal, Canal Zone.
+
+Of Creolino Hair Producer, the most wonderful hair grower in the world. CREOLINE the only really different hair growing system to all others in the world. Free hair dressing course, full diploma and hair dressing window sign in colors, by mail. 6 weeks full treatment $1.50. Producer, the wonder, 50c the box. Beautiful hair dressing window sign free with 1 doz. Producer $3.00. Completo $35.00 hair dressing outfit only $18.00. Short time only. Write quick. Special low terms to agents.
+
+AGENTS WANTED
 
 Jackson Mfg. Co., Dept. A., 455 W. 10th St., Indianapolis, Ind.
 
 # ADAGASCO
 
-Straighten rigid or slobber hair in 15 minutes; makes it straight or wavy as desired with easy application. It is a straightener and a scalp cleaner, a soft lathering cloth easy to comb through the hair and easy to wash out. NOIR OI, must be cared with MAL WANO OI to make a black nautiline snuff. Sold by all first class druggers. Hair Dressers and Barber shops. Personal checks not accepted. Personal checks not accepted. O'NEALL CHEMICAL CO. 4915 State St., Chicago, Ill. Henwood 6309 GET IT AT G. H. A. BRS, 444 Clinton St., Detroit, Mich.; Mrs. Ella Ilii Lane, 221 W. Glat St., New York City; Neal and Henson, 53rd and Forest Acre, Chicago; B. Johnson, 420 Front St., Long Island; B. Hunt, Holder's Acre, Arbore & Co., 15th and Clinton St., Los Angeles; W. Hunt, Holder's Acre, A.I. Williams, 159 Main St., Winnipeg, Mon.; C. F. Hunt, 7th District, Capitol Zone.
+Straighten right or stabber hair in 15 minutes; makes it straight or wavy as desired with hair application. It is a straightener and a scalp cleanser, a soft lathering glove, easy to touch through the hair and easy to wash out. NOIR O. must be hard with MAHAM ISCO to make a new hairstyle. The new hairstyle will be dressed by five I.D. Dr. Druggist Hairstylist and Beautician. Free $15. The two large jars sent by mail postpaid. Write for wholesale prices. Personal checks not accepted.
+
+O'NEALL CHEMICAL CO.
+1915 State St., Chicago, Ill.
+Henwood 6305
+
+GET IT AT
+G. H. A. R.S. 400 Chelton St., Detroit; Mia. Mrs. Ella Hill Lane, 721 W. Glint St., New York City; Stenard A. Hinson, 55th and Durant Ave., Chicago; B. Johnson, 420 Front St., Erie, Miss.; E. D. Hunt, Holland, Okla.; Arcoid & Co., 13th and Clinton St., Leamington, Mcd. J. W. Grass, O. Ingetee, Ala.; A. J. Williams, 710 Main St., Winnipeg, Man.; C. F. Lange, Pay Toll, Christmas, Canal Zone.
+
+TUBERCULOSIS
+
+It was when physicians said it was impossible for J. M. Miller, Ohio Druggist to survive the ravages of Tuberculosis, he began ex-partimenting on himself, and discovered the Home Treatment known as ADDI LINE. Anyone with coughs showing tubercular tendency or ADDILINE.
 
 ## TUBERGULOSIS
 
-It was when physicians said it was impossible for J. M. Miller, Ohio Druggist to survive the ravages of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as ADDI-LINE. Anyone with coughs showing tubercular tendency or may use it under plain directions. Send your name and address to COLUMBUS, OHIO
+It was when physicians said it was impossible for J. M. Miller, Ohio Druggist to survive the ravages of Tuberculosis, he began experimenting on himself, and discovered the Home Treatment, known as ADDI-LINE. Anyone with coughs showing tubercular tendency or COLUMBUS, OHIO
 
-REBUILT TYPEWRITERS
+80 Pounds
+Tuberculosis, may use it under plain directions.
+ADDILINE
 
-A COMPLETE LINE OF RIBBONS, CARBON PAPER, ETC. GENERAL REPAIRS
+188 Pounds
+Latest Photo
 
-Special Attention Given Mall Orders Old Machines Bought and Exchanged
+46 ARCADE BUILDING
 
-V JAMES, 4746 SOUTH STATE ST., CHICAGO
-PHONE DREXEL 4019
+Send your name and address to
+
+NEW AND REBUILT TYPEWRITERS
+
+A COMPLETE LINE OF RIBBONS,
+CARBON PAPER, ETC.
+GENERAL REPAIRS
+Special Attention Given Mail Orders
+Old Machines Bought and Exchanged
+
+ANDREW JAMES, 4746 SOUTH STATE ST., CHICAGO
+PHONE: DREXEL 4619
+
+```markdown
+
+```
+
+C
 
 ---
 ## Page 9
@@ -2236,25 +2592,71 @@ Mudarcher and DeMoss were the stars with the willow, each securing three blits. 
 
 ## 'ROUND THE BASELINES
 
-Norfolk, Va., May 14.—The All Stars of this city, under the management of Chappie Johnson, and having such well-known American Giants, Wickarew, Gatwood, together with a bunch of young blood, and having much success and are taking all content up to the right side of the series of games with the famous Royal Giants of Brooklyn, John Loyd manager, and having series tabbed on the right side of the famous City Giants, the Madison Stars of Philadelphia, Pa., and other clubs to the right side of the famous Hillside and the results are expected to be same.
+Norfolk, Va., May 14—The All Stars of this city, under the management of Chappie Johnson, and having such well-known American Giants, Wickwire, Gatwood, together with a bunch of young blood, so having much success and are taking all series of games with the famous Royal Giants of Brooklyn, John Loyd manager, and already have a series tabbed on the famous City Giants, the Madison Stars of Philadelphia, Pa., and other clubs; to take on have won 12 of the 15 played. Wesley Johnson, the famous Hillsdale and the results are expected to be same.
 
-**14.**—An athlete meet by representatives from many of the high schools of Indiana town will be born tomorrow at the fair grounds. A 100-year-old guard, 292-pound pauvole, high jump, running jump and a baseball game will be the crowd.
+Pinecone, Ind., May 14—An athletic team has won 12 of the 15 played. The high schools of Indianapolis will be held tomorrow at the fair grounds. A 60-yard dash, 50 yards go, mile race, joel roll, jump and a baseball game will be the events on tap.
 
-**15.**—Underwriters Baseball team lost a hard fought game to one of the strong intercity teams out at Schorling park; the crowd going a little too stiff for his early spring condition, and was forced to give way to a hurler known as "Ted" who found the going a little too stiff for his slab, and the Underwriters managed to go to a mino fright content, which the crowd played down at LaPorto Ind., Sunday, May 16.
+Downers Grove's Baseball team lost a tough fringe game to the intercity teams out at Schorling park; the Underwriters' starter on the slab for the game too loo for the slab, and the Underwriters' contest was won to give way to a hurler known as "Red" Thompson; the latter found the leaguers to go to a nine-finger contest, which they lost by score of 4-3. The Insurance event down at La Porte Ind., Sunday, May 14.
 
-**16.**—Elkhorn Giants not away to a bad state their first game of the season by the score of 6-3. Many now players are on the roster now enchanted by a team that will measure up to the best in a short while. Address, L. B. Barnes, Elkhorn, Ind.
+Elkhart, Ind., May 14—The Elkhart Giants got away to a bad start and lost the contest by score of 6-3. Many now players are on route here, so the Giants expect to have a team that will measure up to the best in the league. Address, L. B. Barnes, Elkhart, Ind.
 
-**17.**—Ma, May 14.—Dan McCellan, the old time left hand pitcher, in having much success with the Madison Stars of this city. Besides the fifty now enchanted in they are batting all teams that invade their potential domain. The Stars get credit for the first hit now enchanted in they are batting all teams that invade their potential domain. Crowder, with Jack Watts, the old A. B. C.'s catcher handling the full route. Crowder, with Jack W
+Philadelphia, Pa. May 14—Dan McClain, the old-time left hand pitcher, will be honored on Sunday by son Stars of this city. Besides the fifty thousand dollar home that the team is building, he will be the team's teams that invade their palatial domain. The Stars get credit for the first hit game of the season, the pitcher going 18-10. A. B. C.'s catcher Watts, the old A. B. C.'s catcher huddling his delivery, shut Lincoln University from the ball. Hampton, Va. May 14—The Howard Bauschall team defended for the second this season—1 to 3 in an 11-inning game.
 
 Five double plays were made during the game, four by Hampton and one by Rivers. The game were the playing of Hampton's inflicted and the pitching of Brown for Howard.
 
 ## DAYTON MARCOS WIN
 
-Dayton, Ohio, May 14—The Marcos, representatives of this city in the new baseball league, downed the fast Weidemann of Cincinnati, Ohio, in a long drawn out game; heavy swaiting on the first pitch; five pine linnings, resulting two hours before a decision was reached. The Marcos won by the score of 10 to 9. Gray started on the slab for the home club, who was headed by Britt, who entered the first pitch. The Marcos test and succeeded in guiding out six of the visitors during his brief stay upon the slab. The Marcos pulled off some fast play, engineering a fast double play in a tight place and saved the first pitch. The Marcos leave for Chicago, the latter part of the week, where they engage the American Giants in a series of games, the first series the locals will have played in the new baseball circuit. The Marcos swait around the circuit before they return and they have a team that is expected to make a great showing for this city in the new league. The score: 1 2 3 4 5 6 7 8 9 RIH Marcos.....1 2 3 4 5 6 7 8 9 RIH Weidemann.....1 2 3 4 5 6 7 8 9 RIH Weidemann.....1 2 3 4 5 6 7 8 9 RIH Two base hits--Hitter, Derrick Lane, Three base hits--Stutt, Derrick Lane, Three base hits--Stutt, Derrick Lane, Cunningham to Taylor to Gray, 1 off-base on balls to Gray, 1 off-base on balls to G
+Dayton, Ohio, May 14—The Marcos, representatives of this city in the new baseball league, downed the fast Weldemans of Cincinnati, Ohio, in a long drawn out game; heavy swatting by the game caused the game to go binge limbing; and the players forciblya decision was reached. The Marcos won by the score of 10 to 9. Gray started on the slab for the home club, but was relieved by Britt, who entered Gray light in the heat of the contest. The players of the visitors during his brief stay upon the slab. The Marcos pulled off some fast playing, engineering a fast double play in a tight place and saved the game for the local gang. The players of the week Chicago often questioned the American Giants in a series of games, the first series the locals will have played in the new baseball circuit. The Marcos will take a short break around the circuit before they return and expected to make a grand showing for this city in the new league. The score: 1 2 3 4 5 6 7 8 9 R H E Marcos .... 1 2 3 4 5 6 7 8 9 ...10 R H E Weldemans 1 1 2 1 1 4 0 00 - 91 1 5 Weldemans 1 1 2 1 1 4 0 00 - 91 1 5 Three base hits-Britt, Stubble, Doubly play-Cunningham to Taylor to Hocker. Base on balls-Off Gray, 1; off Nelson, 3. Struck out-By Gray, 2; by Britt, 6; by Nelson, 4.
+
+GIANTS AND TESREAU'S DIVIDE
+
+The Bacharach Giants and Jeff Tesreau's Bears split even in their double-bear host Sunday at Deckman oval, the home of both teams in the first game and allowing Big杰 to trim them in the sunset tilt. Seven thousand five hundred persons witnessed the games, and is said to be the largest crowd to witness a game on a baseball field. The fact of both games was the number of home runs collected by both teams, Redding, who started the first game, was in super form and allowed Jeff team only two hits, while the white team only one. The fourth inning the first two Bacharach batters up made clean home runs over the center field fence. In the second game, although Roohaw, Yank and Brown collected homers, Tesreau and the Emeralds in a double-bender at the oval. Both teams have suffered, defeat this season on the balls, and will no doubt, be out for revenge. Bach, Giants.....0 0 1 1 0 1 1 0 0-1
+Bacharach, Bears.....0 3 1 0 1 1 0 0-4
+SECOND GAME
+
+RHLK
+Tesreau's Bears...0 0 1 1 0 1 1 0 0-1
+Bacharach, Redding, Trewell and Yank; Barke, Mc Murray, Walters, Brady and Hankwhite.
+
+DOUGLAS 3884 DOUGLAS 8889
+Calumet Billiard Parlors
+TWENTY-SEVEN PERFECT TABLES NO WAITING
+HEADQUARTERS FOR CUE EXPERTS FROM IN AND OUT
+OF CHICAGO
+KIRBY ANDERSON, MGR. 315-317 E. 35TH ST.
+
+SATURDAY, MAY 15, 1920
 
 ---
 
-hit ball in the game. Next Sunday the Dayton Murens will oppose the American Giants and the fur will fly, as the Giants are still smarting from that 4 to 9 defeat handed them by this team last year and are out for sweet game. Following is the box score of the game:
+Puts
+Chicago Giants
+
+control Goes Bad and
+les Up Big Lead
+
+hit ball in the game. Next Sunday
+the Dayton Marcos will oppose the
+American Giants and the fur will fly,
+as the Giants are still smarting from
+that 4 to 0 defeat handed them by this
+team last year and are out for sweet
+revenge. Following is the box score of the
+game:
+
+CHICAGO GIANTS
+AM. GIANTS
+
+W.Green, 3b. 0 1 1 0 AA
+W.White, 1f. 0 0 0 0 Rece, If. 1 1 0 0
+Winston, 1f. 0 0 0 0 Melcherber, 3b. 3 2 5
+Jenkins, cf. 0 0 0 0 Torfentall, cf. 1 1 0
+Rockwitt, c. 0 1 3 0 Dixon, c. 1 1 0 7
+White, b. 2 1 13 1 Grant, b. 1 11 0
+Jeffries, ss. 1 1 1 4 Will, ss. 0 1 2 5
+Hrown, p. 0 0 0 0 T. Wiley, p. 0 0 0
+
+Totals... 3 6 21 11 Totals... 5 12 21 11
 
 Chicago Giants,.....0 0 0 0 0 0 0 1-3 1 1 1
 American Giants,.....0 0 0 0 0 0 0 1-0 x-1 1 1
@@ -2307,9 +2709,25 @@ This year the Marcos have a team composed of just enough youngsters with a sprin
 
 Britt downed the A. B. C.'s a few seasons ago in an exhibition game with the American Glants at Cincinnati; then he hurled for the A. B. C.'s and put the kibosh on the Cuban Stars, that can be deposited upon to show class in any sort of going, while their infeld has a Little hob best of the majority of the circuit to date. Cum- tion is short, then Jim Taylor at seasick with Hockey frames up in experience, holding and general class to a level with any of the inner works on the new circuit. Center Fielder Brown is one of the players today, while Gray and Lane are young pitchers that will be heard from as they carry the goods that are bound to earn ready recognition of their prowess. Like the majority of the clubs, the Marcos have been fortunate in securing backstop material; Wingdell, the first string man, is said to measure up to the best forms that will be shown here for a series and there is going to be a real battle, especially the games that Britt works, as Ruble always wants to beat a man who will not be anxious to show that he is just as anxious to show that he is ready for the purpose of getting a chance now and then to down the Foster gray.
 
-Columbus, Ohio, May 14 — Jackie Hickey, the backup light weight that the Buckeye state turned out, has fought upwards of a 10-5 over his team in a returned from a successful tour of the East, where he met and held his own in the weight; he is expecting to take on the crack Lee Johnson out at Neal park here in Columbus, Jackie Moore, 230 Cleveland avenue.
+Columbus, Ohio, May 14.-Jackie Moore, the boy rated in the host light wellday of the Easter Sunday, turned out, has fought upwards of a hundred or more battles; he has just returned from a successful tour of the host, where he met and held his own with some of the classiest men of his酵phe. He is expecting it take on the crack Lee Johnson out at Neal park soon. Address: Jackie Moore, 230 Cleveland Avenue.
+
+DOUGLAS 8889
+
+iard Parlors
+
+TABLES NO WAITING
+
+EXPERTS FROM IN AND OUT
+
+ICAGO
+
+315-317 E. 35TH ST.
+
+SPORTING NEWS
 
 ## BOXING NOTES
+
+1.
 
 # JACK JOHNSON
 SELF-MADE MAN
@@ -2329,22 +2747,48 @@ We cannot find one case where Jack rined any young girl's future or broke his mo
 
 Another case of Jack's mainly behavior in Spain was that some time ago a buyer for one of the largest houses in Chicago, perhaps in the world, who has made his home in Spain for the last five years, a special visit to the South Side where he was here from Spain on a visit and tried to find out why Jack Johnson was made to leave this country. He said that in his personal acquaintance with Jack he had always found him a man who could be proud of. Today Jack Johnson is sonally known men in the world. This statement includes the late Theodore Roosevelt, Burton Holmes, the Kaiser, President Wilson and many more. Jack has shaken more different hands and made more people face to face than the whole layout of the building, the user with every nutton except his own. In closing allow the writer to ask a few questions. How many men who have been born under any flag could have stood what Jack has stood for the last six or eight years and still be in the same building and holding the world a golden smile, saying, "Good will to all men."
 
-(Next installment will be George's Carpenter, the French champion)
-cleveland, ohio, May 14...Fear's Ghosts opened the season here last Sunday by a big score win over their opponents. For games address 2369 East 16th street.
+(Next Installation will be Georges Carpenter, the French champion.)
+Cleveland, Ohio May 14--Fears' Giants opened the season here last Sunday by a big score win over their opponents. For games address 2360 East 14th street.
+
+Big Double-Header
+THIS SUNDAY
+May 16th
+HIGHBRIDGE
+ATHLETICS AND
+EMERALDS
+vs.
+JEFF TESREAU'S BEARS
+AT DYCKMAN'S OVAL,
+NEW YORK CITY
+Watch for the Jazz Band
+as Usual
+ADMISSION 50c.
 
 # Western Circuit Negro National League
 
+THE CHICAGO DEFENDER
+
 CIRCUIT OPENS AT DETROIT
 
-The Urban Stars will open the league against the Detroit Stars, the first starting Saturday, May 15, and going on until Saturday, May 19. What will perhaps be the biggest blow-off ever given in behalf of an inaugural go will be staged by the citizens and leading business men of Detroit. All of the hundreds of box advances and the engaged weeks in advance, and the teams that turn out in a body and make Sunday, May 16, a gala affair. The Royal Rooters' Club is going to boost the opening right over the top by presenting the home team with a huge floral offering in the form of a horseshoe that will materially to the good fortune that the team already acquired through the winning of five straight games this season.
+The Cuban Stars will open the league circuit against the Detroit Stars, the first game of a series of five games. What will perhaps be the biggest blow-off ever given in behalf of an inaugural go will be staged by the eighth business men of Detroit. All of the business men of seats have been engaged weeks in advance, and the Ellis of Detroit will turn out in a body and make Sunday, key day, a go-ahead. The Royal Rooters Club is going to boost the opening right over the top by presenting the home team with a huge floral offering in the form of a horseshoe that is expected to add material to the goal. The Sharks have already acquired through the opening of five straight games this season.
 
 The Stars are on a hitting camp right now, and in their present form they are bound to make life inimitable for all visiting teams. The games between the Stars and Cubans are already been finely drawn afte- rnth with both soft and null to the finish. The Cubans have just arrived from Havana, and by the time that they are booked to show at Detroit they will have become sufficiently acclimated for their best work. The now men with the Cubans are rounding into good form, having struck ever more to their liking in the past but now it exists that the Stars are going to do so in hopes of for the hopes in the coming series.
 
-Holland, no doubt, will be pitied against Lehane, its consensual Cuban pitcher, and Blount may send his crack batsman, Cooper, against the new Cuban pitcher, Ritchie. The fans are in for some mighty force baseball fighting when these two teams hook up, and the present series is expected to give a real line on just what team in the new circuit it would be, a sort of an idea that the team that can down the Islanders is the team that will come home with the new league's bacon.
+Holland, the flashy heavier of the Stars, no doubt, will be pitied against LeLithane, its consensual Cuban pitcher, and Blount may send his crack southpaw, Cooper, against the new rate, the star, Hernandez. At any rate, the star will face the fierce baseball fighting when these two teams hook up, and the present series is expected to give a real line on just what team in the new circuit it would be wise for the fans to swing with, as a sort of an idea exists that the team that down the Islanders is the team that down the home with the new league's bacon.
 
 The Sunday Game
-Jason independents of Jackson, Mich., were shuttled by the Detroit Tigers at Mack Park, before a record crowd.
-Cash, the mainstay of the Jackson pitching corps, was injured by a pitched ball in the second inning and forced to retrefoil from the game. The team must have been brightly at bat, knocking out a triple and a homer, the latter being in the park and surrounding territory. Ted Blount's employees amassed a total of 21 hits that were extra batsmen. Hewitt helped himself to the clean outfielder on the brightly at bat, kn
+
+Jaxon Independents of Jackson, Mich., were shattered by the Detroit Stars, Sunday, at Mack Park, before a record crowd.
+
+The star of the Jackson pitching corps, was injured by a pitched ball in the second inning and forced to retire from the game. The Detroiters proceeded to maul his successors to all parts of the park and surrounding territory. Ted Blount's employees amassed a total of 211 hits, including 150 in the game, were extra hasslers. Hevitt helped himself to five clean safeties out of five times at bat, knocking again brightly at bat, knocking in a triple and a homer, the jatter being a drive to deep center, the ball staying in the third inning, added a four-baser to his string, knocking the ball far out of the park.
+
+The Detroit pitchers allowed but one of the visitors to reach third base. Detroit Stars.....1 10 4 4 3 3 0 - 23 C. Iverson.....1 10 4 3 3 0 - 23 Errorrs - C. Iverson, Edgerton, Thompson, Ashby. Hits-Off Thompson, 2, off Cooper 2, off Cash 3, off League 12. Twoball hits - Warfield, Moor 2, Edgerton, Thompson, League, Cooper, Hume - J. Lyons, Wesley, Sacrifice hits - Warfield, Longware, Bases on balls - Off Thompson 3, off Cooper 1, off Cash 1, off League 10. Struck out- by Thompson 7, by Cooper 3, by Cash 1, by League 1.
+
+ST. LOUIS GIANTS WIN
+St. Louis, Mo, May 14- St. Louis Giants won the second game of the series from the K. C. Monarchs by the score of 6-5. Batteries: Giants, Fener-Kennard; Monarchs, Lightner-Curruc-Hodriguez.
+
+BASKET BALL MANAGER 1921
+Babe Thomas, one of the best known basketball players in the cast of a few years. He was a member of the Physical Culture team elected by a unanimous vote to lead the team in 1921 at their last regular meeting. Babe knows basketball ball from Z. and a better selection could be been made. Good Jack, Mr. Thomas.
 
 # PAUL JONES WINS
 KENTUCKY DERBY
@@ -2361,6 +2805,12 @@ The crowd was so dence that movement about the grounds was almost impossible. No
 
 Six Thousand Witness Humiliation of Local Team, While Two Thousand are Turned Away
 
+K. C. Monarch
+the St
+
+Six Thousand Witness Humilia
+Thousand are T
+
 ## By Dave Wyatt
 
 St. Louis, Mo., May 14.—The official debut of the St. Louis Giants as a league entry was staged here last Sunday when the K. C. Monarcha of Kansas City engaged the locals in the infiltration of the ballpark to buzzing in the new circuit. The baseballballs drew ident atmospheric conditions for the contest, and this, the inaugural gun, augmented by a parade featuring several blocks in length and jazz band accompaniment, to ite bands, and a tendency to drag out such a hue throng of enthusiasm that billboards, housesets adjacent to the inclosure, trees and motor truck tops outside were ushered into service so eager were the bugs to lamp the doings.
@@ -2369,23 +2819,19 @@ The walls that inclose the baseball arena were choked and clogged to the point w
 
 Drake, a young pitcher who flashes sparks of coming greatness, was on the slab for the Giants, while Sam Crawford, a veteran, was the heaver upon whom the Monarchs based their hopes of youth, age and new faces in up and the two teams appeared to be about evenly matched in hitting strength, fielding and general field experience. As it was, the show developed into a contest of skill between the two teams, with spikedness of youth, age and
 
-fanned Hill, ending the game, 2-1, for the Monarchs.
+Circ
+nal Le
 
-The Kansas City team will tackle Taylor's A. B. Cs at Indianapolis next Sunday, May 16, with a series of five; then they go on to Chicago where they hook up with big "Ruben" gang Sunday, May 23. The score.
+1
 
-Totals, | 1 $ 2 7 | | Totals, | 2 $ 2 7 1 1
-x-hatted for Holts in the ninth.
-x-lattened for Drake in the unthirt.
-K. Monarchs in the eighth.
-K. C. Monarchs, 0 0 0 0 0 1 0 1 0 1 0-1
-Erors-St. Louis Giants, 1; K. C. Monarchs,
-c. Base Miles-Kennard, Hills, Cobb, 0-1
-Near, West, Central, Fort, 0-1
-fort, 6 in 7 inings; off Curle, 2 in 2 inings;
-base on balls-Off Drake, 3. Struck out-1-1;
-base on balls-by Curle, 1; by Drake, 6. H.
-baldamn-Curle, left on bases-St. Louis,
-Monarchs, 0
+as Trim
+st. Louis Giants
+ation of Local Team, While Two
+turned Away
+fanned Hill, ending the game, 2-1, for
+the Monarchs.
+
+[OCR timeout]
 
 ## A. B. C.'S WIN
 
@@ -2399,53 +2845,67 @@ Error...Ros, Guerra 2, Herrera Clark, Day, Three-base hit...Abron, Two-base hits
 Swift Preminium defeated Stewart's All Star Sunday 5 to 4 in the opening game of the season.
 A's...1 1 0 0 0 1 1 1 -5 7 1
 
+uit eague
+
 ---
 ## Page 10
 
-Mr. and Mrs. D. P. French, 3366 Columet avenue, have arranged to spend their summer camping somewhere in the neighborhood of the Forest Preserve near Dos Plaines, Ill.
+Society
 
-R. H. Jones, 566 East 36th street, is visiting relatives at Anudarko, Ola.
+Mr. and Mrs. D. P. French, 3365 Calumet avenue, have arranged to spend their summer camping somewhere in the neighborhood of the Forest Preserve near Dos Planas, Ill.
 
-R. H. Jones, 566 East 36th street, is visiting relatives at Anandarko, Ola, a reunion after separation of 18 years.
-Miss J. Preston, 528 East 37th street, has moved to 618 East 37th street, 2d apt. She is one of the clocks at Walgreen's drug store.
+R. H. Jones, 556 East 361th street, is visiting relatives at Anudarko, Olin, a reunion after separation of 18 years.
+
+Miss J. Preston, 528 East 371th street, has moved to 518 East 371th street, 2d apt. She is one of the clorks at Walgreen's drug store.
+
 Mrs. John B. French will spend her vacation motoring through the states of Minnesota, Wisconsin, Illinois and Iowa.
-Mrs. Lillie B. McNeil, Vicksburg, Miss, is visiting her sister, Mrs. N. A. Grazins, 4223 East Lawrence avenue.
-Mrs. U. G. Dalrymple, 618 New Avenue, left the city this week for Boston, Mass, where she will be the guest of her sister and brother, Dr. and Mrs. John Hall and to see her mother Mrs. Curtis.
+
+Mrs. Lillie B. McNeil, Vicksburg, Miss., is visiting her sister, Mrs. N. A. Graves, 4223 St. Lawrence avenue.
+
+Mrs. U. G. Dally, 6618 Vornon avenue, left the city this week for Boston, Mass., where she will be the guest of her sister and brother, Dr. and Mrs. John Hall and to see her mother Mrs. Curtis.
+
 Mr. and Mrs. DeWitt Curtis, 6618 Vernon avenue, will be absent from the city for several weeks during the summer. They have made all arrangements for their trip, which will be by automobile.
+
 Mrs. Charles E. Bentley, 5816 Michigan avenue, will leave the city the first part of June for an extended vacation. The Doctor will join her some time during the middle of June for a much needed vacation.
-Mrs. C. M. Washington, 6538 Evans avenue, spent several weeks in the city taking a much needed spring rest, and incidentally visiting with her old friends.
-William Kelly, William Harsh, Dr. John Feaman, Dr. Prod G. Trapp and Dr. Count Teffner were the guests of friend Vanston, on an usual day. They were hosted in royal style.
-Mrs. Annabelle Davis of Clinehall, Ohio, was the guest of her brother, Thorn Cuthbor, Vincennes hotel.
-Mr. and Mrs. Daniel Halt of 4808 Wabush avenue have moved to 4314 Forrestville avenue.
-Mrs. Clara E. Derrick, widow of the late W. B. Derrick, will visit her home city about May 15. She is attending the general conference at St. Louis, Mo.
-Mrs. Luche Phelpe, 4061 Indiana avenue, wife of A. H. Phipps, has returned from Detroit, Mich., visiting Mr. Phelps relatives.
-Miss Lavenia Harding, clerk in the postoffice, inquiry section, is spending time in New York, Boston and Philadelphia.
-It is reported that Mrs. George W. Prince will join her husband, Dr. Geo. W. Prince, in London, England.
+
+Mrs. C. M. Washington, 6538 Evans avenue, spend several weeks in the city taking a much needed spring rest, and incidentally visiting with her old friends.
+
+William Kelly, William Harsh, Dr. John Feaman, Dr. Fred G. Trapp and Dr. Count Teffner wore the guests of friends in Evanston, Ill., on last Sunday. They were treated in royal style.
+
+Mrs. Annabelle Davis of Cincinnati, Ohio, was the guest of her brother, Thorn Cuthbert, Vincennes hotel.
+
+Mr. and Mrs. Daniel Hall of 4808 Wabush avenue have moved to 4334 Forrestville avenue.
+
+Mrs. Clara E. Derrick, widow of the late W. B. Derrick, will visit her home city about May 15. She is attending the general conference at St. Louis, Mo. Mrs. Molly Phelps, 405 Indiana avenue, wife of A. H. Phelps, has returned from Detroit, Mich., visiting Mr. Phelps' relatives.
+
+Miss Lavonia Harding, clerk in the postoffice, inquiry section, is spending her vacation in New York, Boston and Philadelphia.
+
+It is reported that Mrs. George W. Prince will join her husband, Dr. Geo, W. Prince, in London, England.
+
 Mrs. John C. Davis, 1940 Walnut street, left during the week for a trip to Colorado and other parts of the West to visit relatives.
-Mrs. Cora B. Giddons, 3614 Calumet avenue, is visiting in St. Louis, Mo, and attending the A. M. E. conference.
-J. B. Street, worthy master of North
+
+Mrs. Cora B. Giddons, 3614 Calumet avenue, is visiting in St. Louis, Mo., and attending the A. M. B. conference. J. B. Street, worthy master of North
 
 The Gaudeamus Club met with Mrs. Sara Turner, 5318 Wabash avenue, May 3; business meeting.
-The Gaudeamus Club met with Mrs. B. J. Williams, 1837 Prairie avenue, May 10. Memorial day for the late Postess Bettiola Fortson and Phyllis Wheatley. Address by Mrs. Elizabeth L. Davis. Paper subject, "Mother" by Miss Hazel Draine. Visitors, Mrs. L. B. McNeil, Mrs. Stegall, Mrs. Davis and Miss Draine.
-The Clara Jassamine Club met with Miss Clara Brown, 3536 Rhodes avenue. Plans were made to give a dinner May 13 at Phyllis Wheatley Home.
-The Lake Park Hospital Baby Relief Club met with Mrs. Lumpkins, 4042 Indiana avenue, May 4.
-The Hopkins club met at Mrs. J. T. Stoppel, 689 East 45th street, Wednesday, May 19. Wiggins, first prize; Mrs. Dix, second prize.
 
-The Utopia club met at Mrs. J. T. Stigall, 648 East 45th street, Wednesday, May 5. Mrs. Wiggins, first prize; Mrs. Dix, second, and Mr. Jurck, third. Young Matrons' club met with Mrs. Mattie Parris, Ravonswood. Four new members were added to the roll. Meet May 14 with Mrs. Hattie Patterson, 3571 Forest avenue.
+The Gaudeamus Club met with Mrs. B. J. Williams, 1837 Pruille avenue, May 10. Memorial day for the late Postess Bettia Fortson and Phyllis Wheatley. Address by Mrs. Elizabeth L. Davis. Paper subject, "Mother" by Miss Hazel Draine. Visitors, Mrs. L. B. McNell, Mrs. Stegall, Mrs. Davis and Miss Draine.
+
+The Clara Jessamine Club met with Miss Clara Brown, 3536 Rhodes avenue. Plans were made to give a dinner May 13 at Phyllis Wheatley Home.
+
+The Lake Park Hospital Baby Relief Club met with Mrs. Lumpkins, 4042 Indiana avenue, May 4.
+
+The Topski club met at Mrs. J. T. Stigall, 616 East 45th street, Wednesday, May 5. Mrs. Wiggins, first prize; Mrs. Dix second and third.
 
 Harmony club will hold its next regular meeting at the residence of Mrs. Sarah Johnson, 4018 Indiana avenue.
 
-The Wear 'Em and Patch 'Em club was organized in the Defender office this week. The high cost of living caused the follows to agree to wear old clothes as long as there is a chance to so. Lucah Harper, president; Leglio Rogers, vice president; C. B. Lowis, secretary, and A. N. Fields, treasurer.
+The Wear 'Em and Patch Tm club was organized in the Defender office this week. The high cost of living caused the follows to agree to wear old clothes as long as there is a chance to go so. Lucius Harper, president; Leslie Rogers, vice president; C. B. Lewis, secretary, and A. N. Fields, treasurer.
 
 "SYRUP OF FIGS"
-
 CHILD'S LAXATIVE
 
-Look at tongue! Remove poles from little stomach, liver and bowels.
+Look at tongue! Remove poisons from little stomach, liver and bowels
 
-Accept "California" Syrup of Figs only—look for the name California on the package, then you are sure your child is having the best and most harmless laxative or physio for the little stomach, liver and bowels. Children love its delicious fruity taste. Full directions for child's dose on cach bottle. Glive it without fear.
-
-Mother! You must say "California."
+Accept "California" Syrup of Figs only—look for the namo California on the package, then you are sure your child is having the best and most harmful laxativo or physio for the little stomach, liver and bowels. Children love its delicious fruity taste. Full directions for child's doso on each bottle. Give it without fear. Mother! You must say "California."
 
 Mother! You must say "California."
 
@@ -2463,38 +2923,24 @@ The Direction Book with each package tells so plainly how to diamond dye over an
 To match any material, have druggist show you "Diamond Dye" Color Card.
 
 Stir lodge No. 57, spent Sunday and several days during the week at springfield, Ill., looking after fraternal business and attending the state convention.
-
 Dr. C. H. Plickett Jr., of Lafayette, La., is in the city taking a post course in surgery.
-
-and Mrs. W. Will Brown, "newly-wed," and will sojourn in Detroit, Mich., and will return home the last of the week. Mrs. Brown was formerly Miss Julia Barksdale, stenognorph for the Chicago Defender.
-
+and Mrs. Will Brown, "newly-wed," sojourning in Detroit, Mich., and will return home the last of the week. Mrs. Brown was formerly Miss Julia Barkside, stenographer for the Chicago Defender.
 Mr. and Mrs. Wm. Lewis, 3220% Rhodes avenue, left last Friday for Louisville, Ky.
-
-Dr. H. Reginald Smith and Dr. Midian O. Bousfield are in New York city.
-
-Mrs. Edward Palmer, 5841 Wabash avenue, was called home suddenly to Jackson, Tennessee, because of the illness of her uncle.
-
-Percy Turner made a one day trip to Ohio, last Sunday to visit his wife, Mrs. Lutio Turner, who is here attending her sick mother, Mrs. Tisha Jackson, 4438 Prairie avenue.
-
+Dr. H. Reginald Smith and Dr. Midian O. Bousheld are in New York city.
+Mrs. Edward Palmer, 5841 Wabash avenue, was called home suddenly to Jackson, Tenn., because of the illness of her uncle.
+Percy Turner made a one day trip from Ohio, last Sunday to visit his wife on Mrs. Lilo Turner, who is here attending her sick mother, Mrs. Tisha Jackson, 4438 Prairie avenue.
 W. M. Bough, 5115 Wabash avenue, entertained the Olivet Baptist church usher board May 3.
+Mrs. Jennie McNeil and family have moved to 736 East 48th street.
 
-W. M. Bough, 6115 Wabash avenue, enturtained the Olivet Baptist church usher board May 3. Mrs. Jennie McNeil and family have moved to 736 East 48th street.
-
-Mrs. Edith Hodges, 3662 Indiana avenue, has arrived at Minot, N. D., the guest of Mrs. Janie Webb.
+Mrs. Edith Hodges, 3682 Indiane avenue, has arrived at Minot, N. D., the guest of Mrs. Janle Webb.
 
 Churches
 
-Trinity M. E. church, 30th street and Prairie avenue, Rova, W. I. Wallace and G. W. Chucker, pastors. Services at 11 a. m. and 8 a. m.
+Trinity M. E. church, 30th street and Prairie avenue, Rows. W. H. Wallace and G. W. Baber, pastors. Services at 11 a. m. and 8 p. m.
 
-Olivot Baptist church, 31st street and South Park avenue, Rev. L. K. Williams, pastor. Services at 11 a. m. and 8 a. m.
+Olivot Baptist church, 31st street and South Park avenue, Rev. L. K. Williams, pastor. Services at 11 a. m.
 
-Friendship Baptist church Ada and
-Brantley. Drane, Brantley,
-bentley. Servicing MAP. Brantley
-
-Friendship Baptist church, Ada and West Lake店, Rev. Lucius Drano, pastor. Services at 11 a. m. and 8 p. m. Original Providence Baptist church, Levitt and Walnut街, Rev. Boston Prince, pastor. Prof. J. Wosley Jones, choir director. Good music. Public invited.
-
-Union Baptist church, 1929 Fulton street. Services at 11 a. m. and 8
+Grace Prosbyterian church, 36th street and Vincennes avenue, Rev. Moses II, Jackson, pastor. Services at 11 a.m. and 8 p.m. Good music under the direction of Prof. Pedro Tinsley. Two beautiful anthems sung every Sunday and midnight. St. Thomas' Epical church, 36th street and Washaua avenue, Father Simons, rector. Robed choir, good music. (Ministers of all Methodist churches are in St. Louis, Mo., attending the A.M. E. general conference.)
 
 ## Find Homeless Lad
 
@@ -2504,22 +2950,26 @@ Burlington, Iowa, May 14.—Found wandering aimlessly about the streets of the b
 
 Use "Danderine" to promote growth and luxuriance
 
-A small bottle of "Danderine" costs but a few cents at any drug store. "Danderine" is to the hair what fresh showers of rain and sunshine are to vegetation, making the hair grow long, strong and beautiful. Besides beautifying the hair, "Danderine" stops hair falling out, all dandruff disappears and scalp never itches.
+```markdown
 
-Try "Dandorine" and just see what
-long, soft, attractive hair you can have.
+```
 
-Advertising Pays
+A small bottle of "Dandereine" costs but a few cents at any drug store. "Dandereine" is to the hair what fresh showers of rain and sunshine are to vegetation, making the hair grow long, strong and beautiful. Besides beautifying the hair, "Dandereine" stops hair falling out, all dandruff disappears and scalp never itches.
+
+Try "Danderine" and just see what long, soft, attractive hair you can have.
+
 Get More Out-of-Town Results
 by Using Our Ad Service
+
 What have you to sell?
 Advertise it in the Chicago Defender,
 Indianapolis Freeman and the Kansas
-City Sun, Richmond Planet and
-Dallas Express—30 words to the inch.
+City Sun, Richmond Planot and
+Dallas Express--30 words to the inch.
 Send copy and $7.25.
+
 RACE PUBLICITY BUREAU
-DEPT. B, 407—146 N. CLARK ST.
+DEPT. B, 407-146 N. CLARK ST.
 CHICAGO.
 
 VALENTINE
@@ -2527,64 +2977,61 @@ DRESSMAKING COLLEGES
 DESIGNING AND TAILORING
 Day and Evening Classes
 POSITIONS FREE
-Graduates in demand everywhere. Call or
+Graduates in Richmond everywhere. Call or
 write and let us tell you about it.
-SARA PATEK, Principal
-6205 6. Related St. Chicago
+SARA PATEK, Principal,
+6203 B. Halsted St., Chicago.
 
-What promises to be the largest gathering seen in the Quaker city in many years will be the Academy of Music meeting for Roscoe Simmons, Monday evening, May 17.
+THE CHICAGO DEFENDER
 
-This is the first time the famous orator and statesman has spoken in Philadelphia, notwithstanding that among the masses of people he has the same following he can claim among the masses everywhere. Booker T. Washington Jr. is presenting Col. Simmons to Philadelphia and announces that this will be the only speech he will make at this time.
+## CHORAL SOCIETY MEMBERS IN CANTATA
 
-Indications are that Col. Simmons will be greeted by a mixed audience, his fame being as wide in one way as in another. Tickets are being sold at Davis drug store, 1837 South street, and Hopkinson, 1117 Chestnut.-Advertisement.
+"Either the Beautiful Queen," a sacred cantata which has been given by choirs and choral organizations in all parts of the country, will be given away by a selected number of singers from the Progressive Choral society of Chicago on Monday, May 31, at Abraham Lincoln Center, Oakwood boulevard and Langley avenue. Because of the popularity and standard of this cantata that is one of the reasons it has been selected. It will be given in dramatic action under the direction of Miss Magnolia N. Lowis, Chicago's best. Costuming by Rhodes Brother, lights by Tony Langston, Burt R. Campbell, one of Chicago's leading bassos, will play the part of King Alasaucer, while Mrs. Dora Lee Porter, leading young soprano, will play the part of Queen Esther, J. C. Ross, lyric tenor of Chicago, is taking the part of Haman, Miss Blanche V. Kalgier, whose singing always thrills and cl电诲s every audience she appears before, is taking the part of Zereesh. Haman's wife. All the music is under the personal direction of Prof. J. Wesley Jones, the country's most popular and efficient music conductor. Read next week's issue for more about Esther.
 
-## Y, W, C, A.
+## MEN OVERPOWER JAILOR
 
-Thursday evening program suspended until after the drive. * The Kirmess given by the Girl Reserves at the Arsen Grotto Temple was a most beautiful affair. Each child showed plainly that it had had careful training. Mrs. Mame Mason Higgins, the chairman of the girls' work committee, is the author of the beautiful Kirmess, and deserves much praise for her work
+Marshallville, Ga., May 14—Two of the five men who overpowered Jailor Smith and escaped from Ogiehorpe jail last Monday night were recaptured at Annericus, according to advises from the sheriff of Sumter county. They are Jesse Jones, who confessed in the Marshallville arson case, and Sam Brown, who overpowered the Jailor. Louis Rumph, a third prisoner, is still at large with $150 roward offered for his recapture.
 
-Thursday evening program suspended until after the drive. • The Kirkness given by the Girl Reserves at the Aryan Grotto Temple was a most beautiful affair. Each child showed plainly that it had had careful training. Mrs. Mama Mason Higgins, the chairman of the girls' work committee, is the author of the beautiful Kirkness, and deserves much praise for her work. • Last Sunday vesper services were under direction of the Girl Reserves. A splendid program was prepared for Mother Day. The vesper services will be at the regular hour next Sunday, May 16, from 6 to 8 every one is most cordially invited to attend Thursday socials and vespers each week. • X. W. C. A. summer camp for girls in business and industry opens July 30 and closes Aug. 30th. You may register now. For further information call at the Indiana Avenue Y. W. C. A. Branch, 3541 Indiana avenue. • Bear in mind the $1,000,000 drive. Our quota is $25,000. We are depending on you to help us go over the top. It will be impossible for us to succed unless we all work together for that end.
+## Vocal Recital at St. Phillip's
 
-UNIVERSITY GETS BUILDING
-Atlanta, Ga., May 14—Ground has been broken at Clark University for a new $100,000 building, which will be erected on an addition to the already extensive plant of the institution. The building will contain a chapel with a scouting capacity of 800, quarters for the administration department and a large and splendid gymnasium.
+Brooklyn, N. Y., May 14—Wilbur P. Johnson will give a vocal recital in the lecture room of St. Phillip's church, Dean street, Thursday, May 13, at 8:15 o'clock. Mr. Johnson is a graduate of Syracuse University and has a baritone voice which has been carefully trained.
 
-This being results. We not to harm the trained such we.
+MINISTERS BACK STRIKERS
+Washington, D. C., May 14—The Minister in Alliance of Washington indorsed the laborers of the common laborers and hooded help to have all pastors discourage mon in their congregations from taking the jobs left vacant by the strikers. The strike involved about 2,000.
 
-The Blake preparations—just as delight employed it.
+THE TWENTIETH CENTURY
 
-Before a warm water a cording to the removed from with warm water the result is the
+ature has laid out all her tint of rose petals, plants, shes, lighted it up and enla that can hardly be describ all its beauties in the most
 
-Nature has lea
-tint of rose
-and blushes, lighted
-graces that can hard
-as sets all its beauti
-The power
-tint of youthfulness
-But those w
-imperfections, can a
+The power of beauty is youthfulness in her cheeks.
 
-This Beauty Treatment has
-ing results. When the direction
-not to harm the most delicate sk
-tained such widespread popularity
+But those whose skin is reactions, can acquire that p
 
-The Black and White Bea
-preparations—a creamy Ointment
-just as delightful to use as the m
-employed It will produce the de
+BLA
 
-Before retiring you thorough
-warm water and Black and White
-cording to the directions given.
-Removed from the face, hands, ne
-with warm water and Black and
-the result is the tint and freshness
+BEA
 
-nature has laid out all her art in beautifying the face. She has touched it with tint of rose petals, planted in it a double row of ivory, made it the seat of smiles and blushes, lighted it up and enlivened it with the brightness of the eyes, given it airs and graces that can hardly be described and surrounded it with such a flowing shade of hair as sets all its beauties in the most agreeable light.
+Beauty Treatment has been used by thousands. When the directions given are followed the most delicate skin. No other skin to widespread popularity in so short a time.
 
-The power of beauty is inestimable, and happy is the woman who has that rose-tint of youthfulness in her cheeks and an unblemished complexion.
+Black and White Beauty Treatment consists a creamy Ointment and a pure complex to use as the many face creams and will produce the desired results more quickly. Retiring you thoroughly cleanse the pores and Black and White Soap. Then apply the directions given. The next morning the face, hands, neck or arms and the after and Black and White Soap. After some tint and freshness of youth in the comp
 
-But those whose skin is dark and sallow, disfigured by pimples, spots or other imperfections, can acquire that perfect complexion so much desired by the use of the
+The Rose Tint
+
+Nature has laid out all her art in beautifying the face. She has touched it with tint of rose petals, planted in it a double row of ivory, made it the seat of smiles and blushes, lighted it up and enlivened it with the brightness of the eyes, given it airs and graces that can hardly be described and surrounded it with such a flowing shade of hair as sets all its beauties in the most agreeable light.
+
+and blushes, lighted graces that can harden as sets all its beauties.
+
+The power of youthfulness
+
+But those imperfections, can a
+
+This Beauty Treatment has ing results. When the direction not to harm the most delicate skin tained such widespread popularity.
+
+The Black and White Beauty preparations—a creamy Ointment just as delightful to use as the most employed. It will produce the de
+
+Before retiring you thorough warm water and Black and White cording to the directions given. You removed from the face, hands, neck with warm water and Black and the result is the tint and freshness.
+
+The power of beauty is inestimable, and happy is the woman who has that rose- tint of youthfulness in her cheeks and an unblemished complexion. But those whose skin is dark and sallow, disfigured by pimples, spots or other imperfections, can acquire that perfect complexion so much desired by the use of the
 
 This Beauty Treatment has been used by thousands with gratifying results. When the directions given are followed, it is guaranteed not to harm the most delicate skin. No other skin treatment has attained such widespread popularity in so short a time.
 
@@ -2597,34 +3044,45 @@ SOAP
 
 ---
 
-## CHORAL SOCIETY MEMBERS IN CANTATA
+What promises to be the largest gathering seen in the Quaker city in many years will be the Academy of Music meeting for Roscoe Simmons, Monday evening, May 17.
 
-"Either the Beautiful Queen," a sacred cantata which has been given by choirs and choral organizations in all parts of the country, will be given away by a selected number of singers from the Progressive Choral society of Chicago on Monday, May 31, at Abraham Lincoln Center, Oakwood boulevard and Langley avenue. Because of the popularity and standard of this cantata that is one of the reasons it has been selected. It will be given in dramatic action under the direction of Miss Magnolia N. Lowis, Chicago's best. Costuming by Rhodes Brother, lights by Tony Langston, Burt R. Campbell, one of Chicago's leading bassos, will play the part of King Alasaucer, while Mrs. Dora Lee Porter, leading young soprano, will play the part of Queen Esther, J. C. Ross, lyric tenor of Chicago, is taking the part of Haman, Miss Blanche V. Kalgier, whose singing always thrills and cl电诲s every audience she appears before, is taking the part of Zereesh. Haman's wife. All the music is under the personal direction of Prof. J. Wesley Jones, the country's most popular and efficient music conductor. Read next week's issue for more about Esther.
+This is the first time the famous orator and statesman has spoken in Philadelphia, notwithstanding that among the masses of people he has the same following he can claim among the masses everywhere. Booker T. Washington Jr. is presenting Col. Simmons to Philadelphia and announces that this will be the only speech he will make at this time.
 
-## MEN OVERPOWER JAILOR
+Indications are that Col. Simmons will be greeted by a mixed audience, his fame being as wide in one way as in another. Tickets are being sold at Davis drug store, 1837 South street, and Hopkinson, 1117 Chestnut.-Advertisement.
 
-Marshallville, Ga., May 14—Two of the five men who overpowered Jailor Smith and escaped from Ogiehorpe jail last Monday night were recaptured at Annericus, according to advises from the sheriff of Sumter county. They are Jesse Jones, who confessed in the Marshallville arson case, and Sam Brown, who overpowered the Jailor. Louis Rumph, a third prisoner, is still at large with $150 roward offered for his recapture.
+## Y, W, C, A.
 
-## Vocal Recital at St. Phillip's
+Thursday evening program suspended until after the drive. • The Kirmess given by the Girl Reserves at the Aryan Grotto Temple was a most beautiful affair. Each child showed plainly that it had had careful training. Mrs. Mame Mason Higgins, the chairman of the girls' work committee, is the author of the beautiful Kirmess, and deserves much praise for her work. • Last Sunday vesper services were under direction of the Girl Reserves. A splendid program was prepared for Mothers' Day. The vesper services will be at the regular hour next Sunday, May 16, from 5 to 6. Every one is most cordially invited to attend Thursday soclids and vespers each week. • Y. W. C. A. summer camp for girls in business and industry opens July 8d and closes Aug. 30th. You may register now. For further information call at the Indiana Avenuo Y. W. C. A. Branch, 3541 Indiana avenue. • Being minded to $1,000,000 driven Our quota is $25,000. We are depending on you to help us go over the top. It will be impossible for us to succeed unless we all work together for that end.
 
-Brooklyn, N. Y., May 14—Wilbur P. Johnson will give a vocal recital in the lecture room of St. Philip's church, Dean street, Thursday, May 13, at 8:15 o'clock. Mr. Johnson is a graduate of Syracuse University and has a baritone voice which has been carefully trained.
+UNIVERSITY GETS BUILDING
+Atlanta, Ga., May 14—Ground has been broken at Clark University for a new $100,000 building, which will be erected on an addition to the already extensive plant of the institution. The building will contain a chapel with a seating capacity of 800, quarters for the administration department and a large and splendid gymnasium.
 
-MINISTERS BACK STRIKERS
-Washington, D. C., May 14.—The Ministerial Alliance of Washington indorsed the striko of hod carriers and common laborers and pledged itself to have all pastors discourage mon in their congregations from taking the jobs left vacant by the strikers. The striko involved about 2,000.
+N
 
-ature has laid out all her tint of rose petals, plant shees, lighted it up and enlisted that can hardly be described all its beauties in the most.
+## CHAMBER OF COMMERCE LAUNCHED IN VIRGINIA
 
-The power of beauty is youthfulness in her cheeks.
+Norfolk, Va., May 14.—The formal opening of the Chamber of Commerce was decided for May 20 at a meeting here last week, at which time speeches were delivered by City Manager Chas. E. Ashburner (white), W. A. Cox, secretary of the Board of Commerce (white), and William Rich, the latter having outlined the plans of the Chamber of Commerce, which is to be operated by members of the Race.
 
-But those whose skin is reactions, can acquire that p.
+The proposed Chamber of Commerce, which will have quarters in the Attuck Theater, Church street, is to be for the purpose of expressing the wants and needs of the Race. Mr. Hank spoke of the congested schoolroom conditions that had come to his attention while on the board, and said that had there been a chamber of commerce to bring these things to the attention of the city officials they would have been corrected long before he was a member of the school board.
 
-BLACK BEAUTY Treatment has been used by thousands. When the directions given are followed the most delicate skin. No other skin tends to use as the many face creams and will produce the desired results more quickly.
+City Manager Speaks
+City Manager Ashburner promised his support to the chamber as far as possible, and said that he would be glad to receive the organization's ports of conditions in the Colored section, with requests for action desired.
 
-Beauty Treatment consists of a creamy Ointment and a pure complex of to use as the many face creams and will produce the desired results more quickly.
+Dr. D. W. Byrd spoke on what was expected of the new chamber, and said that it was generally expected that it would fail because of the Negro's inexperience in business.
 
-Refitting you thoroughly cleanses the pores and Black and White Soap. Then apply directions given. The next morning the face, hands, neck or arms and the after Black and White Soap. After the tint and freshness of youth in the comp.
+"It is the same expectation lawyers and doctors of our Race ran up against thirty years ago. Our lawyers and doctors thrived and multiplied by cooperation and hard work, and our Chamber of Commerce will survive and do a big work for our people," the spokesman said.
 
----
+The meeting was presided over by H. T. Dickoy, president of the Colored Business Men's League, and a musical program was given by the church.
+
+The help of the Norfolk Chamber of Commerce was promised the new organization by W. A. Cox, secretary of the Chamber of Commerce.
+
+STRUCK BY TRAIN
+Stephens, Ark., May 14.—Duffe Johnson, age 25, deaf and dumb, was struck and instantly killed here Friday morning, April 30, by an extra southbound freight train. Johnson was walking along the railroad track, it is said, and stepped upon the track just before the train reached him. His body was hurled about 30 feet.
+
+PLOUGH CHEMICAL CO.
+MEMPHIS,TENN.,U.S.A.
+
+1.
 
 Black and White Ointment and Soap (the Black and White Beauty Treatment) has given such universal satisfaction in the relief of complexion as well as other skin troubles, that a package should be kept handy on every dressing table.
 
@@ -2634,33 +3092,24 @@ Both Black and White Ointment and Soap are sold and guaranteed by any good drugg
 
 You can get a copy of the Black and White Birthday Book, sample of the cream and literature, if you will write to Dept. 321.
 
-PLOUGH CHEMICAL CO.
-MEMPHIS,TENN.,U.S.A.
-
-## CHAMBER OF COMMERCE LAUNCHED IN VIRGINIA
-
-Norfolk. Va., May 14.—The formal opening of the Chamber of Commerce was decided for May 20 at a meeting here last week, at which time speeches were delivered by City Manager Chas. E. Ashburner (white), W. A. Cox, secretary of the Board of Commerce (white), and William Rich, the latter having outlined the plans of the Chamber of Commerce, which is to be operated by members of the Race.
-
-The proposed Chamber of Commerce, which will have quarters in the Attuck Theater, Church street, is to be for the purpose of expressing the wants and needs of the Race. Mr. Hank Spoke of congested schoolroom conditions that had come to his attention while on the board, and said that there been a chamber of commerce to bring these things to the attention of the city officials they would have been corrected long before he was a member of the school board.
-
 ## City Manager Speaks
-
-City Manager Ashburnor promised his support to the chamber as far as possible, and said that he would be glad to receive the organization's reports of conditions in the Colored section, with requests for action desired. Dr. D. W. Byrd spoke on what was expected of the new chamber, and said that it was generally expected that it would fail because of the Negro's inexperience in business. "It is the same expectation lawyers and doctors of our Race ran up against thirty years ago. Our lawyers and doctors thrived and multiplied by cooperation and hard work, and our Chamber of Commerce will survive and do a big work for our people," the spokesman said. The meeting was presided over by H. T. Dickey, president of the Colored Business Men's League, and a musical program was given by the church. The help of the Norfolk Chamber of Commerce was promised the new organization by W. A. Cox, secretary of the Chamber of Commerce.
 
 ## STRUCK BY TRAIN
 
-Stephens, Ark, May 14.—Duffe Johnson, age 25, deaf and dumb, was struck and instantly killed hero Friday morning, April 30, by an extra southbound freight train. Johnson was walking the track the other day, and stepped upon the track just before train reached him. His body was hurled about 30 feet.
+#
 
 ## IOWA
 
-Ottumwa, Iowa, May 14.—Mrs. Greenwau has returned from a pleasant visit to Mason City. *Mr. White, assistant secretary of the N. A. A. C. P., addressed a large audience at Mt. Zion A. M. B. auditorium. The auditorium was filled to its capacity. Colored and white all the time. Rev. Carrington used it his big gift with this book for plating the Baptist church. *Messrs. L. Libbis, L. Downey, L. Curtis, H. Osborne, A. Hickea, W. Lewis, G. Williams, D. Hurt, H. Hurken, R. Lynch and E. Crutchfield compoate for club honors at William Jones' Billiard parlor, 434 East Main street, on April 23, 1920. *Mrs. Katie Moss will leave next week for St. Louis to visit school. Mr. and Mrs. Henry Green will be visiting the school. Mr. to be the guests of their aunt, Mrs. Mitgett. *Mrs. Wm. Jones of Chillcothe. Mo., will arrive in Ottumwa on Sunday for an extended visit with her husband, Wm. Jones. Dr. C. L. Geatham, hydra is having medical care of rheumism and muscular complaints.
+Ottumwa, Iowa, May 14.—Mrs. Greenup has returned from a pleasant visit to Mason City. *Mr. White, assistant secretary of the N. A. A. C. P., addressed a large audience at Mt. Zion A. M. E. Auditorium. The auditorium was filled to its capacity. Colored and white all manifested great interest. The mayor and many city officials were present. Lalph Sanders has moved into his new home in Cooper street, which he recently bought. *Mrs. Crutchfield, Mrs. Greenup has his bigly this month to raise funds for completing the Baptist church. *Messrs. L. Libbs, L. Downey, L. Curtis, H. Osborne, H. Hicks, H. Lynch, H. Lynch and E. Crutchfield of the Ottumwa Colored Billboard Club will compete for club honors at William Jones' Billboard parlor, 434 East Main street, on April 23, 1920. *Mrs. Katie Nott will visit school. *Mr. and Mrs. Henry Green will leave on Saturday night for Chillicothe, Mo., to be the guests of their aunt, Mrs. Minggett. *Mrs. Wm. Jones of Chillicothe, for an extended visit with her husband, Wm. Jones. *Dr. C. L. Cheatham, hydropath, is having much success as master of rheumatism and muscular complaints.
 
-Keokup, Iowa, May 14.—Mat Davis of Franklin Grove, IL, is visiting at home this week. *Miss Ruby C. Pettiford, reader, gave a recital at the First African Baptist church Tuesday evening, April 20. Sylvester Brown is doing Miss Emma Bowers is improving. *Mrs. A. Wilson entertained at 6 o'clock dinner Miss Pettiford, Rev. J. K. Knott and Rev. W. H. Clark and wife. *Mrs. Id Mitcham is having very good Miss Cattling and little Glen Gliskey have been reported ill. *Dr. W. H. Harper spent Sunday in Iowa City visiting his brother and sister who are attending the state university there. *Mrs. Molloy was called home at Mt. Mo., on account of the serious illness of her mother.
+Keokuk, Iowa, May 14.—Mat Davis of Franklin Grove, Ill., is visiting at home this week. * Miss Ruby C. Pattiford, M.D. is visiting with her mother, can Baptist church Tuesday evening, April 20. * Sylvester Brown is doing nicely after a very serious operation. * Miss Emma Bowers is improving. * Mrs. Eleanor Bowers is improving. * Miss Pattiford, Rev. J, K. Knott and Rev. W, I. Clark and wife. * Mrs. Id Mitchell is reported very ill. * Mrs. Macatroy, Mrs. Jattling and little Gin Grisby is hospitalized with Dr. N. M. per spent Sunday in Iowa City visiting his brother and sister who are attending the state university there. * Mrs. Molloy Soul was called home at Milburn, Mo., account of the serious illness of her mother.
 
 ## INDIANA
 
 South Bend, Ind., May 14.—The churches of South Bend were well attended throughout Sunday. * Metropolitan band filled an engagement at Eikhart with the band's organs, lyrics, and a field Fellows of that city. * Quite a number of South Bend people were in Eikhart. * Kiek Anderson is studying music in Jacksonville, Ill. * Mrs. Georgia B. Brice is ill. Sunday, May 23, the K. F. lodge at the church. * Mrs. Georgia B. Brice Zion Baptist church. They marched from the hall on main street to the church on the west side, headed by the Metropolitan band; next came the Uni-
 lion Baptist church. Members followed by automobiles loaded with women of Court Calantine, ladies' organization.
+
+SATURDAY, MAY 10, 1920
 
 ## Dr. Moreland's Son Dead
 
@@ -2668,31 +3117,46 @@ Owensboro, Ky., May 14.—Friends on Dr. Richard Moreland of 731 Center street, 
 
 ## Open Cleveland Bank
 
-Cleveland, O. May 14.—The Empir Savings and Loan Company, the first bank among our Race in this city, opened its doors to the public Saturday, May 1. The company recently purchased the property where the bank is located. The officers are: Howard E. Murrell, president; Robert K. Hedges, vice president; Dr. A. J. Whitehead, treasurer; H. S. Chaucey, secretary; A. H. Martin, counselor.
+Cleveland, O. May 14.—The Empire Savings and Loan Company, the first bank among our Race in this city, opened its doors to the public Saturday, May 1. The company recently purchased the property where the bank is located. The officers are; Howard E. Murrell, president; Robert K. Hedges, vice president; Dr. A. J. Whitehead, treasurer; H. S. Chaucey, secretary; A. H. Martin, counselor.
 
-HARADE
-FOR THE HAIR'S SAKE
+HARADE FOR THE HAIR'S SAKE
 
 Short, Ugly Hair
+
 Made long and soft by using Harade—positively a sure cure for dandruff and tatter. An antiseptic, elegantly perfumed.
+
 At all drug stores, or 216 by mail.
+
 Send stamps or coin.
 
 Agents Wanted.
+
 Write for proposition.
+
 HARADE
 MFG. CO.
+
 203-AD E. Hunter
 Atlanta, Ga.
 
 ---
+
+---
 ## Page 11
+
+SATURDAY, MAY 15. 1920
 
 ## MICHIGAN
 
-Grand Rapids, Mich., May 14—Harold Jefferson, the son of Mr. and Mrs. Thos. Jefferson, is sick. Miss Dorothy Moore is ill. Little Rita Stanford, the son of Mr. and Mrs. J. Stanford on James avenue, is improving. Mrs. Huso still remains quite ill. A Quaker tea social was given by the Willing Workers of the Messiah Boutist church on Friday evening, April 16. Mrs. G. Woodfall Mrs. Jefferson entertained on Wednesday at the home of Mrs. Jefferson in home of the hotel-boat Theloa Ford, daughter of Mr. and Mrs. J. Ford.
+Grand Rapids, Mich., May 14.—Harloud Jefferson, the son of Mr. and Mrs. Thesa. Jefferson, is sick. * Miss Dorothy Moore is ill. * Little Ross Stanford, the son of Mr. and Mrs. J. Stanford on James avenue, is improving. * Mrs. Hsuo still remains quite ill. * A Quaker tea social was given by the Willing Workers of the Messiah Bantist church on Friday evening, April 16. * Mrs. G. Woodfall and Mrs. Jefferson entertained on Wednesday, April 14, at the home of Mrs. Jefferson, former of the bride-to-be, Elsie Theola Ford, daughter of Mr. and Mrs. J. Ford.
 
-Landing, Mich., May 14—Mrs. Urlah Allen of W. and M. Mrs. Jefferson entertained on Wednesday but is somewhat improved and was out Sunday. Miss Lucille Davis, Mrs. Lott and Mrs. Maud Patten spent the week on Washinton street apart last week in Klamazao, visiting her mother, Mrs. blackwell, Mr. and Mrs. W. O. Jefferson, the husband of the baby girl, Mother and baby are reported as doing well. They are at are reporting in a very enjoyable manner last Thursday for the post week, but is improving slowly. Miss Lucille Davis continued in a very enjoyable
+Lansing, Mich., May 14—Mrs. Urlah Allen of W. Anegan street has been ill, but is somewhat improved and was out all week, when the mother Alma Leet and Mrs. Mudpattu spared the week-end in Detroit. *Mrs. Alice Gray of Washenham street spent last night at Blackwood, mother Mrs. Blackwood, Mrs. O. Thompson are the proud parents of a fine baby girl. Mother and baby are recreated in an old hospital, now crowed Hospital. *Mrs. Marshall Gray of Main street has been confined to her home for the past week, but is improving. She is now enrolled in a very enjoyable manner last Thursday evening. The following out-of-town guests were present: Misses Home and evening, Hudson of Battle Creek and Jane Edwards of Theresa Tolbert of Saginaw. *A mass meeting of the N. A. A. C. P. was held evening, and the principal minister to a crowded house. Those giving the cantata were all home talent, having been trained by Mrs. Mary Donaldson, the principal speaker was Walter F. White, national assistant secretary. *The cantata Queen Esther was given in the A. M. B. C. P. by Mrs. Edwards to a crowded house. Those giving the cantata were all home talent, having been trained by Mrs. Mary Donaldson, the principal speaker was Walter F. White, national assistant secretary. *The following persons were elected as delegates to the Sunday school convention which convenes in June 2 to 4: Mrs. Mabel Lucas, Woodold Farmer; alternates, Roscoe Woodold, Ethel Farmer. *Rev. W. E. Walker and attend the general conference, which convenes in St. Louis, Mo., May 3. *Mrs. Eugene Bea and Mrs. Arnold, who were impaired sufficient to be able to return home.
+
+[OCR timeout]
+
+[OCR timeout]
+
+Cleans the liver, kidneys, bowels and blood of impurities. Made from all natural ingredients. Package at your drugsal or by mail, to extra for postage
 
 G. E. LINDEMANN
 CHEMICAL CO.
@@ -2703,16 +3167,38 @@ Chicago, Illinois
 AFTER ALL OTHERS FAIL
 TRY ALBRIGHT'S
 WONDERFUL HAIR GROWER
-Grows hair on temple and entire head; stops itching scalp, falling hair and dandruff.
-Makes hair long, soft and silky.
-Thousands say it is best they have ever used. Agents wanted to sell this wonderful grower.
-Be a Successful Hair-Drosser
-Learn to make your own oils. I teach the complete course for $15.00. Send $10.00 and receive a large list of formulas for growers, please call.
+Grows hair on temple and entire
+head; stops itching scalp, falling hair
+and dandruff.
+Makes hair long,
+soft and silky.
+Themselves say it
+be used, they have
+used it. Agents
+wanted to sell this
+wonderful grower.
 
-PRICE LIST—Albright's Hair Grower, Co.
-Dressling, 80c; Pressing Oil, 50c; or all 3 articles, $1.85.
-Examiner, $8.50. For referral, MRS. B. E. ALBRIGHT
-3344 Wabash Av., CHICAGO, IL.
+Be a Successful
+
+1
+
+Hair-Drosser
+Learn to make
+your own oils. I
+complete
+photo course for
+$15.00. Send $10.00
+and receive a
+large list of formul-
+ers or growers,
+pleasing to contact.
+PRICE LISX—Altright's Hair Drosser, co.
+Dressing, 80c; Pressing Oil, 50c; or all 3 article
+$1.85. Exact details to reply.
+MRS. B. E. ALBRIGHT
+8344 Wabash. Av. CHICAGO. ILL.
+
+I
 
 hundreds of Refused, Respect
 Young Lads, Widows, Widows
@@ -2732,26 +3218,59 @@ Any one knowing the whereabouts of Arthur L. Robertson, who formerly lived in Ch
 
 ## DON'T TAKE DOBE
 
-EE THAT CAN?
+Vacher-Balm, applied, externally
+quickly relieves most pains. It is
+harmless, Avoid imitations. Ask your
+druggist. E. W. Vacher, Inc. New Orl-
+ans. La. Wholesale of H. L. Pride.
+4666 S. Stato St., Chicago, IL.--Advt.
 
-It contains the finest Hairdressing known to the American People. For more than twenty years it has been a household word among thousands.
+MOTHERS
+Reduce your doctor bills by keeping
+Vacher-Balm handy. It relieves pains
+and reduces back pain. Make
+Group and Catarrh. Ask your druggist.
+300 in jars or tubes. Wholesale of H.
+L. Pride, 4666 S. Stato St., Chicago.
+--Advt.
 
-POMADE LITHOLEUM is the name of this famous hairdressing. The next time you buy dressing ask for SCHNEIDER'S POMADE LITHOLEUM. It costs no more and you'll like it a whole lot better.
+Dr. Carter's Eye Remedy
+Dr. Carter's Eye Remedy. One
+month's treatment for $5. Address
+all mail to Smith Sales Agency, 32004 S.
+Stato St., Chicago. Send money
+orders.--Advt.
 
-AGENTS WANTED to handle Schneider's complete line of Toilet Preparations. Make big money Address Dept. A for Proposition to Agents.
+MARRIED WOMEN
+Make $1 or $10 weekly money and
+stay at home. Write G. C. Payne.
+706 New Jersey avenue, Kansas City.
+Kan. 15-22
+
+Almeider's Domestic Litholism
+TOWN OF HAMPTON
+1234 WEST 12TH ST.
+AT CAN?
+
+SEE THAT CAN?
+
+It contains the finest Hairdressing known to the American People. For more than twenty years it has been a household word among thousands. POMADE LITHOLEUM is the name of this famous hair-dressing. The next time you buy dressing ask for SCHNEIDER'S POMADE LITHOLEUM. It costs no more and you'll like it a whole lot better.
+
+AGENTS WANTED to handle Schneider's complete line of Toilet Preparations. Make big money Address Dept. A. for Proposition to Agents.
 
 E. D. SCHNEIDER,
 
-251 So
-Main St
+251 Sq. Main St. Memphis, Tenn.
 
-Memphis
-Tenn.
+B. D. Schneider
 
-E. D. Schneider
+A FREE SAMPLE SENT TO YOUR ADDRESS UPON REQUEST
 
+Nuga-Tone
 BUILDS RICH, RED BLOOD, STRONG, STEADY
-MERKYS, VIGOROUS MEN AND WOMEN
+NERVES, VIGOROUS MEN AND WOMEN
+
+RESULTS IN 20 DAYS OR YOUR MONEY BACK
 
 when your Mind
 stick and tired of taking
@@ -2794,9 +3313,9 @@ National Laboratory, Dept No 19 537 South Dearborn St. Chicago, IL.
 
 Guaranteed harmless, permanent and costly applied. Taught by mail or in person. Diplomas given. Agents wanted for Mine Palm's widely known toilet preparations. Write for fell particulars. Address: Dt. D. MME. PAUIN'S LABORATRIES. 3725 Indiana Ave. Cincinnati, OH 45211
 
-count of serious illness of her sister. * Roy L. Stephens of Detroit, Mich., who died last Sunday. * Messrs. Charlie Taylor and Osso Grimes left Saturday for Detroit. * The Defender and other race papers are on sale weekly at 707 W. Cascast, ida L. Ferguson, agent.
+[OCR timeout]
 
-* Niles, Mich., May 14. * Mrs. Forher of Pontiac, Mich., who has been visiting in Chicago, Ill., is spending a few days with Mr. and Mrs. John Ninthaway and Osso Grimes left last Saturday for Detroit. * T
+[OCR timeout]
 
 ## TENNESSEE
 
@@ -2805,6 +3324,8 @@ count of serious illness of her sister. * Roy L. Stephens of Detroit, Mich., who
 RESULTS IN 20
 DAYS OR YOUR
 MONEY BACK
+
+THE CHICAGO DEFENDER
 
 HARVEST BIG WHEAT CROP
 Los Angeles, Cal. May 14.—According to reports given out at the office of the Colorado Mexican Land & Development Company in Pasadena, Bldg., this city, the Colored settlers who are now farming the Santa Clara Valley in Lower California will harvest more wheat in the next sixty days than will be harvested by all of the Colored farmers in the state of California. The Santa Clara Valley, which is located about fifty miles to the north of Juana, Mexico, is now owned by the Lower California Mexican Land & Development Company. Two-thirds of the entire valley has been sold to Colored settlers from all parts of the United States. The remaining third of the valley is now being put on the market at fifty dollars ($0.00) per acre. Because of their superior farming knowledge the Colored farmers of the Santa Clara Valley have the best crops per acre to be found in the peninsula. Colored citizens and the Mexicans got an opportunity as brothers in Mexico officials have a deni- der that the Lower California Company put in many thousands of Colored settlers in the peninsula.-Advt.
@@ -2832,28 +3353,33 @@ GUARANTEED 4000 MILES
 
 Many of which are equal to new tires. Slightly worn. Strongly repaired. All Non-Skids. The only repaired tire sold with a positive guarantee. Sent subject to approval at the prices given below:
 
-Standard Tires Size Tire Tubes
-30x2 ... $ 6.95 $1.95
-30x3 $ 7.95 2.50
-32x3 $ 8.75 2.70
-37x3 ... $ 9.15 2.85
-39x4 ... $ 10.90 2.95
-39x4 ... $ 12.65 3.00
-39x4 $ 12.80 3.20
-39x4 $ 12.95 3.35
-39x4 $ 13.75 3.45
-39x4 $ 14.50 3.50
-39x4 $ 14.90 3.65
-39x5 ... $ 15.50 3.90
-39x5 ... $ 15.90 3.95
-39x5 ... $ 16.90 4.50
-36x4 ... $ 16.90 4.60
+Brand
+Tires
+Size
+Tire
+Tubes
+20x3 ½ ¾ $ 6.95 $ 1.95
+30x3 ½ ¾ 7.95 2.50
+30x3 ½ ¾ 8.75 2.70
+31x4 ¾ 9.15 2.75
+32x4 ¾ 10.90 2.85
+32x4 ¾ 10.95 2.90
+32x4 ½ ¾ 12.95 3.35
+32x4 ½ ¾ 13.75 3.45
+34x3 ½ ¾ 14.90 3.60
+35x4 ½ ¾ 14.50 3.65
+36x4 ½ ¾ 14.30 3.90
+36x4 ½ ¾ 15.00 4.05
+37x4 ½ ¾ 15.90 4.30
+36x4 ½ ¾ 16.30 4.60
 
 Tubes Listed Above Are
 All New Tubes, Ton
 Tested, Guaranteed
 
-Mail us a deposit of $100 for an amount of good faith and we will
+Mail us a deposit of $1.00 as an evidence of
+
+Tubes Listed Above Are All New Tubes, Ton Tested, Guaranteed Mail us a deposit of $100 an evidence of good faith and we will
 
 ship the tires or tubes you order Parcel Post, C.O.D. State if S. or C琳cher is wanted. If after inspection they do not meet with your entire approval, refuse them and on their return we will send back the $1.00.
 
@@ -2863,9 +3389,9 @@ Chicago, IL.
 
 # YOUR HAIR IS GROWING GRAY
 
-Don't Neglect the First Streams. Hurry and Apply Q-Ban Hair Color Restorer. Stops Dandruff and Falling Hair. Darkens Gray Hair.
+Don't Neglect the First Streaks. Hurry and Apply Q-Ban Hair Color Restorer. Stops Dandruff and Falling Hair. Darkens Gray Hair
 
-When you see the first white streak or your hair is lifeless, then apply Q-Ban Hair Color Restorer on all your hair and scalp. If your hair is tinged with gray, streaked, wispy, or your hair color restorer, Q-Ban Hair Color Restorer will easily remove the dark luster of a young girl, making your entire head of hair soft, fuzzy, long, thick and evenly dark. Q-Ban Hair Color Restorer is not a dye but a clean, liquid, as safe to handle as hair color restorer. You can easily apply it in the privacy of your own room and stop that first sign of gray so no one can tell. Get a bottle of Q-Ban Hair Color restorer from any druggist or toilet chemist. Each coat, mail orders, 75 cents. Address Q-Ban, Memphis, Team.
+When you see the first white streak or your hair in lifeless, then apply Q-Ban Hair Color Rest
 
 BY USING MADAM
 L. DEWBERRY'S
@@ -2902,22 +3428,28 @@ We are selling lots in the beautiful town of Elwood, N. J. 19 miles from the wor
 
 ## Mrs. Jennie Portillan Wanted
 
-Mrs. Jennio Portillar, mother; Mrs. Pearl Young, sister; Mrs. Bertha Walker and Miss Margaret Portillar wanted. Last heard from living at 3642 Wabash avenue, Chicago, in January, 1917. Kindly notify Mrs. Rosie Bryant, 406 Stone street, Cincinnati, Ohio.
+Mrs. Jennie Pertillar, mother; Mrs. Pearl Young, sister; Mrs. Bertha Walker and Miss Margaret Pertillar wanted. Last heard from living at 3642 Wabash avenue, Chicago, in January, 1917. Kindly notify Mrs. Rosie Bryant, 406 Stone street, Cincinnati, Ohio.
 
 KO-KO WA-NO
 
-A Brand New Hair Straightener for Real Live Men
+A Brand New Hair Straightener
+for Real Live Men
 
-QUARANTEED NOT TO TURN THE HAIR RED IS ALSO POSITIVE DANDRUFF PREVENTIVE FOUR OUNCE BOX SENT ANYWHERE IN THE U. S. A. FOR 75 CENTS PREPAID. EIGHT OUNCE BOX $1.50 BARBERS, WRITE FOR SPECIAL TERMS
+GUARANTEED NOT TO TURN THE HAIR RED
+IS ALSO POSITIVE DANDRUFF PREVENTIVE
+FOUR OUNCE BOX SENT ANYWHERE IN THE U. S. A.
+FOR 75 CENTS PREPAID. EIGHT OUNCE BOX $1.50
+BARBERS, WRITE FOR SPECIAL TERMS
 
 SEND POSTOFFICE OR EXPRESS
-
-MONEY ORDER — NO STAMPS
+MONEY ORDER -- NO STAMPS
 
 KO-KO WA-NO CHEMICAL CO.
 1089 FULTON ST., BROOKLYN, N. Y.
 
 Lift Off Corns!
+Doesn't hurt! Lift touchy corns and
+calluses right off with fingers
 
 # A Brand New Hair Straightener for Real Live Men
 
@@ -2935,9 +3467,9 @@ Doesn't hurt! Lift touchy corns and calluses right off with fingers
 
 Apply a few drops of "Freezone" upon that old, bothersome corn. Instantly that corn stops hurting. Then shortly you lift it right off, root and all, without pain or soreness.
 
-Hard corns, soft corns, corns between the toes, and the hard skin calluses on bottom of feet lift right off—no bumble!
+Hard corns, soft corns, corns between the toes, and the hard skin calluses on bottom of feet lift right off—no bumbug!
 
-Tiny bottles of "Freezone" cost but a few cents at drug stores
+Tiny bottle of "Freezone" cost but a few cents at drug stores
 
 BURN INCENSE
 THIS WAY
@@ -2948,11 +3480,11 @@ THE LUCKY STAR MFG. CO., 632 West Sixth Street, Cincinnati, Ohio.
 
 Find enclosed $1.00, for which please send me a full sized box of Lucky Stars, with directions for use.
 
-Name
+Name.....
 
-Street and No.
+Street and No.....
 
-City
+City.... State....
 
 # BURN INCENSE THIS WAY
 
@@ -2963,6 +3495,8 @@ Find enclosed $1.00, for which please send me a
 full sized box of Lucky Stars, with directions
 for use.
 
+LUCKY
+STAR
 AGENTS WANTED
 
 AGENTS WANTED ORDERS FILLED AT ONCE
@@ -2982,6 +3516,14 @@ Bell 4931 Dial 5060
 Office: 25 N. Cameron St., Harrisburg, Pa.
 Training Quarters and Flying Field
 Harrisburg Aerodrome, Poughkeepsie and Sycamore Sts.
+
+LEARN A TRADE
+AND EARN WHILE
+YOU LEARN
+
+Some of our students are making $120.00
+month while learning. We can place you
+We teach aeroplanes, operating piloting and
 
 Bome of our students are making $120,000
 month while learning. We can place you
@@ -3006,30 +3548,16 @@ I Will Make You Wise and Wealthy, Happy and Healthy
 
 If you are sick or unhappy, falling in business or unsuccessful in life, it is all your fault, and no one is to blame but yourself; because "Keys to the faith, dissertation and secret nowhere that will all any desire, remove any disease, commend your faith, and that central point in the body where health is produced and this is the secret that removes all diseases and gives perfect health. They tell of your connection with the "mechanism" and this is the secret that removes all grief, trouble, fear and failure and gives wealth, success and happiness. They cost only ten hundred (4100) dollars. If I were allowed to use a certain you would almost run over yourself rushing my order. Now think a moment. Can't you see what I want to tell you? Well, I can tell you this much: "Keys to the Kingdom" will give you a controlling power over everyone whom you come in contact, and you will prosper at everything to which place you have to return, and your order to order.
 
+PAGE ELEVEN
+
 # THE EAST INDIA HAIR GROWER
 
-WILL PRO-
-MOVE A FULL
-Growth of Hair;
-WILL
-ALSO
-RE-
-STORE THE
-STRENG-
-GHT,
-QUALITY
-WILD THE
-BEAUTY OF
-THE Hair.
-If Your Hair
-Is Dry and
-Can Try
+WILL PROMOTE A FULL GROWTH IN HAIR WILL ALSO BE THE STORE THE STRENGTH, FACILITY AND THE BEAUTY OF THE HAIR IF YOUR HAIR IS DRY and DRY Try
 
-East India
-Hair Crower
+East India Hair Grower
 
-If you are oathered with
-falling Hair, Dandruff, Bleaching Scalp, or any Hair Trouble, we want you to try a jar of Irish Indie Hair Trouver. The remedy contains medical preparations that go to the roots of the Hair, stimulate the skin, helping picture to do its work. Leave the hair soft silky, detained with a palm of a thousand flowers. The best known remedy for heavy and beautiful Black Eyebrows. It restores Gray Hair to the Natural Color. Can be used with Hot Iron for Straightening.
+requires that go to the roots of the Hake.
+The roots of the Hake leave the hair soft, silky. Perfumed with a balm of a thousand flowers. The best known remedy for heavy and beautiful hair is a mixture of water and gray hair to the natural Color. Can be used with Hot Iron for Straightening.
 
 1 Hair Grower, 1 Temple Oil, 1 Shampoo,
 1 Pressing Oil, 1 Face Cream, and Directions
@@ -3082,16 +3610,49 @@ We teach you how either by mail or person. We give Diplomas. Write up.
 W. T. McKISSICK & CO.
 P.O. BOX 102, WILMINGTON, DEL.
 
-W. T. McKISSICK & CO.
-P.O. BOX102, WILMINGTON, DEL.
-
-KUKY
+KINKY
 HAIR
-DECORIES (LIKE PICTURE)
+DECOMES (LIKE PICTURE)
 Fluffy, Soft, Silky, Long
-By—Herolin
-Using
-FORMADE HAIR DRESSING. Not slick or greasy. Highly perfumed. Strikes out the silky, silky, silky, silky, silky, silky
+By Using Herolin
+FORMADE HAIR DRESSING. Not sticky or groomed. Not greasy. Given out the Vicky-col. salonmaster enjoys fabulous hair, soft, silky, comfortable from recession. Removes dazzling pigments hiding hair.
+AT DRUG STORES BAY MAIL 25c
+AGAIN WANTED. While for sale at HEROLIN MEDICINE CO., Atlanta, Ga.
+WALKER'S
+BUSINESS COLLEGE
+-FOR COLORED-
+JACKSONVILLE
+
+Located in our own 850, FLORIDA
+600 leases. Large faculty of
+Ocean Coast and night, all year. Patches
+about hall floor of either
+school. Special correspond-
+ence demand those whose
+examiner attend in petroleum
+bent illustrated catalogue and
+terms. Portions secured for
+graduate.
+415-112419 Broad Street
+LARGEST COLORED BUSINESS
+COLLEGE IN U.S.A.
+
+WANTED! WANTED!
+
+DUDLEY'S LEATHER & CHEMICAL WORKS
+118 South Main St., Morgantown, Gla.
+
+LOOK BOYS!
+For What
+PERCILL HAW
+STRAIGHTENER 304P
+WHITE
+terror, gray buff leather
+touch, green buff leather
+neck tops, blue buff leather
+and blue buff leather.
+Mint. Percill
+3039 Michigan Ave., Chicago.
 
 PERCILL HAIR
 STANDARD HAIR HOAP
@@ -3117,56 +3678,56 @@ The college course in recreation, and community activities, was thrown open to t
 ## THE UP-REACH MAGAZINE
 
 THE UP-REACH MAGAZINE
-Snares for the Up-REACH Magazine,
-a journal for the education and social
-work, published monthly on the
-cunneses Avenue, Chicago, IL. $1.40 per
-year, per copy. The great aim of
-Magazine is to promote
-and popularize the magazine
-of the history of our people in acad-
-mies of churches and clubs. Everybody
-should know the wonderful contributions
-that the magazine makes to the civiliza-
-tions of the world in all areas of
-climates. Every teacher and social
-worker should begin a campaign in
-missions to create a widespread
-demand for the magazine. Advertisers can reach a select
-group of steady, substantial buyers
-grouping the Up-Reach. $1.00 per year,
-the money now stands everywhere. Write now to the Up-
-Reach Magazine. Willis N. Huggins,
-Editor, 4345 Vinecines avenue, Chicago,
-IL.
+Society of the Up-Reach Magazine,
+a journal of social work,
+published monthly on 4345
+cones avenue, Chicago, IL, $100 per
+copy. The great aim of the Up-Reach
+Magazine is to popularize the study and teaching
+of the history of our people in schools,
+schools and clubs. Everybody should
+know the history of the Up-Reach
+black people have undo to the civiliza-
+tions of the world in all ages and all
+ages. Every teacher and social
+worker in their communities to create
+a widespread demand for the Up-Reach
+magazine. Advertisers can reach a selec-
+tion of up to 1000 buyers by
+through the Up-Reach, $100 per
+copy. Sold on nowstands
+the copy. Write now to the Up-Reach
+Magazine, 4345 Vinceham avenue,
+Chicago, IL.
 
-New Undertaking Establishment
-One of the most modern and thoroughly
-equipped undertaking estab-lished
-a new group of patrons. They have
-recently purchased the Up-Reach
-Grove avenue. This firm goes on the
-principal that the best in none too
-might be holed in passing they are
-might-to-be a group in the city
-who have such a chance to speak
-for this new firm a liberal share
+New Understaking Establishment
+One of the most modern and
+practically equipped undertaking
+establishments has recently been opened by
+Jones, 3863 Cottage
+Grove avenue. This is the principal that the best is none too
+good for their patrons. They have
+to have their hands on the ambulance which will be at the
+Chicago public at a moderate fee.
+might he said in passing they are
+the only person in the city who have such a convoy.
+We speak for this now firm a liberal share
 of patronage believing that full service
-be given at the lowest possible
-price, day or night, and a representa-tive will call.
+costs are the best possible cost.
+Phono Doug, 4276 night, night,
+and a representative will call.
 
 Wedding Announcement
-Mr. and Mrs. A. L. Burns, 5208 Wabash,
-la. to the lowest possible day or night,
-w. Cunningham, 4740 Champlain avenue.
+Mr. and Mrs. Curna, 5208 Washah
+aveno, announce a marriage
+of their daughter Boema to John
+Cunningham, 4745 Chimpain aveno.
 Marriage to take place this summer.
 
-Marshal-Davis Nuglistus
-Miss Jessio R. Marshall of New Or-
-leana, La. was married to J. S. Davis
-Sunday, April 25, at the residence of
-Mrs. Mrs. Georganna Mitchell,
-3024 Ellis Park. Rv. J. E. Heywood
+Miss Jessie R. Marshall of New Or-
+land University, Sunday, April 25, at the residence of
+her mother, Merrigan. Merrigan Mitchell
+Park. Rev. J. E. Heywood
 officiating.
 
 ## ---
@@ -3250,10 +3811,45 @@ WIN, MANAGER, PATTI BEAUTY
 
 4723 Saint Lawrence Avenue, Ap
 
+PAGE TWELVE
+
 ## * Delegates Secure Homes
 
 From Appomatox Club
-The general convention committee appointed by President S. A. T. Watson of the Appomatox club met last week to discuss the various subcommittee appointments from the various subcommittee appointed by Chairman David B. Hawley. Because of the unusually large efforts to provide a sufficient home where visitors may be accommodated in Chicago during the convention the housing committee is making strenuous efforts to provide a su
+The general convention committee appointed by President S. A. T. Watkins of the Appomatox club met last week to discuss the various subcommittees appointed by Chairman David B. Hawley. Because of the unusually large number of homes for the accommodation of those visiting Chicago during the convention the housing committee is making strentuous efforts to provide a sufficient number of homes for the accommodation of those visiting Chicago during the convention the housing committee is compiling a list of homes where visitors may be accommodated. The committee is urging the large number of palatial homes and the hospitality of its owners, hence the committee is urging those who will be accommodated to change their convention week to send their names, addresses, number that they will be able to accommodate, together with the committee, to change their accommodation. Mitchell, chairman of the committee, Appomatox club, 3632 Grand boulevard. The committee is anxious that producing shall not be delayed, as the reasonable sum be charged the visitors. During the convention week the beautiful new clubhouse will be the residence of the committee will be established with a competent stoneographer in charge, who will serve the delegates and visitors, and probably give a reception to the delegates and visitors on Monday, June 7.
+
+Shelton-Hedrick Nuptale
+On Monday, 5th St.
+St. Mary's church, 5238 Donorh
+street, was the scene of one of the
+protestant weddings Chicago has seen
+in recent months. Ursa Snelson, daughter of the pastor,
+became the bride of Banus Crispin
+out in rainbow effect. Wedding was carried
+bridlecadeimis: Miss Irma Cheatham,
+pink organdie; Miss Amolia Kecmbli,
+counyant; Miss Ruth McGough, allon,
+Miss Ruth McGough, allon,
+Jewell, green. All were huts to match
+their dresses and carried baskets of
+their shoes. Ursa Snelson, grandmother
+Ward Snelson was matron, Malinne
+and Mrs. Blydon Snelson Lovette, sister
+of the bride, from Pittsburgh, Pa.
+The bride was a picture of joyful,
+pears from her mother, as she entered upon the arm of her
+father, gowned in Swiss taffeta and
+pink organza. Ursa Snelson, wedding
+gown, and court train, with tulle, car-
+ing a shower honour of roses and
+lilies from her mother, was best man and the groomsmen
+were Walter Coffe, Riley Thomas,
+and Norman Allison, Riley Thomas,
+who was best man. Ursa Snelson
+was assisted in performing the cor-
+edion, by Bray, Mr. and Mrs.
+Fredleck Jr. and Roy, Snelson
+many friends at 123 E. 37th street.
 
 ## Overseas Here Wade
 
@@ -3285,9 +3881,13 @@ Dave Wyatt, baseman of the Chicago Defender, has returned to the city from St. L
 
 Mrs. Sarah C. Barr, 2821 Wabash avenue, mother of the loft Dr. Elmo Dr. Mitchell, 2821 Wabash Avenue, Alderman Louis B. Anderson, has been seriously ill with an attack of pneumonia. She is being attended by Dr. Shaolai Miao Williams and is improving.
 
+ALL AROUND THE TOWN
+
 ## Wedding Announcement
 
 ## Marshal-Davis Nuntials
+
+THE CHICAGO DEFENDER
 
 ## Civil Service Examinations
 
@@ -3358,20 +3958,12 @@ Cornelius Robinson, in company with his wife, who spent a few days in the office
 
 ## Attending Conference
 
-Mrs. Irene Luckly, SCS State street, clerk of Grants' Memorial Chapel, attending the A. M. D. conference at St. Louis, Mo. St. Louis was formerly the home of Mrs. Luckly and she will meet many relatives and friends.
+Mire, Irene Lockley, SESN State ttl 1423
+attending the A. M. E. conference
+in St. Louis Mo. St. Louis was formerly
+the D.C. School of Law.
 
 Anita Patti Brown
-Lions are compounded with the same drug a doctor's prescription. Skin grows smoother and your combed and hide your face. Get "Patti's Booklet" and learn how to care for "Secret Book," how to care for your kit. Preparations for $5.00.
-
-AGENT'S OUTFIT
-to preparations, without the "Beauty PRICE LIST
-Brand.....65¢
-Form (Perfect bleach).....65¢
-Mia Powder.....65¢
-and postage for mailing.
-
-7 EMPORIUM
-Department 3, CHICAGO, ILLINOIS
 
 ## WEST SIDE NEWS
 
@@ -3379,58 +3971,27 @@ By J. Wesley Jones
 
 The Phi Beta Kappa medical school, will be the largest and best ever given. All Chicago, and especially the West Side, will be on in large numbers. The big attractions for the day will be orchestra directors, will play a saxophone role, Delaware violinist, and the monodigital winner of Chicago Musical College; Prof. Charles Elgar, dean of orchestra directors, w
 
-REAL ESTATE DEALS
-H. A. Watking is one of the most progressive real estate brokers on the south side and is making a great num
-
-ber of sales to
-clients throughout
-the city, and the
-last few days he
-has just closed
-real estate transactions with law
-offices. B. Brown of Muskegon, Oka, Lawyer
-of Chippewa, formerly of Ikeagle, Oka; Oka; Perry Phillips, Bhilisng, Akh., Hingham, Ak., Homosha City, Okla.; Dr. D. P. Fugleah, Americus, Ga., Detroit, Mich., and
-Detroit, Mich. and
-
-Detroit, Mich., and H. A. Watkins besides he has made more than 25 sales among the local residents in the city this year, which is remarkable when compared to the sales that have not been equated by any dealer on the south side this year. Mr. Watkins is a member of all the secret, fraternal and civic organizations in the city, trustee and treasurer of mother A. M. B. church, a member of the city's civic organizations and connections no doubt are responsible for his large acquaintance and business transactions in the city of Clinton, where he is on for the interest of his clients. His recent year had taxes reduced on more than 100 pieces of property without any taxation on the owners. Mr. Watkins has a large number of more than $1,400 per month and it is remarkable to know that he has the tenure and majority of all his tenants and believers in his service possible and the best consideration to all concerned, both tenants and landlords. Considering his hometown and the majority of our service that are coming into our city are making no mistake in going to him for real estate investment, he is fully equipped and qualified along his fina in the real estate business.
-
-## Donations to Provident
-
-On Friday evening, April 30, the Red Cross first aid classes under the auspices of the Red Cross first aid cla
-
-## Bailey to Preside
-
-M. T. Halley, 3638 Stato street, street president of the Alumni Association of the University of Pittsburgh to call out an urgent call to芦荟 states and former students of the institute to meet at Petersburg on the 27th of January, the annual meeting of the association and the commencement exercises. J. Thomas Newsome, graduate of the V. N. and the leading attorney of Vigilance on the address; President John M. Gandy will welcome the alumni and Mr. Halley will preside at this meeting. This is the first meeting of the meeting, and every member of the alumni is requested to be present.
-
 Prof. Huggins to Attend Nat. Assn.
 Dr. John M. Gandy, president of the National Association of Teachers in Education to the National Association of Teachers in Vocation to Prof. Willis N. Huggins, teacher of modern European history in the Chicago high schools, to address the need for its fourteenth annual session, to be held in Baltimore the latter part of July.
 Prof. Huggins will have charge of the section on "the study and teaching of Negro History," a group to be known as "The National Council of Teachers of Negro History," which will meet annually with the national commission. Prof. Huggins is also editor of "The Uprench Magazine," a journal of education and social work, which is dedicated to the promotion of the study and teaching of the history of our people.
 
-## Attends Races at Louisville
-
-Atlanta faces at Louisville
-Olive Knobble, 60 East 39th
-街, a street in Joule Jones,
-well known in nues, left the time
-to attend the Derby at Louisville, KY.
-After the Derby Mr. Knobble will
-his father at Nashville, Teum.
-
 ## Stopping at the Idlewild
 
-Mrs. Susie Sutton-Brown of the Tacafatec Players arrived in the city at wild hotel. Wild hotel. Several dimers and automobile drives have been planned for the "very popular in the" Windy City. Miss Alice Gorges is also at the Idlewild.
+Virginians to Entertain
 
-## Virginians to Entertain
+The public, as well as Virginians, are occasionally invited to attend the enterance by no Virginia Society. Wednesday evening at 12 noon, at Paley's Hall, 3638 Stuto street, Dr. W. B. Buchanan, the silver-tongued Miss from Smith, Mine, M. M. Willis and H. David Murray will take part in the program.
 
-The public, as well as Virginians, are cordially invited to attend the entertainment given by the Virginia Society, Wednesday evening, May 19, at 10:30 a.m. at the B. W. B. Buchanan, the silver tongororator; Miss Irion Smith, Mine, M. M. Milkins and H. David Murray will take part in the program.
+Mrs. Webb at Nashville, Tenn., M. Y. Webb, 4214 Wabash Avenue, is in Nashville, Tenn., at the side of her mother.
+
+Mrs. Susie Sutton-Brown of the Taytac Valley Players arrived in the city on Monday in a hotel in a wild hotel. Several dinners and a mobile drives have been planned for Mrs. Brown, who is very popular in the Whip quay. Miss Alice Gorgas is also at the idle wild.
 
 Odd Fellows' Sermon Sunday
-The Grand United Order of Odd Fellows hold their annual sermon Sunday at Quinn Chapel, A. M. E. Church. A dinner was given by the order at the People's Movement club house.
 
-Mrs. Webb at Nashville, Teen,
-Mrs. Willa F. Webb, 4214 Wabash
-avine, is in Nashville, Teen, at
-the bedside of her mother.
+The Grand United Order of the Fellows held their annual Order on Sunday at Quinn Chapel, A. M. E. Church Monday night a dance was given by the order at the People's Movement club house.
+
+ANY STYLE $348 PANTS NOW SEND NO MONEY
+
+MADE TO YOUR ORDER
 
 E make this SPECIAL OFFER this month to prove to Four Thousand more customers the
 
@@ -3471,26 +4032,66 @@ money, unless you are well pleased.
 
 Our offer will also show you how you can make a lot of money by taking orders from your relatives and neighbors. Roy Young made $7,500 that week and over $100,000 his first year. Get his own book about it, and learn how big my money can just in your square time, evenings, etc. Write today, with a kind of mind, and get complete book of 'test fashions, with free samples and full information. Send no money. Write for Free Samples Now. Address
 
-Our offer will also sh
-take orders from your
-$7.20 that week and over
-five more weeks.
-time, events, dates. Write
-and get complete book of
-mation. Send no Money.
-
-now you how you can make a lot of money by
-relatives and neighbors. Hey Young made
-$700.00 his first year. Get his own book about
-the art of handwriting in your square
-today—now while this is fresh, use
-tasteless, with free samples and full in-
-form-Write for Free Samples New. Address
-
 SHERIDAN A. BRUSEAUX, PRINCIPAL
 Walter St. Clair and Ernest Smith, Managers
 
-Providence Choir musicale, which have been and are now attracting country-wide attention on account of the most wonderful programs, large interiors and performances given by their musical patrons, will again, Sunday, present one of their programs. Judge B. Gray will issue the principal speaker. His subject is, What cerms Us Most! Poster Delaware, Pollinist, will play "Largo," from Xerox Hundefel, Prof. Chas. Elgur will play "Neaten, My God," from Trio, composed of Miss Magnolia N. Lowes, Della Banks and Priscilla Leo May, will sing "Jat Thino Eyes," from Chorus chorus, will sing "Neaten, My God," from
+REAL ESTATE DEALS
+H. A. Watking is one of the most progressive real estate brokers on the south side and is making a great num
+
+ber of sales to
+clients throughout
+the city, and the
+last few days he
+has just closed
+real estate transactions with law
+offices. B. Brown of Muskegon, Oka, Lawyer
+of Chippewa, formerly of Ikeagle, Oka; Oka; Perry Phillips, Bhilisng, Akh., Hingham, Ak., Homosha City, Okla.; Dr. D. P. Fugleah, Americus, Ga., Detroit, Mich., and
+Detroit, Mich. and
+
+[OCR timeout]
+
+## Donations to Provident
+
+On Friday evening, April 30, the Red Cross first aid classes under the auspices of the Red Cross first aid cla
+
+## Bailey to Preside
+
+M. T. Halley, 3638 Stato street, street president of the Alumni Association of the University of Pittsburgh to call out an urgent call to芦荟 states and former students of the institute to meet at Petersburg on the 27th of January, the annual meeting of the association and the commencement exercises. J. Thomas Newsome, graduate of the V. N. and the leading attorney of Vigilance on the address; President John M. Gandy will welcome the alumni and Mr. Halley will preside at this meeting. This is the first meeting of the meeting, and every member of the alumni is requested to be present.
+
+## Attends Races at Louisville
+
+Atlanta faces at Louisville
+Olive Knobble, 60 East 39th
+街, a street in Joule Jones,
+well known in nues, left the time
+to attend the Derby at Louisville, KY.
+After the Derby Mr. Knobble will
+his father at Nashville, Teum.
+
+## Virginians to Entertain
+
+The public, as well as Virginiaans, are cordially invited to attend the entertainment by the Virginia Society of the Arts. May the ballety's Hall, 3638 State Street, Dr. B. B. Buchanan, the silver-tongued orator; Miss Irona Mine, M. M. Millas and H. David Murray will take part in the program.
+
+Mrs. Webb at Nashville, Tenn,
+Mrs. Willa F. Webb, 4241 Walsh Avenue, is in Nashville, Tenn, at the bedside of her mother.
+
+```markdown
+
+```
+
+Quito 21-23-25
+129 E. 31st St.
+Chicago, Ill.
+
+[OCR timeout]
+
+[OCR timeout]
+
+Made of clear basswood lumber,
+Heavy steel covered, brass trimmed
+and glazed band and roomy top
+tray. Special price. No
+C. O. D. Name by math.
 
 Reliable Invest
 
@@ -3514,12 +4115,12 @@ experience of 25 years as mem-
 and Boston Stock Exchanges.
 offer to investors have been
 funds after careful investiga-
-gence of bonds, notes and pre-
+tion of bonds, notes and pre-
 % to 9% per annum. We
 ing any securities in which you
 er will be sent free of charge
 USTON & CO.
-ed 1895 -
+founded 1895
 
 # Reliable Investments
 
@@ -3541,20 +4142,31 @@ On sale in Chicago by William M. Huff, drugist, 4118 S. State St., Jackson & Fil
 
 WHY STARVE YOUR HAIR WHEN FOR 50 CENTS YOU CAN GET A JAR OF Percell's Hair Food
 
-INSTANT HAIR
-ERS FOR MEN
-commended by the Best Barber Shops
+OF INSTANT HAIR
+MERS FOR MEN
+
+Commanded by the Best Barber Shops
+
 Do you want your hair straight, soft
-safe, sure that a straightener that will
-yield your customers? Then use CA
+and as hard as hair? The best CLUTHA,
 will straighten the most stubborn, coarse
-straight to stay straight. Makes smooth
-Waters does not affect it. Wash the
-ax, enough to straighten 60 cpm.
-price 35c. The two together soft爽.
-masks for barbers and hairdressers buying
-Made only by
-ST. PHILADELPHIA, PA
+to stay straight. Makes smooth
+Water dresses. Wash the
+ax, enough to straighten 4 or
+as much as 35c. The two together sent
+any offers for barbers and hairdressers buying
+ax. Also only by
+
+SUTH ST., PHILADELPHIA, PA,
+BARBERS AND HAIRDRESSERS
+
+agmt. 4118 S. State St.; Harvey D. Sanders; 4730
+Davidson Bros. 39th; and Dearborn st.; L. F.
+Carson Bros. A. Mewbey, B. C. Mewbey st.; 6
+East 90th st.; I. Bryan, 18 West 90th st.;
+L. Bryan, 18 West 90th st.;
+Oxford Agents, Geo. B. Byrush, 536 Lancs
+st.; Oxford Agents, Geo. B. Byrush, 536 Lancs
 
 # CLIMAX KING of INSTANT HAIR STRAIGHTENERS FOR MEN
 
@@ -3589,12 +4201,26 @@ Illization." 85c. Albert
 Other good books worth reading.
 HAYES' BOOK STORE, 3640 STA
 
+BOOKS
+ASTROLOGY
+POSITION OF THE SCIENCE OF
+LOGY. 200 PAGES-$1.50
+Also
+Mosos, Magical Spirit-Art, Translated
+int Hebrew. 190 Pages-$1.50
+"The Black Man, Scribe of Civ-
+sic, Alberta Magnet." $1.50
+with reading. Book all money orders to
+E, 3640 STATE ST., CHICAGO, ILL.
+
 A COMPLETE EXPOSITION OF THE SCIENCE OF ASTROLOGY. 200 PAGEB- $1.50
 Also
 5th and 7th Books of Mosaic Magical Spirit-Art, Translated
 From the Ancient Hebrew. 190 PAGEB- $1.50
 Webb's famous books, "The Black Man, Father of Civilization," 86c. Alberta Magnet, $1.50.
 Brown, 1922.
+
+ALL AROUND THE TOWN
 
 The committee on national convention is making preparations for the reception and entertainment of delegates in building will be at the disposal of this committee during convention week, having accommodations can have been reserved for guest requests to the above committee, in care of Apomattox club, 3633 Grand bouloud. R. K. having accommodations for club will have reserved guest requests to the ab
 
@@ -3610,11 +4236,21 @@ The patrons of St. Mark Sunday Lycum on Sunday a mark ago were numerous in their
 
 137 S. La Salle St. Chicago. Tel. Central 8900.
 
-Quito 21-23-25
-129 E. 31st St.
-Chicago, Ill.
+```markdown
+
+```
+
+SATURDAY, MAY 15. 1920
 
 ## Little Rock Barber in City
+
+Steel Covered
+Double Locked Trunks
+32 inch at
+$13.25
+34 in. $13.75
+36 in. 14.25
+38 in. 15.25
 
 COMMERCE TRUNK CO.
 174 W. Van Buren St. Chicago
@@ -3622,6 +4258,12 @@ COMMERCE TRUNK CO.
 7 Wall Street,
 New York.
 Tel. Rector 3600.
+
+P
+
+II
+
+.
 
 ---
 ## Page 13
@@ -3635,6 +4277,8 @@ STATE ST. FURNITURE CO., Inc.
 ## Original Indian Hair Grower
 
 Is an ideal tonic, destroys microbes and completely eradicates dandruff. It restores the decaying hair roots, stops the hair from falling out, and keeps it healthful, soft and lustrous. The value of a bountiful growth of hair is being realized by women today more than ever before.
+
+BATURDAY, MAY 15. 1920
 
 ## ST. MARK'S LYCEUM
 
@@ -3667,14 +4311,63 @@ Mr. and Mrs. Benj. A. Thompson, 438 East 424 place, have returned from Louisvill
 
 Mrs. McKinney Returns From South Mrs. Inez McKinney, 3008 Indiana avenue, has returned from 110 Springs, Ark., where a six weeks' visit. Her husband, with whom "Cabaret in the Moonlight" act, was in town to see her Thursday.
 
+EXTRA PAIR OF
+PANTS
+FREE
+
+Think of it. An Extra Pair of Pants
+free with your new suit-withest
+jeans you get from us. The extra pair de-
+sults the wear-saves the money
+so you really get the
+prices of only one.
+
+We make everything
+that we sell on our website
+fine quality Valeine-
+Richert grade Laine-
+Berkshire
+We make an extra charge
+for your order.
+Triumphs or Large Sleeves,
+and prized Formal Pest and
+Dresswear.
+
+OUR NEW CATALOG is all
+about our rememberable offer-
+ments to these great Styles and large new
+prices. All the BIG CITY BIFS are also
+all the BIG CITY BIFS! Best!
+
+Punishment, Slippery, Tie, etc. It is your
+Must Have! Best Pant!
+
+Our PREZ Extra Pants Offer
+makes sure the greatest Taxing
+offer of all our customers makes it a
+work or more taking greed for our
+work or more taking greed for our
+prices. You can do the same.
+
+Write us on all information-retail
+now. Feed us on our web site on a new
+website.
+
+WRIGHT & COMPANY
+907 800 BOX 319CROSS STREET, CINCINNATI
+BROOKLYN, NY 10020
+
+
+
+ALL AROUND THE TOWN
+
 Sunday Musical Big Success
-The Sunday musical at institutional A. M. E. church, Sunday, May 9, was largely attended and highly appreciative by faculty and staff. M. E. chair sang authentica. Molk Mrs. Mine C. Simpson played a prelude. Miss Beatrice White favored the audience with a piano selection. Miss Laverda Holt, Chicago Musical college, sang a beautiful soprano solo. Poster Delawnee Holt,ologist, rendered selection Dr. Holt, music professor. The Dixie Troubadour quartet rendered selections. The extraordinary treat of the afternoon was the address of W. S. Hendricks, superintendent of the Montgomery entry office. His subject was "The Negro Woman in Business" to go forth the manner in which our team represented the president, was praised for unfiling efforts to make it a success. The next meeting is June 13, at which time the president of the Young People's Society will speak.
+The Sunday musical at Institutional A. M. E. church, Sunday, May 9, was designed for a high school audience. The Renee famous singer, South Park M. E. choir auditions and folk songs, Mrs. Mue C. Simpson played a prelude. Miss Beatrice White favored the audience with a piano selection. Miss Averda Holt, Chicago musical college, was the guest violinist. Delaware violinist, rendered selections, Dr. Do Acklen sang a bass solo. The Dixie Troubadours quartet tendered selections. The extraordinary treat of the afternoon was the address of the Montgomery entry office. His subject was "The Negro Women in Business." He set forth the manner in which our women conduct business when they are properly trained and when they are three serious faults to be found are the poor training, irregularity in attendance and the failure to be punctual. The whole program made a wonderful impression on the audience and Mr. McAlpine, the president, was praised for unilingering the audience, meeting is June 13, at which time the president of the Young People's Society will speak.
 
-Real Estate Brokers' Meeting
-The Real Estate Brokers Association will hold a special installation of officers Sunday at 3 o'clock. Our Wonderl Phillips high school, Major A. E. Patterson will introduce Charles S. Dulce, chairman. Soby by Dean Glover; remarks, Dave McDowan; president Business Men's League; instrumental solo, Miss Blanche Walter; remarks, Robert L. Mays; solo Miss Pamela Woolley; colonel Franklin A. Denson; installation of officers, S. A. T. Watkins; president Appointment Club; remarks, George W. Finlutter, president of the association. Publo invited.
+The Real Estate Brokers Association will hold its annual installation of officers Sunday at 3 o'clock p. m. at Wondell Phillips high school. Major A. E. Patterson will introduce Charles S. Duke, chairman. Solo by Dean Glover; remarks, Dave McGowan, president Business Men's League; introduction by Mary Moss, Charles Watton; remarks, Robert L. Muschholt; Miss Fumie Wise; remarks, Colonel Franklin S. A. Denison; installation of officers, S. A. T. Watkins, president Appointment Club; remarks, George W. Funitner, president of the association, Publico invited.
 
-Endorsed for Sergant-at-Arms
-Joseph S. Davis, alley and street inspector of Chicago, was indorsed by Senator McCormick in convention by Senators McCormick and at-arms one of the sorgantees-at-arms for the Republican national convention.
+Endorsed for Sergeant-at-Arms
+Joseph S. Davies, alley and street inspector of Chicago, was indorsed at the meeting by Senators McCormick and Shannon, one of the sergeants-at-arms for the Republican national convention.
 
 ## Idlewild Hotel to Be Headquarters
 
@@ -3766,48 +4459,49 @@ and 60c. Mail Orders; Postage 10c Extra
 UNFACTURED ONLY BY
 phone 4718 State St., CHICAGO, ILL.
 
+THE CHICAGO DEFENDER
+
 ## CHICAGO "Y" NEWS
 
-An enthusiastic crowd, composed of friends, parents and athletic fans, gathered at the "Y" Saturday, May 10, to witness the seventh annual demonstration of physical activities. The program consisted of mass calisthenics, informal marathons, Russian dance, Indian gymnastics, highland flag dancing, baseball and basketball, wand drill fancy diving, plunging swimming strokes and relay race. The Mothers' Club invites the public to be present Friday evening, May 14, at 7:45. O. J. Milliken, superintendent Chicago and Cook County School for boys, will deliver an address on "Delaware Boys." For those who like to work in the gymnasium Friday evening, May 14, at 7:30. At 8:30 on the same evening the Englewood Dramatic Club will render a beautiful drama entitled "Twilight." Adults are especially invited to come. * Every Friday night in community night. Moving pictures on an added feature. * Attractions meet a basketball team. * Meets Tuesday evening at 7:45. Morris Glee Club meets Wednesday at 7:45. Bible and French study classes meet a day every Thursday evening at 7 and 8 o'clock. * Every Sunday morning school lesson is discussed. You are welcome to attend. The Wabash Radio School meets a day every Tuesday evening. * Selving messages of importance. News from Mexico reaches us before the public has a chance to see it in print. * Recent arrivals: G. C. English, Los Angeles, Cal.; C. J. Smith, Los Angeles, Cal.; C. W. Smith, Lexington, Ky.; C. C. Webb, Washington, D. C.; James at Mont. Oakland, Cal.; W. C. Webb, W. C. Webb, St. Paul, Minn.; L. Simmons, Detroit, Mich.; McInn, Quilano, Wm.; King, Louisville, Ky.; H. H. Brown, Portland, Ore.; Wm. Wilson, Seattle, Wash.
+An enthusiastic crowd, composed of parents, friends and athletic fans, gathered at the "Y" Saturday, May 8, to witness the seventh annual demonstration of physical activities. The program consisted of inas cathetlemorphal marches, Russian dance, rhythmical marching, high school Indian club drill, munty art, volleyball, wand drill, fancy diving, plunging, swimming strokes and relay race. * The Mothers' Club invites the public to be present Friday evening, May 14, at 7:45. O. J. Milliken, superintendent Club, will Cook School School Boys will deliure boys, and Dequent Boys." For those who like indoor baseball a game will be played in the gymnasium Friday evening. May 14, at 7:30. At 8:30 on the same evening the Englewood Dramatic Club will render a beautiful drama entitled Twilight to come. * Every Friday night in community night. Moving pictures will be an added feature. All attractions are free. * Armour Glee Club meets Tuesday evening at 7:45. Morris Glee Club meets Wednesday at 8:30. French study classes meet every Thursday and 8 o'clock. * Every Sunday morning at 9:30 the international Sunday school lesson is discussed. You are welcome to attend. The Wahush Radio Club has obtained a license and is receiving messages of importance. News from Mexico teaches us before the international Sunday school lesson. * Recent arrivals: G. C. English, Los Angeles, Cal.; J. S. Smith, Los Angeles, Cal.; Owen Stone, Lexington, Ky.; C. C. Webb, Washington, D. C.; James L. Mont, Oakland, Cal.; L. Porter, St. Paul, Minn.; George Walker, Trotto, Mich.; Marcelle Quaranta, Cuba; Wm. King, Louisville, Ky.; H. H. Brown, Portland, Ore.; Wm. Wilson, Seattle, Wash.
 
-School Boy Hurt by Auto
-Evert Jones, 4017 Avenue avenue, a school boy, on May 6 while crossing a street. At St. Paul, Minn. a lawn avenue, was struck by an electric auto owned by Mrs. Wadell (white) and seriously injured.
+Evert Jones, 4017 Vincenten avenue, a school boy, on May 6, while crossing the boulevard at 417 street and Woodlawn avenue, was struck by an electric auto owned by Mrs. Wadell (white) and seriously injured.
 
-Mario Hill Badly Hurt
-Marie Hill, 1714 Fulton street, was struck by iliana avenue car No. 5037 on May 7. She was hurt in the back and cut over the eye. She will recover.
+Marie Hill Badly Hurt
+Murray Hill 714 Fulton street, was struck by Islander in No. 5037 on May 7. She was hurt in the back and cut over the eye. She will recover.
 
-Father Mahone is Improving
-B. V. Mahone, 34 East 33rd street, has been seriously ill, but is improving. He is the father of Miss Mahone of Walgreen's pharmacy.
+Father Mahone la improving
+B. V. Mahone, 34 East 43d street, has been seriously ill, but is improving. He is the father of Miss Mahone of Walgreen's pharmacy.
 
 Delegate to St. Louis Conference
-Sir Louis A. Knight, grand mentor of the illiana jurisdiction is attending the general conference as a lay delegate from Springfield, IL.
+Sir Louis A. Finney, chief grand mentor of the Illinois jurisdiction, is attending the general conference as a lay delegate from Springfield, IL.
 
 ## Attend General Conference
 
-Mrs. Jonnie Lewis, 246 E. 324 street; Mrs. Elliza Wilkins, 3350 Forest avenue; Mrs. Emma Venoy, 469 E. 30th street, are attending the general conference in St. Louis, Mo, and are expected to return to the city the latter part of May.
+Mrs. Jonnie Lewis, 246 E. 32d street; Mrs. Eliza Wilkins, 3350 Forest avenue; Mrs. Emma Venoy, 469 E. 30th street, are attending the general conference in St. Louis, Mo., and are expected to return to the city the latter part of May.
 
-Colaboratos Birthday
-Master Lester Walker celebrated his third birthday Saturday afternoon, May 5, with a lovely party given him by his parents, Mr. and Mrs. L. S. Walker, 14 E. 21st street. He received many beautiful presents from his little friends.
+**Colobratos Birthday**
+Master Lester Walker celebrated his third birthday Saturday afternoon, May 5, with a lovely party given him by his parents, Mr. and Mrs. L. S. Walker, 32d street. He received many beautiful presents from his little friends.
 
 "Japo" Soap Sold in Foreign Countries
-To show that the Pryor Chemical Co. is in demand and that the Chicago Defender is a great advertising medium, Mr. Pryon resolved letters last week from La Colla, Honduras, C. A., and St. Lucia, British West Indies. His Japo Wonder Soap is now being sold in the United States and in all foreign countries.
+To show that the Pryor Chemical Co. is in demand and that the Chicago Defender is a great advertising mecca, Mr. Wonder letters heat from Lea, Holloua, C. A., and St. Lucia, British West Indies. His Japo Wonder Soap is now being sold in the United States and in all foreign countries.
 
-Stringfellow to Sing
-Herbert Stringfellow, the gospel singer, will sing at the South Park M. E. church Sunday morning, May 16. He has been requested to sing "In That City" and "Mother's Religion." flow, Bryant, pastor.
+**Stringfellow to Sing**
+Herbert Stringfellow, the gospel singer, will sing at the South Park M. E. church Sunday morning, May 16. He has been requested to sing "In That City" and "Mother's Religion." Roy, Bryant, pastor.
 
-Mrs. A. W. Guilin and Miss Birdle Wyatt of 63 East 66th street, were called to Vandaïla, Mo., on account of the serious illness of their father, Z. Wyatt.
+Mrs. A. W. Guilin and Miss Birdy Wyatt of 63 East 56th street, were called to Vandalia, Mo., on account of the serious illness of their father, Z. Wyatt.
 
-Purchas New Building
-Alonzo Williams and Emma Bryan Williams have purchased a six flat building at 4549-1651 Prairie avenue.
+**Purchase New Building**
+Alonzo Wilkins and Emma Bryan Williams have purchased a six-fat building at 4343-5351 Prairie avenue.
 
 Over 50,000
-Have been benefited and thousands sults from our remedies for RHEUMATISM, BLOOD DISHEART, STOMACH AND OTHER SO-CALLED
-
+Have been benefited and thousand
+suits from our remedies for
+RHEUMATISM, BLOOD DISC
+HEART, STOMACH
+AND OTHER SO-CALLEN
 Write today,
-
-Miracle Laboratories
-
-Learn THE DEMONS ING
+Miracle Labora
 
 # Over 50,000 People
 
@@ -3817,20 +4511,21 @@ Have been benefited and thousands are daily getting miraculous results from our 
 
 The increased cost of clothes and the high cost of living is making this a golden opportunity for the use of women with $2000 in clothing and byeing husband. We are one in your same time. You need no experience, just our instructions. This is your opportunity. Don't fail to take it. Just send us your NAME and ADDRESS for full information. J. D. BELL & CO., R. 407, 145 N. CLARK ST., CHICAGO
 
-This is your opportunity. For full info
-NAME and ADDRESS that follow
-J. D. BELL & CO., R. 407
+This is your opportunity. Don't NAME and ADDRESS for full information.
+
+J. D. BELL & CO., R. 407,
 
 Universal College
 Learn our Home Study Course, a
 Facial Massage and Manicuring, tax
-formulas given to students so they m
-Glossimo, Pressing Oil, Tetter Ointment
-Pollish and Bleach. Free Organs to
-Conto, 6 boulevard, Lower Row.
-The only College that teaches us
+formulas given to students so they may
+Glossimo, Pressing Oil, Teter Ointment
+Polish and Bleaches. Use Ointments to
+Como, 6 boxes of Hair Cream. Depot
+The only College that teaches at
 Grower and become independent Beaut
-teachers. AGENTS WANTED.
+Learners. AGENT: UNTED.
+
 UNIVERSAL COLLEGE
 3427 SO. STATE ST.
 
@@ -3871,30 +4566,48 @@ Men's hair can be straightened by simply wiping a little Liquid Creolino Hair Tr
 
 ## Stringfollow to Sing
 
-One of our prominent north eden men, Robt. Weaver, 1247 Victor avenue, passed away last Friday at Lakeview hospital. He leaves a wife, daughter, son and granddaughter to mourn his loss. * Mrs. Mainie Miller, 856 Wilson avenue, was given a surprise party on Thursday visiting her mother at 1548 Wolls street. * Don't forget the date of Thursday visiting her mother at 1548 Wolls street at party at Phoebe Hoadley at 1611. A good time for all. * Alfred Kelly, 1120 Cambridge avenue, is very ill. * Among the entertainers at the North Side Social club, 1346 N.W. street, Saturday night, will be Mrs. Welcker, Mrs. Wiley and E3 Richey, Mr. and Mrs. Wilkinson, street had us their guests Mr. and Mrs. Robert Ford of Fort Worth, Ind. While they were here Mrs. Wood had many functions in their honor. * Mr. and Mrs. Merchant entertained Miss Jane in New York. Seymour Miller gave us dinner at 1346 N.W. street the residence of his sister, Mrs. Margaret Brown. Many presents were received. * Mrs. Mugill, who has been ill for quite a while, has been operated on and is doing nicely. She is in olden hospital. * Mr. and Mrs. Huron will have lunch entertained Saturday evening. Mr. and Mrs. Wick. Hecks and Mrs. Brooks and sons, Charles and Jimmie Brooks. * Miss Molvina Smith was married last Thursday evening. Mrs. Hattie Winston was maid of honor.
+A
+
+WASHINGTON
+
+One of our prominent north aldeen man. Rob. Wenner, 1247 Victor avenue, passed away last Friday at Lakeview hospital. He leaves a wife, daughter, son and granddaughter to mourn his loss. *Mrs. Manielle Miller, 856 Wilson avenue, was given a surprise party Thursday visiting her mother at 1548 N. Wollsthal street. Don't forget the date of Thursday visiting her sister, Sidie Club club, she walst party at Phoebe Wood of Seligstreet, Mr. 31. A good time for all. *Alfred Kelly, 1120 Cambridge avenue, is very ill. Among the entertainers at the North Side Club club, 1346 N. Wollsthal, Saturday night, will be Mrs. Welcker, Saturday night, will be Mrs. Ewald, and Earl Schley, Mr. and Mrs. W.P. Wood of Seligstreet, had as their guests Mr. and Mrs. Robert Ford of Fort Worth, Ind. While they were here Mrs. Wood had many functions in their honor. *Mr. and Mrs. Merchant entertained Miss Woolson,ork, Geymour Miller gave a surprise party, and we wore the residence of his sister, Mrs. Margaret Brown. Many presents were received. *Mrs. Mugill, who has been ill for quite a while, has been operated on and is doing nicely. She is in Henry Winston hospital. *Mr. and Mrs. entered Saturday evening Mr. and Mrs. Wm. Hicks and Mrs. Brooks and sons, Charles and Jimmie Brooks. *Miss Molvina Smith was married last Thursday evening. Mrs. Hattie Winston was mald of honor.
 
 CIVIL SERVICE POSITIONS
+(Not furnished by Ald. R. R. Jackson.)
 
-(List furnished by Ald. R. R. Jackson.)
+The civil service commission of the city of Chicago will hold the following examinations in its examination room, 1006 City Hall, at 9 a.m. The committee will right under the subjects special subject subject or experience, or all of them, to impose oral tests:
 
-The civil service commission of the city of Chicago will hold the following examinations in its examination room, 1006 City Hall, at 9 a.m. The combsons receive the right under the special subject, duties or experience, or all of them, to impose oral tests:
-
-Carpenter, class K. Grade II.
+Carpenter, class K, Grado II.
 Original, union scale, May 15, 1920.
 Scope—Special subject 5, experience 3, physical test 2.
-Carpenter, class K. Grade II.
-Original, union scale, May 15, 1920.
+Scope—passive class K, grado II.
+Original, 11.690, May 17, 1920.
 Scope—Special subject 5, experience 3, physical test 2.
 
 Cost analyst, class B. grade I.
 
-Original, $1,800,000, May 18, 1920.
+grade
+Original, $1,800-2,400, May 15, 1920.
 Scope—Special subject 4, educational (arithmetic 2), 2, experience 3, report 1.
 Motor truck driver, class K, grade II.
 Original, union scale, May 19, 1920.
-Scope—Special
+Scope—Special su
+
+Jumps Off Truck; Badly Hurt
+Harold Wilkins, 850 Vincent avenue,
+age 13, while riding on the back of
+an automobile, jumping off was
+struck by a street car. He was badly
+brushed about the back and head.
+
+Taken to the County Hospital
+Jeanette Wilburn, 3714 Indiana avenue,
+was taken to the County Hospital
+May 7 seriously ill with pneumonia.
 
 5 W. Van Buren St. Chicago
+
+us
 
 # HOSIERY
 
@@ -3912,25 +4625,21 @@ PATTI'S BEAUTY EMPORIUM
 ## Dr. Offord to Visit
 
 Home After Long Absence
-Dr. A. J. Offord, 624 Eulah 374th street,
-a well known basso of the great Bethel
+Dr. A. J. Offord, 824 East 37th street,
+a well known bassist of the great Betteh
 Choir, will leave the city Sunday morning
 with the choir on their trip to the
 general conference in St. Louis, after
 which he will visit a few days with
 his relatives and friends in his home
-town. Pine Bluff, Ark., and will re-
-turn to Chicago Tuesday, May 25. Dr.
-Offord has not visited his homo in 15
-years, since which time he has experi-
-enced a most eventful career, culminating in his becoming one of Chicago's most successful young physicians.
+town, Pine Bluff, Ark., and will re-
 
-John R. Trett Dangerously Ill
-John R. Trett, one of the boys who
-was known for his big-heartedness and
-popular with all who knew him, is
-dangerously ill at Oak Forest Home,
-where he has been for several weeks.
+Dr. A. J. Offord
+
+turn to Chicago Tuesday, May 25. Dr. Offord has not visited his home in 15 years, since which time he has experienced a most excellent career, culminating with becoming one of Chicago's most successful young physicians.
+
+John R. Trott Dangerously III
+John R. Trott, one of the boys who will be for the first time caredless and popular with all who dangerously ill at Oak Forest Home, where he has been for several weeks.
 
 ## Bight Riba Fractured
 
@@ -3955,41 +4664,46 @@ Mrs. Wm. Bowden, wife of Dr. Bowden, the Slat drug store, improving at the Post 
 
 ## Hust Getting Off Street Gar
 
-Virgie Hutcherson, age 17, who resides at 3811 South State street, while getting off a north-bound State street car No. 3978, badly sprained her ankle last Friday.
+Virgie Hutcherson, age 17, who resides at 3811 South State street, while getting off a north-bound State street car No. 5978, badly sprained her ankle last Friday.
 
-HOSPITAL OF QUALITY AT AT THE
+HOSI
+OF QUALITY AT AT
 
-All Pressioned,
-Pure Top, All Pure S on White Italian Hose, Pure Only - Pure ered Instep, Bl'k on White, White
+THE
+All Pr
+ioned,
+Pure
+Top, All
+Pure S
+on Whi
+Italian
+Hose, I
+Pure
+Only -
 
+ered Instep, Blk on White, White
 ALL GOODS SENT
-
 USE POST OFFICE M
-
 ALL OUT OF TOWN ORG
-
-PICKFORE
-
+PICKFO
 112 E. 35T
-
-TELEPHONES—DOUGLAS 3445
+TELEPHONES—DOUGLAS 8445
 AUTO. 74-190
-
 CHARLES S
 FUNERAL
 FINEST EQUIPPE
 ESTABLISHMENT
-
 3315-17 State Street
 
 AUGUST GUEST
-EXPERT OF Ladies' and C
+EXPERT C
+of Ladles' and C
 RUGS, CARPETS
-
 OFFICE 316-18 EAST
-
 AUTO SERVICE,
 WE OWN AND OPERA
+
+ALL AROUND THE TOWN
 
 ## DIOGENES II.
 
@@ -4009,45 +4723,42 @@ Why burn your brain and hair with strong chemicals when you can get the World's 
 
 ## Rheumatism
 
-Rheumatism sufferers highly recommend Nu-Ru-Hu-Lin for curing the worst kind of rheumatism; 30 days' supply, $1.LO. Money back if unsatisfactory. Our representative will call. Nu-Ru-Hu-Lin Co., 4638 Champlain Ave. Ken. 10672.-Advt.
-
-South Side Investment Co. Moves
-The South Side Investment Co. has moved from the Angelus building to 3508 Grand boulevard. Arthur Griffin is no longer with the South Side Investment Co., real estate firm. If you want to buy do not fail to see us and look over our wonderful bargains before you buy.-Advt.
+Rheumatism sufferers highly recommend Nu-Rhu-Lu for curing the worst kind of rheumatism; 30 days' supply; a neck neck pack; unsatisfactory. Our representative can help Nu-Rhu-Lu Co. 4538 Champlain Ave. Ken. 10672—Advt.
+South Side Investment Co. Moves The South Side Investment Co. has moved from the Angelus building to 3508 Grand boulevard. J. Arthur Griffin is no longer with the South Side Investment Co., real estate firm. If you find him and fail to see us and look over our wonderful bargains before you buy. Advt.
 
 IERY
-ATTractive PRICES
-USE PRICES INCLUDE TAXES:
-Pure Silk, Full Fash-
-All Colors___ $5.30
+ATTRACTIVE PRICES
+THESE PRICES INCLUDE TAXES:
+Puro Silk, Full Fash-
+tion, All Colors_____
 Thread Silk Lislo
-All Colors___ $3.65
+All Colors_____
 Silk Clock Hose,Black
-White & White on Black ___ $4.15
-All Pure Silk Lace
-Black and Navy___ $7.50
-Thread Silk, Black ___ $6.40
+White & White on Black
+Ail Puro Silk Lace
+Black and Navy_____
+Thread Silk, Black
 Silk Hose, Embroid-
-ation on BL'k or All BL'k ___ $4.15
-POSTAGE PREPAID
+白色 on Bl'k or All Bl'k
+ET POSTAGE PREPAID
 MONEY ORDERS ONLY
 ORDERS PROMPTLY FILLED
-
 RD SHOP
-EIGHT STREET
+57TH STREET
 
 DAY AND NIGHT
 SERVICE
 
 S. JACKSON
-DIRECTOR
-
-CD UNDERTAKING
+M. DIRECTOR
+PED UNDERTAKING
 ENT IN AMERICA
-
 CHICAGO, ILLINOIS
 
-ANTHER & SON
+ENTHER & SON
 CLEANERS
+
+PAGE THIRTEEN
 
 ## WATCH YOUR LIVER!
 
@@ -4062,9 +4773,6 @@ you please write Hox x1, Chicago, Defense
 # "Getting Ahead"
 
 How Twenty-five Dollars Per Month, Saved, Grew Into Ten Thousand Dollars in Ten Years.
-Kitelb & Company, investment banker and bond specialist, such as the Standard Oil, Illinois oil company, United Steel State, attractive booklet entitled "GUTTING TO HOW THAT TELLS a true story of how Jeb Bush systematically investing in hi-grade companies," Kitelb & Company will be pleased to announce Money knows no color or creed. Every money dollar looks the same when it is put in the bank. The differences in color sort and a Savings Account cheeky and by investing wisely your money can grow. The bank pays it per coat, while the bank pays it per coat.
-
-How Twenty-five Dollars Per Month, Saved, Grew Into Ten Thousand Dollars in Ten Years.
 Kielbel & Company, investment banker, and bondy, such as the Standard Oil, Ullman Company, United States Steel, Ullman Company, United States Steel, attractive booklet entitled "GUTTING THIS," which tells a true story of how Peter Kielbel invested in systematic investing in hip-breaker stocks. This, Kielbel & Company will grade Money knows no credit or creed. Every man's dollar looks the same when he invests by investing whibly your money can earn from 5 to S per cent, while the It will pay you to know the Kielbel Systematic Savings Plan, which gables the Standard Oil, Fullman Company, United States Steel, etc., on an easy pay you big returns and are perfectly safe. No many of the faces are taking advantage, plan, and one of our young men, Tranklin V. Rabb, has been a blue taly for a foray of the took, "GUTTING AHEAD."
 
 FRANKLIN V. BABB
@@ -4077,11 +4785,9 @@ TELLFONE MARKETC 718
 
 # ARMY SHOES
 
-At the close of the war the government had over 200,000 pairs of genuine Russet Upholstery Gear. The shoes are needed slight repairs. We bought these shoes and are repairing them with Oak Leather, making a show that is crucial in value to shoes costing $12.00 to $15.00; our price, $2.00.
+At the close of the war the government had over 200,000 pairs of genuine Russet Upstate Charming dresses needed slight repairs. We bought these shoes and age repairing them with Oak Leather, making a shoes that is crucial in value to shoes coating $12.00 to $15.00; our price, $2.00.
 
-$2.90
-
-Also several thousand pairs men's business and dress required shoes at $2.90 and ladies' at $2.00. Shoes that are really valuable to men $10.00. All mail orders must include $1.00 with order, balance on delivery.
+Also several thousand pairs men's business and dress repaired shoes at $2.80 and ladies' at $2.00. Shoes that are really worth $4.00 to $10.00. All mail orders must include $1.00 with order, balance on delivery.
 
 Satisfaction positively guaranteed. For city trade open until 7:30 p. m.
 
@@ -4090,46 +4796,54 @@ KINGSLEY'S SHOE SHOP
 
 1000 AGENTS WANTED
 TO LEARN MME, NEWELL'S SYSTEM "JECKY" HAIR GROWING
-
 POSITIVELY GROWS HAIR
 
 We teach by mail or personal instructions all branches of beauty culture. Diploma given. Send stamp for particulars.
 
-MME, NEWELL
+MME.
+NEWELL
 Dept. A
-Jecky College
-4743 S. State St., Chicago, Ill.
-Solids with glits. We manufacture jecky hair and silk dresses. Complete 8 sweats' treatments. Great Grower. $2.20 a box of Jecky hair on bottle toiletry. Blond Alice. 100c Mme. Newville. $2.00 a box of 100c Mme. Newville. $2.75 a box for sample of Pomegranate liquid face powder.
+Jacky College
+4743 S. State St. Chicago, Ill.
+Sold by drug factory. Jacky hair and toilet personal hygiene. A "creek" treatment. Jacky hair Groomer. $2.50. queen of love. New Yorkeno bottle of tonic soap. Blessings. 100.00. Newville, co., N.Y.
+$3.75. Send the manhattan of Ponce de Leon liqued face powder.
 
 BIG SALE ON
-Ladies' Custom Made Ready-to-Wear Suits and Dresses
+Ladies' Custom
+Made Ready-to-
+Wear Suits and
+Dresses
 All styles and colors
-$50-reduced to $32.00
-$65-reduced to $37.50
+$60—reduced to $32.60
+$60—reduced to $37.00
 Other great bargains
-
-The 8 Big Tailors
-Fashion and seating advice. Ull and working up groomed.
+The 8
+Big Tailors
+Fabrics and goods available
+to order. Upcycled
+fabrics go stocked.
 358 E. 35th St.
 Near Grand Blvd.
 
 BOOK AGENTS' OPPORTUNITY!
 
-FIRSTSTEPS
-
+FIRST STEPS
 —AND—
 Nursery Rhymes
-Heralding the Dawn of the New Order
-
+Heralding the
+Dawn of the New
+Order
 ILLUSTRATED
-The First and the Only COLORED Child Book
-
-Should Be In Every Home Where Mother Loves Dwells
+The First and the
+Only COLORED
+Child Book
+Should Be In Every Home Where
+Mother Love Dwells
 100,000 copies will be sold this year
-
 AGENTS
-Send $1.00 and we will forward book and instructions.
-
+Send $1.00 and we will forward
+book and instructions.
+Address the
 Colored Child's Book Pub. Co.
 4700 State St.
 Chicago, Ill.
@@ -4137,9 +4851,23 @@ Chicago, Ill.
 ---
 ## Page 14
 
-Grand Chain, Hl. May 14.—The Misses Hazel Anderson and Thema Young of Levings, pupils of Carter B. H. Ransom, were guests of him and Mrs. Ransom, were guests of him and Mrs. Mrs. Dolphin Scott of Chicago accompanied by her sister, Mrs. Blanche Duplum of Calro, were the guests of their grandmother, Mrs. E. V. Howard, and family from Saturday morning until Saturday evening. Their family enjoyed a rooftop with Ebene, which was quite a joy to Mother Howard. Carter B. H. Ransom, being summoned on the grand jury, spent Monday and Tuesday of last week in Mound City, and while there was a need of Mother Marina Duplum. It is notosed abroad quietly and noted in the paper that licenses were issued last week for the marriage of Eddie Young, who was recently elected school director over Charlie Herdgeon and Miss Jelle Sharp, the teacher of Forest View school for the past session, Norvertholess, but it a fact, Miss Sharp went back to her home in East St. Louis last week after the close of her school. Mrs. Mary M. Ransom, teacher of Dundalk school, will have her closing next the 7th inst., by having dinner on the grounds at noon and a literary program concluded with an entertainment of refreshments. Mrs. Jenelle Alto went to Calro on business last week.
+PRAIRIE ST
 
-Duplum, Hl. May 14.—Mrs. Maud Seymour left for home in Detroit, Mich. Friday. Mrs. Belle Smith was buried Tuesday, May 4. Henry Brown of Colpa is visiting here. A large number of pupils received the picture of Mr. Ebeneo Simmons in Carbondale Thursday night. Mr. and Mrs. Matthew Woods left for Springfield, Il. Saturday. Mrs. Olah Jackson and daughter Thelma spent Thursday with Mrs. Desde Turner. Mrs. Millen Meredith is paying with appendicitis. Ed. Goodgain spent several days in St. Louis on business. Willo Harris of Springfield passed through here on route to Marlon. Mrs. Nellie Holden has opened a cafe at the real-
+Grand Chain, III., May 14.—The Misses Hazel Anderson and Anderson, Young of Levings, pupils of Carter B. H. Ransom, were guests of him and Mrs. Chicago accompanied by her sister, Mrs. Blanche Dunlap of Caloop, were the guests of their grandmother, Mrs. E. V. Howard, and family from Somers City boarding and I. I. boarding, family enjoyed a good time with them, which was quite a joy to Mother Howard.  
+* Carter B. H. Ransom, being summoned on the grand jury, spent Monday and Tuesday the week in Mount City, and while there was guest of Mother Maria Dawson. * It is notised abroad quietly and noted in the paper that licenses were issued last week for the marriage of Eddie Young, who was secondly appointed to the position of Charlie Henderson, and Miss Julia Sharp, the teacher of Forest View school for the past session. Nevertheless, but it a fact, Miss Sharp went back to her home close of her school. * Mrs. Mary M. Ransom, teacher of Dunbar school here, will have her closing next Friday, the 7th inst., by having dinner on the grounds with an entertainment of refreshments.  
+* Mrs. Jenile Alto went to Caloop on business last week.
+
+Duquincy, Hl. May 14—Mrs. Maud Seymore left for home in Detroit, Mich. Friday. * Mrs. Belle Smith was buried Tuesday, May 4. * Henry Brown of Colpia people attended the lecture of Mr. Roscoe Simmons in Carbondale Thursday night. * Mr. and Mrs. Matthew Woods left for Springfield, Hl. Saturday. * Mrs. Olha Jackson and Sister Jennifer turn spent Miss Lillian Meridith is very ill with appendicitis. * Ed. Goodgain spent several days in St. Louis on business. * Walt Lorris of Springfield pays here. * Mrs. Nelle Bolden has opened a cafe at the rest-
+
+The
+
+If
+
+Prescrip
+
+C-2
+
+40% AL
 
 There's I
 
@@ -4156,10 +4884,6 @@ C-2223
 40% ALCOHOL
 
 # There's Danger Ahead If You Have Bad Blood
-
-# There is Danger Ahead
-
-# If You Have Bad Blood
 
 RHEUMATISM
 Gout, Sciatica, Lumbago,
@@ -4180,10 +4904,6 @@ THE C-2223
 Laboratory
 MEMPHIS, TENN.
 
-PASSAGGER
-2223
-LIMER CELL
-
 Price $1.50
 
 2223 Liver Pills are prepared and especially recommended for use in connection with liquid Prescription C.2223. One or two pills are to be taken before beginning the treatment and as often as it is necessary to keep the liver active and the bowels open. This splendid pill will also be found of great value in other troubles caused by contipation, such as headache, biliouaness, sour stomach etc. A 25c package lasts a long time.
@@ -4196,116 +4916,145 @@ Price $1.50
 
 ```
 
-dence of her mother, Mrs. Nettle Bennett, South Walnut street. *Mrs. John Rosa was taken to Pleckneyville Monday and was operated on. Mrs. Rosa is documented by Joseph Moore and Miss Blair Powers returned from Manhattan. *Robert Berkly left Tuesday night for Knoxville, Tennessee, where he will attend the A. M. E. conference. *The Old Fellows and Household of Ruth of Dewmaine held their sermon here with the lodge May 9.
+PAGE 4OURTEEN
 
-Joliet, Ill., May 14. **Knight preached for the Odd Fellows' annual thanksgiving services which were held at Masonic Temple last Sunday. *As B. Butler was a attending A. M. E. conference of old members, a program rendered at Brown chapel. A. M. E. church. *Knight of Chicago occupied Rev. Mason's church at Mt. Olivet Baptist church *David Lee and Charles C. Burch open a few hours in John. *Mrs. C. Burch is visiting days of in Chicago. *Mrs. 19. Posey is in a Chicago visitor. *Rev. S. J. Williams and family are improving. *Mrs. Georgia Brown is seriously ill after having a paralytic stroke. *Mrs. B. Johnson and Tremble were in Chicago on business.
+dence of her mother, Mrs. Nettle Bennett, South Walnut street. *M.*. Mrs. John Rosa was taken to Pleuckeville Monday night and brought home. Mrs. Rosa is dying nearby. Mrs. Rose Moor and Miss Blancho Powers returned from Atlanta, ta. *M.* Robert Berkley left Tuesday night for Knoxville, Tenn., where he will attend a Thanksgiving services which were held at Masonic Temple last Sunday. *A.* Rev. D. B. Butler was attending A. M. E. conference, a mothers day program was held at church. *R.* Knight of Chicago occupied Rev. Mason's pulpit at M. Olivet Baptist church *D.* David Lee and Charles Lowe open a few hours in Joltt. *M.* C. S. Posey was in days in Chicago. *R.* Posey is in a Chicago visitor. *R.* Rev. S. J. Williams and family are improving. *M.* Georgia has been having a paralytic stroke. *M.* B. Johnson and Mrs. D. Tremble were in Chicago on business.
 
-Mound City, Ill., May 14. **Carrie McMurry, 12 years old, died Thursday and was buried Sunday from the First Free Church, Jesse Jackson, and charge of the funeral. *Mrs. Willingham of St. Louis is visiting her mother, Mrs. Willingham on North Main street. *Miss Charlie Fowler of Champaign, Ill., and Jesse L. Grant of Jacksonville, Ill., was buried Mrs. Allen last week. *The Silver Church is home of Mrs. A. L. Rice Tuesday and arranged for a program at the Tahirin Hall May 17. *Word has been received here of the marriage of Otis Overall to hod Houston in Indianapolis. Mrs. Nancy Bickman returned from Atlanta on the sck list. *The program rendered by the Missionary Baptist church was
+Mound City, Ill., May 14—Carrie McMurry, 12 years old, died Thursday and was buried Sunday from the First Free Baptist church. Jas. Chenault had died on funeral at the Mount Bowie Willingham of St. Louis in visiting her mother, Mrs. Willingham on North Main street. * Miss Charlo Fowler of Champagn, Ill., and Jessie L. Grant of Jackson, Tennessee, visited Mrs. Willlo Allen last week. * Mrs. Willlo was home of Mrs. A. L. Rice Tuesday and arranged for a program at the Taborin hall May 17. * Word has been received here of the marriage of Otis Overall to Prod. William in Indianapolis. Mrs. William in Indianapolis. Mrs. William on the sick list. * The program rendered by the Missionary Baptist church was
+
+THE CHICAGO DEFENDER
 
 The pleasures of life are denied those who suffer the misery of aching bones, inflamed joints and other painful troubles caused by impure or bad blood. Work is almost impossible because aside from the pain, these conditions sap the vitality out of one. In the treatment of diseases of the bones, rheumatism, chronic catarrh and similar troubles, areal blood purifier is needed. There is none better than Prescription C-2223. This liquid home treatment for diseases caused by impure blood was tested and tried for years by the originator-a successful physician. It gave so much relief to his patients and their friends, the demand necessitated the manufacture of this preparation in a large way. Thousands and thousands of men and women who were miserable and discouraged, whose bodies were racked with pain, have found blessed relief in this splendid prescription treatment. If your bones ache, your joints and muscles swell and pain you, you have reason to believe that your blood is impure, get you a bottle of this guaranteed home treatment known as
+
+Prescription C-22223
 
 This concentrated preparation contains no morphine, cocaine, chloral, strychnine or other habit forming or dangerous drugs. It is to be taken in small doses three times a day in connection with 2223 Liver Pills. In some cases one large bottle is sufficient to give relief, but where the trouble is of long standing and other remedies have failed, several bottles are necessary to produce the desired results. Prescription C-2223 and 2223 Liver Pills are sold by most good drug stores, but if your local dealer will not supply you, send $1.75 to us for one package of each. Sample of the Pills, literature and 1920 Almanac on receipt of name.
 
 If, after taking two $1.50 bottles Prescription C-2223 according to directions given in leaflet found around the bottle, the patient is not satisfied, with the relief which has been obtained, the $3.00 paid for the two bottles will be refunded.
 
-quite a success. Rev. C. W., Cole, pastor. * Mrs. Cornelius Williams and children are visiting her husband in Hellville. * H. Dessele Wilson has returned home on Pearl street. * Napoleon Hurd, Santa Clark and James Weatherford have gone to Cleveland, Ohio. * Mr. and Mrs. Clodius Webb will soon be in their new home on Pearl street. * Na
+[OCR timeout]
+
+Murphyshoro, Il, May 14.—The Eastern Star mourns the loss of two members. They are Mrs. Lucinda Woods and Sally Loering. * The funeral of Mrs. Sarah Hull, who dropped dead in her hallway Friday, was held at Free Baptist church. * Mrs. Sarah Hull, who called here by the death of her mother, Mrs. Sarah Hull. * John White, Harry
 
 LABORATORY Memphis, Tenn.
 
-Life are denied those who suffer joints and other painful ailments. Work is almost impossible, these conditions sap the vital functions of the bones, rheumatic diseases, areal blood purifier is prescribed C-2223. The cause is impure blood was a major contributor to Mrs. Marlyle Young May 4. Mrs. Rosa Parker won first prize and Mrs. Young the booby. Mrs. Nannie Taylor was a guest of the club and made an interesting talk for a societal hour after a lingering illness. Nurse services were held Saturday from Mt. Emory Baptist church. Mrs. Home was a member of Hicklin Tabernacle and is survived by her sister, Mrs. Malone, with a large crowd. Mrs. Evan Bray was in a pettifying manner. A very successful concert was given Thursday evening at Mt. Emory Baptist church, under the auspices of Mrs. Hattie Mosley. The program was good and was enjoyed by women who were missed. Muscles swell and pain you, your blood is impure, get your treatment known as prescribed C-2223.
+Brooks and Hee Forest arrived home from Wisconsin to visit their families. * The entertainment given by Mrs. Matthia Vallee will be the benefit of the church Lincoln which will be held by Lorene Thompson is able to be up. * John Martin and Mies Vanroe Prutt were quietly married last Thursday. * Misa Aida married first for days to visit her mother and sisters. * Mrs. Manche Cross left for St. Louis Monday to visit friends indelicately. * Gert Moor and Daya Hull returned to our family united. * Mrs. Lizzie Dloy will leave Monday for St. Louis for a visit with her sister, Mrs. Mary Curtis.
 
-Preparation contains no more than habit forming or dangerous times three times a day in connection with one large bottle is sufficient of long standing and other necessary to produce the desired C-2223 Liver Pills are sold by the dealer will not supply you, see Sample of the Pills, like name.
+Jacksonville, Ill., May 14.—The T. A. Whist Club met with Mrs. Myrtle Young May 4. Mrs. Rosa Parker won first prize and Mrs. Young the booby. Mrs. Nannie Taylor was a guest of the club and made the club adoured to meet May 18 with Mrs. Mary Banks. * Mrs. Pearl Short is a patient at the Home Sanitarium, where she submitted to a serious operation. After the operation she after a lingering illness. * Purple services were held Saturday from Mt. Emory Baptist church. Mrs. House was a member of Hicklin Tabernacle and is surged by the pastor, Mrs. Malone, with whom she met in long illness. * Mrs. Tato and Mrs. Wright expected to spend some time in St. Louis this week attending the general conference. Chas. Jackson and Wm. Parrish, the program geo. group were enjoyed by the crowd. Mrs Evie. * recovering from her recent illness. The annual sermon of the Household of Ruth and the G. H. U. of O. F. was preached Sunday at jethrel church by Roy. J. H. Chase. The next meeting will be entertained by Mrs. Aaron Swar Thursday evening. After the transaction of business the hostess served excellent refreshments. The next meeting will be first Thursday in June. * Mr. Lloyd Chicago, state representative, was in the city Saturday on his way to Springfield
+
+Life are denied those who suffer
+need joints and other painful trous
+ed. Work is almost impossible
+these conditions sap the vitality of
+releases of the bones, rheumatism
+ables, a real blood purifier is need
+Prescription C-2223. This l
+raused by impure blood was teste
+rator-a successful physician. It gai
+d their friends, the demand r
+preparation in a large way.
+and women who were miserable
+s were racked with pain, have
+and prescription treatment. If
+muscles swell and pain you, you
+or blood is impure, get you a b
+ement known as
+
+Description
+22223
+
+preparation contains no morphine,
+other habit forming or dangerous
+uses three times a day in connection
+uses one large bottle is sufficient t
+s of long standing and other re
+necessary to produce the desired
+22223 Liver Pills are sold by most
+dealer will not supply you, send 2
+. Sample of the Pills, literature
+name.
 
 ## GUARANTEE
 
-making two $1.50 bottles Prescrip ing to directions given in leaflet tle, the patient is not satisfied, has been obtained, the $3.00 pa will be refunded.
+making two $1.50 bottles Prescription going to directions given in leaflet found tle, the patient is not satisfied, with has been obtained, the $3.00 paid for will be refunded.
 
-The
+The C-22223
 
-C-2223
+LABORATORY
 
-LABORATO
+Memphis
 
-to attend the state convention which convened there Monday. * Mrs. Lula Bonaparte of Indianaapolis is in the city, called here by the illness of Mrs. Pearl Short. * Mrs. Sherman Spencer received land and of the birth of her brother, Manuel Richmond of Oakland, Cal.
+to attend the state convention which convened there Monday. * Mrs. Laura Dombarpole of Indianapolis is in the city, hired here by the illness of Mrs. Pearl Sheard, died here on Monday. * Mrs. Joan Brocker the sad news of the death of her brother, Manuel Greepu of Oakland, Cal.
 
-Eglin, III, May 11—Mrs. Ada Adams Ida Dishman and daughter of Aurora were guests of Mrs. Emma Mitchell, their mother, also Alina and Etta May Lewis. * Mrs. A. Downa and I. W. Brown inn late week. * Mrs. Anne Bosley in Chicago visiting her children. * Mrs. Caray of Chicago is the guest of Mrs. Mattie Morrow. * Mrs. Bell and Mabot Cockrell molured to Aurora. * Mrs. Hannah Johnson of Hannabal, Mo. is the guest of her brother, Walker Pride.
+Elgin, Ill., May 15.—Mrs. Adams Ida Dishman and daughter of Aurora were guests of Mrs. Emma Mitchell, Dishman's niece, and Mrs. Lewis. * Mrs. A. Downs and H. W. Brown went to Chicago to attend the Odd Pellews sermon. * Mrs. Anne Bosley is in Chicago visiting her children. Mrs. Mackey Mattie Morrow. * Mrs. Bohl and Mabel Cockrell molted to Aurora. * Mrs. Hannah Johnson of Hannibal, Mo., is the guest of her brother, Walker Perle.
 
-Aurora, III, May 14—Aurora K. O. P. Lodge No. 35 and Queen Eather Court No. 40 spent their annual thanksgiving at Joliet Sunday, May 2. Two special carles carried the delegation over. Dr. and Mrs. Stanford Wilson entertained at Inner Lake week. The Court of Eaurora Court No. 40 gave a dance at Shoreolon hall last Thursday evening. * Mrs. Ada Adams entertained twenty-five friends in honor of her birthday twenty-five evening, May 7. Progressive Inn late week. The Court of Eaurora Court No. 40 gave a dance at Shoreolon hall last Thursday evening. * Mrs. Ada Adams entertained twenty-five friends in honor of her birthday twenty-five evening, May 7. Progressive Inn late week. The Court of Eaurora Court No. 40 gave a dance at Shoreolon hall last Thursday evening.
-
-Richmond have purposed a new car. * Mrs Goldie Harris entertained a few friends at a birthday dinner last Thursday, May 10. Mrs. Pearl Richmond, David William, Mrs. Cora Allan. * Mr. and Mrs. Scott Richmond have purposed a new car. * Mrs. Goldie Harris entertained a few friends at a birthday dinner last Thursday, May 10. Mrs. Pearl Richmond, David William, Mrs. Cora Allan. * Mr. and Mrs. Scott Richmond have purposed a new car. * Mrs. Goldie Harris entertained a few friends at a birthday dinner last Thursday, May 10.
+Aurora, Ill. May 14.—Aurora K. O. P. Laughlin, 50, and Queen Ether Eather No. 40 spent time with her at hanging at Joliet Sunday, May 2. Two special cars carried the delegation over. * Dr. and Mrs. Stanford Wilson entertained at dinner last week. * The social committee dance at Shoreline hall last Thursday evening. * Mrs. Ada Adams entertained twenty-five friends in honor of her birthday Friday evening, May 7. Progressively Mrs. Ada Adams entered to Mrs. Pearl Richmond, David Williams, Mrs. Cora Allan. * Mr. and Mrs. Scott Richmond have purified a new car. * Miss Goldie Harris entertained a few guests in a birthday dinner last hour evening. * Mrs. Cora Allan Monday, May 10, for the general conference at St. Louis, Mo. * Mrs. Marguerite Hall is on her way home from college, where she has been teaching music in Decatur, Ill., on account of the death of her mother. * Mr. and Mrs. Scott Richmond entertained the What Next Club at dinner last Thursday evening.
 
 John Woods Wanted
+Any one knowing the whereabouts of John W. Woods, ventriloquist, please communicate with Alice Wayne Cox, better known as Lizzie Crowler, 364 North 86th street, East St. Louis, Ill.
 
-Any one knowing the wheeronballs of John W. Woods, ventriloquist, please communicate with Alice Wayne Cox, better known as Lazzie Crowler, 364 North 26th street, East St. Louis, Ill.
+SATURDAY. MAY 15. 1920
 
-Our large size "True Vision" glasses will enable you to read the small print, thread the finest needle, see far or near. They will protect your eyes from dusting, eye strain and headaches. These large size, gold-filed glasses, are the finest and most durable spectacles and will give years of satisfaction.
+SES FREE
+MAL
+to Money
+and the Coupon
+w. We'll send
+the Glasses
+at once.
 
-DON'T SEND A PENNY! We Trust You
+will en-
+read the
+l protect
+headaches.
+earth gold
+durable
+dation.
 
-We ask you to send no money, simply your name and address. We know that these elegant, technically grown glasses will give you a "True Vision" and splendid satisfaction that we insist on sending them on FREH TRIAL. We offer you a free offer. When they arrive, put them on and see with what ease and comfort they will enable you to wear them with ease and distance or close up, by daylight or lamp light. Note how easily you can read the fine print in your Black Book. We are amazed and delighted. Try them now—be amazed and delighted. REMEMBER. Bit right down this very minute and fill out the coupon. Mail it at once. Your own postage will deliver you a ten cents prepaid, free of all cost. They will cost you 10 full days at our risk and expense. Send the coupon NOW.
+DON'T SEND A PENNY!
+We Trust You
+
+Our large size "True Vision" glasses will enable you to read the smallest print, thread the finest needle, see far or near. They will protect your eyes from blinking, eye strain and headaches. These Large Sizes are gold-filled glasses, are the finest and most durable spectacles and will give years of satisfaction.
+
+We ask you to send no money, simply your name and address. We know that these scientifically proven techniques will give you the "True Vision" and splendid satisfaction that we insist on sending them on PREH TRIAL, and will give you a free offer. When they arrive, put them on and see with what ease and comfort they will enable you to enjoy their display or close up, by daylight or lamp light. Note how easily you can read the fine print in your Bible. You are amazed and delighted. Try them now! You will right down this very minute and fill out the coupon. Mail it at once. Your own post office will send the fine print to you prepaid, free of all cost. They will count for 10 full days at our risk and expense. Send the coupon NOW.
 
 CHICAGO SPECTACLE HOUSE
-Dept. A-191, 3302-04 W. 12th St., Chicago, Illinois
-MAIL COUPON NOW
-SEND NO MONEY
+Dept. A-191, 3302-04 W. 12th Street, Chicago, Illinois
+MAIL COUPON NOW SEND NO MONEY
 
 CHICAGO SPECTACLE HOUSE, Dept. A-191, 3302-04 W. 12th St., Chicago, IL.
+I enclose herewith this coupon, which entitles me, by mail, to a pair of your 10 Kansas Gold filled, large jigsaw "Toy Truck" postcards, complete with fine leatherette, velvettened lined, spring-back pocketbook spectacle case, of a full ten days' actual test. This free trial is not to cost me one cent. And if I like the glazes and keep them, I am to pay $10.00 for each one cent. If I cannot afford to be the sole judge, I will return them to you without paying a single cent for them as you agreed. Do not fail to answer the following questions:
 
-I enclose herewith this coupon, which entitles me, by mail, to a pair of your Kalea Gold-filled, large lens "True Vision" spectacles complete, also a pair of feathersette, velveteen-fined, spring-black pocktack spectacle case, free of cost to reach so I can throw them out, under your own offer, of a full ten days' actual test. This free trial is not to cost me one cent. And if I like the glasses and keep them, I am to pay you $100.00 for the sole judge. I will return to you without paying you a single cent for them as you agree. Do not fail to answer the following questions:
-
-How old are you?...How many years have you used glasses (if any)?
+How old are you?.....How many years have you used glazes (if any)?
 
 Name
-
 Post Office
-
 R. R.
-
 Box No.
-
 State
 
 Oh! my Back!
 
-OUCH! HOW IT PAINS!
-
-"OH, IT'S THERE!
-
-Right Across Small of the Back or Over the Kidneys"
-
-LUMBAGO, RHEUMATISM, GOUT, SWOLLEN AND PAINFUL FEET
-
-Due to Faulty Kidney Elimination
-
 Send the coupon NOW.
 
-POCTACLE HOUSE
+NOTACLE HOUSE
 12th Street,
 Chicago, Illinois
 SEND NO MONEY
 
-M. A.191,8392-04 W. 15th St., Chicago, IL.
-With suffiler me, by mail, to a pair of your 10
-"Spectacles complete, also a fine leatherette,
-spectacle case, without a penny of cost, to me,
-day of a full ten days' actual test. This free
-like the glasses and keep them, I am to pay
-matterover, I do not want to keep them (and I
+Mr. A.191, 8392-04 W. 11th St., Chicago, IL.
+Ith enlister me, by mail, to a pair of your 10
+B spectacles complete, also a fine leatherette,
+spectacle case, without a penny of cost to me.
+Day of a full ten days actual ten. This frag-
+like the glasses and keep them. I am to pay
+moneyover. I do not want to keep them (and I
 turn them to you without paying you a single
-will to answer the following questions:
+toll to answer the following questions:
 
-Please have you used glasses (if any).
+Please have you used glasses (if any)?
 
-Back!
-
-and I have both received con-
-tment with Anurie. I had suffered
-abled me for a long while, but these
-bed and I am feeling perfectly fine,
-as I am in praise of Dr. Pierce's
-wer, 508 South Wabash Avenue.
-
-ruggist for Doctor Pierce's
+State
 
 CHICAGO SPECKTABLE HOUSE, Dept. A331.8392-04 W. 15th St., Chicago, IL.
 I enclose herein this coupon, which entitles you, by mail, to a pair of your 10
@@ -4319,13 +5068,21 @@ cent for them as you agreed. Do not fail to answer the following questions:
 
 # Oh! my Back!
 
+A woman ironing clothes.
+
 LAPAYETTE, IND.—"My husband and I have both siderable benefit in one week's treatment with Anurie with backache and my bladder troubled me for a long w distressing ailments have disappeared and I am feeling My husband is just as enthusiastic as I am in praise of Anurie Tablets."—MRS. A. H. PORTER, 508 South Wabast Simply ask your favorite druggist for Doctor
+
+and I have both received con-
+treatment with Anuric. I had suffered
+tabled me for a long while, but these
+heed and I am feeling perfectly fine.
+he as I am in praise of Dr. Pierce's
+feder, 508 South Wabash Avenue.
+ruggist for Doctor Pierce's
 
 LAPAYETTE, IND.—"My husband and I have both received considerable benefit in one week's treatment with Anurie. I had suffered with backache and my bladder troubled me for a long while, but these distressing ailments have disappeared and I am feeling perfectly fine. My husband is just as enthusiastic as I am in praise of Dr. Pierce's Anurie Tablets."—MRS. A. H. PORTER, 508 South Wabash Avenue.
 
 Simply ask your favorite drugstreet for Doctor Pierce's
-
-Simply ask your favorite druggist for Doctor Pierce'a
 
 ## ANURIC
 
@@ -4346,6 +5103,14 @@ READ TALK?
 
 Talking Board"
 
+DO THE DEAD TALK?
+OUIJA
+Board
+ABCDEFGHIJKLM
+NOPQRSTUVWXYZ
+1234567890
+GOOD BYE
+
 Many scientists claim that this board does not answer questions from an unknown power, that its "animation" flows from personal magnification. Spiritualists claim that invisible spirits guide its movements, a superior intelligence ruling our future. Whatever you accept one theory or the other, the face remains that you can have endless entertainment with the OUJA BOARD. It holds your spellbound at its answers.
 
 PRICE, $1.50 WE PAY POSTAGE
@@ -4363,27 +5128,25 @@ Every objectionable feature has been removed—will not red; the smarting sensat
 Guaranteed to eradicate dandruff remove ringworms, scalp disorders. With O-ZO-NO the hair can be made do
 
 Hair With O-ZO-NO
-eration of its kind in the world today,
-and grower. It has no equal. Standing
-for many years of scientific research
-and wonder has been so improved that
-it has been removed—will not turn the hair
-in reduced to the smallest minimum.
-Bound perfectly hurtles suitable for
-giving the kinkiest hair that grows (no hot
-making it nice long and velvety, giving
-natural appearance, so as to make it look
+
+cirration of its kind in the world today. and grower. it has no equal. standing for many years of scientific research and the wonder has been so improved that it has been removed—will not turn the hair in reduced to the smallest minimum. sound, perfectly harmless, suitable for the kinkiest hair that grows (no hot making it nice long and velvety, giving natural appearance, so as to make it look soft remove ringworms, tetters and other the hair can be made dead straight, half sizes. We guarantee O-ZO-NO to do all monony. We have hundreds of testiest leading physicians, lawyers, clergy the wonderful merits of O-ZO-NO. we receipt of $1.00 a regular size box of
 
 The most wonderful hair preparation of its kind in the world today. As a hair straightener beautifier and grower, it has no equal, standing completely in a class by itself. After many years of scientific research and palmstaking experiment this scientific wonder has been so improved that a baby can use it. Every objectionable feature has been removed—will not turn the hair red; the lifting sensation has been reduced; the smallest minimum. O-ZO-NO. We can use a scalable concoction suitable for both men and women straightening the kinkiest hair that is hot iron and absolutely waterproof, making it nice long and velvety, giving it such an elegant exquisite and natural appearance, so as to make it look as though nature did the work itself. Guaranteed to eradicate dandruff remove ringworms, tetters and other scalp disorders. With O-ZO-NO the hair can be made dead straight half straight or curly, just us user desires. We guarantee O-ZO-NO to do all we claim for it or also refund money. We have hundreds of testimonials on the from some of the most leading physicians, lawyers, clergymen and business men attesting to the wonderful merits of O-ZO-NO. We will send to any one on the receipt of $1.00 a regular size box of O-ZO-NO, enough to straighten three heads of hair. Will stay straight from 6 to 9.
 
 Agents wanted everywhere. Special inducements offered to agents and barbers. Barbers' trade is urgently solicited. When ordering result by Postoffice or Express Money Order or Registered Letter. Enclose two-cent stamp for reply. Address all letters to Major Jones. 1019 Springwood Ave. Asbury Park, N. J. Write today for full particulars.
 
-All signals of distress. The kidneys have too much work to perform. Urio acid accumulates in the system in the form of urate salts. Obtain at your nearest drug store that newest discovery of Dr. Pierce's, called "Anurio" (antiuric-acid). "Anurio" is more potent than lithia and dissolves urio acid as hot water does sugar. The best kidney remedy known.
+EYES
+GYSSSES
 
-All signals of distress. The kidneys have too much work to perform. Uric acid accumulates in the system in the form of urate salts. Obtain at your nearest drug store that newest discovery of Dr. Pieros's, called "Anuric" (antiuric-acid). "Anuric" is more potent than lithia and dissolves uric acid as hot water does sugar. The best kidney remedy known.
+All signals of distress. The kidneys have too much work to perform. Urio acid accumulates in the system in the form of urate salts. Obtain at your nearest drug store that newest discovery of Dr. Pierce's, called "Anurio" (antiuric-acid). "Anurio" is more potent than lithia and dissolves urio acid as hot water does sugar. The best kidney remedy known.
 
 ---
 ## Page 15
+
+Room Rent
+Advertise your rooms in this
+column. We rented over
+4,000 rooms last year.
 
 # FURNISHED ROOMS FOR RENT
 FRANKLIN
@@ -4471,18 +5234,29 @@ ple; also plus for bachelor. Phone
 445 E. 48TH PL. APT. 3 - MODERN ROOMS.
 furnished or unfurnished. Call eagle calls.
 
-INDIANA AV, 4511, 4512 FLAT-FURN, HJRE, BIETIarly modern; gentlemen preferred, Dreser.
-61. LAWRENCE AV, 4444, 4534 FLOUR-FURN, purrished room for couple, Heimo, Steam heat, electric lights.
-VERONA AV, 4513, NEATLY FURN, ROOMS for married and married couples, Kitchen privileges, Respectable only.
-LARGE, LIGHT, STEAM HEATED AND MICRO, Dishroom, electric lights, and surface, Went, 9090.
-FORESTVILLE AV, 4538, 4539 FURN, room, steam, electric lights; hostelle, Ken. 1500.
-INDIANA AV, 4511, 4512 HOOMS for RENT; also rooms for light housekeeping. Furished furnished, Ken. 6258.
-FORESTVILLE AV, 4538, 4539 FURN, room, steam, electric lights; hostelle, Ken. 1500.
-PRAIRIE AV, 3221, 321 DFT-FURN, ROOMS for large or two people; steam bream. 8125.
-CALUMET AV, 4401-FURN, ROOMS, hot and cold water, steam and electric lights; hostelle, Ken. 1500.
-LAWRENCE AV, 4840, 4830 DFT-MODERN furn, room, Kitchen privileges, Ken. 1500.
-WINEN AV, 4501, 4512 AFT-FURN, ROOMS, steam heat, electricity, Near Grand Bldd, Oak. 5802.
-WINEN AV, 4501, 4512 A
+[OCR timeout]
+
+MICHIGAN AV, 3310, 187 APT—FURN, RMS.
+halloween men preferred.
+MICHIGAN AV, 3310, 187 APT—FURN, RMS.
+all concouecues. Private family. Doug, 740.
+BLENWOOD AV, 3280—NATLYFURN, RMS.
+man and wife or single men. Doug, 7170.
+ELLIAS AV, 3227—BEAUTIFULLY FURN.
+large room with kitchenette.
+ELLIAS AV, 3227—BEAUTIFULLY FURN.
+to gentianite. Private family. Doug, 3501.
+INDIANA AV, 4230, 20 APT—2 LARGE FURN-
+ished rooms; gentlemen preferred.
+NEATLYFURN. ROOMS WITH MODERN
+GALISTER AV, 2930, IGON FURN DES-
+pectable man and wife. Doug, 6003. 18-29
+WADASHI AV, 3813—FURN, RMS. 40, CALL
+Sunday after 8 p. m. Normal 4760.
+PAIRIA AV, 3811—FURN. ROOM AND
+STUDENTS. Doug, 6001.
+INDIANA AV, 4551, 20 FL-FURN. BMS.
+Modern. Drex, 1748.
 
 SOUTH AIR AVE. 315G- FURN. ROOMS, ON 13
 WASHIAS HAV. 315G- NELLY FURN. LIGHT,
@@ -4834,8 +5608,6 @@ selling our made to measure suits.
 
 WANTED- BY JUNE 1, 1920, 0,000 DLHENDER readers-to represent us to your own home office and to advertise Wilfred's "Jillmentary toys and games" to you. We work will secure for you an income for life. Paid from our profits. Many are receiving from our office. We also serve bottlenecks and particulars. Be among the first. We do as we say or refund your money. Address P. O. Box 658. 50 Malto St., Birchgrove P. O. Box 658. 8-15-23 ALL THE MONEY YOU WANT AGENTS AND COLLECTORS WANTED TO MAKE to measure. Every man should offer for free samples, new titles and agents暂行. Agents and Collectors Taelling Co. Dept. 234, Chicago, IL. AGENTS AND COLLECTORS WANT
 
-$80 suit offer. Made to measure. Every man should write for free samplers, new styles and new products. Tailoring Co. Dept. 284, Chicago, IL. To 10,000 LADIES TO NELS SCALE SNAIL PHPRPATIONS. Needed in every community. Hire 652, Malvern, Ark. 24-18-13
-
 10.000 DN: XN: YN: YN: KA:CA:CA:TN:TH:TH
 DN: XN: YN: YN: KA:CA:C
 
@@ -4854,6 +5626,8 @@ Chicago.
 PERSONAL
 PYA MALONE, CALL AT 3100 INDIANA AV,
 and 280 SQUARE, MEDY order.
+
+THE CHICAGO DEFENDER
 
 8-Broom brick house, furnace heat,
 hardwood first floor, every room off
@@ -5037,6 +5811,10 @@ MUSICAL AND DRAMATIC
 GOOD TRAINER WANTS POSITION.
 Chris, C. Orweg, 3355 Forest Ave, Milwaukee, WI.
 
+```markdown
+
+```
+
 # HUDSON
 SEDAN
 
@@ -5120,9 +5898,13 @@ Mrs. Ophelia Turner, beloved wife of J. J. Turner, died April 30 at 8:45 am, in 
 
 I wish to thank the Robert Mitchell Local No. 11, K. of K, Troop B, K. of K, Troop B, K., to Olive Branch F, A. M, Ivy Dr. Scott of Grant Memorial Chapel, and to many solicitous friends for their kindness rendered during the bereavement of the beloved husband, George H. Lewis, who died May 6—Mrs. Corn Lewis, Wife.
 
-A great many people have become rich, not through any particular effort or self-improvement, but in spite of themselfs own, but in spite of themselfs own, for instance, many bought lots and little parcels of land for a mere pitrance and had sense enough to hold a hundred million dollars. It has been repeatedly demonstrated that an investment in real estate is the safest and most profitable and had supremely growth of Chicago in recent years. From a population of none to $8,000 in 15 years is rather a remarkable showing; from buying land at $10 an hour to buying it at $20 a foot is also something to ponder over. But this is the history of Gary, Ind.
+[OCR timeout]
 
-They say fortune knocks at your door showing, from buying land at $10
+MINISTERS' GATHERING CLOSES
+Memphis, Tenn., May 14--Members of the Tennessee State Conference of Congregational Churches and the Second Congregational church of this city at 742 Walker ave., brought their conference to a close with the conclusion of the day's program included the sermon and holy communion by Rev. O. Howard McGown of Little Rock, Ark.
+
+Have a Complexion Like a Rose
+Use Dr. Pryor's JAPO Wonder Bleaching Cream. The greatest skin condition produces a soft, velvet complexion. Price 85c. Terms to agents.
 
 Pryor Chemical Co., 3219 S. State
 St. Chicago—Advt.
@@ -5161,17 +5943,9 @@ By Mrs. Ida M. Scott, daughter, Cleveland, Ohio; Mrs. Laura Henderson, daughter,
 
 ## MATTIE WRIGHT
 
-Mattie Wright departed this life May 18, 1917, in Atlanta, Ga. In sad and memory of my dear, precious mother, I remember my dear and too home to glory three years ago today, Sleeping, mother dear, peacefully, Sleeping in Jesus' tender care; Mother, oh how sad and too My life is. since you left me. We shall meet to part no more the golden former gate. Love I have earned. Your loving child, ANNIE E. APPLEY. —Adult.
+[OCR timeout]
 
-In loving memory of my dear mother, Mrs. Corter, who died May 16, 1919. In St. Louis cementy softly sleeping lies the one we love so dearly, where flowers gently wave on her lonely, it be. Ive longed for their; I count the days every one apart, and, oh mother, how it breaks my heart. Memory is how I remember the evening she died. I offered her to own. One more soul has gone to rest, one more angel added to glory. Mother, dear, God knows best." Your loving daughter, Mrs. Hettie C. Leo.
-
-In sad and loving memory of my dear mother, Mrs. Marina Anderson, who died one year ago, 16, 1919. In my memory the evening she died. Mary Dixon, who have left me, gone to heaven with Christ to Live, soon, alright, I too, will follow, with my greatest daughter, Hera Anderson.
-
-In sad remembrance of Will H. Dixon, who died our hearts 14, 1917. Leaving sadness in our lives, we loved him to the point of calling him theomb. We will try to meet him.—Mary Dixon, mother to brother W. Dixon and Harry Dixon, brother; Estella Robinson, sister.
-
-In memory of William Wade, who died May 7, 1919. "Thou art gone to the grave, but you will not deplore the tombs, but you will compass the tomb. The Savior has passed through the portals before thee, and the light of His love is thy guide through the gloom."—Mother, Brother and Sister.
-
-In sad and loving mem
+[OCR timeout]
 
 ## Mrs. Ida Sykes Wanted
 
@@ -5345,6 +6119,8 @@ America." Editor of
 America." Editor of
 America."
 
+M. C. H.
+
 Tunkesau, Ala., Dec. 21
 The Editor of *Daily News* "Mr.
 Mike" told the editor what might be called the issue. He knows of Negro attitudes and we are accomplished.
@@ -5390,6 +6166,78 @@ PATRONIZE OUR ADVERTISERS
 Entered an second-disk matter, February 1, 1906, at the Postoffice in Chicago, III. under act
 at March 9, 1819.
 
+THIS IS THE SEASON of the year when communities set about cleaning house. It is a time when the housewife marshals the scrub brush, the paint brushes and the whitewash pails for the annual cleaning. Her work, however, has to do with the physical side of the community. The moral side is too often neglected. Possibly when the housewife shall have come into possession of her full civil rights we shall fund her directing her activities to both the physical and moral side of the question.
+
+IN OUR OWN COMMUNITY one can see the need of some such heaven as the cleansing influence of women in applying the moral scrub brush to some of the civic filth with which we are surrounded. There is a crying need for some purging influence in every section of this city. We are principally concerned, however, with our own particular section. Time and again we have called attention to conditions here that have become almost unbearable. On all sides we see evidences of lawlessness and civic rottenness that are calling loudly for a clean up.
+
+THE SITUATION among us reminds one more of a wild west town than a highly civilized community. Everywhere we see the law suspended. Gambling-houses abound in nearly every block. At any hour of the day or of the night these holes of iniquity are thronged with scores of strapping, able-bodied young men who ought to be directing their energies along more useful channels. These men are nothing more than mere parasites who prey upon the useful members of society lured to these dives by the cappers and solicitors.
+
+THESE THINGS could not go on in the community without the connivance with and the help of somebody in authority. To assume that the law can be suspended as to these evils without a consideration is absurd. The gambling-houses, however, are not the only evils existing among us. For some reason our section has become the dumping ground of every form of lawlessness imaginable. Word seems to have gone out that everything goes in our part of the city. Houses of ill-fame, both black and white, have sprung up on every hand. It is no uncommon thing to find them plying their nefarious business in neighborhoods inhabited by respectable people. Now and then the police raid these places, but there seems to be no honest effort to close them up.
+
+SOMETHING SHOULD BE DONE, and speedily, to give this district, and especially that part confined within the Second ward, a house cleaning. Somebody is chargeable under the law with this responsibility and we want that somebody to get busy. There is no reason why a section given over almost exclusively to the occupancy of our people should be infested with gamblers, thieves and buffet flats. If the policemen detailed to look after this district are incapable of the task imposed upon them, then other policemen should be found who can do the work.
+
+THERE IS NO REASON for the Second ward becoming a stench in the nostrils of this community. It should not be pointed out as a plague spot. Certainly it has been exploited long enough. Our enemies charge the lax condition existing among us to rotten politics, and we can say little in defense when we know these things could not exist if the police did their full duty.
+
+NO ORGANIZATION built around such evil influences can long exist. Sooner or later the decency of the ward will assert itself and call to strict account those responsible for a situation that is growing uglier every day. Those responsible for the suspension of the law among us should speedily take note of these conditions. Their failure to do so will ultimately result in their own undoing.
+
+LEADERSHIP CAN BE MEASURED neither by the advisor nor unthinkings approval nor the sheer dominance of a man accidentally made famous. It is a rather quality evoked only by the force, uncompromising but of portent. In recent years we have been trailing in new territory. Every turn has had precious situations. We have been living and struggling on the turbulent landscape of the thoughtless have accepted adjustments that have come without reflection and have suffered in consequence. They have been too eager to accept half a leaf when a full leaf could have been secured with a little more effort.
+
+OUR MEN AND WOMEN of the old school are less militant than the new bloody blood gone along these many years on the theory that the easiest way is to kill them with no injuries heaped upon them only in a mild manner, fearing, in doubt, or in defiance, or in open opposition. All this all due respect to those who have followed this line. The ecuro statistician who would stop the Raco has taken it due largely to the younger generation who have been caught for every right and privilege enjoyed by any other good citizen.
+
+F. ARNOLD HILLJ, executive secretary of the Chicago Urban League, typifies the remarkable the young blood referred to. We are not too IO to acknowledge the remarkable contributions of this young man, who has done so much to establish profitable and successful business, the better elements in both groups. During the three years he has been involved in succeeding in forcing from profiled employers an admission of their importance to the working men. Positions in industry have been created where forbidding hands take our men since the very infancy of industry. Three thousand young women in the hopelessness of domestic service. Responsible organization of the South Side branch of the Community Service, of which the Illinois organization of the South Side board, has been placed in the hands of Mr. Hill. It was a fortunate stroke that the organization of community services. We can at least feel confident that this instrument of community betterment will function effectively and to the highest: interest of our group.
+
+THE HOPE OF OUR GROUP lies in the young blood. Mr. Hill is but one of many throughout the country who are building a foundation for our superstores, because we require delicate tact and a calculating insight into social problems to balance our labor's game of chess. We argue much about the power of public opinion and properly. It is counseling to reflect that we have men in the raiding generation and investment can be trusted, who have the gonius for organization and administration, who know the habits of men who assert leadership of the old school type—little thought of personal aggrandizement. We repeat, our hope lies in our new blood.
+
+THE STRIKES of the switchmen gives added emphasis to the necessity for the enactment of some sort of legislation which will bring about compulsory arbitration of labor disputes. It should be made impossible for any group of workers to so tie up any branch of industry that it brings about a paralysis such as is going on now is far-reaching in its consequences because the industry its legs and arms, while every channel of trade is more or less charged. The packing industry seems to have been the hardest hit. Thousands of employees have been forced into idleness through no fault of their own.
+
+SOONER OR LATER the ultimate consumer must pay the freight for incurred costs on the necessities of life. Meat prices are already soaring and other commercial products are made by the parties in interest, both employers and employees, to find a solution for their disagreement. The patience of the public is being solely tried with the strike owl, and unless something is done to stabilize industries no man can tell what will happen to them to have formal disputes. The passage of legislation compelling the parties to injurious disputes to submit their grievances to a board of arbitration. Other states should follow her example if we are to have an end of the ever recurring industrial die-ups that make living conditions one long nightmare.
+
+OUT FRIENDS, the enemy, have selected July Fourth to pull off the next riot. Well, there's nothing like having something to look forward to.
+
+IF WE COULD put a few movies on the farm, a few cabarres and a few bright lights perhaps our farms wouldn't be deserted. Nothing beats a suggestion.
+
+24
+
+EDITORIAL
+PAGE OF THE
+
+CHICAGO WORLD'S GREATEST
+
+Founded May 6, 1806, by ROYAL
+
+Publication
+
+THE ROBERT S. ABROTH (INCORPORATION)
+
+Enforced an second-class matter, February 1, 1819.
+
+OHIOAGO—3189 Blade Street
+LONDON—17 Green St. Charing Cross
+
+ROBERT S. ABROTH
+ALFRED ANDERSON
+
+TOMORROW
+Most wonderful things are of tomorrow.
+Clouds dark will give place.
+And hopeful we drift on life.
+I am mindful the while that the
+That for us in this world nays a tomorrow.
+
+A NEEDED SPIRIT
+
+THIS IS THE SEASON of cleanliness about cleaning house. It is a task the scrub brush, the paints for the annual cleaning, with the physical side of the house neglected. Possibly when no possession of her full civil rights activities to both the physical IN OUR OWN COMMUNITY which leavens as the cleansing in the moral scrub brush to some areas surrounded. There is a crime in every section of this town, however, with our own pain we have called attention to almost unbearable. On a business and civic rottenness can up.
+
+THE SITUATION among the most town than a highly civilized town the law suspended. Gamble block. At any hour of the ninetyuity are thronged with young men who ought to be detrimental channels. These men are prey upon the useful men by the cappers and solicits.
+
+THESE THINGS could not be connivance with and the law assume that the law can be seen a consideration is absurd. Not only the only evils existing as an institution has become the dumping business imaginable. Word seems going in our part of the black and white, have sprung up common thing to find them play neighborhoods inhabited by police raid these places, but short to close them up.
+
+SOMETHING SHOULD BE done district, and especially that word, a house cleaning. Some man with this responsibility and joy. There is no reason why passively to the occupancy of gambrelers, thieves and bulldogs to look after this district used upon them, then other people do the work.
+
+THERE IS NO REASON for much in the nostrils of this town out as a plague spot. Long enough. Our enemies chonging us to rotten politics, and then we know these things could not be done long exist. Sooner or later assert itself and call to strict a situation that is growing uglier for the suspension of the law of these conditions. Their result in their own undoing.
+
+[OCR timeout]
+
 TOMORROW
 Most wonderful things are we planning to do,
 Tomorrow.
@@ -5402,47 +6250,29 @@ A tomorrow.
 
 ## A NEEDED SPRING CLEANING
 
-THIS IS THE SEASON of the year when communities set about cleaning house. It is a time when the housewife marshals the scrub brush, the paint brushes and the whitewash pails for the annual cleaning. Her work, however, has to do with the physical side of the community. The moral side is too often neglected. Possibly when the housewife shall have come into possession of her full civil rights we shall find her directing her activities to both the physical and moral side of the question.
-
-IN OUR OWN COMMUNITY one can see the need of some such leaven as the cleansing influence of women in applying the moral scrub brush to some of the civic filth with which we are surrounded. There is a crying need for some purging influence in every section of this city. We are principally concerned, however, with our own particular section. Time and again we have called attention to conditions here that have become almost unbearable. On all sides we see evidences of lawlessness and civic rottenness that are calling loudly for a clean up.
-
-THE SITUATION among us reminds one more of a wild west town than a highly civilized community. Everywhere we see the law suspended. Gambling-houses abound in nearly every block. At any hour of the day or of the night these holes in inquiry are thronged with scores of strapping, able-bodied young men who ought to be directing their energies along more useful channels. These men are nothing more than mere parasites who prey upon the useful members of society lured to these dives by the cappers and solicitors.
-
-THESE THINGS could not go on in the community without the connivance with and the help of somebody in authority. To assume that the law can be suspended as to these evils without a consideration is absurd. The gambling-houses, however, are not the only evils existing among us. For some reason our section has become the dumping ground of every form of lawlessness imaginable. Word seems to have gone out that everything goes in our part of the city. Houses of ill-fame, both black and white, have sprung up on every hand. It is no uncommon thing to find them plying their nefarious business in neighborhoods inhabited by respectable people. Now and then the police raid these places, but there seems to be no honest effort to close them up.
-
-SOMETHING SHOULD BE DONE, and speedily, to give this district, and especially that part confined within the Second ward, a house cleaning. Somebody is chargeable under the law with this responsibility and we want that somebody to get busy. There is no reason why a section given over almost exclusively to the occupancy of our people should be infested with gamblers, thieves and buffet flats. If the policemen detailed to look after this district are incapable of the task imposed upon them, then other policemen should be found who can do the work.
-
-THERE IS NO REASON for the Second ward becoming a steench in the nostrils of this community. It should not be pointed out as a plague spot. Certainly it has been exploited long enough. Our enemies charge the lax condition existing among us to rotten politics, and we can say little in defense when we know these things could not exist if the police did their full duty.
-
-NO ORGANIZATION built around such evil influences can long exist. Sooner or later the decency of the ward will assert itself and call to strict account those responsible for a situation that is growing uglier every day. Those responsible for the suspension of the law among us should speedily take note of these conditions. Their failure to do so will ultimately result in their own undoing.
-
 ## NEW BLOOD
+
+[OCR timeout]
 
 IP CAN BE MEASURED neither by the alone sheer dominance of a man accidentally murdered only by the force, uncompromising but in recent years we have been trudging to overcome it. We have been in robust burden line. The thinness have to come with reflection and hardship too eager to accept a loaf when a full effort. AND WOMEN of old school are less militant have gone along these many years to the best way, protecting against injustice, manner, fearing, no doubt, to incur the will, to respect to those who have followed the will, to protect and leading the Race to a younger generation who believe that justice can be enjoyed by any other good citizen. HILA, executive secretary of the Chicago Urb., has given young blood referred to. We are remarkable leaders and leading commanders to establish profitable and binding contracts in both groups. During the three years he has he has succeeded in forcing from prejudiced men a service. Recently the organization of community Marshall Fleet was created where (building) people have waived of industry. Three thousand men have for opening business opportunities away from service. Recently the organization of community Marshall Fleet was placed in the hands of Mr. Fleet's social work to secure his services. We can an instrument of community betterment work for our group. OF OUR GROUP We are the young blood. Most of the country who are building a foundation on. It requires delicate tacet and a calendar to balance the interests in capital and labor. It requires the power of public opinion, but does not causing the inimical in the can be trusted, who have the金币 and who have—contrary to the habits of men who have—contrary to the thoughts of personal agencies in our new blood.
 
-LEADERSHIP CAN BE MEASURED neither by the advisor nor unthinkings approval nor the sheer dominance of a man accidentally made famous. It is a rather quality evoked only by the force, uncompromising but of portent. In recent years we have been trailing in new territory. Every turn has had precious situations. We have been living and struggling on the turbulent landscape of the thoughtless have accepted adjustments that have come without reflection and have suffered in consequence. They have been too eager to accept half a leaf when a full leaf could have been secured with a little more effort.
-
-OUR MEN AND WOMEN of the old school are less militant than the new bloody blood gone along these many years on the theory that the easiest way is to kill them with no injuries heaped upon them only in a mild manner, fearing, in doubt, or in defiance, or in open opposition. All this all due respect to those who have followed this line. The ecuro statistician who would stop the Raco has taken it due largely to the younger generation who have been caught for every right and privilege enjoyed by any other good citizen.
-
-F. ARNOLD HILLJ, executive secretary of the Chicago Urban League, typifies the remarkable the young blood referred to. We are not too IO to acknowledge the remarkable contributions of this young man, who has done so much to establish profitable and successful business, the better elements in both groups. During the three years he has been involved in succeeding in forcing from profiled employers an admission of their importance to the working men. Positions in industry have been created where forbidding hands take our men since the very infancy of industry. Three thousand young women in the hopelessness of domestic service. Responsible organization of the South Side branch of the Community Service, of which the Illinois organization of the South Side board, has been placed in the hands of Mr. Hill. It was a fortunate stroke that the organization of community services. We can at least feel confident that this instrument of community betterment will function effectively and to the highest: interest of our group.
-
-THE HOPE OF OUR GROUP lies in the young blood. Mr. Hill is but one of many throughout the country who are building a foundation for our superstores, because we require delicate tact and a calculating insight into social problems to balance our labor's game of chess. We argue much about the power of public opinion and properly. It is counseling to reflect that we have men in the raiding generation and investment can be trusted, who have the gonius for organization and administration, who know the habits of men who assert leadership of the old school type—little thought of personal aggrandizement. We repeat, our hope lies in our new blood.
-
 ## THE SWITCHMEN'S STRIKE
 
-THE STRIKES of the switchmen gives added emphasis to the necessity for the enactment of some sort of legislation which will bring about compulsory arbitration of labor disputes. It should be made impossible for any group of workers to so tie up any branch of industry that it brings about a paralysis such as is going on now is far-reaching in its consequences because the industry its legs and arms, while every channel of trade is more or less charged. The packing industry seems to have been the hardest hit. Thousands of employees have been forced into idleness through no fault of their own.
+THE STUKE of the switchmen give enactment of some sort of legislation of labor disputes. It should known to so to up any branch of in industry because it takes from under it net of trade in more or less clogged in the hardest hit. Thousands of co-workers SOONER OR LATER the ultimate cost of the necessities of life, or commodities are doing likewise, lies in interest, both employers and employees, the position of the employer, and unless something is done to shad may we. Kansas seems to have passage of legislation compelling the switchmen to work if we are to have an end of the co-living conditions one long night. Our FRIENDS, the oenny, have a Woll, there nothing like having.
 
-SOONER OR LATER the ultimate consumer must pay the freight for incurred costs on the necessities of life. Meat prices are already soaring and other commercial products are made by the parties in interest, both employers and employees, to find a solution for their disagreement. The patience of the public is being solely tried with the strike owl, and unless something is done to stabilize industries no man can tell what will happen to them to have formal disputes. The passage of legislation compelling the parties to injurious disputes to submit their grievances to a board of arbitration. Other states should follow her example if we are to have an end of the ever recurring industrial die-ups that make living conditions one long nightmare.
+IF WE COULD put a few movies, light lights perhaps our farms would
 
-OUT FRIENDS, the enemy, have selected July Fourth to pull off the next riot. Well, there's nothing like having something to look forward to.
+E of the switchmen given added emphasis to that of some sort of legislation which will bring a labor disputes. It should be made impossible to up any branch of industry that it brings a force to underpin on paper by force-reach it takes from its bottom pay in more or less cloaked. The packing industry hit. Thousands of employees have been forced to LATER the ultimate consumer must pay to the necessities of life. Meat prices are aired are doing likewise. Every effort should be set, both employers and employees, to find a solution. The public pays, spared by something is done to stabilize industries no more. Kansas seems to have found a way out of regulation compelling the parties to labor迪 to be heard in the诉. Other states should be in an end of the诉 recurring industries one long nightmare.
 
-IF WE COULD put a few movies on the farm, a few cabarres and a few bright lights perhaps our farms wouldn't be deserted. Nothing beats a suggestion.
+DS, the enemy, have selected July to'de nothing like having something to look for.
+
+LD put a few movies on the farm, a few can chaps our farms wouldn't be deserted. Noth
 
 # CHICAGO DEFENDER
 
-# THE BUCKEYE STATE
+8c
 
-By Alexander O. Taylor
+# THE BUCKEYE STATE
 
 By Alexander O. Taylor
 Cleveland, Ohio, M.D. MJ.—William
@@ -5532,11 +6362,40 @@ patient. They
 must co-operate
 about the proper
 
-to bring about the Dr. A. W. Williams results, that is the cure or restriction to health, or full normal functioning condition. The doctor should then treat the patient in the other hand, the patient should be frank, honest and trusting and should co-operate with his physiological results in bringing about a speedy cure of his case.
+wish to make a few observations upon the science of the knowledge of your duty toward your physician and the physician's ethical conduct, towards your health, should be a most dignified, confidential relation between the doctor and his patient, and must co-operate to bring about the proper results—sought—that is the cure or restriction of restraining condition. The doctor should have faith in the honesty of his patient, in the other hand, the patient, in the frank, honest and trusting and should be sure of his physician in every way possible to bring about a speedy cure of his case.
 
 ## Selecting Physicians
 
-You should exercise most judicious and scrupulous care in the selecting of your physician—your family physician and your person. There is no living person who can be more intimate relations with the family than the physician. You confide in him, you confess to him not only your physical and moral shortcomings, but your ultimate relations with the f
+You should exercise most judicious and scrupulous care in the selecting of your physician—your family physician, a person that comes into closer intimate relations with the family than the physician. You confide in him, but only your physical affection, but the other person, and moral shortcomings. Then, too, your whole life life may be changed by the advice of your physician, a certain employment, by which you have been earning a livelihood; he may advise you to change climate—his friends and many social relations, which have proved to be very dear and sacred to you. Therefore, you must explain a man well informed on to social and public health conditions. Your family physician should be a learned man with诀典 and who is well informed on all lines, and particularly on medicine or medical terms. In other words, the more knowledge your physician has along all lines, and particularly on health lines, the better medical adviser would he be for you. It is rather worse physician who will tolerate him that you want so much ergot or so much norphine and that your system needs this or that drug, and tell him the cure of your disease or attempt to diagnose your own case as to the nature and trouble.
+
+clan or Treatment of Him
+care as to the solicited judious ludlowe
+care as to the solicited judious physi-
+calian or medical adviser, there are
+certain duties and responsibilities det-
+towards you upon your to your conduct
+towards you your physician. We phi-
+Remember that he is a human machine
+the same as you, and that all machines
+you perform a little time in order to
+keep his machine going. We phi-
+der if he is tired and hungry and
+overworked, you cannot expect for him
+to read, keep his mind clear and filled
+with knowledge. He should edge
+to be used in relieving and curring
+you of your alliment or disease.
+Therefore, you should arrange to call
+him when he comes at once, immediately if not sooner,
+regardless of his office hours or of
+the calls, that any first class physician
+to St. Louis to the General Conference
+to St. Louis to the Gracious婚禮宴,
+Hon. Wm. If. Lewis, former I.
+bury, to be invited in June to sneak for the P. W.
+A. The outro Y. W. C. A. staff of
+physician, banquet at the D. W.
+A. on June 4th.
 
 ## Dr. Weaver Sells Drug Store
 
@@ -5550,11 +6409,18 @@ K. of P. Thanksgiving Services
 The Argentine of Dylphus and Cousins of Calathea will provide services at Zion Hill Hantatian thriving services at Zion Hill Hantatian will provide services at Zion Hill Hantatian will and Woodland Sunday. May 16.
 The line of march will be: Meet at Zion Hill 40th street, to Cedar Avenue, to East 40th street, to Central Avenue, to East 40th street,
 
+CHICAGO
+MAY 15, 1920
+
 may have ahead of your call, regardless less as to whether or not he has had an incubation, regardless less as to whether he has had less as to whether he has had three, five or no hours of sleep, or regardless less as to whether he has had time to look after him, or as washing his face, shaving, taking a bath, cleaning his teeth, combing his hair, he has any), cleaning his nails or cleaning his mouth, using his collar and the. You should like to employ a well groomed physician. You like to see your doctor look clean and well hydrated, using rinsing for a doctor you overlook that time and relaxation are necessary factors in enabling the physician to look after his personal hygiene.
 
 ## Establishing Obligations With Your Physician
 
-You have been complaining about fees of the physician; you have complained of the doctor's delay in response to your injury; if you feel that you are not able to pay the fees of a first class physician for office examination, or for visit made by the doctor, ask the clerk when first you enter his office, what are his fees for the above mentioned services; then, if you are not able to pay the
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
 
 ## MR8. LAMBERT VISITING NORTH
 

@@ -494,15 +494,30 @@ center for respectful people only; out of
 large room; speciality; West St. station.
 West 133th, West 134th, work. 142282-8
 
+THE CHICAGO DEFENDER
+
 MISCELLANEOUS
-IF YOU WANT TO:
+
+IF YOU WANT TO
 STUDY
 REAL ESTATE
-Renting, Leases, Mortgages, Insurance
+Renting, Leases, Mortgage, Insurance
 Commercial Law
 Write
 LINCOLN BUSINESS INSTITUTE
 4110 Indiana Av., Chicago, Ill.
+
+In memory, son, deceased
+memory and
+your brothers,
+Compton, Amni
+Junction, Mich.
+
+Renewal Writ
+Dear Son, ted
+Of a loved one
+Those who thie
+Loving mother
 
 ## DIAMONDS
 
@@ -668,14 +683,9 @@ baby, 1. Robinson, who died
 Jan. 21, 1920.
 "One has passed since that sad day
 
-In memory of Nigel Wodman:
-McCoy, Neighbor Ellen Ware and
-Neighbor Emma Crawford, who died
-early. Whereas, in view of the loss
-we have sustained by the passing of
-the neighbor to whom we resolved,
-that it is just trivial.
-Whereas, in view of th
+[OCR timeout]
+
+[OCR timeout]
 
 ## St. Thomas' Choir
 
@@ -689,47 +699,7 @@ Dr. Wr. M. M. Lyttle, one of Oakland, Cal. leading citizens and dentist, apersen
 
 The second annual dance of the Regina Charity Club to be given in the portion of the community holiday season, is heralded as one of the notable events in the city, composed of young women who have scored notably in their philanthropic efforts.
 
-To Be admired by the ladies, have your hair straight, soft and wavy. This is done by using DR. PRYORS' JAPO-
-RITE hair care products. Barber needed. Simply wash the hair and apply the pomade. We offer you the only preparation that will not turn the hair into a beautiful shade or red or yellow. It is wonderful. A reliable home treatment and perfectly harmless. One-box of soap and shampoo lasts three months. Men are simply wild over its results. Send today. Price $1.12, post-paid.
-
-DIXIE SALES AGENCY,
-3201 S. State St., Chicago, Ill.
-AGENTS WANTED EVERYWHERE
-Big Money Made.
-
-DEATH TO RHEUM
-
-You Can Give Your Rheumatism an Up
-for the Small Sum of $1.00 by Using the FAMOUS J.
-POWDERS. A 15-Days' Treatment Or
-One to two treatments. A few cases, few
-fact is, when the IV滴药 go into the system the rheumatism we
-cannot make it my plaster than. Remove the cause and we
-we cannot make it my plaster than. Remove the cause and we
-we cannot make it my plaster than. Remove the cause and we
-all drugs. $1.00 by mail, 1.10.
-WANTED—DRUGGISTS and AGENTS EVERYWHERE
-Or give us your advice that does everything
-guest by handling our goods. $3.00 to $5.00 per day for your spa
-DIXIE SALES AGENCY, $3.00 to $5.00 per day for your spa
-
-THE QUAKER
-
-Mrs. Addie
-boxed in this city when
-bended Bethel
-
-AGENCY, CHICAGO, IL. EVERYWHERE INDUSTRIAL.
-
-RHEUMATISM
-
-Autism an Up-to-Date Funeral for the FAMOUS JAP-ANT-RHEUMATIC T Treatment Only $1.00.
-
-In the case, a few does will contour you. The condition is the cause and the trouble will disappear. No other cause, the trouble will disappear. No that does everything that entails life for it and be joins and runners condition it is unexcelled.
-
-EVERYWHERE to Handle Our Goods. We offer the service for your spare time. Mentions this paper.
-
-St. Phone Doug: 8854, CHICAGO, ILL.
+[OCR timeout]
 
 # DEATH TO RHEUMATISM
 
@@ -741,15 +711,15 @@ DIXIE SALES AGENTY: 3201 S. State St. Phone: 8058; Chicago, IL 61610.
 
 Miss. Adèle Crawford Ridley was young Ohio, and she was this city when quite old. She attended Bethel and Quinn Chapel A M; and Sunday schools, was converted to a school under Miss Gertrude Jackson and proved a brilliant pupil. It was quite rare quality. Under the training of Miss Jackson she made her first apprentice to her to Chicago Medical College, receiving two certificates. She made her professional debut on a Bethel Church and then called the "Little Queen of Song." She her went to St. Paul and became the mother of four children—Robert and Clinton, twins; Leah May and her husband was an old sweetheart and school chum, Oscar Ridley, and they moved toingham, Ala. James A. Mundy helped her greatly in her musical career, and she the choir of one of the largest Baptist churches in Birmingham and was Steel Company male chorus. Alphene
 
-a Methodist, her ability threw her among Baptists, and she had charge among the Baptist Church for ten years in St. Paul.
+[OCR timeout]
 
-She returned to Chicago last June to attend her Munday made her assistant, chore director, to segregation by her sweet singing and her charming whatever she was called upon to do. She was a devout Christian. She died home of her friend, Miss Gertrude Jackson, 3741 Wabash avenue. Funeral was Babbish Church. Huron director, Rev. Blirt comforting words will long be remembered. Prof. James furnished many favorite songs of the deceased: one in particular was "I'm to mourn her loss a father, mother, Mrs Mary E. Brown; a grandfather, four children, a husband and a host of friends.
+[OCR timeout]
 
-Midwinter School
-The University of the State of Michigan's Jackson State street, where all brass stringed instruments, mandolin, violin, and cello are furnished at Odd Fellows Hall, 3325 South State street. Wednesday and Thursday evening ability as a "superior teacher" will be shown in these two excellent programs in Mrs. pupils who have realized that "No good is good, nor what is bad good."
-Wilson has made wonderful progress in this course of study and is now orchestra leader at the Ave. Jackson, and will be the teacher's examination in June.
+[OCR timeout]
 
-Jackson's thorough brass and bass, Bertha and Harriet, who have not seen or heard from her since the wedding, are 2135 Webster street. Father, Harriet, dead. The children are at the home of narcissus L. Brown, 24 pleasant street. Thursday afternoon at 9 o'clock. The school's faculty is as follows: W. L. Church, through brass and bass,
+[OCR timeout]
+
+[OCR timeout]
 
 Philadelphia, Ia., Jan. 21.—Mrs. Harriet Bowman of 320 South Canace street, Bowman, Indiana, bursed in Poughkeepsie, N.J. She was a buried in Poughkeepsie, N.J. She was a Charles McCabe, 10 years old, was a 315 cash prize for the best rendition of Wendell Sears' Society of the Welsh Presbyterian Society's Society of the Wels
 
@@ -768,6 +738,8 @@ Any one knowing the whereabouts of Lizzie Allen, formerly of Valledupa and one b
 
 Mrs. Randolph Convalescing
 La Angela, Jan. 21, Mrs. P. Bole, 1930, Mrs. R. W. who has been very ill for six weeks. is improving. Mrs. Randolph is a well-known woman and member of the Eastern State.
+
+[OCR timeout]
 
 ## ORITUARY
 

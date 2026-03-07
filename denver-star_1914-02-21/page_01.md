@@ -10,9 +10,11 @@ g the Race.
 
 ## Interesting News Concerning the Race.
 
-One of the largest garages in Tulsa, Okla. is the East End Garage, owned and conducted by J. W. Williams, a colored man. Mr. Williams' wife conducts a large and successful delicatessant and fruit stand, and from the profits she has made out of the business she has erected a three-story brick business block, which is yielding her a fine revenue. Mrs. Williams is regarded as one of the most progressive colored business women in the Southwest.
+One of the largest garages in! Tulsa, Okla. is the East End Garage, owned and conducted by J. W. Williams, a colored man. Mr. Williams' wife conducts a large and successful delicatessant and fruit stand, and from the profits she has made out of the business she has erected a three-story brick business block, which is yielding her a fine revenue. Mrs. Williams is regarded as one of the most progressive colored business women in the Southwest.
 
-J. Finley Wilson, formerly connected with The Baltimore Md., Times as managing editor, is now in charge of the advertising department of The Advocate-Verdict at Harrisburg, Pa.
+J. Finley Wilson, formerly connected with The Baltimore Md., Times as managing editor, is now in charge of the advertising department of TheAdvocate-Verdict at Harrisburg, Pa.
+
+[Image of a historical building]
 
 Freeman L. Martin, of Tulso, Gkla., president of the Oklahoma State Colored Bar Association, is taking steps to make the meeting of the National Bar Association in Muskogee, at the time of the National Negro Business League a great success.
 
@@ -20,11 +22,11 @@ A colored school teacher, Mr. Johnson, of near Guthrie, Okla., recently refused 
 
 Mrs. Ida A. Walker, president of the Missouri State Federation of Colored Women's Clubs, is just as active in fostering the commercial interest of her race in St. Joseph, her home, as she is in expanding the zone of usefulness of the Federation.
 
-P. C. Copelain, a colored man, is the leading character in Vieksburg, Miss. The Copelain Cafe, of which he is proprietor, is one of the most successful businesses of its kind in the city made famous by Grant's seige.
+P. C. Copelain, a colored man, is the leading character in Vicksburg, Miss. The Copelain Cafe, of which he is proprietor, is one of the most successful businesses of its kind in the city made famous by Grant's seige.
 
 ---
 
-At the recent annual meeting of the stockholders of the Prudential Savings Bank, at Birmingham, Ala., D. G. Mason was elected president and W. W. Hadnot cashier. The financial condition of the bank was so excellent that a large block of unsold stock was quickly taken. The Prudential is one of the most conservatively conducted Negro banks in the country.
+At the recent annual meeting of the stockholders of the Prudential Savings Bank, at Birmingham, Ala., D. G. Mason was elected president and W. W. Hadnot cashier. The financial condition of the bank was so excellent that a large block of unsold stock was quickly taken. The Prudentia is one of the most conservatively conducted Negro banks in the country.
 
 There is a big revival of interest in the Kansas City Local League, and seventy-five new members is the result. F. J. Weaver, the president, largely attributes the increased membership and increased interest to the recent visit of the National Organizer.
 
@@ -36,11 +38,13 @@ One of the most successful groceries in Canton, Miss., whether conducted by whit
 
 W. S. Madden conducts one of the most up-to-date merchant tailoring establishments to be found in Boley, Okla., and W. E. Clark at Little Rock, Ark., has also demonstrated that a colored man can be successful in the tailoring business when he gives service, style and quality.
 
-R. D. Tabern conducts the only dry goods and notion store in Tulsa, Okla., owned by a colored man. Mr. Taborn is a former Tuskegee student, and has introduced the Tuskegee spirit in Tulsa.
+R. D. Tabern conducts the only dry goods and notion store tn Tulsa, Okla., owned by a colored man. Mr. Taborn is a former Tuskegee student, and has introduced the Tuskegee spirit in Tulsa.
 
 G. Gage Young, a colored mechanical engineer, is in charge of the intricate and extensive electrical plant of Fort Smith, Ark., post office. He is also custodian of the building.
 
-The Metropolitan Mutual Benefit Association a Newark N. J., of which H. W. Barrett is president and general manager, is doing a very excellent business, and paying claims promptly.
+The Metropolitan Mutual Benefit Association a Newark N.J., of which H. W. Barrett is president and general manager, is doing a very excellent business, and paying claims promptly.
+
+The image shows a large building with a high roof and multiple columns. There are several people gathered in front of the building, some standing and others sitting on the ground. The building appears to be an old structure, possibly a historical or cultural site.
 
 ## COLORED ORPHANAGE WILL ASK PUBLIC FOR SOME SUPPORT.
 
@@ -50,11 +54,7 @@ Mount Gillead dates back its origin and establishment to 1876, when the Rev. C. 
 
 The Rev. L. K. Williams, Th. B., the present Pastor, and the ninth in regular order to fill this pulpit, deserves special mention; for it was through his effort that the work so well started by his predecessors was fulfilled. Among those who so ably assisted in bringing this to a completion are: S. H. Fowler, Asa Fowler, E. Hines, H. C. Chase, H. H. Cochran, A. R. Fulford, A. Johnson, George Wilson, Frank Echols, John Langston, N. B. Lightfoot, Prof I. M. Terrell, A. B. Principal of the colored High School, Prof T. H. Tabb, J. H. Thomas, The Church Poet, Prof Chas, R. Crouch organist, Robert Young, Felix Carter, John T. Mathena, and others.
 
-I may have elaborated on this subject, but the Christian Endeavor has always appealed to me regardless of creed or denomination, as the fundamental principles which form the basis of all religious institutions are uplifting, and when I note the interest of the race in this great cause, I always feel the great necessity of expressing my views and sincere appreciation, believing that my opinion may be an inspiration to those who are antagonistic to this the greatest of all institutions, the only satisfactory check to vice and immorality.
-
-Our schools and lodges are not without these essential qualities, but where our intellectual attainments enable us to know and understand God, it is in the church we find Him and feel His divine presence.
-
-Our sensitive natures may be pricked by the discriminations from various sources, the disfranchisement of some, and the prejudice of others; but with a pronounced religious fervor, and our churches, the Mecca, the pain is soothed, and ere long we find hope in the possibility of "Fatherhood of God, and the Brotherhood of Man."
+I may have elaborated on this subject, but the Christian Endeavor has always appealed to me regardless of creed or denomination, as the fundamental principles which form the basis of all religious institutions are uplifting, and when I note the interest of the race in this great cause, I always feel the great necessity of expressing my views and sincere appreciation, believing that my opinion may be an inspiration to those who are antagonistic to this the greatest of all institutions, the only satisfactory check to vice and immorality. Our schools and lodges are not without these essential qualities, but where our intellectual attainments enable us to know and understand God, it is in the church we find Him and feel His divine presence. Our sensitive natures may be pricked by the discriminations from various sources, the disfranchisement of some, and the prejudice of others; but with a pronounced religious fervor, and our churches, the Mecca, the pain is soothed, and ere long we find hope in the possibility of "Fatherhood of God, and the Brotherhood of Man."
 
 DENVER, COLORADO, SATURDAY, FEB. 21, 1914
 
@@ -87,11 +87,11 @@ The Doric, Ionic and Corinthian columns of that order of architecture have embel
 
 The auditorium was filled to its capacity, among whom were assembled the young men and women of the present day, whose presence radiated sunshine illuminating the faces of those who had grown old in the cause, comforting them with the knowledge that the good work started by these gray-haired veterans would be perpetuated to the end of time.
 
-To our depressed people, the church has ever been a stepping stone to higher aims. When burdened with the indignities that are so frequently heaped upon their already heavily ladened shoulders, he meekly turns to his place of worship and there pours forth the sorrows of his heart, invoking the unseen aid, silently praying for the courage and patience to endure that which he believes to be his lot. The church then is, and will always be his last hope, a Temple of piety, a safe harbor of refuge, a crucible where all the wrongs of a lifetime are reduced to a common basis, and the hopes and aspirations are lifted up to realms, where life is eternal.
+To our depressed people, the church has ever been a stepping stone to higher aims. When burdened with the indignities that are so frequently heaped upon their already heavily ladened shoulders, he meakly turns to his place of worship and there pours forth the sorrows of his heart, invoking the unseen aid, silently praying for the courage and patience to endure that which he believes to be his lot. The church then is, and will always be his last hope, a Temple of piety, a safe harbor of refuge, a crucible where all the wrongs of a lifetime are reduced to a common basis, and the hopes and aspirations are lifted up to realms, where life is eternal. Throughout the land their many church buildings more than demonstrate their sincerity to this great cause, while
 
-Throughout the land their many church buildings more than demonstrate their sincerity to this great cause, while
+The Denver Star
 
-Throughout the land their many church buildings more than demonstrate their sincerity to this great cause, while
+FIVE CENTS A COPY.
 
 WILL ASK PUBLIC FOR SUPPORT.
 
@@ -99,18 +99,15 @@ our claims before the public. At our board meeting Saturday the date of Feb. 21 
 
 Although we are getting along very well with the assistance of the state and county help, we have some children that we are receiving nothing for and we are obliged to look to the public for help in caring for these. There are many who have helped us through many struggles and we hope to have their assistance now.
 
-Mrs. J. P. Watson, Supt. Colored Orphanage and Old Folks Home.
+Mrs. J. P. Watson,
+Supt. Colored Orphanage and Old Folks Home.
 
-W. M. Douglass, a colored man, has recently opened up a thoroughly modern photograph gallery at Natchez, Miss., in 'the Dumas' block, and is doing a splendid business. Mr. Douglass also conducts a sign painting shop and paints most of the best signs painted in that section.
+W. M. Douglass, a colored man, has recently opened up a throughly modern photograph gallery at Natchez, Miss., in 'the Dumas' block, and is doing a splendid business. Mr. Douglass also conducts a sign painting shop and paints most of the best signs painted in that section.
 
-Rochelle I. Smith who recently engaged in the tranfer, packing and storing business at Louisville, Ky., is making such a great success that he has in a short time, outgrown his quarters. Prior to engaging in the business for himself he was a member of the firm of Guy W. Smith and Sens.
+Rochelle I, Smith who recently engaged in the tranfer, packing and storing business at Louisville, Ky., is making such a great success that he has in a short time, outgrown his quarters. Prior to engaging in the business for himself he was a member of the firm of Guy W. Smith and Sens.
 
 The Denver Star collector will call at your door. Kindly receive him with a smile, pay him and wish him a long and prosperous year of most successful collections. Please co-operate with us in this matter.
 
-Our communicants grow larger
-
-The origin and establishment tousta first assembled a handful of a church that today numbers who with keen pride and ex- they have helped to accom-
-
-Th. B., the present Pastor, and all this pulpit, deserves special effort that the work so well is fulfilled. Among those who this to a completion are: S. H. H. H. C. Chase, H. H. Cochran, George Wilson, Frank Echols, Pot, Prof I. M. Terrell, A. B. A. School, Prof T. H. Tabb, J. J. Prof, Chas, R. Crouch organarter, John T. Mathena, and his subject, but the Christian did to me regardless of creed or mental principles which form the ans are uplifting, and when I this great cause, I always feeling my views and sincere ap-pinion may be an inspiration to this the greatest of all in- check to vice and immorality. I not without these essential actual attainments enable us to is in the church we find Him be pricked by the discrimina- the disfranchisement of some, but with a pronounced religious Mecca, the pain is soothed, and possibility of "Fatherhood of Man."
+the origin and establishment to musta first assembled a handful of a church that today numbers who with keen pride and ex-f they have helped to accom- Th. B., the present Pastor, and all this pulpit, deserves special effort that the work so well is fulfilled. Among those who this to a completion are: S. H. H. C. Chase, H. H. Cochran, George Wilson, Frank Echols, Lot, Prof I. M. Terrell, A. B. School, Prof T. H. Tabb, J. Prof, Chas, R. Crouch organ-a-arter, John T. Mathena, and this subject, but the Christian need to me regardless of creed or mental principles which form the ans are uplifting, and when I this great cause, I always feel my views and sincere applition may be an inspiration to this the greatest of all in- check to vice and immorality. It not without these essential actual attainments enable us to this in the church we find Him be pricked by the discrimina- the disfranchisement of some, but with a pronounced religious Mecca, the pain is soothed, and possibility of "Fatherhood of Man."
 
 ALCEST CAMPBELL

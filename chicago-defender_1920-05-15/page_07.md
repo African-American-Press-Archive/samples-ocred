@@ -1,7 +1,52 @@
+BELL WALNUT 4631 GIBSON'S RES. BELL POPLAR 903
+
+NEW STANDARD THEATER
+
+John T. Gibson, Solo Owner and Directing Manager
+SOUTH STREET, AT 12TH, PHILADELPHIA, PENNA,
+VAUDEVILLE, NOVELTY ACTS, ROAD SHOWS
+SEND IN YOUR OPEN TIME.
+WRITE OR WIRE
+EVERY COMMUNICATION GETS
+IMMEDIATE ATTENTION
+
+AVENUE THEATRE
+31st Street and Indiana Avenue
+PANAMA AMUSEMENT CO.
+LOUIS WEINBERG, PRESIDENT AND GENERAL MANAGER
+
+WEEK STARTING MONDAY, MAY 17
+THE QUALITY AMUSEMENT CO., EDWARD C. BROWN, Pres. & Gen. Mgr.
+PRESENTS A NEW COMPANY OF LAFAYETTE PLAYERS
+—IN A—
+WHIRLWIND HONEYMOON FARCE
+
+"PLEASE GET MARRIED"
+
 FUNNIER THAN THE FUNNIEST FARCE EVER WRITTEN
 RAN 39 WEEKS AT FULTON THEATER, NEW YORK
 NOW EN ROUTE BY MOROSCO COMPANIES AT $2 PRICES
 NO ADVANCE IN AVENUE PRICES
+
+BOX OFFICE
+OPEN FROM
+11 A.M. TO
+11 P.M.
+Seats on Sale
+Storling
+Monday
+EACH WEEK
+
+Matinees: Sat. & Sun. 2:15
+Every Night (One Show Only), 3:15 Sharp
+Dargain Matinee Saturday—Prices 15c and 25c
+
+One Week Only All Seats Reserved
+NOW PLAYING—"THE RETURN OF EVE"
+
+---
+
+>ATURDAY, MAY 15, 1920
 
 # LEMONIER'SLETTER
 
@@ -9,7 +54,9 @@ Hello, Palie: Irvin C. Miller brought us some show; the Grand was too small for 
 
 Tom Lemonier
 
-The Old Time Tomi Lemonier Darkies Quartet cleaned up at the Keith theater, Evansville, Ind. They are singing hounds, Moss and Frye tickled their funny bones. Williams is jazzing the banjo at the Royal Gardens. Bob Kemp is back in his old form and singing as sweetly as ever. Atta boy! The Cief Club Trio are picking up plenty of pickets at Bert Kelly's roadhouse. Staff and Williams are growing bigger at the Vaudottie theater, Detroit, Micha Simms & Warfield, at the Windser, last half, were a hit. Some act. Sue Grundy Blackwell, on her way to church, didn't look a minute over 28 years of age after her illness of five starks. Starks are setting pretty. The Man from Bam is coming to the Grand soon, Harry Fox and Emilio Nelson are at the Stato-Lake. All the boys and girls send regards to the Dressing Room Club, Gant & Perkins are in the hit shop. Mrs. Barnett of the Vincent hotel, Mrs. Randall hold their own at Waltha Walla and Seattle, Wash., last week. Dave & Lillian are about to spread some joy over the Pan time; they start soon. It is a good act and the venues are full of stuff when it comes to doing business. Also and clever woman. Every time I see Dave Peyton he is on the way to a bank, and I guess that poor Phil Jones, the big boss at the Defender and played by everybody. Wash., will have to cease. He good, Atta Boy. Your old pal, Tom Lemonier, 3159 State St., Chicago, Ill.
+Toni Lemonier
+
+cleaned up at the Keith theater, Evansville, Ind. They are singing hounds, Moss & Frye tickled their funny bones at the Palace theater last week. Ed Roya is jazzing the banjo at Roya's home and at back his old form and singing as sweetly as ever. Atta boy! The Cief Club Trio are picking up plenty of pickets at Bert Kelly's roadhouse, Staffo & Watts were the neck bones and groaned Simma & Vadu theater, Detroit Simma & Vadu at the Windsor, insult half, were a hit. Some act. Sue Grundy Blackwell, on her way to church, didn't look a minute over 23 months. She is well again. Jerome & from Bam is coming to the Grand soon, Harry Fox and Emilio Nelson are at the Stato-Lake. All the boys and girls send regards to the Dressing Room Club, Gant & Perkins are in thorna and everywhere Hunter & Rana are in Walla Walla Walla and Seattle, Wash, last week. Dave & Lillian are about to spread some joy over the Pan time; they start soon. It is a good act and cant miss. Mrs. Barnett of the Vinnery big boy, the teacher of class and well used by everybody, will have to cause. He good, Atta Boy. Your old pal, Tom Lemonier, 3169 State St., Chicago, Ill.
 
 ## COAST DOPE
 
@@ -28,6 +75,8 @@ Billy Tucker.
 
 Maybelle Whitman and her Dixie Boys are a real sensation at the Rialto Theater, Chicago, this week. The act has the real spot on the bill and what to do is to be baffled but are doing to the lineup is a heap much plenty. Some act.
 
+.
+
 # A NOTE OR TWO
 
 Minstrel Morris is going along as smoothly as ever. He is at the Palaco Theater, Norfolk, Va., the present week. He is also coming to them on the big time. They are splitting the week between Salem and Brockton, Muss.
@@ -42,9 +91,11 @@ Musical Spillers, featuring with the Pole-a-Hoo company, are at the Gayev Theate
 
 Go Get 'Em Rogers, the Dancing Bricklayer and Plasterer, is at Locurc's Theater, Hamilton, Canada. Green & Pugh, making them like it on the stage, are the Plasterer, Theater, Ogden, Utah, the present half. Soymour & Jeanette are hitting them hard at the Lewes Theater, Toronto, Canada. Valyda the Marvel, the best single on the Pan time, is playing the week at Anchor Bay, Charles Anderson, the Yodier, the neatest single in the business, is playing the week at the Star Theater, Baltimore, Md. Billy Cumber, featured comedian with the Beauty Review, is playing the week at the
 
-Billy Cumby, featured comedian with the Beauty Review, is playing the week at the Palme Theater, Milwaukee, WIs. Harrington & Mills, still traveling in New Portland Theater, Portland, Maine. Emil Nelson, featured in the dressing-room with Harry Fox, is at the State-Lake Theater, Chicago.
+Emil Nelson, featured in the dress-
 
-Fiddler & Stovens are playing the week at the Lafayette Theater, New York City. Musson & English are playing the Philadelphia Theater, Norfolk, Va., and going great guns. Snimms & Warford are making the hit of their young lives. They are splitting the week between Torro Haute and Evansville, Ind. Snimms and Warford Block Dota one of the hat tricks in vaudeville, are splitting the week between Bakersfield and Turt, Cal. George Day is now secretary for S. H. Dudley and is located at 1223 7th street, N. W. Washington, D. C. Alex's company of Stovens Players turned them last week at the Putnam Theater, Brooklyn, N.Y., where they presented "This and That." Alex's great musical comedy success. Buzzin' Burton is beating it back with his Jazzlanders. He says hello to all of the Address, general delivery, Albany, Ga.
+at the State-Lake Theater, Chicago.
+
+Fiddler & Stovens are playing the week at the Lafayette Theater, New York City. & English are playing the Palace Theater, Norfolk, Va., and going great guns. Simms & Warfield are making the hit of their young lives. They are splitting the week between Toro Haute and Joe Shofelt's Eight Black Dots, one of the real hits in vaudville, are splitting the week between Bakersfield and Taft, Cal. Day is now secretary for S. H. Diddley and is located at 1223 7th street, N. W., Washington, D. C.
 
 Buzzin' Burton is heating it back with his Jazzlanders. He says hello to Albury, Address, general delivery, Albany, Moss and Frye are at the Temple Theater, Detroit, Mich. Tribble & Diggs are a hit at the Palais des Festivals. Lulu Contes & Crackerjacks are at the Gayety Theater, Washington, D.C. Maybello & Whitman and his Dixie Boys are a hit at the Ralto Theater, Orlando. Old Time Darkies' Quartet are rioting at the Majestic Theater, Chicago.
 
@@ -60,73 +111,64 @@ Gorta Saunders dropped in on the Old River Park. She depot to attend the Derby a
 
 Williamn & Roscoo are a hit on the
 
+---
+
 Dudley time. They are at Baltimore, Md., this week. The Walker's stock company are playing a four weeks engagement at Washington, D.C.
 
 Jolly Joe Saunders played the first half at the Lafayette Theater, New York, and is playing the final half at Pa., this week, with Sam Gray and one of the Loew theaters in the same village.
 
 ## REAL NOTICE
 
-The Commercial Appeal of Memphis, Tennessee, is no doubt the biggest and most newspaper in the South. Needless to mention, surely spread himself typed the following review of a recent concert given in the Tennessee metropolis. We shoot, and judge for yourself:
+"The Commercial Appeal of Memphis, Penn. is no doubt the biggest and most newspaper in the South. Ned Courtington wrote in one of his daily, surely spread himself when typed the following review of a recent concert given in the Tennessee metropolis. We shoot, and judge for you."
 
-Beaulie street to Broadway several years ago went Handy with his band, with his vision that the Negro race has and will have a distinctive music of its own: that one day instead of being regarded in more or less common form, Negro melody will echo in men; will be edited in the great American composite national music, just as folk songs of Europe have been embellished and placed in the garature of rhapsodies and opera.
+"From Beaulock street to Broadway several years ago went Handy with his band, with his vision that the Negro race has and will have a distinctive form of owning, at one day instead being ignored, less of a comic light Negro melody will echo in opera; will be incorporated in the great American composite musical, just as folk songs of New York, and received playback in the house at Church's auditorium last night. More than 1,000 people were turned away and standing room was premium. There was a liberal sprinkling with the appeal who attracted the real merit of the performance, enjoyed over note.
 
-The Broadway back to Beaulie street came Handy with his band, fresh from the triumphs of New York, and received plaudits from a packed house at Church's auditorium last night. More than 1,000 people were at a premium. There was a club sprinkling of white people present who, attracted by the real merit of the performance, enjoyed every note.
+"Handy has caught the spirit of the folk song of the Negro from the fields, and received playback in the mills. Handy has been a worker for still is a worker—a worker for the uplift of his Racoe and the creation of music that has an appeal to the car. "Vory one who loves melody that comes from the worker who gets joy out of his work."
 
-Handy has caught the spirit of the folk music of the factories, the quarries and the mills. Handy has been a worker. He still is a worker—a worker for the uplift of his Race and the creation of music that has an appeal to the car industry and who lives melody that comes from the worker who goes out of his work.
+"From the midday, Beaulock Street to Broadway, to the finale, when the orchestra stood and played the 'Memoirs' and which made Handy, there was melody, there was real musical proficiency."
 
-From the midday, Beaulie Street to Broadway, to the finale, the orchestra is real musical proficiency. Handy has explained the 'Memoirs' work and made Handy, there was melody, there was real musical proficiency.
+"The climax of the performance was the overture, Aunt Maga's Childrine; to catch some of the Negro melody and give it a blameless of classic setting. It opened well. Real orchestral skill was demonstrated in the open-ended and the sequence and antiphonal and composition. "It was a demonstration of the beginning of the work of weaving a theme about a cycle of folk songs, or other echoes of folk songs, and the singing of the Negro manmy to her babe.
 
-The climax of the performance was the overture, 'Aunt Mara's Child' on the handy, explained an anti-physical and counter harmony, and made Handy, there was melody, there was real musical proficiency.
+"The Yellow Dog Blues" probably written over the blue prospect a Mississippi Negro night face when catcher Sammy train out of Clarkedale, perhaps to the successful of Handy's recent compositions, brought the heaviest applause. Had the "Memphis Blues" had the same effect of the program a riot probably would have been.
 
-It opened well. Real orchestral skill was demonstrated in the opening strains, the sequence and antiphonal and counter harmony, the beginning of the work of weaving a theme about a cycle of folk songs, and the crooning of the Negro manny to her blues.
+"There was a liberal outpouring of Colorod society of Memphis to welcome Handy back again and bid him Gospeed back on his path, already stricken."
 
-The 'Yellow Dog Blues' probably written over the blue prospect a Mississippi Negro night face when catching the Yellow Dog train out of Clarksdale, perhaps the most successful of Handy's recent compositions, and echoes of folk songs, and the crooning of the Negro manny to her blues.
-
-The 'Yellow Dog Blues' probably written over the blue prospect a Mississippi Negro night face when catching the Yellow Dog train out of Clarksdale, perhaps the most successful of Handy's recent compositions, and echoes of folk songs, and the crooning of the Negro manny to her blues.
-
-There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all Black, and the Memphis Blues are in the same spot on the program a riot probably would have ensued.
-
-There are a liberal outpouring of Colorsoe society of Memphis to welcome the hack again and bid him Godspooned on his path, already strewn with success.
-
-There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all Black, and the Memphis Blues are in the same spot on the program a riot probably would have ensued.
-
-There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all Black, and the Memphis Blues are in the same spot on the program a riot probably would have ensued.
+"There are five Memphis Negroes with Handy and, including the trap drummer, Jasper Taylor, they are all outfists. H. H. Pace, Handy's business partner, H. H. Pace, was recognized as a leader in New York. Lee Concert showed Memphis the reason."
 
 A second concert will be given this afternoon the Grand Theater on Beale avenue."
 
 ## SOME NOTICE
 
-Here is a little write-up that appeared in a recent issue of the Memphis (Tenn.) Press, the biggest and best paper published by white folks in that city that year.
+Here is a little write-up that appeared in a recent issue of the Memphis (Tenn.) Press, the biggest and best paper published by white folks in the area.
 
-"Handy's famous band, which has done about as much as anything else to put Memphis on the map, may return to this city about May 16 to give a concert for white people. B. M. Roddy, cashier of the Solvent Savings bank in that city, is trying to make such arrangements."
+"Handy's famous band, which has done about as much as anything else to put Memphis on the map, may return to this city about May 16 to give a concert for white people. B. M. Roddy, cashier of the Solvent Savings Bank, today is trying to make such arrangements. 1,000 Negroes were turned away from Church Park last night, where Handy gave a concert for members of his Race. There was a huge demonstration when the composer of 'The Memphis Blues' led his band in that famous piece.
 
-"More than 1,000 Negroes were turned away from Church Park last night, where Handy gave a concert for members of his Race. There was a huge demonstration when the composer of The Memphis Blues' led his band in the concert."
+This afternoon a concert will be given at the Grand Theater, on Peavey avenue, for the band to perform for a Negro dance at Church Park and leave immediately thereafter for Little Rock, the next stop on its present tour.
 
-"This afternoon concert will be given at the Grand Theater, on Beale avenue. Tonight the band will play for a Negro dance at Church Park and leave immediately thereafter for Little Rock, the next stop on its present."
-
-"Handy, a Memphis Negro, is the originator of a dozen different blues." A few years ago he moved his headquarters from Beale avenue to Broadway. H. H. Pace, former assistant cashier of the Solvent Bank, is his business partner."
+"Handy, a Memphis Negro, is the originator of a dozen different 'blues.' A few years ago he moved his headache across the street avenue to a new way. H. H. Pace, assistant cashier of the Solvent Bank, is his business partner."
 
 INFORMATION
-The Season's Salient Song Success
+The Season's Salient Song
+Success
 
 "BABY BLUES"
 (Now Out on Q. R. S. Rolls)
 Get It
-
 Get C. Luckeyth Roberts'
 
 "RAILROAD BLUES"
-(Now Out on Q. R. S. and Vocal-style Rolls)
-And His
-
+(Now Out on Q. R. S. and Vocal-
+style Rolls)
+and His
 "Stamping the Blues Away"
-Get the Giat and Only
+Get the Guit and Only
 
 BERT WILLIAMS
 COLUMBIA RECORD
 
-"Elder Entmore on Genocosity"
-"Elder Eatmore on Throwing Stones"
+"Elder Eatmore on Gencosity"
+"Elder Eatmore on Throwing
+Stones"
 
 Written by Alex. Rogers
 And by All Means Get
@@ -135,11 +177,13 @@ BERT WILLIAMS
 Latest Big Song Hit
 
 "WHEN I RETURN"
-(Columbia Record A:2552)
-
-Written by Alex. Rogers and Will H. Vodney
-
-Ask your elder son to photograph records and music rolls of the following hits from the musical comedy success:
+(Columbia Record A.2552)
+Written by Alex. Rogers and
+Will H. Vodney
+Ask your child to photograph
+records and music rolls of the
+following bite from the musical
+comedy success:
 
 ## "BABY BLUES"
 
@@ -170,9 +214,9 @@ Dept. D. Brooklyn, N. Y.
 
 All Pace & Handy Music is on sale at all WOOLWORTH, KRESS, KRESGE, McCRORY, GRANT and METROPOLITAN STORES
 
-## THE TRIP
+THE CHICAGO DEFENDER
 
-Old Roll Top Man Takes Another Slant at Harlem and the Harlemites in the history of the big Pennsvania deposit diary of the big pot and prize train of the F. G. system
+## THE TRIP
 
 at Harlem and the Harlemites
 Nover in the history of the big Pennsylvania passenger pot and prize train in the city — the Broadway Limited—cause less excitement than did the arrival of the Old Roll Top Desk Man on his recent play and prize train in the city and not a gang cheered. Even the Red Caps went to sleep on the boy from in front of the Stock Yards, and he fought his weary way through the three rows in his hand and a Drs. Prescription in the other, he hummed that beautiful though sympathetic time. "What Was I Before He Was What He Is To Today?"
@@ -205,32 +249,13 @@ Seymour & Feamonte are at the Windsor & Push ore at the Pantages Theater, Oden, 
 
 ## ANDREW BISHOP
 
-Possibly the most popular male member of the Lafayette Players is the subject of this short stitch, christened Andrew Stovens Bishop. Club, as he is affectionately designated by his host of friends, was born at Mt. Kisco, N. Y., in 1893. He is a son of Rev. Hutchens Bishop, rector of St. Philip's P. E. church of New York city, and gained his first experience in the show
-
-Held in Chicago
-Recently
-
-Gen. Leonard W.
-Thompson, Alds.
-of Cleveland, Ald
-others, wi
-
-ROYAL
-459 E. 31ST STRE
-
-EXHIBIT
-
-FOR THE GREAT
-
-"Love
-
-G. Bishop
+Possibly the most popular male member of the Lafayette Players is the subject of this short match, cherished Andrew Hawkins Bishop. Bishop, who is affectionately designated by his host of friends, was born at Mt. Kisco, N. Y., in 1803. He is a son of Rev. Hutchens Bishop, rector of St. Philip's P. E. church of New York city, and gained his first experience in the show
 
 Andrew S. Bishop
-business as a member of Alex Rogers and Hepre Crocker a member of Al McKay playing the title role with more than ordinary success. This aggregation toured the south in 1911. After closing at the end of the season, Bishop invested a few million kopecks in the automobile and garage business. The late in 1918 he cranked up and joined the Anita Bush Stock Company, which played long and successful engagements at both the Lincoln and Lafayette theaters in Harlem. He was also ordered Players, which held the stage at the Garrick theater on Broadway for several weeks. After severing connections with "The Little Mother of Colored Stock" he signed with the Lafayette theaters, being given small parts under the supervision of former celebrated promoter and director, Bishop developed and advanced until today he stands out as an actor of real ability.
 
-Man's Man
-Andrew Bishop is a master all things, a "man's man". He stands something like 6 feet in his silk hose and is built along the lines of Paul Jones, who recently won the Kentucky Derby. He is a real athlete, and had he adopted the prize ring instead of the stage for the performance on a mighty fine trial horse. He is what might be called a real specimen of the "mathes idol" and it is an ordinary sight to hear the ladies in the audience sigh aloud when his work calls for an example of toew performance than Wilson sent to Europe before the late peace conference and hundreds of dollars are spent every season, by the different theaters at which he plays in replacing the glasses which are supposed to protect his job, with the jewelry or flash clothes and among the other splendid facts that go to give him an enviable record is the one that he never has his finger mails maneuvered in a barber window. He has ever turned down an invitation to crook his elbow it has never leaked out, all of which goes to show that he is a real fella after our own heart.
+business as a member of Alex Rogers and Henry Creamer's "Old Man's Boy," playing the title role with more than ordinary success. This aggregation of talent was initiated at the end of the season, Bishop invested a few million kopecks in the automobile and garage business. The odor of gasoline palled upon Bish, so late in 1916 he cranked up and joined the Anita Bush Stock Company, which successfully engaged at both the Lincoln and Ford theaters in Harlem. He was also a member of the Mrs. Hopgood's Colored Players, which held the stage at the Garrick theater on Broadway for several weeks. After severing connections with the Ford-colored Stock" he signed with the Lafayette Players, being given small parts. Under the tutorship of Edgar Forrest, the celebrated promoter and director, Bishop developed and advanced until today he stands out as an actor of
+
+Andrew Bishop is, above all things, a "man's man." He stands something like 6 feet in his silk hose and is built along the lines of Paul Jones, who recently won the Kentucky Derby. He stood on the prize ring instead of the stage for a livelihood he would have either made a champion or a mighty fine trial horse. He is what might be called a real specimen of the "mathesus idol" and it is an ordinary thing to hear the his work calls for an eye on the making. He gets more notes at every performance than Wilson sent to Europe before the late peacock conference and hundreds of dollars are spent every season, by the different theaters at which he plays in replacing the glasses on his wrist. He sees by photos from the dust. He wears no jewelry or fashy clothes and among the other splendid facts that go to give him an enviable record is the one that he never has his finger mails manneled in a barber shop window. He wears a wide-brimmed hat ever turned down an invitation to crook his elbow it has never leaked out, all of which goes to show that he is a real fella after our own heart.
 
 ## NEW YORK NEWS
 
@@ -257,30 +282,31 @@ HANDY MUSIC
 
 PUBLISHED
 
-LOOK FOR OUR TRADES
+FOR OUR TRADES
 WHEN YOU WANT
-HANDY MUSIC or I
+MUSIC or I
 PUBLISHED BY
-MUSIC O. CO. INC.
-[HOME OF THE BLUES]
+FACE & HANDY
+MUSIC & CO. INC.
+| HOME OF THE BLUES |
 GAIETY THEATRE BUILDING
 1547 BROADWAY, NEW YORK CITY
-SEE THAT THIS MARK IS ON EACH COPY
 
-MUSIC IS A HOUSEHOLD
+SEE THAT THIS MARQUE
 
-LIS
-OUR 15 OF
+MUSIC IS A HOME
+
+GELS
+
 -----Big Chief Blues
 -----Saxophone Blues
------Never Had the Blues
+-----Never Had the B
 -----Worried Blues
------Oh Saroo Saroo Blues
------A Good Man Is Hard to Find
------Think of Me, Little Daddy
+-----Oh Saroo Saroo
+-----A Good Man Is
+-----Think of Me, Li
 
 50
-All 15c Copies,
 
 WE THAT THIS MARK IS ON EACH COPY
 
@@ -329,62 +355,81 @@ Clarence H. Black's Symphony Orchestra SELECTED PHOTO-PLAYS of CLASS
 
 4404 STATE ST.
 
-A Picture of Real National Interest
+PAGE SEVEN
 
-BLOWING CLOSE-UPS OF Roscoe Conkling Simmons, Wm. Hale Jackson and Jackson of Chicago, Ald. Fleming is of New York City, De Priest and many percepts of their thrilling speeches.
+BOOKING!
+LASTEST PICTURIZATION OF
+League Convention
+A Picture of Real
+National Interest
 
+BROWING CLOSE-UPS OF
+Roscoe Conkling Simmons, Wm. Hale
+Soon and Jackson of Chicago, Ald. Fleming
+is of New York City, De Priest and many
+percepts of their thrilling speeches.
 Address for Dates,
-EENS MOTION PICTURE CO.
+CENS MOTION PICTURE CO.
 CHICAGO, ILL.
 
 ER, ATTENTION!
-LOOKING NOW READY!
-REEL ALL STAR COLORED FEATURE
+WORKING NOW READY!
+REEL ALL STAR COLORED FEATURE,
 Real Hearts"
-Donos & Thias Nehill Kelana Assisted by Vera Lavaasor and Maurice Staple
-Picture Ever Made. The Picture that Made a Go Wild! A Swet Love Drama, Showing Prejudice Was Overcome.
-
+Dones & Thias Nehll Kalana Assisted by
+Vera Lavassor and Maurice Staple
+Picture Ever Made. The Picture that Made
+a Go Wild! A Sweet Love Drama, Showing
+Prejudice Was Overcome.
 WILL SOON BE READY FOR RELEASE
-
-TO or Wire for Dates
+into or Wire for Dates
 RTEE FILM EXCHANGE
-LOS ANGELES, CAL.
+LOS ANGELES, GAL.
 
 Williams' New Song Shop
-of Player Rolls, Records, Sheet Music,thing in the music line, pay us a visit at 4 State Street. Repairing and tuning of any make a specialty.
+of Player Rolls, Records, Sheet Music,
+thing in the music line, pay us a visit at
+4 State Street. Repairing and tuning
+of any make a specialty.
 
 AND PIRON, PUBLISHERS
 "HOME OF JAZZ"
+
 CHICAGO, ILL.
 
 PLACES OF AMUSEMENT
 TAINER CAFE
 8 ST. AT INDIANA AVE.
-SUS FAMOUS GINGER BAND
-MUSIC FOR THE DANCING. SOME BANDS DON'T FAIL TO VISIT THE POPULAR
+IS FAMOUS GINGER BAND
+MUSIC FOR THE DANCING. SOME BAND
+WILL DON'T FAIL TO VISIT THE POPULAR
 RDENS, 3503 State St.
 HEAR THE BAND PLAY
 
 THEATRE
 NEAR 47TH ST.
-Dipped Theatre Outside the Loop
+Skipped Theatre Outside the Loop
 1200 ROOMY SEATS
-ES AND HIS SELECT ORGHESTREIGHT LAST SHOW STARTS AT 10:30 P.M.
+ES AND HIS SELECT ORCHESTRA
+RIGHT LAST SHOW STARTS AT 10:30 P. M.
 THEATRE ON THE SOUTH SIDE
 
-RD THEATRE
-Set and Michigan Avenue
-Jack's Symphony Orchestra
+ORD THEATRE
+et and Michigan Avenue
+Black's Symphony Orchestra
 PHOTO-PLAYS of CLASS
-OWNER OF PICKFORD, PHOENIX AND VENDOME THEATERS
+OWNER OF PICKFORD, PHOENIX
+AND VENDOME THEATERS
 
 MARK
-ANDY'S BLUES
+INDY'S BLUES
 SONGS
 BLUES
+
 BALLADS
 
 NECESSITY
+
 SPECIALS
 -----Darktown Regimental Band
 -----Oh Death, Where Is Thy Sting
@@ -392,12 +437,13 @@ SPECIALS
 -----Beautiful Land of Dreams
 -----Remember and Be Careful
 -----Nightie Night
------I'm Going Back to My Used to Be
+---I'm Going Back to My Used to Be
 for $1.50
 
-OF SONGS DESIRED
-RANT and METROPOLITAN STORES
+IF SONGS DESIRED
 
-THE BLUES,"
+GRANT and METROPOLITAN STORES
+
+THE BLUES."
 
 way, New York, N.Y.

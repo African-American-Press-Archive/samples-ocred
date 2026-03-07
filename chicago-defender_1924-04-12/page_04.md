@@ -1,3 +1,7 @@
+4
+
+AGE FOUR—PART ONE
+
 # CALIFORNIA LEASE LAWS AIMED AT US
 
 # Officer Slain by"The Wolf" in Girl's Flat
@@ -18,6 +22,10 @@ W. H. Long, a prominent Race man and a member of several organizations here, has
 
 # Beauty in30Minutes!
 
+[Picture of a man wearing a turban and a long beard, with his hands clasped in front of his face.]
+
+THE AUTOMOBILE COMPANY
+
 Spread it on face—results attained in 30 minutes
 
 Every pimple point, black-head and spot of dirt gone
@@ -31,6 +39,9 @@ which he called. TISULAX. IT ENHIZERGED THE TISUSES. LIGHTENED THE SKIN_AND LIGH
 BEAUTIFUL, complexions are not a matter of luck. They are the result of care and thought. Few people could retain complexions without a few simple things that they have learned. You, too, can have a clear, beautiful complexion, free of all pimples, wrinkles and blackheads. It is all very simple. It depends upon elimination of waste. Correct
 
 plate. It depends on the food, exercise and plenty of drinking water. Essential, equally important is the treatment of self. Nature provides us with a marvelous system of freeing the matter. If the pores do not function, they may with dirt.
+
+DR. W. H. HUFF
+Discoverer of Flies
 
 ## What It Does
 
@@ -56,6 +67,12 @@ to you. Write today. Send post-
 card, letter, or handy request blank
 below.
 
+SPECIAL
+OFFER!
+$2.50 Jar for
+$1.00
+Plus Postage
+
 You may have your first jar for only the bare cost of the bottle. You can use your hands. This is to enable everyone to obtain TIS-100 tablets. To present Doctor will send a regular full
 
 Please send me the full size $2.50 jar for which I receive $1.25, or I will I receive $1.15 when he delivers jar. This is payable to me. I am not satisfied with results in the dark jar money is to be returned. I am not satisfied
@@ -78,14 +95,21 @@ Our complete beauty set, consisting of Tissulax (clay), $1; Tissucre (cold cream
 
 # Miss Hallie Q. Brown Elected to Convention
 
-MISS HALLIE Q. BROWN
+```markdown
 
-Los Angeles, Cal., April 11—Having received notice that she has been selected as a Coolidge delegate-at-large to the Republican national convention for the state of Ohio, Miss Haitie Q. Brown left this city for her home in Wilberforce, Ohio, to open her campaign in behalf of her candidate. Miss Brown has been in the Wes. for four months entering under the auspices of the women's clubs, of which she is president of the National association. She has also addressed large audiences of forty-five and churches. Her efforts have been largely to create sentiment among women of California and Arizona favorable to the creation of a 150,000 scholarship of girls to complete their education in the higher institutions of learning.
+```
+
+Tusgeke, Ala., April 11—Tribute was paid to the memory of the late booker T. Washington, founder of Tuskegee institute, in the most eloquent terms by Dr. Talcott Williams, dean emeritus of the Pulitzer School of Journalism, New York city, who delivered the Founder's day address here April 5, during the eighth annual African-American festival of Dr. Washington's birthday. Dr. Williams was introduced by Dr. Robert R. Moton, principal of the audience assembled in the institute chapel for these exercises. Dr. Williams declared booker T. Washington to be the "national leader" who "slapped the opinion of black and white alike." Commenting upon the courageous work of Dr. Washington, she said:
+
+MISS HALLIE Q. BROWN
+Los Angeles, Cal., April 11-
+Having received notice that she has been selected as a Cooidge delegate-at-large to the Republic national convention for the state of Ohio, Miss Hallee Q. Brown left this city for her home in Wilberforce, Ohio, to open her campaign in behalf of her candidate. Miss Brown has been in the Wills County School under the auspices of the women's clubs, of which she is president of the National association. She has also addressed large numbers of officers that have been largely to create sentiment among women of California and Arizona favorable to the creation of girls to complete their education in the higher institutions of learning.
 
 ## FIFTEEN-YEAR-OLD BOY IS
 LYNCHED BY GEORGIA MOB
 
-# FIFTEEN-YEAR-OLD BOY IS LYNCHED BY GEORGIA MOB
+# FIFTEEN-YEAR-OLD BOY IS
+LYNCHED BY GEORGIA MOB
 
 Woodbury, Ga., April 11—Beecrook Thrash, employed at a local bank as the bank's chief cashier. Thursday and lynchy; by a mob afflicted he had shot and fatally wounded a policeman who attempted to make a confess to taking money from the bank. The policeman was shot by his own pet when the boy resisted his abuse and escaped.
 
@@ -93,18 +117,58 @@ No attempt, it is said, was made by the sheriff in whose custody Thirash, who is
 
 ARRESTED FOR SELLING HORSES HE DIDN'T OWN
 
-work at the Wister institu-
-ment a men approached her
-that they had and
-hook, containing a
-money and asked her
-some of it. She took
-her to make change for
-did not discover her
-reached her work.
+Philadelphia, Ipn, April 11—Walter Avery of Price St., who admitted that he had stolen six horses, was committed in default of $2,000 bill by Police Judge Cleary. Avery has been selling horses when he was taken there at a livery stables. All of the horses have been recovered.
 
-Philadelphia, Ia., April 11.—Walter Avery of Price St., who admitted that he had stolen six horses, was committed in default of $3,000 bail by Police Judge Cleary.
-Avery has been selling horses which he obtained by hiring them at livery stables. All of the horses have been recovered.
+DUNLAP
+
+Individuality!
+
+A favorite with those who want individuality in their footwear.
+
+Here's a snappy oxford of tan calf with fancy collar. White rope stitching on soles gives distinctive contrast. Dunlap rubber heels.
+
+The Dunlap checkerboard trademark is stamped on the sole. Your Guarantee of quality.
+
+If your dealer is not listed below, write direct to us. Send for free style booklet.
+
+The Bettmann-Dunlap Co.
+Established 1890
+1100 Sycamore St. CINCINNATI, OHIO
+
+Dunlap Dealers Everywhere
+
+EXTRA QUALITY
+DUNLAP
+SHOES
+
+DUNLAP
+
+quality!
+
+those who want
+their footwear.
+
+by oxford of tan
+collar. White rope
+gives distinctive
+rubber heels.
+
+checkerboard
+stamped on the
+quarter of quality.
+
+not listed below.
+Send for free
+
+-Dunlap Co.
+12 1890
+INCINNATI, OHIO
+
+Everywhere
+
+QUALITY
+DUNLAP
+SHOES
 
 DUNLAP
 
@@ -129,6 +193,27 @@ DUNLAP
 SHOES
 
 ## WE SELL DUNLAP SHOES
+
+Baltimore, MD..... I. E. Leverman, 901 Pennsylvania
+Carbonville, Ill..... Wolf Shoe Company (also Mike)
+Chicago, Ill..... Sam Wold, 5108 S. State St.
+Chicago, Ill..... Sid's Shoe Store, 3418 S. State
+Chicago..... Twentieth Street, Bootery, 3
+Indianapolis, Ohio..... Tenth Street, 5750 S. State
+Cleveland, Ohio..... Cort Berman, 3200 E. 59th
+Columbus, Ohio..... Herman Rothman, 90 E. Lon
+Ohio..... D. H. Hipman, 90 E. Lon
+Gorra Rapids, Mich..... United Shoe Store, 321, David
+Jacksonville, Fla..... United Shoe Store, 224 Broad
+Kansas City, Mo..... A. Levine, 1603 E. 18th St.
+Newark, N.J..... A. Kraemer & Meyer, 172 Spring
+New York, La..... Daniel Dineau, Shore, 95
+New York City..... Capitol Shoes, 573 Lenox
+New York City..... Capitol Shoes, Lincoln Square,
+Norfolk, Va..... Tony's Shoe Store, 102 Churro
+South Band, Ind..... J. Roehman, 700 M. Davidson
+Toledo, Ohio..... M. Wineburgh, 415 Monroe St.
+Youngstown, Ohio..... Rose & Son, 557-559 W. Feder
 
 man, 901 Pennsylvania Ave.
 Company (also Murphyboro, Ill.)
@@ -164,8 +249,6 @@ Ypsilantow, Ohio ... Rose, 6, 58th, 557-580 W. Ferdorst St.
 
 ## Journalist Comments on Educator
 
-Tuskegee, Ala., April 11—Tribute was paid to the memory of the late Booker T. Washington, founder of Tuskegee institute, in the most eloquent terms by Dr. Talcott Williams, dean emeritus of the Pulitzer School of Journalism, New York city, who delivered the Founder's day address here April 5, during the eighth annual observance of the anniversary of Dr. Washington's birthday. Dr. William was asked, Dr. R. Washburn, M'ron, principal of the institute, and a large and appreciative audience assembled in the institute chapel for these excerpts. Williams was Washington to be national leader," who "shaped the opinion of black and white alike." Commenting upon the discouragements while he worked at the institute, Dr. Williams said: "There were those who doubted, denied, opposed, challenged his purpose, his leadership, and declared his principles and his purposes a surrender of his own life. Too often he came into his own life and his own accepted him not. His lofty nature met the duty of the day, were wounded and sacrificed and death came premature to one worn down by heavy
-
 "There were those who doubted, condemned his teachings, attacked his leadership, and declared, on prior occasions, that closing the door of the future, his own accepted him put. His lofty nature, his sensitive son, his deep care, his kindness, his deep care, wounded and sacerdote and death came premature to one worm down by heavy pressure."
 
 "Many men, the leaders of our day and of the past half century I have known. None had a senior vision, a wide smile, and a strong courage, a more wisdom, a kinder judgement."
@@ -179,37 +262,39 @@ Philadelphia, April 11, 1940—
 died at 3121 Delancey St. was robbed of $295 on Monday by two men at 37th St. and Woodland Ave. by the "pocketbook game."
 He just drawn the money from a bank and was on her way to work at the Wister institute when two men approached her and had just found a pocketbook containing a large sum of money and asked her if she wanted some of it. She took the men and did not discover her loss until she reached her work.
 
+B
+
+THE CHICAGO DEFENDER
+
 # WHITES JOIN PROGRAM FOR RACE UPLIFT
 
 ## School Heads Talk to Florida Tourists
 
-The conference closed with a goodwill Sunday, when a thousand white tourists and citizens are located in New York and issued there is no list of accredited institutions sponsored by the council on medical education of the American Medical Association. Upon this subject the Daytona conference passed resolution.
+[OCR timeout]
 
-The conference closed with a goodwill Sunday, when a thousand white tourists and citizens are located in New York and issued there is no list of accredited institutions sponsored by the council on medical education of the American Medical Association. Upon this subject the Daytona conference passed resolution.
+Secretary Penn stated that negotiations were under way for a new institutional board of Education, located in New York, or some other standardizing agency. It is the understanding that until the new investigation is made, there is no list of accredited institutions for our Race sponsored by the council on medical education of the American Medical Association. Upon this subject the Daytona conference passed resolutions.
 
-The conference closed with a goodwill Sunday, when a thousand white tourists and citizens are located in New York and issued there is no list of accredited institutions sponsored by the council on medical education of the American Medical Association. Upon this subject the Daytona conference passed resolution.
+The conference closed with a goodwill Sunday, when a thousand white students from Daytona gathered in the chapel of the Daytona school, President Mary McLeod Bethune, Dr. W. W. Alexander of Atlanta, Ga., secretary of the interracial committee, I. Gurdon Penn, corresponding secretary of the board, delivered addresses.
 
 # GARVEYITES ARRESTED WHEN PARADE PERMIT IS MISSING
 
-Twenty-six men and eight women, all members of the U. N. I. A. Garvey organization, were arrested Monday at Stanton Ave. police station, on an charge of parading without a permit. About as many more escaped the police. They occupied two buildings and were many music furnished by the Garvey hand. The paraders were passing literature which indented Nuthan S. Tayler and were many for Congress. The backers of the "Back to Africa" advocates. The case came up for hearing before Judge Bugue Wednesdays morning. George C. Adams, representing the Garveytes, explained that the members were a little enthusiastic over the judge Bugue dismissed the case, stating that the clan was over and "there would be no cause for another parade soon." Some of the leaders in the parade were also arrested. Mrs. Hattie Stevenson, Mrs. Harris, James McGinnis and Richard Jones.
+[OCR timeout]
 
 # ARREST MAN IN CHICAGO FOR TEN-YEAR-OLD MISS. CRIME
 
-Through Attorney's Pauston Delaney and W. L. Offord, 184 W. W. Delaney, 184 W. W. corpus has been filed in behalf of Richard Watson, 5300 State St. wanted in West Point, Miss., for burens.
-
-Request of the Mississippi authorities Watson was taken into custody Wednesday night by Sergt. John Scott of the detective bureau. A police officer in Chicago armed with an indictment against Watson for a crime said to have been committed 10 years ago. According to attorney Offord, shortly after the alleged crime was committed Watson left West Point because he felt he would not get a fair trial. He deaches that he is charged with stealing some goods from a freight car. His hearing on the halabus corpus will be held before Judge Hugo Pam of the superior court Saturday.
-
-WOMAN'S CHARRED BODY IS FOUND BY CHILDREN
-
-Pine Bluff, Ark., April 11.—The burned and badly mutilated body of Mrs. Emily Brown, 80 years old, was found in her house, about 10 miles by the morning by her grandchildren.
-
-The aged woman was last seen alive Thursday and it is evident that she is believed to have been caught fire and that she tried to smother the flames by wrapping herself in her clothing, as the nude body has apparently wrapped in a ruft when found.
+[OCR timeout]
 
 ## GOING OUT TONIGHT?
 
 # GOING OUT TONIGHT?
 
 You can usually tell when a girl or boy is looking forward to an evening out, sit up, eat a dinner, sit in, then be given a voucher to "fill in." as they get ready to go to a party or dance, or have nothing to worry them about the way they look are so much more noticeable by the shrinking and backwardness of the shirt and pants, but because they know how unattractive they must look on account of their plimply, blotchy or rough, eccentric. Their one friend is the wonderful White Ointment. If they will just use it faithfully, because it is not as thick as the skin and make their skin soft, smooth, lovely. It is economically priced, in liberal package. The 50c size容量的25c size. All dealers have it—
+
+---
+
+---
+
+---
 
 # Get's Religion and Tells Law of Booze Ring
 
@@ -244,22 +329,6 @@ and wishes to hear from friends.
 
 STRAIGHT OR WAVY
 
-Combs — No
-base—Wonder-
-ration—Comb
-You Choose—
-fumed—Used
-colored Stage
-
-Combs out with
-and colorful
-healthy appear-
-and glory of
-serves you the
-harm.
-
-TYLE—LUSTROUSLY LIFEFUL
-
 Without Hot Combs — No
 Muss—No Grease—Wonderful
 New Preparation—Comb
@@ -275,70 +344,66 @@ The gleam and glory of
 beautiful hair gives you the
 final touch of charm.
 
-Nothing adds to your attractiveness like a masterful dress. It is the most valuable and cheerful clauses. It beware enchantment and commands admiration. The most valuable leaders not use this delicateless preposition to use, because they collectively extend and such a pleasure to use, because they conquer and comes out wavy or straight.
+Beautiful Hair
+Special Offer
+Nothing adds to your attractiveness like a hair. It is your most valuable and cherished item. It is the most important price for this wonderful creation. Your most valuable and cherished hair makes browns enhancement and commands admiration in the thousands who have not tried it yet. Your browns are making leaders in this delicate art and are making a special offer of two browns for each ten days and if you not more than ten rations. It is delicately scented and such a ration. It is beautifully scented and such a ration. It is beautifully scented and such a ration. It is just what the leaves want and needs to conquer and comfort you in hair soon in perfect ambiance and glorious gloss. That sparkling hair of glorious beauty.
 
-RY IT—YOU WILL LOVE IT
-FOR YOUR MONEY SENT RIGHT BACK
-kick their best and at all times be attractive this scientific prepara-
-tion need not risk a cost in any way. We absolutely guarantee you
-specially refund your money. It even darkens selling back. It will
-or today. Just try a really wonderful preparation. Address the
-3. Mutual Bldg., Kansas City, Mo.
+JUST TRY IT—YOU WILL LOVE IT
+FOR YOUR MONEY BENT RIGHT BACK
+To those who want to sell their scientific preparation to you. You need not risk a cent to try it. We absolutely guarantee you will be delighted equally. You need not refund your money. It even darkens fading hair. It will who you instantly.
+
+Write for special offer today. Just try a really wonderful preparation. Address the Mutual Laboratorica, Desk 3, Mutual Bldg., Kansas City, Mo.
 
 HOW CAN I DO IT?
 SPANISH LACE AND
 SILK GEORGETTE
 CREPE DRESSES
 
-Special
-Sale
-Price
-Only
-
-$4.97
+Special Sale
+Price Only
 Worth
 $15.00
 
-JUST TRY IT—YOU WILL LOVE IT
-OR YOUR MONEY SENT RIGHT BACK
-To those who want to help, remember that this scientific preparation is without sequel. You need not risk a rent to try it. We absolutely guarantee you will successfully refund your money. It even darns tearing. It will you忍耐ity.
-
-Write for special offer today. Just try a really wonderful preparation. Address the Mutual Laboratorica, Desk 3, Mutual Bldg., Kansas City, Mo.
-
-Wear this dress, for going out—to parties, to
-walking, everywhere. It is appropriate, aylish
-and 'classy'. For young and old, and for all
-types of adults, a woman should have this
+Wear this dress for going out—to parties, to
+changing or wearing it for recreational and
+walking. Everywhere. It is appropriate, stylish
+and chic. For young and older people this
+types of figures. Every woman should have this
 wonderful party dress.
 
-A Dress You Will Be Prod. to Wear
-Made of fine quality, good wearing Spanish lace
-and floral floral dress. The dark green lace
-sleeves are. Just the thing. Trimmed at the
-back, to retain your own uniqueness and for
-europe. Wide radiusilk glint at the waist,
-trifinished with pretty flower at the side, attracts
-the eye. A high class, luxurious, silky
-eardrush. I include a high class, luxurious, silky
-eardrush. Making the dress absolutely Shadow Prod.
-This dress is copied from a Spanish lace dress formerly
-sold by me for $13.50, but at few clever changes to de-
-press the price will cost $4.97. - price so low that you will surely want it. At any time I am so sure that you will keep
-it if you don't make a masterpiece, you can
-see it without any risk.
+A Dress You Will Be Prod to Wear
+Made of fine quality, good wearing spanish
+in design. The short, Oriental
+sleeves are "Just the thing." Trimmed at the
+ankle and your favorite skirt.
+Wide radium-silk glitter at the waist,
+trimmed with pretty flower at the side, attractive
+and easy to wear. A part of each dress,
+I include a high class, luxurious, silky
+sleeve, I include a high class, luxurious, silky
+sleeve, making the dress absolutely Shadow
+Proof.
+
+The dress is copied from a Spanish knee dress formerly
+sold by me for $15.50, but a few clever changes in
+price so only $4.99—a price so low that you will surely
+want it. At any rate, I am so sure that you will keep
+it. At any rate, I am so sure that you will keep
+it. Make sure that make matters work, so you
+can see it without any risk.
 
 SEND NO MONEY
 Send only a letter or postcard now. When dress
-arrives pay them a few cents in cash.
-Then examine and try on in your own home. If you like it is yours, but that faire.
+is being sold, please send only a $1.50 postage.
+Then examine and try on the dress in your own home. If you like it it's yours; if you
+do not, it will return you. Don't that fair?
 
-MARY ROBERTS Care of
+MARY ROBERTS
+Care of
 Norman Roberts & Co.
-Dept. 21D60, 1428 N. Wells St., C.icago, Ill.
+Dept. 21D60, 1428 N. Wells St., Chicago, IL.
 
 ---
-
-Beautiful Hair
 
 # LODGE GIVES DONATION TO OPEN BUREAU
 
@@ -346,98 +411,39 @@ Beautiful Hair
 
 Washington, D. C., April 11. Through the legislative or information bureau which the National Race Commission soon after its annual session beginning April 29, information pertaining to all phases of racial life and welcoming for the rights of our Race will be available for distribution throughout the country to interested persons, organizations, newspapers, magazines, and certain sections of this country will come immediately under attack. Representative George Holden Tinkham kills a author of a resolution in the federal court a reduction in representation of those states which deny citizens the right to vote, has tentatively agreed to address the Race congress on this issue.
 
-As a prelude to the attack upon the laxity of the system that allows color in spite of Constitution and account of anties to the contrary now instillating the Race Congress in this session to resolve itself to the task of arousing militant spirit and resolute determination with which the Race Congress is fighting the light. Men and women and prestige having interest in this work are being invited to address the sessions on these subjects, therefore has been extremely fortunate that he will deliver an address on this occasion.
+[OCR timeout]
 
-All will remember Senator Borah for his timely, unsolicited defense on the leading constitutional lawyers of this country; the John S. Scales brute' after the race all rights of the public generally. And only here on a government ago, when a conference on enforcement of the John S. Scales brute
+EX-POLICEMAN SENTENCED
+Philadelphia, Pa., April 11—William Burwell, at one time a police officer, was on the 14th district, was on Thursday sentenced to nine months in the county prison by Judge Gordon, after being guilty of assault and battery charges. He was identified as neighbor of the expoliceman, charges he was assailed him while he was in his own home at 49 W. Duval St.
 
-Special Offer
+MARIA
 
-This new preparation is now used by many cooks. It is a regular price for this wonderful creation is more than a thousand dollars but not allow the many thousands who have not yet received it wonderful it really is, we are making a recipe to can it ten days and if not more than can it ten days and if not more than it is just the same now more and book it is just the same
+[OCR timeout]
 
+[OCR timeout]
+
+Million Dollar Gland Discovery
 Restores Lost Vigor; Glands Made Active; Youthful Vigor Thrills
-
 RESULTS—OR NO COST
-
-NOT A DRUG
+NOT A
+DRUG
 Results
-Reported in 24 Hours
+Reported
+in 24
+Hours
 
-Man 60 years old took of amazing rejuvenation and youthful gland vigor—without regard to operation.
+Man 60 years old took out of amazing rejuvenation and youthful gland vigor—without related operation.
 
-Hoe says. You gland dissection in worth
-his money. I thought my youthful days were gone
-forever, but praised to your wonderful gland
-man. You can depend upon me for my mil-
-tenance and boasting for your functi-
-on of youth.
+[OCR timeout]
 
-THE THIRD JOJOSEE GAND ACTIVITY
+[OCR timeout]
 
-If age, sickness, dissipation, or permissive
-behavior you are weak and your system run down;
-if you have to get up during the night; if
-energy this new scientific gand extillate will
-you can again be blessed with joyous activity;
-if you have to work with money is refunded; Many wars will thank you;
-if work directly on the vital glands, it
-vives, stimulates, regulates and makes dorm-
-nation new compounded for home use. You can
-have a short time the double stretch $3.00 comp-
-pounded for home use. You can want to feel the thrill of joyful time and health don't delay in making this singing dissection. Mutual Illic, Kansas City. Mm. Laberence. Mutual Illic, Kansas City. Mm. Laberence. As the double stretch is for men.
+[OCR timeout]
 
-Pongee Bargain
+[OCR timeout]
 
-Newest Style
+[OCR timeout]
 
-3-Piece
+[OCR timeout]
 
-SUIT
-
-DRESS
-
-$3.79
-
-French
-
-Model
-
-Pleated
-
-Skirt
-
-SEND No Money
-Made in the United States
-Made in the United States
-Made in the United States
-
-World Mall
-Oklahoma
-Dent, B9860
-2853 VanBuer
-St. Chicago
-
-CHANGE YOUR LUCK!
-IF LUCK has been against you, wear this
-Ring of Fortuna. Luck conquers all. Fortuna
-wear for mystic Sym-
-monies, masterpieces of art,详
-masterpieces of art,详
-mounted, camouflaged,
-with the Lady Luck. Ring in
-Lady Luck. Ring in
-Lady Luck. Ring in
-Lady Luck. Fully guar-
-nished, gifts to loved ones.
-Nothing like it society.
-Kneecity Designed and
-Sited for Charming
-have money, sweet-
-heart, health and leis-
-ure. Write today. A pleasing surprise awaits you.
-
-SEND NO MONEY
-Only your money can address
-When your
-ring comes down in trust with the
-money. Send $1.75 in cash or
-$1.57. Or if you like, send $1.75 in cash or
+[OCR timeout]

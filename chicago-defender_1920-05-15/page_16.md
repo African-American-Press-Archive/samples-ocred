@@ -1,6 +1,78 @@
 Entered an second-disk matter, February 1, 1906, at the Postoffice in Chicago, III. under act
 at March 9, 1819.
 
+THIS IS THE SEASON of the year when communities set about cleaning house. It is a time when the housewife marshals the scrub brush, the paint brushes and the whitewash pails for the annual cleaning. Her work, however, has to do with the physical side of the community. The moral side is too often neglected. Possibly when the housewife shall have come into possession of her full civil rights we shall fund her directing her activities to both the physical and moral side of the question.
+
+IN OUR OWN COMMUNITY one can see the need of some such heaven as the cleansing influence of women in applying the moral scrub brush to some of the civic filth with which we are surrounded. There is a crying need for some purging influence in every section of this city. We are principally concerned, however, with our own particular section. Time and again we have called attention to conditions here that have become almost unbearable. On all sides we see evidences of lawlessness and civic rottenness that are calling loudly for a clean up.
+
+THE SITUATION among us reminds one more of a wild west town than a highly civilized community. Everywhere we see the law suspended. Gambling-houses abound in nearly every block. At any hour of the day or of the night these holes of iniquity are thronged with scores of strapping, able-bodied young men who ought to be directing their energies along more useful channels. These men are nothing more than mere parasites who prey upon the useful members of society lured to these dives by the cappers and solicitors.
+
+THESE THINGS could not go on in the community without the connivance with and the help of somebody in authority. To assume that the law can be suspended as to these evils without a consideration is absurd. The gambling-houses, however, are not the only evils existing among us. For some reason our section has become the dumping ground of every form of lawlessness imaginable. Word seems to have gone out that everything goes in our part of the city. Houses of ill-fame, both black and white, have sprung up on every hand. It is no uncommon thing to find them plying their nefarious business in neighborhoods inhabited by respectable people. Now and then the police raid these places, but there seems to be no honest effort to close them up.
+
+SOMETHING SHOULD BE DONE, and speedily, to give this district, and especially that part confined within the Second ward, a house cleaning. Somebody is chargeable under the law with this responsibility and we want that somebody to get busy. There is no reason why a section given over almost exclusively to the occupancy of our people should be infested with gamblers, thieves and buffet flats. If the policemen detailed to look after this district are incapable of the task imposed upon them, then other policemen should be found who can do the work.
+
+THERE IS NO REASON for the Second ward becoming a stench in the nostrils of this community. It should not be pointed out as a plague spot. Certainly it has been exploited long enough. Our enemies charge the lax condition existing among us to rotten politics, and we can say little in defense when we know these things could not exist if the police did their full duty.
+
+NO ORGANIZATION built around such evil influences can long exist. Sooner or later the decency of the ward will assert itself and call to strict account those responsible for a situation that is growing uglier every day. Those responsible for the suspension of the law among us should speedily take note of these conditions. Their failure to do so will ultimately result in their own undoing.
+
+LEADERSHIP CAN BE MEASURED neither by the advisor nor unthinkings approval nor the sheer dominance of a man accidentally made famous. It is a rather quality evoked only by the force, uncompromising but of portent. In recent years we have been trailing in new territory. Every turn has had precious situations. We have been living and struggling on the turbulent landscape of the thoughtless have accepted adjustments that have come without reflection and have suffered in consequence. They have been too eager to accept half a leaf when a full leaf could have been secured with a little more effort.
+
+OUR MEN AND WOMEN of the old school are less militant than the new bloody blood gone along these many years on the theory that the easiest way is to kill them with no injuries heaped upon them only in a mild manner, fearing, in doubt, or in defiance, or in open opposition. All this all due respect to those who have followed this line. The ecuro statistician who would stop the Raco has taken it due largely to the younger generation who have been caught for every right and privilege enjoyed by any other good citizen.
+
+F. ARNOLD HILLJ, executive secretary of the Chicago Urban League, typifies the remarkable the young blood referred to. We are not too IO to acknowledge the remarkable contributions of this young man, who has done so much to establish profitable and successful business, the better elements in both groups. During the three years he has been involved in succeeding in forcing from profiled employers an admission of their importance to the working men. Positions in industry have been created where forbidding hands take our men since the very infancy of industry. Three thousand young women in the hopelessness of domestic service. Responsible organization of the South Side branch of the Community Service, of which the Illinois organization of the South Side board, has been placed in the hands of Mr. Hill. It was a fortunate stroke that the organization of community services. We can at least feel confident that this instrument of community betterment will function effectively and to the highest: interest of our group.
+
+THE HOPE OF OUR GROUP lies in the young blood. Mr. Hill is but one of many throughout the country who are building a foundation for our superstores, because we require delicate tact and a calculating insight into social problems to balance our labor's game of chess. We argue much about the power of public opinion and properly. It is counseling to reflect that we have men in the raiding generation and investment can be trusted, who have the gonius for organization and administration, who know the habits of men who assert leadership of the old school type—little thought of personal aggrandizement. We repeat, our hope lies in our new blood.
+
+THE STRIKES of the switchmen gives added emphasis to the necessity for the enactment of some sort of legislation which will bring about compulsory arbitration of labor disputes. It should be made impossible for any group of workers to so tie up any branch of industry that it brings about a paralysis such as is going on now is far-reaching in its consequences because the industry its legs and arms, while every channel of trade is more or less charged. The packing industry seems to have been the hardest hit. Thousands of employees have been forced into idleness through no fault of their own.
+
+SOONER OR LATER the ultimate consumer must pay the freight for incurred costs on the necessities of life. Meat prices are already soaring and other commercial products are made by the parties in interest, both employers and employees, to find a solution for their disagreement. The patience of the public is being solely tried with the strike owl, and unless something is done to stabilize industries no man can tell what will happen to them to have formal disputes. The passage of legislation compelling the parties to injurious disputes to submit their grievances to a board of arbitration. Other states should follow her example if we are to have an end of the ever recurring industrial die-ups that make living conditions one long nightmare.
+
+OUT FRIENDS, the enemy, have selected July Fourth to pull off the next riot. Well, there's nothing like having something to look forward to.
+
+IF WE COULD put a few movies on the farm, a few cabarres and a few bright lights perhaps our farms wouldn't be deserted. Nothing beats a suggestion.
+
+24
+
+EDITORIAL
+PAGE OF THE
+
+CHICAGO WORLD'S GREATEST
+
+Founded May 6, 1806, by ROYAL
+
+Publication
+
+THE ROBERT S. ABROTH (INCORPORATION)
+
+Enforced an second-class matter, February 1, 1819.
+
+OHIOAGO—3189 Blade Street
+LONDON—17 Green St. Charing Cross
+
+ROBERT S. ABROTH
+ALFRED ANDERSON
+
+TOMORROW
+Most wonderful things are of tomorrow.
+Clouds dark will give place.
+And hopeful we drift on life.
+I am mindful the while that the
+That for us in this world nays a tomorrow.
+
+A NEEDED SPIRIT
+
+THIS IS THE SEASON of cleanliness about cleaning house. It is a task the scrub brush, the paints for the annual cleaning, with the physical side of the house neglected. Possibly when no possession of her full civil rights activities to both the physical IN OUR OWN COMMUNITY which leavens as the cleansing in the moral scrub brush to some areas surrounded. There is a crime in every section of this town, however, with our own pain we have called attention to almost unbearable. On a business and civic rottenness can up.
+
+THE SITUATION among the most town than a highly civilized town the law suspended. Gamble block. At any hour of the ninetyuity are thronged with young men who ought to be detrimental channels. These men are prey upon the useful men by the cappers and solicits.
+
+THESE THINGS could not be connivance with and the law assume that the law can be seen a consideration is absurd. Not only the only evils existing as an institution has become the dumping business imaginable. Word seems going in our part of the black and white, have sprung up common thing to find them play neighborhoods inhabited by police raid these places, but short to close them up.
+
+SOMETHING SHOULD BE done district, and especially that word, a house cleaning. Some man with this responsibility and joy. There is no reason why passively to the occupancy of gambrelers, thieves and bulldogs to look after this district used upon them, then other people do the work.
+
+THERE IS NO REASON for much in the nostrils of this town out as a plague spot. Long enough. Our enemies chonging us to rotten politics, and then we know these things could not be done long exist. Sooner or later assert itself and call to strict a situation that is growing uglier for the suspension of the law of these conditions. Their result in their own undoing.
+
+[OCR timeout]
+
 TOMORROW
 Most wonderful things are we planning to do,
 Tomorrow.
@@ -13,47 +85,29 @@ A tomorrow.
 
 ## A NEEDED SPRING CLEANING
 
-THIS IS THE SEASON of the year when communities set about cleaning house. It is a time when the housewife marshals the scrub brush, the paint brushes and the whitewash pails for the annual cleaning. Her work, however, has to do with the physical side of the community. The moral side is too often neglected. Possibly when the housewife shall have come into possession of her full civil rights we shall find her directing her activities to both the physical and moral side of the question.
-
-IN OUR OWN COMMUNITY one can see the need of some such leaven as the cleansing influence of women in applying the moral scrub brush to some of the civic filth with which we are surrounded. There is a crying need for some purging influence in every section of this city. We are principally concerned, however, with our own particular section. Time and again we have called attention to conditions here that have become almost unbearable. On all sides we see evidences of lawlessness and civic rottenness that are calling loudly for a clean up.
-
-THE SITUATION among us reminds one more of a wild west town than a highly civilized community. Everywhere we see the law suspended. Gambling-houses abound in nearly every block. At any hour of the day or of the night these holes in inquiry are thronged with scores of strapping, able-bodied young men who ought to be directing their energies along more useful channels. These men are nothing more than mere parasites who prey upon the useful members of society lured to these dives by the cappers and solicitors.
-
-THESE THINGS could not go on in the community without the connivance with and the help of somebody in authority. To assume that the law can be suspended as to these evils without a consideration is absurd. The gambling-houses, however, are not the only evils existing among us. For some reason our section has become the dumping ground of every form of lawlessness imaginable. Word seems to have gone out that everything goes in our part of the city. Houses of ill-fame, both black and white, have sprung up on every hand. It is no uncommon thing to find them plying their nefarious business in neighborhoods inhabited by respectable people. Now and then the police raid these places, but there seems to be no honest effort to close them up.
-
-SOMETHING SHOULD BE DONE, and speedily, to give this district, and especially that part confined within the Second ward, a house cleaning. Somebody is chargeable under the law with this responsibility and we want that somebody to get busy. There is no reason why a section given over almost exclusively to the occupancy of our people should be infested with gamblers, thieves and buffet flats. If the policemen detailed to look after this district are incapable of the task imposed upon them, then other policemen should be found who can do the work.
-
-THERE IS NO REASON for the Second ward becoming a steench in the nostrils of this community. It should not be pointed out as a plague spot. Certainly it has been exploited long enough. Our enemies charge the lax condition existing among us to rotten politics, and we can say little in defense when we know these things could not exist if the police did their full duty.
-
-NO ORGANIZATION built around such evil influences can long exist. Sooner or later the decency of the ward will assert itself and call to strict account those responsible for a situation that is growing uglier every day. Those responsible for the suspension of the law among us should speedily take note of these conditions. Their failure to do so will ultimately result in their own undoing.
-
 ## NEW BLOOD
+
+[OCR timeout]
 
 IP CAN BE MEASURED neither by the alone sheer dominance of a man accidentally murdered only by the force, uncompromising but in recent years we have been trudging to overcome it. We have been in robust burden line. The thinness have to come with reflection and hardship too eager to accept a loaf when a full effort. AND WOMEN of old school are less militant have gone along these many years to the best way, protecting against injustice, manner, fearing, no doubt, to incur the will, to respect to those who have followed the will, to protect and leading the Race to a younger generation who believe that justice can be enjoyed by any other good citizen. HILA, executive secretary of the Chicago Urb., has given young blood referred to. We are remarkable leaders and leading commanders to establish profitable and binding contracts in both groups. During the three years he has he has succeeded in forcing from prejudiced men a service. Recently the organization of community Marshall Fleet was created where (building) people have waived of industry. Three thousand men have for opening business opportunities away from service. Recently the organization of community Marshall Fleet was placed in the hands of Mr. Fleet's social work to secure his services. We can an instrument of community betterment work for our group. OF OUR GROUP We are the young blood. Most of the country who are building a foundation on. It requires delicate tacet and a calendar to balance the interests in capital and labor. It requires the power of public opinion, but does not causing the inimical in the can be trusted, who have the金币 and who have—contrary to the habits of men who have—contrary to the thoughts of personal agencies in our new blood.
 
-LEADERSHIP CAN BE MEASURED neither by the advisor nor unthinkings approval nor the sheer dominance of a man accidentally made famous. It is a rather quality evoked only by the force, uncompromising but of portent. In recent years we have been trailing in new territory. Every turn has had precious situations. We have been living and struggling on the turbulent landscape of the thoughtless have accepted adjustments that have come without reflection and have suffered in consequence. They have been too eager to accept half a leaf when a full leaf could have been secured with a little more effort.
-
-OUR MEN AND WOMEN of the old school are less militant than the new bloody blood gone along these many years on the theory that the easiest way is to kill them with no injuries heaped upon them only in a mild manner, fearing, in doubt, or in defiance, or in open opposition. All this all due respect to those who have followed this line. The ecuro statistician who would stop the Raco has taken it due largely to the younger generation who have been caught for every right and privilege enjoyed by any other good citizen.
-
-F. ARNOLD HILLJ, executive secretary of the Chicago Urban League, typifies the remarkable the young blood referred to. We are not too IO to acknowledge the remarkable contributions of this young man, who has done so much to establish profitable and successful business, the better elements in both groups. During the three years he has been involved in succeeding in forcing from profiled employers an admission of their importance to the working men. Positions in industry have been created where forbidding hands take our men since the very infancy of industry. Three thousand young women in the hopelessness of domestic service. Responsible organization of the South Side branch of the Community Service, of which the Illinois organization of the South Side board, has been placed in the hands of Mr. Hill. It was a fortunate stroke that the organization of community services. We can at least feel confident that this instrument of community betterment will function effectively and to the highest: interest of our group.
-
-THE HOPE OF OUR GROUP lies in the young blood. Mr. Hill is but one of many throughout the country who are building a foundation for our superstores, because we require delicate tact and a calculating insight into social problems to balance our labor's game of chess. We argue much about the power of public opinion and properly. It is counseling to reflect that we have men in the raiding generation and investment can be trusted, who have the gonius for organization and administration, who know the habits of men who assert leadership of the old school type—little thought of personal aggrandizement. We repeat, our hope lies in our new blood.
-
 ## THE SWITCHMEN'S STRIKE
 
-THE STRIKES of the switchmen gives added emphasis to the necessity for the enactment of some sort of legislation which will bring about compulsory arbitration of labor disputes. It should be made impossible for any group of workers to so tie up any branch of industry that it brings about a paralysis such as is going on now is far-reaching in its consequences because the industry its legs and arms, while every channel of trade is more or less charged. The packing industry seems to have been the hardest hit. Thousands of employees have been forced into idleness through no fault of their own.
+THE STUKE of the switchmen give enactment of some sort of legislation of labor disputes. It should known to so to up any branch of in industry because it takes from under it net of trade in more or less clogged in the hardest hit. Thousands of co-workers SOONER OR LATER the ultimate cost of the necessities of life, or commodities are doing likewise, lies in interest, both employers and employees, the position of the employer, and unless something is done to shad may we. Kansas seems to have passage of legislation compelling the switchmen to work if we are to have an end of the co-living conditions one long night. Our FRIENDS, the oenny, have a Woll, there nothing like having.
 
-SOONER OR LATER the ultimate consumer must pay the freight for incurred costs on the necessities of life. Meat prices are already soaring and other commercial products are made by the parties in interest, both employers and employees, to find a solution for their disagreement. The patience of the public is being solely tried with the strike owl, and unless something is done to stabilize industries no man can tell what will happen to them to have formal disputes. The passage of legislation compelling the parties to injurious disputes to submit their grievances to a board of arbitration. Other states should follow her example if we are to have an end of the ever recurring industrial die-ups that make living conditions one long nightmare.
+IF WE COULD put a few movies, light lights perhaps our farms would
 
-OUT FRIENDS, the enemy, have selected July Fourth to pull off the next riot. Well, there's nothing like having something to look forward to.
+E of the switchmen given added emphasis to that of some sort of legislation which will bring a labor disputes. It should be made impossible to up any branch of industry that it brings a force to underpin on paper by force-reach it takes from its bottom pay in more or less cloaked. The packing industry hit. Thousands of employees have been forced to LATER the ultimate consumer must pay to the necessities of life. Meat prices are aired are doing likewise. Every effort should be set, both employers and employees, to find a solution. The public pays, spared by something is done to stabilize industries no more. Kansas seems to have found a way out of regulation compelling the parties to labor迪 to be heard in the诉. Other states should be in an end of the诉 recurring industries one long nightmare.
 
-IF WE COULD put a few movies on the farm, a few cabarres and a few bright lights perhaps our farms wouldn't be deserted. Nothing beats a suggestion.
+DS, the enemy, have selected July to'de nothing like having something to look for.
+
+LD put a few movies on the farm, a few can chaps our farms wouldn't be deserted. Noth
 
 # CHICAGO DEFENDER
 
-# THE BUCKEYE STATE
+8c
 
-By Alexander O. Taylor
+# THE BUCKEYE STATE
 
 By Alexander O. Taylor
 Cleveland, Ohio, M.D. MJ.—William
@@ -143,11 +197,40 @@ patient. They
 must co-operate
 about the proper
 
-to bring about the Dr. A. W. Williams results, that is the cure or restriction to health, or full normal functioning condition. The doctor should then treat the patient in the other hand, the patient should be frank, honest and trusting and should co-operate with his physiological results in bringing about a speedy cure of his case.
+wish to make a few observations upon the science of the knowledge of your duty toward your physician and the physician's ethical conduct, towards your health, should be a most dignified, confidential relation between the doctor and his patient, and must co-operate to bring about the proper results—sought—that is the cure or restriction of restraining condition. The doctor should have faith in the honesty of his patient, in the other hand, the patient, in the frank, honest and trusting and should be sure of his physician in every way possible to bring about a speedy cure of his case.
 
 ## Selecting Physicians
 
-You should exercise most judicious and scrupulous care in the selecting of your physician—your family physician and your person. There is no living person who can be more intimate relations with the family than the physician. You confide in him, you confess to him not only your physical and moral shortcomings, but your ultimate relations with the f
+You should exercise most judicious and scrupulous care in the selecting of your physician—your family physician, a person that comes into closer intimate relations with the family than the physician. You confide in him, but only your physical affection, but the other person, and moral shortcomings. Then, too, your whole life life may be changed by the advice of your physician, a certain employment, by which you have been earning a livelihood; he may advise you to change climate—his friends and many social relations, which have proved to be very dear and sacred to you. Therefore, you must explain a man well informed on to social and public health conditions. Your family physician should be a learned man with诀典 and who is well informed on all lines, and particularly on medicine or medical terms. In other words, the more knowledge your physician has along all lines, and particularly on health lines, the better medical adviser would he be for you. It is rather worse physician who will tolerate him that you want so much ergot or so much norphine and that your system needs this or that drug, and tell him the cure of your disease or attempt to diagnose your own case as to the nature and trouble.
+
+clan or Treatment of Him
+care as to the solicited judious ludlowe
+care as to the solicited judious physi-
+calian or medical adviser, there are
+certain duties and responsibilities det-
+towards you upon your to your conduct
+towards you your physician. We phi-
+Remember that he is a human machine
+the same as you, and that all machines
+you perform a little time in order to
+keep his machine going. We phi-
+der if he is tired and hungry and
+overworked, you cannot expect for him
+to read, keep his mind clear and filled
+with knowledge. He should edge
+to be used in relieving and curring
+you of your alliment or disease.
+Therefore, you should arrange to call
+him when he comes at once, immediately if not sooner,
+regardless of his office hours or of
+the calls, that any first class physician
+to St. Louis to the General Conference
+to St. Louis to the Gracious婚禮宴,
+Hon. Wm. If. Lewis, former I.
+bury, to be invited in June to sneak for the P. W.
+A. The outro Y. W. C. A. staff of
+physician, banquet at the D. W.
+A. on June 4th.
 
 ## Dr. Weaver Sells Drug Store
 
@@ -161,11 +244,18 @@ K. of P. Thanksgiving Services
 The Argentine of Dylphus and Cousins of Calathea will provide services at Zion Hill Hantatian thriving services at Zion Hill Hantatian will provide services at Zion Hill Hantatian will and Woodland Sunday. May 16.
 The line of march will be: Meet at Zion Hill 40th street, to Cedar Avenue, to East 40th street, to Central Avenue, to East 40th street,
 
+CHICAGO
+MAY 15, 1920
+
 may have ahead of your call, regardless less as to whether or not he has had an incubation, regardless less as to whether he has had less as to whether he has had three, five or no hours of sleep, or regardless less as to whether he has had time to look after him, or as washing his face, shaving, taking a bath, cleaning his teeth, combing his hair, he has any), cleaning his nails or cleaning his mouth, using his collar and the. You should like to employ a well groomed physician. You like to see your doctor look clean and well hydrated, using rinsing for a doctor you overlook that time and relaxation are necessary factors in enabling the physician to look after his personal hygiene.
 
 ## Establishing Obligations With Your Physician
 
-You have been complaining about fees of the physician; you have complained of the doctor's delay in response to your injury; if you feel that you are not able to pay the fees of a first class physician for office examination, or for visit made by the doctor, ask the clerk when first you enter his office, what are his fees for the above mentioned services; then, if you are not able to pay the
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
 
 ## MR8. LAMBERT VISITING NORTH
 

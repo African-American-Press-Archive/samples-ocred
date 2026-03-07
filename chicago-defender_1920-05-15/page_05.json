@@ -3,6 +3,17 @@
   "image": "images/page_05.jpg",
   "width": 2520,
   "height": 3584,
+  "processed_at": "2026-03-07T00:13:14.944111+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 23,
+    "after_merge": 18
+  },
   "regions": [
     {
       "bbox": [
@@ -12,27 +23,184 @@
         636
       ],
       "label": "doc_title",
-      "text": "On the 25th of May, 1919, MADAM C. J. WALKER, widely known for her unparalleled achievements and her broad philanthropies, passed into The Great Silence."
+      "text": "On the 25th of May, 1919, MADAM C. J. WALKER, widely known for her unparalleled achievements and her broad philanthropies, passed into The Great Silence.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        90,
+        7,
+        342,
+        173
+      ],
+      "label": "text",
+      "text": "BATI\nADAY, MAY 18, 1920",
+      "status": "ok"
     },
     {
       "bbox": [
         617,
+        151,
+        1490,
+        728
+      ],
+      "label": "text",
+      "text": "e 25th of May\nKER, widely known for her unparallel\nilanthropies, passed into The Great Si",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        618,
         728,
         1390,
+        1279
+      ],
+      "label": "text",
+      "text": "IT WAS all so near to us then that we called it death, but today, as we recall her life among us, we say with the poet, \"There is no death.\" A great soul had borne its load cheerfully, had accepted defeats and victories with equal poise, had completed its labors while it was day, and, when the night came, it went to sleep. Those who were near her recall with pleasure that she was cheerful, hopeful, brave to the last, and looked forward with joyful anticipation to the life before her, waiting by the shores, worn, but not tired of life and its changeful struggles. When the time came for embarkation, and the ropes were cast off, her craft now at sea, we would believe that she still looked forward with hopefulness to the new world, to which the unknown voyage should bring her.\n\nThose privileged to witness the throng that paid its last respects to her memory, who listened to the eulogies spoken by those of high attainments in life, white and Colored, cannot forget\u2014so impressive were the many lessons brought home to them. We did not understand, and we almost asked why she went away, just when her influence was becoming a power for the advancement of the Race\u2014just when we needed her most, and it was hard to realize and understand that His ways are not like man's. It was Madam Walker alone who could look up through it all and say, \"It's all right.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        618,
+        1287,
+        1388,
+        1622
+      ],
+      "label": "text",
+      "text": "What can we say of her? To say that she was born in Delta, Louisiana, in 1867, left an orphan at the age of seven, married at fourteen, only to be left a widow soon, with a little daughter to rear and educate by her own earnings as laundress and common laborer, that she started later with a capital of $2 and within twelve brief years accumulated a million dollars, would be, in the words of the artist, to put on \"flat colors.\" The high lights of the canvas will come from the measure of service she rendered humanity; from the way she lived up to the light that she had; from the way she met defeats and victories; from her faith in the Negro Race; from her loyalty to her friends, and her generous disposition toward those less friendly inclined, and at last, from her great faith in God and her willingness, in the midst of every comfort life could offer, to set forth with Him on the last great venture.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        618,
+        1626,
+        1387,
+        2290
+      ],
+      "label": "text",
+      "text": "When the word went forth that a Negro had passed away, leaving an estate valued at $1,000,000, including a mansion on the Hudson, the world stood aghast. There were those who called it \"The last straw of Americanism;\" others, the marvel of the twentieth century; others said it was the work of genius, while many referred to her's as the greatest achievement of the Negro Race. A few were left without words. They could not understand it then, and they can scarcely believe it now. Sphinx-like, they have waited for a broader comprehension, for a sixth sense, as it were, to understand how a member of the so-called inferior race, one descended from slave parents, born in that state that offers the meagerest educational opportunities, could establish a colossal business, grapple with the problems of big finance, and build up a mansion for herself in the most favored spot in America. The most conservative of the stronger races were forced to conclude that genius is not limited to any particular race; that it is possible for a member of the Negro Race to overcome the handicaps of centuries in a single generation; that it is impossible for human beings to forecast the personal equation. Some have endeavored to seize upon the secret of Madam Walker's success, but it has seemed more or less elusive. Doubtless she herself would have said it was hard work, intense application, determination not to yield to discouragements, and ambition tempered with Christian ideals. Indeed Madam Walker's career was a marvel\u2014it was more. It was a timely proclamation to Anglo-Saxon civilization, declaring that the way can not be obstructed; a message to the world that the Negro can reach the American standard; it was Destiny's challenge to the closed door of opportunity.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        617,
+        2295,
+        1386,
+        2497
+      ],
+      "label": "text",
+      "text": "Madam Walker was endowed with initiative, zeal, sympathy, ambition, understanding, and that rarest of all gifts, uncommon common sense. She recognized her weaknesses and her strength, her mistakes and her successes, her possibilities and her human limitations. Well has it been said of her that her heart was broader than any raco, her faith greater than any creed, and her life larger than any circumstance. She was a woman of vision, and her courage was always equal to her tasks.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        618,
+        2503,
+        1387,
+        2911
+      ],
+      "label": "text",
+      "text": "What was her mission? History bears out the belief that for every great crisis Providence has raised up some one to fill the need. To many it seems that Madam Walker came to give economic vision to a struggling race. Before her time the way to the highest goals seemed so steep and rugged! Colored Americans were not accustomed to let their thoughts \"soar into real money.\" Hence it was not strange that a smile went round when Madam Walker expressed her desire to become a millionaire, in order that she might accomplish the good she desired for her Race. She thought big things, and, as a result, she did big things. What a singular coincidence, or was it a coincidence, that Madam Walker amassed a fortune just at the time when the Racoe was beginning to experience industrial and economic emancipation? At a time when the Race most needed an object lesson in thrift. The lesson is, \"Go thou and do likewise.\" This is not saying, either, that wealth was Madam Walker's chief desire, as an end in itself, but it was her strong desire as a means to an end.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        619,
+        2917,
+        1389,
         3372
       ],
       "label": "text",
-      "text": "T WAS all so near to us then that we called it death, but today, as we recall her life among us, we say with the poet, \"There is no death.\" A great soul had borne its load cheerfully, had accepted defeats and victories with equal poise, had completed its labors while it was day, and, when the night came, it went to sleep. Those who were near her recall with pleasure that she was cheerful, hopeful, brave to the last, and looked forward with joyful anticipation to the life before her, waiting by the shores, worn, but not tired of life and its changeful struggles. When the time came for embarkation, and the ropes were cast off, her craft now at sea, we would believe that she still looked forward with hopefulness to the new world, to which the unknown voyage should bring her.\n\nThose privileged to witness the throng that paid its last respects to her memory, who listened to the eulogies spoken by those of high attainments in life, white and Colored, cannot forget\u2014so impressive were the many lessons brought home to them. We did not understand, and we almost asked why she went away, just when her influence was becoming a power for the advancement of the Race\u2014just when we needed her most, and it was hard to realize and understand that His ways are not like man's. It was Madam Walker alone who could look up through it all and say, \"It's all right.\"\n\nWhat can we say of her? To say that she was born in Delta, Louisiana, in 1867, left an orphan at the age of seven, married at fourteen, only to be left a widow soon, with a little daughter to rear and educate by her own earnings as laundress and common laborer, that she started later with a capital of $2 and within twelve brief years accumulated a million dollars, would be, in the words of the artist, to put on \"flat colors.\" The high lights of the canvas will come from the measure of service she rendered humanity; from the way she lived up to the light that she had; from the way she met defeats and victories; from her faith in the Negro Race; from her loyalty to her friends, and her generous disposition toward those less friendly inclined, and at last, from her great faith in God and her willingness, in the midst of every comfort life could offer, to set forth with Him on the last great venture.\n\nWhen the word went forth that a Negro had passed away, leaving an estate valued at $1,000,000, including a mansion on the Hudson, the world stood aghast. There were those who called it \"The last straw of Americanism;\" others, the marvel of the twentieth century; others said it was the work of genius, while many referred to her's as the greatest achievement of the Negro Race. A few were left without words. They could not understand it then, and they can scarcely believe it now. Sphinx-like, they have waited for a broader comprehension, for a sixth sense, as it were, to understand how a member of the so-called inferior race, one descended from slave parents, born in that state that offers the meagerest educational opportunities, could establish a colossal business, grapple with the problems of big finance, and build up a mansion for herself in the most favored spot in America. The most conservative of the stronger races were forced to conclude that genius is not limited to any particular race; that it is possible for a member of the Negro Race to overcome the handicaps of centuries in a single generation; that it is impossible for human beings to forecast the personal equation. Some have endeavored to seize upon the secret of Madam Walker's success, but it has seemed more or less elusive. Doubtless she herself would have said it was hard work, intense application, determination not to yield to discouragements, and ambition tempered with Christian ideals. Indeed Madam Walker's career was a marvel\u2014it was more. It was a timely proclamation to Anglo-Saxon civilization, declaring that the way can not be obstructed; a message to the world that the Negro can reach the American standard; it was Destiny's challenge to the closed door of opportunity.\n\nMadam Walker was endowed with initiative, zeal, sympathy, ambition, understanding, and that rarest of all gifts, uncommon common sense. She recognized her weaknesses and her strength, her mistakes and her successes, her possibilities and her human limitations. Well has it been said of her that her heart was broader than any race, her faith greater than any creed, and her life larger than any circumstance. She was a woman of vision, and her courage was always equal to her tasks.\n\nWhat was her mission? History bears out the belief that for every great crisis Providence has raised up some one to fill the need. To many it seems that Madam Walker came to give economic vision to a struggling race. Before her time the way to the highest goals seemed so steep and rugged! Colored Americans were not accustomed to let their thoughts \"soar into real money.\" Hence it was not strange that a smile went round when Madam Walker expressed her desire to become a millionaire, in order that she might accomplish the good she desired for her Race. She thought big things, and, as a result, she did big things. What a singular coincidence, or was it a coincidence, that Madam Walker amassed a fortune just at the time when the Racoon can reach the American standard; it was Destiny's challenge to the closed door of opportunity.\n\nIn her ideals Madam Walker was a pioneer. She was was privileged to set new standards for business, for Christian giving, for home-making and racial co-operation. According to published statements, Madam Walker was the first Colored woman to give $1,000 for the promotion of Christian work. After making this gift, her appreciation for service increased in proportion to her large income, and throughout her entire career, as a woman of wealth, Madam Walker devoted serious thought to constructive giving. Then it was not unusual to find her car parked at the entrance to some alley, while she went among the lowliest, distributing gifts, giving money where it was needed, and all the time giving sunshine and encouragement. It was not unusual to f"
+      "text": "In her ideals Madam Walker was a pioneer. She was privileged to set new standards for business, for Christian giving, for home-making and racial co-operation. According to published statements, Madam Walker was the first Colored woman to give $1,000 for the promotion of Christian work. After making this gift, her appreciation for service increased in proportion to her large income, and throughout her entire career, as a woman of wealth, Madam Walker devoted serious thought to constructive giving. Then it was not her large contributions, that the world knew about, that made her life one of helpfulness, but it was the many little human charities of which the public knew nothing, that distinguished her giving. It was not unusual to find her car parked at the entrance to some alley, while she went among the lowliest, distributing gifts, giving money where it was needed, and all the time giving sunshine and encouragement. It was her custom at Christmas time to remember the poor of her home city with Christmas baskets containing everything necessary for a good Christmas dinner. Often she visited the jails and encouraged the wayward. Where it seemed that the guilt had not been sufficiently established against the accused, she provided",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        617,
+        3372,
+        1490,
+        3564
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        2347,
+        167,
+        2457,
+        189
+      ],
+      "label": "text",
+      "text": "PAGE FIVE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1560,
+        734,
+        2331,
+        1118
+      ],
+      "label": "text",
+      "text": "the services of an attorney to see that justive was given. In many instances she provided bonds, without charge, where there was no one to look after the unfortunate ones. As she went about over the country, meeting often with the downhearted and the poor, she gave money for immediate relief in hundreds of instances, and went about her way, leaving no story of her deeds, but only a beautiful memory in the hearts of those she helped. She believed it was worth while to lend money to persons struggling to buy homes for themselves, and in not a few instances she helped others to help themselves. She believed that the talent in the Race should be cultivated, and when young people were without means it is well known to what extent she offered financial encouragement. She was not discouraged, either, when her benefactions were bestowed upon the undeserving, when she judged wrongly, but was just as willing to try it the next time, lest the deserving should go unassisted.",
+      "status": "ok"
     },
     {
       "bbox": [
         1559,
-        734,
-        2331,
+        1123,
+        2330,
+        1484
+      ],
+      "label": "text",
+      "text": "As has been stated above, Madam Walker had great faith in the future. She could look down through the years to the time when benighted Ethiopia should stretch forth her hands to God! Acting in the light of this faith, she set aside a part of her fortune for the establishing of schools of learning on the Dark Continent, and for several years she maintained scholarships in Colored institutions for the education and preparation of young people who had signified their desires to give their lives to work among their people in Africa. She had faith in the ultimate getting together of the Race, and she set a high standard and example in racial co-operation at all times. On the other hand, when giving to charities and worthy causes, her name was always found alongside those of the white race for public causes, even though her own Race was to receive little or nothing of her gifts, for her heart was larger than race.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1560,
+        1488,
+        2330,
+        1861
+      ],
+      "label": "text",
+      "text": "Madam Walker had a vision of the young people of her Race filling positions commensurate with their worth and training, and to this end she was ambitious to contribute her part. The result is the great system of C. J. Walker agents in every part of the country, and in many foreign lands; the establishment of C. J. Walker beauty parlors, operated by Colored women and cared for in a way that deserves special mention. In her factories are employed a large number of Colored men and women of special educational training and efficiency, performing the same kind of work exactly as members of other races are performing, in places where the same opportunities are not open to Colored people. Her life was a sermon to Americans of Color, setting forth the truth that the Race must establish its own business concerns and employ its own young people if it would measure arms with other races.\n\nMadam Walker had insight into human nature. She studied people. She knew whom she could trust, and her faith in them was unshakable. To those unworthy of her trust she taught the lesson that one must be self-reliant and trustworthy.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1560,
+        1864,
+        2327,
+        2276
+      ],
+      "label": "text",
+      "text": "What shall be said of her courage? Only a few have shown the remarkable degree of courage exhibited by Madam Walker. When she entered upon her work, that was to bring her a fortune in a few years, her friends thought it an \"end-of-the-rainbow\" venture, that would end disastrously. Discouragements came thick and fast. As she went from place to place advertising her hair preparations the cold reception was not an unknown happening, but she had made up her mind that \"none of these things shall move me,\" or, a better translation, \"none of these things shall keep me from moving.\" Did she move? The great Tuskeegian was right when he said, \"If you keep a man in the ditch, you must stay down there with him,\" but he spoke only part of the truth. He might have added, \"and you must be the better man, for all can't be kept in the ditch.\" There is a distinct class that is willing to stay down if by so doing it can keep others down. This class is unwilling to make the struggle to the top, and its energies are diverted to holding others down on the same level with themselves. If stumbling blocks and knocks could have curbed Madam Walker's free, brave spirit, Villa Lewaro in Irvington-on-the-Hudson would have been only the shadow of a vanished dream.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1559,
+        2279,
+        2327,
+        2842
+      ],
+      "label": "text",
+      "text": "Madam Walker struck a new note in human relations when she refused to forget the steps by which she reached the top. Shakespeare was thinking of his own race when he wrote, \"But when he once attains the utmost rounds, he looks into the clouds, scorning the base degrees by which he did ascend.\" Madam Walker never forgot that she was once an orphan, poor and neglected, that she had lived in humble surroundings, that she had worked hard for a living. She never forgot those who rendered her any service, however small, in the days of struggle. She never rose above her friends. Even in her mansion she entertained her humblest friends. She provided the expenses of many who could never have seen her beautiful home otherwise. She was able to adjust herself to conditions and to the last was able to be perfectly comfortable in modest homos; nor were her friends embarrassed in her presence. She believed herself that there is no great or small, so long as any one is doing his best.\n\nA few years ago the strenuous life which Madam Walker loved so much began to tell on her physical condition, and she was told that she must give up her activities, but they had become so much a part of her very life that she could not easily follow this advice. There were friends and admirers who felt that it would have been an easy thing to do, and that her life might have been prolonged for years. They did not know that for her, and others like her, it is far easier to go on than to stop. Given her choice, there was no doubt that she would have preferred making a name for herself in a short time rather than a long life unknown. She preferred the \"day of crowded life to an age without a name.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1560,
+        2845,
+        2327,
         3287
       ],
       "label": "text",
-      "text": "the services of an attorney to see that justive was given. In many instances she provided bonds, without charge, where there was no one to look after the unfortunate ones. As she went about over the country, meeting often with the downhearted and the poor, she gave money for immediate relief in hundreds of instances, and went about her way, leaving no story of her deeds, but only a beautiful memory in the hearts of those she helped. She believed it was worth while to lend money to persons struggling to buy homes for themselves, and in not a few instances she helped others to help themselves. She believed that the talent in the Race should be cultivated, and when young people were without means it is well known to what extent she offered financial encouragement. She was not discouraged, either, when her benefactions were bestowed upon the undeserving, when she judged wrongly, but was just as willing to try it the next time, lest the deserving should go unassisted.\n\nAs has been stated above, Madam Walker had great faith in the future. She could look down through the years to the time when benighted Ethiopia should stretch forth her hands to God! Acting in the light of this faith, she set aside a part of her fortune for the establishing of schools of learning on the Dark Continent, and for several years she maintained scholarships in Colored institutions for the education and preparation of young people who had signified their desires to give their lives to work among their people in Africa. She had faith in the ultimate getting together of the Race, and she set a high standard and example in racial co-operation at all times. On the other hand, when giving to charities and worthy causes, her name was always found alongside those of the white race for public causes, even though her own Race was to receive little or nothing of her gifts, for her heart was larger than race.\n\nMadam Walker had a vision of the young people of her Race filling positions commensurate with their worth and training, and to this end she was ambitious to contribute her part. The result is the great system of C. J. Walker agents in every part of the country, and in many foreign lands; the establishment of C. J. Walker beauty parlors, operated by Colored women and cared for in a way that deserves special mention. In her factories are employed a large number of Colored men and women of special educational training and efficiency, performing the same kind of work exactly as members of other races are performing, in places where the same opportunities are not open to Colored people. Her life was a sermon to Americans of Color, setting forth the truth that the Race must establish its own business concerns and employ its own young people if it would measure arms with other races.\n\nMadam Walker had insight into human nature. She studied people. She knew whom she could trust, and her faith in them was unshakable. To those unworthy of her trust she taught the lesson that one must be self-reliant and trustworthy.\n\nWhat shall be said of her courage? Only a few have shown the remarkable degree of courage exhibited by Madam Walker. When she entered upon her work, that was to bring her a fortune in a few years, her friends thought it an \"end-of-the-rainbow\" venture, that would end disastrously. Discouragements came thick and fast. As she went from place to place advertising her hair preparations the cold reception was not an unknown happening, but she had made up her mind that \"none of these things shall move me,\" or, a better translation, \"none of these things shall keep me from moving.\" Did she move? The great Tuskeegian was right when he said, \"If you keep a man in the ditch, you must stay down there with him,\" but he spoke only part of the truth. He might have added, \"and you must be the better man, for all can't be kept in the ditch.\" There is a distinct class that is willing to stay down if by so doing it can keep others down. This class is unwilling to make the struggle to the top, and its energies are diverted to holding others down on the same level with themselves. If stumbling blocks and knocks could have curbed Madam Walker's free, brave spirit, Villa Lewaro in Irvington-on-the-Hudson would have been only the shadow of a vanished dream.\n\nMadam Walker struck a new note in human relations when she refused to forget the steps by which she reached the top. Shakespeare was thinking of his own race when he wrote, \"But when he once attains the utmost rounds, he looks into the clouds, scorning the base degrees by which he did ascend.\" Madam Walker never forgot that she was once an orphan, poor and neglected, that she had lived in humble surroundings, that she had worked hard for a living. She never forgot those who rendered her any service, however small, in the days of struggle. She never rose above her friends. Even in her mansion she entertained her humblest friends. She provided the expenses of many who could never have seen her beautiful home otherwise. She was able to adjust herself to conditions and to the last was able to be perfectly comfortable in modest homes; nor were her friends embarrassed in her presence. She believed herself that there is no great or small, so long as any one is doing his best.\n\nA few years ago the strenuous life which Madam Walker loved so much began to tell on her physical condition, and she was told that she must give up her activities, but they had become so much a part of her very life that she could not easily follow this advice. There were friends and admirers who felt that it would have been an easy thing to do, and that her life might have been prolonged for years. They did not know that for her, and others like her, it is far easier to go on than to stop. Given her choice, there was no doubt that she would have preferred making a name for herself in a short time rather than to press to press on, because\n\n\"It matters not how straight the gate.\""
+      "text": "The only difference in people, after all, lies in the things they believe, and finally Madam Walker believed that she was indeed the captain of her own soul. And, acting in this great faith in the invincible, she went about life in earnest, undaunted, hopeful, and with a great faith. She made no apologies for her existence and looked upon herself as the equal of any. When she found that the lack of educational training was a handicap, she set to work and with studious effort overcame this great obstacle, for to her obstacles were only a challenge to her powers, and as such she met them. As she went about the land delivering public addresses those who heard her recognized continual growth. She mastered the intricacies of business and filled her place uniquely and will forever be an inspiration to those who tremble in face of handicaps and natural hindrances.\n\nHow truly has it been said that the subject of this sketch left her mark. The generations coming after her will be the better because of this noble heritage. When the shadows hang low, and when it seems that God has forgotten, the memory of one who has fought and won, and who has lived the simple life of trust, will enhearten and bid the weary and tried to press on, because\n\n\"It matters not how straight the gate.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +210,8 @@
         3382
       ],
       "label": "text",
-      "text": "FRANCES BERRY COSTON."
+      "text": "FRANCES BERRY COSTON.",
+      "status": "ok"
     }
   ]
 }

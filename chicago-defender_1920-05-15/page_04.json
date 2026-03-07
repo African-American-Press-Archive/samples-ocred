@@ -3,7 +3,40 @@
   "image": "images/page_04.jpg",
   "width": 2800,
   "height": 4046,
+  "processed_at": "2026-03-07T00:12:51.218651+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 14,
+    "after_merge": 16
+  },
   "regions": [
+    {
+      "bbox": [
+        38,
+        146,
+        179,
+        173
+      ],
+      "label": "text",
+      "text": "PAGE FOUR",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        37,
+        244,
+        84,
+        3930
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
+    },
     {
       "bbox": [
         346,
@@ -12,7 +45,19 @@
         929
       ],
       "label": "doc_title",
-      "text": "In Memory of the Founder and President of the Mme. C. J. Walker Mfg. Co."
+      "text": "In Memory of the Founder and President of the Mme. C. J. Walker Mfg. Co.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        837,
+        1126,
+        1933,
+        2514
+      ],
+      "label": "text",
+      "text": "SHELBY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,17 +67,8 @@
         2965
       ],
       "label": "doc_title",
-      "text": "\"Beauty Thoughts' of Madam Walker\""
-    },
-    {
-      "bbox": [
-        1332,
-        3479,
-        2199,
-        3541
-      ],
-      "label": "text",
-      "text": "By SERGT. ALLEN R. GRIGGS, JR., Author of the \"Negro's Tribute to Roosevelt,\" \"Are They Equal in the Eyes of the Law,\" and other poems."
+      "text": "\"Beauty Thoughts' of Madam Walker\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +78,8 @@
         3201
       ],
       "label": "text",
-      "text": "Can she be dead, whose soul still breathes,\n'Tho casket's hid 'neath withered wreathes,\nWith mortal form\nEncased therein, where soon it must\nBe inch by inch returned to dust,\nWithout alarm?"
+      "text": "Can she be dead, whose soul still breathes,\n'Tho casket's hid 'neath withered wreathes,\nWith mortal form\nEncased therein, where soon it must\nBe inch by inch returned to dust,\nWithout alarm?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +89,41 @@
         3446
       ],
       "label": "text",
-      "text": "Can she be dead whose works still live,\nOn earth, in future years to give\nTo those who pride\nSweet thoughts of her whose self-made star\nMounted its zenith in the sky, too far,\nIts light to hide?"
+      "text": "Can she be dead whose works still live,\nOn earth, in future years to give\nTo those who pride\nSweet thoughts of her whose self-made star\nMounted its zenith in the sky, too far,\nIts light to hide?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1332,
+        3479,
+        2199,
+        3541
+      ],
+      "label": "text",
+      "text": "By SERGT. ALLEN R. GRIGGS, JR., Author of the \"Negro's Tribute to Roosevelt,\" \"Are They Equal in the Eyes of the Law,\" and other poems.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1115,
+        146,
+        1635,
+        187
+      ],
+      "label": "text",
+      "text": "THE CHICAGO DEFENDER",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1115,
+        187,
+        1642,
+        3022
+      ],
+      "label": "text",
+      "text": "the Founder\nC. J. Walke\n\nIme. C. Z. Walker\n\nDied M\n\nthoughts' of Mad",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +133,8 @@
         3209
       ],
       "label": "text",
-      "text": "Can she be dead, whose memory's stamped\nOn million hearts with sorrows cramped,\nWhile thoughts of love\nAscend beyond that brilliant star\nTo her within the gates ajar,\nThe home above?"
+      "text": "Can she be dead, whose memory's stamped\nOn million hearts with sorrows cramped,\nWhile thoughts of love\nAscend beyond that brilliant star\nTo her within the gates ajar,\nThe home above?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +144,19 @@
         3452
       ],
       "label": "text",
-      "text": "Can she be dead, who never fogot The sorrows that were freedmen's lot, And strove to lift The burdens that held them entwined, The obstacles that made them blind, To freedom's gift?"
+      "text": "Can she be dead, who never fogot The sorrows that were freedmen's lot, And strove to lift The burdens that held them entwined, The obstacles that made them blind, To freedom's gift?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1115,
+        3452,
+        1642,
+        3947
+      ],
+      "label": "text",
+      "text": "By SERGT. ALLEN R. G.\nRoosevelt,\" \"Are They En",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +166,8 @@
         3194
       ],
       "label": "text",
-      "text": "Can she be dead, whose mantle fell On those so near who now can tell With mighty pen, The \"thoughts of beauty\" she did hold, Were naught with her, if not two-fold Without\u2014within?"
+      "text": "Can she be dead, whose mantle fell On those so near who now can tell With mighty pen, The \"thoughts of beauty\" she did hold, Were naught with her, if not two-fold Without\u2014within?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +177,19 @@
         3455
       ],
       "label": "text",
-      "text": "She is not dead, they cannot die,\nWho through such noble efforts try\nThe prize to win.\n'The mortal form's 'neath withered\nwreathes,\nThat \"beauty thought\" her soul still\nbreathes,\nWithout\u2014within."
+      "text": "She is not dead, they cannot die,\nWho through such noble efforts try\nThe prize to win.\n'The mortal form's 'neath withered\nwreathes,\nThat \"beauty thought\" her soul still\nbreathes,\nWithout\u2014within.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        2419,
+        161,
+        2688,
+        189
+      ],
+      "label": "text",
+      "text": "SATURDAY, MAY 15,",
+      "status": "ok"
     }
   ]
 }

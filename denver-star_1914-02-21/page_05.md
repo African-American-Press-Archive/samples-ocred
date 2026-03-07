@@ -15,49 +15,46 @@ D. J. SULLIVAN & MRS. D. J. SULLIVAN, Props.
 
 Diseases are caused by pressure on nerve tissues.
 
-Diseases are caused by pressure on nerve tissues.
-
 When this pressure is relieved ease is res-established.
 Adjusting the body is transformed into professional success. Nerve tissues are the most important tissues in the body controlling all others. If you don't believe this, come, let me prove it. Chiropractic theory is the greatest of all, securing higher percentage of results than any other.
 
 ## Alice Johnson McGinnis, M. C
 
-Alice Johnson McGinnis, M. C
-Chiropractic Practitioner
-PLACE 2922 WELTON STREET
 TREATMENT BY APPOINTMENT
 
-TREATMENT BY APPOINTMENT
-
-LaParisienne Dancing Academy
+LaParisienne Dancing
+Academy
 AT FERN HALL
 2711 Welton St.
 Every Monday Night
 Dancing Lessons 8:30 to 9:30
 (A TEACHER FOR EVERYONE)
-Social Dance 9:30 to 12:30 a.m.
+Social Dance 9:30 to 12:30 a. m.
 A GRAND INFORMAL BALL
 THE FIRST MONDAY OF
 EACH MONTH
 The Place to go for a Good Time. High Class
 Moral and Modern
-Admission 25c. C. D. Campbell, Prop
+Admission 25c. C. D. Campbell, Prop.
 
 Phone York 1614
 
 W. S. WREN!
 Missouri Grocery
+
 24th Ave. and Washington
 7 bars Labor Light Soap, 25c
 3 cans Peas, Corn, Beans, 25c
 Extra Special Coffee, lb. 25c
-3 boxes 5c Matches for - 10c
+3 boxes 5c Matches for 10c
 
 Phone Main 8513
 
 The Sanitary Wet Wash
 Laundry
+
 High Grade Work
+
 35 Pounds Dry Clothes 35 Cts
 Excess 2c per pound
 
@@ -65,20 +62,12 @@ Excess 2c per pound
 
 ## WM. VOIGTS
 
-WM. VOIGTS
-Watchmaking and Jewelry
-Watches, Clocks, Jewelry,
-Silverware, Ecct
-THE REPAIRING of all KINDS
-011 27th STREET
-Near Welton
-DENVER
-
 Watchmaker and Jeweler Watches, Clocks, Jewelry,
 
-THE REPAIRING of all KINDS
+INE REPAIRING of all KINDS
 611 27th STREET
-" Neer Wollen
+Near Wolten
+DENVER. COLG
 
 ## AT ANY HOUR
 
@@ -91,6 +80,8 @@ By calling Champa 3183 at 713 E. 26th Ave., Op. P. O. All Work Promptly Attended
 ## J. M. NICKERSON
 
 Job Work a Specialty, Estimates Made Free, Glazing, Funiture Repaired, Upholster ing, Locks and Keys Fitted, Builders Hardware, Cement Work, Brick and Carpenter Work. Phone Main 1682 2218 Champa St.
+
+THE DAILY PRESS
 
 ## She Is Talking About Coming Events.
 
@@ -143,7 +134,7 @@ Mr. George Chancellor and Mr. E. Williams were in the city this week visiting hi
 
 The Crisis can be secured at the Elite Drug Co. An excellent copy is February issue.
 
-Messrs. Harry Scott. Sterling Wilson and Chaude Davis were visiting their friends in Fort Logan. They will visit friends in Colorado Springs Sunday.
+Messrs. Harry Scott, Sterling Wilson and Claude Davis were visiting their friends in Fort Logan. They will visit friends in Colorado Springs Sunday.
 
 Dr. Westbrook has removed his residence to 1029 Twenty-first, over the Elite drug store. Phone Champa 570 while his office remains 31 Goode block, Sixteenth and Larimer streets.
 
@@ -163,7 +154,7 @@ A GOOD OFFER.
 
 Mrs. Charlicy Barnes, proprietress of the Alhambra cafe, the place of real home cooking. Chill every day at 2741 Welton street, Denver, Colo.
 
-John Hunter, of 1830 Arapahoe St. is ill with rheumatism and gripppe but is able to be out now.
+John Hunter, of 1830 Aranahoe St. is ill with rheumatism and gripppe but is able to be out now.
 
 # City News
 
@@ -203,32 +194,28 @@ Devotional exercise.
 Business.
 1. Current Literature and Comment.
 2. Music—Morrison's Orchestra.
-3. Special Discussion, "Some Negro Business Endeavors and Their Possibilities." 1. "Confectionery," Mr. Cornelius Rice. 2. "Restaurants," Mr. Collins B. 2. "Restaurants," Mr. Collins B. 3. "Millinery," Mrs. Esther Morris. 4. "Insurance," Mr. Bert Patrick. 5. "The Drug Business," Mr. E. F. Cantey. 6. "Contracting," Mr. Nolle R. Smith.
-4. Music—Piano Selection, Mrs. Mabel Chin-Fallings.
+3. Special Discussion, "Some Negro Business Endeavors and Their Possibilities." 1. "Confectionery," Mr. Cornelius Rice. 2. "Restaurants," Mr. Collins B. Faniel. 3. "Millinery," Mrs. Esther Morris. 4. "Insurance," Mr. Bert Patrick. 5. "The Drug Business," Mr. E. F. Cantey. 6. "Contracting," Mr. Nolle R. Smith.
+
+4. Music—Piano Selection, Mrs. Mabel Belnn-Fallings.
 This is a program of especial merit. Each of the above persons discussing the general topic will take ten minutes to speak on his or her special field of operation and each is prepared to give some helpful information both to those who are engaged in some enterprise and to those of us who are obligated to support worthy business endeavor among us. Every one who can be present is welcomed. Come early to secure comfortable seats and stay through the last number, for the subjects, the speakers and the enterprises themselves are all worthy of consideration and support.
 4 p. m., Feb. 22nd, at 2630 Welton street.
 
-See Mme. Edith Bray Settle, hair culturist, and agent for Mme. C. J. Walker's Wonderful Hair Grower, for shampooing and scalp treatments 1146 So. Cherokee St., Phone Ellsworth 1203.
+See Mme. Edith Bray Settle, hair culturist, and agent for Mme. C. J Walker's Wonderful Hair Grower, for shampooing and scalp treatments 1146 So. Cherokee St., Phone Ells-worth 1203.
 
 Mrs. Pink Person of Arapahoe street, who has been the sufferer of a sprained tendon, is able to sit up and walk about the house on crutches.
 
-TRY RICE & RICE'S ICE CREAM and Icees; home made bread, pies and cakes. Real Mexican Chill and other delicacies, at their parlors, 2632 Welton. Your orders are solicited for parties and chuck entertainments. Phone Chiffma 243.
+TRY RICE & RICE'S ICE CREAM and Ices; home made bread, pies and cakes. Real Mexican Chill and other delicacies, at their parlors, 2632 Welton. Your orders are solicited for parties and chuck entertainments. Phone Chifmpa 243.
 
 The Taka A. & L. club will meet with Mrs. G. Ross, 2344 Tremont.
 
 Wednesday Evening, March 4 OUR MOTTO:--Good Order, Good Music, Good Time Morrison's Orchestra Admission 35c
 
-Morrison's Orchestra Admission 35c
+MR. V. N. WOLFSKILL ENTER- TAINS.
 
-MR. V. N. WOLFSKILL ENTERTAINS.
+In honor of Mr. and Mrs. James Cartwright, who depart soon for Salt Lake City, Utah, Mr. Virgil Wolfskill gave one of the sweltest eight-course dinners at his home, 2744 Marion, that has been given in that section of town for a long time. As invited guests were Mr. and Mrs. W. J. Carey, Mr. and Mrs. Emmett Webster and Miss Tiny Williams. Flowers, decorations and beautiful mural attractions were the enhancing features. Music was furnished, gay conversations and short impromptu speeches helped all the cup of joy. Mr. Wilfskill will be long remembered. "P. A."
 
-In honor of Mr. and Mrs. James Cartwright, who depart soon for Salt Lake City, Utah, Mr. Virgil Wolfskill gave one of the swellest eight-course dinners at his home, 2744 Marion, that has been given in that section of town for a long time. As invited guests were Mr. and Mrs. W. J. Carey, Mr. and Mrs. Emmett Webster and Miss Tiny Williams. Flowers, decorations and beautiful mural attractions were the enhancing features. Music was furnished, gay conversations and short impromptu speeches helped fill the cup of joy. Mr. Wilfskill will be long remembered. "P. A."
-
-COAL $4.25 per ton UP
-
-W. O. SIMONDS
-
-2929 Champa Main 5964
+COAL
+$4.25 per ton UP
 
 Mr. Thos. Moore, father of Mrs. Eva Johnson, has gone to spend the summer with Mesdames Jesse Taylor and Gaskins.
 
@@ -263,6 +250,8 @@ Experienced Men by the Hour or Contract
 
 2924 LARIMER STREET Phone Champa 2357 Corp William Camp U.
 
+A
+
 WESTERN LIFE and ACCIDENT COMPANY
 
 John Perry, sickness ..... $ 6.00
@@ -273,19 +262,19 @@ Hester Hudson, sickness ..... 14.30
 Clark Anderson, death ..... 100.00
 Cora Fisher, sickness ..... 14.00
 
-(WATCH THIS A
-OFFICES 941-2-3-4-5-6 Gas and
+AND EACH WEEK)
+Electric Bldg. Phone Main 8238
 
-GET YOU
-BAGS F
-Special Sale on
-Denver Hand Made Goods from
-Cost. Satisfact
-We Repair Trunks, Bags, Suit
-Trunks Taken
+OUR TRUNKS AND
+FROM FROM US
+Trunks, Bags and Suit Cases
+from Factory to You at Lowest
+on Guaranteed.
+Cases and Ladies Bags. Old
+in Exchange
 
-THE WELTON T
-GEO. BRAND
+RUNK FACTORY
+ENBURG, Prop.
 
 (WATCH THIS AD EACH WEEK)
 OFFICES 941-2-3-4-5-6 Gas and Electric Bldg. Phone Main 8238
@@ -295,6 +284,47 @@ OFFICES 941-2-3-4-5-6 Gas and Electric Bldg. Phone Main 8238
 Special Sale on Trunks, Bags and Suit Cases
 
 THE WELTON TRUNK FACTORY GEO. BRANDENBURG, Prop.
+
+## BEST FAMILY LAXATIVE.
+
+Beware of constipation. Use Dr. King's New Life Pills and keep well. Mrs. Charles E. Smith, of West Franklin, Me., calls them 'Our family laxative.' Nothing better for adults or aged. Get them today. 25c. All druggists or by mail. H. E. Bucklen & Co., Philadelphia or St. Louis.
+
+Mmc. M. L. JOHNSON
+GRADUATE SCALP SPECIALIST AND
+* HAIR CULTURIST.
+Manicuring, Facial, Scalp Massage and Scientific
+Scalp Treating.
+
+The above cut represents Mme. Johnson as she is today, with her own NATURAL HAIR cultivated by the use of our own Hair Remedies. She can do for you what she has done for herself and thousands of others in every part of this country.
+
+Use Johnson's Hair Food, for growing Hair on bald heads and bare temples. It makes hard, dry hair; soft, moist, glossy and luxurient. Per Jar. 50c.
+
+Use Johnson's Hair Grower, for Invigorating, Strengthening, Nourishing the Roots and Stimulating the Hair growth. Per Bottle. 59c.
+
+Use Johnson's Dandruff Cure. It cleans the Scalp of gum, grit, dandruff, scales and dirt, and leaves it healthy and pure. Per Jar. 25c.
+
+Use Johnson's Itch Cure. It will stop that Itching Scalp. Per Jar. 25c.
+
+Use Johnson's Shampoo Cream, for shampooing the scalp and hair. It cleanses and beautifies. Per Jar. 25c.
+
+Use Johnson's Medicated Soap, for the complexion, shaving, shampooing and skin diseases. Per Cake. 25c.
+
+Use Johnson's Sure Hair Dye. Changes the grayest hair dark after a few applications. Per Bottle.....$1.00
+
+We are the Pioneer manufacturers of Scientific Hair Preparations in the United States. We also make Wigs, Switches, Pomps, Coronet Braids, Puffs and front Parts to match your hair. Best workmanship. Lowest prices.
+
+Send 10c for a large sample jar of Johnson's Hair wood and terms to Agents.
+
+Write your letter to
+
+DR. W. ALEXANDER JOHNSON
+OR
+Mine. MARY L. JOHNSON
+681 Shummet Avenue, Boston, Mine.
+
+Please mention this paper.
+
+MILITARY
 
 ## Phone Champa 2048
 
@@ -314,60 +344,6 @@ Straightens the most obstinate, stubborn, kinky hair. “PRESTO” eradicates da
 
 AGENTS, HERE IS A MONEY-MAKER.
 
-oral
-White
-S. W. V.
+#
 
-PLEASURE AT A
-
-AND EACH WEEK)
-Electric Bldg. Phone Main 8238
-
-OUR TRUNKS AND
-FROM FROM US
-Trunks, Bags and Suit Cases
-from Factory to You at Lowest
-on Guaranteed.
-Cases and Ladies Bags. Old
-in Exchange
-RUNK FACTORY
-GNBURG, Prop.
-2253 Welton Street.
-
-## BEST FAMILY LAXATIVE.
-
-Beware of constipation. Use Dr. King's New Life Pills and keep well. Mrs. Charles E. Smith, of West Franklin, Me., calls them 'Our family laxative.' Nothing better for adults or aged. Get them today. 25c. All druggists or by mail. H. E. Bucklen & Co., Philadelphia or St. Louis.
-
-Mmc. M. L. JOHNSON
-GRADUATE SCALP SPECIALIST AND
-* HAIR CULTURIST.
-Manluring, Facial, Scalp Message and Scientific Scalp Treating.
-
-The above cut represents Mmc. Johnson as she is today, with her own NATURAL HAIR cultivated by the use of our own Hair Remedies. She can do for you what she has done for herself and thousands of others in every part of this country.
-
-Use Johnson's Hair Food, for growing Hair on bald heads and bare temples. It makes hard, dry hair; soft, moist, glossy and luxurient. Per Jar, 50c.
-
-Use Johnson's Hair Grower, for Invigorating, Strengthening, Nourishing the Roots and Stimulating the Hair growth. Per Bottle, 50c.
-
-Use Johnson's Dandruff Cure. It cleans the Scalp of gum, grit, dandruff, scales and dirt, and leaves it healthy and pure. Per Jar, 25c.
-
-Use Johnson's Itch Cure. It will stop that Itching Scalp. Per Jar, 25c.
-
-Use Johnson's Shampoo Cream, for shampooing the Scalp and hair. It cleanses and beautifies. Per Jar, 25c.
-
-Use Johnson's Medicated Soap, for the complexion, shaving, shampooing and skin diseases. Per Cake, 25c.
-
-Use Johnson's Sure Hair Dye. Changes the grayest hair dark after a few applications. Per Bottle.....$1.00
-
-We are the Pioneer manufacturers of Scientific Hair Preparations in the United States. We also make Wigs, Switches, Pomps, Coronet Braids, Puffs and front Parts to match your hair. Best workmanship. Lowest prices.
-
-Send 10c for a large sample jar of Johnson's Hair wood and terms to Agents.
-
-Write your letter to
-
-DR. W. ALEXANDER JOHNSON
-OR
-Mine. MARY L. JOHNSON
-681 Shummet Avenue, Boston, Mine.
-
-Please mention this paper.
+2253 Welton Stree.

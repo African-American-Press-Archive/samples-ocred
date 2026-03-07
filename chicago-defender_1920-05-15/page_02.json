@@ -3,157 +3,18 @@
   "image": "images/page_02.jpg",
   "width": 2041,
   "height": 2755,
+  "processed_at": "2026-03-07T00:12:22.117449+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 92,
+    "after_merge": 81
+  },
   "regions": [
-    {
-      "bbox": [
-        105,
-        111,
-        363,
-        220
-      ],
-      "label": "doc_title",
-      "text": "WIDER SCOPE OF A.M.E. CHURCH"
-    },
-    {
-      "bbox": [
-        102,
-        251,
-        362,
-        389
-      ],
-      "label": "text",
-      "text": "(Continued From First Page)\n\nthe fraternal delegate from Zion, whose general conference is now meeting at Knoxville, is also here, and lively here, with an armful of statistics.\n\nAmong the candidates for office Dr. F. C. Durden of Mound Bayou, Miss., is looming large for missionary secretary. He is a young man of fine poise and attainments."
-    },
-    {
-      "bbox": [
-        158,
-        391,
-        309,
-        404
-      ],
-      "label": "paragraph_title",
-      "text": "Col. Simmons Coming"
-    },
-    {
-      "bbox": [
-        101,
-        406,
-        363,
-        584
-      ],
-      "label": "text",
-      "text": "The general regret of the conference is that Bishop Parks' invitation to Roscoe Conkling Simmons to deliver a speech to the other officer into for acceptance. However, it is likely that he will speak to the great body before the close of the sessions. Col. Simmons has a spot in the men that no other Race man ins, and it would be like depriving a man of his rights to fall to have him speak before this body. The bishops are that \"will Roscoe speak\" to what time will \"that Roscoe speak.\""
-    },
-    {
-      "bbox": [
-        130,
-        587,
-        334,
-        600
-      ],
-      "label": "paragraph_title",
-      "text": "Candidates for Bishop Active"
-    },
-    {
-      "bbox": [
-        102,
-        597,
-        364,
-        859
-      ],
-      "label": "text",
-      "text": "The election of bishops from all indications is likely to occur Friday, the 14th. W. A. Fountain, president of Morris Brown College, Atlanta, Ga., is very likely to be numbered among the bishops who are as being a man of unusual ability, energy and vigor. He enjoys the unique distinction of being held in high esteem by those who know him as a man of wisdom and humility. Among others who are seeking the bishopric are Rev. C. Runsam, W. T. Vernon, William Docker-Johnson, Bennie C. Caldwell, E. M. Hines, P. P. Peterson, W. W. G. Alexander, and last but by no means least, the matchless financier and church builder, whose name appears to be upon every longo-Dr. Election, and whose election is assured without a doubt."
-    },
-    {
-      "bbox": [
-        103,
-        858,
-        363,
-        977
-      ],
-      "label": "text",
-      "text": "The foremost candidate for the missionary department, C. M. Tauer, has issued a statement directing the at-terrorism services which could be rendered by a more liberal extension of the work to foreign fields through training courses thereby connecting correspondence and manpower America, West Indies and Abysalia."
-    },
-    {
-      "bbox": [
-        115,
-        986,
-        350,
-        999
-      ],
-      "label": "paragraph_title",
-      "text": "SIDELIGHTS OF CONVENTION"
-    },
-    {
-      "bbox": [
-        101,
-        1000,
-        366,
-        1645
-      ],
-      "label": "text",
-      "text": "The Poro college has been the mecca of social events during the conference. It is the home of the great and near-great. Mr. and Mrs. Aaron Malone, the business sagacity and intelligence, the institution has been made famous, are leaving no stone unturned to facilitate the pleasure of their many guests, the success of a conspicuous sample of race pride, the importance of Mr. Malone, who was elected permanent president of the Lay Delegates association, tendered a sumptuous banquet a few nights ago to the visiting doctores. Speeches were made by a number of representative men, all paying great deference to the builders of the Poro institution, especially Mrs. Aaron Malone, the business woman is unquired and unpassed by any member of our group.\n\nMme. Patti Brown Arrives\nMme. Patti Brown, the international song bird, arrived Sunday morning, not\u5531\u6b4c, but to present Patti's beauty and improvement. W. S. Evelyn Horton and Mme. W. S. Winston of St. Louis are in evidence at the Coliseum, acquainting the delegates with the virtual audience.\n\nMass Meeting Thursday Night\nDr. Leroy N. Bundy, formerly of East St. Leroy N. was presented for the conference Thursday night. Others who took part in the program were Attorney Dr. Charles L. Phillips, St. Louis; W. C. Linton, Attorney Joseph D. Bibb and A. N. Fields of Chicago; Bishop Joshua H. Jones, Willberforce; W. T. Vernon, the musical face of the occasion was directed by Prof. Gorin of Gorin. Hon. W. W. Fisher of Evanson is mon. in evidence at the general conference and is exerting every possible effort of Gov. Frank O. Lowden, Mr. Fisher is connected with the office of the attorney general and is one of the right hand men of Hon. Charles G. Rives, a possible presidential candidate."
-    },
-    {
-      "bbox": [
-        119,
-        1646,
-        340,
-        1658
-      ],
-      "label": "paragraph_title",
-      "text": "Repudiates Race Superiority"
-    },
-    {
-      "bbox": [
-        104,
-        1651,
-        369,
-        1845
-      ],
-      "label": "text",
-      "text": "Hepatulates Race Superiority\nWashington D. C., introduced a resolution the afternoon session Monday which met the unanimous approval of the general conference. The purport of the resolution was, \"That there is but one matter how much the people of this earth may vary as to color, hair, language, customs, laws or geographical locations, that the Creator hats indoors upon the earth.\" The resolution that welcomes as false and pernicious the doctrine of the superior race and superman, and declared that opportunities and"
-    },
-    {
-      "bbox": [
-        213,
-        1915,
-        353,
-        2024
-      ],
-      "label": "text",
-      "text": "People suffering from headaches and nervous diseases\u2014they take over every known romody, but give their temporary gibt. To note the cause in the work of a."
-    },
-    {
-      "bbox": [
-        121,
-        2119,
-        354,
-        2349
-      ],
-      "label": "text",
-      "text": "I have cared numbers given up as hostess, and I can prove it by letters in my office. I want you to read a few\u2014see how I remove Cataracts, Growths, Drooping Eyes, Scums on Eyesight, Cross Eyes.\nNose diseases are responsible not only for ear and other diseases; they are responsible for many of disturbances. Hence, when your eyes are ill, your eyes, it is well to discover if there is some disease present. If so, this should be corrected, and then the eyes cared for. In many cases, after the nose disease is clear, the eyeycases are no longer needed."
-    },
-    {
-      "bbox": [
-        145,
-        2356,
-        324,
-        2378
-      ],
-      "label": "paragraph_title",
-      "text": "DR. F. O. CARTER"
-    },
-    {
-      "bbox": [
-        126,
-        2381,
-        355,
-        2436
-      ],
-      "label": "text",
-      "text": "Specialist in Ego, Ear, Nose and Throat\nDentist, Chicago, St. Joseph\nFloor, Chicago, One door\ngrowth of The Fair.\nHours: 0 to 8; Sundays 10 to 12."
-    },
     {
       "bbox": [
         368,
@@ -162,7 +23,8 @@
         202
       ],
       "label": "text",
-      "text": "environments, coupled with education, were the only essential elements to hold away over and dominate other forms of education nationally, and that equal opportunities have always been the keynote for equal capacity and improvement."
+      "text": "environments, coupled with education, were the only essential elements to hold away over and dominate other forms of education nationally, and that equal opportunities have always been the keynote for equal capacity and improvement.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +34,8 @@
         215
       ],
       "label": "paragraph_title",
-      "text": "Nightly Concerts Featured"
+      "text": "Nightly Concerts Featured",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +45,8 @@
         352
       ],
       "label": "text",
-      "text": "Musical concerts have been an especial feature of the evening program, under the supervision of such well known musical artists as Prof. Gerald Garner, Mrs. Meryl L. Burges and others. The all school musical concert Monday evening was representative of the various colleges and uni- ties of the A. M. E. church and showed marked talent and musical trailing."
+      "text": "Musical concerts have been an especial feature of the evening program, under the supervision of such well known musical artists as Prof. Gerald Garner, Mrs. Meryl L. Burges and others. The all school musical concert Monday evening was representative of the various colleges and uni- ties of the A. M. E. church and showed marked talent and musical trailing.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +56,8 @@
         421
       ],
       "label": "text",
-      "text": "Prof. J. H. Chayburn of Arkansas, a press reporters of the conference, has exercised unusual skill in the hand-lettering journalistic phases of the megadeggling."
+      "text": "Prof. J. H. Chayburn of Arkansas, a press reporters of the conference, has exercised unusual skill in the hand-lettering journalistic phases of the megadeggling.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +67,8 @@
         433
       ],
       "label": "paragraph_title",
-      "text": "New Arrivals"
+      "text": "New Arrivals",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +78,8 @@
         481
       ],
       "label": "text",
-      "text": "Mr. and Mrs. Henry Braeme, Chilongo; Mrs. H. W. Jameson, Poorc; Mrs. H. E. Stewart, Chicago; Mrs. T. W. Scott, Chicago."
+      "text": "Mr. and Mrs. Henry Braeme, Chilongo; Mrs. H. W. Jameson, Poorc; Mrs. H. E. Stewart, Chicago; Mrs. T. W. Scott, Chicago.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +89,8 @@
         515
       ],
       "label": "paragraph_title",
-      "text": "Alderman Anderson Presides"
+      "text": "Alderman Anderson Presides",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +100,261 @@
         933
       ],
       "label": "text",
-      "text": "at Repub. Dist. Convention\nAld. Louis B. Anderson and the honor\nThursday night of last week to be the\nfirst man of his Race in the North to\npreside over a Republican district con-\nvention. The meeting was held at the\noldman's home, where the addernman was elected temporary and permanent chairman of the First congressional district, which is represented in congress by Martin B. Madden\n(white). It comprises the First, Sec-\ncular and Third Congresses of the city of Chicago. There were 59 delegates present, of which 26 were members of the Race. The convention elected the state central committeeman, Adolph Marxis; nominated the prede-\nidential elector, Wright Wheeler, and\nthe right-wing committee to the state\nresolution committee to the state\nRepublican convention; Senator Brady,\ncredentials committee; Senator Geo.\nF. Hardin, delegate at large to the\nstate Republican convention, and\nAld. F. Hardin, delegate to the state\nchairman of the committee on orga-\nnization. The meeting was harmonious.\nOne of the Defender editors was re-\ncommended for servant-at-arms to\nthe Republican national convention,\nand Ald. F. Hardin, senate-monate\nspeech\" of the convention and delegates said it reminded them of the old days of Chauncey Depow."
+      "text": "at Repub. Dist. Convention\nAld. Louis B. Anderson and the honor\nThursday night of last week to be the\nfirst man of his Race in the North to\npreside over a Republican district con-\nvention. The meeting was held at the\noldman's home, where the addernman was elected temporary and permanent chairman of the First congressional district, which is represented in congress by Martin B. Madden\n(white). It comprises the First, Sec-\ncular and Third Congresses of the city of Chicago. There were 59 delegates present, of which 26 were members of the Race. The convention elected the state central committeeman, Adolph Marxis; nominated the prede-\nidential elector, Wright Wheeler, and\nthe right-wing committee to the state\nresolution committee to the state\nRepublican convention; Senator Brady,\ncredentials committee; Senator Geo.\nF. Hardin, delegate at large to the\nstate Republican convention, and\nAld. F. Hardin, delegate to the state\nchairman of the committee on orga-\nnization. The meeting was harmonious.\nOne of the Defender editors was re-\ncommended for servant-at-arms to\nthe Republican national convention,\nand Ald. F. Hardin, senate-monate\nspeech\" of the convention and delegates said it reminded them of the old days of Chauncey Depow.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        370,
+        951,
+        632,
+        1420
+      ],
+      "label": "text",
+      "text": "Brooklyn, N. Y., May 14\u2014As usual, the fourth annual vaudeville and dance of the popular Kismet club lived up to its previous reputation when it held most successful affair at Lobby Hall last month, last one thousand of the younger set were present and danced until the woefull hours of the morning after witnessing the usual vaudeville at the Amphitheater and White, Slither and Groen, Andy Pendleton's Jazzy Four, featuring Milford Smallwood, the wonderful little toon dancer; Dave Watkins from the association's midnight show, Parrell and the Amphitheater, accented by Miss Andrudes and Groen, all the acts were good, each receiving their share of applause. Wm. Brown's society orchestra furnished the music in their usual jazzy style. The Kismet club for the pleasure of their patrons and credit is their for this high class affair.\n\nBrooklynite Drops Dead\nBrooklyn, N. Y., May 14\u2014Thophilus Fletcher, a younger brother of W. W. Fletcher, president of the Progressive Improvement association, dropped dead home Monday, May 5, at his home in Montgomery heart disease. Fletcher was a member of the chauffeurs and other organizations. The body was shipped to Elizabeth, Pa., for burial and was acceded a brother of the deceased. A widow and numerous other relatives are left.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        368,
+        1438,
+        632,
+        1953
+      ],
+      "label": "text",
+      "text": "Flushing, N. Y., May 14\u2014Because their home was neglected and because they wore without proper guardian-ship, James Lloyd and I. Henry Garner of Wocks avenue, Bayside, were placed in the New York Juvenile asylum. Their father was in court and apparently does a little trucking business, so the court ordered him to pay $2 per week for each child.\n\nChocolate Brown Candy Company\n(Incorporated)\n\n324 East 39th Street, Chicago, IL\nManufacturers and Brokers of Candies\n\nPRICE LIST\n\nWrigley Chewing Gum, 1 box lot. 660\nDoublemint ... 650\nSpearmint ... 650\nIcely Fruit ... 650\n\nCanelo Chocolate Puddings... $1.05\nBrach Chocolate, 1 lb. boxes... 650\nBrach Chocolate, 1/2 lb. boxes... 320\nBrach Almond Bars, 2 doz... $1.20\nBrach Milk Chocolate Bars... $1.20\nBulk Chocolates in 5 lb. lots... $2.75\nSpanish Pear Bars, 2 doz... $1.10",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        368,
+        1953,
+        632,
+        2406
+      ],
+      "label": "text",
+      "text": "We are in a position to ship R.O.B. to your city or town by parcel post at any time. In sending in your order mail us a postal money order to take care of same.\n\nNow Is the Time\n\nWe repair and in-stall steam and hot water plants of all kinds.\nIf your furnaces smoke and won't burn fire of coal call J. BARRETT, Diesel 1673, THE COAL SAVER.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        368,
+        2406,
+        632,
+        2683
+      ],
+      "label": "text",
+      "text": "A. A. BOYD\n1807 S. WABASH AVE., CHICAGO\nTelephone Calumet 4073\nRepresenting\nN. ZAKED & BRO.\nIncorporated\nIMPORTERS OF\nORIENTAL GOODS READY\nMADE AND JAPANESE\nKIMONOS\nAT WHOLESALE PRICES\nSPECIAL SALE EVERY SAT.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        196,
+        2683,
+        490,
+        2727
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        106,
+        71,
+        193,
+        86
+      ],
+      "label": "text",
+      "text": "PAGE TWO",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        105,
+        111,
+        363,
+        220
+      ],
+      "label": "doc_title",
+      "text": "WIDER SCOPE OF A.M.E. CHURCH",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        102,
+        251,
+        362,
+        389
+      ],
+      "label": "text",
+      "text": "(Continued From First Page)\n\nthe fraternal delegate from Zion, whose general conference is now meeting at Knoxville, is also here, and lively here, with an armful of statistics.\n\nAmong the candidates for office Dr. F. C. Durden of Mound Bayou, Miss., is looming large for missionary secretary. He is a young man of fine poise and attainments.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        158,
+        391,
+        309,
+        404
+      ],
+      "label": "paragraph_title",
+      "text": "Col. Simmons Coming",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        101,
+        406,
+        363,
+        584
+      ],
+      "label": "text",
+      "text": "The general regret of the conference is that Bishop Parks' invitation to Roscoe Conkling Simmons to deliver a speech to the other officer into for acceptance. However, it is likely that he will speak to the great body before the close of the sessions. Col. Simmons has a spot in the men that no other Race man ins, and it would be like depriving a man of his rights to fall to have him speak before this body. The bishops are that \"will Roscoe speak\" to what time will \"that Roscoe speak.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        130,
+        587,
+        334,
+        600
+      ],
+      "label": "paragraph_title",
+      "text": "Candidates for Bishop Active",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        102,
+        597,
+        364,
+        859
+      ],
+      "label": "text",
+      "text": "The election of bishops from all indications is likely to occur Friday, the 14th. W. A. Fountain, president of Morris Brown College, Atlanta, Ga., is very likely to be numbered among the bishops who are as being a man of unusual ability, energy and vigor. He enjoys the unique distinction of being held in high esteem by those who know him as a man of wisdom and humility. Among others who are seeking the bishopric are Rev. C. Runsam, W. T. Vernon, William Docker-Johnson, Bennie C. Caldwell, E. M. Hines, P. P. Peterson, W. W. G. Alexander, and last but by no means least, the matchless financier and church builder, whose name appears to be upon every longo-Dr. Election, and whose election is assured without a doubt.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        103,
+        858,
+        363,
+        977
+      ],
+      "label": "text",
+      "text": "The foremost candidate for the missionary department, C. M. Tauer, has issued a statement directing the at-terrorism services which could be rendered by a more liberal extension of the work to foreign fields through training courses thereby connecting correspondence and manpower America, West Indies and Abysalia.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        115,
+        986,
+        350,
+        999
+      ],
+      "label": "paragraph_title",
+      "text": "SIDELIGHTS OF CONVENTION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        101,
+        1000,
+        366,
+        1532
+      ],
+      "label": "text",
+      "text": "The Poro college have been the mecca of social events during the conference. It is the home of the great and near-great. Mr. and Mrs. Aaron Malone, the chairperson of the conference, business sagacity and intelligence, the institution has been made famous, a leaving no stone unturned to facilitate the pleasure of their many guests. The institution is a conspicuous example of Malone, who was elected permanent president of the Lay Delegates association, tendered a sumptuous banquet a few nights ago to the visiting doctores of the conference. Speeches were made by a number of representative men, all paying great deference to the builders of the Poro institution, especially Mrs. Aaron Malone, a prominent business woman is unbounded and unpassed by any member of our group.\n\nMme. Patti Brown Arrives\nMme. Patti Brown, the international song bird, arrived Sunday morning, not to shup, but to present Patti's beauty improvement. W. Mee, Evolven Horton and Mme. W. S. Winston of St. Louis are much in evidence at the Coliseum, acquainting the delegates with the virtues of the group.\n\nMeeting Thursday Night\nDr. Leroy N. Bundy, formerly of East St. Leroy, was presented to the conference Thursday night. Others who took part in the program were Attoroye H., Charles H. Phillips, St. Liesh; C. Linton, Attorney Joseph D. Bibb and A. N. Fields of Chicago; Bishop Joshua H. Jones, Wilberforce; W. T. Vernon, Tennessee. The musical feature of the conference is directed by Prof. Gourg. Gourg of Chicago.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        103,
+        1533,
+        366,
+        1645
+      ],
+      "label": "text",
+      "text": "Hon. W. W. Fisher of Evanson is much in evidence at the general convention in is exerting every possible role of Gov. Frank O. Lowden, Mr. Fisher is connected with the office of the attorney general and is one of the right hand men of Hon. Charles G. James, a possible presidential candidate.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        119,
+        1646,
+        340,
+        1658
+      ],
+      "label": "paragraph_title",
+      "text": "Repudiates Race Superiority",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        104,
+        1651,
+        369,
+        1845
+      ],
+      "label": "text",
+      "text": "Hepatulates Race Superiority\nWashington D. C., introduced a resolution the afternoon session Monday which met the unanimous approval of the general conference. The purport of the resolution was, \"That there is but one matter how much the people of this earth may vary as to color, hair, language, customs, laws or geographical locations, that the Creator hats indoors upon the earth.\" The resolution that welcomes as false and pernicious the doctrine of the superior race and superman, and declared that opportunities and",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        121,
+        1915,
+        210,
+        2043
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        213,
+        1915,
+        353,
+        2024
+      ],
+      "label": "text",
+      "text": "People suffering from headaches and nervous diseases\u2014they take over every known romody, but give their temporary gibt. To note the cause in the work of a.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        121,
+        2119,
+        354,
+        2349
+      ],
+      "label": "text",
+      "text": "I have cared numbers given up as hostess, and I can prove it by letters in my office. I want you to read a few\u2014see how I remove Cataracts, Growths, Drooping Eyes, Scums on Eyesight, Cross Eyes.\nNose diseases are responsible not only for ear and other diseases; they are responsible for many of disturbances. Hence, when your eyes are ill, your eyes, it is well to discover if there is some disease present. If so, this should be corrected, and then the eyes cared for. In many cases, after the nose disease is clear, the eyeycases are no longer needed.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        145,
+        2356,
+        324,
+        2378
+      ],
+      "label": "paragraph_title",
+      "text": "DR. F. O. CARTER",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        126,
+        2381,
+        355,
+        2436
+      ],
+      "label": "text",
+      "text": "Specialist in Ego, Ear, Nose and Throat\nDentist, Chicago, St. Joseph\nFloor, Chicago, One door\ngrowth of The Fair.\nHours: 0 to 8; Sundays 10 to 12.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,17 +364,8 @@
         950
       ],
       "label": "paragraph_title",
-      "text": "Kiamst Triumpha Again"
-    },
-    {
-      "bbox": [
-        370,
-        951,
-        631,
-        1250
-      ],
-      "label": "text",
-      "text": "Brooklyn, N. Y., May 14\u2014As usual, the fourth annual vaudeville and dance of the popular Kismet club lived up to its previous reputation when they stage their most successful affair last month at the last lust. One thousand of the younger set were present and danced until the wee small hours of the morning after witnessing the usual vaudeville attractions. Among the acts were Shaw and Wendell, the children of Pendleton's Jazzy Four, featuring Milford Smallwood, the wonderful little toe dance; Dave Watkins from the association's midnight show, Farrell and Hatch and Paul Robison, accompanying Lindsay. All the acts were good, and their share of applause, Wm. Brown's society orchestra furnished the music in their usual jazzy style. The Kismet members did all in their power for the pleasure of their patrons and is theirs for this high class affair."
+      "text": "Kiamst Triumpha Again",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,17 +375,8 @@
         1268
       ],
       "label": "paragraph_title",
-      "text": "Brooklynite Drone Road"
-    },
-    {
-      "bbox": [
-        370,
-        1268,
-        632,
-        1420
-      ],
-      "label": "text",
-      "text": "Brooklyn, N. Y, May 14\u2014Theophilus Fletcher, a younger brother of W. W. Fletcher, president of the Progressive Hospital, visited Wednesday evening, May 6 at his home in Horkimer place, a victim of heart disease. Fletcher was a memorial organizer for the organizations. The body was shipped to Elizabeth, Pa. for burial and was accompanied by the brother of the deceased wife and numerous other relatives are left."
+      "text": "Brooklynite Drone Road",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,17 +386,8 @@
         1439
       ],
       "label": "paragraph_title",
-      "text": "Placed in Asylum"
-    },
-    {
-      "bbox": [
-        371,
-        1438,
-        630,
-        1557
-      ],
-      "label": "text",
-      "text": "Flushing, N. Y., May 14\u2014Because their home was neglected and because they were without proper guardian care, the Worcester Worcestershire of Wocks area, Bayside, were placed in the New York Juvenile asylum. Their father was in court and apparently had been living business, so the court ordered him to pay $2 per week for each child."
+      "text": "Placed in Asylum",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,17 +397,19 @@
         1780
       ],
       "label": "paragraph_title",
-      "text": "PRICE LIST"
+      "text": "PRICE LIST",
+      "status": "ok"
     },
     {
       "bbox": [
-        383,
-        1786,
-        623,
-        1953
+        843,
+        78,
+        1202,
+        101
       ],
       "label": "text",
-      "text": "Wrigley Chewing Gum, 1 box lot, 650\nDoublemint ..... 650\nSpearmint ..... 650\nJuicy Fruit ..... 650\nCunco Chocolate Puddings.....$1.05\nBrach Chocolate, 1 lb. boxes.....650\nBrach Chocolate, \u00bd lb. boxes.....320\nBrach Almond Bars, 2 doz.....$1.20\nBrach Milk Chocolate Bars.....$1.20\nBulk Chocolates in 5 lb. lots.....$2.75\nSpanish Peanut Bars, 2 doz.....$1.10"
+      "text": "THE CHICAGO DEFENDER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,17 +419,8 @@
         1718
       ],
       "label": "doc_title",
-      "text": "NEVERKINK"
-    },
-    {
-      "bbox": [
-        635,
-        220,
-        895,
-        456
-      ],
-      "label": "text",
-      "text": "Very few Race men or women applied for or took the recent Brooklyn postoffice examination for clerks or jobs. He had recently held recently. It has been said that it required high wages obtained in private jobs. *Lawyer Frances F. Giles was the principal speaker at a large reception given at two evenings ago, *Evelyn of the early evening Rev. J. E. Sheppard, president of the National Training School at Durham, N. C. Rev. S. Parks Cudman (white), N. C. Rev. J. M. Congrangional church, has calculated that the commencement day orater at the school on May 27th. *Winfield Holland, one of the popular young men of the city, has come on once more coming to town recently from"
+      "text": "NEVERKINK",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,17 +430,8 @@
         1484
       ],
       "label": "text",
-      "text": "Very few Race men or women applied for or took the recent Brooklyn postoffice examination for clerks or carriers, which was held recently. It required a background check, and wages obtained in private jobs. *Lawyer Frances F. Gilles was the principal speaker at a large reception given at Macedonia church, Flushing, a few evening age. *Through the efforts of the national Training School, Dennis N. C. Rev. S. Parks Cudman (white), the famous pastor of Central Congregational church, has consented to he commencement day orator at the National Training School,"
-    },
-    {
-      "bbox": [
-        636,
-        456,
-        896,
-        1483
-      ],
-      "label": "text",
-      "text": "* Leonard Moody, 161 Dulufold street, had the misfortune to give his car \"too much gas\" and also of being a second offender and was fired $100 in the traffic violation. Because they went on strike for poor treatment, Davis Post No. 116 of the American Legion will first the smoker at the Universal Republican Club on this Saturday evening, May 15th. It will be under the management of the member's office. Because they went on"
+      "text": "Very few Race men or women applied for or took the recent Brooklyn postoffice examination for clerks or carriers, which was held recently. It required a background check, and wages obtained in private jobs. *Lawyer Frances F. Gilles was the principal speaker at a large reception given at Macedonia church, Flushing, a few evening age. *Through the efforts of the national Training School, Dennis N. C. Rev. S. Parks Cudman (white), the famous pastor of Central Congregational church, has consented to he commencement day orator at the National Training School,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +441,8 @@
         694
       ],
       "label": "text",
-      "text": "mother of Mrs. Dolaney, a prominent member of Bridge Street church. G. H. Harris was the undertaker. * The mother of the exclusive neighborhood on Franklin avenue between Pacific and Dean streets by our group is almost complete, for the apartment houses purchased by them are all emplied of the exclusive neighborhood filled. * Mrs. Rachol Tucker, 413 Carlin avenue, is still on the slick list, but slowly improving. * The League Forum's Sunday afternoon meetings purchased by them feature is the high character of subjects discussed and the musical programs. * Boys' week was brought to a litting close Sunday, May 9, after a meeting of the faculty interested in themselves. The work was full of big events, which embraced everything from religion, education and athletics to social entertainments. * Harris Borchacno No. 8 of the Galileo Theater, for successful reception, May 3, at Labor Lycium. Mrs. C. Rafford was chairman of the entertainment committee. Mrs. L. J. Johnson is president of the school Company, F. Second Attendance of the 154 fantasy, of which Lout. Luther Evans is president, is planning a big event for the latter part of the month, to be Summer half. * Anniversary day, that Summer half. * Will take part in the event. * Wesley Friend and Matilda Michaelson, both of 1594 Dean street, took out marriage licenses last week. * Mothers' day was celebrated in the churches in an appropriate manner, carriage was in evidence everywhere."
+      "text": "mother of Mrs. Dolaney, a prominent member of Bridge Street church. G. H. Harris was the undertaker. * The mother of the exclusive neighborhood on Franklin avenue between Pacific and Dean streets by our group is almost complete, for the apartment houses purchased by them are all emplied of the exclusive neighborhood filled. * Mrs. Rachol Tucker, 413 Carlin avenue, is still on the slick list, but slowly improving. * The League Forum's Sunday afternoon meetings purchased by them feature is the high character of subjects discussed and the musical programs. * Boys' week was brought to a litting close Sunday, May 9, after a meeting of the faculty interested in themselves. The work was full of big events, which embraced everything from religion, education and athletics to social entertainments. * Harris Borchacno No. 8 of the Galileo Theater, for successful reception, May 3, at Labor Lycium. Mrs. C. Rafford was chairman of the entertainment committee. Mrs. L. J. Johnson is president of the school Company, F. Second Attendance of the 154 fantasy, of which Lout. Luther Evans is president, is planning a big event for the latter part of the month, to be Summer half. * Anniversary day, that Summer half. * Will take part in the event. * Wesley Friend and Matilda Michaelson, both of 1594 Dean street, took out marriage licenses last week. * Mothers' day was celebrated in the churches in an appropriate manner, carriage was in evidence everywhere.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +452,8 @@
         1140
       ],
       "label": "text",
-      "text": "Miss Eather Bradley, president of the Concord Linen Shower club, will head a committee that will give a reception which has for its object the training of the Northeastern Federation of Women's Clubs, which will hold its session here this summer. * Miss Mario Russell, who has given many notationals on May 11, will give a reception on May 13, Sunday. * Fred Taylor, 815 Gates avenue, fell from an elevator early Friday morning, May 7, and received a fracture of his left leg. * Mrs. M. M. C. Lawton, who is a member of an organization (white) of the First assembly district, was made a member of the executive committee at a meeting held Thursday, May 6. She will be honored in the county. * Several members of the Race Joined the ranks of home owners last week, buying in different sections of the city. This was caused by rents being raised and no money being paid. * 473 Carlton avenue, left last week for the A. M. E. Zlon general conference, which meets in Knoxville, Tenn. In her absence Miss Snow will be established. * Wm. Taylor was a very pride birthday reception at his home, 1619 Pacific street, Wednesday, May 5. It was arranged by Mrs. Taylor, Mr. is an active member of Nazarene church and the Brooklyn lodge of IKIs."
+      "text": "Miss Eather Bradley, president of the Concord Linen Shower club, will head a committee that will give a reception which has for its object the training of the Northeastern Federation of Women's Clubs, which will hold its session here this summer. * Miss Mario Russell, who has given many notationals on May 11, will give a reception on May 13, Sunday. * Fred Taylor, 815 Gates avenue, fell from an elevator early Friday morning, May 7, and received a fracture of his left leg. * Mrs. M. M. C. Lawton, who is a member of an organization (white) of the First assembly district, was made a member of the executive committee at a meeting held Thursday, May 6. She will be honored in the county. * Several members of the Race Joined the ranks of home owners last week, buying in different sections of the city. This was caused by rents being raised and no money being paid. * 473 Carlton avenue, left last week for the A. M. E. Zlon general conference, which meets in Knoxville, Tenn. In her absence Miss Snow will be established. * Wm. Taylor was a very pride birthday reception at his home, 1619 Pacific street, Wednesday, May 5. It was arranged by Mrs. Taylor, Mr. is an active member of Nazarene church and the Brooklyn lodge of IKIs.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +463,8 @@
         1163
       ],
       "label": "paragraph_title",
-      "text": "MT. VERNON MATTERS"
+      "text": "MT. VERNON MATTERS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +474,19 @@
         1488
       ],
       "label": "text",
-      "text": "Mt. Vernon, N. Y., May 14\u2014Rov. and Mrs. G. S. Boyd were given a surprise party by many of their church friends recently. The shower consisted of many donations. *Rev. and Mrs. Boyd have gone to Knoxville, Tenn., to attend the general conference. Their daughter, Miss Mary E. C., has resigned from Westinghouse College, Salisbury, N. C., and has attended among her friends again. The donate last Thursday evening at Macdonald church was in every way a success. Mr. Whitney was the winner. Rev. Nelson is well pleased at the way the members are striving to raise the funds for the Macdonald avenue, is very ill. Mr. Brown of South Seventh avenue is still very sick. Mrs. Hunt, West Third street, who has been ill, is able to be up. *George Wood, 37, 46 West Lincoln avenue, who was alleged to have stabbed Lawrences, was given the grand jury last week, in the course of special sessions on a charge of second degree assault."
+      "text": "Mt. Vernon, N. Y., May 14\u2014Rov. and Mrs. G. S. Boyd were given a surprise party by many of their church friends recently. The shower consisted of many donations. *Rev. and Mrs. Boyd have gone to Knoxville, Tenn., to attend the general conference. Their daughter, Miss Mary E. C., has resigned from Westinghouse College, Salisbury, N. C., and has attended among her friends again. The donate last Thursday evening at Macdonald church was in every way a success. Mr. Whitney was the winner. Rev. Nelson is well pleased at the way the members are striving to raise the funds for the Macdonald avenue, is very ill. Mr. Brown of South Seventh avenue is still very sick. Mrs. Hunt, West Third street, who has been ill, is able to be up. *George Wood, 37, 46 West Lincoln avenue, who was alleged to have stabbed Lawrences, was given the grand jury last week, in the course of special sessions on a charge of second degree assault.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1210,
+        18,
+        1293,
+        110
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +496,8 @@
         146
       ],
       "label": "paragraph_title",
-      "text": "NEW YORK CITY NEWS"
+      "text": "NEW YORK CITY NEWS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +507,8 @@
         169
       ],
       "label": "paragraph_title",
-      "text": "Welfare Exposition Notes"
+      "text": "Welfare Exposition Notes",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +518,8 @@
         478
       ],
       "label": "text",
-      "text": "**EXHIBITION NOTES**\n\nThe Hillcrest Monograph Co., the Howard Manufacture Co., the National and local Y. W. C. A., the Community Service and Red Cross, New York City Missola Society and many other organizations have promised to assist the community in providing welfare exposition managed by the 16th Infantry. Invitations have been sent to Gen. Pershing, Gen. Wood, Col. Moss, Gen. Lowden of Illinois and others. Gen. Lowden will speak at the forum. It is anticipated that a memorial will be Smith of New York state will deliver the opening address on May 17th. * There will be a church day, woman's day, children's day, American Legion day, soccer day, and Community Service and Urban League days, Gen. Pershing, Theodore Roosevelt and Booker T. Washington days. * Entries of art, sculpture, medal work, fine mechanical work, art, craft, writing and other samples of merit from individuals are being received daily."
+      "text": "**EXHIBITION NOTES**\n\nThe Hillcrest Monograph Co., the Howard Manufacture Co., the National and local Y. W. C. A., the Community Service and Red Cross, New York City Missola Society and many other organizations have promised to assist the community in providing welfare exposition managed by the 16th Infantry. Invitations have been sent to Gen. Pershing, Gen. Wood, Col. Moss, Gen. Lowden of Illinois and others. Gen. Lowden will speak at the forum. It is anticipated that a memorial will be Smith of New York state will deliver the opening address on May 17th. * There will be a church day, woman's day, children's day, American Legion day, soccer day, and Community Service and Urban League days, Gen. Pershing, Theodore Roosevelt and Booker T. Washington days. * Entries of art, sculpture, medal work, fine mechanical work, art, craft, writing and other samples of merit from individuals are being received daily.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,17 +529,30 @@
         500
       ],
       "label": "paragraph_title",
-      "text": "Mrs. Alice Jackson's Recital"
+      "text": "Mrs. Alice Jackson's Recital",
+      "status": "ok"
     },
     {
       "bbox": [
         1167,
         492,
+        1428,
+        982
+      ],
+      "label": "text",
+      "text": "Mrs. Alice Jackson's Recital\nMrs. Alice Conrad Jackson announces her musical take to place of her music pupil to take place on Monday evening, May 18, at Harlem Casino, 116th street and Lonox avenue. Upon this occasion Mrs. Jackson will have the assistance of her vocal teacher, Mrs. A. S. Gitterman, the well known Mrs. Gitterman, among Mrs. Gitterman's pupils are among the artists as Mina, M. N. Currie, soprano, co-star for two seasons with John McCormack; Harry Barrhart, leader of U. S. Community chorus, and others. The concert will be followed by dance classes, 8 boxes, seating 8 persons, $2.50 each, at A. C. Jackson's, 129 W, 138th street, Music for dancing furnished by Prof. W, H. Clair.-Advt.\n\nUnited Homes Club Collation Brooklyn. N. T. Clark co-founded Homes club holds its installation reception Friday evening, April 30, at the residence of Mr. and Mrs. Joseph Askew, 169 Lexington avenue. A fine collation was enjoyed by all present. The officers installed were: President, James secretary, J. H. Smith; treasurer, Joseph Askew; Simmons; Joseph Askew, vice president; J. Rold, assistant secretary, and Wm. Smith, assistant treasurer. The members are Mr. and Mrs. V. Toppins, Mrs. M. Duffy, Mrs. H. Smith, Mrs. J. B along with the guests present were Mr. and Mrs. Massele; Mrs. W. Kemp, Mrs. Blanche Ward, Mr. and Mrs. J. H. Williams and W. H. Smith.-Advt.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1167,
+        998,
         1429,
         1145
       ],
       "label": "text",
-      "text": "Mrs. Alice Jackson's Recital\nMrs. Conrad Jackson announces the birth of one of his music pupils to take place on Tuesday evening, May 18, at Harlem Casino, 116th street and Lonox avenue. Upon this occasion Mrs. Jackson will have a private teacher, Mrs. S. Gitterman, the school lecturer and reader. Among Mrs. Gitterman's pupils are such prominent artists as Mina, M. N. Currie, soprano, co-star for two seasons with John M. Currie, 129th street, U. S. Community chorus, and others. The concert will be followed by dancing, Admission, 60 cents, Boxes, seating 8 persons, $2.50, and on sale at M. Currie, 129th street, U. S. Community chorus, furnished by Prof. W. H. Clair\u2014Advt.\n\nUnited Homes Club Collation\nBrooklyn, N. Y. May 14\u2014The United Homes Club reception Friday evening, April 14, the residence of Mr. and Mrs. Joseph Askew, 169 Lexington avenue. A fine collection was enjoyed by all present, the officers installed were; President, P. Askew, president of the treasurer, Joseph Askew; chaplain, J. Simmons; Joseph Askew, vice president; J. Rold, assistant secretary, and Wm. Smith, assistant treasurer. The members are Mr. and Mrs. V. Toppins, P. Askew, president"
+      "text": "C. Marcolus Dorsey writes in the May Crisis: The average white priest and many of the Catholic bishops readily agree that there should be a priesthood in the gro priesthood\u2014supposedly to conform to American prejudice. What the Negro youth demands and the Raco must have is a priesthood according to the same moral standards as the slim one that provided for all other peoples in the Catholic church.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +562,8 @@
         1166
       ],
       "label": "paragraph_title",
-      "text": "Dr. Bouafield Here"
+      "text": "Dr. Bouafield Here",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +573,8 @@
         1297
       ],
       "label": "text",
-      "text": "Dr. M. O. Bousfield, corresponding secretary of the Railway Men's International Benevolent Industrial Association, was in the city last week en route from Boston to his home city, Chicago. The doctor, who attended the porter's training in Boston, visited with S. J. Freeman of the Ship Car Brotherhood in the interest of the analgamation of the two organizations."
+      "text": "Dr. M. O. Bousfield, corresponding secretary of the Railway Men's International Benevolent Industrial Association, was in the city last week en route from Boston to his home city, Chicago. The doctor, who attended the porter's training in Boston, visited with S. J. Freeman of the Ship Car Brotherhood in the interest of the analgamation of the two organizations.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +584,8 @@
         1313
       ],
       "label": "paragraph_title",
-      "text": "Attend Socialist"
+      "text": "Attend Socialist",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +595,8 @@
         1491
       ],
       "label": "text",
-      "text": "Attend Socialist Convention\nThis meeting attended the convention of the Socialist party held last Saturday in Finnish hall, 127th street and 6th avenue, in which he addressed the addresses, in which kugene V. Dekka made the Socialist candidate for President, predicted a record vote for the party in party call. Socialism among our men in Harlem has reached a good proportion.\nGav. Smith Saves Slayer\nWm. Warrick, an elderly man who was sentenced to death for the mute"
+      "text": "Attend Socialist Convention\nThis meeting attended the convention of the Socialist party held last Saturday in Finnish hall, 127th street and 6th avenue, in which he addressed the addresses, in which kugene V. Dekka made the Socialist candidate for President, predicted a record vote for the party in party call. Socialism among our men in Harlem has reached a good proportion.\nGav. Smith Saves Slayer\nWm. Warrick, an elderly man who was sentenced to death for the mute",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +606,8 @@
         231
       ],
       "label": "text",
-      "text": "der of John W. T. The porter at Buffalo la week saved from the a commutation of son Smith. Warwick, who was weded in Sing life to the interest in the judge before whom no for murder."
+      "text": "der of John W. T. The porter at Buffalo la week saved from the a commutation of son Smith. Warwick, who was weded in Sing life to the interest in the judge before whom no for murder.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +617,8 @@
         254
       ],
       "label": "paragraph_title",
-      "text": "Mrs. James Returns"
+      "text": "Mrs. James Returns",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +628,8 @@
         346
       ],
       "label": "text",
-      "text": "Mrs. Charles L. James. 33 West 138th\nstreet, has returned from Jacksonville,\naccount of the illness of her sister, Account\nSumter, 1934 East street, who is much\nimproved now. Mrs. James is a bride,\nmarried Prof. Charles E. James\nrecently."
+      "text": "Mrs. Charles L. James. 33 West 138th\nstreet, has returned from Jacksonville,\naccount of the illness of her sister, Account\nSumter, 1934 East street, who is much\nimproved now. Mrs. James is a bride,\nmarried Prof. Charles E. James\nrecently.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +639,8 @@
         369
       ],
       "label": "paragraph_title",
-      "text": "Bill Protocols Newspapers"
+      "text": "Bill Protocols Newspapers",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,7 +650,8 @@
         883
       ],
       "label": "text",
-      "text": "A bill to protect newspapers, passed by the last legislature, was recently signed by Gov. Smith. The bill, known as the Rotte bill, reads: \"Any person who knowingly and willfully receives or transmits by any means whatever to any manager, editor, publisher, reporter or other employees of a pub-\n\n\"WE CAN DO LITTLE ALOU OAN DO A LIBERTY Insurance CAPITAL, S STOCK IS BEING SOLD THE LIBERTY LIFE is the FIRST LIFE INSURANCE COMPANY of Illinois that will be OWNED AND IMPOSSIBLE TO LOSE ALL Severity-five per cent of every dollar paid by insurance company is completed, and if we should fall to severity-five per cent the interest will ing twenty-five per cent is being used for"
+      "text": "A bill to protect newspapers, passed by the last legislature, was recently signed by Gov. Smith. The bill, known as the Rotte bill, reads: \"Any person who knowingly and willfully receives or transmits by any means whatever to any manager, editor, publisher, reporter or other employees of a pub-\n\n\"WE CAN DO LITTLE ALOU OAN DO A LIBERTY Insurance CAPITAL, S STOCK IS BEING SOLD THE LIBERTY LIFE is the FIRST LIFE INSURANCE COMPANY of Illinois that will be OWNED AND IMPOSSIBLE TO LOSE ALL Severity-five per cent of every dollar paid by insurance company is completed, and if we should fall to severity-five per cent the interest will ing twenty-five per cent is being used for",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,7 +661,8 @@
         883
       ],
       "label": "text",
-      "text": "IN DO LITTLE ALONE\u2014WITH YOUR OAN DO ANYTHING\"\nLIBERTY LIFE\nInsurance Company\nCAPITAL, $100,000.00\nSTOCK IS BEING SOLD AT $30.00 PER S\nLIBERTY LIFE is the FIRST OLD LINE or LEGAL\nINSURANCE COMPANY ever Incorporated under\nit will be OWNED AND CONTROLLED BY\nIMPOSSIBLE TO LOSE ALL OF YOUR INVESTMENT\nat cent of every dollar paid for stock is deposited with a\ninsurance company and may remain there until the\nbuyer if we should fail to complete the organization by\ncurtains the interest will be returned to the Stockholder\nat per cent is being used for organization expenses."
+      "text": "IN DO LITTLE ALONE\u2014WITH YOUR OAN DO ANYTHING\"\nLIBERTY LIFE\nInsurance Company\nCAPITAL, $100,000.00\nSTOCK IS BEING SOLD AT $30.00 PER S\nLIBERTY LIFE is the FIRST OLD LINE or LEGAL\nINSURANCE COMPANY ever Incorporated under\nit will be OWNED AND CONTROLLED BY\nIMPOSSIBLE TO LOSE ALL OF YOUR INVESTMENT\nat cent of every dollar paid for stock is deposited with a\ninsurance company and may remain there until the\nbuyer if we should fail to complete the organization by\ncurtains the interest will be returned to the Stockholder\nat per cent is being used for organization expenses.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -552,7 +672,8 @@
         709
       ],
       "label": "doc_title",
-      "text": "LIBERTY LIFE Insurance Company CAPITAL, $100,000.00"
+      "text": "LIBERTY LIFE Insurance Company CAPITAL, $100,000.00",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -562,7 +683,8 @@
         878
       ],
       "label": "text",
-      "text": "STOCK IS BEING SOLD AT $30.00 PER SHARE\n\nTHE LIBERTY LIFE is the FIRST OLD LINE or LEGAL RESERVE\nLIFE INSURANCE COMPANY ever incorporated under the laws of\nIllinois that will be OWNED AND CONTROLLED BY NEGROES.\n\nIMPOSSIBLE TO LOSE ALL OF YOUR INVESTMENT\n\nSeventy-five per cent of every dollar paid for stock is deposited with a bank which is under State Supervision, and this money must remain until the organization is dissolved. The deposit will be returned by June 10, 1921, the seventy-five per cent of the interest will be returned to the Stockholders. The remaining twenty-five per cent is being used for organization expenses."
+      "text": "STOCK IS BEING SOLD AT $30.00 PER SHARE\n\nTHE LIBERTY LIFE is the FIRST OLD LINE or LEGAL RESERVE\nLIFE INSURANCE COMPANY ever incorporated under the laws of\nIllinois that will be OWNED AND CONTROLLED BY NEGROES.\n\nIMPOSSIBLE TO LOSE ALL OF YOUR INVESTMENT\n\nSeventy-five per cent of every dollar paid for stock is deposited with a bank which is under State Supervision, and this money must remain until the organization is dissolved. The deposit will be returned by June 10, 1921, the seventy-five per cent of the interest will be returned to the Stockholders. The remaining twenty-five per cent is being used for organization expenses.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -572,7 +694,8 @@
         896
       ],
       "label": "paragraph_title",
-      "text": "ARE YOU WILLING TO HELP"
+      "text": "ARE YOU WILLING TO HELP",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -582,7 +705,8 @@
         960
       ],
       "label": "text",
-      "text": "Are you willing to chance twenty-five per cent of your savings to help us build a house or to give up your job and girls who are coming out of schools and college every day with the door of opportunity? If we do not make a start we will never accomplish anything. Other groups have made it to college and college every day we will join us we can do equally as well as they have done within a very few years."
+      "text": "Are you willing to chance twenty-five per cent of your savings to help us build a house or to give up your job and girls who are coming out of schools and college every day with the door of opportunity? If we do not make a start we will never accomplish anything. Other groups have made it to college and college every day we will join us we can do equally as well as they have done within a very few years.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -592,7 +716,8 @@
         981
       ],
       "label": "paragraph_title",
-      "text": "TAXATION WITHOUT REPRESENTATION"
+      "text": "TAXATION WITHOUT REPRESENTATION",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -602,7 +727,8 @@
         1080
       ],
       "label": "text",
-      "text": "In Chicago alone we are paying over year into Legal Reserve Companies employ any of our deserving your whatever. Now is the time to prov In the future of the Race by subscri"
+      "text": "In Chicago alone we are paying over year into Legal Reserve Companies employ any of our deserving your whatever. Now is the time to prov In the future of the Race by subscri",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -612,7 +738,8 @@
         1080
       ],
       "label": "text",
-      "text": "alone we are paying over ONE MILLION DOLLAR\nlegal Reserve Companies and they have repeated\nof our deserving young men and women in a\nNow is the time to prove whether or not you are\nof the Race by subscribing for one or more sha"
+      "text": "alone we are paying over ONE MILLION DOLLAR\nlegal Reserve Companies and they have repeated\nof our deserving young men and women in a\nNow is the time to prove whether or not you are\nof the Race by subscribing for one or more sha",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -622,17 +749,19 @@
         1493
       ],
       "label": "text",
-      "text": "In Chicago alone we are paying over ONE MILLION DOLLARS every year into Legal Reserve Companies and they have repeatedly refused to employ any of our deserving young men and women in any capacity whatever. Now is the time to prove whether or not you are interested in the future of the Race by subscribing for one or more shares of stock.\n\nLIBERTY LIFE INSURANCE COMPANY\n8515 INDIANA AVE, CHICAGO\n\nWithout any obligation on my part, will thank you to send me further particulars relative to securing stock in your company.\n\nName ....\n\n(Town) ....\n\n(City) ....\n\nPlease mention this paper in your reply.\n\nLearn To Do Your Own Hair\n\nWOMEN WHO WANT TO LEARN how to care, treat and beautify their own hair and how to treat and grow other people's hair can do so by taking MME. LOLA E. GRAYSON'S Correspondence Course of Hair Culture, which is known as the"
+      "text": "In Chicago alone we are paying over ONE MILLION DOLLARS every year into Legal Reserve Companies and they have repeatedly refused to employ any of our deserving young men and women in any capacity whatever. Now is the time to prove whether or not you are interested in the future of the Race by subscribing for one or more shares of stock.\n\nLIBERTY LIFE INSURANCE COMPANY\n8515 INDIANA AVE, CHICAGO\n\nWithout any obligation on my part, will thank you to send me further particulars relative to securing stock in your company.\n\nName ....\n\n(Town) ....\n\n(City) ....\n\nPlease mention this paper in your reply.\n\nLearn To Do Your Own Hair\n\nWOMEN WHO WANT TO LEARN how to care, treat and beautify their own hair and how to treat and grow other people's hair can do so by taking MME. LOLA E. GRAYSON'S Correspondence Course of Hair Culture, which is known as the",
+      "status": "ok"
     },
     {
       "bbox": [
         1537,
         1114,
         1850,
-        1493
+        1486
       ],
       "label": "text",
-      "text": "at any obligation on my part, will thank you for circulars relative to securing stock in your company.\n\nPlease mention this paper in your reply.\n\nIn To Do Your Own\n\nWHO WANT TO LEARN how to care, treat hair and how to treat and grow other people's MME. LOLA E. GRAYSON'S Correspondence, which is known as the"
+      "text": "at any obligation on my part, will thank you for circulars relative to securing stock in your company.\n\nPlease mention this paper in your reply.\n\nIn To Do Your Own\n\nWHO WANT TO LEARN how to care, treat hair and how to treat and grow other people's MME. LOLA E. GRAYSON'S Correspondence, which is known as the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,7 +771,8 @@
         1271
       ],
       "label": "text",
-      "text": "Without any obligation on my part, will thank you to send me\nfurther particulars relative to securing stock in your company.\n\nName ..... ^^^\n\n(Town) ..... ^^^\n\n(City) ..... ^^^\n\nPlease mention this paper in your reply."
+      "text": "Without any obligation on my part, will thank you to send me\nfurther particulars relative to securing stock in your company.\n\nName ..... ^^^\n\n(Town) ..... ^^^\n\n(City) ..... ^^^\n\nPlease mention this paper in your reply.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -652,7 +782,8 @@
         1374
       ],
       "label": "doc_title",
-      "text": "Learn To Do Your Own Hair"
+      "text": "Learn To Do Your Own Hair",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -662,7 +793,8 @@
         1475
       ],
       "label": "text",
-      "text": "WOMEN WHO WANT TO LEARN how to care, treat and beautify their own hair and how to treat and grow other people's hair can do so by taking MME. LOLA E. GRAYSON'S Correspondence Course of Hair Culture, which is known as the"
+      "text": "WOMEN WHO WANT TO LEARN how to care, treat and beautify their own hair and how to treat and grow other people's hair can do so by taking MME. LOLA E. GRAYSON'S Correspondence Course of Hair Culture, which is known as the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -672,7 +804,8 @@
         1529
       ],
       "label": "paragraph_title",
-      "text": "\"GLOSS-O SYSTEM\""
+      "text": "\"GLOSS-O SYSTEM\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -682,17 +815,19 @@
         2059
       ],
       "label": "text",
-      "text": "This course is plainly written in simple words and can be easily learned in the spare minutes of your time, in a few days. It will put you on the road to success and you can make an independent living for yourself. To introduce GLOSS-O HAIR GROWER everywhere, this wonderful $25.00 correspondence course is now offered for $15.00 with outfit, diploma, and agency for all Gloss-O Products. This wonderful correspondence course will be at this reduced price for a short time only, and to a limited number.\n\nWrite in your order at once, while this great opportunity lasts. Make all Money Orders (personal checks not accepted) payable to\n\nMme. Lola E. Grayson\n3424 South Park Av., Chicago, Ill.\n\nWANTED\nTAME RAIL\n\nWe buy a\nPrice Bul"
+      "text": "This course is plainly written in simple words and can be easily learned in the spare minutes of your time, in a few days. It will put you on the road to success and you can make an independent living for yourself. To introduce GLOSS-O HAIR GROWER everywhere, this wonderful $25.00 correspondence course is now offered for $15.00 with outfit, diploma, and agency for all Gloss-O Products. This wonderful correspondence course will be at this reduced price for a short time only, and to a limited number.\n\nWrite in your order at once, while this great opportunity lasts. Make all Money Orders (personal checks not accepted) payable to\n\nMme. Lola E. Grayson\n3424 South Park Av., Chicago, Ill.\n\nWANTED\nTAME RAIL\n\nWe buy a\nPrice Bul",
+      "status": "ok"
     },
     {
       "bbox": [
         1537,
-        1807,
+        1846,
         1850,
-        2059
+        2104
       ],
       "label": "text",
-      "text": "Bola E. Grayson\nPark Av., Chicago, Ill.\nMRS. LOLA E. GRAYS\nBoalp Speciali\n\nWANTED\nAME RABBIT SK\nWe buy all you can send; Write\nPrice Bulletin \"W\" and free Bo"
+      "text": "Park Av, Chicago, Ill.\n\nMRS. LOLA P. GRAN\nBoalp Speciall\n\nWANTED\nAME RABBIT SK\nWe buy all you can send: Write\nPrice Bulletin \"W\" and free Box\n\"How to Raise Rabbits for Pa\nVANDEWEGHE BROTH",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -702,37 +837,74 @@
         2398
       ],
       "label": "text",
-      "text": "Men's hair can be straightened by simply wiping a little liquid Creoline Hair Trainer upon it. It can be washed without kinking. By mail 686. Creoline Hair Trainer, 686. Creoline Lustre Oil, 32k. Combination, $1.00. Stamps, Money Order or Draft."
+      "text": "Men's hair can be straightened by simply wiping a little liquid Creoline Hair Trainer upon it. It can be washed without kinking. By mail 686. Creoline Hair Trainer, 686. Creoline Lustre Oil, 32k. Combination, $1.00. Stamps, Money Order or Draft.",
+      "status": "ok"
     },
     {
       "bbox": [
         1698,
         226,
         1965,
-        883
+        465
       ],
       "label": "text",
-      "text": "Ottawa News Stand\nauthor, known to Harlemites\nas Chicago Defender, man,\nopened a shrine booth and news\npaper stand at the southwest corner.\nHe is a resident and 5th avenue. He\nbe pleased to see and serve his new\npatrons at his new place in the\nturore.\n\nPostal Employees Hold Meeting\nAn interesting meeting attended by\nmany of our people was held last\nSunday afternoon in St. Mark's hall,\nWest 9th street. Plans were formulated\nfor a big parade of clerks and carriers\nto be held soon in this city as a pro-\ntest against the present low salaries of\nthese employees.\n\nNE\u2014WITH YOUR HELP WE\nANYTHING\"\n\nMY LIFE\nCompany\n$100,000.00\n\nAT $30.00 PER SHARE\n\nOLD LINE or LEGAL RESERVE\nor incorporated under the laws of\nCONTROLLED BY NEGROES.\n\nFOR YOUR INVESTMENT\nfor stock is deposited with a bank which is\nnot remain there until the organization is\nopened. By Jan. 30 1927, the\ncompany to the Stockholders. The remi-\nnial organization expenses."
+      "text": "Others News Stand\nOthers, known to Harlemites\nand the Chicago Defender\" man, has\nopened hoo shining booth and news\npaper stand at the southwest corner\n133d street in Chicago. He\nbe pleased to see and serve his new\npatrons at his new place in the\nture.\n\nPostal Employees Hold Meeting\nAn interesting meeting attended by\nmany of our people was held last\nSunday afternoon in Los Angeles hall\nWest of the city by the postal employees\nat New York. Plans were formulated\nfor a big parade of clerks and carriers\nto be held soon in this city as a protest\nagainst the present low salaries of\nthese employees.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1698,
+        1694,
+        465,
+        1965,
+        883
+      ],
+      "label": "text",
+      "text": "LINE\u2014WITH YOUR HELP WE\nANYTHING\"\n\nITY LIFE\nto Company\n$100,000.00\nAT $30.00 PER SHARE\n\nOT OLD LINE or LEGAL RESERVE\never incorporated under the laws of\nOD CONTROLLED BY NEGROES.\n\nALL OF YOUR INVESTMENT\n\nfor stock is deposited with a bank which is\nwill remain there until the organization is\nthe organization by June 30, 1927, the\nbe returned to the Stockholders. The remain-\norganization expenses.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1694,
         981,
         1965,
         1080
       ],
       "label": "text",
-      "text": "for ONE MILLION DOLLARS every\nand they have repeatedly refused to\ng men and women in any capacity\nto whether or not you are interested\ning for one or more shares of stock"
+      "text": "for ONE MILLION DOLLARS every\nand they have repeatedly refused to\ng men and women in any capacity\nto whether or not you are interested\ning for one or more shares of stock",
+      "status": "ok"
     },
     {
       "bbox": [
-        1698,
+        1694,
         1114,
         1965,
-        1247
+        1486
       ],
       "label": "text",
-      "text": "part, will thank you to send me\ning stock in your company."
+      "text": "part, will thank you to send me\ning stock in your company.\npaper in your reply.\n\nYour Own Hair\nRN how to care, treat and beautify\nand grow other people's hair can do\nWAYSON'S Correspondence Course\nas the",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1694,
+        1486,
+        1938,
+        1846
+      ],
+      "label": "text",
+      "text": "Q",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1694,
+        1846,
+        1965,
+        2089
+      ],
+      "label": "text",
+      "text": "MRS. LOLA E. GRAYSON.\nBoalp Specialist\n\nRABBIT SKINS\nAll you can send: Write for\ndetin \"W\" and free Booklet\nRaise Rabbits for Profit\"",
+      "status": "ok"
     }
   ]
 }

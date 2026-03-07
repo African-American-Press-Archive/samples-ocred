@@ -3,7 +3,40 @@
   "image": "images/page_10.jpg",
   "width": 1836,
   "height": 2367,
+  "processed_at": "2026-03-07T02:31:35.288439+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 165,
+    "after_merge": 69
+  },
   "regions": [
+    {
+      "bbox": [
+        45,
+        2285,
+        1798,
+        2346
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        107,
+        73,
+        251,
+        85
+      ],
+      "label": "text",
+      "text": "PAGE\u00b7TEN\u2014PART ONE",
+      "status": "ok"
+    },
     {
       "bbox": [
         107,
@@ -12,7 +45,8 @@
         246
       ],
       "label": "doc_title",
-      "text": "RUBE FOSTER\nPLANS SURPRISE\nFOR LEAGUE FANS"
+      "text": "RUBE FOSTER\nPLANS SURPRISE\nFOR LEAGUE FANS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,57 +56,63 @@
         513
       ],
       "label": "text",
-      "text": "Foxy Leader Wants Championship Team and Plans to Stage Comeback\n\nWhen the curtain closed on the baseball team and it was found that the American Giants, the product and machine of Rube Foster, instead of a championship had been declared National league, there was much comment and questioning throughout the cause and the cause of the failure of that wonderful and most aggressive ball club to finish. It is not strange that there should be such comment for the consistency of each year since the league's organization has branded them as the top baseball class of the league in every department."
+      "text": "Foxy Leader Wants Championship Team and Plans to Stage Comeback\n\nWhen the curtain closed on the baseball team and it was found that the American Giants, the product and machine of Rube Foster, instead of a championship had been declared National league, there was much comment and questioning throughout the cause and the cause of the failure of that wonderful and most aggressive ball club to finish. It is not strange that there should be such comment for the consistency of each year since the league's organization has branded them as the top baseball class of the league in every department.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        97,
+        512,
+        310,
+        1084
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         95,
-        512,
-        310,
+        1084,
+        306,
+        1677
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        95,
+        1678,
+        303,
         1821
       ],
       "label": "text",
-      "text": "The baseball public knows baseball, when the public has so often seen that baseball club through display of Giants displayed; when it has seen that baseball club through display of games when defeat seemed certain, thus proving themselves always equal to only natural that it wondered and that it hasty in laying the cause for the losing of the pennant at the door of the impression that the failure of the Giants was the failure of its pitching staff were all good pitchers, if we make a study of their individual abilities that when combined they could not succeed, that they are all right handers that they are all righ"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
-        98,
-        1802,
-        302,
-        1826
-      ],
-      "label": "text",
-      "text": "The Giants return home next\nweek against the Chicago\nChicago Ilus. April 20."
-    },
-    {
-      "bbox": [
-        106,
+        101,
         1900,
-        294,
-        1930
+        296,
+        2253
       ],
       "label": "text",
-      "text": "Sizes From 6 to 16 Years All Colors\u2014Complete."
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
-        103,
-        2106,
-        293,
-        2149
+        320,
+        162,
+        1566,
+        446
       ],
       "label": "text",
-      "text": "BEST MADE\u2014SEND FOR FREE BOOK ON EVERYTHING IN BASEBALL"
-    },
-    {
-      "bbox": [
-        330,
-        173,
-        608,
-        296
-      ],
-      "label": "text",
-      "text": "I'm STRONG FOR THIS LITTLE MANICURIST \nDOWN HERE AT THE BARGER SHOP, BUT \nSHE WON'T PAY ANY ATTENTION TO ME\u2014 \nJUST A SMILE FROM HER WOULD MAKE \nME FORGET PROMINION\u2014THOSE EYES!\u2014 \nMAT HARI\u2014AHH-H\u2014DELIEVE I DROP \nIN THE SHOP AND GET A MANICURE AND \nGEE IF I CAN MAKE AN IMPRESSION"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -82,7 +122,8 @@
         609
       ],
       "label": "doc_title",
-      "text": "EIGHTH QUINTET VS. EVANSTON ON SUNDAY APRIL 13"
+      "text": "EIGHTH QUINTET VS. EVANSTON ON SUNDAY APRIL 13",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +133,8 @@
         702
       ],
       "label": "text",
-      "text": "The Western championship won fresh from the Lehigh Valley by the Eighth regiment five last Friday must be defended before the Eighth game. Evanson with a game won and lost to the Eighth has disputed the title."
+      "text": "The Western championship won fresh from the Lehigh Valley by the Eighth regiment five last Friday must be defended before the Eighth game. Evanson with a game won and lost to the Eighth has disputed the title.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +144,8 @@
         1070
       ],
       "label": "text",
-      "text": "As a result the managers of the regiment five have agreed to play football day afternoon, April 12, to settle the question once and for all for this year. We too be fair with both teams the sporting editor of the Deduger suporter Winn, Bottoms and Capt. Pitts, and the Evanson manager meet in the dressing room after deciding on two referees who have not officiated at any games in which they played. The sporting editor also will agree to act as timekeeper that Evanson follows up after this office has been bested with phone calls and letters in which Evanson forfeited the official used by the Eighth, claim that he does not see all fouls committed and the championship affair justly. Followers of the Eighth also dey the use of one man. The game will draw a record crowd and the public should at least be given money. Evanson is practicing nightly while the regiment is putting up defenders and that to win will give them the undisputed right to claim the Western side to the North Shore hats."
+      "text": "As a result the managers of the regiment five have agreed to play football day afternoon, April 12, to settle the question once and for all for this year. We too be fair with both teams the sporting editor of the Deduger suporter Winn, Bottoms and Capt. Pitts, and the Evanson manager meet in the dressing room after deciding on two referees who have not officiated at any games in which they played. The sporting editor also will agree to act as timekeeper that Evanson follows up after this office has been bested with phone calls and letters in which Evanson forfeited the official used by the Eighth, claim that he does not see all fouls committed and the championship affair justly. Followers of the Eighth also dey the use of one man. The game will draw a record crowd and the public should at least be given money. Evanson is practicing nightly while the regiment is putting up defenders and that to win will give them the undisputed right to claim the Western side to the North Shore hats.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +155,8 @@
         1088
       ],
       "label": "paragraph_title",
-      "text": "HAMPTON DEFEATS ST."
+      "text": "HAMPTON DEFEATS ST.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +166,8 @@
         1114
       ],
       "label": "text",
-      "text": "PAUL BY 4 TO 3 SCORE\nBy HUGH Y. BROWN"
+      "text": "PAUL BY 4 TO 3 SCORE\nBy HUGH Y. BROWN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +177,8 @@
         1459
       ],
       "label": "text",
-      "text": "Hampton, Va. April 5\u2014Hampton today won its first basketball game of the season, played on Armstrong field, by the ever played on Armstrong field, by the Alburnhower errors figured in the scorers' record. Although errors figured in the scorers' record, the emotional and sensational field. \u2014Story\n\nLambright at center field was the most wins his running game of Blackwell's flywheel. \"Red,\" Jagger, which ended the game, was who hit by the pitcher. On errors by Scott Johnson and Captain Jackson Hampton even the count in the scorers' record. Hampton earned run in the third. From then on until the eighth Ruffin for Hampton, he pitched a pitcher's battle. In St. Paul's half the crowd yelled for a batter to center, which Madden dropped, and to Johnson to Gunn, thrilled the crowd. With Gunn up in Hampton's half of the eighth, the crowd yelled for a house to center, which Madden dropped, and to Johnson to Gunn, thrilled the crowd yelled for a two-hitter. Madden missed. Gunn was held at third. Jackson at second. Johnson to fulfill on along the first base line, out-to-out and an error by Carter Hampton. The score now stood 4 to 3 in"
+      "text": "Hampton, Va. April 5\u2014Hampton today won its first basketball game of the season, played on Armstrong field, by the ever played on Armstrong field, by the Alburnhower errors figured in the scorers' record. Although errors figured in the scorers' record, the emotional and sensational field. \u2014Story\n\nLambright at center field was the most wins his running game of Blackwell's flywheel. \"Red,\" Jagger, which ended the game, was who hit by the pitcher. On errors by Scott Johnson and Captain Jackson Hampton even the count in the scorers' record. Hampton earned run in the third. From then on until the eighth Ruffin for Hampton, he pitched a pitcher's battle. In St. Paul's half the crowd yelled for a batter to center, which Madden dropped, and to Johnson to Gunn, thrilled the crowd. With Gunn up in Hampton's half of the eighth, the crowd yelled for a house to center, which Madden dropped, and to Johnson to Gunn, thrilled the crowd yelled for a two-hitter. Madden missed. Gunn was held at third. Jackson at second. Johnson to fulfill on along the first base line, out-to-out and an error by Carter Hampton. The score now stood 4 to 3 in",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +188,8 @@
         1572
       ],
       "label": "text",
-      "text": "St. Paul ripped desperately in her hair\n\"You're the best Parker I have ever\nBlackwell's lamour made past Jacques\nParker slammed past Jacques\nBlackwell's lamour would fail him\nShoey's Lamiright garnered it in\nand defeated Parker at first\nHampon ..... 0 1 0 0 0 0 0 0 0 0 0\nHampon ..... 0 2 0 0 0 0 0 0 0 0 0\nHartlewood-St. Paul Wallace and\nSubstitute-Wood for Harrowe"
+      "text": "St. Paul ripped desperately in her hair\n\"You're the best Parker I have ever\nBlackwell's lamour made past Jacques\nParker slammed past Jacques\nBlackwell's lamour would fail him\nShoey's Lamiright garnered it in\nand defeated Parker at first\nHampon ..... 0 1 0 0 0 0 0 0 0 0 0\nHampon ..... 0 2 0 0 0 0 0 0 0 0 0\nHartlewood-St. Paul Wallace and\nSubstitute-Wood for Harrowe",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,47 +199,41 @@
         1620
       ],
       "label": "paragraph_title",
-      "text": "AMERICAN GIANTS SCORES"
+      "text": "AMERICAN GIANTS SCORES",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        305,
+        1644,
+        514,
+        2136
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         304,
-        1644,
+        2139,
         514,
         2263
       ],
       "label": "text",
-      "text": "Waxahachie, Texas, April 5.\u2014The Giants of Chicago and the otherers stained a five-run rally in the sixth Treadwell for nine hits. R. L. Hale, Dallas... 0 0 0 0 0 2 0 1 14 3 Battieries, Jackson, Adams and Cantwell, Treadwell and Lombard.\n\nMAKE IT EIGHT STRAIGHT\n\ntoday's twin battil the American Giants theirSELF's team. Pardon the Padron hold the Texans to four seatered hits in the sixth battil theirSELF's team. Pardon the"
-    },
-    {
-      "bbox": [
-        646,
-        170,
-        951,
-        250
-      ],
-      "label": "text",
-      "text": "I DON'T EVEN KNOW YOUR NAME, LITTLE\nGIRL, BUT WHEN I FIRST SAVED YOU AND HEARD\nTHAT MUSICAL VOICE OF YOURS MY HEART WENT\nOUT FOR YOU I- HAVE STAYED AWAKE FOR\nSIX NIGHTS TRYING TO DEVISE A PLAN WHEREBY\nI COULD TELL YOU OF MY AFFEFFION"
-    },
-    {
-      "bbox": [
-        615,
-        1842,
-        1063,
-        1862
-      ],
-      "label": "text",
-      "text": "CAPT. DEMOSS AND GIANTS' HURLERS"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         521,
-        2201,
+        1842,
         1139,
         2263
       ],
       "label": "text",
-      "text": "Reading from left to rl: i1t. Captain DeMois, crack second baseman, second to none; Treadwell, last of the Barchack Giants and of 20 winning jams: Captain Guban, pitcher: vih tworth, who promises to stage a game this season. Harney beat Detroit Tigers last fall in an exhibition game. Captain DeMois is winning his spitter this season. Harney beat Detroit Tigers last fall in an exhibition game. Captain DeMois is winning his spitter this season. Manager Foster and with these hurlers he expects to go through the season, winning the league championship."
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -202,7 +243,8 @@
         565
       ],
       "label": "doc_title",
-      "text": "American Giants Home Next Week; Open Easter Sunday"
+      "text": "American Giants Home Next Week; Open Easter Sunday",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +254,8 @@
         853
       ],
       "label": "text",
-      "text": "Rube Foster's American Giants will open their local 1924 season game at St. Louis, St. Sunday, week, which will be Easter Sunday.\nThe Giants will be open Saturday, April 19. All holders of box seats in the past will have to make new reservations, as the seats will be evenly distributed to the public.\nAt this writing the Giants have two games in mid-season form. Foster boasts of the best pitching staff in the league, the Chicago Bucks, who defended the Giants in two games last summer. The Bucks are one of the strongest best semi-pro and former big league players. Giants are due to arrive in this city on April 16, according to present arrangements, and will give the fans a chance to see them work with the Bucks and Fridays at noon, free of charge."
+      "text": "Rube Foster's American Giants will open their local 1924 season game at St. Louis, St. Sunday, week, which will be Easter Sunday.\nThe Giants will be open Saturday, April 19. All holders of box seats in the past will have to make new reservations, as the seats will be evenly distributed to the public.\nAt this writing the Giants have two games in mid-season form. Foster boasts of the best pitching staff in the league, the Chicago Bucks, who defended the Giants in two games last summer. The Bucks are one of the strongest best semi-pro and former big league players. Giants are due to arrive in this city on April 16, according to present arrangements, and will give the fans a chance to see them work with the Bucks and Fridays at noon, free of charge.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +265,8 @@
         927
       ],
       "label": "paragraph_title",
-      "text": "HOWARD TRACK MEN ENTER\nIN PENN. RELAYS APRIL 26"
+      "text": "HOWARD TRACK MEN ENTER\nIN PENN. RELAYS APRIL 26",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +276,8 @@
         927
       ],
       "label": "doc_title",
-      "text": "HOWARD TRACK MEN ENTER\nIN PENN. RELAYS APRIL 26"
+      "text": "HOWARD TRACK MEN ENTER\nIN PENN. RELAYS APRIL 26",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +287,8 @@
         1391
       ],
       "label": "text",
-      "text": "Washington, D. C., April 11\u2014Half-day showing of Robinson, Craft, Wymond and Bright, who are out to represent the school, and the youngest Kenneth Hill Jones, Robinson and Smith are showing the form and stamina. Should one be taken to a back seat seat it is obvious that the team will be faster than ever and in order not to discourage any of the students, it must take a back seat. It is hoped to take a back seat seat it is obv"
+      "text": "Washington, D. C., April 11\u2014Half-day showing of Robinson, Craft, Wymond and Bright, who are out to represent the school, and the youngest Kenneth Hill Jones, Robinson and Smith are showing the form and stamina. Should one be taken to a back seat seat it is obvious that the team will be faster than ever and in order not to discourage any of the students, it must take a back seat. It is hoped to take a back seat seat it is obv",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +298,8 @@
         1436
       ],
       "label": "paragraph_title",
-      "text": "NATL. LEAGUE SCHEDULE"
+      "text": "NATL. LEAGUE SCHEDULE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +309,8 @@
         1436
       ],
       "label": "doc_title",
-      "text": "NATL. LEAGUE SCHEDULE"
+      "text": "NATL. LEAGUE SCHEDULE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +320,8 @@
         1524
       ],
       "label": "text",
-      "text": "April 28, 29, 30\u2014Cuban Stars at Birmingham.\nMay 3, 4, 5, 6\u2014Kansas City at Chicagoland. St. Louis at Indianapolis; Cleveland at Detroit.\nMay 4, 5\u2014Cuban Stars at Birmingham."
+      "text": "April 28, 29, 30\u2014Cuban Stars at Birmingham.\nMay 3, 4, 5, 6\u2014Kansas City at Chicagoland. St. Louis at Indianapolis; Cleveland at Detroit.\nMay 4, 5\u2014Cuban Stars at Birmingham.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +331,8 @@
         1580
       ],
       "label": "text",
-      "text": "May 10, 11, 12, 13\u2014Cuban Stars at St.\nMary's in Indianapolis; Cleveland at\nminneapolis at Indiana; Cleveland at\nChicago; 17, 18, 19, 20\u2014Cuban Stars at\nChicago at Kansas City at Kansas\nat Cleveland, at Cleveland."
+      "text": "May 10, 11, 12, 13\u2014Cuban Stars at St.\nMary's in Indianapolis; Cleveland at\nminneapolis at Indiana; Cleveland at\nChicago; 17, 18, 19, 20\u2014Cuban Stars at\nChicago at Kansas City at Kansas\nat Cleveland, at Cleveland.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +342,8 @@
         1604
       ],
       "label": "text",
-      "text": "May 17, 18\u2014Birmingham at St. Louis\nMay 19, 20, 21, 22\u2014St. Louis at Birmingham"
+      "text": "May 17, 18\u2014Birmingham at St. Louis\nMay 19, 20, 21, 22\u2014St. Louis at Birmingham",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +353,8 @@
         1690
       ],
       "label": "text",
-      "text": "May 24, 25, 26, 27-Cuban Stars at\nMay 24, 25, 26-Indianaapolis at Memphis\nMay 24, 25-Indianaapolis at Birmingham\nMay 30, 23-Indianaapolis at Birmingham\nMay 30, 31 June 1, 2-Kansas City at\nCleveland at Detroit; Cleveland\nland at St. Louis."
+      "text": "May 24, 25, 26, 27-Cuban Stars at\nMay 24, 25, 26-Indianaapolis at Memphis\nMay 24, 25-Indianaapolis at Birmingham\nMay 30, 23-Indianaapolis at Birmingham\nMay 30, 31 June 1, 2-Kansas City at\nCleveland at Detroit; Cleveland\nland at St. Louis.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +364,41 @@
         1817
       ],
       "label": "text",
-      "text": "June 1. 2\u2013Indianapolis at Memphis\n\nCLEVELAND CUBS ALL SET\nCleveland, Ohio, April 11\u2014The Cleveland Cubs of Cleveland are getting set to play. The Colored club and are making their season looking now. They would like to play in Central States, write or write Cleveland Cubs, basketball club, baseball club, the club are: Jones, president: R. L. Brown, vice-president: C. M. Morris, secretary and treasurer."
+      "text": "June 1. 2\u2013Indianapolis at Memphis\n\nCLEVELAND CUBS ALL SET\nCleveland, Ohio, April 11\u2014The Cleveland Cubs of Cleveland are getting set to play. The Colored club and are making their season looking now. They would like to play in Central States, write or write Cleveland Cubs, basketball club, baseball club, the club are: Jones, president: R. L. Brown, vice-president: C. M. Morris, secretary and treasurer.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        840,
+        75,
+        1049,
+        89
+      ],
+      "label": "text",
+      "text": "LEE CHICAGO, DEFENDER",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        729,
+        89,
+        940,
+        463
+      ],
+      "label": "text",
+      "text": "Wouldn't It Make\nEEN KNOW YOUR NAME, LITTLE\nWHEN I FIRST Saw YOU AND HEARD\nLOVE OF YOURS MY HEART WENT\nU- I HAVE STAYED AWAKE FOR\nTRYING TO DEVISE A PLAN WHERE\nU OF MY AFFECTION",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        737,
+        117,
+        1149,
+        142
+      ],
+      "label": "text",
+      "text": "Wouldn't It Make You Feel Small?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,17 +408,30 @@
         609
       ],
       "label": "doc_title",
-      "text": "KANSAS CITY ALL PRIMED FOR TILT WITH ALL STARS"
+      "text": "KANSAS CITY ALL PRIMED FOR TILT WITH ALL STARS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        732,
+        621,
+        940,
+        1177
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         731,
-        621,
-        940,
+        1177,
+        939,
         1495
       ],
       "label": "text",
-      "text": "Kansas City, Mo. April 11\u2014The Kansas City Monarchs, the champions of the Negro National league, are fast rounding into form. Manager Mendez has the boys in going to the team, but both boys look to will hook up with the Toppera, Kansas team of the Western association, a team composed of all white league players. Every member of the team is now on the ground. Wade Johnson and his pitching team in Centuria, Mo. is the most skilled team in the team, but both boys l"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -342,7 +441,8 @@
         1515
       ],
       "label": "paragraph_title",
-      "text": "STAR BASKET TOSSER IN"
+      "text": "STAR BASKET TOSSER IN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,17 +452,30 @@
         1748
       ],
       "label": "text",
-      "text": "STAGG'S NATIONAL PLAY\n\nWhen Lane Tech. 1924 city basketball bishop, high school of Painted Post, N. Y., on Tuesday evening at the University of Notre Dame, they were forced to take a 14-10 lane last in the consolation meet Wednesday at Spokane High, 16 to 14. Whitaker, star center of East High, shunning for his team, in the first minute of Michigan State he received 11 ringers, adding his team in a 14 to 15 when he also took individual honors when he seconded their baskets and three nrewards. Nebraska was best, 21 to 17, in high school. He was round Thursday to Pitiful, 22 to 17.\n\nMANDERVILLE BEATEN"
+      "text": "STAGG'S NATIONAL PLAY\n\nWhen Lane Tech. 1924 city basketball bishop, high school of Painted Post, N. Y., on Tuesday evening at the University of Notre Dame, they were forced to take a 14-10 lane last in the consolation meet Wednesday at Spokane High, 16 to 14. Whitaker, star center of East High, shunning for his team, in the first minute of Michigan State he received 11 ringers, adding his team in a 14 to 15 when he also took individual honors when he seconded their baskets and three nrewards. Nebraska was best, 21 to 17, in high school. He was round Thursday to Pitiful, 22 to 17.\n\nMANDERVILLE BEATEN",
+      "status": "ok"
     },
     {
       "bbox": [
         729,
         1746,
-        937,
-        1818
+        940,
+        2079
       ],
       "label": "text",
-      "text": "Albany, X. X, Y. April 11--limmy\nHutchinson (white) defeated Marry\nMunsterlein of Noyers, J. in a 10-\nto-6 victory. The game was on C. April 11. The white boy had the better of six rounds, three while, three\nMunsterlein and one was an even\noffense."
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        941,
+        89,
+        1150,
+        476
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -372,7 +485,8 @@
         566
       ],
       "label": "doc_title",
-      "text": "Holloway Better Jumper Than Frog; Hops to Baltimore"
+      "text": "Holloway Better Jumper Than Frog; Hops to Baltimore",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +496,8 @@
         969
       ],
       "label": "text",
-      "text": "Word was received by the National Negro league headquarters, that player A. B. C. will, not will be with that player lived in Indianapolis to play with the A. B. C. will, not will be"
+      "text": "Word was received by the National Negro league headquarters, that player A. B. C. will, not will be with that player lived in Indianapolis to play with the A. B. C. will, not will be",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +507,8 @@
         1044
       ],
       "label": "doc_title",
-      "text": "INDIANAPOLIS SPLITS EVEN WITH ST. LOUIS IN 2 TILTS"
+      "text": "INDIANAPOLIS SPLITS EVEN WITH ST. LOUIS IN 2 TILTS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +518,8 @@
         1044
       ],
       "label": "paragraph_title",
-      "text": "INDIANAPOLIS SPLITS EVEN WITH ST. LOUIS IN 2 TILTS"
+      "text": "INDIANAPOLIS SPLITS EVEN WITH ST. LOUIS IN 2 TILTS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,27 +529,30 @@
         1559
       ],
       "label": "text",
-      "text": "West Raden, Ind. April 17 \u2013 Indianapolis two games played on Saturday and Sunday. St. Louis winning Saturday\u2019s game, three to 1. Sunday\u2019s game, day 3 to 1. St. Louis won Saturday\u2019s game for indianapolis, the former holding St. Louis to three hits and four runs. St. Louis had four innings he worked. Richie pitched in grand style but four errors and lost. Richie pitched in gr"
-    },
-    {
-      "bbox": [
-        941,
-        1602,
-        1146,
-        1660
-      ],
-      "label": "text",
-      "text": "Ithaca, N. N. April 11. The University's trouble disposing of Cornell university equipment expended recently, Michigan took teams with a team total of 67 joints, while Iowa took teams with a team total of 67 joints."
+      "text": "West Raden, Ind. April 17 \u2013 Indianapolis two games played on Saturday and Sunday. St. Louis winning Saturday\u2019s game, three to 1. Sunday\u2019s game, day 3 to 1. St. Louis won Saturday\u2019s game for indianapolis, the former holding St. Louis to three hits and four runs. St. Louis had four innings he worked. Richie pitched in grand style but four errors and lost. Richie pitched in gr",
+      "status": "ok"
     },
     {
       "bbox": [
         941,
         1603,
         1150,
+        2193
+      ],
+      "label": "text",
+      "text": "Hinesa, N. Y., April 11. The University'sittle trouble disposing of Cornell uniparty in the playoff tilt, tapped by theWarriors recently. Michigan took first honors with a team total of 62 points, while the eatermen trailled by three. Dellarah, Humbard, intercollegiate broad jump champion and star hurrier, was outstanding in the singling. Humbard took first in the 75-yard low hurler in 6:09.45, while he covered the 75-yard low hurler in 0:08.54, setting a new record.\n\nEDWIN RILEY OUTPOINTED\nBrooklyn, N. Y., April 11.-Lee Wedo (brooklyn) outpointed Elvin Giley in a two-hour bout at 9:47 of the seven-arm Yankee. The bout was fast from beginning to end and there were many fans in the audience who thought a draw would have been a more fair decision.\n\nHURLERS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        941,
+        2193,
+        1150,
         2347
       ],
       "label": "text",
-      "text": "Hinace, N. Y., April 11. The University of North Carolina track team had a terrible trouble disposing of Cornell university in a dumb track meet staged little trouble disposing of Corne"
+      "text": "Photo by Harrile, Houston, Texas\nsecond to none; Treadwell, late of\ntworth, who promises to stage a\nwho promises to burn up the league\nexhibition game. Captain DeMoss in\nhe expects to go through the season,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +562,8 @@
         616
       ],
       "label": "doc_title",
-      "text": "WABASH 'Y' BASKETBALL PLAY WON BY OLIVET CHURCH FIVE AND WABASH 'Y' GOPHERS"
+      "text": "WABASH 'Y' BASKETBALL PLAY WON BY OLIVET CHURCH FIVE AND WABASH 'Y' GOPHERS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +573,8 @@
         1388
       ],
       "label": "doc_title",
-      "text": "LINGOLN UNIVERSITY AND CLEVELAND BROWNS PRY LID VA. UNION BURY HATCHET OFF AGAINST FAST TELLINGS"
+      "text": "LINGOLN UNIVERSITY AND CLEVELAND BROWNS PRY LID VA. UNION BURY HATCHET OFF AGAINST FAST TELLINGS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +584,8 @@
         1047
       ],
       "label": "text",
-      "text": "The \"V\" Gophers and Olivet lightweights fought their way to the top of the basketball tournament last Friday, Department Y, M. C. A. community basketball tournament last Friday, Olivet Gophers carried the defended the Gary, ind. Hi-Y team Friday night in a one-sided game by score of 15-11. Olivet Gophers carried"
+      "text": "The \"V\" Gophers and Olivet lightweights fought their way to the top of the basketball tournament last Friday, Department Y, M. C. A. community basketball tournament last Friday, Olivet Gophers carried the defended the Gary, ind. Hi-Y team Friday night in a one-sided game by score of 15-11. Olivet Gophers carried",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +595,8 @@
         1315
       ],
       "label": "text",
-      "text": "In the first game of the finals Satu\nouptheyed Olivet to a 12 to 1 score in\nthe first half, but the Olivet five staged\nthe play. Olivet outplayed Olivet in the\nplay as they did in the Pilgrim game the\nnight before, and defeated the fast\nholding Gary to one field basket in the\nhalf in the first game. They exhibited a fine passing and defense game. The Indiana five was a bit of\nchance, while Olivet five made every\nscoring for the Olivet machine with\nfive field basket and two free throws,\nand Vick Dickerson. Threaklin and Nelson\nrode provo to be the unloading of\nthe ball was be far the feature of the game,\nvibration the \"T\" Gophers defeated the\nMarion club by the score of 21 to 20\nout the entire period of play, the first\nhalf halfing 21 to 20, and finally, playing\nthe ball for the most part, missed a number\nof shots. The Gopher, five, white Waron"
+      "text": "In the first game of the finals Satu\nouptheyed Olivet to a 12 to 1 score in\nthe first half, but the Olivet five staged\nthe play. Olivet outplayed Olivet in the\nplay as they did in the Pilgrim game the\nnight before, and defeated the fast\nholding Gary to one field basket in the\nhalf in the first game. They exhibited a fine passing and defense game. The Indiana five was a bit of\nchance, while Olivet five made every\nscoring for the Olivet machine with\nfive field basket and two free throws,\nand Vick Dickerson. Threaklin and Nelson\nrode provo to be the unloading of\nthe ball was be far the feature of the game,\nvibration the \"T\" Gophers defeated the\nMarion club by the score of 21 to 20\nout the entire period of play, the first\nhalf halfing 21 to 20, and finally, playing\nthe ball for the most part, missed a number\nof shots. The Gopher, five, white Waron",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +606,8 @@
         1742
       ],
       "label": "text",
-      "text": "Philadelphia, April 11\u2014As a result of intercourse Athletic association Virginia Union university and Lincoln university this fall. At this meeting, which will be held on April 12, the Virginia representative, Union, and Dr. Alexander, representing Lincoln, made which was later ratified by the athletic committee will settle the difference which will lichthow between these two schools. The game will be played Oct. 25, either as the host. This will increase the inlay to the number of games played by the host as is given to flowward. This was a disapproval reason to believe that the pleasant relations of the past two years the change without giving Lincoln an opportunity of choice of two other dates, but as Lincoln's schedule was impossible to accept, Lincoln has received only an exception and as this particular game was Virginia host to Union as West Virginia will be the loser by not having Lincoln"
+      "text": "Philadelphia, April 11\u2014As a result of intercourse Athletic association Virginia Union university and Lincoln university this fall. At this meeting, which will be held on April 12, the Virginia representative, Union, and Dr. Alexander, representing Lincoln, made which was later ratified by the athletic committee will settle the difference which will lichthow between these two schools. The game will be played Oct. 25, either as the host. This will increase the inlay to the number of games played by the host as is given to flowward. This was a disapproval reason to believe that the pleasant relations of the past two years the change without giving Lincoln an opportunity of choice of two other dates, but as Lincoln's schedule was impossible to accept, Lincoln has received only an exception and as this particular game was Virginia host to Union as West Virginia will be the loser by not having Lincoln",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +617,8 @@
         1770
       ],
       "label": "text",
-      "text": "Lincoln also will probably play Virginia seminary in Lynchburg and Shaw at Lincoln."
+      "text": "Lincoln also will probably play Virginia seminary in Lynchburg and Shaw at Lincoln.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,17 +628,41 @@
         2266
       ],
       "label": "text",
-      "text": "Montgomery, Ala., April 11\u2014Albama\nState Normal Tigers 11-4, Wichita\nState basketball championship of the South, won the first\nwon from Tuskegee, 12 to 4, in the second\ngame, the 11-4 win over the wayward\nto 6, after the court warrior\nto 2 in their favor at the beginning.\nWilliam \"Willi\" Anderson was the hero\nof the Tuskegeeans to six scattered hits,\nTuskegee, 10-2 0 10 10 10 4-2 4\nState Norm, 10-2 0 10 10 10 4-2\nAnderson and Jackson; Anderson\nand McLeemore; Umpires; Cunning\na lighting spree in the ninth inning\na lighting spree in the ninth inning\nsecond game. Penny of Tuskegee and\nKindred for the State Normal engaged\nwith Kindred having a slight edge,\nvisitors started their rally. The out-\nstanding performer, Gilman and Anderson\nscore by innings: 10 10 10 10 4-2 R.H.E.\nState Norm, while Cain Van Bossen\nscore by innings: 10 10 10 10 4-2 R.H.E.\nState Norm, 10 10 10 10 6-12 2\nBattle for Kindred, Lewis and\nMcLeemore; Umpires; Cunningham and\nBlekson.\n\nPIRATES WIN CHAMPIONSHIP\nState College vs. Albuquerque\nThe Pirates, a fast class E team, won the\nchampionship of the Buckeye, 12 to 4,\nin Friday. The Pirates were leading by\nopponents scoreless until the final\nwinter.\n\nPirates\nBuckeyes\nChauncey, R. F. W. Lewis\nJ. Robinson, G. L. O. Jackson\nR. Braman, L. G. Lawson"
+      "text": "Montgomery, Ala., April 11\u2014Albama\nState Normal Tigers 11-4, Wichita\nState basketball championship of the South, won the first\nwon from Tuskegee, 12 to 4, in the second\ngame, the 11-4 win over the wayward\nto 6, after the court warrior\nto 2 in their favor at the beginning.\nWilliam \"Willi\" Anderson was the hero\nof the Tuskegeeans to six scattered hits,\nTuskegee, 10-2 0 10 10 10 4-2 4\nState Norm, 10-2 0 10 10 10 4-2\nAnderson and Jackson; Anderson\nand McLeemore; Umpires; Cunning\na lighting spree in the ninth inning\na lighting spree in the ninth inning\nsecond game. Penny of Tuskegee and\nKindred for the State Normal engaged\nwith Kindred having a slight edge,\nvisitors started their rally. The out-\nstanding performer, Gilman and Anderson\nscore by innings: 10 10 10 10 4-2 R.H.E.\nState Norm, while Cain Van Bossen\nscore by innings: 10 10 10 10 4-2 R.H.E.\nState Norm, 10 10 10 10 6-12 2\nBattle for Kindred, Lewis and\nMcLeemore; Umpires; Cunningham and\nBlekson.\n\nPIRATES WIN CHAMPIONSHIP\nState College vs. Albuquerque\nThe Pirates, a fast class E team, won the\nchampionship of the Buckeye, 12 to 4,\nin Friday. The Pirates were leading by\nopponents scoreless until the final\nwinter.\n\nPirates\nBuckeyes\nChauncey, R. F. W. Lewis\nJ. Robinson, G. L. O. Jackson\nR. Braman, L. G. Lawson",
+      "status": "ok"
     },
     {
       "bbox": [
-        1363,
+        1364,
+        2050,
+        1783,
+        2267
+      ],
+      "label": "text",
+      "text": "PREDETERMINED TURF PROFITS\n\nThe MIRACLE SYSTEM is nationally known as \"easy for player-hard for layer.\" Has stood the ACID TEST for many years. We could not spend more than thousands of dollars per annum adver- tizing water as cough syrup\u2014and con- tinue in the bedtime installment payments paid from your profits. Abou- lately FREE, 400 page racing manual, system sets, etc., Live, late, gate today and make your Bookle abey.\n\nPublic Relations Manager\nS. E. ANTWIZ\nBox 404B Tuscan, Md.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1365,
         634,
+        1571,
+        1206
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1364,
+        1397,
         1570,
         1508
       ],
       "label": "text",
-      "text": "Chapman and Ranson made their shots on the field the did fawn like which team was going to be the victor, and not know who were the champions. With three men who were the champions, W. H. Benson replaced McHenry to 10. Benson replaced Carr at forward at this point and took the score 19 to 20 of the floor, making the score 19 to 20 of the"
+      "text": "Cleveland, Ohio, April 11\u2014Flicking back to the old cask, local fans from Ft. Lauderdale reach out of strength, beginning to believe in the Nero National league surprise of the Nero National league. A city entry failed to make much of a play during their previous run in the league, but they came up as being in the light from the first eight clubs reach the home stretch.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,17 +672,19 @@
         2042
       ],
       "label": "text",
-      "text": "Three-fourths of the players reported attending the Cohort, the first five days are now well known as Hooper Basketball, he played with the speedier shortstop, who played with the long, tortor, right-hand player with birth, tortor, right-hand playe"
+      "text": "Three-fourths of the players reported attending the Cohort, the first five days are now well known as Hooper Basketball, he played with the speedier shortstop, who played with the long, tortor, right-hand player with birth, tortor, right-hand playe",
+      "status": "ok"
     },
     {
       "bbox": [
-        1363,
-        2110,
-        1677,
-        2347
+        1612,
+        72,
+        1776,
+        86
       ],
       "label": "text",
-      "text": "The MIRACLE SYSTEM is nationally known for its layer. Has stood the ACID TEST for many years. We could not spend many thousands of dollars on maintenance after taling water as cough syrap and concluding payment as well as equipment maintenance payment paid from your profile. Also lately FREE, 300 page racing manual,etter, oven testimonials, etc. Investigate today and make your Bookie Way.\n\nPublic Relations Manager\nB. AVENUE\nBox 40-6B\nTowns, Md."
+      "text": "SATURDAY, APRIL 12, 1984",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,37 +694,41 @@
         247
       ],
       "label": "doc_title",
-      "text": "DETROIT STARS\nSTART PLAYING\nBALL APRIL 13"
+      "text": "DETROIT STARS\nSTART PLAYING\nBALL APRIL 13",
+      "status": "ok"
     },
     {
       "bbox": [
         1571,
         259,
         1781,
-        990
+        726
       ],
       "label": "text",
-      "text": "Petway All Smiles as Playing Season Opens; Blount's Rapid Rise in Game\n\nDetroit, Mich., April H. \u2013 Five years ago, Petway, the school that owns Blount's trot Stars, was unknown in the baseball world. Today he is one of the most powerful players in the league that the game has produced. He is vice president of the Negro National league, one of the directors and President of the league, and one of the tenants. In five years he has built up a most powerful baseball machine, and certainly, April finally turned on bully, exhilarating breezes, mingled cool breezes and hot air, for the present season and at the same time estimate on the value of playing with the Blount-Betway team that Petway's worry of past seasons over that all-important infield problems first, Petway at second, Riggs at first, Jefferies at third, Riggs at small, Thibert but hosts of the league, and with Packham Williams, a player with a certified brand of ability as an instructor on the diamond all primed and ready to its new breech at the former on the diamond all prim"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
-        1573,
+        1574,
         726,
-        1781,
-        930
+        1784,
+        1254
       ],
       "label": "text",
-      "text": "As matters now loom, Petway will have a lavender loc of time to devote to the pitching staff and he has some mighty future prospects too. Cumbra is a talented player and Alexander, bubbling with confidence, should show the way among the best pitchers in the league. Of the staff, never started a season looking better and careped like a coot. The team's pitcher Terrell, both southpaws, will understudy Cooper and both display enough self-confidence to develop into pitchers of worth. Bell, the young right-hander from Cumbra, will pitch for Vincyville, drew a favorable impression in his debut, showing form and deportment."
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         1575,
-        927,
-        1784,
+        1255,
+        1783,
         1352
       ],
       "label": "text",
-      "text": "is permanent fixture. Petway is highly elated over the acquisition of Barnes, the hunky youthful catcher, and Crawford, the athletic player for the past two seasons with Cleveland.\nWaters, C. Smith and Jones, batters par-excellent and all-around players of worth, are on outpost duty, and Petway is the initial workout that stamps them as fit for tough trudging all the route. It is unable to break into the line-up here are going through the \"preliminary\" set of players, including Steel-air Davis and Smith, an infielder, both of whom should land places in the league. Of the season, April 15, has Howlett's Detroit Clowns opposed to the Detroit Stars. principally through the fact that they have strongest aggregations in Michigan, strongest aggregations in Michigan, principally through the fact that they have high-class semipro and former major and minor league stars. Petway will then with vets and colts among the pitcher's alternating enough innings so as to give the fans a peep at the team. At the Detroiters in a much better position this time to start than last, they have the athlete to make them give it a good start and maintain a pace that should secure them under the wire a winning start."
+      "text": "As the Detroiters are in a much better position than any time for many seasons, if they win, they will be presented with good physical condition at present displayed by the athletes, should make their own to lift by flying and maneuver them on the field, send them under the wire a winner",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -582,7 +738,8 @@
         1376
       ],
       "label": "paragraph_title",
-      "text": "Wabash \"Y\" Team in City"
+      "text": "Wabash \"Y\" Team in City",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -592,7 +749,8 @@
         1800
       ],
       "label": "text",
-      "text": "**Swimming Championships**\nbringing team scored four more points for\nthe department in the third section\nand championship, E. Collier and Ed. Collier both\n40-year free style. This gives the department\na total of 11 points for the team,\ngood showing against the other seven\n40-year free style. This gives the\nintermediate gymnastic team\nwill represent the department in the\nWednesday night at Central \"Y.\" Eight\nWednesday night at Central \"Y.\" Eight\nthe city go to make the gymnasts of\nare expected to come away with high\nThe Wabash \"Y.\" Dilgade defeated\nnight by the score of 22 to 1 in a very\nnight by the score of 22 to 1 in a very\ntrum and Todd led in the scoring\nsecond place in the Larabee \"Y.\"\nJunior basketball tournament.\nboys and kept them on the defensive\ntrum and Todd led in the"
+      "text": "**Swimming Championships**\nbringing team scored four more points for\nthe department in the third section\nand championship, E. Collier and Ed. Collier both\n40-year free style. This gives the department\na total of 11 points for the team,\ngood showing against the other seven\n40-year free style. This gives the\nintermediate gymnastic team\nwill represent the department in the\nWednesday night at Central \"Y.\" Eight\nWednesday night at Central \"Y.\" Eight\nthe city go to make the gymnasts of\nare expected to come away with high\nThe Wabash \"Y.\" Dilgade defeated\nnight by the score of 22 to 1 in a very\nnight by the score of 22 to 1 in a very\ntrum and Todd led in the scoring\nsecond place in the Larabee \"Y.\"\nJunior basketball tournament.\nboys and kept them on the defensive\ntrum and Todd led in the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -602,7 +760,19 @@
         2041
       ],
       "label": "text",
-      "text": "NUBBARD IN PENN RELAYS\nand 25 will attract most of the western\nleagues and 25 will attract most of the\nbatting for places against the cream\nleaders in the National League in\nthe annual Pennsylvania relays.\nIn the annual browndrop champion of the Univer-\nsity of Michigan, has been entered in the\nbrowndrop jump and the spirit midrace. jump and the spirit midrace. easily and has a good chance to win Michigan relay are Wiltshire penns-\n\u5229\u66fc and Hastederow, making a fast com-\nbination."
+      "text": "NUBBARD IN PENN RELAYS\nand 25 will attract most of the western\nleagues and 25 will attract most of the\nbatting for places against the cream\nleaders in the National League in\nthe annual Pennsylvania relays.\nIn the annual browndrop champion of the Univer-\nsity of Michigan, has been entered in the\nbrowndrop jump and the spirit midrace. jump and the spirit midrace. easily and has a good chance to win Michigan relay are Wiltshire penns-\n\u5229\u66fc and Hastederow, making a fast com-\nbination.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1789,
+        45,
+        1815,
+        1470
+      ],
+      "label": "text",
+      "text": "```markdown\n\n```",
+      "status": "ok"
     }
   ]
 }

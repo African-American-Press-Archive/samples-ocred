@@ -1,12 +1,23 @@
+---
+
 # RACE PEOPLE ARE INVITED TO INVEST IN DESIRABLE BUILDING LOTS AND ESTABLISH RESIDENCES AT
 
 # New Brunswick Highlands
 
-Near the large industrial city of New Brunswick, "The Hub of New Jersey," known as "The City of Contented Workman," whore equal rights and opportunities provail for all. You can own your own home at New Brunswick Highlands and pay for same like rent. We have established many families in their own homes and made them happy and independent. Let us do the same for you.
+NEW BRUNSWICK
+50,000 POPULATION
 
-DESIRABLE BUILDING LOTS, $89 EACH AND UP. SMALL FARMS, CONTAINING 10,000 SQ. FT., $236 AND UP; GOOD TILLABLE LAND, SUITABLE FOR CHICKENS AND VEGETABLE RAISING; GOOD MARKETS AND BIG DEMAND.
+Near the large industrial city of New Brunswick, "The Hub of New Jersey," known as "The City of Contented Workman," where equal rights and opportunities prevail for all.
 
-NEW BRUNSWICK HIGHLANDS is less than two miles from the heart of the city. Trolley passes property, which is 12 minutes' ride from New Brunswick, having over 150 factories and industries paying a high scale of wages and the finest schools and colleges, including the Rice Industrial school for Colored Children. Do not wait until prices go up and the choicest selections are gone. BUY NOW and have your share and say.
+You can own your own home at New Brunswick Highlands and pay for same like rent. We have established many families in their own homes and made them happy and independent. Let us do the same for you.
+
+DESIRABLE BUILDING LOTS, $80 EACH AND UP,
+SMALL FARMS, CONTAINING 10,000 SQ. FT.,
+$236 AND UP; GOOD TILLABLE LAND, SUITABLE FOR CHICKENS AND VEGETABLE RAISING; GOOD MARKETS AND BIG DEMAND.
+
+NEW BRUNSWICK HIGHLANDS is less than two miles from the heart of the city. Trolley passes property, which is 12 minutes' ride from New Brunswick, having over 150 factories and industries paying a high scale of wages and the finest schools and colleges, including the Rice Industrial school for Colored Children.
+
+Do not wait until prices go up and the choicest selections are gone. BUY NOW and have your share and say.
 
 ## N. T. HEGEMAN COMPANY
 
@@ -29,33 +40,41 @@ Mrs. Daisy Closco, 138 West 143d street, left Wednesday of this week for her hom
 
 ## Boy Causes Father's Death
 
-Ernest Salters, 45. 506 Lenox avenue, was crushed to death Wednesday, May 5, while greasing the elevator cables of a car operated by his son, Garold, 18, at 21-26 West 13th street. The father was at work on top of the elevator, his son being inside an operator suddenly the lift ... not upward carrying the elder Salters to the top, crushing him between the shaft and roof of the car. His body was extricated by the fire department.
+Ernest Salters, 45. 506 Lenox avenue, was crushed to death Wednesday, May 5, while greasing the elevator cables of five elevators his son, Corold, 18, a 24-16 Week 13th father was at work on top of the elevator, his son being inside as operator. Suddenly the lift not upward carrying the elevator Salters to the top, crushing the elevator itself and roof of the car. His body was extirpated by the fire department.
 
-RACE PEOPLE ARE INVOLVED
+RACE PEOPLE ARE INV
 
-New Brunswick
+New Bru
 
-TRENTON
 PHILADELPHIA
 1,500,000 POPULATION
-53 MILES
 
-Near the large industrial city of New Workmen," where equal rights and You can own your own home at N many families in their own homes.
+TRENTON
+1,00,000 POPULATION
+
+Near the large industrial city of N
+Workman," whore equal rights and
+You can own your own home at N
+many families in their own homes.
+
+Payable in easy
+monthly pay-
+ments to suit
+convenience of
+purchaser.
 
 DESIRA
 SMALL
 $236 A
 FOR CH
-MARKET
 
-Payable in easy monthly payments to suit convenience of purchaser.
-
-NEW BRUNSWICK HIGHLANDERY, which is 12 minutes' ride from scale of wages and the finest school. Do not wait until prices go up and say.
-
-Write for free illustrated booklet.
-
+NEW BRUNSWICK HIGHLANDS
+erty, which is 12 minutes' ride from
+scalp of wages and the finest colli-
+Do not wait until prices go up and
+say.
+Write for free illustrated booklet
 N. T.
-
 9 CHURCH ST., N
 REPRESENT
 
@@ -84,9 +103,29 @@ The first copies of "Tomorrow," a new magazine published in Chicago by Nahum Dan
 
 In an interesting review of Darkwater (Harcourt, Brace and Howo) by Prof. W. B. Court, the Literary Digest in the May I issue advises that we want an adventure in souls to read the work. The Digest gives an exhaustive view of the work and quotes some of the powerful points which the noted author brings out in this, his latest work.
 
+```markdown
+
+```
+
 ## JAMAICA JOTTINGS
 
-Jamaica, N. Y., May 14.—The lecture given by Miss K. M. Johnson last Thursday on the sufferings our men endured in the late war, was well received. It was brought out that the popaganda spread by the southern French and French and our boys are welcome to return there at any time. * Sunday was Mother's day at Allen church, and while only one of the speakers booked to speak was present, the services were well attended. The pastor spoke at the night and the fair will open Monday at 10 a.m. Browster in the evening. The Sunday school banner for collection went to Mrs. B. A. Jackson's class and for attendance to the hostess's class. * The next meeting for the fair will be held on the night and the fair will open Monday at 10 a.m. Browster in the evening. P. Taylor Missionary Society will be addressed at 3:30 p. m. on Sunday by Mrs. Rose Edwards. * At the regular meeting of the M. S. Circle at Mrs. George Carter's residence, officers were now present for the year. Mrs. Gurnes is now present for the year
+Jamaica, N. Y., May 14.—The lecture given by Miss K. M. Johnson last Thursday on the sufferings our men endured in the late war, was well received. It was brought out that the propaganda spread by the southern whites was not well taken by the French and our boys are welcome to attend. It was also the Mother's day at Allon church, and while only one of the speakers booked to speak was present, the services were well attended. The pastor spoke at the morning service and Mrs. P. E. Browster in the evening. The Sunday school banner for collection went to Ms. W. J. Jackson's class and for attendance to the next meeting for the fair will be held Tuesday night and the fair will open Monday night, May 24th. * The Nora P. Taylor Missionary Society will be addressed at 3:20 p. m. on Sunday by Mrs. Rose Edwards. * At the regular meeting of the M. S. Circle at Mrs. Corey Carter's residence, officers were checked in and a new president. The next meeting will be held May 19th at Mrs. E. Marshall's home. * Mrs. Anna Mussle and mother, Huttle Y. Wyatt, formerly of Burlington, Vt., and Edward Fitch are making their home with Pearl Fitch, 79 Cumberland street. * Mrs. Frederika Bay, who has removed from Brooklyn and is now on a public court. * Mrs. Oakley of Ohio has been spending a few weeks at the home of Mr. and Mrs. Childs, 155 Pacific street. * The A. C. Club has renovated the upstairs front room of the parsonage and the dining room.
+
+Now York News Charity Bureau Ball
+The biggest attraction of the season
+is scheduled to take place in Manhattan
+Casino, Friday night, May 21st.
+The Costume Charity Ball always carries
+the honors for splendor, and the
+pleasure seeking folk of Harlem will
+crowd the casino to see who will carry
+away the prize for wearing the most
+beautiful evening gown, also the lady
+who will capture prizes for
+wearing the most beautiful
+Twenty-one valuable prizes will be
+awarded. Program begins at 8:30.—
+Advt.
 
 ## A Poatponed Wedding
 
@@ -102,29 +141,36 @@ John J. Cleary (white), 16, of 698 Greenwich street, was arrested last week and 
 
 ## Rico Recital Monday
 
-Pureza Rico, the world's greatest bazaar, will be heard in a song recital in Agollan hall, 33 West 43d street, on Monday evening. His program is an unusually attractive one, having relied on bokeh frombekow Kresler, Mozart, Philips and others. Tickets are now on sale at the box office.
+Pureza Rico, the world's greatest bago, will be heard in a song recital in Acollan hall, 23 West 43d street, on Monday evening. His program is an unusually attractive one, having collections from DeKevon, Kreisler, Mozart, Phillips and others. "Tickets are now on sale at the box office.
 
-RABLE BUILDING LOTS AND AT Highlands
+ABLE BUILDING LOTS AND AT Highlands
 
 NEWARK
-$50,000 POPULATION
+50,000 POPULATION
 32 MILES
 
 NEW YORK
-$50,000 POPULATION
+500,000 POPULATION
 
-Corsoy," known as "The City of Contented for same like rent. We have established student. Let us do the same for you.
+foreey," known as "The City of Contented for same like rent. We have established student. Let us do the same for you.
 
 EACH AND UP.
-1,000 SQ. FT.,
+
+000 SQ. FT.,
 AND, SUITABLE
 RAISING; GOOD
 
-Homes Built from $1,500 up.
-Payable $15 monthly and up.
+Homes Built
+from $1,500 up.
+Payable
+$15 monthly
+and up.
 
-The heart of the city. Trolley passos prop-factories and industries paying a high rate industrial school for Colored Children.
-BUY NOW and have your share and occupied by Race people.
+heart of the city. Trolley passes prop-
+factories and industries paying a high
+co industrial school for Colored Children.
+BUY NOW and have your share and
+occupied by Race people.
 
 COMPANY
 S AND DEVELOPERS
@@ -132,7 +178,9 @@ ABLE TERMS
 
 INVESTED IN
 
-You through its various listed and unlisted paying stocks an opportunity such as has offered before.
+You through its various listed and unlisted
+buying stocks an opportunity such as has
+offered before.
 
 ## $50.00 OR $100.00
 
@@ -161,14 +209,50 @@ Name:
 Address:
 Letters and Stats:
 
-NEGRO WELFARE-IN
+---
+
+TIMESHELDING
+
+York, N. York, M. May 14—Mr. and Mrs. St. Ives, M. 386 Rivera avenue, last Saturday evening. Cards and music were enjoyed during the evening. Among those present were Mr. and Mrs. J. Valdez, Mr. and Mrs. G. Newkins, Mrs. E. Bush of Manhattan, Mrs. E. Messrs. H. Rue, Claud and Hurry Spotsett. Some of the choir members of Mossiah Baptist church led a surprise on Mrs. Daisy Rux last Saturday night. Mrs. Rux received many handsome gifts, and refreshments were enjoyed by the guests. The surprise was started by a number of Yowkers took attendance for Nursery affair last Friday evening. The Old Fellows' reception last Friday evening was a great success, and well attended by a large number of out-of-town people. * Rev. S. W. Smith attended the 25th anniversary of Mr. New. York last week. * Joseph松松 of Providence, R. L. visited Miss Pauline Smith last week. * Mother's day was celebrated at all the churches Sunday. * The 25th marriaged anniversary of Mrs. Ogle Lawton, 207 West 186th street, evening, was a grand affair. Nearly 300 guests were present to do honor to this splendid pair, who had journeyed together all of these years. Mr. and Mrs. Lawton were the recipients of many costly presents from their friends Brooklyn and other parks. Several bass solos were rendered by Mr. Robeson, the great football, star and others.
+
+1. Vernon Graye, the original howay man who blow into New York from the wild west. Is again on the job with his official directory and guide. The howay band has brought out in the interest of the Harlem Tenants and Lodgers' League.
+
+O-KA-YA-MA Japaneso Ruby Hair Pomado will make hair grow long, straight and glossy. Price, 60c. Large shipment on hand for agents. "Crome de la Crene" cold cream makes the skin soft and beautiful. Price, 60c. Dr. Benson's Incomparable Hair Tonic, smells better, looks better, it is better. Wonder City Chemical Co., Porfumers, Box 45, Station J, New York City.—Advt.
+
+NEGRO WELFARE-IND
 EXPOSIT
 LENOX OVAL, 145TH STREET AND
-MAY 17th t
-MILITARY MANEUVERS BY THE
-MENT; AMUSEMENT ZONE; 20
-ING SHOWS AND ENTERTAINM
-RIDES; MUSIC AND
+MAY 17th to
+MILITARY MANEUVERS BY THE IN
+MENT; AMUSEMENT ZONE; 20 N
+ING SHOWS AND ENTERTAINMENT
+RIDES; MUSIC AND DA
+
+PRE-INDUSTRIAL
+SITION
+SHEET AND LENOX AVENUE
+un to 27th
+BY THE FIFTEENTH REGI-
+ME; 20 NOVEL, INTEREST-
+TAINMENTS; FOUR NEW
+AND DANCING
+ION 10C
+
+SKIN AND COMPLEXION
+commonly employed for the care of the
+things regarded as the necessity for them
+imperfections that they are designed to
+high cleansing and building process is of
+kind that salowness, blotches, freckles,
+neck, arms and shoulders will speedily
+ream night and morning; this removes
+the skin, rendering it clear, velvety and
+freshness of youth.
+best safeguard against, or relief for sun-
+salt-septic, and is a Natural Skin-Iod,
+and Beauty Shops, 50 cents, or sent
+Harmless. Agents Wanted. Write for
+facturers, 1456 Fulton St., Brooklyn, N.Y.
 
 # EXPOSITION
 
@@ -205,12 +289,17 @@ Every Jar Guaranteed Pure and Harmless. Agents Wanted. Write for liberal terms.
 
 BOYDULUS PRODUCTS CO., Inc. Manufacturers, 1456 Fulton St. Brooklyn, N.Y.
 
-BERRY
-& ROSS
-Inc.,
-Factory
-36-38 W. 135th St.,
-N. Y. C.
+The La Biel News and Delivery Service. Newspapers, Magazines and Periodicals. Agent for Dr. Denson's Hair Tonic. Twenty-One Things for the Hair. French Cold Cream and Japanese Pomade. 11½ Palisade Ave., Yonkers, N. Y.
+
+THREATT'S PURE FOOD RESTAURANT
+646 LENOX AVE., NEW YORK
+SERVICE A LA CARTE
+Harlem's Finest Eating Place
+
+RETIRING FROM BEAUTY BUSINESS
+For Sale...The rights, cuts, stock of steel combs and tins, the Panama Morris Straightening tins to growers, Hot Oil, Straighteners, Face Cream, etc. Valuable to those who specialize in Beauty in New York. Straighteners for professional people in New York. Philadelphia, Chicago. For further particulars address: MRS. H. E. N. MOURIS, 141 N. 211 81, Philadelphia.
+
+THE CHICAGO DEFENDER
 
 Many Attend Monster Meeting
 
@@ -226,39 +315,26 @@ Mrs. M. Cappie and Little daughter of Hot Springs, Ark., are visiting her and si
 
 # Clothing Factory BUY DIRECT FROM FACTORY AND SAVE MONEY
 
-Bungalow aprons,
-silk shirtwalts,
-children's dresses,
-middy blouses, etc.
-at Rock Bottom
-Prices.
+```markdown
 
+```
+
+Bungalow aprons, silk shirtwalt, children's dresses, middy blouses, etc., at Rock Bottom Prices.
 Send for catalog.
+Stock on sale, $10 per share. Paya 6% every three months, guaranteed.
 
-Stock on sale. $10
-per share. Paya 6%
-every three months,
-guaranteed.
+BERRY & ROSS
 
 ## VICTROLAS REPAIRED
 
-VICTROLAS REPAIRED
-TALKING AND SEWING MACHINES
-CLOCKS AND WATCHES
-REPAIRED
 Worrell Bros., 246 W. 143d St.
 Drop a card or phone Audubon 4123.
 We will call at your home.
 
 Retiring From Beauty Business
 FOR SALE
-The right cuts, stock of steel counters and pro-
-fessors, and much wanted beauty seeds in Greens,
-Hot Butts, Straighteners, Shampoo, Face Grasus,
-Valuables to those who specialize in beauty
-protectives. Professionals professional
-people in New York, Philadelphia and Chicago.
-For further information address:
+The fights, cuts, stock of steel couches and recliners, the famous Morphy Straightlining outfit, the hot sets, Straightlining, Siouxau, The Grans, Valeable to those who specialize in beauty people in New York, Philadelphia and Chicago.
+For further information address
 MME, H. E. W. MORRIS,
 
 ## OPTICIAN
@@ -271,32 +347,10 @@ Promises.
 
 ## YONKERS YIELDINGS
 
-TIMESHELDING
-
-York, N. York, M. May 14—Mr. and Mrs. St. Ives, M. 386 Rivera avenue, last Saturday evening. Cards and music were enjoyed during the evening. Among those present were Mr. and Mrs. J. Valdez, Mr. and Mrs. G. Newkins, Mrs. E. Bush of Manhattan, Mrs. E. Messrs. H. Rue, Claud and Hurry Spotsett. Some of the choir members of Mossiah Baptist church led a surprise on Mrs. Daisy Rux last Saturday night. Mrs. Rux received many handsome gifts, and refreshments were enjoyed by the guests. The surprise was started by a number of Yowkers took attendance for Nursery affair last Friday evening. The Old Fellows' reception last Friday evening was a great success, and well attended by a large number of out-of-town people. * Rev. S. W. Smith attended the 25th anniversary of Mr. New. York last week. * Joseph松松 of Providence, R. L. visited Miss Pauline Smith last week. * Mother's day was celebrated at all the churches Sunday. * The 25th marriaged anniversary of Mrs. Ogle Lawton, 207 West 186th street, evening, was a grand affair. Nearly 300 guests were present to do honor to this splendid pair, who had journeyed together all of these years. Mr. and Mrs. Lawton were the recipients of many costly presents from their friends Brooklyn and other parks. Several bass solos were rendered by Mr. Robeson, the great football, star and others.
-
 ## Howdy, Man on job
-
-1. Vernon Graye, the original howay man who blow into New York from the wild west. Is again on the job with his official directory and guide. The howay band has brought out in the interest of the Harlem Tenants and Lodgers' League.
 
 ## ATTENTION!
 BEAUTY LOVERS
-
-O-KA-YA-MA Japaneso Ruby Hair Pomado will make hair grow long, straight and glossy. Price, 60c. Large shipment on hand for agents. "Crome de la Crème" cold cream makes the skin soft and beautiful. Price, 60c. Dr. Benson's Incomparable Hair Tonic, smells better, looks better, it is better. Wonder City Chemical Co., Perfumers, Box 45, Station J, New York City.—Advt.
-
-PRE-INDUSTRIAL
-SITION
-SEET AND LENOX AVENUE
-in to 27th
-BY THE FIFTEENTH REGI-
-ME; 20 NOVEL, INTEREST-
-TAINMENTS; FOUR NEW
-AND DANCING
-ION 10C
-
-SKIN AND COMPLEXION
-commonly employed for the care of the is regarded as the necessity for them imperfections that they are designed to high cleansing and building process is of mind that sallowness, blotches, freckles, neck, arms and shoulders will speedily cream night and morning; this removes the skin, rendering it clear, velvety and freshness of youth.
-Just configured against, or relief for sun- and dustleptic, and is a Natural Skin-Food, and Beauty Shops, 50 cents, or sent Harmless. Agents Wanted. Write for Facturers, 1456 Fulton St., Brooklyn, N.Y.
 
 ## "NU-LIFE"
 
@@ -327,17 +381,18 @@ Inc.
 MADAM ESTELLE, Principal
 72 W. 133d St, New York
 
-The La Biel News and Delivery Service. Newspapers, Magazines and Periodicals. Agent for Dr. Denson's Hair Tonic. Twenty-One Things for the Hair. French Cold Cream and Japanese Pomade. 11½ Palisade Ave., Yonkers, N. Y.
+NEW YORK AND BROOKLYN NEWS
 
-THREATT'S PURE FOOD RESTAURANT
-646 LENOX AVE., NEW YORK
-SERVICE A LA CARTE
-Harlem's Finest Eating Place
+$750 If I Fail to Grow Hair
+World's Wonder Hair Grower
 
-RETIRING FROM BEAUTY BUSINESS
-For Sale...The rights, cuts, stock of steel combs and tins, the Panama Morris Straightening tins to growers, Hot Oil, Straighteners, Face Cream, etc. Valuable to those who specialize in Beauty in New York. Straighteners for professional people in New York. Philadelphia, Chicago. For further particulars address: MRS. H. E. N. MOURIS, 141 N. 211 81, Philadelphia.
+```markdown
+
+```
 
 # $750 If I Fail to Grow Hair
+
+P
 
 For Dandruff, Falling Hair, Scalp Diseases and Itching Scalp. It feeds the scalp, nourishes the roots and causes a natural growth of long hair, no matter how bad your hair may be. One month's treatment shows a different head; a regular scalp food. Send $110 for a regular treatment, or a $5.50 order in goods and services to a book of our beauty system of art and instruments in hair dressing, scalp treatment, facial massage and manlacing.
 
@@ -353,41 +408,44 @@ Massage Cream.....690, Vanillaating Cream.....690
 
 We also carry a full supply of real human hair. All of our goods are strictly made to order. Transformations, switches, puffs and braids.
 
-$3.00
+54.60
 
-We also carry a full supply of real human hair. All of our goods are strictly made to order. Transformations, switches, nails and hairs.
+```markdown
+
+```
 
 Orders for Human Hair:
 Address Dept. C
-$3.60
+$4.00 $3.00
 ALL ORDERS MUST BE ACCOMPANIED BY MONEY ORDER
-
 WORLD'S WONDER MANUFACTURING COMPANY,
-203 WEST 140TH STREET
+203 WEST 140TH STREET NEW YORK CITY
 MME. CARRIE, President
-Agents Wanted Everywhere.
-Make Easy Money
+Agents Wanted Everywhere. Make Easy Money
 
 EUFAULA BEAUTY PREPARATIONS
 ENCLOSES THE WORLD'S FAMOUS ENHANCE OF BEAUTY SECRETS
 AND DO DECLARE
-
 "Gold That Buys Health and Beauty Can Never Be Ill Spent, Nor Hours
 Laid Out in Harmless Merriment."
 
 Make Easy Money
 
 ENCLOSES THE WORLD'S FAMOUS ENHANCE OF BEAUTY SECRETS AND DO DECLARE
+"Gold That Buys Health and Beauty Can Never Be Ill Spent, Nor Hours
+Laid Out in Harmless Merriment."
+EUFAULA BEAUTY CREAM—A greaseless, rose-
+colored provide Vanishing Cream for soothing,
+refreshing and beautifying the exposition. Powder is needed when this cream is used.
+Ladies' specialty—delightful for men.
 
-"Gold That Buys Health and Beauty Can Never Be Ill Spent, Nor Hours Laid Out in Harmless Merriment."
+A
 
-EUFAULA BEAUTY CREAM—A greaseless, rose-colored peroxide Vanishing Cream for soothing, refreshing and beautifying the complexion. No Powder is needed when this cream is used. Ladies' specialty—delightful for men.
-
-EUFAULA ROSE BROWN FACE POWDER—Made of the highest grade of fragrant, pure de rich imported talcum. Specialty for brown skins. Most pleasing shade ever made. Produces a smooth, velvety complexion. Has no equal.
+EUFAULA ROSE BROWN FACE POWDER—Made of the highest grade of fragrant, pure darix imported talcum. Specialty for brown skins. Most pleasing shade ever made. Produces a smooth, velvety complexion. Has no equal.
 
 EUFAULA INSTANTANEOUS SKIN BLEACH—A greaseless paste that's guaranteed to make the skin several shades lighter each treatment of 30 minutes. Absolutely harmless.
 
-EUFAULA SKIN WHITENER—A greaseless ointment like vanishing cream, for whitening the discolored skin and removing tan, sunburn, freckles and all discolorations of the skin. Olly skin and shiny nose remedied, a specialty.
+EUFAULA SKIN WHITENER—A greaseless ointment vanishing cream, for whitening the discolored skin and removing tan, sunburn, freckles and all discolorations of the skin. Oily skin and shiny nose remedied, a speciality.
 
 EUFAULA HAIR GROWER, POMADE, GLOSSINE, EMPERIER TONIC AND DRESSING are the help of Hair Beauty—Never fail to give excellent results.
 
@@ -412,50 +470,58 @@ EUFAULA CHEMICAL CO., 151 West 53d St., New York
 
 # Hair Seed Hair Grower
 
+```markdown
+
+```
+
 ## A MAGIC WONDER
 
-Nature's Way of Forcing the Hair to grow long, soft and healthy. A combination of dried and powdered seed. Just clean your scalp and plant the seed often by rubbing the HAIR SHEED GROWER gently in the scalp.
+Nature's Way of Forcing the Hair to grow long, soft and healthy. A combination of dried and powdered seed. Just clean your scalp and apply the seed often by rubbing the HAIR SHEED GROWER gently in the scalp.
 
-Do this tonight, watch your hair grow, it is a mystery, Hair Seed is a powerful stimulant, it excites the scalp to a new and healthy action. Kills dandruff and tetter the very first treatment; stops the itching of the scalp and at once the short temple hair begins to grow fine. This compound has the indulgence of the Medical Profession longing the best possible ever offered to the public. IT GREW HAIR out a head that had been bald ten years. We can prove it.
+Do this tonight; watch your hair grow, it is a mystery. It is a powerful stimulant, it excites the scalp to grow faster action. Kidnails dandruff and tatter the very first moment; stops the tearing of the scalp and at once the short temple hair begins to grow fine. This compound has the indolescent of the Medical Company, the most grower ever offered to the public. IT GROWES in head that had been bald ten years. We can train DIRECTIONS: Get a 25 cent package of Hair Seed Hair Grower and mix it in two ounces of pure melted vasseline and perfume nicely and you will have a powerful old-fashioned, true and highest hair grower. Try it. Ladies, let us send you a full six months' treatment for $100.
 
-DIRECTIONS: Get a 25 cent package of Hair Seed Hair Grower and mix it in two ounces of pure mooted vaseline and perfume nicely and you will have a powerful old-fashioned, true and honest hair grower. Try it. Lailies. It is send you a full six months' treatment for $1.00.
+At Your Drugsist's or Direct From
 
-At Your Druggist's or Direct From QUEENS MAIL ORDER HOUSE
+QUEENS MAIL ORDER HOUSE
 P. O. B. O. JAMAICA, LONG ISLAND
 
 HEALTH IS WEALTH
 VINO TONIC
-taken as directed on the bottle is the best preventive against INFLUENZA
+taken as directed on the bottle is
+the best preventive against
+INFLUENZA
+
+THE F. T. BERKMAN PHARMACY
+448 Lonox Avenue New York City
+or
+VINO INDUSTRIAL COMPANY
+200 West Houston Street New York City
+
+QUEENS MAIL ORDER HOUSE
+P. O. B. O. JAMAICA, LONG ISLAND
+
+HEALTH IS WEALTH
+VINO TONIC
+taken as directed on the bottle is
+the best preventive against
+INFLUENZA
 
 THE F. T. BERKMAN PHARMACY
 448 Lenox Avenue New York City
 or
-VINO MEDICAL COMPANY
+VINO F. T. DAL COMPANY
 200 West Houston Street New York City
-
-MME, E. R. CARGEL'S CELEBRATED ELITE HAIR GROWER
-Best on the market for Dandruff, Failing Hair, and All Scalp Diseases. Cargel's Elite Preparations have gruddened many discouraged ladies—growing their hair one to two inches monthly.
-Elite Hair Grower, 50 cts; Elite Hair Dressing, 50 cts;
-Elite Tetter Salve, 50 cts; Elite Hair Lustre, 50 cts;
-Elite Shampoo, 25 cts.
-Mme. Cargel's Elite System Correspondence Course Agents wanted. Send $1.00 for special outfit. Address mail and money orders.
-
-Mme. E. R. Cargel, Station J, Box 14, N. Y. City
-
-QUEENS MAIL ORDER HOUSE
-P. O. B. O. JAMAICA, LONG ISLAND
 
 taken as directed on the bottle is the best preventive against INFLUENZA
 
 THE F. T. BERKMAN PHARMACY
 448 Lonox Avenue New York City
 
-MME, E. R. CARGEL'S CELEBRATED ELITE
-HAIR GROWER
-Best on the market for Dampruff, Falling Hair, and
-All Scalp Diseases. Cargel's Preparations have
-gladdened many discouraged ladies—growing their
-hair one to two inches monthly.
+MME, E. R. CARGEL'S GELEBRATED ELITE HAIR GROWER
+
+PRESIDENT
+
+Best on the market for Danduff, Falling Hair, and All Scalp Diseases. Cargel's Elite Preparations have gladdened many discouraged ladies—growing their hair one to two inches monthly.
 
 Elite Hair Grower, 50 cts; Elite Hair Dressing, 50 cts;
 Elite Tetter Salve, 50 cts; Elite Hair Lusto, 50 cts;

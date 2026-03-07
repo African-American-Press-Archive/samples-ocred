@@ -6,56 +6,56 @@ The college course in recreation, and community activities, was thrown open to t
 ## THE UP-REACH MAGAZINE
 
 THE UP-REACH MAGAZINE
-Snares for the Up-REACH Magazine,
-a journal for the education and social
-work, published monthly on the
-cunneses Avenue, Chicago, IL. $1.40 per
-year, per copy. The great aim of
-Magazine is to promote
-and popularize the magazine
-of the history of our people in acad-
-mies of churches and clubs. Everybody
-should know the wonderful contributions
-that the magazine makes to the civiliza-
-tions of the world in all areas of
-climates. Every teacher and social
-worker should begin a campaign in
-missions to create a widespread
-demand for the magazine. Advertisers can reach a select
-group of steady, substantial buyers
-grouping the Up-Reach. $1.00 per year,
-the money now stands everywhere. Write now to the Up-
-Reach Magazine. Willis N. Huggins,
-Editor, 4345 Vinecines avenue, Chicago,
-IL.
+Society of the Up-Reach Magazine,
+a journal of social work,
+published monthly on 4345
+cones avenue, Chicago, IL, $100 per
+copy. The great aim of the Up-Reach
+Magazine is to popularize the study and teaching
+of the history of our people in schools,
+schools and clubs. Everybody should
+know the history of the Up-Reach
+black people have undo to the civiliza-
+tions of the world in all ages and all
+ages. Every teacher and social
+worker in their communities to create
+a widespread demand for the Up-Reach
+magazine. Advertisers can reach a selec-
+tion of up to 1000 buyers by
+through the Up-Reach, $100 per
+copy. Sold on nowstands
+the copy. Write now to the Up-Reach
+Magazine, 4345 Vinceham avenue,
+Chicago, IL.
 
-New Undertaking Establishment
-One of the most modern and thoroughly
-equipped undertaking estab-lished
-a new group of patrons. They have
-recently purchased the Up-Reach
-Grove avenue. This firm goes on the
-principal that the best in none too
-might be holed in passing they are
-might-to-be a group in the city
-who have such a chance to speak
-for this new firm a liberal share
+New Understaking Establishment
+One of the most modern and
+practically equipped undertaking
+establishments has recently been opened by
+Jones, 3863 Cottage
+Grove avenue. This is the principal that the best is none too
+good for their patrons. They have
+to have their hands on the ambulance which will be at the
+Chicago public at a moderate fee.
+might he said in passing they are
+the only person in the city who have such a convoy.
+We speak for this now firm a liberal share
 of patronage believing that full service
-be given at the lowest possible
-price, day or night, and a representa-tive will call.
+costs are the best possible cost.
+Phono Doug, 4276 night, night,
+and a representative will call.
 
 Wedding Announcement
-Mr. and Mrs. A. L. Burns, 5208 Wabash,
-la. to the lowest possible day or night,
-w. Cunningham, 4740 Champlain avenue.
+Mr. and Mrs. Curna, 5208 Washah
+aveno, announce a marriage
+of their daughter Boema to John
+Cunningham, 4745 Chimpain aveno.
 Marriage to take place this summer.
 
-Marshal-Davis Nuglistus
-Miss Jessio R. Marshall of New Or-
-leana, La. was married to J. S. Davis
-Sunday, April 25, at the residence of
-Mrs. Mrs. Georganna Mitchell,
-3024 Ellis Park. Rv. J. E. Heywood
+Miss Jessie R. Marshall of New Or-
+land University, Sunday, April 25, at the residence of
+her mother, Merrigan. Merrigan Mitchell
+Park. Rev. J. E. Heywood
 officiating.
 
 ## ---
@@ -139,10 +139,45 @@ WIN, MANAGER, PATTI BEAUTY
 
 4723 Saint Lawrence Avenue, Ap
 
+PAGE TWELVE
+
 ## * Delegates Secure Homes
 
 From Appomatox Club
-The general convention committee appointed by President S. A. T. Watson of the Appomatox club met last week to discuss the various subcommittee appointments from the various subcommittee appointed by Chairman David B. Hawley. Because of the unusually large efforts to provide a sufficient home where visitors may be accommodated in Chicago during the convention the housing committee is making strenuous efforts to provide a su
+The general convention committee appointed by President S. A. T. Watkins of the Appomatox club met last week to discuss the various subcommittees appointed by Chairman David B. Hawley. Because of the unusually large number of homes for the accommodation of those visiting Chicago during the convention the housing committee is making strentuous efforts to provide a sufficient number of homes for the accommodation of those visiting Chicago during the convention the housing committee is compiling a list of homes where visitors may be accommodated. The committee is urging the large number of palatial homes and the hospitality of its owners, hence the committee is urging those who will be accommodated to change their convention week to send their names, addresses, number that they will be able to accommodate, together with the committee, to change their accommodation. Mitchell, chairman of the committee, Appomatox club, 3632 Grand boulevard. The committee is anxious that producing shall not be delayed, as the reasonable sum be charged the visitors. During the convention week the beautiful new clubhouse will be the residence of the committee will be established with a competent stoneographer in charge, who will serve the delegates and visitors, and probably give a reception to the delegates and visitors on Monday, June 7.
+
+Shelton-Hedrick Nuptale
+On Monday, 5th St.
+St. Mary's church, 5238 Donorh
+street, was the scene of one of the
+protestant weddings Chicago has seen
+in recent months. Ursa Snelson, daughter of the pastor,
+became the bride of Banus Crispin
+out in rainbow effect. Wedding was carried
+bridlecadeimis: Miss Irma Cheatham,
+pink organdie; Miss Amolia Kecmbli,
+counyant; Miss Ruth McGough, allon,
+Miss Ruth McGough, allon,
+Jewell, green. All were huts to match
+their dresses and carried baskets of
+their shoes. Ursa Snelson, grandmother
+Ward Snelson was matron, Malinne
+and Mrs. Blydon Snelson Lovette, sister
+of the bride, from Pittsburgh, Pa.
+The bride was a picture of joyful,
+pears from her mother, as she entered upon the arm of her
+father, gowned in Swiss taffeta and
+pink organza. Ursa Snelson, wedding
+gown, and court train, with tulle, car-
+ing a shower honour of roses and
+lilies from her mother, was best man and the groomsmen
+were Walter Coffe, Riley Thomas,
+and Norman Allison, Riley Thomas,
+who was best man. Ursa Snelson
+was assisted in performing the cor-
+edion, by Bray, Mr. and Mrs.
+Fredleck Jr. and Roy, Snelson
+many friends at 123 E. 37th street.
 
 ## Overseas Here Wade
 
@@ -174,9 +209,13 @@ Dave Wyatt, baseman of the Chicago Defender, has returned to the city from St. L
 
 Mrs. Sarah C. Barr, 2821 Wabash avenue, mother of the loft Dr. Elmo Dr. Mitchell, 2821 Wabash Avenue, Alderman Louis B. Anderson, has been seriously ill with an attack of pneumonia. She is being attended by Dr. Shaolai Miao Williams and is improving.
 
+ALL AROUND THE TOWN
+
 ## Wedding Announcement
 
 ## Marshal-Davis Nuntials
+
+THE CHICAGO DEFENDER
 
 ## Civil Service Examinations
 
@@ -247,20 +286,12 @@ Cornelius Robinson, in company with his wife, who spent a few days in the office
 
 ## Attending Conference
 
-Mrs. Irene Luckly, SCS State street, clerk of Grants' Memorial Chapel, attending the A. M. D. conference at St. Louis, Mo. St. Louis was formerly the home of Mrs. Luckly and she will meet many relatives and friends.
+Mire, Irene Lockley, SESN State ttl 1423
+attending the A. M. E. conference
+in St. Louis Mo. St. Louis was formerly
+the D.C. School of Law.
 
 Anita Patti Brown
-Lions are compounded with the same drug a doctor's prescription. Skin grows smoother and your combed and hide your face. Get "Patti's Booklet" and learn how to care for "Secret Book," how to care for your kit. Preparations for $5.00.
-
-AGENT'S OUTFIT
-to preparations, without the "Beauty PRICE LIST
-Brand.....65¢
-Form (Perfect bleach).....65¢
-Mia Powder.....65¢
-and postage for mailing.
-
-7 EMPORIUM
-Department 3, CHICAGO, ILLINOIS
 
 ## WEST SIDE NEWS
 
@@ -268,58 +299,27 @@ By J. Wesley Jones
 
 The Phi Beta Kappa medical school, will be the largest and best ever given. All Chicago, and especially the West Side, will be on in large numbers. The big attractions for the day will be orchestra directors, will play a saxophone role, Delaware violinist, and the monodigital winner of Chicago Musical College; Prof. Charles Elgar, dean of orchestra directors, w
 
-REAL ESTATE DEALS
-H. A. Watking is one of the most progressive real estate brokers on the south side and is making a great num
-
-ber of sales to
-clients throughout
-the city, and the
-last few days he
-has just closed
-real estate transactions with law
-offices. B. Brown of Muskegon, Oka, Lawyer
-of Chippewa, formerly of Ikeagle, Oka; Oka; Perry Phillips, Bhilisng, Akh., Hingham, Ak., Homosha City, Okla.; Dr. D. P. Fugleah, Americus, Ga., Detroit, Mich., and
-Detroit, Mich. and
-
-Detroit, Mich., and H. A. Watkins besides he has made more than 25 sales among the local residents in the city this year, which is remarkable when compared to the sales that have not been equated by any dealer on the south side this year. Mr. Watkins is a member of all the secret, fraternal and civic organizations in the city, trustee and treasurer of mother A. M. B. church, a member of the city's civic organizations and connections no doubt are responsible for his large acquaintance and business transactions in the city of Clinton, where he is on for the interest of his clients. His recent year had taxes reduced on more than 100 pieces of property without any taxation on the owners. Mr. Watkins has a large number of more than $1,400 per month and it is remarkable to know that he has the tenure and majority of all his tenants and believers in his service possible and the best consideration to all concerned, both tenants and landlords. Considering his hometown and the majority of our service that are coming into our city are making no mistake in going to him for real estate investment, he is fully equipped and qualified along his fina in the real estate business.
-
-## Donations to Provident
-
-On Friday evening, April 30, the Red Cross first aid classes under the auspices of the Red Cross first aid cla
-
-## Bailey to Preside
-
-M. T. Halley, 3638 Stato street, street president of the Alumni Association of the University of Pittsburgh to call out an urgent call to芦荟 states and former students of the institute to meet at Petersburg on the 27th of January, the annual meeting of the association and the commencement exercises. J. Thomas Newsome, graduate of the V. N. and the leading attorney of Vigilance on the address; President John M. Gandy will welcome the alumni and Mr. Halley will preside at this meeting. This is the first meeting of the meeting, and every member of the alumni is requested to be present.
-
 Prof. Huggins to Attend Nat. Assn.
 Dr. John M. Gandy, president of the National Association of Teachers in Education to the National Association of Teachers in Vocation to Prof. Willis N. Huggins, teacher of modern European history in the Chicago high schools, to address the need for its fourteenth annual session, to be held in Baltimore the latter part of July.
 Prof. Huggins will have charge of the section on "the study and teaching of Negro History," a group to be known as "The National Council of Teachers of Negro History," which will meet annually with the national commission. Prof. Huggins is also editor of "The Uprench Magazine," a journal of education and social work, which is dedicated to the promotion of the study and teaching of the history of our people.
 
-## Attends Races at Louisville
-
-Atlanta faces at Louisville
-Olive Knobble, 60 East 39th
-街, a street in Joule Jones,
-well known in nues, left the time
-to attend the Derby at Louisville, KY.
-After the Derby Mr. Knobble will
-his father at Nashville, Teum.
-
 ## Stopping at the Idlewild
 
-Mrs. Susie Sutton-Brown of the Tacafatec Players arrived in the city at wild hotel. Wild hotel. Several dimers and automobile drives have been planned for the "very popular in the" Windy City. Miss Alice Gorges is also at the Idlewild.
+Virginians to Entertain
 
-## Virginians to Entertain
+The public, as well as Virginians, are occasionally invited to attend the enterance by no Virginia Society. Wednesday evening at 12 noon, at Paley's Hall, 3638 Stuto street, Dr. W. B. Buchanan, the silver-tongued Miss from Smith, Mine, M. M. Willis and H. David Murray will take part in the program.
 
-The public, as well as Virginians, are cordially invited to attend the entertainment given by the Virginia Society, Wednesday evening, May 19, at 10:30 a.m. at the B. W. B. Buchanan, the silver tongororator; Miss Irion Smith, Mine, M. M. Milkins and H. David Murray will take part in the program.
+Mrs. Webb at Nashville, Tenn., M. Y. Webb, 4214 Wabash Avenue, is in Nashville, Tenn., at the side of her mother.
+
+Mrs. Susie Sutton-Brown of the Taytac Valley Players arrived in the city on Monday in a hotel in a wild hotel. Several dinners and a mobile drives have been planned for Mrs. Brown, who is very popular in the Whip quay. Miss Alice Gorgas is also at the idle wild.
 
 Odd Fellows' Sermon Sunday
-The Grand United Order of Odd Fellows hold their annual sermon Sunday at Quinn Chapel, A. M. E. Church. A dinner was given by the order at the People's Movement club house.
 
-Mrs. Webb at Nashville, Teen,
-Mrs. Willa F. Webb, 4214 Wabash
-avine, is in Nashville, Teen, at
-the bedside of her mother.
+The Grand United Order of the Fellows held their annual Order on Sunday at Quinn Chapel, A. M. E. Church Monday night a dance was given by the order at the People's Movement club house.
+
+ANY STYLE $348 PANTS NOW SEND NO MONEY
+
+MADE TO YOUR ORDER
 
 E make this SPECIAL OFFER this month to prove to Four Thousand more customers the
 
@@ -360,26 +360,66 @@ money, unless you are well pleased.
 
 Our offer will also show you how you can make a lot of money by taking orders from your relatives and neighbors. Roy Young made $7,500 that week and over $100,000 his first year. Get his own book about it, and learn how big my money can just in your square time, evenings, etc. Write today, with a kind of mind, and get complete book of 'test fashions, with free samples and full information. Send no money. Write for Free Samples Now. Address
 
-Our offer will also sh
-take orders from your
-$7.20 that week and over
-five more weeks.
-time, events, dates. Write
-and get complete book of
-mation. Send no Money.
-
-now you how you can make a lot of money by
-relatives and neighbors. Hey Young made
-$700.00 his first year. Get his own book about
-the art of handwriting in your square
-today—now while this is fresh, use
-tasteless, with free samples and full in-
-form-Write for Free Samples New. Address
-
 SHERIDAN A. BRUSEAUX, PRINCIPAL
 Walter St. Clair and Ernest Smith, Managers
 
-Providence Choir musicale, which have been and are now attracting country-wide attention on account of the most wonderful programs, large interiors and performances given by their musical patrons, will again, Sunday, present one of their programs. Judge B. Gray will issue the principal speaker. His subject is, What cerms Us Most! Poster Delaware, Pollinist, will play "Largo," from Xerox Hundefel, Prof. Chas. Elgur will play "Neaten, My God," from Trio, composed of Miss Magnolia N. Lowes, Della Banks and Priscilla Leo May, will sing "Jat Thino Eyes," from Chorus chorus, will sing "Neaten, My God," from
+REAL ESTATE DEALS
+H. A. Watking is one of the most progressive real estate brokers on the south side and is making a great num
+
+ber of sales to
+clients throughout
+the city, and the
+last few days he
+has just closed
+real estate transactions with law
+offices. B. Brown of Muskegon, Oka, Lawyer
+of Chippewa, formerly of Ikeagle, Oka; Oka; Perry Phillips, Bhilisng, Akh., Hingham, Ak., Homosha City, Okla.; Dr. D. P. Fugleah, Americus, Ga., Detroit, Mich., and
+Detroit, Mich. and
+
+[OCR timeout]
+
+## Donations to Provident
+
+On Friday evening, April 30, the Red Cross first aid classes under the auspices of the Red Cross first aid cla
+
+## Bailey to Preside
+
+M. T. Halley, 3638 Stato street, street president of the Alumni Association of the University of Pittsburgh to call out an urgent call to芦荟 states and former students of the institute to meet at Petersburg on the 27th of January, the annual meeting of the association and the commencement exercises. J. Thomas Newsome, graduate of the V. N. and the leading attorney of Vigilance on the address; President John M. Gandy will welcome the alumni and Mr. Halley will preside at this meeting. This is the first meeting of the meeting, and every member of the alumni is requested to be present.
+
+## Attends Races at Louisville
+
+Atlanta faces at Louisville
+Olive Knobble, 60 East 39th
+街, a street in Joule Jones,
+well known in nues, left the time
+to attend the Derby at Louisville, KY.
+After the Derby Mr. Knobble will
+his father at Nashville, Teum.
+
+## Virginians to Entertain
+
+The public, as well as Virginiaans, are cordially invited to attend the entertainment by the Virginia Society of the Arts. May the ballety's Hall, 3638 State Street, Dr. B. B. Buchanan, the silver-tongued orator; Miss Irona Mine, M. M. Millas and H. David Murray will take part in the program.
+
+Mrs. Webb at Nashville, Tenn,
+Mrs. Willa F. Webb, 4241 Walsh Avenue, is in Nashville, Tenn, at the bedside of her mother.
+
+```markdown
+
+```
+
+Quito 21-23-25
+129 E. 31st St.
+Chicago, Ill.
+
+[OCR timeout]
+
+[OCR timeout]
+
+Made of clear basswood lumber,
+Heavy steel covered, brass trimmed
+and glazed band and roomy top
+tray. Special price. No
+C. O. D. Name by math.
 
 Reliable Invest
 
@@ -403,12 +443,12 @@ experience of 25 years as mem-
 and Boston Stock Exchanges.
 offer to investors have been
 funds after careful investiga-
-gence of bonds, notes and pre-
+tion of bonds, notes and pre-
 % to 9% per annum. We
 ing any securities in which you
 er will be sent free of charge
 USTON & CO.
-ed 1895 -
+founded 1895
 
 # Reliable Investments
 
@@ -430,20 +470,31 @@ On sale in Chicago by William M. Huff, drugist, 4118 S. State St., Jackson & Fil
 
 WHY STARVE YOUR HAIR WHEN FOR 50 CENTS YOU CAN GET A JAR OF Percell's Hair Food
 
-INSTANT HAIR
-ERS FOR MEN
-commended by the Best Barber Shops
+OF INSTANT HAIR
+MERS FOR MEN
+
+Commanded by the Best Barber Shops
+
 Do you want your hair straight, soft
-safe, sure that a straightener that will
-yield your customers? Then use CA
+and as hard as hair? The best CLUTHA,
 will straighten the most stubborn, coarse
-straight to stay straight. Makes smooth
-Waters does not affect it. Wash the
-ax, enough to straighten 60 cpm.
-price 35c. The two together soft爽.
-masks for barbers and hairdressers buying
-Made only by
-ST. PHILADELPHIA, PA
+to stay straight. Makes smooth
+Water dresses. Wash the
+ax, enough to straighten 4 or
+as much as 35c. The two together sent
+any offers for barbers and hairdressers buying
+ax. Also only by
+
+SUTH ST., PHILADELPHIA, PA,
+BARBERS AND HAIRDRESSERS
+
+agmt. 4118 S. State St.; Harvey D. Sanders; 4730
+Davidson Bros. 39th; and Dearborn st.; L. F.
+Carson Bros. A. Mewbey, B. C. Mewbey st.; 6
+East 90th st.; I. Bryan, 18 West 90th st.;
+L. Bryan, 18 West 90th st.;
+Oxford Agents, Geo. B. Byrush, 536 Lancs
+st.; Oxford Agents, Geo. B. Byrush, 536 Lancs
 
 # CLIMAX KING of INSTANT HAIR STRAIGHTENERS FOR MEN
 
@@ -478,12 +529,26 @@ Illization." 85c. Albert
 Other good books worth reading.
 HAYES' BOOK STORE, 3640 STA
 
+BOOKS
+ASTROLOGY
+POSITION OF THE SCIENCE OF
+LOGY. 200 PAGES-$1.50
+Also
+Mosos, Magical Spirit-Art, Translated
+int Hebrew. 190 Pages-$1.50
+"The Black Man, Scribe of Civ-
+sic, Alberta Magnet." $1.50
+with reading. Book all money orders to
+E, 3640 STATE ST., CHICAGO, ILL.
+
 A COMPLETE EXPOSITION OF THE SCIENCE OF ASTROLOGY. 200 PAGEB- $1.50
 Also
 5th and 7th Books of Mosaic Magical Spirit-Art, Translated
 From the Ancient Hebrew. 190 PAGEB- $1.50
 Webb's famous books, "The Black Man, Father of Civilization," 86c. Alberta Magnet, $1.50.
 Brown, 1922.
+
+ALL AROUND THE TOWN
 
 The committee on national convention is making preparations for the reception and entertainment of delegates in building will be at the disposal of this committee during convention week, having accommodations can have been reserved for guest requests to the above committee, in care of Apomattox club, 3633 Grand bouloud. R. K. having accommodations for club will have reserved guest requests to the ab
 
@@ -499,11 +564,21 @@ The patrons of St. Mark Sunday Lycum on Sunday a mark ago were numerous in their
 
 137 S. La Salle St. Chicago. Tel. Central 8900.
 
-Quito 21-23-25
-129 E. 31st St.
-Chicago, Ill.
+```markdown
+
+```
+
+SATURDAY, MAY 15. 1920
 
 ## Little Rock Barber in City
+
+Steel Covered
+Double Locked Trunks
+32 inch at
+$13.25
+34 in. $13.75
+36 in. 14.25
+38 in. 15.25
 
 COMMERCE TRUNK CO.
 174 W. Van Buren St. Chicago
@@ -511,3 +586,9 @@ COMMERCE TRUNK CO.
 7 Wall Street,
 New York.
 Tel. Rector 3600.
+
+P
+
+II
+
+.

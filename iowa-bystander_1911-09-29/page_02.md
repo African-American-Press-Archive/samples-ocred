@@ -1,64 +1,64 @@
 Iowa State Bystander
-BYSTANDER F.U.R. CO., Publishers.
-DES MOINES, IOWA.
+BYSTANDER FUR. CO. Publishers.
+DES MOINES. IOWA.
 
-The auto can beat the old Gretta Green chase.
+The auto can beat the old Gretna Green chase.
 
 French experiments with an aero mail service may result in a drop in postage.
 
 Still, there is no pity for the poor baseball players, who are bought and sold like no many tube of butter.
 
-Perhaps the champion idiot, and criminal abstinent is the person who about "Fire!" in a crowded theater.
+Perhaps the champion idiot and criminal combined is the person who shouts "Fire!" in a crowded theater.
 
-What if the beef prices are going up? The doctors tell us that we have been eating too much of it anyway.
+What if the beer prices are going up? The doctors tell us that we have been eating too much of it, anyway.
 
 A New York young woman killed another with a hatpin, but the death was due to carrying concealed liquids.
 
-A Newark fan dreamed he was sliding for home—he bumped his head on the floor hard, and found he was home.
+A Newark fan dreamed he was sliding for home—he bumped his head on the floor home, and found he was home.
 
 A French scientist declares that the body rests more quickly after fast work, but even this is no excuse for the joy rider.
 
-Too many babies are killed by their guiding out loose window screens. It seems like a foolish waste of perfectly good babies.
+Too many babies are killed by their gaiting out loose window screens. It seems like a foolish waste of perfectly good babies.
 
-A Kentucky minister has figured out that the house in a structure 792,000 stories high. Let us hope that it has adequate elevator service.
+A Kentucky minister has figured out that heaven in a structure 792,000 storied high. Let us hope that it has adequate elevator service.
 
 Science, it is asserted, has solved the mystery of the Sphynx, but hardly anybody can solve the mystery of a boiled egg until after breaking it.
 
-A Chicago pastor says: "Wait until you are burning with it. No before me and then all out the fire department instead.
+A Chicago pastor says: "Wait until you are burning with an idea before putting笔 to paper." Yeah, and then call out the fire department instead.
 
-The bobolinks are flying toward the rice fields of Louisiana. This may mean an early fall and again it may simply mean that the birds are hungry.
+The bobolinks are flying toward the rice fields of Louisiana. This may mean an early tail and again it may simply mean that the birds are hungry.
 
-Laundrymen prefer Pittsburg as the scene of their convention in 1912. We want to watch laundrymen should have an affection for Pittsburg.
+Laundrymen prefer Pittsburgh as the scene of their convention in 1912. There are reasons why laundrymen should have an affection for Pittsburgh.
 
-"Is a chicken an animal!" must be decided by a judge at Paterson, N.Y. The half-dollar table dhole chicken is suspected of being a mineral.
+"Is a chicken an animal?" must be decided by a judge at Port Chester, N. Y. The half-dollar table doth chicken is suspected of being a mineral.
 
-In due time there will be angry farmers watching with shoqusins to keep some transcontinental rice from migrating in their cornfields with his aeroplane.
+In due time there will be angry farmers watching with shotguns to keep some transcontinental flies fromighting in their cornfields with his aerophone.
 
 A Rochester girl refused a young man twelve times because he smoked cigarettes, but not more than one girl in twelve would refuse a man once for that reason.
 
 One nice thing about an aeroplane race is that you can see the racers occasionally even if a tall man or a fat woman happens to be directly in front of you.
 
-The Frenchman who has succeeded in "photographing thought" has perhaps pointed the way to getting the truth from witnesses if it convenient to forget.
+The Frenchman who has succeeded in "photographing thought" has perhaps pointed the way to getting the truth from witnesses who find it convenient to forget.
 
-A college professor comes to the front to announce that vacations are dangerous. If he gets among a crowd of enraged vacationists he would find them even more so.
+A college professor comes to the front to announce that vacations are dangerous. If he got among a crowd of engaged vacationists he would find them even more so.
 
-A man in Atlantic City has advertised that he is lost. Why should he go to that trouble, when according to the statistics, the people there are in the same condition?
+A man in Atlantic City has advertised that he is lost. Why should he go to that trouble, when, according to some ministers, most of the people there are in the same condition?
 
-Up in Wisconsin a man dived into the water and caught a 22-pound muskellunge. Down in Texas they are killing mountain lions with sack knives. We need a frost.
+Up in Wisconsin a man dived into the water and caught a 22-foot Dingo in Texas; they are killing mountain lions with backknives. We need a frost.
 
-"Drop in and dine any day" will not be a fashionable invitation much longer if aviators take up the custom of dressing in the uniform of the people there are in the same condition?
+"Drop in and dine any day" will not be a fashionable invitation much longer if aviators take up the custom of dropping in through the roof as the one in Atlantic City did.
 
-Up in Wisconsin a man dived into the water and caught a 22-pound muskellunge. Down in Texas they are killing mountain lions with sack knives. We need a frost.
+The announcement that from 1,750-800 to 8,000,000 bacteria are contained in a cubic centimeter of ice cream must go unchallenged on our part for lack of time in verifying the figures.
 
-The announcement that from 1,750,000 to 8,000,000,000 bacteria are contained in a cubic centimeter of ice cream must go unchallenged on our part for lack of time in verifying the figures.
+A Boston girl of seventeen years old has become the bride of a Chaman. Perhaps she wants to be sure that it will never be necessary for her to do the family laundry work herself.
 
-There has been a revolution in Ecuador, but we have not been able to find our whether it was necessary or just irradiated in because the revolutionists felt the need of practice.
+There has been a revolution in Education that has not been able to find out whether it was necessary or just irradiated in because the revolution's felt the need of practice.
 
-Several cases have occurred of eyestrain threatened or lost by the incredibly long hot pin. Unless womens realise themselves that this is a constant and serious menace and restrict the general public from this dangerous nuisance.
+Several cases have occurred of eyeight threatened or lost by the inordinately long hot pain point. Unless women can realise themselves that this is a constant and serious menace and restrict their ability to swim, will have to be taken to protect the general public from this dangerous nuisance.
 
-A Chicago man has been bequeathed a million dollars on occasion that he will not drink or gobble until he is such a piece of that time of life.
+A Chicago man has been bequeathed a million dollars on condition that he will not drink or gamble until he is sixty. Pretty tough, to have to start such a pace at that time of life.
 
-This has been a summer of intense heat and violent storms. Rarely has lightning struck so often with such dire resumes and heavy downpours of rain have played havoc with crops in many ways the season has been so many ways the season has been so
+This has been a summer of intense heat and violent storms. Rarely has lightning struck so often with such dire results and heavy downpours of rain have played havoc with crops in many parts of the country. Locals have been unconscious, and in many ways the season has been over.
 
 # SOLD FOR $402,000
 
@@ -74,40 +74,68 @@ Escapes U. S. Marshal. Council Bluffs—United States Marshal Bidwell of Des Moi
 
 ## Seed Corn Roberts Released.
 
-Council Bluffs—Judge McMaherson, in federal court ordered the release of E. D. Roberts of Red Oak, charged with obtaining money illegally in the sale of seed corn. Roberts escaped prosecution in district court at Vinton on a technicality and his case attracted wide attention. The court scored Roberts, but dealt leniently with him.
+Council Bluffs—Judge McPherson,
+in federal court ordered the release
+of E. D. Roberts of Red Oak, charged
+with obtaining money illegally in the
+sale of seed corn. Roberts escaped
+prosecution in district court at Vinton
+on a technicality and his case attracted
+wide attention. The court secured
+Roberts, but dealt leniently with him.
 
 Finish Big Pack.
-Belle Plaine—The Belle Plaine Canning company has finished the pack of sweet corn for this season, putting up over 1,200,000 cans of fine corn, which is worth, and the canning company about $8,000, and took 650 acres of ground to grow.
+Belle Plaine—The Belle Plaine
+Canning company has finished the
+pack of sweet corn for this season,
+putting up over 1,200,000 cans of fine
+corn, which is worth to the canning
+company about $85,000, and took 650
+acres of ground to grow.
 
 Sues Iowa Central.
-Sheffield—a spark from an Iowa Central engine which is alleged to have caused the fire that destroyed the Hampton Electric Light and Power company's plant last spring is the basis of a suit brought by the lightning company against the railroad for $5,000 damages.
+Sheffield—A spark from an Iowa
+Central engine which is alleged to
+have caused the fire that destroyed
+the Hampton Electric Light & Power
+company's plant last spring is the
+basis of a suit brought by the light-
+ing company against the railroad for
+$9,500 damages.
 
-Iowa Girl to Marry Tess Nobleman.
-Sloux City—Miss Tess Davidson, daughter of Ben Davidson, a Sloux City merchant, will become the bride of Signor Alde de Zulilla de Vence, a member of the Italian nobility.
+Iowa Girl to Marry Nobleman.
+Sloux City—Miss Tess Davidson,
+daughter of Ben Davidson, a Sloux
+City merchant, will become the bride
+of Signor Alde de Zulfaune of Venice,
+a member of the Italian nobility.
 
 Rob Millinery Store of Plumes.
-Cedar Rapids, the thousand dollars' worth of willow women, such as are used to ornament women's hats, were stolen from the millinery store of F. W. Fisher here.
+Cedar Rapid—Nearly a thousand
+dollars' worth of wiltle plumes, such
+as are used in ornament women's
+hats, were stolen from the millinery
+store of F. W. Fisher here.
 
-Sloux City Pioneer Dead.
-Sloux City—Ferdinand Hansen, who was for forty years prominently connected with the business life of Sloux City, is dead of Bright's disease aged 74 years.
+Sioux City Pioneer Dead.
+Sioux City, Iowa. - Ferdinand Hansen, who was for forty years prominently connected with the business life of Sioux City, is dead of Bright's disease aged 74 years.
 
 Iowa Falls Grants Franchise.
-Iowa Falls—At a special election, F. O. Peterson, of Des Moines, was granted a twenty-five-year franchise for microlight air and heating plant here.
+Iowa Falls. - At a special election, O. F. Peterson, of Des Moines, was granted a twenty-five-year franchise for an electric light and heating plant here.
 
 Jared Ham Disappears.
-Iowa City—Jared Ham, 55 years old, retired business man, has disappeared. He is said to have had $2,000 with him when he last was seen.
+Iowa City. - Jared Ham, 55 years old, retired business man, has disappeared. He is said to have had $2,000 with him when he last was seen.
 
 Christian Endeavor at Oskaloosa.
-Oskaloosa—There were 200 delegates present at the twenty-fifth annual convention of the State Society of Christian Endeavor at the Christian church here. Rev. H. E. Van Horn of Des Moines delivered his annual address.
+Oskaloosa. - There were 200 delegates present at the twenty-sixth annual convention of the State Society Christian Endeavor at the Christian Church here. Reh H. E. Van Horn of Des Moines delivered his annual address.
 
 Wealthy Farmer Killed By Cow.
-Moorehead—Thomas Parrin is dead from the effects of a kick from a cow received two weeks ago. He was 70 years of age and owned 1,500 acres of land.
+Moorehead. - Thomas Parrin is dead from the effects of a kick from a cow received two weeks ago. He was 70 years of age and owned 1,500 acres of land.
 
-Class Scrap Hurra Three.
-Iowa City—The sophomore-freshman pushball clash here resulted in the following injuries: C. N. Morse of Nevada, torn ankle; Irving Oliver of Bigourney, wrenched knee cap; Avery Warren of Iowa City, broken nose. The sophomore class won.
+Class Scrap Hurts Three.
+Iowa City. - The sophomore-freshman pushball clash here resulted in the following injuries: C. N. Morse of Nevada, torn ankle; Irving Oliver of Silignerney, wrenched knee cap; every Warren of Iowa City, broken nose. The sophomore class wom.
 
-Forward Movement Started.
-Cedar Rapids—The Men and Religion Forward Movement in which campaign this city is the center, formally was inaugurated here with a hamster at which 100 men were present.
+Cedar Rapids.-The Men and Religion Forward Movement in which campaign this city is the center, formally was inaugurated here with a banquet at which 106 men were present.
 
 Charges Bad Management?
 Des Moline, F., M. Darner, of Ames, a member of the board of directors of the Homesteaders' lodge, has filed written charges accusing George A. Young, supreme president, of insulting government records with irregularities in the management of the affairs of the lodge. The state actuaries, Harry Winston and George Fairley, are making an examination of the financial affairs of the company.
@@ -145,37 +173,46 @@ Entrance. — The stamps were gained through a window. The stamps were found on 
 
 Heavy Loss By Lightning.
 
-Mason City — A loss of $5,000 incurred here by Northwestern railroad when lightning destroyed an ice house, consuming the building with two passenger coaches, a caboose and several cars.
+Mason City.—A loss of $5,000 incurred here by Northwestern railroad when lightning destroyed an ice house, consuming the building with two passenger coaches, a caboose and several cars.
 
 Will Meet Next Month.
-Eldora — The Iowa Library association will meet for a ninety-second annual session at Mason City, Oct. 10 to 12. A strong program is rounded out and will be announced soon.
+Eldora.—The Iowa Library association will meet for its twenty-second annual session at Mason City, Oct. 10 to 12. A strong program is being rounded out and will be announced soon.
 
 Cuts Throat With Dagger.
-Eagle Grove — A man giving his name as Charles Stevens, was found near death in the railroad station at Woolstock. His throat was cut, and a dagger lay beside him on the floor.
+Eagle Grove.—A man giving his name as Charles Stevens, was found near death in the railroad station at Woolstock. His throat was cut, and a dagger lay beside him on the floor.
 
-Falls Fifty Feet From Scisself.
-Boone — Thomas Jones was fatally injured while painting at the machine shops of the Chicago & Northwest railway. He fell fifty feet, fracturing his skull. He is 24 years old.
+Falls Fifty Feet From Scissort.
+Boone.—Thomas Jones was fatally injured while painting at the machine shops of the Chicago & Northwestern railway. He fell fifty feet, fracturing his skull. He is 24 years old.
 
 Sues Auto Owner For Damages.
-Newton — D. J. Wilson, a gardener, has sued Elli Swilbert for $10,000 big and small auto frightened Wilson's horse, causing a runaway and personal injuries.
+Newton.—J. D. Wilson, a gardener, has sued Ell Swirtor for $10,000 damage because his auto frightened Wilson's horse, causing a runaway and personal injuries.
 
-Pythias Grand Lodge Meets.
-Dubuque — The grand lodge Knights of Pythias will meet here this week and for the first time in years there promises to be harmony in place of warring factions.
+Pythias Grand Lodge Mests.
+Dubuque.—The grand judge Knights of Pythias will meet here this week and for the first time in years there promises to be harmony in place of warring factions.
 
-Relligious Movement.
-Clinton — A new men and religion forward movement was started at a big meeting at the Y. M. C. A. addressed by Dr. J. A. Marquis of Coe college.
+Religious Movement.
+Clinton—A new men and religion formation movement was started at a big meeting by the Y. M. C. A. addressed by Dr. J. A. Marquis of Coe college.
 
 No Change In Strike Situation.
-Oakulosa — There is practically no change in the strike situation at the Excelsior coal mines and company officials say that there will be no change on their part. The work at the mine probably will be suspended indefinitely.
+Oaklandsoo—There is practically no change in the strike situation at the Excelsior coal mines and company officials say that there will be no change on their part. The work at the mine probably will be suspended indefinitely.
 
 Fatally Shot By Veteran.
-Davenport — James Kane, 48, was shot and probably fatalized by Charles Owen, 70, a civil war veteran and a hermit who lived in a shack near the outskirts of town.
+Davenport—James Kane, 48, was shot and probably fatally injured by Charles Wen, 70, a civil war veteran and a hermit who lived in a shock near the outskirts of town.
 
-Widow Sues for $20,000.
-Dubuque — Claiming damages in the sum of $20,000 for the loss of her husband, Daniel Bergman, his widow has started suit against the Union Electric company. Deceased was an employee of the company.
+Widow Sues For $20,000.
+Dubuque—Claiming damages in the sum of $20,000 for the loss of her husband, Daniel Bergman, his widow has started suit against the Union Electric company. Deceased was an employee of the company.
 
-Presbytery Goes to Toledo.
-Mason City — The Waterloo Presbytery in session here since Monday selected Toledo as the next place of meeting. A young people's conference is to be established probably at Clear Lake.
+Preembryo Go To Toledo.
+Mason City—The Westport Prebriery in session here on Monday selected Toledo as the next place of meeting. A young people's conference it to be established probably at Clear Lake.
+
+BOUND IN FULL MOROCCO
+
+FRANCE
+GERMANY
+
+MOROCCO EUROPEAN HISTORY
+
+BALTIMORE AMERICAN.
 
 They Can't Yet Agree Upon How the Pages Between Them Should Be Written.
 
@@ -183,27 +220,36 @@ YOUNG WOMAN SUSPECTED OF CAUSING DEATHS OF PAR-ENTS AND TWO SISTERS.
 
 ## IS HELD ON MURDER CHARGE
 
-Police Declare Southern Girl Polished Her Relatives to Obtain Life Insurance Which Had Been Made Out in Her Favor.
+Police Declare Southern Girl Polonized Her Relatives to Obtain Life Insurance Which Had Been Made Out in Her Favor.
 
-New Orleans.-Miss Annie Crawford, a beautiful and prominent young woman, is under arrest here accused of poisoning her father, her mother and her two sisters.
+New Orleans—Miss Annie Crawford, a beautiful and prominent young woman, is under arrest here accused of poisoning her father, her mother and her two sisters.
 
-The latest victim of the alleged modern Lucrecia Borgia was Elsie Crawford, a young woman, who died on September 23. A postmortem examination revealed a large quantity of opium in the girl's stomach.
+The latest victim of the alleged murder of Borg was Elsa Crawford, aged two-three, a sister of Annie, who died on September 23. A postmortem examination revealed a large quantity of opium in the girl's stomach.
 
 When the accused girl was taken into custody and told of the charge against her, she faced her accusers calmly, merely remarking with a smile: "Very well."
 
-The police declare that Annie Crawford, who is twenty-five years old, killed her parents and her sisters to get life insurance which had been poisoned. They said that several days before Elsie died under mysterious circumstances she called at headquarters and told the authorities that her sister had poisoned the dead members of the family to get their insurance. At the time the police paid little attention to the girl's story. As her death followed closely upon the visit, however, the authorities at once became active. The girl's body was exhumed and the surgeons found enough opium in her stomach to kill half a dozen.
+The police declare that Annie Crawford, who is twenty-five years old, an Amish Borg, and her daughter to get life insurance which had been made out in her favor.
 
-Younger surviving sister of the alleged murderer sought the protection of the police after Elsie died. She also declared, the police say, that she knew Anna intended to kill all the family to obtain insurance.
+They said that several days before Elsa died under mysterious circumstances she called at headquarters and told the authorities that her sister had poisoned the dead members of the family to get their insurance. At the time the police paid little attention to the girl's story. As her death followed so closely upon the visit, however, the authorities at once became alarmed. The girl's body was examined and the situation found enough opium in her stomach to kill half a dozen men.
+
+A younger surviving sister of the alleged murderer sought the protection of the police after Elsei died. She also declared, the police say, that she knew Annie intended to kill all the family to obtain insurance.
 
 Signboard and Fog Obstruct View and Engine Plugges Into Vehicle Carrying Young People.
 
 Neenah, Wis.—Twelve persons were killed outright, one injured so badly he died within an hour, and nine others were seriously injured, four probably fatal, all members of a hay rack party, when a north-bound Northwestern passenger crashed into the vehicle at the Commercial street crossing here.
 
-Nine occupants on the wagon, including the driver, escaped with slight injuries. Two of the victims were Chicagoans, the remainder of the party being residents of Menasha. The victim's arms were returning from the Peter Hanson farm, three miles outside of Neenah, where they had gone ten hours previous to attend the celebration of a wedding anniversary and dance.
+Nine occupants o. the wagon, including the driver, escaped with slight injuries. Two of the victims were Chicagoans, the remainder of the party being residents of Menasha.
 
-Hoop Skirt Seen in Paris, France—The first of the hoop skirts, which have been revived by the Paris modifiers, has appeared on the street here. The wearer of the crinoline gown was followed by a crowd of the curious.
+The victims of the crash were returning from the Peter Hanson farm, three minutes away from Neenah, they had gone ten hours previous to attend the celebration of a wedding anniversary and dance.
 
-Appeal for Henry Beatty, Richmond, Va.—An effort is being made to obtain a commutation of the death sentence imposed upon Henry Clay Beatty, Jr., for the murder of his wife on the Midlothian turnip on the night of July 18. If the appeal to the supreme court for a new trial should not be successful, it is stated that several of the jurors who tried and convicted Beatty were approached with a view to getting their signatures on the petition for commutation, but that all refused to consider the proposition.
+Hoop Skirt Seen In Paris.
+
+Paris, France.—The first of the hoop skirts, which have been revived by the Paris modifiers, has appeared on the street here. The wearer of the crinoline gown was followed by a crowd of the curious.
+
+Appeal for Henry Beattie.
+Richmond, Va.—An effort is being made to obtain a commutation of the death sentence imposed upon Henry Clay Beattie, Jr., for the murder of his wife, on the Midlothian turnip on the night of July 18. If the appeal to the supreme court for a new trial should not be successful, it is stated that several of the jurors who tried and convicted Beattie were approachable, in order to getting their signatures on the petition for commutation, but that all refused to consider the proposition.
+
+Hanoi Stevens of Belgrade
 
 higher lawyer of Stolypin.
 Klava, Russia — Dmitry Bogrof, the assassin of death Stolypin, who was condemned to death by court-martial, was hanged here. His execution he asked that he might rabbl, but refused this consolation when informed that the interview must be in the presence of officials.
@@ -216,17 +262,21 @@ Dutch States is Giving. Liverpool — The Dutch minister of foreign affairs, Jek
 
 REORGANIZATION SCHEME OF TOBACCO COMBINE AGREED TO
 
-Petition to Be Put Up to Federal Court Following a Meeting With Attorney General Wickersham.
+Petition to be Put Up to Federal Court Following a Meeting With Attorney General Wickersham.
 
 New York—Attorney General Wickersham attended a conference on the plans for the reorganization of the American Tobacco company.
 
-After the conference it was announced that a petition would be filed with the United States circuit court on October 2 setting forth the proposed plan of dissolution in consonance with the mandate of the Supreme court and that public hearings on the plan Wickersham was asked if the plan outlined was one of dissolution.
+After the conference it was announced that a petition would be filed in the State of Illinois circuit court on October 2 setting forth the proposed plan of dissolution in consonance with the mandate of the Supreme court and that public hearings on the plan would follow.
+
+Mr. Wickersham was asked if the plan outlined was one of dissolution.
 
 "I should prefer to call it one of disintegration," he said.
 
-In response to many inquiries regarding the possible prosecution of the United States Steel corporation, Attorney General Wickersham issued a statement in which he emphasized the position of his department that investigation of a corporation does not necessarily imply that disintegration will be taken cannot be determined until the investigation has been completed, since each case stands on its own foot and depends upon the particular facts. In conclusion he said:
+In response to many inquiries regarding possible prosecution of the United States Steel corporation, Attorney General Wickersham issued a statement in which he emphasized the position of his department that investigation of a corporation does not necessarily imply that disintegration will follow. What steps will be taken cannot be determined until the investigation has been completed.
 
-"It cannot be stated too positively that the department is not inaugurating a campaign against the business interests of the country or an indiscriminate attack on all large prosperous concerns. On the contrary, the care and caution with which the law protects the government will beceeding to the examination of each case should be a guarantee to the country that the department is proposing to enforce the law with cars not to unnecessarily injure any interests."
+The department depends upon the particular facts. In conclusion he said:
+
+"It cannot be stated too positively that the department is not inaugurating a campaign against the business interests of the country or an indisputable concern of the government. On the contrary, the care and caution with which the law officers of the government are proceeding to the examination of each case should be a guarantee to the country that the department is proactive and will not not to unnecessarily injure any interests."
 
 Member of Staff of Virginia's Chief Executive Shot and Killed on Lovington Street.
 
@@ -278,116 +328,98 @@ The soldiers were loaded on Italian transports at Palermo, but so stringent is t
 
 Cabinet Official Says He and President Agree on Conservation of Public Domain.
 
-Kansas City.—"I have just come from Hutchinson, Kan., where I had a long conference with President Taft relative to the policy of my department," said Walter L. Fisher, secretary of Conservation, addressing the National Conservation congress here. I find that his views and mine relative to the conservation of the public domain are in complete accord.
+Kansas City.—"I have just come from Hutchinson, Kan, where I had a long conference with President Tatterson to the police in the department," said Walter L. Fischer, secretary of the interior, addressing the National Conservation congress here. "I find that his views and mine relative to the conservation of the public domain are in complete accord."
 
-"We especially discussed the Alaskan situation, and found that we agree completely on a policy for that much-misrepresented country.
+"We especially discussed the Aixan situation, and found that we agree completely on a policy for that much-misrepresented country.
 
-"My idea of the proper conservation is a wise development of all the natural resources in the public interest which recognizes the rights of all."
+"My idea of the proper conservation is to ensure that the natural resources in the public interest which recognizes the rights of all."
 
-The following officers for the National Conservation congress were elected without opposition; President J. B. White, Kansas City; Secretary Thomas R. Shipp, Washington, D. C.; treasurer D. Austin Latchow, Kansas City.
+The following officers for the National Conservation congress were elected without opposition: President, J. B. White, Kansas City; secretary, Thomas R. Shipp, Washington, D. C.; treasurer, D. Austin Latchaw, Kansas City.
 
-Italy Takes Carnegie Gift.
+Italy Take Carnegie Gift.
+Rome, Sept. 28.—Andrew Carnegie's offer of $750,000 to a hero fund for Italy was accepted by Emmanuel. A committee to have supervision of the fund has been appointed.
 
-Rome, Sept. 28—Andrew Carnegie's offer of $700,000 to found a hero fund for $700,000 to found a hero
+Gesee Gather Golden Grub.
+Santa Barbara, Cal., Sept. 28.—Thirty gold nuggets, some as large as pea, were taken from the crabs of six geese raised by Mrs. Israel Altschul of this city.
+
+Suydam is Given Decrees.
+New York—Walter Lispenand Suydam, Jr., the young millionaire of Blue Point, L. L, was granted an interlocutory decree of divorce against White Suydam, who several weeks ago eloped with Frederick Noble, a plumber's son.
+
+Gladstone Kin to House.
+London—William G. Gladstone, a grandson of William E. Gladstone, was elected to the house of commons from Kilmarnock-Burghs, to succeed the late Dr. A. R. Rainy, a liberal.
+
+Fire on Fishing Boat Fatal.
+Seabright, N. J. - Puma, escaping from a gasoline tank into the cabin of a motor launch caused the death of William R. O'Connell of New York and may cause the death of William Hopkins of Sheepshead Bay, who was rescued.
+
+Stonewall Jackson's Sister Dies.
+Buchannon, W. Va—Mrs. Laura J. Arnold, the "stonewall" Jackson, is dead at the city hospital. Mrs. Arnold was eighty-five years old.
 
 SECRETARY FISHER AND SENA
 TOR BRISTOW HAVE TILT AT
 HUTCHINSON, TILT.
 
-Cabinet Officer Attacks "Demagogic Progressives" and Drawe Warm Retort From Kansan, Who Says Insurgent Flight Will Continue.
+Cabinet Officer Attacks "Demagogic Progressives" and Drawe Warm Retort From Kannan, Who Says Insurgent Flight Will Continue.
 
-Hutchinson, Kan—An unlooked-for incident that thrilled the thousands in attendance at the state fair grounds, came at the close of what had been a non-partisan celebration of Kansas fifteen anniversary of her birth, in which President Taft had participated.
+Hutchinson, Kan.—An unlooked-for incident that thrilled the thousands in attendance at the state fair grounds, came at the close of what had been a non-partisan celebration of Kansas' fifth anniversary of her birth, in which President Taft had participated.
 
-Walter L. Fisher, secretary of the interior, just back from Akaka, made a three-hour speech in which he said he would discuss the difference between tween "real progressives of the mid-niele of the road type like Mr. Taft" and "hypotrical, demagogic progressives who oppose every practical progressive policy put forth."
+Walter L. Fisher, secretary of the interior, just back from Alaska, made a three-minute speech in which he said some things about the difference between "real progressives of the middle of the road type like Mr. Taft" and "hypocritical, misguided progressives who were purely practical progressive policy put forth." Senator Joseph L. Britton, who is surrendered to rank second only to Senator La Follette of Wisconsin among the progressives, followed Secretary Fisher and quickly took up the challenge.
 
-Senator Joseph L. Bristow, who is considered to rank second only to Senator La Follette of Wisconsin among the progressives, followed Secretary Fisher and quickly took up the challenge.
+An address by the secretary was not down on the program, but it furnished the most interesting feature of the day. When he arose and faced the big crowd Mr. Fisher was silent for fully a minute. Then he said slowly: "I am one of those that count myself a progressive."
 
-An address by the secretary was not down on the program, but it furnished a new feature of the day. When he arose and faced the big crowd Mr. Fisher was silent for fully a minute. Then he said slowly: "I am one of those that count myself a impulse."
+He was interrupted by applause. "I am a progressive," he recumed, "and I believe in true progressiveness and not in hypocritical or demagogic progressives who declare for a progressive policy and then oppose every practical progressive measure put forth.
 
-He was interrupted by applause.
+"When President Taft said he was trying to keep in the middle of the road the other day, I believe he meant what he said, and I believe that you believe he meant what he said. I am that kind of a progressive. My friends, you should judge men not by what they say, but by what they do." Director Sibelson was introduced by Governor Stubba, and was loudly cheerful.
 
-"I am a true progressive," he resumed, and I believe in true progressiveness and not in hypocritical or demagogic progressives who declare for a progressive policy and then oppose every practical progressive measure put forth.
+"We of Kansas, he said, "may at times have been accused of acting before we thought, but we always have had the courage to contend for what we believed was right, and we have worked out right here in this state the greatest moral civilization in the world.
 
-Senator President Taft said he was trying to keep in the middle of the road the other day. I believe he meant what he said, and I believe that you believe he meant what he did. I am that kind of a progressive. My friends, you should judge men not by what they say, but by what they do."
+"We are always willing to grant that the other fellow in honest in his work we are honest in ours. that we are honest in ours. I want to say to President Taft and to Secretary Fisher right now, that in working out the problems that confront us, we of Kansas will have our part and have our say to the end that there shall be equal justice to all and special privilege to none."
 
-Senator Bristow was introduced by Governor Stubba, and was loudly cheered.
-
-"We of Kansas," he said, "may at times have been accused of acting before we thought, but we always have had the courage to contend for what we believed was right, and we have worked out right here in this state greatest moral civilization in the world.
-
-"We are always willing to grant that the other fellow is honest in his views, and we expect him to grant that we are honest in ours. I want to say to President Taft and to Secretary Fisher right now, that in working out the problems that confront us, we of Kansas will have our part and have our say to the end that there shall be equal justice to all and special privilege to none."
-
-Both Secretary Fisher and Senator Bristow were loudly applauded. The strong seem to appreciate the verbal service of the practice of justice by the junior Kansas senator that while he was participating freely and gladly in the welcome to President Taft in this state, there was to be no let up in the factional fight as soon as the president had left the commonwealth.
+Both Secretary Fisher and Senator Bristol were loudly applauded. The throng seemed to appreciate the verbal passage at arms and the practical actions of the president. Kansas senator that while he was participating freely and gladly in the welcome to President Taft in this state, there was to be no set up in the factional fight as soon as the president had left the commonwealth.
 
 ## MADISON EULOGIZED BY TAFT
 
-President Pays Tribute to Dead Cen-
-gressman at Kansas Semi-Cen-
-trennial Celebration.
+President Pays Tribute to Dead Cressman at Kansas Semi-Centennial Celebration.
 
-Hutchinson, Kan.—The celebration
-here of the fifteenth anniversary of the
-birth of the state of Kansas was
-made notable by the presence of
-President Tatt.
+Hutchinson, Kan.—The celebration here of the fifteenth anniversary of the birth of the state of Kansas was made notable by the presence of President Taft.
 
-He delivered an address at the fair
-greetings and be heard by an im-
-mense crowd of people, thousands
-coming from the surrounding town
-and country.
+He delivered an address at the fair grounds and was heard by an immense throng of people, thousands coming from the surrounding towns and country.
 
-In opening, Mr. Tatt paid a grace-
-ful tribute to the memory of the late
-Representative E. H. Madison, through
-whom had come his invitation
-to speak at Hutchinson. He said:
-"His death was a great shock to
-me, as I doubt not it was to his fole
-citizens. I had not known him
-long nor can I say that I knew him
-intimately, but I knew him
-enough to know the strong qualities
-of his mind and heart, his judicial
-inset, his intense desire to be fair,
-and his perceptions of the law
-as a jurist, and his level-headedness
-as a legislator."
+In opening, Mr. Taft paid a graceful tribute to the memory of the late Representative E. H. Madison, through whom had come his invitation to speak at Hutchinson. He said:
+
+"His death was a great shock to me, as I doubt not it was to his fellow citizens. I had not known him long nor can I say that I knew him intimately, but he knew well what he was through the strong qualities of his mind and heart, his judicial instinct, his intense desire to be fair, and his clear perceptions of the law as a jurist, and his level-headedness as a legislator."
 
 Morocco Affairs is Settled.
-Paris—Germany has decided to accept the French proposal for the settlement of the Moroccan question.
-This information was communicated
-to the French ambassador to Herli-
-m, M. Cambon, by Herr von Kilderl-
-nzechter, the German minister of
-foreign affairs.
+
+Paris—Germany has decided to accept the French proposals for the settlement of the Moroccan question. This information was communicated to the French ambassador to Heril M. Cambon, by Herr von Kilderlin Waechter, the German minister of foreign affairs.
 
 Former Governor Proctor is Dead.
-Proctor, Vt.—Former Gov. Fletcher
+Proctor, Vt.—Former Governor Fletcher
 D. Proctor of this state died at his
 home here after a protracted illness.
 Mr. Proctor was born November 7,
-1880, and was a son of Reddief尔
-Waechter, the German minister of
-foreign affairs.
+1880, and was a son of Redfield Proctor,
+ten years United States senator
+from Vermont.
 
 Will Head Texas Central.
 St. Louis—A. A. Allen, president of
 the Missouri, Kansas & Texas railroad,
 is to be elected president of the Texas
-Central, according to reports in rail-
+Central, according to reports in rail
 road circles.
 
-Bank of Egypt Quills.
+Bank of Egypt Quits.
 London, England—The Bank of
 Egypt, Limited, has suspended
-payment. In a notice to depositors
-the directors say that advises from Egypt
+payment. In a notice to depositors the
+directors say that advises from Egypt
 make it apparent that the bank can
+not provide sufficient cash to meet
 current obligations, and the company
-will file a liquidation petition.
+will file a Liquidation petition.
 
 Mother of Jeffries Dies.
 Los Angeles, Cal.-Mrs. Alexis R.
-Jeffries, mother of Jim Jeffries,
+Jeffries, mother of Jim Jeffries, the
 champion heavyweight pugilist of the
 world, is dead of cancer.

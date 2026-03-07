@@ -1,5 +1,7 @@
 # LATE STATE NEWS
 
+SATURDAY, APRIL 12, 1924
+
 Miss. Bessie Springs of Charlotte, N.C., is the co-guide of Dr. and Mrs. W. Elm Stok, N.C., in the public schools at Wilson, N.C. in the public schools at Wilson, N.C. in the week-end in the city with her parents in the public schools. Mrs. W. Elm Stok is a sister of Mrs. W. Elm Stok is a si
 
 ## GASTONIA N.C.
@@ -98,7 +100,9 @@ New York, April 11—A steady downward trend of all miami temperatures in game a
 
 ## [ADVERTISEMENTS]
 
-MUCHISON FAMILY — I am trying to trace the names of the parents, name, mother, carl; mother, Tess; mother, name, mother; mother, carl; mothe
+[OCR timeout]
+
+LOUISIE LISSEMBY—Any person knowing the whereabouts of Louisie Lissemby kindly offers her phone number 471. Indiana Ave. Chicago, Ill., or phone number 471. Very hard news for her.
 
 ## ORITUARY
 
@@ -111,6 +115,8 @@ P.O. Box 5458. He was a loving bedside
 girl and a devoted father. He was a
 member of F. and member of the Rancher Co. No. 1,
 F. and member of the Rancher
+
+THE CHICAGO DEFENDER
 
 ## CARD OF THANKS
 
@@ -386,31 +392,25 @@ Want to exchange a t
 
 ## HAIRDRESSING
 
-Haldresteral, amputating, musculus, tearing,
-tearing, tearing, tearing, tearing,
-We teach the course by mail. Dijelgues has
-ENERGYIC WOMEN, START A HAIR,
-dressing business right in your own bome
-of business. Start with a haircut,
-the trade and supply everything. The
-trade and supply everything.
-C. F. Co, M. F. Co, P. O. Co,
-418, Portland, Oregon
-
-## FORMULAS
-
-FRECKLES, PUPPLES, BLACK SPECKS, or
-PLENI WOMEN, WILL SEND YOU
-THREE PORCHEES FOR FENTES.
-
-A. W. STANIS, N.A.
-NADIAC STAD, WILHLANDPURLA, PA.
-
-ANTIQUE BRASS, BEST
-ANTIQUE air髹器, $6.00. Earn more
-formula free with each order. Bateor
-No. 20 Gobble, Gate ave., San Francisco,
-CA.
+Hairdressing, shampooing, usurpeting, cosmetics,
+make-up. We teach you how to book a
+We teach you how to book a mail. Diplomas given.
+Acresta wanted.
+WOMEN, START A HAIRDRESSING
+dress business in your own home.
+make up or more per week. We teach you
+how to dress. Address Lounge Mfg. Co. P. O. B.
+418, Portland, Oregon.
+FORMULAS
+FRENGELS, PUMPES, BLACK SPECS, OR
+FLEISH WOMEN. I WILL SEND YOU
+TWO FORMULAS for 60 cents.
+A. W. STAMBS.
+PHILADELPHIA, PA.
+ANTI-KINK IMPROVED FORMULA, BEST
+formula free with each order. Baton Nov.
+20 Golgen Gate, Ave. San Francisco,
+Ct.
 
 ## MONEY TO LOAN
 
@@ -435,6 +435,8 @@ FOR DECORATING CALL C. ELLIS, 3650
 B. State, Bc
 
 cc cc
+
+## FORMULAS
 
 ## AGENTS WANTED
 
@@ -490,34 +492,13 @@ STRICTLY PURE, FRESH
 
 # HERBS
 
-FULL DIRECTIONS ON EACH BOOK. 120 European John the Conqueror. Master of the European John the Conqueror. Master of the European John the Conqueror. Gim. Dragon's Sea. Spirit Queen's Sea. Gim. Dragon's Sea. Spirit Queen's Sea. Blood Host. Bush Leaves. Caius Root. Blood Host. Bush Leaves. Caius Root. Herb Petal. Dark Oak林. Solomon Seal. Herb Petal. Dark Oak林. Solomon Seal. Your complete assignment of herbs, books, and send for our. We wholesale herbs in La-Herb Agency. 2804 Cottage Grove ave. NE.
+[OCR timeout]
 
-FREE! FREE! FREE!
-
-$15 AGENTS OUTTIF FREE
-To make your outfit free. We make a week and up. Our line works on its own. Just just. Be the first in your territory. All we ask you to pay is package and packing.
-
-$15 AGENTS OUTTIF FREE
-BINE SALES AGENCY
-4225 VINCENNE AVENUE. CHICAGO, IL.
-
-TAILORING SALESMEN
-$6 TO $7.50 PROFIT
-on each order in advance.
-
-Also extra bonus. Weekly profit. $75 to $150 selling our all-wool tailor to company.
-
-CHICAGO TAILORING CO.
-242 S. Dearborn St. CHICAGO, IL.
-
-ALL THE CLOSER WE LOAN WOMEN WANTED—TO WEAR THE LATENT agent in short time: his profile. W write quick notice to be interviewed. Dept. C. Tyton & Co. Perform arts.
-
-ALL THE CLOSER WE LOAN WOMEN WANTED—TO WEAR THE LATENT agent in short time: his profile. W write quick notice to be interviewed. Dept. C. Tyton & Co. Perform arts.
-
-REPRESENTATIVES WANTED—WITH OUR high grade calling and business cards: monogrammed stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc. M: demi-morganized stationery, etc.
-
-WANTED A SALESLABY IN EVERY TOWN
-In the U. S. to insure a美丽 line of business and proposition and be the first to win. James E. Proposition and be the first t
+WANTED—A SALSALESMIST IN EVERY TOWN
+WANTED to be in position in admissions. Write
+for proposition and be the first to win. James E.
+Harrison, 34, of Boca Raton, FL. WANTED WORKS
+WANTED WORKS. WORKS. WORKS.
 
 be our factory agent; be our square dime maker; sample filter; firmware; no capital or interest; He Co.-Co. 2706 Dollet St. Ohio & Hubber Co. 2704 Dayton, Ohio.
 AQUISITIONS-OUR SOLUTION AND TOLLAR ALLOWANCE-our customer service offer. He-No Co.-Co. 2706 Dollet St. Ohio.
@@ -556,10 +537,6 @@ bureau, work, court reporting work, doctor's
 evalving classes, 3100 Ida Ave. Georgetown,
 instructor. Phone Oakland 4446.
 Training College, 882 SQA lane, N. Ave.
-
-BIBLE TRAINING BY MHJ - THE RETIREE
-Bible Store, Stoge, 052 0ak Lake ave. N,
-Milpitas, CA 92032
 
 Iron Mountain, Mich., and Wisconsin Heights, Wis.
 
@@ -625,36 +602,9 @@ heat, all rooms off firewall; concrete
 floor; clear, $5,000; cash $2,500; balance
 $1,400; cash $2,500; balance $1,400;
 
-BE A NEAR-CHICAGO TRUCK FARMER
-REACTIONS ON 80 miles from Chicago
-countryside runs all the way—ideal for truck
-work, suitable for rugged any kind of
-vehicle, suitable for riding on a few hundred
-and several hundred dollars per acre on pick-
-ing land, or a few hundred dollars per acre
-on the land but for a few hundred dollars
-per acre purchased from near dealers. The
-area is the ten acres in land is only $2,000.
-The land is $2,000 per acre. You can pay
-small monthly payments. Here is its own
-small monthly payments. Don’t pay any money. If interested
-participate in the Adams Box 24, Chicago De-
-partment.
-THEY LIVE YOU! You should always
-lot in the new near Chicago summer resort
-place. You can buy your lot now, your
-vacation in the country, set close to
-the second, because it is exclusive. Only
-cable box lot. Third, because you can buy a
-bay lot. Fourth, because it is only a quarter
-Fourth, because it is only a quarter where
-a parcel is available. Don't think it would be wise to
-secure your lot now? Address for full in-
-formation.
-CHANCE OF YOUR LIVE
-Buy brick, west side, good neighborhood,
-reduction on each monthly payment. Under
-reduction on each monthly
+[OCR timeout]
+
+[OCR timeout]
 
 ## FLATS FOR RENT
 
@@ -674,6 +624,8 @@ fifth, E166. Call at once at Radio Head-
 band, Camera Company, 119 N. Dear-
 ness, Battery Company, 119 N. Dear-
 ness.
+
+PAUL ELEYEN—PART ONE
 
 # GOOD LUCK HERBS
 

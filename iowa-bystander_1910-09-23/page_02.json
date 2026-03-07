@@ -3,26 +3,61 @@
   "image": "images/page_02.jpg",
   "width": 1817,
   "height": 2519,
+  "processed_at": "2026-03-07T02:51:34.576479+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 176,
+    "after_merge": 63
+  },
   "regions": [
     {
       "bbox": [
-        132,
+        126,
         189,
         358,
-        227
+        746
       ],
       "label": "text",
-      "text": "BYSTANDER PUB. CO. Publishers\nDE MOINEES . . . IOWA"
+      "text": "BYSTANDER PUB. CO., Publishers.\nDES MOINER . . . IOWA\n\nHave you taken 15 minutes off to learn Esperanto?\n\nDear, dear, when an asbestos plant burns, where does safety lie?\n\nIn time to come man may evolve a blunderproof, wreckless railroad.\n\nParis has thoughtfully relegated the hobble skirt to the museum of horrors.\n\nIn the agreement between Korea and Japan the latter did the agreeing for both.\n\nA Long Island milkman mistook a mule for a cow. Moral: One cannot be too careful.\n\nA determination to practise what we preach keeps us from doing too much preaching.\n\n\"Kondamnigughin,\" the cuss word in Esperanto, is ornamental, but too long for practical use.\n\nThere ought to be a greater difference between civilization and the merely complicated life.\n\nMen may beat the birds flying, but the birds don't have much trouble with their propeller blades.\n\n\"A woman-hater has been captured by cookies.\" More than one man-hater has been won by dough.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        123,
+        758,
+        350,
+        1321
+      ],
+      "label": "text",
+      "text": "Europe cannot expect to experience a cholera epidemic and an epidemic of American tourists at the same time.\n\nIn the coming sham battle of areoplanes is the contest to see which crowd of aviators hurt themselves least?\n\nWashington has displaced the eagle and has made the woodpecker the state bird. This will make Old Baldy red-headed.\n\nOccasional showers are useful, but the weather man should not go away on his vacation and forget to turn them off.\n\nIt has been decided that a divorced woman is the widow of her former husband. This classes husbands with the dead ones.\n\nMarried men, according to statistics, are subject to fewer accidents than are single men. Somebody is keeping tab on their hours.\n\nAn Illinois man has patented a safety pin with two points. However, wearers of the gallus are still waiting for the two-headed nail.\n\nIt may be marvelous, but it is human that Sugie, the pet ape, should refreeze chewing gum simply because her teacher tells her to?\n\nThe Philadelphia man who was choked to death by a high collar died a death that ought to turn Harry Lehr and Berry Wall green with envy.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        120,
+        1329,
+        349,
+        1880
+      ],
+      "label": "text",
+      "text": "Half a million in counterfeit coin has been recovered by the United States in the past year. Has any one heard of any real money being recovered?\n\nCorrespondents are arguing that a lie is occasionally librifiable and a Brooklyn judge decides that \"dam\" is not profane. Being good is becoming easier.\n\nIn Paris filet of beef is worth 50 cents a pound and only cheap cuts of horse meat are as low as 20 cents. No wonder they call it \"that dear Paris.\"\n\nThe language of the North American Indian and the Japanese contain no cues words. What a handicap when an aborigine hit his finger with a prehistoric ax!\n\nCanada has discovered that it has $29,000,000,000 worth of peat bogs and is wondering how it can induce its people to use peat at a low cost in preference to coal at high cost.\n\nThe uncle of the King of Portugal, who saw a man killed in a street fight among rummiks in New York, is now in a position to go home and write a book about American civilization.\n\nEsperanto will never offend against the pure-food laws, unless its advocates, be merely human, revolt against its limited expressions for emotional relief. Its vocabulary does not contain a single swear word.",
+      "status": "ok"
     },
     {
       "bbox": [
         118,
-        203,
-        358,
+        1890,
+        349,
         2386
       ],
       "label": "text",
-      "text": "Have you taken 15 minutes off to learn Esperanto?\n\nDear, dear, when an asbestos plant burns, where does safety lie?\n\nIn time to come man may evolve a blunderproof, wreckless railroad.\n\nParis has thoughtfully relegated the hobble skirt to the museum of horrors.\n\nIn the agreement between Korea and Japan the latter did the agreeing for both.\n\nA Long island milkman mistook a mule for a cow. Moral: One cannot be too careful.\n\nA determination to practise what we preach keeps us from doing too much preaching.\n\n\"Kondamnigughin,\" the cuss word in Esperanto, is ornamental, but too long for practical use.\n\nThere ought to be a greater difference between civilization and the merely complicated life.\n\nMen may beat the birds flying, but the birds don't have much trouble with their propeller blades.\n\n\"A woman-hater has been captured by cookies.\" More than one man-hater has been won by dough.\n\nEurope cannot expect to experience a cholera epidemic and an epidemic of American tourists at the same time.\n\nWashington has displaced the eagle and has made the woodpecker the state bird. This will make Old Baldy red-headed.\n\nOccasional showers are useful, but the weather man should not go away on his vacation and forget to turn them off.\n\nIt has been decided that a divorced woman is the widow of her former husband. This classes husbands with the dead ones.\n\nMarried men, according to statistics, are subject to fewer accidents than are single men. Somebody is keeping tab on their hours.\n\nAn Illinois man has patented a safety pin with two points. However, wearers of the gals are still waiting for the two-headed nail.\n\nIt may be marvelous, but it is human that Susie, the pet ape, should refuse chewing gum simply because her teacher tells her to?\n\nThe Philadelphia man who was choked to death by a high collar died a death that ought to turn Harry Lehr and Berry Wall green with envy.\n\nHalf a million in counterfelt coin has been recovered by the United States in the past year. Has any one heard of any real money being recovered?\n\nCorrespondents are arguing that a lie is occasionally justifiable and a Brooklyn judge decides that \"dam\" is not profane. Being good is becoming easier.\n\nIn Paris filet of beef is worth 50 cents a pound and only cheap cuts of horse meat are as low as 20 cents. No wonder they call it \"that dear Paris.\"\n\nThe language of the North American Indian and the Japanese contain no cuss words. What a handicap when an aborigine hit his finger with a prehistoric ax!\n\nCanada has discovered that it has $29,000,000,000 worth of peat bogs and it is wondering how it can induce its people to use peat at a low cost in preference to coal at high cost.\n\nThe uncle of the King of Portugal, who saw a man killed in a street fight among men in New York, is now in position to go home and write a book about American civilization.\n\nEsperanto will never offend against the preofood laws, unless its advocates, being merely human, revolt against its limited expressions for emotional relief. Its vocabulary does not contain a single swear word.\n\nEngland is now figuring on a gas-driven battleship to render obsolete all vessels of the Dreadnought type. People over there must sit up nights thinking of new ways to spend public money.\n\nA Poughkeepsie man who went to California to accumulate a fortune rapidly has just returned after an absence of 51 years. The old gentleman will probably put in the rest of his days reading all the get-rich-quick literature he can find and giving it the ha ha.\n\nIn the presence of all this wonderful aviation on the other side of the ocean it would seem to be high time for Americans to do a few stunts; or is it to be said that an aeroplane is to have no honor in its own country?\n\nArmy experts who claim that it is hard to hit an airship with a rifle ball will merely whet the aspiration of the prize imbecile who thinks it a joke to shoot at a passing aviator.\n\nSmuggling diamonds through the seerage is a dodge which failed to work with the alert. New York customs authorities later. The smuggler argued that the authorities would not think of looking in the steerage for valuable items and the authorities argued the steerage might think just that way."
+      "text": "England is now figuring on a gas-driven battleship to render obsolete all vessels of the Dreadnought type. People over there must sit up nights thinking of new ways to spend public money.\n\nA Poughkeepsie man who went to California to accumulate a fortune rapidly has just returned after an absence of 51 years. The old gentleman will probably put in the rest of his days reading all the get-rich-quick literature he can find and giving it the ha ha.\n\nIn the presence of all this wonderful aviation on the other side of the ocean it would seem to be high time for Americans to do a few stunts; or is it to be said that an aeroplane is to have no honor in its own country?\n\nArmy experts who claim that it is hard to hit an airship with a rifle ball will merely whet the aspiration of the prize imbecile who thinks it a joke to shoot at a passing aviator.\n\nSmuggling diamonds through the streeorage is a dodge which failed to work with the alert, New York customs authorities lately. The smuggler argued that the authorities would not allow the streeorage for valuables, and the authorities argued the streeorage might think just that way.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +67,8 @@
         196
       ],
       "label": "doc_title",
-      "text": "COUNTRY ALL RIGHT"
+      "text": "COUNTRY ALL RIGHT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +78,8 @@
         256
       ],
       "label": "text",
-      "text": "A STRIKING STRONG ARTICLE\nBY COL. HARVEY"
+      "text": "A STRIKING STRONG ARTICLE\nBY COL. HARVEY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +89,8 @@
         310
       ],
       "label": "paragraph_title",
-      "text": "THE WRITER SEES NO CLOUD"
+      "text": "THE WRITER SEES NO CLOUD",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +100,8 @@
         766
       ],
       "label": "text",
-      "text": "\"A Plea for the Conservation of Common Sense\" That is Meeting With Cordial Approval.\n\nA strikingly strong article by Colonel George Harvey in the North American Review, for September, is written in a view of such hopefulness for the American future that it has attracted wide attention. The article is entitled, \"A Plea for the Conservation of Common Sense\" and it is meeting with the cordial approval of business men of all shades of political opinion throughout the entire country. In part Colonel Harvey says:\n\n\"Unquestionably a spirit of unrest dominates the land. But, if it be true that fundamentally the condition of the country is sound, must we necessarily succumb to despondency, abandon effort looking to retrieval and cringe like craven before clouds that only threaten? Rather, ought we not to analyze conditions, search for causes, and find the difficult treat, which even now exists only in men's minds, and then, after the American fashion, apply such remedies as seems most likely to produce beneficent results?"
+      "text": "\"A Plea for the Conservation of Common Sense\" That is Meeting With Cordial Approval.\n\nA strikingly strong article by Colonel George Harvey in the North American Review, for September, is written in a view of such hopefulness for the American future that it has attracted wide attention. The article is entitled, \"A Plea for the Conservation of Common Sense\" and it is meeting with the cordial approval of business men of all shades of political opinion throughout the entire country. In part Colonel Harvey says:\n\n\"Unquestionably a spirit of unrest dominates the land. But, if it be true that fundamentally the condition of the country is sound, must we necessarily succumb to despondency, abandon effort looking to retrieval and cringe like craven before clouds that only threaten? Rather, ought we not to analyze conditions, search for causes, and find the difficult treat, which even now exists only in men's minds, and then, after the American fashion, apply such remedies as seems most likely to produce beneficent results?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +111,8 @@
         787
       ],
       "label": "paragraph_title",
-      "text": "Capital and Labor Not Antagonistic."
+      "text": "Capital and Labor Not Antagonistic.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +122,8 @@
         1180
       ],
       "label": "text",
-      "text": "\"The Link that connects labor with capital is not broken but we may not deny that it is less cohesive than it should be or than conditions warrant. Financially, the country is stronger than ever before in its history. Recovery from a panic so severe as that of three years ago was never before so prompt and comparatively complete. The masses are practically free from debt. Money is held by the banks in abundance and raws are now.\" Why, then, does capital pause upon the threshold of investment? The answer, we believe, to be plain. It awaits adjustment of the relations of government to business. * * * * The sole problem consists of determining how government can maintain an even balance between aggregations of interests, on the one hand, and the whole people, on the other, protecting the latter against extortion and saving the former from mad assaults. The solution is not easy to find (for the reason that the institution is without precedent. But is not progress being made along sane and cautious lines? * * *"
+      "text": "\"The Link that connects labor with capital is not broken but we may not deny that it is less cohesive than it should be or than conditions warrant. Financially, the country is stronger than ever before in its history. Recovery from a panic so severe as that of three years ago was never before so prompt and comparatively complete. The masses are practically free from debt. Money is held by the banks in abundance and raws are now.\" Why, then, does capital pause upon the threshold of investment? The answer, we believe, to be plain. It awaits adjustment of the relations of government to business. * * * * The sole problem consists of determining how government can maintain an even balance between aggregations of interests, on the one hand, and the whole people, on the other, protecting the latter against extortion and saving the former from mad assaults. The solution is not easy to find (for the reason that the institution is without precedent. But is not progress being made along sane and cautious lines? * * *",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,17 +133,30 @@
         1200
       ],
       "label": "paragraph_title",
-      "text": "Conserve Common Sense."
+      "text": "Conserve Common Sense.",
+      "status": "ok"
     },
     {
       "bbox": [
         356,
         1204,
         585,
+        1722
+      ],
+      "label": "text",
+      "text": "\"Is not the present, as we have seen, exceptionally secure? What, then, of preparations for the future? Patriotism is the basis of our institutions. And patriotism in the minds of our youth is no longer linked solely with fireworks and deeds of daring. It is the course has been added\u2014a course in loyalty, Methodically, our children learn how to vote, how to conduct primaries, conventions and elections, how to discriminate between qualifications of candidates and, finally, how to govern as well as serve. They are taught to despise bribery and all forms of corruption and all conspirations. Their creed, which they are made to know by heart, is not complex. It is simple, but comprehensive, no less beautiful in diction than loty in aspiration. These are the pledges which are graven upon their memories:\n\n\"As it is cowardly for a soldier to run away from battle, so it is cowardly for any citizen not to contribute to the war of belonging of his country. America is my own dear land; she nourishes me, and I will love her and do my duty to her, whose child, servant and civil soldier I am.\n\n\"As the health and happiness of my body depend upon each muscle and nerve and drop of blood doing its work, and the health and happiness of my country depend upon each citizen doing his work in his place.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        357,
+        1722,
+        585,
         1825
       ],
       "label": "text",
-      "text": "\"Is not the present, as we have seen, exceptionally secure? What, then, of preparations for the future? Patriotism is the basis of our institutions. And patriotism in the minds of our youth is no longer linked solely with fireworks and deeds of daring. It is taught in our schools. A new course has been introduced methodically, our children learn how to vote, how to conduct primaries, conventions and elections, how to discriminate between qualifications of candidates and, finally, how to govern as well as serve. They are taught to despise bribery and all forms of corruption and fraud as treason. Their creed, they are made to know by heart, is not complex. It is simple, but complex, less beautiful in diction than lotto in aspiration. These are the pledges which are graven upon their memories:\n\n\"As it is cowardly for a soldier to run away from battle, so it is cowardly for any citizen not to contribute his share to the well-being of his country. America is my own dear land; she nourishes me, and I will love her and do my duty to her, whose child, servant and civil soldier I am.\n\nThe health and happiness of my body depend upon each muscle and nerve and drop of blood doing its work in its place, so the health and happiness of my country depend upon each citizen doing his work in his place.\n\nThe young students our hostages to fortune. Can we not safely assume that the principal mating their life in theugner well for the permanence of the Republic? When we have the foundation stones of continuance been laid with such care and promise of durability?"
+      "text": "\"These young citizens are our hostages to fortune. Can we not safely assume that the principals animating their lives augur well for the permanency of the Republic? When before have the foundation stones of continuance been laid with such care and promise of durability?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +166,8 @@
         2219
       ],
       "label": "text",
-      "text": "\"The future, then, is bright. And the present? But one thing is needful. No present movement is more laudable than that which looks to conservation of natural resources. But let us never forget that the greatest inherent resource of the American people is Common Sense that be conserved and applied without question, and soon it will be bound that all the fils of which we complain but know not of are only such as attend upon the growing pains of a great and blessed country.\n\nSpiritualization.\n\nReligion should be native. It should be concrete and applicable. Religion is the natural expression of living, not a set of actions or of habits, or a posture of the mind added to the daily life. The type of religion, therefore, is conditioned on the kind of living, and the kind of living is conditioned, in its turn, on the economic efficiency of life. The religion of the open country should run deep into the indigenous affairs of the open country."
+      "text": "\"The future, then, is bright. And the present? But one thing is needful. No present movement is more laudable than that which looks to conservation of natural resources. But let us never forget that the greatest inherent resource of the American people is Common Sense that be conserved and applied without question, and soon it will be bound that all the fils of which we complain but know not of are only such as attend upon the growing pains of a great and blessed country.\n\nSpiritualization.\n\nReligion should be native. It should be concrete and applicable. Religion is the natural expression of living, not a set of actions or of habits, or a posture of the mind added to the daily life. The type of religion, therefore, is conditioned on the kind of living, and the kind of living is conditioned, in its turn, on the economic efficiency of life. The religion of the open country should run deep into the indigenous affairs of the open country.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +177,19 @@
         2432
       ],
       "label": "text",
-      "text": "\"I never worry about my health any more.\"\n\"How lucky you are. Don't you ever feel ill?\"\n\"Oh, yes, often; but I've bad all the operations it is possible to undergo.\"\n\nOf Cources.\n\"They say a woman always reads a love story backward.\"\n\"I take no stock in that claim. If she the manager is going to play with the threat act first.\"\u2014Louisville Courrier-Journal"
+      "text": "\"I never worry about my health any more.\"\n\"How lucky you are. Don't you ever feel ill?\"\n\"Oh, yes, often; but I've bad all the operations it is possible to undergo.\"\n\nOf Cources.\n\"They say a woman always reads a love story backward.\"\n\"I take no stock in that claim. If she the manager is going to play with the threat act first.\"\u2014Louisville Courrier-Journal",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        595,
+        169,
+        1048,
+        647
+      ],
+      "label": "text",
+      "text": "WHO GOT THE BIGGEST FISH\n\nTHE FLAGUE FISHING CLUB\n\nINDIANNAPOLIS NEW",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +199,8 @@
         707
       ],
       "label": "doc_title",
-      "text": "DEFEAT FOR TAWNEY WESTERN RAIL MEN TESTIFY"
+      "text": "DEFEAT FOR TAWNEY WESTERN RAIL MEN TESTIFY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +210,8 @@
         776
       ],
       "label": "text",
-      "text": "MINNESOTA CONGRESSMAN\nLOSES OUT IN PRIMARY BY\nSMALL MARGIN."
+      "text": "MINNESOTA CONGRESSMAN\nLOSES OUT IN PRIMARY BY\nSMALL MARGIN.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +221,8 @@
         813
       ],
       "label": "paragraph_title",
-      "text": "CAMPAIGN WAS A WARM ONE"
+      "text": "CAMPAIGN WAS A WARM ONE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +232,8 @@
         1338
       ],
       "label": "text",
-      "text": "Stevens in Fourth District May Be Defeated\u2014Opponent Makes Whirlwind Fight\u2014Other Republican Candidates Are Renominated.\n\nSt. Paul, Minn.\u2014Primaries were held throughout Minnesota Tuesday for the nomination of candidates for congress, state legislature and county officers.\n\nInterest centered in the First district and the scattering returns indicate the defeat of Congressman J. A Tawney by a small margin by Sydney Anderson, a young attorney of Lanesboro. This will probably be the only change in the delegation to conference. Has it been a possibility of defeat of C. F. Stevens in the Fourth district by Hugh Halbert.\n\nThe fight on Tawney has been the warmest in the state. Anderson was brought out by the progressive league and few thought he had any show. But he made a better campaign than anticipated and unless later returns are different, he wins by a small margin. The winner will be opposed by H. L. Buck of Winona, who had a clear field for the Democratic nomination. Halbert did not get into the fight until three weeks ago, but has made a whirlwind campaign. The Stevens people did not see any chance of defeat until a couple of weeks ago, but since then Stevens has made a strong fight for renomination."
+      "text": "Stevens in Fourth District May Be Defeated\u2014Opponent Makes Whirlwind Fight\u2014Other Republican Candidates Are Renominated.\n\nSt. Paul, Minn.\u2014Primaries were held throughout Minnesota Tuesday for the nomination of candidates for congress, state legislature and county officers.\n\nInterest centered in the First district and the scattering returns indicate the defeat of Congressman J. A Tawney by a small margin by Sydney Anderson, a young attorney of Lanesboro. This will probably be the only change in the delegation to conference. Has it been a possibility of defeat of C. F. Stevens in the Fourth district by Hugh Halbert.\n\nThe fight on Tawney has been the warmest in the state. Anderson was brought out by the progressive league and few thought he had any show. But he made a better campaign than anticipated and unless later returns are different, he wins by a small margin. The winner will be opposed by H. L. Buck of Winona, who had a clear field for the Democratic nomination. Halbert did not get into the fight until three weeks ago, but has made a whirlwind campaign. The Stevens people did not see any chance of defeat until a couple of weeks ago, but since then Stevens has made a strong fight for renomination.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,17 +243,30 @@
         1366
       ],
       "label": "paragraph_title",
-      "text": "BALK PLOT TO KILL MIKADO"
+      "text": "BALK PLOT TO KILL MIKADO",
+      "status": "ok"
     },
     {
       "bbox": [
         590,
         1380,
-        818,
+        817,
+        1862
+      ],
+      "label": "text",
+      "text": "Certain Death Awaits Plotters Under Arrest Who Attempt to Assassinate Japan's Emperor.\n\nTokyo, Japan.\u2014A sensation was caused by the publication of the alleged details of a plot among his own subject to assassinate Emperor Mutsuhito. The startling story appeared in the Hochi Shimbun, which says that the plotters, who are under arrest, certainly will be sentenced.\n\nEmperor of Japan.\n\nto death after trials before a special secret court.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        590,
+        1862,
+        816,
         2009
       ],
       "label": "text",
-      "text": "Certain Death Awaits Plotters Under Arrest Who Attempt to Assassinate Japan's Emperor.\n\nTokyo, Japan.\u2014A sensation was caused by the publication of the alleged details of a plot among his own subject: to assassinate Emperor Matsuho. The startling story appeared in the Hochi Shimbun, which says that the plotters, who are under arrest, certainly will be sentenced\n\nEmperor of Japan.\n\nto death after trials before a special secret court.\n\nThis is the first time in the history of the country that the life of the sovereign has been plotted against by his own people and the fact has become known. It is understood that a rigorous council is prevented the publication of as much as a hint of the conspiracy until this evening, when the Hochi Shimbun assumed responsibility for the alarming announcement."
+      "text": "This is the first time in the history of the country that the life of the sovereign has been plotted against by his own people and the fact has become known. It is understood that a rigorous censorship prevented the publication of as much as it could be of the evening when the Hochi Shimun assumed responsibility for the alarming announcement.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +276,8 @@
         2033
       ],
       "label": "paragraph_title",
-      "text": "Shoots Kin for a Deer"
+      "text": "Shoots Kin for a Deer",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,17 +287,30 @@
         2428
       ],
       "label": "text",
-      "text": "Syracuse, N. Y.\u2014Clifford Judd, well known in St. Lawrence county, Wednesday shot and killed his brother-in-law, Theorem Plumb, mistaking him for a deer. Judd is in a serious condition as a result of the shock.\n\nJail 400 Highwaymen. Chicago\u2014More than 400 highwaymen have been convicted in Cook county, the State's Attorney Waymine began his term, according to figures made public Wednesday by the prosecutor.\n\nShoots Father as a Dear. Glens Falls, N. Y.\u2014The first casualty of the Adirondack season has just been reported. Mistaken by his son for a deer, William Aubre was fatally shot Sunday in the mountains near here.\n\nNew Neers May Save Manual. Lisbon\u2014It is believed King Manuel cabinet will prevent dissolution of parliament and new elections, which republicans say would without a doubt mean revolution."
+      "text": "Syracuse, N. Y.\u2014Clifford Judd, well known in St. Lawrence county, Wednesday shot and killed his brother-in-law, Theorem Plumb, mistaking him for a deer. Judd is in a serious condition as a result of the shock.\n\nJail 400 Highwaymen. Chicago\u2014More than 400 highwaymen have been convicted in Cook county, the State's Attorney Waymine began his term, according to figures made public Wednesday by the prosecutor.\n\nShoots Father as a Dear. Glens Falls, N. Y.\u2014The first casualty of the Adirondack season has just been reported. Mistaken by his son for a deer, William Aubre was fatally shot Sunday in the mountains near here.\n\nNew Neers May Save Manual. Lisbon\u2014It is believed King Manuel cabinet will prevent dissolution of parliament and new elections, which republicans say would without a doubt mean revolution.",
+      "status": "ok"
     },
     {
       "bbox": [
         822,
         701,
         1050,
+        1287
+      ],
+      "label": "text",
+      "text": "PRESENT EVIDENCE IN SUPPORT OF HIGHER FREIGHT RATES.\n\nHearing is Conducted by Commerce Commission Along Lines of Court Procedure.\n\nChicago. - Western railroads continued the presentation of evidence before the interstate commerce commission in support of their contention that a general advance in freight rates is necessary to maintain the standard of service demanded by the government and the people.\n\nCommissioners Clements, Clark and Lane conducted the hearing which hitherto has been in the hands of examiners. Commissioner Clements outlined the work of the week along lines of court procedure, asking railroads, as affirms, to show cause why the advances proposed should not be permanently suspended, and the shippers, as respondents, to show the contrary.\n\nC. M. Kittle, vice-president of the Illinois Central, the first witness heard, presented statistics showing the cost of operating the road since 1891. Commissioner Lane called the attention of Attorney Norton, representing the Illinois Central, to Mr. Kittle's figures, showing in 1892 a higher cost of operation per mile than in 1910. Attorney Norton replied that this was only a chance comparison; he was about to show, he said, a higher cost in every department of maintenance. Mr. Kittle verified that in damaged freight indemnities alone this year the road paid out $146,470 as against only $60,000 in 1892.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        825,
+        1288,
+        1050,
         1365
       ],
       "label": "text",
-      "text": "PRESENT EVIDENCE IN SUPPORT OF HIGHER FREIGHT RATES.\n\nHearing is Conducted by Commerce Commission Along Lines of Court Procedure.\n\nChicago. \u2014 Western railroads continued the presentation of evidence before the interstate commerce commission in support of their contention that a general advance in freight rates is necessary to maintain the standard of service demanded by the government and the people.\n\nCommissioners Clements, Clark and Lane conducted the hearing which hitherto has been in the hands of examiners. Commissioner Clements outlined the work of the week along lines of court procedure, asking railroads, as affirms, to show cause why the advances proposed should not be permanently suspended, and the shippers, as respondents, to show the contrary. Cattle, vice president, of the Illinois Central, the first witness heard, presented statistics showing the cost of operating the road since 1891. Commissioner Lane called the attention of Attorney Norton, representing the Illinois Central, to Mr. Kittle's figures, showing in 1892 a higher cost of operation per mile than in 1910. Attorney Norton replied that this was only a chance comparison; he was about to show, he said, a higher cost in every department of maintenance not on any one feature.\n\nMr. Kittle testified that in damaged freight indemnities alone this year the road paid out $4,847 as against only $60,000 in 1892.\n\nAs an instance of increased cost of insurance in the case of that lumber which could be bought in 1900 for nine dollars now costs $13. Increased wages also were a drain on the revenue of the company, he declared."
+      "text": "As an instance of increased cost of material Mr. Kittle said that lumber which could be bought in 1900 for nine dollars now costs $13. Increased wages also were a drain on the revenue of the company, he declared.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,17 +320,30 @@
         1392
       ],
       "label": "paragraph_title",
-      "text": "GRAND ARMY IN BIG PARADE"
+      "text": "GRAND ARMY IN BIG PARADE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        822,
+        1404,
+        1049,
+        1901
+      ],
+      "label": "text",
+      "text": "Veterans of Civil War in Annual Reunion March Through Streets of Atlantic City.\n\nAtlantic City, N. J. The veterans in attendance upon the Grand Army of the Republic national encampment marched through the streets of Atlantic City Wednesday to the strains of martial music as they did nearly half a century ago through which the parade passed were beautifully decorated, and the old soldiers marched between solid walls of spectators whose cheering was continuous. All along the route relief stations were established for the comfort of the veterans, and they were served with coffee and other refreshing drinks. Some of the feebler ones dropped out before the end of the route was reached, but most of them marched on sturdy to the point where the parade was disbanded.\n\nFollowing the men of the Grand Army were large delegations representing all the allied organizations\u2014the Woman's Relief Corps, the Ladies of the G. A. R. the Daughters of Veterans of American Association of Urban Ex-Prisoners of War, the National Association of Naval Veterans, the Association of Civil War Musicians, the Sons of Veterans and their auxiliary, and the United Spanish War Veterans.",
+      "status": "ok"
     },
     {
       "bbox": [
         821,
-        1404,
-        1049,
+        1901,
+        1048,
         2427
       ],
       "label": "text",
-      "text": "Veterans of Civil War in Annual Reunion March Through Streets of Atlantic City.\n\nAtlantic City, N. J.\u2014The veterans in attendance upon the Grand Army of the Republic national encampment marched through the streets of Atlantic City Wednesday to the strains of martial music as they did nearly half a street through which the parade passed were beautifully decorated, and the old riflemen marched between solid walls of spectators whose cheering was continuous. All along the route relief stations were established for the comfort of the veterans, and they were served with coffee and other refreshing drinks. Some of the feebler ones dropped out before the end of the route was reached, but most of them marched on sturdy to the point where the parade was disbanded.\n\nFollowing the men of the Grand Army were large delegations representing all the allied organizations\u2014the Woman's Relief Corps, the Lady of the Army, the R. Daughters of the General Presidency of Union Ex-Prisoners of War, the National Association of Naval Veterans, the Army Nurse association, the Association of Civil War Musicians, the Sons of Veterans and their auxiliary, and the United Spanish War Veterans.\n\nCommander-in-Chief Van Sant reviewed the parade, and in the stand with him were Governor Fort, Mayor Stoy and a large number of other notables. When the parade disbanded the old soldiers sought their quarters to rest up for the doings of the afternoon and evening.\n\nProminent Educator Dies.\n\nPalo Alto, Cal.\u2014Prof. J. E. Matzke, who held the chair of Roman languages at Stanford university since 1893, is dead in the city of Mexico, according to the Presidency of Tuesday to President Wheeler of the University of California, Professor Matzek died of cerebral hemorrhage.\n\nKaiser Visits Emperor Joseph, Vienna.\u2014Emperor William arrived here Tuesday and for two days will be the guest of Emperor Francis Joseph at Schoenbrunn.\n\nShip Wrecked; 15 Missing.\n\nMelbourne, Australia.\u2014The British ship Carnavar Bay, from Liverpool June 20 for Sydney, has been wrecked on King island. The captain and seventeen men were picked up Sunday, but a second boat with fifteen men aboard is missing.\n\nOppose inflow of Orientals.\n\nSan Francisco.\u2014The Asialic Exclusion league in a report has criticized the local immigration bureau and insisted that steps be taken to check the inflow of orientals."
+      "text": "Commander-in-Chief Van Sant reviewed the parade, and in the stand with him were Governor Fort, Mayor Stoy and a large number of other notables. When the parade disbanded the old soldiers sought their quarters to rest up for the doings of the afternoon and evening.\n\nProminent Educator Dies.\nPalo Alto, Cal.-Prof. J. E. Matzke, who held the Roman languages at Stanford university since 1893, is dead in the city of Mexico, according to President Wheeler of the University of California. Professor Matzke died of cerebral hemorrhage.\n\nKaiser Visits Emperor Joseph.\nVienna.-Emperor William arrived here Tuesday and for two days will be the guest of Emperor Francis Joseph at Schoenbrunn.\n\nShip Wrecked; 15 Missing.\nMelbourne, Australia.-The British ship Carnarvon Bay, from Liverpool June 20 for Sydney, has been wrecked on King island. The captain and seventeen men were picked up Sunday, but a second boat with fifteen men aboard is missing.\n\nOppose inflow of Orientales.\nSan Francisco.-The Asialic Exclusion league in a report has criticized the local immigration bureau and insisted that steps be taken to check the inflow of orientals.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,17 +353,30 @@
         176
       ],
       "label": "paragraph_title",
-      "text": "THUGS ROB MEN OF $10,000"
+      "text": "THUGS ROB MEN OF $10,000",
+      "status": "ok"
     },
     {
       "bbox": [
         1053,
         191,
         1283,
+        717
+      ],
+      "label": "text",
+      "text": "TWO PITTSBURG BROTHERS ARE HELD UP AT CHICAGO.\n\nMerchants Were on Way to Wisconsin to Buy Tobacco When Robbed\u2014 $500 Diamond Gone.\n\nChicago. \u2014 Harry W. and Max C. Chotner of the Pittsburgh tobacco distributing firm of H. W. Chotner & Brother, incorporated, were held up and robbed of $10,000 in money and a twocarat diamond stirl vest valued at $00 at Quincy and Jefferson street last night. The hold-up men are still at large.\n\nThe brothers were on their way from Twelfth and Halsted streets to the Brevoort hotel, where they are stopping. Being strangers in the city, they lost their way. While walking in Quincy street 100 feet east of Jefferson they were seized from behind by two men. Max, who carried the money in his inside coat pocket, was hurled into a vacant lot and pinned down by his assailant, while his brother engaged in a struggle with the other highwayman on the sidewalk.\n\nIn the struggle Harry was robbed of his diamond. Gaining his freedom by wriggling out of his coat, he declares he ran down the street shouting \"Murderer!\" and calling to the Union depot, several blocks away, where he met a policeman. When the policeman reached the scene of the robbery he found Max lay in the lot in a semi-conscious condition.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1055,
+        719,
+        1282,
         904
       ],
       "label": "text",
-      "text": "TWO PITTSBURG BROTHERS ARE HELD UP AT CHICAGO.\n\nMerchanta we were to Wishon in To buy Tobacco When Robbed\u2014$500 Diamond Gone.\n\nChicago. \u2014 Harry W. and Max C. Chotner of the Pittsburgh tobacco distributing firm of H. W. Chotner & Brother, incorporated, were held up and robbed of $10,000 in money and a two-carat diamond shirt stunt valued at $0 at Quincy and Jefferson street last night. The hold-up men are still at large.\n\nThe brothers were on their way from Twelfth and Halsted streets to the Brevoort hotel, where they are shopping and help them in this city they lost their way. While walking in Quincy street 100 feet east of Jefferson they were seized from behind by two men. Max, who carried the money in his inside coat pocket, was hurried into a vacant lot and pinned down by his assailant, while his brother engaged in a struggle with the other highwayman on the sidewalk.\n\nIn the struggle Harry was robbed of his diamond. Galinus his freedom by wrigging out of his coat, he declares he ran down the street shouting \"Murray out of the bank until today. knocking the breath out of him. The money was then wrested from his pocket, and the highwayman ran.\n\nThe Chotner brothers tried to deposit the money in the First National bank, but decided to carry it, as it would be impossible to get to the bank until they had intended to leave Chicago last night for Jamesville. Wis, to complete a deal for $10,000 worth of tobacco."
+      "text": "When Max revived he said that after he had been knocked down by one robber another attacked him, knocking the breath out of him. The money was then wrested from his pocket, and the highways ran. The Chottner brothers tried to deposit the money in the First National bank, but decided to carry it, as it would be impossible to get the money out of the bank until today. They had intended to leave Chicago last night for Janesville, Wis., to complete a deal for $10,000 worth of tobacco.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,17 +386,30 @@
         938
       ],
       "label": "paragraph_title",
-      "text": "CRAZED OVER CRIPPEN LOVE"
+      "text": "CRAZED OVER CRIPPEN LOVE",
+      "status": "ok"
     },
     {
       "bbox": [
         1056,
         956,
         1284,
+        1475
+      ],
+      "label": "text",
+      "text": "Woman Testifies That Doctor's Companion Confessed Fears She Might Not Marry Him.\n\nLohdon. What Ethel Clara Leneve suffered as, half mad with jealousy, she impatiently waited the fulfillment of Dr. Hawley H. Crippen's promise to make her his wife, was revealed Monday at the inquest into the death of Crippen's wife, Beile Elmore, with the murder of whom the doctor and his typist are jointly charged.\n\nIn her distress Miss Leneve confided in her landlady, Mrs Jackson. Mrs Jackson said that the accused girl gave up her room March 12, expecting that she was leaving to marry Doctor Crippen.\n\nUntil the first week in February Miss Leneve slept regularly at Mrs. Jackson's. After that she stopped at the house only occasionally. She said that she passed the other nights at the homes of friends. Once, early in February, Miss Leneve mentioned having, been at the Hildrop-Crescent home of the Crippens to help the doctor search for a bank book which showed an account of $1,000. A month thraa and rings had been found in the house and the doctor raised $850 on them.\n\nAbout the middle of February, the witness said, Miss Leneve appeared in a \"terrifying state of agitation.\" Her eyes seemed starting out of her head. The landlady insisted on an explanation.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1057,
+        1476,
+        1284,
         1700
       ],
       "label": "text",
-      "text": "Woman Testifies That Doctor's Companion Confessed Fears She Might Not Marry Him.\n\nLohdon. What Ethel Clara Leneve suffered as, half mad with jealousy, she impatiently waited the fulfillment of Dr. Hawley H. Clippen's promise to make her his wife, was revealed Monday at the inquest into the death of Clippen's wife, Beile Elmore, with the murder of whom the doctor and his typist are jointly charged.\n\nIn her distress Miss Leneve confided in her landlady, Mrs Jackson.\n\nMrs Jackson said that the accused girl gave up her room March 12. expecting that she leaving to marry Doctor Clipper.\n\nJust the first week in February Miss Leneve slept regularly at Mrs Jackson. 'After that she stopped at the house only occasionally. She said that she passed the other nights at the homes of friends. One early in the February, Miss Elmore mentioned have home the Hildrop-Crescent home of the Crippens to help the doctor search for a bank book which showed an account of $1,000. A diamond tiara and rings had been found in the house and the doctor raised $500 on them.\n\nAbout the middle of February, the witness said, Miss Leneve appeared in a \"terrifying state of agitation.\" Her eyes seemed starting out of her head. The landlady insisted on an explanation.\n\n\"Would you be surprised if I told you that it was the doctor and Miss Elmore?\" the witness quoted Miss Leneve as saying. \"The was the cause of my trouble when you first knew me. She is his wife, and when I see them go away together it makes me realize my position as to what she is and what is the use of you worrying about another woman's husband?\" Mrs Jackson had asked.\n\nMiss Leneve answered: \"Miss Elmore has been threatening to go away with another man. Doctor Clippen has been waiting for her to do so, when he would divorce her.\""
+      "text": "\"Would you be surprised if I told you that it was the doctor and Miss Elmore\" the witness quoted Miss Lennee as saying. \"He was the cause of my trouble when you first knew me. She is his wife, and when I see them go away it makes me realize my position to what she is and what I am.\"\n\n\"What is the use of you worrying about the other woman's husband?\" Mrs. Jackson had asked.\n\nMiss Lennee answered: \"Miss Elmore has been threatening to go away with another man. Doctor Crippen has been waiting for her to do so, when he would divorce her.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +419,8 @@
         1732
       ],
       "label": "paragraph_title",
-      "text": "STANDING OF BALL CLUBS"
+      "text": "STANDING OF BALL CLUBS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +430,8 @@
         1809
       ],
       "label": "text",
-      "text": "Games Won and Lost and the Per Cent Average of the Various Nines.\n\nNATIONAL LEAGUE"
+      "text": "Games Won and Lost and the Per Cent Average of the Various Nines.\n\nNATIONAL LEAGUE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +441,8 @@
         2010
       ],
       "label": "text",
-      "text": "Clubs.  W. L. P.C.I.  W. L. P.C.I.  W. L. P.C.I.\nChicago. 31 41  .490  *Inc.'ncla*  .70 42  .492\nChicago. 31 41  .490  *Inc.'ncla*  .70 42  .492\nPittsburgh. 30 57  .584  *Brooklyn*  .53 83  .580\nPittsburgh. 30 57  .584  *Brooklyn*  .53 83  .580\nPildl'ia. 70 67  .611  *Boston*  .47 30  .492\nPildl'ia. 70 67  .611  *Boston*  .47 30  .492\nNew York. 35 49  .604  *Cleveland*  .73 85  .465\nNew York. 35 49  .604  *Cleveland*  .73 85  .465\nBoston. 77 40  .613  *St. Louis*  .43 97  .307\nBoston. 77 40  .613  *St. Louis*  .43 97  .307\nAMERICAN ASSOCIATION.\nMini's p. 104 59  .635  *Kan. City*  .73 85  .466\nMini's p. 104 59  .635  *Kan. City*  .73 85  .466\nCol'nb.'s. 63 58  .635  *Ind.'ncla*  .63 87  .447\nCol'nb.'s. 63 58  .635  *Ind.'ncla*  .63 87  .447\nSt. Paul. 58 73  .515  *Louisville*  .590 100\nS. City'i. 60 79  .545  *Omaha*  .73 75  .516\nDenver. 44 62  .635  *St. jeph.'s*  .68 43  .488\nDenver. 44 62  .635  *St. jeph.'s*  .68 43  .488\nWichita. 62 58  .635  *Topeka*  .41 113  .486"
+      "text": "Clubs.  W. L. P.C.I.  W. L. P.C.I.  W. L. P.C.I.\nChicago. 31 41  .490  *Inc.'ncla*  .70 42  .492\nChicago. 31 41  .490  *Inc.'ncla*  .70 42  .492\nPittsburgh. 30 57  .584  *Brooklyn*  .53 83  .580\nPittsburgh. 30 57  .584  *Brooklyn*  .53 83  .580\nPildl'ia. 70 67  .611  *Boston*  .47 30  .492\nPildl'ia. 70 67  .611  *Boston*  .47 30  .492\nNew York. 35 49  .604  *Cleveland*  .73 85  .465\nNew York. 35 49  .604  *Cleveland*  .73 85  .465\nBoston. 77 40  .613  *St. Louis*  .43 97  .307\nBoston. 77 40  .613  *St. Louis*  .43 97  .307\nAMERICAN ASSOCIATION.\nMini's p. 104 59  .635  *Kan. City*  .73 85  .466\nMini's p. 104 59  .635  *Kan. City*  .73 85  .466\nCol'nb.'s. 63 58  .635  *Ind.'ncla*  .63 87  .447\nCol'nb.'s. 63 58  .635  *Ind.'ncla*  .63 87  .447\nSt. Paul. 58 73  .515  *Louisville*  .590 100\nS. City'i. 60 79  .545  *Omaha*  .73 75  .516\nDenver. 44 62  .635  *St. jeph.'s*  .68 43  .488\nDenver. 44 62  .635  *St. jeph.'s*  .68 43  .488\nWichita. 62 58  .635  *Topeka*  .41 113  .486",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +452,8 @@
         2030
       ],
       "label": "paragraph_title",
-      "text": "Song Writer Dies a Pauper."
+      "text": "Song Writer Dies a Pauper.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +463,8 @@
         2124
       ],
       "label": "text",
-      "text": "Detroit, Mich.\u2014Solomon Mazurtez, a quarter of a century ago one of the best-known song composers in the United States, died Tuesday on a cot in his home in Chicago. The jury. His aged wife applied to the poor commission to bury him."
+      "text": "Detroit, Mich.\u2014Solomon Mazurtez, a quarter of a century ago one of the best-known song composers in the United States, died Tuesday on a cot in his home in Chicago. The jury. His aged wife applied to the poor commission to bury him.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +474,8 @@
         2146
       ],
       "label": "paragraph_title",
-      "text": "Unifies Hawaii Posts."
+      "text": "Unifies Hawaii Posts.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,17 +485,30 @@
         2422
       ],
       "label": "text",
-      "text": "Washington\u2014Gen. Leonard Wood, chief of staff, has recommended to President Taft that the four military posts in Hawaii be consolidated under one command.\n\n30,000 Miners Go to Work.\nKansas City, Mo.\u2014Thirty thousand coal miners of Missouri, Kansas, Arkansas and Oklahoma, who have been on strike for more than five months, returned to work Tuesday, all the mines in the southwest having resumed operation.\n\n150 Hurt in Train Wreck.\nLibbor\u2014One hundred and fifty persons were injured in a railroad wreck near Oporto Tuesday. The majority were only slightly hurt. One was killed."
+      "text": "Washington\u2014Gen. Leonard Wood, chief of staff, has recommended to President Taft that the four military posts in Hawaii be consolidated under one command.\n\n30,000 Miners Go to Work.\nKansas City, Mo.\u2014Thirty thousand coal miners of Missouri, Kansas, Arkansas and Oklahoma, who have been on strike for more than five months, returned to work Tuesday, all the mines in the southwest having resumed operation.\n\n150 Hurt in Train Wreck.\nLibbor\u2014One hundred and fifty persons were injured in a railroad wreck near Oporto Tuesday. The majority were only slightly hurt. One was killed.",
+      "status": "ok"
     },
     {
       "bbox": [
         1288,
         342,
         1518,
+        923
+      ],
+      "label": "text",
+      "text": "ALCOHOL-3 PER CENT\nVegetable Preparation for As-\nsimilating the Food and Regu-\nting the Stomach and Bowels of\nISLANDS CHILDREN\nPromotes Digestion, Cheerful-\nness and Rest. Contains neither\nOpium, Morphine nor Mineral\nNOT NARCOTIC.\nRecipe of Old D.S. SAUCHINGTON\nPumpkin Seed - Hosta\nNobility Tea - Aster Seed -\nEpimedium - Chamomile - Indian Seed -\nCinnamon - Chili Powder - Witchgrey Thyme\nAperfect Remedy for Constipa-\ntion, Sour Stomach, Diarrhea,\nWorms, Convulsions, Feverish-\nness and LOSS OF SLEEP.\nFac Simile Signature of\nDavid Hatcher.\nTHE CENTAUR COMPANY,\nNEW YORK.\nAmb months old\n35 DOSES 35 CENTS\nGuaranteed under the Foodam\nExact Copy of Wrapper.\n\nWANTS NO MODERNIZED BIBLE\nKing James Version the Best of All,\nSays Writer in Success\nMagazine.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1290,
+        928,
+        1518,
         1371
       ],
       "label": "text",
-      "text": "ALCOHOL-3 PER CENT\nVegetable preparation for Assimilating the Food and Regulating the Stomachs and Bowels of\nWANTS CHILDREN\nPromotes Digestion, Cheerfulness and Rest. Contains neither Opium, Morphine nor Mineral NOT NARCOTIC.\nRecipe of Old SANGLUZNITER.\nPumpkin Seed - Morphine -\nMahonia Seed - Morphine -\nArizona Seed - Morphine -\nClary Sage - Morphine -\nWinter Sage - Morphine.\nAperfect Remedy for Constipation, Sour Stomach, Diarrhoea, Worms, Convulsions, Feverishness and LOSS OF SLEEP.\nFac Signature of\nCourt Historian.\nTHE CENTURY COMPANY,\nNEW YORK.\nAbb months old\n35 Doses 35 CENTS\nGuaranteed under the Food and Exact Copy of Wrapper.\n\nWANTS NO MODERNIZED BIBLE\nKing James Version the Best of All,\nSays Writer in Success Magazine.\n\nWe are just old-fashioned enough to take no stock in the modernized Bible which is shortly to appear, \"couched in every-day language, with oblated words and phrases eliminated.\" The King James Bible has done more to preserve the good old Saxon words and style, the good best English literature has produced, than anything else. Instead of a movement to get us further away from that vigorous, simple, classic style, and the interest of establishing the finest literary ideas possible to a people destined to use the curious hybrid which the English language has become, it would be more sensible to frown upon all efforts to improve on the King James Bible. It is the greatest treasure house, inspiration and teacher of good English that we possess\u2014Success Magazine.\n\nBeware the Dog!\nA family moved from the city to a suburban locality and were told that they should get a watchdog to guard the premises at night. So they bought the largest dog that was for sale in the kennels of a neighbouring dog shelter. Then shortly afterward the house was entered by burglaries, who made a good haul, while the big dog slept. The man went to the dog fancier and told him about it."
+      "text": "We are just old-fashioned enough to take no stock in the modernized Bible which is shortly to appear, \"couched in every-day language, with obsolete words and phrases eliminated.\" The King James Bible has done more to preserve the good old Saxon words and style, which are the best English literature has produced, than anything else. Instead of a movement to get us further away from that vigorous, simple, classic style, and in the interest of establishing the finest literary ideals possible hybrid with the curious hybrid which the English language has become, it would be more sensible to frown upon all efforts to improve on the King James Bible. It is the greatest treasure house, inspiration and teacher of good English that we possess.\u2014Success Magazine.\n\nBeware the Dog! A family moved from the city to a suburban locality and were told that they should get a watchdog to guard the premises at night. So they bought the largest dog that was for sale in kennels of a disciplinary dog fancier, a German. Shortly afterward the house was entered by burglaries, who made a good haul, while the big dog slept. The man went to the dog fancier and told him about it.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +518,8 @@
         1410
       ],
       "label": "text",
-      "text": "\"Vell, vat you need now,\" said the\ngirl. \"It takes me to wake up\nwith the big dog.\"\u2014EVERYBODY'S"
+      "text": "\"Vell, vat you need now,\" said the\ngirl. \"It takes me to wake up\nwith the big dog.\"\u2014EVERYBODY'S",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +529,8 @@
         1433
       ],
       "label": "paragraph_title",
-      "text": "Perfectly Harmless"
+      "text": "Perfectly Harmless",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +540,8 @@
         1590
       ],
       "label": "text",
-      "text": "A little girl of three years, whose father had bought her some firecrackers and skyrocket for the Fourth of July, wanted to know what they were for. On being told their purpose, she anxiously inquired if they would hurt anybody. When told they would not, she seemed relieved, and that night, when asking her prayers, she added: \"An, Dod, don't 'o be 'frild of zem popin' fings when zey make a noise tomorrow, 'cause zey hurt 'ou.\""
+      "text": "A little girl of three years, whose father had bought her some firecrackers and skyrocket for the Fourth of July, wanted to know what they were for. On being told their purpose, she anxiously inquired if they would hurt anybody. When told they would not, she seemed relieved, and that night, when asking her prayers, she added: \"An, Dod, don't 'o be 'frild of zem popin' fings when zey make a noise tomorrow, 'cause zey hurt 'ou.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,17 +551,19 @@
         1614
       ],
       "label": "paragraph_title",
-      "text": "True Independence"
+      "text": "True Independence",
+      "status": "ok"
     },
     {
       "bbox": [
         1289,
         1615,
         1517,
-        2192
+        2163
       ],
       "label": "text",
-      "text": "You will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who, in the midst of the crowd, keeps, with perfect sweetness, the independence of solitude. -Emerson.\n\nPUZZLED\nHard Work, Sometimes, to Raise Children.\n\nChildren's taste is oftentimes more accurate, in selecting the right kind of food to fit the body, than that of adults. Nature works more accurately through the children.\n\nA Brooklyn lady says: \"Our little boy had long been troubled with weak digestion. We could never persuade him to take more than one taste of any kind of cereal food. He was a weak little chap and we were puzzled to know what to feed him on.\n\n\"One lucky day we tried Grape-Nuts. Well, you never saw a child eat with such a relish, and it did me good to see him. From that day on it seemed as though we could almost see him grow. He would eat Grape-Nuts or breakfast and supper, and I think he would have liked the food for dinner.\n\n\"The difference in his appearance is something wonderful.\n\n\"My husband had never fancied cereal foods of any kind, but he became very fond of Grape-Nuts and has been much improved in health since using it.\n\n\"We are now a healthy family, and naturally believe in Grape-Nuts."
+      "text": "You will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who, in the midst of the crowd, keeps, with perfect sweetness, the independence of solitude.\u2014Emerson.\n\nPUZZLED\nHard Work, Sometimes, to Raise Children.\n\nChildren's taste is oftinere more accurate, in selecting the right kind of food to fit the body, than that of adults. Nature works more accurately through the children.\n\nA Brooklyn lady says: \"Our little boy had long been troubled with weak digestion. We could never persuade him to take more than one taste of any kind of cereal food. He was a weak little chap and we were puzzled to know what to feed him on.\n\n\"One lucky day we tried Grape-Nuts. Well, you never saw a child eat with such a relish, and it did me good to see him. From that day on it seemed as though we could almost see him grow. He would eat Grape-Nuts for breakfast and supper, and I think he would have liked the food for dinner.\n\n\"The difference in his appearance is something wonderful.\n\n\"My husband had never fancied cereal foods of any kind, but he became very fond of Grape-Nuts and has been much improved in health since using it.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,17 +573,30 @@
         2422
       ],
       "label": "text",
-      "text": "\"We are now a healthy family, and naturally believe in Grape-Nuts. \"A friend has two children who were formerly afflicted with rickets. I was satisfied that the disease was caused because proper nourishment. They should it. We used Grape-Nuts as an experiment and the result was almost magical. \"They continued the food and today both children are well and strong as any children in this city, and, of course, my friend is a firm believer in Grape-Nuts for she has the evidence before her eyes every day.\" Read \"The Road to Wellville\" found in pkgs. \"There's a Reason.\" One appears from time to time. They are greeting, true, and full of human"
+      "text": "\"We are now a healthy family, and naturally believe in Grape-Nuts. \"A friend has two children who were formerly afflicted with rickets. I was satisfied that the disease was caused because proper nourishment. They should it. We used Grape-Nuts as an experiment and the result was almost magical. \"They continued the food and today both children are well and strong as any children in this city, and, of course, my friend is a firm believer in Grape-Nuts for she has the evidence before her eyes every day.\" Read \"The Road to Wellville\" found in pkgs. \"There's a Reason.\" One appears from time to time. They are greeting, true, and full of human",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1523,
+        168,
+        1746,
+        812
+      ],
+      "label": "text",
+      "text": "CASTORIA\nFor Infants and Children,\nThe Kind You Have\nAlways Bought\nBears the\nSignature\nof\nCharl H. Flutcher\nIn\nUse\nFor Over\nThirty Years\nCASTORIA",
+      "status": "ok"
     },
     {
       "bbox": [
         1526,
-        1162,
-        1748,
+        839,
+        1749,
         1186
       ],
       "label": "text",
-      "text": "\"What, hasn't George proposed yet?\""
+      "text": "SLOW.\n\n\"What, hasn't George proposed yet?\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +606,8 @@
         1470
       ],
       "label": "text",
-      "text": "\"What, hasn't George proposed yet?\"\n\"No, what can you expect of a man who won't speed his automobile over fifteen miles an hour.\"\nSomeone Might Get Hurt.\nPietro had drifted to Florida and was working with a gang at railroad construction. He had been told to beware of rattlesnakes, but assured that they would always give the warning rattle before striking.\nOne hot day he was eating his noon luncheon on a pine log when he saw a big rattler coiled a few feet in front of him. He eyed the serpent and began to lift his legs over the log. He had barely got out of the way when the snake's fangs hit the back bored.\n\"Son of a gun!\" yelled Pietro.\n\"Why you no rings da bell?\"\u2014Everybody's Magazine."
+      "text": "\"What, hasn't George proposed yet?\"\n\"No, what can you expect of a man who won't speed his automobile over fifteen miles an hour.\"\nSomeone Might Get Hurt.\nPietro had drifted to Florida and was working with a gang at railroad construction. He had been told to beware of rattlesnakes, but assured that they would always give the warning rattle before striking.\nOne hot day he was eating his noon luncheon on a pine log when he saw a big rattler coiled a few feet in front of him. He eyed the serpent and began to lift his legs over the log. He had barely got out of the way when the snake's fangs hit the back bored.\n\"Son of a gun!\" yelled Pietro.\n\"Why you no rings da bell?\"\u2014Everybody's Magazine.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +617,8 @@
         1498
       ],
       "label": "paragraph_title",
-      "text": "How's This?"
+      "text": "How's This?",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +628,8 @@
         1525
       ],
       "label": "text",
-      "text": "We offer One Hundred Dollars Reward for any case of Catarach that cannot be cured by Hall's"
+      "text": "We offer One Hundred Dollars Reward for any case of Catarach that cannot be cured by Hall's",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +639,8 @@
         1619
       ],
       "label": "text",
-      "text": "Catarch Cure. He has cannot be cured by Catarch Cure.\n\nWe. the understanders, O.T. Tobiano, O. T. for the last 15 years, and believes him perfectly honestable to carry out any obligations made by his firm. WALDING, KINNAN & MARTIN. Catarch O. T. Halcany's Cure is taken internally, directly upon the blood and mucus membrane, and it works. Boldly, by wine 12 cm\u00b3 per bottle. Sold by all Drugs."
+      "text": "Catarch Cure. He has cannot be cured by Catarch Cure.\n\nWe. the understanders, O.T. Tobiano, O. T. for the last 15 years, and believes him perfectly honestable to carry out any obligations made by his firm. WALDING, KINNAN & MARTIN. Catarch O. T. Halcany's Cure is taken internally, directly upon the blood and mucus membrane, and it works. Boldly, by wine 12 cm\u00b3 per bottle. Sold by all Drugs.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +650,8 @@
         1643
       ],
       "label": "paragraph_title",
-      "text": "Uncle Allen."
+      "text": "Uncle Allen.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,17 +661,41 @@
         2129
       ],
       "label": "text",
-      "text": "\"If you're getting old and don't know it,\" philosophised Uncle Allee Sparks, \"you'll find it out when you go back to the town where you grow up and look around for the boys you use to play with when you were a kid.\"\n\nBy making use of the knowledge you have you will gain more.\n\nWE SELL GUNS AND TRAPS CHEAP Buy Furs and Hides. Send for catalog 105. N.W. Hide & Fur Co., Minneapolis, Minn.\n\nWhen it comes to finding fault, even a detective can make good.\n\nMrs. Winslow's Soothing Syrup For compassionate all-pain, acute pain. Use hot water.\n\nIf you would keep your friends don't put them to a severe test.\n\nCongestion causes many serious diseases. It is thoroughly cured by Doctor Flewett, Pamela Palms.\n\nOn a hailstorm, three for charcoal.\n\nWe are builders of our own charcoalers.-J. F. W. Ware.\n\nTRY MURINE EYE REMEDY For Red, Wink, Weary, Watery Eyes and GRANULATED EYELIDS: Murine Doe's 'Smart-Soothes Eye Pain Drama Doesin Salmine Eye Pain. Liquid, Scalp, Eye Bags. Take in Anaconda, Tape, Scalp, EYE BOOKS AND ADVICE FREE BY MAIL Murine EyeRemedy O., Chicago"
+      "text": "\"If you're getting old and don't know it,\" philosophised Uncle Allee Sparks, \"you'll find it out when you go back to the town where you grow up and look around for the boys you use to play with when you were a kid.\"\n\nBy making use of the knowledge you have you will gain more.\n\nWE SELL GUNS AND TRAPS CHEAP Buy Furs and Hides. Send for catalog 105. N.W. Hide & Fur Co., Minneapolis, Minn.\n\nWhen it comes to finding fault, even a detective can make good.\n\nMrs. Winslow's Soothing Syrup For compassionate all-pain, acute pain. Use hot water.\n\nIf you would keep your friends don't put them to a severe test.\n\nCongestion causes many serious diseases. It is thoroughly cured by Doctor Flewett, Pamela Palms.\n\nOn a hailstorm, three for charcoal.\n\nWe are builders of our own charcoalers.-J. F. W. Ware.\n\nTRY MURINE EYE REMEDY For Red, Wink, Weary, Watery Eyes and GRANULATED EYELIDS: Murine Doe's 'Smart-Soothes Eye Pain Drama Doesin Salmine Eye Pain. Liquid, Scalp, Eye Bags. Take in Anaconda, Tape, Scalp, EYE BOOKS AND ADVICE FREE BY MAIL Murine EyeRemedy O., Chicago",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1527,
+        2170,
+        1743,
+        2216
+      ],
+      "label": "text",
+      "text": "SHOES\nPROCESS\nMEN'S $2.00 & $3.00, $4.00 & $4.00, $5.00\nWOMEN'S $2.00 & $3.00, $4.00\nBOY'S $2.00 & $3.00",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1657,
+        2195,
+        1741,
+        2325
+      ],
+      "label": "text",
+      "text": "64",
+      "status": "ok"
     },
     {
       "bbox": [
         1526,
-        2170,
-        1743,
+        2222,
+        1657,
         2332
       ],
       "label": "text",
-      "text": "SHOES\nTHE PROCESS\nMEN'S $2.00, $3.00, $3.50, $4.00, $4.00, $5.00\nWOMEN'S $2.50, $3.50, $4.00\nBOYS $2.50, $3.50 & $3.00\nWOMEN'S $4.00\nFOR 30 YEARS\nThey are absolutely the most popular and bestsellers in the world.\nThey are the most adored everywhere, where because they hold their shape, fit better, wear less and look greater than other makes.\nThey are positively the"
+      "text": "FOR 30 YEARS\nThey are absolutely the most popular and bestsellers for the prize in America. They are known where because they hold their shape, fit better, grow larger than other males. They are positively the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +705,8 @@
         2426
       ],
       "label": "text",
-      "text": "most economical shoes for you to buy\nmongolian shoes - value guaranteed.\nmugger shoes - value guaranteed.\nmugger shoes - value guaranteed.\nmust supply you for mail Order Catalog.\nW. L. DOUGLAS. Brochure. Mass.\n\nFOR SALE  My 180 cm stock and own farm\nproduce. 10% discount. 80% off the price.\nW. L. DOUGLAS. Brochure. Mass."
+      "text": "most economical shoes for you to buy\nmongolian shoes - value guaranteed.\nmugger shoes - value guaranteed.\nmugger shoes - value guaranteed.\nmust supply you for mail Order Catalog.\nW. L. DOUGLAS. Brochure. Mass.\n\nFOR SALE  My 180 cm stock and own farm\nproduce. 10% discount. 80% off the price.\nW. L. DOUGLAS. Brochure. Mass.",
+      "status": "ok"
     }
   ]
 }

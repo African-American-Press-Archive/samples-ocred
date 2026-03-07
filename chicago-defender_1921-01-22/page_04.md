@@ -5,11 +5,7 @@ OSCAR MICHEAUX'S
 SYMBOL OF THE
 UNCONQUERED
 
-IRIS HALL; WALKER THOMPSON, LAWRENCHE
-HAULT, E. G. TATUM, MATTIE WILKES AND OTHERS
-Filled WITH ACTION, LOVE, INTRIGUE, SUSPENSE
-
-"The Unmarried Mother," which is the present week's offering of the La-Teague's one of the best attractions ever offered by this splendid group, and it
+"The Unmarried Mother," which is the present week's offering of the La Brea, is one of the best attractions ever offered by this splendid group, and it gives the patrons the opportunity of seeing a drama, the theme of which is nature itself, is always new. In this drama has theme and from it evolved a play that is pleasant surprise, for it is interesting in the extreme, the acacias lived and the characters are amazingly real. It is the story of the giving, which did not know, and of the baby that
 
 themes and from it evolved a play that is a pleasant surprise, for it is no extreme, the action is lively and the characters are amazingly real. It takes away the young girl who did not know, and of the baby that was wanted. Fony Langston through the four acts of this powerful drama you will lose consciousness of the fact that you are sitting within the four walls of the theater and gazing upon a stage acting the parts that have been created by the author's imagination. Instead, you will imagine that you are witnessing a real occurrence from life, which in the movie, for the material which inspired the writing of "Unmarried Mother" was gleaned from the problems that the author found in girls who had made the big mistake into this cast iron world babies who had detained the light against the curse of illigitimity.
 
@@ -79,22 +75,37 @@ John "Gravy" Hudgins, who for several seasons has been featured with the Monte C
 
 There are letters here for the following, and a word will have us strutting our Jones just like the doctor or George. Henry L. Johnson, Billy Cumber, Pearl Hughes, Clark & Kinky, Coleman Titus, D. Ireland Thomas, Hugh Turner, W. S. Thompson, Sam D. Knowles, John M. McKinnon, Isaac a West, Salem Tatum Whitney, Doe Doe Green, Roscoe Wickham, Frank Robinson, Mabel Whitman, King Hunter, Cocilia Butler, Will Masten, Baby Rose Proff, Bob Moore, Pauline Freeman,
 
-LOUIS WEINBERG, PRESIDENT AND GENERAL MANAGER
+AVENUE THEATRE
+31st Street and Indiana Avenue
+PANAMA AMUSEMENT CO.
+LOUIS WINBERG, PRESIDENT AND GENERAL MANAGER
 No Increase in Prices at This Theater
+
+WEEK STARTING SUNDAY, JAN. 23d
+THE QUALITY AMUSEMENT CO., EDWARD C. BROWN, Pres. & Gen. Mgr.
+PRESENTS THE LAFAYETTE PLAYERS, IN
+
+"LENA RIVERS"
 
 THE STORY OF A WOMAN'S LOVE
 A PLAY THAT TOUCHES THE HEART
 PRESENTED WITH AN INCOMPARABLE CAST
 
-OFFICE
-FROM
-M.TO
-P.M.
-On Sale
+BOX OFFICE
+OPEN FROM
+10 A. M. TO
+10 P. M.
+Sale on Sale
+Starting
+Monday
+EACH WEEK
 
 Souvenir Matinees: Sat. & Sun. 2:30
 Every Night (One Show Only), 8:30 Sharp
-Bargain Matinees Saturday
+Bargain Matinee Saturday
+
+One Week Only All Seats Reserved
+NOW PLAYING—"THE UNMARRIED MOTHER"
 
 # "THE BRANDING IRON"
 
@@ -123,13 +134,11 @@ Jersey City, N. J. Jan. 21. -Hurtig & Seamon's Big Show opened to capacity house
 
 One of the biggest Loop hits of the season is the team of Rucker and Winfield, who will play the theater this week. The act is a veritable knockout and on Monday night had things tied up for a white. Same old story all along the line. Some
 
-Bart Kennedy, the Imp of Satan, is wending his way east after a fine trip to the coast. This week he is playing the state of Nebraska. E. Alfred Drew, the Juggling Jester and slack wore artist, is resting in the south and says that mail will reach him if addressed to 914 Belden avenue, Lake Charles, La.
+Bart Kemett, the Imp of Satam, is wending his way east after a fine trip to the coast. This week he is playing the state of Nebraska. E. Alfred Drew, the Juggling Jester and slack wired artist, is resting in the south and says that mail will reach him if addressed to 914 Bleden avenue, Lake Charles, La.
 
-A fine letter arrived from Nona Burke, who will conduct song demonstrations at a large music store at Memphis, Teen. She would like to hear from her friends in and out, and sequester her. Georgia Kelly is having fine success entertaining at the Caswell hotel, Toledo, Ohio, and says mail will reach her addressed to 419 Washington street.
+A fine letter arrived from Nona Burke, who will conduct song demonstrations at a large music store at Memphis, Teen. She would like to attend and autograph and says write her, at $21 Beaulair Street. Georgia Kelly is having fine success entertaining at the Caswell hotel, Bedo, Ohio, and says mail will reach her addressed to 419 Washington street. Carlyle H. Underwood is completing a cabaret which he will call Royal Gala Theater, Dancing Dotson is a hit at the Orpheum Theater, Sloux City, Iowa. Old Time Darkies' Quartette are at the Orpheum Theater, Los Angeles, Cal. Wells & Wells, the real trap artists, are at the Lincoln Theater, Louisville, immediately, if not sooner. For the week of the 24th. Al wants to hear from Evans Fuller, the acrobat, immediately, if not sooner. A Chiles Laundry, are splitting the week between Springfield, Mass, and the Emery Theater, Providence, R. L. Charles Anderson, the yodler, is playing the Gay Theater, Birmingham Howard Theater, Washington, D. C. He is getting top price for a single, and the Sandy Burns Co. with whom Philip Jiles is now connected, is playing the Gay Theater, Birmingham, Ala., this week, and going great. It is合意 the best stocks ever seen in the South.
 
-Carylse H. Underwood is completing a cabaret which he will call Royal Guests, kushegoe, Dancing Dotter, a hit at the Orpheum Theater, Sloux City, Iowa.
-
-Dancing Dotson is a hit at the Orpheum Theater, Sioux City, Iowa. The Theater, located in the Orpheum Theater, Los Angeles, Cal., Walls & Walls, the real trap artists, are at the Lincoln Theater, the acrobat, KY, with the Lyceum, Cincinnati, Ohio, for the week of the 24th. Al wants to hear from Evans Fuller, the acrobat, Jacques Poet, & Stewen Roder, in a Chinese Laundry, are splitting the week between Springfield, Mass., and the Emory Theater, in Knoxville. Charles Anderson, yodler, is playing the week, with fine success, at the Howard Theater, Washington, D. C. He is getting top price for a single, and does one of the best stocks overseen in the South. The Sandy Burns Co. with whom Phil Jones is now connected, is playing the Gay Theater, Birmingham, Ala., and is playing the great. It is considered one of the best stocks overseen in the South. Tim Moore's Chicago Follies are at the Howard Theater, Okmulge, Oka. Letter to Frank King was mailed last week. -Antonio. Boatner & Boatner, Davenport & Davenport, Williams, Williams and Wellesley, and the Lincoln Theater, Louisville, KY, this week. The Eaton & Eaton Molley Makers are at the Lincoln Theater, Okmulge. Harrison Blackburn is featured. Harvey's Greater Minstrels are playing a big week at the Grand Opera, Little Rock. Slim Jim Austin and Josie Graham, formerly of Harvey's Minstrels, are now with a stock company playing an affiliate engagement at the Lincoln Theater, KY. It is the Kid Thomas Review. Mysterious Dillard the Magician is playing the week at the Grand剧院, Boutte & Carter, whom the press of the west claim to be the best dancing team that ever showed over the Pantag韵 theater, Seattle, Wash.
+Tim Moore's Chicago Follies are at the Landmark Theater, Okulngei, Olka Lake, and King was maledict last week—Antonio. Boatner & Boatner, Davenport & Davenport, Williams & Williams and Olka Lake are all on one bill at the Lincoln Theater, Loulville, KY, this week. The Eaton & Eaton Mokaya Makers are playing at the Grand Opera, Olka Lake. Harrison Blackburn is featured Harvey's Greater Minstrels are playing a big game at the Grand Opera, Olka Lake. SimJim Austin and Josie Graham, formerly of Harvey's Minstrels, are now with a stock company playing an indefinite engagement at the Lincoln Theater, KY. It is the Kid Thomas Review. Mysterious Dillard the Magician is playing the week at the Grand theater. Boutte & Carter, whom the press of the west claim to be the best dancing team that ever showed over the Pantagoras theater, Seattle, Wash.
 
 Zacharia White is a hit all along the line with the Lonnie Fischer Co. He was named a matte, Detroit, Mich., time ago. He was time ago. Fiddler & Perry, who are going great for the W. V. M. A., are dividing the week between the two Soo's, Ontario and New York. Lulu Coates & Crackerjackers are at the Majestic theater, Jersey City, N.J.
 
@@ -150,19 +159,15 @@ The question: eternally confronting the unmarried and unsophisticated young man 
 
 The picture is said to contain all the joyous and human hilarity which characterized the stage play when the compelling season in New York. One finds at the outset the problem of Reggie Irving, a nice, quiet chap who for an annoying reason has been grilled by a sude Angelica of the fact that he is absolutely the best article in the maritalional department store at any price. Angelica who has always been trimmed with a scarlet lurid past; and hence, Reggie is forced to arrange circumstances to convince the girl that Don was and not even in the same league with him.
 
-Eugene Pallette, who depicted so skillfully a similar role in 'Tail and Warmer', which is based on the story of Kathleen Kirkham is Angelina. Ruth Stonehouse has an important part as Polly Hathaway, the society scandal reporter, and Henry Eckert, the equally prominent role. Edward Dillon directed the picture, W. M. Edmond was the photographer, and special art effects were arranged by Sidney Ullman. The scenario is by June Mathis and A. P. Younger.
+Eugene Pallete, who depicted so skillfully a similar role in *Fair and Warmer*, which sturter in *The Eighth Kirkleigh* is Angelina. Ruth Stonehouse has an important part as Polly Hathaway, the society scandal reporter; and Henry Miller Jr. will be seen in an equally important picture in *The Unconquered* the picture, W. M. Edmond was the photographer, and special art effects were arranged by Sidney Ullman. The scenario is by June Mathis and A. P. Younger.
 
 FINAL BOOKING
-
-What is no doubt the final booking for the great Micheaux production, "The Symbol of the Unconquered," is a story of the movies, and there is next week at the Pickford theater. This feature has caused more comment than anything that has had a local showing in the history of the movies, and there is delight another chance of seeing it. The dates are Thursday, Friday and Saturday, Jan. 27, 28 and 29.
+What is to doubt the final booking for the great Micheaux production, "The Symbol of the Unconquered," is the showing for the three final days of next week at the Pickford theater. This feature has caused more comment than in the history of the movies, and there are many people who will hall with delight another chance of seeing it. The dates are Thursday, Friday and Saturday, Jan. 27, 28 and 29.
 
 BIG SHOW IN
+"Town-Pin-Pin" the Teenan Jones-Dave Peyton show, which has had a fine trip east for the past six weeks, arrived in Chicago on Sunday night. New York, Brooklyn, Philadelphia, Washington and Pittsburgh were visitations, and show was a disunfit hit at all stands.
 
-"Town Top-Pikin," the Teenan Jones-Dave Peyton show, which has had a five-hour run in Chicago on Sunday night. New York, Brooklyn, Philadelphia, Washington and Pittsburgh were visited and the show was a distinct hit at all stands.
-
-THE STANDARD
-
-The Philadelphia, Pa. Jan. 18—This is the 15th Anniversary Week here and manager Gibson has a cracker-jack bill on it; it brings the famous Ennis and a crew in New York one of the fastest and most impressive acts in all vaudeville. The Sid Percy Co., which has been a great success in the South for the past season, is a performance in New York and dance combination. Edwards and O'Brien, with a fine musical novel, are a hit and the Hardtack Jackson Co., a skeleton role, a road trip, the White Fletcher, seen here for the first time, in "Dancing a la Carte" do well. As a performer in New York, Miniature Ice Carnival, introducing several of the world's best skaters in a marvelous and sensational real ice novel, is holding the large audiences Helen Dunnlap are on the same job, and both have enjoyed the hospitality of some of the town's most prominent people. Like attended a dinner party at the Arcadia, a miniature Ice Carnival,
+[OCR timeout]
 
 Austin & Delanoy are at the Pantages Theater, Denver, Col.
 
@@ -217,31 +222,40 @@ Can love be the motive for a deed of brute ferocity? Was it love that made Pierr
 
 ## IKE YOUNG
 
-A copy of "Music and Poetry," a new monthly magazine which, is being published and edited by Nora Douglas Hale, one of the foremost musicians and composers of America, and musical editor of the Chicago Defender, is being circulated. It is a handsome artifact is full of reading matter suitable for those whose taste mildly classics in the two subjects mentioned.
+A copy of "Music and Poster," the new monthly, magazine which is, being published and edited by Nora Douglas Hines and composers of America, and musical editor of the Chicago Defender, is circulated. It is a handsome atlantic and fashionable for those whose tastes run for the classics in the two subjects mentioned.
 
-A woman risks her good name to prove her love for the man of her choice
+A woman risks
+her good name
+to prove her love
+for the man of
+her choice
 
-See NAZIMOVA THE PEERLESS in BILLIONS
+See
+NAZIMOVA
+THE PEERLESS
+in
+BILLIONS
 
-Scenario by CHARLES BRYANT
-Directed by RAY...C. SMALLWOOD
+By
+NAZIMOVA
+MBIRO
+Productions
 
-Scandal
-Always Sets People Talking
+Scenario by
+CHARLES
+BRYANT
+Directed by
+RAY...C.
+SMALLWOOD
 
 SCANDAL
-In High Life Is a Choice Morsel for the Gossips
+In High Life Is a Choice Morsel
+for the Gossips
 
 SCANDAL
 In This Photoplay That Will
 Astonish You!
 A Fit Vehicle for the Gamut
 of Moods of
-
+NAZIMOVA!
 MON. & TUES., JAN. 24-25
-HAMMOND'S
-VENDOME
-State in 31st Block
-ON'S
-BES. BELL POPLAB 905
-RD THEATER

@@ -4,50 +4,85 @@ The reports from the grain fields of Central Canada, (which comprises the Provin
 
 Various estimates of the total yield of wheat for the country have been made, but it is not the vast total that influences the general reader so much as what has been done individually. The grand total—say 130 million bushels—may have its effect on the grain of the world; it may be interesting to the world's markets the wheat crop of Canada has suddenly broken up, forming boards, and with the Argentine and with Russia and India, is now a factor in the making of prices. If so today, what will be its effect five or ten years from now, when, instead of there being seven million acres under crop with a total of 145 or 130 million bushels, there will be from 17 to 30 million acres in wheat with a yield from 325 to 600 million bushels. When it is considered that the largest yield in the world slightly exceeded 700 million bushels, the greatness of these figures may be understood. Well, such as a safe forecast, for Canada has the land and it has the soil. Even today the Province of Saskatchewan, one of the three great wheat growing provinces of Canada, with 400,000 acres under wheat, produces nearly 90 million bushels, or upwards of one-tenth of the greatest yield of the United States. And Saskatchewan is yet only in the beginning of its life. As Lord Grey recently pointed out in articles on this very subject, this year's crop does not represent one-tenth of the soil equally fertile that is yet to be brought under the plough.
 
-Individually, reports are to hand of yields of twenty-five, thirty and thirty-five bushels to the acre. Scores of yields are reported of forty and some as high as sixty bushels. The farmer, who takes care of his soil, who gets his seed-bed ready early, is certain of a splendid crop.
+Individually, reports are to hand of yields of twenty-five, thirty and thirty-five bushels to the acre. Scores of yields are reported of forty and some as high as sixty bushels. The farmer, who takes care of his soil, who gets his seed bed early early, is certain of a splendid crop in the word of the important crop yield throughout the Canadian West will be pleasing to the friends of the thousands of Americans who are residents in that country and who are vastly instrumental in the assistance they are rendering to let the world know its capabilities.
 
-The news of the magnificent crop yield throughout the Canadian West will be pleasing to the friends of the thousands of Americans who are restless for his waters. Newwed—No; all I dare to do is to throw cold water on the bread.
+Charity and Courage.
 
-Ladies who take pride in clear, white clothes should use the new RUSS BLUE. Sold by grocers.
+Knicker-Do you ever cast your bread on the waters?
+
+Newwed-No; I all dare to do is to throw cold water on the bread.
+
+Ladies who take pride in clear, white clothes should use the now RUSS BLUE. Sold by grocers.
 
 It is harder for a woman to pray her husband into heaven than it is to nag him into the other place.
 
 PILES CURED IN 6 TO 14 DAYS.
 
-PLEASE be guaranteed to give any case of itching, Blind, Hemiplegia or Portretting Files in 10 days or more refunded. 60.
+PAZO OINMUNEN is guaranteed to cure any case of piles in 60 days. Including Piles in the 80 days or money refunded. 600.
 
 Don't blame the phonograph if it has a bad record.
 
-WESTERN CANADA
-
-What Governor Deneon, of Illinois, Says About It:
-
-Governor Deneon, of Illinois, owns a section of all KIDNEY DISEASES: PHEUMATISIS, BRIGHT'S DISEASE, BACKLE.
-
+DODD'S
+KIDNEY
+PILLS
+FOR ALL KIDNEY DISEASES
+THE HEUMASTATISM
+BRIGHT'S DISEASE
+DIABETES BACKFETCH
 1875 *Guarantee*
 
-160 ACRE
+WESTERN CANADA
 
-FARMS IN WESTERN CANADA
-
+What Governor Doneen, of Illinois,
+Says About It:
+Governor Doneen, of Illinois, owns a se-
+cation of land in Indiana, near
+Canada. He has said in
+160 ACKRE
+FARMS IN
+WESTERN
+CANADA
 FREE
 
-As an American I am proud of the progress of people looking across the boneyard and the park. I am not one who is sniffing. They are all doing well. Genuine in the Middle or not a representative in Manitoba.
-
+"As an American I am
+delighted to recognize a
+Western Canada
+project poised to
+possess the boundary in thou-
+sands of acres. I am not one who admitted
+them. They are all doing well,
+until the country in the Middle or
 not a representative in Manitoba.
+Saskatchewan or Alberta."
 
-125 Million Bushels of Wheat in 1909
+125 Million Bushels of
+Wheat in 1869
 
-Wheat will still yield to the farm. Free Homesteads of 160 acres will be available at 8,000 an acre. Railway and Land Commission. Many Farmers have paid for the one crop. Bendid climate, good soils. Bendid climate, good soils. Low freight, rates, water and
+Western Canada gold crop for
+wheat at $170,000,000.00 in cash.
+or $170,000,000.00 in cash.
+and pre-amps of 180 acres
+gd 83.500 and 87.500 acres.
+An ounce of wheat can be for sale
+at reasonable price. Many farm-
+ers sell the proceeds of one crop,
+such as wheat, oats, wheat
+excellent livestock facilities, low-
+weight cattle, wood water and
+freight rates.
 
-E.Y. Molee, 315 Jackson St. St. Paul Min.; W.V. Bennett, Room 4 Bed Bridg, Osaka, Neh. (Use address nearest you.) (1)
+E.T. Minneapolis, 316 Jackson St. St. Paul Minneapolis.
+W.F. Renault & Room 4 Bloe Wig, Somers, Neb.
+(Like address near you.) (1)
 
 When You're Hoarse Use
 PISO'S
 CURE
-THE BEST MEDICINE FOR CURSES AND CUSS
-Gives immediate relief. The first dose relieves your aching throat and allows the irritation. Guaranteed to contain no opiates. Very palatable.
-All Drugs, 25c.
+THE BEST MEDICINE FOR COUGHS & CUSS
+
+Gives immediate relief. The first dose relieves your aching throat and allays the irritation. Guaranteed to contain no opiates. Very palatable.
+
+AR Droughts, 25s.
 
 # Between Dances
 
@@ -69,89 +104,56 @@ Anne tapped her foot on the wooden edge of the window-seat; finally she laughed.
 
 “Well, von Hammerstein, for instance!”
 
-"Certainly I do," promptly; "don't you?
+"Certainly I do," promptly; "don't you?"  
+"I don't think I know him quite as well as you do."  
+"If you did, you would," said Anne, enthusiastically. "He is—so interesting."  
+Out of the corner of her eye she observed that her enthusiasm awakened no response.  
+When Jack spoke it was on another subject, though not unconnected with the former: "Pretty swell violets you have on," he said. "Made in Germany?"  
+"What do you mean?"  
+"I mean, am I the only man who isn't your violets? You are wearing some to light."  
+"Why, Jack!—Jack, don't you see, you are the only man I know well enough to—well—to advise for his own good?"  
+Anne's face wavered between resentment and guilty amusement; finally a reluctant smile crept toward the dimple in her left cheek, and she lifted reproachful eyes to his.  
+"Ah, Jackie, how mean you are!" she said, in a small voice she reserved for him.  
+"Anne!' Her heart jumped with the startle of it. The voice was no more Jack's familiar voice than the stern white face was his face. And a boy a good many times in the past, Anne," he said. "I am not a boy. The time has come when you must understand that."
 
-"I don't think I know him quite as well as you do."
+Something in the low repressed bones hurried the girl's heart-beats and made it hard to hold her eyes level on his. She found her eyes dropping till she could see nothing but her own tightly clasped hands; at that she was both angry and ashamed; it had never happened to her before.
 
-"If you did, you would," said Anne, enthusiastically. "He is—so inter-eating."
+"It means something to me," she heard him saying, "that you should not think of me as a boy. I find I can't stand it any longer. Anne, will you look at me, please?" Anne's ears were full of pounding noises, and her heart was doing uncomfortable outings for looking at him—furiously sudden that she was afraid to look. Then she considered; afraid of jack—Jack? That was plainly ridiculous. She would not yield to such soily; she would look at him coolly and say: "Well?" But she did not. And then through the pounding the voice came again, still lower, but with a quiet incomprehensible authority in it: "Look at me, Anne!" He had not moved, but it seemed to her that he had taken her face in his two hands and was lifting it; and the rebellious eyes followed the same imperious power. A long minute she looked with eyes that could not escape the passionate holding of his, while he gave her his soul to read as a man holds out his palm to a friend. And when the minute was over, the knowledge of her that the face was indeed not the face of a boy, but of a man. "Queen Anne—my queen!" he breathed.
 
-Out of the corner of her eye she observed that her enthusiasm awakened no response.
+The girl made a hasty, tremulous motion, slipping to her feet as if to escape some danger. The movement brought her gown against him, and both his hands closed round the one which hung at her side. The clasp was so unlike the friendly grasp of the hand she knew as Jack's that she thought she did not like it; a little gasp came from her lips with the incoherent words: "Oh, please—oh, don't Jack, make me very uncoffee—I don't want—"
 
-When Jack spoke it was on another subject, though not unconnected with the former: "Pretty swell violets you have on," he said. "Made in Germany."
+"I must speak. Anne. How long do you suppose a man can bear this sort of thing? If you have any merry in you, tell me now."
 
-"What do you mean?"
+"Tell—you—what?"
 
-"I mean, am I the only man who isn't allowed to send you violets? You are wearing some to-night."
+"Whether there is any hope for me or not. I have waited till I can wait any longer, little girl; I've got to have you—or lose you, now. If—Von Hammerstein—if I'm out of the running, for God's sake tell me so!"
 
-"Why, Jack!—Jack, don't you see, you are the only man I know well enough to—well—to advise for his own good?"
+"No! desperately, 'I can't. I am all mixed up. Jack, you aren't the same—nothing the same—I don't know what I think."
 
-Anne's face wavered between resentment and guilty amusement; finally a reluctant smile crept toward the dimple in her left cheek, and she lifted reproachful eyes to his.
+"When will you know?" huskily.
+"I—oh, you are coming! I come me go back!"
 
-"Ah, Jack, how mean you are!"
-
-she said, in a small voice she reserved for him.
-
-Anne! Her heart jumped with the thrill of the voice was no more Jack's familiar voice than the stern white face was his face.
-
-"You have called me a boy a good many times in the past, Anne," he said. "I am not a boy. The time has come when you must understand that."
-
-Something in the low repressed tones hurried the girl's heart-beats and made it hard to hold her eyes level on his. She found her eyes dropping till she could see nothing but her own tightly clasped hands; at that she was both angry and ashamed; it never ever happened to her before.
-
-"It means he heard him saying, "that you should not think of me as a boy, I find an I stand it any longer. Anne, will you look at me, please?"
-
-Anne's ears were full of pounding noses, and her heart was doing uncomfortable things out of due location; as for looking at him! she realized suddenly that she was afraid to look. Then she considered; afraid of Jack—Jack! That was plainly ridiculous. She would not yield to such force, she would his palm to fright and say; "Well." But she did not. And through the sound the voice came again, still lower, but with a quiet incomprehensible authority in it: "Look at me, Anne!"
-
-He had not moved, but it seemed to her that he had taken her face in his two hands and was lifting it; and the rebellious eyes followed the same imperious power. A long minute she looked with eyes that could not escape the passionate holding of his, while he gave her his soul to read as well and take his pain to fright. And when the minute was over, the knowledge had crept through every fiber of her that the face was indeed not the face of a boy, but of a man.
-
-"Queen Anne—my queen!" he breathed.
-
-The girl made a hasty, tremulous motion, slipping to her feet as if to escape some danger. The movement brought her gown against him, and both his hands closed round the one which hung in the pocket of his clasp as the friendly grump of the hand she knew as Jack's that she thought she did not like it; a little gasp came from her lips with the incoherent words: "Oh, please—oh, don't, Jack; you make我 very uncomfortable! I don't want—"
-
-"I must speak, Anne. How long do you suppose a man can bear this sort of thing? If you have any mercy in you, tell me now."
-
-"Tell you, what?"
-
-Whether there is any hope for me, not I have waited till I can't wait any longer, little girl! I've got to have you—or—lose you, now. If—Von Hammerstein—if I'm out of the running for God's sake tell me so! "No! desperately, I can't. I am all mixed up. Jack, you aren't the same—nothing is the same—I don't know what I think.
-
-"When will you know?" huskily. "I—oh, some one is coming! me go, Jack!"
-
-As he released her hand she slipped at the moment a louder chord from the piano sounded through the opening portions, and Von Hammerstein came into the room. He flushed and smiled with an air of satisfaction at sight of the slender,
+The released her hand she slipped by him, and at the moment a louder chord from the piano sounded through the opening porch, and Von Hammersstein came into the room. He flushed and smiled with an air of satisfaction at sight of the slender,
 
 "What do you mean?"
 
-white figure. "Found at last, gnades Fraulen," he said, coming directly toward her, but including the other man in his salute. "You have been a truant."
+white figure. "Found at last, gaudy Grauelman," he said, coming directly toward her, but including the other man in his salute. "You have been a truant."
 
-Annestead herself to the instinctively raily woman, old or young, makes when hard pressed. She managed to smile back, as she said: "And are you the truant officer?"
+Anne steadied herself to the instinctively rally every woman, old and young, makes when hard pressed. She managed to smile back, as she said: "And are you the truant officer?" "Gott bewahr," laughed the leutenant, "I am not in the civil service. But you—they are playing a waltz"—he spoke his glance keen, passed from the girl to the man, then became a observing. He had paused, and Mr. Dreyer began to speak, quickly, but in an ordinary tone. So it happened that both men said, almost in unison: "This was my dance, I think?" and "May I have the honor!"
 
-"Gott behrw," laughed the leutenant, and it am not in the civil service. But they are playing a waits—as he spaced his glance keen, passing from the girl to the man carefully observing. He had paused, and Mr. Durham began to speak, quickly, but in an ordinary tone. So it happened that both men said, almost in unison:
+Then both stopped, and straightened involuntarily. The German flushed; the American was very pale. In a moment the leutenant turned with an elaborate formality to the other man. "We are rivals," he said, dramatically, and with a smile. "Will either of us withdraw?" "Not unless you wish to," said the other, with the same courteous inflection, but gravely.
 
-"This was my dance, I think?" and "May I have the honor?"
+A gleam came into the leutenant's blue eyes, and a direct pass passed between the two. After that neither at the door or the other; each looked at the man, and both looked at the accentuated lightness the leutenant had used. The latter said: "We are in your hands, fair lady, which will you honor!"
 
-Then both stopped, and straightened involuntarily. The German flushed; the American was very pale. In a moment the leutenant took with an elaborate formality to the other man. "We are rivals," he said, dramatically, and with a smile. "Will either of us耐w?
+"But, mele Herren," said Anne, with a touch of nervousness in her smile, "I cannot dance with you both at once; you surely will not put me to the discomfort of denying myself either pleasure?" But her questioning look met no sign of the expected withdrawal in either face. Instead, Jack spoke, his eyes meeting hers squately: "It is too bad; but you see Von Hammerstein and I are such bitte- rivals' that we insist on a decision from you." "Precisely," assented the German, bowing; "we awake your choice, gaudigie Feynals, and drill flush sprang to the girl's cheeks. "I think I shall have to sit out this dance," she said, her head a little higher than it had been. "Pardon me," interrupted Mr. Durham, quickly; "don't say you won't play, please. The object of this game is to choose your partner—and Lieut. von Hammersstein and I are very anxious to play." "Very," said the gentleman referred to. Anne stood between them, every natural and tactful way of disposing of the trifling difficulty made impossible to her consciousness by the electric atmosphere of disgust earnestness and covered significance which emanated from the face. Every woman at all once at once to drop away from the world leaving her alone with those two men, waiting for more than her answer to the insignificant claim.
 
-"Nun unless you wish to," said the other, with the same courteous inflection, but gravel.
+"There are 'rules for every game,' she said, slowly, her head bent, as she stood before them. "This one is usually decided according to priority, isn't it?" She heard Jack take a quick, hard, breath, the leutenant had really begun his task, the time the latter bent toward her eagerly. "Did I not have the good fortune to precede Mr. Durham, very slightly?" he said, touching his mustache nervously. Anne moved uncertainly, wavering, toward him. A light sprang to his eyes as he saw the little motion. "Are we to keep strictly to the rules?" he said, with a suppressed triumph in his light tone, so he think Franklin Gorman belongs to me!
 
-A gloom came into the leutenant's blue eyes, and a direct look passed between the two. It cannot dance with you both at once; you surely will not put me to the discomfort of denying either pleasure. But her questionelfriendly. "Is it the girl the expected withdrawal in either face? Jack spoke, his eyes meeting hers squarely. "It is too bad; but you see Von Hamsterstein and I are such bite- rivals' that we insist on a decision from you.
+The girl started and lifted her head sharply. A strange expression flitted across her face. It looked as if she were listening inwardly. "What did you say?" she asked after a moment, very gravely and slowly.
 
-"Precisely," assented the German, bowing: "we await your choice, gnades Fraulen."
+The leutenant smiled at her with more than a suggestion of claim in his glance. "What?" she asked, night wai't? he said, with just a hint of lingering on the word before the pause.
 
-A vivid sprush sprang to the girl's cheeks. "I think I shall have to sit out this dance," she said, her head a little higher than it had been.
-
-"Pardon me," interrupted Mr. Durham, quickly. "don't say you the game is to choose your partner—and Leutv. von Hamsterstein and I are very anxious to play."
-
-"Very," said the gentleman referred to.
-
-Anne stood between them, every natural and tactful way of disposing of the trifling difficulty made impossible to her consciousness by the electric atmosphere of disgusted earnestness and covered significance which emanated from the two. Everything seemed to world leaving her alone with those two men, waiting for more than her answer to the insignificant claim.
-
-"There are rules for every game," she said, slowly, her head bent, as she stood before them. "This one is usually decided according to priority, isn't it? She heard Jack take a quick, hard, breaken his little speech first. At the same time the leutenant had really begun his little speech first. At the same time the girl bent toward the door. "Did I ever the good fortune to precede Mr. Durham, surely slightly?" he said, touching his mustache nervously. Anne moved uncertainly, wavering, toward him. A light sprang to his eyes as she saw the little motion. "Are we to keep strictly to the rules?" he said, with a suppressed triumph in his light tone. "If so, I think Fraulen Gregory belongs to me."
-
-The girl started and lifted her head sharply. A strange expression flitted across her face. "I said you were mine—for the dance, nicht wahr?" he said, with just a hint of lingering on the word before the pause.
-
-As he said it, it seemed to the man who was增高 a suggestion of claim in his glance. "I said you were mine—for the dance, nicht wahr?" he said, with just a hint of lingering on the word before the pause.
-
-As he said it, it seemed to the man who was增高 a suggestion of claim in his glance. "I said you were mine—for the dance, nicht wahr?" he said, with just a hint of lingering on the word before the pause.
-
-As Jack's hand closed eagerly over the one she laid on his arm, and his great breath released itself in a great sigh of passionate relief and joy, she turned to the other candidate with a gentle regret in her tender eyes.
+As he said it, it seemed to the man who stood cold and tense with a dawning despair at her other side, that an electric shock ran along the girl's nerves. Her color came and went swiftly. Her eyes flashed open wide and startled. A moment to the man in silence, looking at the man who had spoken. She a sudden sweet litter ran from her lips; her face reaxed its tense lines, and she took a quick breath on the end of a slight shiver. With a swift, sure movement she drew slightly back and aside, so that she stood at Mr. Durham's side. "Oh, no; I'm not," she said, with a happy security in her voice. "You are mistaken; I wasn't quite sure my before—but—I begged to beDurham!" as Jack's hand closed eagerly over the one she laid on his arm, and his hold breath released itself in a great gush of passionate relief and joy, she turned to the other candidate with a gentle regret in her tender eyes.
 
 "I am very sorry to seem unkind," she said; "but the fact is, Mr. Durham established his claim—long while ago."
 
@@ -169,16 +171,44 @@ A WARNING THAT MUST NOT BE IGNORED Pain in the back is the kidneys' signal of di
 
 # A KIDNEY REMEDY OF 75 YEARS' EXPERIENCE
 
-DOAN'S KIDNEY PILLS began curing lame backs and sick kidneys 75 years ago. The demand lead a nearby druggist, James Doan, to prepare it for sale. From him the magic formula passed to the present proprietors. Now, as in those early days, Doan's Kidney Pills are made from only the purest drugs and are absolutely non-poisonous. They are used and praised all over the civilized world.
+[OCR timeout]
+
+DOANS
+KIDNEY
+PILLS
+If the Pain is Done
+It's Your Kidneys
+Sold by all dealer
+
+LOVE AND MONEY. COUNT
+
+AN'S KI
+all dealers. Price 50 cents. Fost
+COUNTRY AWAKE TO DANGER
 
 # DOAN'S KIDNEY PILLS
 
 Sold by all dealers. Price 50 cents. FOSTER-MILBURN Co. Buffalo, N Y. Proprietors.
 
-They say "love makes the world go round."
-And if they never cease;
-Quite true, but please then don't forget,
-Money's the axle grease.
+Examine carefully every bottle of CASTORIA, a safe and sure remedy for infants and children, and see that it Bears the Signature of PETER LATTER. In Use For Over 30 Years.
+The Kind You Have Always Bought.
+
+Calumny is not only the greatest benefit a rogue can confer on us, but the only service he will perform for nothing. - Lavater.
+
+A TRIPLING COUGH will become a perennial benefit a rogue will require. A stop it. A bottle it is large enough for that. Sold by all druggists, $26, $50 and $10 bottles.
+
+After a man has flattered a woman she begins to think it over and decides that he really meant it.
+
+Dr. Pierre Boulte, small, snug-coated, easy to take, regulate, regulate, stomach, liver and bowels and cure constipation.
+
+Every mother knows a lot of good rules for raising other people's children.
+
+TO CURE A COLD IN ONE DAY
+Take OXYGEN to the doctor. Dress, dress, dress, money if it hits to cure. R. W. GOWN's signature is on each box. Rx.
+
+Absence of occupation is not rest; a mind quite vacant is a mind distressed.
+
+They say "love makes the world go round." And and it never cease; Quite true, but please then don't forget, Money's the axle grease.
 
 ## A BURNING EUPTION FROM HEAD TO FEET
 
@@ -208,60 +238,29 @@ For children teething, softens the gums, reduces inflammation, paints gums, warm
 
 A small boy never looks comfortable in his Sunday clothing.
 
-DOAN'S KIDNEY PILLS MAKE LASTING CURES
+DOAN'S KIDNEY PILLS
 
-J. R. Black, 1909 E. Sixth street, Topaik, Kansas, says: "In the spring of 1909 Doan's Kidney Pills brought me such great relief that I did not hesitate to make the fact known and give this remedy my most earnest endorsement. In my statement I said that for three years I had attached to my complaint. I had full grumbling ache across the small of my back that greatly inconvenienced me when reaching and straining in doing my work. An annoying kidney weakness was also in evidence and it was out of the question form to sleep well in the morning. I was all tired out and it can be seen that I was in bad shape. The use of Doan's Kidney Pills quickly and surely drove away these symptoms of kidney complaint and I have since been in good health."
+J. R. Black, 1905 E. Sixth street, Topkasha, Kansas, say: "In the spring of 1890 Doan's Kidney Pills brought me such great relief that I did not hesitate to make the fact known and give this remedy my most earnest endorsement. In my statement I said that for three years I had not grumbling ache across the small of my back that greatly inconvenient me when reaching and straining in doing my work. An annoying kidney weakness was also in evidence and it was out of the question for me to sleep well. In the morning I could not even step on my shoes in bad shape. The use of Doan's Kidney Pills quickly and surely drove away these symptoms of kidney complaint and I have since been in good health.
 
-The foregoing statement was given in March 1905, and when Mr. Black was interviewed on Nov. 12, 1908, he said: "I have never had a return attack of kidney complaint and I know that my cure is a permanent one. My faith in Doan's Kidney Pills is stronger than ever."
+Forgoing statement was given in March 1901, and when Mr. Black was interviewed on Nov. 12, 1908, he said: "I have never had a return attack of kidney complaint and I know that my cure is a permanent one. My faith in Doan's Kidney Pills is stronger than ever."
 
-A TRIAL FREE Test Doan's Kidney Pills Yourself
-Cut out this coupon, mail it to Foster-Milburn Co. Buffalo, N.Y. Proprietors.
+A TRIAL FREE Test Doan's Kidney Pills Yourself Cut out this coupon, mail it to Foster-Milburn Co., Buffalo, N.Y. A free trial package of Doan's Kidney Pills will be mailed you promptly.
 
-AN'S KIDNEY PILLS
-all dealers. Price 50 cents. FOSTER-MILBURN Co. Buffalo, N.Y. Proprietors.
+Mr. James Crooks, First St. N. W., American Fork, Utah, says: "I had kidney complaint for ten years or more. Sometimes a twinge darted through the small of my back and I often became so helpless that I was compelled to go to bed with my clothes on. The attacks liten lasted for days at a time and I could not even step on my shoes. My condition was certainly alarming. The secretions from my kidneys were irregular in passage and contained a heavy sediment after standing. I well know what the misery kidney complaint causes and can therefore appreciate the pains of it. I remember that cures this disease. Doan's Kidney Pills lived up to the claims made for them in my case and effected a cure. My kidneys were restored to a normal condition and my health greatly improved." (Statement given Aug. 24, 1907).
 
-COUNTRY AWAKE TO DANGER
-Immense Amount of Money Spent Last Year in Fight Against Tuberculosis.
+On August 11, 1907, Mr. Crooks interviewed by one of our representatives and she said: "I give me pleasure to reinduce Doan's Kidney Pills. They cured my backache and my health is now good. Other members of my family have taken this remedy with decided benefit."
 
-A report issued recently by the National Association for the Study and Prevention of Tuberculosis shows that for the treatment of tuberculous patients in sanatoria and hospitals $5,292,289.77 was expended during the year 1909. The anti-tuberculosis associations spent $75,889.56, the tuberculosis dispensaries and clinics $640,474.64, and the various municipalities, for special tuberculosis work, spent $1,111,967.53. The anti-tuberculosis associations distributed the most literature, spreading far and wide $3,400,000 copies of circulations, pamphlets and printed matter for the purpose of educating the public about consumption. The health departments of the different cities also distributed more than 1,056,000 copies, which, with the work done by state departments of health, brings the number of pieces distributed during the year well over 10,000,000. The largest number of patients treated during the year was by the disemption of where 61,585 patients were given free treatment and advice. The sanatoria and hospitals treated 37,758 patients, while anti-tuberculosis associations assisted 16,968.
+Immense Amount of Money Spent Last Year in Flight Against Tuberculosis.
 
-Mrs. James Crooks, First St. N. W., American Fork, Utah, says: "I had kidney complaint for ten years or more. Sometimes a twinge darted through the small of my back and I often became so helpless that I was compelled to go to bed with my clothes on. The attack often lasted for days and I could not even stop to put on my shoes. My condition was certainly alarming. The secretions from my kidneys were irregular in passage and contained a heavy sediment after standing. I well know what the misery kidney complaints caused and I can therefore appreciate the痛苦 of a remedy that cures this disease. Doan's Kidney Pills lived up to the claims made for them in my case and effected a cure. My kidneys were restored to a normal condition and my health grew better. On Aug. 24, 1909, Mrs. Crooks was interviewed by one of our representatives and she said: "It gives me pleasure to reendame Doan's Kidney Pills. They cured my backache and my health is now good. Other members of my family have taken this remedy with decided benefit."
+A report issued recently by the National Association for the Study and Prevention of Tuberculosis shows that for the treatment of tuberculous patients in sanatoria and hospitals $5,292,289.77 was expended during the year 1909. The anti-tuberculosis associations $759,893.86, the tuberculosis dispensaries $4,644.44, and the various municipalities, for special tuberculosis work, spent $1,111,967.53. The anti-tuberculosis associations distributed the most literature, spreading far and wide 8,400,000 copies of circulars, pamphlets and printed matter for the purpose of educating the public about consumption.
 
-Don't Persecute your Bowels
-CARTER'S LITTLE LIVER PILLS
-Purify vegetable. Act as a detergent or a cleanser. Do not use on the skin. Do not overheat. Do not use on the skin.
+The health departments of the different cities also distributed more than 1,056,000 copies, which, with the work done by state departments of health, brings the number of pieces distributed during the year well over 10,000; the number of patients treated during the year was by the dispensaries, where 61,568 patients were given free treatment and advice. The sanatoria and hospitals treated 37,768 patients, while anti-tuberculosis associations assisted 16,968.
 
 ## Deafness Cannot Be Cured
 
-by local applications, as they cannot reach the closed portion of the ear. There is only one way to handle it by an inflamed condition of the Dehnens is caused by an inflamed condition of the ear. Dehnens is caused by an inflamed condition of the ear. It is infused into you a rumbling sound or impaired hearing, and when it is entirely closed, Dehnens can be taken out and this tube is restored to its normal condition out of ten are caused by Cataract, which is nothing to worry about. We will give One Hundred Dollars for surgeries. We will give One Hundred Dollars for surgeries. F. J. CHENEY & CO., Tolino, Oake Hall Family Plans for constipation.
+[OCR timeout]
 
-No Nonsense to Him.
-
-"John," she said to him, think about trial marriages is just horrid!
-
-"Oh, you dunno."
-
-"Why, you don't believe in them yourself, do you?" "Have to. If there's any marriage." Stray Stories.
-
-Important to Mothers.
-
-Examine carefully every bottle of CASTORIA, a safe and sure remedy for infants and children, and see that it Signature of CASTORIA In Use For Over 30 Years.
-
-The Kind You Have Always Bought.
-
-Calumny is not only the greatest benefit a rogue can confer on us, but the only service he will perform for nothing. -Lavater.
-
-A TRIPLING COUGH will become a permanent feature in a rogue, a lengthy enough for that. After a man has broken a woman she begins to think it over and decides that he really meant it.
-
-Dr. Pineau Palletia, small, simple, easy to wear. Regale, regale and regale stainless liver and bowels cure constipation.
-
-Every mother a lot of good rules for raising other people's children.
-
-TO CURE A COLD IN ONE DAY.
-
-Take a warm, regular and vigorous Drregale rinsed money if it fails to cure. B. W. GWYW is a signature on each box. No.
-
-Absence of occupation is not rest; a mind quite ravant is a mind distressed.
+[OCR timeout]
 
 DONEY PI
 PER-MILBURN Co. Buffalo, N.Y.
@@ -289,51 +288,97 @@ package
 
 WRIGLEY
 
-Mrs. James Crooks, First St., N. W., American Fork, Uork, says, "I had kidney complaint for ten years or more. Sometimes a tween darted through the small of my back and looked at me. I wore a mask and put on clothes on. The attacks (often listed for days at a time and I could not even stoop to put on my shoes. My condition was certainly alarming. The secretions from my kidneys were irregular in passage and I could not stop crying well. know what the minery kidney complaint causes and I can therefore appreciate the merits of a remedy that cures this disease. Donna's Kidney Pills lived up to the claims made here. I was restored to a normal condition and my health greatly improved." (Statement given Aug. 22, 1997.)
+WRIGLEY'S SPEARMINT
 
-On Aug. 24, 1909, Mrs. Crooks was interviewed by one of our representatives and she said, "It gives and pleasures to transform Doub's Kidney Pills. They cure my backache and my health is now good. Other members of my family have taken this remedy with decided benefit."
+The Flavor Lasts
+Remember that!
+
+Mayer
+Martha Washington
+Comfort Shoes
+
+Genuine comfort—that's what it means to wear the stylish Martha Washington Comfort Shoes. They fit like a glove, and insure complete rest and relief. No buttons or laces—just slip them on and off like a slipper. Elastic at the sides provides perfect fit over any instep. You will never know how comfortable a good looking shoe can be until you have worn MARTHA WASHINGTON COMFORT SHOES
+
+Bienes of initiation. Only the premium have the name Martha Washington and Mayer Trade Mark stamped on the sole. Retire substitutes.
+
+Your dealer will supply you; if not, write to us.
+
+FREE—If you will send us the name of a dealer who does not have the Mayer Washington Comfort Shoes, we will send you free, postpaid, a beautiful picture of Martha Washington, size 13 x 14.
+
+We also make Honorblight Shoes for men. Leading Lady Shoes Forms, Cushion Shoes, Special North School Shoes and Work Shoes.
+
+F. Mayer Boot & Shoe Co.
+MILWAUKEE, WI.
+
+ERS EXPERIENCE
+kidneys 75 years ago. The demand
+the magic formula passed to the pres-
+re made from only the purest drugs
+for the civilized world.
+
+MAKE LASTING CURES
+
+Mrs. James Crooks, Fint St. N. W., American
+Fork, Utah, says, "I had kidney complaint for ten
+years or more. Sometimes he became darman-
+the small of the body. I often became soheshed
+that I was compelled to go to bed with my clothes
+on. The attacks often lasted for days at a time
+and I could not even stoop to on my aboes.
+My condition was certainly alarming. The secre-
+tion from my kidneys was awry, in a passage
+and contained a heavy sediment after standing.
+I well know what the misery kidney complaint
+causes and I can therefore appreciate the merits
+of a remedy that cures this disease. Donan's
+Kidney Falls in the place. The Manmade for the
+in my case and effected a cure. My kidneys were
+restored to a normal condition and my health
+greatly improved." (Statement given Aug.22,1907.)
+
+On Aug. 24, 1909, Mrs. Crooks was interviewed by one of our representatives and she said: "It gives me pleasure to thank Donat Kifley Pills. They cured my backache and my health is now good. Other members of my family have taken this remedy with decided benefit."
 
 Y PILLS
-Suffalo, N.Y.' Proprietors.
 
-DOANS MIDDLE PILLS
+Buffalo, N.Y. Proprietors.
 
-If the pain is Tame it our Moorings.
+DOANS KIDNEY PILLS
+
+If the pain is there It's Your Mommy
+
+WEEKS
+BREAKUP A COLD TABLETS
+16 ounces to the package
+25c FOR COLDS AND "GRIPPIE"
+25c NO CALORIE; NO OPIATE
+
+RIGLEY'S WRIGLEY PEARMINT WR
+
+"Every Picture Tells A Story."
 
 "Cow Troubles"
-Is the title of our Book 8.2 that is not free telling you how you can be graved and please to transform Doub's Kidney Pills. They cure my backache and my health is now good. Other members of my family have taken this remedy with decided benefit."
+Is the title of our Book 8 in
+that real telling you buy you can
+recover your Vaccine from
+Vaccine Waste. You will love
+from becoming best mills with
+$1.00 per Box
+at Dealers. A Postal brings the Book,
+O. H. MFG. CO., 30 Chapal St, Lyndon, Va.
 
-SECUTE
-els
-They are heard
-
-CARTERS
-WITH
-IVER
-PILLS.
-
-$1.60 per Box
-at Dealers. A Postal brings the Book.
-O. H., MFG. CO., 30 Chapel St., Lyndon, Va.
+Cows' Rolloff
+at Dealers.
 
 Des Moines
 Iowa
 CURES
 LIQUOR, DRUG
-HABITS
-Call or Write NOW
+MACCO
+HARITES
+
+Call or write NOW
 for Our Free Booklet
-
-Keeley
-Cure
-705 WEST FOURTH ST.
-
-WEEKS'
-BREAK UP A COLD TABLETS
-25c FOR COLDS AND "GRIPPE"
-25c NO CALOMEL; NO OPAYES
-
-RIGLEY'S WRIGLEY
+700 WEST FOURTH ST.
 
 PATENT Book and Advice FREEB.EM.
 Boston, MA. D.C. Box 827. Bc. Book information.

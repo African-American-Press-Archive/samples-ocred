@@ -5,122 +5,155 @@ to eight apartments.
 ALEL
 add two-fat building, brick, 5 and 6 rooms.
 
-THE JOHNSON RESIDENCE, 3121 WABASH AVE, phone Douglas, 8450—Nicely furnished all modern conveniences; near car line and "L"; use of kitchen and laundry; references exchanged.
+THE JOHNSON RESIDENCE 3121 WABASH
+AVE, phone Douglas 8450--Nicely furnished
+room; modern conveniences; near car line
+and "L"; use of kitchen and laundry; references
+exchanged.
 
-3817 VERNON AVE, 2ND APT., PHONE DOUGLAS 3512—Nicely furnished room; steam heat; at water at all times; neatly, one block, 80th st. car line, 2 blocks to Kenwood L. and wife or single lady; only one lady has a kitchen.
+3317 VERNON AVE. 2ND APT., PHONE DOUGLAS
+3512--Nicely furnished room; water at all times; quiet family; one block
+930 st. car line; 2 blocks to Kenwood L."
+930 st. car line or single lady; only one lady has
+kitchen.
 
-4347 FORRESTVILLE AVE, PHONE KENWOOD 4118—Nicely furnished room, front, large and ally; steam heat; elegant light; splendid neighborhood; near car line.
+4347 FORRESTLE AVE. PHONE KENWOOD
+Nearly furnished rooms, front, large and
+altry; storm heat; electric light; splendid
+neighborhood; near car line.
 
-3830 SOUTH PARK DLVD, PHONE DOUGLAS 5280—Two neatly furnished, light and rooms; one a front; hot water service; pleasantly situated on the boulevard; suitable for a couple or gentleman; near 35th st. car line.
+3320 SOUTH PARK BLVD. PHONE DOUGLAS
+SOUTH PARK AVE. PHONE DOUGLAS
+Fine, neatly furnished, light and airy
+rooms; good water service; pleasantly
+situated on the boulevard; suitable for a couple
+or gentleman near 353 st. car line.
 
-3155 BO PARK AVE, PHONE DOUGLAS 2988—Line, large front light and ally room; overcooling boulevard; two closely, hot water light and ally rooms; neat, good hot water service and transportation; short walk to lake; reasonable to desirable parties; man and wife or guests.
+3315 SO PARK AVE. PHONE DOUGLAS
+Fine, neatly furnished, light and airy
+rooms; overlooking boulevard; two closed; short walk to
+service; good transportation; short walk to
+reasonable to desirable parties; man and wife
+or gents.
 
-3267 VERNON AVE, COR/33D BLVD, PHONE DOUGLAS 5280—Nicely furnished large and small light and ally rooms; neat, good hot water service and transportation; short walk to lake; reasonable to desirable parties; man and wife or guests.
+3327 VERNON AVE., COR./332 BLVD., PHONE
+DOUGLAS 3385--Nicely furnished large and small
+rooms; fine view; good hot water
+service and convenience; an ideal home for
+right persons; man and wife or gents preferred.
 
-3314 RHODES AVE, PHONE AUTO 75-704—Nice light, ally side room; neatly decorated; good transportation; hot water service; reasonable; man and wife or guests.
+3214 RHODES AVE. PHONE AUTO 75-704--
+Nice light, ally side room; neatly furnished
+lately decorated; good transportation; fine hot
+water service; reasonable man and wife
+gents.
 
-AVE.—FURNISHED BEDROOM kitchen; $4 weekly; basement kitchenette; 2.50; strictly up to 15-22
+AVE. FURNISHED BEDROOM
+kitchen 1 weekly; basement
+kitchenette $2.50; strictly no
 
-AVE.—FURNISHED BEDROOM kitchen; $4 weekly; basement kitchenette; 2.50; strictly up to 15-22
+AVE., 1ST FLAT, KENWOOD furnished rooms; very light and en conveniences; near car line; men preferred. 22.20
 
-AVE.—2D FLAT, PHONE KENWOOD, oak section; convenient to heat, hot water; all modern one neighborhood; young men or women
+AVE., 2D FLAT, PHONE KENWOOD on rent, very ally; convenient to heat, hot water; all modern connec- neighborhood; young men or women. 22.20
 
-2D APT., PHONE KENWOOD, furnished front room for girls; steam heat and hot water; $2.50
+2D APT., PHONE KENWOOD furnished front room for gentleman heat and hot water; $2.50 D. Stewart. 22.20
 
-D. Stewart.
+ST., 2D APT., PHONE BREW.- furnished side room for men persons; steam heat, hot water. 22.20
 
-ST. 2D APT., PHONE DREX, furnished side room for man persons; steam heat, hot water.
+VE. SEAR ST. LAWRENCE oakled 4600- Neatly furnished light rooms; hardwood floor, electric light, water service; married couple or single lady; gentleman; suitable for light housekeeping; 2 blocks to "L" or surface lines. 22.20
 
-VE. SEAR ST. LAWRENCE, furnished large, neatly furnished light rooms; hardwood floor; friendly live water service; married couple or single lady; gentleman; suitable for light housekeeping; 2 blocks to "L" or surface lines.
+2555 CALMET AVE., PHONE DOUGLAS $100- Neatly furnished rooms, light, cool; all modern conveniences; kitchen; near car line; very desirable. 22.20
 
-3535 CALMET AVE, PHONE DOUGLAS 3510—Nicely furnished rooms, light, cool; all modern conveniences; kitchen; near car line; very desirable.
+2556 WARASH AVE.-FURNISHED OR UNFURNISHed rooms, steam heat, rooms, steam heat, room large, ally, well lit and modern throughout; near "L" station and car line. 22.20
 
-3266 WARASH AVE.—FURNISHED OR UNFURNISHED rooms, steam heat, room, steam room large, ally, well lighted and modern throughout; near "L" station and car line.
+2557 FOREST AVE., PHONE DOUGLAS $100- When looking for nice, moderate, conveniences, call at the Forest Inn. 22.20
 
-3654 FOREST AVE, PHONE DOUGLAS $900—When looking for nice, moderate, convenient rooms, call at the Forest ln.
+2558 RHODES AVE., APT. 3. PHONE DOUGLAS $100- Two furnished rooms, large, light; in private family, nice, nice room for married couple or single people; no other rooms near 35th st. car line; one block from Cottage Grove. 22.20
 
-3558 RHODES AVE, APT. 3, PHONE DOUGLAS 3581—Two furnished rooms, large, light; in married couple or single people other rooms; near 35th st. car line; one block from Orange Gorge.
+4418 WARASH AVE. PHONE DREXEL 7301- First Flat--Nearly furnished room; hot and cold water; electric lights; near car line; elegant neighborhood. 22-29
 
-4118 WARASH AVE, PHONE DREXL 7201—Flat, neatly furnished room; hot and cold water; electric lights; near car line; elegant neighborhood.
+4247 WARASH AVE. 2ND FLAT, TEL. KEN- wood 7041--Nearly furnished light and airy rooms, hot water, all conveniences; near two car lines. 35
 
-4247 WARASH AVE, 2ND FLAT, TEL KENWOOD, 7414—Nicely furnished light and air rooms, hot water; all conveniences; near two car lines.
+8744 RHODES AVE. 2ND APT., PHONE 1004- ins 3100--Large furnished rooms for rent; suitable man and wife; steam heat, hot water; near 30th st. car line; rent reasonable. 22
 
-3744 RHODES AVE, 2D APT., PHONE DOUGLAS 3518—Large furnished rooms for rent; suitable man and wife; steam heat, hot water; near 35th st. car line; rent reasonable.
+22 E. 44TH ST.
+Neatly furnished
+heat, electric
+all modern
+car line.
 
 TO
-ROOM TO
-back parlor, suit-
+A ROOM to
+ack parlor, suit-
 a week; a small
 dry to Elevated and
-good 108. Call up.
+coal TIG. Call up.
 
 THE FURNISHED
 man and wife;
 e for an ideal
-bed.
+flat.
 
-DOUGLAS 472
-furnished lit-
-tle; large rooms for
-heat; hot linens;
-prices $2.50, $3.00,
-$4.00. One large room for four people
-and Mrs. Franklin.
+A VE
+ished lit.
+heat, hot car.
+$4,000. One large room for four people
+and. Meat Franklin.
 
-DOS AVE. PHONE DOUGLAS 1492
-furnished for rent; steam heat and hot
+325 AVE. PHONE DOUGLAS 1492—
+rooms for rent; steam heat and
 all hours; suitable for single man or
-woman; $1.20 and up.
+flat.
 
-4723 18th AVE. 2ND FLAT—LIGHT, AIRY
-furnished lights and airy rooms; hot
+3722 SH AVE. 2ND FLAT—LIGHT, AIRY
+rooms for rent; all modern conven-
+tion; single gentlemen or married couple.
+
+3620 CNET AVE. STEL. DOUGLAS 277—
+Neatly furnished rooms to rent; hot
 water; convenience; near car line.
 
-MET AVE. STEL. DOUGLAS 277
-furnished furnished rooms to rent; large and
-airy; rance heat; near car line.
+3623 FWOOD AVE. PHONE DOUGLAS 3671—
+Tables furnished rooms to rent; large and
+airy; warm heat; near car line.
 
-2723 PWOOD AVE. PHONE DOUGLAS 3671
-furnished furnished rooms to rent; large and
-airy; rance heat; near car line.
+3629 HOODE AVE. FLAT 2—NICELY FUR-
+nished rooms to rent for one or two gentlemen;
+ten heat and bath.
 
-2729 HODES AVE. PLAT 2—NICELY FURNISHED
-room; furnace heat; hot and cold running wa-
+320 LANGLEY AVE. NEATLY FURNISHED
+room; furnace heat; cold and warm wa-
 in each room; all modern conveniences; near
 line.
 
-20 LANGLEY AVE. NEATLY FURNISHED
-room; furnace heat; hot and cold running wa-
-in each room; all modern conveniences; near
-line.
-
-RENT—LARGE, LIGHT, AIRY PRONT
-for two men or man and wife; 3818
+RENT--LARGE, LIGHT, AIRY PROF
+g for two men or man's and wife. 3818
 ave.
 
-HODES AVE. PHONE DOUGLAS 1450
-furnished room for rent; front room and other
-rooms, with bath, hot water and all
-cees.
+HOUSE AVENUE, PHONE DOUGLAS 450--
+lled rooms for rent; front room and other
+ry rooms, with bath, hot water and all
+eas. 15-22
 
-EST AVE. 3153 CALMET AVE.
-was 1351. Nicely furnished or unfor-
+EST AVENUE, 3253 CALMET AVENUE.
+Has 1553 - Sleekly furnished or unfor-
 small and large; light and airy;
 newly decorated; excellent kitchen
 service. All conveniences; strictly
+15-22
 
 IAN WISHES TO RENT ONE
 furnished room to steady party;
-airy; in beautiful neighborhood;
-surface line; rent $2.50 per week
-in Phone Duxel 3641.
+airy in beautiful neighborhood;
+surface line; rent $2.50 per week.
+Phone Drexel 8394.
 
 1 LARGE WELL LIGHTED
-single guest; modern conven-
-ture 3654.
+single pent; modern conven-
+tion 3854. 15-22
 
 PHONE KENWOOD
-man or lady;
+men or lady;
 $2.50 per
 
 3356 PRAIRIE AVE.
@@ -318,16 +351,13 @@ When the licenses of the Panama and Pompel cafes were revoked last Tuesday two o
 
 ## Personal Liberty
 
-If the personal liberty of the people of Chicago is to be gauged by a couple of narrow-minded policemen, especially as to who shall and shall not be allowed to enjoy the privileges of public houses, and if the licenses of these houses depend upon the reports of such censors, then the time has come when any man who runs a public house has a very poor chance.
+If the personal liberty of the people of Chicago is to be gugged by a couple of narrow-minded policemen, especially as to who shall and shall not be allowed to enjoy the privileges of public houses, and if the licenses of these houses depend upon the reports of such censors, then the time has come when any man who runs a public house has a very poor chance.
 
-It is a common thing to see white men entertaining, wining and dining a certain class of the Race's women at the large range of grill shops and the women are not of the representative class, however, and have hit the bottom of the toboggan as surely as have these white prostitutes who cohabit with a certain element of the men of the Race in cafes of the character of the Panama. Still, there never has been a mention of the "mixture" in any of the reports turned in by these "moral experts" as regards the downtown grills and cafes.
+It is a common thing to see white men entertaining, wining and dining a certain class of the Race's women at the large downtown grills and cafes. These women are not of the representative class, however, and have hit the bottom of the toboggan as surely as have these white prostitutes who cohabit with a certain element of the men of the Race in cafes of the character of the Panama. Still, there never has been a mention of the "mixture" in any of the reports turned in by these "moral experts" as regards the downstairs grills and cafes. The defense of the defending man of the dives operated by Isidore Levin, as the Panama for years has been a plague spot in the district called the "Black Belt." We are only standing up for the right that any man who operates a business should have in allowing whom he pleases to patronize his place, and for the personal liberty that any man or woman, white or black, is entitled to in choosing who they associate with, and where.
 
-We are not defending the class of dives operated by Isadore Levin, as the Panama for years has a plague spot in the district called the "Black Belt." We are only standing up for the right that any man who operates a business should have in allowing whom to be the personal liberty but any man or woman, white or black, is entitled to in choosing who they associate with, and where.
+What about these "white" men who cohabit with the women of their opponents, the Race men who do the same? The former are allowed to practice their detrivity without protest from anybody, while the latter have their "headquarters" taken away from them because their dominicans are Caucasians.
 
-What about these "white" men who cohabit with the women of their opposite color? Are they any better than the Race men who do the same? The former are allowed to practice their deravity without protest from anybody, while the latter have their "headquarters" taken away from them because their dominion are Caucasians.
-
-Raco Polica Women
-
+Race Police Women
 What should be done, inasmuch as the present plan has been inaugurated, is to
 
 # Invest Your Money Here, Where Factories Never Bank Their Fires
@@ -381,8 +411,6 @@ H. J. Coleman & Co.
 4929 State Street
 Tel. Oakland 36
 
-Tel. Oakland 36
-
 NOTICE! A NICELY FURNISHED ROOM IN BEAUTIFUL, LIGHT FLAT
 
 MARRIED COUPLE OR TWO SINGLE
@@ -414,6 +442,35 @@ Call Sunday, 2 to 4 p.m.
 4437 Langley Ave. Two-flat frame and brick building. Capital, $384 yearly.
 H. O. STONE & W. Monroe St.
 
+NOT JUDDER
+LITTLE JOB
+ON TOGETHER
+
+WHERE IS THE
+SMOOTH PAN
+
+HELP! OFFICER!
+I'VE BEEN RUOSED BY
+A 8-BLACK MAP!
+
+AT WHICH WAY
+DO YOU LOOK
+TO LAST?
+
+- AT POLICE STATION -
+- WE'LL ROUND UP
+ON WHILE BUCH
+GOOD IN AND MISS
+
+- POLICE LIEUT. -
+
+NEXT DAY:
+WELL, I GUESS BIS
+AINT SOFT DIGGING
+FOR YOUR TELE
+
+- POLICE LIEUT. -
+
 secure the appointment of a few Race women to the police department and have them detailed to watch conditions in the big loop caffes, where the loophound entertains his dusky amorata without fear of the calamity howl of a pair of skirts or of jeopardizing the license of his dear place of assignation.
 
 # MURDERED OVER A GAME OF CARDS
@@ -432,9 +489,49 @@ The following editorial appeared in the Record Herald on July 15th:
 
 Illinois is indeed proud of her "Colored" soldiers, and the Record Herald deserves much credit for calling attention to the admirable behavior of the Eighth regiment. The fact remains, however, that San Antonio, as well as all the rest of Texas, is regulated by legislation which inspires the writing of such comment as is contained in the above clipping. Mexicans, the very people who have made it necessary to have the Eighth on the border, the most hurtful raids along the border line, where they show down in cold blood innocent men, street cars and children, can ride on street cars and get the best accommodations in railroad trains and public houses, while members of the Race, who wear the uniform of Uncle Sam, have the choice of bearing insults or staying in their own camp. There never has been a single instance where adverse comment regarding the behavior of the members of the Eighth has not been caused by some humiliating insult being offered by some "white" man, and whether it occurs in Texas, this class may always find Col. Dennison's body ready to resent such treatment. The Eighth Illinois consists of a thick of the Race's manhood in this state and is not a crew of trained legorotes out hunting for heads. They are on the border today ready to do or die for the protection of the very people who have and are legislating their privileges and rights as men away, one by one. The curtailing of privileges may be looked upon by the Record Herald's correspondent as "little things," but he views conditions from the angle of one who is not touched by them. If they are "little things," his posture and loudly crying by the people of Texas; but it is safe to say that any move that tends to lessen the degradation of the Race in the Lone Star State would be met by stubborn opposition, no matter what service had been rendered by them. Such is life in the South.
 
+```markdown
+
+```
+
 ## CHEER UP
 
 You who have something to sell can do so with an ad. in THIS PAPER.
+
+Phone Oakland 5878
+
+ROBERT S.
+
+REAL E:
+
+He was working for a constructi
+company and while on a wall natu
+morning of last week at 3:30 a.m.
+killed in some manner. An jockey
+held Monday at Jackson's under
+establishment, but was postponed
+Tuesday of next week for lac
+nesses. He was a member
+lodge, Grand United Order c
+lows. The body will be
+Smarrs, Ga. He leaves a bea
+is here, and a mother and father at
+home.
+
+Tell your troubles to our
+Advertiser; they pay us
+for your inquiries.
+
+Just:
+counter,
+written
+VALUI
+HIND
+up-to-d
+cause
+
+KF
+
+---
 
 # ATTEND HOME-COMING EVENTS AT WAUKESHA
 
@@ -450,15 +547,13 @@ The Symptoms Tired and drowsy feeling, accompanied by headaches, depression or s
 L. M. GROSS,
 620 E. 14th St. Little Rock,
 
-Dellers, Leibrand
+D. e. ers, Leibran
 6 E. 31st
 Calumet 986
 
-Phono Oakland 5878
+Phone Oakland 5878
 
-ROBERT S.
-REAL E
-RENTING LOANS
+RENTING
 
 3434 S. STATE STREET
 Near Garfield Blvd
@@ -467,83 +562,47 @@ WOLF BROTHERS Hair
 No more breaking of lamp chimneys. With one of
 Straightening Comb or Curling Iron quickly and
 Alcohol Heater 75 cents
-Prince Paid in U.S.
-Length, 49 in. Weight, 5 oz.
+Postage Paid in U.S.
+Length, 4½ in. Weight, 5 oz.
 Thousands are using these outfits and rec
 WOLF BROS. 1214 N. Senate
 
-He was working for a constructi
-company and while on a wall satur
-morning of last week at 3:30 a.m.
-killed in some manner. An lodge
-held Monday at Jackson's under
-establishment, but was postponed
-Tuesday of next week for lac
-nesses. He was a member
-lodge, Grand United Order o
-lowes. "The body will be
-Smarrs, Ga. No leaves. a
-is here, and a mother and father at
-home.
+1234567890
 
-Tell your troubles to our
-Advertisers; they pay us
-for your inquiries.
-
-MME S. BEDFORL
-grower and scalp sp
-for years, growing and b.
-her establishment is unc
-motto is "Honesty" and h
-advertising will win public
-dent. Now is the time to
-the demand is greater than
-"Bedforline" hair grower is
-beautifying all kinds of ha
-other scalp diseases. T
-watch the results. (Plea
-
-Mme. Bedford
+MME S. BEDFORL grower and scalp sp for years, growing and l her establishment is unc motto is "Honesty" and advertising will win public dent. Now is the time to the demand is greater than "Bedforine" has grower is beautifying all kinds of ha other scalp diseases. "I watch the results." (Plea AGENTS
 
 ## MADAME S. BE
+
+25 Years' Experience 8A
 
 Original Indian
 
 WILL POSITIVELY GR
 of life in the roots. It is an it
 eradicates dandruff. It restore
-falling out, and keeps it healthy
-Beauty Shop
+falling out, and keeps healthy
+Beauty Shop.
 
-AGENTS WANT
+AGENTS WAR
+
 FOR
-John Eddy, 51st and State St.; Crown Phar
-ter, 3510 State St.; Crown Phar
-ter, 36th and State Street; Charle
-Two Sizes 25c a.
+John Eddy, 51st and State St.; O
+ter, 3510 State St.; Crown Pharm
+36th and State Street.; Charl
+Two Stairs, 256 a.
 
 Mrs. Mary J.F. Park
-
-JU
 
 ADVERT
 fact, it is noth
 of a bell in r
-strokes in r
+strokes in t
 abouts of d
 advertising-
 soon forgot
-telling effect
+telling effe
 
-Just:
-counter,
-written
-VALUI
-HIND
-up-to-d
-cause
-
-Just
+Just :
 counter,
 written
 VALUI

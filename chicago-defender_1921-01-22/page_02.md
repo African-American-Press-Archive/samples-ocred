@@ -56,10 +56,11 @@ Mrs. Bettie Williams, 26 years old, 4241 Evans avenue, suffered internal injurie
 
 ## Determine Death Cause
 
-Wood alcohol was at first suspected as having caused the death of Walter Blackman, 20 years old, 4623. State street, but at the coroner's inquest it was determined that tuberculosis was the cause of death.
+Wood alcohol was at first suspected that it had caused a bladder infection. Bladman, 20 years old, 4623 jelly street, but at the coroner's inquest it was found that the coronae of tuberculosis was the cause of death.
 
-Thrown From. Car
-Mesdames Emma Hall. 28 years old, 2521 Els avenue, and Elizabeth Peters. 2521 Rhodes avenue, both suffered injuries which were thrown to the ground from a State street car which was too crowded.
+## Thrown From Car
+
+sidames Emmia Hall. 28 years old, died in 2015. Mr. Emmia, 27 years old, 3556 Rhodes Avenue, both suffered injuries when they were struck by a car on the street car which was top crowded.
 
 ## Mrs. Alice Foster Dies
 
@@ -77,9 +78,15 @@ fainted in his class room.
 
 ## Feet and Hands Frozen
 
-Samuel Edwards, 24 years old, 3031 Dearborn street, was carried to the County Hospital when he was found at 9:30 and Federal streets with his feet and hands frozen.
+Samuel Edwards, 24 years old, 3031
+Dearborn street, was carried to
+the County Hospital when he was found
+at 29th and Federal streets with his
+feet and hands frozen.
 
-Joseph Butler, 18 years old, 3348 State street, was carried to the Psychopathic Hospital in a demented condition.
+Joseph Butler, 18 years old, 3248
+Saint street, was carried to the Psychotic
+Hospital in a demented condition.
 
 Make Your Hu
 
@@ -88,6 +95,8 @@ When a man comes home he is entitled to a good dinner that nothing will please h
 CANDIER
 
 GET THE GENUINE
+
+MARY MCKINNEY
 
 # Make Your Husband Happy!
 
@@ -117,8 +126,6 @@ General Offices Chicago Warehouse Southern Headquarters 155 N. Clark St. 3008 Co
 
 TO OUT-OF-TOWN PEOPLE—Special arrangements made to serve you by American Railway Express. Order direct from our farmware store. For address and goods will be delivered promptly, direct to your kitchen. A mail order cash with order. We guarantee to ship only first class goods. You take no chances. Fill in coupon and send it with your check or money order.
 
-## Thrown From Car
-
 SHOOTING POLICEMAN
 GEORGE SHOOTING, 22 years old, 1744 Walnut street, was found guilty of assault of a nut tree, and was sentenced to 230 days. 2330 Bancroft street, by a jury in Chief Justice Charles McDonald's criminal court and sentenced to 18 months, for the assault of a secretary. His courtroom was A.J. Bounder, made application for a new trial, which was granted, and upon a plea of guilty the court sentenced him to 3 months in the county jail. Smith shot Officer Braxton Aug. 6, when he was visiting the home of Mrs. Luella Topp, who had said that Smith was visiting her when Officer Braxton came and tried, the key to her door. She said nothing, but refused to give her furniture and was her friend, cloed to break in, Smith had cried out: "Watt until I come out, and you can come out on me. I am going to kill you." Officer Braxton corroborated her story of their relationship and acknowledged her love for about Mrs. Topp. Richard Parker, 3533 Indiana avenue, appointed himself special investigator for Smith, and knew much valuable information, which he could save Smith from the penitentiary.
 
@@ -141,20 +148,21 @@ Our classes have begun in the different studies such as millinery, dressmaking, 
 
 ## Question His Sanity
 
-William Stark, 35 years old, 4214 Evans avenue, is being, held at the Detention hospital pending an inquiry into his sanity.
+William Stark, 35 years old. 4214 Evans avenue, is being, held at the Detention hospital pending an inquiry into his sanity.
 
-Opens Grocery and Dalicatessen
-James H. Powers announces the opening of his grocery and delicatessen store located at 218 E. 41st street, with a full supply of fresh goods. Any amount delivered. Phone Onk, 6628. (Advertement.)
+Opens Grocery and Delicatessen
+James H. Powers announces the opening of his grocery and delicatessen store located at 213 E. 41st street, with fresh goods. Any amount delivered. Phone 0658. (Advertisement.)
 
 husband Happy!
-
-Be from a day of honest work, or, isn't he? And YOU know quite so much as to see on his dish of Golden, Glorious,
-
+e from a day of honest work,
+r, isn't he? And YOU know
+quite so much as to see on his
+dish of Golden, Glorious,
 D YAMS
 
-HERE'S THE RECIPE
-
-Use only the genuine MAGNOLIA packed Yellow Yams. Boil till about one-third done; remove jacket, cut the long way into slices about 4 inch thick. Place in building dish with use of powdered potion to prevent sliding. Sprinkle lightly with sugar; add a little butter. Place top on dish. Garnish with a slice of mozzarella, moving top last few minutes to get candied effect. Serve hot.
+1HRES THE RECIPE
+Use only the genuine MAG-NOLIA packed Yellow Yams.
+Boll ill about one-third done; put in oven and bake way into slices about 4 inch thick. Place in building dish (use juicy potato). Turn to prevent sticking. Sprinkle lightly with sugar; add a little butter. Place on dish on ice. Bake moving top last few minutes to get candied effect. Serve hot.
 
 South Mississippi genuine farm
 as it comes from the farm.
@@ -173,49 +181,91 @@ ses) and goods will be delivered.
 All mail order business, cash with
 tax goods. You take no chances.
 
+25c
+
 GRIP OF THE LAW
 
-WILLIAM FULLER, 49 years old, 38th Street, was fined $200 and Judge Richardson, for carrying a gun.
+WILLIAM FULLER, 49 years old, of the East 38th street, was fined $200 and by Judge Richardson for carrying a gun.
 
-ANDREW THOMPSON, 46 years old, 38th Street, was fined $200 and Judge Richardson, for carrying a gun.
+ANDREW THOMPSON, 46 years old, of the North 38th street, was fined $200 and the grand jury made $500 bond for confidence game, preferred by David McEroy, 2922 Palladie avenue.
 
-EDWARD NASH, 30 years old, 5793 Layatette avenue, was fined $200 and costs and sentenced to 30 days in the House of Correction for carrying a gun. LaBuy of the Stocky Rydns station.
+EDWARD NASH, 30 years old, 5739 Latayette avenue, was fined $200 and sentenced to 30 days in the House of Correction for carrying a Judge LaBuy of the Stock-Yards station.
 
-RIVEN MOTLEY, 18 years old, 4495 Washabuy avenue, was fined $200 and costs and sentenced to 30 days in the House of Correction for carrying a gun. LaBuy of the Stocky Rydns station.
+RVIN MOTLEY, 18 years old, 4405 Wabash avenue, was fined $200 and jury under $3,000 bond for burglary. He was arrested by Sorgentee Tucker and Jackson, Fourth precinct, on complaint of Mrs. Dora Mann, 4403 Wabash avenue.
 
-BRADFORD BELL, 27 years old, 2913 Calumet avenue, was put on a bond for one year and $500 bond for burglar. He was arrested by Sergeants Tucker and Jackson. Fourth press, on burglar in jail and fined $25 by Judge Stewart. He was arrested by Officer Stewart. John Meyn on complaint of Robert Cohn. John Barmen street, and charged with drug.
+BRADFORD BELL, 27 years old, 3519 Wabash avenue, was put on probation in jail and fined $25 by Judge Stewart. He was arrested by Officers Whitley and Ridley on complaint of Robert Cohn, Dusborn street, and charged with larceny.
 
-ATTORNEY JAMES QUINLIN succeeded in hauling the cell in the case of Herman Dixon. 3913 Calumet avenue, who was on trial before Judge Johnstone. Jr. of the criminal court.
+ATTERNOY JAMES QUINLIN suspected of the charge of stricter offence on the 19th of August, 1919, Calumet avenue, who was on trial before Judge Johnstone, Jr. of the criminal court.
 
-JACOB MARLOW, 79 years old, 2327 Federal street, was held to the grand under $3,000 bond for bigamy on behalf of his wife, Clara. 2321 Federal street.
+JACOB MARLOW, 79 years old, 2327 Federal street, was held to the grand jury under $3,000 bond for bigamy on his wife, Clara, 2321 Federal street.
 
-OSCAR JOHNSON, 3241 Indiana avenue, was sentenced to the probationary at Joliet by Judge Francis Wilson from one to 20 years for burglar.
+OSCAR JOHNSON, 3421 Indiana avenue at Joliet by Judge Francis Wilson from one to 20 years for burglary.
 
-EDWARD BOSTICK, 21 years old, 5215 Vancey, 21 years old, both of 1815-State street, were found guilty by a jury in Joliet by Judge Francis Wilson from one to 20 years for burglar.
+EDWARD BOSTICK, 21 years old, and Sylvester Vaneyce, 21 years old, and Eleanor Gullery, 21 years old, guilty of robbery by jury in Judge Frank Johnstone's Criminal court and sentenced to the reconstitution at Pontefract to 20 years. Their loot bound of a dwarf and silenced shirt.
 
-THOMAS HARVEY, 35 years old, 5215 Vancey, 35 years old, both of 1815-State street, were found guilty by a jury in Joliet by Judge Francis Wilson from one to 20 years for burglar.
+EAMETT MARSHALL, 25 years old, 3842 Langer street, 35 years old, grand jury under $5,000 bond for robbery on complaint of George Killusch, 3801 Grand boulevard.
 
-GEORGE WASHINGTON, 27 years old, 102 West 59th street, and Joe Grace, 27 years old, West 59th street, and an Italian, were both given $15,000 bond for robbery. He was caught coming out of the place of Joe Roman, 4820 State street, with an armful of goods.
+THOMAS HARVEY, 35 years old, 6218 Dearborn street, was held to the grand jury under $15,000 bond for robbery on the place of Joe Roman, 4920 State street, with an armful of goods.
+
+GEORGE WASHINGTON, 27 years old, 102 West 69th street, and Joe Grevelino, 4921 Federal street, an Italian, with three charges of $15,000 each. Washington would represent himself as a government official and shake down his victims.
 
 BRAZIL, SEE ADVT. ON PAGE 11
 
-THE EAST INDIA HAIR GROWER
+THE EAST INDIA
+HAIR GROWER
 
-WILL PRO-
-PRO-
-A FULL Growth of Hair; Restore the TREATMENT of the BUNGLE. VITALITY and BEAUTY OF THE HAIR. If Your Hair Is in Wet Try East India Hair Crower
+WILL
+NOT
+NOTE
+A FULL
+Growth
+on hair;
+WILL
+ALSO
+RE-
+STORE
+THE
+STRENGTH,
+VITALITY
+AND THE BEAUTY OF THE HAIR.
+If your hair is Dull and Wry Try
 
-If you are bothered with cutting Hair, Dandruff, Hitching Hair, want you to try a jar of East India Hair, can you help with it? The team that go to the roots of the Hair, Stimulate the Hair, soften the Hair, and improve the Hair. For combined with a balm of a thousand dandruffs, Beautiful Black Eyebrows, also retains Gray Hair with Hot iron or Straightening.
+East India
+Hair Grower
 
-East India Hair Crower
+If you are bothered with tat
+ing Hair, Dadduff, fishing
+Sixth year Hair, obtaining
+want you to try a jar of East
+India Hair and only contains medical
+paper that go to the leading of the Hair.
+Situation the skin, holding it in the
+wreck. Leaves the hair soft, silky. Per
+found with a wink of pearl and feaw.
+The best known comedy for Icey and
+Beautiful Block Fahrows; also restores
+Gray Hair. Natural Colour can be
+used with hot iron for Strengthening.
 
-If you are bothered with cutting Hair, Dandruff, Hitching Hair, want you to try a jar of East India Hair, can you help with it? The team that go to the roots of the Hair, Stimulate the Hair, soften the Hair, and improve the Hair. For combined with a balm of a thousand dandruffs, Beautiful Black Eyebrows, also retains Gray Hair with Hot iron or Straightening.
+Price, Sent by Mail, $oo.
+S. D. LYONS, General Agent,
+316 North Central St, Oklahoma City,
+Ohio, extra for postage.
+AGENTS' OUTFITS
+
+1 Hair Grower. 1 Tipple Oil. 1 Shampoo.
+1 Tweed Oil. 1 Cotton Oil. 1 Postage.
+$2.00. For postage.
 
 COLORED MEN
-
-You can earn $100 or $400 per month as an AUTO and TRUCK Mechanic
-
-Here's your big opportunity—Your chance to get into the best growing trade in the world. Learn all about Auto and TRUCK Mechanics, maintain, adjust them.
+You can earn $100 to $400
+per month as an AUTO
+and TRUCK Mechanic
+HERE'S your big opportunity--
+Your chance to get into the best pear-
+nish trade in the world. Learn all about Auto-
+mobility. Touch How to drive, repair,
+maintain, adjust them.
 
 Woill teach you the Automobile Trade from
 kind in the world, is endowed by the leading
@@ -238,6 +288,8 @@ Special Classes for Ladies
 10-12 East 36th Street Douglas 5605
 
 Insigniation. Constipation. Sick and Nervous. Discomfort in the abdomen. Almost intently lately joined with JUJUITI PULLIN. Frequent urination. Prune the reducenting and strengthen the intestines. Write a box, box, box, or write for Free three free treatment.
+
+1
 
 DRESSMAKING COLLEGES
 DESIGNING MORNING
@@ -297,26 +349,34 @@ Send Postoffice or Express Money Order—No Stamps
 
 Ko-Ko Wa-No Chemical Co.
 
+KO-KO WA-NO
 BRAND NEW HAIR STRAIGHTENER FOR REAL LIVE MEN
 GUARANTEED NOT TO TURN THE HAIR RED
-IS ALSO POSITIVE DANDRUFF PREVENTIVE
-Four Ounce Box Sent Anywhere in the U. S. A. for $1, Prepaid;
+IS ALSO POSITIVE. DANDRUFF PREVENTIVE
+Four Quince Box Sent Anywhere in the U. S. A. for $1, Prepaid;
 Eight Ounce Box $1.75. Barbers, Write for Special Terms
-Send Postoffice or Express Money Order-No Stamp
+Send Postoffice or Express Money Order—No Stamps
 
-BRAND NEW HAIR STRAIGHTENER FOR REAL LIVE MEN
-GUARANTEED NOT TO TURN THE HAIR RED
-IS ALSO POSITIVE DANDRUFF PREVENTIVE
-Four Ounce Box Sent Anywhere in the U. S. A. for $1, Prepaid;
-Eight Ounce Box $1.75. Barbers, Write for Special Terms
+1089 Fulton St., Brooklyn, N. Y.
 
-CLIMAX KING of INSTANT HAIR STRAIGHTENERS FOR MEN
+CLIMAX KING of INSTANT HAIR
+STRAIGHTENERS FOR MEN
 
-A World's Wonder Used and Recommended by the Best Barber Shops Gentlemen, do you want nice hair? Do you want your hair straight, soft and glossy? That might be you, a safe, sure hair straightener that will increase your business 100% and safely your customers. CLIMAX, King of Instant Straighteners, will it straighten the most sunburn, coarse or kinky hair in 5 minutes. Makes straight to stay straight. Makes smooth and glossy hair for mature women. Waters does not affect it. Wash the hair any times. Price $1.00 large box, enough for 4 or 6 times. X-Ray Hair shine, the finishing gloss, price $35. The two together can anywhere postpaid for $1.35. Special prices for barbers and hairdresser buying in quantities. Agents wanted everywhere. Made only by G. T. YOUNG, ING., 1606 SOUTH ST., PHILADELPHIA, PA.
+A World's Wonder Used and Recommended by the Best Barber Shops
+Gentleman, do you want nice hair? Do you want your hair straight, soft and glazy? Mr. Barber will adjust the straightener that will increase your business 100% and satisfy your customers? Then the King of Instant Hair Straighteners; it will straighten the most stubborn, coarse or kinky hair in 6 minutes. Makes straight to stay straight. Makes smooth and glazy hair that will stay straight. Wash the hair any time. Price $1.00 a large box, enough to straighten 4 or 5 X-Ray Hair shine, the finishing gloss, price 35c. The two together sent-any postpaid for $1.35. Special prices for barbers and hairdresser buying in quantities. Accounts everywhere. Made only by
 
+G. T. YOUNG, ING., 1606 SOUTH ST., PHILADELPHIA, PA.
 FOR SALE BY DRUGGISTS, BARBERS AND HAIRDRESSERS
 
-On sale in Chicago by William H. Huff, Joseph s. B. Harvey B. Summers, 4.50 State St.; Johnson & Hillard, 3337 State St.; Davies Bros., 5th Street; Moore, 3801 State St.; Mutual Drug Co., 3189 State St.; Ghaz. J. Meyers, Ph. G, 224 State St.; B. Fernando, 324 State St.; K. Allen, 324 State St.; West 30th St.; A. J. Triggs, 523 Mississippi Ave., Memphis, Tenn., New York, Arkansas City, 48 Lakes. On behalf of the General Agent, G. B. Nyum, 5 West 30th St.; Chicago, Mrs. Lacee Lowd, 3124 Cottage Grove av., Chicago, Ill.
+On sale in Chicago by William H. Krug, drafft. 4118 S. State st.; Harvey B. Saunders, 4.50 State st.; Johnson & Hillard, 3337 State st.; Davidson Bros., 39th and Dearborn st.; A. B. Formington, 3044 State st.; B. Allen, 9th and Seth st.; B. Bryan, 29th and St. Omaha, New, Killingsworth, & Price, 2155 S. State st.; Acklec Pharmacy, 588 Lavergne st.; B. Bynum, B. Bynum, West 30th Chicago, Mr. Lanchee & Price, 2155 S. State st.; 3124 Gorton Grove av., Chicago, Il.
+
+## CLIMAX KING of INSTANT HAIR STRAIGHTENERS FOR MEN
+
+A World's Wonder Used and Recommended by the Best Barber Shops
+Gentleman, you want nice hair! Do you want your hair straight, soft and glossy? Mr. Barber does want it and a good haircut that will increase your business 100% and satisfy your customers! Then use G. T. YOUNG, INC., 1606 SOUTH ST., PHILADELPHIA, PA.
+FOR SALE BY DRUGGISTS, BARBERS AND HAIRDRESSERS
+
+On sale in Chicago by William H. druggist, 4118 S. State St., Harvey S. Saunders, 4,50 State St.; Johnson & Fillard, 3357 State St.; Davidson Bros., 59th and Darrington Ats., L. E. State St.; Natalie Dress Co., National Dress Co., 6,744 State St.; O. H. State St.; J. H. Formington, 3477 State St.; S. H. Allen, 5 East 20th St.; B. Byrn, 6,884 State St.; O. Gmaea, New, Killippeaphil, & Frieze, 3456 X. St.; B. Byrn, 6,884 State St.; Chicago, Mrs. Llancke Lowf, 3124 Cottage Grove Ave., Chicago, Ill.
 
 "BEAUTY RESTORED"
 
@@ -328,41 +388,23 @@ WHITENS THE SKIN AT ONCE
 
 Removes Liver Spots, Freckles, Tan and Sunburn.
 
-Absolutely pure and harmless. No trace of mercury or acid. Ask your druggist or by mail 58e.
+Absolutely pure and harmless. No trace of mercury or acid.—Ask your druggist or by mail 58e.
 
 Manufactured by the
 
 CELESTIAL CHEMICAL COMPANY
 
-3523 Calumet Ave., CHICAGO, ILL.
+3523 Calumet Ave.
+
+CHICAGO, ILL.
 
 Live Agents Wanted
 
-## CLIMAX KING of INSTANT HAIR STRAIGHTENERS FOR MEN
-
-A World's Wonder Used and Recommended by the Best Barber Shops
-Gentlemen, do you want also hair? Do you want your hair straight, soft and
-great? Do you want straighteners that will increase your business 100% and satisfy your customers? Then use GIAK.
-King of Instant Hair Straighteners; it will straighten the most stubborn, coarse
-or kinky hair in 8 minutes. Make straight to stay straight. Makes smooth
-hair in 10 minutes. Make straight to stay straight. Wash the
-hair any time. Price $1.00 a large box, enough to straighten 4 or
-X-Ray Hair shine, the finishing gloss, price 35e. The two together sent any-
-where postpaid for $1.35. Special prices for barbers and hairdressers buy-
-ings in quantities. Agents wanted everywhere. Made only by
-G. T. YOUNG, ING., 160G SOUTH ST., PHILADELPHIA,
-FOR SALE BY DRUGGISTS, BARBERS and HAIRDRESSERS
-
-On call in Chicago by William H. muff, dugging, 4118 S. State St., 4.50
-State St.; Johnson & Hillard, 3337 State St.; Davison Bros., 99th and 244th St.
-; J. Meyer, Ph. O., 244th St.; J. Meyer, Ph. O., 244th St.; B. F. Formatto, 3444 State St.; H. Allen, 244th St.
-; A. A. Triggs, 822 Mississippi Ave., Mampa, Teen; New York, Arkansas Pharmacy, 4088 St.
-; A. A. Triggs, 822 Mississippi Ave., Mampa, Teen; New York, Arkansas Pharmacy, 4088 St.
-; B. F. Formatto, 3444 State St.; H. Allen, 244th St.
-; C. B. Byrum, 597th St.; C. B. Byrum, 597th St.; C. B. Byrum, 597th St.; C. B. Byrum, 597th St.;
-
 TELEPHONES—DOUGLAS 8445
+
 AUTO. 74-190
+
+DAY AND NIGHT SERVICE
 
 DAY AND NIGHT
 SERVIÇE
@@ -388,30 +430,37 @@ ESTABLISHMENT IN AMERICA
 
 ## ASTROLOGY
 
-HEROLIN FOMANE SAIL DRESSING does all this for your hair better than anything else. Feeds the scalp, stops dandruff and itching. Straightens out the kinklest hair. Not sticky or gummy. NEW can easily brush their hair back smooth by using Herolin. Sent for 25c by MAIL (stamps or coin). Agents wanted. Write to HEROLIN MEDICINE CO.
+HEROLIN FORME MAIN DRESSING does all this for your hair better than anything else. Feeds the scalp, stops dandruff and itchens. Gives hair a shine and hair. Not sticky or gummy. MN can easily brush their hair back smooth by using Herolin. Sent for 25c by MAIL (stamps or coin). Agents wanted. Write to HEROLIN MEDICINE CO.
 
 IRENE DRESSES
 COVER ALL APRONS
 TWO STYLES
 TWO PRICES
-
 JUST OUT
 IRENE'S
 1921
 CATALOG
 FREE
-Write for One.
-
-Extra Large Sizes, 46 to 66, 25c Extra. Every Garment Custom Made. All Colors.
-
+Write for One
+Extra Large Sizes, 46 to 66, 25c
+Extra. Every Garment Custom
+Made. All Colors.
 IRENE HOWARD APRON
 SUPPLY COMPANY
-6434 Eberhart Avo., Chicago, IL.
+6434 Eberhart Ava, Chicago, Ill.
 
-Extra Large Sizes, 46 to 66, 250 Extra. Every Garment Custom Made. All Colors.
+ALBRIGHT'S
+WONDER HAIR GROWER
+Albright's Hair Grower has no equal, renoving
+dandruff, falling hair; grey hair; tumble-
+hair; makes long, soft and silky,
+gray hair in tumble-
+and centre head. Snowy
+refinement if hair to
+grow too hair, fails
+the half groomer.
 
-ALBRIGHT'S WONDER HAIR GROWER
-Albright's Hair Grower has no quail, removing dandruff, falling hair, stops itching scalp, makes hair dull, makes hair long, grows hair in temple and cottage head. Money grows hair in temple and cottage head. If I grow your hair, Give your hair hair grower a trial.
+P
 
 Price Hair *Abracadabra*
 Pricing *lots of price*
@@ -420,41 +469,76 @@ Be a Successful
 Hair *Dresser*
 *learn to make cake frosting, complete course, which includes hair groomers, pressing oils, face bleach,
 
-I use Albright's hair grower and dandruff cleanser, remove.
+I use Albright's hair complete course, which grower and dandruff hairer, pressing, removers, oilers, tare, bleaches. A diploma given when course is completed, GS 400 and receive a large list of formulas for grower and dandruff oil, toles, etc. Send stamp for reply.
 
-Diploma given when course is completed. Send proof of gift for growers, pressing oil, tools, etc. Send stamp for receipt.
-
-E. H. ALBRIGHT
-4031 Indiana Ave. Chicago
-
-BIG SAMPLE BOOK
+FREE BIG SAMPLE BOOK
 
 Most Stylish Men's Fashions
-Beautiful new sample book, the style authority for men's fine tailoring with power dryer, free with Send. Send clothes you can wear easily extra spanning money.
+Beautiful new sample book, the style authority for men's fine tailoring with comfort and style. Ready, sent free. Send details to the editor and cladier you can easily reach the extra spacing moved your home.
 
-AGENTS
-WANTED
-Big profits, easy work, new sample book, take time we furnish accessories we need write at once for tailoring agents, be man why reads this and every boy in town is in love with book and wonderful affair, all sent FREE. It's your opportunity today to Reeve Boehler Tailoring Co. Dept 945 Chicago, ILL
+AGENTS WANTED
 
-THE MAN WHO KNOWS CAN
+Big profits, easy work, new sample book, take a look at our times we furnish everything free, no experience required, our marriages offer, our sales and marketing offer.
 
-"W. Allison Bursey, author of THE OTHER FELLOW paints with Power Dryer, lamentable history of the Colored Bear in America and Chicago Daily News. Tukkerg, Ala., Dec. 16, Editor of the Chicago Tailoring Rescue writes from what might be called the book of Negro aspirations, if it were strivings and movements." - BOOER T.
+We send to and over every man who reads this and needs to buy for everybody, send today. Simple write letter, or call book and wonderful offer, all at discount. If you're in opportunity, send man@address today. Send man@address today.
 
-"Among those whose prices and pen jobs are summed in W. ALLLIAN sums in W. ALLLIAN, a metaphorical than a glittering publicist, writer of prose and poetry, whose僼role runs like an vanquish, swapping before it."
+Knickerbocker Talloring Co.
+Dept 945
+Chicago, IL
 
-HAVE YOU? LETTERS FRIENDSHIRL LOVE BUSINESS ESSA PAPERS ADDRESSES SPEECHES SUNDAYS EDITORIALS TOASTS POEMS
+OTHER FELLOW
+WITH A MEMORABLE STROKE
+the lamentable history of
+the colored War in
+America—Editor of
+Chicago Daily News.
+Ustiegar, Ala., Dec. 6,
+2014. The Editor of the Chicago
+Daily News recounts
+Raveney writes from
+what might be called
+the War of Negro aspirations,
+and how it has
+often to accomplish-
+ment. JOURNAL
+WASHINGTON T.
+"Among those whose
+name we can cone
+a fire that will burn,
+W. ALLI.
+SON HWEKW
+haps more historical
+than any Newspaper, a glittering publicist,
+writer of prose and poetry, whose elocuence roils
+at any wanchu, wanchu before it."
+LETTERS OF
+FRIENDSHIR
+LOVE
+BUSINESS
+ESSAYS
+PAPERS
+ADDRESSES
+SPEECHES
+SEEMOUS
+EDITORIALS
+TOASTS
+POEMS
+ANYTHING you wish REVIEWED,
+CORRECTED, Written or RE-
+WRITTEN
+ADVICE or SUGGESTIONS GIVEN!
+PUT IN SHAPE for PUBLICATION
+SEE THE FILM.
+Prices reasonable. All business
+CONFIDENTIAL.
+ALL Letters MUST BE Accompanied
+with Stamps to Assure Reply
 
-ANYTHING you wish REVIEWED, CORRECTED, OR RE-WRITED
+THE
+Chicago Detender
 
-ADVICE or SUGGESTIONS GIVEN! PUT IN SHAPE for PUBLICITY SEE OR WRITE HIM.
-
-Prices equal business CONFIDENTIAL
-
-ALL Letters MUST BE Accompanied with Stamps to Assure Reply
-
-The Chicago Defender
-
-Founded May 6, 1900, by ROSEBET ABBOTT, LL B.
+Founded May 6, 1900, by
+ROBERT S. ABBOTT, LL B.
 
 Entered an second-class matter February 1,
 1603, at the University in Chicago, IL, under

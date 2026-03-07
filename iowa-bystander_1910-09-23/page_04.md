@@ -2,37 +2,33 @@
 
 National Negro Press Association Holds Big Meeting.
 
-WELCOMED BY J. H. ANDERSON
+WELCOMEED BY J. H. ANDERSON
 
-Members of the Profession From Many Sections of the Country Attended Second Annual Session in New York. Duty of Negro Journals to Lead in Racial Advancement.
+Members of the Profession From Many Sections of the Country Attended Second Annual Session in New York. Duty of Negro Journals to Lead In Racial Advancement.
 
 BY N. BARNETT DODSON.
 
-The morning and afternoon sessions of the second annual meeting of the National Negro Press association was held in the Metropolitan building, New York on Tuesday, Aug. 16. The evening session was held at St. Cyprian P. E. church on Sixty-third street.
+The morning and afternoon sessions of the second annual meeting of the National Negro Press association was held in the Metropolitan building, New York, on Tuesday, Aug. 16. The evening session was held at St. Cyprian P. E. church on Sixty-third street.
 
-The meeting was called to order by James H. Anderson, editor of the Amsterdam News, New York. In bidding the editors and correspondents welcome to the city Mr. Anderson said:
+The meeting was called to order by James H. Anderson, editor of the Amsterdam News, New York. In bidding the editors and correspondents welcome to the city Mr. Anderson said: "You will find New York a very pretty place. Here you may come in contact with the best and most helpful influences of journalism. We have here the best typographers and most finished reporters.
 
-"You will find New York a very pretty place. Here you may come in contact with the best and most helpful influences of journalism. We have here the best typographers and most finished reporters.
-
-The great need of Negro journalism in this country," he said, "is affiliation with some great association which distributes news, such as the Associated Press.
+"The great need of Negro journalism in this country," he said, "is affiliation with some great association which distributes news, such as the Associated Press.
 
 "If we prove that we mean business," he continued, "I have no doubt, that the day will come when many of us will have an Associated Press franchise.
 
-"You will find the press of this city cordial and courteous in its treatment of race questions. It is true that we do things that deserve condemnation, and the newspapers here condemn it, the other hand, they do not withhold commendation when it is due us.
+"You will find the press of this city cordial and courteous in its treatment of race questions. It is true that we do things that deserve condemnation, and the newspapers here condemn us. On the other hand, they do hold commendation when it is due us.
 
-"There are times when we are caricatured and ridiculed, but I will not say that is not generally our own fault. Prudence does exist here. It could not be otherwise when you consider that in this city every nation is represented, and as a consequence we must feel what I may term a combination of prejudice.
+"There are times when we are caricatured and ridiculed, but I will not say that is not generally our own fault. Prejudice does exist here. It could not be otherwise when you consider that in this city every nation is represented, and as a consequence we must feel what I may term a combination of prejudice.
 
-"Our duty should be to lead in the advancement of the Negro race. We can mold sentiment, white sentiment as well as colored, and I feel that in these causes we should be systematically aggressive. The white press appreciates intelligent aggressiveness and is more impressed by it than by indirection and lack of definite policy."
+"Our duty should be to lead in the advancement of the Negro race. We can mold sentiment, white sentiment as well as colored, and I feel that in these causes we should be systematically aggressive. The white press appreciates intelligent aggressiveness and is more impressed by it than by indecision and lack of definite policy."
 
-After Mr. Anderson's address President R. W. Thompson outlined the program for the day and introduced N. Barnett Dodson, editor of the Afro-American page of the American Press Association, who told in a brief way how the service began and the manner in which it is supplied to editors and publishers.
+After Mr. Anderson's address Prejudice, Mr. Delson continued the program for the day and introduced N. Barnett Dodson, editor of the Afo-American page of the American Press Association, who told in a brief way how the service began and the manner in which it is supplied to editors and publishers.
 
-M. M. Lewy, editor of the Florida Sentinel; Paul H. Bray of the Yokkers (N. Y.) Standard, Rev. Mr. Byrd of the Rochester (N. Y.) Journals, Horace D. Slatter, F. F. Johnson of Baltimore, C. W. Singleton of the Omaha (Neb.) Enterprise, N. D. Brascher of the Cleveland (O.) Journal, Rev. T. S. Boone of the Atlantic City (N. J.) Messenger, Dr. Jackson of the Dallas (Tex.) Express, Rev. Dr. L. G. Jordan of Louisville, Ky., and Emmett J. Scott of Tuskegee, Ala., were among the other speakers at the morning session.
+M. M. Lewy, editor of the Florida Sentinel; Paul H. Bray of the Tonkers (N. Y.) Standard, Rev. Mr. Byrd of the Rochester (N. Y.) Sentinel, Horace D. Slatter, F. F. Johnson of Baltimore, C. W. Singleton of the Omaha (Neb.) Enterprise, N. D. Brascher of the Cleveland (O.) Journal, Rev. T. S. Boone of the Atlantic City (N. J.) Messenger, Dr. Jackson of the Dallas (Tex.) Express, Rev. Dr. G. L. Jordan of Louisville, Ky., and Emmett J. Scott of Tuskegee, Ala., were among the other speakers at the morning session. Items from twenty-five states were present, and the sessions of the convention were marked by earnestness and enthusiasm. President Thompson's annual address was received with hearty approval.
 
-Papers from twenty-five states were presented, and the sessions of the convention were marked by earnestness and enthusiasm. President Thompson's annual address was received with hearty approval.
+Miss Henrietta Vinton Davis, Miss Geraldine Troutman of Paris, ill, and Miss Irene L. Moorman of Brooklyn took an active part in the proceedings of the convention. Charles Stewart of the Associated Press gave some of his experience as a newspaper correspondent in the south and west, where he contributes largely to the white dalles as well as to our own weekly papers.
 
-Miss Henrietta Vinton Davis, Miss Geraldine Trouwman of Paris, Ill., and Miss Irene L. Moorman of Brooklyn took an active part in the proceedings of the convention. Charles Stewart of the Associated Press gave some of his experience as a newspaper correspondent in the south and west, where he contributes largely to the white dailies as well as to our own weekly papers.
-
-The election of officers resulted as follows: President, M. M. Lewy, editor of the Florida Sentinel, Penscough, vice president, N. D. Brascher, Clever, D. Slatter, Hopkinson, Ky.; corresponding secretary, R. W. Thompson, Thompson's National News bureau; treasurer, Dr. L. G. Jordan, Louisville.
+The election of officers resulted as follows: President, M. M. Lewy, editor of the Florida Seminole, Pinecoa, Ohio; President, N. D. Brascher Cleveland, O.; recording secretary, Horace D. Slatter, Hopkinsville, Ky., corresponding secretary, R. W. Thompson, Thompson's National news bureau, Washington, treasurer, Dr. L. G. Jordan, Louisville.
 
 The following resolutions were unanimously adopted:
 
@@ -45,12 +41,9 @@ During the past 38 years no remedy has proven more prompt or more effectual in i
 
 # CHURCH HONORS ITS MINISTER
 
-Union Baptist Gives Rev. Dr.
-Lawrence Grand Reception.
-
 ## WHAT HE HAS ACCOMPLISHED
 
-Well Known Clergyman, Who Has Achieved Success in Many Fields, is Fasted and Presented With Large Purse Before Going on Extended Trip South—Called Sunday School Pastor.
+Well Known Clergyman, Who Has Achieved Success In Many Fields, is Fosted and Presented With Large Purse Before Going on Extended Trip South-Called Sunday School Pastor.
 
 By N. BARNETT DODSON.
 
@@ -58,34 +51,33 @@ The testimonial reception given by the Union Baptist church, Orange, N. J., on T
 
 Dr. Lawrence accepted the call of the Union Baptist church three years and a half ago. He was then pastoring in Elizabeth, where for six years he has met with marked success.
 
-Dr. Lawrence may be justly called a Sunday school pastor in the school of his own church, but in Sunday school work generally. He has successfully led the Sunday school forces of the Baptist denomination in New Jersey for the past nine years as president of the state Sunday school convention.
+As a pastor he has had a wide experience. Among the ministers of the New England Baptist missionary convention his advice in matters which require the most careful and thorough investigation is eagerly sought and relied upon by men many years his senior in the ministry.
+
+Dr. Lawrence may be justly called a Sunday school pastor. He is not only interested in the school of his own which he has been teaching generally. He has successfully led the Sunday school forces of the Baptist denomination in New Jersey for the past nine years as president of the state Sunday school convention.
 
 During his three years' pastorate at the Union Baptist church Dr. Lawrence has added 510 persons to its membership, put in new pews, a large pipe organ and a new lighting plant. These improvements are paid for.
 
-In addition to the above, a new parsonage has been bought, upon which Dr. Lawrence will leave within a few days for New Orleans, where he will attend the annual meeting of the three years amounts to over $1500.
+In addition to the above, a new parsonage has been bought, upon which
 
-The church has a membership of about 915. The morning school are more largely attended than those of any other church in the state.
+REV. W. P. LAWRENCE, PH. D.
+$1,100 has been paid, besides reducing the principal debt on the church at the rate of $700 a year. The total sum raised by Dr. Lawrence and his church for the three years amounts to over $15,000.
 
-Dr. Lawrence will leave within a few days for New Orleans, where he will attend the annual meeting of the three years amounts to over $1500.
+The church has a membership of about 915. The morning congregation and the Bible school are more largely attended than those of any other church in the state.
 
-The literary program, which was presided over by the Rev. George E. Morris, D. D., of Morristown, N. J., was both interesting and instructive. The address of welcome is made by W. H. Corbin, president of the board of trustees.
-
-"What I Say and Heard in Europe" was the subject of a timely address by the Rev. Dr. J. C. Lovely of the Union Baptist church, Montclair, N. J., who has recently returned from an extended trip abroad.
-
-Other speakers and their subjects were Rev. M. W. Vaughan of Plainfield, subject. Dr. Lawrence as a State and National Worker; Rev. R. L. Harris of Hackensack, subject; Dr. Lawrence as a Pastor and Leader; Rev. J. C. Dunn, pastor of St John's M. E. church, Orange, subject; Dr. Lawrence as Viewed by Other Denominations.
-
-Greetings from Afro-American state Sunday school convention, by Messrs. C. H. Hunter and Thomas Woody, from B. Y. P. U. State President Rev. W. T. Watkins of Orange; from Young Men's Christian association, Mr. I. R. King, president; Layman magazine, Business Men's league, Mr. A. A. Hill, president; the medical profession, Dr. E. Smyth, Elizabeth, N. J., and Mr. B. J. Galins, the press, Mr. B. D. Bosdin, editor of the Afro-American page of the American Press association, New York, and Mr. A. E. Rooney, who represented the League Journal, New Rochelle, N. Y.
+Dr. Lawrence will leave within a few days for New Orleans, where he will attend the annual meeting of the national Baptist convention, which convenes on Wednesday, Sept. 14. The literary program, which was presided over by the Rev. George E. Morris, D. D., of Morristown, N. J., was both interesting and instructive. The address of welcome was made by W. H. Corbin, president of the board of trustees. What I Saw and Heard In Europe" was subject of a most timely address by the Rev. Dr. J. C. Love, pastor of the Union Baptist church, Montclair, N. J, who has recently returned from an extended trip abroad. Other speakers and their subjects were Rev. M. W. Vaughan of Plainfield, subject, "Dr. Lawrence as a State and National Worker"; Rev. R. L. Harris of Hacksackens, subject, "Dr. Lawrence as a Pastor and Leader"; Dr. J. C. Dunn, pastor of St. John's, M. E. church, Orange, subject, "Dr. Lawrence as Viewed by Other Denominations." Greetings from Afro-American state Sunday school convention, by Messers. C. H. Hunter and Thomas Wood; from B. Y. P. U. State President Rev. W. T. Watkins of Orange; from Young Men's Christian association; from King. President association; from M. E. George, president; Business Men's league, Mr. A. A. Hill, president; the medical profession, Dr. A. E. Smyth, Elizabeth, N. J., and Mr. B. J. Gaines, the press, Mr. N. B. Dodson, editor of the Afro-American page of the American Press association, New York, and Mr. A. E. Rooney, who represented the League Journal, New Rochelle, N. Y.
 
 The vocal solo by the Rev. Dr. J. Alexander Patterson of Orange, N. J. was received with much applause. Professor J. H. Buford and choir discourses appropriate music throughout the evening, which gave evidence of careful training and exceptional ability.
 
-"We have parted forever. He write me to send back the ring."
-"Tell him to call for it," advised the experienced friend.—Louisville Coorier-Journal.
+"We have parted forever. He write me to send back the ring." "Tell him to call for it," advised the experienced friend—Louisville Courier-Journal.
 
 Would Seem So.
 Crawford—Do the rich know how the other half live?
-Crabshaw—After taking their mone; from them they must be able to form some idea of how they are compelle to live.—Puck
+Crabshaw—They must make their form from ideas of how they are compelled to live—Puck.
 
 Ladies! Save Money and Keep in Style by Reading McCall's Magazine and Using McCall Patterns
+
+THE ORIGINAL
+HAIR GROWER
 
 When we first began our wonderful work of gin all lengths, and all conditions of hair, even places of the head, many persons scorned the idea; but we have grown the hair for hundreds; proof of our work is that we are persons whose own hair we have actually grown have very frequently mentioned us when trying theirs is the same or "just as good" or referred use only PORO Hair Grower, (the oldest and name PORO is on every box, not genuine without A. M. POPE.
 
@@ -99,9 +91,17 @@ $8.50 HEDGEHORN PUNCT SELF-HEALING TIRES 40
 
 The regular retail price of that tires is $3.90 per pair, but to introduce we will sell you twenty thousand miles now. In order to do this, please do not NO MORE TROUBLE FROM PUNCTURES NAILS, Tacks or Glass will not let the nrf out. Sixty thousand pairs sold last year. Over two hundred thousand miles saw little change in sales. Finally and easily, riding very durable and inside with
 
+A
+
+[OCR timeout]
+
 When we first began our wonderful work of growing all kinds, all qualities, all lengths, and all conditions of hair, even to the growing of hair on bald places of the head, many persons scorned the idea that such a thing was possible; but we have grown the hair for hundreds; rapidly achieving success. The proof of the value of our work is that we are being imitated and largely by persons whose own hair we have actually grown and the further fact that they have very frequently mentioned us when trying to sell their goods (saying that theirs is the same or "just as good") or referred to PORO. We advise you to use only PORO Hair Grower, (the oldest and best of its kind.) See that the name PORO is on every box, not genuine without it. Prepared only by Mrs. M. PORO.
 
 **YOU WILL BE ASTONISHED** when you receive our beautiful catalog and low prices we can make you this year. We sell the highest grade bicycles for less money than you may pay in the store. BICYCLE DEALERS, you can sell our bicycles under your own plate at double the price you pay in the store. Dry reinforced, the plate is dry reinforced. **LEOND AND BICYCLES**, we regularly handle second hand bicycles, but usually have a number on hand taken in trade by our Chicago retail stores. These we clear out daily. **SIUNITE BICYCLES**, imported rilletters and pedals, repairs and coaster brakes.
+
+BOTTLE
+BOTTLE
+BOTTLE
 
 a special quality of rubber, which never becomes
 wet, and which is not damaged when allowed
@@ -111,6 +111,24 @@ an ordinary tire, the puncture resistance qualities being given
 an extraordinary quality. The tire should be given the
 tregular price of these tires is $8.99 per pair, but for
 the rider of only $8 per pair. All orders shipped same day
+
+good same day letter is received. We ship O.D. on
+examined and found them strictly as represented,
+and we do not accept any postponement. You run no risk in
+close advertisement. You run no risk in
+reliable and money sent to us as safe as in a
+will find that they will ride easier, run faster,
+will be able to sell at any price. We do a
+any kind at any price until you send your order.
+then you want a bicycle you will give us your order,
+once this remarkable tire offer,
+on any purchase on approval and trial at
+O.P. Puncture-Proof tires on our website and wonderful
+catalogue which is at about half the usual prices.
+Today, DO NOT THINK OF BUYING a bicycle
+in any mode until you know the brand and wonderful
+learn everything. Write it NOW.
+IMPANY, CHICAGO, ILL.
 
 the rider of only 8.8 per pair. All orders shipped same dayamey is received. We ship C.O. D. O. J. We will allow a cash discount of 5 per cent (threeway) making the price $4.65 per pair) if you pay in cash. We will accept cash payments only. If you send us an order as the tires may be returned at 04U expense for any reason they are not satisfactory on examination. We are perfectly reliable and money sent to us as safe in a leather case. We will accept cash payments for any tire you send us a leather case, wear better, last longer and look well after any tire you have ever used or seen at any price. We request that you send us a trial order at once, hence this remarkable tire price.
 
@@ -137,30 +155,9 @@ and Funeral Directors.
 
 "I took two of Chamberlain's Stomach and Liver Tablets last night, and I feel fifty per cent, better than I have for weeks, says J, Mich. "They are certainly a fine article for biliousness." For sale bs all drugists.
 
-McGALLS' MAGAZINE
-McGall's Magazine will
-inspire you at a moderately
-highly in a modern
-expense by keeping you
-largest fashions in
-international and
-New Fashion Design
-in each issue. Also
-warn you about
-personal matters.
-Only
-Gear You Need
-a free pattern. Sub-
-scribe to our free
-sample copy.
+McCail's magazine will issue daily, at a modernized expense by keeping in touch with the latest fashion and hats. No new issues in each issue. Also on all home and business matters. Only 60 a year, including a subscription. Serio地日 or send serio地日 or send
 
-McCall Patterns will enable you to make in your
-your own hands, clothing for
-yourself and children in
-style and fit. Price—none higher than 15
-We Will Give You Fine Presents for getting
-scriptures among your friends. Send for free
-THE McGALLS COMPANY, 239 W. 26th St. N.Y. NEW YORK
+finally at a moderate expense by keeping you posted on the latest clothes and hats. 50 New Fashion Design in innovative valuable Information on all home and personal items of 60 a year, including a Sub-Scribe today or for free sample copy. McCall Patron will enable you to make in your own home, with you, your children your yourself and children which will be perfect style. You will receive more higher than 15 styles. Send for free. We We Grow You Fine Presents for getting san-serifations among your friends. Send for free. The RCA CALL COMPANY 233 249 276 New S. NEW YORK
 
 Your complexion as well as your temper is rendered miscrable by a disordered liver. By taking Chamberlain's Stomach and Liver Tablets you can improve both. Sold by all druggists
 
@@ -194,74 +191,51 @@ A saired concert was given at the A. M. E. church Sunday night. It was enjoyed b
 
 ## DAVENPORT NOTES.
 
-Sunday was the last quarterly meeting in this conference year at Bethel A. M. E. church. Presiding Elder Phillips was present. He conducted the morning and evening services. T. W. Lewis of Moline delivered the Sacramental sermon in the afternoon. It was the winding up of the grandest conference year in the history of the church. Rev. T. B. Stowall, Presiding Elder Phillips, Bright and M. J. Scott of Moline left last evening for conference. Mrs. D. S. Johnson is visiting relatives in Jacksonville, Mo. From there she will go to Springfield to attend the Illinois conference. Mrs. B. Burtles of Canton, Mo., is visiting his sister, Mrs. Levi Cunningham. Mrs. Henry Burns, Sr., will entertain the Violet club Wednesday afternoon. Thomas Mitchell will conduct the morning services Sunday during the absence of the minister. The Sunday school will give a program in the afternoon under the direction of Mr. C. P. Jones. In the evening the choir will have charge of the service under the management of Mr. E. Green. The fuel and light committee gave a rag social at Bethel A. M. E. last Tuesday evening. A very interesting program was listened to by quite a large audience. Webster Stowall was awarded the prize for being in the most rass. The net proceeds were about $20. Mrs. Sadle Washington is chairman of this committee.
+Sunday was the last quarterly meeting in this conference year at Bethel A. M. E. church. Presiding Elder Philips was present. He conducted the morning and evening services, and the Shrine delivered the Sacramental sermon in the afternoon. It was the winding up of the grandest conference year in the history of the church.
 
-THE ORIGINAL HAIR GROWED
+Rev. T. B. Stovall, Presiding Elder Philips, and Mrs. B. Bright and Mrs. J. Scott of the church, left Monday evening for conference.
 
-We Grew Our Hairs,
+Mrs. D. S. Johnson is visiting relatives in Jacksonville, Mo. From there she will go to Springfield to attend the Illinois conference.
+
+Mrs. R. Battles of Canton, Mo., is visiting his sister, Mrs. Levi Cunningham.
+
+Mrs. Henry Burns, Sr., will entertain the Violet club Wednesday afternoon.
+
+Thomas Mitchell will conduct the morning services Sunday during the absence of the minister. The Sunday school will give a program in the afternoon under the direction of Mr. C. P. Jones. In the evening the choir will have charge of the services under the management of Mr. E. Been.
+
+The hel and light committee gave a rag social at Bethel A. M. E. last Tuesday evening. A very interesting program was listened to by quite a large audience. Webster Stovall was awarded the prize for being in the top 100 of the about $20. Mrs. Saddle Washington is chairman of this committee.
+
+We Grew Our Hais,
 Now Let Us Grow
 Yours with
 
 TRADE MARK
 REGISTERED.
 
-work of growing all kinds, all qualities,
-or, even to the growing of hair on bald
-and the idea that such a thing was posa-
-ndreds, rapidly achieving success. The
-at we are being imitated and largely
-by grown and the further fact that they
-are trying to sell their goods (saying that
-preferred to PORO. We advise you to
-best and best of its kind). See that the
-we without it. Prepared only by Mrs.
-
-immitations,
-press mail to
-OPE-TURNBO,
-ST. LOUIS, MO
-
-BRIDER AGENT
-IN EACH TOWN
-and district to
-ride and exhibit
-their goods and special offer at once.
-We do not, without your consent, offer any
-PRIVAL. Loving which time you may ride the bicycle
-and you may ride the bicycle and you may ride the bicycle
-at our expense and you will not cost one cent.
-Small price bikes are available. You have no
-price bikes for our customers. We have no
-price bikes
+Notice the thick rubber trend
+of the rubber, and "D" also rim strip "H"
+of the rubber. The rubber will outlaut any other
+make-up. ELASTIC and
+METRIC.
 
 # From Union Comes Strength
 
-No matter where you live—or what you do—you should investigate the many im-
-pleasures in the pain the injury without also un-
-ne nipples Price, 25
-ents.
+No matter where you live—or what you do—you should investigate the many important advantages of membership in the Library Union of the World. Over 1,000 Unions instituted—more than 60,000 memberships issued—now growing by leaps and bounds, and
 
 An Injury to One is the Concern of All
 
-A small sum each month will carry a full mem-
-brium with cash benefits for subsistence—200
-$100,000 on deposit at State House to ad-
-fend guarantee fulfillment of contracts. A suitable
-free to members. The secret signs, grips, and
-you and gain you friends and assistance in many places.
-Your advantage to become members. It should aid you in
-member from your community goes the appointment-
-in or stamped for Union Journal Magazine three mns
-for securing a Beneficial Protective membership with
-home office.
+A small sum each month will carry a full membership, $100,000 on deposit at State House to self-guarantee fulfillment of contracts. A suitable membership fee is $25 to members FREE to members. The secret signs, grips, and you-and gain you friends and assistance in many places, your right to universal recognition, and enable you to come into contact with the growth in the country way we guarantee satisfaction.
 
-NATIONAL LIBERTY UNION
+representatives Wanted
+
+for friends during spare moments. No experience necessary, but your advantage to become a member. It should help you in any way you need. You must be a member from your community gives this appointment—in or at stamper for Union Journal Magazine three months, as for securing a Beneficial Protective membership with home office.
+
+NAL LIBERTY UNION
 THE WORLD
-Bayton, Ohio;
-U. 8. A.
+Bayton, Ohio
+U. S. A.
 
-FORD'S
-HAIR POMADE
+return.
 
 A small sum each month will carry a full membership—injuries and deaths. $100,000 on deposit at State House to safeguard members' interests and guarantee fulfillment of contracts. A suitable membership for every person, high or low. Beautiful Membership Certification. A certificate of membership will present your name, pass words, will present your help-you and gain your friend and assistance in many places. Our official Button will proclaim your right to universal recognition, and enable you to commemorate your achievement. A certificate of promotion is permitted in the community to be a member, and in every way we guarantee satisfaction.
 
@@ -274,6 +248,14 @@ Write QUICK. Enclose 100 (cool or stumped) for Union Journal Magazine three mont
 RY SACK GUAR
 
 # EVERY SACK GUARANTEED
+
+Best Patent
+
+FALCON
+FLOUR
+
+Spannon & Mott Co.
+Des Moines, Iowa
 
 FOR SALE BY ALL GROCERS
 
@@ -295,9 +277,10 @@ THE NEW HOME SEWING MACHINE COMPANY
 
 Orange, Mass.
 
-B. BUTTER & CO., Des Moines, Ia.
+. S. BUTTER & CO., Des Moines, Ia.
 
-EVERY
+FORD'S
+HAIR POMADE
 
 OLD RELIABLE DRESSING FOR
 KINNY OR CURLY HAIR. USE MAS
@@ -323,56 +306,41 @@ THE OZONIZED OX MARROW CO.
 216 LANE ST. DEPT. 72 CHICAGO, IL.
 • AGENTS WANTED.
 
-★ SOLD BY-DRUGGISTS.
-IF YOUR DRUGGISTS Cannot SUPPLY
-WE WE WILL SEND IT TO YOU DIRECT
-AT THE FOLLOWING PROCES, SSMILLED
-BOTTLE, 25, LARGE SIZED BOTTLE,5
-THE OZONIZED OX MARROW CO.
-216 LAE ST. DEPT. 72 CHICAGO,ILL.
-WANTED AGENTS.
-
 BYSTANDER PUB. CO., Publishers
 DES MOINES. IOWA
 
-FRIDAY, SEPTEMBER 28, 1910
+FRIDAY, SEPTEMBER 28, 1910.
 
-Published every Friday by the Bystander Publishing Company, Des Moines, Iowa. Office in Chemical building, corner Seventh and Merry streets. Iowa phone, Walnut 899.
+Published every Friday by the Bystander Publishing Company.
+Moines, Iowa. Office in Chemical building, corner Seventh and Mulberry streets. Iowa phone, Walnut 899.
 
 Entered at the postoffice as second class matter.
 
-JOIN L. THOMPSON, EDITOR.
+JOHN L. THOMPSON, EDITOR.
 J. H. SHEPARD, MANAGER.
 
-Official paper of the M. W. U. Grand Lodge of Iowa, A. F. & A. M. and International Grand Congress of Heroines of Jericho of America, and Western Baptist Association.
+Official paper of the M. W. U. Grand Lodge of Iowa, A. F. & A. M., and International Grand Congress of Heroes of Jericho of America, and Western Baptist Association.
 
 We are prepared to do first-class job work at reasonable prices. All of our work is guaranteed.
 
-Advertising rates for display ads, 20 cents per inch, for each insertion. Three to six months' contract, 15 cents per insertion, 10 cents per line for each insertion, counting seven words to a line.
+Advertising rates for display ads, 24-hour maintenance rates. Post three to six months' contract, 13 cents per inch. Local advertisement, 10 cents per line for each insertion, counting seven words to a line. For churches and secret societies where admission is charged, one-half of monthly charges. Post professional, legal and announcement cards, yearly contracts, etc., terms are given on application. All advertising is to be paid in advance.
 
-For churches and secret societies where admission is charged, one-half of the above-mentioned rates. For professional, legal and announcement cards, not given on application. All advertising is to be paid in advance.
+TERMS OF SUBSCRIPTION.
+One year $1.50
+Six months 75
+Three months 50
 
-TERMS OF SUBSCRIPTION
-One year. $1.50
-Six months. .75
-Three months. .75
+Send money by postoffice order, money order express or draft, by Stystander Company, Des Moines, Iowa.
 
-Send money by postoffice order, money order, express or draft, to the Iowa State Bystander Company, Des Moines, Iowa.
+Communications must be written on one side of the paper only and be of interest to the public. "Brevity is the soul of wit," remember. You will not return rejected manuscript and will be accompanied by postage stamps.
 
-Communications must be written on one side of the paper only and publication not later than Tuesday night to insure publication for the current week; and sign your name, not for publication, but that we may know who writes the news.
+N. B—Correspondents: Please mail your letters that contain news for publication not later than Tuesday night to insure publication for the current week; and sign your name unless published that you may know who writes the news.
 
 All subscriptions payable in advance.
 
-The Iowa State Bystander is the oldest American journal published in Iowa. It was established in 1894, and is read by nearly all the colored people of Iowa. We have correspondents in the following towns:
-Davenport. Mrs. C. H. Marshall
-Milwaukee. Mrs. Q. H. Hicks
-Minneapolis. H. K. Gibba
-Kookuk. A. J. Fields
-Rock Island. Mrs. W. H. Moore
-Moline, Ill. Miss Mable Trevet Sloux City. Miss Etta Grant Clinton. A. A. Bush
-Miami. Miss Loretta Montmorail, Illinois. Georgia Norwood Galesburg, Ill. Mayne Richardson Albia. Miss May Davis
-Cedar Rapids. Mrs. H. Horne
-Ft. Madison. Mrs. Lulu Williams Osakaoosa. Luella B. Franklin Burlington. Mrs. J. E. Johnson Moberly, Mo. Mrs. M. E. Bolden Mt. Pleasant
+The Iowa State Bystander is the oldest Afro-American journal published in Iowa. It was established in 1894, and is read by nearly all the colored people of Iowa. We have correspondents in the following towns:
+
+Mrs. C. H. Marshall St. Paul.....Mrs. Q. H. Hicks Minneapolis.....Mrs. K. Hibga Keokun.....A. J. Fields Rock Island.....Mrs. W. H. Moore Moline, Ill.....Miss Mable Tarvest Sloux City.....Miss Etta Grant Austin.....A. A. Beach Ottumwa.....Miss Lorena Vincent Monmouth, Ill.....Georgia Norwood Galesburg, Ill.....Mayne Richardson Albia.....Miss May Davis Cedar Rapids.....Mrs. H. Horne Ft. Madison.....Miss Lulu Williams Oskaloosa.....Luella B. Franklin Burlington.....Mrs. J. E. Johnson Moberly, Mo.....Mrs. M. Etta Bolden Mt. Pleasant
 
 Miss Maudlin Burnaugh
 Peoria, Ill. Miss Bell Lee

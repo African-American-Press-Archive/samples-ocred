@@ -8,6 +8,8 @@ STATE ST. FURNITURE CO., Inc.
 
 Is an ideal tonic, destroys microbes and completely eradicates dandruff. It restores the decaying hair roots, stops the hair from falling out, and keeps it healthful, soft and lustrous. The value of a bountiful growth of hair is being realized by women today more than ever before.
 
+BATURDAY, MAY 15. 1920
+
 ## ST. MARK'S LYCEUM
 
 St. Mark's Sunday Lyceum will give its patrons on next Sunday, May 16, one of the most interesting programs of the season. For their speaker they will be "The John Chinm, formerly of the 100th E and O. His subject will be "Over There and Over All members of the old 8th Regiment are requested to be present. Mrs. Carrie South, chairman of the musical committee, has arranged the following exam: Piano solo, Walter O'Grady; soprano, Amy A. Bray; barythe solo, Richard Ward; solos, Frank G. Farnum, formerly of the Chicago Grand Opera company. The speaker will be introduced by Julius N. Averendorp. Mrs. Dayso Worthington, president.
@@ -39,14 +41,63 @@ Mr. and Mrs. Benj. A. Thompson, 438 East 424 place, have returned from Louisvill
 
 Mrs. McKinney Returns From South Mrs. Inez McKinney, 3008 Indiana avenue, has returned from 110 Springs, Ark., where a six weeks' visit. Her husband, with whom "Cabaret in the Moonlight" act, was in town to see her Thursday.
 
+EXTRA PAIR OF
+PANTS
+FREE
+
+Think of it. An Extra Pair of Pants
+free with your new suit-withest
+jeans you get from us. The extra pair de-
+sults the wear-saves the money
+so you really get the
+prices of only one.
+
+We make everything
+that we sell on our website
+fine quality Valeine-
+Richert grade Laine-
+Berkshire
+We make an extra charge
+for your order.
+Triumphs or Large Sleeves,
+and prized Formal Pest and
+Dresswear.
+
+OUR NEW CATALOG is all
+about our rememberable offer-
+ments to these great Styles and large new
+prices. All the BIG CITY BIFS are also
+all the BIG CITY BIFS! Best!
+
+Punishment, Slippery, Tie, etc. It is your
+Must Have! Best Pant!
+
+Our PREZ Extra Pants Offer
+makes sure the greatest Taxing
+offer of all our customers makes it a
+work or more taking greed for our
+work or more taking greed for our
+prices. You can do the same.
+
+Write us on all information-retail
+now. Feed us on our web site on a new
+website.
+
+WRIGHT & COMPANY
+907 800 BOX 319CROSS STREET, CINCINNATI
+BROOKLYN, NY 10020
+
+
+
+ALL AROUND THE TOWN
+
 Sunday Musical Big Success
-The Sunday musical at institutional A. M. E. church, Sunday, May 9, was largely attended and highly appreciative by faculty and staff. M. E. chair sang authentica. Molk Mrs. Mine C. Simpson played a prelude. Miss Beatrice White favored the audience with a piano selection. Miss Laverda Holt, Chicago Musical college, sang a beautiful soprano solo. Poster Delawnee Holt,ologist, rendered selection Dr. Holt, music professor. The Dixie Troubadour quartet rendered selections. The extraordinary treat of the afternoon was the address of W. S. Hendricks, superintendent of the Montgomery entry office. His subject was "The Negro Woman in Business" to go forth the manner in which our team represented the president, was praised for unfiling efforts to make it a success. The next meeting is June 13, at which time the president of the Young People's Society will speak.
+The Sunday musical at Institutional A. M. E. church, Sunday, May 9, was designed for a high school audience. The Renee famous singer, South Park M. E. choir auditions and folk songs, Mrs. Mue C. Simpson played a prelude. Miss Beatrice White favored the audience with a piano selection. Miss Averda Holt, Chicago musical college, was the guest violinist. Delaware violinist, rendered selections, Dr. Do Acklen sang a bass solo. The Dixie Troubadours quartet tendered selections. The extraordinary treat of the afternoon was the address of the Montgomery entry office. His subject was "The Negro Women in Business." He set forth the manner in which our women conduct business when they are properly trained and when they are three serious faults to be found are the poor training, irregularity in attendance and the failure to be punctual. The whole program made a wonderful impression on the audience and Mr. McAlpine, the president, was praised for unilingering the audience, meeting is June 13, at which time the president of the Young People's Society will speak.
 
-Real Estate Brokers' Meeting
-The Real Estate Brokers Association will hold a special installation of officers Sunday at 3 o'clock. Our Wonderl Phillips high school, Major A. E. Patterson will introduce Charles S. Dulce, chairman. Soby by Dean Glover; remarks, Dave McDowan; president Business Men's League; instrumental solo, Miss Blanche Walter; remarks, Robert L. Mays; solo Miss Pamela Woolley; colonel Franklin A. Denson; installation of officers, S. A. T. Watkins; president Appointment Club; remarks, George W. Finlutter, president of the association. Publo invited.
+The Real Estate Brokers Association will hold its annual installation of officers Sunday at 3 o'clock p. m. at Wondell Phillips high school. Major A. E. Patterson will introduce Charles S. Duke, chairman. Solo by Dean Glover; remarks, Dave McGowan, president Business Men's League; introduction by Mary Moss, Charles Watton; remarks, Robert L. Muschholt; Miss Fumie Wise; remarks, Colonel Franklin S. A. Denison; installation of officers, S. A. T. Watkins, president Appointment Club; remarks, George W. Funitner, president of the association, Publico invited.
 
-Endorsed for Sergant-at-Arms
-Joseph S. Davis, alley and street inspector of Chicago, was indorsed by Senator McCormick in convention by Senators McCormick and at-arms one of the sorgantees-at-arms for the Republican national convention.
+Endorsed for Sergeant-at-Arms
+Joseph S. Davies, alley and street inspector of Chicago, was indorsed at the meeting by Senators McCormick and Shannon, one of the sergeants-at-arms for the Republican national convention.
 
 ## Idlewild Hotel to Be Headquarters
 
@@ -138,48 +189,49 @@ and 60c. Mail Orders; Postage 10c Extra
 UNFACTURED ONLY BY
 phone 4718 State St., CHICAGO, ILL.
 
+THE CHICAGO DEFENDER
+
 ## CHICAGO "Y" NEWS
 
-An enthusiastic crowd, composed of friends, parents and athletic fans, gathered at the "Y" Saturday, May 10, to witness the seventh annual demonstration of physical activities. The program consisted of mass calisthenics, informal marathons, Russian dance, Indian gymnastics, highland flag dancing, baseball and basketball, wand drill fancy diving, plunging swimming strokes and relay race. The Mothers' Club invites the public to be present Friday evening, May 14, at 7:45. O. J. Milliken, superintendent Chicago and Cook County School for boys, will deliver an address on "Delaware Boys." For those who like to work in the gymnasium Friday evening, May 14, at 7:30. At 8:30 on the same evening the Englewood Dramatic Club will render a beautiful drama entitled "Twilight." Adults are especially invited to come. * Every Friday night in community night. Moving pictures on an added feature. * Attractions meet a basketball team. * Meets Tuesday evening at 7:45. Morris Glee Club meets Wednesday at 7:45. Bible and French study classes meet a day every Thursday evening at 7 and 8 o'clock. * Every Sunday morning school lesson is discussed. You are welcome to attend. The Wabash Radio School meets a day every Tuesday evening. * Selving messages of importance. News from Mexico reaches us before the public has a chance to see it in print. * Recent arrivals: G. C. English, Los Angeles, Cal.; C. J. Smith, Los Angeles, Cal.; C. W. Smith, Lexington, Ky.; C. C. Webb, Washington, D. C.; James at Mont. Oakland, Cal.; W. C. Webb, W. C. Webb, St. Paul, Minn.; L. Simmons, Detroit, Mich.; McInn, Quilano, Wm.; King, Louisville, Ky.; H. H. Brown, Portland, Ore.; Wm. Wilson, Seattle, Wash.
+An enthusiastic crowd, composed of parents, friends and athletic fans, gathered at the "Y" Saturday, May 8, to witness the seventh annual demonstration of physical activities. The program consisted of inas cathetlemorphal marches, Russian dance, rhythmical marching, high school Indian club drill, munty art, volleyball, wand drill, fancy diving, plunging, swimming strokes and relay race. * The Mothers' Club invites the public to be present Friday evening, May 14, at 7:45. O. J. Milliken, superintendent Club, will Cook School School Boys will deliure boys, and Dequent Boys." For those who like indoor baseball a game will be played in the gymnasium Friday evening. May 14, at 7:30. At 8:30 on the same evening the Englewood Dramatic Club will render a beautiful drama entitled Twilight to come. * Every Friday night in community night. Moving pictures will be an added feature. All attractions are free. * Armour Glee Club meets Tuesday evening at 7:45. Morris Glee Club meets Wednesday at 8:30. French study classes meet every Thursday and 8 o'clock. * Every Sunday morning at 9:30 the international Sunday school lesson is discussed. You are welcome to attend. The Wahush Radio Club has obtained a license and is receiving messages of importance. News from Mexico teaches us before the international Sunday school lesson. * Recent arrivals: G. C. English, Los Angeles, Cal.; J. S. Smith, Los Angeles, Cal.; Owen Stone, Lexington, Ky.; C. C. Webb, Washington, D. C.; James L. Mont, Oakland, Cal.; L. Porter, St. Paul, Minn.; George Walker, Trotto, Mich.; Marcelle Quaranta, Cuba; Wm. King, Louisville, Ky.; H. H. Brown, Portland, Ore.; Wm. Wilson, Seattle, Wash.
 
-School Boy Hurt by Auto
-Evert Jones, 4017 Avenue avenue, a school boy, on May 6 while crossing a street. At St. Paul, Minn. a lawn avenue, was struck by an electric auto owned by Mrs. Wadell (white) and seriously injured.
+Evert Jones, 4017 Vincenten avenue, a school boy, on May 6, while crossing the boulevard at 417 street and Woodlawn avenue, was struck by an electric auto owned by Mrs. Wadell (white) and seriously injured.
 
-Mario Hill Badly Hurt
-Marie Hill, 1714 Fulton street, was struck by iliana avenue car No. 5037 on May 7. She was hurt in the back and cut over the eye. She will recover.
+Marie Hill Badly Hurt
+Murray Hill 714 Fulton street, was struck by Islander in No. 5037 on May 7. She was hurt in the back and cut over the eye. She will recover.
 
-Father Mahone is Improving
-B. V. Mahone, 34 East 33rd street, has been seriously ill, but is improving. He is the father of Miss Mahone of Walgreen's pharmacy.
+Father Mahone la improving
+B. V. Mahone, 34 East 43d street, has been seriously ill, but is improving. He is the father of Miss Mahone of Walgreen's pharmacy.
 
 Delegate to St. Louis Conference
-Sir Louis A. Knight, grand mentor of the illiana jurisdiction is attending the general conference as a lay delegate from Springfield, IL.
+Sir Louis A. Finney, chief grand mentor of the Illinois jurisdiction, is attending the general conference as a lay delegate from Springfield, IL.
 
 ## Attend General Conference
 
-Mrs. Jonnie Lewis, 246 E. 324 street; Mrs. Elliza Wilkins, 3350 Forest avenue; Mrs. Emma Venoy, 469 E. 30th street, are attending the general conference in St. Louis, Mo, and are expected to return to the city the latter part of May.
+Mrs. Jonnie Lewis, 246 E. 32d street; Mrs. Eliza Wilkins, 3350 Forest avenue; Mrs. Emma Venoy, 469 E. 30th street, are attending the general conference in St. Louis, Mo., and are expected to return to the city the latter part of May.
 
-Colaboratos Birthday
-Master Lester Walker celebrated his third birthday Saturday afternoon, May 5, with a lovely party given him by his parents, Mr. and Mrs. L. S. Walker, 14 E. 21st street. He received many beautiful presents from his little friends.
+**Colobratos Birthday**
+Master Lester Walker celebrated his third birthday Saturday afternoon, May 5, with a lovely party given him by his parents, Mr. and Mrs. L. S. Walker, 32d street. He received many beautiful presents from his little friends.
 
 "Japo" Soap Sold in Foreign Countries
-To show that the Pryor Chemical Co. is in demand and that the Chicago Defender is a great advertising medium, Mr. Pryon resolved letters last week from La Colla, Honduras, C. A., and St. Lucia, British West Indies. His Japo Wonder Soap is now being sold in the United States and in all foreign countries.
+To show that the Pryor Chemical Co. is in demand and that the Chicago Defender is a great advertising mecca, Mr. Wonder letters heat from Lea, Holloua, C. A., and St. Lucia, British West Indies. His Japo Wonder Soap is now being sold in the United States and in all foreign countries.
 
-Stringfellow to Sing
-Herbert Stringfellow, the gospel singer, will sing at the South Park M. E. church Sunday morning, May 16. He has been requested to sing "In That City" and "Mother's Religion." flow, Bryant, pastor.
+**Stringfellow to Sing**
+Herbert Stringfellow, the gospel singer, will sing at the South Park M. E. church Sunday morning, May 16. He has been requested to sing "In That City" and "Mother's Religion." Roy, Bryant, pastor.
 
-Mrs. A. W. Guilin and Miss Birdle Wyatt of 63 East 66th street, were called to Vandaïla, Mo., on account of the serious illness of their father, Z. Wyatt.
+Mrs. A. W. Guilin and Miss Birdy Wyatt of 63 East 56th street, were called to Vandalia, Mo., on account of the serious illness of their father, Z. Wyatt.
 
-Purchas New Building
-Alonzo Williams and Emma Bryan Williams have purchased a six flat building at 4549-1651 Prairie avenue.
+**Purchase New Building**
+Alonzo Wilkins and Emma Bryan Williams have purchased a six-fat building at 4343-5351 Prairie avenue.
 
 Over 50,000
-Have been benefited and thousands sults from our remedies for RHEUMATISM, BLOOD DISHEART, STOMACH AND OTHER SO-CALLED
-
+Have been benefited and thousand
+suits from our remedies for
+RHEUMATISM, BLOOD DISC
+HEART, STOMACH
+AND OTHER SO-CALLEN
 Write today,
-
-Miracle Laboratories
-
-Learn THE DEMONS ING
+Miracle Labora
 
 # Over 50,000 People
 
@@ -189,20 +241,21 @@ Have been benefited and thousands are daily getting miraculous results from our 
 
 The increased cost of clothes and the high cost of living is making this a golden opportunity for the use of women with $2000 in clothing and byeing husband. We are one in your same time. You need no experience, just our instructions. This is your opportunity. Don't fail to take it. Just send us your NAME and ADDRESS for full information. J. D. BELL & CO., R. 407, 145 N. CLARK ST., CHICAGO
 
-This is your opportunity. For full info
-NAME and ADDRESS that follow
-J. D. BELL & CO., R. 407
+This is your opportunity. Don't NAME and ADDRESS for full information.
+
+J. D. BELL & CO., R. 407,
 
 Universal College
 Learn our Home Study Course, a
 Facial Massage and Manicuring, tax
-formulas given to students so they m
-Glossimo, Pressing Oil, Tetter Ointment
-Pollish and Bleach. Free Organs to
-Conto, 6 boulevard, Lower Row.
-The only College that teaches us
+formulas given to students so they may
+Glossimo, Pressing Oil, Teter Ointment
+Polish and Bleaches. Use Ointments to
+Como, 6 boxes of Hair Cream. Depot
+The only College that teaches at
 Grower and become independent Beaut
-teachers. AGENTS WANTED.
+Learners. AGENT: UNTED.
+
 UNIVERSAL COLLEGE
 3427 SO. STATE ST.
 
@@ -243,30 +296,48 @@ Men's hair can be straightened by simply wiping a little Liquid Creolino Hair Tr
 
 ## Stringfollow to Sing
 
-One of our prominent north eden men, Robt. Weaver, 1247 Victor avenue, passed away last Friday at Lakeview hospital. He leaves a wife, daughter, son and granddaughter to mourn his loss. * Mrs. Mainie Miller, 856 Wilson avenue, was given a surprise party on Thursday visiting her mother at 1548 Wolls street. * Don't forget the date of Thursday visiting her mother at 1548 Wolls street at party at Phoebe Hoadley at 1611. A good time for all. * Alfred Kelly, 1120 Cambridge avenue, is very ill. * Among the entertainers at the North Side Social club, 1346 N.W. street, Saturday night, will be Mrs. Welcker, Mrs. Wiley and E3 Richey, Mr. and Mrs. Wilkinson, street had us their guests Mr. and Mrs. Robert Ford of Fort Worth, Ind. While they were here Mrs. Wood had many functions in their honor. * Mr. and Mrs. Merchant entertained Miss Jane in New York. Seymour Miller gave us dinner at 1346 N.W. street the residence of his sister, Mrs. Margaret Brown. Many presents were received. * Mrs. Mugill, who has been ill for quite a while, has been operated on and is doing nicely. She is in olden hospital. * Mr. and Mrs. Huron will have lunch entertained Saturday evening. Mr. and Mrs. Wick. Hecks and Mrs. Brooks and sons, Charles and Jimmie Brooks. * Miss Molvina Smith was married last Thursday evening. Mrs. Hattie Winston was maid of honor.
+A
+
+WASHINGTON
+
+One of our prominent north aldeen man. Rob. Wenner, 1247 Victor avenue, passed away last Friday at Lakeview hospital. He leaves a wife, daughter, son and granddaughter to mourn his loss. *Mrs. Manielle Miller, 856 Wilson avenue, was given a surprise party Thursday visiting her mother at 1548 N. Wollsthal street. Don't forget the date of Thursday visiting her sister, Sidie Club club, she walst party at Phoebe Wood of Seligstreet, Mr. 31. A good time for all. *Alfred Kelly, 1120 Cambridge avenue, is very ill. Among the entertainers at the North Side Club club, 1346 N. Wollsthal, Saturday night, will be Mrs. Welcker, Saturday night, will be Mrs. Ewald, and Earl Schley, Mr. and Mrs. W.P. Wood of Seligstreet, had as their guests Mr. and Mrs. Robert Ford of Fort Worth, Ind. While they were here Mrs. Wood had many functions in their honor. *Mr. and Mrs. Merchant entertained Miss Woolson,ork, Geymour Miller gave a surprise party, and we wore the residence of his sister, Mrs. Margaret Brown. Many presents were received. *Mrs. Mugill, who has been ill for quite a while, has been operated on and is doing nicely. She is in Henry Winston hospital. *Mr. and Mrs. entered Saturday evening Mr. and Mrs. Wm. Hicks and Mrs. Brooks and sons, Charles and Jimmie Brooks. *Miss Molvina Smith was married last Thursday evening. Mrs. Hattie Winston was mald of honor.
 
 CIVIL SERVICE POSITIONS
+(Not furnished by Ald. R. R. Jackson.)
 
-(List furnished by Ald. R. R. Jackson.)
+The civil service commission of the city of Chicago will hold the following examinations in its examination room, 1006 City Hall, at 9 a.m. The committee will right under the subjects special subject subject or experience, or all of them, to impose oral tests:
 
-The civil service commission of the city of Chicago will hold the following examinations in its examination room, 1006 City Hall, at 9 a.m. The combsons receive the right under the special subject, duties or experience, or all of them, to impose oral tests:
-
-Carpenter, class K. Grade II.
+Carpenter, class K, Grado II.
 Original, union scale, May 15, 1920.
 Scope—Special subject 5, experience 3, physical test 2.
-Carpenter, class K. Grade II.
-Original, union scale, May 15, 1920.
+Scope—passive class K, grado II.
+Original, 11.690, May 17, 1920.
 Scope—Special subject 5, experience 3, physical test 2.
 
 Cost analyst, class B. grade I.
 
-Original, $1,800,000, May 18, 1920.
+grade
+Original, $1,800-2,400, May 15, 1920.
 Scope—Special subject 4, educational (arithmetic 2), 2, experience 3, report 1.
 Motor truck driver, class K, grade II.
 Original, union scale, May 19, 1920.
-Scope—Special
+Scope—Special su
+
+Jumps Off Truck; Badly Hurt
+Harold Wilkins, 850 Vincent avenue,
+age 13, while riding on the back of
+an automobile, jumping off was
+struck by a street car. He was badly
+brushed about the back and head.
+
+Taken to the County Hospital
+Jeanette Wilburn, 3714 Indiana avenue,
+was taken to the County Hospital
+May 7 seriously ill with pneumonia.
 
 5 W. Van Buren St. Chicago
+
+us
 
 # HOSIERY
 
@@ -284,25 +355,21 @@ PATTI'S BEAUTY EMPORIUM
 ## Dr. Offord to Visit
 
 Home After Long Absence
-Dr. A. J. Offord, 624 Eulah 374th street,
-a well known basso of the great Bethel
+Dr. A. J. Offord, 824 East 37th street,
+a well known bassist of the great Betteh
 Choir, will leave the city Sunday morning
 with the choir on their trip to the
 general conference in St. Louis, after
 which he will visit a few days with
 his relatives and friends in his home
-town. Pine Bluff, Ark., and will re-
-turn to Chicago Tuesday, May 25. Dr.
-Offord has not visited his homo in 15
-years, since which time he has experi-
-enced a most eventful career, culminating in his becoming one of Chicago's most successful young physicians.
+town, Pine Bluff, Ark., and will re-
 
-John R. Trett Dangerously Ill
-John R. Trett, one of the boys who
-was known for his big-heartedness and
-popular with all who knew him, is
-dangerously ill at Oak Forest Home,
-where he has been for several weeks.
+Dr. A. J. Offord
+
+turn to Chicago Tuesday, May 25. Dr. Offord has not visited his home in 15 years, since which time he has experienced a most excellent career, culminating with becoming one of Chicago's most successful young physicians.
+
+John R. Trott Dangerously III
+John R. Trott, one of the boys who will be for the first time caredless and popular with all who dangerously ill at Oak Forest Home, where he has been for several weeks.
 
 ## Bight Riba Fractured
 
@@ -327,41 +394,46 @@ Mrs. Wm. Bowden, wife of Dr. Bowden, the Slat drug store, improving at the Post 
 
 ## Hust Getting Off Street Gar
 
-Virgie Hutcherson, age 17, who resides at 3811 South State street, while getting off a north-bound State street car No. 3978, badly sprained her ankle last Friday.
+Virgie Hutcherson, age 17, who resides at 3811 South State street, while getting off a north-bound State street car No. 5978, badly sprained her ankle last Friday.
 
-HOSPITAL OF QUALITY AT AT THE
+HOSI
+OF QUALITY AT AT
 
-All Pressioned,
-Pure Top, All Pure S on White Italian Hose, Pure Only - Pure ered Instep, Bl'k on White, White
+THE
+All Pr
+ioned,
+Pure
+Top, All
+Pure S
+on Whi
+Italian
+Hose, I
+Pure
+Only -
 
+ered Instep, Blk on White, White
 ALL GOODS SENT
-
 USE POST OFFICE M
-
 ALL OUT OF TOWN ORG
-
-PICKFORE
-
+PICKFO
 112 E. 35T
-
-TELEPHONES—DOUGLAS 3445
+TELEPHONES—DOUGLAS 8445
 AUTO. 74-190
-
 CHARLES S
 FUNERAL
 FINEST EQUIPPE
 ESTABLISHMENT
-
 3315-17 State Street
 
 AUGUST GUEST
-EXPERT OF Ladies' and C
+EXPERT C
+of Ladles' and C
 RUGS, CARPETS
-
 OFFICE 316-18 EAST
-
 AUTO SERVICE,
 WE OWN AND OPERA
+
+ALL AROUND THE TOWN
 
 ## DIOGENES II.
 
@@ -381,45 +453,42 @@ Why burn your brain and hair with strong chemicals when you can get the World's 
 
 ## Rheumatism
 
-Rheumatism sufferers highly recommend Nu-Ru-Hu-Lin for curing the worst kind of rheumatism; 30 days' supply, $1.LO. Money back if unsatisfactory. Our representative will call. Nu-Ru-Hu-Lin Co., 4638 Champlain Ave. Ken. 10672.-Advt.
-
-South Side Investment Co. Moves
-The South Side Investment Co. has moved from the Angelus building to 3508 Grand boulevard. Arthur Griffin is no longer with the South Side Investment Co., real estate firm. If you want to buy do not fail to see us and look over our wonderful bargains before you buy.-Advt.
+Rheumatism sufferers highly recommend Nu-Rhu-Lu for curing the worst kind of rheumatism; 30 days' supply; a neck neck pack; unsatisfactory. Our representative can help Nu-Rhu-Lu Co. 4538 Champlain Ave. Ken. 10672—Advt.
+South Side Investment Co. Moves The South Side Investment Co. has moved from the Angelus building to 3508 Grand boulevard. J. Arthur Griffin is no longer with the South Side Investment Co., real estate firm. If you find him and fail to see us and look over our wonderful bargains before you buy. Advt.
 
 IERY
-ATTractive PRICES
-USE PRICES INCLUDE TAXES:
-Pure Silk, Full Fash-
-All Colors___ $5.30
+ATTRACTIVE PRICES
+THESE PRICES INCLUDE TAXES:
+Puro Silk, Full Fash-
+tion, All Colors_____
 Thread Silk Lislo
-All Colors___ $3.65
+All Colors_____
 Silk Clock Hose,Black
-White & White on Black ___ $4.15
-All Pure Silk Lace
-Black and Navy___ $7.50
-Thread Silk, Black ___ $6.40
+White & White on Black
+Ail Puro Silk Lace
+Black and Navy_____
+Thread Silk, Black
 Silk Hose, Embroid-
-ation on BL'k or All BL'k ___ $4.15
-POSTAGE PREPAID
+白色 on Bl'k or All Bl'k
+ET POSTAGE PREPAID
 MONEY ORDERS ONLY
 ORDERS PROMPTLY FILLED
-
 RD SHOP
-EIGHT STREET
+57TH STREET
 
 DAY AND NIGHT
 SERVICE
 
 S. JACKSON
-DIRECTOR
-
-CD UNDERTAKING
+M. DIRECTOR
+PED UNDERTAKING
 ENT IN AMERICA
-
 CHICAGO, ILLINOIS
 
-ANTHER & SON
+ENTHER & SON
 CLEANERS
+
+PAGE THIRTEEN
 
 ## WATCH YOUR LIVER!
 
@@ -434,9 +503,6 @@ you please write Hox x1, Chicago, Defense
 # "Getting Ahead"
 
 How Twenty-five Dollars Per Month, Saved, Grew Into Ten Thousand Dollars in Ten Years.
-Kitelb & Company, investment banker and bond specialist, such as the Standard Oil, Illinois oil company, United Steel State, attractive booklet entitled "GUTTING TO HOW THAT TELLS a true story of how Jeb Bush systematically investing in hi-grade companies," Kitelb & Company will be pleased to announce Money knows no color or creed. Every money dollar looks the same when it is put in the bank. The differences in color sort and a Savings Account cheeky and by investing wisely your money can grow. The bank pays it per coat, while the bank pays it per coat.
-
-How Twenty-five Dollars Per Month, Saved, Grew Into Ten Thousand Dollars in Ten Years.
 Kielbel & Company, investment banker, and bondy, such as the Standard Oil, Ullman Company, United States Steel, Ullman Company, United States Steel, attractive booklet entitled "GUTTING THIS," which tells a true story of how Peter Kielbel invested in systematic investing in hip-breaker stocks. This, Kielbel & Company will grade Money knows no credit or creed. Every man's dollar looks the same when he invests by investing whibly your money can earn from 5 to S per cent, while the It will pay you to know the Kielbel Systematic Savings Plan, which gables the Standard Oil, Fullman Company, United States Steel, etc., on an easy pay you big returns and are perfectly safe. No many of the faces are taking advantage, plan, and one of our young men, Tranklin V. Rabb, has been a blue taly for a foray of the took, "GUTTING AHEAD."
 
 FRANKLIN V. BABB
@@ -449,11 +515,9 @@ TELLFONE MARKETC 718
 
 # ARMY SHOES
 
-At the close of the war the government had over 200,000 pairs of genuine Russet Upholstery Gear. The shoes are needed slight repairs. We bought these shoes and are repairing them with Oak Leather, making a show that is crucial in value to shoes costing $12.00 to $15.00; our price, $2.00.
+At the close of the war the government had over 200,000 pairs of genuine Russet Upstate Charming dresses needed slight repairs. We bought these shoes and age repairing them with Oak Leather, making a shoes that is crucial in value to shoes coating $12.00 to $15.00; our price, $2.00.
 
-$2.90
-
-Also several thousand pairs men's business and dress required shoes at $2.90 and ladies' at $2.00. Shoes that are really valuable to men $10.00. All mail orders must include $1.00 with order, balance on delivery.
+Also several thousand pairs men's business and dress repaired shoes at $2.80 and ladies' at $2.00. Shoes that are really worth $4.00 to $10.00. All mail orders must include $1.00 with order, balance on delivery.
 
 Satisfaction positively guaranteed. For city trade open until 7:30 p. m.
 
@@ -462,46 +526,54 @@ KINGSLEY'S SHOE SHOP
 
 1000 AGENTS WANTED
 TO LEARN MME, NEWELL'S SYSTEM "JECKY" HAIR GROWING
-
 POSITIVELY GROWS HAIR
 
 We teach by mail or personal instructions all branches of beauty culture. Diploma given. Send stamp for particulars.
 
-MME, NEWELL
+MME.
+NEWELL
 Dept. A
-Jecky College
-4743 S. State St., Chicago, Ill.
-Solids with glits. We manufacture jecky hair and silk dresses. Complete 8 sweats' treatments. Great Grower. $2.20 a box of Jecky hair on bottle toiletry. Blond Alice. 100c Mme. Newville. $2.00 a box of 100c Mme. Newville. $2.75 a box for sample of Pomegranate liquid face powder.
+Jacky College
+4743 S. State St. Chicago, Ill.
+Sold by drug factory. Jacky hair and toilet personal hygiene. A "creek" treatment. Jacky hair Groomer. $2.50. queen of love. New Yorkeno bottle of tonic soap. Blessings. 100.00. Newville, co., N.Y.
+$3.75. Send the manhattan of Ponce de Leon liqued face powder.
 
 BIG SALE ON
-Ladies' Custom Made Ready-to-Wear Suits and Dresses
+Ladies' Custom
+Made Ready-to-
+Wear Suits and
+Dresses
 All styles and colors
-$50-reduced to $32.00
-$65-reduced to $37.50
+$60—reduced to $32.60
+$60—reduced to $37.00
 Other great bargains
-
-The 8 Big Tailors
-Fashion and seating advice. Ull and working up groomed.
+The 8
+Big Tailors
+Fabrics and goods available
+to order. Upcycled
+fabrics go stocked.
 358 E. 35th St.
 Near Grand Blvd.
 
 BOOK AGENTS' OPPORTUNITY!
 
-FIRSTSTEPS
-
+FIRST STEPS
 —AND—
 Nursery Rhymes
-Heralding the Dawn of the New Order
-
+Heralding the
+Dawn of the New
+Order
 ILLUSTRATED
-The First and the Only COLORED Child Book
-
-Should Be In Every Home Where Mother Loves Dwells
+The First and the
+Only COLORED
+Child Book
+Should Be In Every Home Where
+Mother Love Dwells
 100,000 copies will be sold this year
-
 AGENTS
-Send $1.00 and we will forward book and instructions.
-
+Send $1.00 and we will forward
+book and instructions.
+Address the
 Colored Child's Book Pub. Co.
 4700 State St.
 Chicago, Ill.

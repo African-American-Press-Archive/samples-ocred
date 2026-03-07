@@ -1,10 +1,31 @@
 # THE STAR HAIR GROWER A Wonderful Hair Dressing and Grower. 1,000 AGENTS WANTED.
 
-send $1.00 and we will send you a full supply that you can begin work with at once; also agent's terme.
+Good Money
+Made
+We want agents in every city and village to sell
+
+THE
+STAR HAIR
+CROWER.
+This is a wonderful preparation. Can be used with or without straightening irons and by any person.
+
+One 25 contes box proves its value. Any person that will use a 250 box will be convinced.
+
+No matter what has failed to grow your hair, just give THE
+STAR HAIR
+CROWER
+a trial and be convinced.
+
+Send 250 for full also box.
+If you wish to become an agent for this wonderful preparation.
+
+Send $1.00 and we will send you a full supply that you can begin work with at once; also agent's terms.
+
 Send all money by money order to
+
 THE STAR HAIR CROWER MF'R.,
 P. O. Box 812,
-Greensboro, N. G.
+Greensboro, N. C.
 
 # EXPELLED MINISTER
 SUES A. M. E. BISHOP
@@ -66,8 +87,6 @@ South Side Community Center is attracting wide interest and attendance from orga
 
 ## Y. M. C. A. NEWS
 
-Last Sunday was a busy day at the Y. M. C. A. The lobby and rooms were crowded with people who came to attend the various events held were held in the building. * Harry T. Williams, inter-church secretary of the Chicago Y. M. C. A. will speak on behalf of the late John noon at 3:30. Subject, "The Transmission of Power." Musical numbers will be rendered by the Y. M. C. A. quartet, Armour Glee Club. Numbers will be rendered by the Y. M. C. Washington. B. R. Johnson, W. Y. Parker, W. B. Butler, Misses Carle
-
 Last Sunday was a busy day at the Y. M. C. A. The lobby and rooms were ranged with people who came in to watch games with those who came were held in the building. * Harry T. Williams, inter-church secretary of the Chicago Y. M. C. A. will speak at the men meeting Sunday after the Transmission of Power". Musical will be rendered by the Y. M. C. A. Quartet, Armour Glee Club. Numbers will be rendered by Messrs. F. O. Washington, P. R. Johnson, W. J. Watkins, E. Watkins, B. Watkins, Goodgame, solisters furnished by the Chicago Opera Club. * The Armour Glee Club and the Y. W. C. A. Glee Club held a dual concert at the auditorium for the Chicago Opera Club. C. J. Cruddock president, met at the Y. M. C. A. Monday evening. * A meeting of the Citizens' Relief Association was held at the Y. W. C. A. Glee Club morning, Jan. 18. * George W. Johnson, J. W. Cruddock, retary, is attending a boys work conference at Aurora. * I. W. M. Davis of Riapool, India, accompanied by a group of singers, will speak in the Y. W. C. A. Glee Club, Jan. 27. * Recent arrivals: George Thomas, Indianapolis, Ind.; W. L. T. Lockett, Detroit, Mich.; Dr. W. M. Lytle, Oakland, Calif.; Dr. H. J. Ferrell, Detroit, Mich.; * A. W. Walker, Minneapolis, Minn.; A. B. Zinn, St. Paul, Minn.
 
 ## Enlarge Printing Department
@@ -95,30 +114,48 @@ home.
 ## Slashed. by Brother
 
 Joseph and Lee Smith, brothers, 2811
-Denver street, became engaged in
-his left hand by his brother that no
+Dearborn street, became engaged in
+a quarrel and he was cut so badly on
+his left hand by his brother that he
 had to be carried to the Emergency
 hospital.
-BRAZIL. SEE ADVT. ON PAGE 11
 
-One 25 conte
-box proves its
-value. Any per-
-son that
-wants 50 box
-will be con-
+BRAZIL, SEE ADVT. ON PAGE 11
+
+THE
+HAR GROWER
+Pressing and Grower.
+ITS WANTED.
+
+Good Money
+Made
+We want agents in every
+city and village
+to sell
+
+THE
+STAR HAIR
+GROWER.
+This is a wonderful preparation.
+Can be used with or without
+straightening irons and by
+any person.
+
+One 25 conte box proves its value. Any por-
+son that will use a 250 box will be con-
 vinced.
+
+No matter what has failed to grow your hair, just give THE STAR HAIR GROWER a trial and be convinced. Send 250 for full size box. If you wish to become an agent for this wonderful preparation. a full supply that you can begin to GROWER MF'R., Greensboro, N. C.
+
+THE CHICAGO DEFENDER
 
 ## CITY NEWS BRIEFES
 
-HUNDREDS OF PEOPLE are to meet at Unity Hall, 3140 Avenue avenue, in the way evening, Jan. 31, to witness the may day event, of several lodges and thirty-two temples of U. B. F. and S. M. T. Preceded by the installation a fine program will be held at many prominent speakers are to take part.
-MR. AND MRS. HILLIIS SETTLES, 11346 Troop street, Morgan Park, enclosed. Friends last Sunday in honor of Mrs. U. B. F. Among those present were Mr. T. Bentley, 3612 Elm avenue, and M. T. Bailey, 3638 State street. A very pleasant day was spent.
-MR. AND MRS. EDGIE HILL was installed as worthy princes of Ruth Temple. No. 72, S. M. T., and advised the officers and members that they may go over the top" during 1921.
-MR. AND MRS. EDGIE HILL is the Wells Fraternal Book of 3710 Indiana avenue, is en route to Chicago after spending some weeks in Callahoe, which is widely known in fraternal circles.
-THE ANNUAL committee of A. D. K. and D. of A., of which Rev. L. L. Scott is general chairman, in charge of the coming of the grand lodge in Jan. 31, at Saturday evening, Jan. 22, at Grant Memorial Chapel, 4600 Evans avenue.
-MR. AND MRS. BENJAMIN SULINGER, 3838 Federal town, were in Morgan. Mr. and Mrs. A. W. Williams are home and the selected spot for their future home.
-M. T. BAILEY, 3638 State street, is now president of the Alumni Association and at Petersburg, Vn. after a thrust study of the progress of his alma mater during the administration of President John M. Sandy, is proud of the success of his work. It was last may when Mr. Bentley met with hundreds of other graduates, met at Petersburg and raised almost $3,000 for their alma mater.
-Mr. Hughson of Ruth, No. 5651, G. U. O. O. F., which had been worked up by Mrs. Ida M. Nelson, was organized on Jan. 12 by Mrs. Louse Young, D. G. M. N. G. with seventy-Young. D. G. M. N. G. with the initiating team of Headmistress No. 44, of which Mrs. Marshet Womack is president. On Wednesday evening, Jan. 26, the public installation was completed. Mrs. St. Louis, after spending days in the city visiting their mother, Mrs. Sallie McAney, 2835 Vernon avenue, and Mrs. Sarah R. Benton, 2835 Elm avenue, have returned to their home much pleased with their stay in the city.
+[OCR timeout]
+
+ST. AUGUSTA Household of Ruth, 1657 G. U. O. O. F., which had been organized in Jan. 12 by Nelson, was organized on Jan. 12 by Ella Young. D. G. M. N. G., with seventy-three members, assisted by the Household Ruth. No. 44, of which Mr. McCann mack is president. On Wednesday evening, Jan. 26, the public installation and banquet will be held at the Movement Club, 3140 Indiana avenue, at which time the public is invited.
+
+MISS MARK MCAMEY and Mrs. PENNY Collins, 3501 Lawton avenue, St. Louis, days in the city visiting their mother, Mrs. Sallio McCamey, 2825 Vernon avenue, and Mrs. Sarnah R. Benton, 4255 avenue, have returned to their home, pleased with their stay in the city.
 
 ## At County Hospital
 
@@ -132,9 +169,19 @@ The in memorial last week signed John W. Webb and Mrs. Corrine E. Thomas should 
 
 # Velvet Brown Preparations
 
-For SKIN and HAIR are the result of years of experiment and study by me. The one that I am a graduate in Medicine and Dentistry is a GUARANTEE that the best drugs properly can be used in my preparations. In less than a year on the market, most goods have followed this DEFENDED thousands of homes and made good.
+For SKIN and
+HAIR are the
+result of years
+of study.
+study, my.
 
-THE CREAM positively BLEACHES: removes every blemish, powder perfectly all day and keeps the skin soft and tender as a spring coat.
+PETER M. MAYER
+
+The fact that I am a graduate in Medicine and Dentistry is a GUARANTEE that I have had drugs, properly combined, are used in my preparations.
+
+In less than a year on the market we have followed this DEFENDER ad into thousands of homes and made good.
+
+THE CREAM positively BLEACHES: removes every bleam powder perfectly all day and keeps the skin soft and tender as a spring soft.
 
 Half mulsified by nature or banal grease
 The purifying OIL gives a fless gloss and
@@ -155,23 +202,21 @@ DALLAS, TEXAS.
 
 ## CROUP
 
-Group comes like a thief in the dead of the night when least expected. It may take hours for a doctor to arrive, and immediate treatment is necessary. That is why the careful mother always prepares a glass of Gliesco has stood the test of time. It has been used in millions of homes for years. It is a reliable remedy. Safe and sure in action, immediate in relief. Gliesco is guaranteed to relieve an aching sore throat and Gliesco has out vomitted. It carries the offending mucous out of the system and does not upset the stomach.
+Group comes like a thief in the dead of the night when least expected. It may take hours for a doctor to arrive, and immediate treatment is necessary. That is why the careful mother always keeps a bottle of Glessco in the living room. Glessco has stood the test of time. It has been used in millions of homes for years. It is a reliable remedy. Safe and sure in action, immediate in relief. Glessco is guaranteed to relieve an attack of group in fifteen minutes with the following mucous out of the system and does not upset the stomach. Ask your doctor about Glessco. Your druggist will tell you that there is more of it sold every year than all other group medicines. It costs 500 per bottle and is worth ten times as much in time of need.
 
-Ask your doctor about Gliesco. Your druggist will tell you that there is more of it sold every year than all bottles combined, which costs 500 per bottle and is worth ten times as much in time of need.
+Dr. Drake's GLESSCO
 
-ANCIENT ORDER OF
-ETHIOPIAN PRINCES
+ANCIENT ORDER OF ETHIOPIAN PRINCES
 (INCORPORATED)
-A lodge founded upon 5,000 years of
-Ethiopian history.
-Regalia—Lectures, meetings, Funeral,
-$160.00
-Commissions issued to qualified
-organizers.
+A lodge founded upon 5,000 years of Ethiopian history.
+Regalia—Lectures—Benefits, Funeral,
+Commissions issued to qualified organizers.
 For information address,
-ATTORNEY N. W. JOHNSON
-184 W. Washington St. Rm. 707,
+ATTORNEY W. JOHNSON
+184 W. Washington St. J. ROW 707,
 Chicago, Ill.
+
+...
 
 PERCELL, HAIR
 PERCELL, SOAP
@@ -195,27 +240,21 @@ We have seen war. We have tasted of the intoxication of those public plaudits of
 # There Is No Death!
 Life Is Eternal
 
-Do not grieve over those who have departed. Life never ends—God's door is always open to life and eternal life and eternal life, where those who love one another will be united forever.
+Do not grieve over those who have departed. Life never ends — God's door is always open between earth and sky, where those who love one another will be united forever.
 
-Through God'sownlaw the spirit of those who have passed through with church communicate with those on earth. There are millions of persons right here in America who have the courage to believe that the life, the personality, the love which knew in their dear ones has not come to an end by death. The Wm. T. Stead Memorial Center wishes to place before you its remarkable evidence of something to decide for yourself that There are no free booklets, COMMUNICATION 32 pages, beyond the grave. It will help you to understand God's World, our first book. Life will bring you it. We wish it were possible to place a copy of our right thoughts. God's World will aid you. We wish it were possible to place a copy of our breathing soul. Send now-fill this Coupon.
+God's World
+FREE
+
+Through God's downlaw the spirit of those who have passed through the portals of Death can communicate with the portals of Life can communicate with the hearts where we are where we all of persons right here are where we all of courage to believe that the life, the personality, the love which they knew in their dear ones, has not come to an end by death. The Wm. T. Stead Memorial Center wishes to place before your its remarkable evidence—enabling you to decide for yourself that—our free booklet, COMMUNICATION 32 pages, our own view of life here and beyond the realm of Reality. Life will bring "God's World," our first book. Life will bring the right thoughts, God's World will aid you. We wish it were possible to place a copy of our booklet in your breathful soul. Send now-fill this Coupon.
 
 THE STEAD CENTER
-Dept.73 Rand-McNally, Bldg., Chicago, IL.
-SEND NO MONEY—Mall Coupon NO.
+Dept. 73 Rand-McNally, Bldg., Chicago, IL
+Send NO MONEY—Malt Coupon NOW!
 
 THE STEAD CENTER
-Date.....Ill.
-Dept.73 Rand-McNally, Bldg., Chicago, IL.
-Please do not use my free illustrated book. COMMUNITY, World, without obligation on my part. Your truly.
-
-Date. Date.
-
-Day 73. Rend-Monkey Widow-Child. CHRISTMAS.
-
-Please send me your free illustrated book, COMUNI-
-GATION, and let me know all about "God's World"
-without obligation on my part. Your truly,
-really.
+Date.....
+Dept. 73 Rand-McNally Bldg., Chicago, IL
+Please send no your free illustrated booklet, COMMUNICATION, "God's World," without obligation on my part. Your truly.
 
 # Stop Guessing Try Pyramid
 
@@ -233,72 +272,43 @@ today. No drug store anywhere
 in the U.S. or Canada, but do not
 take any substitute.
 
-YOUR NAME WE DRINK YOU A.
-Will bring you extra money besides your free trial by sending you a memo and address to Pyramid Drug Co. 67 Pyramid Blue, Marshall, Mich.
+YOU are used in the privacy of
+your own information. You can have
+a free trial by adding your name
+and address to Pyramid Drugs.
+607 Pyramid Blue, Marshall, Mich.
 
-JUST YOUR NAME FREE SUIT
+JUST YOUR NAME
+WILL BRAVE
+YOU A FREE SUIT
 
-Will bring you extra money besides your free trial by sending you a memo and address to Pyramid Drug Co. 67 Pyramid Blue, Marshall, Mich.
+Uda to Two
+Don't send email. Wendell you
+wonderful offer FREE of charge.
 
-Your Suit FREE EXPRESS PREPAID
-You can't afford to overlook this chance. We will give you our own free suit. We will pay you big money besides
-EARN $2,600 A YEAR
-You can specialize in beautiful samples. Pick out your suit and earn your money back.
-AUTOMATIC DELIVERY
-QUICK-DON'T-DELIVER.
+Mastery
 
-SPENCER MEAD COMPANY, Dep. 200, CHICAGO WHOLESAIL TALKS
-
-The Mast Comprehensive Comprehensive Course Given in
-Hair Dressing and Beauty Culture
-Enough Improved Hair and Skin to earn your money back
-Learn to be a Hair Dresser, Scalp and Skin Specialist
-
-I teach you how either by mail or person.
-Diplomas are given.
-
-I. M. S.MUMMERS
-Ten years' experienced graduate Specialist
-
-WILMINGTON, DELAWARE
+With patience and tenacity you can
+wear a Free Suit EXPRESS PREPAID
+You can't afford to overlook this
+check. We will see you in our own suit
+--We'll see you your own suit
+Friday. We will pay you big money
+besides
 
 LEG SORES
-Healed by ANTI-FLAMMA Poultrees Plaster. Stops the itching around sores. Heals while you work. Describe caso and get Free Sample. Bake Desk Refrigerator, Co., 1832 Grand, Kansas City, Mo.
+Headed by ANTL-FLAMMA Poultice
+Plaster. Stops the blows around
+sores. Heals while you work.
+Describe case and get Free Sample.
+Shop by coating, Co., 1832 Grand,
+Kansas City, Mo.
 
-no fears for the record to be made again by this regiment.
+no fears for the record to be made again by this regiment. While we are keeping ourselves prepared, we are also better, I desire to see this regiment take its place as one of the best institutions of the community for civic usefulness and righteousness.
 
-While we are keeping ourselves prepared for a possible call, however, I desire to bring you its place as one of the best institutions of the community for civic usefulness and righteousness.
+To the Fifteenth Regiment of the future a splendid memorial to those comrades of ours of the Old Fifteenth, those brothers in arms who have been long sleep of eternity! That must be our standard, our purpose and our goal. Take up our quarrel with the foe The Torch, the foe The torch. Be yours to bear it high. If ye break faith with us who die. We shall not sleep, though poppies blow in the wind. I have no illusions as to my own abilities of leadership. Single handed
 
-I make of the Fifteenth Regiment of the Army tonight a tour of those comrades of ours the Old Fifteenth, those brothers in arms who sleep today in France the long sleep of their long tongue on earth woman, our standard, our purpose and our goal.
-
-"Take up our quarrel with the foe To you from falling hands we throw the torch. Be yours to bear it high. If he burns us with who die. We shall not sleep, though poppies blow In Flanders fields."
-
-I have no illusions on leadership. Single handed
-
-OLD KENYA
-HOMESPUN
-Cream of the finest C
-Mellow as M
-Radarr as S
-
-SEN
-NO MO
-
-RIPE, RICH, OLD-
-
-The choice of Kentucky's finest district Old KENTUCKY HOMESPUN is no more like a night-free from chemicals and all other adult substances and delicate the sense of the finest-smoking. Like old wine in the cellar, it is rich, man "awestred" by the same method as employed in the smoking tobacco for our own use—"bite" your throat here in the greatest tobacco bank on it you have been in your age, no decorations—just QUALITY and lot of it. South and West, men have tested this fine old tobacco between your teeth. Smoke or chaw, it will give you it between your teeth. Have you ever have it in Canada any as good as your Old Kentucky tobacco?
-
-Give the old "obt" a treat—"feal" ear" up to the bumps between your teeth. Smoke or chaw, it will give you it between your teeth. Have you ever have it in Canada any as good as your Old Kentucky tobacco?
-
-I am retired physician, 88 years old. Have used but do not smoke. None give me such satisfaction as any of the high priced but excellent but goes for effects.
-
-S. S. Sutton, Ark, Ark
-
-Your tobacco is every thing a person can desire. We grow our crop of our crops, placing them in our warehouses deciding which one to make. The tobacco comes in forms that make of high priced, doped up trash called tobacco.
-
-REDUCE YOUR TOB
-
-We are growers of tobacco and sell none but our own crop of our crops, placing them in our warehouses deciding which one to make. The tobacco comes in forms that make of high priced, doped up trash called tobacco.
+[OCR timeout]
 
 OLD KENTUCKY
 MIESPUN TOBACCO
@@ -321,6 +331,14 @@ we have tested this fine old tobacco and spread the
 smoke or chaw, it will give you the keenest joy since
 we never tasted a linear dwarfed more girth
 
+OLD KENTUCKY
+HOMESPUN TOBACCO
+Cream of the Finest Crope Direct to You
+Mellow as Moonlight
+Knugent as the Rose
+—SEND—
+NO MONEY
+
 The choice of Kentucky's finest crop direct from our farms to you. This FAMOUS OLD KENTUCKY HONEYSPUN is no more like the manufactured tobacco than is day like the french oak, chemicals and all other adulterations that undermine the health, that conceal imperfections in your mouth, that nurture in Kentucky's finest soil, cut at the proper time, carefully selected, aged, and smoked. Like old wine in the cellar, its rich, rare fragrance permeates the air. Cured and "awaked" by the same method as employed in the early days, the method our grandfathers "to bite" your tongue with tobacco for their own use—every trace of harmless leaves it—nothing to "blime" your taste. You won't be your taste. No fancy packages, no decorations—just QUALITY and lots of it. The only difference is South and West, men have tested this old tobacco and spread the news of its immutable quality. Grown right here in the greatest tobacco producing district in the world. We never tested it a time favored, more satisfying tobacco in all your life. Give the old "okb" you never tested a time favored, cut off a "bunk" as big as your fist and fit between your teeth. Smoke or charcoal.
 
 "I have used the best tobacco they have in Canada, England and not ever tasted any as good as your Old Kentucky Homepan." J. P. O'Connor, Gold Ench. Organs
@@ -328,44 +346,35 @@ The choice of Kentucky's finest crop direct from our farms to you. This FAMOUS O
 "Your tobacco is every thing a person can desire. Even my wife its pleasant areas in the house." A. C. Evering, Grand Center. In
 "The tobacco is in good shape and I like it fine." Have been impaired upon long exposure by the makers of high-quality tobacco.
 
-"The tobacco came in good shape and I like it fine. Have been imposed upon long enough by the makers of high priced, doped up trash called tobacco." L. Gates, Macdonald, NY.
-
 ## REDUCE YOUR TOBACCO BILL 75%
 
-We are grown of tobacco and sell none but our own crops, therefore exempt from all revenue tax. We pool our crops, placing them in our own storage in the minimum amount we can afford our business. This our oversees in order to minimize our expense plus eliminates all misdeed; you deal directly with the grower, thereby effecting a saving to you of 15 per cach or more.
-
-BEE HOW SIMPLE IT IS TO MAKE THE OLD FAZION PIPHINE ABOUT SMOKE TWIST. Care, we pool our crops, placing them in our own storage in the minimum amount we can afford our business. This our oversees in order to minimize our expense plus eliminates all misdeed; you deal directly with the grower, thereby effecting a saving to you of 15 per cach or more.
-
-READ THESE MONEY-SAVING PRICES
-
-We Pay Postage
-
-5 pounds $ 2.98
-10 pounds 5.85
-20 pounds 11.40
-
-5 pounds manufactured tobacco that has been adulterated, swerted, chemically treated or otherwise "dood" in order to minimize the amount of real tobacco used, or you want the Old Washington Kentucky. You open that brings to you the cream of the crop, an obvious harvest in all its natural growth.
+[OCR timeout]
 
 JUST SEND THE COUPON--NO MONEY
+doesn't please you--if it doesn't suit your taste--if it
+survives part of your money will be paused without quail
+Sign and mail the coupon today and enjoy the优惠
 
-May pay the price above when tobacco arrives, doesn't please you. If it doesn't suit your taste—if it doesn't save you money—every cent of your money will be returned without quibble or question. YOU RISK NOTHING.
-
-Sign and mail the coupon today and enjoy the coupon treat of your life.
-
-TOBACCO GROWERS ASSOCIATION OF KY. Warehouse V-1
+TOBACCO GROWERS ASSOCIATION
 Hayfield, Kentucky
 
-Send me.... pounds of Old Kentucky Homespun Tobacco by parcel post prepaid. I will pay the price of $.... on arrival. If not satisfied after a 10-DAY TRIAL I will return the tobacco and you will refund my money.
+TOBACCO GROWERS ASSOCIATION
+Hayfield, Kentucky
 
+Send me.... pounds of O
+parcel post prepaid. I will pay the price of $.
+fied after a 10-DAY TRIAL. I will return the to
 Name.....
 
 Address.....
 
-(State whether chewing or smoking, strong, medium or mild.)
+(State whether chewing or smoking
 
-COLDS RELIEVED BY TURPO
+COLDS RELIEVE
 
-The Turpentine Cointment That Gives Immediate Relief in All Cold Troubles and Congestion. Mothers Use it to Prevent Development of Children's Colds.
+The Turpentine Ointment That Gives
+Cold Troubles and Congestion
+Prevent Development of
 
 JUST SEND THE COUPON--NO MONEY You only pay the price above when the coupon arrives. TRY THE TBUCOBAC 10 DAYS and if it doesn't please you, if it doesn't save you your taste. If it doesn't save you money--back it comes and every cent of your money will enjoy the rewards. YOU RISK NOTHING. Sirai and me the coupon today and enjoy the tethered benefits of your life.
 
@@ -405,29 +414,30 @@ Name.....
 
 # The Turpentine Ciment That Gives Immediate Relief in All Cold Troubles and Congestion. Mothers Use it to Prevent Development of Children's Colds.
 
-For several winters a large number of people, especially mothers of small children, have prevented the serious effects from neglected colds by using Turpo—the new Turpentine Ointment which, applied externally, drives a cold away overnight, relieves congestion of all kinds, and has valuable antiseptic properties.
+For several winters a large number of people, especially mothers of small children, have prevented the serious effects from neglected colds by using Turpo—the new Turpentine Ointment which, applied externally, drives a cold overnight, relieves congestion of all tissues, and has valuable antiseptic property. There is nothing mysterious or secret about Turpo—it is a scientific combination of distilled Turpentine, Camphor and Menthol, in saline or ointment which, being readily sorbed through the skin, carries the recognized and beneficial effects of these medicines to the root of the trouble. Turpo, applied up the nostril at the first sign of a cold, relieves congestion and headache, clears the air passages, checking the cold at the very root, and
 
-There is nothing mysterious or secret about Turpo—it is a scientific combination of distilled Turpentine, Camphor and Menthol, in a salve or ointment which, being readily absorbed through the skin, carries the recognized and beneficial effects of these medicines to the root of the trouble. Turpo, applied up the nostrils at the first sign of a cold, relieves congestion and headache, clears the air passages, checking the cold at the very root, and
-
+TUR
 For every Cold and
-
-COME AND HAVE A REAL
-
+COME AND HAVE A RE
 THE D
-
 BELLMAN
 
-TURPO
-For every Cold and Congestion
-
-COME AND HAVE A REAL GOOD T
+URPO
+for every Cold and Congestion
+AND HAVE A REAL GOOD
 THE D & C
-BELLMAN'S B
+LLMAN'S B
+
+TURPO For every Cold and Congestion
+
 MAJESTIC INSTITUTE
-Woodward and Watson Sts.
+Woodward and Watson Sta.
+
 Monday, January 31, 1
+
 DETROIT, MICH.
-LeRoy Smith's Famous Orchestra. Floor Mgr., Prof. R. B.
+
+LeRoy Smith's Famous Orchostra. Floor Mgr., Prof. R. Ba
 Price $1.00, Plus War Tax
 
 Sunday, January 31, 19
@@ -438,55 +448,78 @@ Price $1.00. Plus War Tax
 LeRoy Smith's Famous Orchstra. Floor Mgr., Prof. R. Barron M. White
 Price $1.00, Plus War Tax
 
-I can do but little. I appeal for cooperation to the full membership of the regiment, and to the veterans. I am not a citizen of the good citizens, and particularly of those women and men of the community centers to which we must look and upon it we must depend for our ownership and our support, both sentimental and material.
-
-Based upon the experience of my service, I shall endeavor to command this regiment in such a manner as good citizens, and particularly of those women and men of the community centers to which we must look and upon it we must depend for our ownership and our support, both sentimental and material.
-
-I shall devote my most intelligent effort to the development of a regiment which must win recognition as a prominent and worthy institution of pride to the Colored Race.
-
-ARTHUR LITTLE.
-
-Colonel.
+I can do but little. I appeal for cooperation to the full membership of the regiment, and to the veterans. I am not a soldier, and all good citizens, and particularly of those women and men of the community centers to which we must look and upon which we must depend for our survival in such support, both sentimental and material. Based upon the experience of my service, I shall endeavor to command this regiment in such a manner as may best support and assist for which I have devote my most intelligent effort to the development of a regiment which must win recognition as a bulwark of strength to the law abiding citizen. I am also an institution of pride to the Colored Race. ARTHUR LITTLE
 
 KENTUCKY
-N TOBACCO
-Crops Direct to You
-as Moonlight
-as the Rose
+IN TOBACCO
+The Crops Direct to you.
+This FAMOUS
+like the manufacturer and the
+adultations that undermine the health,
+that of taste. Grown and nurtured in Kentucky
+is the manufacturer and the developer of
+tobacco and spread the news of its inimitable
+tobacco producing district in the world. We
+word, more satisfying tobacco in all your life.
+Cate Gaffney, Gold Beach, Oregom.
+I chowked as Old Kentucky Homestead Leaf Tobacco.
+It seems further than any other kind and produces no ill
+intuition. Even my wife enjoys its pleasant aroma in
+fine. Have been imposed upon long enough by the
+"C. J. Gatts, Morrisville, Vt."
 
-DOD-FASHION LEAF
-direct from our farms to you. This FAMOUS like the manufacture of tobacco than is like adulterations that undermine the health, that of the mature trees. Grown and nurtured in Kentucky, it must satisfy tobacco in all your life, and, pure fragrance permitted by the Curuce, lies in the early days, the grandest of tobacco and spread the news of its innermost tobacco producing district in the world. We do not mistify tobacco in all your life, and, oftentimes the country, Kentucky, has you the keeper Joy since the days of Old Houston, Canada, England and Ireland but has never tasted tobacco producing district since I came in. I thank as often as any other kind and produce no illness. Even my wife enjoys its pleasant aroma in it.
+TOBACCO BILL 75%
+our own crop, therefore comes from all avenues
+branches and shares equally all the expense of con-
+ceded to the minimum. This co-operative marketing
+with the grower, thereby effecting a saving to you
 
-We have been impured upon your enough by theaco: G. L. Gates, Mortierville, Vt.
+READ THESE MONEY-
+SAVING PRICES
+We Pay Postage
 
-OBACCO BILL 75%
-your own crop, therefore exempt from all revenue rebates and share equally the expense of convenience? 'doped' in order to minimize otherwise 'doped' on tobacco, or do you want the old-Pashmina tobacco that brings to you the cream of Kentucky harvest in all its natural goodness?
+5 pounds $ 2.98
+10 pounds 5.85
+20 pounds 11.40
 
-Only the price above when tobacco arrives.
-
-If it doesn't save you money - lack it comes and quibble or question. YOU RISK NOTHING. Snace treat of your life.
-
-ASSOCIATION OF KY.
-
-NATION OF KY. Warhouse V-1
+5 pounds of our tobacco will
+be manufactured to you in a
+68 chewing or smoking tube.
+Which do you prefer? The high-priced
+manufactured tobacco that has been adul-
+tured, sweetened, flavored, or
+otherwise "dosed" in order to minimiz-
+e the amount of real tobacco used, or do you
+meet the Old Johnson. Known as the cream
+of Kentucky's famous harvest in all its
+manufactured forms.
+KEY only the price above when tobacco arrives.
+KEY THE TOBACCO 10 DAYS and if it
+doesn't sell you please buy locally. No taxes
+and not quibble or question. YOU RISK NOTHING.
+SMOOTHON OF OXYGEN
+NOTION OF KY. Warhouse V-1
 Kentucky
-
-Of Old Kentucky Homemoney Tobacco by of $..... on arrival. If not ratified the tobacco and you will refund my money.
-
+Of Old Kentucky Homespun Tobacco by
+of $.... on arrival. If not ratias-
+the tobacco and you will refund my money.
 looking, strong, medium or mild.)
 
-WED BY TURPO
-
-Gives immediate Relief in All Situation. Mothers Use it to treat of Children's Colds.
+LIVED BY TURPO
+Gives Immediate Relief in All
+Action. Mothers Use it to
+at Children's Colds.
 
 prevents its developing into more serious trouble.
 
-Pneumonia and influenza may develop from a neglected cold—especially in children, and careful mothers are now using Turpo as a standard household application, to be used at the first sign of cold. Turpo rubbed on the throat and chest or dressed about Turpo—they will confirm that it is a good, honest remedy.
+Pneumonia and influenza may develop from a neglected cold—especially in children and careful mothers are now using Turpox, a broad-spectrum application, to be used at the first step of "sniffles" in the child. For severe colds, Turpox rubbed on the throat and chest gets under the skin, clearing up the congestion, without blistering the skin or staining the clothing.
 
-Sold in white opal jars with the orange and black label, 30c and 60c. Your money will be cheerfully refunded if you are not entirely satisfied.
+In catarrh, hacking off of value to give relief in catarrh, hacking off of value to give relief and as an antiseptic application cuts, wounds and burns. Ask your doctor or drugstreet at Turpox—they will confirm that it is a good, honest remedy.
 
+Gold in white opal jars with the orange and black block 30c and 60c. Your money will be returned, funded if you are not entirely satisfied.
+
+2PO
 and Congestion
-
 REAL GOOD TIME AT
 & C
 N'S BALL
@@ -500,69 +533,39 @@ Colonel.
 
 # Don't Wear A Truss!
 
-After Thirty Years' Experience We Have Produced an Appliance for Men, Women or Children That Cures Rupture.
-
-WE SEND IT ON TRIAL
-
-If you have tried most everything else, come to where others fall is where we have our greatest success. Send attached coupon and we
-
-The Above is O. E. Brooks, Kawater of the Appliance. Mr. Brooks, Curve Kawater of Rupture Over 30 Years Age and Patented on the International Experiences. If Rupture, We need today to the Brooks Appliance Company, Marshall, Mich.
-
-will send you free our illustrated book on Rupture and give you an appended book on Patented Experiences. If Rupture, we use no salves, no barraces, no lies.
-
-is true. You are the Judge and once have seen our illustrated book and read if you will be on instructed book and read if you will be on instructed letters you can also read. Fill our free coupon and worth your time whether you try our Appliance or not.
-
-FREE INFORMATION COUPON
-Brooks Appliance Company
-894 A State St., Marshall, Mich.
-Please send me by mail, in plain wrapper, your instructed book and full information about your Appliance for the cure of rupture.
-
-Name
-
-Address
-
-City
+[OCR timeout]
 
 # FREE TO ASTHMA SUFFERERS
 
-Free Trial of a Method That Any One Can Use Without Discomfort or Loss of Time
+[OCR timeout]
 
-We have here for the counsel of Asthma, and we want you to try your experience. No matter whether your case is of long standing or recent development, whether it is present as occasional or chronic Asthma, you should send for a free trial of our method. No matter in what climate you live, no matter what your age is, if you are troubled with asthma, our method should relict you prescript. We especially want to send it to those apparently hopeless cases, where all forms of hinkness, inadmissible fauses, "patient smokers," etc., have failed. We every one at our expense, that our method is designed to end all difficult breathing, wheeze and all possible attacks. This free offer is too important to neglect a single day. Write now and begin the method at once. Send no money. Simply mail coupon below. Do it today—you do not even pay postage.
+```markdown
 
-FREE TRIAL COUPON
-FRONTIER ASTHINA CO., Room 655-N, Nigura and Hidden Streets, Buffalo, N. Y.
-Send free trial of your method to:
-
-McKISSICK'S FAMOUS HAIR GROWER
-Grow Mino and it Will We Grow Yours
+```
 
 5000 Hair Grooming's Famous Improved Hair Grooming's Vertise the wonderful merits of the goods. A Three-month Treatment for $1.00, including a 25c box of O.K. Shampoo and a 50c box of McKissel's Lusherine or goodness for the treatment $1.75 worth of goods for the treatment $0.00. Order today for your get your treatments. Wet 10c extra for postage. 15-day limit. W. T. McKISSICK & CO.
 
-P. O. BOX 102. WILMINGTON, DEL.
+P.O. BOX 102. WILMINGTON, DEL.
 
-100 Style Book
-FREE
-Send for
-Your Copy
-Today
-Save
-33 1/2 %
+$100 Style Book FREE
+Send for Your Copy Today
+Save 33½%
 
-Just off the press. WRIGHT'S latest Big City Style. If you want to dress correctly for your city you can buy your clothes on everybike you wear, send for this book. If you want to buy your can buy your clothes from the manufacturer's bed-rock wholesale prices.
+wow! when the price is WRIGHT'S latest Big City Style you want to dress gravelly, look your very best, and save 33½% to buy a book now. If shoes how you can buy your foot from the manufacturer as a bird-rock wohalsale prices.
 
-FREE
-Offer to book online a woodful
-book that will enable you to dress
-for your city and make a new purchase. This book is free and makes a new purchase. WRIGHT & COMPANY
+FREE after that will enable you to dress yourself from hand to foot, foot coat, free shoes, free stock, free shoes, free stock. Order later.
+
+WRIGHT & COMPANY
+Depot, 9421 800 B. Throop St. CHICAGO
+
+Wholesale Prices
 
 ## CURED HIS RUPTURE
 
-I was badly ruptured while lifting a trunk several years ago. Doctors said my only hope of cure was an operation. I was completely hurt and hold of something that quickly and completely cured me. Years have passed and the rupture has never returned although I am doing hard work and a complete recovery has been achieved, no lost time, no trouble. I have nothing to sell, but will give full information about how you may find a complete treatment for me. I write to me. Eugene M. Pullen, Carpenter, 1070-G Marcelus Avenue, Manasquan, N. J. Better cut out this notice and show it to any other who needs it. We have reported impending results. My wife has been taking medication as well, but this is not the case. We have taken medication as well, but this is not the case. I concluded to try it, and after using it, I have regained full confidence. I do not tolerate other drugs. Do not tolerate other drugs. Send Coupon today for $1.50 Test Treatment.
+I was badly ruptured while lifting a trunk several years ago. Doctors said the rupture was an operation. Trusses did me no good. Finally I hold of something that quickly and completely cured me. Years have passed and the rupture has never re-returned. I must have had no as a carpenter. There was no operation, no lost time, no trouble. I have nothing to soil, but will give full information about the rupture and complete cure without operation, if you write to me. Eugene M. Pullen, carpenter, 1070-G Marcellus Avenue, Manhattan, M.I. I must be notified and show it to any others who are ruptured--you may save a life, or at least stop the misery of rupture and the worry and danger of an operation.
 
-S2.50 FREE COUPON
-This coupon is good for E.P.S. Test Treatment mailed free in gift box if second mailed. 10c to cover purchase for First M.W. L.A. Lowe's Bank, Oak Creek, Mich.
-Age:
-New to Georgetown
-New to Handa Tremland
-New to Handa Tremland
-New
+GOITRE
+
+Ramaged at Home Without Operation or Danger
+
+This alarming and horrible inconvenience or danger. Hundreds of afflicted children have reported injuries. My guests have reported injurie

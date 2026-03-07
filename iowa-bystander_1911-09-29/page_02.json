@@ -3,16 +3,61 @@
   "image": "images/page_02.jpg",
   "width": 1741,
   "height": 2519,
+  "processed_at": "2026-03-07T02:56:06.141825+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 165,
+    "after_merge": 57
+  },
   "regions": [
     {
       "bbox": [
-        105,
+        109,
         165,
         333,
+        763
+      ],
+      "label": "text",
+      "text": "Iowa State Bystander\nBYSTANDER FUR. CO. Publishers.\nDES MOINES. IOWA.\n\nThe auto can beat the old Gretna Green chase.\n\nFrench experiments with an aero mail service may result in a drop in postage.\n\nStill, there is no pity for the poor baseball players, who are bought and sold like no many tube of butter.\n\nPerhaps the champion idiot and criminal combined is the person who shouts \"Fire!\" in a crowded theater.\n\nWhat if the beer prices are going up? The doctors tell us that we have been eating too much of it, anyway.\n\nA New York young woman killed another with a hatpin, but the death was due to carrying concealed liquids.\n\nA Newark fan dreamed he was sliding for home\u2014he bumped his head on the floor home, and found he was home.\n\nA French scientist declares that the body rests more quickly after fast work, but even this is no excuse for the joy rider.\n\nToo many babies are killed by their gaiting out loose window screens. It seems like a foolish waste of perfectly good babies.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        107,
+        770,
+        331,
+        1338
+      ],
+      "label": "text",
+      "text": "A Kentucky minister has figured out that heaven in a structure 792,000 storied high. Let us hope that it has adequate elevator service.\n\nScience, it is asserted, has solved the mystery of the Sphynx, but hardly anybody can solve the mystery of a boiled egg until after breaking it.\n\nA Chicago pastor says: \"Wait until you are burning with an idea before putting\u7b14 to paper.\" Yeah, and then call out the fire department instead.\n\nThe bobolinks are flying toward the rice fields of Louisiana. This may mean an early tail and again it may simply mean that the birds are hungry.\n\nLaundrymen prefer Pittsburgh as the scene of their convention in 1912. There are reasons why laundrymen should have an affection for Pittsburgh.\n\n\"Is a chicken an animal?\" must be decided by a judge at Port Chester, N. Y. The half-dollar table doth chicken is suspected of being a mineral.\n\nIn due time there will be angry farmers watching with shotguns to keep some transcontinental flies fromighting in their cornfields with his aerophone.\n\nA Rochester girl refused a young man twelve times because he smoked cigarettes, but not more than one girl in twelve would refuse a man once for that reason.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        109,
+        1343,
+        331,
+        1886
+      ],
+      "label": "text",
+      "text": "One nice thing about an aeroplane race is that you can see the racers occasionally even if a tall man or a fat woman happens to be directly in front of you.\n\nThe Frenchman who has succeeded in \"photographing thought\" has perhaps pointed the way to getting the truth from witnesses who find it convenient to forget.\n\nA college professor comes to the front to announce that vacations are dangerous. If he got among a crowd of engaged vacationists he would find them even more so.\n\nA man in Atlantic City has advertised that he is lost. Why should he go to that trouble, when, according to some ministers, most of the people there are in the same condition?\n\nUp in Wisconsin a man dived into the water and caught a 22-foot Dingo in Texas; they are killing mountain lions with backknives. We need a frost.\n\n\"Drop in and dine any day\" will not be a fashionable invitation much longer if aviators take up the custom of dropping in through the roof as the one in Atlantic City did.\n\nThe announcement that from 1,750-800 to 8,000,000 bacteria are contained in a cubic centimeter of ice cream must go unchallenged on our part for lack of time in verifying the figures.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        105,
+        1891,
+        328,
         2378
       ],
       "label": "text",
-      "text": "Iowa State Bystander\nBYSTANDER F.U.R. CO., Publishers.\nDES MOINES, IOWA.\n\nThe auto can beat the old Gretta Green chase.\n\nFrench experiments with an aero mail service may result in a drop in postage.\n\nStill, there is no pity for the poor baseball players, who are bought and sold like no many tube of butter.\n\nPerhaps the champion idiot, and criminal abstinent is the person who about \"Fire!\" in a crowded theater.\n\nWhat if the beef prices are going up? The doctors tell us that we have been eating too much of it anyway.\n\nA New York young woman killed another with a hatpin, but the death was due to carrying concealed liquids.\n\nA Newark fan dreamed he was sliding for home\u2014he bumped his head on the floor hard, and found he was home.\n\nA French scientist declares that the body rests more quickly after fast work, but even this is no excuse for the joy rider.\n\nToo many babies are killed by their guiding out loose window screens. It seems like a foolish waste of perfectly good babies.\n\nA Kentucky minister has figured out that the house in a structure 792,000 stories high. Let us hope that it has adequate elevator service.\n\nScience, it is asserted, has solved the mystery of the Sphynx, but hardly anybody can solve the mystery of a boiled egg until after breaking it.\n\nA Chicago pastor says: \"Wait until you are burning with it. No before me and then all out the fire department instead.\n\nThe bobolinks are flying toward the rice fields of Louisiana. This may mean an early fall and again it may simply mean that the birds are hungry.\n\nLaundrymen prefer Pittsburg as the scene of their convention in 1912. We want to watch laundrymen should have an affection for Pittsburg.\n\n\"Is a chicken an animal!\" must be decided by a judge at Paterson, N.Y. The half-dollar table dhole chicken is suspected of being a mineral.\n\nIn due time there will be angry farmers watching with shoqusins to keep some transcontinental rice from migrating in their cornfields with his aeroplane.\n\nA Rochester girl refused a young man twelve times because he smoked cigarettes, but not more than one girl in twelve would refuse a man once for that reason.\n\nOne nice thing about an aeroplane race is that you can see the racers occasionally even if a tall man or a fat woman happens to be directly in front of you.\n\nThe Frenchman who has succeeded in \"photographing thought\" has perhaps pointed the way to getting the truth from witnesses if it convenient to forget.\n\nA college professor comes to the front to announce that vacations are dangerous. If he gets among a crowd of enraged vacationists he would find them even more so.\n\nA man in Atlantic City has advertised that he is lost. Why should he go to that trouble, when according to the statistics, the people there are in the same condition?\n\nUp in Wisconsin a man dived into the water and caught a 22-pound muskellunge. Down in Texas they are killing mountain lions with sack knives. We need a frost.\n\n\"Drop in and dine any day\" will not be a fashionable invitation much longer if aviators take up the custom of dressing in the uniform of the people there are in the same condition?\n\nUp in Wisconsin a man dived into the water and caught a 22-pound muskellunge. Down in Texas they are killing mountain lions with sack knives. We need a frost.\n\nThe announcement that from 1,750,000 to 8,000,000,000 bacteria are contained in a cubic centimeter of ice cream must go unchallenged on our part for lack of time in verifying the figures.\n\nThere has been a revolution in Ecuador, but we have not been able to find our whether it was necessary or just irradiated in because the revolutionists felt the need of practice.\n\nSeveral cases have occurred of eyestrain threatened or lost by the incredibly long hot pin. Unless womens realise themselves that this is a constant and serious menace and restrict the general public from this dangerous nuisance.\n\nA Chicago man has been bequeathed a million dollars on occasion that he will not drink or gobble until he is such a piece of that time of life.\n\nThis has been a summer of intense heat and violent storms. Rarely has lightning struck so often with such dire resumes and heavy downpours of rain have played havoc with crops in many ways the season has been so many ways the season has been so"
+      "text": "A Boston girl of seventeen years old has become the bride of a Chaman. Perhaps she wants to be sure that it will never be necessary for her to do the family laundry work herself.\n\nThere has been a revolution in Education that has not been able to find out whether it was necessary or just irradiated in because the revolution's felt the need of practice.\n\nSeveral cases have occurred of eyeight threatened or lost by the inordinately long hot pain point. Unless women can realise themselves that this is a constant and serious menace and restrict their ability to swim, will have to be taken to protect the general public from this dangerous nuisance.\n\nA Chicago man has been bequeathed a million dollars on condition that he will not drink or gamble until he is sixty. Pretty tough, to have to start such a pace at that time of life.\n\nThis has been a summer of intense heat and violent storms. Rarely has lightning struck so often with such dire results and heavy downpours of rain have played havoc with crops in many parts of the country. Locals have been unconscious, and in many ways the season has been over.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +67,8 @@
         206
       ],
       "label": "doc_title",
-      "text": "SOLD FOR $402,000"
+      "text": "SOLD FOR $402,000",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +78,8 @@
         542
       ],
       "label": "text",
-      "text": "New Purchaser States That Road Will Be Extended Through Atlantic and Guthrie Center to State Capital.\n\nAtlantic.-Col. George Adams of Council Bluffs, president of the Omaha & Iowa railroad, extending from Council Bluffs to Treyron, was the highest bidder on the Atlantic, Northern and Southern here. His bid was $402,050, or $100,000 higher than anyone expected. The sale was attended by over 1,000 farmers and business men."
+      "text": "New Purchaser States That Road Will Be Extended Through Atlantic and Guthrie Center to State Capital.\n\nAtlantic.-Col. George Adams of Council Bluffs, president of the Omaha & Iowa railroad, extending from Council Bluffs to Treyron, was the highest bidder on the Atlantic, Northern and Southern here. His bid was $402,050, or $100,000 higher than anyone expected. The sale was attended by over 1,000 farmers and business men.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +89,8 @@
         1120
       ],
       "label": "text",
-      "text": "The bid, if paid into the court, will protect all of the lion holders against the road and some of the judgment creditors. Colonel Adams says he intends to extend the center and once from Treyton to Atlantic and thence to Troy Center to Des Moines. It is reported that during the afternoon he received two telegrams from Leslie M. Shaw, advising him to what limit he might go in bidding. The bliss will be reported to the district court and the money is payable to the court in ten days, if the court accepts the bid.\n\nFarmer Must Pay Damages. Des Moines\u2014Ben Banning, a wealthy farmer living near Des Moines, must pay damages to Miss Lette Lauer amount to $3,000 for breach of promise. The supreme court overruled Banning's motion for a new trial in the case. Miss Lauer was housekeeper for Banning on his farm for a number of years. She filed suit three years ago, alleging that he had promised to marry her, and asked damages in the sum of $25,000.\n\nEscapes U. S. Marshal. Council Bluffs\u2014United States Marshal Bidwell of Des Moines had a series of exciting encounters with Arthur Bridgeford of Atlantic, a federal prisoner. Bidwell arrested Bridgeford at Atlantic in a bank. Bridgeford quickly peeled off his coat and was out of the grasp of Marshal Bidwell, but was overhauled, and while near this city, on a Rock Island train, Bridgeford again escaped, leaping from the moving train."
+      "text": "The bid, if paid into the court, will protect all of the lion holders against the road and some of the judgment creditors. Colonel Adams says he intends to extend the center and once from Treyton to Atlantic and thence to Troy Center to Des Moines. It is reported that during the afternoon he received two telegrams from Leslie M. Shaw, advising him to what limit he might go in bidding. The bliss will be reported to the district court and the money is payable to the court in ten days, if the court accepts the bid.\n\nFarmer Must Pay Damages. Des Moines\u2014Ben Banning, a wealthy farmer living near Des Moines, must pay damages to Miss Lette Lauer amount to $3,000 for breach of promise. The supreme court overruled Banning's motion for a new trial in the case. Miss Lauer was housekeeper for Banning on his farm for a number of years. She filed suit three years ago, alleging that he had promised to marry her, and asked damages in the sum of $25,000.\n\nEscapes U. S. Marshal. Council Bluffs\u2014United States Marshal Bidwell of Des Moines had a series of exciting encounters with Arthur Bridgeford of Atlantic, a federal prisoner. Bidwell arrested Bridgeford at Atlantic in a bank. Bridgeford quickly peeled off his coat and was out of the grasp of Marshal Bidwell, but was overhauled, and while near this city, on a Rock Island train, Bridgeford again escaped, leaping from the moving train.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,17 +100,41 @@
         1140
       ],
       "label": "paragraph_title",
-      "text": "Seed Corn Roberts Released."
+      "text": "Seed Corn Roberts Released.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        336,
+        1138,
+        556,
+        1712
+      ],
+      "label": "text",
+      "text": "Council Bluffs\u2014Judge McPherson,\nin federal court ordered the release\nof E. D. Roberts of Red Oak, charged\nwith obtaining money illegally in the\nsale of seed corn. Roberts escaped\nprosecution in district court at Vinton\non a technicality and his case attracted\nwide attention. The court secured\nRoberts, but dealt leniently with him.\n\nFinish Big Pack.\nBelle Plaine\u2014The Belle Plaine\nCanning company has finished the\npack of sweet corn for this season,\nputting up over 1,200,000 cans of fine\ncorn, which is worth to the canning\ncompany about $85,000, and took 650\nacres of ground to grow.\n\nSues Iowa Central.\nSheffield\u2014A spark from an Iowa\nCentral engine which is alleged to\nhave caused the fire that destroyed\nthe Hampton Electric Light & Power\ncompany's plant last spring is the\nbasis of a suit brought by the light-\ning company against the railroad for\n$9,500 damages.\n\nIowa Girl to Marry Nobleman.\nSloux City\u2014Miss Tess Davidson,\ndaughter of Ben Davidson, a Sloux\nCity merchant, will become the bride\nof Signor Alde de Zulfaune of Venice,\na member of the Italian nobility.\n\nRob Millinery Store of Plumes.\nCedar Rapid\u2014Nearly a thousand\ndollars' worth of wiltle plumes, such\nas are used in ornament women's\nhats, were stolen from the millinery\nstore of F. W. Fisher here.",
+      "status": "ok"
     },
     {
       "bbox": [
         332,
-        1138,
-        556,
+        1727,
+        555,
+        2308
+      ],
+      "label": "text",
+      "text": "Sioux City Pioneer Dead.\nSioux City, Iowa. - Ferdinand Hansen, who was for forty years prominently connected with the business life of Sioux City, is dead of Bright's disease aged 74 years.\n\nIowa Falls Grants Franchise.\nIowa Falls. - At a special election, O. F. Peterson, of Des Moines, was granted a twenty-five-year franchise for an electric light and heating plant here.\n\nJared Ham Disappears.\nIowa City. - Jared Ham, 55 years old, retired business man, has disappeared. He is said to have had $2,000 with him when he last was seen.\n\nChristian Endeavor at Oskaloosa.\nOskaloosa. - There were 200 delegates present at the twenty-sixth annual convention of the State Society Christian Endeavor at the Christian Church here. Reh H. E. Van Horn of Des Moines delivered his annual address.\n\nWealthy Farmer Killed By Cow.\nMoorehead. - Thomas Parrin is dead from the effects of a kick from a cow received two weeks ago. He was 70 years of age and owned 1,500 acres of land.\n\nClass Scrap Hurts Three.\nIowa City. - The sophomore-freshman pushball clash here resulted in the following injuries: C. N. Morse of Nevada, torn ankle; Irving Oliver of Silignerney, wrenched knee cap; every Warren of Iowa City, broken nose. The sophomore class wom.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        332,
+        2315,
+        553,
         2390
       ],
       "label": "text",
-      "text": "Council Bluffs\u2014Judge McMaherson, in federal court ordered the release of E. D. Roberts of Red Oak, charged with obtaining money illegally in the sale of seed corn. Roberts escaped prosecution in district court at Vinton on a technicality and his case attracted wide attention. The court scored Roberts, but dealt leniently with him.\n\nFinish Big Pack.\nBelle Plaine\u2014The Belle Plaine Canning company has finished the pack of sweet corn for this season, putting up over 1,200,000 cans of fine corn, which is worth, and the canning company about $8,000, and took 650 acres of ground to grow.\n\nSues Iowa Central.\nSheffield\u2014a spark from an Iowa Central engine which is alleged to have caused the fire that destroyed the Hampton Electric Light and Power company's plant last spring is the basis of a suit brought by the lightning company against the railroad for $5,000 damages.\n\nIowa Girl to Marry Tess Nobleman.\nSloux City\u2014Miss Tess Davidson, daughter of Ben Davidson, a Sloux City merchant, will become the bride of Signor Alde de Zulilla de Vence, a member of the Italian nobility.\n\nRob Millinery Store of Plumes.\nCedar Rapids, the thousand dollars' worth of willow women, such as are used to ornament women's hats, were stolen from the millinery store of F. W. Fisher here.\n\nSloux City Pioneer Dead.\nSloux City\u2014Ferdinand Hansen, who was for forty years prominently connected with the business life of Sloux City, is dead of Bright's disease aged 74 years.\n\nIowa Falls Grants Franchise.\nIowa Falls\u2014At a special election, F. O. Peterson, of Des Moines, was granted a twenty-five-year franchise for microlight air and heating plant here.\n\nJared Ham Disappears.\nIowa City\u2014Jared Ham, 55 years old, retired business man, has disappeared. He is said to have had $2,000 with him when he last was seen.\n\nChristian Endeavor at Oskaloosa.\nOskaloosa\u2014There were 200 delegates present at the twenty-fifth annual convention of the State Society of Christian Endeavor at the Christian church here. Rev. H. E. Van Horn of Des Moines delivered his annual address.\n\nWealthy Farmer Killed By Cow.\nMoorehead\u2014Thomas Parrin is dead from the effects of a kick from a cow received two weeks ago. He was 70 years of age and owned 1,500 acres of land.\n\nClass Scrap Hurra Three.\nIowa City\u2014The sophomore-freshman pushball clash here resulted in the following injuries: C. N. Morse of Nevada, torn ankle; Irving Oliver of Bigourney, wrenched knee cap; Avery Warren of Iowa City, broken nose. The sophomore class won.\n\nForward Movement Started.\nCedar Rapids\u2014The Men and Religion Forward Movement in which campaign this city is the center, formally was inaugurated here with a hamster at which 100 men were present."
+      "text": "Cedar Rapids.-The Men and Religion Forward Movement in which campaign this city is the center, formally was inaugurated here with a banquet at which 106 men were present.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +144,8 @@
         328
       ],
       "label": "text",
-      "text": "Charges Bad Management?\nDes Moline, F., M. Darner, of Ames, a member of the board of directors of the Homesteaders' lodge, has filed written charges accusing George A. Young, supreme president, of insulting government records with irregularities in the management of the affairs of the lodge. The state actuaries, Harry Winston and George Fairley, are making an examination of the financial affairs of the company."
+      "text": "Charges Bad Management?\nDes Moline, F., M. Darner, of Ames, a member of the board of directors of the Homesteaders' lodge, has filed written charges accusing George A. Young, supreme president, of insulting government records with irregularities in the management of the affairs of the lodge. The state actuaries, Harry Winston and George Fairley, are making an examination of the financial affairs of the company.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +155,8 @@
         350
       ],
       "label": "paragraph_title",
-      "text": "Iowa Land Going Up."
+      "text": "Iowa Land Going Up.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +166,8 @@
         471
       ],
       "label": "text",
-      "text": "Mount Pleasant\u2014AJIM Jones of Chenosa, ILL, has purchased the 160- acre farm of Lawson Jacobs in Wayne township for $21,400 or $196. 50 an acre. Porty acres belonging to the property of the Swedesburg was bought by Fred Schrader of Mount Pleasant for $8, 000, or $200 an acre."
+      "text": "Mount Pleasant\u2014AJIM Jones of Chenosa, ILL, has purchased the 160- acre farm of Lawson Jacobs in Wayne township for $21,400 or $196. 50 an acre. Porty acres belonging to the property of the Swedesburg was bought by Fred Schrader of Mount Pleasant for $8, 000, or $200 an acre.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +177,8 @@
         496
       ],
       "label": "paragraph_title",
-      "text": "Sold Minors Liquor"
+      "text": "Sold Minors Liquor",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +188,8 @@
         607
       ],
       "label": "text",
-      "text": "Fort Dodge\u2014H. E. Brand, F. J. Wesley and J. Schumann, saloon men of this city, pleved guilty to the charge of selling liquor to minors, for which they recently were indicted, and were fined $600 each and $50 for attorney's fees and the costs by Judge C. E. Albrook"
+      "text": "Fort Dodge\u2014H. E. Brand, F. J. Wesley and J. Schumann, saloon men of this city, pleved guilty to the charge of selling liquor to minors, for which they recently were indicted, and were fined $600 each and $50 for attorney's fees and the costs by Judge C. E. Albrook",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +199,8 @@
         628
       ],
       "label": "paragraph_title",
-      "text": "Weld Elected College Head."
+      "text": "Weld Elected College Head.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +210,8 @@
         741
       ],
       "label": "text",
-      "text": "Iowa City\u2014I. G. Weld, until recently dean of the graduate college of the State University of Iowa and for twenty-five years head of the department of mathematics and astronomy, has been elected president of the Pulman Free School of Manual Training at Chicago."
+      "text": "Iowa City\u2014I. G. Weld, until recently dean of the graduate college of the State University of Iowa and for twenty-five years head of the department of mathematics and astronomy, has been elected president of the Pulman Free School of Manual Training at Chicago.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +221,8 @@
         762
       ],
       "label": "paragraph_title",
-      "text": "Manchester Installs Electroliers."
+      "text": "Manchester Installs Electroliers.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +232,8 @@
         866
       ],
       "label": "text",
-      "text": "Manchester.\u2014An order has been given to the McDonnel Iron Works of Dac Moinsen for sixty-one five-light electroluvers to be placed on Franklin street from the Iowa Central station to the public library and on Mata street from the city hall to the river."
+      "text": "Manchester.\u2014An order has been given to the McDonnel Iron Works of Dac Moinsen for sixty-one five-light electroluvers to be placed on Franklin street from the Iowa Central station to the public library and on Mata street from the city hall to the river.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +243,8 @@
         881
       ],
       "label": "paragraph_title",
-      "text": "Investigate Class Rush."
+      "text": "Investigate Class Rush.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +254,8 @@
         975
       ],
       "label": "text",
-      "text": "Ginnell\u2014the authorities of Iowa college here are investigating the class scrap between the freshmen and sophomores, in which several of the former were seriously injured, and there will be several suspensions."
+      "text": "Ginnell\u2014the authorities of Iowa college here are investigating the class scrap between the freshmen and sophomores, in which several of the former were seriously injured, and there will be several suspensions.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +265,8 @@
         1000
       ],
       "label": "paragraph_title",
-      "text": "Cancels Contract"
+      "text": "Cancels Contract",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,27 +276,41 @@
         1329
       ],
       "label": "text",
-      "text": "Atlantic\u2014J. Bortenlanger, a contractor for the electric light and water plant, has thrown up his contract and the bonding company will complete the job. His contract called for $43,000 and he has drawn $21,000 from the city.\n\nNineteenth Iowa Holds Reunion.\nFort Madison. \u2014 The Nineteenth Iowa Infantry held a reunion here for three days. The attendance was large, among those present being Lot Abraham, Iowa department commander, and General Leake of Chicago.\n\nPostoffice Robbed at Letts.\nLettts. \u2014 The postoffice suite here was looted by robbers at night, of $270 in money and the entire supply of stamps.\nEntrance. \u2014 The stamps were gained through a window. The stamps were found on the Rock Island tracks.\n\nHeavy Loss By Lightning."
+      "text": "Atlantic\u2014J. Bortenlanger, a contractor for the electric light and water plant, has thrown up his contract and the bonding company will complete the job. His contract called for $43,000 and he has drawn $21,000 from the city.\n\nNineteenth Iowa Holds Reunion.\nFort Madison. \u2014 The Nineteenth Iowa Infantry held a reunion here for three days. The attendance was large, among those present being Lot Abraham, Iowa department commander, and General Leake of Chicago.\n\nPostoffice Robbed at Letts.\nLettts. \u2014 The postoffice suite here was looted by robbers at night, of $270 in money and the entire supply of stamps.\nEntrance. \u2014 The stamps were gained through a window. The stamps were found on the Rock Island tracks.\n\nHeavy Loss By Lightning.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        561,
+        1326,
+        783,
+        1883
+      ],
+      "label": "text",
+      "text": "Mason City.\u2014A loss of $5,000 incurred here by Northwestern railroad when lightning destroyed an ice house, consuming the building with two passenger coaches, a caboose and several cars.\n\nWill Meet Next Month.\nEldora.\u2014The Iowa Library association will meet for its twenty-second annual session at Mason City, Oct. 10 to 12. A strong program is being rounded out and will be announced soon.\n\nCuts Throat With Dagger.\nEagle Grove.\u2014A man giving his name as Charles Stevens, was found near death in the railroad station at Woolstock. His throat was cut, and a dagger lay beside him on the floor.\n\nFalls Fifty Feet From Scissort.\nBoone.\u2014Thomas Jones was fatally injured while painting at the machine shops of the Chicago & Northwestern railway. He fell fifty feet, fracturing his skull. He is 24 years old.\n\nSues Auto Owner For Damages.\nNewton.\u2014J. D. Wilson, a gardener, has sued Ell Swirtor for $10,000 damage because his auto frightened Wilson's horse, causing a runaway and personal injuries.\n\nPythias Grand Lodge Mests.\nDubuque.\u2014The grand judge Knights of Pythias will meet here this week and for the first time in years there promises to be harmony in place of warring factions.",
+      "status": "ok"
     },
     {
       "bbox": [
         558,
-        1326,
-        783,
+        1898,
+        781,
         2387
       ],
       "label": "text",
-      "text": "Mason City \u2014 A loss of $5,000 incurred here by Northwestern railroad when lightning destroyed an ice house, consuming the building with two passenger coaches, a caboose and several cars.\n\nWill Meet Next Month.\nEldora \u2014 The Iowa Library association will meet for a ninety-second annual session at Mason City, Oct. 10 to 12. A strong program is rounded out and will be announced soon.\n\nCuts Throat With Dagger.\nEagle Grove \u2014 A man giving his name as Charles Stevens, was found near death in the railroad station at Woolstock. His throat was cut, and a dagger lay beside him on the floor.\n\nFalls Fifty Feet From Scisself.\nBoone \u2014 Thomas Jones was fatally injured while painting at the machine shops of the Chicago & Northwest railway. He fell fifty feet, fracturing his skull. He is 24 years old.\n\nSues Auto Owner For Damages.\nNewton \u2014 D. J. Wilson, a gardener, has sued Elli Swilbert for $10,000 big and small auto frightened Wilson's horse, causing a runaway and personal injuries.\n\nPythias Grand Lodge Meets.\nDubuque \u2014 The grand lodge Knights of Pythias will meet here this week and for the first time in years there promises to be harmony in place of warring factions.\n\nRelligious Movement.\nClinton \u2014 A new men and religion forward movement was started at a big meeting at the Y. M. C. A. addressed by Dr. J. A. Marquis of Coe college.\n\nNo Change In Strike Situation.\nOakulosa \u2014 There is practically no change in the strike situation at the Excelsior coal mines and company officials say that there will be no change on their part. The work at the mine probably will be suspended indefinitely.\n\nFatally Shot By Veteran.\nDavenport \u2014 James Kane, 48, was shot and probably fatalized by Charles Owen, 70, a civil war veteran and a hermit who lived in a shack near the outskirts of town.\n\nWidow Sues for $20,000.\nDubuque \u2014 Claiming damages in the sum of $20,000 for the loss of her husband, Daniel Bergman, his widow has started suit against the Union Electric company. Deceased was an employee of the company.\n\nPresbytery Goes to Toledo.\nMason City \u2014 The Waterloo Presbytery in session here since Monday selected Toledo as the next place of meeting. A young people's conference is to be established probably at Clear Lake."
+      "text": "Religious Movement.\nClinton\u2014A new men and religion formation movement was started at a big meeting by the Y. M. C. A. addressed by Dr. J. A. Marquis of Coe college.\n\nNo Change In Strike Situation.\nOaklandsoo\u2014There is practically no change in the strike situation at the Excelsior coal mines and company officials say that there will be no change on their part. The work at the mine probably will be suspended indefinitely.\n\nFatally Shot By Veteran.\nDavenport\u2014James Kane, 48, was shot and probably fatally injured by Charles Wen, 70, a civil war veteran and a hermit who lived in a shock near the outskirts of town.\n\nWidow Sues For $20,000.\nDubuque\u2014Claiming damages in the sum of $20,000 for the loss of her husband, Daniel Bergman, his widow has started suit against the Union Electric company. Deceased was an employee of the company.\n\nPreembryo Go To Toledo.\nMason City\u2014The Westport Prebriery in session here on Monday selected Toledo as the next place of meeting. A young people's conference it to be established probably at Clear Lake.",
+      "status": "ok"
     },
     {
       "bbox": [
         791,
-        693,
-        1231,
+        154,
+        1233,
         725
       ],
       "label": "text",
-      "text": "They Can't Yet Agree Upon How the Pages Between Them Should Be Written."
+      "text": "BOUND IN FULL MOROCCO\n\nFRANCE\nGERMANY\n\nMOROCCO EUROPEAN HISTORY\n\nBALTIMORE AMERICAN.\n\nThey Can't Yet Agree Upon How the Pages Between Them Should Be Written.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +320,8 @@
         857
       ],
       "label": "text",
-      "text": "YOUNG WOMAN SUSPECTED OF CAUSING DEATHS OF PAR-ENTS AND TWO SISTERS."
+      "text": "YOUNG WOMAN SUSPECTED OF CAUSING DEATHS OF PAR-ENTS AND TWO SISTERS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,27 +331,52 @@
         891
       ],
       "label": "paragraph_title",
-      "text": "IS HELD ON MURDER CHARGE"
+      "text": "IS HELD ON MURDER CHARGE",
+      "status": "ok"
     },
     {
       "bbox": [
         788,
         910,
         1009,
+        1439
+      ],
+      "label": "text",
+      "text": "Police Declare Southern Girl Polonized Her Relatives to Obtain Life Insurance Which Had Been Made Out in Her Favor.\n\nNew Orleans\u2014Miss Annie Crawford, a beautiful and prominent young woman, is under arrest here accused of poisoning her father, her mother and her two sisters.\n\nThe latest victim of the alleged murder of Borg was Elsa Crawford, aged two-three, a sister of Annie, who died on September 23. A postmortem examination revealed a large quantity of opium in the girl's stomach.\n\nWhen the accused girl was taken into custody and told of the charge against her, she faced her accusers calmly, merely remarking with a smile: \"Very well.\"\n\nThe police declare that Annie Crawford, who is twenty-five years old, an Amish Borg, and her daughter to get life insurance which had been made out in her favor.\n\nThey said that several days before Elsa died under mysterious circumstances she called at headquarters and told the authorities that her sister had poisoned the dead members of the family to get their insurance. At the time the police paid little attention to the girl's story. As her death followed so closely upon the visit, however, the authorities at once became alarmed. The girl's body was examined and the situation found enough opium in her stomach to kill half a dozen men.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        788,
+        1440,
+        1008,
         1519
       ],
       "label": "text",
-      "text": "Police Declare Southern Girl Polished Her Relatives to Obtain Life Insurance Which Had Been Made Out in Her Favor.\n\nNew Orleans.-Miss Annie Crawford, a beautiful and prominent young woman, is under arrest here accused of poisoning her father, her mother and her two sisters.\n\nThe latest victim of the alleged modern Lucrecia Borgia was Elsie Crawford, a young woman, who died on September 23. A postmortem examination revealed a large quantity of opium in the girl's stomach.\n\nWhen the accused girl was taken into custody and told of the charge against her, she faced her accusers calmly, merely remarking with a smile: \"Very well.\"\n\nThe police declare that Annie Crawford, who is twenty-five years old, killed her parents and her sisters to get life insurance which had been poisoned. They said that several days before Elsie died under mysterious circumstances she called at headquarters and told the authorities that her sister had poisoned the dead members of the family to get their insurance. At the time the police paid little attention to the girl's story. As her death followed closely upon the visit, however, the authorities at once became active. The girl's body was exhumed and the surgeons found enough opium in her stomach to kill half a dozen.\n\nYounger surviving sister of the alleged murderer sought the protection of the police after Elsie died. She also declared, the police say, that she knew Anna intended to kill all the family to obtain insurance."
+      "text": "A younger surviving sister of the alleged murderer sought the protection of the police after Elsei died. She also declared, the police say, that she knew Annie intended to kill all the family to obtain insurance.",
+      "status": "ok"
     },
     {
       "bbox": [
         788,
         1566,
         1008,
+        1980
+      ],
+      "label": "text",
+      "text": "Signboard and Fog Obstruct View and Engine Plugges Into Vehicle Carrying Young People.\n\nNeenah, Wis.\u2014Twelve persons were killed outright, one injured so badly he died within an hour, and nine others were seriously injured, four probably fatal, all members of a hay rack party, when a north-bound Northwestern passenger crashed into the vehicle at the Commercial street crossing here.\n\nNine occupants o. the wagon, including the driver, escaped with slight injuries. Two of the victims were Chicagoans, the remainder of the party being residents of Menasha.\n\nThe victims of the crash were returning from the Peter Hanson farm, three minutes away from Neenah, they had gone ten hours previous to attend the celebration of a wedding anniversary and dance.\n\nHoop Skirt Seen In Paris.\n\nParis, France.\u2014The first of the hoop skirts, which have been revived by the Paris modifiers, has appeared on the street here. The wearer of the crinoline gown was followed by a crowd of the curious.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        788,
+        1992,
+        1008,
         2206
       ],
       "label": "text",
-      "text": "Signboard and Fog Obstruct View and Engine Plugges Into Vehicle Carrying Young People.\n\nNeenah, Wis.\u2014Twelve persons were killed outright, one injured so badly he died within an hour, and nine others were seriously injured, four probably fatal, all members of a hay rack party, when a north-bound Northwestern passenger crashed into the vehicle at the Commercial street crossing here.\n\nNine occupants on the wagon, including the driver, escaped with slight injuries. Two of the victims were Chicagoans, the remainder of the party being residents of Menasha. The victim's arms were returning from the Peter Hanson farm, three miles outside of Neenah, where they had gone ten hours previous to attend the celebration of a wedding anniversary and dance.\n\nHoop Skirt Seen in Paris, France\u2014The first of the hoop skirts, which have been revived by the Paris modifiers, has appeared on the street here. The wearer of the crinoline gown was followed by a crowd of the curious.\n\nAppeal for Henry Beatty, Richmond, Va.\u2014An effort is being made to obtain a commutation of the death sentence imposed upon Henry Clay Beatty, Jr., for the murder of his wife on the Midlothian turnip on the night of July 18. If the appeal to the supreme court for a new trial should not be successful, it is stated that several of the jurors who tried and convicted Beatty were approached with a view to getting their signatures on the petition for commutation, but that all refused to consider the proposition."
+      "text": "Appeal for Henry Beattie.\nRichmond, Va.\u2014An effort is being made to obtain a commutation of the death sentence imposed upon Henry Clay Beattie, Jr., for the murder of his wife, on the Midlothian turnip on the night of July 18. If the appeal to the supreme court for a new trial should not be successful, it is stated that several of the jurors who tried and convicted Beattie were approachable, in order to getting their signatures on the petition for commutation, but that all refused to consider the proposition.\n\nHanoi Stevens of Belgrade",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +386,8 @@
         2390
       ],
       "label": "text",
-      "text": "higher lawyer of Stolypin.\nKlava, Russia \u2014 Dmitry Bogrof, the assassin of death Stolypin, who was condemned to death by court-martial, was hanged here. His execution he asked that he might rabbl, but refused this consolation when informed that the interview must be in the presence of officials.\n\nDutch States is Giving. Liverpool \u2014 The Dutch minister of foreign affairs, Jekheer de Marces Van Swinderen, sailed for New York on the steamer Mauretania."
+      "text": "higher lawyer of Stolypin.\nKlava, Russia \u2014 Dmitry Bogrof, the assassin of death Stolypin, who was condemned to death by court-martial, was hanged here. His execution he asked that he might rabbl, but refused this consolation when informed that the interview must be in the presence of officials.\n\nDutch States is Giving. Liverpool \u2014 The Dutch minister of foreign affairs, Jekheer de Marces Van Swinderen, sailed for New York on the steamer Mauretania.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +397,8 @@
         770
       ],
       "label": "paragraph_title",
-      "text": "TRUST PLAN IS READY"
+      "text": "TRUST PLAN IS READY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,17 +408,30 @@
         770
       ],
       "label": "doc_title",
-      "text": "TRUST PLAN IS READY"
+      "text": "TRUST PLAN IS READY",
+      "status": "ok"
     },
     {
       "bbox": [
         1015,
         784,
         1235,
+        1267
+      ],
+      "label": "text",
+      "text": "REORGANIZATION SCHEME OF TOBACCO COMBINE AGREED TO\n\nPetition to be Put Up to Federal Court Following a Meeting With Attorney General Wickersham.\n\nNew York\u2014Attorney General Wickersham attended a conference on the plans for the reorganization of the American Tobacco company.\n\nAfter the conference it was announced that a petition would be filed in the State of Illinois circuit court on October 2 setting forth the proposed plan of dissolution in consonance with the mandate of the Supreme court and that public hearings on the plan would follow.\n\nMr. Wickersham was asked if the plan outlined was one of dissolution.\n\n\"I should prefer to call it one of disintegration,\" he said.\n\nIn response to many inquiries regarding possible prosecution of the United States Steel corporation, Attorney General Wickersham issued a statement in which he emphasized the position of his department that investigation of a corporation does not necessarily imply that disintegration will follow. What steps will be taken cannot be determined until the investigation has been completed.\n\nThe department depends upon the particular facts. In conclusion he said:",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1015,
+        1267,
+        1233,
         1449
       ],
       "label": "text",
-      "text": "REORGANIZATION SCHEME OF TOBACCO COMBINE AGREED TO\n\nPetition to Be Put Up to Federal Court Following a Meeting With Attorney General Wickersham.\n\nNew York\u2014Attorney General Wickersham attended a conference on the plans for the reorganization of the American Tobacco company.\n\nAfter the conference it was announced that a petition would be filed with the United States circuit court on October 2 setting forth the proposed plan of dissolution in consonance with the mandate of the Supreme court and that public hearings on the plan Wickersham was asked if the plan outlined was one of dissolution.\n\n\"I should prefer to call it one of disintegration,\" he said.\n\nIn response to many inquiries regarding the possible prosecution of the United States Steel corporation, Attorney General Wickersham issued a statement in which he emphasized the position of his department that investigation of a corporation does not necessarily imply that disintegration will be taken cannot be determined until the investigation has been completed, since each case stands on its own foot and depends upon the particular facts. In conclusion he said:\n\n\"It cannot be stated too positively that the department is not inaugurating a campaign against the business interests of the country or an indiscriminate attack on all large prosperous concerns. On the contrary, the care and caution with which the law protects the government will beceeding to the examination of each case should be a guarantee to the country that the department is proposing to enforce the law with cars not to unnecessarily injure any interests.\""
+      "text": "\"It cannot be stated too positively that the department is not inaugurating a campaign against the business interests of the country or an indisputable concern of the government. On the contrary, the care and caution with which the law officers of the government are proceeding to the examination of each case should be a guarantee to the country that the department is proactive and will not not to unnecessarily injure any interests.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +441,8 @@
         1723
       ],
       "label": "text",
-      "text": "Member of Staff of Virginia's Chief Executive Shot and Killed on Lovington Street.\n\nLovingston, Va.\u2014In the presence of a large crowd Dr. J. A. Perrit, the member of the staff of Governor Mann, was shot and instantly killed on the street here by Ben Hubbard. Five bullets were fired into Dr. Pettit's head by Hubbard, causing instant death. The cause of the tragedy is Hubbard was taken into custody at once and indicted and is now lodged in jail. The people are very much excited and incensed against the slayer."
+      "text": "Member of Staff of Virginia's Chief Executive Shot and Killed on Lovington Street.\n\nLovingston, Va.\u2014In the presence of a large crowd Dr. J. A. Perrit, the member of the staff of Governor Mann, was shot and instantly killed on the street here by Ben Hubbard. Five bullets were fired into Dr. Pettit's head by Hubbard, causing instant death. The cause of the tragedy is Hubbard was taken into custody at once and indicted and is now lodged in jail. The people are very much excited and incensed against the slayer.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +452,8 @@
         1752
       ],
       "label": "paragraph_title",
-      "text": "HITCHCOCK POSTMAN IN AIR"
+      "text": "HITCHCOCK POSTMAN IN AIR",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +463,8 @@
         2103
       ],
       "label": "text",
-      "text": "Head of Post Office Department Carrier Pouch of Letters on Trip in Airship.\n\nNew York\u2014Frank H. Hitchcock, postmaster general of the United States, qualified as an aerial mail carrier on Long Island. The postmaster took a seat beside Capt. Paul Beck of the United States army, in the latter's airplane at the Nassau boulevard aerodrome, carrying seventy-eight pounds of mail matter. The two made a seven-minute flight to Minola, where, upon signal, the postmaster given mail mail sack to one of Uncle Sam's carriers.\n\nAutolet May Get Life Term.\nToronto, Ont.\u2014The court of general sessions here has found Alexander Tracey of Port Huron, Mich., guilty of criminal negligence in operating an automobile. The penalty is imprisonment for life.\n\nCharles G. Gates Managed"
+      "text": "Head of Post Office Department Carrier Pouch of Letters on Trip in Airship.\n\nNew York\u2014Frank H. Hitchcock, postmaster general of the United States, qualified as an aerial mail carrier on Long Island. The postmaster took a seat beside Capt. Paul Beck of the United States army, in the latter's airplane at the Nassau boulevard aerodrome, carrying seventy-eight pounds of mail matter. The two made a seven-minute flight to Minola, where, upon signal, the postmaster given mail mail sack to one of Uncle Sam's carriers.\n\nAutolet May Get Life Term.\nToronto, Ont.\u2014The court of general sessions here has found Alexander Tracey of Port Huron, Mich., guilty of criminal negligence in operating an automobile. The penalty is imprisonment for life.\n\nCharles G. Gates Managed",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +474,8 @@
         2395
       ],
       "label": "text",
-      "text": "Unontown, Pa.\u2014Miss Florence Hopwood of Minneapolis, Minn., became the wife of Charles G. Gates, son and hair of the late John W. Gates, at the home of R. P. Hopwood, an uncle of the bride.\n\nRain as Lightning's Permeate\nRockville, Conn.\u2014During a thunder storm here lightning struck the tower of the town hall, tore off the roof and set fire to the structure. Before the firemen could respond to the alarm the storm broke and a terrific down pour drowned the flames.\n\nRaidlee in Battle, Brownaville, Tex.\u2014Fifteen of a hand of Magonnists were killed, and four were captured in a fight with a Maderaist force at the Santa Rita ranch near Colombia, Mexico."
+      "text": "Unontown, Pa.\u2014Miss Florence Hopwood of Minneapolis, Minn., became the wife of Charles G. Gates, son and hair of the late John W. Gates, at the home of R. P. Hopwood, an uncle of the bride.\n\nRain as Lightning's Permeate\nRockville, Conn.\u2014During a thunder storm here lightning struck the tower of the town hall, tore off the roof and set fire to the structure. Before the firemen could respond to the alarm the storm broke and a terrific down pour drowned the flames.\n\nRaidlee in Battle, Brownaville, Tex.\u2014Fifteen of a hand of Magonnists were killed, and four were captured in a fight with a Maderaist force at the Santa Rita ranch near Colombia, Mexico.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +485,8 @@
         166
       ],
       "label": "paragraph_title",
-      "text": "400 HEROES SLAIN"
+      "text": "400 HEROES SLAIN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +496,8 @@
         594
       ],
       "label": "text",
-      "text": "MAGAZINES OF FRENCH WAR VESSEL LIBERTE EXPLODE.\n\nSailors Work Depersonately to Save Vessel, Headlines of Their Own Safety.\n\nToulen, France.\u2014An appalling naval disaster attended with enormous loss of life occurred at daylight, when the battleship Liberte, one of the finest vessels in the navy, blew up in this harbor. The death loss is estimated from 300 up to 400 or more. The skill include officers and men of the Liberte, and also a large number of those from seamen. The cause of the fire and explosion is still a matter of speculation. The Liberte was anchored in the roodstead, where she had lain since the review of the fleet by President Falleres on September 4. Around her and not far away were her companion ships, all of which by the very force of the explosion added from their own crews to the list of the Liberte dead. The vessel was at the attack, and the flying fragments and bursting shells played havoc with the panto-steer sailors helplessly watching the fire from the decks."
+      "text": "MAGAZINES OF FRENCH WAR VESSEL LIBERTE EXPLODE.\n\nSailors Work Depersonately to Save Vessel, Headlines of Their Own Safety.\n\nToulen, France.\u2014An appalling naval disaster attended with enormous loss of life occurred at daylight, when the battleship Liberte, one of the finest vessels in the navy, blew up in this harbor. The death loss is estimated from 300 up to 400 or more. The skill include officers and men of the Liberte, and also a large number of those from seamen. The cause of the fire and explosion is still a matter of speculation. The Liberte was anchored in the roodstead, where she had lain since the review of the fleet by President Falleres on September 4. Around her and not far away were her companion ships, all of which by the very force of the explosion added from their own crews to the list of the Liberte dead. The vessel was at the attack, and the flying fragments and bursting shells played havoc with the panto-steer sailors helplessly watching the fire from the decks.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +507,8 @@
         684
       ],
       "label": "text",
-      "text": "It was 5 o'clock in the morning when the fire was discovered, and many of the Liberte's crew were asleep. The alarm was sounded, and the order given to the quick, hard effort in the quick rush of the fames."
+      "text": "It was 5 o'clock in the morning when the fire was discovered, and many of the Liberte's crew were asleep. The alarm was sounded, and the order given to the quick, hard effort in the quick rush of the fames.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +518,8 @@
         879
       ],
       "label": "text",
-      "text": "Almost immediately a series of deafening explosions fell upon the air. The Liberte shook from one end to the other, great holes opened in its armor and the terrified sailors, realizing their peril at last, would have jumped frantically into the sea. The were too late. Already the work of destruction was complete. One final awful explosion infinitely more terrifying than those precedent rent the great ship in two. The huge fragments shuddered, and a moment later the Liberte was at the bottom of the sea."
+      "text": "Almost immediately a series of deafening explosions fell upon the air. The Liberte shook from one end to the other, great holes opened in its armor and the terrified sailors, realizing their peril at last, would have jumped frantically into the sea. The were too late. Already the work of destruction was complete. One final awful explosion infinitely more terrifying than those precedent rent the great ship in two. The huge fragments shuddered, and a moment later the Liberte was at the bottom of the sea.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +529,8 @@
         908
       ],
       "label": "paragraph_title",
-      "text": "ITALIANS ISSUE ULTIMATUM"
+      "text": "ITALIANS ISSUE ULTIMATUM",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +540,8 @@
         1375
       ],
       "label": "text",
-      "text": "Turkey Has But 24 Hours in Which to Give Answer to Demands in Tripoli Dispute.\n\nParis\u2026War within twenty-four hours will be the result unless Turkey returns a favorable answer to italiys record according to semi-official advices from Rome. If Turkey does not reply to the ultimatum, Italy is prepared to land troops and formally occupy Tripoli.\n\nTurkey has declared that she will look upon this action as cause for war and will resist the invasion with her entire armament. Foreign residents are fleeing the country, spurred by the fear that famalite Mohammedine planning a general massacre of Christians.\n\nWith an Italian war fleet off the Tripolian coast and an Italian ultimatum in the hands of the sublime porte in Constantinople demanding for Italy the recognized right to establish a protectorate in the African territory under dispute, the crisis has now reached its most acute stage.\n\nThe soldiers were loaded on Italian transports at Palermo, but so stringent is the censorship being exercised by the Italian government that it is difficult to learn whether or not the transports sailed."
+      "text": "Turkey Has But 24 Hours in Which to Give Answer to Demands in Tripoli Dispute.\n\nParis\u2026War within twenty-four hours will be the result unless Turkey returns a favorable answer to italiys record according to semi-official advices from Rome. If Turkey does not reply to the ultimatum, Italy is prepared to land troops and formally occupy Tripoli.\n\nTurkey has declared that she will look upon this action as cause for war and will resist the invasion with her entire armament. Foreign residents are fleeing the country, spurred by the fear that famalite Mohammedine planning a general massacre of Christians.\n\nWith an Italian war fleet off the Tripolian coast and an Italian ultimatum in the hands of the sublime porte in Constantinople demanding for Italy the recognized right to establish a protectorate in the African territory under dispute, the crisis has now reached its most acute stage.\n\nThe soldiers were loaded on Italian transports at Palermo, but so stringent is the censorship being exercised by the Italian government that it is difficult to learn whether or not the transports sailed.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,17 +551,30 @@
         1404
       ],
       "label": "paragraph_title",
-      "text": "FISHER AND TAFT IN ACCORD"
+      "text": "FISHER AND TAFT IN ACCORD",
+      "status": "ok"
     },
     {
       "bbox": [
         1239,
         1417,
         1457,
+        1988
+      ],
+      "label": "text",
+      "text": "Cabinet Official Says He and President Agree on Conservation of Public Domain.\n\nKansas City.\u2014\"I have just come from Hutchinson, Kan, where I had a long conference with President Tatterson to the police in the department,\" said Walter L. Fischer, secretary of the interior, addressing the National Conservation congress here. \"I find that his views and mine relative to the conservation of the public domain are in complete accord.\"\n\n\"We especially discussed the Aixan situation, and found that we agree completely on a policy for that much-misrepresented country.\n\n\"My idea of the proper conservation is to ensure that the natural resources in the public interest which recognizes the rights of all.\"\n\nThe following officers for the National Conservation congress were elected without opposition: President, J. B. White, Kansas City; secretary, Thomas R. Shipp, Washington, D. C.; treasurer, D. Austin Latchaw, Kansas City.\n\nItaly Take Carnegie Gift.\nRome, Sept. 28.\u2014Andrew Carnegie's offer of $750,000 to a hero fund for Italy was accepted by Emmanuel. A committee to have supervision of the fund has been appointed.\n\nGesee Gather Golden Grub.\nSanta Barbara, Cal., Sept. 28.\u2014Thirty gold nuggets, some as large as pea, were taken from the crabs of six geese raised by Mrs. Israel Altschul of this city.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1239,
+        1996,
+        1457,
         2400
       ],
       "label": "text",
-      "text": "Cabinet Official Says He and President Agree on Conservation of Public Domain.\n\nKansas City.\u2014\"I have just come from Hutchinson, Kan., where I had a long conference with President Taft relative to the policy of my department,\" said Walter L. Fisher, secretary of Conservation, addressing the National Conservation congress here. I find that his views and mine relative to the conservation of the public domain are in complete accord.\n\n\"We especially discussed the Alaskan situation, and found that we agree completely on a policy for that much-misrepresented country.\n\n\"My idea of the proper conservation is a wise development of all the natural resources in the public interest which recognizes the rights of all.\"\n\nThe following officers for the National Conservation congress were elected without opposition; President J. B. White, Kansas City; Secretary Thomas R. Shipp, Washington, D. C.; treasurer D. Austin Latchow, Kansas City.\n\nItaly Takes Carnegie Gift.\n\nRome, Sept. 28\u2014Andrew Carnegie's offer of $700,000 to found a hero fund for $700,000 to found a hero"
+      "text": "Suydam is Given Decrees.\nNew York\u2014Walter Lispenand Suydam, Jr., the young millionaire of Blue Point, L. L, was granted an interlocutory decree of divorce against White Suydam, who several weeks ago eloped with Frederick Noble, a plumber's son.\n\nGladstone Kin to House.\nLondon\u2014William G. Gladstone, a grandson of William E. Gladstone, was elected to the house of commons from Kilmarnock-Burghs, to succeed the late Dr. A. R. Rainy, a liberal.\n\nFire on Fishing Boat Fatal.\nSeabright, N. J. - Puma, escaping from a gasoline tank into the cabin of a motor launch caused the death of William R. O'Connell of New York and may cause the death of William Hopkins of Sheepshead Bay, who was rescued.\n\nStonewall Jackson's Sister Dies.\nBuchannon, W. Va\u2014Mrs. Laura J. Arnold, the \"stonewall\" Jackson, is dead at the city hospital. Mrs. Arnold was eighty-five years old.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,17 +584,30 @@
         243
       ],
       "label": "text",
-      "text": "SECRETARY FISHER AND SENA\nTOR BRISTOW HAVE TILT AT\nHUTCHINSON, TILT."
+      "text": "SECRETARY FISHER AND SENA\nTOR BRISTOW HAVE TILT AT\nHUTCHINSON, TILT.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1465,
+        295,
+        1691,
+        870
+      ],
+      "label": "text",
+      "text": "Cabinet Officer Attacks \"Demagogic Progressives\" and Drawe Warm Retort From Kannan, Who Says Insurgent Flight Will Continue.\n\nHutchinson, Kan.\u2014An unlooked-for incident that thrilled the thousands in attendance at the state fair grounds, came at the close of what had been a non-partisan celebration of Kansas' fifth anniversary of her birth, in which President Taft had participated.\n\nWalter L. Fisher, secretary of the interior, just back from Alaska, made a three-minute speech in which he said some things about the difference between \"real progressives of the middle of the road type like Mr. Taft\" and \"hypocritical, misguided progressives who were purely practical progressive policy put forth.\" Senator Joseph L. Britton, who is surrendered to rank second only to Senator La Follette of Wisconsin among the progressives, followed Secretary Fisher and quickly took up the challenge.\n\nAn address by the secretary was not down on the program, but it furnished the most interesting feature of the day. When he arose and faced the big crowd Mr. Fisher was silent for fully a minute. Then he said slowly: \"I am one of those that count myself a progressive.\"\n\nHe was interrupted by applause. \"I am a progressive,\" he recumed, \"and I believe in true progressiveness and not in hypocritical or demagogic progressives who declare for a progressive policy and then oppose every practical progressive measure put forth.",
+      "status": "ok"
     },
     {
       "bbox": [
         1463,
-        295,
-        1691,
+        870,
+        1687,
         1406
       ],
       "label": "text",
-      "text": "Cabinet Officer Attacks \"Demagogic Progressives\" and Drawe Warm Retort From Kansan, Who Says Insurgent Flight Will Continue.\n\nHutchinson, Kan\u2014An unlooked-for incident that thrilled the thousands in attendance at the state fair grounds, came at the close of what had been a non-partisan celebration of Kansas fifteen anniversary of her birth, in which President Taft had participated.\n\nWalter L. Fisher, secretary of the interior, just back from Akaka, made a three-hour speech in which he said he would discuss the difference between tween \"real progressives of the mid-niele of the road type like Mr. Taft\" and \"hypotrical, demagogic progressives who oppose every practical progressive policy put forth.\"\n\nSenator Joseph L. Bristow, who is considered to rank second only to Senator La Follette of Wisconsin among the progressives, followed Secretary Fisher and quickly took up the challenge.\n\nAn address by the secretary was not down on the program, but it furnished a new feature of the day. When he arose and faced the big crowd Mr. Fisher was silent for fully a minute. Then he said slowly: \"I am one of those that count myself a impulse.\"\n\nHe was interrupted by applause.\n\n\"I am a true progressive,\" he resumed, and I believe in true progressiveness and not in hypocritical or demagogic progressives who declare for a progressive policy and then oppose every practical progressive measure put forth.\n\nSenator President Taft said he was trying to keep in the middle of the road the other day. I believe he meant what he said, and I believe that you believe he meant what he did. I am that kind of a progressive. My friends, you should judge men not by what they say, but by what they do.\"\n\nSenator Bristow was introduced by Governor Stubba, and was loudly cheered.\n\n\"We of Kansas,\" he said, \"may at times have been accused of acting before we thought, but we always have had the courage to contend for what we believed was right, and we have worked out right here in this state greatest moral civilization in the world.\n\n\"We are always willing to grant that the other fellow is honest in his views, and we expect him to grant that we are honest in ours. I want to say to President Taft and to Secretary Fisher right now, that in working out the problems that confront us, we of Kansas will have our part and have our say to the end that there shall be equal justice to all and special privilege to none.\"\n\nBoth Secretary Fisher and Senator Bristow were loudly applauded. The strong seem to appreciate the verbal service of the practice of justice by the junior Kansas senator that while he was participating freely and gladly in the welcome to President Taft in this state, there was to be no let up in the factional fight as soon as the president had left the commonwealth."
+      "text": "\"When President Taft said he was trying to keep in the middle of the road the other day, I believe he meant what he said, and I believe that you believe he meant what he said. I am that kind of a progressive. My friends, you should judge men not by what they say, but by what they do.\" Director Sibelson was introduced by Governor Stubba, and was loudly cheerful.\n\n\"We of Kansas, he said, \"may at times have been accused of acting before we thought, but we always have had the courage to contend for what we believed was right, and we have worked out right here in this state the greatest moral civilization in the world.\n\n\"We are always willing to grant that the other fellow in honest in his work we are honest in ours. that we are honest in ours. I want to say to President Taft and to Secretary Fisher right now, that in working out the problems that confront us, we of Kansas will have our part and have our say to the end that there shall be equal justice to all and special privilege to none.\"\n\nBoth Secretary Fisher and Senator Bristol were loudly applauded. The throng seemed to appreciate the verbal passage at arms and the practical actions of the president. Kansas senator that while he was participating freely and gladly in the welcome to President Taft in this state, there was to be no set up in the factional fight as soon as the president had left the commonwealth.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,17 +617,30 @@
         1442
       ],
       "label": "paragraph_title",
-      "text": "MADISON EULOGIZED BY TAFT"
+      "text": "MADISON EULOGIZED BY TAFT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1463,
+        1453,
+        1688,
+        1990
+      ],
+      "label": "text",
+      "text": "President Pays Tribute to Dead Cressman at Kansas Semi-Centennial Celebration.\n\nHutchinson, Kan.\u2014The celebration here of the fifteenth anniversary of the birth of the state of Kansas was made notable by the presence of President Taft.\n\nHe delivered an address at the fair grounds and was heard by an immense throng of people, thousands coming from the surrounding towns and country.\n\nIn opening, Mr. Taft paid a graceful tribute to the memory of the late Representative E. H. Madison, through whom had come his invitation to speak at Hutchinson. He said:\n\n\"His death was a great shock to me, as I doubt not it was to his fellow citizens. I had not known him long nor can I say that I knew him intimately, but he knew well what he was through the strong qualities of his mind and heart, his judicial instinct, his intense desire to be fair, and his clear perceptions of the law as a jurist, and his level-headedness as a legislator.\"\n\nMorocco Affairs is Settled.\n\nParis\u2014Germany has decided to accept the French proposals for the settlement of the Moroccan question. This information was communicated to the French ambassador to Heril M. Cambon, by Herr von Kilderlin Waechter, the German minister of foreign affairs.",
+      "status": "ok"
     },
     {
       "bbox": [
         1461,
-        1453,
-        1688,
+        1998,
+        1686,
         2405
       ],
       "label": "text",
-      "text": "President Pays Tribute to Dead Cen-\ngressman at Kansas Semi-Cen-\ntrennial Celebration.\n\nHutchinson, Kan.\u2014The celebration\nhere of the fifteenth anniversary of the\nbirth of the state of Kansas was\nmade notable by the presence of\nPresident Tatt.\n\nHe delivered an address at the fair\ngreetings and be heard by an im-\nmense crowd of people, thousands\ncoming from the surrounding town\nand country.\n\nIn opening, Mr. Tatt paid a grace-\nful tribute to the memory of the late\nRepresentative E. H. Madison, through\nwhom had come his invitation\nto speak at Hutchinson. He said:\n\"His death was a great shock to\nme, as I doubt not it was to his fole\ncitizens. I had not known him\nlong nor can I say that I knew him\nintimately, but I knew him\nenough to know the strong qualities\nof his mind and heart, his judicial\ninset, his intense desire to be fair,\nand his perceptions of the law\nas a jurist, and his level-headedness\nas a legislator.\"\n\nMorocco Affairs is Settled.\nParis\u2014Germany has decided to accept the French proposal for the settlement of the Moroccan question.\nThis information was communicated\nto the French ambassador to Herli-\nm, M. Cambon, by Herr von Kilderl-\nnzechter, the German minister of\nforeign affairs.\n\nFormer Governor Proctor is Dead.\nProctor, Vt.\u2014Former Gov. Fletcher\nD. Proctor of this state died at his\nhome here after a protracted illness.\nMr. Proctor was born November 7,\n1880, and was a son of Reddief\u5c14\nWaechter, the German minister of\nforeign affairs.\n\nWill Head Texas Central.\nSt. Louis\u2014A. A. Allen, president of\nthe Missouri, Kansas & Texas railroad,\nis to be elected president of the Texas\nCentral, according to reports in rail-\nroad circles.\n\nBank of Egypt Quills.\nLondon, England\u2014The Bank of\nEgypt, Limited, has suspended\npayment. In a notice to depositors\nthe directors say that advises from Egypt\nmake it apparent that the bank can\ncurrent obligations, and the company\nwill file a liquidation petition.\n\nMother of Jeffries Dies.\nLos Angeles, Cal.-Mrs. Alexis R.\nJeffries, mother of Jim Jeffries,\nchampion heavyweight pugilist of the\nworld, is dead of cancer."
+      "text": "Former Governor Proctor is Dead.\nProctor, Vt.\u2014Former Governor Fletcher\nD. Proctor of this state died at his\nhome here after a protracted illness.\nMr. Proctor was born November 7,\n1880, and was a son of Redfield Proctor,\nten years United States senator\nfrom Vermont.\n\nWill Head Texas Central.\nSt. Louis\u2014A. A. Allen, president of\nthe Missouri, Kansas & Texas railroad,\nis to be elected president of the Texas\nCentral, according to reports in rail\nroad circles.\n\nBank of Egypt Quits.\nLondon, England\u2014The Bank of\nEgypt, Limited, has suspended\npayment. In a notice to depositors the\ndirectors say that advises from Egypt\nmake it apparent that the bank can\nnot provide sufficient cash to meet\ncurrent obligations, and the company\nwill file a Liquidation petition.\n\nMother of Jeffries Dies.\nLos Angeles, Cal.-Mrs. Alexis R.\nJeffries, mother of Jim Jeffries, the\nchampion heavyweight pugilist of the\nworld, is dead of cancer.",
+      "status": "ok"
     }
   ]
 }

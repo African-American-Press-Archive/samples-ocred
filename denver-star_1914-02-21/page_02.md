@@ -53,9 +53,7 @@ Presiding Elder A. M. Ward was expected to have arrived in the city in time to h
 
 Mr. Geo. W. Cooper, who accepted Christ at the Y. M. C. A. meeting last Sunday afternoon, has united with Shorter chapel. Our revival brought into the church a splendid crop of young men
 
-E. 23RD AVE. AND WASHINGTON ST. PASTOR, J. 'A. THOS-HAZELL. S. T. B.
-
-## E. 23RD AVE. AND WASHINGTON ST. PASTOR, J. A. THOSHAZELL, S. T. B.
+## E. 23RD AVE. AND WASHINGTON ST. PASTOR, J. 'A. THOS-HAZELL. S. T. B.
 
 SERMON TOPICS, SUNDAY, FEB. 22: 11 A.M. , DR. HORACE SANDERSON OF WESTMINSTER UNIVERSITY WILL PREACH. 5 P. M. "PLATFORM SERVICES" BY THE LAITY.
 
@@ -101,9 +99,6 @@ Our week of prayer starts Monday night, March 2nd, to which all the members that
 
 Out of sorts, depressed, pain in the back—Electric Bitters renews your health and strength. A guaranteed Liver and Kidney remedy. Money back if not satisfied. It completely cured Robert Madsen, of West Burlington, Iowa, who suffered from virulent liver trouble for eight months. After four doctors gave him up he took Electric Bitters and is now a well man. Get a bottle today; it will do the same for you. Keep in the house for all liver and kidney complaints. Perfectly safe and dependable. Its results will surprise you. 50c and $1.00.
 
-H. E. Bucklen & Co., Philadelphia dr
-St. Louis.
-
 ## H. E. Bucklen & Co., Philadelphia dr
 St. Louis.
 
@@ -133,25 +128,89 @@ Upon the recommendation of Hooper Alexander, United States district attorney for
 
 In connection with this one of the attorneys in the case says:
 
-"This case was pending in the United States district court from ten to twelve years. The indictment was found during Mr. Angier's term of office as United States district attorney. Repeated efforts were made by defendant's counsel, Rosser & Brandon and C. P. Goree, for trial in this case from term to term without avail. There never was a time when the defendant could have been convicted under this indictment for the reason that the evidence upon which it was founded was insufficient.
+"This case was pending in the United States district court from ten to twelve years. The indictment was found during Mr. Angler's term of office as United States district attorney. Repeated efforts were made by defendant's counsel, Rosser & Brandon and C. P. Goree, for trial in this case from term to term without avail. There never was a time when the defendant could have been convicted under this indictment for the reason that the evidence upon which it was founded was insufficient.
 
-"Mr. Alexander, the United States district attorney, stated in open court, when the noelle prossequl was entered, that many of the acts relied upon for conviction under the indictment were barred by the statute of limitation when the indictment was found, and investigation by Mr. Angier or his successor in office, Mr. Tate, would have adduced the same findings made by Mr. Alexander, and it is passing strange that these officers representing the United States would permit an indictment to stand for twelve long years against a citizen of Georgia when it was absolutely baseless in fact.
+"Mr. Alexander, the United States district attorney, stated in open court, when the noelle proseguel was entered, that many of the acts relied upon for conviction under the indictment were barred by the statute of limitation when the indictment was found, and investigation by Mr. Angler or his successor in office, Mr. Tate, would have adduced the same findings made by Mr. Alexander, and it is passing strange that these officers representing the United States would permit an indictment to stand for twelve long years against a citizen of Georgia when it was absolutely baseless in fact.
 
-"It must be credited to Mr. Alexander that he is not only a competent officer, but that he is conscientious, painstaking and courageous and discharges his duty as he sees it. He acted promptly in this case with a view to trying it, if there was anything in it, and, if not, to give it the direction already indicated."
+"It must be credited to Mr. Alexander that he is not only a competent officer, but that he is conscientious, palstaking and courageous and discharges his duty as -he sees it. He acted promptly in this case with a view to trying it, if there was anything in it, and, if not, to give it the direction already indicated."
 
 ## MEETING IN THE INTEREST OF A BAPTIST UNIVERSITY.
-
-New England Convention Proposes the Erection of Big Religious School.
 
 ## New England Convention Proposes the Erection of Big Religious School.
 
 Prominent Baptist ministers and laymen of the New England Baptist missionary convention will take part in an all day mass meeting to be held in the Bethany Baptist church, Newark, N. J., Feb. 12. The meeting is to be held in the interest of the proposed Northern Baptist university. The idea of the movement was projected last June at the annual meeting of the New England Baptist missionary convention, of which the Rev. W. Bishop Johnson, LL. D., is president.
 
-The general topic for discussion at the three sessions to be held is "The Northern Baptist University—Its Need, Purpose and Outlook." The speakers for the morning session will be the following ministers, who have charges in New Jersey and in New York: Rev. Drs. George E. Morris, Morristown; H. H. Mitchell, Haddonfield; John W. Henderson, Atlantic City; E. E. Jackson and R. D. Wynn, Newark (Dr. Wynn is pastor of the church in which the meeting is to be held); W. M. Moss, Brooklyn; G. H. Sims, New York city; J. B. Boddie, New Rochelle; G. H. Mount Vernon; William P. Hayes, New York city; Mr. L. Williams, Brooklyn; Dr. D. C. Moon, New York.
+The general topic for discussion at the three sessions to be held is "The Northern Baptist University—Its Need, Purpose and Outlook." The speakers for the morning session will be the following ministers, who have charges in New Jersey and in New York: Rev. Drs. George E. Morris, Morristown; H. H. Mitchell, Haddonfield; John W. Henderson, Atlantic City; E. E. Jackson and R. D. Wynn, Newark (Dr. Wynn is pastor of the church in which the meeting is to be held); W. M. Moss, Brooklyn; G. H. Sims, New York city; J. B. Boddie, New Rochelle; G. Hunt, Mount Vernon; William P. Hayes, New York city; Mr. L. Williams, Brooklyn; Dr. D. C. Moon, New York.
 
 In the afternoon the following ministers from Pennsylvania, Rhode Island and Connecticut will speak: Drs. E. W. Johnson, G. L. P. Tallafero, A. R. Robinson and W. A. Creditt, Philadelphia; J. C. Jackson, Jenkinstown; Drs. D. S. Klugh, New Haven; W. A. Harrod, Hartford; S. W. Smith and D. W. Wiley, Providence.
 
-The principal speaker at the evening session will be Dr. W. Bishop Johnson of Washington. Rev. J. E. Churchman, financial secretary of the movement, will also make an address. Music will be furnished by a quartet from Montclair, N. J. Rev. J. C. Love will preside.
+The principal speaker at the evening session will be Dr. W. Bishop Johnson of Washington. Rev. J. R. Churchman, financial secretary of the movement, will also make an address. Music will be furnished by a quartet from Montclair, N. J. Rev. J. C. Love will preside.
+
+DEARFIELD
+TOWNSITE & SETTLEMENT
+WELD CO.
+DEC.1918
+
+HASKINS
+8
+7
+6
+5
+4
+3
+2
+1
+
+MONTGOMERY
+AVENUE
+9
+AVENUE
+10
+AVENUE
+11
+AVENUE
+12
+AVENUE
+13
+AVENUE
+14
+AVENUE
+15
+AVENUE
+16
+AVENUE
+
+FOSTER
+ANDERSON
+24
+WAGNER
+23
+DUNBAR
+22
+DU BOIS
+21
+WASHINGTON
+20
+MATLOCK
+19
+BRUCE
+18
+HOUSTON
+17
+FRANKLIN
+
+TOMPKINS
+25
+26
+27
+28
+29
+30
+31
+32
+
+JACKSON
+STREET
 
 # HIGH IDEALS OF MASONIC ORDER
 
@@ -171,13 +230,29 @@ Laws and records, however, established the right for the existence of army lodge
 
 The Negro Masons came back with the reply that Masonry knows no color, clime or country.
 
+HASKINS
+
+8 7 6
+
+MONTGOMERY
+
+AVENUE 9 AVENUE 10 AVENUE
+
+FOSTER
+
+ANDERSON 24 WAGNER 23 DUMBAR
+
+TOMPKINS
+
+25 26 27
+
+JACKSON
+
 DEARFIELD IS BOOMING.
 
-J. J. Houston bought a fine team of gray horses, harness and wagon from Holls and Platt at the Denver Union Stock Yards, and will begin extensive improvements on his ranch in Dearfield.
+J. J. Houston bought a fine team of gray horses, harness and wagon from Hollis and Platt at the Denver Union Stock Yards, and will begin extensive improvements on his ranch in Dearfield.
 
-Building will begin in Dearfield by March 1st. Nine new houses are to be put up in the next 60 days. Those who will build are J. J. Houston, Mrs. Clara B. Franklin, Miss Sanders, Ben Holley, J. M. Holley, H. W. Clay, Walter Spates, T. H. Bailey, Mrs. West.
-
-Lumber is being shipped from Boul.
+Building will begin in Dearfield by March 1st. Nine new houses are to be put up in the next 60 days. Those who will build are J. J. Houston, Mrs. Clara B. Franklin, Miss Sanders, Ben Holley, J. M. Holley, H. W. Clay, Walter Spates, T. H. Balley, Mrs. West. Lumber is being shipped from Boul-
 
 Lumber is being shipped from Boulder for the C. W. Brown Mercantile and Development Co. buildings.
 C. W. Brown bought six head of horses for the Dearfield Developing Co., who have contracted to plow 285 acres of land in Dearfield. He will ship horses and machinery next week, and begin plowing as soon as the frost is out of the ground.
@@ -193,11 +268,14 @@ The wisdom of Masonry is exemplified in establishing her basis on the immutable 
 
 If Masonry were to require any other creed than God is our Father and that men are his children and therefore bound to love him and one another, her grand object would at once be defended. Next to allegiance to God and springing from it, its controlling principle is love for man as man.
 
-Masonry meets man in all the varieties of his condition with sympathy and comprehends him in all of his complex nature. Before the altar all distinctions vanish, and all men, prince or peasant, stand alike in the presence and must meet upon the level.
+Masonry meets man in all the varieties of his condition with sympathy and comprehends him in all of his complex nature. Before the altar all distinctions vanish, and all men prince or peasant, stand alike in the presence and must meet upon the level. Prince Hall was never discouraged. When bitterly treated as a clandestine, he approached the fountain head—the grand lodge of England. After he had established the first lodge among Negroes he wrote from Boston under date of March 21, 1784, as follows: "I would inform you that this lodge hath been founded almost eight years. We have had no opportunity to apply for a warrant before, though we have been importunt to send to France for one, yet we thought best to send to the fountain head from whence we received the light for a
 
-Prince Hall was never discouraged. When bitterly treated as a clandestine, he approached the fountain head. After he had established the first lodge among Negroes he wrote from Boston, under date of March 21, 1784, as follows: "I would inform you that this lodge hath been importuned to send to France for bue, yet we thought best to send to the fountain head from whence we received the light for a educator, purchased the first lot in the world famous high school horse Washington street. O. T. Jackson, general agent, will be in the office in the evenings from 6 to 9 p. m. and will be glad to advise with anyone concerning homesteads and state lands. Miss Ethel Woods is in charge of the office during the day, and will be pleased to show maps and plats of the townsite, five and ten-acre tracts.
+DEARFIELD
+TOWN SITE & SETTLEMENT
+WELD CO.
+DEC. 1918
 
-C. W. Brown and Burt Griffith have made application to the State Home for Dependent Children for two boys. The home has a number of good sized boys of color and girls whom the management of the home would like to place with good families in Dearfield. Mr. and Mrs. O. T. Jackson now have one boy, and Mr. and Mrs. Clay have two brothers. It is our duty to assist when we can to help care for our own unfortunate, and Dearfield is just the place for some of those husky boys and girls. Write the home for blank applications.
+educator, purchased the first lot in the world famous high school horse Washington street. O. T. Jackson, general agent, will be in the office in the evenings from 6 to 9 p. m. and will be glad to advise with anyone concerning homesteads and state lands. Miss Ethel Woods is in charge of the office during the day, and will be pleased to show maps and plats of the townsite, five and ten-acre tracts. C. W. Brown and Burt Griffith have made application to the State Home for Dependent Children for two boys. The home has a number of good sized boys of color and girls whom the management of the home would like to place with good families in Dearfield. Mr. and Mrs. O. T. Jackson now have one boy, and Mr. and Mrs. Clay have two brothers. It is our duty to assist when we can to help care for our own unfortunate, and Dearfield is just the place for some of those husky boys and girls. Write the home for blank applications.
 
 Mr. Thomas Bass, of Mexico, Mo.
 
@@ -209,16 +287,30 @@ There can be no question as to the legitimacy of the Negro Mason. He is as regul
 
 ## Delinquent Subscribers, March 15th, 1914—The Limit.
 
-Delinquent Subscribers, March 15th, 1914—The Limit.
-
 The postal laws recently passed by Congress make it obligatory upon all publishers of papers and magazines, to discontinue all papers or periodicals of persons not paying for the same. March 15th is when the Star was taken over and we have until then to receive your subscriptions. If you receive a paper with a blue pencil mark on Editorial page; you know we are compelled to drop you to comply with the law. Subscribers please pay up.
 
 ## BINGA'S GENEROUS GIFT.
 
 Chicago Banker Donates $500 to Work of National Association.
 
-Jesse Binga, Chicago's well known banker, has given $500 to the National Association For the Advancement of Colored People. Mr. Binga is much interested in the welfare of his race and gave this amount at the recent meeting held at Lincoln Center in Chicago after listening to Professor J. E. Spingarn's speech.
+Jesse Binga. Chicago's well known banker, has given $500 to the National Association For the Advancement of Colored People. Mr. Binga is much interested in the welfare of his race and gave this amount at the recent meeting held at Lincoln Center in Chicago after listening to Professor J. E. Spingarn's speech.
 
 He is very enthusiastic about the work of the association and thinks that the time has come for the colored people to give money and work together to retain the rights the race now enjoys and regain those which have been lost by the indifference and shortsightedness of those who in their preachments have put other things before the conservation of rights.
+
+STREET
+
+3 2 1
+
+STREET
+
+14 AVENUE 15 AVENUE 16 AVENUE
+
+STREET
+
+19 BRUCE 18 HOUSTON 17 FRANKLIN
+
+STREET
+
+30 31 32
 
 Dearfield. He bought lot number 40 in block 11. Mr. Bass has been visiting Colorado for the past five years, exhibiting his high school horses. His exhibits have always been the main drawing card for the National Western Stock Shows, and his horses have received every first and second prize in their class. He has great faith in Colorado and its opportunities and says when he is ready to retire from his life work as a successful horse educator and trainer, that in all his travels he knows of no place which he would prefer for his home of retirement than Dearfield, Colo. He says that his home in Colorado will not end with a residence in Dearfield, as he has a young son coming on and that he feels that it is his duty to make provisions for his boy's future. Parties are now negotiating with him for the control of one of the largest horse and stock ranches in Northern Colorado, in the neighborhood of Dearfield.

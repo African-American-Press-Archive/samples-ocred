@@ -17,25 +17,27 @@ By Bob Hayes
 
 Superior vaudelle is presented at this ever-popular playhouse, *fiance* of the show, with a wonderful ordinary routine and gave a wonderful musical number, using *Asleep* as the pleasing. A jazz number on a guitar was well received. A musical act, but felt short. His dance and song numbers were not out of the ordinary. The tab and tab show might improve his work. The Autumn Three, as barnyardimitators were good, were a Stick and Holiday and the feature attraction. Their song and dance numbers were put together and produced a rof of applause, and it was only after repeated hows that the pair continued to the stage. The show was the only Grey were O. K. The amateur contest for children under 14 years is proving a
 
-The Illusions of Chandler Gray were O. K. The amateur contest for children under 14 years is proving a success.
-
 ## EARL GIVES SHOW
 
-James Earl, No. 20650, Box 7, Leavenworth World. Jim produced a mistress show at the fort a couple of weeks ago, which was such a hit that he had to repeat it the following night, and a chance he gave a little praise andance. He sent along a program and from what we could judge of it, if Jim could bring that lunch out with him he could make the Harvey and Georgia like a jinx or two from his many friends in and out of the game.
+James Earl, No. 2650, Box 7. Leavenson from World. Jim produced a minstrel show which was such a courtship that he had to repeat it the following night, and a second performance. He sent along a program and a card that could bring that bunch out with him when he showed up and a double bump. He would like a line or two from him many friends.
 
 a Liston
-
 new one
+ING BLUES"
+powerful good and a whack-
+Virginia Liston sings this
+sung before. So when you
+"Sally Long Blues, OKeh
+of These
 
-"ING BLUES"
-
-powerful good and a whack-Virginia Liston sings this song before. So when you "Sally Long Blues, OKeh" of These
-
-Sally Long son is powerful good and a whacking
-blues singer, too. Virginia Listen sings this
-Okhel hit she's never sung before. When so when
-he like stuff, just say "Sally Long Blues, Okhel
-818s"
+Virginia Liston
+chirps a new one
+"SALLY LONG BLUES"
+This Sally Long song is powerful good and a whack-
+ing blues number, too. Virginia Liston sings this
+OKeh hit like she's never sumed before. So when you
+want "hot stuff," just say "Sally Long Blues, OKeh
+8115."
 
 ## 6 BEST SELLERS
 
@@ -62,6 +64,11 @@ wood.
 Sippi Wallace
 Fax Trot-Benie Motsa'
 
+OKEh race records
+©G.P.Corr.
+
+PAGE SIX—PART ONE
+
 THE ILLINOIS
 
 "In Barnville" continues to play to
@@ -86,6 +93,8 @@ being considered.
 who have had the
 good fortune of
 cannot have
+
+PETER BROWN
 
 seeing this product. Tony Langston helped be impressed with the class of the entertainment itself as well as the institutions and other appearances. Sissie and Blake have left but little unanswered for the production, and Lew Payton, who wrote the book, had the benefit of experience behind his efforts. Payton is one of the members of the production, and Lew Payton is the march of progress to catch hung napping, and this can truthfully be said regardless of the fact that one of the greatest days long gone to old-time show fans. Julian Mitchell, who staged his line; this is not a matter of opinion, but a matter of fact, and the reason for the rise of the curtain on the first number to the big finale which he theater with smiling faces and expressions of praise and satisfaction eliminated the time-worn "down on the jeewer" and "do old Bob Lee" modern, up-to-the-minute series of specializes of a sort to please the audience. It is a show by which members of the Race can justly feel proud. The fact that the general tone of the production is upbeat and the presence of a couple of reviewers on two of the daily papers is a splendid recombination, who take "class and distinction" instead of "nokum" an their amuse-ble moments. Seats are selling two weeks ahead.
 
@@ -123,7 +132,9 @@ Wilds of Park, Sunday, On Time.
 THEOODORE PANKEY DEAD
 Dear Ken, Tony. We have just received the news of the death of Theodore Pankney, one of the best known, best loved of the Colored profession. The was the victim of a shock to the heart when he was shot on pany; just two days ago had he instructed to get into Mintonholi to go in advance. Now he took Land's. His wife had sent notice of the death in Belford, but knowing that we have a beautiful city, and we are delighted to know that he was buried before we had any chance of his death. B. T. Whitney featured with all
 
-Mr. Parkey was a. B. T. Whitney the largest colored company. Earned in a managerial capacity with E. C. Johnson and Johnson. Later he was hired in a managerial capacity with E. C. Johnson. He was last employed as business man. He was last employed as business man. Mitchell and Turt's "North Alnt South" mountain, refined, reliable and capable type of performer. Death came to him when he never tired of telling the job of his companionship of his wife and baby. Death never tired of tellin
+[OCR timeout]
+
+[OCR timeout]
 
 Labor and educational facilities are not small part in the life of any individual, so should not be overloaded by people who should not be overloaded
 
@@ -147,11 +158,37 @@ Medellin Thompson, the famous comedian and actor, helped hands in a team with Le
 
 Luke Shake on the Show, Sarah Grabham-Mildred Sugi Feaster, the infant prodigy with the Shake and the Hake show, on the Old Roll Top Desk on Monday.
 
+[OCR timeout]
+
+[OCR timeout]
+
 ## Director of "Queen of Sheba" and Other Successes Wins New Laurels.
 
 A new William Fitzwood production by the director of "The Queen of Sheba" and "Nero." J. Gordon Edwards, will be shown at the States theater on Monday and Tuesday, April 14 and 15, 2014. It is a spectacular in production scape than Director Edwards' previous two pictures, but powerful in its vivid revelation of society. The story is a mystery and as such it can't fail to spoil your pleasure by revealing the plot in Suffice it to say that Barbain Castleton, as Mrs. Norman; Raymond Hartman, as Mrs. Norman; Albert Roseco as the man in the case; serve as dramatic personalities to portray the dramatizations that unite them. Norman's unscrupulous life and his custom of getting the wherewithal from Mrs. Norman makes it impossible that she takes her little son and uses her cousin's money in the city. Norman, needing money, seeks her. In the story, she is quaintly decorated, one of the most exciting situations in the picture universe, and a new twist is given to the story. Romance sweeps into the picture return of a third wherewithal in the picture return of a gripping climax. She credits for an excellent Fox specie Joas has an excellent cast, but the high drama in the three films, Cornelius F. Kece, Helen Tracy, Elijah Nude, Alexander Gaden, Guy Lakovsky, Cornelius F. Kece,
 
+## SAYS JONESY
+
 ## COY COGITATES
+
+Dallas, Texas.
+Dear Fat Pal Tony: Go
+tunes to play to capacity business with
+
+carly business with
+the presentation of
+rightly 'permanent
+stock company,
+include a Freel
+include a Freel
+Hamilton, Ntion
+Hamilton, Ntion
+Basketball, Basket
+Johnson, Ntion
+Brown, Collec
+Burry, Bursl
+Jill
+
+C
 
 The Washington theater, Indianapolis most popular playhouse changed
 
@@ -171,50 +208,10 @@ lins. The show was Collins and Collins. The show was Collins and Collins. The sh
 indianapolis boy and
 show.
 
-Ceylon Herdman dlaminipolis bay and station on his entrance, his net was of gold, and he was devoted to the valueuelle net seen in Globetrotter devoted to portraying the characters of a *simma* and *kiser* in which he tried to be far too far, and each line is good for a too far, and each line is
+A. H. H.
 
-Pergerson and Pergerson won favor by having the corpsur throughout his act while dancing, doing some very difficult steps, and can dance, but can sing, and looks like he can go to Louisville, Ky. to do a single while the half meter has a lay-off act, can dance, but can sing
-
-## Golden West
-
-The Golden West, under the management of Norman Riley, has become a good place to play, distinguishing the drastic law that all cabarets have been built on. The innards, in inches apart and plainly read, keep the woman stationed on the floor to see that the law is obeyed. The vulture room in their honor and the last room in their honor, Joe Turner of Chicago, after which "Goodle" Lee, the noted Colored pollinator, lives. A little speed for players playing a little speed for performers playing is ordered his chauffeurs to show and guests the city of Indianapolis. Crack "Goodle" Lee are playing a return engagement at the Washington with a new show, a new management within a week's time. The next week's issue of the Defender.
-
-## RUMORS DENIED
-
-Chippey, Chappelle of the well-known band, will inform the general public of the circumstances circulated by the Platium Days being pardoned by the Platium Days being parted away, were thrown out on account of their past reputation, both on and off and as part of the publicity campaigns. This rumor was circulated to cause the band to know about the events, which knew about agents and men. Mr Chapelle left the Platium Days company of his own accord, after service in the band, and was now rehearsing his own show, called Henderson and Bain Theater, on April 24 for an in-person run.
-
-## BUYS 117
-
-Mobile Whitman writes that she has been a member of the cast and bought a tilt Lizzie, and figured out how to come from Hot Springs. Aler, who the sisters company played a return role in the 1980s, is doing the same thing the present week for the Washington theater, St. Louis. No.
-
-## JULIAN PLEASED
-
-Julinan Costello Robinson and Andersen, all on all, are all on one big bill. And Kennan is all on one big bill. Ala-Julian was recorded a great song for his Oriental舞律 by the composer. Alfirmingham, last work, and as a consequence the net was received for its performance with the led and sound at Palm Leaf Performers playing Birmingham.
-
-## TEENIE DEAD
-
-We had a letter from Augusta, Ga., called to us from a friend of our learning of the death of his former business partner, whom he engaged with him in the show business. Don stated that they were still friends and that he had been slowly improving in health. No warring address was included in his letter.
-
-Clever musical comedy star, who is justifying her position with the Sissle and Blake production at the Illinois.
-
-## SAYS JONESY
-
-Dallas, Texas.
-Dear Fat Pal Tony: Go
-tunes to play to capacity business with
-
-thrues to play to capacity business with
-their presentation of
-pristine" permanent
-stock company,
-women eludes Fred
-Hamilton. Mina
-mimic basket, ladie
-Johnson, son,
-Brown, Colleen
-Burns, Dilly
-Moore, Elizabeth Carter and yours truly
-in our third week and still going strong.
+Moore, Elizabeth) Carter and yours truly,
+strong our third week and still going strong.
 
 The management will change hands
 when the building is sold or
@@ -230,29 +227,62 @@ whence new security, lighting re-
 quirements be installed, re-opening
 Saturday, April 11.
 
+Ceylon Herdman dlaminipolis bay and station on his entrance, his net was of gold, and he was devoted to the valueuelle net seen in Globetrotter devoted to portraying the characters of a *simma* and *kiser* in which he tried to be far too far, and each line is good for a too far, and each line is
+
 "I's Just Alright" company present-
 ment. You can just listen to the jacket just from the皮 of your trumpet. Several additions will be made to the jacket, including a presentation of my engagement here the management will consider open time of the show, even if you read shows. Even at present I am able to read about the management wire me. By the way, the management here had just made me a nice offer to reopen on the 12th. I am considering that, so I have not definitely decided. We will do from musicians that can fake. Permanent year-round work.
 
+Ferguson and Ferguson won favor by the audience, and they entertained throughout his act while dancing, doing some very difficult steps, and then dancing again. He can dance, but can sine, and looks the part to Lonnie Jackson, KY, to do Ferguson while he was better off by his own act. He and his friends got together for a spik. He and his friends, a little lady, stood flat-footed and same three songs and two chants, and stopped the show was concerned, it was at her mercy. She possesses a talent.
+
 ## Park Theater
 
-Played Taylor's "Aunt Hager's Chili- Pepper Stepper" company week of December. Both companies scored heavily in the return date. Zacharia White and Gene Taylor's company. They have joined partner Taylor's Charleston Strut and Taylor's Charleston Strut and Taylor's company played a double bill: Mild Lily, a full house. Friday night, March 25, they open a week's engagement. Ava played American theater, House of Dreams, Carter and company left. Saturday, Taylor's company played a double bill: Ramble, Ava played American theater, House of Dreams, Carter and company left. Saturday, Taylor's company goes to Houston tonight. Taylor's company goes to Houston tonight. Taylor's company goes to Houston tonight. Taylor's company goes to Houston tonight. They open a week's engagement. Monroe and Evelyn Preer Edible Thompson Harry Patter featured, open a week's engagement. They are billed here like a commercial. They are billed here like a commercial. Will send in a review on them.
+Played Taylor's "Ain't Hager's Chillin' on the Mountain." Played Stephen's "Papper Steepin' on the Mountain." March 31. Both companies scored two wins. Taylor's company scored two wins. Date: Zachary, Dana and Gene were added attractions with Taylor's company. So, I am informed. Famously, so I am informed. Taylor's company played a double half-time jamble. Friday night, April 4, to 10. Carter's company and Anita Hussain's company played to a good house. Anita played American theater, Houston, Texas, has weekend morning for New Orleans, LA, where she played morning for New Orleans, LA, where she played day at the Lyric theater, Daybreak Nelson and company go to Houston to play in Austin, Texas. The Lefayette players, the newly-weds, DeCon帅帅, and Harry Fater featured, open a week's play. They are billed here like a circus. Except the extensive crowd made to hand the extensive crowd. Will send in a review on them.
 
-Watkins James, the only mirror shell of married sheil, is still put together. His halter half had drilled him out of the Go to it. Wyatt, but don't forget the Orange Oklahoma. The Orange Oklahoma. The Orange Oklahoma for show folks. Both are gentlemen of the highest caller repertoire. Both places are located on Orange Oklahoma at 429 and the Orange at 219. In my next letter I will send a list of scarves here to me at Grand Central theater, 40 N. Central Ave., will reach anyhow. Tour pull Jonesoes
+Doyle and Wille Porter opened in 1929 in a cottage on the banks of a song, a line of call, which earned much laughter, after which Wille did a few years of work with the company, years which were a riot. Doyle came up with a jiggle line, doing his hump and glass of water trick. The team closed with a Holland and Henderson, two Indianapolis boys, and no doubt placed on the show and went over very good. The show and went over very good. The hasn't taken advantage of the original line or content from acts playful or time or new songs published daily. In recent years the class was closed as dead. They are young and do a nice dance, but lack material.
+
+## Golden West
+
+The Golden West, under the management of Norman Riley, has become a good place to play, distinguishing the drastic law that all cabarets have been built on. The innards, in inches apart and plainly read, keep the woman stationed on the floor to see that the law is obeyed. The vulture room in their honor and the last room in their honor, Joe Turner of Chicago, after which "Goodle" Lee, the noted Colored pollinator, lives. A little speed for players playing a little speed for performers playing is ordered his chauffeurs to show and guests the city of Indianapolis. Crack "Goodle" Lee are playing a return engagement at the Washington with a new show, a new management within a week's time. The next week's issue of the Defender.
+
+Wyatt James, the only mirrored shuttle car, is the only one married sheil, is still putting a lid on his butter half has drilled him out of it and three times he goes to Go. Wyatt James forget the family physician's phone number. He cares for the two best "eateries" in cafe are the two best "eateries" in the gentlemen of the highest collier and with their help render service support to the Orange Ave, the Oklahoma at 428 and the Orange at 123. When he will send a list of good lodging places, since such are jail addressed to me at Grand Central theater, 465 N. Central Ave., will reach anyhow. Your pal, Joseph Jones.
+
+## RUMORS DENIED
+
+Chapty, Chappelle of the well-known team of Chancellor and Stimuluswitches, witnessed the foreshadowing of the rumor that is being pinned on to the party to the effect that his and his party are being held accountable for their past reputation, both on and off the stage, bears proof of their good work. The party's efforts to cause embarrassment, and if possible to knock them with agents and
 
 ## MINSTRELS SCORE
 
 The following press notice appeared
 billy daily, magazine, I. tells its own news.
 
-"The Beck and Walker Collegial entertainers, who showed at the Victor theater last week, were the fair-sized audience showing considerable more enthusiasm than the large crowds visiting the city. The various individual artists was enclosed and repeat numbers were constantly demanded. The act given a "hand," which gave them to dine business all along the line and is dividing the present half between Scott's, Holmes and wife have joined the show and wife have strengthened—D. M. Corton, reporter.
+The Beck and Walker Colleges oriented the theater, and their later Friday night, were well received, the fair-sized audience shows that followed. The theater's for the average attraction that, for the average audience,
+
+Mr. Chapple left the Plantation Days
+theater by the required two weeks' notice.
+Yellow Hall (featuring Moon and
+openers at the Grand Theater April 21
+
+"The work of the various individual hockey players were constantly demanded. Specially was the trick ruler skating the ball. The show is playing to fine business all along the line and is dividing the team. Rayard and Gering, Geteb, Buddy Holmes and wife have joined the show and have strength—D. C. Morton, reporter.
+
+## BUYS 117
+
+Mobile Whitman writes that she has been a member of the cast and bought a tilt Lizzie, and figured out how to come from Hot Springs. Aler, who the sisters company played a return role in the 1980s, is doing the same thing the present week for the Washington theater, St. Louis. No.
 
 ## THE MOORES CALL
 
 Jack Moore and his wife, Mrs. Ruth Bard Moore, song writers and commentators, had come down from Milwaukee. Wis., where they get their mail at 1013 Wing Way, they connect in connection with the publishing of a couple of his poems. They stopped at a coffee shop in Milwaukee, the city, and they brought the Old Roll Man a box of real Wishkins delicacies.
 
+## JULIAN PLEASED
+
+Julinan Costello Robinson and Andersen, all on all, are all on one big bill. And Kennan is all on one big bill. Ala-Julian was recorded a great song for his Oriental舞律 by the composer. Alfirmingham, last work, and as a consequence the net was received for its performance with the led and sound at Palm Leaf Performers playing Birmingham.
+
 ## UTTERBACK'S BAND
 
 Danville, Ill.—Utterback's Italian radio station, Carnegie General, offers the offay Oaf canadian Giants, the offay Oakland Avalanche, the offay San Francisco Titans, the offay Titaccoh, Sam Utterback, Alex Foxes, Duncan Flowers, William Jeter, Johnny DeVry, and many others. There are several vocal and dancing ensembles at 446 Elm St. Hall retires them at 446 Elm St.
+
+## TEENIE DEAD
+
+We had a letter from Augusta, Ga., called to us from a friend of our learning of the death of his former business partner, whom he engaged with him in the show business. Don stated that they were still friends and that he had been slowly improving in health. No warring address was included in his letter.
 
 ## CHEROKEE NARS
 
@@ -285,13 +315,45 @@ Annie Johnson's Knicker. Glir.com prints. Brooklyn theater, Wilmington, N. C. Wi
 
 Eleanor. Austin Emory, formerly the head coach of the Genteague Monroe, late of Sparks Circus, are the only girls to play in the Scala-Floetl circus, now playing a threes-week engagement at the girls' plant in opportunities, and go over
 
+"Darktown Campmeeting"
+Greatest Record Since "ELDER EATMORE'S SERMON"
+By CLIFFORD ROSS, Assisted by DOWN HOME FOUR
+IF YOU LIKE GOOD OLD BARBER SHOP CHORDS GET
+COLUMBIA RECORD NO. 14004-D
+Reverse Side Carries—I AIN'T SKEERD OF WORK"
+"ALABAMA BLUES" PLENTY OR REAL HOKUM AND A
+HUMIDER BOUND OF HARMONY
+SUNG BY DOWN HOME FOUR
+On Reverse Side Is "HAPPY BOY-BLUES"
+IF YOU WANT TO HEAR SOME REAL SINGING GET
+COLUMBIA RECORD NO. 14012-D
+PUBLISHED BY
+Perry Bradford Music Pub. Co., 1547 Broadway, New York
+
+CLIP THIS "ADV" OUT
+10% DISCOUNT TO GUEST PRESENTING
+THIS ADVERTISEMENT ON FIRST VISIT TO
+HOTEL LINCOLN
+POSITIVELY RESPECTABLE CLEAN, COMFORTABLE,
+—PHONE SERVICE—BATHS WELL VENTILATED ROOMS
+FIRST-CLASS DINING ROOM
+SPECIAL RATES TO PERFORMERS WRITE, WIRE OR CALL
+Mr. and Mrs. David Hawkins, Mgrs.
+Cor. Scovill Ave. and E. 40th St.
+CLEVELAND, OHIO
+
+ELMORE THEATER
+2312 CENTRE AVENUE PITTSBURGH, PA.
+
+1000 Seating Capacity 1000
+FIRST CLASS ATTRACTIONS ONLY
+Nothing Too Big or Too Small. Write Us For Dates
+
 # JULIAN SPEAKS
 
 The following is a letter received late last week. Give it the once over;
 
 Dor Sirr: I am at the theater, theatre, biosexem, from April 5. I am down here, because while the "powers that be" are breeds while the "powers that be" are actors invested actors union. We are down here, of the "talking up" and "cleaning up" breeds while the "powers that be" are actors invested actors union. We are down here, some of our pretty little theaters are thrown open and overrated and gizzard-breeds like the early shift at Chicago's odorator shops on hip, curse and rabies sayings on hip, curse and
-
-"Sweet Paper" number. While you sell it, you must ask what it wants. While the "powers" are so-called musicales in these houses the so-called musicales in these houses met two of these fellow who, cently met two of these fellow who, the difference between C and F not made all these things be conflated also made all these things be conflated also arrange more consecutive looking and mirroring. "Yours nicely, Julian Concello."
 
 ## C A U GROWING
 
@@ -340,6 +402,8 @@ the line-up, which now carrièd in
 Rosamond, Lee Lamaster, Leen Abbey,
 Alexander and Flesh Johnson. Reptile.
 
+SATURDAY, APRIL 12, 1924
+
 Well, book on your ear bobbles a
 Nelissa Briggs, Principle Barringer,
 Nelissa Briggs, Principle Barringer,
@@ -361,3 +425,5 @@ I wonder if "Mr. Whitaker" ever witnessed Little Sunshine Sample and his little 
 ## STARR HOME
 
 Nashville, Tenn., April 10—Illionville, T. O. B. A., the largest and most successful Colored amusement corporation, will be in New York for the past two weeks in New York for the past two weeks of its amusement corporation. The T. O. B. A. has since been in Nashville, Tenn., and is already long list, as has been announced by the city, which houses villa houses, since Jan. I, has been playful. Reporters
+
+---

@@ -3,6 +3,17 @@
   "image": "images/page_07.jpg",
   "width": 2082,
   "height": 2800,
+  "processed_at": "2026-03-07T02:40:09.262137+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 99,
+    "after_merge": 53
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         226
       ],
       "label": "doc_title",
-      "text": "Business Directory"
+      "text": "Business Directory",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,17 +34,41 @@
         764
       ],
       "label": "text",
-      "text": "A merchant to succeed must a.m. to expand his business and his ideas. The two are necessary compliments to each other and should go hand in hand, consequently the Progressive and Practical man of affairs of this age is continually on the watch for new ideas and unexplored territories for the introduction of his commodities.\n\nAll merchants and business men whose \"ad\" appeals it this directory cater to your patronage. Give it to them and say you saw their \"ad\" in The Denver Star. It encourages them to advertise in our race papers. Those who don't advertise for your business, either don't care for it or feel that they will get it without solicitation.\n\nAUTOMOBILE SERVICE.\nOliver Hardwick, stand 27th and Wellington St. Phones Champa, 3262, York 2070.\n\nBARBER SHOPS.\nCarrie & Carrie\u20141831 Arapahoe.\nThe Jewell\u20141022 19th St.\nO. K. Shop\u20141834 Arapahoe.\nElite\u20141223 19th St.\nThe Star\u20142232 Larimer.\nBolden Bros.\u2014926 19th St.\n\nPLUMBERS.\nM. C. Bradley, 609\u00bd 27th St.\nFive Points Plumbing Co.\u2014713 E 26th Ave.\n\nSHOE REPAIRING.\nNew Way\u20141857 Champa.\nWalter Cambers, 1023 18th street.\n\nSHINING PARLORS.\nEd Jackson\u20141626 Curtis St."
+      "text": "A merchant to succeed must a.m. to expand his business and his ideas. The two are necessary compliments to each other and should go hand in hand, consequently the Progressive and Practical man of affairs of this age is continually on the watch for new ideas and unexplored territories for the introduction of his commodities.\n\nAll merchants and business men whose \"ad\" appeals it this directory cater to your patronage. Give it to them and say you saw their \"ad\" in The Denver Star. It encourages them to advertise in our race papers. Those who don't advertise for your business, either don't care for it or feel that they will get it without solicitation.\n\nAUTOMOBILE SERVICE.\nOliver Hardwick, stand 27th and Wellington St. Phones Champa, 3262, York 2070.\n\nBARBER SHOPS.\nCarrie & Carrie\u20141831 Arapahoe.\nThe Jewell\u20141022 19th St.\nO. K. Shop\u20141834 Arapahoe.\nElite\u20141223 19th St.\nThe Star\u20142232 Larimer.\nBolden Bros.\u2014926 19th St.\n\nPLUMBERS.\nM. C. Bradley, 609\u00bd 27th St.\nFive Points Plumbing Co.\u2014713 E 26th Ave.\n\nSHOE REPAIRING.\nNew Way\u20141857 Champa.\nWalter Cambers, 1023 18th street.\n\nSHINING PARLORS.\nEd Jackson\u20141626 Curtis St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        58,
+        796,
+        364,
+        1307
+      ],
+      "label": "text",
+      "text": "BIRDS.\nSullivan Bird & Seed Store\u2014534 15th St.\n\nBICYCLES\nI. Abovitz, 2204 Champa St.\n\nCAFES.\nOklahoma .....2731 Welton St.\nSunshine\u20141325 21st St.\nBarnes\u20142741 Welton.\nFuyiya\u20141221 20th St.\nKeystone\u20141857 Champa St.\n\nCARPENTER.\nJ. M. Nickerson, 2218 Champa street.\n\nCOAL, FEED AND EXPRESS.\nKnight & Landers, 911 21st St.\nHam Brown\u20141314 21st St.\nC. W. Bridges\u2014619 27th St.\nAnderson\u20142239 Washington.\nW. O. Simonds, 2029 Champa St.\nCarter\u20142415 Washington.\nThe Little Cottage Coal Co.\n1117 22nd St.\n\nCONFECTIONERS.\nThe Maceo\u20142715 Welton.\nRice & Rice\u2014632 Welton.\nHarrison Jacobs, 721 26th Ave.\nJulian's\u20142155 Larimer St.\nLaura Seawright, 2551 Clarkson St.",
+      "status": "ok"
     },
     {
       "bbox": [
         36,
-        796,
+        1307,
         366,
+        1883
+      ],
+      "label": "text",
+      "text": "CENTIST.\nT. E. McClain\u20142802 Welton.\n\nDRUG STORES.\nWhite Swan\u201427th and Welton, Baxter\nBldg.\nChampa Pharmacy\u201420th & Champa.\nElite Drug Store...21st & Arapahoe\nAtlas Drug Co....2701 Welton.\n\nEYE SPECIALISTS.\nSwigert Bros.\u20141550 California.\n\nFURNITURE AND REPAIRING.\nJ. H. Biggins\u20141417 E. 24th Ave.\nNew York Furniture\u20142248 Welton.\nThe Welton Street Fur. Co.\u20142621\nWelton.\n\nFURRIERS.\nYouman, 422-24 15th street.\n\nGROCERIES AND MARKETS.\nWalter East\u20142300 Larimer.\nW. S. Wren, 24th Ave. and Washington\nSt.\nKaplan Bros., 2315 Arapahoe street.\nO. W. Glenn & Bro....2737 Welton St.\nCash Progress\u20142824 Welton St.\n\nHARDWARE.\nFive Points H. Co.\u20142643 Welton.\n\nHARNESS SHOP.\nGeo. W. Steffan\u2014709 E. 26th Ave.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        55,
+        1902,
+        360,
         2324
       ],
       "label": "text",
-      "text": "BIRDS.\nSullivan Bird & Seed Store\u2014534 15th St.\n\nBICYCLES\nI. Abovitz, 2204 Champa St.\n\nCAFES.\nOklahoma ...2731 Welton St\nSunshine\u20141325 21st St.\nBarnes\u20142741 Welton.\nFuyla\u20141221 20th St.\nKeystone\u20141857 Champa St.\n\nCARPENTER.\nJ. M. Nickerson, 2218 Champa street.\n\nCOAL, FEED AND EXPRESS.\nKnight & Landers, 911 21st St.\nHam Brown\u20141314 21st St.\nC. W. Bridges\u2014619 27th St.\nAnderson\u20142239 Washington.\nW. O. Simonds, 2029 Champa St.\nCarter\u20142415 Washington.\nThe Little Cottage Coal Co.\n1117 22nd St.\n\nCONFECTIONERS.\nThe Maceo\u20142715 Welton.\nThe Rice & Rice\u20142632 Welton.\nHarrison Jacobs, 721 26th Ave.\nJulian's\u20142155 Larimer St.\nLaura Seawright, 2551 Clarkson St.\n\nCENTIST.\nT. E. McClain\u20142802 Welton.\n\nDRUG STORES.\nWhite Swan\u201427th and Welton, Baxter Bldg.\nChampa Pharmacy\u201420th & Champa.\nElite Drug Store...21st & Arapahoe\nAtlas Drug Co...2701 Welton.\n\nEYE SPECIALISTS.\nSwigert Bros.\u20141550 California.\n\nFURNITURE AND REPAIRING.\nJ. H. Biggins\u20141417 E. 24th Ave.\nNew York Furniture\u20142248 Welton.\nThe Welton Street Fur. Co.\u20142621 Welton.\n\nFURRIERS.\nYouman, 422-24 15th street.\n\nGROCERIES AND MARKETS.\nWalter East\u20142300 Larimer.\nW. S. Wren, 24th Ave. and Washington St.\nKaplan Bros., 2315 Arapahoe street.\nO. W. Glenn & Bro., 2737 Welton St.\nRash Progress\u20142824 Welton St.\n\nHARDWARE.\nFive Points H. Co.\u20142643 Welton.\n\nHARNESS SHOP.\nGeo. W. Steffan\u2014709 E. 26th Ave.\n\nHAIR SPECIALISTS.\nPope-Turnbo\u2014$100 Pine St. St. Louis\nMme. M. J. Johnson\u2014681 Shawmul Ave., Boston.\nThe Leader\u20142108 Larimer.\nJ. S. Ramiah, 2439 Ogden St.\n\nHALLS FOR RENT.\nEuganka\u20142235 Arapahoe.\nVerb\u20142711 Welton.\n\nINSURANCE.\nUnion Health & Accident Co.\u2014Central Natl. Bank Bldg.\nWestern Life & Accident Co.\u2014Gas & Electric Bldg.\n\nLOANS AND REAL ESTATE.\nColored American\u2014913 21st St.\nA. J. Arfsten\u20142945 Larimer.\nPatrick & Langston, 2430 Ogden St.\n\nLAWYERS.\nGeorge G. Ross\u2014209 Kittredge Bldg.\n\nLIGHT AND FIXTURES.\nDecher & Co., 1432 Curtis St."
+      "text": "HAIR SPECIALISTS.\nPope-Turnbo\u20143100 Pine St., St. Louis\nMme. M. l. Johnson\u2014681 Shawmut\nAve., Boston.\nThe Leader\u20142108 Larimer.\nJ. S. Ramiah, 2439 Ogden St.\n\nHALLS FOR RENT.\nEureka\u20142235 Arapahoe.\nVerd\u20142711 Welton.\n\nINSURANCE.\nUnion Health & Accident Co.\u2014Central\nNatl. Bank Bldg.\nWestern Life & Accident Co.\u2014Gas &\nElectric Bldg.\n\nLOANS AND REAL ESTATE.\nColored American\u2014913 21st St.\nA. J. Arfaten\u20142945 Larimer.\nPatrick & Langston, 2430 Ogden St.\n\nLAWYERS.\nGeorge G. Ross\u2014209 Kittredge Bldg.\n\nLIGHT AND FIXTURES.\nDecher & Co., 1432 Curtis St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +78,8 @@
         2719
       ],
       "label": "text",
-      "text": "Zang B. Co.\u2014Phone gallup 395.\nCapitol Brewing Co., phone Champs\n356.\n\nORCHESTRA.\nGeo. Morrison Phone Hickory 1418\n\nORTHOPEDIC APPLIANCES.\nWm. Jones\u2014808 14th St.\n\nMUSIC INSTRUCTION.\nGeorge Morrison, Violin\u20144242 Tejon\nSt.\n\nPHYSICIANS AND SURGEONS.\nJustiana Ford\u20142335 Arapahoe.\n\nThe Ham Brown Coal Co. will sell\none of the best soft coals the next\nmonth for $4.10 for 2,000 lbs. Phone\nMain 7364. 1814 21st street."
+      "text": "Zang B. Co.\u2014Phone gallup 395.\nCapitol Brewing Co., phone Champs\n356.\n\nORCHESTRA.\nGeo. Morrison Phone Hickory 1418\n\nORTHOPEDIC APPLIANCES.\nWm. Jones\u2014808 14th St.\n\nMUSIC INSTRUCTION.\nGeorge Morrison, Violin\u20144242 Tejon\nSt.\n\nPHYSICIANS AND SURGEONS.\nJustiana Ford\u20142335 Arapahoe.\n\nThe Ham Brown Coal Co. will sell\none of the best soft coals the next\nmonth for $4.10 for 2,000 lbs. Phone\nMain 7364. 1814 21st street.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +89,8 @@
         2407
       ],
       "label": "text",
-      "text": "STAND AT ATLAS DRUG STORE, 2701 WELTON ST."
+      "text": "STAND AT ATLAS DRUG STORE, 2701 WELTON ST.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,17 +100,8 @@
         2520
       ],
       "label": "paragraph_title",
-      "text": "If It Is For Your Lodge WE HAVE IT!"
-    },
-    {
-      "bbox": [
-        548,
-        2527,
-        978,
-        2721
-      ],
-      "label": "text",
-      "text": "We manufacture Lodge Regalia for every Fraternal Society. Cash or Installment Plan. Cheapest Badge House in the Country. Catalogue for your Society FREE.\n\nCENTRAL REGALIA CO.\nThe Negro Regalia House. JOS. L. JONES, Pres.\nN. E. Cor. 8th & Plum\nCincinnati, Ohio"
+      "text": "If It Is For Your Lodge WE HAVE IT!",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,17 +111,52 @@
         2620
       ],
       "label": "text",
-      "text": "We manufacture Lodge Regalia for every Fraternal Society. Cash or Installment Plan. Cheapest Badge House in the Country. Catalogue for your Society FREE."
+      "text": "We manufacture Lodge Regalia for every Fraternal Society. Cash or Installment Plan. Cheapest Badge House in the Country. Catalogue for your Society FREE.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        372,
+        246,
+        676,
+        769
+      ],
+      "label": "text",
+      "text": "am to expand his business and necessary compliments to each in hand, consequently the man of affairs of this in the watch for new territories for the commodities.\n\nin whose \"ad' appears it this image. Give it to them and The Denver Star. It en-tise in our race papers.ertise for your business for it or feel that without solicitation.\n\nPLUMBERS.\nM. C. Bradley, 609\u00bd 27th St.\nFive Points Plumbing Co.\u2014713 E.\n26th Ave.\n\nSHOE REPAIRING.\nNew Way\u20141857 Champa.\nWalter Cambers, 1023 18th street.\n\nSHINING PARLORS.\nEd Jackson\u20141626 Curtis St.",
+      "status": "ok"
     },
     {
       "bbox": [
         374,
-        246,
+        787,
         676,
+        1187
+      ],
+      "label": "text",
+      "text": "THEATERS\nGrand ..... 2017 Larimer St\nMidway ..... 1946 Larimer St\nCrescent ..... 2715 Welton St\n\nTAILOR.\nSanitary Clothes Cleaners, 2622 Welton street.\nSouthern ..... 2144 Stout St\nParis City ..... 601 W. 11th Ave\n\nUNDERTAKERS.\nDouglas Co.\u20141837 Arapahoe.\nA. M. Lawhorn\u20141921 Arapahoe.\n\nWATCH REPAIRING.\nWm. Volights\u2014611 27th St.\n\nWET WASH.\nSanitary\u20142535 Washington.\n\nMISCELLANEOUS BUSINESS.\nM. A. Yorty, Sunshine Lamp\u20142216 Larimer St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        372,
+        1208,
+        676,
+        1770
+      ],
+      "label": "text",
+      "text": "MRS. A: M. POPE-YURNBO\nPROPRIETOR\n\"Poro\" College\n3100 Pine St. St. Louis, Mo.\n\nTHE \"PORO\" SYSTEM of Scalp and\nHair treatment is based on the latest scientific and sanitary methods,\neffecting a healthy scalp thus promoting a growth of beautiful hair.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        380,
+        1770,
+        668,
         2041
       ],
       "label": "text",
-      "text": "am to expand his business and necessary compliments to each on hand, consequently the man of affairs of this watch for new and territories for the commodities.\n\nIn whose \"ad\" appeals it this mage. Give it to them and The Denver Star. It enlistise in our race papers.ertise for your business for it or feel that without solicitation.\n\nPLUMBERS.\nM. C. Bradley, 609\u00bd 27th St.\nFive Points Plumbing Co.\u2014713 E. 26th Ave.\n\nSHOE REPAIRING.\nNew Way\u20141857 Champa.\nWalter Cambers, 1023 18th street.\n\nSHINING PARLORS.\nEd Jackson\u20141626 Curtis St.\n\nTHEATERS\nGrand ...2017 Larimer St.\nMidway ...1946 Larimer St.\nCrescent ...2715 Welton St.\n\nTAILOR.\nSanitary Clothes Cleaners, 2622 Welton street.\nSouthern ...2144 Stout St.\nParis City ...601 W. 11th Ave.\n\nUNDERTAKERS.\nDouglas Co.\u20141837 Arapahoe.\nA. M. Lawhorn\u20141921 Arapahoe.\n\nWATCH REPAIRING.\nWm. Volights\u2014611 27th St.\n\nWET WASH.\nSanitary\u20142535 Washington.\n\nMISCELLANEOUS BUSINESS.\nM. A. Yorty, Sunshine Lamp\u20142216 Larimer St.\n\nMRS. A: M. POPE-TURNBO PROPRIETOR\n\"Poro\" College\n3100 Pine St. St. Louis, Mo.\n\nTHE \"PORO\" SYSTEM of Scalp and Hair treatment is based on the latest scientific and sanitary methods, effecting a healthy scalp thus promoting a growth of beautiful hair.\n\nThe \"Poro\" preparations used in connection with the treatment are made and sold exclusively by myself, having the exclusive right to that name; and I, alone, know the secret of the composition that bears that name. Our claim has always been that when the hair begins to grow as the result of the use of \"PORO,\" it will continue to do so if only the scalp and hair be kept clean. This sanitary method of treatment is also having the desired effect in helping to prevent the spread of diseases, for it is a fact that hair in an unsanitary condition carries the germs of disease which often prove fatal to innocent persons coming in contact with them.\n\nFor treatment, call on or address:"
+      "text": "The \"Poro\" preparations used in connection with the treatment are made and sold exclusively by myself, having the exclusive right to that name; and I alone, know the secret of the composition that bears that name. Our claim has always been that when the hair begins to grow as the result of the use of \"PORO,\" it will continue to do so if only the scalp and hair be kept clean. This sanitary method of treatment is also having the desired effect in helping to prevent the spread of diseases, for it is a fact that hair in an unsanitary condition carries the germs of disease which often prove fatal to innocent persons coming in contact with them. For treatment, call on or address:",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,27 +166,30 @@
         2073
       ],
       "label": "paragraph_title",
-      "text": "MRS. R. H. LEE"
+      "text": "MRS. R. H. LEE",
+      "status": "ok"
     },
     {
       "bbox": [
-        393,
+        372,
         2078,
-        657,
-        2142
+        676,
+        2450
       ],
       "label": "text",
-      "text": "1329 South Logan St., Denver.\nPhone Ellsworth 1773.\nAgent for \"PORO\""
+      "text": "1329 South Logan St., Denver.\nPhone Ellsworth 1773.\nAgent for \"PORO\"\n\nBusiness Phone\nGhampa 3262\n\nHARDWICK A\nBROOK OLIVER HARD\n[SERVICE BY] T\nSTAND AT ATLAS DRUG",
+      "status": "ok"
     },
     {
       "bbox": [
-        374,
-        2123,
-        676,
-        2506
+        372,
+        2450,
+        543,
+        2723
       ],
       "label": "text",
-      "text": "Agent for \"PORO\"\n\nBusiness Phone\nGhampa 3262\n\nHARDWICK-A\nOLIVER HARD\n[SERVICE BY]T\nSTAND AT ATLAS DRUG"
+      "text": "```markdown\n\n```",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +199,8 @@
         224
       ],
       "label": "paragraph_title",
-      "text": "MAKING GOOD IN NEW FIELD."
+      "text": "MAKING GOOD IN NEW FIELD.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,17 +210,41 @@
         265
       ],
       "label": "text",
-      "text": "Fine Record of Miss E. Leeda Hudson,\nWinner of Chamberlin Prizes."
+      "text": "Fine Record of Miss E. Leeda Hudson,\nWinner of Chamberlin Prizes.",
+      "status": "ok"
     },
     {
       "bbox": [
-        681,
+        684,
         256,
+        987,
+        664
+      ],
+      "label": "text",
+      "text": "Winner of Chamberlin Prizes.\nBrooklyn, N. Y.-Making good in a northern school, surrounded by new conditions, new faces and in a new line of work, is not always an easy task. But this is being appreciated by Miss E. Leola Hudson, the daughter of Professor and Mrs. R. B. Hudson of Selma, Ala., who is here attending Pratt institute. Miss Hudson is perhaps one of the most remarkable students that have entered Pratt, notwithstanding a long list of exceptional talent that has been found from year to year in this institution.\nWhile she comes from distinguished parentage, her father being secretary of the great national Baptist convention, secretary of the Baptist state convention of Alabama, treasurer of the endowment board of Odd Fellows of the state of Alabama and one of the secretaries of the Sunday school",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        686,
+        673,
+        990,
+        1238
+      ],
+      "label": "text",
+      "text": "MISS E. LEOLA HUDSON.\n\ncongress and for the past twenty-three years principal of the Clark high school of Selma. Miss Hudson has individualities and accomplishments that are distinctively her own.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        686,
+        1240,
         992,
         1698
       ],
       "label": "text",
-      "text": "Winner of Chamberlin Prizes.\n\nBrooklyn, N. Y.-Making good in a northern school, surrounded by new conditions, new faces and in a new line of work, is not always an easy task. But this is being accomplished by Miss E. Leola Hudson, the daughter of Professor and Mrs. R. B. Hudson of Selma, Ala., who is here attending Pratt institute. Miss Hudson is perhaps one of the most remarkable students that have entered Pratt, notwithstanding a long list of exceptional talent that has been found from year to year in this institution.\n\nWhile she comes from distinguished parentage, her father being secretary of the great national Baptist convention, secretary of the Baptist state convention of Alabama, treasurer of the endowment board of Odd Fellows of the state of Alabama and one of the secretaries of the Sunday school\n\nMISS E. LEOLA HUDSON.\n\ncongress and for the past twenty-three years principal of the Clark high school of Selma, Miss Hudson has individualities and accomplishments that are distinctively her own.\n\nShe finished the normal course at Selma university in 1908 and won high honors as valedictorian in a class of fifty-two. After leaving this institution she went to Atlanta, Ga., and finished the college preparatory at Spelman seminary in 1909. She graduated with honors from the college department at Moorehouse college, formerly Atlanta Baptist college, Atlanta, Ga., from which she received a scholarship prize.\n\nShe also finished from the domestic science department at Spelman seniary. She will specialize in household science, in order that she may be more thoroughly prepared. Miss Hudson preferred to do this before taking up her profession of teaching.\n\nFor two years in succession, 1912 and 1913, she won the Chamberlain Scriptural contest prize at Spelman. Miss Hudson has been offered some splendid positions already, but will remain here in Brooklyn to finish the prescribed course and then go back south, where she expects to render service to her people."
+      "text": "She finished the normal course at Selma university in 1908 and won high honors as valedictorian in a class of fifty-two. After leaving this institution she went to Atlanta, Ga., and finished the college preparatory at Spelman seminary in 1909. She graduated with honors from the college department at Moorehouse college, formerly Atlanta Baptist college, Atlanta, Ga., from which she received a scholarship prize.\n\nShe also finished from the domestic science department at Spelman seminary. She will specialize in household science, in order that she may be more thoroughly prepared. Miss Hudson preferred to do this before taking up her profession of teaching.\n\nFor two years in succession, 1912 and 1913, she won the Chamberlain Scriptural contest prize at Spelman. Miss Hudson has been offered some splendid positions already, but will remain here in Brooklyn to finish the prescribed course and then go back south, where she expects to render service to her people.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +254,8 @@
         2099
       ],
       "label": "text",
-      "text": "Kickapoo Indian Med. Co., Philadelphia or St. Louis.\nKICKAPOO WORM KILLER EXPELS WORMS.\n\nThe cause of your child's ills\u2014The foul, fetid, offensive breath\u2014The starting up with terror and grinding of teeth while asleep\u2014The sallow complexion\u2014The dark circles under the eyes\u2014Are all indications of worms. Kickapoor Worm Killer is what your child needs; it expels the worms, the cause of the child's unhealthy condition. For the removal of seat, stomach and pin worms, Kickapool Worm Killer gives sure relief. \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561"
+      "text": "Kickapoo Indian Med. Co., Philadelphia or St. Louis.\nKICKAPOO WORM KILLER EXPELS WORMS.\n\nThe cause of your child's ills\u2014The foul, fetid, offensive breath\u2014The starting up with terror and grinding of teeth while asleep\u2014The sallow complexion\u2014The dark circles under the eyes\u2014Are all indications of worms. Kickapoor Worm Killer is what your child needs; it expels the worms, the cause of the child's unhealthy condition. For the removal of seat, stomach and pin worms, Kickapool Worm Killer gives sure relief. \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561\u0575 \u0561",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,17 +265,19 @@
         2143
       ],
       "label": "text",
-      "text": "general system. Supplied as a candy confection\u2014childrnt like it. Safe and sure relief. Guaranteed. Buy a box"
+      "text": "general system. Supplied as a candy confection\u2014childrnt like it. Safe and sure relief. Guaranteed. Buy a box",
+      "status": "ok"
     },
     {
       "bbox": [
-        681,
+        825,
         2176,
-        992,
-        2522
+        979,
+        2219
       ],
       "label": "text",
-      "text": "RESIDENCE PHONE\nYork 2079\n\nAUTO SERVICE\nDWICK, Mgr.\nTRIP OR HOUR\nSTORE, 2701 WELTON ST.\n\nFor Your Lodge\nDE HAVE IT!"
+      "text": "Residence Phone York 2079",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +287,8 @@
         289
       ],
       "label": "doc_title",
-      "text": "BIG UPLIFT FOR RURAL SCHOOLS"
+      "text": "BIG UPLIFT FOR RURAL SCHOOLS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +298,8 @@
         394
       ],
       "label": "text",
-      "text": "Good Work Being Done by the Supervising Teachers."
+      "text": "Good Work Being Done by the Supervising Teachers.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,27 +309,63 @@
         456
       ],
       "label": "paragraph_title",
-      "text": "MANY IMPROVEMENTS MADE"
+      "text": "MANY IMPROVEMENTS MADE",
+      "status": "ok"
     },
     {
       "bbox": [
-        1003,
-        425,
-        1299,
-        456
+        999,
+        490,
+        1300,
+        992
       ],
       "label": "text",
-      "text": "MANY IMPROVEMENTS MADE"
+      "text": "Economic and Social Aspect of Educational Work In One Hundred and Thirty Counties In the Southern States Reviewed by State Supervisor Jackson Davis of Virginia.\n\nHow industrial training, under a system of supervising industrial teachers, has not only vitalized the rural schools among the colored people into which it has been introduced, but is also having farreaching economic and social effects on rural conditions generally, is described by Jackson Davis, state supervisor of elementary schools in Virginia, in the Southern Workman. Mr. Davis says in part:\n\n\"A few efforts had been made here and there throughout the south to tie up the work of the country school to the life of the home and the farm, but it was not until the establishment of the Jeanes fund for rural schools that a general effort was made in this direction. In Henrico county, Va., in the fall of 1908, following a conference of the school officials of the county with agents of the Jeanes fund, a supervising industrial teacher was employed and put to work in all of the colored schools of the county.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1000,
+        993,
+        1300,
+        1410
+      ],
+      "label": "text",
+      "text": "\"The pioneer work of Virginia Randolph in overcoming the indifference of her own people, organizing improvement leagues at each school, introducing simple forms of industrial work and in the enlistment of the active interest of the white people in these efforts for improvement in practical ways, met with such success that a new spirit was soon ablaze in each colored community, and the schools were transformed in appearance and in the general character of their work.\n\n\"The general plan, so successful in its early demonstration, has continued to grow and meet with approval. It has developed initiative among the colored rural people, and it has tied their interests together in a school for a better neighborhood. The moral effect has been noticed by the white people around them and their support of this movement has been hearty. Supervising industrial teachers were employed in 130 counties in the southern states last session.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1001,
+        1411,
+        1302,
+        1821
+      ],
+      "label": "text",
+      "text": "\"This work has been made possible in most cases by the Jeanes fund, but the counties, as they see the splendid results, are putting up more money from local funds for the support of the work, and in some counties the teacher's salary is paid entirely from local school funds. In sending out trained teachers to supervise the rural schools we are putting the best leadership of the Negro race to work in the task of bringing about better training, better farming and better living.\n\n\"The school is almost the only point where conscious effort is made by the white people to influence and develop the Negro race, and here is a great opportunity for constructive work, as indeed the supervising teachers are showing. In organizing the school improvement leagues they are bringing the older people together in the interest of better things and are calling forth the spirit of self help, which is indispensable to their progress.\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        997,
+        1823,
+        1298,
+        2255
+      ],
+      "label": "text",
+      "text": "\"One of the most promising developments in the work has been the cooperation of the supervising industrial teacher with the farm demonstration agent in working during the summer months with clubs of girls who make home gardens and can their vegetables and fruits for winter use. This feature of the work was begun in Virginia two years ago in four counties. During the past summer it was carried on in fourteen. Under this plan the industrial teachers are employed for the entire twelve months. At the close of the school term they organize garden clubs among the larger girls. They visit them in their homes, meet them in groups, give them practical instruction for their gardens and teach canning, cooking and sewing in their homes.\n\n\"The teachers are in great demand during the summer months, not only among the girls, but among their mothers as well, for they, too, have been eager to learn the 'government war' of canning vegetables.",
+      "status": "ok"
     },
     {
       "bbox": [
         993,
-        490,
-        1302,
+        2257,
+        1296,
         2707
       ],
       "label": "text",
-      "text": "Economic and Social Aspect of Educational Work In One Hundred and Thirty Counties In the Southern States Reviewed by State Supervisor Jackson Davis of Virginia.\n\nHow industrial training, under a system of supervising industrial teachers, has not only vitalized the rural schools among the colored people into which it has been introduced, but is also having farreaching economic and social effects on rural conditions generally, is described by Jackson Davis, state supervisor of elementary schools in Virginia, in the Southern Workman. Mr. Davis says in part:\n\n\"A few efforts had been made here and there throughout the south to tie up the work of the country school to the life of the home and the farm, but it was not until the establishment of the Jeanes fund for rural schools that a general effort was made in this direction. In Henrico county, Va., in the fall of 1905, following a conference of the school officials of the county with agents of the Jeanes fund, a supervising industrial teacher was employed and put to work in all of the colored schools of the county.\n\n\"The pioneer work of Virginia Randolph in overcoming the indifference of her own people, organizing improvement leagues at each school, introducing simple forms of industrial work and in the enlistment of the active interest of the white people in these efforts for improvement in practical ways, met with such success that a new spirit was soon ablaze in each colored community, and the schools were transformed in appearance and in the general character of their work.\n\n\"The general plan, so successful in its early demonstration, has continued to grow and meet with approval. It has developed initiative among the colored rural people, and it has tied their interests together in a school for a better neighborhood. The moral effect has been noticed by the white people around them and their support of this movement has been hearty. Supervising industrial teachers were employed in 130 counties in the southern states last session.\n\n\"This work has been made possible in most cases by the Jeanes fund, but the counties, as they see the splendid results, are putting up more money from local funds for the support of the work, and in some counties the teacher's salary is paid entirely from local school funds. In sending out trained teachers to supervise the rural schools we are putting the best leadership of the Negro race to work in the task of bringing about better training, better farming and better living.\n\n\"The school is almost the only point where conscious effort is made by the white people to influence and develop the Negro race, and here is a great opportunity for constructive work, as indeed the supervising teachers are showing. In organizing the school improvement leagues they are bringing the older people together in the interest of better things and are calling forth the spirit of self help, which is indispensable to their progress.\n\n\"One of the most promising developments in the work has been the cooperation of the supervising industrial teacher with the farm demonstration agent in working during the summer months with clubs of girls who make home gardens and can their vegetables and fruits for winter use. This feature of the work was begun in Virginia two years ago in four counties. During the past summer it was carried on in fourteen. Under this plan the industrial teachers are employed for the entire twelve months. At the close of the school term they organize garden clubs among the larger girls. They visit them in their homes, meet them in groups, give them practical instruction for their gardens and teach canning, cooking and sewing in their homes.\n\n\"The teachers are in great demand during the summer months, not only among the girls, but among their mothers as well, for they, too, have been eager to learn the 'government way' of canning vegetables.\n\n\"Either as tenants, owners or laborers the colored people cultivate farms in the south with an area of 100,000 acres. This is an area equal to four times the state of Virginia. Much of this land, as we know, is cultivated in the very poorest fashion. We shall have a oneided cultivation as long as we have twentieth century methods in our cities and eighteenth century methods on our farms.\n\n\"If we deny the Negro the training which he needs to make a better citizen and a better man and a better farmer, we suppress our rural life and hold down our average to a lower level and we continue to have him wear out the soil which is our greatest natural wealth. Training of the right kind that will replace obsolete methods with intelligent methods, that will replace sanitary cabins with good dwelling houses, neglected shacks with attractive schoolhouses and an intelligent work for the coming of the kingdom of God on earth\u2014this is the rural civilization which some think must be wrought as by a miracle.\""
+      "text": "\"Either as tenants, owners or laborers the colored people cultivate farms in the south with an area of 100,000, 000 acres. This is an area equal to four times the state of Virginia. Much of this land, as we know, is cultivated in the very poorest fashion. We shall have a oneided cultivation as long as we have twentieth century methods in our cities and eighteenth century methods on our farms.\n\n\"If we deny the Negro the training which he needs to make a better citizen and a better man and a better farmer, we suppress our rural life and hold down our average to a lower level and we continue to have him wear out the soil which is our greatest natural wealth. Training of the right kind that will replace obsolete methods with intelligent methods, that will replace insanitary cabins with good dwelling houses, neglected shacks with attractive schoolhouses and an intelligent work for the coming of the kingdom of God on earth\u2014this is the rural civilization which some think must be wrought as by a miracle.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +375,8 @@
         453
       ],
       "label": "text",
-      "text": "Coal, Lump per Ton, $6.00, $6.50, $7.00\n5 Sacks of Nut, 1.00\n5 Sacks of Lignite Soft Lump, 1.00\n4 Sacks of Hard Lump, 1.00\nWOOD, per Sack, .10\n\n1117 22nd Street, Between Arapahoe and Lawrence"
+      "text": "Coal, Lump per Ton, $6.00, $6.50, $7.00\n5 Sacks of Nut, 1.00\n5 Sacks of Lignite Soft Lump, 1.00\n4 Sacks of Hard Lump, 1.00\nWOOD, per Sack, .10\n\n1117 22nd Street, Between Arapahoe and Lawrence",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +386,8 @@
         528
       ],
       "label": "paragraph_title",
-      "text": "THE LEADER"
+      "text": "THE LEADER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +397,8 @@
         709
       ],
       "label": "text",
-      "text": "We are now pleased to announce to the public that we are located at our new home, 2108 Larimer street, in quarters more commodious and convenient. We have an especially fine line of hair goods and toilet accessories. Hair dressing according to the latest modes. A call is all we ask, as we are sure we can please you."
+      "text": "We are now pleased to announce to the public that we are located at our new home, 2108 Larimer street, in quarters more commodious and convenient. We have an especially fine line of hair goods and toilet accessories. Hair dressing according to the latest modes. A call is all we ask, as we are sure we can please you.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,27 +408,19 @@
         836
       ],
       "label": "text",
-      "text": "HALLOWELL AND JOHNSON\nMrs. Viola Johnson, Prop.\nJ. R. Hallowell, Manager"
+      "text": "HALLOWELL AND JOHNSON\nMrs. Viola Johnson, Prop.\nJ. R. Hallowell, Manager",
+      "status": "ok"
     },
     {
       "bbox": [
-        1310,
+        1458,
         755,
         1767,
         1043
       ],
       "label": "text",
-      "text": "Artists Ele\nW. D. Smith\nG. C. Craig\nBolden Bros. Ba\nRUFUS BOLDEN\nQUICK SERV"
-    },
-    {
-      "bbox": [
-        1458,
-        908,
-        1767,
-        1043
-      ],
-      "label": "text",
-      "text": "Bolden Bros. Ba\nRUFUS BOLDEN\nQUICK SERV"
+      "text": "Artists Ele\nW. D. Smith\nG. C. Craig\nBolden Bros. Ba\nRUFUS BOLDEN\nQUICK SERV",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,17 +430,30 @@
         1003
       ],
       "label": "text",
-      "text": "Bolden Bros. Barber Shop RUFUS BOLDEN, Manager"
+      "text": "Bolden Bros. Barber Shop RUFUS BOLDEN, Manager",
+      "status": "ok"
     },
     {
       "bbox": [
         1310,
         1043,
         1645,
+        1091
+      ],
+      "label": "text",
+      "text": "926 NINETEENTH STREET Near Curtis",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1310,
+        1091,
+        1645,
         2626
       ],
       "label": "text",
-      "text": "MONEY T\nChat\nOne Month'\nFree\n\nWe loan lots of money to an\n$25, $30, $40, $50, $65, $75, $90,\nniture, pianos, sewing machines,\nfarm implements, store fixtures, i\nthing else of value, all left in you\nprivate and quick; in one hour a\nauto go any place.\n\n2945 Larime\nPhone Main 1083 Office\n\nC. H. SHIRLEY, Pres\nPAUL J. SHIRLEY\n\nThe Atlas\nIncorpor"
+      "text": "MONEY TO\nChat\n\nOne Month' s\nFree\n\nWe loan lots of money to an\n$25, $30, $40, $50, $65, $75, $90,\nniture, pianos, sewing machines,\nfarm implements, store fixtures, in\nthing else of value, all left in yo\nprivate and quick; in one hour a\nauto go any place.\n\n2945 Larime\nPhone Main 1083 Office\n\nC. H. SHIRLEY, Pres\nPAUL J. SHIRLEY\n\nThe Atlas\nIncorpor",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +463,8 @@
         2626
       ],
       "label": "text",
-      "text": "NEY TO LO\nChattels\nMonth's Int\nFree\n\nof lots of money to anybody, like\n$50, $65, $75, $90, $100 or more\nsewing machines, ranges, team\nants, store fixtures, income land\nvalue, all left in you possession\nrick; in one hour all done; please\nace.\n\n2945 Larimer Street\n083 Office Hours 10\n\nRLEY, Pres J. C. HAM\nPAUL J. SHIRLEY, Sec. and T\n\nne Atlas Drug\nIncorporated"
+      "text": "NEY TO LO\nChattels\nMonth's Int\nFree\n\nof lots of money to anybody, like\n$50, $65, $75, $90, $100 or more\nsewing machines, ranges, team\nants, store fixtures, income land\nvalue, all left in you possession\nrick; in one hour all done; please\nace.\n\n2945 Larimer Street\n083 Office Hours 10\n\nRLEY, Pres J. C. HAM\nPAUL J. SHIRLEY, Sec. and T\n\nne Atlas Drug\nIncorporated",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +474,8 @@
         1693
       ],
       "label": "doc_title",
-      "text": "MONEY TO LOAN Chattels"
+      "text": "MONEY TO LOAN Chattels",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +485,8 @@
         2116
       ],
       "label": "text",
-      "text": "We loan lots of money to anybody, like $10, $15, $20, $25, $30, $40, $50, $65, $75, $90, $100 or more, on your furniture, pianos, sewing machines, ranges, teams, cattle, dairies farm implements, store fixtures, income lands, lots, or anything else of value, all left in you possession; very secret, private and quick; in one hour all done; plenty clerks and auto go any place. 2945 Larimer Street Phone Main 1083 Office Hours 10 a. m. to 3 p. m."
+      "text": "We loan lots of money to anybody, like $10, $15, $20, $25, $30, $40, $50, $65, $75, $90, $100 or more, on your furniture, pianos, sewing machines, ranges, teams, cattle, dairies farm implements, store fixtures, income lands, lots, or anything else of value, all left in you possession; very secret, private and quick; in one hour all done; plenty clerks and auto go any place. 2945 Larimer Street Phone Main 1083 Office Hours 10 a. m. to 3 p. m.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +496,8 @@
         2492
       ],
       "label": "text",
-      "text": "C. H. SHIRLEY, Pres J. C. HAMPSON, V..P. PAUL J. SHIRLEY, Sec. and Treas."
+      "text": "C. H. SHIRLEY, Pres J. C. HAMPSON, V..P. PAUL J. SHIRLEY, Sec. and Treas.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +507,8 @@
         2780
       ],
       "label": "text",
-      "text": "Leaders in Prescriptions\no.1 Sto\nTON ST. 6th AN"
+      "text": "Leaders in Prescriptions\no.1 Sto\nTON ST. 6th AN",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +518,19 @@
         2739
       ],
       "label": "text",
-      "text": "Store No.1\n2701 WELTON ST."
+      "text": "Store No.1\n2701 WELTON ST.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1315,
+        837,
+        1512,
+        1027
+      ],
+      "label": "text",
+      "text": "A. J.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +540,8 @@
         839
       ],
       "label": "text",
-      "text": "---"
+      "text": "---",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,17 +551,30 @@
         1044
       ],
       "label": "text",
-      "text": "os. Barber Shop BOLDEN, Manager KICK SERVICE"
+      "text": "os. Barber Shop BOLDEN, Manager KICK SERVICE",
+      "status": "ok"
     },
     {
       "bbox": [
         1686,
         1091,
         1925,
+        2692
+      ],
+      "label": "text",
+      "text": "LOAN\nels\nInterest\n\nbody, like $10, $15, $20,\nor more, on your fur-\nges, teams, cattle, dairies\nme lands, lots, or any-\nossession; very secret,\none; plenty clerks and\n\nstreet\nhours 10 a. m. to 3 p. m.\n\nC. HAMPSON, V.-P.\nc. and Treas.\n\nrug Co.\n\nscriptions",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1686,
+        2692,
+        1908,
         2742
       ],
       "label": "text",
-      "text": "LOAN\nmels\nInterest\n\ndy, like $10, $15, $20,\nor more, on your fur-\nges, teams, cattle, dairies\nme lands, lots, or any-\npossession; very secret,\none; plenty clerks and\n\nstreet\nhours 10 a.m. to 3 p.m.\n\nC. HAMPSON, V.-P.\nc. and Treas.\n\nrug Co.\n\nscriptions\n\nStore No. 2\n6th AND WELTON"
+      "text": "Store No.2\n6th AND WELTON",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +584,8 @@
         886
       ],
       "label": "text",
-      "text": "Electrical Massage Baths"
+      "text": "Electrical Massage Baths",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +595,8 @@
         1091
       ],
       "label": "text",
-      "text": "DENVER, COLO Phone Main 4052"
+      "text": "DENVER, COLO Phone Main 4052",
+      "status": "ok"
     }
   ]
 }

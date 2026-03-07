@@ -1,3 +1,8 @@
+Room Rent
+Advertise your rooms in this
+column. We rented over
+4,000 rooms last year.
+
 # FURNISHED ROOMS FOR RENT
 FRANKLIN
 FAMILY HOTELS
@@ -84,18 +89,29 @@ ple; also plus for bachelor. Phone
 445 E. 48TH PL. APT. 3 - MODERN ROOMS.
 furnished or unfurnished. Call eagle calls.
 
-INDIANA AV, 4511, 4512 FLAT-FURN, HJRE, BIETIarly modern; gentlemen preferred, Dreser.
-61. LAWRENCE AV, 4444, 4534 FLOUR-FURN, purrished room for couple, Heimo, Steam heat, electric lights.
-VERONA AV, 4513, NEATLY FURN, ROOMS for married and married couples, Kitchen privileges, Respectable only.
-LARGE, LIGHT, STEAM HEATED AND MICRO, Dishroom, electric lights, and surface, Went, 9090.
-FORESTVILLE AV, 4538, 4539 FURN, room, steam, electric lights; hostelle, Ken. 1500.
-INDIANA AV, 4511, 4512 HOOMS for RENT; also rooms for light housekeeping. Furished furnished, Ken. 6258.
-FORESTVILLE AV, 4538, 4539 FURN, room, steam, electric lights; hostelle, Ken. 1500.
-PRAIRIE AV, 3221, 321 DFT-FURN, ROOMS for large or two people; steam bream. 8125.
-CALUMET AV, 4401-FURN, ROOMS, hot and cold water, steam and electric lights; hostelle, Ken. 1500.
-LAWRENCE AV, 4840, 4830 DFT-MODERN furn, room, Kitchen privileges, Ken. 1500.
-WINEN AV, 4501, 4512 AFT-FURN, ROOMS, steam heat, electricity, Near Grand Bldd, Oak. 5802.
-WINEN AV, 4501, 4512 A
+[OCR timeout]
+
+MICHIGAN AV, 3310, 187 APT—FURN, RMS.
+halloween men preferred.
+MICHIGAN AV, 3310, 187 APT—FURN, RMS.
+all concouecues. Private family. Doug, 740.
+BLENWOOD AV, 3280—NATLYFURN, RMS.
+man and wife or single men. Doug, 7170.
+ELLIAS AV, 3227—BEAUTIFULLY FURN.
+large room with kitchenette.
+ELLIAS AV, 3227—BEAUTIFULLY FURN.
+to gentianite. Private family. Doug, 3501.
+INDIANA AV, 4230, 20 APT—2 LARGE FURN-
+ished rooms; gentlemen preferred.
+NEATLYFURN. ROOMS WITH MODERN
+GALISTER AV, 2930, IGON FURN DES-
+pectable man and wife. Doug, 6003. 18-29
+WADASHI AV, 3813—FURN, RMS. 40, CALL
+Sunday after 8 p. m. Normal 4760.
+PAIRIA AV, 3811—FURN. ROOM AND
+STUDENTS. Doug, 6001.
+INDIANA AV, 4551, 20 FL-FURN. BMS.
+Modern. Drex, 1748.
 
 SOUTH AIR AVE. 315G- FURN. ROOMS, ON 13
 WASHIAS HAV. 315G- NELLY FURN. LIGHT,
@@ -447,8 +463,6 @@ selling our made to measure suits.
 
 WANTED- BY JUNE 1, 1920, 0,000 DLHENDER readers-to represent us to your own home office and to advertise Wilfred's "Jillmentary toys and games" to you. We work will secure for you an income for life. Paid from our profits. Many are receiving from our office. We also serve bottlenecks and particulars. Be among the first. We do as we say or refund your money. Address P. O. Box 658. 50 Malto St., Birchgrove P. O. Box 658. 8-15-23 ALL THE MONEY YOU WANT AGENTS AND COLLECTORS WANTED TO MAKE to measure. Every man should offer for free samples, new titles and agents暂行. Agents and Collectors Taelling Co. Dept. 234, Chicago, IL. AGENTS AND COLLECTORS WANT
 
-$80 suit offer. Made to measure. Every man should write for free samplers, new styles and new products. Tailoring Co. Dept. 284, Chicago, IL. To 10,000 LADIES TO NELS SCALE SNAIL PHPRPATIONS. Needed in every community. Hire 652, Malvern, Ark. 24-18-13
-
 10.000 DN: XN: YN: YN: KA:CA:CA:TN:TH:TH
 DN: XN: YN: YN: KA:CA:C
 
@@ -467,6 +481,8 @@ Chicago.
 PERSONAL
 PYA MALONE, CALL AT 3100 INDIANA AV,
 and 280 SQUARE, MEDY order.
+
+THE CHICAGO DEFENDER
 
 8-Broom brick house, furnace heat,
 hardwood first floor, every room off
@@ -650,6 +666,10 @@ MUSICAL AND DRAMATIC
 GOOD TRAINER WANTS POSITION.
 Chris, C. Orweg, 3355 Forest Ave, Milwaukee, WI.
 
+```markdown
+
+```
+
 # HUDSON
 SEDAN
 
@@ -733,9 +753,13 @@ Mrs. Ophelia Turner, beloved wife of J. J. Turner, died April 30 at 8:45 am, in 
 
 I wish to thank the Robert Mitchell Local No. 11, K. of K, Troop B, K. of K, Troop B, K., to Olive Branch F, A. M, Ivy Dr. Scott of Grant Memorial Chapel, and to many solicitous friends for their kindness rendered during the bereavement of the beloved husband, George H. Lewis, who died May 6—Mrs. Corn Lewis, Wife.
 
-A great many people have become rich, not through any particular effort or self-improvement, but in spite of themselfs own, but in spite of themselfs own, for instance, many bought lots and little parcels of land for a mere pitrance and had sense enough to hold a hundred million dollars. It has been repeatedly demonstrated that an investment in real estate is the safest and most profitable and had supremely growth of Chicago in recent years. From a population of none to $8,000 in 15 years is rather a remarkable showing; from buying land at $10 an hour to buying it at $20 a foot is also something to ponder over. But this is the history of Gary, Ind.
+[OCR timeout]
 
-They say fortune knocks at your door showing, from buying land at $10
+MINISTERS' GATHERING CLOSES
+Memphis, Tenn., May 14--Members of the Tennessee State Conference of Congregational Churches and the Second Congregational church of this city at 742 Walker ave., brought their conference to a close with the conclusion of the day's program included the sermon and holy communion by Rev. O. Howard McGown of Little Rock, Ark.
+
+Have a Complexion Like a Rose
+Use Dr. Pryor's JAPO Wonder Bleaching Cream. The greatest skin condition produces a soft, velvet complexion. Price 85c. Terms to agents.
 
 Pryor Chemical Co., 3219 S. State
 St. Chicago—Advt.
@@ -774,17 +798,9 @@ By Mrs. Ida M. Scott, daughter, Cleveland, Ohio; Mrs. Laura Henderson, daughter,
 
 ## MATTIE WRIGHT
 
-Mattie Wright departed this life May 18, 1917, in Atlanta, Ga. In sad and memory of my dear, precious mother, I remember my dear and too home to glory three years ago today, Sleeping, mother dear, peacefully, Sleeping in Jesus' tender care; Mother, oh how sad and too My life is. since you left me. We shall meet to part no more the golden former gate. Love I have earned. Your loving child, ANNIE E. APPLEY. —Adult.
+[OCR timeout]
 
-In loving memory of my dear mother, Mrs. Corter, who died May 16, 1919. In St. Louis cementy softly sleeping lies the one we love so dearly, where flowers gently wave on her lonely, it be. Ive longed for their; I count the days every one apart, and, oh mother, how it breaks my heart. Memory is how I remember the evening she died. I offered her to own. One more soul has gone to rest, one more angel added to glory. Mother, dear, God knows best." Your loving daughter, Mrs. Hettie C. Leo.
-
-In sad and loving memory of my dear mother, Mrs. Marina Anderson, who died one year ago, 16, 1919. In my memory the evening she died. Mary Dixon, who have left me, gone to heaven with Christ to Live, soon, alright, I too, will follow, with my greatest daughter, Hera Anderson.
-
-In sad remembrance of Will H. Dixon, who died our hearts 14, 1917. Leaving sadness in our lives, we loved him to the point of calling him theomb. We will try to meet him.—Mary Dixon, mother to brother W. Dixon and Harry Dixon, brother; Estella Robinson, sister.
-
-In memory of William Wade, who died May 7, 1919. "Thou art gone to the grave, but you will not deplore the tombs, but you will compass the tomb. The Savior has passed through the portals before thee, and the light of His love is thy guide through the gloom."—Mother, Brother and Sister.
-
-In sad and loving mem
+[OCR timeout]
 
 ## Mrs. Ida Sykes Wanted
 
@@ -957,6 +973,8 @@ Amateur of the Colored race in
 America." Editor of
 America." Editor of
 America."
+
+M. C. H.
 
 Tunkesau, Ala., Dec. 21
 The Editor of *Daily News* "Mr.

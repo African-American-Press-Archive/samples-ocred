@@ -42,25 +42,71 @@ Mudarcher and DeMoss were the stars with the willow, each securing three blits. 
 
 ## 'ROUND THE BASELINES
 
-Norfolk, Va., May 14.—The All Stars of this city, under the management of Chappie Johnson, and having such well-known American Giants, Wickarew, Gatwood, together with a bunch of young blood, and having much success and are taking all content up to the right side of the series of games with the famous Royal Giants of Brooklyn, John Loyd manager, and having series tabbed on the right side of the famous City Giants, the Madison Stars of Philadelphia, Pa., and other clubs to the right side of the famous Hillside and the results are expected to be same.
+Norfolk, Va., May 14—The All Stars of this city, under the management of Chappie Johnson, and having such well-known American Giants, Wickwire, Gatwood, together with a bunch of young blood, so having much success and are taking all series of games with the famous Royal Giants of Brooklyn, John Loyd manager, and already have a series tabbed on the famous City Giants, the Madison Stars of Philadelphia, Pa., and other clubs; to take on have won 12 of the 15 played. Wesley Johnson, the famous Hillsdale and the results are expected to be same.
 
-**14.**—An athlete meet by representatives from many of the high schools of Indiana town will be born tomorrow at the fair grounds. A 100-year-old guard, 292-pound pauvole, high jump, running jump and a baseball game will be the crowd.
+Pinecone, Ind., May 14—An athletic team has won 12 of the 15 played. The high schools of Indianapolis will be held tomorrow at the fair grounds. A 60-yard dash, 50 yards go, mile race, joel roll, jump and a baseball game will be the events on tap.
 
-**15.**—Underwriters Baseball team lost a hard fought game to one of the strong intercity teams out at Schorling park; the crowd going a little too stiff for his early spring condition, and was forced to give way to a hurler known as "Ted" who found the going a little too stiff for his slab, and the Underwriters managed to go to a mino fright content, which the crowd played down at LaPorto Ind., Sunday, May 16.
+Downers Grove's Baseball team lost a tough fringe game to the intercity teams out at Schorling park; the Underwriters' starter on the slab for the game too loo for the slab, and the Underwriters' contest was won to give way to a hurler known as "Red" Thompson; the latter found the leaguers to go to a nine-finger contest, which they lost by score of 4-3. The Insurance event down at La Porte Ind., Sunday, May 14.
 
-**16.**—Elkhorn Giants not away to a bad state their first game of the season by the score of 6-3. Many now players are on the roster now enchanted by a team that will measure up to the best in a short while. Address, L. B. Barnes, Elkhorn, Ind.
+Elkhart, Ind., May 14—The Elkhart Giants got away to a bad start and lost the contest by score of 6-3. Many now players are on route here, so the Giants expect to have a team that will measure up to the best in the league. Address, L. B. Barnes, Elkhart, Ind.
 
-**17.**—Ma, May 14.—Dan McCellan, the old time left hand pitcher, in having much success with the Madison Stars of this city. Besides the fifty now enchanted in they are batting all teams that invade their potential domain. The Stars get credit for the first hit now enchanted in they are batting all teams that invade their potential domain. Crowder, with Jack Watts, the old A. B. C.'s catcher handling the full route. Crowder, with Jack W
+Philadelphia, Pa. May 14—Dan McClain, the old-time left hand pitcher, will be honored on Sunday by son Stars of this city. Besides the fifty thousand dollar home that the team is building, he will be the team's teams that invade their palatial domain. The Stars get credit for the first hit game of the season, the pitcher going 18-10. A. B. C.'s catcher Watts, the old A. B. C.'s catcher huddling his delivery, shut Lincoln University from the ball. Hampton, Va. May 14—The Howard Bauschall team defended for the second this season—1 to 3 in an 11-inning game.
 
 Five double plays were made during the game, four by Hampton and one by Rivers. The game were the playing of Hampton's inflicted and the pitching of Brown for Howard.
 
 ## DAYTON MARCOS WIN
 
-Dayton, Ohio, May 14—The Marcos, representatives of this city in the new baseball league, downed the fast Weidemann of Cincinnati, Ohio, in a long drawn out game; heavy swaiting on the first pitch; five pine linnings, resulting two hours before a decision was reached. The Marcos won by the score of 10 to 9. Gray started on the slab for the home club, who was headed by Britt, who entered the first pitch. The Marcos test and succeeded in guiding out six of the visitors during his brief stay upon the slab. The Marcos pulled off some fast play, engineering a fast double play in a tight place and saved the first pitch. The Marcos leave for Chicago, the latter part of the week, where they engage the American Giants in a series of games, the first series the locals will have played in the new baseball circuit. The Marcos swait around the circuit before they return and they have a team that is expected to make a great showing for this city in the new league. The score: 1 2 3 4 5 6 7 8 9 RIH Marcos.....1 2 3 4 5 6 7 8 9 RIH Weidemann.....1 2 3 4 5 6 7 8 9 RIH Weidemann.....1 2 3 4 5 6 7 8 9 RIH Two base hits--Hitter, Derrick Lane, Three base hits--Stutt, Derrick Lane, Three base hits--Stutt, Derrick Lane, Cunningham to Taylor to Gray, 1 off-base on balls to Gray, 1 off-base on balls to G
+Dayton, Ohio, May 14—The Marcos, representatives of this city in the new baseball league, downed the fast Weldemans of Cincinnati, Ohio, in a long drawn out game; heavy swatting by the game caused the game to go binge limbing; and the players forciblya decision was reached. The Marcos won by the score of 10 to 9. Gray started on the slab for the home club, but was relieved by Britt, who entered Gray light in the heat of the contest. The players of the visitors during his brief stay upon the slab. The Marcos pulled off some fast playing, engineering a fast double play in a tight place and saved the game for the local gang. The players of the week Chicago often questioned the American Giants in a series of games, the first series the locals will have played in the new baseball circuit. The Marcos will take a short break around the circuit before they return and expected to make a grand showing for this city in the new league. The score: 1 2 3 4 5 6 7 8 9 R H E Marcos .... 1 2 3 4 5 6 7 8 9 ...10 R H E Weldemans 1 1 2 1 1 4 0 00 - 91 1 5 Weldemans 1 1 2 1 1 4 0 00 - 91 1 5 Three base hits-Britt, Stubble, Doubly play-Cunningham to Taylor to Hocker. Base on balls-Off Gray, 1; off Nelson, 3. Struck out-By Gray, 2; by Britt, 6; by Nelson, 4.
+
+GIANTS AND TESREAU'S DIVIDE
+
+The Bacharach Giants and Jeff Tesreau's Bears split even in their double-bear host Sunday at Deckman oval, the home of both teams in the first game and allowing Big杰 to trim them in the sunset tilt. Seven thousand five hundred persons witnessed the games, and is said to be the largest crowd to witness a game on a baseball field. The fact of both games was the number of home runs collected by both teams, Redding, who started the first game, was in super form and allowed Jeff team only two hits, while the white team only one. The fourth inning the first two Bacharach batters up made clean home runs over the center field fence. In the second game, although Roohaw, Yank and Brown collected homers, Tesreau and the Emeralds in a double-bender at the oval. Both teams have suffered, defeat this season on the balls, and will no doubt, be out for revenge. Bach, Giants.....0 0 1 1 0 1 1 0 0-1
+Bacharach, Bears.....0 3 1 0 1 1 0 0-4
+SECOND GAME
+
+RHLK
+Tesreau's Bears...0 0 1 1 0 1 1 0 0-1
+Bacharach, Redding, Trewell and Yank; Barke, Mc Murray, Walters, Brady and Hankwhite.
+
+DOUGLAS 3884 DOUGLAS 8889
+Calumet Billiard Parlors
+TWENTY-SEVEN PERFECT TABLES NO WAITING
+HEADQUARTERS FOR CUE EXPERTS FROM IN AND OUT
+OF CHICAGO
+KIRBY ANDERSON, MGR. 315-317 E. 35TH ST.
+
+SATURDAY, MAY 15, 1920
 
 ---
 
-hit ball in the game. Next Sunday the Dayton Murens will oppose the American Giants and the fur will fly, as the Giants are still smarting from that 4 to 9 defeat handed them by this team last year and are out for sweet game. Following is the box score of the game:
+Puts
+Chicago Giants
+
+control Goes Bad and
+les Up Big Lead
+
+hit ball in the game. Next Sunday
+the Dayton Marcos will oppose the
+American Giants and the fur will fly,
+as the Giants are still smarting from
+that 4 to 0 defeat handed them by this
+team last year and are out for sweet
+revenge. Following is the box score of the
+game:
+
+CHICAGO GIANTS
+AM. GIANTS
+
+W.Green, 3b. 0 1 1 0 AA
+W.White, 1f. 0 0 0 0 Rece, If. 1 1 0 0
+Winston, 1f. 0 0 0 0 Melcherber, 3b. 3 2 5
+Jenkins, cf. 0 0 0 0 Torfentall, cf. 1 1 0
+Rockwitt, c. 0 1 3 0 Dixon, c. 1 1 0 7
+White, b. 2 1 13 1 Grant, b. 1 11 0
+Jeffries, ss. 1 1 1 4 Will, ss. 0 1 2 5
+Hrown, p. 0 0 0 0 T. Wiley, p. 0 0 0
+
+Totals... 3 6 21 11 Totals... 5 12 21 11
 
 Chicago Giants,.....0 0 0 0 0 0 0 1-3 1 1 1
 American Giants,.....0 0 0 0 0 0 0 1-0 x-1 1 1
@@ -113,9 +159,25 @@ This year the Marcos have a team composed of just enough youngsters with a sprin
 
 Britt downed the A. B. C.'s a few seasons ago in an exhibition game with the American Glants at Cincinnati; then he hurled for the A. B. C.'s and put the kibosh on the Cuban Stars, that can be deposited upon to show class in any sort of going, while their infeld has a Little hob best of the majority of the circuit to date. Cum- tion is short, then Jim Taylor at seasick with Hockey frames up in experience, holding and general class to a level with any of the inner works on the new circuit. Center Fielder Brown is one of the players today, while Gray and Lane are young pitchers that will be heard from as they carry the goods that are bound to earn ready recognition of their prowess. Like the majority of the clubs, the Marcos have been fortunate in securing backstop material; Wingdell, the first string man, is said to measure up to the best forms that will be shown here for a series and there is going to be a real battle, especially the games that Britt works, as Ruble always wants to beat a man who will not be anxious to show that he is just as anxious to show that he is ready for the purpose of getting a chance now and then to down the Foster gray.
 
-Columbus, Ohio, May 14 — Jackie Hickey, the backup light weight that the Buckeye state turned out, has fought upwards of a 10-5 over his team in a returned from a successful tour of the East, where he met and held his own in the weight; he is expecting to take on the crack Lee Johnson out at Neal park here in Columbus, Jackie Moore, 230 Cleveland avenue.
+Columbus, Ohio, May 14.-Jackie Moore, the boy rated in the host light wellday of the Easter Sunday, turned out, has fought upwards of a hundred or more battles; he has just returned from a successful tour of the host, where he met and held his own with some of the classiest men of his酵phe. He is expecting it take on the crack Lee Johnson out at Neal park soon. Address: Jackie Moore, 230 Cleveland Avenue.
+
+DOUGLAS 8889
+
+iard Parlors
+
+TABLES NO WAITING
+
+EXPERTS FROM IN AND OUT
+
+ICAGO
+
+315-317 E. 35TH ST.
+
+SPORTING NEWS
 
 ## BOXING NOTES
+
+1.
 
 # JACK JOHNSON
 SELF-MADE MAN
@@ -135,22 +197,48 @@ We cannot find one case where Jack rined any young girl's future or broke his mo
 
 Another case of Jack's mainly behavior in Spain was that some time ago a buyer for one of the largest houses in Chicago, perhaps in the world, who has made his home in Spain for the last five years, a special visit to the South Side where he was here from Spain on a visit and tried to find out why Jack Johnson was made to leave this country. He said that in his personal acquaintance with Jack he had always found him a man who could be proud of. Today Jack Johnson is sonally known men in the world. This statement includes the late Theodore Roosevelt, Burton Holmes, the Kaiser, President Wilson and many more. Jack has shaken more different hands and made more people face to face than the whole layout of the building, the user with every nutton except his own. In closing allow the writer to ask a few questions. How many men who have been born under any flag could have stood what Jack has stood for the last six or eight years and still be in the same building and holding the world a golden smile, saying, "Good will to all men."
 
-(Next installment will be George's Carpenter, the French champion)
-cleveland, ohio, May 14...Fear's Ghosts opened the season here last Sunday by a big score win over their opponents. For games address 2369 East 16th street.
+(Next Installation will be Georges Carpenter, the French champion.)
+Cleveland, Ohio May 14--Fears' Giants opened the season here last Sunday by a big score win over their opponents. For games address 2360 East 14th street.
+
+Big Double-Header
+THIS SUNDAY
+May 16th
+HIGHBRIDGE
+ATHLETICS AND
+EMERALDS
+vs.
+JEFF TESREAU'S BEARS
+AT DYCKMAN'S OVAL,
+NEW YORK CITY
+Watch for the Jazz Band
+as Usual
+ADMISSION 50c.
 
 # Western Circuit Negro National League
 
+THE CHICAGO DEFENDER
+
 CIRCUIT OPENS AT DETROIT
 
-The Urban Stars will open the league against the Detroit Stars, the first starting Saturday, May 15, and going on until Saturday, May 19. What will perhaps be the biggest blow-off ever given in behalf of an inaugural go will be staged by the citizens and leading business men of Detroit. All of the hundreds of box advances and the engaged weeks in advance, and the teams that turn out in a body and make Sunday, May 16, a gala affair. The Royal Rooters' Club is going to boost the opening right over the top by presenting the home team with a huge floral offering in the form of a horseshoe that will materially to the good fortune that the team already acquired through the winning of five straight games this season.
+The Cuban Stars will open the league circuit against the Detroit Stars, the first game of a series of five games. What will perhaps be the biggest blow-off ever given in behalf of an inaugural go will be staged by the eighth business men of Detroit. All of the business men of seats have been engaged weeks in advance, and the Ellis of Detroit will turn out in a body and make Sunday, key day, a go-ahead. The Royal Rooters Club is going to boost the opening right over the top by presenting the home team with a huge floral offering in the form of a horseshoe that is expected to add material to the goal. The Sharks have already acquired through the opening of five straight games this season.
 
 The Stars are on a hitting camp right now, and in their present form they are bound to make life inimitable for all visiting teams. The games between the Stars and Cubans are already been finely drawn afte- rnth with both soft and null to the finish. The Cubans have just arrived from Havana, and by the time that they are booked to show at Detroit they will have become sufficiently acclimated for their best work. The now men with the Cubans are rounding into good form, having struck ever more to their liking in the past but now it exists that the Stars are going to do so in hopes of for the hopes in the coming series.
 
-Holland, no doubt, will be pitied against Lehane, its consensual Cuban pitcher, and Blount may send his crack batsman, Cooper, against the new Cuban pitcher, Ritchie. The fans are in for some mighty force baseball fighting when these two teams hook up, and the present series is expected to give a real line on just what team in the new circuit it would be, a sort of an idea that the team that can down the Islanders is the team that will come home with the new league's bacon.
+Holland, the flashy heavier of the Stars, no doubt, will be pitied against LeLithane, its consensual Cuban pitcher, and Blount may send his crack southpaw, Cooper, against the new rate, the star, Hernandez. At any rate, the star will face the fierce baseball fighting when these two teams hook up, and the present series is expected to give a real line on just what team in the new circuit it would be wise for the fans to swing with, as a sort of an idea exists that the team that down the Islanders is the team that down the home with the new league's bacon.
 
 The Sunday Game
-Jason independents of Jackson, Mich., were shuttled by the Detroit Tigers at Mack Park, before a record crowd.
-Cash, the mainstay of the Jackson pitching corps, was injured by a pitched ball in the second inning and forced to retrefoil from the game. The team must have been brightly at bat, knocking out a triple and a homer, the latter being in the park and surrounding territory. Ted Blount's employees amassed a total of 21 hits that were extra batsmen. Hewitt helped himself to the clean outfielder on the brightly at bat, kn
+
+Jaxon Independents of Jackson, Mich., were shattered by the Detroit Stars, Sunday, at Mack Park, before a record crowd.
+
+The star of the Jackson pitching corps, was injured by a pitched ball in the second inning and forced to retire from the game. The Detroiters proceeded to maul his successors to all parts of the park and surrounding territory. Ted Blount's employees amassed a total of 211 hits, including 150 in the game, were extra hasslers. Hevitt helped himself to five clean safeties out of five times at bat, knocking again brightly at bat, knocking in a triple and a homer, the jatter being a drive to deep center, the ball staying in the third inning, added a four-baser to his string, knocking the ball far out of the park.
+
+The Detroit pitchers allowed but one of the visitors to reach third base. Detroit Stars.....1 10 4 4 3 3 0 - 23 C. Iverson.....1 10 4 3 3 0 - 23 Errorrs - C. Iverson, Edgerton, Thompson, Ashby. Hits-Off Thompson, 2, off Cooper 2, off Cash 3, off League 12. Twoball hits - Warfield, Moor 2, Edgerton, Thompson, League, Cooper, Hume - J. Lyons, Wesley, Sacrifice hits - Warfield, Longware, Bases on balls - Off Thompson 3, off Cooper 1, off Cash 1, off League 10. Struck out- by Thompson 7, by Cooper 3, by Cash 1, by League 1.
+
+ST. LOUIS GIANTS WIN
+St. Louis, Mo, May 14- St. Louis Giants won the second game of the series from the K. C. Monarchs by the score of 6-5. Batteries: Giants, Fener-Kennard; Monarchs, Lightner-Curruc-Hodriguez.
+
+BASKET BALL MANAGER 1921
+Babe Thomas, one of the best known basketball players in the cast of a few years. He was a member of the Physical Culture team elected by a unanimous vote to lead the team in 1921 at their last regular meeting. Babe knows basketball ball from Z. and a better selection could be been made. Good Jack, Mr. Thomas.
 
 # PAUL JONES WINS
 KENTUCKY DERBY
@@ -167,6 +255,12 @@ The crowd was so dence that movement about the grounds was almost impossible. No
 
 Six Thousand Witness Humiliation of Local Team, While Two Thousand are Turned Away
 
+K. C. Monarch
+the St
+
+Six Thousand Witness Humilia
+Thousand are T
+
 ## By Dave Wyatt
 
 St. Louis, Mo., May 14.—The official debut of the St. Louis Giants as a league entry was staged here last Sunday when the K. C. Monarcha of Kansas City engaged the locals in the infiltration of the ballpark to buzzing in the new circuit. The baseballballs drew ident atmospheric conditions for the contest, and this, the inaugural gun, augmented by a parade featuring several blocks in length and jazz band accompaniment, to ite bands, and a tendency to drag out such a hue throng of enthusiasm that billboards, housesets adjacent to the inclosure, trees and motor truck tops outside were ushered into service so eager were the bugs to lamp the doings.
@@ -175,23 +269,19 @@ The walls that inclose the baseball arena were choked and clogged to the point w
 
 Drake, a young pitcher who flashes sparks of coming greatness, was on the slab for the Giants, while Sam Crawford, a veteran, was the heaver upon whom the Monarchs based their hopes of youth, age and new faces in up and the two teams appeared to be about evenly matched in hitting strength, fielding and general field experience. As it was, the show developed into a contest of skill between the two teams, with spikedness of youth, age and
 
-fanned Hill, ending the game, 2-1, for the Monarchs.
+Circ
+nal Le
 
-The Kansas City team will tackle Taylor's A. B. Cs at Indianapolis next Sunday, May 16, with a series of five; then they go on to Chicago where they hook up with big "Ruben" gang Sunday, May 23. The score.
+1
 
-Totals, | 1 $ 2 7 | | Totals, | 2 $ 2 7 1 1
-x-hatted for Holts in the ninth.
-x-lattened for Drake in the unthirt.
-K. Monarchs in the eighth.
-K. C. Monarchs, 0 0 0 0 0 1 0 1 0 1 0-1
-Erors-St. Louis Giants, 1; K. C. Monarchs,
-c. Base Miles-Kennard, Hills, Cobb, 0-1
-Near, West, Central, Fort, 0-1
-fort, 6 in 7 inings; off Curle, 2 in 2 inings;
-base on balls-Off Drake, 3. Struck out-1-1;
-base on balls-by Curle, 1; by Drake, 6. H.
-baldamn-Curle, left on bases-St. Louis,
-Monarchs, 0
+as Trim
+st. Louis Giants
+ation of Local Team, While Two
+turned Away
+fanned Hill, ending the game, 2-1, for
+the Monarchs.
+
+[OCR timeout]
 
 ## A. B. C.'S WIN
 
@@ -204,3 +294,5 @@ A's...2 0 0 1 0 1 0 4 -2
 Error...Ros, Guerra 2, Herrera Clark, Day, Three-base hit...Abron, Two-base hits...Taylor, Powell, Sacrifice hit...Clark, DeWitt, Powell, Jeffries, Stolen bases Shively, Lopes, Johnson, 2, by LaBlane, 4, Halk...LoHalle (grab was out in the eighth inning; hit by batted ball).
 Swift Preminium defeated Stewart's All Star Sunday 5 to 4 in the opening game of the season.
 A's...1 1 0 0 0 1 1 1 -5 7 1
+
+uit eague

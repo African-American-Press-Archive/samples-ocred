@@ -1,3 +1,7 @@
+---
+
+PAGE·TEN—PART ONE
+
 # RUBE FOSTER
 PLANS SURPRISE
 FOR LEAGUE FANS
@@ -6,24 +10,15 @@ Foxy Leader Wants Championship Team and Plans to Stage Comeback
 
 When the curtain closed on the baseball team and it was found that the American Giants, the product and machine of Rube Foster, instead of a championship had been declared National league, there was much comment and questioning throughout the cause and the cause of the failure of that wonderful and most aggressive ball club to finish. It is not strange that there should be such comment for the consistency of each year since the league's organization has branded them as the top baseball class of the league in every department.
 
-The baseball public knows baseball, when the public has so often seen that baseball club through display of Giants displayed; when it has seen that baseball club through display of games when defeat seemed certain, thus proving themselves always equal to only natural that it wondered and that it hasty in laying the cause for the losing of the pennant at the door of the impression that the failure of the Giants was the failure of its pitching staff were all good pitchers, if we make a study of their individual abilities that when combined they could not succeed, that they are all right handers that they are all righ
+[OCR timeout]
 
-The Giants return home next
-week against the Chicago
-Chicago Ilus. April 20.
+[OCR timeout]
 
-Sizes From 6 to 16 Years All Colors—Complete.
+[OCR timeout]
 
-BEST MADE—SEND FOR FREE BOOK ON EVERYTHING IN BASEBALL
+[OCR timeout]
 
-I'm STRONG FOR THIS LITTLE MANICURIST 
-DOWN HERE AT THE BARGER SHOP, BUT 
-SHE WON'T PAY ANY ATTENTION TO ME— 
-JUST A SMILE FROM HER WOULD MAKE 
-ME FORGET PROMINION—THOSE EYES!— 
-MAT HARI—AHH-H—DELIEVE I DROP 
-IN THE SHOP AND GET A MANICURE AND 
-GEE IF I CAN MAKE AN IMPRESSION
+[OCR timeout]
 
 # EIGHTH QUINTET VS. EVANSTON ON SUNDAY APRIL 13
 
@@ -54,22 +49,11 @@ Substitute-Wood for Harrowe
 
 ## AMERICAN GIANTS SCORES
 
-Waxahachie, Texas, April 5.—The Giants of Chicago and the otherers stained a five-run rally in the sixth Treadwell for nine hits. R. L. Hale, Dallas... 0 0 0 0 0 2 0 1 14 3 Battieries, Jackson, Adams and Cantwell, Treadwell and Lombard.
+[OCR timeout]
 
-MAKE IT EIGHT STRAIGHT
+[OCR timeout]
 
-today's twin battil the American Giants theirSELF's team. Pardon the Padron hold the Texans to four seatered hits in the sixth battil theirSELF's team. Pardon the
-
-I DON'T EVEN KNOW YOUR NAME, LITTLE
-GIRL, BUT WHEN I FIRST SAVED YOU AND HEARD
-THAT MUSICAL VOICE OF YOURS MY HEART WENT
-OUT FOR YOU I- HAVE STAYED AWAKE FOR
-SIX NIGHTS TRYING TO DEVISE A PLAN WHEREBY
-I COULD TELL YOU OF MY AFFEFFION
-
-CAPT. DEMOSS AND GIANTS' HURLERS
-
-Reading from left to rl: i1t. Captain DeMois, crack second baseman, second to none; Treadwell, last of the Barchack Giants and of 20 winning jams: Captain Guban, pitcher: vih tworth, who promises to stage a game this season. Harney beat Detroit Tigers last fall in an exhibition game. Captain DeMois is winning his spitter this season. Harney beat Detroit Tigers last fall in an exhibition game. Captain DeMois is winning his spitter this season. Manager Foster and with these hurlers he expects to go through the season, winning the league championship.
+[OCR timeout]
 
 # American Giants Home Next Week; Open Easter Sunday
 
@@ -116,9 +100,23 @@ June 1. 2–Indianapolis at Memphis
 CLEVELAND CUBS ALL SET
 Cleveland, Ohio, April 11—The Cleveland Cubs of Cleveland are getting set to play. The Colored club and are making their season looking now. They would like to play in Central States, write or write Cleveland Cubs, basketball club, baseball club, the club are: Jones, president: R. L. Brown, vice-president: C. M. Morris, secretary and treasurer.
 
+LEE CHICAGO, DEFENDER
+
+Wouldn't It Make
+EEN KNOW YOUR NAME, LITTLE
+WHEN I FIRST Saw YOU AND HEARD
+LOVE OF YOURS MY HEART WENT
+U- I HAVE STAYED AWAKE FOR
+TRYING TO DEVISE A PLAN WHERE
+U OF MY AFFECTION
+
+Wouldn't It Make You Feel Small?
+
 # KANSAS CITY ALL PRIMED FOR TILT WITH ALL STARS
 
-Kansas City, Mo. April 11—The Kansas City Monarchs, the champions of the Negro National league, are fast rounding into form. Manager Mendez has the boys in going to the team, but both boys look to will hook up with the Toppera, Kansas team of the Western association, a team composed of all white league players. Every member of the team is now on the ground. Wade Johnson and his pitching team in Centuria, Mo. is the most skilled team in the team, but both boys l
+[OCR timeout]
+
+[OCR timeout]
 
 ## STAR BASKET TOSSER IN
 
@@ -128,12 +126,9 @@ When Lane Tech. 1924 city basketball bishop, high school of Painted Post, N. Y.,
 
 MANDERVILLE BEATEN
 
-Albany, X. X, Y. April 11--limmy
-Hutchinson (white) defeated Marry
-Munsterlein of Noyers, J. in a 10-
-to-6 victory. The game was on C. April 11. The white boy had the better of six rounds, three while, three
-Munsterlein and one was an even
-offense.
+[OCR timeout]
+
+[OCR timeout]
 
 # Holloway Better Jumper Than Frog; Hops to Baltimore
 
@@ -145,9 +140,19 @@ Word was received by the National Negro league headquarters, that player A. B. C
 
 West Raden, Ind. April 17 – Indianapolis two games played on Saturday and Sunday. St. Louis winning Saturday’s game, three to 1. Sunday’s game, day 3 to 1. St. Louis won Saturday’s game for indianapolis, the former holding St. Louis to three hits and four runs. St. Louis had four innings he worked. Richie pitched in grand style but four errors and lost. Richie pitched in gr
 
-Ithaca, N. N. April 11. The University's trouble disposing of Cornell university equipment expended recently, Michigan took teams with a team total of 67 joints, while Iowa took teams with a team total of 67 joints.
+Hinesa, N. Y., April 11. The University'sittle trouble disposing of Cornell uniparty in the playoff tilt, tapped by theWarriors recently. Michigan took first honors with a team total of 62 points, while the eatermen trailled by three. Dellarah, Humbard, intercollegiate broad jump champion and star hurrier, was outstanding in the singling. Humbard took first in the 75-yard low hurler in 6:09.45, while he covered the 75-yard low hurler in 0:08.54, setting a new record.
 
-Hinace, N. Y., April 11. The University of North Carolina track team had a terrible trouble disposing of Cornell university in a dumb track meet staged little trouble disposing of Corne
+EDWIN RILEY OUTPOINTED
+Brooklyn, N. Y., April 11.-Lee Wedo (brooklyn) outpointed Elvin Giley in a two-hour bout at 9:47 of the seven-arm Yankee. The bout was fast from beginning to end and there were many fans in the audience who thought a draw would have been a more fair decision.
+
+HURLERS
+
+Photo by Harrile, Houston, Texas
+second to none; Treadwell, late of
+tworth, who promises to stage a
+who promises to burn up the league
+exhibition game. Captain DeMoss in
+he expects to go through the season,
 
 # WABASH 'Y' BASKETBALL PLAY WON BY OLIVET CHURCH FIVE AND WABASH 'Y' GOPHERS
 
@@ -222,29 +227,31 @@ Chauncey, R. F. W. Lewis
 J. Robinson, G. L. O. Jackson
 R. Braman, L. G. Lawson
 
-Chapman and Ranson made their shots on the field the did fawn like which team was going to be the victor, and not know who were the champions. With three men who were the champions, W. H. Benson replaced McHenry to 10. Benson replaced Carr at forward at this point and took the score 19 to 20 of the floor, making the score 19 to 20 of the
+PREDETERMINED TURF PROFITS
+
+The MIRACLE SYSTEM is nationally known as "easy for player-hard for layer." Has stood the ACID TEST for many years. We could not spend more than thousands of dollars per annum adver- tizing water as cough syrup—and con- tinue in the bedtime installment payments paid from your profits. Abou- lately FREE, 400 page racing manual, system sets, etc., Live, late, gate today and make your Bookle abey.
+
+Public Relations Manager
+S. E. ANTWIZ
+Box 404B Tuscan, Md.
+
+[OCR timeout]
+
+Cleveland, Ohio, April 11—Flicking back to the old cask, local fans from Ft. Lauderdale reach out of strength, beginning to believe in the Nero National league surprise of the Nero National league. A city entry failed to make much of a play during their previous run in the league, but they came up as being in the light from the first eight clubs reach the home stretch.
 
 Three-fourths of the players reported attending the Cohort, the first five days are now well known as Hooper Basketball, he played with the speedier shortstop, who played with the long, tortor, right-hand player with birth, tortor, right-hand playe
 
-The MIRACLE SYSTEM is nationally known for its layer. Has stood the ACID TEST for many years. We could not spend many thousands of dollars on maintenance after taling water as cough syrap and concluding payment as well as equipment maintenance payment paid from your profile. Also lately FREE, 300 page racing manual,etter, oven testimonials, etc. Investigate today and make your Bookie Way.
-
-Public Relations Manager
-B. AVENUE
-Box 40-6B
-Towns, Md.
+SATURDAY, APRIL 12, 1984
 
 # DETROIT STARS
 START PLAYING
 BALL APRIL 13
 
-Petway All Smiles as Playing Season Opens; Blount's Rapid Rise in Game
+[OCR timeout]
 
-Detroit, Mich., April H. – Five years ago, Petway, the school that owns Blount's trot Stars, was unknown in the baseball world. Today he is one of the most powerful players in the league that the game has produced. He is vice president of the Negro National league, one of the directors and President of the league, and one of the tenants. In five years he has built up a most powerful baseball machine, and certainly, April finally turned on bully, exhilarating breezes, mingled cool breezes and hot air, for the present season and at the same time estimate on the value of playing with the Blount-Betway team that Petway's worry of past seasons over that all-important infield problems first, Petway at second, Riggs at first, Jefferies at third, Riggs at small, Thibert but hosts of the league, and with Packham Williams, a player with a certified brand of ability as an instructor on the diamond all primed and ready to its new breech at the former on the diamond all prim
+[OCR timeout]
 
-As matters now loom, Petway will have a lavender loc of time to devote to the pitching staff and he has some mighty future prospects too. Cumbra is a talented player and Alexander, bubbling with confidence, should show the way among the best pitchers in the league. Of the staff, never started a season looking better and careped like a coot. The team's pitcher Terrell, both southpaws, will understudy Cooper and both display enough self-confidence to develop into pitchers of worth. Bell, the young right-hander from Cumbra, will pitch for Vincyville, drew a favorable impression in his debut, showing form and deportment.
-
-is permanent fixture. Petway is highly elated over the acquisition of Barnes, the hunky youthful catcher, and Crawford, the athletic player for the past two seasons with Cleveland.
-Waters, C. Smith and Jones, batters par-excellent and all-around players of worth, are on outpost duty, and Petway is the initial workout that stamps them as fit for tough trudging all the route. It is unable to break into the line-up here are going through the "preliminary" set of players, including Steel-air Davis and Smith, an infielder, both of whom should land places in the league. Of the season, April 15, has Howlett's Detroit Clowns opposed to the Detroit Stars. principally through the fact that they have strongest aggregations in Michigan, strongest aggregations in Michigan, principally through the fact that they have high-class semipro and former major and minor league stars. Petway will then with vets and colts among the pitcher's alternating enough innings so as to give the fans a peep at the team. At the Detroiters in a much better position this time to start than last, they have the athlete to make them give it a good start and maintain a pace that should secure them under the wire a winning start.
+As the Detroiters are in a much better position than any time for many seasons, if they win, they will be presented with good physical condition at present displayed by the athletes, should make their own to lift by flying and maneuver them on the field, send them under the wire a winner
 
 ## Wabash "Y" Team in City
 
@@ -282,3 +289,7 @@ sity of Michigan, has been entered in the
 browndrop jump and the spirit midrace. jump and the spirit midrace. easily and has a good chance to win Michigan relay are Wiltshire penns-
 利曼 and Hastederow, making a fast com-
 bination.
+
+```markdown
+
+```

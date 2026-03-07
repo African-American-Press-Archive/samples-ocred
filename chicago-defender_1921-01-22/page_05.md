@@ -28,7 +28,15 @@ Pulaski, Tenn., Jan. 21.—Miss Uilo Vance has returned to Nashville, Tenn. in J
 
 ## PRAIRIE STATE NEWS
 
-East Moline, Il. Jan. 21.—Rev. L. W. pastor, of East Church church, delived a sermon Sunday in Rock Isle port, Iowa. *Rev. Lewis of Moline also delivered a sermon Sunday in Rock Isle body was buried. Mr. Goodwin is a body was buried. Mr. Goodwin is a body was buried. Mrs. Jenna wife of John Anderson, formerly of Carbondale, II. departed. She is a few days old. Mrs. Jenna wife of Joh
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
 
 Joliet, II, Jan. 21. —The reception at their newly elected pastor and wife Mr. and Mrs. W. D. Fetty, was a grand honour of their newly elected pastor and wife Mr. and Mrs. W. D. Fetty, was a grand honour of their newly elected pastor and wife who were welcomed by Prof. Charles Cameron, and Dr. O. W. Williams of Baptist Church is well pleased with their new pastor, Dr. W. Louis Petty, formerly of Baptist Church filled with much enthusiasm. Mr. T. L. Posey of Strentor, III, spent the weekday morning of Dr. W. Louis Petty, for
 
@@ -36,11 +44,9 @@ Ralph Leonard is convalescing from pneumonia. *Rev. M. and Mrs. J. H. E. Haston,
 
 ## INDIANA
 
-West Baden and French Lick, Ind., 12.
-Slick Musson's wife died in French Lick.
-Her body was taken to Kentucky for mirth. Mrs. Charles Lawson and Pam Hanna were married and she has finished her course as a chiropodist and has opened a parlor on the multi street.
+[OCR timeout]
 
-Princeton, Ind., Jan. 21. *Pettit, Springfield, II.* is visiting his mother, Mary. Mr. Dabbs of Bridgeport, Ind., is visiting his daughter, Mrs. Glen Harnay. Mrs. Brantley has visited a few of their friends. *Misses Chloe Wimberly and Geneva Brown of Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catton is hospitalized at the Indiana University of Lakes, who has been seriously ill at the Methodist sanitarium in Lakes. George Catton is hospitali
+[OCR timeout]
 
 ## KENTUCKY
 
@@ -48,13 +54,15 @@ Fulton, Ky., Jan. 21.—The revival at E. K. Kearney was great success and was a
 
 ## MICHIGAN
 
-Lanning, Mich. Jan. 21.—Mrs. W. E. Walker spent the new year in New York, and then in Scott. *Rev. S. T. Boyd of Fort Wayne preached the annual sermon for the first time at the A. M. E. church Sunday, Jan. 2. *Rev. S. T. Boyd, presiding elder of the District church conference at the A. M. E. church. and Mrs. Alexander Lucas have moved to the A. M. E. church street. The home was consecrated by Rev. S. T. Boyd, Aiken C. E. Allen and L. Burst. We wish you the young couple much success and happiness in their new home. The Community Warren, corner of St. Joseph and Logan streets, was the center of attractions and parties and social gatherings. *Master Roosewood ward gave a social to his mother's residence on William street. Benton Marshor, Mich. Jan. 21.—Rev. Will Bruce, D. D. state missionary, was the bishop of D. D. state missionary,
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
 
 # JACKSON JOINS STAFF OF NEW YORK BILLBOARD
 
-New York, Jan. 21.—Evidence that The Billboard, an old established white) amusement weekly, made no mistake when they added James A. Jackson to their editorial department,
-
-his first training James Jackson in newspaper work on the Daily News, a home town newspaper, beginning at the newspaper from managing the business end of a theatrical company, a bunk clerk with the Jennings Trust Company of Chicago, we next hit him again in the journalistic field, this time in Detroit. One year with this newspaper, and Jackson, whose versatility has never been questioned, branched out to railroad work, becoming a train dispatcher. This occupation he held for sixteen years, and during the war was attached to the United States Military Intelligence Service, general staff.
+[OCR timeout]
 
 ## Always Writing
 
@@ -70,8 +78,6 @@ Reviewing Gold and Armstrong's
 the Colored people of Chicago, the Daily News commends some of the
 pike conclusions says. "Adversely, the News:
 
-Reviewing Gold and Armstrong's survey of sociological conditions among the Daily News commends some of the ripe conclusions adduced from carefully compiled figures. Says the News: "It was only by making an ingenious use of statistics gathered both in Chicago and Colored men in Chicago. In the last three years I have reached some interesting conclusions." "Concerning the industrial efficiency of the Negro worker the same report remarks: 'The Negro worker is demonstrating he can make good work.'" "The bulk of the workers, however, are still in the poorer paid occupations. In 1919 about 2 per cent of the Negro workers of Chicago were in skilled work about 17 per cent in semi-skilled and about 81 per cent in unskilled."
-
 "Concerning the industrial efficiency of the Negro worker the same report remarks: 'The Negro worker is demolished the more profitable occupations. The bulk of the workers, however, are still in the poorer paid occupations. In 1319 about 2 per cent of the Negro workers of Chicago were in skilled labor. The center in semi-skilled and about 81 per cent in uskilled.' While the News is to be congratulated upon its breadth of vision in always seeking the truth without empathy, he added that the race is beceived by any conclusions about the efficiency of Race labor. Astute manufacturers and employers have had a wonderful revelation made to them by the industry that that the only industries that have survived the pro-war production are those in which our labor is liberally employed. This fact has been, we fear, obscured for more reasons than one, and we have reason to believe that a reason. White labor has learned to capitalize the main chance and is taking advantage of the present industrial chaos to demand more wages, labor, exalted in its new estate of recognition, is striving to make its status permanent. In other words, white men are doing manual labor with their hands, and we are doing it with their hands. Weight methods in on the scales of production and see which yields the most. What our labor lacks in efficiency is made up by application and contentment. A statement of the work that we are doing with their hands "give better and more milk. Why should it not follow that contented labor gives more if not better work? After the destruction and the war and the widespread dearth of resources we are wondering now if volume isn't better to be chosen than quality.
 
 ## MEANT WHAT HE SAID
@@ -85,9 +91,15 @@ The program will call for a reduction in the number of commissioners, of which t
 
 ## NEW YORK STATE NEWS
 
-Mt. Vernon, N. Y., Jan. 21.—Mt. Booker, High street, died Monday. Funeral services were held at Grace Baptist church, Interment was in St. Stephen's Church, Madison, and the ladies of Macedonia Baptist church went to East Vernon Saturday to visit several friends. *Miss Marcelia Washington of New Rochelle visited Mrs. Booker, Miss Washington left for her home in Kingston. N. C., where she will stay until April. *Mr. and Mrs. Tucker, 163 Franklin avenue, were forced to move to the 2800 block of the James Kittel of Catham, N. Y., were transferred to the Stark, a horse track at the Empire race track, who stabbed William Oates in the head recently, was given one year in the county jail by Judge Young.
+[OCR timeout]
 
-Mount Vernon, N. Y., Jan. 21.—A New year's party was given on New Year's night by Miss Pollards, 150 S. Burlington avenue, and a evening event was spent at the James Kittel of Ca
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
 
 BIRMINGHAM, Ala.
 
@@ -157,16 +169,6 @@ No. 114 { Crazy Blues
 No. 115 { Fair the Honey Blues
   The Road Is Rocky
 
-We ship two o
-cach and 250 f
-orders got pro
-No. 4134
-MAMID SMITH
-PROF. E. TATE, Prop.
-Director Vendome Orch. VENDOM
-DON'T FAIL TO VISIT
-SHORR'S PLACES
-
 We ship two or more records, nothing less. $1.00 each and 25c for postage. Nothing C. O. D. Mail orders got prompt attention. All on rolls except No. 4184. Price $1.25
 
 Prop. VENDOME MUSIC SHOP 47 E. 31st St. Chicago, Ill.
@@ -219,6 +221,8 @@ orders get prompt attention. All on rolls except
 No. 4184
 Price $1.25
 
+[OCR timeout]
+
 ALREENCE M. JONES AND HIS SELECT ORCHESTRA
 DAILY, 6 P. M. TO MIDNIGHT LAST SHOW STARTS AT 10:30 P. M.
 MOST POPULAR THEATRE ON THE SOUTH SIDE
@@ -242,11 +246,15 @@ NOT AVENUE DETROIT, MICH.
 
 THE VAUDETTE E. B. Dudley Proprietor INDEPENDENT BOOKING—ACT, SEND IN OPEN TIME VAUDEVILLE and PICTURES CLARENCE LEE'S ORCHESTRA GRATIOT AVENUE DETROIT, MICH.
 
-several weeks, is able to be at his office because he is a party named Wells, who wrote me.com-counselor, denom. write again? I lost the letter and cannot communicate with you.—K. K. Bennett
+[OCR timeout]
+
+[OCR timeout]
 
 ## IDAHO
 
 Pocatello, Idaho, Jan. 31.—In the general drive that ended last Sunday at the Baptist Church the following parties met: E. Harris; $100; Dora Peter, 465; M. Harris; $12; Mrs. M. Houghs, 45; Mrs. G. Jones, 45; Mrs. M. Houghs, 45;
+
+[OCR timeout]
 
 OWNER OF PICKFORD, PHOENIX
 AND VENDOME THEATER

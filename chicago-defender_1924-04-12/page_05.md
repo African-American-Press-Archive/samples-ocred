@@ -1,24 +1,8 @@
+[OCR timeout]
+
 # MISSISSIPPI SHERIFF LOSES PRISONER BY FAULTY LEGAL PAPERS
 
 Richard Watson. 5312 State St. wanted in West Point, Miss., for burglary and for being a fugitive he had been committed 10 years ago, and who was taken into custody on the night of April 2 by Sergeant John Scott of the detective bureau on recollection. He was ordered discharged by Judge Hugo Pam of the Superior court on a writ of habeas corpus filed by his attorneys, W. G. Anderson, W. L. Orford, and J. W. S. He appeared for hearing Saturday.
-
-WOMAN SHOT IN ATTEMPT TO ROB FRIENDS IN POKER GAME
-
-WE GUARANTEE NEW
-BEAUTIFUL, STR
-Prominent
-Minister
-Gail
-It's
-Every-
-thing
-You
-Claim
-In 22
-FREE FROM
-NEW
-NEW
-NO HOT C
 
 # WE GUARANTEE NEW, HEALTHY BEAUTIFUL, STRAIGHT HAIR
 
@@ -29,43 +13,6 @@ Quickerly bedside baths take tolls hair, dandruff, itching and all itching hair.
 The first sight will prove that there is only beauty. It has beautiful, straight, abundant and healthy hair. So give your most valuable character a beautiful
 
 nature demands. Theseands now have beautiful, straight hair, and up this new discovery will soon give you more joy and abundant hair. It is in the only scientific method and treatise on hair that you can achieve this new discovery in the world. It positively works after every other known treatment has failed. You risk nothing to see for yourself. The hair you achieve now will achieve many evenmiang miracle results. It most prince its merits or you pay nothing. If you want new hair, straight or curly, you can achieve it by using the scientific method which works with nature.
-
-only scientific method and treat-
-ment is best. But bedding by all other known
-workers after every other known
-washing routine for yourself. The
-MUTUAL TREATMENT, has
-only results, not proven it.
-We even now hate wrinkles, and
-have it by using the scientific
-technology.
-
-ANY MONEY
-treatment, the new method and
-the skill. My money will be beaten
-wed after no money, if you prefer.
-My money will be sent you. My
-building, Kansas City, Mo., and
-ment will be sent you. Merely
-a few trusty friends, my
-in pleased. Your money will in-
-risk a coel. Write for your
-DISPACION GUARANTEED
-
-Ms.
-A special 45.00 treatment for
-you is enclosed I will hand the
-for postage. I can have my
-
-FRENCH SECRET
-MAKE MAGIC
-
-Light skin in yours.
-
-The beach is the most
-skinny, the
-muchly
-tooth
 
 ## DON'T SEND ANY MONEY
 
@@ -90,6 +37,8 @@ Mr. Robert S. Miller, my regular $5.00 treatment for only $2.00 to one. If no mo
 
 Name
 
+[OCR timeout]
+
 Winkles, age line, crowns feet and blistered skin quickize your skin to make it look more like French secret. You can hardly miss your eyes, so amusing in this skin beauty and velvety smoothness that will sell you.
 
 Youthful, Light Skin Beauty
@@ -100,6 +49,8 @@ Bleaching Secret Revealed
 
 Famous French scientist has perfected a most amazing skin bleach. It works under the skin, leaving it naturally bright and creamy. Plump and blisterless can withstand the power of this wonderful new discovery. It is a pleasing, gentle bleaching. Local families of Europe have used this pleasing bleaching. It gives you youthful skin beauty, light and unblemished. There is nothing like this discovery. It is a pleasant bleaching. It tells of remarkable transformation. You are the one you must see for yourself. Results fully guaranteed.
 
+SATURDAY, APRIL 12, 1924
+
 D. Cottrell, sheriff of Clay county, Miss., armed with a grand jury indictment against Watson and with another man, charged with Small of Illinois, came before Judge Pam to take his prisoner. But he failed to get Watson because technicalities of the federal law governing the jurisdiction with the law. The law requires that an affidavit, assuring that the fictive was in the vicinity at the time his alleged crime was committed, must accuse him of indictment if his extradition is sought.
 
 ## Had No Affidavit
@@ -109,6 +60,35 @@ In Watson's case no affidavit accompanied the sheriff's indictment, Attorney And
 ## Caught in Act
 
 A watch was instituted in the railroad yards, said the Sheriff, which relied on the assistance of Tony Donaldson, being caught in the act of loading meat from the car into a wagon driven by Donaldson who managed the stores. Both men managed to escape capture and both fled the city, Cottrell said. The years later Donaldson was located in Memphis, Tennessee. He was brought back to West Point, pleaded guilty and has served his time. Accused of stealing the son's whereabouts were not known until three weeks ago when the sheriff received a letter purporting to have stolen the car, art 21, 4015 Grand Blvd. a former roomer in the home of Mrs. Mattie
+
+Prominent Minister
+Batsi
+It's
+a
+more
+thing
+You
+Claim
+
+SCIENCE
+WORKS
+AFTER
+ALL
+OTHERS
+FAIL.
+
+FREE
+
+NO
+Ama
+
+A gull
+drunk
+beneath
+defensive
+proper
+appliance
+it is the
 
 Results quick and wonderful. The
 lightness and beauty of the lightness and
@@ -136,18 +116,24 @@ Kansas City, Mo., April 11—Mrs. Eunice Owens, 1107 Virginia St. and, later, 11
 
 Newark, N. J. April 11—William Grant of 148 St. Hill is suffered a fracture in his right leg and he fell on the sidewalk at Springfield Hospital. He was treated at the City hospital.
 
+```markdown
+
+```
+
 ## SEND NO MONEY
 
 If you prefer, just name and address the person you want to interview, the method and all will be the same. You can pay the position if you prefer, but you can only obtain the interviews from the Mutual Laboratories from the Mutual Laboratories. You can also contact that party that writes. Write fingerprints. Slower or faster. Please fingerprints. Slower or faster. Please fingerprints. Dial Mutual Bank, Kansai City, Mie.
 
-No. good readers, this is not a picture of the Famous Georgia Minstrels "First Part." It is merely the Rev. F. A. McGoo at his St. John the Baptist church, 3433 Wabash Ave, attempting to convince the furnishers of his larder that Gov. Len Small would be sent to the tall timbers. This did not occur at a special meeting called for the purpose, but on Sunday morning at a time when devotional services were supposed to be in progress and the happy, contented facial expressions noted on the physeiogs of his congregation would lead one to believe that the government would applaud and apologize, because it possibly be. When a minister of the good stoops to prostitute his pulpit with political gulf his following should offer unmistakable protest instead of grinning approval. This applies to all preachers, congregations and churches. The picture was made for and published by the Chicago Tribune.
+No. good readers, this is not a picture of the Famous Georgia Minstrels' "First Part." It is merely the Rev. F. A. McCoo at his 82. John the Baptist church, 3434 Wabash Ave., attempting to convince the furnishers of his larden that Gov. Ken Small would be sent to the tall timbers. This did not occur at a special meeting called for the purpose, but on Sunday morning at a time when devotional services were supposed to be in progress and the happy, contented facial expressions noted on the physiogs of his congregation would lead one to believe that the reverend's political bunk is more appreciated by them than his "pathway to Heaven" talks could possibly be. When a minister of the gospel escopes to prescribe his appeal with political gulf, his following should offer unmistakable protest instead of grimning approval. This applies to all preachers, congregations and churches. The picture was made for and published by the Chicago Tribune.
 
 # SUES LAWYER WHO WON IN RIOT CASES
 
 ## Suit Filed to Recover
 Sum of $1,280
 
-Suit was filed in the municipal court last Thursday against Attorney A. L. Williams, 184 W. Washington St., by Mrs. Emma Graves, 2213 Ellis Ave. through her attorney, Jose Ward Hoover, City Hall Square building, to recover the sum of $1,250, being a balance still due her as a part of the $4,500 settlement effected by Attorney Williams with the city of Chicago in the case of his death of her sister Theodore Corsadeill, Mrs. Graves stated that Attorney Williams has paid her only $2,080, of which the $80 was paid only a few cents. Attorney Williams she is attempting to break her contract with him, due to a clause in the city ordinance allowing her to pay for damages for their fees, while Attorney Williams holds her signed contract for 50 per cent. She was murdered during the 1919 race riots and there was no little unfavorable comment regarding the case and permitted the case almost two years after the race riots and promised her to secure a settlement if possible. They did not, that they would split 50 on whatever could be obtained. Attorney Williams added this case to the case almost two years after the death settlements and let it take its course, with no expense of the city. Graves, on May 2, 1923, the city council set aside a settlement of $4,500 for each death arising from the race riots and allowing attorneys' costs and fees not to exceed one per cent. Mr. Lyle has signed a $1225 manly Lyle at the time stated that he did not know whether this was a fair allowance, and further he did not know whe
+Suit was filed in the municipal court last Thursday against Attorney A. L. Williams, 184 W. Washington St., by Mrs. Emma Graves, 3213 Ellis Ave., through her attorney, Jose Ward Hoover, City Hall Square building, to recover the sum of $1,250, being a balance still due her as a part of the $4,500 settlement effected by Attorney Williams with the city of Chicago in the county of Illinois. The master der of her son, Theodore Copeland, Mrs. Graves stated that Attorney Williams has paid her only $2,080, of the $4,500 settlement due days ago. In filing her suit against Attorney Williams she is attempting to break her contract with him, due to the failure of the attorneys allowing attorneys 25 per cent of damages for their fees, while Attorney Williams holds her signed contract for the property. Theodore Copeland, her 18-year-old son, was murdered during the 1919 race riots and there was no subsequent trial. Attorney Williams killed his death at the inquest. It seemed unlikely that the city would effect a settlement in his case. Service was denied, and the case handled the case and permitted it to drop. Attorney Williams took the case almost two years after the 1919 race riots and cured a settlement if possible. They agreed, Mrs. Graves and Attorney Williams, that they would split 50-50 of the settlement. Attorney Williams added this case to the 19 others he had pending for death settlements and let it take its course with no expense to Mrs.
+
+January 2, 1923, the city council set aside a settlement of $4500 for each death arising from the race and fees not to exceed 25 per cent of the settlement, or $1125. Alderman Lyle at the time stated that he fair allowance, and further he did not know whether the city had the right to govern in these cases. In May, 1923, Attorney Williams paid a fair allowance, and left a balance of $250. The final judgment has been arranged for and Mrs. Graves has signed a release which Attorney Williams holds, together the contract naming his fee as 50 per cent of total damages collected. The first hearing of the case will come up before Judge John A. Roosevelt on January 14, 1924. Doubledess the case will be held over for a jury trial.
 
 # MYSTERY SURROUNDS SLAYING OF AGED MAN IN HIS SHACK
 
@@ -183,6 +169,20 @@ Please contact a member of the above you want, send to your name and address, an
 UNITED SALES AGENCIES
 Oxford Blog. Chicago, Ill.
 
+THE CHICAGO DEFENDER
+
+AN 'DOING HIS MO
+
+picture of the Famous Georgia Minstrels
+aptist church, 3434 Wabash Ave, attempt
+be sent to the tall timbers. This did not
+being at a time when devotional services
+noted on the chryslege of his com-
+mons is more appreciated by them than his
+the gospel stoops to prostitute his pu-
+instead of prining approval. This art
+ade for and published by the Chicago T
+
 # Dixie Jurists Try State Law On Labor Agent
 
 Raleigh, N. C., April 11—The Supreme court heard arguments in a challenge to the stricture of the act designed to prevent the solicitation of labor for employers in other states. The case came up on appeal from Forrest Superior court in a criminal action. The act in question prescribes a duty to employ a worker in "emigrant agents"; J. S. Lowe, a regular employee of the Norfolk & Southern railway, refused to pay the wages of a worker and convicted in the Winston-Salem Municipal court. On appeal to the Forstyri Superior court in the same case, Lowe not guilty of violating the act under the findings of fact in a special verdict returned by the state appealed from the judgment.
@@ -194,15 +194,13 @@ New York, April 11. — People throughout the country are being asked to suggest
 ## ANOTHER "RACE COMMISSION"
 BILL PROPOSED IN CONGRESS
 
-In keeping with the past performances of congress in trying to settle the American Race question by commissioning a New York introduced into congress in January his bill for the creation of an intercommission and sent to Abbott on April 5.
+In keeping with the past performances of congress in trying to settle the American Race question by committing to a more New York introduced into congress in January his bill for the creation of an interracial commission and sent the following telegram to Editor Abbot Robert S. Abbott. Editor Chicago Defender, Chicago, Ill. H. R. 5561 motion to be composed of Negroes and White, comes up for hearing before Mr. Abbott, April 14th. If you are interested you should be present—Emmanuel Celler.
 
-Robert S. Abbott. Editor Chicago Defender. Chicago. H.R. commission to be composed of Negroes to be composed comes up on committee inearning before judge Robert Abbott. 10 a.m. April 10. If you are interested should be present—Emanuel Cauer.
+The telegram is addressed by the president, provides for a commission composed of three southern and three northern whites and three people of our Race to sit together for the purpose of activating the group. Mr. Celler's intentions, while commendable, fall far short of what we are now demanding as a solution of the so-called Race problem. There are many problems that pointed already and nothing constructive has been done toward settling the problems that face us.
 
-This bill, indorsed by the president, provides for a commission composed of three southern and three northern Negroes to sit together for the purpose of acting upon questions that affect our group. Mr. Celler's intentions, which we are now demanding as a solution of the so-called Race problem. There have been too many commissions appointed already nothing can be done, and been scotched settling the problems that face us.
+Commissions Inffective
 
-## Commissions Ineffective
-
-Every time a question arises some member of congress comes forward with some kind of a commission; the commission investigates the situation and makes a lengthy report. The report is adopted, read into the congressional record and promptly forgotten, and the problem is faced on the small end of the horn.
+Every time a question arises some member of congress comes forward with some kind of a commission; the commission investigates the situation and makes a lengthy report. The report is adopted, read into the congressional record and promptly forgotten, and the problem is addressed by the Race on the small end of the horn.
 
 In answer to the message from Congressman Celler, Mr. Abbott has wired the following: Celler, a Democrat, House of Representatives, Washington, D.C. do not approve of racial com­ bitions, laws already on our statute books, are enforced impartially there would be no legal problem — Robert S. Abbott.
 
@@ -220,15 +218,19 @@ and was charged with emploiqn of John Garner. 141 Sangham
 was as fired 1000 and costs by
 john Garner.
 
+## Commissions Ineffective
+
 # COURT RULES 'SISTER' HAD NO STANDING
 
 ## Lodge Must Settle Its Own Disputes
 
-Dalebish, N.C. April 11. Five justices of the North Carolina Supreme Court sitting in judicial conference affirmed that Mrs. Jessie Jenkins of Lenoir county, who was exonerated from this sisterhood when she refused to pay a line of $2 and to apologize to the order for calling another member "a liar," had no standing in court. The exclucied household of No. 224 Jenkins of Lenoir county, who not an incorporated body and has no legal entity.
+Raleigh, N.C. April 11 - Five justices of the North Carolina Supreme court sitting in judicial conference affirmed that Mrs. Jessie Jenkins from Albany county, N.J., was jailed by the sibhood when she refused to pay a line of $3 and to apologize to the order for calling another member "a liar" had no standing in court. The court, with the help of No. 4224, the court holds, is not an incorporated body and has no legal entity.
 
-"In this case," says the court, in an affirmative decision of the justice's effort to obtain reinstitution in the courts, "whether the language used was unparliamentary and therefore the justice's effort to obtain reinstitution of $3 and the judgment that she should apologize to the subordinate judge, her refusal to apologize could be considered a matter of internal regulation by the society involving no property rights nor violation of the criminal laws. The court therefore had no jurisdiction.
+"In this case," says the court, in a legal manual written by the judge, disposing of the aggrieved member's effort to obtain reinstatement in the courts, "whether the language of the judgment on the imposition of the fine of $3 and the judgment that she should apologize to the subordinate could be published by ex parte to apologize could be published by ex parte to a matter of internal regulation by the society involving no property rights nor violation of the criminal laws. The court therefore had no jurisdiction."
 
-The question came to the court in a proceeding began by a motion for an alternative mandamus for reinstitution of Mrs. Jenkins as a member of defendants dourned are tense for lack of jurisdiction by the demurrow caused by Superior Court Judge A. Grandy. A court of the judge on Carraway, Sarah Brown and Hertz Moore, are trustees of the lodge of the unincorporated fraternal association located at Kinston. In a hearing of the lodge in June, 1922, Mrs. Jenkins was preferred against Mrs. Jenkins for violation of a rule or by-law that she had called another member a lair in open lodge. She demanded to pay a line of $10. She appealed to the District Household of TD 10, which had appellate jurisdiction deemed that Mrs. Jenkinsaking a furlough $2 and go before the household and bigard, and if she refuses, she stand expelled until she does. She decided to elect the lodge to pay the fine of $2, which the lodge refused to receive. She also tendered her lodge the amount of dues in full. This too, was refused, and she complied with the decision to compel the lodge to读属 it into full and complete membership.
+The question came to the court in a proceeding begun by a motion for a ruling of jurisdiction but the demurrier statement of Mrs. Jenkins as a member in Ruth Lodge No. 4224. The defendants demurred an tense for lack of jurisdiction but the superior Court Judge H. Griddle. The defendants, Stephen Carraway, Sarah Brown and Hertina Moore, are trustees of the lodge, an unincorporated internal association located at kinston.
+
+At a meeting of the lodge in June, 1922, a charge was preferred against Mrs. Jenkins for violation of a rule or a other member of the lodge, or another member a liar in open lodge. After due trial, the plaintiff was ordered to pay a fine of $10. She appained to the Ruth 10, which had appellate jurisdiction. On appeal judgment was rendered that Mrs. Jenkins pay a fine of $3 and go before the household and big pardon, and if she refuses, she is sent to prison. The plaintiff after this decision elected to pay the fine of $3, which the lodge refused to receive. She also tendered her lodge the amount of her dues in full. This too, was refused, and the lodge refused to compel the lodge to readmit her into full and complete membership.
 
 ## DR. F. G. SNELSON IN
 
@@ -247,17 +249,23 @@ a pair of ragged overalls and told to
 
 "Dream Daddy"
 "Sobbin' Blues"
-"Hawk Man"
-"Sweet Papa Jane"
-"Sam Jones
-Blues"
+"Mr. Radio Man"
+"Sweet Papa Joe"
+"Saw Jones"
 "Blue Island
-Bee"
+Blues"
+and ten others
+
+"Sobbin' Blues"
+"Mr. Radio Man"
+"Sweet Papa Joe"
+"San James Blues"
+"Blue Island Blues"
 and ten others
 BY MAIL ONLY NOW
 Send no money, pay the postman
 BLUES MUSIC SHOP
-320A S. State St., Chicago, Ill.
+320A S. State St. Chicago, Ill.
 
 # PASSENGERS INJURED AS CARS CRASH
 
@@ -276,6 +284,8 @@ when two cars
 collided head-on
 upright and
 lost sideways.
+
+MARY BLAIR
 
 Erie's father had him taken be-
 fore he Vattle, who sentenced him
@@ -309,25 +319,47 @@ This compulsory vaccination was required by the Billiard Corporation, 3405 State
 
 Wille Assberry, age 16, 315 Calumet Ave. employed at the National Highway Traffic Safety Department, suffered injuries on the right knee. According to witnesses, the accident happened when a Racine Ave. car collided suddenly around the switch leading west on Madison St. and struck No. 7 State St. car going south. A pane of persons were knocked down and injured by hits of flying glass. In the crowded area between the west and the street, crews dredged of persons were crowded, waiting for the cars to pass. Some received painful injuries. Two cars were glued together so tightly that the tracks were not cleared for nearly an hour.
 
-300 Needles Free With Orders for Five or More Records
+300 Needles Free With Orders for
+Five or More Records
+RIALTO MUSIC SHOP
+NEW YORK, NEW YORK
+330 So.
+State St.
+Chicago.
+Illinois.
+SEND NO MONEY-PAY THE POSTMAN
 
 ## LOVER JAILED
 
-Philadelphia, Pan., April 11.—Miss Mary Williams, 1412 N. 18th St., re-rewarded to the rules that a Jethalia lover, William Stetson, 1428 N. Fawn St., had threatened to kill her. Stetsor was arrested and was held to the court after a loaded revolver was found in his possession.
+Philadelphia, Pan, April 11—Miss Mary Williams, 1412 N. 12th St., rev. and remodeled by the lover, William Stetson, 1428 N. Pawns St., had threatened to kill her. Stetson was held to the after after, lined up, involved was found in his possession.
 
 Edmonia Henderson
-—a stage favorite for years; she always hit and always will make a hit with her famous song—"Brown-skin Man"
+—a stage favorite
+for years; she al-
+ways has and al-
+ways will make
+a hit with her
+famous song—
+Brown-skin Man'
 
 "Brown-skin Man"
 
-EDMONIA Henderson's greatest song. It has won her way into the hearts of thousands of vaudeville audiences. There's a red-hot accompaniment by Lovie Austin and her Blues Serenaders. Hear that saxophone moan! On the reverse side is another good one—"Traveling Blues". Ask for Paramount No. 12095.
+EDMONIA Henderson's greatest song. It has
+won her way into the hearts of thousands of
+vaudeville audiences. There's a red-hot accom-
+paniment by Lovie Austin and her Blues Seren-
+aders. Hear that saxophone moan! On the re-
+verse side is another good one—"Traveling
+Blues". Ask for Paramount No. 12095.
 
-a stage festival
-for years, she always has
-and always will
-make you famous
-a famous song —
-"Brown-skinned man"
+Edmonia Henderson
+—a stage favorite
+for years; she al-
+ways has and al-
+ways will make
+a hit with her
+famous song—
+"Brown-skin Man!"
 
 ## "Brown-skin Man"
 
@@ -411,44 +443,52 @@ A REAL SOUTHERN TUNE
 Can Also Be Obtained for Records and Piano Rolls
 Published by
 
-"BROWN-SKIN MAN"
-On Paramount Record.
-This is Edmonia Henderson's greatest song and it has made her famous to vaudeville audiences all over the country. Accompaniment by Lovie Austin and her Blues Serenaders. Hear that saxophone moan. Order it now—Paramount No. 12095.
+Paramount REG. U. B. PAT. OFF. The Popular Race Record
 
-SEND NO MONEY-Pay the postman when he brings your records. We pay postage.
+PAGE FIVE—PART ONE
+
+Latest,Best Records from KAPPS!
+
+This Week's Feature
+
+"BROWN-SKIN MAN"—On Paramount Record.
+This is Edmonia Henderson's greatest song and it has made her famous to vaudeville audiences all over the country. Accompaniment by Lovie Austin and her Blues Serenaders.
+Hear that saxophone moan. Order it now—Paramount No. 12095.
+
+SEND NO MONEY—Pay the postman when he brings your records. We pay postage.
 
 ## FAMOUS PARAMOUNT
 RACE RECORDS
 
-12005- BROWN-BKIN MAN AND
-75C  TRAVEL
-Emmonia Henderson
+12085-8 BROWN-BLK MAN AND
+756 TRAVEL EDMONIA Henderson
 
-12008- WEAKIL BLUES AND
-75C  LAST MINUTE
-* Ralney
+12080-80 WEAIL BLUES and
+756 LAST MINUTE BLUES
 
-12080--BD WEAVIL BLUES and
-12080--LAST MINUTE "MA" Ralney
-12080--MEAN LOVING MAN BLUES
-12080--and DOWN THE ROAD
-BLUES and GOOD LOVE
-12081--BAD LUCK BLUES and
-12081--THOSE ALL NIGHT
-BLUES "MA" Ralney
-12081--BLACK MAN BLUES and
-12081--BLUES Emmonia Manderion
-12081--MAN BLUES Emmonia Manderion
-12081--DON'T LOVE NOBODY
-12081--OINT GOT NO BLUES
-12081--OLD-FASHIONED LOVE and
-12081--IF THE REST OF THE
-12081--WOMAN GO BACK TO MOTHER and
-12081--ALD DUNTER and Elinus-Payne
-12081--Jubilee Quattette
-12084--LAWDY, LAWDY BLUES and
-12084--GOING ON, GOING ON,
-BLUES and GOOD LOVE
+1204E-MEAN LOVING MAN BLUES
+and DOWN THE ROAD
+BOUND BLUES Ia Cox
+
+12081-81 BAD LUCK BLUES
+and ALL THE ROAD
+BLUES "Ma" Rains
+
+1204B-BLACK MAN BLUES and
+756 BLUES EDMONIA Henderson
+
+12082-HARD LUCK BLUES and
+756 EDMONIA Henderson
+SO I AINT GOT NO BLUES
+
+12083-OLD-FASHIONED LOVE
+and IF THE REST OF THE
+TIME GO BACK TO MOTHER
+AND DAD
+
+12084-LAWYD, LAWYD BLUES
+and OGANIN', BLUES
+Ia Cox
 
 ## SAGRED RECORDS
 
@@ -459,15 +499,13 @@ BLUES and GOOD LOVE
 
 ## SEND NO MONEY
 
-For latest Paramount and other Race records. We carry other records advertised elsewhere in this paper. Just check above the records you want, tear out the ad and mail today. When postman delivers the package, pay him amount due.
+For latest Paramount and other Race records. We carry other records advertised elsewhere in this paper. Just check above the records you want, tear out the ad and mail today. When postman delivers the package, pay him amount due. We pay postage. Send for our special catalog.
 
-We pay postage. Send for our special catalog.
-
-KAPPMUSIC CO.
+KAPPMUSICCO,
 
 "As Near to you as Your Post Office"
 
-2308 W. Madison St., Chicago, Ill.
+2308 W. Madison St. Chicago, Ill
 
 # OKeh EASTER HYMNS and SACRED MUSIC
 
@@ -509,30 +547,32 @@ Virginia Female Jubilee Singer
 Virginia Female Jubilee Singer
 I HOPE I MAY JOIN THE BAND-
 
-GREAT OAK MUSEUM SINGERS
-Southland Jubilee Singers
-GREAT OAK MUSEUM SINGERS
-Southland Jubilee Singers
+GREAT
+GAME CAMPAIGNING
+SOUTHLAID Jubilee Singers
+NOW
+SOUTHLAID Jubilee Singers
 WE PAY THE POSTAGE
 RIALTO MUSIC SHOP
 WE PAY THE POSTAGE
-330 So. State St.
-Chicago Illinois.
-SEND NO MONEY-PAY THE POSTMAH
-Genuine Leather #50
-High Quality Vinyl Coated
-Turntable and Lightweight Vinyl
-Turntable and Lightweight Vinyl
-Gold Plated guitar, gold plated
-guitar, gold plated guitar
-Will deliver live music
-Send No Money your
-advertising fee of $250.
-Send No Money your
-advertising fee of $250.
-Money Back Convention
-In lieu of cash, and your reimbursed
-bailout.
-Hite-Lite, Cur. Co. 20 B.
-Clinton, Dept. B, Chicago.
-USE DEFENDER WANT. ADS
+330 So.
+State St. Chicago
+Illinois.
+SEND NO MONEY-PAY THE POSTMAN
+Genuine Leather $2.50
+"Night-Light" Advertising
+Vanity Case
+Turnover work, and light assistance you
+must have. Cash, gold, and silver
+good lighting, gold and silver
+advertising cards, and more.
+Send No Money Just your
+advertising card for $2.50.
+Money Case Conservation
+Don't sell your money, keep it
+don't sell your money, keep it
+Simon, Dept. B, Chicago
+
+[OCR timeout]
+
+[OCR timeout]

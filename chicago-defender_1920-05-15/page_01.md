@@ -1,3 +1,7 @@
+THE Chicago Defender WORLD'S GREATEST WEEKLY 5c Everywhere Except in Canada
+
+VOL. XV NO. 20. SATURDAY CHICAGO, MAY 15, 1920 16 PAGES. TWO PARTS PRICE FIVE CENTS
+
 # Convict Another Arkansas "Rioter"
 
 # Bayonets Halt Charge of Mob
@@ -159,8 +163,6 @@ To course all the delegates talk the bishop's interest is the desire to widen th
 
 The report of Ira I. Bryant, secretary of the department at Nashville, together with that made by Prof. John R. Hawkins, created enthusiasm almost without obstruction, and publishing, have made strides under these laymen. And their Hart, another layman, who seeks the office of business manager of the mother publishing house at Philadelphia, encourages any other church in the United States, encourages the laity to take part in any other church in the United States, the bishops being one on this point.
 
-The A. M. E. F. Church, more than any other church in the United States, takes part in the efforts of the church, the bishops being one of the point.
-
 ## Caroy the One Word
 
 Talking about bishops, that is enunciable to talk about down this way. The hard line between delegates is not to elect bishops, but to among a field of peers, for all the candidates are good men and true, first name of Dr. Cary is always the first mentioned when talk of bishops gets loose. Favorites other than Carry are Johnson, George and Mckee Johnson, Johnson, George and Mckee Caldwell, Dr. Morant being the big force in Mississippi and Dr. Caldwell secretary of the Allon C. E. League.
@@ -200,8 +202,6 @@ Recently at the annual convention of the African Methodist Episcopal Church in t
 ## FREE EDWARD WATERS
 COLLEGE FROM DERF
 
-## FREE EDWARD WATERS
-
 **COLEGE THOM. DELLE** Jacksouw in Florida are interested in their own education can be seen from the results of the semi-nannual meet of Waters college here Wednesday when the presiding edifice of the African M. E. church, together with the president over $14,000 for Christian education. The success of the trustee board is largely due to the masterly leadership of Hobson John Burt, who during the 1990s raised the college out of debt, built an administration building costing more than $60,000 and increased the annual tuition by $200. He has also built up the church in the state very materially, and all conferences in the district are asking for his help. A. Gregs is president of the college.
 
 ## Dog as Thiof Clue
@@ -217,28 +217,17 @@ Mr. McGee spoke from the subject: "Public Opinion An a Functional Element in the
 
 ## Prominent Attorney Seeks
 
-## Prominont Attorney Seeks
-State's Attorney Office
-
 Mounds, Ill. . . May 14—Attorney Charles I. Rice, prominent member of thePUkushi county bar, has announced an attorney on the Republican ticket. He has very little opposition and is being backed by the local machine. The population is large, and the number that of the whites and the election of Attorney Rice is practically ensured. The young age ago he was candidate for Circuit Judge, but was counted nigat at the "twelveth hour." As a compromise the party chief appointed him Master in Chancery and the demand account of the ballots was dropped.
 
 ## SCHOOL DESTROYED
 
 Oakwood, Tex. May 14. The Boyd Institute, located about a mile from town, was completely destroyed by fire which is thought to have originated in a dormitory. The main building in the area was to ashes. There no insurance.
 
-PRICE FIVE CENTS
+New York, Mr. Lord delivered an address in which he spoke in detail of the Indian conditions, both social and political, as follows:
 
-GIRLS
+Hate Military, Government
 
-African Soldiers
-Grave Crimes
-The Women
-
-Now York, Mr. Lord delivered an address in which he spoke in detail of the Haitian conditions, both social and political. He remarked as follows:
-
-Hee Military, Occupation
-
-"It would be a civilian police on the part of the American administration that win the friendship of the Haitians than to beat them into submission. The Haitians want the friendship of the American people, but now the trust is everywhere. They want no military occupation. They want, and have been me to say to you that they work in American hands of their men and women, with new ideas for their generation. They want back their government, for the Haitians who plotted to bring foreign control are now dead.
+"It would be a better policy on the part of the American administration to win the friendship of the Haitians to beat them into subjugation. The Haitians will be under the leadership of the American people, but trust is everywhere. They want no military occupation. They want, and want to give their way to you that they want, an American government to treat men and women with new ideas for their generation. They want back their government, for the Haitians who want to bring foreign control, are now dead.
 
 "In one night alone in the bushless nation nine little girls from 10 years old from the city of American soldiers." "The people are willing to help the American people to commercial and the American government to help the military forces and send an army of industrial teachers and social workers." "Americans Darespectful." It is declared that the Haitian people preferred Colored United States troops in the event the American forces were to deterate over the republic, it is declared that the white troops are too aggressive and are known for their discipline, capability women and girls.
 

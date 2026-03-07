@@ -3,6 +3,17 @@
   "image": "images/page_03.jpg",
   "width": 2041,
   "height": 2669,
+  "processed_at": "2026-03-07T01:28:30.603879+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 166,
+    "after_merge": 94
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         369
       ],
       "label": "doc_title",
-      "text": "RENTS TO GO HIGHER THIS YEAR, IS BELIEF OF TENANTS' LEAGUE"
+      "text": "RENTS TO GO HIGHER THIS YEAR, IS BELIEF OF TENANTS' LEAGUE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,17 +34,30 @@
         1892
       ],
       "label": "doc_title",
-      "text": "Baptist Pastor Regains Vigor of Youth by an Easy Method"
+      "text": "Baptist Pastor Regains Vigor of Youth by an Easy Method",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        65,
+        73,
+        316,
+        571
+      ],
+      "label": "text",
+      "text": "SATURDAY, APRIL 12, 1924\n\nRENTS TO GO\nTHIS YEAR\nOF TENA\n\nThe statement made by Jesse Binga, president of the Blinga State bank, and successful real estate broker, will doubtless send a chill of dismay into the anxious hearts of those who have written letters to the editor of the Chicago Defender asking when will cheap rents return. The banker was sitting in his office reading a letter written by Chicago Defender reporter approached and asked him the following questions: Is there any hope in the near future for cheaper rent? What would you do to solve the high rent problem? He made the following reply:",
+      "status": "ok"
     },
     {
       "bbox": [
         79,
-        394,
-        316,
+        571,
+        314,
         780
       ],
       "label": "text",
-      "text": "The statement made by Jesse Blinga, president of the Blinga State bank, and successful real estate firm, doubledless rent checks of dismay into office hours those who have written letters to the editor of the Chicago Defender asking when will cheap rent returns. The bank sent a letter when a Chicago Defender reporter approached and asked him the following questions: Is there any hope in the near future for rent checks to be the high rent problem? He made the following reply: \"The days of cheap rent have gone forever. However, more real estate generally governed by the demand and vacancies. The building permits show that huge building programs are being financed by operators on the streets that will undoubtedly have their effect on the rental property in this community. The building programs combine attractive bungalows, affordable houses and are certain to attract thousands and leave many vacancies for the wary to take advantage of as freedom from the pressure of housing and soaring rent values."
+      "text": "\"The days of cheap rents have gone forever. However, more real estate is being generated generally governed by the demand and vacancies. The building permits show that huge building programs are undergoing at the Northwest, South and Southwest slides that will undoubtedly have a effect on the rental property in this community. The programs embrace attractive bungalows, two-flat buildings and apartments that attract thousands and leave many vacancies for the wary to take advantage of as freedom from the prraming congestion and soaring rent values.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +67,8 @@
         1034
       ],
       "label": "text",
-      "text": "\"We recommend cautious waiting as the safe and sane policy and the grasping of the opportunity when it is hot, high rents, that are now harnessed upon our community.\" Corroborating Mr. Bimma's statement, Mr. Watkins, head of a real estate firm at 3510 Indiana Ave., Mr. Watkins stated that the building boom is in full swing, the result of which has forced the city to move out of the congested districts to the suburbs, leaving many vacancies for us. \"In six months,\" declared Mr. Watkins, \"more buildings in the districts largely inhabited by our people have been vacated by the movement of the white population if the building room keeps up.\""
+      "text": "\"We recommend cautious waiting as the safe and sane policy and the grasping of the opportunity when it is hot, high rents, that are now harnessed upon our community.\" Corroborating Mr. Bimma's statement, Mr. Watkins, head of a real estate firm at 3510 Indiana Ave., Mr. Watkins stated that the building boom is in full swing, the result of which has forced the city to move out of the congested districts to the suburbs, leaving many vacancies for us. \"In six months,\" declared Mr. Watkins, \"more buildings in the districts largely inhabited by our people have been vacated by the movement of the white population if the building room keeps up.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +78,8 @@
         1049
       ],
       "label": "paragraph_title",
-      "text": "Present Building Boom"
+      "text": "Present Building Boom",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +89,8 @@
         1195
       ],
       "label": "text",
-      "text": "The report comes from Commissioner Doberty's office that more building permits were issued the first week of September, 27, than were issued during the same period last year. The report shows that the total number of permits issued in the district housing was for the first 12 weeks of 1934. 8.102, against, 7.363 for the sahe period of 1933. This record, breakthrough, made during severe weather."
+      "text": "The report comes from Commissioner Doberty's office that more building permits were issued the first week of September, 27, than were issued during the same period last year. The report shows that the total number of permits issued in the district housing was for the first 12 weeks of 1934. 8.102, against, 7.363 for the sahe period of 1933. This record, breakthrough, made during severe weather.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,17 +100,8 @@
         1502
       ],
       "label": "text",
-      "text": "Friday Wagner Brothers broke ground for 72 apartments covering the north frontage in 78th I. from the northwest corner of the ready building a 12-flat building at the southwest corner of Throop and 78th Sts, and they have recently built a 12-flat building at 78th St at Throop. In that district contractors are busy constructing houses. Ninety-seven two-flat buildings are being constructed in the southwest corner of the William Zelosky. Mr. Zelosky has 200 more two-flat buildings on his building program for the spring and summer. The North Side Realty Company has its Niles Center subdivision of 40 acres at Oakley Ave, and Grass Point Rd. House building will be completed at the streets east corner of Shipman Ave and Torrance Ave, are opened to builders. Chicago has begun one of the largest building programs in its history. It is sure to affect the high rent crisis."
-    },
-    {
-      "bbox": [
-        72,
-        1459,
-        310,
-        1503
-      ],
-      "label": "text",
-      "text": "Chicago has begun one of the largest building programs in its history. It carried through this boom is sure to affect the high rent crisis."
+      "text": "Friday Wagner Brothers broke ground for 72 apartments covering the north frontage in 78th I. from the northwest corner of the ready building a 12-flat building at the southwest corner of Throop and 78th Sts, and they have recently built a 12-flat building at 78th St at Throop. In that district contractors are busy constructing houses. Ninety-seven two-flat buildings are being constructed in the southwest corner of the William Zelosky. Mr. Zelosky has 200 more two-flat buildings on his building program for the spring and summer. The North Side Realty Company has its Niles Center subdivision of 40 acres at Oakley Ave, and Grass Point Rd. House building will be completed at the streets east corner of Shipman Ave and Torrance Ave, are opened to builders. Chicago has begun one of the largest building programs in its history. It is sure to affect the high rent crisis.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,37 +111,63 @@
         1519
       ],
       "label": "paragraph_title",
-      "text": "Pessimistic Views"
-    },
-    {
-      "bbox": [
-        72,
-        1521,
-        310,
-        1767
-      ],
-      "label": "text",
-      "text": "Attorney T. G. Vance of the Tenants' Protective league takes a pessimistic view of the rental situation. He considers the account of the revaluation of taxes to an upward readjustment of rental value. He predicted that there will be a general increase in rent from the previous year to the over the city. However, in Second Ward, he thinks that the rent increase will be as high as 100 percent. The high mark in rent will be the first of May. After that there is no increase this year unless there is a complete cessation of the building program, with those people who are buying homes on the installment rent will remain high for the next two or three years. On taking over"
+      "text": "Pessimistic Views",
+      "status": "ok"
     },
     {
       "bbox": [
         65,
-        1898,
+        1521,
+        316,
+        2034
+      ],
+      "label": "text",
+      "text": "Attorney T. G. Vance of the Tenants' Protective league takes a pessimistic view of the rental situation. He thinks that on Account of the revolution of taxes there must be an upward readjustment of rental value. He predicted that there will be a total interest in rent from 5 to 15 per cent all over the city. However, in the Second and Third wards he thinks that the rent increase this year unless there is a complete cessation of the building program. \"With those people who are buying homes on the installment plan rent will remain high for the next two or three years. On taking over\n\nBaptist Pastor R. of Youth by a MADE vigorous again after being on the down grade 14 years! Made \"young\" again after he had almost surrendered to \"old age,\" which had come to him too soon! Made strong, capable and happy customer, he had given up the job. This has been the joyous experience of the Rev. George B. Pinkney, according to a recent statement issued by this prominent Baptist pastor of",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        65,
+        2035,
         305,
         2569
       ],
       "label": "text",
-      "text": "M ADE vigorous again after being on the down grade 14 years. Made \"young\" again after he had almost surrendered to \"old age.\" Made strong, capable and happy again, after he had given up all hope. This has been the joyous experience of the Rev. George B. Pinckney, acclaimed statement issued by this prominent Baptist pastor of New Jersey. No \"gland operation\" was performed; no expensive methods were used; no ambulance or civil powers of his prime, the Rev. Mr. Pinckney explains. Instead, he says, he regained the vigor, vitality and ambition of youth by a simple method of secretly treating his neck and secretly. This is the recently discovered korex treatment, the basic principles of which were developed by famous European specialists. My decline, says Dr. Pinckney, \"I tried everything recommended for such cases\u2014every operation and treatment a person would, or couldn't afford\u2014but I could not decline to decline more swiftly each day until decline brought korex treatment on its wings. It is certainly scapegled of korex when a brother told me about it, but an \"inner voice\" urged me to try the compound. Is it, I am back to normal. I am in as good shape as my case seeming to hopeful, may have an equal in the medical world, but I doubt it. Countless thousands in my race, as well as other races are suffering as I did, not involving that relief is within their reach.\" Strangely enough, an important ingredient of korex compound comes from my Negro Race. European physicians say this substance acts directly and powerfully on lower spinal nerve centers, improving the circulation and the animation, sometimes within a few hours. Another ingredient is extracted in Europe. Others are prepared in America and are combined in tablets. Contain a \"dope\" or illiterate drug."
+      "text": "No \"gland operation\" was performed: no expensive methods were employed to restore to him the physical appearance of Pinckney explains. Instead, he says, he regained the vigor, vitality and ambition of youth by a simple method anybody can use at home, safely and effectively. Pinckney explains, the basic principles of which were developed by famous European specialists. In the course years of my decline I tried everything recommended for such cases\u2014every operation and treatment a poor man could, or couldn't afford\u2014but I never told about it, an inner voice urged me to try the compound. The result is, I am back to normal. I am in as good shape as I ever was, although I had considered that I may have an equal in the medical world, but I doubt it. Countless thousands in my race, as well as other races, are suffering as I did, not that relief is within their reach. Strangely enough, an important ingredient of korean compound comes from the Negro Race. European physicians say this substance acts directly and powerfully on lower spinal nerve centers, improving the circulation and animation, sometimes within a few hours. Another ingredient is extracted in Europe. Others are prepared in America. All are combined with korean compound to contain no \"dope\" or illegal drugs.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        65,
+        2569,
+        316,
+        2649
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        319,
+        396,
+        557,
+        933
+      ],
+      "label": "text",
+      "text": "a house the buver agrees to pay just about everything he can rake and scrape. It will be about three years before the house to cheapen the rent.\" thinks P. M. Thompson, manager of the Thompson Real Estate company, \"The people brought this high rent on themselves,\" declared H. S. Sumner, head of the real estate firm at the house to increase the rent. Stay on them until they stop voting for every bond issue at the elections. Every time they vote for, therefore has to pay it. The landowner increases the passes the buck to the tenant. The tenant has no one to pass it to, therefore he has to pay it. The work such as widening the streets, building playgrounds and constructing subways, but not at a time when it works a hardship on the citizens. The people there is no labor trouble, and while there is so much labor trouble it is foolish to tear down so many comfortable homes and not rebuilt to widen the streets.\" Chicago's building program for this year is estimated at more than $100 million; there is no labor trouble. The building is a rumor that it will be checked. Edward M. Craig, secretary of the Building Construction Department, agreed an agitation among the bricklayers and plasterers for higher wages. In the opinion of Mr. Craig, the buver pays an increase to the bricklayers and the existing $1.25 an hour rate to a $12 daily scale for the former and a $14 one for the latter would automatically decrease the other basic trades to that level.",
+      "status": "ok"
     },
     {
       "bbox": [
         317,
-        396,
-        557,
+        933,
+        551,
         1157
       ],
       "label": "text",
-      "text": "a house the buyer agrees to pay just about everything he can rake and scrape. It will be about two years the house will be rented to the house to cheapen the rent.\" thinks F. M. Thompson, manager of the Thompson Real Estate company, \"The people brought this high rent on themselves,\" declared S. H. Sumner, head of the real estate firm at the house. \"They have to stay on them until they stop voting for every bond issue at the elections. Every time they vote for a bond they increase taxes. The land passes the buck to the tenant. The tenant has no one to pass it to, therefore he has to pay it. He works such as widening the streets, building playgrounds and constructing subways, but not at a time when it works a hardship on the citizens. There is no labor trouble, and while there is so much labor trouble, it is foolish to tear down so many comfortable homes and not already there is a rumor that it will be checked. Edward M. Craig, secretary of the building construction, erased an agitation among the bricklayers and plasterers for higher wages. In the opinion of Mr. Craig the granting of a pay increase to the existing $1.25 an hour rate to a $12 daily scale for the former and a $14 one for the latter would automatically increase the other basic trades to that level. \"The wage increase demands of the bricklayers and plas"
+      "text": "\"The wage increase demands of the bricklayers and plasterers have had a noticeable effect on their prospectivity Mr. Craig. \"Constructionors report a falling off of requests for estimates and in many cases where estimates have been submitted owners stave off action pending adjustment of wage matters. \"There are approximately 70,000 building mechanics in Chicago. They must be paid a 25-cent increase an hour wage the building industry would be taxed $140,000 daily to meet the expense. This tax is more than can be paid by the industry. It would without question result in a shutdown of construction work.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +177,8 @@
         1238
       ],
       "label": "doc_title",
-      "text": "MORRIS, YOUNG ORATOR, IS HERE AFTER EXTENSIVE TOUR"
+      "text": "MORRIS, YOUNG ORATOR, IS HERE AFTER EXTENSIVE TOUR",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +188,8 @@
         1238
       ],
       "label": "paragraph_title",
-      "text": "MORRIS, YOUNG ORATOR, IS\nHERE AFTER EXTENSIVE TOUR"
+      "text": "MORRIS, YOUNG ORATOR, IS HERE AFTER EXTENSIVE TOUR",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,17 +199,30 @@
         1767
       ],
       "label": "text",
-      "text": "Charles Satchell Morris, Jr., of Norfolk, N. J., the brilliant youthful student reached Columbia following an extensive tour that lasted for 19 months and carried him through 23 states and visited Columbia. Young Morris was enthusiastic over the results of his trip on his arrival here Thursday afternoon. That the people of the South are making magnificent success in spite of limitation, restraint and resistance to his statement of his sutton statement. Defender representative. Great audiences of the members of the business community in distinguished speaker, many of the men of the South, including Dean Sutton of the University of Texas, Mayor Coleman of Columbia, N. C. Mr. Coleman was plauded the eloquence of the orator, Seven thousand persons jammed the City auditorium at Richmond, Va., to hear his farewell message. Honors were given wherever he appeared. Uppreceded was his address before a body of 500 young white women at the Flora McDonald college. Hed Springs, N. C., was told that at least half a million people attended the spokesman on his tour. Mr. Morris is taking special courses in sociology at his alma mater. However, he is scheduled for more than 20 addresses between now and June 15. His first speech will be delivered at a monster meeting in Chicago on July 21. Hundreds are expected to hear him. His only Chicago address will be delivered in May, when he speaks on 'The Bright Side of a Dark Sub"
+      "text": "Charles Satchell Morris, Jr., of Norfolk, N. J., the brilliant youthful student reached Columbia following an extensive tour that lasted for 19 months and carried him through 23 states and visited Columbia. Young Morris was enthusiastic over the results of his trip on his arrival here Thursday afternoon. That the people of the South are making magnificent success in spite of limitation, restraint and resistance to his statement of his sutton statement. Defender representative. Great audiences of the members of the business community in distinguished speaker, many of the men of the South, including Dean Sutton of the University of Texas, Mayor Coleman of Columbia, N. C. Mr. Coleman was plauded the eloquence of the orator, Seven thousand persons jammed the City auditorium at Richmond, Va., to hear his farewell message. Honors were given wherever he appeared. Uppreceded was his address before a body of 500 young white women at the Flora McDonald college. Hed Springs, N. C., was told that at least half a million people attended the spokesman on his tour. Mr. Morris is taking special courses in sociology at his alma mater. However, he is scheduled for more than 20 addresses between now and June 15. His first speech will be delivered at a monster meeting in Chicago on July 21. Hundreds are expected to hear him. His only Chicago address will be delivered in May, when he speaks on 'The Bright Side of a Dark Sub",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        311,
+        1901,
+        435,
+        2100
+      ],
+      "label": "text",
+      "text": "Thousands have written in praise of korea. Among them prominent in business, social, professional and political races of the Hwacheon Yiheon felt \"old\" too soon say korea has renewed their govt activity. Mei 50 to $3 declare the compound has made them truly \"young\"",
+      "status": "ok"
     },
     {
       "bbox": [
         310,
-        1901,
+        1903,
         543,
         2451
       ],
       "label": "text",
-      "text": "Thousands have written in praise of korea. Among them persons prominent in business, social, professional and political circles of the Race. Some of the folks who felt to own and say korea has renewed their strength, vigor and durability. Men 60 to 65 days old compound has made them truly \"young\" again.\n\nThe Rev. Mr. Pinckney ordered the korean company direct from its American distribution to the melon laboratories. 2093 Melon Bldg, Kansas City, Mo. Knowing that thousands of enfeebled \"half-alive\" for test such a method without rising activity, simply fill out the coupon below and mail with or without the money, to the laboratories mentioned. The korex treatment will be sent to you in a mail with the understanding that it is required you nothing if you report within 10 days that you are not satisfied.\n\nGUARANTEED TRIAL COUPON\nMELTON LABORATORIES\n2093 Melon Bldg, Kansas City, Mo.\n\nGentleman: Send me a korex treat you and I will $2 enfeebled. I agree to pay $2 message on delivery; but if I report within 10 days to refund my $2 payment, you are"
+      "text": "Thousands have written in praise of korea. Among them persons prominent in business, social, professional and political circles of the Race. Some of the folks who felt to own and say korea has renewed their strength, vigor and durability. Men 60 to 65 days old compound has made them truly \"young\" again.\n\nThe Rev. Mr. Pinckney ordered the korean company direct from its American distribution to the melon laboratories. 2093 Melon Bldg, Kansas City, Mo. Knowing that thousands of enfeebled \"half-alive\" for test such a method without rising activity, simply fill out the coupon below and mail with or without the money, to the laboratories mentioned. The korex treatment will be sent to you in a mail with the understanding that it is required you nothing if you report within 10 days that you are not satisfied.\n\nGUARANTEED TRIAL COUPON\nMELTON LABORATORIES\n2093 Melon Bldg, Kansas City, Mo.\n\nGentleman: Send me a korex treat you and I will $2 enfeebled. I agree to pay $2 message on delivery; but if I report within 10 days to refund my $2 payment, you are",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +232,8 @@
         2566
       ],
       "label": "text",
-      "text": "(Tarcels Cannot Be Sent C. O. D. to Foreign Countries)"
+      "text": "(Tarcels Cannot Be Sent C. O. D. to Foreign Countries)",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +243,8 @@
         217
       ],
       "label": "paragraph_title",
-      "text": "500 Flee Town Where Whites Fired Houses"
+      "text": "500 Flee Town Where Whites Fired Houses",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +254,8 @@
         217
       ],
       "label": "doc_title",
-      "text": "500 Flee Town Where Whites Fired Houses"
+      "text": "500 Flee Town Where Whites Fired Houses",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +265,8 @@
         592
       ],
       "label": "text",
-      "text": "Baton Rouge, La., April 11\u2014Only one family of our race remains in the town of Dixie, a settlement on the outskirts of this city, where the Baptist church and several houses were burned recently after Sheriff Robert B. Day was killed while making a raid on a poolroom owned by a Race man. The Race population of approximately 500 began dispersing last Tuesday, when it received a report that all the settlement would be fired.\n\nAll day and night families were seen going to railroad stations and boarding trains for New Orleans and Shreveport. Some who had the fare gathered their few belongings and left for the North. Others became to mask the homes of Race people as soon as they left, taking everything of any value that was left behind.\n\nWhite business men of this city tried to help the people from leaving, and are now facing a labor shortage."
+      "text": "Baton Rouge, La., April 11\u2014Only one family of our race remains in the town of Dixie, a settlement on the outskirts of this city, where the Baptist church and several houses were burned recently after Sheriff Robert B. Day was killed while making a raid on a poolroom owned by a Race man. The Race population of approximately 500 began dispersing last Tuesday, when it received a report that all the settlement would be fired.\n\nAll day and night families were seen going to railroad stations and boarding trains for New Orleans and Shreveport. Some who had the fare gathered their few belongings and left for the North. Others became to mask the homes of Race people as soon as they left, taking everything of any value that was left behind.\n\nWhite business men of this city tried to help the people from leaving, and are now facing a labor shortage.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +276,8 @@
         695
       ],
       "label": "doc_title",
-      "text": "FAIL TO FIND WOMAN GUILTY"
+      "text": "FAIL TO FIND WOMAN GUILTY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +287,8 @@
         1260
       ],
       "label": "text",
-      "text": "Mrs. Lena Irving, 36, 3531 Dearborn St. was arrested Sunday night by the Stanton Ave. police on a warrant issued by Mrs. Isobel Fleming, wife of the Rev. C. L. Fleming, 5245 State St.\n\nMrs. Irving is the wife of Harry Irving, an employee of the LeBolt Jewelry company. She is stepmother of Willber, age 8; Alge, 6, and Delores, 5.\n\nOn March 16 Delores was brought by her father and placed in the care of her stepmother. She aunt later discovered cars on her body. She questioned her, Mrs. Fleming said, and the little girl told of being beaten by her stepmother with a hot poker because she had stolen her right thigh and that one scar on the left thigh looks as if it had been caused by a stove poker.\"\n\nShe appeared Monday before Judge Gudgeon Burke of the Court of Domestic Relations, she denied beating Delores with a hot poker. The child, however, told the court the same story she had told with a hot poker and I was afraid to tell\" she said. An examination of the scars were made in the judge's chambers, they are fresh from recent bruises.\n\nMrs. Irving's suggestion that the child might have fallen on the stove was supported by her husband. Judge Burke ruled that it was the child's mother's and decided in favor of the latter. Mrs. Irving was discharged."
+      "text": "Mrs. Lena Irving, 36, 3531 Dearborn St. was arrested Sunday night by the Stanton Ave. police on a warrant issued by Mrs. Isobel Fleming, wife of the Rev. C. L. Fleming, 5245 State St.\n\nMrs. Irving is the wife of Harry Irving, an employee of the LeBolt Jewelry company. She is stepmother of Willber, age 8; Alge, 6, and Delores, 5.\n\nOn March 16 Delores was brought by her father and placed in the care of her stepmother. She aunt later discovered cars on her body. She questioned her, Mrs. Fleming said, and the little girl told of being beaten by her stepmother with a hot poker because she had stolen her right thigh and that one scar on the left thigh looks as if it had been caused by a stove poker.\"\n\nShe appeared Monday before Judge Gudgeon Burke of the Court of Domestic Relations, she denied beating Delores with a hot poker. The child, however, told the court the same story she had told with a hot poker and I was afraid to tell\" she said. An examination of the scars were made in the judge's chambers, they are fresh from recent bruises.\n\nMrs. Irving's suggestion that the child might have fallen on the stove was supported by her husband. Judge Burke ruled that it was the child's mother's and decided in favor of the latter. Mrs. Irving was discharged.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +298,8 @@
         1344
       ],
       "label": "paragraph_title",
-      "text": "NORTH CAROLINA MUTUAL IN\nTWENTY-FIFTH ANNIVERSARY"
+      "text": "NORTH CAROLINA MUTUAL IN\nTWENTY-FIFTH ANNIVERSARY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,37 +309,52 @@
         1344
       ],
       "label": "doc_title",
-      "text": "NORTH CAROLINA MUTUAL IN\nTWENTY-FIFTH ANNIVERSARY"
+      "text": "NORTH CAROLINA MUTUAL IN\nTWENTY-FIFTH ANNIVERSARY",
+      "status": "ok"
     },
     {
       "bbox": [
-        554,
+        550,
         1357,
         785,
-        1737
+        1869
       ],
       "label": "text",
-      "text": "BY SADIE MOSSELL-ALEXANDER\nDurham, N. C., April 11.\u2014The North\nCarolina Mutual Life Insurance\ncompany of Durham, N. C., which passed\nits 55th anniversary on April 1, 1924\nwith the support of the National con-\ntrol insurance departments of three state\nNorth Carolina, South Carolina and\nVirginia, in order that an official\nreport can be made to the committee\non examinations of the National con-\ntrol insurance departments. The work of the examination included\na test check of the income and dis-\nbursements of the company from the\noriginal vouchers to the journal cash\nwhich contains the entire financial\ntransactions and assets and liabilities were carefully\nchecked. The claim records were\ninvestigated as was the manner of settle-\nment with policyholders. The re-\nsearch findings contain many striking facts to which\nintention of the public should be called.\nThe examiner's state that \"the com-\npany is owned and managed exclu-\nsively with policyholders. This is\nindeed battering.\" The mutual life organization of any size in\nthe state of North Carolina being\nmanaged exclusively for their well-being."
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         548,
-        1642,
-        785,
+        1869,
+        783,
         2306
       ],
       "label": "text",
-      "text": "The examiners state that \"the company is located in North Carolina of any size which is owned and managed exclusively in North Carolina being owned by our people and managed exclusivel"
+      "text": "These are figures so stupendous that they million, million overweave us. Forty-one million seven hundred thousand dollars, million seven hundred thousand dollars, premium income! One million nine hundred and the examiners found every coin of it in place. This is not what the cost of what the examiners found is true. In addition the examiners state that books and records very accurately kept, the usual recommendation for the conduct of a million dollar business in the state, it takes just such an institution as the North Carolina Mutual to prove what are doing, and what Negroes can do and are doing. How did the examiners find the North Carolina Mutual was investing its assets, amounting to nearly $2,000,000? Here is what the examiners find that subject has in their subject, referring to the bonds and stocks, \"were verified by actual inspection of the company and by certifications from the states of North Carolina, South Carolina, and municipal governments, and found to consist of bonds and bank and utility stocks. There are no bonds in default and promptly.\" In reference to the mortgage loans on real estate amounting to $150 million, \"This item was verified by actual inspection with these loans were inspected and it was found that this item repreens first mortgage loans on real estate.",
+      "status": "ok"
     },
     {
       "bbox": [
         548,
-        2241,
+        2307,
         784,
         2571
       ],
       "label": "text",
-      "text": "\"This item was verified by actual inspection and is as reported. All papers in connection with these loans were inspected as reported. This item represents first mortgage loans on real estate.\"\n\n\"The North Carolina Mutual did not attempt this position like usual, but not just almostly sleeps. It has taken exactly 25 years of unselfish labor to mark its first milestone. We are pleased to note in the report of the man who has been behind the heim for every year and day of these 25 years of unselfish labor. We are pleased to mark the burden with him for 21 years. We refer to C. C. Squailing, president of the order, Mr. Mutual and J. M. Squailing, vice president and\u526fary. Of these two men the examiners say in their written report: \"These loans with the company from the beginning, are the active officials, who should be credit for its efficient management.\"\n\n\"What more crowning success could be achieved on than its 25th anniversary day to be presented with such a report, as the official examination of the National Association.\""
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        918,
+        77,
+        1158,
+        91
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -282,7 +364,8 @@
         275
       ],
       "label": "doc_title",
-      "text": "FIND SLAYER DIDN'T HAVE A DARK FACE"
+      "text": "FIND SLAYER DIDN'T HAVE A DARK FACE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,57 +375,30 @@
         355
       ],
       "label": "paragraph_title",
-      "text": "Bare Fake Posse Hunt Thru Confession"
-    },
-    {
-      "bbox": [
-        796,
-        368,
-        1033,
-        638
-      ],
-      "label": "text",
-      "text": "Gastonia, N. C., April 11., Judge A. M. Stuck in Memphis court in charge of the lease of Ransom Killinn and John Orr, charged with the murder of John Ford, under hond of $10,000 each. The decision follow conference with Solicitor John T. Carpenter and attorney Patricia T. L. Kirkpatrick, county; Attorneys T. L. Kirkpatrick, R. G. Cherry and T. G. Gutherie, representing Joe Orr; Kemp Nixon, representing Arthur Crowder, and J. Frank, representing Griffin Grice and Essie Beautie. The bonds were made and the defendants released. The two girls will probably be released on their own recognition. The action came as the climax of a young developments in the notorious Ford mystery. All parties are white."
-    },
-    {
-      "bbox": [
-        858,
-        643,
-        967,
-        653
-      ],
-      "label": "paragraph_title",
-      "text": "Warranta Issued"
+      "text": "Bare Fake Posse Hunt Thru Confession",
+      "status": "ok"
     },
     {
       "bbox": [
         794,
-        659,
-        1030,
-        1102
+        390,
+        1033,
+        881
       ],
       "label": "text",
-      "text": "Warrants for the four charging the murder of John Ford were issued recently. Three were arrested last late winter, the former chief of police of Gastonia, now night desergent in Charlotte, was not arrested. His attorneys appeared for him before Judge Stack in the courtroom. Following is the wording of the warrant: \"F. B. Ford, being duly sworn, complains and says that at and in the County of Gaston, Gastonia November, 1920, Ransom Killen, Elifie Griece, Essie Beatty, Joe Orr did he guilty of the killing of John Ford, contrary to the form of the statute beginning that the peace and dignity of the State.\" Killen, Ford and the two girls formed the party that was held up and shot on the evening of November 7, 1920. The police began that \"two Negrees\" were the guilty parties. Crowder's testimony alleges that he, Orr and another unnamed person followed the party that encountered the others, a quarrel and gun battle ensued in which Ford was killed, and the Beatty girl desperately wounded. A hunt that occurred near the men of our Race proved fruitless. A year ago the Beatty girl suffered an alleged change of heart and implicated Bob Griece and John Carwell, father of the girl parties. A\u5211\u4e8b resulted"
-    },
-    {
-      "bbox": [
-        855,
-        1109,
-        965,
-        1120
-      ],
-      "label": "paragraph_title",
-      "text": "Makes Confession"
+      "text": "Gastonia, N. C. April 11.\u2014Judge A. M. Stack in Mecklenburg court in habeas proceedings ordered the release of Iransom Killian and John Orr. Judge Iransom Killian and John Ford, under bond of $10,000 each.\n\nThe decision followed conference with Solicitor John T. Carpenter and A. G. Mangin, representing tasion R. G. Cherry and T. G. Gutherle, representing Joe Orr; Kemp Nixon, representing Arthur Crowder, and J. Frank Flowers, representing Effe R. G. Cherry and T. G. Gutherle were mute and the defendants released. The two girls will probably be released on their own recognition. The action came as the climax of a day of startling developments in the various Ford mystery. All parties are white.\n\nWarrants Issued\n\nWarrants for the four charging the murder of John Ford were issued recently. Friday afternoon, Orr, a son of a former chief of police of Gastonia, now night sergeant in Charlotte, was not arrested. His attorneys appealed to the store. Judge Stack and arranged bond.\n\nFollowing is the wording of the warrant: \"F. B. Ford, being duly sworn, complains and says that at and in township, in or about 7th day of November, 1920, Kansil Killian, Idle Grice, Essie Benttle, Joe Orr did he guilty of the killing of John Ford, contrary to the form of the statute to the peace and dignity of the State.\"",
+      "status": "ok"
     },
     {
       "bbox": [
         792,
-        1126,
+        881,
         1028,
         1384
       ],
       "label": "text",
-      "text": "Nothing more was heard of the case until a month ago, when Arthur Crowder, well-known young white man of this age, attended the cura, Ala, for forgery, confessed to the murder and implicated Joe Orr, whose father at the time of the crime number, 1920, was chief of police here. Crowder tells that he, Orr and another drove to Greensboro that night, the helen car broke down and that they arrived at the train, arriving here at 4:35 a.m. in time to take part in the hunt for the supposed Negroes \"part of Crowder's gang\" to fact that he and young Orr were in Greensboro that night, although other members of the party claim that Crowder's Greensboro earlier in the day. Crowder is held in jail here without bond."
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -352,7 +408,8 @@
         1472
       ],
       "label": "paragraph_title",
-      "text": "SIMON RHOADES LOSES CASE\nAGAINST STREET RAILWAY GO"
+      "text": "SIMON RHOADES LOSES CASE\nAGAINST STREET RAILWAY GO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +419,8 @@
         1472
       ],
       "label": "doc_title",
-      "text": "SIMON RHOADES LOSES CASE\nAGAINST STREET RAILWAY GO"
+      "text": "SIMON RHOADES LOSES CASE\nAGAINST STREET RAILWAY GO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,47 +430,19 @@
         2008
       ],
       "label": "text",
-      "text": "Simon H. Rhodes, 4446 Calumet Ave., a former cook employed by the dining car department of the Chicago Great Western railroad, lost his job after a car cage surface lines when a jury in Judge Joseph B. David's court returned a verdict of not guilty in favor of the street car company because the street car company because the street car failed to get protection from officials of an eneathound W. Roosevelt Rd. car which he boarded at 46th Ave. and he was never beaten by three men he boarded while boarded the car at a point where it was not supposed to stop. Rhodes was beaten Aug. 20, 1922, during the time when railroad employees in yards were on strike, he said. According to his story, he boarded the car, paid his fare and stood on the back platform. Only four passengers under a vajuad, an alleged nonstop point, where three men got on and beat him up, believing him to be a strikebreaker. The conductor, Rhodes said, neither the conductor, Alex McGuire, 5228 W. 5414 St., nor the motorman, John McMann, did anything help him. When he complained that the McGuire replied: \"Why should I help you? You're just as bad as they are\u2014taking bread from our kitchen.\" Because the car officials assumed this attitude toward him and denied him protection while on the car Rhodes brought suit against the company. He was represented by white Richard Perendgras (white)"
-    },
-    {
-      "bbox": [
-        847,
-        2020,
-        968,
-        2033
-      ],
-      "label": "paragraph_title",
-      "text": "KILLS BURGLAR"
-    },
-    {
-      "bbox": [
-        790,
-        2036,
-        1025,
-        2159
-      ],
-      "label": "text",
-      "text": "Evansville, Ind., April 11\u2014Two\nmales occur in Carter's city Saturday,\nmatter of interest. Carter is 37,\nwas stabbed to death while at work\nby a fellow workman. William\nBrown, 35 years old, Downing,\n35 years old, 312 Hendle-\nback Ave., shot and killed Albert\nJohnson, 20 years old, when he\nhit the latter trying to break in\nhis home."
-    },
-    {
-      "bbox": [
-        840,
-        2169,
-        974,
-        2180
-      ],
-      "label": "paragraph_title",
-      "text": "CANNING FACTORY"
+      "text": "Simon H. Rhodes, 4446 Calumet Ave., a former cook employed by the dining car department of the Chicago Great Western railroad, lost his job after a car cage surface lines when a jury in Judge Joseph B. David's court returned a verdict of not guilty in favor of the street car company because the street car company because the street car failed to get protection from officials of an eneathound W. Roosevelt Rd. car which he boarded at 46th Ave. and he was never beaten by three men he boarded while boarded the car at a point where it was not supposed to stop. Rhodes was beaten Aug. 20, 1922, during the time when railroad employees in yards were on strike, he said. According to his story, he boarded the car, paid his fare and stood on the back platform. Only four passengers under a vajuad, an alleged nonstop point, where three men got on and beat him up, believing him to be a strikebreaker. The conductor, Rhodes said, neither the conductor, Alex McGuire, 5228 W. 5414 St., nor the motorman, John McMann, did anything help him. When he complained that the McGuire replied: \"Why should I help you? You're just as bad as they are\u2014taking bread from our kitchen.\" Because the car officials assumed this attitude toward him and denied him protection while on the car Rhodes brought suit against the company. He was represented by white Richard Perendgras (white)",
+      "status": "ok"
     },
     {
       "bbox": [
         788,
-        2181,
-        1024,
+        2036,
+        1025,
         2286
       ],
       "label": "text",
-      "text": "Dr. M. Pryer, president of the Japo industrial Manufacturing association, will present a intensive trin through the South in quest of a suitable location to establish a warehouse. The class selected Nashville, Tenn., as the center for this great enterprise, where vegetables and fruits will be canned heartily and the picture of a person of our Race."
+      "text": "Evansville, Ind., April 11\u2014Two murders occurred in this city Saturday. George Carter, 35 years old, worked at a fellow workman. William Townes, 30. 38 Michelle St. Fred Downing, 35 years old, 11 Hendle Johnson, 35 years old, 11 Johnson, 20 years old, when he caught the latter trying to break in his home.\n\nCANNING FACTORY\n\nDr. M. Pryor, president of the Japo Industrial Manufacturing association, has returned to the city after an ex-convict who was a victim of a suitable location to establish a canning factory. This organization has worked for this great enterprise, where vegetables and fruits will be canned hear the picture of a person of our Race.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +452,8 @@
         2375
       ],
       "label": "doc_title",
-      "text": "\"SHE'S A GOOD LOOKING GIRL!\""
+      "text": "\"SHE'S A GOOD LOOKING GIRL!\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +463,63 @@
         2572
       ],
       "label": "text",
-      "text": "You can't expect people to say that about you as long as your appearance shows you are careless about keeping your skin free from pimples, or \"breakfasting.\" You may feel like you have no hope of getting rid of these things, but you should not give up because Black and White Ointment is proves that they can depend on people every time that they can depend on their skin clear, smooth and lovely. Black and White Ointment is economically priced, in liberal packages. The 50c size contains three times as much oil as 25c size. All dealers have it...Adv"
+      "text": "You can't expect people to say that about you as long as your appearance shows you are careless about keeping your skin free from pimples, or \"breakfasting.\" You may feel like you have no hope of getting rid of these things, but you should not give up because Black and White Ointment is proves that they can depend on people every time that they can depend on their skin clear, smooth and lovely. Black and White Ointment is economically priced, in liberal packages. The 50c size contains three times as much oil as 25c size. All dealers have it...Adv",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        880,
+        368,
+        955,
+        378
+      ],
+      "label": "text",
+      "text": "---",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        858,
+        643,
+        967,
+        653
+      ],
+      "label": "paragraph_title",
+      "text": "Warranta Issued",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        855,
+        1109,
+        965,
+        1120
+      ],
+      "label": "paragraph_title",
+      "text": "Makes Confession",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        847,
+        2020,
+        968,
+        2033
+      ],
+      "label": "paragraph_title",
+      "text": "KILLS BURGLAR",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        840,
+        2169,
+        974,
+        2180
+      ],
+      "label": "paragraph_title",
+      "text": "CANNING FACTORY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +529,8 @@
         1574
       ],
       "label": "doc_title",
-      "text": "Summer Is Just Around the Corner Here Is Your Opportunity to Enjoy it to the Fullest"
+      "text": "Summer Is Just Around the Corner Here Is Your Opportunity to Enjoy it to the Fullest",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +540,8 @@
         1908
       ],
       "label": "text",
-      "text": "clear, cool, glistening streams of water that invite bathing, boating and fishing."
+      "text": "clear, cool, glistening streams of water that invite bathing, boating and fishing.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +551,8 @@
         1919
       ],
       "label": "text",
-      "text": "Who would not enjoy spending their sum-"
+      "text": "Who would not enjoy spending their sum-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +562,19 @@
         2047
       ],
       "label": "doc_title",
-      "text": "Just Such a Place Is The New Near Chicago Summer Resort"
+      "text": "Just Such a Place Is The New Near Chicago Summer Resort",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1045,
+        2102,
+        1723,
+        2231
+      ],
+      "label": "text",
+      "text": "RIVERWOOD\nON THE BEAUTIFUL KANKAKEE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +584,8 @@
         2425
       ],
       "label": "text",
-      "text": "There will be no attempt to make this ideal little country spot \"citified.\" It is now charming in its rustic simplicity. Why spoil it? When it is taken into consideration that there are only about three hundred lots in \"River wood\" and that many of the most prominent people in the country have purchased lots, it can readily be seen that if you wish to secure one of the remaining lots it will be necessary to make your application immediately. The lots are 30x100 feet AND RANGE IN PRICE FROM $100 to $240. TERMS, ONE-FOURTH DOWN, BALANCE IN TEN EQUAL MONTHLY INSTALLMENTS. The right is reserved to return the remittance of any applicant found undesirable. ALL CHECKS MUST BE MADE PAYABLE TO J. L. LE CLAIRE, Owner, and sent to the"
+      "text": "There will be no attempt to make this ideal little country spot \"citified.\" It is now charming in its rustic simplicity. Why spoil it? When it is taken into consideration that there are only about three hundred lots in \"River wood\" and that many of the most prominent people in the country have purchased lots, it can readily be seen that if you wish to secure one of the remaining lots it will be necessary to make your application immediately. The lots are 30x100 feet AND RANGE IN PRICE FROM $100 to $240. TERMS, ONE-FOURTH DOWN, BALANCE IN TEN EQUAL MONTHLY INSTALLMENTS. The right is reserved to return the remittance of any applicant found undesirable. ALL CHECKS MUST BE MADE PAYABLE TO J. L. LE CLAIRE, Owner, and sent to the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,17 +595,19 @@
         2563
       ],
       "label": "text",
-      "text": "Phone Douglas 7415 and a representative will call and give you full particulars ALFRED ANDERSON of the Chicago Defender has been duly authorized to represent J. L. LeClaire in matters pertaining to \"Riverwood.\""
+      "text": "Phone Douglas 7415 and a representative will call and give you full particulars ALFRED ANDERSON of the Chicago Defender has been duly authorized to represent J. L. LeClaire in matters pertaining to \"Riverwood.\"",
+      "status": "ok"
     },
     {
       "bbox": [
         1039,
-        596,
+        161,
         1264,
         695
       ],
       "label": "text",
-      "text": "MRS. JENNIE CARTER\nAn automobile driven by John\nCrope, 229 E. 30th St. ran down\nand killed Mrs. Jennie Crope, 3753\nVernon Ave. Saturday afternoon at\n32d and Stata Sts. Mrs. Carter was\ndragged 40 feet after being struck.\nShe died at the County hospital."
+      "text": "MRS. JENNIE CARTER\n\nAn automobile driven by John Crope, 229 E. 30th St., ran down and killed Mrs. Jennie Carter, 3753 Vernon Ave., Saturday afternoon at 321 and State Sts. Mrs. Carter was dragged 40 feet after being struck. She died at the County hospital.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +617,8 @@
         798
       ],
       "label": "doc_title",
-      "text": "OUTCRY A FAKE, GIRL TELLS COP"
+      "text": "OUTCRY A FAKE, GIRL TELLS COP",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +628,8 @@
         1193
       ],
       "label": "text",
-      "text": "(N. A. A. C. P. Service)\nHarrisburg, Pa., April 14, after an hour and a hull's grilling by police, 15-year-old Rosina McNeal, who told the police she was attacked by a member of our Race in the thimship shop of W. H. Snook, 323 Kelner St., Harrisburg, Pa., after nearly in her imagination, sold Chief Joseph P. Thompson. The girl not only admitted the story of attack to be false, but also admitted stealing the gold from the collection she received from a tray on the office safe.\nIt was the desire to possess this locket that caused the girl to stage the fake robbery and attack, accorded to the story she told between sobs to Chief Thompson in caught with the locket in her possession, she said, made her throw it down a sewer. The locket, the property of Snook's daughter, has not been stolen of the locket. The McNeal girl had been in charge of the office at the Snook shop for several days. When her brother, employed as a timer by Snook, and an aide at the police station, she told of a \"dark man\" entering the place, and \"after that she was alone,\" attacked her and took the locket."
+      "text": "(N. A. A. C. P. Service)\nHarrisburg, Pa., April 14, after an hour and a hull's grilling by police, 15-year-old Rosina McNeal, who told the police she was attacked by a member of our Race in the thimship shop of W. H. Snook, 323 Kelner St., Harrisburg, Pa., after nearly in her imagination, sold Chief Joseph P. Thompson. The girl not only admitted the story of attack to be false, but also admitted stealing the gold from the collection she received from a tray on the office safe.\nIt was the desire to possess this locket that caused the girl to stage the fake robbery and attack, accorded to the story she told between sobs to Chief Thompson in caught with the locket in her possession, she said, made her throw it down a sewer. The locket, the property of Snook's daughter, has not been stolen of the locket. The McNeal girl had been in charge of the office at the Snook shop for several days. When her brother, employed as a timer by Snook, and an aide at the police station, she told of a \"dark man\" entering the place, and \"after that she was alone,\" attacked her and took the locket.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,17 +639,30 @@
         1220
       ],
       "label": "paragraph_title",
-      "text": "CLAIM WOMAN PRISONER"
+      "text": "CLAIM WOMAN PRISONER",
+      "status": "ok"
     },
     {
       "bbox": [
         1031,
         1224,
         1269,
-        2063
+        1435
       ],
       "label": "text",
-      "text": "IS ESCAPED MURDERESS\nNewark, N. J. April 11.-Helen\nJenson, in pursuit, three-month sentence at Caldwell, has been desolued\nthe Philadelphia police to be Miss Agnes Williams, alias Viola Haywood,\nwho was tried for murder in that city in 1934 sentenced to from five to seven years for manslaughter, and escaped July from the Asylum for Criminal Insane at Alentown.\n\nA letter received by Police Chief Long Thursday, signed by Joseph A. LeStrange, acting captain of detectives, Philadelphia, says the woman's fingerprints, copies of which were sent to Philadelphia, show her identity. She will be held for the police of the city.\n\nSummer Is\nHere Is Your Opinion\n\nAs the bright, warm, sunshiny days come most of us who live in cities get that tired, languid feeling, the result of being housed up all winter.\n\nWe want to get out in the open where the birds are singing, wild flowers blooming; where there are long stretches of velvety grass, glorious shade trees, clear, cool, glistening streams invite bathing, boating and fishing. Who would not enjoy spend\n\nThe New Nea"
+      "text": "IS ESCAPED MURDERESS\nNewark, N. J. April H.-Helen Johnson, serving a three-month sentence on Calthwish, has been declared by the judge Agnes Williams, alias Vilas Haywood, who was tried for murder in that city in 1919, sentenced for from five to seven years for manslaughter, and from the Asylum for Criminal Institution. A letter received by Police Chief Long Thursday, signed by Joseph A. LeStrange, acting captain of detectives, Philadelphia, says the woman's fingerprints, copies of which were Philadelphia, show her identity. She will be held for the police of that city.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1044,
+        1583,
+        1190,
+        1872
+      ],
+      "label": "text",
+      "text": "As the bright, warm, sunshiny days come most of us who live in cities get that tired, languid feeling, the result of being housed up all winter. We want to get out in the open where the birds are singing, wild flowers blooming; where there are long stretches of velvety grass, glorious shade trees,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -552,17 +672,19 @@
         1243
       ],
       "label": "doc_title",
-      "text": "CHILDREN CRY FOR \"CASTORIA\""
+      "text": "CHILDREN CRY FOR \"CASTORIA\"",
+      "status": "ok"
     },
     {
       "bbox": [
-        1391,
-        1871,
+        1205,
+        1588,
         1729,
         1922
       ],
       "label": "text",
-      "text": "mother and the kiddies to spend the summer months. Dad can motor down every night or week-end; just a couple of hours' drive"
+      "text": "mer vacation in a little cottage\u2014say like the one pictured\u2014which can be erected for a few hundred dollars\u2014situated in a little garden spot only 58 miles from Chicago, surrounded by a small group of friends and associates? \"Nothing could be sweeter.\" A real touch of the simple life; an ideal place for streams of water that bring and fishing. Boy spending their summer mother and the kiddies to spend the summer months. Dad can motor down every night or week-end; just a couple of hours' drive",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -572,7 +694,8 @@
         274
       ],
       "label": "doc_title",
-      "text": "HOWARD LAW SCHOOL GETS BIG LIBRARY"
+      "text": "HOWARD LAW SCHOOL GETS BIG LIBRARY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -582,7 +705,8 @@
         358
       ],
       "label": "paragraph_title",
-      "text": "Fulfill Requirements For Recognition"
+      "text": "Fulfill Requirements For Recognition",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -592,7 +716,8 @@
         626
       ],
       "label": "text",
-      "text": "Washington, D. C., April 11.\u2014There is a growing demand for lawyers throughout the United States and large numbers of our people are residing according to information received at the office of the secretary of the school of law at Howard university, growth of the great migration movement which has been in progress during the past few years, and the need for lawyers the Howard university school of law found it necessary some time ago to enlarge its facilities for training students for the profession of law. Most of the time approximately $20,000 was spent on improvements to its building on Fifth St. These improvements have made it possible to accommodate as many as"
+      "text": "Washington, D. C., April 11.\u2014There is a growing demand for lawyers throughout the United States and large numbers of our people are residing according to information received at the office of the secretary of the school of law at Howard university, growth of the great migration movement which has been in progress during the past few years, and the need for lawyers the Howard university school of law found it necessary some time ago to enlarge its facilities for training students for the profession of law. Most of the time approximately $20,000 was spent on improvements to its building on Fifth St. These improvements have made it possible to accommodate as many as",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -602,7 +727,8 @@
         640
       ],
       "label": "paragraph_title",
-      "text": "Curriculum Revised"
+      "text": "Curriculum Revised",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -612,7 +738,8 @@
         940
       ],
       "label": "text",
-      "text": "The school of law of Howard is the second oldest in the city of Washington. With the increase in facilities for training larger numbers of students, a strengthening in its faculty. A complete revision of its curriculum was made during 1923 as a result of certain studies made by representatives of the American law schools used at Harvard and other great American law schools. These revisions have resulted in the strengthening of its curriculum and resulted in the establishment of the school of law approved by the Association of American Law Schools. Thus far success has followed the conduct of the courses under the new curriculum during the present school year. The requirements for an adequate law school library by bringing up the number of volumes to 5,000 it is predicted that the school of law of Howard receives the approval of the association."
+      "text": "The school of law of Howard is the second oldest in the city of Washington. With the increase in facilities for training larger numbers of students, a strengthening in its faculty. A complete revision of its curriculum was made during 1923 as a result of certain studies made by representatives of the American law schools used at Harvard and other great American law schools. These revisions have resulted in the strengthening of its curriculum and resulted in the establishment of the school of law approved by the Association of American Law Schools. Thus far success has followed the conduct of the courses under the new curriculum during the present school year. The requirements for an adequate law school library by bringing up the number of volumes to 5,000 it is predicted that the school of law of Howard receives the approval of the association.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -622,7 +749,8 @@
         953
       ],
       "label": "paragraph_title",
-      "text": "Raise Standard"
+      "text": "Raise Standard",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -632,7 +760,8 @@
         1068
       ],
       "label": "text",
-      "text": "Recently an announcement was sent out by the secretary of the school of law calling attention to the need for a place among the standard law schools of the world, and also calling attention to the fact that beginning Oct. 1, admission requirements included two years of standard college work."
+      "text": "Recently an announcement was sent out by the secretary of the school of law calling attention to the need for a place among the standard law schools of the world, and also calling attention to the fact that beginning Oct. 1, admission requirements included two years of standard college work.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,7 +771,8 @@
         1085
       ],
       "label": "paragraph_title",
-      "text": "SALESMAN JAILED"
+      "text": "SALESMAN JAILED",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -652,7 +782,8 @@
         1639
       ],
       "label": "text",
-      "text": "Philadelphia, Pa., April 11\u2014Magistrate Amos Scott held William Lewis of S. Isseminger St., near 20th in 1600 bell on Tuesday for a further hearing pending an investigation into his story that he purchased a number of hats which he had in his possession and was trying to sell when he was arrested.\n\nCHILDREN CRY\n\nA Harmless Substitute for and Soothing Syru\n\nMother! Fletcher's Castoria has been in use for over 90 years to relieve leaks, and children of Constipation, Flatulency, Wind Colle and Diarrhea; allaying Feverishness arising therefrom, and, by regulating the Stomach and Bowels, aids the assimilation of Food: giving natural\n\nJust Around\n\nportunity to Enjoy"
+      "text": "Philadelphia, Pa., April 11\u2014Magistrate Amos Scott held William Lewis of S. Isseminger St., near 20th in 1600 bell on Tuesday for a further hearing pending an investigation into his story that he purchased a number of hats which he had in his possession and was trying to sell when he was arrested.\n\nCHILDREN CRY\n\nA Harmless Substitute for and Soothing Syru\n\nMother! Fletcher's Castoria has been in use for over 90 years to relieve leaks, and children of Constipation, Flatulency, Wind Colle and Diarrhea; allaying Feverishness arising therefrom, and, by regulating the Stomach and Bowels, aids the assimilation of Food: giving natural\n\nJust Around\n\nportunity to Enjoy",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -662,7 +793,8 @@
         214
       ],
       "label": "doc_title",
-      "text": "Tries Shooting to Wake Friend But Kills Him"
+      "text": "Tries Shooting to Wake Friend But Kills Him",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -672,7 +804,8 @@
         214
       ],
       "label": "paragraph_title",
-      "text": "Tries Shooting to Wake Friend But Kills Him"
+      "text": "Tries Shooting to Wake Friend But Kills Him",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -682,7 +815,8 @@
         470
       ],
       "label": "text",
-      "text": "Clarksville, Teen, April 11\u2014\"Playing\" with a pistol proved costly to Britt, who was shot in the morning pleaded guilty in the criminal court to involuntary manslaughter, under an indictment charging him with the death of Jack Britt, who was killed as he did on the seat of a buggy. Eleven months and two years later in the county workhouse was meted out to Northington on this charge. Northington admitted shooting a buggy driver stating that he was \"just pranking\" with the pistol in an effort to awaken Britt suddenly and frighten him. As the shooting occurred on a country road, no eyewitnesses to the homeide."
+      "text": "Clarksville, Teen, April 11\u2014\"Playing\" with a pistol proved costly to Britt, who was shot in the morning pleaded guilty in the criminal court to involuntary manslaughter, under an indictment charging him with the death of Jack Britt, who was killed as he did on the seat of a buggy. Eleven months and two years later in the county workhouse was meted out to Northington on this charge. Northington admitted shooting a buggy driver stating that he was \"just pranking\" with the pistol in an effort to awaken Britt suddenly and frighten him. As the shooting occurred on a country road, no eyewitnesses to the homeide.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -692,7 +826,8 @@
         575
       ],
       "label": "doc_title",
-      "text": "BOLD FLIRT IS TAKEN TO JAIL"
+      "text": "BOLD FLIRT IS TAKEN TO JAIL",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -702,7 +837,8 @@
         834
       ],
       "label": "text",
-      "text": "New York, April 11\u2014John Ellot (white), a subway \"masher,\" attempted to flirt with the wrong person on a subway and hid in a hallway in the work house, where he will remain for at least five days. The cause of his discontinuity is Miss Estelle Richmond, a young woman of culture. According to witnesses, Miss Richardson boarded the train at the Pennsylvania station and was forced to leave, as a young woman of culture, came close to her and began making insulting remarks. When Miss Richardson resented his unclean appearance, she was returned. If you were in Georgia it would have you strung up.\""
+      "text": "New York, April 11\u2014John Ellot (white), a subway \"masher,\" attempted to flirt with the wrong person on a subway and hid in a hallway in the work house, where he will remain for at least five days. The cause of his discontinuity is Miss Estelle Richmond, a young woman of culture. According to witnesses, Miss Richardson boarded the train at the Pennsylvania station and was forced to leave, as a young woman of culture, came close to her and began making insulting remarks. When Miss Richardson resented his unclean appearance, she was returned. If you were in Georgia it would have you strung up.\"",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -712,7 +848,8 @@
         1073
       ],
       "label": "text",
-      "text": "Miss Richardson replied that she was not in Georgia and that it would be advisable for him to return to his factories and get away with them. She then left the train at 9:58 St. Elliot followed her and attempted to strike her, but missed his aim and struck her, a white woman in a Hammock. Hammock, she, Mrs. Game, immediately took sides with Miss Richardson, who caught Elliot and held him until the police arrived. In the 45th St. night court, where Elliot, a Game appeared with Miss Richardson against him. The judge commended the two women for their pluck in holding Elliot, and remarked that if more women were as plucky\" there would be fewer-men of Elliot's type at present."
+      "text": "Miss Richardson replied that she was not in Georgia and that it would be advisable for him to return to his factories and get away with them. She then left the train at 9:58 St. Elliot followed her and attempted to strike her, but missed his aim and struck her, a white woman in a Hammock. Hammock, she, Mrs. Game, immediately took sides with Miss Richardson, who caught Elliot and held him until the police arrived. In the 45th St. night court, where Elliot, a Game appeared with Miss Richardson against him. The judge commended the two women for their pluck in holding Elliot, and remarked that if more women were as plucky\" there would be fewer-men of Elliot's type at present.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -722,27 +859,85 @@
         1095
       ],
       "label": "paragraph_title",
-      "text": "GETS 20 YEARS"
+      "text": "GETS 20 YEARS",
+      "status": "ok"
     },
     {
       "bbox": [
         1509,
         1098,
         1748,
-        2649
+        1585
       ],
       "label": "text",
-      "text": "Philadelphia, Pa., April 11.\u2014Robert Savage, 48 S. Eighth St. Camden, voyaged to 20 to 20 years in the state prison by Justice Katzenbach after he had been convicted of slaying Henry Daniels three months ago in a quarrel over a woman in a dance hall.\n\nFOR \"CASTORIA\"\n\nCastor Oil, Paregoric, Drops \u2014 No Narcotics!\n\nsleep without oplates. The genuine bears signature of\n\nChas H. Hutchers\n\nAt the Corner it to the Fullest\n\nmer vacation in a little cottage\u2014say like the one pictured\u2014which can be erected for a few hundred dollars\u2014situated in a little garden spot only 58 miles from Chicago, surrounded by a small group of friends and associates? \"Nothing could be sweeter.\" A real touch of the simple life; an ideal place for kiddies to spend the summer on motor down every night or a couple of hours' drive\n\nSummer Resort\n\n58 miles to CHICAGO\n\ntry spot \"citified.\" It is now into consideration that there many of the most prominent seen that if you wish to secure application immediately. The 1240. TERMS, ONE-FOURTH ENTS. The right is reserved ALL CHECKS MUST BE\n\nRESORT\nCHICAGO, ILLINOIS\n\nlive you full particulars\n\nduly authorized to represent"
+      "text": "Philadelphia, Pa., April 11.\u2014Robert Savage, 48 S. Eighth St., Camden, voyaged to 20 to 30 years in the state prison by Justice Katzenbach after he had been convicted of slaying Henry Daniels three months ago in a quarrel over a woman in a dance hall.\n\nFOR \"CASTORIA\"\n\nCastor Oil, Paregoric, Drops \u2014 No Narcotics!\n\nsleep without oplates. The genuine bears signature of\n\nChast. H. Fletcher\n\nthe Corner\nit to the Fullest",
+      "status": "ok"
     },
     {
       "bbox": [
-        1751,
+        1584,
+        1585,
+        1729,
+        1872
+      ],
+      "label": "text",
+      "text": "mer vacation in a little cottage\u2014say like the one pictured\u2014which can be erected for a few hundred dollars\u2014situated in a little garden spot only 58 miles from Chicago, surrounded by a small group of friends and associates? \"Nothing could be sweeter.\" A real touch of the simple life; an ideal place for",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1509,
+        1872,
+        1748,
+        2468
+      ],
+      "label": "text",
+      "text": "kiddies to spend the summer\nan motor down every night or\na couple of hours' drive\n\nSummer Resort\n\n56 miles TO\nCHICAGO\n\ntry spot \"citified.\" It is now\ninto consideration that there\nmany of the most prominent\nseen that if you wish to secure\napplication immediately. The\n240. TERMS, ONE-FOURTH\nENTS. The right is reserved\nALL CHECKS MUST BE\n\nESORT",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1509,
+        2468,
+        1748,
+        2649
+      ],
+      "label": "text",
+      "text": "CHICAGO, ILLINOIS vive you full particulars duly authorized to represent",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1801,
+        73,
+        1983,
+        87
+      ],
+      "label": "text",
+      "text": "PAGE THREE- PART ONE",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1753,
         233,
         1986,
+        807
+      ],
+      "label": "text",
+      "text": "35c \"Danderine\" does Wonders for Any Girl's Hair\n\nGirls! Try this! When combing and dressing your hair, just moisten your hair brush with a little \"Danderino\" and brush it through your hair. The effect is startling! You can do your hair up immediately and it will appear twice as thick and heavy-a mass of gleamy hair, sparkling with life and possessing that incomparable softness, freshness",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1753,
+        809,
+        1985,
         908
       ],
       "label": "text",
-      "text": "35c \"Danderine\" does Wonders for Any Girl's Hair\n\nGirl! Try this! When combing and dressing your hair, just moisten your hair brush with a little \"Danderine\" and brush it through your hair, the effect is wearing. You can do your hair up immediately and it will appear twice as thick and heavy\u2014a mass of gleamy hair, sparkling with life and possessing that incompatible softness, freshness and luxuriance.\n\nWhile beautifying the hair \"Danderine\" is also toning and stimulation each hair, it holds a thick, long and dandruff disappears. Get a bottle of delightful, refreshing \"Danderine\" on the toilet counter and just see how healthy and youthful your hair becomes."
+      "text": "While beautifying the hair \"Dandermine\" is also toning and stimulating each single hair to grow thick, long and strong. Hair stops falling out and dandruff disappears. Get a new haircut. \"Dandermine\" at any drug toilet counter and just see how healthy and youthful your hair becomes.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -752,7 +947,8 @@
         968
       ],
       "label": "paragraph_title",
-      "text": "VALUABLE REWARD"
+      "text": "VALUABLE REWARD",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -762,27 +958,41 @@
         1119
       ],
       "label": "text",
-      "text": "UCK comes your way\nwear this emblem of\nsuccess in love and\nsunny side of the\nsweetheart, health and\nfriends. Wear this\nwear this emblem of\nspace of beautiful\nantique. Wear this\nantique. Wear this\nantique. Wear this\nant"
+      "text": "UCK comes your way\nwear this emblem of\nsuccess in love and\nsunny side of the\nsweetheart, health and\nfriends. Wear this\nwear this emblem of\nspace of beautiful\nantique. Wear this\nantique. Wear this\nantique. Wear this\nant",
+      "status": "ok"
     },
     {
       "bbox": [
         1751,
-        1111,
+        977,
         1984,
-        1356
+        1175
       ],
       "label": "text",
-      "text": "Men's Sizes Only. with two intrinsic gems set in cataclysmic histories reputed to be the most beautiful men in theaters delighted, gain strange power, and wear an upper star. Ring is charmed to ward away a lucky star. Write today. A great surprise awaits you.\n\nDon't Send a Penny\nOnly your name and address. When your ring comes, deposit in trust with the millman $12.8. Or if you like send $12.8 in cash or gift card. When your ring comes, a special price. Ring will sell vry soon for $10.00 that rich man wish to buy. If you are not delighted. Money you receive is not delicately. Money you receive is not delicately. Questions. Your word is good with us. But do not put it off. Money you receive is not delicately. Money you receive is not delicately. Those who act at once will be given this special price. Nothing like it will be. Wear by the time you get lucky. Write today. The old reliable house. 800, 649 E. Jackson Blvd. Chicago, IL 609-649"
+      "text": "UCK comes your first choice for wear this emblem of success in love and business sunny side of the moon sweetheart, health and friends. We can ship this emblem of beautiful terrace of beautiful garden. With admiration from all. Ring in gold effect. Mounted set in caballic hieroglyphs, sequenced to be taken from an ancient Abyssinian ear. Wear. Hinge under a lucky star. Hinge is charmed to ward off evil and bestow good. Write today. A",
+      "status": "ok"
     },
     {
       "bbox": [
         1751,
         1311,
-        1986,
+        1984,
+        1373
+      ],
+      "label": "text",
+      "text": "given this special price. Nothing like it\ngiven this special price. Nothing like it\nLuke, write today. The old reliable house-\ner. E. Jackson Blvd., Chicago, Illinois.\nHave Happiness, Love, Money!",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1753,
+        1411,
+        1979,
         1850
       ],
       "label": "text",
-      "text": "given this special price. Nothing like it.\nWon by New York City. May 22\nJACKY. Write today. The old reliable house.\nFELIX PROSPER COMPANY. Room $60, 64\nk. Jackson Bldd., Chicago, Illinois.\nHave Happiness, Love, Money!\n\nRevealed at Last!\nBeauty Secrets\nNow the Youth and\nBeauty Secrets of\nGovernment.\nMay be Yours\n\nGet a Copy of the Amazing Treatise\nHOW TO BE BEAUTIFUL AND\nKEEP YOUTHFUL\nBy Adeen C. E. Minott, D. M.\n\nBegin Today to Grow Young\u2014\nacquire the youthful appearance\nand beauty that you may\nadmit and envied by all. Write\nimmediately for this wonderful\ntreatise. SEND NO MONEY\u2014\nsimply pay the postman $2.00 on\ndelivered mail. Money back if not satisfied.\nEdition strictly limited. WRITE US\nTODAY.\n\nCLIO SCHOOL\nSuite 14, 246 W. 129th St.\nNew York City"
+      "text": "Revealed at Last!\n\nBeauty Secrets\nNow the Youth and Beauty Secrets of Society's \"400\" May Be Yours\nGet a Copy of the Amazing Treatise\nHOW TO BE BEAUTIFUL AND KEEP YOUTHEUL\nBy Aden C. E. M. Minot, D. M.\nBegin Today to Grow Younger\u2014to acquire the youthful appearance and beauty that make you admired and envied by all. Write immediately for this wonderful trentise. SOME JOY to simplify, pay the postman $2.00 on delivery, plus a few cents postage. Money back if not satisfied. Edition strictly limited. WRITE US TODAY.\n\nCLIO SCHOOL\nSuite 14, 246 W. 129th St. New York City",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -792,7 +1002,8 @@
         1921
       ],
       "label": "paragraph_title",
-      "text": "GET WELL"
+      "text": "GET WELL",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -802,17 +1013,41 @@
         2196
       ],
       "label": "text",
-      "text": "Why suffer with Chronic Cough, weak Lungs, Loss of Weight and Strength, Dyspepsia, Constipation, Blood Disease, Rheumatic and Neuralgic Pains, Kidney, Bladder, Prostate, Womb and Ovarian Discases or a weakened, relaxed condition of any organ, when for $2.00 we will send you a large bottle of DR. IVEY'S REVIVER, postpaid. This great medicine has relieved thousands of these and other serious ailments and should help you.\n\nSEND FOR FREE BOOKLET containing valuable information today.\n\nIVEY LABORATORY CO., Inc.\nDesk A. Memphis, Tennessee\nAgents Wanted Everywhere"
+      "text": "Why suffer with Chronic Cough, weak Lungs, Loss of Weight and Strength, Dyspepsia, Constipation, Blood Disease, Rheumatic and Neuralgic Pains, Kidney, Bladder, Prostate, Womb and Ovarian Discases or a weakened, relaxed condition of any organ, when for $2.00 we will send you a large bottle of DR. IVEY'S REVIVER, postpaid. This great medicine has relieved thousands of these and other serious ailments and should help you.\n\nSEND FOR FREE BOOKLET containing valuable information today.\n\nIVEY LABORATORY CO., Inc.\nDesk A. Memphis, Tennessee\nAgents Wanted Everywhere",
+      "status": "ok"
     },
     {
       "bbox": [
-        1751,
+        1766,
         2228,
-        1986,
+        1961,
+        2270
+      ],
+      "label": "text",
+      "text": "HISTORICAL PHOTOS Of men that have carved their names in fame to live forever.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1761,
+        2268,
+        1963,
+        2448
+      ],
+      "label": "text",
+      "text": "O",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1755,
+        2447,
+        1979,
         2586
       ],
       "label": "text",
-      "text": "HISTORICAL PHOTOS\nOf men that have carved their\nnames in fame to live forever.\n\nCOL. CHAS. YOUNG, U. S. Army\nDR. ROBERTY WARDHURST\nDR. LAWRANGE DUNBAR, Post\nLAWRANGE DLLLAMPS, Attor\nBURETT PHILLIPS. Attor\nPhotos Bx10\u2014High Grade Photopage Finish\n50 CALL POETRY TID\nFOSTER HISTORICAL\nPHOTO SUPPLY\nBOX 202, CHICAGO DEFENDER OFFICE\nCHICAGO, IL.\n\nUSE DEFENDER WANT ADS"
+      "text": "COL. CHAS. YOUNG, U. S. Army\nPAUL LAWRANCE DUNBUR, Post\nPAUL LAWRANCE DUNBUR, Post\nAURT HURT, WILLIAMS, Actor\nPhotos #1-10 - High Grade Photographs Finish\nDOCUMENTS\nFOSTER HISTORICAL\nPHOTO SUPPLY\nBOX 202, CHICAGO DEFENDER OFFICE\nCHICAGO, ILL.\n\nUSE DEFENDER WANT ADS",
+      "status": "ok"
     }
   ]
 }

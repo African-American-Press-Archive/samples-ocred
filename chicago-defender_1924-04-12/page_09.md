@@ -1,3 +1,5 @@
+SATURDAY, APRIL 12, 1924
+
 New York, April 11.—Justice probably will take its course and mete out the proper decision in the case of Patrolman Howard C. Clancy (white), a judge of the special service squad, who was killed early morning of Feb. 23, deliberately took his gun and broke the glass door of Neville Avenue, near the Neville Avenue, through which he climbed and firedProminently into a crowd of killing David Harris, 48, 503 E. 125d St.
 
 Clancy is charged with manslaughter in House in the homicide court in $10,000 for examination. It is said that Clancy was not wearing a tinting in the Harlem district he heard pushed. He entered and engaged in a free-for-all fight, during which he was cut up. According to Assistant District Attorney Rynan, Clancy's economics are not well. Clancy was accused while intoxicated and demanded whiskey from Lew Allon, the bartender, in the place the plain clothes police officer was ambushed and threatening language. Finally he was forced out the side door, becoming more angered at the execution. Becoming more angered at the execution, he entered the glass in the door and climbed back into the place and began shooting. Hartley fully playing cards in the place at the chest in the chest and Paul Lightfoot, 42, W. 324 N. St., was in the arm, after the occurrence the malicious people police had been dangerously slushed during a fight with a score of 12. The fact that Clancy is charged with should explain the case satisfactorily.
@@ -80,9 +82,13 @@ Fund. 1750 Broadway, New York.
 NEXTLY *FURNISHED* ROOMS IN
 Arkansas City, N.Y.
 
+NEW YORK PAGE
+
 # NEW YORK CITY BRIEFS
 
-Will Mercer Cook, son of Will Marton and father's studio. 225 W. 138th St. Sunday. Pound Cook proved that he was a master in crystal glasses as refinements, in crystal glasses as refinements, in White, Bernie Mosek, Linda Moske, Ethel Moses, and the Moss, Percy Ancestor, combe and Dick Thomas. He fitted at his home Saturday night, Lawrence Turner. 20, 268 St. 11st St. He attended all and allowed to remain at home. He was removed from his home to Harlem hospital at 12:30 Saturday afternoon. He drunk the contents of a quarters and became unconscious. Mrs. Anna Dryer, 22, 18th St. She was taken there last Sunday. She was taken there last Sunday. Little Isaac Smith. 3 years old. 11th St. Colonel L. L. L. was found witch times square at 1 o'clock Saturday 22, 224 St. She fell down the endure length of the stairs. She to the hospital in a serious condition. Lenox Ave. last Friday night. Frank Leary, 22, 192 St. He任职 of the wealth and Henry Cheeseburger, 162, 142 St. The man brought the child to the W. While descending the stairs of the building, he fell down the endure le
+[OCR timeout]
+
+[OCR timeout]
 
 Juniper lodge, No. 10152, and their invited guests, the annual sermon by the Junior church by the Rev. J. W. Brown on Friday evening, at Mother A. M. E. Zion church, the Junior stewardesses and a meeting of the brotherhood of the Junior church at the Brotherhood house Thursday evening, allinian Greer, one of the best known citizens of Topeka, Kan., died at midnight, Marion, Kan., died at midnight, Marion, Kan., died at Edward Johnson, better known as "Black Dresser" the Dressing Room club of this city. Tuskegee excerises were held under the Dressing Room club of Sunday at Mother A. M. E. Zion church. There was a special program rendered. An annual sermon was preached to Dr. Brown at Mother A. M. E. Zion church Sunday night. In cucumina, Isaac Sheppard 30, 112 W. Elst St. was removed from his home, to Harlem hospice 30, 112 W. Elst St.
 
@@ -107,26 +113,9 @@ pluples it at his
 other day. It is said his
 condition
 
-Lee Sample, 2 W. 135th St. who has moved to Harlem hospital last Tuesday. suffering from stomach trouble, Mrs. Helma Tucker, 102 W. 124th St. was taken from her home to harlem hospital to be improving. the children had stolen their little 2-year-old son last, Mrs. and Mrs. Leaster Davis, 103 W. 217th St. was taken from her
+[OCR timeout]
 
-## SICK LIST
-
-John Reaxson, 225 W. 115th St.; Hattier
-Dyson, 225 W. 115th St.; Hattier
-Lenox, 225 W. 115th St.; Eugenia
-Wise, St. Josephs hospital; Neale Ar-
-lery, St. Josephs hospital; Jamaica,
-St. L. I. Burleigh, Burleigh;
-Rovell hospital; St. Josephs,
-St. L. I. Burleigh; 225 W. 115th
-St.; Ida T. M. Miller, 69 W. 152d St.
-Smith, St. Luke's hospital; M. L. T.
-Smith, St. Luke's hospital; M. L. T.
-Smith, St. Margaret's hospital;
-Hospital; Pinkney
-Bellevue hospital; Hattie Stokes, 40
-W. 115th St.; City Hattie, 40
-W. 115th St.
+[OCR timeout]
 
 ## BROOKLYN LICENSES
 
@@ -142,27 +131,7 @@ dow, 20, 707 Decatur St, Ottillo Dill,
 hall, 29, 642 Park Pl, Frank Gregory,
 24, 1640 Karen St, Viola Harris, 29.
 
-Ethlebert Joness, 24, 49 W. 137th St.
-Warren St., 24, 49 W. 137th St.
-Warren St., Theodore William St., 28,
-Andreite Liverpool, 19, 38 Dedebosevi
-Marion Greene, 20, 1701 Congo Island
-Ave.; Louis Green, 38, 1701 Congo Island
-Ave.; Louis Green, 38, 1701 Congo Island
-Henry Walter, 38, 167 Russell St., and
-Joseph Johnson, 38, 167 Russell St.
-Samuel Johnson, 68, and Elizabeth
-Weld, 623; Hancock St.; Thomas
-Grinnage, 51, 16 Hull St.; Mortimer
-Johnson, 51, 16 Hull St.; Mortimer
-Johnson, 51, John Brown, 24, 49 Garfield
-19, and Carolyn Francis, 22, 24
-Baltimore, and Anita
-Baltimore, 15, 57 Dedebosevi St.
-
-## BROOKLYN DEATHS
-
-Ana E. Baldwin. 66, 145 Lafoette Ave.; Messio I. Domis, 66, 145 Lafoette Ave.; 123 Hannon St.; Catherine Martin. 1, 50 Franklin Ave.; Catherine Martin. 1, 50 Franklin Ave.; Har安 A. Brown, 45, 217 Bedford Ave.; John P. Kennedy, 45, 615 Ralph Ave.; John H. Hillebrand, 5, 255 Melbough St.; Ada H. Clark, 6, 255 Melbough St.; David Grant, 65, 411
+[OCR timeout]
 
 ## MANHATTAN MORTALITY
 
@@ -171,6 +140,10 @@ Mariaret Alexander, 46, 658 St. Nicheau Ave. Geneva, IL 60022, 70, 256 W. 125th;
 ## HENRY FORD FINED
 
 Several hundred persons granted tholls in the county and the town where Friday when the work called the tholls wanted for "o'cining in Bradford Avenue." In April 1967, the county issued 45 years' worth. Ford paid his fifteenth of the money.
+
+## SICK LIST
+
+## BROOKLYN DEATHS
 
 MATT HENSON SPEAKER.
 AT-ST. MARK'S LYCEUM
@@ -200,13 +173,7 @@ Newark, N.J. J, April H1 - The Rev. William B. King, the Rev. Kenneth J. church,
 
 # Long Island News
 
-GLEN COVE 1:1
-
-Black Herman, well-known magician,
-appeared at Calvary A. M. F. church,
-Friday evening, March 25. The Rev.
-
-appeared at Calvary A. M. E. church Friday evening, March 28. The Rev. Brian S. McGee, the Secretary of Livingstone college, Shailen N. S. lectured at the Lincoln University, formerly affiliated with the Wilson, formerly affiliated with the University, the civic of the house. Loyal鸦 club, North Shore judge, 221 of Elks held a House Thursday evening of this week. Those on the committee are as follows: House Thursday evening
+[OCR timeout]
 
 ## HEMPSTEAD, L. J.
 
@@ -261,51 +228,23 @@ Mr. and Mrs. J. Turner Layton are
 may. About the same time Mrs. Lay-
 ton may. About the same time M
 
-Vincent Jackson, 18, 216 W. 14th St., where he pleaded guilty to a charge of depositing a metal dislace in a turntable of the Ninth St. station of the Ninth Ave. I, charged with petty larceny on which St. John had been held was dismissed by the Ninth St. station of the Ninth Ave. I, who was arranged for recommendation of the district attorney.
+[OCR timeout]
 
-Silver Cromwell, 15, 144 W. 14th St., was tried last week and acquitted by the Ninth St. station of giving a charge of violating the Sullivan law. In the sum of $200 for trial was paid to Louis Capitan, 15, 217 W. 58th St., who was arranged on a charge of failing to give tenants suffrage in the Ninth St. station of the Ninth Ave. I, who was arranged on a charge of having policy slips in his office of Louis Capitan, 15, 217 W.
+[OCR timeout]
 
 Henry Smith, 47 W. 152th St., was sent to a lawsuit made by Thomas Burton, 302 W. 152th St. and Tuesday on a charge of violating the Volunteer act who John Barber, 302 W. 152th St. and Frank Morton, 2 W. 141st St. and Charged with robbery, Walter Lester, Wednesday on complaint of John Aelrodina of the same address, and William F. Burton, the latter of several dollars worth of personal property, violated of the Volunteer act caused the arrest Wednesday morning of John Aelrodina, three others, who were taken in a store on Wednesday, and 1471 Seward Ave. George elton, 40 W. 152th St. John Clover, 42 W. 152th St. John Clover,
 
-# TABB'S RESTAURANT
-594 LENOX AVENUE PHONE HARLEM 7483
+NEW YORK PAGE
 
-YOUR HEALTH IS DEPENDENT UPON
-WHAT YOU EAT
+A pleasant evening was spent March 16 in the St. Mark's Episcopal league of St. Mark's M. P. church, Rudolph Hayes is president of the The Sunday school of St. Mark's M. P. church, will hold its annual spring hazzar the week of April 21. Interagency groups have been arranged for every evening. The group will include Freman, superintendent; Elizabeth Mickens, secretary; Mildred Turner, treasurer; and an assistant treasurer. James Lusten and Mrs. Mildred Flowers of the "Heavenly Gate company" are members of the events in the church and are staff.
 
-Special Dinner from Noon to 10 P. M.
+[OCR timeout]
 
-A dinner for new members was held the evening. An enjoyable time was had by the many present. 19 W. 155th St. entertained the Fleur de l'club or club.
+[OCR timeout]
 
-Mrs. Fanny Cozzens, 19 W. 135th St.
-Broadway, Fleur de Lia club or
-Monday evening.
+[OCR timeout]
 
-Mrs. Hattie Baltimore. 125 W. 13th
-St. was hostage to the Silver Spray
-Court.
-
-A pleasant evening was spent March 11 at St. Mark's. The league of St. Mark's M. E. Church, Rudolph Hayes is president of the. The Sunday school of St. Mark's M. E. Church will hold its annual spring season the week of April 21. Interested students have been arranged for every evening. The executives of the school are Alfred Mickens, secretary; Mildred Turner, master; Emma McGuirk, assistant treasurer; Emma McGuirk, assistant treasurer; Mr. and Mrs. James Lucas and Mrs. and Mrs. James Lucas and Mrs. Alar 'company are filling engagements in Columbia Day, of W. 143th St., spending some time in Daytona, Fla., and the Columbia Day, of W. 143th St., him Monday morning, Mrs. Day has been at Daytona several weeks for her Nahum Daniel Brascher, editor-in-chief, here Friday and was among the large party that left Tuesday night here Friday and was among
-
-Oliver Cromwell, 25 144 W. 14th St.
-of carrying danger, worn during
-carrying of curry danger, worn
-Walter Jolley, 34 233 W. 14th St.
-Seventh Ave, last Tuesday, charged
-with obstruction traffic, worn
-cutting Irene Loftin in their apartment
-house at 16 W. 13th St. William Mitchell,
-40 31 W. 13th St. was given a
-Dinfield Fleet, 28 93 W. 13th St. was
-for violating the Sultanin's Police-
-liceman Regan of the Sultanin's St.
-station, in possession of the defendant.
-Judge Muqluen in general sessions
-of the trial, in the Sultanin's St.
-Adams, 40 25 W. 13th St. who was
-general sessions last week to press a
-general sessions bill, big and
-Enrico, 40 25 W. 13th St. wh
+[OCR timeout]
 
 Walter Combs, Wv. 13d St., was
 presented at the annual meeting
@@ -315,6 +254,20 @@ lor.
 Judice Marsh fineed Thomas Lovett. He was charged with when arranged in court charged with James Tucker, 211 W. 140th St. was charged with an unlawful duct charge. Tucker was arrested on duct charge.
 
 Arrested Friday and charged with having policy slips in their possession and Abe Hunt, 1500 Vise Ave. We were arrested at 133 W. 135th St.
+
+# TABB'S RESTAURANT
+594 LENOX AVENUE PHONE HARLEM 7483
+
+YOUR HEALTH IS DEPENDENT UPON
+WHAT YOU EAT
+
+Special Dinner from Noon to 10 P. M.
+
+[OCR timeout]
+
+[OCR timeout]
+
+[OCR timeout]
 
 ROBERT GRAVES BURIED
 Jamacla, L. i. April 11—Robert E.
@@ -339,7 +292,7 @@ The Get-Together club gave a surprise birthday party in honor of Mrs. Jill Hill 
 
 # DON'T JUDGE PICTURES BY THE FRAMES ABOUND THEM
 
-Most people are so heartless and possess so little of the quality of self-respect that anyone is what is on the outside. Naturally those who are handcapped by possessing a pliening appearance by plimming, eyebrows, eyelashes, eczema, etc. on their skin are not going to get any attention. That is why they are often backward and shrinking from the "cold shoulder" they have come to expect. You can "make the frume as lovely as the picture really is" by simply getting rid of those skin disguisers, like the black and white Giltment. Then your good nature and sweet ways will stand out without any drawers around you. It is economically priced, in liberal packages, at the 50c size contains the amount of the 20c size. All dealers have it—Adr.
+[OCR timeout]
 
 AT LINT, 1. A generous
 BLEM BELT, only $28.99.
@@ -376,9 +329,11 @@ Jacqueline J. Johnson
 2876 South Avenue
 New York City
 
+PAGE NINE—PART ONE
+
 BROOKLYN NOTES
 
-Funeral services were held last week for Mrs. Mamie Green from her home in the Gates of Amos officiated. Mrs. Green was well known and had a friend of friends, Mrs. Amos officiated. Mrs. Gree
+Funeral services were held last week for the late Mr. Hopkinson Ave. The Iev. Mr. AMos officiated, Mrs. Green was well served by Mrs. Thomas P. Talbott, 119 Dean St. were visitors to New York Thursday in the interest of the coming fashions and the latter part of this month for the funeral of which the Rev. Peterson Boyd is the rector. Both ladies also visited Following an accident when his auto Havermeyer St. and Second St. Hertick Hicks, 109 W. 139th St. was reburied after an investigation. His car was knocked down Salvatore Luccio, 485 N. 91th St. who suffered shocks George W. Long, principal of Colette situation for boys and girls of our group, delivered the morning sermon at last Sunday. Mr. Leng has been deserved, as far as oratory is concerned.
 
 ## HOTEL OLGA
 

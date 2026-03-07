@@ -3,6 +3,17 @@
   "image": "images/page_05.jpg",
   "width": 2084,
   "height": 2800,
+  "processed_at": "2026-03-07T02:39:09.049915+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 139,
+    "after_merge": 72
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         472
       ],
       "label": "text",
-      "text": "Flowers for all occasions from\nthe cradle to the grave.\nFuneral Designs on short\nnotice\nYour business is appreciated by us. Prompt Delivery\nOrder by Phone if not convenient to call in person\nSULLIVAN BIRD STORE\n534 FIFTEENTH ST.\nPhone Main 2488\nD. J. SULLIVAN & MRS. D. J. SULLIVAN, Props."
+      "text": "Flowers for all occasions from\nthe cradle to the grave.\nFuneral Designs on short\nnotice\nYour business is appreciated by us. Prompt Delivery\nOrder by Phone if not convenient to call in person\nSULLIVAN BIRD STORE\n534 FIFTEENTH ST.\nPhone Main 2488\nD. J. SULLIVAN & MRS. D. J. SULLIVAN, Props.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         494
       ],
       "label": "paragraph_title",
-      "text": "If the Spine Is Right"
+      "text": "If the Spine Is Right",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,17 +45,8 @@
         527
       ],
       "label": "paragraph_title",
-      "text": "The Body Is Right"
-    },
-    {
-      "bbox": [
-        82,
-        563,
-        377,
-        596
-      ],
-      "label": "text",
-      "text": "Diseases are caused by pressure on nerve tissues."
+      "text": "The Body Is Right",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +56,8 @@
         598
       ],
       "label": "text",
-      "text": "Diseases are caused by pressure on nerve tissues."
+      "text": "Diseases are caused by pressure on nerve tissues.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +67,8 @@
         748
       ],
       "label": "text",
-      "text": "When this pressure is relieved ease is res-established.\nAdjusting the body is transformed into professional success. Nerve tissues are the most important tissues in the body controlling all others. If you don't believe this, come, let me prove it. Chiropractic theory is the greatest of all, securing higher percentage of results than any other."
+      "text": "When this pressure is relieved ease is res-established.\nAdjusting the body is transformed into professional success. Nerve tissues are the most important tissues in the body controlling all others. If you don't believe this, come, let me prove it. Chiropractic theory is the greatest of all, securing higher percentage of results than any other.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,27 +78,30 @@
         781
       ],
       "label": "paragraph_title",
-      "text": "Alice Johnson McGinnis, M. C"
-    },
-    {
-      "bbox": [
-        80,
-        758,
-        380,
-        862
-      ],
-      "label": "text",
-      "text": "Alice Johnson McGinnis, M. C\nChiropractic Practitioner\nPLACE 2922 WELTON STREET\nTREATMENT BY APPOINTMENT"
+      "text": "Alice Johnson McGinnis, M. C",
+      "status": "ok"
     },
     {
       "bbox": [
         44,
         843,
         380,
+        1442
+      ],
+      "label": "text",
+      "text": "TREATMENT BY APPOINTMENT\n\nLaParisienne Dancing\nAcademy\nAT FERN HALL\n2711 Welton St.\nEvery Monday Night\nDancing Lessons 8:30 to 9:30\n(A TEACHER FOR EVERYONE)\nSocial Dance 9:30 to 12:30 a. m.\nA GRAND INFORMAL BALL\nTHE FIRST MONDAY OF\nEACH MONTH\nThe Place to go for a Good Time. High Class\nMoral and Modern\nAdmission 25c. C. D. Campbell, Prop.\n\nPhone York 1614\n\nW. S. WREN!\nMissouri Grocery",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        44,
+        1442,
+        380,
         1897
       ],
       "label": "text",
-      "text": "TREATMENT BY APPOINTMENT\n\nLaParisienne Dancing Academy\nAT FERN HALL\n2711 Welton St.\nEvery Monday Night\nDancing Lessons 8:30 to 9:30\n(A TEACHER FOR EVERYONE)\nSocial Dance 9:30 to 12:30 a.m.\nA GRAND INFORMAL BALL\nTHE FIRST MONDAY OF\nEACH MONTH\nThe Place to go for a Good Time. High Class\nMoral and Modern\nAdmission 25c. C. D. Campbell, Prop\n\nPhone York 1614\n\nW. S. WREN!\nMissouri Grocery\n24th Ave. and Washington\n7 bars Labor Light Soap, 25c\n3 cans Peas, Corn, Beans, 25c\nExtra Special Coffee, lb. 25c\n3 boxes 5c Matches for - 10c\n\nPhone Main 8513\n\nThe Sanitary Wet Wash\nLaundry\nHigh Grade Work\n35 Pounds Dry Clothes 35 Cts\nExcess 2c per pound\n\n2535-37 WASHINGTON ST"
+      "text": "24th Ave. and Washington\n7 bars Labor Light Soap, 25c\n3 cans Peas, Corn, Beans, 25c\nExtra Special Coffee, lb. 25c\n3 boxes 5c Matches for 10c\n\nPhone Main 8513\n\nThe Sanitary Wet Wash\nLaundry\n\nHigh Grade Work\n\n35 Pounds Dry Clothes 35 Cts\nExcess 2c per pound\n\n2535-37 WASHINGTON ST",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,17 +111,8 @@
         1950
       ],
       "label": "paragraph_title",
-      "text": "WM. VOIGTS"
-    },
-    {
-      "bbox": [
-        80,
-        1937,
-        376,
-        2125
-      ],
-      "label": "text",
-      "text": "WM. VOIGTS\nWatchmaking and Jewelry\nWatches, Clocks, Jewelry,\nSilverware, Ecct\nTHE REPAIRING of all KINDS\n011 27th STREET\nNear Welton\nDENVER"
+      "text": "WM. VOIGTS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,17 +122,19 @@
         2013
       ],
       "label": "text",
-      "text": "Watchmaker and Jeweler Watches, Clocks, Jewelry,"
+      "text": "Watchmaker and Jeweler Watches, Clocks, Jewelry,",
+      "status": "ok"
     },
     {
       "bbox": [
-        102,
+        44,
         2049,
-        358,
-        2107
+        380,
+        2188
       ],
       "label": "text",
-      "text": "THE REPAIRING of all KINDS\n611 27th STREET\n\" Neer Wollen"
+      "text": "INE REPAIRING of all KINDS\n611 27th STREET\nNear Wolten\nDENVER. COLG",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +144,8 @@
         2211
       ],
       "label": "paragraph_title",
-      "text": "AT ANY HOUR"
+      "text": "AT ANY HOUR",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +155,8 @@
         2266
       ],
       "label": "text",
-      "text": "You Can Get the Five Points Plumber"
+      "text": "You Can Get the Five Points Plumber",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +166,8 @@
         2304
       ],
       "label": "paragraph_title",
-      "text": "L. T. WHITE"
+      "text": "L. T. WHITE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +177,8 @@
         2415
       ],
       "label": "text",
-      "text": "By calling Champa 3183 at 713 E. 26th Ave., Op. P. O. All Work Promptly Attended To and Carefully Done."
+      "text": "By calling Champa 3183 at 713 E. 26th Ave., Op. P. O. All Work Promptly Attended To and Carefully Done.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +188,8 @@
         2459
       ],
       "label": "paragraph_title",
-      "text": "J. M. NICKERSON"
+      "text": "J. M. NICKERSON",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +199,19 @@
         2711
       ],
       "label": "text",
-      "text": "Job Work a Specialty, Estimates Made Free, Glazing, Funiture Repaired, Upholster ing, Locks and Keys Fitted, Builders Hardware, Cement Work, Brick and Carpenter Work. Phone Main 1682 2218 Champa St."
+      "text": "Job Work a Specialty, Estimates Made Free, Glazing, Funiture Repaired, Upholster ing, Locks and Keys Fitted, Builders Hardware, Cement Work, Brick and Carpenter Work. Phone Main 1682 2218 Champa St.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        399,
+        468,
+        681,
+        777
+      ],
+      "label": "text",
+      "text": "THE DAILY PRESS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +221,8 @@
         830
       ],
       "label": "paragraph_title",
-      "text": "She Is Talking About Coming Events."
+      "text": "She Is Talking About Coming Events.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,7 +232,8 @@
         879
       ],
       "label": "text",
-      "text": "The Parisienne Academy every Monday night."
+      "text": "The Parisienne Academy every Monday night.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -222,7 +243,8 @@
         1107
       ],
       "label": "text",
-      "text": "March 4\u2014Spanish War Veterans, at Fern hall.\n\nMrs. Minnie Mitchell and Mr. Karl Lewis were carried last week at the home of the bride. After the wedding an elaborate eight-course luncheon was served. The evening was spent in whist and dancing. The house was decorated with palms' and lillies, while the bride carried a bunch of American Beauties. The merry-makers went away well pleased, wishing the newlyweds a lifetime success. They will be home at 1320 24th St."
+      "text": "March 4\u2014Spanish War Veterans, at Fern hall.\n\nMrs. Minnie Mitchell and Mr. Karl Lewis were carried last week at the home of the bride. After the wedding an elaborate eight-course luncheon was served. The evening was spent in whist and dancing. The house was decorated with palms' and lillies, while the bride carried a bunch of American Beauties. The merry-makers went away well pleased, wishing the newlyweds a lifetime success. They will be home at 1320 24th St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +254,8 @@
         1145
       ],
       "label": "paragraph_title",
-      "text": "THE KING OF ALL LAXATIVES."
+      "text": "THE KING OF ALL LAXATIVES.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +265,8 @@
         1690
       ],
       "label": "text",
-      "text": "For constipation, use Dr. King's\nNew Life Pills. Paul Mathulka, of\nBuffalo, N. Y., says they are the king\nof all laxatives. They are a blessing\nto all my family and I always keep a\nbox at home.\" Get a box and get well\nagain. Price 25c. At druggists or by\nmall.\n\nH. E. Bucklen & Co., Philadelphia or\nSt. Louis.\n\nMr. James Gray, of 23rd and Law-\nrence streets, left last Friday afternoon for Alaska, where he will marry Miss Peterson.\n\nLife Line Club meets with Mrs. Mc\nAfee, 2617 Marion St., Feb. 26th.\n\nMr. Ralph Wilson, who had an ac-\ndident, is improving rapidly.\n\nSTOP, LOOK! Rub your eyes to be\nsure. We can sell you a 6-room brick\nhouse in Villa Park for $250, full pur-\nchase price. Now get up and call Champa 455 and talk to The Colored American Loan & Realty Co., 913\n21st St.\n\nMrs. Dora Harris, formerly Mrs.\nDora Spencer, left last Saturday to\njoin her husband in Chicago and to\nlive. Mr. and Mrs. Harris will take\nan extensive trip through the East."
+      "text": "For constipation, use Dr. King's\nNew Life Pills. Paul Mathulka, of\nBuffalo, N. Y., says they are the king\nof all laxatives. They are a blessing\nto all my family and I always keep a\nbox at home.\" Get a box and get well\nagain. Price 25c. At druggists or by\nmall.\n\nH. E. Bucklen & Co., Philadelphia or\nSt. Louis.\n\nMr. James Gray, of 23rd and Law-\nrence streets, left last Friday afternoon for Alaska, where he will marry Miss Peterson.\n\nLife Line Club meets with Mrs. Mc\nAfee, 2617 Marion St., Feb. 26th.\n\nMr. Ralph Wilson, who had an ac-\ndident, is improving rapidly.\n\nSTOP, LOOK! Rub your eyes to be\nsure. We can sell you a 6-room brick\nhouse in Villa Park for $250, full pur-\nchase price. Now get up and call Champa 455 and talk to The Colored American Loan & Realty Co., 913\n21st St.\n\nMrs. Dora Harris, formerly Mrs.\nDora Spencer, left last Saturday to\njoin her husband in Chicago and to\nlive. Mr. and Mrs. Harris will take\nan extensive trip through the East.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,17 +276,30 @@
         1726
       ],
       "label": "paragraph_title",
-      "text": "FOR SALE."
+      "text": "FOR SALE.",
+      "status": "ok"
     },
     {
       "bbox": [
         387,
         1734,
         692,
+        2313
+      ],
+      "label": "text",
+      "text": "A 6-room brick modern, except heat, 1 lot, east front, near 23rd and Lafayette street. A real snap; $200 will handle it. See this and others. The Colored American Loan & Realty Co., 913 21st St., phone Champa 455.\n\nMr. George Chancellor and Mr. E. Williams were in the city this week visiting his wife, Mrs. E. Williams, of 1916 Arapahoe. They left Monday evening for Chicago en route to St. Louis.\n\nThe Crisis can be secured at the Elite Drug Co. An excellent copy is February issue.\n\nMessrs. Harry Scott, Sterling Wilson and Claude Davis were visiting their friends in Fort Logan. They will visit friends in Colorado Springs Sunday.\n\nDr. Westbrook has removed his residence to 1029 Twenty-first, over the Elite drug store. Phone Champa 570 while his office remains 31 Goode block, Sixteenth and Larimer streets.\n\nMiss Hazel Grant of Fort Logan is entertaining Miss Edna Douglass of this city this week. Miss Douglass will leave Sunday for Salt Lake City to live.\n\nWhen in Glenwood Springs stop a Mrs. Harvey Ellis', 741 Palmer Ave.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        388,
+        2324,
+        691,
         2703
       ],
       "label": "text",
-      "text": "A 6-room brick modern, except heat, 1 lot, east front, near 23rd and Lafayette street. A real snap; $200 will handle it. See this and others. The Colored American Loan & Realty Co., 913 21st St., phone Champa 455.\n\nMr. George Chancellor and Mr. E. Williams were in the city this week visiting his wife, Mrs. E. Williams, of 1916 Arapahoe. They left Monday evening for Chicago en route to St. Louis.\n\nThe Crisis can be secured at the Elite Drug Co. An excellent copy is February issue.\n\nMessrs. Harry Scott. Sterling Wilson and Chaude Davis were visiting their friends in Fort Logan. They will visit friends in Colorado Springs Sunday.\n\nDr. Westbrook has removed his residence to 1029 Twenty-first, over the Elite drug store. Phone Champa 570 while his office remains 31 Goode block, Sixteenth and Larimer streets.\n\nMiss Hazel Grant of Fort Logan is entertaining Miss Edna Douglass of this city this week. Miss Douglass will leave Sunday for Salt Lake City to live.\n\nWhen in Glenwood Springs stop a Mrs. Harvey Ellis', 741 Palmer Ave.\n\nMEETINGS OF THE POND LILY ART CLUB.\n\nFebruary 5th, Mrs. Lee, 704 29th street. February 12th, Mrs. Lynch, 2815 Arapahoe street. February 19th, Mrs. Patterson, 2815 Welton street. February 26th, Mrs. Williams, 314 14th street.\n\nMEETINGS OF MIZPAH ART CLUB.\n\nMrs. Hill, 2456 Glenarm St., Feb. 24. Mrs. Mackey, 2607 Glenarm St., Mar. 3 Mrs. Williams, 2462 Glenarm, Mar. 10.\n\nA GOOD OFFER.\n\nMrs. Charlicy Barnes, proprietress of the Alhambra cafe, the place of real home cooking. Chill every day at 2741 Welton street, Denver, Colo.\n\nJohn Hunter, of 1830 Arapahoe St. is ill with rheumatism and gripppe but is able to be out now."
+      "text": "MEETINGS OF THE POND LILY ART CLUB.\n\nFebruary 5th, Mrs. Lee, 704 29th street. February 12th, Mrs. Lynch, 2815 Arapahoe street. February 19th, Mrs. Patterson, 2815 Welton street. February 26th, Mrs. Williams, 314 14th street.\n\nMEETINGS OF MIZPAH ART CLUB.\n\nMrs. Hill, 2456 Glenarm St., Feb. 24. Mrs. Mackey, 2607 Glenarm St., Mar. 3 Mrs. Williams, 2462 Glenarm, Mar. 10.\n\nA GOOD OFFER.\n\nMrs. Charlicy Barnes, proprietress of the Alhambra cafe, the place of real home cooking. Chill every day at 2741 Welton street, Denver, Colo.\n\nJohn Hunter, of 1830 Aranahoe St. is ill with rheumatism and gripppe but is able to be out now.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +309,8 @@
         338
       ],
       "label": "doc_title",
-      "text": "City News"
+      "text": "City News",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +320,8 @@
         558
       ],
       "label": "text",
-      "text": "There is no doubt nor uncertainly in the minds of doctors, when they recommend their patients to the Elite Drug Store, that they will receive the best that money can buy. No substitution. No argument is necessary. Free delivery."
+      "text": "There is no doubt nor uncertainly in the minds of doctors, when they recommend their patients to the Elite Drug Store, that they will receive the best that money can buy. No substitution. No argument is necessary. Free delivery.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +331,8 @@
         588
       ],
       "label": "paragraph_title",
-      "text": "ELITE DRUG CO..\n2100 Arapahoe St."
+      "text": "ELITE DRUG CO..\n2100 Arapahoe St.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +342,8 @@
         647
       ],
       "label": "paragraph_title",
-      "text": "EUREKA CHORAL CLUB AT FIRST AVE. PRESBYTERIAN\u2014 BIG TREAT."
+      "text": "EUREKA CHORAL CLUB AT FIRST AVE. PRESBYTERIAN\u2014 BIG TREAT.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,7 +353,8 @@
         946
       ],
       "label": "text",
-      "text": "Last Tuesday night the above named musical organization made its debut at First Avenue Presbyterian church. Mrs. Mabel DeFrantz and Miss Jessie Andrews presided at both pianos. Morrison's orchestra was at its best in its own selections, also in club music. The bass solo of Mr. Berry, the contralto solo of Mme. Lilian Hawkins-Jones surprised the appreciative audience beyond expression. President S. Bondurant is perfectly satisfied with the progress the club has made. The club will formally make its appearance in May.\n\nWANTED \u2014 A female attendant, agreeable and obliging, to stay nights with Mrs. Gibson, 234 South Lafayette,"
+      "text": "Last Tuesday night the above named musical organization made its debut at First Avenue Presbyterian church. Mrs. Mabel DeFrantz and Miss Jessie Andrews presided at both pianos. Morrison's orchestra was at its best in its own selections, also in club music. The bass solo of Mr. Berry, the contralto solo of Mme. Lilian Hawkins-Jones surprised the appreciative audience beyond expression. President S. Bondurant is perfectly satisfied with the progress the club has made. The club will formally make its appearance in May.\n\nWANTED \u2014 A female attendant, agreeable and obliging, to stay nights with Mrs. Gibson, 234 South Lafayette,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -322,7 +364,8 @@
         982
       ],
       "label": "paragraph_title",
-      "text": "A WINTER COUGH."
+      "text": "A WINTER COUGH.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +375,8 @@
         1412
       ],
       "label": "text",
-      "text": "A stubborn, annoying, depressing cough hangs on, racks the body, weakens the lungs, and often leads to serious results. The first dose of Dr. King's New Discovery gives relief. Henry D. Sanders, of Cavendish, VT, was threatened with consumption, after having pneumonia. He writes: \"Dr. King's New Discovery ought to be in every family; it is certainly the best of all medicines for coughs, colds or lung trouble.\" Good for children's coughs. Money back if not satisfied. Price 50c and $1.00. At all druggists. H. E. Bucklem & Co., Philadelphia or St. Louis.\n\nMrs. Mayme Jeter has returned from Elco, Nevada. She was accompanied by her husband. She is the picture of health and reports having an excellent time.\n\nMEETINGS OF TAKA ART AND LITERARY CLUB.\n\nFeb. 25\u2014Mrs. L. Richardson, 1410 East 24th avenue."
+      "text": "A stubborn, annoying, depressing cough hangs on, racks the body, weakens the lungs, and often leads to serious results. The first dose of Dr. King's New Discovery gives relief. Henry D. Sanders, of Cavendish, VT, was threatened with consumption, after having pneumonia. He writes: \"Dr. King's New Discovery ought to be in every family; it is certainly the best of all medicines for coughs, colds or lung trouble.\" Good for children's coughs. Money back if not satisfied. Price 50c and $1.00. At all druggists. H. E. Bucklem & Co., Philadelphia or St. Louis.\n\nMrs. Mayme Jeter has returned from Elco, Nevada. She was accompanied by her husband. She is the picture of health and reports having an excellent time.\n\nMEETINGS OF TAKA ART AND LITERARY CLUB.\n\nFeb. 25\u2014Mrs. L. Richardson, 1410 East 24th avenue.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,17 +386,41 @@
         1444
       ],
       "label": "paragraph_title",
-      "text": "CARD OF THANKS."
+      "text": "CARD OF THANKS.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        699,
+        1454,
+        1003,
+        2040
+      ],
+      "label": "text",
+      "text": "We desire to extend our heartfelt thanks to Rocky Mountain Lodge No. 1, I. F. and A. M., friends, neighbors and ministers who gave so freely of their kindness and sympathy, and for the beautiful flowers sent during the recent illness and death of our beloved husband, father and friend. We also wish to express our appreciation for the beautiful service rendered by Mr. Curtis Harris of the Douglass Undertaking Co. and Rev. A. E. Reynolds.\n\nMrs. Chas. Smithey and daughter Henrietta, and Mr. and Mrs. J. B. Wimberly.\n\nMr. Hardwick can be called by calling Champa 3262.\n\nFINAL ANNOUNCEMENT OF SPECIAL BUSINESS DISCUSSION\nAt the Regular Monthly Meeting of The People's Alliance.\n\nDevotional exercise.\nBusiness.\n1. Current Literature and Comment.\n2. Music\u2014Morrison's Orchestra.\n3. Special Discussion, \"Some Negro Business Endeavors and Their Possibilities.\" 1. \"Confectionery,\" Mr. Cornelius Rice. 2. \"Restaurants,\" Mr. Collins B. Faniel. 3. \"Millinery,\" Mrs. Esther Morris. 4. \"Insurance,\" Mr. Bert Patrick. 5. \"The Drug Business,\" Mr. E. F. Cantey. 6. \"Contracting,\" Mr. Nolle R. Smith.",
+      "status": "ok"
     },
     {
       "bbox": [
         697,
-        1454,
+        2041,
         1003,
+        2532
+      ],
+      "label": "text",
+      "text": "4. Music\u2014Piano Selection, Mrs. Mabel Belnn-Fallings.\nThis is a program of especial merit. Each of the above persons discussing the general topic will take ten minutes to speak on his or her special field of operation and each is prepared to give some helpful information both to those who are engaged in some enterprise and to those of us who are obligated to support worthy business endeavor among us. Every one who can be present is welcomed. Come early to secure comfortable seats and stay through the last number, for the subjects, the speakers and the enterprises themselves are all worthy of consideration and support.\n4 p. m., Feb. 22nd, at 2630 Welton street.\n\nSee Mme. Edith Bray Settle, hair culturist, and agent for Mme. C. J Walker's Wonderful Hair Grower, for shampooing and scalp treatments 1146 So. Cherokee St., Phone Ells-worth 1203.\n\nMrs. Pink Person of Arapahoe street, who has been the sufferer of a sprained tendon, is able to sit up and walk about the house on crutches.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        699,
+        2541,
+        1000,
         2700
       ],
       "label": "text",
-      "text": "We desire to extend our heartfelt thanks to Rocky Mountain Lodge No. 1, I. F. and A. M., friends, neighbors and ministers who gave so freely of their kindness and sympathy, and for the beautiful flowers sent during the recent illness and death of our beloved husband, father and friend. We also wish to express our appreciation for the beautiful service rendered by Mr. Curtis Harris of the Douglass Undertaking Co. and Rev. A. E. Reynolds.\n\nMrs. Chas. Smithey and daughter Henrietta, and Mr. and Mrs. J. B. Wimberly.\n\nMr. Hardwick can be called by calling Champa 3262.\n\nFINAL ANNOUNCEMENT OF SPECIAL BUSINESS DISCUSSION\nAt the Regular Monthly Meeting of The People's Alliance.\n\nDevotional exercise.\nBusiness.\n1. Current Literature and Comment.\n2. Music\u2014Morrison's Orchestra.\n3. Special Discussion, \"Some Negro Business Endeavors and Their Possibilities.\" 1. \"Confectionery,\" Mr. Cornelius Rice. 2. \"Restaurants,\" Mr. Collins B. 2. \"Restaurants,\" Mr. Collins B. 3. \"Millinery,\" Mrs. Esther Morris. 4. \"Insurance,\" Mr. Bert Patrick. 5. \"The Drug Business,\" Mr. E. F. Cantey. 6. \"Contracting,\" Mr. Nolle R. Smith.\n4. Music\u2014Piano Selection, Mrs. Mabel Chin-Fallings.\nThis is a program of especial merit. Each of the above persons discussing the general topic will take ten minutes to speak on his or her special field of operation and each is prepared to give some helpful information both to those who are engaged in some enterprise and to those of us who are obligated to support worthy business endeavor among us. Every one who can be present is welcomed. Come early to secure comfortable seats and stay through the last number, for the subjects, the speakers and the enterprises themselves are all worthy of consideration and support.\n4 p. m., Feb. 22nd, at 2630 Welton street.\n\nSee Mme. Edith Bray Settle, hair culturist, and agent for Mme. C. J. Walker's Wonderful Hair Grower, for shampooing and scalp treatments 1146 So. Cherokee St., Phone Ellsworth 1203.\n\nMrs. Pink Person of Arapahoe street, who has been the sufferer of a sprained tendon, is able to sit up and walk about the house on crutches.\n\nTRY RICE & RICE'S ICE CREAM and Icees; home made bread, pies and cakes. Real Mexican Chill and other delicacies, at their parlors, 2632 Welton. Your orders are solicited for parties and chuck entertainments. Phone Chiffma 243.\n\nThe Taka A. & L. club will meet with Mrs. G. Ross, 2344 Tremont."
+      "text": "TRY RICE & RICE'S ICE CREAM and Ices; home made bread, pies and cakes. Real Mexican Chill and other delicacies, at their parlors, 2632 Welton. Your orders are solicited for parties and chuck entertainments. Phone Chifmpa 243.\n\nThe Taka A. & L. club will meet with Mrs. G. Ross, 2344 Tremont.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,27 +430,30 @@
         2697
       ],
       "label": "text",
-      "text": "Wednesday Evening, March 4 OUR MOTTO:--Good Order, Good Music, Good Time Morrison's Orchestra Admission 35c"
-    },
-    {
-      "bbox": [
-        1010,
-        2663,
-        1616,
-        2696
-      ],
-      "label": "text",
-      "text": "Morrison's Orchestra Admission 35c"
+      "text": "Wednesday Evening, March 4 OUR MOTTO:--Good Order, Good Music, Good Time Morrison's Orchestra Admission 35c",
+      "status": "ok"
     },
     {
       "bbox": [
         1003,
         453,
-        1308,
+        1302,
+        898
+      ],
+      "label": "text",
+      "text": "MR. V. N. WOLFSKILL ENTER- TAINS.\n\nIn honor of Mr. and Mrs. James Cartwright, who depart soon for Salt Lake City, Utah, Mr. Virgil Wolfskill gave one of the sweltest eight-course dinners at his home, 2744 Marion, that has been given in that section of town for a long time. As invited guests were Mr. and Mrs. W. J. Carey, Mr. and Mrs. Emmett Webster and Miss Tiny Williams. Flowers, decorations and beautiful mural attractions were the enhancing features. Music was furnished, gay conversations and short impromptu speeches helped all the cup of joy. Mr. Wilfskill will be long remembered. \"P. A.\"\n\nCOAL\n$4.25 per ton UP",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1007,
+        934,
+        1306,
         1304
       ],
       "label": "text",
-      "text": "MR. V. N. WOLFSKILL ENTERTAINS.\n\nIn honor of Mr. and Mrs. James Cartwright, who depart soon for Salt Lake City, Utah, Mr. Virgil Wolfskill gave one of the swellest eight-course dinners at his home, 2744 Marion, that has been given in that section of town for a long time. As invited guests were Mr. and Mrs. W. J. Carey, Mr. and Mrs. Emmett Webster and Miss Tiny Williams. Flowers, decorations and beautiful mural attractions were the enhancing features. Music was furnished, gay conversations and short impromptu speeches helped fill the cup of joy. Mr. Wilfskill will be long remembered. \"P. A.\"\n\nCOAL $4.25 per ton UP\n\nW. O. SIMONDS\n\n2929 Champa Main 5964\n\nMr. Thos. Moore, father of Mrs. Eva Johnson, has gone to spend the summer with Mesdames Jesse Taylor and Gaskins.\n\nMme. Walker has opened Hairdressing, Manicuring and Massage Parlors. Body massage a specialty, and will also teach classes in all branches of her work. Residence, 2515 Clarkson street. Phone York 5532.\n\nMrs. Nola Casey continues very ill. Mrs. Fred Clements is reported among the sick this week.\n\nPatronize the Cosmopolitan Tailoring Co., 1022 Twenty-first street. Cleaning, pressing, repairing and dyeing. French hand laundry work"
+      "text": "Mr. Thos. Moore, father of Mrs. Eva Johnson, has gone to spend the summer with Mesdames Jesse Taylor and Gaskins.\n\nMme. Walker has opened Hairdressing, Manicuring and Massage Parlors. Body massage a specialty, and will also teach classes in all branches of her work. Residence, 2515 Clarkson street. Phone York 5532.\n\nMrs. Nola Casey continues very ill. Mrs. Fred Clements is reported among the sick this week.\n\nPatronize the Cosmopolitan Tailoring Co., 1022 Twenty-first street. Cleaning, pressing, repairing and dyeing. French hand laundry work",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +463,8 @@
         1354
       ],
       "label": "paragraph_title",
-      "text": "TOWNSEND WINS RAPE CASE."
+      "text": "TOWNSEND WINS RAPE CASE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +474,8 @@
         1480
       ],
       "label": "text",
-      "text": "Clark James was charged with rape in the Juvenile court, and Lawyer Townsend defended him so ably and completely that the jurors afterwards personally congratulated him. The trial resulted in the acquittal of the defendant after the jury was out ten minutes."
+      "text": "Clark James was charged with rape in the Juvenile court, and Lawyer Townsend defended him so ably and completely that the jurors afterwards personally congratulated him. The trial resulted in the acquittal of the defendant after the jury was out ten minutes.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +485,8 @@
         1527
       ],
       "label": "paragraph_title",
-      "text": "NOTICE"
+      "text": "NOTICE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,7 +496,8 @@
         1747
       ],
       "label": "text",
-      "text": "WANTED\u2014One hundred houses to rent or sell to colored people. Patrick-Lucas Realty Co., 2561 Washington St. Phone Main 6239.\n\nPAST GRAND MASTERS, NOTICE.\n\nAll past Grand Masters are requested to meet at the hall at 1:30 p. m. to attend the funeral of Chas. C. Munroe, P. G. M.\n\n(Signed) WALTER SCOTT,\nGrand Secretary."
+      "text": "WANTED\u2014One hundred houses to rent or sell to colored people. Patrick-Lucas Realty Co., 2561 Washington St. Phone Main 6239.\n\nPAST GRAND MASTERS, NOTICE.\n\nAll past Grand Masters are requested to meet at the hall at 1:30 p. m. to attend the funeral of Chas. C. Munroe, P. G. M.\n\n(Signed) WALTER SCOTT,\nGrand Secretary.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +507,8 @@
         1804
       ],
       "label": "paragraph_title",
-      "text": "COAL $3.75 PER TON"
+      "text": "COAL $3.75 PER TON",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +518,8 @@
         1864
       ],
       "label": "text",
-      "text": "Full Weight, Prompt Delivery"
+      "text": "Full Weight, Prompt Delivery",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +529,8 @@
         1989
       ],
       "label": "text",
-      "text": "Experienced Men by the Hour or Contract"
+      "text": "Experienced Men by the Hour or Contract",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,7 +540,8 @@
         2040
       ],
       "label": "paragraph_title",
-      "text": "C. A. REEVES"
+      "text": "C. A. REEVES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -472,7 +551,19 @@
         2278
       ],
       "label": "text",
-      "text": "2924 LARIMER STREET Phone Champa 2357 Corp William Camp U."
+      "text": "2924 LARIMER STREET Phone Champa 2357 Corp William Camp U.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1013,
+        2130,
+        1089,
+        2266
+      ],
+      "label": "text",
+      "text": "A",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -482,7 +573,8 @@
         426
       ],
       "label": "text",
-      "text": "WESTERN LIFE and ACCIDENT COMPANY"
+      "text": "WESTERN LIFE and ACCIDENT COMPANY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,17 +584,19 @@
         658
       ],
       "label": "text",
-      "text": "John Perry, sickness ..... $ 6.00\nGuy Manier, sickness ..... 7.00\nEdith Frazier, sickness ..... 5.00\nFannie Moore, sickness ..... 10.00\nHester Hudson, sickness ..... 14.30\nClark Anderson, death ..... 100.00\nCora Fisher, sickness ..... 14.00"
+      "text": "John Perry, sickness ..... $ 6.00\nGuy Manier, sickness ..... 7.00\nEdith Frazier, sickness ..... 5.00\nFannie Moore, sickness ..... 10.00\nHester Hudson, sickness ..... 14.30\nClark Anderson, death ..... 100.00\nCora Fisher, sickness ..... 14.00",
+      "status": "ok"
     },
     {
       "bbox": [
-        1312,
+        1620,
         658,
-        1617,
-        1140
+        1926,
+        1135
       ],
       "label": "text",
-      "text": "(WATCH THIS A\nOFFICES 941-2-3-4-5-6 Gas and\n\nGET YOU\nBAGS F\nSpecial Sale on\nDenver Hand Made Goods from\nCost. Satisfact\nWe Repair Trunks, Bags, Suit\nTrunks Taken\n\nTHE WELTON T\nGEO. BRAND"
+      "text": "AND EACH WEEK)\nElectric Bldg. Phone Main 8238\n\nOUR TRUNKS AND\nFROM FROM US\nTrunks, Bags and Suit Cases\nfrom Factory to You at Lowest\non Guaranteed.\nCases and Ladies Bags. Old\nin Exchange\n\nRUNK FACTORY\nENBURG, Prop.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +606,8 @@
         813
       ],
       "label": "text",
-      "text": "(WATCH THIS AD EACH WEEK)\nOFFICES 941-2-3-4-5-6 Gas and Electric Bldg. Phone Main 8238"
+      "text": "(WATCH THIS AD EACH WEEK)\nOFFICES 941-2-3-4-5-6 Gas and Electric Bldg. Phone Main 8238",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +617,8 @@
         944
       ],
       "label": "doc_title",
-      "text": "GET YOUR TRUNKS AND BAGS FROM FROM US"
+      "text": "GET YOUR TRUNKS AND BAGS FROM FROM US",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,7 +628,8 @@
         988
       ],
       "label": "text",
-      "text": "Special Sale on Trunks, Bags and Suit Cases"
+      "text": "Special Sale on Trunks, Bags and Suit Cases",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,87 +639,8 @@
         1128
       ],
       "label": "text",
-      "text": "THE WELTON TRUNK FACTORY GEO. BRANDENBURG, Prop."
-    },
-    {
-      "bbox": [
-        1314,
-        1140,
-        1535,
-        1162
-      ],
-      "label": "paragraph_title",
-      "text": "Phone Champa 2048"
-    },
-    {
-      "bbox": [
-        1355,
-        1190,
-        1561,
-        1208
-      ],
-      "label": "paragraph_title",
-      "text": "DEARFIELD SUCCESS."
-    },
-    {
-      "bbox": [
-        1312,
-        1221,
-        1614,
-        1601
-      ],
-      "label": "text",
-      "text": "It all depends upon the man and the amount of help he gets from his family. The soil is there and God sends the glorious sunshine and rain. It's up to you, dear settler, to make a success. You can't blame anyone but yourself if you fail, for the conditions in Dearfield are right. Get a home-stead now and get busy.\n\nThe Dearfield Mercantile and Development Co. will contract with you to fence, plow, set out trees and improve your land just as you want it done. See or write C. W. Brown, manager, 2561 Washington street, Denver, Colo.\u2014Adv.\n\nC. W. Brown will establish a mercantile business in the town of Dearfield. They will carry everything in their store that the farmers will need, from a tack to a threshing machine. He is a hustler and will be a valuable asset to Dearfield.\u2014Adv."
-    },
-    {
-      "bbox": [
-        1316,
-        1623,
-        1616,
-        1669
-      ],
-      "label": "paragraph_title",
-      "text": "WHY HAVE KINKYHAIR?"
-    },
-    {
-      "bbox": [
-        1345,
-        1679,
-        1585,
-        1718
-      ],
-      "label": "paragraph_title",
-      "text": "\"PRESTO\""
-    },
-    {
-      "bbox": [
-        1315,
-        1724,
-        1617,
-        2025
-      ],
-      "label": "text",
-      "text": "Straightens the most obstinate, stubborn, kinky hair. \u201cPRESTO\u201d eradicates dandruff, tetter and other skin diseases of the scalp; promotes a luxurious growth of hair. \u201cPRESTO\u201d is HARMLESS, CLEAN and LASTING. \u201cPRESTO\u201d is claimed by chemists as the greatest discovery in the world in this line. No HOT IRONS or COMBS needed now. Simply apply \u201cPRESTO,\u201d THE KING OF ALL HAIR PREPARATIONS, and the hair becomes straight and remains so for months. \u201cPRESTO\u201d is applied two or three times a year, that's all. Nothing in the world like \u201cPRESTO.\u201d A package of \u201cPRESTO\u201d sent with full directions postpaid on receipt of one dollar ($1.00). SATISFACTION GUARANTEED or money refunded."
-    },
-    {
-      "bbox": [
-        1312,
-        2072,
-        1617,
-        2334
-      ],
-      "label": "text",
-      "text": "AGENTS, HERE IS A MONEY-MAKER.\n\noral\nWhite\nS. W. V.\n\nPLEASURE AT A"
-    },
-    {
-      "bbox": [
-        1620,
-        658,
-        1926,
-        1157
-      ],
-      "label": "text",
-      "text": "AND EACH WEEK)\nElectric Bldg. Phone Main 8238\n\nOUR TRUNKS AND\nFROM FROM US\nTrunks, Bags and Suit Cases\nfrom Factory to You at Lowest\non Guaranteed.\nCases and Ladies Bags. Old\nin Exchange\nRUNK FACTORY\nGNBURG, Prop.\n2253 Welton Street."
+      "text": "THE WELTON TRUNK FACTORY GEO. BRANDENBURG, Prop.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -632,7 +650,8 @@
         1206
       ],
       "label": "paragraph_title",
-      "text": "BEST FAMILY LAXATIVE."
+      "text": "BEST FAMILY LAXATIVE.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,17 +661,30 @@
         1390
       ],
       "label": "text",
-      "text": "Beware of constipation. Use Dr. King's New Life Pills and keep well. Mrs. Charles E. Smith, of West Franklin, Me., calls them 'Our family laxative.' Nothing better for adults or aged. Get them today. 25c. All druggists or by mail. H. E. Bucklen & Co., Philadelphia or St. Louis."
+      "text": "Beware of constipation. Use Dr. King's New Life Pills and keep well. Mrs. Charles E. Smith, of West Franklin, Me., calls them 'Our family laxative.' Nothing better for adults or aged. Get them today. 25c. All druggists or by mail. H. E. Bucklen & Co., Philadelphia or St. Louis.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1620,
+        1623,
         1426,
-        1926,
+        1925,
+        1938
+      ],
+      "label": "text",
+      "text": "Mmc. M. L. JOHNSON\nGRADUATE SCALP SPECIALIST AND\n* HAIR CULTURIST.\nManicuring, Facial, Scalp Massage and Scientific\nScalp Treating.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1623,
+        1952,
+        1925,
         2359
       ],
       "label": "text",
-      "text": "Mmc. M. L. JOHNSON\nGRADUATE SCALP SPECIALIST AND\n* HAIR CULTURIST.\nManluring, Facial, Scalp Message and Scientific Scalp Treating.\n\nThe above cut represents Mmc. Johnson as she is today, with her own NATURAL HAIR cultivated by the use of our own Hair Remedies. She can do for you what she has done for herself and thousands of others in every part of this country.\n\nUse Johnson's Hair Food, for growing Hair on bald heads and bare temples. It makes hard, dry hair; soft, moist, glossy and luxurient. Per Jar, 50c.\n\nUse Johnson's Hair Grower, for Invigorating, Strengthening, Nourishing the Roots and Stimulating the Hair growth. Per Bottle, 50c.\n\nUse Johnson's Dandruff Cure. It cleans the Scalp of gum, grit, dandruff, scales and dirt, and leaves it healthy and pure. Per Jar, 25c.\n\nUse Johnson's Itch Cure. It will stop that Itching Scalp. Per Jar, 25c.\n\nUse Johnson's Shampoo Cream, for shampooing the Scalp and hair. It cleanses and beautifies. Per Jar, 25c.\n\nUse Johnson's Medicated Soap, for the complexion, shaving, shampooing and skin diseases. Per Cake, 25c."
+      "text": "The above cut represents Mme. Johnson as she is today, with her own NATURAL HAIR cultivated by the use of our own Hair Remedies. She can do for you what she has done for herself and thousands of others in every part of this country.\n\nUse Johnson's Hair Food, for growing Hair on bald heads and bare temples. It makes hard, dry hair; soft, moist, glossy and luxurient. Per Jar. 50c.\n\nUse Johnson's Hair Grower, for Invigorating, Strengthening, Nourishing the Roots and Stimulating the Hair growth. Per Bottle. 59c.\n\nUse Johnson's Dandruff Cure. It cleans the Scalp of gum, grit, dandruff, scales and dirt, and leaves it healthy and pure. Per Jar. 25c.\n\nUse Johnson's Itch Cure. It will stop that Itching Scalp. Per Jar. 25c.\n\nUse Johnson's Shampoo Cream, for shampooing the scalp and hair. It cleanses and beautifies. Per Jar. 25c.\n\nUse Johnson's Medicated Soap, for the complexion, shaving, shampooing and skin diseases. Per Cake. 25c.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -662,7 +694,118 @@
         2780
       ],
       "label": "text",
-      "text": "Use Johnson's Sure Hair Dye. Changes the grayest hair dark after a few applications. Per Bottle.....$1.00\n\nWe are the Pioneer manufacturers of Scientific Hair Preparations in the United States. We also make Wigs, Switches, Pomps, Coronet Braids, Puffs and front Parts to match your hair. Best workmanship. Lowest prices.\n\nSend 10c for a large sample jar of Johnson's Hair wood and terms to Agents.\n\nWrite your letter to\n\nDR. W. ALEXANDER JOHNSON\nOR\nMine. MARY L. JOHNSON\n681 Shummet Avenue, Boston, Mine.\n\nPlease mention this paper."
+      "text": "Use Johnson's Sure Hair Dye. Changes the grayest hair dark after a few applications. Per Bottle.....$1.00\n\nWe are the Pioneer manufacturers of Scientific Hair Preparations in the United States. We also make Wigs, Switches, Pomps, Coronet Braids, Puffs and front Parts to match your hair. Best workmanship. Lowest prices.\n\nSend 10c for a large sample jar of Johnson's Hair wood and terms to Agents.\n\nWrite your letter to\n\nDR. W. ALEXANDER JOHNSON\nOR\nMine. MARY L. JOHNSON\n681 Shummet Avenue, Boston, Mine.\n\nPlease mention this paper.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1315,
+        865,
+        1452,
+        992
+      ],
+      "label": "text",
+      "text": "MILITARY",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1314,
+        1140,
+        1535,
+        1162
+      ],
+      "label": "paragraph_title",
+      "text": "Phone Champa 2048",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1355,
+        1190,
+        1561,
+        1208
+      ],
+      "label": "paragraph_title",
+      "text": "DEARFIELD SUCCESS.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1312,
+        1221,
+        1614,
+        1601
+      ],
+      "label": "text",
+      "text": "It all depends upon the man and the amount of help he gets from his family. The soil is there and God sends the glorious sunshine and rain. It's up to you, dear settler, to make a success. You can't blame anyone but yourself if you fail, for the conditions in Dearfield are right. Get a home-stead now and get busy.\n\nThe Dearfield Mercantile and Development Co. will contract with you to fence, plow, set out trees and improve your land just as you want it done. See or write C. W. Brown, manager, 2561 Washington street, Denver, Colo.\u2014Adv.\n\nC. W. Brown will establish a mercantile business in the town of Dearfield. They will carry everything in their store that the farmers will need, from a tack to a threshing machine. He is a hustler and will be a valuable asset to Dearfield.\u2014Adv.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1316,
+        1623,
+        1616,
+        1669
+      ],
+      "label": "paragraph_title",
+      "text": "WHY HAVE KINKYHAIR?",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1345,
+        1679,
+        1585,
+        1718
+      ],
+      "label": "paragraph_title",
+      "text": "\"PRESTO\"",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1315,
+        1724,
+        1617,
+        2025
+      ],
+      "label": "text",
+      "text": "Straightens the most obstinate, stubborn, kinky hair. \u201cPRESTO\u201d eradicates dandruff, tetter and other skin diseases of the scalp; promotes a luxurious growth of hair. \u201cPRESTO\u201d is HARMLESS, CLEAN and LASTING. \u201cPRESTO\u201d is claimed by chemists as the greatest discovery in the world in this line. No HOT IRONS or COMBS needed now. Simply apply \u201cPRESTO,\u201d THE KING OF ALL HAIR PREPARATIONS, and the hair becomes straight and remains so for months. \u201cPRESTO\u201d is applied two or three times a year, that's all. Nothing in the world like \u201cPRESTO.\u201d A package of \u201cPRESTO\u201d sent with full directions postpaid on receipt of one dollar ($1.00). SATISFACTION GUARANTEED or money refunded.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1330,
+        2072,
+        1604,
+        2101
+      ],
+      "label": "text",
+      "text": "AGENTS, HERE IS A MONEY-MAKER.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1499,
+        2136,
+        1612,
+        2266
+      ],
+      "label": "text",
+      "text": "#",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1708,
+        1135,
+        1918,
+        1157
+      ],
+      "label": "text",
+      "text": "2253 Welton Stree.",
+      "status": "ok"
     }
   ]
 }

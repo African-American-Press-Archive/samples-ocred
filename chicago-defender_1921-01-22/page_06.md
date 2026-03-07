@@ -2,25 +2,29 @@
 
 # Right to Jaw Puts Sudden End to Heavyweight Bout
 
-"I might write from now until New Year's eve, picking over all the possible candidates, but when I had finished I would be under the same pressure and I had to know that is Harry Wills is the only logical opponent of Jack Dempsey if interest in the fistic game is to be kept up."—Mister Fan in Chicago Defender, Dec. 25, 1920.
+"I might write from now until New Year's eve, picking over all the possible candidates, but when I had finished I would be under the threat that is Harry Wills is the only logical opponent of Jack Dempsey if interest in the fistic game is to be kept up."—Mister Fan in Chicago Defender, Dec. 25, 1920.
 
-BY A STAFF CORRESPONDENT BROGUE BROADWAY AUDITORIUM-EFFECT HARRY Wills knocked Hill Tate out in the second round of their glove contest tonight for the Colored heavy-weight championship. The coveted honors trembled in the balance afterance for but the brief period of minutes and a fraction before the dusky star from New Orleans restored it to the family chest. But in that moment the coveted honors trembled in the balance proved that Wills is not invulnerable. For a few fleeting seconds Tate's The men had boxed through a good first round, no damage done and honors fairly even. Then early in the second round sparing with much improved bodies and the great house raided with screaming and apprehension, according to its symbalties, as Tate, scenting triumph, sailed in and battled Wills to the knees, the sweeps plainly that he had been knocked back feebly and held hard. Tate tried desperately to shake him off and land decisively, but the valued seconds slipped by and they were again boxing off in the final round. A Bolt from a Grey Rush. Again Tate rushed in and led and they clinched. As they broke, Tate fell back a step and had not yet fully
+BY A STAFF CORRESPONDENT DINNER AND BAY AUDITORIUM, BUFFALO, NY. Night—Harry Wills knocked Hill Tate out in the second round of their glove contest tonight for the Colored heavy-weight championship. The coveted title was forged for the chance for but the brief period of four minutes and a fraction before the dusky star from New Orleans restored to the family too chest. But in that show Wills was a winner of the honors trembled in the balance, and it was proved that Wills is not invulnerable. It was a few feciling seconds Tate's prospects for victory were very rare. The men had boxed through a good first round, no damage done and honors fairly even. Then, early in the show Wills shook the southern championship badly the greater proved confidence. Tate darted over the right several times and finally caught Wills high on the head with a force that shocked Wills to the heart and had been knocked dizzy, for he fought back fecibly and held hard. Tate tried desperately to shake him off and land decisively, and that the valued seconds in the center of the ring.
 
-mat, climbing to the ropes for aid when Mr. Nugent finished his count of ten. Wills hastened to his prostrate rival's arm, and that he fell back out of Harry's arm as the victor first sought to raise him. It was a very groggy and helpless state that he was finally hoisted back to his stool in the auditorium. There was protest over the knockout blow by Tate and his manager, Dan McKittrick, both of whom claimed that Wills had taken advantage of his team and placed the insults in the instructions. The referees declared that the knockout blow came after the break had been accomplished and had Tate had failed to protect house in the auditorium. It was a sensational finish to a Queenberry Athletic Club bout, which had held a record house of well-night 10,000 spectators rapt in interest at the Broadway auditorium. Tate a Surprise While the great majority in the big throng had come expecting the finish that Tate had missed the holiday, the fact remains that the dislodge and execution by the big fellow in the ses-
+Again Tate rushed on and led and they clinched. As they broke, Tate for an hour and had not yet fully raised his arms to position of defense when Wills shipper over a skid riot, flush to the Jaw. Every inch of Tate suffused on the second and fell backward, full length, to the mat, as a giant tree might have toppled at the final stroke of the ax. It was a solid knockout, and Tate was still struggling to get his back and hold the mat, clinging to the ropes for aid when Mr. Nugent finished his count of ten. Wills hastened to his prostrate rival's assistance. Tate was far gone that night, but back of Harry's arm as the victor first sought to raise him. It was a very groggy and helpless Tate who was finally back to his men on the fair break, simulated in the instructions. There was protest over the knockout blow by Tate and his manager, Dan McKittrick, both of whom claimed that his advantage of their men on the fair break simulated in the instructions. The referee declared that the knockout blow came after the break had been accomplished and that he had failed to protect himself in time. It was a sensational finish to a Queenberry Athletic Club bout, which 10,000 spectators rupt in interest at the Broadway auditorium.
 
-THE NIGHT'S SHOW Harry Wills, New Orleans, 210, knocked out Bill Tate, New York, 230: second round of scheduled fifteen-round bout. That was the Hamilton, Ont., 134, and Cy Martin, Buffalo, 121%, boxed a six-round draw.
+While the great majority in the big throng had come expecting the finish of Tate as a Wills holiday, the fact remains that the display of speed and execution by the big fellow in the sec.
 
-Buddy Ridley, Buffalo, 123,
-award decision over Gus
-Wilson
+THE HIGHTS SHOW
 
-Buddy Ridley, Buffalo, 123,Awareness decision over Gus Wilson,124; Irian Nagent of Wills,125; Frank Conlin, Buffalo, 123,awarded decision over Billy Casey,Rochester, 133; points, six-roundbottle. Frank Wilson, Buffalo, 123,awarded decision over Don McCormick, Buffalo, 140; points, four-round bout. Refores, Dirk Nagent and Bob McCormick, Nagent of Wills and Tate; judges, Frank E. Klinfel and Ray Well; timekeeper,Marve Smith.
+Harvey Wills, New Orleans, 210, knocked out the New York, 230; second round of scheduled fifteen-round bout.
 
-and round fairly electrified the assemblage of his bills and Tate men. Even when the end hit coming out of a clinch that it barely escaped official condemnation as a foul. Jack Dempsey's sparing partner was not any worse off than the opponent, and, it may be, had a trifle the better of the going at the moment.
+Irish Kennedy, Hamilton, Ontario, 141 and Cy Martin, Buffalo, 121%, boxing Kenny, Willett, Buddy Ridley, Buffalo, 123, awarded decision over Gus Willson, 124%; points, six-round bout.
 
-Tate had recovered at the start of the round and round much of the confidence which he exhibited when he started to spar with his famous rival. He had finished the first round unharmed, had, indeed, hit back against a faster man, a stouter opponent, and had succeeded in the efforts of Jack Johnson and Jack Dempsey to reach the mark in their battles with the towering Willard. In second round Tate carried much of the strength, and right with which he finally reached Willard and marked him perceptibly, went high, missing the point of the jaw but by awareness, subdued a staggered Wills. Although, subdued a momentary faint, there was no fooling about the desination with which he took hold Tate and the vacancy of the grin which awaited his features in that moment.
+Conlin, Buffalo, 133, awarded decision over Billy Casay, Rochester, 133; points, six-round bout.
 
-Wills had been hurt, and Tate knew
+Frankie Wilson, Buffalo, 132, Wisconsin over Don McCormick, Buffalo, 140; points, four-round bout.
+
+Referees, Dlek Nugent and Bob McLaughlin, Mr. Nugent for Wills and Tate; judges, Frank E. Klinfoil, Willett; timekeeper, Marve Smith.
+
+and round fairly electrified the assemblage, both Wills and Tate men. Even when the end came, a punch so close that it barely escaped office of a clench that it barely escaped office of a foul, Jack Dempsey's sparing partner was not any worse off than the champion's challenger, and it may be the better of the going at the moment.
+
+Tate had recovered at the start of the second round much of the confidence which had plainly deserted him and had been unconscious. He had finished the first round unharmed, had, indeed, hit back well against a faster man, a stouter buncher. Tate had discovered that Wills was not effectively in the long range work because of his great height and reach, the spectacle of Wills lashing them in an high reminding the spectators of the importance of the darting right with which he family had marked and marked him perceptibly, went high, missing the point of the jaw but byuchen, so it fairly staggered Wills. Aiming for the hurry tried to characterize the bad point, there was no fooling about the desperation with which he took hold of Tate and the vacancy of the grin which justified his features in that moment. Wills had been hurt, and Tate knew
 
 IS A NATURE REMEDY MADE FROM FERBER GROUND
 ROOTS, HERBS AND BARKS
@@ -30,6 +34,8 @@ It provides the blood and cleans the system of uric acid and other impurities. I
 WANTED in every town and city to handle this wonderful remedy; over 150 per cent profit. We guarantee sells like hot cakes. Write today and be the first in your city to sell Herb-stone. $3.00 to $5.00 per day for your spare time.
 
 LIBERTY SALES AGENCY, 3201 So. State Street, CHICAGO, ILLINOIS
+
+PAGE GIX
 
 ## A Bolt From a Clear Sky
 
@@ -49,7 +55,15 @@ Tate a Surprise
 
 THE NIGHT'S SHOW
 
-it as well as Harry, for he kept boking in with great vigor and abandon, and Daisy had his work cut out fending off one of the knifes on the end, a flash out of a clear sigh. It was a terrific punch, though short, and that it did not come in open play, for it was close behind. The men had parted with such remarkable show of clearness previously that the contrast was most marked. However, the punch went home and the marveled at the strength of the Wills punch, just as the Wills men had predicted they would. And Wills is a great puncher. McKerrick, representative of Tate, declared that his man had suffered a technical disdain in the final punch, although he did not officially protest the reefores's finding that he had found Tate protector. "All the same, it's the sort of finish which makes a man grind his teeth, still think Tate can lick Wills," said Tate himself, when he recovered form in his corner, ocheed McKerrick's words. "I can lick that follow." said he with emphasis. "I am surer now than that, and I am sure I will hit me off guard or he never would have got me. I give anything in the world for another crack at Wills." So I may think he had a chance, said Tate, awaiting the dispersal of the crowd, "but he never had, and, if he doesn't think so, I like to have him try again, went at him wide open for a quick knocked me for a goal. I was merely playing him into position to polish him off. If Dempsey had anything to do with sending Bill against me and isn't satisfied, I should knock me for a goal. When told Tate would like to try again, Paddy Mullins, Wills manager, said: "We've never dodged a fight and are only too anxious to make matches, and the Dempsey challenges still in."
+KREUMA
+FROST
+
+it as well as Harry, for he kept boring in with great vigor and abandon, and in with his work out on fondening during the work out of fending off end, a flash out of a clear sky. It was a terrific punch, though short, and it is a pity, if it had to be, that it did not occur during the deadline to the dead line of the break-away, and the men had parted with such remarkable show of cleanness previously that the contrast was most marked. There was a name and they picked Bill off the floor and they marveled at the strength of the Wills punch, just as the Wills men had prevailed. And Wills is a great puncher. Dan McKetrick, representative of Tate, declared that his man had surfaced a technical disadvantage in the final round, and publicly cried for finish which makes a man grind his teeth. I still think Tate can lick Wills," said Dan. He himself, when he recovered form in his corner, oohed McKetrick's words. "I can lick that follow," said he with emphasms. "I am surer now ever. I had him going and he hit him. I had him going and he got me. I gave anything in the world for another crack at Wills." So may he think he had a chance," said McKetrick, opening a quick finish, and when he knocked me for a goal I was merely playing him into position to polish him over. If Dempsey had anything to do with the referee, I did not satisfied, he can try again if he fails.
+
+When told Tate would like to try
+to be a nun, the nunizerer said:
+"We've never dodged a lie, and are only too anxious to make matches,
+and the Dempsep challenge, still in."
 
 ## Proved a Big Attraction
 
@@ -69,6 +83,8 @@ Wilberforce, Ohio. Jan. 21—Saturday in the Indianapolis, quintet defeated Wilb
 
 ROOTS. HERBS AND BARKS
 
+THE CHICAGO DEFENDER
+
 Brooklyn, N. Y. Jan. 21--Nero Chink round of a scheduled first round of a scheduled second round bout at the East New York A. A. Monday in the first stanza of a four round on December 12, 2015, received the judges decision over Dan Smith affair. Smith, Smith, known as the Kid of Cleveland in one minute and three Kid of Cleveland in one minute and the first round of a scheduled ten round.
 
 New York—Benny Pontau of the St. Clare team will be one of the four men to represent Philadelphia (to be announced) in pound class of the Tri-City boxing tournament. Philadelphia will be the other city represented. According to the New England team, they will be represented by four entries and the tourney would be so arranged that boxers here Fife and Soilborn to box ten rounds here Fife and Soilborn to box ten rounds about 30 pounds in weight, but experts will to Ell Tato when they fought at Mount Sinai square recently it will not hinder him in New York. — Pinky Lewis, Tom O'Rourke's heavyweight weight, who will be lense last week, through his manager, to Harry Wilk and Kid Norfolk. Lewis will be at Philadelphia.
@@ -83,13 +99,9 @@ SPORT MUST
 HAMPTON BEATS LINCOLN, 39-15
 By Charles ri. Williams
 
-HAMPTON, Va., Jan. 21. Hampton won the second game of the intercollegiate series by defeating Lincoln, 39 to 16, before a large, enthusiastic crowd of 14,000. The team went out after the first few moments of that Hampton had the better team. The feature of the game was the passing and shooting of the Hampton five, which allowed the team to bring to their feet by Hampton's team work, which completely baffled the Lincolnites. The college atmospherics at Hampton were two roars of both teams cheered their teamwork. The Lincolnites came to Hampton confident of winning and with a special request from their alumni to bring a teammate to Hampton. The hard to do, but had to content themselves to wait another season. The second Lincoln-Hampton game will be played at Lincoln on Friday evening, Feb. 18. The lineup on Friday was: Hampton (39), Lincoln (16), McLaron R.F. Skinner Long L.F. Homer L.F. (Cupt) G.L. Wheatland Jones R.G. Gunn L.G. Franklin Substitutes — Lincoln, Goldwere; Hampton, Saunders, Williams and Winn
+HAMPTON, Va. Jan. 21. Hampton won the second game of the intercollegiate series by defeating Lincoln, 39 to 16, before a large, enthusiastic crowd of basket-ball fans. It was evident of the first time that Hampton had the better team. The feature of the game was the passing and shooting of the Hampton five, the latter to the spectators who brought to them the excitement of team work, which completely baffled the Lincolnites. The college atmosphere was evident as the roots of both teams cheered their favorites. The Hampton confident of winning and with a special request from their alumni to bring a victory from Hampton. This they tried to do but had to content themselves with the game. The second Lincoln-Hampton game will be played in Baltimore on Friday evening, Feb. 18. The line-up was as follows: Hampton (39), Lincoln (16), McLaren (39), R.F. Long, L.F. Homer Bradby(Cupt.) C.C. Wheatland Jones R.G. Boozer Gunn L.G. Franklin Institutes, Lincoln, Goldwars; Hampton, Saunters, Williams and Watley. Referee—Lt. C. H. Schabacker. Score—Hampton, 39; Lincoln, 16.
 
-The Lincolnites came to Hampton confident of winning and with a special request from their alumni to bring a victory from Hampton. This they tried to but had to content themselves to wait. They second Lincoln-Hampton game will be played in Baltimore on Friday evening, Feb. 18. The line-up was as follows:
-
-Referee- Lt. C. H. Schabacker.
-Score-Hampton, 39; Lincoln, 16.
-Carlisle Five to Visit Gotham and Tackle the B. A. G. Squad
+Carlisle Five to Visit Gotham and Tackle the B. A. C. Squad
 
 Brooklyn, N. X, Jan. 21 — The
 Carlisle A. C. of Washington, D. C.
@@ -139,62 +151,57 @@ NEVER COVET BEAUTYI USE YVONNE…Advt.
 
 ## "FAIR HARVARD"
 
-HAVE stood with the county stadium, with uncovered her singing "Fair Harvard," a mea the '90s—the days of Halowell Reed and others who helped me in the athletic world. Then of Mathews. The followers of the held in their memory the deed fame, who has won laurels before in the Union. Marshall was a p diamond. When the baseball team its schedule was Georgetown U in the city of Washington, D. C the Southern Catholic university team took the field for practise seen to consult with the captain ing to his version of the affair, N near game time. The Harvard Mathews would play or there was a game. During the change of and sang "Fair Harvard." A mater must have had to them. day. Sandwiched in between Cable, the Indianapolis boy who the attention of the athletic wclewbood, N. J., whose hurdling Crimson track team and who wte. Today Gourdin and an team. Needless to say, they are make any of Harvard's students, whit track meet, but in the eyes of the the heights she has already att Annapolis seem, a school of the where boys are sent to become eyes of the world. Harvard's Eastern schools—Dartmouth, w rather than leave Colored play Mass., who canceled relationship game in which the Eastern sch Andover, Syracuse, Columbia, I alumni and student body sing and defeat, it has a meaning more significant than most col songs.
-
-good with the countless thousands in with uncovered head, and joined by her Harvard," a mere slip of a youth, the days of Halowell, Dibble, Wrenn, Ethers who helped make the Crimson inic world. Then came a man of C. the followers of the Cambridge un- on memory the deeds of William Lewes was won laurels before the bar of near- Marshall was a power on the gridir- When the baseball team went South was Georgetown University. Thousus of Washington, D. C., to witness the g. Catholic university and Harvard. the field for practice. Georgetown's it with the captain of the Harvard navi- mission of the affair, Mathews could not time. The Harvard captain made he could play or there would be no game during the change of sides the Harvard "fair Harvard." Ah, what a meaning have had to them. And so on down in between are other men of Indianapolis boy whose hammer was less to say, they are above the ordina- of Harvard's teams. Upon learning these two boys South with her squina canceled dual track meets with these two men of Color were left a- award, who stood for "democracy." Stud students, white or black. Then out in the eyes of the world Harvard r he has already attained, and oh, how, a school of the government of the are sent to become future naval of ware. Harvard's example is follow-ools—Dartmouth, who canceled her Pre-ave Colored players at home; Tuffs canceled relationships with Indiana a- such the Eastern school used Brown a- acuse, Columbia, Rutgers and Brown student body sing "Fair Harvard," but it has a meaning far
+HAVE stood with the county stadium, with uncovered he singing "Fair Harvard," a meet the '90s—the days of Halowell Reed and others who helped me in the athletic world. Then of Mathews. The followers of me held in their memory the dee fame, who has won laurels before in the Union. Marshall was a p diamond. When the baseball its schedule was Georgetown U in the city of Washington, D. C the Southern Catholic university team took the field for practice to consult with the captain ing to his version of the affair, N near game time. The Harvair Mathews would play or there a game. During the change of and sang "Fair Harvard." A mater must have had to them. day. Sandwiched in between Cable, the Indianapolis boy who the attention of the athletic wglewood, N. J., whose hurdling Crimson track team and who we team. Today Gourdin and an team. Needless to say, they are make any of Harvard's teams tended to bring these two boys lis and Virginia canceled dual school unless these two men of so with Harvard, who stood for all Harvard students, whit track meet, but in the eyes of the heights she has already att Annapolis seem, a school of the where boys are sent to become eyes of the world. Harvard's Eastern schools—Dartmouth, w rather than leave Colored play Mass., who canceled relationship game in which the Eastern sch Andover, Syracuse, Columbia, I alumni and student body sing and defeat, it has a meaning more significant than most col songs.
 
 HAVE stood with the countless thousands in the Harvard stadium, with uncovered head, and joined the others in singing "Fair Harvard," a mere slip of a youth way back in the '90s—the days of Halowell, Dibble, Wrenn, Daly, Sargent, Reed and others who helped make the Crimson team a power in the athletic world. Then came a man of Color, William Mathews. The followers of the Cambridge university still held in their memory the deeds of William Lewis of football fame, who has won laurels before the bar of nearly every state in the Union. Marshall was a power on the gridiron and on the diamond. When the baseball team went South one year, on its schedule was Georgetown University. Thousands were out in the city of Washington, D. C., to witness the game between the Southern Catholic university and Harvard. The Harvard team took the field for practice. Georgetown's captain was seen to consult with the captain of the Harvard nine. According to his version of the affair, Mathews could not play. It was near game time. The Harvard captain made his decision. Mathews would play or there would be no game. There was a game. During the change of sides the Harvard alumni stood and sang "Fair Harvard." Ah, what a meaning their alma mater must have had to them. And so on down to the present. Sandwiched in between are other men of Color—Ted Cable, the Indianapolis boy whose hammer throwing attracted the attention of the athletic world, and A. L. Jackson of Englewood, N. J., whose hurdling was a sure point getter for the Crimson track team and who was a mainstay on the debating team. Today Gourdin and another lad have made the track team. Needless to say, they are above the ordinary when they make any of Harvard's teams. Upon learning Harvard intended to bring these two boys South with her squad, Annapolis and Virginia canceled dual track meets with the Northern school unless these two men of Color were left at home. Not so with Harvard, who stood for "democracy." Harvard was for all Harvard students, white or black. There will be no track meet, but in the eyes of the world Harvard rises far above the heights she has already attained, and oh, how small must Annapolis seem, a school of the government of the United States where boys are sent to become future naval officers, in the eyes of the world. Harvard's example is followed by other Eastern schools—Dartmouth, who canceled her Princeton game rather than leave Colored players at home; Tufts of Medford, Mass., who canceled relationships with Indiana following the game in which the Eastern school used Brown and Morrison; Andover, Syracuse, Columbia, Rutgers and Brown. When the alumni and student body sing "Fair Harvard," both in victory and defeat, it has a meaning far more significant than most college songs.
 
-Mender Still a Pitcher
-Havana, Cuba, Jan. 8.—Joe Mendez
-has not have his old time speed, but he
-enough to stop the depleted Bacharach
-enough to stop the deple
+WATCHING
+SCOREBOARD
 
-Totals.....5 32 12 Totals.....4 6 32 12
-Score by lintings:
-Brown Reds ..... 2 0 1 0 0 0 0 0 0 1-4
-Hawaii Reds ..... 2 0 1 0 0 0 0 0 0 1-4
-Bronx-Clark 1. Peloton 1. Mural 1. Pedrali 1. Mural 1.
-Bronx-Clark 1. Peloton 1. Mural 1.
-Mike, Pedrozo, Stewart and Torres, Nokia
-Mike, Pedrozo, Stewart and Torres, Nokia
-Mike, Pedrozo, Stewart and Torres, Nokia
-Mike, Pedrozo, Stewart and Torres, Nokia
-Stork out by Stewart 3. Bases on ball
-Stork out by Stewart 3. Bases on ball
-Stork out by Stewart 7. Hit by pitched ball=Reddings
-Stork out by Stewart 7. Hit by pitched ball=Reddings
-Unfires-Cabero and Magmar.
+Mendez Still a Pitcher
+Havana, Cuba. June 14. Mendez
+days as a pitcher are not over. He may
+not have his old time speed, but he has
+choice. MendezACHACHACH
+Gants. This afternoon Joe won 7 to
+game for the Almendares Club. The
+score.
 
-Street out—By Stewart 3. Bases on balks
-OFF Stewart 9. HI by pitched ball—Bodding
-by Stewart. Time—2 hours and 15 minutes.
-Undress—Cabero and Magrima.
+AMENDAHIS
+A. Accosta, ff. 10 10
+B. Gonzalez, 2b. 1 10
+C. Tavares, ss. 1 10
+D. Bacon, res. 1 11
+E. Garcia, rs. 1 11
+F. Garcia, 3b. 0 22
+G. Herru, rf. 2b. 0 22
+H. Herru, rf. 3b. 0 22
+M. Mendez, rf. 1 21
+H. Mendez, rf. 1 21
+A. Valdez, if. 11
+B. Clark, ss. 0 22
+C. Clark, ss. 0 22
+D. Ferroo, 1b. 0 22
+E. Rod's, c. 1 0 0
+F. Maccal, c. 1 0 0
+G. Maccal, c. 1 0 0
+H. Fliurup, p. 0 33
+I. A. Rod's, p. 1 15
 
-Charcoal Hits with Men on Sacks and
-Bacharach Glants Lose Another
-Havana, Cuba, Jan. 1.—Playa Chac-
-con, star shortstop and field captain of
+DACHAMACH
+A. Valdez, if. 11
+B. Clark, ss. 0 22
+C. Clark, ss. 0 22
+D. Ferroo, 1b. 0 22
+E. Rod's, c. 1 0 0
+F. Maccal, c. 1 0 0
+G. Maccal, c. 1 0 0
+H. Fliurup, p. 0 33
+I. A. Rod's, p. 1 15
 
-Washington v
-B. A. C. LIGHTNING FIVE
-v
-CARLISLE A. C., of
-AT LABOR LYCEUM
-THURSDAY NIGHT,
+[OCR timeout]
 
-HELLO
-ELKS! BASKET BA
-
-Washington vs. Brooklyn
-LIGHTNING FIVE. Champions-of B
-vs.
-CHARLISLE A. C., of Washington, D. C.
-AT LABOR LYCEUM, BROOKLYN, N. Y.
-DAY NIGHT, JANUARY 27
-HELLO, BILL
-LKKS' BASKET BALL GAME AND DAN
+[OCR timeout]
 
 # Washington vs. Brooklvn
 
@@ -203,65 +210,11 @@ Manhattan Casino, 155th St. and 8th Ave. Tuesday Night, February 1st.
 Music by Smiling Marie Wayne. Game Starts at 9 n. m. Admission 500.
 Boxes $5. Boxes on sale at TRE ELKS' Home, 245, V1. 137th St., T391. Aud, 303.
 
-Valdez, If. R
-Clark, ss. 12,
-Martinez, 3b.1
-Jard, R. 6f.
-Jard, R'gd f. 8
-Vilard, c.0
-Muscac, f. c.0
-Muscac, f. c.0
+[OCR timeout]
 
-tless thousands in the Harvard head, and joined the others in are slip of a youth way back in Dibble, Wrenn, Daly, Sargent, make the Crimson team a power came a man of Color, William the Cambridge university still of William Lewis of football ore the bar of nearly every state power on the gridiron and on the team went South one year, on University. Thousands were out C., to witness the game between City and Harvard. The Harvard Ice. Georgetown's captain was of the Harvard nine. AccordMathews could not play. It wased captain made his decision, would be no game. There was sides the Harvard alumni stood, what a meaning their alma And so on down to the present are other men of Color—Tedose hammer throwing attracted world, and A. L. Jackson of Enw is a sure point getter for the was a mainstay on the debating above the ordinary when they are upon learning with the Northern Not or "democracy." Harvard will be no world Harvard rises far abovetained, and oh, how small must the future naval officers, in other who cancelled her Princeton gameers at home; TuFus with Indiana following the cool used Brown and Morrison; Rutgers and Brown. The "Fair Harvard," both in victory far college
+[OCR timeout]
 
-the Almendares baseball team, delivered two timely this afternoon, at Almendares Park, with men on bases in both instances, and as a result his team defended Hernandez and Flournoy pitched good but the Cuban was more effective than the American, and the Husky another victory at the expense of Momma's patched-up hall team. Hernandez allowed but five hits and well scattered, too.
-
-Hermandez and Floiroum pitched good baseball but the American, and the Blues scored another victory at the team. Hermandez allowed but five hits and well scathed, too.
-
-The score:
-BACHELARACH    R H O A
-VALDES, if... B O A
-Clemson, if... B O A
-Mercer, if... B O A
-Pedroso, if... B O A
-Bodineus, if... B O A
-Guerra, if... B O A
-Herrera, if... B O A
-Armita, if... B O A
-Illiaris, if... B O A
-Hernandez, p1 2 0 2
-Martines, x 0 0 0 0
-Alen x 0 0 0 0
-
-ALMENDACH    R H O A
-VALDES, if... B O A
-Clemson, if... B O A
-Mercer, if... B O A
-Pedroso, if... B O A
-Bodineus, if... B O A
-Guerra, if... B O A
-Herrera, if... B O A
-Armita, if... B O A
-Illiaris, if... B O A
-Hernandez, p1 2 0 2
-Martines, x 0 0 0 0
-
-Totals... 4 7 15
-
-Score by team:
-Buchanan, if... B O A
-Armita, if... B O A
-Errou... Pedroso, if... Vilatina, if... Clanceon, if... Seirre Hils... Clements and Gozales. Stoben bases
-Pedroso, if... Arumis to Ivieope. Stuck out... Hermandez, if... Floiroum on balls
-Pedroso, if... Arumis to Ivieope. Stuck out... Hermandez, if... Floiroum to Torrentie. Time... 2 hours. Um... Floiroum to Torrentie. Time... 2 hours. Um... Cabernet home; Cabernet bases. Score... Joe Friengue.
-
-AROUND
-The DIAMOND
-
-BASEBALL NOTES
-New York—the Royal Giants left Tuesday of last week for Palm Beach, Florida. The team played at the winter league. The men who made the trip were: Joe Williams, Phil Cocke-Miller, Francois, Thomas, Joseph Barker, Paul and Brooks. They will start north Apalachia.
-
-New York—the St Christopher Club is to be represented on the diamond this summer. Bradford will be in charge of the team.
+[OCR timeout]
 
 ## The Solution
 
@@ -287,7 +240,30 @@ JANUARY 27th, 1921
 
 D, BILL
 
-Everything Uncle Sam bought for the boys was inspected just like the boys. They had to meet the requirements. Renovated shoes mean shoes which were reclaimed and sterilized by the Government and in wearing value they are equal to new. We have put new half-soles and heels on them of Genuine Oak Leather and all shoes are dusted. This is certainly the time to save while business is quiet. If you had your shoes half-soled and healed, either with rubber or leather, your shoemaker would charge you $2.50. Why not pay $2.25 for the half-soles and heels, and get a genuine pair of Russet Army uppers free that are guaranteed for two years.
+INDIANAPOLIS Wins Again
+Indianapolis, Ind., Jan. 21—In a very exciting game, featured by the star player of the Indianapolis "Y" turned in its third consecutive win for the season by defeating the Cleveland Indians in the first round. The game opened with Bryant of Indianapolis caging the first basket, but the Cleveland Indians tied them tied from mid-season to Miller of the Buckeye aggregation. But in the first half the hoosiers hit their stride, and the end of the game was 14 to 15 in favor home boys. In the second half a number of substitutions made, but the close guarding of Bryant and Baxter prevented the Cleveland boys from getting near the basket. The Indians again starred, scoring 15 of the Hoosiers' 25 points. For Cleveland Miser the best. The line-up van as follows:
+
+Brooklyn, N. Y.—The Spartan Braves defense the Barons at Saugerties in New York City, and the St. Christopher field team to 28. Four hundred fans witnessed the game.
+
+Philadelphia—Johnny Johnson of the Columbia University quintet, New York City, was the particular star of his team against Pennsylvania Saturday night. He was the particular star of his team against Pennsylvania Saturday night. Johnson scored 12 of his team's points.
+
+Newark, N. J.—The St. Christopher Club will invade Jersey for the first time in three years, when they play Dunbar P. Club of the Rev. George M. Plaskett's Protestant Episcopal Church.
+
+Newark, N. J.—The St. Christopher Club, New York City, will play Camosey's Loenli team team Friday evening, and our boys when they played in that city will wonderful brand of basketball against to win, they will have to travel fast all the way. The team's coming attraction among lightweight teams is scheduled for the 135th Street "T" between the Jersey City and New York City high schools, Saturday evening, Jan. 29. A large audience is expected, as both teams have Reformed Church Thursday evening to the tune of 28 to 5. "Soil" Johnson applies to uniform for the first time this season.
+
+New York.—The "T" Junior defeated Bowling Green, the score of 24 to 7 Wednesday evening. Perry and Moultrie high the scores New York.—"T" Eagles defeated Bowling Green, the score of 24 to 7 Wednesday evening. Perry and Moultrie high the scores New York.—The Laurel A. C. a girl's basketball team of Plainfield, N. J., will play at the court of 137th court, near Seventh avenue, Saturday evening, Jan. 28. He keeps his present gait, is young Melvin of the St. Christopher Knights. This game will accurately shooter and knows the game.
+
+"Hello, Bill" to Tackle Philadelphia "H" New York, N. Y., Jan. 21—Captain Henry Wilson's mi-Tee Monarch honeysuckle star, the first I-21 posed of several star players on other well-known clubs here, will tackle the Philadelphia "T" team at Manhattan Casino Tuesday evening, Eing. I. Among the players will be Chuck Connors, Grenier Turner, Alpha P. C. C.; "Fat" Jenkins and Johnny Capers, St. Christopher; Frank Forbes, Spartan; Hogan Boyd and Johnny Chestnut; the orchestra will furnish the music for dancing after the game, which starts promptly at 9 p. m.
+
+## SPARTANS VS. BOROUGH A. C.
+
+New York, Jan. 31. "The game that is attracting considerable attention among basketball fans is the coming clash between the Spartan Braves and the Borough A. C. scheduled for Friday, Jan. 4," the team said. Both teams are undefended this season, and an exciting contest is looked forward to. The Borough five will depend upon Aaron Rodgers of the Trabbie Trace and Moss to uphold their burlesque Douglass will pin his faith in Gumbs, Wallace and Slocum.
+
+RUSSET SHOES
+$2.25
+No additional cost from the heels if preferred.
+
+Everything Uncle Sam bought for the boys was inspected just like the boys. They had to equipments. Renovated shoes mean shoes which were reclaimed and sterilized by the Government and in wearing value they are equal to new. We have put new half-soles and heels on them of Genuine Oak Leather and all shoes have been repolished. This is certainly the time to save while business is quiet. He and your shoes half-soled and beaded, either with rubber or leather, your shoemaker would charge you $2.50. Why pay $2.25 for the half-soles and heels, and get a genuine pair of Russet Army uppers free that are guaranteed for two years.
 
 Army Socks, sweaters and Underwear at right prices.
 As an evidence of good faith mail us a deposit of $1.90 for each pair of
@@ -304,19 +280,12 @@ ALL STORIES OPEN EVENINGS UNTIL 12:00PM
 
 ## BIG BASKETBALL ATTRACTION
 
-Indianapolis. Jan. 21—In a very exciting game, featured by spectacular play, the local team third consecutive win for the season by defeating the Cleveland team. The quitter by Bayer of Indianapolis caging the first basket, but the squad soon tied theiller of the Buckeye aggregation. But in the first half the squad hit their pitcher 14 times, the score was 14 to 5 in favor of the home boys.
-
-The second half half number of substitutions by the close guarding of Bryant and Baxter prevented the team boys from getting the Old Hap. Hazzard again starred, scoring 15 of the Hoochies. Played 25 points. For Cleveland Player the best. The line-up was as follows:
-
-Jackson, P. Y. The Spartan Braves defeated the Baronets at Saundersburg of the Columbia University quitter, New York is popular idol among his fans. He against Pennsylvania Saturday night. Cost 22 to 16. Johnson scored two Cost 22 to 16. John
-
-New York.—A coming basketball star, New York.—A coming basketball star,vin of the St. Christopher Knights. This little fellow is an accurate shooter and knows the game.
-
-"Hello, Billie" to Tackle Phila "Y" New York, N. Y., Jan. 21—Captain Henry Wilson's Mi-Tee Monarch composed of several star players on composed of well-known clubs here, will tackle the Philadelphia "Y" team at Manhattan Casino Tuesday evening, Feb. I. Among the team's up-age will be Buck Cochran, Grenier Trump, Alpha P. C. C.; "Fat" Jenkins and Johnny Capers, St. Christopher; Frank Forbes, Spartan; Hogan Boyd and Johnny Capers, Grenier Trump; chestra will furnish the music for dancing after the game, which starts promptly at 9 p.
-
-## SPARTANS VS. BOROUGH A. C.
-
-New York, Jan. 31. "The game that is attracting considerable attention among basketball fans is the coming clash between the Spartan Braves and the Borough A. C. scheduled for Friday, Jan. 4," the team said. Both teams are undefended this season, and an exciting contest is looked forward to. The Borough five will depend upon Aaron Rodgers of the Trabbie Trace and Moss to uphold their burlesque Douglass will pin his faith in Gumbs, Wallace and Slocum.
+Ihanard, Jackson, P.  Witheren, P.
+Johann, G.  Witheren, P.
+Johannson, G.  Paxton, G.
+Bryant, Arist, G.  Miser, G.
+Gier, Arist, G.  Harvey, G.
+Interference-Ward Wilson.
 
 # 40 CLUB BEATS
 EVANSTON; AWAITS
@@ -326,30 +295,14 @@ The Forty Club of Chicago journeyed to Evanston Monday night for a return game w
 
 It will be remembered that the score of the first game was 25 to 23 in favor of the Chicago boy. Evanston held the firm belief that there was a possible chance of breaking the locals' winning streak. Nothing doing, possible was all the Sol Butler, Bluefft and Duff were easily the shining lights of the game. The first half saw Fire
 
-anston eclipsed badly, the score being against them, 18 to 6. The visitors then played defensive basketball, not only with the score in the second half, and the final score was 19 to 5. Five hundred north shore fans turned out to see the affair.
-Maryland forward Wayt Clubs faces Baltimore. The playing ability of the eastern lads is respected since their victory over the western point. The playing of "Scrappy" Brown, Bill Harris and "Buzz" Harris will be watched with interest. This trio has been making it hot for their support according to eastern sport scribes, is the equal of Virtuity litters. Basketball fans are eagerly
+It will be remembered that the score of the game was 25 to 23 in favor of the Chicago boys, so Evanston held the first belief that there was a possible chance of breaking the local streak. Nothing doing; possible was all they had. Evanston believed, not allowing Evanston to score in the second half, and the final score is 19 to 9. Five hundred north shore fans Monday night the Forty Club faces Baltimore. The playing ability of the eastern lads is respected since their crack Carlisle team of Washington, D. C., who from tampons by one point. The playing of "Scrappy" Brown, Bill Harris and "Crappy" will be watched with interest. This trio has been making their opponents. Brown according to eastern sport scribes, is the equal of Wrigley. Basketball fans are eagerly
+
+POLICE
 
 itt. Basketball Capt. Blueiett fans are eagerly awaiting the arrival of the visitors to club, having "hit their strides" are competitors in the national championship. As usual, dancing will follow the games.
 
 ## Vapor City Giants
 
-Hot Springs, Ark. Jan. 21-Dave Johnson's Vapor City Tigers baseball club will begin their spring practice March at Whittington park and will take on Harvard Giants the last week in that month. The Tigers are one of the strongest aggregations of ball tossers in the south and are at Harvard. Teams wanting games will please write Ben F. Shaw, secretary. 353 Malvern avenue. The hippeu: Battles c. Ampe. 1b: bk. 2b: S. Spearman 3b: Beard, s.s.; Land, l.f.; Wella, r.f.; Poindexter, r.f.; Williams, c.; pitchers, Pottus, W. Spearman, Rogers, Cooper and McAllister.
+Hot Springs, Ark., Jan. 21—Dave Johnson's Vapor City Tigers baseball club will begin their spring practice March 11 in Wittlington park and will march to Glants the last week in that month. The Tigers are one of the strongest organization of the tossers in the South and are willing to team coming this way. Teams wanting games will please write Ben Foehner, Secretary, 353 Malvern avenue. The linemen, Hughey, 2b.; S. Spearman, 3b.; Beard, a.m.; Land, I. L.； Wells, r.f.; Cline, C.; Pitcher, c.; pitchers, Moore, Pottus, W. Spearman, Rogers, Cooper and McCallister.
 
-COMING TO HARLEM
-Jersey City Brotherhoods
-IN
-BASKETBALL GAME
-Saturday Night, January 29th
-AT
-West 135th St. Branch Y. M. C. A.
-TO PLAY
-"Y" LIGHTS
-ADMISSION 25C. 9 P. M.
-
-ARMY GOODS STORE
-
-ENT SHOES
-WATED
-Sizes 5 to 8½
-Field Shoes
-$3.50
+ADMISSION 25C. 9:P.M.

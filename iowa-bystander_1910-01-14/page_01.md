@@ -2,7 +2,7 @@
 
 ## CITY NEWS.
 
-N. B. I you have relatives on friends visiting in the city or going to make a visit, please inform us; we collect all your local news—Ec.
+(N B. I. you have relatives or friends visiting in the city or going to make a visit, please inform us; we solicit all your local news—Ed.)
 
 Geo. I. Holt was on the sick list last week.
 
@@ -12,48 +12,46 @@ L. W. Williams and F. D. Anthony of Boone was a visitor in our city last week.
 
 Master William, the son of Mr. and Mrs. J. C. Williams, was operated on this week for tonsilitis.
 
-Mrs Anna Lewis, a highly respected East Side lady, is sick at her home.
+Mrs. Anna Lewis, a highly respected East Side lady, is sick at her home.
 
 Mrs. Jane Keene is quite sick at the home of her daughter, Mrs. A. L. Smith, 748 West 10th street.
 
 Mr. H. Irvin, 1623 Walker street entertained at dinner New Years day. It was an enjoyable affair.
 
-The revival meetings at the Maple Street will continue all next week. The Rev. Bates is having quite a spiritual success with the meetings.
+The revival meetings at the Maple Street will continue all next week The Rev Bates is having quite a spiritual success with the meetings.
 
-A card from Dr. John H. Williams who is in the south on a business trip, states that he will only be gone two weeks instead of two month, as the Bystander had previously announced.
+A card from Dr. John H. Williams who is in the south on a business trip, states that he will only be gone two weeks instead of two months, the Bystander had previously announced.
 
 We received word that Mrs. Georgia Trail nee Blagburn, formerly of Omaha but now of Portland, Oregon, was married to Mr. G. Smith last week. Her Des Moines friends wish her success.
 
-Mr. Wm. Vertres and family of Chicago came to our city to remain indefinitely. He is a painter and decorator and expects to follow his trade men. They are stopping with his mother-in-law, Mrs. R. A. Nelson onleton boulevard.
+Mr. Wm. Vertres and family of Chicago came to our city to remain inuditely. He is a painter and decorator and expects to follow his trade. They are stopping with his mother-in-law, Mrs. R. A. Nelson on cotton boulevard.
 
-The Syndicate Cafe
-Serves good meals and Lunches at all hours.
-Give us a call. C. H. Browning, Mgr.
 304 West Grand Avenue.
 
 Mr. John Early, one of our old and well known citizens is expecting the arrival of the remains of his son, who was in the U. S. service in the Philippine Island. The body has been on the way for several months. Mr. Early has opened a barber shop on East 2nd and Court avenue.
 
-C. S. L. Baker, formerly of St. Joseph but now of Kansas City, Mo., the noted friction heater inventor, passed through our city Wednesday enroute to Waterloo where he may instill his friction heater plant ere soon. He is a relative of J. Clifford Williams of this city.
+C. S. L. Baker, formerly of St. Joseph but now of Kansas City, Mo., the noted friction heater inventor, passed through our city Wednesday enroute to Waterloo where he may insult his friction heater plant are soon. He is a relative of J. Clifford Williams of this city.
 
-Mrs. E. Abbey of Hannibal, Mo., was the guest of her uncle, Dr. J. W. Dulin of East Walnut street, for the past few days. She was enroute from St Paul, Minn., where she had been visiting her son, Luther Abbey, well known here. Mrs. Abbey was delighted with our city.
+Mrs. E. Abbey of Hammibal, Mo., was the guest of her uncle, Dr. J. W. Dulin of East Walnut street, for the past few days. She was enroute from St Paul, Minn., where she had been visiting her son, Luther Abbey, well known here. Mrs. Abbey was delighted with our city.
 
 Luther H. S. Brown, Dist. Grand Secretary of the Grand Lodge of Odd Fellows of Iowa, went to Enterprise, Iowa last Monday evening inspecting an association preparatory to setting up a new lodge. He reports that the conditions are fine and within a short time, Charity Lodge of this city, will put the new lodge in working order.
 
-A SUCCESSFUL FARMER.
-
 ## A SUCCESSFUL FARMER.
 
-Mr. James Garrison formerly of our city, who went to Driscoll, N. Dak., and took a claim of 160 acres, now reports to his brother in Des Moines that last year he raised 50 acres of wheat, average 22 bushels per acre, white oats 60 bushels per acre; barley 40 bushels per acre, spring rye 18 bushels per acre; early dent corn 45 bushels per acre and another corn called the pride of the north 38 bushels per acres. He is enjoying good health and thinks that more of our people should leave the cities and get a farm. Right you are, Mr. Garrison.
+Mr. James Garrison formerly of our city, who went to Driscoll, N. Dak, and took a claim of 160 acres, now reports to his brother in Des Moines that last year he raised 50 acres of wheat, average 22 bushels per acre, white oats 60 bushels per acre; barley 40 bushels per acre, spring rye 18 bushels per acre; early dent corn 45 bushels per acre and another corn called the pride of the north 38 bushels per acres. He is enjoying good health and thinks that more of our people should leave the cities and get a farm. Right you are Mr. Garrison.
 
+THE VARIETY
 has permanently reopened to the public and cordially invite your patronage.
 
 Meals and Lunch at all hours.
 Serving evening parties a speciality
 Special Chicken Dinner Sundays.
 
-Remember that tomorrow is the last day of our annual holiday rates. Money sent Saturday or letters mailed Satur- day will be in time to get the special
+Call and eat with us.
 
-$1.00 per year rate. This is the last chance.
+1010 Center Street.
+
+Remember that tomorrow is the last day of our annual holiday rates. Money sent Saturday or letters mailed Saturday will be in time to get the special
 
 ## $1.00 per year rate. This is the last chance.
 
@@ -74,12 +72,18 @@ Accompanist, Miss Bertha Allen.
 Ass't Accompanist, Miss Effie Mason Librarians: Howard Griffin, Gid Crews, Spencer Mayweather and M. Kelley.
 
 Superintendent Infant and Home Department, Mrs. Lizzie Glass.
-
-Teachers: Att'y, S. Joe [Brown, Mrs. M. E. Haworth, Mrs. I. N. Daniels, Mrs. S. Joe Brown, Mrs. Anna Allen, Prof. W. H. Warricks, Rev. H. McCraven, Rev. Isaac Davis, Mrs. F. D. Jacksen and Messrs. H. Gould, Wm. Shackelford add R. E. Patton.
+Teachers: Att'y. S, Joe [Brown,
+Mrs. M. E. Haworth, Mrs. I. N.
+Daniels, Mrs. S. Joe Brown, Mrs. Anna
+Allen, Prof. W. H. Warriicks, Rev. H.
+McCraven, Rev. Isaac Davis, Mrs. F.
+D. Jacksen and Measrs. H. Gould, Wm.
+Shackelford add R. E. Patton.
 
 A GOVERNMENT POSITION.
 
-Miss Zoe Richardson Appointed as Teacher.
+Miss Zoe Richardson Appointed as
+Teacher.
 
 It is indeed a pleasure for the Bystander to announce that Miss Zoë Richardson of our city, has been appointed a teacher in the government college located near Riverside California, which is a suburb of Los Angeles. She is to be director of music and a teacher in the college where lady ever selected from Iowa, and perhaps the only colored lady thus honored by the government. Miss Richardson is a self made lady, born and educated in our city, the only daughter of Chas. Richardson, a well to citizen, who wore the blue during the World War II, and a Business College, taking a stenography and shorthand course, after which she was employed in the Bystander Company for 9 years, then the Iowa seed store one year as stenographer, also by the State Republiquia of Iowa, and the Gumson factory. While Miss Richardson has always been especially skilled in music she entered the famous Musical Conservatory under the famous German instructor Herliw W. J. Rulfrok, where she graduated last spring, she then entered Drake University in New York, where she left Monday evening for the Pacific Coast carrying with her the best wishes of a host of friends of this city and state, who have known her from childhood, a large number accompanied her to the depot. The position pays $100.00 per month and requires the successful success, she was one of the few colored ladies who belongs to the Y. W. C. A of this city. "Let merit and qualification, and not color rule the world."
 
@@ -93,31 +97,32 @@ but
 int:
 Mrs. Harriet McClelland is indisposa-
 
-Mrs. J. W. Evans is on the sick list. Mr. and Mrs. C. W. Eubanks entertained Rev. Straws of the A. M. E. church at 1 o'clock dinner Sunday.
+Mrs. J. R. W. Eva is on the sick list.
+Mr. and Mrs. C. W. Eubanks entertained Rev. Straws of the A. M. E. church at 1'clock dinner Sunday.
 
 ## Live Oak School Victor In Fight
 
 # Live Oak School Victor In Fight
 
-Opposition to Establishment of Florida Baptist Academy Aroused Public Opinion in its Favor—With Capable instructors Under Professor N. W. Collier the institution is Succeeding.
+Opposition to Establishment of Florida Baptist Academy Aroused Public Opinion in its Foe—With Capable Instructors Under Professor N. W. Collier the institution is Succeeding.
 
-BY GEORGE F. KING.
+BY GEORGES F. KING.
+Denominational institutions of learning among Afro-Americans have been generally successful. Within the past ten years there has developed a spirit of pride on the part of the various religious bodies involved in their educational work which has had a beneficial effect upon the youth of the race. Progress in this direction has been especially encouraging among the Baptists, Methodists and Episcopalians. The majority of such schools, however, have had considerable difficulties and prejudices to combat, both within and without. There have been religious and religious educational educators as to the window of fostering schools of a purely denominational character. Results seem to
 
-Denominational institutions of learning among Afro-Americans have been generally successful. Within the past ten years there has developed a spirit of pride on the part of the various religious bodies in respect to their educational work which has had a beneficial effect upon the youth of the race. Progress in this direction has been especially encouraging among the Baptists, Methodists, and Episcopalians. The majority of such schools however have had considerable difficulties and prejudices to combat, both within and without. There have been many controversies among leading religious educators as to the wisdom of fostering schools of a purely denominational character. Results seem to
+PRESIDENT R. W. COLLIER
+prove that it is a good omen to the
+young men and women that they can
+be trained in institutions of their religious inclinations.
 
-PRESIDENT N. W. COLLIER.
+Out of chaotic conditions there often arises a divine stimulus that inspires many people who are laboring under adverse circumstances to action. The Florida Baptist academy is an example of being strengthened by opposition. This institution was founded during 1852 at Live Oaks, Fla., with Dr. W. M. Dunn, president, and J. T. Brown, A. M. vice president, assisted by Miss S. A. Blocker, who is still an indeftable worker in the educational progress of the race.
 
-prove that it is a good omen to the young men and women that they can be trained in institutions of their religious incinulations.
+Because of its influence for the higher development of the race the academy met much opposition in the early years of its existence. At this time the Afro-American Baptists of Florida were beginning to enter into an effective propaganda of self help by intelligent preparation. To continue this life Live and learn is an unrelentful opposition seemed like folly. This display of violence caused an overwhelming wave of enthusiasm on the part of the denomination that was fostering the effort which swept the state. Many hardworking women who were scarcely making a living abnegated self for the cause of education and donated as high as $25. Such a spirit made hope not long deferred, and today upon enlistment in the Army Jacksonville, Fla. are two modern main buildings and a number of smaller structures. The valuation of the property is now over $50,000. The property is completely clear of debt.
 
-Out of chaotic conditions there often arises a divine stimulus that inspires many people who are laboring under adverse circumstances to action. The Florida Baptist academy is an example of being strengthened by opposition. This institution was founded during 1852 at Live Oak, Fla., with Dr. M. W. Gilberts, president and Rev. J. T. Brown, A. M., as vice president, assisted by Miss S. A. Blocker, who is still an indefatigable worker in the educational progress of the race.
-
-Because of its influence for the higher development of the race the academy met much opposition in the early years of its existence. At this time the Afro-American Baptists of Florida were beginning to enter into an intelligent propaganda of self help by intelligent preparation. To continue this work at Live Oak after such unwarranted and unlawful opposition seemed like folly. This display of violence caused an overwhelming wave of enthusiasm on the part of the denomination that was fostering the effort which swept the state. Many hardworking women who were scarcely making a live abnegated self for the cause of education and donated as high as $23. Such a spirit made hope not long deferred, and today upon ten acres of valuable land in the city of Jacksonville, Fl., are two modern main buildings and a number of smaller structures. The valuation of the property is now over $50,000. The property is completely clear of debt.
-
-BUSINESS CLASSES.
+BUSINESS CLASS.
 
 The appointments of the dormitories for male and female are up to the standard of institutions heavily endowed.
 
-The curriculum consists of the following courses: Kindergarten, grammar, normal, commercial and industrial. These courses afford excellent advantages for youths seeking a well rounded development. The opportunities which it affords ambitious poor young people are not excelled by those of any institution of its kind in the south. The beautiful grounds and buildings and activity of the academy settlement present a true college atmosphere. The faculty consists of sixteen instructors, who are graduates from some of the best universities in
+The curriculum consists of the following courses: Kindergarten, grammar, normal, commercial and industrial. These courses afford excellent advantages for youths seeking a well rounded development. The opportunities which it affords ambitions poor young people are not excelled by those of any institution of its kind in the south. The beautiful grounds and buildings and activity of the academy settlement present a true college atmosphere. The faculty consists of sixteen instructors, who are graduates from some of the best universities in
 
 the country. These learned men and women are imbued with a spirit that draws out the best that is in a student. Quite a number of units are required of a student before graduating, and, with the efficient faculty and able instructors, the student is scattered in many states, are splendid examples of thrift and industry.
 
@@ -134,53 +139,51 @@ About the Atlanta Baptist college, Atlanta, Ga., a suggestive and important bit 
 
 Sundry Duties Which Afro-Americans Should Perform in 1910.
 
-Among the scores and hundreds of resolutions which our people will make for the new year we should like the insertion of the following—viz: That our men and women of means and the masses of the race in general spend more of their money for food, clothing, reading matter and for social amusement with our business enterprises and the masses of the place of the birth of their children and more care exercised in the matter and manner of their education; that they give more liberally of their means for the support of home and foreign missions, and that they see to it that our charitable and educational institutions shall not be forced to close their doors for lack of funds.
+Among the scores and hundreds of resolutions which our people will make for the new year we should like the insertion of the following -vix: That our men and women of means and the masses of the race in general spend more of their money for food, clothing, entertainment and social service with our business enterprises; that more time be given to the home life of their children and more care exercised in the matter and manner of their education; that they give more liberally of their means for the support of home and foreign missions, and that they see to it that our charitable and educational institutions shall not be forced to close their doors for lack of funds.
 
 South Whipped, but Never Conquered.
 
-Democratic Virginia has scored another point in favor of keeping the red flag floating to the Confederate General E. Lee in statuary hall at the national capitol. General Lee lays the rebel uniform. This is enough to cause General S. G. Grant to turn over in his grave and make the Union soldiers now living wish that they had not fought the enemy of the Union. Poor encouragement for the boys in blue. The south was whipped, but never conquered. Gentlemen, what next? (Indianapolis) (Ind. Freeman.
+Democratic Virginia has scored another point in favor of keeping the red flag floating to the breeze by placing the statue of the Confederate General Robert E. Lee in hallway at the national uniform. General Lee wears the rebel uniform. This is enough to cause General U. S. Grant to turn over in his grave and make sure that they had not fought the enemy of the Union. Poor encouragement for the boys in blue. The south was whipped, but never conquered. Gentlemen, what next? -Indianapolis (Ind.) Freeman.
 
 Booker T. on Strength of Negro Blood.
+Booker T. Washington observes dryly that it doesn't seem likely that the Negro race will be absorbed by the white; the probabilities point the other way. "It takes 100 per cent of good Anglo-Saxon blood of something akin to white blood from an African blood is sufficient to make any person a Negro. By that kind of mathematics, you see, my race will absorb the white race."
 
-Booker T. Washington observes dryly that it doesn't seem likely that the Negro race will be absorbed by the white; the probabilities point the other way. "It takes 100 per cent of good Anglo-Saxon blood or something akin to it to make a white man, but 1 per cent African blood is sufficient to make any person a Negro. By that kind of mathematics, you see, my race will absorb the white race."
+Emancipation Day at Montclair.
+The Citizens' union of Montclair, N. J. hold appropriate services, in observance of the forty-seventh anniversary of the insurrection at the Union Baptist church, Montclair, Jan. 1. The annual address was delivered by the Rev. D. Clayton Powell of New York.
 
-Emancipation Day at Montcalm.
+FOREST MADISON NOTES.
 
-The Citizens' Union Montcalm, N. J., hold appraisal services, in observation of forty-seventh anniversary of the issuance of the emancipation proclamation, at the Union Baptist church, Montcalm, Jan. 1. The annual address was delivered by the Rev. Dr. A. Clayton Powell of New York.
+Mr. Arthur Ware has returned from Keokuk after a week's visit with his parents and friends.
 
-FORT MADISON NOTES.
-
-Mr. Arthur War has returned from Keokuk after a week's visit with his parents and friends.
-
-Rev. Evans, pastor of the Second Baptist church, has returned from Keokuk where he has been attending a reviral meeting.
+Rev. Evans, pastor of the Second Baptist church, has returned from Keokuk where he has been attending a revival meeting.
 
 Mr. Cyrus Boyd of Keokuk was in the city one day last week.
 
 Miss Merle Basfield was a Keokuk visitor Monday.
 
-The Second Baptist church has organised a B. Y. P. U. society. The following officers were elected: Miss Zethel Cartmill, president; Miss Marie Dunlap, secretary; Miss Lillian Woods, treasurer; Miss Agnes Steward, organizer.
+The Second Baptist church has organised a B. Y. P. U. society. The following officers were elected: Miss Zetel Cartmill, president; Miss Marie Danleum, secretary; Miss Lillian Woods, treasurer; Miss Agnes Steward, organizer.
 
 MY. PLEASANT NOTES.
 
-Mrs. G. Steppa presented to her daughter Fae, a fine Guest special piano for her birthday present.
+Mrs. G. Steppes presented to her daughter Fae, a fine Guest Special piano for her birthday present.
 
-Mr. Harry Reed is still ill at the home of his parents on North Henry street.
+Mr. Harry Reed is still very ill at the home of his parents on North Henry street.
 
 Those on the sick list this week are Mrs. Lena Richmond and Mr. Adam, Smiley, and Mrs. Matt Watts.
 
-Rev. Jackson Alba presched at the Second Baptist church all day Sunday.
+Rev. Jackson of Albais presided at the Second Baptist church all day Sunday.
 
-The "100" gave a sleighing party New Years night in honor of Mrs. G. Steppa and daughter Fae of Minneapolis. Minn. After a long drive over the city the party went to the home of Mrs. Geo. Harris where an oyster supper was served. The table was beautifully decorated. All went home wishing each one a happy new event.
+The "100" gave a sleighing party New Years night in honor of Mrs. G. Steppa and daughter Fae of Minneapolis, Minn. After a long drive over the city the party went to the home of Mrs. Geo. Harris where an oyster supper was served. The table was beautifully decorated. All went home wishing each one a happy New Year and many more such happy events.
 
-The Twilight Literary Society met at the home of Miss Myrtle Burnaugh last week.
+The Twilight Literary Society met at the home of Miss Myrtle Burnough last week.
 
-Miss Lillie Washington returned Home Thursday from Aurora, ill where she has been spending the holidays with the Beekwth family as their nurse.
+Miss Lillie Washington returned home Thursday from Aurora, ill where she has been spending the holidays with the Beckwith family as their nurse.
 
-OTTUNWA NOTES.
+OTTUMWA NOTES.
 
-Mr. and Mrs. Thomas of Cedar Rapids are visiting the home of Mr. and Wm. Bailey.
+Mr. and Mrs. Thomas of Cedar Rapids are visiting the home of Mr. and Mrs. Wm. Bailley.
 
-Rev. B. F. Abner has tendered his resignation as pastor of the Second Baptist church. Mr. and Mrs. Abner leave new Monday for Boley, Oklahoma to meet new friends have charge of the church and school.
+Rev. B. F. Abner has tendered his resignation as pastor of the Second Baptist church. Mr. and Mrs. Abner leave every weekend for Boley, Oklahoo, where he has charge of the church and school.
 
 ## CARNEY IOWA.
 
@@ -197,11 +200,7 @@ Our Sunday school presented to its Superintendent, Henry Madden, a handsome gold
 
 Mrs. Andy Southall, has returned from a visit at Buxton, accompanied by the Rev. Margaret Ampy. Mrs. Kate Hutchison, nurtured home from Chicago where she spent two weeks visiting relatives and friends.
 
-Mr. D. M. Gilbert departed Saturday for St. David, Illinois. Mr. Jack Harris of Enterprise was visiting friends in Carney.
-
-visiting friends in Carney.
-Mr. and Mrs. Tim Price, are the proud parents of a fine baby boy.
-Mrs. R. Randolph has returned home from the hospital during a week visiting with her daughter, Mrs. Carlisle Barfield.
+Mr. D. M. Gilbert departed Saturday for St. David, Illinois. Mr. D. M. Gilbert's Enterprise was visiting friend Marie. Mr. and Mrs. Tim Price, are the proud parents of a fine baby boy. Mrs. R. Randolph has returned home after spending a week visiting her daughter, Mrs. Charles Barfield.
 
 Mr. M. C. Long is on the sick list
 
@@ -251,25 +250,21 @@ The "Fathful Few" were enter- on Main St. last Saturday evening.
 
 ## SIOUX CITY ITEMS.
 
-In behalf of the subscribers of our city to the Iowa State Bystander, I wish it, and its co-workers a happy New Year. My Coborn lies seriously ill at her home at 117 Main street, lag髌 be the cause. The Pott's orchestra will give a masquerade ball on Wednesday evening Jan. 6th at Simeon's hall. A prize will be given to the one dressed the most ragged. The A. I. P. club gave a reception at Frank Roberts in honor of Mrs. Samuel Sallis of Simeon's hall. Friday afternoon, the time was spent in a social conversation, it was an informal affair. A nice luncheon was served at 5 o'clock. The Starlight club of the A. M. E. church served New Year's dinner at the large crowd was served during the afternoon. A neat sum wa staken in. My Mirtle Morgan returned home Monday afternoon after a week's pleasant visit with her son Emmett and friends in Omaha. My Samuel Sallis left for her home Wednesday afternoon and I will visit with Mr. and Mrs. Rev. J. G. Pad. Mrs. Katherine Askew who underwent an operation some three weeks ago at the Samaritan hospital, is getting along nicely.
+In behalf of the subscribers of our city to the Iowa State Bystander, I wish it, and its co-workers a happy New York.
+I wish Mrs. Cobary Cobles seriously ill at her home at 117 Main street, lagruppe be the cause.
+The Pott's orchestra will give a masquerade ball on Wednesday evening Jan. 6th at Simone's hall. A prize will be given to the one dressed the most beautiful at I. P. club gave a reception at the residence of a Mr. and Mrs. Frank Roberts in honor of Mrs. Samuel Sailas of Simone's Friday afternoon, the time was spent in a social conversation, it was an informal affair, and once lunch was served at 5 clock.
+The Starlight club of the A. M. E. Church served New Year's dinner at the church parlor, a large crowd was served during the afternoon. A neat sum wa staken in.
+My Mrs. Morgan returned home Monday afternoon after a week's visit with Mr. and Mrs. Rev. J. C. Reid.
+Mrs. Katherine Askew who underwent an operation some three weeks ago, is getting along nicely.
+DAYVENETT TEAMS.
+The Third Baptist church observed Emancipation Day by rendering a programme and reading the Proclamation and other selections on the program.
+The Allen league held its regular prayer meeting was conducted by the Principals, Mrs. R. Bright, after which the lesson was conducted by Rev. T. B. Stovall.
 
-DAVENPORT ITEMS.
-
-The Third Baptist church observed Emancipation Day by rendering a programme and reading the Proclamation and other selections on the program. A regular prayer meeting was conducted by President, Mrs. R. Bright, after which the lesson was conducted by Rev. T. B. Stovall.
-
-General Houston an old citizen of Davenport for about 65 years, died at his home 1806 North St. Thursday morning Jan. 6th after an extended house run. Mrs. Houston run one of the finest handshops in the city. Later years he was known as a corn-door. He leaves to mourn his loss, his wife Sarah Houston, and granddaughter Ione McClelland, and a host of friends.
-
-Mrs. Russel of North Farmer St. is
-
-Mrs. Russel of North Farmer St. is still very ill.
-
-Mrs. Sarah Allen of Western Ave.
-is still confined to her home.
+General Houston an old citizen of Davenport for about 65 years, died at his home 1806 North St. Thursday morning, mortally injured an extended arm of drapy. In former years Gen Houston run one of the finest barbershops in the city. Later years he was known as a corn-doctor. He leaves to mourn his loss, his wife Sarah Courtney, the author of McCieland, and a host of friends. Mrs. Russel of North Farmster St. is still very ill. Mrs. Allen Sarah of West Avenue, is still confined to her home.
 
 MOLINE ITEMS.
 
-Miss Mayme Ritchie who has been
-very ill is convalescent.
+Miss Mayme Ritchie who has been very ill is convalescent.
 
 Mr. Wiley Johnson of Dubuque, I. aspent New Year's Sunday with his cousin Mr. Frank Rogers.
 Mrs. Henry Harris left Sunday for Chicago and Indianapolis where she make an indefinite visit with relatives.
@@ -318,25 +313,13 @@ Green, Tillford Gash.
 
 ## LITERARY ANNOUNCEMENTS.
 
-To the presidents and members of all literary societies and clubs in Des Moines, Ia.
+To the president and members of all literary societies and clubs in Des Moines, Ia. Greeting, yourupuo quesang on notes that the Inter State Literary Association of Kansas and the West will hold its 20th annual session, in Des Moines, during Christmas week 1918 and that under the rules of said societies, all literature societies and associations are entitled to be represented in said meeting by three delegates. You are also notified that under the rules of said Association, all cities having more than three societies who expect to participate in said meeting have a convention composed of three delegates from each of said societies which city convention shall determine what persons shall represent said city on the program and other matters pertaining to the Inter State meeting. In Inter State meeting at Kansas City, there are Moines societies represented and it appears that there will be several more this year. A cordial invitation is, therefore, hereby extended to each and every society and club of Des Moines to致使 society or club in a city convention which will hold its first session at my residence, No. 1058 5th St. on Monday evening, Feb. 7th, at 8 o'clock, for the purpose of discussing and perfecting the for selection of projects at as early a date as possible, that they may have ample time to prepare their respective parts; and for the purpose of taking the necessary preliminary steps toward arranging for the entertainment of the Inter meeting to be held here in December.
 
-Greeting.
-
-purpose, jupopo season are now that the Inter State Literary Association of Kansas and the West will hold its 20th annual session, in Des Moines, during Christmas week 1911 and that under the rules of said association, all literary organizations soction are entitled to be represented in said meeting by three delegates.
-
-You are also notified that under the rules of said Association, all cities having more than three societies who expect to participate in said meeting are requested to organize a city conference from each of said societies who conventions shall determine what persons shall represent said city on the program and other matters pertaining to the Inter State meeting.
-
-At the last Inter State meeting at Kansas City, there were four Des Moines societies represented and it appears that there will be several more this year.
-
-A cordial invitation is, therefore, hereby extended to each and every literary society and club of Des Moines to elect their delegates to represent which will hold a convention at my residence, No. 1058 5th St. on Monday evening, Feb. 7th, at 8 o'clock, for the purpose of discussing and perfecting plans for the selection of program representatives from Des Moines at as early a date as possible, that their respective parts; and also, for the purpose of taking the necessary preliminary steps toward arranging for the entertainment of the Inter State meeting to be held here in December.
-
-S. JOE BROWN.
-
-Chairman Executive Committee, Inter State Literary Assn. of Kansas and the West.
+Chairman Executive Committee. Inter State Literary Assn. of Kansas and the West.
 
 A Sprained Ankle.
 
-As a rule a man will feel well satisfied he can hobble around on crutches in two or three weeks after spraining his ankle, and it is often two or three months before he's fully recovered. This is an unnecessary loss of time, as by applying Chamberlain's Limin, as directed, a cure may as a rule be effected in less than one week's time, and within three days. Sold by all druggists.
+As a rule a man will feel well satisfied he can hobble around on crutches in two or three weeks after spraining his ankle, and it is often two or three months before he 'is fully recovered. This is an unnecessary loss of time, as by applying Chamberlain's Liminet, as directed, a cure may as a rule be effected in less than one week's time, and within three days. Sold by all druceists.
 
 More Earthquakes in France.
 Toulon...Slight slamseism occurs

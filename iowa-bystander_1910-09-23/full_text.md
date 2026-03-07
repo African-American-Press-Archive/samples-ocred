@@ -12,11 +12,11 @@
 ## Remember the big rally next Sunday
 at Union Congregational church.
 
-J. L. Thompson spent Tuesday in Burlington on legal business.
+J. L. Thompson spent Tuesday in Burlington on legal hearing.
 
 Mr. Henry West who is sick, returned home from the hospital last week and is improving.
 
-Mrs. Mary Coalson has returned from Lake Okoboji where she spent the summer.
+Mrs. Mary Coalison has returned from Lake Okoboji where she spent the summer.
 
 Messrs. R. N. Hyde and Henry Taylor are the only two colored men drawn on the September jury.
 
@@ -24,11 +24,11 @@ Mrs. Elmer Morton of Omaha, Neb., formerly of this city, is now visiting her mot
 
 Misses Emma and Maggie Graves of Brunswick, Mo., are in our city visiting their relative, Mr. Yancy on Twelfth street.
 
-Mr. Isaac Robinson of Huntsville, Mo., who has spent three weeks visiting her sister and re-entering her girl in the schools, returned home last Saturday.
+Mrs. Isaac Robinson of Huntsville, Mo., who has spent three weeks visiting her sister and re-entering her girl in the schools, returned home last Saturday.
 
 Mr. Howard Griffin, the oldest son of Mr. and Mrs. Alex Griffin of East Capitol avenue, has gone to South Dakota with a fair exhibitor to spend a few weeks.
 
-A very nice reception was given last week by Mrs. I. M. Jones in honor of Mr. Elmer Morton of Omaha, Nebr. A good time reported.
+A very nice reception was given last week by Mrs. I. M. Jones in honor of Mrs. Elmer Morton of Omaha, Nebr. A good time reported.
 
 The M. C. T. club will give a lawn social Tuesday evening, Sept. 27th, at the home of Mrs. H. R. Graves, 207 Arthur avenue, Highland Park. Everybody welcome.
 
@@ -36,17 +36,25 @@ Mr. C. E. Baldwin, the eldest of the Baldwin brothers of Creston, spent a week v
 
 Mr. Nelson Watkins of Albany, Mo., arrived in our city last Tuesday to bring his little child, Fay Johnson, to put her in the public schools. He is at the home of his daughter, Mrs. J. L. Thompson on West Twentieth street. Fay will make her home at Mr. Thompson.
 
-Rev. O. A. Johnson of Independence, Mo., formerly patron of Burns M. E. courch, came to our city yesterday to visit a few days with old friends.
+Rev. O. A. Johnson of Independence, Mo., formerly pater of Burns M. E. couch, came to our city yesterday to visit a few days with old friends.
 
-Mrs. H. E. Jacobs who has been quite ill the last week at her home, 1238 W. Twentieth street, is improving.
+Mrs. H. E. Jacobs who has been quite ill the past week at her home, 1238 W. Twentieth street, is improving.
 
-Mrs. L. R. Palmer left yesterday for an extended trip through the east, Her first stop will be in Chicago, then to New York City, Buffalo, Washington, D.C. and other cities along the New England coast.
+Mrs. L. R. Palmer left yesterday for an extended trip through the east, Her first stop will be in Chicago, then to New York City, Buffalo, Washington, D. C. and other cities along the New England coast.
 
-The Intellectual Improvement club is making elaborate preparations for their first Annual Autumn Festival, to give Friday evening, Sept. 30th to the Young Men's Progressive Association, rooms Ninth and Park streets. The entertainment will consist of a literary and musical program and a bazaar. Refreshments will be served. They ask all clubs of the city and the general public for a large attendance. Admission 10 cents.
+The Intellectual Improvement club is making elaborate preparations for their first Annual Autumn Festival, to give Friday evening, Sept. 30th at the Young Men's Progressive Association, rooms Ninth and Park streets. The entertainment will consist of a literary and musical program and a bazaar. Refreshments will be served. They ask all clubs of the city and the general public for a large attendance. Admission 10 cents.
 
-Mr. Henry Clay, one of our highly respected citizens, has just returned from Tuskegee, Ala., where he took his littles daughter, Daisy Gerada, to enter the Tuskegee Normal and Industrial Institute. He speaks very highly of the Booker T. Washington school.
+Mr. Henry Clay, one of our highly respected citizens, has just returned from Tuskegee Ala., where he took his littles daughter, Daisy Gerada, to enter the Tuskegee Normal and Industrial Institute. He speaks very highly of the Booker T. Washington school.
 
-The M. C. T. club met last Monday, Sept. 19th, at the home of Mrs. Theodore J. Bell, 1651 Lyon street and listened to a very interesting program. A special feature of the program was an address by Mrs. J. P. Sims on the value of domestic science. We are only sorry all the ladies clubs of the city did not hear this most interesting and instructive address. The
+The M. C. T. club met last Monday, Sept. 19th, at the home of Mrs. Theodore J, Bell, 1651 Lyon street and listened to a very interesting program. A special feature of the program was an address by Mrs. J. P. Sims on the value of domestic science Mrs. Sims is a woman of rare ability and has a thorough and complete knowledge of the value of domestic science. We are only sorry all the ladies clubs of the city city did not hear this most interesting and instructive address. The
+
+THE VARIETY
+1010 Center Street.
+For the best meals in the
+city, and all kinds of sand-
+wiches.
+Special Chicken Dinner
+Every Sunday
 
 club will meet next Monday afternoon, Sept. 28th, at the home of Mrs. Green on Fourteenth Street Place.
 
@@ -82,9 +90,6 @@ AFTERNOON AT 3:30.
 4. Anthem by choir.
 5. Sermon by Dr. A. L. Frisbie.
 
-6. Prayer by Rev. T. O. Douglass, J.
-7. Address, H. C. A. Dudley.
-
 6. Prayer by Rev. R. O. Douglass, Jr.
 7. Address, Hon. C. A. Dudley,
 8. Offertory—Rev F. W. Hodgdon
@@ -104,32 +109,42 @@ been ask and have promised oo be present are Hen. W. T. Vernon, Register of the 
 
 ## ALBIA NEWS.
 
-Rev. and Mrs. T. L. Griffith and children arrived in T. Albia Monday. The reverend contiued his trip on to Albia, while Mrs. Griffith and children visited at the parental Cornelious Thomas home.
-Mrs. Cora McCarthy of Hawkeye was a visitor at the C. Thomas home a Monday and Tuesday this week.
+Rev. and Mrs. T. L. Griffith and children arrived in Albia Monday. The reverend contiued his trip on to Alabama, while Mrs. Griffith and Alabama visited at the parental Cornelious Thomas home.
+
+Mrs. Cora McCarthy of Hawkeye was a visitor at the C. Thomas home on a Monday and Tuesday this week.
+
 Mrs. Morton of Decatur county was in Albia Monday on her way to Buxton to visit her daughter.
-Mrs. E. Grayson returned home Tuesday of this week from her visit in Des Moines and her stay at Lake Okoboji, where she was employed three months.
+
+Mrs. E. Grayson returned home Tuesday of this week from her visit in Des Moines and her stay at Lake Okoboj, where she was employed three months.
+
 Lawyer Geo. H. Woodson of Buxton was in Albia Tuesday and Friday of this week.
-Miss Gertrude M. Jones returned to her home in Chicago after a two weeks visit at the parental H. Jones home.
+
+Miss Gertrude M. Jones returned to her home in Chicago after a two weeks visit at the parental J. Jones home.
+
 Miss Viola Washington has returned to her home in Chicago after a three months stay in Albia and Hocking.
-Mrs. fdell Lewis of Oskaloasa came over to Albia Sunday on his bicycle, Mrs. Lewis and little son John have been visiting several days with Mrs. Ben Lewis and her sister Mrs. Eva Roper.
+
+Mr. fdell Lewis of Oskaloosa came over to Albia Sunday on his bicycle. Mrs. Lewis and little son John have been visiting several days with Mrs. Ben Lewis and her sister Mrs. Eva Roper.
+
 Samuel L. Birt, Jr. and Mary Ruth Birt left Monday for Chicago where they will stay indefinitely. They are the children of Rev. S. L. Birt who will leave Albia Tuesday of this week for conference.
-Mir. Lon E. Franklin returned home from Des Moines this week.
-Mrs. and Mrs. Roy Grayson and Bennie M. were in town from Hocking Sunday.
-Mrs. and Mrs. Ed Butler were in Buxton over Sunday.
+
+Mr. Leon E. Franklin returned home from Des Moines this week.
+
+Mr. and Mrs. Roy Grayson and Bennie M. were in town from Hocking Sunday.
+Mr. and Mrs. Ed Butler were in Buxton over Sunday.
 
 ## CLINTON HAPPENINGS.
 
 Rev. B. U. Taylor left Monday night for Minnesota where he will attend the annual conference, which convenes on Wednesday.
 
-The supper which was served on Saturday evening, under the auspices of the officers of Bethel church for the pastor, was a success in every way. A large number were in attendance and a good sum was realized. The affair was in charge of the Stewardess, Mrs. Holland Williams chairman.
+The supper which was served on Saturday evening, under the auspices of the officers of Bethel church for the pastor, was a success in every way. A large number were in attendance and a good sum was realized. The affair was in charge of the Stewardess, Mrs. Hol- and Williams chairman.
 
-The Misses Freda Foster and Irene McGaw of Davenport were guests in Clinton recently of Miss Ester Culberson.
+The Misses Freda Foster and Irene McGaw of Davenport were guests in Clinton recently of Miss Esther Culberson.
 
 Mas. P. P. Taylor and daughter Ida arrived home last week from a two weeks visit spent in Chicago and Cairo, Illinois.
 
 The celebration given by the members of the Baptist church will take place Thursday of this week at Union Park.
 
-The officers of Bethel A. M. E. church were entertained at a dinner given at 7 o'clock on Tuesday evening, Sept. 13th, by A. A. Bush in the commodious basement of the church. The event which was considered the most pleasing function in the church history by those present, was given in honor of Rev. B. U. Taylor, the efficient pastor of the church during the past year. The large round table at which the eleven guests were seated, was done in green and red. The favors were tube rose boutioneries. The dinner was served in four courses. The following gentlemen were present: Rev. B. U. Taylor, Rev. P. P. Taylor, Messrs. J. T. Culberson, M. O. Culbertson, G. J. Robinson, Wm. Rnhinson, Scott Robinson, Wm. Wenderson, Holland Williams T. G. Dozier and A. A. Bush. Remarks of appreciation of the guest of honor by those present, concluded this very happy event.
+The officers of Bethel A. M. E. church were entertained at a dinner given at 7 o'clock on Tuesday evening, Sept-18th, by A. A. Bush in the commodious basement of the church. The event which was considered the most pleasing function in the church history by those present, was given in honor of Rev. B. U. Taylor, the efficient pastor of the church during the past year. The large round table at which the eleven guests were seated, was done in green and red. The favors were tube rose houttonieries. The dinner was served in four courses. The following gentlemen were present: Rev. B. U. Taylor, Rev. P. P. Taylor, Messrs. J. T. Culberson, M. O. Culberson, G. J. Robinson, Wm. Rhinbson, Scott Robinson, Wm. Henderson, Holland Williams T. G. Dozier and A. A. Bush. Remarks of appreciation of the guest of honor by those present, concluded this very happy event.
 
 Mr. and Mrs. A. C. Fisher of Des Moines are in the city the guests of Mr. and Mrs. Henry Robinson on DeWitt street.
 
@@ -170,13 +185,13 @@ Mrs. David Shores and children returned home last week from Norfolk where she ha
 
 ## OTTUMWA NEWS.
 
-Mr. Joseph Reid of St. Paul, Minn., is visiting his parents, Rev. and Mrs. J. C. Reid. The Afro-American Council gave an entertainment Tuesday evening at the M. E. church. Brief addresses were made by Rev. J. C. Reid, W. S. Page and Joseph Hopkins. Mrs. James Weeks of Des Moines is the guest of Mr. and Mrs. J. H. Weeks Miss Margaret Horne left Tuesday for an extended visit with her sister, Mrs. Samuel Green, in Seattle, Wash.
+Mr. Joseph Reid of St. Paul, Minn., is visiting his parents, Rev. and Mrs. J. C. Reid. The Afro-American Council gave an entertainment Tuesday evening at the A. M. E. church. Brief addresses were made by Rev. J. C. Reid, W. S. Page and Joseph Honkins.
 
-Miss Margaret Horne left Tuesday for an extended visit with her sister, Mrs. Samuel Green, in Seattle, Wash. The members of the Second Baptist church gave a surprise donation party for their prorist, Rev. J. C. Reid, Tuesday evening.
+Miss Margaret Horne left Tuesday for an extended visit with her sister, Mrs. Samuel Green, in Seattle, Wash. The members of the Second Baptist church gave a surprise donation party for their pror, Rev. J. C. Reid, Tuesday evening.
 
-Mrs. Hattie Hutchison of Buxton is visiting her parents, Mr. and Mrs. O. Williams.
+Mrs. Hattie Hutchison of Buxton is visiting her parents, Mr. and M. O. Williams.
 
-An invitational dance was given Thursday night by members of the Golden Leaf club at the M. W. A. hall. The funeral service of Mr. Bradshaw dawned Sunday afternoon from the A. M. E. church. Mr. Bradshaw accidently shot himself about four weeks ago. Services were conducted by Rev. P. M. Lewis, pastor, assisted by Presiding Elder M. I. Gordon and Rev. J. C. Reid of the Second Baptist church. Interment was made in Ottumwa cemetery.
+An invitational dance was given Thursday night by members of the Golden Leaf club at the M. W. A. hall. The funeral services of Mr. Daniel Bradshaw were held Sunday afternoon from the A. M. E. church. Mr. Bradshaw accidently shot himself about four weeks ago. Services were conducted by Rev. P. M. Lewis, pastor, assisted by Presiding Elder M. I. Gordon and Rev. J. C. Reid of the Second Baptist church. Interment was made in Ottumwa cemetery.
 
 The Faithful Few of the A. M. E. church will give an entertainment Monday. The proceeds will go on the piano indebtedness.
 
@@ -184,9 +199,9 @@ Mr. Lonnie Carter and Mr. Bolden of Buxton attended the funeral services of Dani
 
 Mrs. Earl Wagner is visiting her parents at Milan, Mo.
 
-Please donot overlook unpaid subscriptions.
+Pleaen donot overlook unpaid subscriptions.
 
-“Can be depended upon” is an expression we all like to hear, and when it is used in connection with Chamberlain’s Colic Cholera and Diarrhoea Remedy it means that it never fails to cure diarrhoea, dysentery or bowel complaints. It is pleasant to take and equally valuable for children and adults Sold by all druggists.
+“Can be depended upon” is an expression we all like to hear, and when it is used in connection with Chamberlain's Colic Cholera and Diarrhoea Remedy it means that it never fails to cure diarrhoea, dysentery or bowel complaints. It is pleasant to take and equally valuable for children and adults Sold by all druggists.
 
 ## THE OFFICIAL CALL OF THE
 WESTERN PRESS
@@ -205,12 +220,12 @@ Witness my hand this 14th day of September, 1910.
 JOHN L. THOMPSON, President, Editor of the Iowa State Bystander,
 
 Buxton, Iowa, Sept. 20, 1910.
+Dear Editor: A week ago the lowermost school received the most successful session in its history, success in every way. It gave inspiration to the church and community.
+Last night the school under the management of Prof. C. W. Rogers, rended a program which was one of the most interesting school entertainments ever witnessed in this community. He and his public deserved the three prizes rendered by the most excellent program rendered before a very appreciative audience. There were three prizes awarded to the first, second and third best speakers. Music was furnished by the school and some excellent renders some excellent selections.
+Hon. GEO. H. Woodson addressed the school in his usual manner and presented some stubborn facts to those striving to advance to advance to advance to advance. Mr. Woodson is always ready to give advice and render assistance when called upon.
+Mrs. Minnie B. London, Mrs. Maymie Findley of the public schools, and Hollykay N. Y., were the judges in the contest. The prizes were awarded to the 1st following: Robert Alexander Lowery, 1st prize, $2.00; Oval Leonard Carter, 2nd prize, $1.00; Attorney Jas. A. Spears presented the prizes and all seemed well satisfied with the decision of the judges. While the prizes were given to three every member on the prosecution much credit for the part he took.
 
-Dear Editor: A week ago the Iowa-Nebraska Baptist association held a session in its history, success in every way. It gave inspiration to the church and community.
-
-Last night the school under the management of Prof. C. W. Rogers, a program which was one or the most interesting school entertainments ever witnessed. In this community. He and his pupils deserved the highest appreciation for their work, a very appreciative audience. There were three prizes awarded to the first, second and third best speakers. Music was furnished by the Mt. Zion Baptist church, which rendered a very good service to H. Woodson addressed the school in his usual manner and presented some stubborn facts to those striving to advance to a higher degree of civilization. Mr. Woodson is always ready to give his knowledge and call upon. Mrs. Minnie B. London, Mrs. Jamie Findley of the public schools, and Miss Cora Waddlingham of Brooklyn, N. Y., were the judges in the contest. In all following: Robert Alexander Lowery, 1st prize, $2.00; Valo Leonard Carter, 2nd prize, $1.25; and Robert Floyd Booker, 3d prize, $1.00. Attorney Jones, A. Spears presented the prizes and made a decision of the judges. While the prizes were given to three every member on the program deserves much credit for the part he took.
-
-Mr. Lowery, the able pastor of Mt. Zion Baptist church, made some very pointed remarks, encouraging the advantage of the opportunities extended to them. He gave a few personal experiences in order to desire to rise to a higher degree of civilization. The night school has demonstrated the fact that not only the young but the old can learn if the will power is put in place and such character as Prof. Rogers to create life in the people.
+Rev. Woodard, the able pastor of Mt. Zion Baptist church, made some very pointed remarks, encouraging the efforts of those who are taking advantage of the church to give a few personal experiences necessary to give new life to any one desiring to rise to a higher degree of civilization. The night school has demonstrated the fact that not only the young but the old can learn if they have the right character that every community had such character as Prof. Rogers to create life in the people.
 
 ## COUNCIL BLUFFS ITEMS.
 
@@ -240,13 +255,27 @@ The stewardess of the A. M. E. church had a farewell entertainment in honor of R
 
 ## PEORIA, ILL. NEWS:
 
-Miss Mabel Woods celebrated her nineteenth birthday anniversary on Monday evening. Cards were the evening's announcement. The young students attended. The guests departed at a late hour wishing her many happy returns of the day.
+Miss Mabel Woods celebrated her nineteenth birthday anniversary on Monday evening. Cards were the evening's amusement. The young lady received many beautiful presents and was delighted to be awarded at a late hour wishing her many happy returns of the day.
 
-Last Wednesday evening at 8 p.m., Miss Hattie Saunders and Mr. Alice McCarthy, the granddaughters of the groom's sister, Mrs. Annie Short on Saratoga street. Rev H. W. Hameson affiliated. The young couple have the best wishes of a large family. Miss Mimie Sledge, who has been making an extended visit in the city, left Saturday for St. Joseph, Mo., to join her husband and children. From there they will move to Montana. Mrs. McCarthy, Miss Shepard has gone to Tennessee to visit her mother.
+Last Wednesday evening at 8 p.m. Miss Hattie Saunders and Mr. Albert Ford were married at the home of the groom's sister, Mrs. Annie Ford. Mrs. Annie Ford was married on Day W. Jameson affiliated. The young couple have the best wishes of a large number of friends.
+
+Mrs. Minnie Sledge, who has been making an extended visit in the city, left Saturday for St. Joseph, Mr. To help with the purchase on Day there they will move to Montana, their future home.
+
+Mr. and Mrs. Charles Dudley of Monson street have moved to their new home lately purchased at 803 Ellis street.
+
+Mr. Shepard has gone to Tennessee to visit his mother.
 
 Mr. Alex Hughes of Evansville, Ind., has come to the city to reside. Mrs. Hughes will come later.
 
-The object of the conference held at Mr. Zion Baptist church last week is to present a bond children a sense of relations, duties and children of relations, duties
+The object of the conference held at Mr. Zion Church in Friedale has to teach children a sense of relations, duties and obligations with regard to others. Those who attended the meeting agreed that every child needs pleasant surroundings, that a bond of loving companionship should exist between them, that may not chale under home restraint, but be convinced that this restraint is a loving protection against temptation, that the best way to teach politeness is by being polite. The sum of all it is to begin character building and child by teaching the Golden Rule.
+
+Rev. Dr. H. W. Jameson is returned to Peoria for another year. The congregation and friends are much pleased, as no one could well begin to see the joy and happiness he serves to enjoy some of the fruits of 4 years' labor.
+
+Mrs. Sarah Floyd of Wisconsin avenue, who has been ill for several days, is some better, who spent the past two months in Boston, Mass, returned home Tuesday night, September 20, feeling very much improved by the rest.
+
+Mrs. Hattie Green and daughter, Mrs. Jane Green of Abpaca, Ill, spent Saturday and Sunday with Mrs. Grace Walker, 1025 Jackson street, Mrs. Green is a very loyal member of the Baptist church, and was present at both services Sunday.
+
+"To the careful observer the signs of his devotion in many respects favorable. Each month the roll of roggal real estate buyers is increased. Some cash purchasers, others paying for their homes by the monthly payment system. There has been a greater number of marriages than in many years, and an equal number of months in the past 4 years.
 
 ## MONMOUTH NOTES
 
@@ -276,7 +305,38 @@ Reading—Ruth Boyd.
 Duct—Mesdamas Tyler and Hicks.
 Reading—Ruth Boyd.
 
-Much credit is due the social committee for their excellent way of entertaining. Rev. dew of Cedar Rapids people attended conference. Rev. Fairibre, Professor Lowry, Mrs. E. C. Thomas, Mrs. Clarie Pric, Mrs. Addie Gray and son left Tuesday night for conference. Mrs. Susie Jackson, who left two weeks ago to visit her mother in Bloomington, was taken very ill in town Monday on his way to Minneapolis to attend conference. Mrs. Sus
+Much credit is due the social committee for their excellent way of entertaining. Rev. of Cedar Rapids people attended conference. Rev. Fairibre, Professor Lowery, Mrs. E. C. Thomas, Mrs. Clarie Pric, Mrs. Addie Gray and son left Tuesday night for conference. Mrs. Susie Jackson, who left two weeks ago to visit her mother in Bloomington, was taken very ill but is much better now. We hope to see her again, as she is missed very much. Miss Colman of Buxton is the guest of Lena McDavis. Bro. E. C. Thomas will fill the public day in the absence of the pastor. Rev. Ford last week to attend conference in Illinois and to visit his nephew. Mr. Chas Davis died at the home of Aline Thompson Saturday evening at 5 o'clock. The remains will be taken to Buxton where the Elks will have charge of the body. Mrs. Harry Horne called a joint session of the J. S. Y. club and Cullet of the Iowa State University decided to ask for the Iowa State Federation and by vote Mrs. Horn was ordered to extend the invitation.
+
+ENTERPHISE. Mrs. Maud Johnson and sister returned home last week for a two weeks' visit with relatives and friends in Kansas. Mrs. S. Oler left for Evans, Iowa, Saturday for a five days visit with his parents. Rev. and Mrs. James Bowles, Mrs. Nettle Hunter and Mr. William Batts returned home last week from Kentucky. Mrs. Oler said a celebration. All report a fine session.
+
+Mrs. Della Wilson and daughter Beatrice left for their home Monday in Osceola, after three weeks' visit with her parents, Mr. and Mrs. Robert. Mrs. Walter McMillan and son Roy spent a week in Buxton visiting with friends.
+
+The W. H. and F. Mission society met Friday evening at the church.
+
+We like for more people to subsist at the church. Rev. and Mrs. Jas. Bowles entertained at their home Sunday at dinner Mr. and Mrs. W. Battles.
+
+The B. Y. P. U. meets every Sunday afternoon at 3 o'clock and are doing great work. All are invited to attend Mrs. C. William arrived home on Tuesday after a two weeks' visit in Centerville and Buxton, where she attended the association.
+
+KEORUK NOTES.
+
+The Rev. H. P. Jones and Rev. Jopelin left Monday evening for Minneapolis to attend the annual conference.
+
+Ms. D. Blind left Sunday night for St. Paul, Mann., to visit her brother and other relatives. She will also attend the annual conference at Minneapolis.
+
+Monday evening at the A. M. E. Chickens was a successful entertainment was given by the trustees of the church. The entertainment was given for the benefit of the pastor and was quite largely attended.
+
+Thursday evaping, September 15th the fifth church gave a program in honor of the departure of their pastor, Rev. H. P. Jones. At the church the program was very nicely arranged and each number was rendered in a high class manner. A large audience was present following was the numbers riven.
+
+Opening-Lord's Prayer (Chant).
+Anthem by choir—Beautiful Golden Gates.
+Address—Mr. Alonzo Draine.
+Quartet selection—Messrs. Earl Willingham Fox, William Martila and Charles Williams.
+Address, Past and Present—Lena Porter.
+Duet—George Cadwell, Lavada Porter.
+Closing address—Rev. H. P. Jones.
+Quartet selection—Messrs. Earl Ware, Arthur Fox, William Martila and Charles Williams.
+Many symphonicizing and sorrowful pieces last sad funeral rites of the late Mrs. Jone Breckenridge whose death occurred Wednesday morning at her home in Hammond, after a lingering illness of about 15 weeks, and many other services were in charge of the M. E. church minister of Hamilton and were very beautiful and impressive and during his remarks the pastor spoke of the sickness of her昶izing her uprightness of character and the sorrow of parting. The floral tributes were many and beautiful. Those left to mourn her loss are her husband one daughter, his wife, and several grandchildren and a score of other relatives and friends.
+Mr. D. W. Anderson, who resided at 1111 Fulton street, is quite ill with pneumonia and surprise dart was tended Mr. G. T. Kendrick Tuesday evening, September 20th, at the home of his daughter, Mrs. Harry Ashby, 1423 Franklin street. The house was very successful carried out. Everyone reported a good tim.
 
 G. LUCAS
 
@@ -284,11 +344,15 @@ G. LUCAS
 
 ## KEOKUK NOTES.
 
+```markdown
+
+```
+
 ---
 ## Page 2
 
-BYSTANDER PUB. CO. Publishers
-DE MOINEES . . . IOWA
+BYSTANDER PUB. CO., Publishers.
+DES MOINER . . . IOWA
 
 Have you taken 15 minutes off to learn Esperanto?
 
@@ -300,7 +364,7 @@ Paris has thoughtfully relegated the hobble skirt to the museum of horrors.
 
 In the agreement between Korea and Japan the latter did the agreeing for both.
 
-A Long island milkman mistook a mule for a cow. Moral: One cannot be too careful.
+A Long Island milkman mistook a mule for a cow. Moral: One cannot be too careful.
 
 A determination to practise what we preach keeps us from doing too much preaching.
 
@@ -314,6 +378,8 @@ Men may beat the birds flying, but the birds don't have much trouble with their 
 
 Europe cannot expect to experience a cholera epidemic and an epidemic of American tourists at the same time.
 
+In the coming sham battle of areoplanes is the contest to see which crowd of aviators hurt themselves least?
+
 Washington has displaced the eagle and has made the woodpecker the state bird. This will make Old Baldy red-headed.
 
 Occasional showers are useful, but the weather man should not go away on his vacation and forget to turn them off.
@@ -322,25 +388,25 @@ It has been decided that a divorced woman is the widow of her former husband. Th
 
 Married men, according to statistics, are subject to fewer accidents than are single men. Somebody is keeping tab on their hours.
 
-An Illinois man has patented a safety pin with two points. However, wearers of the gals are still waiting for the two-headed nail.
+An Illinois man has patented a safety pin with two points. However, wearers of the gallus are still waiting for the two-headed nail.
 
-It may be marvelous, but it is human that Susie, the pet ape, should refuse chewing gum simply because her teacher tells her to?
+It may be marvelous, but it is human that Sugie, the pet ape, should refreeze chewing gum simply because her teacher tells her to?
 
 The Philadelphia man who was choked to death by a high collar died a death that ought to turn Harry Lehr and Berry Wall green with envy.
 
-Half a million in counterfelt coin has been recovered by the United States in the past year. Has any one heard of any real money being recovered?
+Half a million in counterfeit coin has been recovered by the United States in the past year. Has any one heard of any real money being recovered?
 
-Correspondents are arguing that a lie is occasionally justifiable and a Brooklyn judge decides that "dam" is not profane. Being good is becoming easier.
+Correspondents are arguing that a lie is occasionally librifiable and a Brooklyn judge decides that "dam" is not profane. Being good is becoming easier.
 
 In Paris filet of beef is worth 50 cents a pound and only cheap cuts of horse meat are as low as 20 cents. No wonder they call it "that dear Paris."
 
-The language of the North American Indian and the Japanese contain no cuss words. What a handicap when an aborigine hit his finger with a prehistoric ax!
+The language of the North American Indian and the Japanese contain no cues words. What a handicap when an aborigine hit his finger with a prehistoric ax!
 
-Canada has discovered that it has $29,000,000,000 worth of peat bogs and it is wondering how it can induce its people to use peat at a low cost in preference to coal at high cost.
+Canada has discovered that it has $29,000,000,000 worth of peat bogs and is wondering how it can induce its people to use peat at a low cost in preference to coal at high cost.
 
-The uncle of the King of Portugal, who saw a man killed in a street fight among men in New York, is now in position to go home and write a book about American civilization.
+The uncle of the King of Portugal, who saw a man killed in a street fight among rummiks in New York, is now in a position to go home and write a book about American civilization.
 
-Esperanto will never offend against the preofood laws, unless its advocates, being merely human, revolt against its limited expressions for emotional relief. Its vocabulary does not contain a single swear word.
+Esperanto will never offend against the pure-food laws, unless its advocates, be merely human, revolt against its limited expressions for emotional relief. Its vocabulary does not contain a single swear word.
 
 England is now figuring on a gas-driven battleship to render obsolete all vessels of the Dreadnought type. People over there must sit up nights thinking of new ways to spend public money.
 
@@ -350,7 +416,7 @@ In the presence of all this wonderful aviation on the other side of the ocean it
 
 Army experts who claim that it is hard to hit an airship with a rifle ball will merely whet the aspiration of the prize imbecile who thinks it a joke to shoot at a passing aviator.
 
-Smuggling diamonds through the seerage is a dodge which failed to work with the alert. New York customs authorities later. The smuggler argued that the authorities would not think of looking in the steerage for valuable items and the authorities argued the steerage might think just that way.
+Smuggling diamonds through the streeorage is a dodge which failed to work with the alert, New York customs authorities lately. The smuggler argued that the authorities would not allow the streeorage for valuables, and the authorities argued the streeorage might think just that way.
 
 # COUNTRY ALL RIGHT
 
@@ -371,13 +437,13 @@ A strikingly strong article by Colonel George Harvey in the North American Revie
 
 ## Conserve Common Sense.
 
-"Is not the present, as we have seen, exceptionally secure? What, then, of preparations for the future? Patriotism is the basis of our institutions. And patriotism in the minds of our youth is no longer linked solely with fireworks and deeds of daring. It is taught in our schools. A new course has been introduced methodically, our children learn how to vote, how to conduct primaries, conventions and elections, how to discriminate between qualifications of candidates and, finally, how to govern as well as serve. They are taught to despise bribery and all forms of corruption and fraud as treason. Their creed, they are made to know by heart, is not complex. It is simple, but complex, less beautiful in diction than lotto in aspiration. These are the pledges which are graven upon their memories:
+"Is not the present, as we have seen, exceptionally secure? What, then, of preparations for the future? Patriotism is the basis of our institutions. And patriotism in the minds of our youth is no longer linked solely with fireworks and deeds of daring. It is the course has been added—a course in loyalty, Methodically, our children learn how to vote, how to conduct primaries, conventions and elections, how to discriminate between qualifications of candidates and, finally, how to govern as well as serve. They are taught to despise bribery and all forms of corruption and all conspirations. Their creed, which they are made to know by heart, is not complex. It is simple, but comprehensive, no less beautiful in diction than loty in aspiration. These are the pledges which are graven upon their memories:
 
-"As it is cowardly for a soldier to run away from battle, so it is cowardly for any citizen not to contribute his share to the well-being of his country. America is my own dear land; she nourishes me, and I will love her and do my duty to her, whose child, servant and civil soldier I am.
+"As it is cowardly for a soldier to run away from battle, so it is cowardly for any citizen not to contribute to the war of belonging of his country. America is my own dear land; she nourishes me, and I will love her and do my duty to her, whose child, servant and civil soldier I am.
 
-The health and happiness of my body depend upon each muscle and nerve and drop of blood doing its work in its place, so the health and happiness of my country depend upon each citizen doing his work in his place.
+"As the health and happiness of my body depend upon each muscle and nerve and drop of blood doing its work, and the health and happiness of my country depend upon each citizen doing his work in his place.
 
-The young students our hostages to fortune. Can we not safely assume that the principal mating their life in theugner well for the permanence of the Republic? When we have the foundation stones of continuance been laid with such care and promise of durability?
+"These young citizens are our hostages to fortune. Can we not safely assume that the principals animating their lives augur well for the permanency of the Republic? When before have the foundation stones of continuance been laid with such care and promise of durability?
 
 "The future, then, is bright. And the present? But one thing is needful. No present movement is more laudable than that which looks to conservation of natural resources. But let us never forget that the greatest inherent resource of the American people is Common Sense that be conserved and applied without question, and soon it will be bound that all the fils of which we complain but know not of are only such as attend upon the growing pains of a great and blessed country.
 
@@ -392,6 +458,12 @@ Religion should be native. It should be concrete and applicable. Religion is the
 Of Cources.
 "They say a woman always reads a love story backward."
 "I take no stock in that claim. If she the manager is going to play with the threat act first."—Louisville Courrier-Journal
+
+WHO GOT THE BIGGEST FISH
+
+THE FLAGUE FISHING CLUB
+
+INDIANNAPOLIS NEW
 
 # DEFEAT FOR TAWNEY WESTERN RAIL MEN TESTIFY
 
@@ -413,13 +485,13 @@ The fight on Tawney has been the warmest in the state. Anderson was brought out 
 
 Certain Death Awaits Plotters Under Arrest Who Attempt to Assassinate Japan's Emperor.
 
-Tokyo, Japan.—A sensation was caused by the publication of the alleged details of a plot among his own subject: to assassinate Emperor Matsuho. The startling story appeared in the Hochi Shimbun, which says that the plotters, who are under arrest, certainly will be sentenced
+Tokyo, Japan.—A sensation was caused by the publication of the alleged details of a plot among his own subject to assassinate Emperor Mutsuhito. The startling story appeared in the Hochi Shimbun, which says that the plotters, who are under arrest, certainly will be sentenced.
 
 Emperor of Japan.
 
 to death after trials before a special secret court.
 
-This is the first time in the history of the country that the life of the sovereign has been plotted against by his own people and the fact has become known. It is understood that a rigorous council is prevented the publication of as much as a hint of the conspiracy until this evening, when the Hochi Shimbun assumed responsibility for the alarming announcement.
+This is the first time in the history of the country that the life of the sovereign has been plotted against by his own people and the fact has become known. It is understood that a rigorous censorship prevented the publication of as much as it could be of the evening when the Hochi Shimun assumed responsibility for the alarming announcement.
 
 ## Shoots Kin for a Deer
 
@@ -435,69 +507,67 @@ PRESENT EVIDENCE IN SUPPORT OF HIGHER FREIGHT RATES.
 
 Hearing is Conducted by Commerce Commission Along Lines of Court Procedure.
 
-Chicago. — Western railroads continued the presentation of evidence before the interstate commerce commission in support of their contention that a general advance in freight rates is necessary to maintain the standard of service demanded by the government and the people.
+Chicago. - Western railroads continued the presentation of evidence before the interstate commerce commission in support of their contention that a general advance in freight rates is necessary to maintain the standard of service demanded by the government and the people.
 
-Commissioners Clements, Clark and Lane conducted the hearing which hitherto has been in the hands of examiners. Commissioner Clements outlined the work of the week along lines of court procedure, asking railroads, as affirms, to show cause why the advances proposed should not be permanently suspended, and the shippers, as respondents, to show the contrary. Cattle, vice president, of the Illinois Central, the first witness heard, presented statistics showing the cost of operating the road since 1891. Commissioner Lane called the attention of Attorney Norton, representing the Illinois Central, to Mr. Kittle's figures, showing in 1892 a higher cost of operation per mile than in 1910. Attorney Norton replied that this was only a chance comparison; he was about to show, he said, a higher cost in every department of maintenance not on any one feature.
+Commissioners Clements, Clark and Lane conducted the hearing which hitherto has been in the hands of examiners. Commissioner Clements outlined the work of the week along lines of court procedure, asking railroads, as affirms, to show cause why the advances proposed should not be permanently suspended, and the shippers, as respondents, to show the contrary.
 
-Mr. Kittle testified that in damaged freight indemnities alone this year the road paid out $4,847 as against only $60,000 in 1892.
+C. M. Kittle, vice-president of the Illinois Central, the first witness heard, presented statistics showing the cost of operating the road since 1891. Commissioner Lane called the attention of Attorney Norton, representing the Illinois Central, to Mr. Kittle's figures, showing in 1892 a higher cost of operation per mile than in 1910. Attorney Norton replied that this was only a chance comparison; he was about to show, he said, a higher cost in every department of maintenance. Mr. Kittle verified that in damaged freight indemnities alone this year the road paid out $146,470 as against only $60,000 in 1892.
 
-As an instance of increased cost of insurance in the case of that lumber which could be bought in 1900 for nine dollars now costs $13. Increased wages also were a drain on the revenue of the company, he declared.
+As an instance of increased cost of material Mr. Kittle said that lumber which could be bought in 1900 for nine dollars now costs $13. Increased wages also were a drain on the revenue of the company, he declared.
 
 ## GRAND ARMY IN BIG PARADE
 
 Veterans of Civil War in Annual Reunion March Through Streets of Atlantic City.
 
-Atlantic City, N. J.—The veterans in attendance upon the Grand Army of the Republic national encampment marched through the streets of Atlantic City Wednesday to the strains of martial music as they did nearly half a street through which the parade passed were beautifully decorated, and the old riflemen marched between solid walls of spectators whose cheering was continuous. All along the route relief stations were established for the comfort of the veterans, and they were served with coffee and other refreshing drinks. Some of the feebler ones dropped out before the end of the route was reached, but most of them marched on sturdy to the point where the parade was disbanded.
+Atlantic City, N. J. The veterans in attendance upon the Grand Army of the Republic national encampment marched through the streets of Atlantic City Wednesday to the strains of martial music as they did nearly half a century ago through which the parade passed were beautifully decorated, and the old soldiers marched between solid walls of spectators whose cheering was continuous. All along the route relief stations were established for the comfort of the veterans, and they were served with coffee and other refreshing drinks. Some of the feebler ones dropped out before the end of the route was reached, but most of them marched on sturdy to the point where the parade was disbanded.
 
-Following the men of the Grand Army were large delegations representing all the allied organizations—the Woman's Relief Corps, the Lady of the Army, the R. Daughters of the General Presidency of Union Ex-Prisoners of War, the National Association of Naval Veterans, the Army Nurse association, the Association of Civil War Musicians, the Sons of Veterans and their auxiliary, and the United Spanish War Veterans.
+Following the men of the Grand Army were large delegations representing all the allied organizations—the Woman's Relief Corps, the Ladies of the G. A. R. the Daughters of Veterans of American Association of Urban Ex-Prisoners of War, the National Association of Naval Veterans, the Association of Civil War Musicians, the Sons of Veterans and their auxiliary, and the United Spanish War Veterans.
 
 Commander-in-Chief Van Sant reviewed the parade, and in the stand with him were Governor Fort, Mayor Stoy and a large number of other notables. When the parade disbanded the old soldiers sought their quarters to rest up for the doings of the afternoon and evening.
 
 Prominent Educator Dies.
+Palo Alto, Cal.-Prof. J. E. Matzke, who held the Roman languages at Stanford university since 1893, is dead in the city of Mexico, according to President Wheeler of the University of California. Professor Matzke died of cerebral hemorrhage.
 
-Palo Alto, Cal.—Prof. J. E. Matzke, who held the chair of Roman languages at Stanford university since 1893, is dead in the city of Mexico, according to the Presidency of Tuesday to President Wheeler of the University of California, Professor Matzek died of cerebral hemorrhage.
-
-Kaiser Visits Emperor Joseph, Vienna.—Emperor William arrived here Tuesday and for two days will be the guest of Emperor Francis Joseph at Schoenbrunn.
+Kaiser Visits Emperor Joseph.
+Vienna.-Emperor William arrived here Tuesday and for two days will be the guest of Emperor Francis Joseph at Schoenbrunn.
 
 Ship Wrecked; 15 Missing.
+Melbourne, Australia.-The British ship Carnarvon Bay, from Liverpool June 20 for Sydney, has been wrecked on King island. The captain and seventeen men were picked up Sunday, but a second boat with fifteen men aboard is missing.
 
-Melbourne, Australia.—The British ship Carnavar Bay, from Liverpool June 20 for Sydney, has been wrecked on King island. The captain and seventeen men were picked up Sunday, but a second boat with fifteen men aboard is missing.
-
-Oppose inflow of Orientals.
-
-San Francisco.—The Asialic Exclusion league in a report has criticized the local immigration bureau and insisted that steps be taken to check the inflow of orientals.
+Oppose inflow of Orientales.
+San Francisco.-The Asialic Exclusion league in a report has criticized the local immigration bureau and insisted that steps be taken to check the inflow of orientals.
 
 ## THUGS ROB MEN OF $10,000
 
 TWO PITTSBURG BROTHERS ARE HELD UP AT CHICAGO.
 
-Merchanta we were to Wishon in To buy Tobacco When Robbed—$500 Diamond Gone.
+Merchants Were on Way to Wisconsin to Buy Tobacco When Robbed— $500 Diamond Gone.
 
-Chicago. — Harry W. and Max C. Chotner of the Pittsburgh tobacco distributing firm of H. W. Chotner & Brother, incorporated, were held up and robbed of $10,000 in money and a two-carat diamond shirt stunt valued at $0 at Quincy and Jefferson street last night. The hold-up men are still at large.
+Chicago. — Harry W. and Max C. Chotner of the Pittsburgh tobacco distributing firm of H. W. Chotner & Brother, incorporated, were held up and robbed of $10,000 in money and a twocarat diamond stirl vest valued at $00 at Quincy and Jefferson street last night. The hold-up men are still at large.
 
-The brothers were on their way from Twelfth and Halsted streets to the Brevoort hotel, where they are shopping and help them in this city they lost their way. While walking in Quincy street 100 feet east of Jefferson they were seized from behind by two men. Max, who carried the money in his inside coat pocket, was hurried into a vacant lot and pinned down by his assailant, while his brother engaged in a struggle with the other highwayman on the sidewalk.
+The brothers were on their way from Twelfth and Halsted streets to the Brevoort hotel, where they are stopping. Being strangers in the city, they lost their way. While walking in Quincy street 100 feet east of Jefferson they were seized from behind by two men. Max, who carried the money in his inside coat pocket, was hurled into a vacant lot and pinned down by his assailant, while his brother engaged in a struggle with the other highwayman on the sidewalk.
 
-In the struggle Harry was robbed of his diamond. Galinus his freedom by wrigging out of his coat, he declares he ran down the street shouting "Murray out of the bank until today. knocking the breath out of him. The money was then wrested from his pocket, and the highwayman ran.
+In the struggle Harry was robbed of his diamond. Gaining his freedom by wriggling out of his coat, he declares he ran down the street shouting "Murderer!" and calling to the Union depot, several blocks away, where he met a policeman. When the policeman reached the scene of the robbery he found Max lay in the lot in a semi-conscious condition.
 
-The Chotner brothers tried to deposit the money in the First National bank, but decided to carry it, as it would be impossible to get to the bank until they had intended to leave Chicago last night for Jamesville. Wis, to complete a deal for $10,000 worth of tobacco.
+When Max revived he said that after he had been knocked down by one robber another attacked him, knocking the breath out of him. The money was then wrested from his pocket, and the highways ran. The Chottner brothers tried to deposit the money in the First National bank, but decided to carry it, as it would be impossible to get the money out of the bank until today. They had intended to leave Chicago last night for Janesville, Wis., to complete a deal for $10,000 worth of tobacco.
 
 ## CRAZED OVER CRIPPEN LOVE
 
 Woman Testifies That Doctor's Companion Confessed Fears She Might Not Marry Him.
 
-Lohdon. What Ethel Clara Leneve suffered as, half mad with jealousy, she impatiently waited the fulfillment of Dr. Hawley H. Clippen's promise to make her his wife, was revealed Monday at the inquest into the death of Clippen's wife, Beile Elmore, with the murder of whom the doctor and his typist are jointly charged.
+Lohdon. What Ethel Clara Leneve suffered as, half mad with jealousy, she impatiently waited the fulfillment of Dr. Hawley H. Crippen's promise to make her his wife, was revealed Monday at the inquest into the death of Crippen's wife, Beile Elmore, with the murder of whom the doctor and his typist are jointly charged.
 
-In her distress Miss Leneve confided in her landlady, Mrs Jackson.
+In her distress Miss Leneve confided in her landlady, Mrs Jackson. Mrs Jackson said that the accused girl gave up her room March 12, expecting that she was leaving to marry Doctor Crippen.
 
-Mrs Jackson said that the accused girl gave up her room March 12. expecting that she leaving to marry Doctor Clipper.
-
-Just the first week in February Miss Leneve slept regularly at Mrs Jackson. 'After that she stopped at the house only occasionally. She said that she passed the other nights at the homes of friends. One early in the February, Miss Elmore mentioned have home the Hildrop-Crescent home of the Crippens to help the doctor search for a bank book which showed an account of $1,000. A diamond tiara and rings had been found in the house and the doctor raised $500 on them.
+Until the first week in February Miss Leneve slept regularly at Mrs. Jackson's. After that she stopped at the house only occasionally. She said that she passed the other nights at the homes of friends. Once, early in February, Miss Leneve mentioned having, been at the Hildrop-Crescent home of the Crippens to help the doctor search for a bank book which showed an account of $1,000. A month thraa and rings had been found in the house and the doctor raised $850 on them.
 
 About the middle of February, the witness said, Miss Leneve appeared in a "terrifying state of agitation." Her eyes seemed starting out of her head. The landlady insisted on an explanation.
 
-"Would you be surprised if I told you that it was the doctor and Miss Elmore?" the witness quoted Miss Leneve as saying. "The was the cause of my trouble when you first knew me. She is his wife, and when I see them go away together it makes me realize my position as to what she is and what is the use of you worrying about another woman's husband?" Mrs Jackson had asked.
+"Would you be surprised if I told you that it was the doctor and Miss Elmore" the witness quoted Miss Lennee as saying. "He was the cause of my trouble when you first knew me. She is his wife, and when I see them go away it makes me realize my position to what she is and what I am."
 
-Miss Leneve answered: "Miss Elmore has been threatening to go away with another man. Doctor Clippen has been waiting for her to do so, when he would divorce her."
+"What is the use of you worrying about the other woman's husband?" Mrs. Jackson had asked.
+
+Miss Lennee answered: "Miss Elmore has been threatening to go away with another man. Doctor Crippen has been waiting for her to do so, when he would divorce her."
 
 ## STANDING OF BALL CLUBS
 
@@ -542,32 +612,40 @@ Kansas City, Mo.—Thirty thousand coal miners of Missouri, Kansas, Arkansas and
 Libbor—One hundred and fifty persons were injured in a railroad wreck near Oporto Tuesday. The majority were only slightly hurt. One was killed.
 
 ALCOHOL-3 PER CENT
-Vegetable preparation for Assimilating the Food and Regulating the Stomachs and Bowels of
-WANTS CHILDREN
-Promotes Digestion, Cheerfulness and Rest. Contains neither Opium, Morphine nor Mineral NOT NARCOTIC.
-Recipe of Old SANGLUZNITER.
-Pumpkin Seed - Morphine -
-Mahonia Seed - Morphine -
-Arizona Seed - Morphine -
-Clary Sage - Morphine -
-Winter Sage - Morphine.
-Aperfect Remedy for Constipation, Sour Stomach, Diarrhoea, Worms, Convulsions, Feverishness and LOSS OF SLEEP.
-Fac Signature of
-Court Historian.
-THE CENTURY COMPANY,
+Vegetable Preparation for As-
+similating the Food and Regu-
+ting the Stomach and Bowels of
+ISLANDS CHILDREN
+Promotes Digestion, Cheerful-
+ness and Rest. Contains neither
+Opium, Morphine nor Mineral
+NOT NARCOTIC.
+Recipe of Old D.S. SAUCHINGTON
+Pumpkin Seed - Hosta
+Nobility Tea - Aster Seed -
+Epimedium - Chamomile - Indian Seed -
+Cinnamon - Chili Powder - Witchgrey Thyme
+Aperfect Remedy for Constipa-
+tion, Sour Stomach, Diarrhea,
+Worms, Convulsions, Feverish-
+ness and LOSS OF SLEEP.
+Fac Simile Signature of
+David Hatcher.
+THE CENTAUR COMPANY,
 NEW YORK.
-Abb months old
-35 Doses 35 CENTS
-Guaranteed under the Food and Exact Copy of Wrapper.
+Amb months old
+35 DOSES 35 CENTS
+Guaranteed under the Foodam
+Exact Copy of Wrapper.
 
 WANTS NO MODERNIZED BIBLE
 King James Version the Best of All,
-Says Writer in Success Magazine.
+Says Writer in Success
+Magazine.
 
-We are just old-fashioned enough to take no stock in the modernized Bible which is shortly to appear, "couched in every-day language, with oblated words and phrases eliminated." The King James Bible has done more to preserve the good old Saxon words and style, the good best English literature has produced, than anything else. Instead of a movement to get us further away from that vigorous, simple, classic style, and the interest of establishing the finest literary ideas possible to a people destined to use the curious hybrid which the English language has become, it would be more sensible to frown upon all efforts to improve on the King James Bible. It is the greatest treasure house, inspiration and teacher of good English that we possess—Success Magazine.
+We are just old-fashioned enough to take no stock in the modernized Bible which is shortly to appear, "couched in every-day language, with obsolete words and phrases eliminated." The King James Bible has done more to preserve the good old Saxon words and style, which are the best English literature has produced, than anything else. Instead of a movement to get us further away from that vigorous, simple, classic style, and in the interest of establishing the finest literary ideals possible hybrid with the curious hybrid which the English language has become, it would be more sensible to frown upon all efforts to improve on the King James Bible. It is the greatest treasure house, inspiration and teacher of good English that we possess.—Success Magazine.
 
-Beware the Dog!
-A family moved from the city to a suburban locality and were told that they should get a watchdog to guard the premises at night. So they bought the largest dog that was for sale in the kennels of a neighbouring dog shelter. Then shortly afterward the house was entered by burglaries, who made a good haul, while the big dog slept. The man went to the dog fancier and told him about it.
+Beware the Dog! A family moved from the city to a suburban locality and were told that they should get a watchdog to guard the premises at night. So they bought the largest dog that was for sale in kennels of a disciplinary dog fancier, a German. Shortly afterward the house was entered by burglaries, who made a good haul, while the big dog slept. The man went to the dog fancier and told him about it.
 
 "Vell, vat you need now," said the
 girl. "It takes me to wake up
@@ -579,24 +657,38 @@ A little girl of three years, whose father had bought her some firecrackers and 
 
 ## True Independence
 
-You will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who, in the midst of the crowd, keeps, with perfect sweetness, the independence of solitude. -Emerson.
+You will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who, in the midst of the crowd, keeps, with perfect sweetness, the independence of solitude.—Emerson.
 
 PUZZLED
 Hard Work, Sometimes, to Raise Children.
 
-Children's taste is oftentimes more accurate, in selecting the right kind of food to fit the body, than that of adults. Nature works more accurately through the children.
+Children's taste is oftinere more accurate, in selecting the right kind of food to fit the body, than that of adults. Nature works more accurately through the children.
 
 A Brooklyn lady says: "Our little boy had long been troubled with weak digestion. We could never persuade him to take more than one taste of any kind of cereal food. He was a weak little chap and we were puzzled to know what to feed him on.
 
-"One lucky day we tried Grape-Nuts. Well, you never saw a child eat with such a relish, and it did me good to see him. From that day on it seemed as though we could almost see him grow. He would eat Grape-Nuts or breakfast and supper, and I think he would have liked the food for dinner.
+"One lucky day we tried Grape-Nuts. Well, you never saw a child eat with such a relish, and it did me good to see him. From that day on it seemed as though we could almost see him grow. He would eat Grape-Nuts for breakfast and supper, and I think he would have liked the food for dinner.
 
 "The difference in his appearance is something wonderful.
 
 "My husband had never fancied cereal foods of any kind, but he became very fond of Grape-Nuts and has been much improved in health since using it.
 
-"We are now a healthy family, and naturally believe in Grape-Nuts.
-
 "We are now a healthy family, and naturally believe in Grape-Nuts. "A friend has two children who were formerly afflicted with rickets. I was satisfied that the disease was caused because proper nourishment. They should it. We used Grape-Nuts as an experiment and the result was almost magical. "They continued the food and today both children are well and strong as any children in this city, and, of course, my friend is a firm believer in Grape-Nuts for she has the evidence before her eyes every day." Read "The Road to Wellville" found in pkgs. "There's a Reason." One appears from time to time. They are greeting, true, and full of human
+
+CASTORIA
+For Infants and Children,
+The Kind You Have
+Always Bought
+Bears the
+Signature
+of
+Charl H. Flutcher
+In
+Use
+For Over
+Thirty Years
+CASTORIA
+
+SLOW.
 
 "What, hasn't George proposed yet?"
 
@@ -639,15 +731,15 @@ We are builders of our own charcoalers.-J. F. W. Ware.
 TRY MURINE EYE REMEDY For Red, Wink, Weary, Watery Eyes and GRANULATED EYELIDS: Murine Doe's 'Smart-Soothes Eye Pain Drama Doesin Salmine Eye Pain. Liquid, Scalp, Eye Bags. Take in Anaconda, Tape, Scalp, EYE BOOKS AND ADVICE FREE BY MAIL Murine EyeRemedy O., Chicago
 
 SHOES
-THE PROCESS
-MEN'S $2.00, $3.00, $3.50, $4.00, $4.00, $5.00
-WOMEN'S $2.50, $3.50, $4.00
-BOYS $2.50, $3.50 & $3.00
-WOMEN'S $4.00
+PROCESS
+MEN'S $2.00 & $3.00, $4.00 & $4.00, $5.00
+WOMEN'S $2.00 & $3.00, $4.00
+BOY'S $2.00 & $3.00
+
+64
+
 FOR 30 YEARS
-They are absolutely the most popular and bestsellers in the world.
-They are the most adored everywhere, where because they hold their shape, fit better, wear less and look greater than other makes.
-They are positively the
+They are absolutely the most popular and bestsellers for the prize in America. They are known where because they hold their shape, fit better, grow larger than other males. They are positively the
 
 most economical shoes for you to buy
 mongolian shoes - value guaranteed.
@@ -663,6 +755,36 @@ W. L. DOUGLAS. Brochure. Mass.
 ---
 ## Page 3
 
+中華醫院
+
+## INSURANCE MENT TOPITTSBURG
+
+Texas-Men Head American Life Association—T. W. Blackburn Re-elected Secretary.
+
+Des Moines—Uniform state laws for the benefit of insurance companies, regulating taxation of companies, licensing of insurance agents and protecting companies from slanderous statements of opposition agents will be sought by the American Life convention, which closed its annual convention after it had referred the uniform legislation matter to the executive committee.
+
+T. W. Vardell head of the Southwestern Life insurance company of Dallas, 'tix, was elected president after a spirted contest with Felix G. Cross, of Chicago, representing the men who did not think the office should go to the south. Hon. Frank D. Jackson was elected vice-president for Iowa. T. W. Blackburn of Omaha, was re-elected secretary.
+
+Isaac M. Hamilton, Chicago; M. A. Woolen, Indianapolis; J. B. Reynolds, Kansas City, Mo.; M. A. Lindy, Lincoln, Nebr., P. D. Gold, J.R. Raleigh, S. C. and Thomas L. Miller, San Francisco, were elected members of the executive committee.
+
+Pittsburgh won over St. Paul and Washington, D. C. for the site of the next meeting, the invitation of St. Louis having been withdrawn.
+
+Teacher Wins Damage Suit.
+Mason City — A jury at Northwood gave Laura Molsberry, a school teacher. $1,950 as damages in a suit against Otto Christians, a Grafton banker, for injuries received when Miss Molsberry was struck by the defendant's apto.
+
+Noble Will Speak.
+Pleasantville — A fall festival and reunion of the Third Iowa cavalry will be held here September 27 to October 1. General John Noble of St. Louis, will be one of the speakers.
+
+Woman Fights Burglar.
+Council Bluffs — Mrs. F. Frohm engaged in a hand to hand fight with a burglar whom she found in her home. The man escaped. A young man giving the name of Bernard Lounck was later arrested. He had considerable jewelry upon him.
+
+Foster Passes Examination.
+Creston — Bernard Foster, of this city, was one of the three men out of a class of 26 who succeeded in passing the last state pharmacy examination held in Des Moines.
+
+```markdown
+
+```
+
 DESMOINES,SEPTEMBER26-OCTOBER1
 
 Nearly 5000 Regular Troops from the Mid-Western Army Posts and Forts will participate in this great tournament. Every day a feature day and on every day a great demonstration of what the various branches of the service actually do in battle. A great Military Camp on the State Fair Grounds open at all times to visitors.
@@ -675,59 +797,43 @@ This will be the last Great Army Tournament to be held in this section of the co
 
 Grand Stand reserved seats 75cts; box seats $1. Out of town orders, address Tournament Committee, Fleming Building must be accompanied by price of seats.
 
-## INSURANCE MENT TOPITTSBURG
+Correctionville—Much interest is being shown in the county experiment farm here. A delegation of about twenty five farmers were here recently and had Prof. G. H. Bliss of the state college at Annes take them over the several hundred plots of corn these. Hundreds of farmers nearby by are getting valuable information there. An instance of the value of the experiment farm is this, one Woodbury county farmer who has prided himself on his knowledge of corn, was here to see the three plots planted from his corn. While the stalks stood ten to fifteen feet high, the corn was pointed. On either side was corn with 'orter stalks but larger and more mature ears. He saw that in the same soil, exactly the same planting and cultivation, his neighbor's corn was far ahead of his. He saw the point and announced: "I guess I will have to change my variety." There are more than 100 samples planted from over the county, from corn breeders and seed houses. The varieties best adapted to this section are therefore plausibly shown, the value of such demonstration being manifold, if the farmers will need the lesson. Many are doing so.
 
-Texas Man Heads American Life Association—T. W. Blackburn Re-elected Secretary.
+Takes Acid For Medicine: Dies. Michelville—T. F. Barnes, an aged man, drank a quantity of carbolic acid thinking it was medicine. Though physicians were called at once Barnes died within a short time.
 
-Des Moines.—Uniform state laws for the benefit of insurance companies, regulating taxation of companies, licensing of insurance agents and protecting companies from sludden statements of opposition agents will be sought by the American Life convention, which closed its annual convention after it had referred the uniform legislation matter to the executive committee.
+iowa Farm Brings $200 Acre.
+iowa City —The immense increase in real estate values in and near iowa City is shown by the sale of Daniel Donohoe's 160-acre farm to John Dwyer for $32,000. Donohoe purchased it for $16,000 just eight years ago.
 
-T. W. Vardell head of the Southwestern Life Insurance company of Dallas, tex., was elected president after a spirited contest with Felix G. Cross, of Chicago, representing the men who did not think the office should go to the south. Hon. Frank D. Jackson was elected vice-president for Iowa. T. W. Blackburn of Omaha, was re-elected secretary.
+Pepper in Officer's Face.
+Northwood.—W. E. Durley, a newsboy on the Rock Island trains, who was being taken to jail by Marshal Olsen, threw pepper in the officer's face and made his escape.
 
-Isaac M. Hamilton, Chicago; M. A. Woolen, Indianapolis; J. B. Reynolds, Kansas City, Mo.; W. A. Lindy, Lincoln, Nebr.; P. D. Gold, Jr. Raleigh, S. C., and Thomas L. Miller, San Francisco, were elected members of the executive committee.
+Teaches to Meet in Mason City.
+Mason City —According to a program which has just been issued the teachers of the north half of Iowa will meet in this city Oct. 13-14. The president of the association is Supt. A. Palmer, of Marshalltown.
 
-Pittsburgh won over St. Paul and Washington, D. C., for the site of the next meeting, the invitation of St. Louis having been withdrawn.
+Soldiers' Reunion at Montezuma.
+Montezuma.—A soldier's reunion will be held here October 12 and 13. All soldiers who enlisted from this vicinity and the 18th, 28th and 40th Iowa regimental organizations will take part in the reunion.
 
-Teacher Wins Damage Suit.
-Mason City — A jury at Northwood gave Laura Molsberry, a school teacher, $1,950 as damages in a suit against Otto Christians, a Gratton banker, for injuries received when Miss Molsberry was struck by the defendant's apto.
+MUNYON'S
+PAW-PAW
+LIVER PILLS
 
-Noble Will Speak.
-Pleasantville. — A fall festival and reunion of the Third Iowa cavalry will be held here September 27 to October 1. General John Noble of St. Louis will be one of the speakers.
-
-Woman Fights. Burglar.
-Council Bluffs — Mrs. F. F. Frohm engaged in a hand to hand fight with a burglar whom she found in her home. The man escaped. A young man giving the name of Bernard Lounck was later arrested. He had considerable jewelry upon him.
-
-Foster Passes Examination.
-Creston — Bernard Foster, of this city, was one of the three men out of a class of 26 who succeeded in passing the last state pharmacy examination held in Des Moines.
-
-Correctionville.—Much interest is being shown in the county experiment farm here. A delegation of about twenty-five farmers were here recently and had Prof. G. H. Bliss of the state college at Arnes take them over the several hundred plots of corn these. Hundreds of farmers are by getting valuable information there. An instance of the value of the experiment farm is this, one Woodbury county farmer who has prided himself on his knowledge of corn, was here to see the three plots planted from his corn. While the stalks stood ten to fifteen feet high, the ears were short, immature and pointed. On either side was corn with "orter stalks" larger and more mature ears. He saw that in the same soil, exactly the same planting and cultivation, his neighbor's corn was far ahead of his. He saw the point and announced: "I guess all will have to change my variety."
-
-There are more than 100 samples planted from over the county, from corn breeders and seed houses. The varieties best adapted to this section are therefore plainly shown, the value of such demonstrations be manifold, if the farmers will be led the lesson. Many are doing so.
-
-Takes Acid For Medicine; Dies Mitchellville.-T. F. Barnes, an aged man, drank a quantity of carbolic acid thinking it was medicine. Though physicians were called at once Barnes died within a short time.
-
-Iowa Farm Brings $200 Acre. Iowa City.—The immense increase in real estate values in and near Iowa City is shown by the sale of Daniel Donohoe's 160-acre farm to John Dwyer for $32,000. Donohoe purchased it for $16,000 just eight years ago.
-
-Pepper In Officer's Face. Northwood.-W. E. Durby, a newsboy on the Rock Island trains, who was being taken to jail by Marshal Olsen, threw pepper in the officer's face and made his escape.
-
-Teachers to Meet in Mason City. Mason City.—According to a program which has just been issued the teachers of the north half of Iowa will meet in this city Oct. 13, 1415. The president of the association is Supt. A. Palmer, of Marshallown.
-
-Soldiers' Reunion at Montezua. Montezua.-A soldier's reunion will be held here October 12 and 13. All soldiers who enlisted from this vicinity and the 10th, 28th and 40th Iowa regimental organizations will take part in the reunion.
-
-I want any person who suffers with bipolarism, constipation, indigestion or any liver or blood impairment, to try any New Paw Liver Pills. I guarantee they will purify the blood and purify the liver and stomach into a healthful condition and will actively clean businesses and constipation, or I will refrain your money. I thank the little Home Remedy Co., 53rd and Jefferson Sts., Philadelphia.
+I want any person who suffers with bib looseness, constipation, indigestion or any liver or blood emulsion, to give me Liver Pills. I guarantee they will purify the blood and put the liver and stomach into a beneficial condition and will positively cure bib looseness and constipation, or I will refund your money.—Munyon's Homeopathic Home Made Co., Sloe, and Jefferson Bld., Phila., Pa.
 
 WISE WILLIE.
 
 The Nurse—The doctor brought the baby yesterday morning.
 
-Wille (aged 6) batter not forget where the doctor lives.
+Willie (aged 6)—Better not forget where the doctor lives.
 
-The Nurse—Why?
-
-Wille—Cause if the baby needs a hand or a leg, you'll have to get new parts for him, won't you.
+Willie—Cause if the baby needs a hand or a leg, you'll have to get new parts for him, won't you.
 
 ## A TIMELY WARNING.
 
-Backache, headaches, dizzy spells and distressing urinary troubles warn roa of dropsy, diabetes and fatal Bright's disease. Act in time by curing the kidneys with Dona's Kidney Pills. They have oured thousands and will cure Mrs. Frances Collins, nurse, Box 30, Boonville, Mo., says: "For 30 years I suffered from kidney trouble. I had back pains and was bothered by dizziness. I became tired easily and was very nervous. The kidney secretions also proved annoying. Dona's Kidney Pills benefited me promptly. They have my highest endorsement." Remember the name—Dona's. For sale by all dealers. 50 cents a box. Foster-Milburn Co. Buffalo, N. Y.
+Backache, headaches, dizzy spells and distressing urinary troubles warn roa of dropsy, diabetes and fatal Bright's disease. Act in time by curing the kidneys with Donna's Kidney Pills. They have oured thousands and will cure you.
+
+1
+
+Mrs. Frances Collins, nurse, Box 30, Boonville, Mo., says: "For 30 years I suffered from kidney trouble. I had back pains and was bothered by dizziness. I became tired easily. The kidney seemed to prove annoying. Doan's Kidney Pills benefited me promptly. They have my highest endorsement." Remember the name—Doan's. For sale by all dealers. 50 cents a box. Foster-Milburn Co. Buffalo, N. Y.
 
 ## She Tock No Chances.
 
@@ -749,19 +855,11 @@ He sat on the sand at Atlantic City in a bathing suit. About ten feet away she w
 
 ## Pierp's Appetite.
 
-J. P. Morgan, Sr., was always a good trencherman in his youth and he has as good an appetite today as he ever had, not only for corned beef and cabbage—his favorite dish—but for other foods. If the Morgan, who dazzled the Teutons with his mathematics when he was a German university postgraduate student, had accepted the chair of mathematics offered to him by Heidelberg, instead of his Tankee corned beef and cabbage it might have been frankfurters and sauerkraut—New York Press.
+J. P. Morgan, Sr., was always a good trencherman in his youth and he has as good an appetite today as he ever had, not only for corned beef but also for other foods. If the Morgan, who dazzled the Teutons with his mathematics when he was a German university post-graduate student, had accepted the chair of mathematics offered to him by Haddelberg, kastend of the University of Chicago, it might have been frankfurters and sauerkraut—New York Press.
 
-Let Us
-Cook Your
-Breakfast!
-Serve
-Post
-Toasties
-with cream or milk
-and notice the pleasure the family finds in the appetizing crispness and flavour of this delightful food.
+with cream or milk and notice the pleasure the family finds in the appetizing crispness and flavour of this delightful food.
 
-Postum Cereal Co., Ltd.
-Battle Creek, Mich.
+Postum Cereal Co., Ltd. Battle Creek, Mich.
 
 # OUST“PORK BARREL”
 
@@ -769,25 +867,23 @@ TAFT DECLARES FOR NEW POLICY IN RIVER IMPROVEMENTS.
 
 ## PLAN TO CUT FREIGHT RATES
 
-President Denouces Selfish Exploitation for Benefit of Few—Asserts Country is Arquived Against Corrupt Control of Legislatures.
+President Denouces Selfish Exploitation for Benefit of Few—Asserts Country is Arqueed Against Corrupt Control of Legislatures.
 
-Cincinnati—Doom for the "pork barrel" and a new policy of waterway improvement, under which congress may authorize prompt completion of a project when the river transportation end that river transportation may prove a strong factor in reducing rail rates, were advocated here at the Ohio Valley exposition by President Taft.
+Thencinnati—Doom for the "pork barrel" and a new policy of waterway improvement, under which congress would authorize prompt completion of a project when once undertaken, to prove a strong carrier transportation may raise rail rates, were advocated here at the Ohio Valley exposition by President Taft.
 
-The president said that the country is roused against corrupt control of legislative agencies, but that selfish combinations of the majority are equally dangerous. We will urge a new law in the matter of improvement of four waterways. The public is greatly aroused by the confident and just belief that by a more symmetrical, reasonable and prompt expenditure of money upon approved projects, rates for transportation may be lowered, and the business of the country entirely benefited.
+The president said that the country is roused against corrupt control of legislative agencies, but that selfish combinations of the representatives of the majority are equally dangerous.
 
-As a country, we are all in favor of the waterway and the economic of our waterways, as as members of our district, we are selfish insistent upon our shares of public appropriations each year, however much that division of the spoil impedes the adoption of the effective and economical improvement of our water transportation.
+We have reached a new epoch in the matter of improvement of our warways. The public is greatly annoyed by the confident and just belief that by a new policy in reasonable and prompt expenditure of money upon approved projects, rates for transportation may be lowered, and the business of the country entirely benefited.
 
-The evil in the corrupt control of a construction is private by private interests is manifest for private interests for condemnation. But there is another kind of legislative abuse as dangerous to public weal in certain of its aspects as corruption, and that is the selfish combination of the constituences to expend the money of the government for the temporary benefit of a part or with little benefit to the whole. It is the duty of the majority and the minority to establish always for the benefit of the whole as any enactments that look to the selfish exploitation of less than the whole at the expense of the whole, and without benefit to the whole, is a species of legislative abuse that comes very near corruption in its effects, and is perhaps more dangerous than corruption, because those who support such a combination are generally bold in their belief that the pork barrel should be minimized. Thery is roused against corporate or corrupt control of legislative agencies.
+As a country, we are all in favor of the most effective and economical expenditure for the development of our waterways, but as members of a district, and as representatives of districts, we are selfishly insistent upon the public appropriations each year, a divisive of the spoil impedes the adoption of the effective and economical improvement of our water transportation.
+
+The evil in the corrupt control of a congress or a legislature private interests is manifest and always called for condemnation. But there is another kind of legislative abuse as danger to public weal in certain of its specific interests, the selfish combination of the constituents to expend the money of the government for the temporary benefit of a part or with little benefit to the whole. It is the duty of the majority and the minority to legislate always for the benefit of the whole people, and any enactments that look to the selfish interests are not at the expense of the whole, and without benefit to the whole, is a species of legislative abuse that comes very near corruption in its effects, and is perhaps more dangerous than corruption, because those who support such a combination are generally hold in defense of the duty of the pork borough body to build a society is roused against corporate or corrupt control of legislative agencies.
 
 ## HEIKE GETS A PRISON TERM
 
-High Official Sent to Penitentiary for
+## High Official Sent to Penitentiary for
 Eight Months for $5,000
 Koal's Tea - Friends
-
-## High Official Sent to Penitentiary for
-Eight Years for $5,000
-For Kesar - Friends
 
 New York.-Judge Martin in the United States court circuit, Monday, sentenced Charles R. Hekel, former secretary and treasurer of the American Sugar Refining company, who has been termed the "man higher up" in the sugar trust, to serve eight months in the New York penitentiary on Blackwell's island and to pay a fine of $5,000. Hekel had been convicted with others of conspiring to defraud the amount by the underweighing of sugar.
 
@@ -830,46 +926,119 @@ An American committee of 100 will be appointed as the official representatives o
 
 ## FOR THE SKIN AND SCALP
 
-Because of its delicate, emollient, sanative, antiseptic properties derived from Cutucera Ointment, united with the purest of cleansing ingredients and most refreshing of flower odors, Cutucera Soap is unrivaled for preserving, purifying and beautifying the skin, scalp, hair and hands, and, assisted by Cutucera Ointment, for dispelling itching irritation and indigestion, and preventing length of the pores, the cause of many disgusting facial eruptions. All who delight in a clear skin, soft, white hands, a clean, wholesome scalp and live, glossy hair, will find that Cutucera Soap and Cutucera Ointment realize every expectation. Cutucera Remedies are sold throughout the world. Potter Drug & Chem. Corp., sole proprietors, Boston, Mass. To send them for the latest Cutucera Book, an authority on the best care of the skin, scalp, hair and hands. It is mailed free on request.
+Because of its delicate, emollient, sanative, antiseptic properties derived from Cuticula Ointment, united with the purest of cleansing ingredients and most refreshing of flower odors, Cuticula Soap is unrivaled for preserving, purifying and beautifying the skin, scalp, hair and hands, and, assisted by Cuticula Ointment, for dispelling itching irritation and inflammation and preventing clogging of the pores, the cause of many disfiguring facial eruptions. All who delight in a clear skin, soft, white hands, a clean, wholesome scalp and live, glossy hair, will find that Cuticula Soap and cuticula Ointment size matches the expectation of Cuticula Remedies, are sold throughout the world. Potter Drug & Chem. Corp., sole proprietors, Boston, Mass. Send to them for the latest Cuticula Book, an authority on the best care of the skin, scalp, hair and hands. It is mailed free on request.
 
-Confusing.
+tion and in-
+tention clogging of
+all manif-
+digs, left,
+left, white hands,
+calp and live,
+that Cutecura
+mental realize
+Cutecura Reme-
+out the world.
+Corp., sole pro-
+Send to them
+of the skin
 
-Craig Biddle, at a dinner in Newport, was describing the changing odds on the Jeffries-Johnson light at Reno. Eight to four and a half on Jeffries-Johnson light at the other way about—three to one and a quarter—it rather confusing, isn't it? he said. "In fact, it's almost as confusing as the two girls' talk about a secret." "Mary," said the first girl, "told me that you had told her that secret I told you not to tell her." "The nasty thing," said the other girl. "I told her not to tell you I told me." "Wet," said the first girl, "I told her I wouldn't tell you she told me—so don't tell her I did."
+female diseases. We possess
+enough to convince the mos-
+For 30 years Lydia E. Pinkh
+compound has been the stand
+female lils. No dick woman
+herself who will not try this far
+Made exclusively from roots
+has thousands of curses to its or
+Mrs. Pinkh invites
+thousands of curses to health
+Address Mrs. Pinkh
 
-Cures Human Skin Troubles and is E equally Good for Our Pets and Domestic Animals.
+Cut out cabarius and peruvian. They are brand
+dash—uncessary. 177
+CARTER'S LITTLE
+LIVER PILLS
+PLEASE put a gently on the liver, and
+climate it, and cleanse it, and
+memorize of the liver.
+Carter's
+Coin Collection,
+Liberty.
+Kick backs and lignification, as millions know.
+Small Pill, Small Dose, Small Price
+Genuine must best Signature
+Heartfood
 
-Resimol Salve is my ideal and favored remedy wherever a salve is needed. It is as good for horses, dogs etc., as for mankind. Truly a universal healing Ointment.
+Craig Biddle, at a dinner in Newport, was describing the changing odds on the Jeffries-Johnson fight at Reno.
 
-W. P. Schmitz, Vet. Himalale, Mass.
+"Eight to four and a half on Jeffries to six to the other way about—three to one and a quarter—it's rather confusing, isn't it?" he said.
+
+"In fact, it's almost as confusing as the two girls' talk about a secret.
+
+"Mary," said the first girl, "told me that you had told her that secret I told you not to tell her."
+
+"The nasty thing," said the other girl, "I told her not to tell you I told her.
+
+"Well," said the first girl, "I told her I wouldn't tell you she told me—so don't tell her I did."
+
+Cures Human Skin Troubles and is Equally Good for Our Pets and Domestic Animals.
+
+Resolnol Salive is my ideal and favored remedy wherever a salive is needed. It is as good for horses, dogs etc., as for mankind. Truly a universal healing Ointment.
+
+W. P. Schmitz, Vet., Hinsdale, Mass.
 
 World's Largest Cemetery.
-At Rookwood, Australia, is the largest cemetery in the world. It covers 2,000 acres. Only a plot of 200 acres has been used thus far in which 100,000 persons of all nationalities have been buried.
+
+At Rockwood, Australia, is the largest cemetery in the world. It covers 2,000 acres. Only a plot of 200 acres has been used thus far in which 100,000 persons of all nationalities have been buried.
 
 Distinction.
 
-Milly—Is this picture like your father?
+Milly is this picture like your father?
+
 Tilly—Of course not, silly! It is like father when he had his picture taken—Puck.
 
-When Rubbarea Become Necessary.
-And your shoes pinch, shake into your shoes the foot, force the feet apart, shaking feet and takes the sting out of Corn and New shoes and for dancing parties. Sold everywhere Sc. Sample mailed FREE. Address, Allen S. Olimated, Le Roy, N.Y.
+When Rubbers Become Necessary
+And your shoes pinch, shake into your
+hands and put your hands in a powder
+for the feet. Cures tired, aching
+feet and takes the sting out of Corns and
+the skin. Do it with dancing in New
+shoes and for dancing parties. Sells
+everywhere Esc. Sample mailed FREE
+Address, Allen S. Olimsted, Le Roy, N. Y.
+When the yellow streak begins to
+work out of some people they have a
+fit of the blues.
 
-When the yellow streak begins to work out of some people they have a fit of the blues.
+Despair and Despondency
+one but a woman can tell the story of the suffering, the
+air, and the despondency endured by women who carry
+any injury, and the despondency endured by disorders
+and engagements of the delicate and important organs that are
+nearly feminine. The tortures so bravely endured com-
+ply upset the nerves if long continued.
+Pierce's Favorite Prescription is a positive cure for
+knee and disease of the feminine organ.
 
-Despair.
+IT MAKES WEAK WOMEN STRONG,
+SICK WOMEN WELL.
 
-No one but a womel despair, and the des a daily burden during adolescence of the distinctly feminine, pletically upset the Dr. Pierce's Favor weakness and diseases.
-
-IT MAKE.
-
-Slip.
-
-It alls infarms it tones and buys and has nothing to have nothing to it. Is non-secret, non-alcoholic and h Ask Your Neighbors. They probably If you want a book that tells all the them at home, send 21 one-cent stamp and he will need a free copy. Common Sense Medical Advisory—In handsome cloth-binding, 31 stamps.
+It allays inflammation, heals ulceration and soothes pain.
+It tones and builds up the nerves. It fits for wifelihood
+and motherhood. Honest medicine is all it takes to
+uphold life, and uproar is just as "just as good."
+alcoholic and has a record of forty years of cures.
+They probably know of some of its many cures.
+that tells all about woman's diseases, and how to cure
+one-cent stamps to Dr. Pierce to pay cost of masting
+a few copy of his thousand-page illustrated
+Advisor's report, up-to date edition, in paper covers,
+31 stamps.
+Address Dr. R.V. Pierce, Buffalo, N.Y.
 
 # Despair and Despondency
 
 No one but a woman can tell the story of the suffering, the despair, and the despondency endured by women who carry a daily burden of ill-health and pain because of disease or injury. Women are distinctly feminine. The tortures so bravely endured completely meet the nerves if long continued. Dr. Pierce's Favorite Prescription is a positive cure for depression and dementia.
-
-Dr. Pierce's Favorite Prescription is a positive cure for weakness and disease of the feminine organism.
 
 It allays inflammation, heals ulceration and soothes pain. It tones and builds up the nerves of the skin. It helps dealers sell it, and have nothing to urge upon you as "just as good," alcoholic and has a record of forty years of cure.
 
@@ -877,126 +1046,72 @@ If you want a book that tells all about woman's diseases, and how to cure them a
 
 ## DISTEMPER
 
-DISTEMPER CURE
-Sure care and positive pre
-er "emproved." Liquid, given
-in弥漫性病变 from the hoof
-Country. Largest selling live
-keep it. how to your dugger
-keep it. how to your dugger
-Cautions and Directions. Specify A
-SPOHN MEDICAL CO.,
+Sure care and positive preventive, all how burrows at any stage are infected or "exposed." Liquid given on the tongue; acts on the Blood and Bone, exskept the nerve, causes inflammation and pain. Special Agent, Poultry. Large-shelled live stock recovery. Curra L.A., among human being and is in fine kidney remedy. M and I in bottle and H and I in bottle. Free Booklet, Dispenser, Causes and Cures. Special Agents wanted. **SPOONED MEDICAL COACH**, Chestnut Hill, BOSCH IND., U. S. A.
+
+comes and positive present, no matter how horrible any stage is infected
+given, liquid given on a tectonic surface is not infectious. We provide
+liquid given in Bed and Sheep in Bed and Chewers in
+Largest selling live fowl stocky. Curve A1 GIppie among human beings
+that have been tested for the HIV virus. We know how to help your
+liver to show your liver, who will it give you. Free Booklet, "Distemper,
+MEDICAL CO., Chemists and GOSHEN, IND., U. S. A.
+Bacteriologists"
+
 MICA
 
-Sure care and positive preventive, all how burrows at any stage are infected or "exposed." Liquid given on the tongue; acts on the Blood and Bone, exskept the nerve, causes inflammation and pain. Special Agent, Poultry. Large-shelled live stock recovery. Curra L.A., among human being and is in fine kidney remedy. M and I in bottle and H and I in bottle. Free Booklet, Dispenser, Causes and Cures. Special Agents wanted. **SPOONED MEDICAL COACH**, Chestnut Hill, BOSCH IND., U. S. A.
+---
 
 ## Confusing.
 
 ## Distinction.
 
+No dest a der dist ple Dr. wes
+
+SPOHN'S
+DIST. TEMPERATURE
+
 # Attention Sick Women
 
-If you had positive proof that a certain remedy for female ills had made many remarkable cures, you would not feel like trying it?
+If you had positive proof that a certain remedy for female ills had made many remarkable cures, would you not feel like trying it?
 
-If during the last thirty years we have not succeeded in convincing every fair-minded woman that Lydia E. Pinkham's Vegetable Compound has cured thousands and thousands of women of the ills peculiar to their sex, then we long for an opportunity to do so by direct correspondence. Meanwhile read the following letters which we guarantee to be genuine and truthful.
+If during the last thirty years we have not succeeded in convincing every fair-minded woman that Lyda E. Pinkham's Vegetable Compound has cured thousands and thousands of women of the ills peculiar to their sex, then we long for an opportunity to do so by direct correspondence. Meanwhile read the following letters which we guarantee to be genuine and truthful.
 
-Hudson, Ohio—"I suffered for a long time from a weakness, inflicted on dreadful pain each month, that had been doctoring and receiving only temporary relief, when a friend advised me to take Lydia E. Pinkham's Vegetable Compound. I did so, and wrote to you for advice. I have faithfully followed your directions and now, after taking only five bottles of the Vegetable Compound, I have every reason to believe I am more comfortable to admit my termomonial."—Mrs. Lena Carmencino, Hudson, Ohio, R. F. D. No. 7,
+Hudson, Ohio.—"I suffered for a long time from a weakness, inflammation, dreadful pains each month and suppression. I had been doctoring and receiving only temporary relief, when a friend advised me to take Lyda E. Pinkham's Vegetable Compound all day, and it would last from two to three weeks. I wrote to you for advice and took Lyda E. Pinkham's Vegetable Compound in dry form. I am happy to say that I am cured, thanks to your memorable good advice. You may use my letter for the good of others."—Mrs. J. H. Breyner, St. Regis Falls, N. Y.
 
 There is absolutely no doubt about the ability of this grand old remedy, made from the roots and herbs of our fields, to cure female diseases. We possess volumes of proof of this fact, enough to convince the most skeptical.
 
-For 30 years Lydia E. Pinkham's Vegetable Compound has been the standard remedy for female ill. No sick woman does justice to herself who will not try this famous medicine. Made exclusively from roots and herbs, and has thousands of cures to its credit.
+For 30 years Lyda E. Pinkham's Vegetable Compound has the standard remedy for female ills. No sick girl can be helped to herself who will not try this famous medicine. Made exclusively from roots and herbs, and has thousands of cures to its credit.
 
-Mrs. Pinkham invites all sick women to write to her, and Shie has guided thousands to health free of charge. Address Mrs. Pinkham, Lynn, Mass.
+Mrs. Pinkham invites all sick women to write her or advise. She has guided thousands of women. Address Mrs. Pinkham, Lyndon, Mass.
+
+A
 
 # Don't Persecute your Bowels
 
-Cut out catkins and persipse. They are brand
-claim—unnecessary. Try
-CARTER'S LITTLE
-LIVER PILLS
-Place on the liver, and
-gently on the liver, and
-cinnamon base, and
-minimise the heat of the
-bowl. Clove, citrus,
-orange, or lemon.
-Headache and lice, as many know.
-Small Pill, Small Dose, Small Price
-Genuine must best Signature
-
-GOME TO EASTERN KANSAS and better
-improved farm just as good as yours
-to $80 per acre, grow big corn, wheat, oats, c
-oats, no winter, no winter, no winter.
-Donahue & WALLINGFORD. Mountain Valley, Rale
-WANT A HOME?
-We own and offer for sale $20 improved farm,
-Southern Minnesota. Write for prices and
-more. MOREEN & AHICKIN, Mankato, Minn.
-A HOMESTEAD
-Do you land a Homestead?
-Information sent free. How to get a Farm of Land. Address
-of Trade Buildings. Indianapolis, Indiana
-
-A Very Choice 160-Acre Homestead
-relinquishment near Burlington, Colorado.
-cost $20, must be sold, price $30.
-Address Lock Box 450, Burlington, Colo.
-
-Several Improved Farms For Sale
-well located good productive soil, no failures
-from either drought or flood. Ets. to $45 per acre.
-Reasonable terms. I. F. O'NEIL, DeGriff, Minn.
-2.000 ACRES irrigable Trio Co., afilim, onions.
-Small tracts 80 feet wide of land, and
-delicate and important organs that are
-the tortures so bravely endured cones
-if long continued.
-The Prescription is a positive cure for
-of the feminine organ.
-
-W. N. U., DEB MOINES, NO. 39-1910.
-
-and Despondency
-can tell the story of the suffering, the
-ondendency endured by women who carry
-themselves through the seasons and delicate and important organs that are
-the tortures so bravely endured cones if long continued.
-The Prescription is a positive cure for
-of the feminine organ.
-
-WEAK WOMEN STRONG,
-SK WOMEN WELL.
-Heals ulceration and soothes pain.
-up the nerves. It fits for witchcraft
-and urge upon you as "just as good."
-is a record of forty years of cures.
-know of some of its many cures.
-but woman's diseases, and how to cure
-to Dr. Pierce to pay cost illustrated
-up-to-date edition, in paper covers.
-Address Dr. R.V. Pierce, Buffalo, N.Y.
-
-entive, no matter how bursed any stage are infected
-the elongated tuberous stem of the plant. Ingenious in
-that it a berry, Dippe and Sheep, Cleavers in
-knoty lymph. Curre to apples among human beings
-who will get it for you. Free Booklet, "Distemper,
-Chemist and Bacteriologist GOSHEN, IND., U. S. A.
-
-AXLE GREASE
-Keeps the spindle bright and
-free from grit. Try a box.
-Sold by dealers everywhere.
-
-STANDARD OIL CO.
-(incorporated)
-
-St. Regis Falls, N.Y.—"Two years ago I was so bad that I had to take to my bed every month, and it would last from two to three weeks. I wrote to you for advice and took Lydia E. Pinkham's Vegetable Compound in dry form. I am going to use it for medicine and good advice. You may use my letter for the good of others." —Mrs. J. H. Breyerg, St. Regis Falls, N.Y.
+COME TO EASTERN KANSAS and better improvement, farm just need as you require $20 to $40 per acre, grow big corn, wheat, oats, cows and milfoil, write list of farms for sale. DONATE HAWKINGFORD.  
+LOUISIANA  
+Hancock县 conn. to Shreveport, La.  
+Lawn farm, best stock land in the world. Jewelry climate, no winter. Prices from $1 to fifty dollars. Hansenz-Mason Realty Co., Shreveport, La.  
+WANT A HOME?  
+We own and offer for sale $20 improved farm, Southern Minnesota. Write for prices and more. MOREMARK A HARRIS, MANKIN, Minn.  
+A HOMESTEAD  
+Do you want a Land Homeestead? Information sent free. How to get a Farm of Land. Address Borough of KANSAS Homeestead, Indianapolis, Indiana  
+A Very Choice 160-Acre Homestead relinquishment near Burlington, Colorado. improvement cost $20, must be sold, price $30. Address Lock Box 450, Burlington, Colo.  
+Several Improved Farms For Sale well located good productive soil, no failures from either drought or flood. Ets. to $45 per acre. Reasonable terms. J. F. O'NEILL, Dr. Greill, Minn. 2.000 ACRES哭闹 Trio Co., ala., california. W. N. U. DE MOINES, Texas.  
+PATENTS Wateen C. Coleman, Washington D.C. BOOK Free, best results. W. N. U. DE MOINES, NO. 39-1910.
 
 Pink Eye, Epizootic Shipping Fever & Catarrhal Fever
 
-"Cascadets are certainly fine. I gave a friend a case of stomach ache." The next morning he passed four pieces of tape worm. He then got a box of stomach tape. It was Mr. Mett Frek, of Millerburg, Indiana. It was Mr. Mett Frek, of Millerburg, Indiana. I use them myself and find them beneficial for most any disease caused by impure blood. Chas. H. Walker. Paintable. Point. Texts Good. Do Good. Never Sicken. Weaken or Grip. 100, 250, 300. Never sold in bulk. The general store. Guaranteed or cure your money back. 823
+Keeps the spindle bright and free from grit. Try a box. Sold by dealers everywhere. STANDARD OIL CO.
+
+am's Vegetable remedy for dozes justice to mucous medicine, herbs, and edits.
+all sick woman nice. She has free of charge, m, Lynn, Mass.
+
+Worms
+
+"Cascarets are certainly fine. I gave a friend one when the doctor was treating him for cancer the doctor was holding up a gored four piece of tape worm. He then got a box and in it was Mr. Matt Freck, holding up the bracteal for most a disease caused by impure blood." Chase K. London, Lewiston, Pa. (Milton Co. Co)
+
+Pleasant, Palatable, Potent to cure the dozes. At the Moor, Worker Grop, 10, 2c. $c. Never sold in bulk. The general cure or your money back. $2
 
 One of the best improved farmland in the noted country is located in the best towns in Southwest Missouri, two miles from depot of three trunk lines of railroad, and she is one of the largest strawberry shipping ports in the country. Probably ten to twelve thousands of crops, corn, oats, cow peas, hay, etc., good yield. The farmland is two hundred forty acres; will sell stock, crops and implements with place. No side, edge, or bank.
 
@@ -1040,37 +1155,33 @@ THE LAND OF PLEASANT — Crops fail unless known, and the land is productive. Pr
 
 National Negro Press Association Holds Big Meeting.
 
-WELCOMED BY J. H. ANDERSON
+WELCOMEED BY J. H. ANDERSON
 
-Members of the Profession From Many Sections of the Country Attended Second Annual Session in New York. Duty of Negro Journals to Lead in Racial Advancement.
+Members of the Profession From Many Sections of the Country Attended Second Annual Session in New York. Duty of Negro Journals to Lead In Racial Advancement.
 
 BY N. BARNETT DODSON.
 
-The morning and afternoon sessions of the second annual meeting of the National Negro Press association was held in the Metropolitan building, New York on Tuesday, Aug. 16. The evening session was held at St. Cyprian P. E. church on Sixty-third street.
+The morning and afternoon sessions of the second annual meeting of the National Negro Press association was held in the Metropolitan building, New York, on Tuesday, Aug. 16. The evening session was held at St. Cyprian P. E. church on Sixty-third street.
 
-The meeting was called to order by James H. Anderson, editor of the Amsterdam News, New York. In bidding the editors and correspondents welcome to the city Mr. Anderson said:
+The meeting was called to order by James H. Anderson, editor of the Amsterdam News, New York. In bidding the editors and correspondents welcome to the city Mr. Anderson said: "You will find New York a very pretty place. Here you may come in contact with the best and most helpful influences of journalism. We have here the best typographers and most finished reporters.
 
-"You will find New York a very pretty place. Here you may come in contact with the best and most helpful influences of journalism. We have here the best typographers and most finished reporters.
-
-The great need of Negro journalism in this country," he said, "is affiliation with some great association which distributes news, such as the Associated Press.
+"The great need of Negro journalism in this country," he said, "is affiliation with some great association which distributes news, such as the Associated Press.
 
 "If we prove that we mean business," he continued, "I have no doubt, that the day will come when many of us will have an Associated Press franchise.
 
-"You will find the press of this city cordial and courteous in its treatment of race questions. It is true that we do things that deserve condemnation, and the newspapers here condemn it, the other hand, they do not withhold commendation when it is due us.
+"You will find the press of this city cordial and courteous in its treatment of race questions. It is true that we do things that deserve condemnation, and the newspapers here condemn us. On the other hand, they do hold commendation when it is due us.
 
-"There are times when we are caricatured and ridiculed, but I will not say that is not generally our own fault. Prudence does exist here. It could not be otherwise when you consider that in this city every nation is represented, and as a consequence we must feel what I may term a combination of prejudice.
+"There are times when we are caricatured and ridiculed, but I will not say that is not generally our own fault. Prejudice does exist here. It could not be otherwise when you consider that in this city every nation is represented, and as a consequence we must feel what I may term a combination of prejudice.
 
-"Our duty should be to lead in the advancement of the Negro race. We can mold sentiment, white sentiment as well as colored, and I feel that in these causes we should be systematically aggressive. The white press appreciates intelligent aggressiveness and is more impressed by it than by indirection and lack of definite policy."
+"Our duty should be to lead in the advancement of the Negro race. We can mold sentiment, white sentiment as well as colored, and I feel that in these causes we should be systematically aggressive. The white press appreciates intelligent aggressiveness and is more impressed by it than by indecision and lack of definite policy."
 
-After Mr. Anderson's address President R. W. Thompson outlined the program for the day and introduced N. Barnett Dodson, editor of the Afro-American page of the American Press Association, who told in a brief way how the service began and the manner in which it is supplied to editors and publishers.
+After Mr. Anderson's address Prejudice, Mr. Delson continued the program for the day and introduced N. Barnett Dodson, editor of the Afo-American page of the American Press Association, who told in a brief way how the service began and the manner in which it is supplied to editors and publishers.
 
-M. M. Lewy, editor of the Florida Sentinel; Paul H. Bray of the Yokkers (N. Y.) Standard, Rev. Mr. Byrd of the Rochester (N. Y.) Journals, Horace D. Slatter, F. F. Johnson of Baltimore, C. W. Singleton of the Omaha (Neb.) Enterprise, N. D. Brascher of the Cleveland (O.) Journal, Rev. T. S. Boone of the Atlantic City (N. J.) Messenger, Dr. Jackson of the Dallas (Tex.) Express, Rev. Dr. L. G. Jordan of Louisville, Ky., and Emmett J. Scott of Tuskegee, Ala., were among the other speakers at the morning session.
+M. M. Lewy, editor of the Florida Sentinel; Paul H. Bray of the Tonkers (N. Y.) Standard, Rev. Mr. Byrd of the Rochester (N. Y.) Sentinel, Horace D. Slatter, F. F. Johnson of Baltimore, C. W. Singleton of the Omaha (Neb.) Enterprise, N. D. Brascher of the Cleveland (O.) Journal, Rev. T. S. Boone of the Atlantic City (N. J.) Messenger, Dr. Jackson of the Dallas (Tex.) Express, Rev. Dr. G. L. Jordan of Louisville, Ky., and Emmett J. Scott of Tuskegee, Ala., were among the other speakers at the morning session. Items from twenty-five states were present, and the sessions of the convention were marked by earnestness and enthusiasm. President Thompson's annual address was received with hearty approval.
 
-Papers from twenty-five states were presented, and the sessions of the convention were marked by earnestness and enthusiasm. President Thompson's annual address was received with hearty approval.
+Miss Henrietta Vinton Davis, Miss Geraldine Troutman of Paris, ill, and Miss Irene L. Moorman of Brooklyn took an active part in the proceedings of the convention. Charles Stewart of the Associated Press gave some of his experience as a newspaper correspondent in the south and west, where he contributes largely to the white dalles as well as to our own weekly papers.
 
-Miss Henrietta Vinton Davis, Miss Geraldine Trouwman of Paris, Ill., and Miss Irene L. Moorman of Brooklyn took an active part in the proceedings of the convention. Charles Stewart of the Associated Press gave some of his experience as a newspaper correspondent in the south and west, where he contributes largely to the white dailies as well as to our own weekly papers.
-
-The election of officers resulted as follows: President, M. M. Lewy, editor of the Florida Sentinel, Penscough, vice president, N. D. Brascher, Clever, D. Slatter, Hopkinson, Ky.; corresponding secretary, R. W. Thompson, Thompson's National News bureau; treasurer, Dr. L. G. Jordan, Louisville.
+The election of officers resulted as follows: President, M. M. Lewy, editor of the Florida Seminole, Pinecoa, Ohio; President, N. D. Brascher Cleveland, O.; recording secretary, Horace D. Slatter, Hopkinsville, Ky., corresponding secretary, R. W. Thompson, Thompson's National news bureau, Washington, treasurer, Dr. L. G. Jordan, Louisville.
 
 The following resolutions were unanimously adopted:
 
@@ -1083,12 +1194,9 @@ During the past 38 years no remedy has proven more prompt or more effectual in i
 
 # CHURCH HONORS ITS MINISTER
 
-Union Baptist Gives Rev. Dr.
-Lawrence Grand Reception.
-
 ## WHAT HE HAS ACCOMPLISHED
 
-Well Known Clergyman, Who Has Achieved Success in Many Fields, is Fasted and Presented With Large Purse Before Going on Extended Trip South—Called Sunday School Pastor.
+Well Known Clergyman, Who Has Achieved Success In Many Fields, is Fosted and Presented With Large Purse Before Going on Extended Trip South-Called Sunday School Pastor.
 
 By N. BARNETT DODSON.
 
@@ -1096,34 +1204,33 @@ The testimonial reception given by the Union Baptist church, Orange, N. J., on T
 
 Dr. Lawrence accepted the call of the Union Baptist church three years and a half ago. He was then pastoring in Elizabeth, where for six years he has met with marked success.
 
-Dr. Lawrence may be justly called a Sunday school pastor in the school of his own church, but in Sunday school work generally. He has successfully led the Sunday school forces of the Baptist denomination in New Jersey for the past nine years as president of the state Sunday school convention.
+As a pastor he has had a wide experience. Among the ministers of the New England Baptist missionary convention his advice in matters which require the most careful and thorough investigation is eagerly sought and relied upon by men many years his senior in the ministry.
+
+Dr. Lawrence may be justly called a Sunday school pastor. He is not only interested in the school of his own which he has been teaching generally. He has successfully led the Sunday school forces of the Baptist denomination in New Jersey for the past nine years as president of the state Sunday school convention.
 
 During his three years' pastorate at the Union Baptist church Dr. Lawrence has added 510 persons to its membership, put in new pews, a large pipe organ and a new lighting plant. These improvements are paid for.
 
-In addition to the above, a new parsonage has been bought, upon which Dr. Lawrence will leave within a few days for New Orleans, where he will attend the annual meeting of the three years amounts to over $1500.
+In addition to the above, a new parsonage has been bought, upon which
 
-The church has a membership of about 915. The morning school are more largely attended than those of any other church in the state.
+REV. W. P. LAWRENCE, PH. D.
+$1,100 has been paid, besides reducing the principal debt on the church at the rate of $700 a year. The total sum raised by Dr. Lawrence and his church for the three years amounts to over $15,000.
 
-Dr. Lawrence will leave within a few days for New Orleans, where he will attend the annual meeting of the three years amounts to over $1500.
+The church has a membership of about 915. The morning congregation and the Bible school are more largely attended than those of any other church in the state.
 
-The literary program, which was presided over by the Rev. George E. Morris, D. D., of Morristown, N. J., was both interesting and instructive. The address of welcome is made by W. H. Corbin, president of the board of trustees.
-
-"What I Say and Heard in Europe" was the subject of a timely address by the Rev. Dr. J. C. Lovely of the Union Baptist church, Montclair, N. J., who has recently returned from an extended trip abroad.
-
-Other speakers and their subjects were Rev. M. W. Vaughan of Plainfield, subject. Dr. Lawrence as a State and National Worker; Rev. R. L. Harris of Hackensack, subject; Dr. Lawrence as a Pastor and Leader; Rev. J. C. Dunn, pastor of St John's M. E. church, Orange, subject; Dr. Lawrence as Viewed by Other Denominations.
-
-Greetings from Afro-American state Sunday school convention, by Messrs. C. H. Hunter and Thomas Woody, from B. Y. P. U. State President Rev. W. T. Watkins of Orange; from Young Men's Christian association, Mr. I. R. King, president; Layman magazine, Business Men's league, Mr. A. A. Hill, president; the medical profession, Dr. E. Smyth, Elizabeth, N. J., and Mr. B. J. Galins, the press, Mr. B. D. Bosdin, editor of the Afro-American page of the American Press association, New York, and Mr. A. E. Rooney, who represented the League Journal, New Rochelle, N. Y.
+Dr. Lawrence will leave within a few days for New Orleans, where he will attend the annual meeting of the national Baptist convention, which convenes on Wednesday, Sept. 14. The literary program, which was presided over by the Rev. George E. Morris, D. D., of Morristown, N. J., was both interesting and instructive. The address of welcome was made by W. H. Corbin, president of the board of trustees. What I Saw and Heard In Europe" was subject of a most timely address by the Rev. Dr. J. C. Love, pastor of the Union Baptist church, Montclair, N. J, who has recently returned from an extended trip abroad. Other speakers and their subjects were Rev. M. W. Vaughan of Plainfield, subject, "Dr. Lawrence as a State and National Worker"; Rev. R. L. Harris of Hacksackens, subject, "Dr. Lawrence as a Pastor and Leader"; Dr. J. C. Dunn, pastor of St. John's, M. E. church, Orange, subject, "Dr. Lawrence as Viewed by Other Denominations." Greetings from Afro-American state Sunday school convention, by Messers. C. H. Hunter and Thomas Wood; from B. Y. P. U. State President Rev. W. T. Watkins of Orange; from Young Men's Christian association; from King. President association; from M. E. George, president; Business Men's league, Mr. A. A. Hill, president; the medical profession, Dr. A. E. Smyth, Elizabeth, N. J., and Mr. B. J. Gaines, the press, Mr. N. B. Dodson, editor of the Afro-American page of the American Press association, New York, and Mr. A. E. Rooney, who represented the League Journal, New Rochelle, N. Y.
 
 The vocal solo by the Rev. Dr. J. Alexander Patterson of Orange, N. J. was received with much applause. Professor J. H. Buford and choir discourses appropriate music throughout the evening, which gave evidence of careful training and exceptional ability.
 
-"We have parted forever. He write me to send back the ring."
-"Tell him to call for it," advised the experienced friend.—Louisville Coorier-Journal.
+"We have parted forever. He write me to send back the ring." "Tell him to call for it," advised the experienced friend—Louisville Courier-Journal.
 
 Would Seem So.
 Crawford—Do the rich know how the other half live?
-Crabshaw—After taking their mone; from them they must be able to form some idea of how they are compelle to live.—Puck
+Crabshaw—They must make their form from ideas of how they are compelled to live—Puck.
 
 Ladies! Save Money and Keep in Style by Reading McCall's Magazine and Using McCall Patterns
+
+THE ORIGINAL
+HAIR GROWER
 
 When we first began our wonderful work of gin all lengths, and all conditions of hair, even places of the head, many persons scorned the idea; but we have grown the hair for hundreds; proof of our work is that we are persons whose own hair we have actually grown have very frequently mentioned us when trying theirs is the same or "just as good" or referred use only PORO Hair Grower, (the oldest and name PORO is on every box, not genuine without A. M. POPE.
 
@@ -1137,9 +1244,17 @@ $8.50 HEDGEHORN PUNCT SELF-HEALING TIRES 40
 
 The regular retail price of that tires is $3.90 per pair, but to introduce we will sell you twenty thousand miles now. In order to do this, please do not NO MORE TROUBLE FROM PUNCTURES NAILS, Tacks or Glass will not let the nrf out. Sixty thousand pairs sold last year. Over two hundred thousand miles saw little change in sales. Finally and easily, riding very durable and inside with
 
+A
+
+[OCR timeout]
+
 When we first began our wonderful work of growing all kinds, all qualities, all lengths, and all conditions of hair, even to the growing of hair on bald places of the head, many persons scorned the idea that such a thing was possible; but we have grown the hair for hundreds; rapidly achieving success. The proof of the value of our work is that we are being imitated and largely by persons whose own hair we have actually grown and the further fact that they have very frequently mentioned us when trying to sell their goods (saying that theirs is the same or "just as good") or referred to PORO. We advise you to use only PORO Hair Grower, (the oldest and best of its kind.) See that the name PORO is on every box, not genuine without it. Prepared only by Mrs. M. PORO.
 
 **YOU WILL BE ASTONISHED** when you receive our beautiful catalog and low prices we can make you this year. We sell the highest grade bicycles for less money than you may pay in the store. BICYCLE DEALERS, you can sell our bicycles under your own plate at double the price you pay in the store. Dry reinforced, the plate is dry reinforced. **LEOND AND BICYCLES**, we regularly handle second hand bicycles, but usually have a number on hand taken in trade by our Chicago retail stores. These we clear out daily. **SIUNITE BICYCLES**, imported rilletters and pedals, repairs and coaster brakes.
+
+BOTTLE
+BOTTLE
+BOTTLE
 
 a special quality of rubber, which never becomes
 wet, and which is not damaged when allowed
@@ -1149,6 +1264,24 @@ an ordinary tire, the puncture resistance qualities being given
 an extraordinary quality. The tire should be given the
 tregular price of these tires is $8.99 per pair, but for
 the rider of only $8 per pair. All orders shipped same day
+
+good same day letter is received. We ship O.D. on
+examined and found them strictly as represented,
+and we do not accept any postponement. You run no risk in
+close advertisement. You run no risk in
+reliable and money sent to us as safe as in a
+will find that they will ride easier, run faster,
+will be able to sell at any price. We do a
+any kind at any price until you send your order.
+then you want a bicycle you will give us your order,
+once this remarkable tire offer,
+on any purchase on approval and trial at
+O.P. Puncture-Proof tires on our website and wonderful
+catalogue which is at about half the usual prices.
+Today, DO NOT THINK OF BUYING a bicycle
+in any mode until you know the brand and wonderful
+learn everything. Write it NOW.
+IMPANY, CHICAGO, ILL.
 
 the rider of only 8.8 per pair. All orders shipped same dayamey is received. We ship C.O. D. O. J. We will allow a cash discount of 5 per cent (threeway) making the price $4.65 per pair) if you pay in cash. We will accept cash payments only. If you send us an order as the tires may be returned at 04U expense for any reason they are not satisfactory on examination. We are perfectly reliable and money sent to us as safe in a leather case. We will accept cash payments for any tire you send us a leather case, wear better, last longer and look well after any tire you have ever used or seen at any price. We request that you send us a trial order at once, hence this remarkable tire price.
 
@@ -1175,30 +1308,9 @@ and Funeral Directors.
 
 "I took two of Chamberlain's Stomach and Liver Tablets last night, and I feel fifty per cent, better than I have for weeks, says J, Mich. "They are certainly a fine article for biliousness." For sale bs all drugists.
 
-McGALLS' MAGAZINE
-McGall's Magazine will
-inspire you at a moderately
-highly in a modern
-expense by keeping you
-largest fashions in
-international and
-New Fashion Design
-in each issue. Also
-warn you about
-personal matters.
-Only
-Gear You Need
-a free pattern. Sub-
-scribe to our free
-sample copy.
+McCail's magazine will issue daily, at a modernized expense by keeping in touch with the latest fashion and hats. No new issues in each issue. Also on all home and business matters. Only 60 a year, including a subscription. Serio地日 or send serio地日 or send
 
-McCall Patterns will enable you to make in your
-your own hands, clothing for
-yourself and children in
-style and fit. Price—none higher than 15
-We Will Give You Fine Presents for getting
-scriptures among your friends. Send for free
-THE McGALLS COMPANY, 239 W. 26th St. N.Y. NEW YORK
+finally at a moderate expense by keeping you posted on the latest clothes and hats. 50 New Fashion Design in innovative valuable Information on all home and personal items of 60 a year, including a Sub-Scribe today or for free sample copy. McCall Patron will enable you to make in your own home, with you, your children your yourself and children which will be perfect style. You will receive more higher than 15 styles. Send for free. We We Grow You Fine Presents for getting san-serifations among your friends. Send for free. The RCA CALL COMPANY 233 249 276 New S. NEW YORK
 
 Your complexion as well as your temper is rendered miscrable by a disordered liver. By taking Chamberlain's Stomach and Liver Tablets you can improve both. Sold by all druggists
 
@@ -1232,74 +1344,51 @@ A saired concert was given at the A. M. E. church Sunday night. It was enjoyed b
 
 ## DAVENPORT NOTES.
 
-Sunday was the last quarterly meeting in this conference year at Bethel A. M. E. church. Presiding Elder Phillips was present. He conducted the morning and evening services. T. W. Lewis of Moline delivered the Sacramental sermon in the afternoon. It was the winding up of the grandest conference year in the history of the church. Rev. T. B. Stowall, Presiding Elder Phillips, Bright and M. J. Scott of Moline left last evening for conference. Mrs. D. S. Johnson is visiting relatives in Jacksonville, Mo. From there she will go to Springfield to attend the Illinois conference. Mrs. B. Burtles of Canton, Mo., is visiting his sister, Mrs. Levi Cunningham. Mrs. Henry Burns, Sr., will entertain the Violet club Wednesday afternoon. Thomas Mitchell will conduct the morning services Sunday during the absence of the minister. The Sunday school will give a program in the afternoon under the direction of Mr. C. P. Jones. In the evening the choir will have charge of the service under the management of Mr. E. Green. The fuel and light committee gave a rag social at Bethel A. M. E. last Tuesday evening. A very interesting program was listened to by quite a large audience. Webster Stowall was awarded the prize for being in the most rass. The net proceeds were about $20. Mrs. Sadle Washington is chairman of this committee.
+Sunday was the last quarterly meeting in this conference year at Bethel A. M. E. church. Presiding Elder Philips was present. He conducted the morning and evening services, and the Shrine delivered the Sacramental sermon in the afternoon. It was the winding up of the grandest conference year in the history of the church.
 
-THE ORIGINAL HAIR GROWED
+Rev. T. B. Stovall, Presiding Elder Philips, and Mrs. B. Bright and Mrs. J. Scott of the church, left Monday evening for conference.
 
-We Grew Our Hairs,
+Mrs. D. S. Johnson is visiting relatives in Jacksonville, Mo. From there she will go to Springfield to attend the Illinois conference.
+
+Mrs. R. Battles of Canton, Mo., is visiting his sister, Mrs. Levi Cunningham.
+
+Mrs. Henry Burns, Sr., will entertain the Violet club Wednesday afternoon.
+
+Thomas Mitchell will conduct the morning services Sunday during the absence of the minister. The Sunday school will give a program in the afternoon under the direction of Mr. C. P. Jones. In the evening the choir will have charge of the services under the management of Mr. E. Been.
+
+The hel and light committee gave a rag social at Bethel A. M. E. last Tuesday evening. A very interesting program was listened to by quite a large audience. Webster Stovall was awarded the prize for being in the top 100 of the about $20. Mrs. Saddle Washington is chairman of this committee.
+
+We Grew Our Hais,
 Now Let Us Grow
 Yours with
 
 TRADE MARK
 REGISTERED.
 
-work of growing all kinds, all qualities,
-or, even to the growing of hair on bald
-and the idea that such a thing was posa-
-ndreds, rapidly achieving success. The
-at we are being imitated and largely
-by grown and the further fact that they
-are trying to sell their goods (saying that
-preferred to PORO. We advise you to
-best and best of its kind). See that the
-we without it. Prepared only by Mrs.
-
-immitations,
-press mail to
-OPE-TURNBO,
-ST. LOUIS, MO
-
-BRIDER AGENT
-IN EACH TOWN
-and district to
-ride and exhibit
-their goods and special offer at once.
-We do not, without your consent, offer any
-PRIVAL. Loving which time you may ride the bicycle
-and you may ride the bicycle and you may ride the bicycle
-at our expense and you will not cost one cent.
-Small price bikes are available. You have no
-price bikes for our customers. We have no
-price bikes
+Notice the thick rubber trend
+of the rubber, and "D" also rim strip "H"
+of the rubber. The rubber will outlaut any other
+make-up. ELASTIC and
+METRIC.
 
 # From Union Comes Strength
 
-No matter where you live—or what you do—you should investigate the many im-
-pleasures in the pain the injury without also un-
-ne nipples Price, 25
-ents.
+No matter where you live—or what you do—you should investigate the many important advantages of membership in the Library Union of the World. Over 1,000 Unions instituted—more than 60,000 memberships issued—now growing by leaps and bounds, and
 
 An Injury to One is the Concern of All
 
-A small sum each month will carry a full mem-
-brium with cash benefits for subsistence—200
-$100,000 on deposit at State House to ad-
-fend guarantee fulfillment of contracts. A suitable
-free to members. The secret signs, grips, and
-you and gain you friends and assistance in many places.
-Your advantage to become members. It should aid you in
-member from your community goes the appointment-
-in or stamped for Union Journal Magazine three mns
-for securing a Beneficial Protective membership with
-home office.
+A small sum each month will carry a full membership, $100,000 on deposit at State House to self-guarantee fulfillment of contracts. A suitable membership fee is $25 to members FREE to members. The secret signs, grips, and you-and gain you friends and assistance in many places, your right to universal recognition, and enable you to come into contact with the growth in the country way we guarantee satisfaction.
 
-NATIONAL LIBERTY UNION
+representatives Wanted
+
+for friends during spare moments. No experience necessary, but your advantage to become a member. It should help you in any way you need. You must be a member from your community gives this appointment—in or at stamper for Union Journal Magazine three months, as for securing a Beneficial Protective membership with home office.
+
+NAL LIBERTY UNION
 THE WORLD
-Bayton, Ohio;
-U. 8. A.
+Bayton, Ohio
+U. S. A.
 
-FORD'S
-HAIR POMADE
+return.
 
 A small sum each month will carry a full membership—injuries and deaths. $100,000 on deposit at State House to safeguard members' interests and guarantee fulfillment of contracts. A suitable membership for every person, high or low. Beautiful Membership Certification. A certificate of membership will present your name, pass words, will present your help-you and gain your friend and assistance in many places. Our official Button will proclaim your right to universal recognition, and enable you to commemorate your achievement. A certificate of promotion is permitted in the community to be a member, and in every way we guarantee satisfaction.
 
@@ -1312,6 +1401,14 @@ Write QUICK. Enclose 100 (cool or stumped) for Union Journal Magazine three mont
 RY SACK GUAR
 
 # EVERY SACK GUARANTEED
+
+Best Patent
+
+FALCON
+FLOUR
+
+Spannon & Mott Co.
+Des Moines, Iowa
 
 FOR SALE BY ALL GROCERS
 
@@ -1333,9 +1430,10 @@ THE NEW HOME SEWING MACHINE COMPANY
 
 Orange, Mass.
 
-B. BUTTER & CO., Des Moines, Ia.
+. S. BUTTER & CO., Des Moines, Ia.
 
-EVERY
+FORD'S
+HAIR POMADE
 
 OLD RELIABLE DRESSING FOR
 KINNY OR CURLY HAIR. USE MAS
@@ -1361,56 +1459,41 @@ THE OZONIZED OX MARROW CO.
 216 LANE ST. DEPT. 72 CHICAGO, IL.
 • AGENTS WANTED.
 
-★ SOLD BY-DRUGGISTS.
-IF YOUR DRUGGISTS Cannot SUPPLY
-WE WE WILL SEND IT TO YOU DIRECT
-AT THE FOLLOWING PROCES, SSMILLED
-BOTTLE, 25, LARGE SIZED BOTTLE,5
-THE OZONIZED OX MARROW CO.
-216 LAE ST. DEPT. 72 CHICAGO,ILL.
-WANTED AGENTS.
-
 BYSTANDER PUB. CO., Publishers
 DES MOINES. IOWA
 
-FRIDAY, SEPTEMBER 28, 1910
+FRIDAY, SEPTEMBER 28, 1910.
 
-Published every Friday by the Bystander Publishing Company, Des Moines, Iowa. Office in Chemical building, corner Seventh and Merry streets. Iowa phone, Walnut 899.
+Published every Friday by the Bystander Publishing Company.
+Moines, Iowa. Office in Chemical building, corner Seventh and Mulberry streets. Iowa phone, Walnut 899.
 
 Entered at the postoffice as second class matter.
 
-JOIN L. THOMPSON, EDITOR.
+JOHN L. THOMPSON, EDITOR.
 J. H. SHEPARD, MANAGER.
 
-Official paper of the M. W. U. Grand Lodge of Iowa, A. F. & A. M. and International Grand Congress of Heroines of Jericho of America, and Western Baptist Association.
+Official paper of the M. W. U. Grand Lodge of Iowa, A. F. & A. M., and International Grand Congress of Heroes of Jericho of America, and Western Baptist Association.
 
 We are prepared to do first-class job work at reasonable prices. All of our work is guaranteed.
 
-Advertising rates for display ads, 20 cents per inch, for each insertion. Three to six months' contract, 15 cents per insertion, 10 cents per line for each insertion, counting seven words to a line.
+Advertising rates for display ads, 24-hour maintenance rates. Post three to six months' contract, 13 cents per inch. Local advertisement, 10 cents per line for each insertion, counting seven words to a line. For churches and secret societies where admission is charged, one-half of monthly charges. Post professional, legal and announcement cards, yearly contracts, etc., terms are given on application. All advertising is to be paid in advance.
 
-For churches and secret societies where admission is charged, one-half of the above-mentioned rates. For professional, legal and announcement cards, not given on application. All advertising is to be paid in advance.
+TERMS OF SUBSCRIPTION.
+One year $1.50
+Six months 75
+Three months 50
 
-TERMS OF SUBSCRIPTION
-One year. $1.50
-Six months. .75
-Three months. .75
+Send money by postoffice order, money order express or draft, by Stystander Company, Des Moines, Iowa.
 
-Send money by postoffice order, money order, express or draft, to the Iowa State Bystander Company, Des Moines, Iowa.
+Communications must be written on one side of the paper only and be of interest to the public. "Brevity is the soul of wit," remember. You will not return rejected manuscript and will be accompanied by postage stamps.
 
-Communications must be written on one side of the paper only and publication not later than Tuesday night to insure publication for the current week; and sign your name, not for publication, but that we may know who writes the news.
+N. B—Correspondents: Please mail your letters that contain news for publication not later than Tuesday night to insure publication for the current week; and sign your name unless published that you may know who writes the news.
 
 All subscriptions payable in advance.
 
-The Iowa State Bystander is the oldest American journal published in Iowa. It was established in 1894, and is read by nearly all the colored people of Iowa. We have correspondents in the following towns:
-Davenport. Mrs. C. H. Marshall
-Milwaukee. Mrs. Q. H. Hicks
-Minneapolis. H. K. Gibba
-Kookuk. A. J. Fields
-Rock Island. Mrs. W. H. Moore
-Moline, Ill. Miss Mable Trevet Sloux City. Miss Etta Grant Clinton. A. A. Bush
-Miami. Miss Loretta Montmorail, Illinois. Georgia Norwood Galesburg, Ill. Mayne Richardson Albia. Miss May Davis
-Cedar Rapids. Mrs. H. Horne
-Ft. Madison. Mrs. Lulu Williams Osakaoosa. Luella B. Franklin Burlington. Mrs. J. E. Johnson Moberly, Mo. Mrs. M. E. Bolden Mt. Pleasant
+The Iowa State Bystander is the oldest Afro-American journal published in Iowa. It was established in 1894, and is read by nearly all the colored people of Iowa. We have correspondents in the following towns:
+
+Mrs. C. H. Marshall St. Paul.....Mrs. Q. H. Hicks Minneapolis.....Mrs. K. Hibga Keokun.....A. J. Fields Rock Island.....Mrs. W. H. Moore Moline, Ill.....Miss Mable Tarvest Sloux City.....Miss Etta Grant Austin.....A. A. Beach Ottumwa.....Miss Lorena Vincent Monmouth, Ill.....Georgia Norwood Galesburg, Ill.....Mayne Richardson Albia.....Miss May Davis Cedar Rapids.....Mrs. H. Horne Ft. Madison.....Miss Lulu Williams Oskaloosa.....Luella B. Franklin Burlington.....Mrs. J. E. Johnson Moberly, Mo.....Mrs. M. Etta Bolden Mt. Pleasant
 
 Miss Maudlin Burnaugh
 Peoria, Ill. Miss Bell Lee

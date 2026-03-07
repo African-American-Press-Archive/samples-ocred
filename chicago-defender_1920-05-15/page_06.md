@@ -1,4 +1,28 @@
+Tony Langston's DRAMA AND MOVIE REVIEW
+
 # "Return of Eve" Pleases at Avenue; Irvin Miller's "Rastus" Still Hitting
+
+AGAIN!
+
+We Are Obliged by Popular Demand to Present Once More
+
+WEEK OF MONDAY, MAY 17th
+
+Irvin C. Miller's
+
+BROADWAY RASTUS of 1920
+
+Biggest, Brightest and Best Musical Comedy of All
+
+HOME OF REAL ENTERTAINMENT
+
+GRAND THEATER
+
+STATE AT 31ST, DOUGLAS 500
+
+Usual Shows at the Usual Times at the Usual Prices
+
+PAGE BIX
 
 "Return of Eve," which is the first offering of the present company of Lafayette Players at the Avenue theater,
 
@@ -29,7 +53,7 @@ the garden of the weal-
 ty are usually
 raised, that the
 
-wealth which Tony Lannonton he has accumulated will be foolishly squandered. Therefore he sends them far from civilization, placing who it it keep watch over them till they reach maturity. Then they will be able to face the world pure in mind and body. The serpent in the garden is avoided, but upon their return, theagination the serpent turtles their every moment, engulfed in all sorts of evil, as if they were brought up in it. To tell more of the story would be to rob you of the pleasure that is sure to be yours when you witness the splendid manner in which this many of players is presenting the play.
+is a 'interior drama, strong in truth, romance and human in ternary, in an music plot, the entail rising on a boy and girl in a modern Garden of Eden, far from civilization. They are the heirs of a wealthy man who has original ideas to no manner in which children should be reared. He figures that if they are brought up in the way that children of the wealthy are raised, that the wealth in which he has accumulated will be foolishly squandered. Therefore he sends them far from civilization, placing them in the care of an aged tutor, who will keep watch over them until they reach maturity. Then they will be taught to live in the world and mind and body. The serpent in the garden is avoided, but upon their return to civilization the serpent lurks at their every step, and we find them engulfed in all sorts of evil, as if they were brought up in it. To tell more of the story would be to rob you of the pleasure it is sure to be yours when this company of players is presenting the play.
 
 Chicagoans had their first opportunity to see the much heralded Ide Anderson in action. This handsome and talented young actress is one of the greatest assets of which the Quality Amusement corporation can boast, and the talent of Anderson gives an impressive display of her line ability. As Evo she is all that could be asked for; she takes full advantage of all the chances and is equally at home in either tense or lighter situations. Miss Anderson is bound to become popular with the crowd given Lawrence Chonault, always a great favorite of the crowd, proud as Adam, handling the part with his usual skill. Chonault is well fitted for characters of this sort, as is Babo Townsend as Seymour Purchall, a heavy character that requires a world of ability for interpretation. Babo is without a doubt one of the most conspicuous performers in the business and can always be relied on. As Old Winters, Sidney Kirkpatrick does some wonderful character work; it is a type that gives him plenty of chances, and he accepts them all. The popular Ingene, Alice Gorgas, as Chirce, has never been seen to battle advantage, and the same can therefore be said of Mrs. Tupper-Bellamy, a man as Mrs. Tupper-Bellamy, a man that seems to have been built to suit that come to have been built. Susie Sutton as Trixie is also well cast and does more than justice to the part. Ivy Hubbard as Mrs. Connyhee does and so does Helen Wilson as Matilde. And Anderson gives a fine portrayal and the cast is completed by A. B. DeConchierre and Harry Plater us the first and second guests.
 
@@ -100,6 +124,8 @@ The Dewey Trio are at Elkhart, Ind, and going great, as usual.
 The Humbour Jones company is at
 Philadelphia, Virginia. Lesson in the lead.
 
+THE CHICAGO DEFENDER
+
 ## "PLEASE GET MARRIED"
 
 Next week at the Avenues theater the Chicago home of Quality Productions, the company of Lafayette Players, which opened their western engagement this week, will be seen in Olive J. Morsose's hilarious bedroom fare "Pilgrimage of the Earth."
@@ -112,17 +138,17 @@ It is bad enough to be alone with a strange young woman on the first night of yo
 
 ## "LOCKED LIPS"
 
-At the States Theater next Sunday theater-goers of this city will be given an opportunity to see the Japanese Bernhardt, Tauri Aold, in her latest photodrama, "Locked Lips."
+At the States Theater next Sunday theater-goers of this city will be given an opportunity to see the Japanese Bernhardt, Tsuru Aoki, in her latest photodrama, "Looked Lips."
 
-The success scored by Miss Aold in her first Universal production, "The Breath of the Gods," has established this Japanese actress as one of the foremost figures on the screen.
+The success scored by Miss Aoki in her first Universal production, "The Breath of the Gods," has established this Japanese actress as one of the foremost figures on the screen.
 
-"Locked Lips" differs from any other photodrama not produced in which a Japanese character holds the center of the screen. Its scenes are not laid out plainly. There is no theme nor situation that is foreign to an American audience.
+Like Lips differs from any other photodrama, Japanese character holds the center of the screen. Its scenes are not laid in Japan. There is no theme nor situation to the story that is foreign to an American audience.
 
-The story opens in a clubroom in an American city where Henry Stanwood, in a brawl over a game of cards, shoots a man and makes his escape. Fleeing from justice, his wanderers bring him to the island of Hilo. There he breaks into a cottage in search of food. It is home of Lotus Blossom, a Japanese girl who touched a native school. She nurses him back to health, strength and they are eventually married. The man's real nature soon asserts itself and he deserts Lotus Blossom.
+An early opens in a clubroom in an American college house is Stanwood, in a brave over a game of cards shows a man and makes his escape. Fleeing from justice, his wanderings bring him to the island of Hilo. There he breaks into a cottage in search of food. It is the home of Lotus Blossom, a Japanese college native school. She nurses him back to the island and strength and they are eventually married. The man's real nature soon ascents itself and he deserts Lotus Blossom.
 
-His escape from the island, the changing of clothes with a body which had been washed ashore, his marriage to a girl in San Francisco and Blossom's real identity interrupted when she finds that her husband is married to the woman who had befriended her, are told in a series of gripping, tense situations that end in a breathless olimax.
+His escape from the island, the changing of clothing with a body which had been washed ashore, his to an American girl in San Francisco and Blossom's real romance, which is interpreted when she finds that her husband is married to the woman who had befriended her, are told in a series of interactions that end in a breathless culinary
 
-The production shows the directorial of William C. Dowlan, while the star is requested by such players as Stanhope Wheateroff, Maigda Lane, Jack Abbey and others.
+The production shows the directoral touch of William C. Dowlan, while all players are surrounded by such players as Stanlbom and Magda Lano, Jack Abbey, and others.
 
 ## LULU COATES & CO.
 
@@ -167,6 +193,38 @@ Clarence Potter's Jazz Band is being
 
 Clarence Potter's Jazz Band is being booked by the Kelth Enterprises.
 
+ADOLPH ZUKOR PRESENTS
+
+JOHN BARRYMORE In
+
+DR. JEKYLL AND MR. HYDE
+
+By Robert Louis Stevenson
+
+HE WANTED to yield to all that appeals to the flesh, yet leave his soul untouched. So
+
+DR. JEKYLL
+CONCOCTED THE POTION
+THAT MADE HIM
+
+MR. HYDE
+SEE
+Before Your Very Eyes the Most Amazing Change of Character Ever Achieved by a Modern Actor!
+
+John Barrymore
+in
+"DR.JEKYLL
+AND
+MR.HYDE"
+
+THURSDAY, FRIDAY AND SATURDAY, MAY 13-14-15
+
+THIRTY-FIRST BLOCK
+HAMMOND & SONS
+VENDOME
+"BIGGEST AND BEST"
+ON STATE ST.
+
 THE VAUDETTE E.B. DUDLEY PROPRIETOR ALWAYS THE BEST Vaudeville and Pictures WILLIE TYLER'S ORCHESTRA CRATIOT AVENUE DETROIT, MICH.
 
 THE HOME OF GREAT FEATURES
@@ -175,19 +233,25 @@ E. M. WYER'S STATES ORCHESTRA
 
 ## THE SCOTTS
 
-Richard Scott and wife of the Con. T. Kennedy shows spent two days in Chicago last week in a visit to his aunt, Mrs. Annie Debardlebien, of 6540 Grove avenue. Mr. Scott has been with the Con. T. Kennedy shows for more than a year a great responsibility with that company. He has absolute charge of the sleeping and dining of this vast aggregation, having the sole management of nine sleeping cars, one private car and the dining car. He has nine assistants and cares for 450 people. His position is unprecedented for a member of the team, the responsibilities of which a nature that it would be almost impossible to replace him in the person of one individual. For instance, he has charge and operates the motors which generate the electricity for the eleven cars, he lets out contracts for laundry, cloths pressing, etc.; he collects all monies for births, meals, etc., pays out bills presented, has the living discharged, does the living wife, Mrs. Scott, does the catering for the private car, in which travel the owner of the shows and his family. The Con. T. Kennedy shows appeared all of the past week at Elgin, and proceeds from that place to Freeport. Ill. Mr. Scott's season with this company is for thirty weeks during the year; the balance of the work is done by the partner of Prof. Means in the Prince of India Company.
+Richard Scott and wife of the Con. T. Kennedy shows spent two days in Chicago last week in a visit to his aunt, Mrs. Annie Debardlebien, of 6540 Grove avenue. Mr. Scott has been with the Con. T. Kennedy shows for five great responsibility with that company. He has absolute charge of the sleeping and dining of this vast aggregation, having the sole management of nine sleeping cars, one private car and the dining car. He has nine assistants and cares for 450 people. His position is unprecedented for a member of the Con., the responsible manager of such a nature that it would be almost impossible to replace him in the person of one individual. For instance, he has charge and operates the motors which generate the electricity for the eleven cars, he lets out contracts for laundry, clothes pressing, etc.; he collects all monies for borths, meals, etc., pays out all primitives for the living discharging of all help whilst his wife, Mrs. Scott, does the catering for the private car, in which travel the owner of the shows and his family. The Con. T. Kennedy shows appeared all of the past week at Elgin, and proceeds from that place to Freeport. Ill. Mr. Scott's season with this company is for thirty hours during the year; finance the time alone in vaudeville as the partner of Prof. Means in the Prince of India Company.
 
-Rucker & Winfred are at the Pantaga Theater, Vancouver, B. C.
-Jeff & Rollinson are doing on the
+Rucker & Winfred are at the Pantagene Theater, Vancouver, B.C. of Jeff & Rollinson are doing fine on the Fort. Rosa Valyda is at the Pantagene Theater, Butte, Mont.
 
-Rucker & Winfried are at the Pantages Theater, Vancouver, B.C.
-Jeff & Rollinson are doing line on the Fox time.
-Rosa Valyda is at the Pantages Theater, Bette, Mont.
+15. 1920
+
+VIEW
+
+---
 
 ## "THE ADVENTURER"
 
-William Farnum, well-known picture star of Fox Film corporation, who opens at the States Theater on Thursday and Friday, May 20 and 21, in "The Adventurer," a story written by 13. Lloyd Sheldon, believes that one of the most valuable talents to a sound great actor has been is fencing. The great actor has been nine years for the excellence of his swordsmith ship, and in "The Adventurer" he proves that only years of training in this little appreciated art has enabled him to take his place in the front rank of the swordmen of the world. His photophys demand that he keep his body in perfect condition at all times, and he never fails to spend at least one hour a day in physical exercise. Fifteen minutes of this time he allows for fencing—which demands quickness and great agility. Even before he left the stage for the art, and was noted for his ability with the rapier, broad-sword and foil.
+William Furnum, well-known mime picture star of Fox Film corporation, who opens at the States Theater on Thursday and Friday, May 20 and 21, in "The Adventurer," a story written by 12, Ines Sheldon, beloves that one of the most valuable a sound and a strong body is fencing. The great actor has been noted for year for the excellence of his swordsmanship, and in "The Adventurer" he proves that only years of training in this appreciated art has enabled him to take his place in the front rank of the swordmen of the world. Furnum is always in training. His photography demand that he keep his body in perfect condition at all times, and he never falls to spend an hour a day in physical exercise. Fifteen minutes of this time he allows for fencing—which demands quickness of eye and great agility. Even before he left the stage for the screen he had mastered the art, and was noted for his ability with the rapiper, broadsword. "There is not a muscle that is not exercised in fencing," said the popular star. "It is not necessary to have a broadsword or a rapiper or a foll. a broomstick will do. Women and men can keep themselves in perfect physical condition by 10 minutes a day with two sticks." "Sweet Adellino' is being sung with focus by Billy 12. Jones, the popular singer.
 
-"There is not a muscle that is not excerised in fencing," said the popular actor, but necessary to have a broadsword or a broomski will do. Women and men can keep themselves in perfect physical condition by 10 minutes a day with two sticks."
+OR PRESENTS
+RYMORE In
 
-"Sweet Adelina" is being sung with fine success by Billy J. Jones, the popular singer.
+---
+
+6ATURDAY, MAY
+
+---

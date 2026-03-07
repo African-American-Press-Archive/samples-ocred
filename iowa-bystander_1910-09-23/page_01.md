@@ -7,11 +7,11 @@
 ## Remember the big rally next Sunday
 at Union Congregational church.
 
-J. L. Thompson spent Tuesday in Burlington on legal business.
+J. L. Thompson spent Tuesday in Burlington on legal hearing.
 
 Mr. Henry West who is sick, returned home from the hospital last week and is improving.
 
-Mrs. Mary Coalson has returned from Lake Okoboji where she spent the summer.
+Mrs. Mary Coalison has returned from Lake Okoboji where she spent the summer.
 
 Messrs. R. N. Hyde and Henry Taylor are the only two colored men drawn on the September jury.
 
@@ -19,11 +19,11 @@ Mrs. Elmer Morton of Omaha, Neb., formerly of this city, is now visiting her mot
 
 Misses Emma and Maggie Graves of Brunswick, Mo., are in our city visiting their relative, Mr. Yancy on Twelfth street.
 
-Mr. Isaac Robinson of Huntsville, Mo., who has spent three weeks visiting her sister and re-entering her girl in the schools, returned home last Saturday.
+Mrs. Isaac Robinson of Huntsville, Mo., who has spent three weeks visiting her sister and re-entering her girl in the schools, returned home last Saturday.
 
 Mr. Howard Griffin, the oldest son of Mr. and Mrs. Alex Griffin of East Capitol avenue, has gone to South Dakota with a fair exhibitor to spend a few weeks.
 
-A very nice reception was given last week by Mrs. I. M. Jones in honor of Mr. Elmer Morton of Omaha, Nebr. A good time reported.
+A very nice reception was given last week by Mrs. I. M. Jones in honor of Mrs. Elmer Morton of Omaha, Nebr. A good time reported.
 
 The M. C. T. club will give a lawn social Tuesday evening, Sept. 27th, at the home of Mrs. H. R. Graves, 207 Arthur avenue, Highland Park. Everybody welcome.
 
@@ -31,17 +31,25 @@ Mr. C. E. Baldwin, the eldest of the Baldwin brothers of Creston, spent a week v
 
 Mr. Nelson Watkins of Albany, Mo., arrived in our city last Tuesday to bring his little child, Fay Johnson, to put her in the public schools. He is at the home of his daughter, Mrs. J. L. Thompson on West Twentieth street. Fay will make her home at Mr. Thompson.
 
-Rev. O. A. Johnson of Independence, Mo., formerly patron of Burns M. E. courch, came to our city yesterday to visit a few days with old friends.
+Rev. O. A. Johnson of Independence, Mo., formerly pater of Burns M. E. couch, came to our city yesterday to visit a few days with old friends.
 
-Mrs. H. E. Jacobs who has been quite ill the last week at her home, 1238 W. Twentieth street, is improving.
+Mrs. H. E. Jacobs who has been quite ill the past week at her home, 1238 W. Twentieth street, is improving.
 
-Mrs. L. R. Palmer left yesterday for an extended trip through the east, Her first stop will be in Chicago, then to New York City, Buffalo, Washington, D.C. and other cities along the New England coast.
+Mrs. L. R. Palmer left yesterday for an extended trip through the east, Her first stop will be in Chicago, then to New York City, Buffalo, Washington, D. C. and other cities along the New England coast.
 
-The Intellectual Improvement club is making elaborate preparations for their first Annual Autumn Festival, to give Friday evening, Sept. 30th to the Young Men's Progressive Association, rooms Ninth and Park streets. The entertainment will consist of a literary and musical program and a bazaar. Refreshments will be served. They ask all clubs of the city and the general public for a large attendance. Admission 10 cents.
+The Intellectual Improvement club is making elaborate preparations for their first Annual Autumn Festival, to give Friday evening, Sept. 30th at the Young Men's Progressive Association, rooms Ninth and Park streets. The entertainment will consist of a literary and musical program and a bazaar. Refreshments will be served. They ask all clubs of the city and the general public for a large attendance. Admission 10 cents.
 
-Mr. Henry Clay, one of our highly respected citizens, has just returned from Tuskegee, Ala., where he took his littles daughter, Daisy Gerada, to enter the Tuskegee Normal and Industrial Institute. He speaks very highly of the Booker T. Washington school.
+Mr. Henry Clay, one of our highly respected citizens, has just returned from Tuskegee Ala., where he took his littles daughter, Daisy Gerada, to enter the Tuskegee Normal and Industrial Institute. He speaks very highly of the Booker T. Washington school.
 
-The M. C. T. club met last Monday, Sept. 19th, at the home of Mrs. Theodore J. Bell, 1651 Lyon street and listened to a very interesting program. A special feature of the program was an address by Mrs. J. P. Sims on the value of domestic science. We are only sorry all the ladies clubs of the city did not hear this most interesting and instructive address. The
+The M. C. T. club met last Monday, Sept. 19th, at the home of Mrs. Theodore J, Bell, 1651 Lyon street and listened to a very interesting program. A special feature of the program was an address by Mrs. J. P. Sims on the value of domestic science Mrs. Sims is a woman of rare ability and has a thorough and complete knowledge of the value of domestic science. We are only sorry all the ladies clubs of the city city did not hear this most interesting and instructive address. The
+
+THE VARIETY
+1010 Center Street.
+For the best meals in the
+city, and all kinds of sand-
+wiches.
+Special Chicken Dinner
+Every Sunday
 
 club will meet next Monday afternoon, Sept. 28th, at the home of Mrs. Green on Fourteenth Street Place.
 
@@ -77,9 +85,6 @@ AFTERNOON AT 3:30.
 4. Anthem by choir.
 5. Sermon by Dr. A. L. Frisbie.
 
-6. Prayer by Rev. T. O. Douglass, J.
-7. Address, H. C. A. Dudley.
-
 6. Prayer by Rev. R. O. Douglass, Jr.
 7. Address, Hon. C. A. Dudley,
 8. Offertory—Rev F. W. Hodgdon
@@ -99,32 +104,42 @@ been ask and have promised oo be present are Hen. W. T. Vernon, Register of the 
 
 ## ALBIA NEWS.
 
-Rev. and Mrs. T. L. Griffith and children arrived in T. Albia Monday. The reverend contiued his trip on to Albia, while Mrs. Griffith and children visited at the parental Cornelious Thomas home.
-Mrs. Cora McCarthy of Hawkeye was a visitor at the C. Thomas home a Monday and Tuesday this week.
+Rev. and Mrs. T. L. Griffith and children arrived in Albia Monday. The reverend contiued his trip on to Alabama, while Mrs. Griffith and Alabama visited at the parental Cornelious Thomas home.
+
+Mrs. Cora McCarthy of Hawkeye was a visitor at the C. Thomas home on a Monday and Tuesday this week.
+
 Mrs. Morton of Decatur county was in Albia Monday on her way to Buxton to visit her daughter.
-Mrs. E. Grayson returned home Tuesday of this week from her visit in Des Moines and her stay at Lake Okoboji, where she was employed three months.
+
+Mrs. E. Grayson returned home Tuesday of this week from her visit in Des Moines and her stay at Lake Okoboj, where she was employed three months.
+
 Lawyer Geo. H. Woodson of Buxton was in Albia Tuesday and Friday of this week.
-Miss Gertrude M. Jones returned to her home in Chicago after a two weeks visit at the parental H. Jones home.
+
+Miss Gertrude M. Jones returned to her home in Chicago after a two weeks visit at the parental J. Jones home.
+
 Miss Viola Washington has returned to her home in Chicago after a three months stay in Albia and Hocking.
-Mrs. fdell Lewis of Oskaloasa came over to Albia Sunday on his bicycle, Mrs. Lewis and little son John have been visiting several days with Mrs. Ben Lewis and her sister Mrs. Eva Roper.
+
+Mr. fdell Lewis of Oskaloosa came over to Albia Sunday on his bicycle. Mrs. Lewis and little son John have been visiting several days with Mrs. Ben Lewis and her sister Mrs. Eva Roper.
+
 Samuel L. Birt, Jr. and Mary Ruth Birt left Monday for Chicago where they will stay indefinitely. They are the children of Rev. S. L. Birt who will leave Albia Tuesday of this week for conference.
-Mir. Lon E. Franklin returned home from Des Moines this week.
-Mrs. and Mrs. Roy Grayson and Bennie M. were in town from Hocking Sunday.
-Mrs. and Mrs. Ed Butler were in Buxton over Sunday.
+
+Mr. Leon E. Franklin returned home from Des Moines this week.
+
+Mr. and Mrs. Roy Grayson and Bennie M. were in town from Hocking Sunday.
+Mr. and Mrs. Ed Butler were in Buxton over Sunday.
 
 ## CLINTON HAPPENINGS.
 
 Rev. B. U. Taylor left Monday night for Minnesota where he will attend the annual conference, which convenes on Wednesday.
 
-The supper which was served on Saturday evening, under the auspices of the officers of Bethel church for the pastor, was a success in every way. A large number were in attendance and a good sum was realized. The affair was in charge of the Stewardess, Mrs. Holland Williams chairman.
+The supper which was served on Saturday evening, under the auspices of the officers of Bethel church for the pastor, was a success in every way. A large number were in attendance and a good sum was realized. The affair was in charge of the Stewardess, Mrs. Hol- and Williams chairman.
 
-The Misses Freda Foster and Irene McGaw of Davenport were guests in Clinton recently of Miss Ester Culberson.
+The Misses Freda Foster and Irene McGaw of Davenport were guests in Clinton recently of Miss Esther Culberson.
 
 Mas. P. P. Taylor and daughter Ida arrived home last week from a two weeks visit spent in Chicago and Cairo, Illinois.
 
 The celebration given by the members of the Baptist church will take place Thursday of this week at Union Park.
 
-The officers of Bethel A. M. E. church were entertained at a dinner given at 7 o'clock on Tuesday evening, Sept. 13th, by A. A. Bush in the commodious basement of the church. The event which was considered the most pleasing function in the church history by those present, was given in honor of Rev. B. U. Taylor, the efficient pastor of the church during the past year. The large round table at which the eleven guests were seated, was done in green and red. The favors were tube rose boutioneries. The dinner was served in four courses. The following gentlemen were present: Rev. B. U. Taylor, Rev. P. P. Taylor, Messrs. J. T. Culberson, M. O. Culbertson, G. J. Robinson, Wm. Rnhinson, Scott Robinson, Wm. Wenderson, Holland Williams T. G. Dozier and A. A. Bush. Remarks of appreciation of the guest of honor by those present, concluded this very happy event.
+The officers of Bethel A. M. E. church were entertained at a dinner given at 7 o'clock on Tuesday evening, Sept-18th, by A. A. Bush in the commodious basement of the church. The event which was considered the most pleasing function in the church history by those present, was given in honor of Rev. B. U. Taylor, the efficient pastor of the church during the past year. The large round table at which the eleven guests were seated, was done in green and red. The favors were tube rose houttonieries. The dinner was served in four courses. The following gentlemen were present: Rev. B. U. Taylor, Rev. P. P. Taylor, Messrs. J. T. Culberson, M. O. Culberson, G. J. Robinson, Wm. Rhinbson, Scott Robinson, Wm. Henderson, Holland Williams T. G. Dozier and A. A. Bush. Remarks of appreciation of the guest of honor by those present, concluded this very happy event.
 
 Mr. and Mrs. A. C. Fisher of Des Moines are in the city the guests of Mr. and Mrs. Henry Robinson on DeWitt street.
 
@@ -165,13 +180,13 @@ Mrs. David Shores and children returned home last week from Norfolk where she ha
 
 ## OTTUMWA NEWS.
 
-Mr. Joseph Reid of St. Paul, Minn., is visiting his parents, Rev. and Mrs. J. C. Reid. The Afro-American Council gave an entertainment Tuesday evening at the M. E. church. Brief addresses were made by Rev. J. C. Reid, W. S. Page and Joseph Hopkins. Mrs. James Weeks of Des Moines is the guest of Mr. and Mrs. J. H. Weeks Miss Margaret Horne left Tuesday for an extended visit with her sister, Mrs. Samuel Green, in Seattle, Wash.
+Mr. Joseph Reid of St. Paul, Minn., is visiting his parents, Rev. and Mrs. J. C. Reid. The Afro-American Council gave an entertainment Tuesday evening at the A. M. E. church. Brief addresses were made by Rev. J. C. Reid, W. S. Page and Joseph Honkins.
 
-Miss Margaret Horne left Tuesday for an extended visit with her sister, Mrs. Samuel Green, in Seattle, Wash. The members of the Second Baptist church gave a surprise donation party for their prorist, Rev. J. C. Reid, Tuesday evening.
+Miss Margaret Horne left Tuesday for an extended visit with her sister, Mrs. Samuel Green, in Seattle, Wash. The members of the Second Baptist church gave a surprise donation party for their pror, Rev. J. C. Reid, Tuesday evening.
 
-Mrs. Hattie Hutchison of Buxton is visiting her parents, Mr. and Mrs. O. Williams.
+Mrs. Hattie Hutchison of Buxton is visiting her parents, Mr. and M. O. Williams.
 
-An invitational dance was given Thursday night by members of the Golden Leaf club at the M. W. A. hall. The funeral service of Mr. Bradshaw dawned Sunday afternoon from the A. M. E. church. Mr. Bradshaw accidently shot himself about four weeks ago. Services were conducted by Rev. P. M. Lewis, pastor, assisted by Presiding Elder M. I. Gordon and Rev. J. C. Reid of the Second Baptist church. Interment was made in Ottumwa cemetery.
+An invitational dance was given Thursday night by members of the Golden Leaf club at the M. W. A. hall. The funeral services of Mr. Daniel Bradshaw were held Sunday afternoon from the A. M. E. church. Mr. Bradshaw accidently shot himself about four weeks ago. Services were conducted by Rev. P. M. Lewis, pastor, assisted by Presiding Elder M. I. Gordon and Rev. J. C. Reid of the Second Baptist church. Interment was made in Ottumwa cemetery.
 
 The Faithful Few of the A. M. E. church will give an entertainment Monday. The proceeds will go on the piano indebtedness.
 
@@ -179,9 +194,9 @@ Mr. Lonnie Carter and Mr. Bolden of Buxton attended the funeral services of Dani
 
 Mrs. Earl Wagner is visiting her parents at Milan, Mo.
 
-Please donot overlook unpaid subscriptions.
+Pleaen donot overlook unpaid subscriptions.
 
-“Can be depended upon” is an expression we all like to hear, and when it is used in connection with Chamberlain’s Colic Cholera and Diarrhoea Remedy it means that it never fails to cure diarrhoea, dysentery or bowel complaints. It is pleasant to take and equally valuable for children and adults Sold by all druggists.
+“Can be depended upon” is an expression we all like to hear, and when it is used in connection with Chamberlain's Colic Cholera and Diarrhoea Remedy it means that it never fails to cure diarrhoea, dysentery or bowel complaints. It is pleasant to take and equally valuable for children and adults Sold by all druggists.
 
 ## THE OFFICIAL CALL OF THE
 WESTERN PRESS
@@ -200,12 +215,12 @@ Witness my hand this 14th day of September, 1910.
 JOHN L. THOMPSON, President, Editor of the Iowa State Bystander,
 
 Buxton, Iowa, Sept. 20, 1910.
+Dear Editor: A week ago the lowermost school received the most successful session in its history, success in every way. It gave inspiration to the church and community.
+Last night the school under the management of Prof. C. W. Rogers, rended a program which was one of the most interesting school entertainments ever witnessed in this community. He and his public deserved the three prizes rendered by the most excellent program rendered before a very appreciative audience. There were three prizes awarded to the first, second and third best speakers. Music was furnished by the school and some excellent renders some excellent selections.
+Hon. GEO. H. Woodson addressed the school in his usual manner and presented some stubborn facts to those striving to advance to advance to advance to advance. Mr. Woodson is always ready to give advice and render assistance when called upon.
+Mrs. Minnie B. London, Mrs. Maymie Findley of the public schools, and Hollykay N. Y., were the judges in the contest. The prizes were awarded to the 1st following: Robert Alexander Lowery, 1st prize, $2.00; Oval Leonard Carter, 2nd prize, $1.00; Attorney Jas. A. Spears presented the prizes and all seemed well satisfied with the decision of the judges. While the prizes were given to three every member on the prosecution much credit for the part he took.
 
-Dear Editor: A week ago the Iowa-Nebraska Baptist association held a session in its history, success in every way. It gave inspiration to the church and community.
-
-Last night the school under the management of Prof. C. W. Rogers, a program which was one or the most interesting school entertainments ever witnessed. In this community. He and his pupils deserved the highest appreciation for their work, a very appreciative audience. There were three prizes awarded to the first, second and third best speakers. Music was furnished by the Mt. Zion Baptist church, which rendered a very good service to H. Woodson addressed the school in his usual manner and presented some stubborn facts to those striving to advance to a higher degree of civilization. Mr. Woodson is always ready to give his knowledge and call upon. Mrs. Minnie B. London, Mrs. Jamie Findley of the public schools, and Miss Cora Waddlingham of Brooklyn, N. Y., were the judges in the contest. In all following: Robert Alexander Lowery, 1st prize, $2.00; Valo Leonard Carter, 2nd prize, $1.25; and Robert Floyd Booker, 3d prize, $1.00. Attorney Jones, A. Spears presented the prizes and made a decision of the judges. While the prizes were given to three every member on the program deserves much credit for the part he took.
-
-Mr. Lowery, the able pastor of Mt. Zion Baptist church, made some very pointed remarks, encouraging the advantage of the opportunities extended to them. He gave a few personal experiences in order to desire to rise to a higher degree of civilization. The night school has demonstrated the fact that not only the young but the old can learn if the will power is put in place and such character as Prof. Rogers to create life in the people.
+Rev. Woodard, the able pastor of Mt. Zion Baptist church, made some very pointed remarks, encouraging the efforts of those who are taking advantage of the church to give a few personal experiences necessary to give new life to any one desiring to rise to a higher degree of civilization. The night school has demonstrated the fact that not only the young but the old can learn if they have the right character that every community had such character as Prof. Rogers to create life in the people.
 
 ## COUNCIL BLUFFS ITEMS.
 
@@ -235,13 +250,27 @@ The stewardess of the A. M. E. church had a farewell entertainment in honor of R
 
 ## PEORIA, ILL. NEWS:
 
-Miss Mabel Woods celebrated her nineteenth birthday anniversary on Monday evening. Cards were the evening's announcement. The young students attended. The guests departed at a late hour wishing her many happy returns of the day.
+Miss Mabel Woods celebrated her nineteenth birthday anniversary on Monday evening. Cards were the evening's amusement. The young lady received many beautiful presents and was delighted to be awarded at a late hour wishing her many happy returns of the day.
 
-Last Wednesday evening at 8 p.m., Miss Hattie Saunders and Mr. Alice McCarthy, the granddaughters of the groom's sister, Mrs. Annie Short on Saratoga street. Rev H. W. Hameson affiliated. The young couple have the best wishes of a large family. Miss Mimie Sledge, who has been making an extended visit in the city, left Saturday for St. Joseph, Mo., to join her husband and children. From there they will move to Montana. Mrs. McCarthy, Miss Shepard has gone to Tennessee to visit her mother.
+Last Wednesday evening at 8 p.m. Miss Hattie Saunders and Mr. Albert Ford were married at the home of the groom's sister, Mrs. Annie Ford. Mrs. Annie Ford was married on Day W. Jameson affiliated. The young couple have the best wishes of a large number of friends.
+
+Mrs. Minnie Sledge, who has been making an extended visit in the city, left Saturday for St. Joseph, Mr. To help with the purchase on Day there they will move to Montana, their future home.
+
+Mr. and Mrs. Charles Dudley of Monson street have moved to their new home lately purchased at 803 Ellis street.
+
+Mr. Shepard has gone to Tennessee to visit his mother.
 
 Mr. Alex Hughes of Evansville, Ind., has come to the city to reside. Mrs. Hughes will come later.
 
-The object of the conference held at Mr. Zion Baptist church last week is to present a bond children a sense of relations, duties and children of relations, duties
+The object of the conference held at Mr. Zion Church in Friedale has to teach children a sense of relations, duties and obligations with regard to others. Those who attended the meeting agreed that every child needs pleasant surroundings, that a bond of loving companionship should exist between them, that may not chale under home restraint, but be convinced that this restraint is a loving protection against temptation, that the best way to teach politeness is by being polite. The sum of all it is to begin character building and child by teaching the Golden Rule.
+
+Rev. Dr. H. W. Jameson is returned to Peoria for another year. The congregation and friends are much pleased, as no one could well begin to see the joy and happiness he serves to enjoy some of the fruits of 4 years' labor.
+
+Mrs. Sarah Floyd of Wisconsin avenue, who has been ill for several days, is some better, who spent the past two months in Boston, Mass, returned home Tuesday night, September 20, feeling very much improved by the rest.
+
+Mrs. Hattie Green and daughter, Mrs. Jane Green of Abpaca, Ill, spent Saturday and Sunday with Mrs. Grace Walker, 1025 Jackson street, Mrs. Green is a very loyal member of the Baptist church, and was present at both services Sunday.
+
+"To the careful observer the signs of his devotion in many respects favorable. Each month the roll of roggal real estate buyers is increased. Some cash purchasers, others paying for their homes by the monthly payment system. There has been a greater number of marriages than in many years, and an equal number of months in the past 4 years.
 
 ## MONMOUTH NOTES
 
@@ -271,10 +300,45 @@ Reading—Ruth Boyd.
 Duct—Mesdamas Tyler and Hicks.
 Reading—Ruth Boyd.
 
-Much credit is due the social committee for their excellent way of entertaining. Rev. dew of Cedar Rapids people attended conference. Rev. Fairibre, Professor Lowry, Mrs. E. C. Thomas, Mrs. Clarie Pric, Mrs. Addie Gray and son left Tuesday night for conference. Mrs. Susie Jackson, who left two weeks ago to visit her mother in Bloomington, was taken very ill in town Monday on his way to Minneapolis to attend conference. Mrs. Sus
+Much credit is due the social committee for their excellent way of entertaining. Rev. of Cedar Rapids people attended conference. Rev. Fairibre, Professor Lowery, Mrs. E. C. Thomas, Mrs. Clarie Pric, Mrs. Addie Gray and son left Tuesday night for conference. Mrs. Susie Jackson, who left two weeks ago to visit her mother in Bloomington, was taken very ill but is much better now. We hope to see her again, as she is missed very much. Miss Colman of Buxton is the guest of Lena McDavis. Bro. E. C. Thomas will fill the public day in the absence of the pastor. Rev. Ford last week to attend conference in Illinois and to visit his nephew. Mr. Chas Davis died at the home of Aline Thompson Saturday evening at 5 o'clock. The remains will be taken to Buxton where the Elks will have charge of the body. Mrs. Harry Horne called a joint session of the J. S. Y. club and Cullet of the Iowa State University decided to ask for the Iowa State Federation and by vote Mrs. Horn was ordered to extend the invitation.
+
+ENTERPHISE. Mrs. Maud Johnson and sister returned home last week for a two weeks' visit with relatives and friends in Kansas. Mrs. S. Oler left for Evans, Iowa, Saturday for a five days visit with his parents. Rev. and Mrs. James Bowles, Mrs. Nettle Hunter and Mr. William Batts returned home last week from Kentucky. Mrs. Oler said a celebration. All report a fine session.
+
+Mrs. Della Wilson and daughter Beatrice left for their home Monday in Osceola, after three weeks' visit with her parents, Mr. and Mrs. Robert. Mrs. Walter McMillan and son Roy spent a week in Buxton visiting with friends.
+
+The W. H. and F. Mission society met Friday evening at the church.
+
+We like for more people to subsist at the church. Rev. and Mrs. Jas. Bowles entertained at their home Sunday at dinner Mr. and Mrs. W. Battles.
+
+The B. Y. P. U. meets every Sunday afternoon at 3 o'clock and are doing great work. All are invited to attend Mrs. C. William arrived home on Tuesday after a two weeks' visit in Centerville and Buxton, where she attended the association.
+
+KEORUK NOTES.
+
+The Rev. H. P. Jones and Rev. Jopelin left Monday evening for Minneapolis to attend the annual conference.
+
+Ms. D. Blind left Sunday night for St. Paul, Mann., to visit her brother and other relatives. She will also attend the annual conference at Minneapolis.
+
+Monday evening at the A. M. E. Chickens was a successful entertainment was given by the trustees of the church. The entertainment was given for the benefit of the pastor and was quite largely attended.
+
+Thursday evaping, September 15th the fifth church gave a program in honor of the departure of their pastor, Rev. H. P. Jones. At the church the program was very nicely arranged and each number was rendered in a high class manner. A large audience was present following was the numbers riven.
+
+Opening-Lord's Prayer (Chant).
+Anthem by choir—Beautiful Golden Gates.
+Address—Mr. Alonzo Draine.
+Quartet selection—Messrs. Earl Willingham Fox, William Martila and Charles Williams.
+Address, Past and Present—Lena Porter.
+Duet—George Cadwell, Lavada Porter.
+Closing address—Rev. H. P. Jones.
+Quartet selection—Messrs. Earl Ware, Arthur Fox, William Martila and Charles Williams.
+Many symphonicizing and sorrowful pieces last sad funeral rites of the late Mrs. Jone Breckenridge whose death occurred Wednesday morning at her home in Hammond, after a lingering illness of about 15 weeks, and many other services were in charge of the M. E. church minister of Hamilton and were very beautiful and impressive and during his remarks the pastor spoke of the sickness of her昶izing her uprightness of character and the sorrow of parting. The floral tributes were many and beautiful. Those left to mourn her loss are her husband one daughter, his wife, and several grandchildren and a score of other relatives and friends.
+Mr. D. W. Anderson, who resided at 1111 Fulton street, is quite ill with pneumonia and surprise dart was tended Mr. G. T. Kendrick Tuesday evening, September 20th, at the home of his daughter, Mrs. Harry Ashby, 1423 Franklin street. The house was very successful carried out. Everyone reported a good tim.
 
 G. LUCAS
 
 ## ENTERPRISE.
 
 ## KEOKUK NOTES.
+
+```markdown
+
+```

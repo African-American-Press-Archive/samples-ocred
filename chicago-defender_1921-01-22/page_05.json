@@ -3,6 +3,17 @@
   "image": "images/page_05.jpg",
   "width": 1836,
   "height": 2557,
+  "processed_at": "2026-03-07T00:56:59.718238+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 91,
+    "after_merge": 70
+  },
   "regions": [
     {
       "bbox": [
@@ -12,7 +23,8 @@
         247
       ],
       "label": "text",
-      "text": "Famous Star-to Carry Original Jazz Hounds and the Assisting Artists Arrangements have been made by the Standard Amusement Company of New York city for a transcontinental tour of the sensationally successful phonograph star, Mamie Smith, accompanied by her Jazz Hounds Band and assisting entertainers. The tour Vars is at Trenton, N. J., and will in-"
+      "text": "Famous Star-to Carry Original Jazz Hounds and the Assisting Artists Arrangements have been made by the Standard Amusement Company of New York city for a transcontinental tour of the sensationally successful phonograph star, Mamie Smith, accompanied by her Jazz Hounds Band and assisting entertainers. The tour Vars is at Trenton, N. J., and will in-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -22,7 +34,8 @@
         519
       ],
       "label": "text",
-      "text": "Benton, N. J., and will inaugurate all of the principal cities of the United States in the meteorite rise to fame has been one of the most remarkable in all the theoretical historical history. One day last summer she herself a star of a phonograph record of Perry Bradford's popular blue song hit, \"Crazy lies,\" the following morning Miss Sinai showed herself a star of first magnitude. Since then has become a household word throughout America and the present concert requests that in response to the many requests that she made for her personal appearance in the cities. The fact that the original Jazz Hounds and other well-known supporters are on car tour intact is in itself an amusement lovers will be afforded the opportunity of hearing one of the most prestigious and jazziest entertainments that has ever been sent out from New York."
+      "text": "Benton, N. J., and will inaugurate all of the principal cities of the United States in the meteorite rise to fame has been one of the most remarkable in all the theoretical historical history. One day last summer she herself a star of a phonograph record of Perry Bradford's popular blue song hit, \"Crazy lies,\" the following morning Miss Sinai showed herself a star of first magnitude. Since then has become a household word throughout America and the present concert requests that in response to the many requests that she made for her personal appearance in the cities. The fact that the original Jazz Hounds and other well-known supporters are on car tour intact is in itself an amusement lovers will be afforded the opportunity of hearing one of the most prestigious and jazziest entertainments that has ever been sent out from New York.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +45,8 @@
         547
       ],
       "label": "paragraph_title",
-      "text": "OD DFELLOWS SUB-"
+      "text": "OD DFELLOWS SUB-",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +56,8 @@
         795
       ],
       "label": "text",
-      "text": "COMMITTEE IN SESSION\nPhiladelphia, Pa. Jan. 21. The subcommittee of management is in session this week at the Grand United Order of Odd Fellows Building, 12th Spruce street. The following members are involved: Dr. L. Morris, Chicago, grand master; Dr. I. Morris, Boston, deputy grand master; James F. Needham, grand secretary; Philadelphia; Robert T. Thomas. Penny, J. Jesse L. Nicholas, Baltimore, M. D. Shaw, Harry Herdon, Va.; B. V. Bauron, Entoto Herron, David Brown, grand treasurer, was not present owing to the death of his wife, two of the directors were sent to York to attend the funeral on Wednesday, Dr. C. C. Johnson of Alken, S. C., was elected a grand director."
+      "text": "COMMITTEE IN SESSION\nPhiladelphia, Pa. Jan. 21. The subcommittee of management is in session this week at the Grand United Order of Odd Fellows Building, 12th Spruce street. The following members are involved: Dr. L. Morris, Chicago, grand master; Dr. I. Morris, Boston, deputy grand master; James F. Needham, grand secretary; Philadelphia; Robert T. Thomas. Penny, J. Jesse L. Nicholas, Baltimore, M. D. Shaw, Harry Herdon, Va.; B. V. Bauron, Entoto Herron, David Brown, grand treasurer, was not present owing to the death of his wife, two of the directors were sent to York to attend the funeral on Wednesday, Dr. C. C. Johnson of Alken, S. C., was elected a grand director.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +67,8 @@
         811
       ],
       "label": "paragraph_title",
-      "text": "Miss M. Barrett Home"
+      "text": "Miss M. Barrett Home",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +78,8 @@
         1397
       ],
       "label": "text",
-      "text": "St. Louis, Mo., Jo. 21--Miss Mae Barrett, 2821 Lacleade village, has re- home, after visiting Mr. and Mrs. P. home in Chicago, Illinois. She was highly entertained by friends while in the \"Windy City.\"\n\nCONNECTICUT\nNorwich, Conn., Jan. 21--Fred Randall is the proud father of a bountiful baby girl, Mrs. P. home in Iowa, enjoying her tows' dance Jan. 6th was well attended and every one enjoyed a good time. *She was highly entertai"
+      "text": "St. Louis, Mo., Jo. 21--Miss Mae Barrett, 2821 Lacleade village, has re- home, after visiting Mr. and Mrs. P. home in Chicago, Illinois. She was highly entertained by friends while in the \"Windy City.\"\n\nCONNECTICUT\nNorwich, Conn., Jan. 21--Fred Randall is the proud father of a bountiful baby girl, Mrs. P. home in Iowa, enjoying her tows' dance Jan. 6th was well attended and every one enjoyed a good time. *She was highly entertai",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +89,8 @@
         1417
       ],
       "label": "paragraph_title",
-      "text": "ARKANSAS"
+      "text": "ARKANSAS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +100,8 @@
         1760
       ],
       "label": "text",
-      "text": "Newport, Ark. , Jan. 21. - Mrs. J. H. McGraw, Mrs. J. H. Phillip, after which a three course dinner, after which a three guest to a movie show. Those present guests to a movie show. Those present Mrs. J. H. Phillip,"
+      "text": "Newport, Ark. , Jan. 21. - Mrs. J. H. McGraw, Mrs. J. H. Phillip, after which a three course dinner, after which a three guest to a movie show. Those present guests to a movie show. Those present Mrs. J. H. Phillip,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +111,8 @@
         1776
       ],
       "label": "paragraph_title",
-      "text": "LOUISIANA"
+      "text": "LOUISIANA",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +122,8 @@
         2023
       ],
       "label": "text",
-      "text": "Patterson, La., Jan. 21.\u2014Mrs. Selena Copman is here from Galveston visiting Taylor, *Irma Brandon* left Sunday for Taylor, *Irma Brandon* en-jee school, McClinton School, Galveston, where she were quietly married. *Dr. J. H. Murray* left for New Orleans. *Houston Dutton* left for Galveston, where he will attend school. *The remains of Mrs. Bellie Texas,* for New Orleans, where the boy will attend school. *The remains of Mrs. Bellie Texas,* for burial. *Mrs. Albert Reed* has left for Chicago after spending a week in our young druggist, was called to the bedside of his a sister, Mrs. Helen Calvert, our young druggist,"
+      "text": "Patterson, La., Jan. 21.\u2014Mrs. Selena Copman is here from Galveston visiting Taylor, *Irma Brandon* left Sunday for Taylor, *Irma Brandon* en-jee school, McClinton School, Galveston, where she were quietly married. *Dr. J. H. Murray* left for New Orleans. *Houston Dutton* left for Galveston, where he will attend school. *The remains of Mrs. Bellie Texas,* for New Orleans, where the boy will attend school. *The remains of Mrs. Bellie Texas,* for burial. *Mrs. Albert Reed* has left for Chicago after spending a week in our young druggist, was called to the bedside of his a sister, Mrs. Helen Calvert, our young druggist,",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +133,8 @@
         2038
       ],
       "label": "paragraph_title",
-      "text": "TENNESSEE"
+      "text": "TENNESSEE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +144,8 @@
         2480
       ],
       "label": "text",
-      "text": "Pulaski, Tenn., Jan. 21.\u2014Miss Uilo Vance has returned to Nashville, Tenn. in January. She is visiting her father, Will Tears. *S. K. Leder and wife are visiting in Birmingham, Md., and visiting in Killeen, Ville, KY. is visiting her grandmother. *Miss Bassie Brown is visiting friends in Dyersburg, Tenn., and visiting her sister, Mrs. Mary Scott. *Abe Haskin, Dock Sharn and C. P. Akins of Dyersburg visited her sister, Mrs. Mary"
+      "text": "Pulaski, Tenn., Jan. 21.\u2014Miss Uilo Vance has returned to Nashville, Tenn. in January. She is visiting her father, Will Tears. *S. K. Leder and wife are visiting in Birmingham, Md., and visiting in Killeen, Ville, KY. is visiting her grandmother. *Miss Bassie Brown is visiting friends in Dyersburg, Tenn., and visiting her sister, Mrs. Mary Scott. *Abe Haskin, Dock Sharn and C. P. Akins of Dyersburg visited her sister, Mrs. Mary",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,17 +155,63 @@
         110
       ],
       "label": "paragraph_title",
-      "text": "PRAIRIE STATE NEWS"
+      "text": "PRAIRIE STATE NEWS",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        291,
+        124,
+        533,
+        472
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        287,
+        477,
+        531,
+        926
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        287,
+        933,
+        531,
+        1352
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         286,
-        124,
+        1358,
+        532,
+        1730
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        287,
+        1737,
         533,
         2193
       ],
       "label": "text",
-      "text": "East Moline, Il. Jan. 21.\u2014Rev. L. W. pastor, of East Church church, delived a sermon Sunday in Rock Isle port, Iowa. *Rev. Lewis of Moline also delivered a sermon Sunday in Rock Isle body was buried. Mr. Goodwin is a body was buried. Mr. Goodwin is a body was buried. Mrs. Jenna wife of John Anderson, formerly of Carbondale, II. departed. She is a few days old. Mrs. Jenna wife of Joh"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -152,7 +221,8 @@
         2480
       ],
       "label": "text",
-      "text": "Joliet, II, Jan. 21. \u2014The reception at their newly elected pastor and wife Mr. and Mrs. W. D. Fetty, was a grand honour of their newly elected pastor and wife Mr. and Mrs. W. D. Fetty, was a grand honour of their newly elected pastor and wife who were welcomed by Prof. Charles Cameron, and Dr. O. W. Williams of Baptist Church is well pleased with their new pastor, Dr. W. Louis Petty, formerly of Baptist Church filled with much enthusiasm. Mr. T. L. Posey of Strentor, III, spent the weekday morning of Dr. W. Louis Petty, for"
+      "text": "Joliet, II, Jan. 21. \u2014The reception at their newly elected pastor and wife Mr. and Mrs. W. D. Fetty, was a grand honour of their newly elected pastor and wife Mr. and Mrs. W. D. Fetty, was a grand honour of their newly elected pastor and wife who were welcomed by Prof. Charles Cameron, and Dr. O. W. Williams of Baptist Church is well pleased with their new pastor, Dr. W. Louis Petty, formerly of Baptist Church filled with much enthusiasm. Mr. T. L. Posey of Strentor, III, spent the weekday morning of Dr. W. Louis Petty, for",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +232,8 @@
         636
       ],
       "label": "text",
-      "text": "Ralph Leonard is convalescing from pneumonia. *Rev. M. and Mrs. J. H. E. Haston, and wife. *Mrs. Josephine H. E. Haston, and wif"
+      "text": "Ralph Leonard is convalescing from pneumonia. *Rev. M. and Mrs. J. H. E. Haston, and wife. *Mrs. Josephine H. E. Haston, and wif",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,17 +243,30 @@
         654
       ],
       "label": "paragraph_title",
-      "text": "INDIANA"
+      "text": "INDIANA",
+      "status": "ok"
     },
     {
       "bbox": [
         536,
         655,
         781,
+        1132
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        536,
+        1139,
+        781,
         1350
       ],
       "label": "text",
-      "text": "West Baden and French Lick, Ind., 12.\nSlick Musson's wife died in French Lick.\nHer body was taken to Kentucky for mirth. Mrs. Charles Lawson and Pam Hanna were married and she has finished her course as a chiropodist and has opened a parlor on the multi street.\n\nPrinceton, Ind., Jan. 21. *Pettit, Springfield, II.* is visiting his mother, Mary. Mr. Dabbs of Bridgeport, Ind., is visiting his daughter, Mrs. Glen Harnay. Mrs. Brantley has visited a few of their friends. *Misses Chloe Wimberly and Geneva Brown of Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catlett is sick at the Paragon on South Main street Xmas week. George Catton is hospitalized at the Indiana University of Lakes, who has been seriously ill at the Methodist sanitarium in Lakes. George Catton is hospitali"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -192,7 +276,8 @@
         1368
       ],
       "label": "paragraph_title",
-      "text": "KENTUCKY"
+      "text": "KENTUCKY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +287,8 @@
         1739
       ],
       "label": "text",
-      "text": "Fulton, Ky., Jan. 21.\u2014The revival at E. K. Kearney was great success and was attended by many church members. There were four or five congratulations. There were four or f"
+      "text": "Fulton, Ky., Jan. 21.\u2014The revival at E. K. Kearney was great success and was attended by many church members. There were four or five congratulations. There were four or f",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,17 +298,41 @@
         1758
       ],
       "label": "paragraph_title",
-      "text": "MICHIGAN"
+      "text": "MICHIGAN",
+      "status": "ok"
     },
     {
       "bbox": [
         537,
         1758,
+        783,
+        2253
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        538,
+        2260,
         784,
         2490
       ],
       "label": "text",
-      "text": "Lanning, Mich. Jan. 21.\u2014Mrs. W. E. Walker spent the new year in New York, and then in Scott. *Rev. S. T. Boyd of Fort Wayne preached the annual sermon for the first time at the A. M. E. church Sunday, Jan. 2. *Rev. S. T. Boyd, presiding elder of the District church conference at the A. M. E. church. and Mrs. Alexander Lucas have moved to the A. M. E. church street. The home was consecrated by Rev. S. T. Boyd, Aiken C. E. Allen and L. Burst. We wish you the young couple much success and happiness in their new home. The Community Warren, corner of St. Joseph and Logan streets, was the center of attractions and parties and social gatherings. *Master Roosewood ward gave a social to his mother's residence on William street. Benton Marshor, Mich. Jan. 21.\u2014Rev. Will Bruce, D. D. state missionary, was the bishop of D. D. state missionary,"
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        737,
+        38,
+        1078,
+        61
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -232,27 +342,19 @@
         125
       ],
       "label": "doc_title",
-      "text": "JACKSON JOINS STAFF OF NEW YORK BILLBOARD"
+      "text": "JACKSON JOINS STAFF OF NEW YORK BILLBOARD",
+      "status": "ok"
     },
     {
       "bbox": [
         788,
         139,
         1034,
-        213
-      ],
-      "label": "text",
-      "text": "New York, Jan. 21.\u2014Evidence that The Billboard, an old established white) amusement weekly, made no mistake when they added James A. Jackson to their editorial department,"
-    },
-    {
-      "bbox": [
-        789,
-        430,
-        1033,
         644
       ],
       "label": "text",
-      "text": "his first training James Jackson in newspaper work on the Daily News, a home town newspaper, beginning at the newspaper from managing the business end of a theatrical company, a bunk clerk with the Jennings Trust Company of Chicago, we next hit him again in the journalistic field, this time in Detroit. One year with this newspaper, and Jackson, whose versatility has never been questioned, branched out to railroad work, becoming a train dispatcher. This occupation he held for sixteen years, and during the war was attached to the United States Military Intelligence Service, general staff."
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -262,7 +364,8 @@
         651
       ],
       "label": "paragraph_title",
-      "text": "Always Writing"
+      "text": "Always Writing",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +375,8 @@
         898
       ],
       "label": "text",
-      "text": "Jackson never lost his proclivity to write during his varied occupations. Perhaps his two best serial works, both published in the late 19th century, \"The Negro at Large,\" in 1912, and \"The Underlying Cause of Race Riots,\" in 1919. Both of these stories were syndicated by the Globe and quoted extensively by other publications. In 1919, Jackson published of his feature stories have been published during the year by the New York Sun and New York Herald in the magazine section of their Sunday magazine. In 1921, Jackson's work, this writer has collaborated with several well known authors in national magazines and foreign papers. Jackson, who is essentially an observer, investigates the lives of African Americans classed as the best known of our writers among white publications."
+      "text": "Jackson never lost his proclivity to write during his varied occupations. Perhaps his two best serial works, both published in the late 19th century, \"The Negro at Large,\" in 1912, and \"The Underlying Cause of Race Riots,\" in 1919. Both of these stories were syndicated by the Globe and quoted extensively by other publications. In 1919, Jackson published of his feature stories have been published during the year by the New York Sun and New York Herald in the magazine section of their Sunday magazine. In 1921, Jackson's work, this writer has collaborated with several well known authors in national magazines and foreign papers. Jackson, who is essentially an observer, investigates the lives of African Americans classed as the best known of our writers among white publications.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +386,8 @@
         910
       ],
       "label": "paragraph_title",
-      "text": "Groat Organization Man"
+      "text": "Groat Organization Man",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +397,8 @@
         1241
       ],
       "label": "text",
-      "text": "Among the many organizations in which this scribe claims membership are the Association of Trade and Merchants, the Men's Association; the Dressing Room Club, Baltimore Business Men's Exchange, National Business League and the West Harlem Republican Club. He is also a member of the Rite Consistency. Having traveled extensively and formed acquaintances in every state in the Union, as well as in several foreign countries, Jackson is known for his ability which helps to make him a valuable man in every organization with which he is affiliated. His extensive travelling and writings, he is, however, a real homo man, and his wife is his constant associate. Most of his writings have appeared under the nom de famille of his brother serbius and close friends he is known as plain \"Jack,\" a cognomen that seems to suit his fancy. The Billboard, if it has not already been published, is good fortune in adding to its staff a man like James A. Jackson."
+      "text": "Among the many organizations in which this scribe claims membership are the Association of Trade and Merchants, the Men's Association; the Dressing Room Club, Baltimore Business Men's Exchange, National Business League and the West Harlem Republican Club. He is also a member of the Rite Consistency. Having traveled extensively and formed acquaintances in every state in the Union, as well as in several foreign countries, Jackson is known for his ability which helps to make him a valuable man in every organization with which he is affiliated. His extensive travelling and writings, he is, however, a real homo man, and his wife is his constant associate. Most of his writings have appeared under the nom de famille of his brother serbius and close friends he is known as plain \"Jack,\" a cognomen that seems to suit his fancy. The Billboard, if it has not already been published, is good fortune in adding to its staff a man like James A. Jackson.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +408,8 @@
         1266
       ],
       "label": "paragraph_title",
-      "text": "LABOR CONTRASTS"
+      "text": "LABOR CONTRASTS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,17 +419,8 @@
         1335
       ],
       "label": "text",
-      "text": "Reviewing Gold and Armstrong's\nthe Colored people of Chicago, the Daily News commends some of the\npike conclusions says. \"Adversely, the News:"
-    },
-    {
-      "bbox": [
-        786,
-        1271,
-        1034,
-        1572
-      ],
-      "label": "text",
-      "text": "Reviewing Gold and Armstrong's survey of sociological conditions among the Daily News commends some of the ripe conclusions adduced from carefully compiled figures. Says the News: \"It was only by making an ingenious use of statistics gathered both in Chicago and Colored men in Chicago. In the last three years I have reached some interesting conclusions.\" \"Concerning the industrial efficiency of the Negro worker the same report remarks: 'The Negro worker is demonstrating he can make good work.'\" \"The bulk of the workers, however, are still in the poorer paid occupations. In 1919 about 2 per cent of the Negro workers of Chicago were in skilled work about 17 per cent in semi-skilled and about 81 per cent in unskilled.\""
+      "text": "Reviewing Gold and Armstrong's\nthe Colored people of Chicago, the Daily News commends some of the\npike conclusions says. \"Adversely, the News:",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -332,7 +430,8 @@
         2012
       ],
       "label": "text",
-      "text": "\"Concerning the industrial efficiency of the Negro worker the same report remarks: 'The Negro worker is demolished the more profitable occupations. The bulk of the workers, however, are still in the poorer paid occupations. In 1319 about 2 per cent of the Negro workers of Chicago were in skilled labor. The center in semi-skilled and about 81 per cent in uskilled.' While the News is to be congratulated upon its breadth of vision in always seeking the truth without empathy, he added that the race is beceived by any conclusions about the efficiency of Race labor. Astute manufacturers and employers have had a wonderful revelation made to them by the industry that that the only industries that have survived the pro-war production are those in which our labor is liberally employed. This fact has been, we fear, obscured for more reasons than one, and we have reason to believe that a reason. White labor has learned to capitalize the main chance and is taking advantage of the present industrial chaos to demand more wages, labor, exalted in its new estate of recognition, is striving to make its status permanent. In other words, white men are doing manual labor with their hands, and we are doing it with their hands. Weight methods in on the scales of production and see which yields the most. What our labor lacks in efficiency is made up by application and contentment. A statement of the work that we are doing with their hands \"give better and more milk. Why should it not follow that contented labor gives more if not better work? After the destruction and the war and the widespread dearth of resources we are wondering now if volume isn't better to be chosen than quality."
+      "text": "\"Concerning the industrial efficiency of the Negro worker the same report remarks: 'The Negro worker is demolished the more profitable occupations. The bulk of the workers, however, are still in the poorer paid occupations. In 1319 about 2 per cent of the Negro workers of Chicago were in skilled labor. The center in semi-skilled and about 81 per cent in uskilled.' While the News is to be congratulated upon its breadth of vision in always seeking the truth without empathy, he added that the race is beceived by any conclusions about the efficiency of Race labor. Astute manufacturers and employers have had a wonderful revelation made to them by the industry that that the only industries that have survived the pro-war production are those in which our labor is liberally employed. This fact has been, we fear, obscured for more reasons than one, and we have reason to believe that a reason. White labor has learned to capitalize the main chance and is taking advantage of the present industrial chaos to demand more wages, labor, exalted in its new estate of recognition, is striving to make its status permanent. In other words, white men are doing manual labor with their hands, and we are doing it with their hands. Weight methods in on the scales of production and see which yields the most. What our labor lacks in efficiency is made up by application and contentment. A statement of the work that we are doing with their hands \"give better and more milk. Why should it not follow that contented labor gives more if not better work? After the destruction and the war and the widespread dearth of resources we are wondering now if volume isn't better to be chosen than quality.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,7 +441,8 @@
         2028
       ],
       "label": "paragraph_title",
-      "text": "MEANT WHAT HE SAID"
+      "text": "MEANT WHAT HE SAID",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -352,7 +452,8 @@
         2465
       ],
       "label": "text",
-      "text": "New York, Jan. 21.\u2014William Joseph Simmons, imperial wizard of the Ku Klux Klan, who is getting much publicity these days, objects to his organization, being called \"murray chested bigots\" by Assistant District Attorney Talley. Last week, in reply to complaints against the Klan becoming active in the city, the Ku Klux Klan dared them to come here and called the organization chested bigots. A few days ago the stalwart district attorney received a telegram from Simmons, naked if he publicly corrected my report. Mr. Talley himself telegraphed back, \"I correctly quoted and my remarks were directed specifically at your organization.\"\n\nSTATE INDUSTRIAL COMMISSION\nNew York, Jan. 21.\u2014A general overhauling of the State Industrial Commission is said to have been planned by republican leaders. It will be introduced at the next legislature meeting.\n\nThe program will call for a reduction in the number of commissioners, of which there are at present five, and a wholesale of the office employees, of which there are 1,200. The subdivisions which are slated to abolish are said to be the immigration, education and employment bureau, and the bureau will affect the office in Harlem, located at 184 West 135th street."
+      "text": "New York, Jan. 21.\u2014William Joseph Simmons, imperial wizard of the Ku Klux Klan, who is getting much publicity these days, objects to his organization, being called \"murray chested bigots\" by Assistant District Attorney Talley. Last week, in reply to complaints against the Klan becoming active in the city, the Ku Klux Klan dared them to come here and called the organization chested bigots. A few days ago the stalwart district attorney received a telegram from Simmons, naked if he publicly corrected my report. Mr. Talley himself telegraphed back, \"I correctly quoted and my remarks were directed specifically at your organization.\"\n\nSTATE INDUSTRIAL COMMISSION\nNew York, Jan. 21.\u2014A general overhauling of the State Industrial Commission is said to have been planned by republican leaders. It will be introduced at the next legislature meeting.\n\nThe program will call for a reduction in the number of commissioners, of which there are at present five, and a wholesale of the office employees, of which there are 1,200. The subdivisions which are slated to abolish are said to be the immigration, education and employment bureau, and the bureau will affect the office in Harlem, located at 184 West 135th street.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,17 +463,63 @@
         101
       ],
       "label": "paragraph_title",
-      "text": "NEW YORK STATE NEWS"
+      "text": "NEW YORK STATE NEWS",
+      "status": "ok"
     },
     {
       "bbox": [
         1036,
         110,
+        1286,
+        573
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1036,
+        582,
         1287,
+        937
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1036,
+        945,
+        1284,
+        1208
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1038,
+        1216,
+        1286,
+        1797
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1038,
+        1797,
+        1285,
         2059
       ],
       "label": "text",
-      "text": "Mt. Vernon, N. Y., Jan. 21.\u2014Mt. Booker, High street, died Monday. Funeral services were held at Grace Baptist church, Interment was in St. Stephen's Church, Madison, and the ladies of Macedonia Baptist church went to East Vernon Saturday to visit several friends. *Miss Marcelia Washington of New Rochelle visited Mrs. Booker, Miss Washington left for her home in Kingston. N. C., where she will stay until April. *Mr. and Mrs. Tucker, 163 Franklin avenue, were forced to move to the 2800 block of the James Kittel of Catham, N. Y., were transferred to the Stark, a horse track at the Empire race track, who stabbed William Oates in the head recently, was given one year in the county jail by Judge Young.\n\nMount Vernon, N. Y., Jan. 21.\u2014A New year's party was given on New Year's night by Miss Pollards, 150 S. Burlington avenue, and a evening event was spent at the James Kittel of Ca"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -382,17 +529,19 @@
         678
       ],
       "label": "text",
-      "text": "BIRMINGHAM, Ala.\n\nBy Katherine Kent Lambert\n\nBirmingham, Ala., Jan. 21.\u2014The members and friends of Dr. C. L. Fisher are glad to have him return as the pastor of the Sixteenth street Baptist church. After a trial of many different pastors for several years, he is now the pastor of former pastor, who has been pastor of a Baptist church at Hartford, Conn., for over five years. Mr. H. B. Macdonald was hostess to the Twentieth Century Society Workers' Club at her home on 25th Avenue. He was exhibited their finished work. Mrs. H. Hallock of Augusta, Ga., was a guest of the Schoenberg and Harcourt to visit from a visit to her son and daughter at the Harcourt. Ohio, and her mother at Pitbullbury, Pa. Mrs. H. H. Macdonald was hostess to the Sojourner Truth Club at her home on 11th Avenue Tuesday night. Cleveland, Ohio, is visiting his wife for two months. Mrs. W. H. Coleman of Beverly Hills, Calif., and Mrs. G. Smith of French Lick, Ind. Many soils countries have been extended her. Dr. L. U. Goln, who has been ill for\n\nMusic Puts in the\n\nYOU SHOU\n\nPACE & HAN\n\nOn Your Piano, Pho"
+      "text": "BIRMINGHAM, Ala.\n\nBy Katherine Kent Lambert\n\nBirmingham, Ala., Jan. 21.\u2014The members and friends of Dr. C. L. Fisher are glad to have him return as the pastor of the Sixteenth street Baptist church. After a trial of many different pastors for several years, he is now the pastor of former pastor, who has been pastor of a Baptist church at Hartford, Conn., for over five years. Mr. H. B. Macdonald was hostess to the Twentieth Century Society Workers' Club at her home on 25th Avenue. He was exhibited their finished work. Mrs. H. Hallock of Augusta, Ga., was a guest of the Schoenberg and Harcourt to visit from a visit to her son and daughter at the Harcourt. Ohio, and her mother at Pitbullbury, Pa. Mrs. H. H. Macdonald was hostess to the Sojourner Truth Club at her home on 11th Avenue Tuesday night. Cleveland, Ohio, is visiting his wife for two months. Mrs. W. H. Coleman of Beverly Hills, Calif., and Mrs. G. Smith of French Lick, Ind. Many soils countries have been extended her. Dr. L. U. Goln, who has been ill for\n\nMusic Puts in the\n\nYOU SHOU\n\nPACE & HAN\n\nOn Your Piano, Pho",
+      "status": "ok"
     },
     {
       "bbox": [
         1410,
         407,
-        1789,
+        1790,
         678
       ],
       "label": "text",
-      "text": "ic Puts Sunshine in the Home\n\nYOU SHOULD HAVE\n\nC & HANDY'S SONGS\n\nYour Piano, Phonograph and Player"
+      "text": "ic Puts Sunshine in the Home\n\nYOU SHOULD HAVE\n\nC & HANDY'S SONGS\n\nYour Piano, Phonograph and Player",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +551,8 @@
         545
       ],
       "label": "doc_title",
-      "text": "Music Puts Sunshine in the Home"
+      "text": "Music Puts Sunshine in the Home",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,7 +562,8 @@
         701
       ],
       "label": "paragraph_title",
-      "text": "SOME GENUINE SUCCESSES"
+      "text": "SOME GENUINE SUCCESSES",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -422,17 +573,19 @@
         1016
       ],
       "label": "text",
-      "text": "You Can't Keep a Good Man Down\nThat Thing Called Love\nThink of Me, Little Daddy\nPickaninny Rose\nChasing the Blues\n\nFor sale wherever Music, Reco\n\nSend 30 cents for the above me\nsongs by Mamie Smith on Okeh rec\nSend One Dollar and postage.\n\nPace & Handy\nPACE & HAN\n232 W. 46TH ST.,\n\nMAMIE SMIT"
+      "text": "You Can't Keep a Good Man Down\nThat Thing Called Love\nThink of Me, Little Daddy\nPickaninny Rose\nChasing the Blues\n\nFor sale wherever Music, Reco\n\nSend 30 cents for the above me\nsongs by Mamie Smith on Okeh rec\nSend One Dollar and postage.\n\nPace & Handy\nPACE & HAN\n232 W. 46TH ST.,\n\nMAMIE SMIT",
+      "status": "ok"
     },
     {
       "bbox": [
         1410,
         701,
-        1789,
+        1790,
         1016
       ],
       "label": "text",
-      "text": "A Good Man Down I'm Looking All Around for a\ncalled Love Vampire\nLittle Daddy Lovin' Blues\nSaxophone Blues Long Gone From Bowling Green\nForever Music, Records and Player Rolls are sold.\ntions for the above mentioned songs, or sheet music of the\nSmith on Okeh records. Mamie Smith records by mail.\nir and postage.\nQ Handy Music Co., Inc.\nPACE & HANDY BUILDING\nW. 46TH ST., NEW YORK, N. Y.\nTHE SMITH RECORDS"
+      "text": "A Good Man Down I'm Looking All Around for a\ncalled Love Vampire\nLittle Daddy Lovin' Blues\nSaxophone Blues Long Gone From Bowling Green\nForever Music, Records and Player Rolls are sold.\ntions for the above mentioned songs, or sheet music of the\nSmith on Okeh records. Mamie Smith records by mail.\nir and postage.\nQ Handy Music Co., Inc.\nPACE & HANDY BUILDING\nW. 46TH ST., NEW YORK, N. Y.\nTHE SMITH RECORDS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +595,8 @@
         840
       ],
       "label": "text",
-      "text": "Send 30 cents for the above mentioned song, or sheet music of the song which is on the music records. Mamie Smith records by mail. Send One Dollar and postage."
+      "text": "Send 30 cents for the above mentioned song, or sheet music of the song which is on the music records. Mamie Smith records by mail. Send One Dollar and postage.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +606,8 @@
         1009
       ],
       "label": "paragraph_title",
-      "text": "MAMIE SMITH RECORDS"
+      "text": "MAMIE SMITH RECORDS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,27 +617,19 @@
         1104
       ],
       "label": "text",
-      "text": "No. 113 { That Thing Called Love\n  You Can't Keep a Good Man Down\nNo. 114 { Crazy Blues\n  It's Right Here for You\nNo. 115 { Fair the Honey Blues\n  The Road Is Rocky"
-    },
-    {
-      "bbox": [
-        1289,
-        1104,
-        1537,
-        1256
-      ],
-      "label": "text",
-      "text": "We ship two o\ncach and 250 f\norders got pro\nNo. 4134\nMAMID SMITH\nPROF. E. TATE, Prop.\nDirector Vendome Orch. VENDOM\nDON'T FAIL TO VISIT\nSHORR'S PLACES"
+      "text": "No. 113 { That Thing Called Love\n  You Can't Keep a Good Man Down\nNo. 114 { Crazy Blues\n  It's Right Here for You\nNo. 115 { Fair the Honey Blues\n  The Road Is Rocky",
+      "status": "ok"
     },
     {
       "bbox": [
         1410,
         1104,
-        1789,
+        1790,
         2091
       ],
       "label": "text",
-      "text": "We ship two or more records, nothing less. $1.00 each and 25c for postage. Nothing C. O. D. Mail orders got prompt attention. All on rolls except No. 4184. Price $1.25\n\nProp. VENDOME MUSIC SHOP 47 E. 31st St. Chicago, Ill.\n\nVISIT\n\nER'S PLACES OF AMUSEMENT\n\nCERTAINER CAFE\n35TH ST. AT INDIANA AVE.\nBICKLIFFE'S FAMOUS GINGER BAND\nSING THE MUSIC FOR THE DANCING. SOME BAND\nTHE STROLL DON'T FAIL TO VISIT THE POPULAR\nJKE GARDENS, 3503 State St.\nHALS SING\nHEAR THE BAND PLAY\n\nWL THEATRE\nSTATE NEAR 47TH ST.\nFineest Equipped Theatre Outside the Loop\n1200 ROOMY SEATS\nM. JONES AND HIS SELECT ORCHESTRA\nTO MIDNIGHT LAST SHOW STARTS AT 10:30 P. M.\nPOPULAR THEATRE ON THE SOUTH SIDE\n\nMAMMOND & SONS\nDOME THEATER\n3143-49 STATE ST.\n\nTABLE SEATS MAMMOTH PIPE ORGAN\nKINE TATE'S SYMPHONY ORCHESTRA\n\nMidnight FEATURES FINEST THEATER IN CHICAGO\n\nTES THEATRE\n3507 STATE STREET\n\nTHE HOME OF GREAT FEATURES\nHouse Outside Loop. Continuous 2 P. M. to Midnight\nE. M. WYER'S STATES ORCHESTRA\n\nOXFORD THEATRE\n55th Street and Michigan Avenue\nHe H. Blach's Symphony Orchestra\nUNTED PHOTO-PLAYS of CLASS"
+      "text": "We ship two or more records, nothing less. $1.00 each and 25c for postage. Nothing C. O. D. Mail orders got prompt attention. All on rolls except No. 4184. Price $1.25\n\nProp. VENDOME MUSIC SHOP 47 E. 31st St. Chicago, Ill.\n\nVISIT\n\nER'S PLACES OF AMUSEMENT\n\nCERTAINER CAFE\n35TH ST. AT INDIANA AVE.\nBICKLIFFE'S FAMOUS GINGER BAND\nSING THE MUSIC FOR THE DANCING. SOME BAND\nTHE STROLL DON'T FAIL TO VISIT THE POPULAR\nJKE GARDENS, 3503 State St.\nHALS SING\nHEAR THE BAND PLAY\n\nWL THEATRE\nSTATE NEAR 47TH ST.\nFineest Equipped Theatre Outside the Loop\n1200 ROOMY SEATS\nM. JONES AND HIS SELECT ORCHESTRA\nTO MIDNIGHT LAST SHOW STARTS AT 10:30 P. M.\nPOPULAR THEATRE ON THE SOUTH SIDE\n\nMAMMOND & SONS\nDOME THEATER\n3143-49 STATE ST.\n\nTABLE SEATS MAMMOTH PIPE ORGAN\nKINE TATE'S SYMPHONY ORCHESTRA\n\nMidnight FEATURES FINEST THEATER IN CHICAGO\n\nTES THEATRE\n3507 STATE STREET\n\nTHE HOME OF GREAT FEATURES\nHouse Outside Loop. Continuous 2 P. M. to Midnight\nE. M. WYER'S STATES ORCHESTRA\n\nOXFORD THEATRE\n55th Street and Michigan Avenue\nHe H. Blach's Symphony Orchestra\nUNTED PHOTO-PLAYS of CLASS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +639,19 @@
         1157
       ],
       "label": "text",
-      "text": "We ship two or more records, nothing less. $1.00\neach and 25c for postage. Nothing C. O. D. Mail\norders get prompt attention. All on rolls except\nNo. 4184\nPrice $1.25"
+      "text": "We ship two or more records, nothing less. $1.00\neach and 25c for postage. Nothing C. O. D. Mail\norders get prompt attention. All on rolls except\nNo. 4184\nPrice $1.25",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1289,
+        1137,
+        1537,
+        1294
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -502,7 +661,8 @@
         1597
       ],
       "label": "text",
-      "text": "ALREENCE M. JONES AND HIS SELECT ORCHESTRA\nDAILY, 6 P. M. TO MIDNIGHT LAST SHOW STARTS AT 10:30 P. M.\nMOST POPULAR THEATRE ON THE SOUTH SIDE"
+      "text": "ALREENCE M. JONES AND HIS SELECT ORCHESTRA\nDAILY, 6 P. M. TO MIDNIGHT LAST SHOW STARTS AT 10:30 P. M.\nMOST POPULAR THEATRE ON THE SOUTH SIDE",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +672,8 @@
         1731
       ],
       "label": "text",
-      "text": "1500 COMFORTABLE SEATS MAMMOTH PIPE ORGAN\nERSKING TATE'S SYMPHONY ORCHESTRA"
+      "text": "1500 COMFORTABLE SEATS MAMMOTH PIPE ORGAN\nERSKING TATE'S SYMPHONY ORCHESTRA",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,17 +683,19 @@
         2079
       ],
       "label": "text",
-      "text": "THE HOME OF GREAT FEATURES\nFinest Picture House Outside Loop. Continuous 2 P. M. to Midnight\nE. M. WYER'S STATES ORCHESTRA\nPICKFORD THEATRE\n35th Street and Michigan Avenue\nClarence H. Black's Symphony Orchestra\nSELECTED PHOTO-PLAYS of CLASS"
+      "text": "THE HOME OF GREAT FEATURES\nFinest Picture House Outside Loop. Continuous 2 P. M. to Midnight\nE. M. WYER'S STATES ORCHESTRA\nPICKFORD THEATRE\n35th Street and Michigan Avenue\nClarence H. Black's Symphony Orchestra\nSELECTED PHOTO-PLAYS of CLASS",
+      "status": "ok"
     },
     {
       "bbox": [
         1410,
         2122,
-        1789,
+        1790,
         2330
       ],
       "label": "text",
-      "text": "VAUDETTE E. B. Dudley Proprietor\nDENT BOOKING\u2014ACT, SEND IN OPEN TIME\nLVILLE and PICTURES\nCLARENCE LEE'S ORCHESTRA\nNOT AVENUE DETROIT, MICH."
+      "text": "VAUDETTE E. B. Dudley Proprietor\nDENT BOOKING\u2014ACT, SEND IN OPEN TIME\nLVILLE and PICTURES\nCLARENCE LEE'S ORCHESTRA\nNOT AVENUE DETROIT, MICH.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -542,17 +705,30 @@
         2298
       ],
       "label": "text",
-      "text": "THE VAUDETTE E. B. Dudley Proprietor INDEPENDENT BOOKING\u2014ACT, SEND IN OPEN TIME VAUDEVILLE and PICTURES CLARENCE LEE'S ORCHESTRA GRATIOT AVENUE DETROIT, MICH."
+      "text": "THE VAUDETTE E. B. Dudley Proprietor INDEPENDENT BOOKING\u2014ACT, SEND IN OPEN TIME VAUDEVILLE and PICTURES CLARENCE LEE'S ORCHESTRA GRATIOT AVENUE DETROIT, MICH.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1304,
+        1021,
+        1427,
+        1137
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         1541,
-        81,
+        45,
         1788,
         150
       ],
       "label": "text",
-      "text": "several weeks, is able to be at his office because he is a party named Wells, who wrote me.com-counselor, denom. write again? I lost the letter and cannot communicate with you.\u2014K. K. Bennett"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -562,7 +738,8 @@
         170
       ],
       "label": "paragraph_title",
-      "text": "IDAHO"
+      "text": "IDAHO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -572,7 +749,19 @@
         400
       ],
       "label": "text",
-      "text": "Pocatello, Idaho, Jan. 31.\u2014In the general drive that ended last Sunday at the Baptist Church the following parties met: E. Harris; $100; Dora Peter, 465; M. Harris; $12; Mrs. M. Houghs, 45; Mrs. G. Jones, 45; Mrs. M. Houghs, 45;"
+      "text": "Pocatello, Idaho, Jan. 31.\u2014In the general drive that ended last Sunday at the Baptist Church the following parties met: E. Harris; $100; Dora Peter, 465; M. Harris; $12; Mrs. M. Houghs, 45; Mrs. G. Jones, 45; Mrs. M. Houghs, 45;",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1769,
+        410,
+        1790,
+        959
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -582,7 +771,8 @@
         2122
       ],
       "label": "text",
-      "text": "OWNER OF PICKFORD, PHOENIX\nAND VENDOME THEATER"
+      "text": "OWNER OF PICKFORD, PHOENIX\nAND VENDOME THEATER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -592,7 +782,8 @@
         2483
       ],
       "label": "text",
-      "text": "PHOENIX THEATRE\n9104 STATE STREET\nELECTED PHOTO-PLAYS\nCHANGED DAILY\nContinuous 2:45 p. m. to Midnight\nBenjamin Turner, Musical Director\nWashed Air Ventilation"
+      "text": "PHOENIX THEATRE\n9104 STATE STREET\nELECTED PHOTO-PLAYS\nCHANGED DAILY\nContinuous 2:45 p. m. to Midnight\nBenjamin Turner, Musical Director\nWashed Air Ventilation",
+      "status": "ok"
     }
   ]
 }

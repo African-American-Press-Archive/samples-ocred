@@ -1,31 +1,6 @@
 THE. High Brown, Lincoln Brunette, Pink and White Face Powders. Also Ro-Zol and High Brown Face Bleach, Medicated Cucumber and High Brown Soaps. These articles are manufactured by a well-known Eastern Negro firm. These articles are manufactured from the best material by experienced people and are free from irritating and objectionable properties usually found in such articles. Phone Main 7635 mornings before 10 o'clock, or drop card 2925 Glenarm
 
-Send an old magazine to Dr. H. H. Jones, Missionary to Klay, t.iberia and Africa, and help him to enjoy his work. Hear the Macedonian cry.
-
-Max M. Ship
-The Ta
-is now located at 800 Phone York
-Work Called For
-With each order a
-or Necktie Clean
-Down Town Price
-GUARANTEED
-Class LADIES
-Special for Xmas. M.
-$45 Suits $18 to $25
-Ladies' Suits from $25
-from $35 to $45.
-
-Phone Champa
-KEYST
-SOCIAI
-Everything for
-of Gent
-BUFFET CO
-1859 CHAMFA
-[or 910
-SYL. STEW
-JAS. F. CL
+Send an old magazine to Dr. H. H. Jones, Missionary to Klay, liberia and Africa, and help him to enjoy his work. Hear the Macedonian cry. 20-t
 
 ## Max M. Silverman The Tailor
 
@@ -43,18 +18,61 @@ Phone Champa 1379
 KEYSTONE
 SOCIAL CLUB
 
-Everything for the Pleasure
-of Gentlemen.
+Phone
+K
+SO
+Everyu
+
+BUF
+1859 C
+
+SYL
+JAS
+
+Everything for the Pleasure of Gentlemen.
 
 BUFFET CONNECTED
-
-1859 CHAMPA STREET
-
+1859 CHAMFA STREET
 [or 910 19th STREET]
+SYL. STEWART, Pres.]
+JAS. F. CLARK, Mgr.
 
 PHNOE MAIN 6612
 
 Fine Repairing a Specialty
+
+## J. Q. BROWN
+
+tittleable
+red on
+VE.
+Sewed Soles, - 65c and 75c
+Ladies' Rubber Heels, 35c
+Men's " " 40c-50c
+426 15TH STREET
+RS OF A GARMENT
+
+NINE PRAYERS OF A
+
+## NINE PRAYERS OF A GARMENT
+
+for what your vocation you cannot afford to soiled and unpressed and pressed clothes aid in audience in bus- well as in society. Double my life by tak-ight care of me. Cleaning or pressing bring me or tele- this original tailor er. He knows how me. And me to an amatuer, is trying to learn the time; he will kill me, my time expires. And and cleaner will you with his low price and first-class work anyhow, for my sake give him a trial, and I am sure that you will always bring me to his shop. If am born white or any light shade don't put any perfumes on my outside, for you will spot me for life. If you notice a little tear on me, don't delay. You know a little tear will grow larger: send me to his shop immedi- ately. If you want to make me to order, also give him a trial. He is a tailor for over 22 years and he knows my anatomy from "A to Z."
+
+Suits Sponged and Pressed for 35 Cents
+
+Dry or Steam Cleaned Gowns, [Ladies' Suits, etc., $1.00
+
+French Dry or Steam Cleaned Dresses, Gowns, |Ladies' Suits, etc.,
+
+We also clean furs, portiers, waists, call for and deliver. Phone Main 2
+
+The Southern Taile Cleaning W
+
+iers, waists, gloves, hats etc. Will one Main 2091. 2144 Stout street Bn Tailoring and ning Works
+
+We also clean furs, portiers, waists, gloves, hats etc. Will call for and deliver. Phone Main 2091. 2144 Stout street The Southern Tailoring and Cleaning Works
+
+M. J.
 
 ## Paris City Cleaning Works
 
@@ -65,12 +83,6 @@ P. J. Porter, J. R. Jackson
 601 W. ELEVENTH AVE.
 Phone Main 2033
 
-RS OF A GARMENT
-
-NINE PRAYERS OF A
-
-## NINE PRAYERS OF A GARMENT
-
 No matter what your vocation in life, you cannot afford to keep me soiled and unpressed Clean and pressed clothes aid you to gain audience in business as well as in society.
 
 If I need cleaning or pressing or repairing bring me or telephone to this original tailor and cleaner. He knows how to handle me.
@@ -79,38 +91,10 @@ Don't send me to an amatuer, when he is trying to learn the trade on me; he will
 
 This tailor and cleaner will satisfy you with his low price
 
-If you notice a little me, don't delay. Ye a little tear will grow send me to his shop ately.
-
-If you want to make order, also give him. He is a tailor for over and he knows my from "A to Z."
-
-Suits Sponged and Pressed for 35 Cents
-
-French Dry or Steam Cleaned Dresses, Gowns, Ladies' Suits, etc., $1.0
-
-We also clean furs, portiers, waists, gloves, hats e call for and deliver. Phone Main 2091. 2144 Sto
-
-The Southern Tailoring and Cleaning Works
-
-ners, waists, gloves, hats etc. Will one Main 2091. 2144 Stout street
-n Tailoring and
-ing Works
-
-We also clean furs, portiers, waists, gloves, hats etc. Will call for and deliver. Phone Main 2091. 2144 Stout street The Southern Tailoring and Cleaning Works
-
-SYL. STEWART, Pres. JAS. F. CLARK, Mgr.
-
-## J. Q. BROWN
-
-Sewed Soles, - 65c and 75c
-Ladies' Rubber Heels, 35c
-Men's " " 40c-50c
-426 15TH STREET
-
-and first-class work anyhow, for my sake give him a trial, and I am sure that you will always bring me to his shop. If am born white or any light shade don't put any perfumes on my outside, for you will spot me for life. If you notice a little tear on me, don't delay. You know a little tear will grow larger: send me to his shop immediately. If you want to make me to order, also give him a trial. He is a tailor for over 22 years and he knows my anatomy from "A to Z."
-
 # CITY NEWS
 
-MEETINGS OF THE CARNATION ART CLUB.
+MEETINGS OF THE CARNATION
+ART CLUB.
 
 Mrs. Barnes, 2938 Glenarm Place,
 Feb. 27.
@@ -124,14 +108,7 @@ Mrs. Edison, 1402 E. 24th Ave., March
 Mrs. Lampkins, 1760 Downing Ave.,
 April 3.
 Miss Jennie Smith, 1760 Downing
-Ave., April 10.
-Mrs. Taylor, 523 E. 12th Ave., Apr. 17.
-Mrs. Fletcher, 1019 Logan, April 24.
-
-Mrs. Brusard, 768 Navajo, March 20.
-Mrs. Edison, 1402 E. 24th Ave., March 27.
-Mrs. Lampkins, 1760 Downing Ave., April 3.
-Miss Jennie Smith, 1760 Downing Ave., April 10.
+Ave. April 10.
 
 Mrs. Taylor, 523 E. 12th Ave, April 17.
 Mrs. Fletcher, 1019 Logan, April 24.
@@ -145,9 +122,7 @@ Miss Ethel Miner, who is now with the Williams' Jubilee singers, is creating a d
 
 ## STUBBORN, ANNOYING COUGHS CURED.
 
-STUBBORN, ANNOYING COUGHS CURED.
-
-'My husband had a cough for 15 years and my son for eight years. Dr. King's New Discovery completely cured them, for which I am most thankful,' writes Mrs. David Moor, of Saginaw, Ala. What Dr. King's New Discovery did for these men, it will do for you. Dr. King's New Discovery should be in every home. Stops hacking coughs, relieves la gripe and all throat and lung ailments. Money back if it fails. All druggists. Price 50c, and $1.00.
+"My husband had a cough for 15 years and my son for eight years. Dr. King's New Discovery completely cured them, for which I am most thankful" writes Mrs. David Moor, of Saginaw, Ala. What Dr. King's New Discovery did for these men, it will do for you. Dr. King's New Discovery should be in every home. Stops hacking coughs, relieves la gripe and all throat and lung alliments. Money back if it fails. All druggists. Price 50c, and $1.00.
 
 H. E. Bucklen & Co., Philadelphia or St. Louis.
 
@@ -176,7 +151,7 @@ The Boulder news items report Mrs. Jack Morrison as being seriously ill. Mrs. Go
 
 ## HORRIBLE BLOTCHES OF ECZEMA
 
-Quickly cured by Dr. Hobson's Eczema Ointment. C. P. Caldwell, of New Orleans, La., states: "Mr. doctor advised me to try 'Dr. Hobson's Eczema Salve'. I used three boxes of Ointment and three cakes of Dr. Hobson's Derma Zema Soap. Today I have not a spot anywhere on my body and can say I am cured." It will do the same for you. Its soothing, healing, antiseptic action will rid you of all skin humors, blackheads, pimples, eczema blotches, red, unsightly sores, and leaves your skin clean and healthy. Get a box today. Guaranteed. All drummets, 50c., or by mail. Pfeiffer Chemical Co., Philadelphia and St. Louis
+Quickly cured by Dr. Hobson's Eczema Ointment. C. P. Caldwell, of New Orleans, La., states: "Mr. doctor advised me to try 'Dr. Hobson's Eczema Salve.' I used three boxes of Ointment and three cakes of Dr. Hobson's Derma Zema Soap. Today I have not a spot anywhere on my body and can say I am cured." It will do the same for you. Its soothing, healing, antiseptic action will rid you of all skin humors, blackheads, pimples, eczema blotches, red, unsightly sores, and leaves your skin clean and healthy. Get a box today. Guaranteed. All druggists, 50c., or by mail. Pfeiffer Chemical Co., Philadelphia and St. Louis.
 
 THE GRAND THEATRE'S WEEKLY
 PROGRAM.
@@ -219,74 +194,84 @@ Mrs. James Clay of Boulder was called to Alamosa, Colo., on account of the serio
 
 The Self-Improvement Social club has issued invitations to a formal reception and dance at Fern Hall, Feb. 24.
 
-May Start Mercantile Concern Again. John H. Atkins, former head of the Metropolitan Mercantile and Realty company, which failed a few years ago, is making an attempt to reorganize the concern, which has had branches in Baltimore and other cities. In speaking of the affairs of the defunct company Mr. Atkins is reported as saying that the concern received (presumably) in money for stock. $455,000; that $100,080 was lost on the building the company had in Forty-sixth street, New York, and that the stockholders owed the company about $200,000.
+May Start Mercantile Concern Again.
+John H. Atkins, former head of the Metropolitan Mercantile and Realty company, which failed a few years ago, is making an attempt to reorganize the concern, which has had branches in Baltimore and other cities. In speaking of the affairs of the defunct company Mr. Atkins is reported as saying that the concern received (presumably) in money for stock, $455,000; that $100,080 was lost on the building the company had in Forty-sixth street, New York, and that the stockholders owed the company about $200,000.
 
 WE Install all kinds of Electring Wiring on EASY TERMS
 $5 DOWN and $1 A WEEK
 Colorado Electric Wiring Co.
-515 18th Street
+515 . 18th Street
 Phone Main 2598
 
 WATCH THIS SPACE
 next issue for announcement
-
 Grand Official
 Easter Monday
 Informal Ball
 TO BE AT FERN HALL
+
+---
 
 PHONE MAIN 6123
 DAY OR NIGHT
 THE DOUGLASS
 UNDERTAKING
 COMPANY
+
+Marrages
+Occasions:
+
 Parlors 1830 A
 
-White Swan Drug
+White Swan Drum
 Successors to
-Hamilton Drug Comp
-or Hotel 27th and
+Hamilton Drug Company
+For Hotel 27th and 28th
+
 The Brightest pot at Five Points
-Everything the Best and Just a Little Cheapest Delivery Service in the
-Main 2305--Get It?
+Everything the Best and Just a Little Cheapest Delivery Service in the Main 2305--Get It?
 
 SANITARY
-THES CLEAN
+WETS CLEANER
 WE PLEASE THE BEST DRESSERS
 SPECIAL PRICE LIST
-Agent's Suits Steam or Dry Cleaner
+Event's Suits Steam or Dry Cleaner
 Cleaned and Pressed,
-Pressed and Pressed'
-d and Pressed,
-d and Pressed,
-Ratisfaction Guaranteed to Every Customer
+Cured and Pressed'
+Cured and Pressed,
+Cured and Pressed,
+
+Missaction Guaranteed to Every Customer
 N 1800 2622 WELTC
 Call and Deliveries Made
 
 THE
-ACEO CAL
-e Cream, Soda Fountain Drinks
+ACEO CAB
+The Cream, Soda Fountain Drinks
 Short Order Meals at all hours
 the place for Ladies and Ge
 F. S. DENTON, Prop.
 
 Ambulance and Carriages
-Furnished for All Occasions:
+Furnish id for All Occasions.
 
 The White
+
 The Hamilt
 New Baxter Hotel
+
 The Bright
 Everything the B
 The Fastest Del
+
 Any Time Main
 
-SAY
+SAF
 CLOTHES
 WE PLEASE
-SPECIAL
+SPECI
 Ladies' and Gent's Suits,
-Overcoats Cleaned and L
+Overcoats Cleaned and
 Dresses Cleaned and Pro
 Skirts Cleaned and Press
 Suits Sponged and Press
@@ -294,6 +279,7 @@ Suits Sponged and Press
 Satisfaction Gu
 
 PHONE MAIN 1800
+
 Call an
 
 ## The White Swan Drug Co.
@@ -420,10 +406,11 @@ MOVING
 Team Work
 
 GUARANTEED
+
 Stand
+
 27th and Welton Sts.
 
 ton, Pres. and Treas.
-cery Store
 
 DENVER, COLO.

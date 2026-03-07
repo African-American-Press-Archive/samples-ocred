@@ -1,10 +1,32 @@
 # AGED WOMAN IN FIGHT TO RECOVER OIL LAND FROM WEALTHY FIRMS
 
-Muskogee, Okla., April 11—“Aunt Peegy” Woodward, 55 years old, still fighting to keep possession of the land allotted to her of the public domain of the Creek nation, met the enemy in force and though the winced goddess did not perch upon Aunt Peegy's standard, neither did she perch among the numerous banners of the aged women's opponents. The case was tried before E. A. Summers, district judge.
+"you ain't quittin' me
 
-Aunt Peegy, it developed in the testimony, had made three mortgages in 1900 and 1907, one for $500, one for $500 and one for $85.80 to cession and to ten more months more to take up the two instruments and did take them up. The item of $85.80 she was to pay in installments of $10 per month.
+without two weeks notice"
+and
+"It takes a brownskin man to make a high yellow blue"
 
-In force the Arkansas statute then in force 20 days' notice was all that was required in foreclosure proceedings, and whether this manner the woman understood its purport is not clear. At any rate the land, alleged to have been worth $10,000, was sold for $40 under one of these trust
+HERE'S a wrangle by George Williams and Bessie Brown with Alexander Brown reaching for the keys on the piano. Move down to Mr. Columbia Dealer now and buy this record—just say
+
+Columbia Record
+14011D
+
+The finest talent among colored artists records exclusively for Columbia. You are always sure to find just the music you want—as you want it—at the Columbia Dealer's store.
+
+Columbia
+New Process
+Columbia Phonograph Co., Inc.
+New York
+
+Columbia Records
+
+AGED WOMA TO RECOVE FROM WE
+
+Muskogee, Okla., April 11—"Aunt Peggy" Woodward, 55 years old, still fighting to keep possession of the land allotted to her of the public domain of the Creek nation, met the enemy in force and though the wicked goddess did not perch upon Aunt Peggy's standard, neither did she among the numerous banches of the aged women enforcers. The case was tried before E. A. Summers, district judge.
+
+Aunt Peggy, if developed in the testimony, had made three mortgages in 1906 and 1907, one for $500, one for $550 and one for $8.50 to Pearson and Tadakii, she borrowed enough more to take up the first two instruments and did take them up. The item of $8.50 she was to pay in installments of $10 per month.
+
+Under the Arkansas statute then in force 20 days' notice was all that was required in foreclosure proceedings. The Arkansas law notice was given in such a way that the woman understood its purport is not clear. At any rate the land, alleged to have been worth $10,000, was sold for $40 under one of these trust
 
 ## Fifteen Attorneys
 
@@ -25,9 +47,13 @@ INSIST! Unless you see the "Bayer Cross" on tablets you are not getting the genu
 which contains proven directions
 Handy "Bayer" boxes of 12 tablets
 Also bottles of 24 and 100—Druggists
-Asprin is the trade mark of Bayer Man-
+Aspirin is the trade mark of Bayer Man-
 ufacture of Monoaceticacideater of Salicylicacid
-"you quitt
+
+"you
+quitt
+without
+two weeks
 
 sideration, to which the Prairie Oil & Gas company interposed the statute of limitation, the attorney, Corbett and the woman, an angled trial, and has announced that he will carry the case that he was wrongfully accused of that the statue did not begin running until Aunt Feggy had knowledge of the facts, and that the suit was brought to her understanding. Aunt Feggy is still living on the land and says she will continue to work with anyone who attempts to oust her.
 
@@ -35,11 +61,32 @@ As the case stands now Aunt Peggy is to receive about $500 in money, retain the 
 
 ## ASSOCIATION MEETS TO STUDY LIFE AND HISTORY OF RACE
 
-Philadelphia, Pa., April 11. The spring conference of the Association for the Study of Negro Life and History was held in this city Thursday and Friday, April 3 and 4, alternately at the Y. M. C. A. and A. M. E. Church.
+Philadelphia, Pa., April 11—The spring conference of the Association for the Study of Negro Life and History was held in this city Thursday and Friday, April 3 and 4, alternately at the Y. M. C. A. and A. M. E. church.
 
-Thursday morning was occupied by registration of delegates, introduction of visitors and receiving reports from the field, including Negro foliore, schools and clubs and co-operative efforts. Thursday afternoon a committee reported on the Research association, which included fields investigated, work now being presented, projects accepted and plans for other efforts. An address was made in Allen A. M. E. church in the eventation of Negroes to the Southwest from 1830 to 1850. "Prof. C. H. Wesley spoke on 'The Economic Development of Negroes' and 'The Significance of Negroes to the Southwest from 1830 to 1850.' Dr. R. C. Woods, on 'The Significance of the Association to the Race.' Friday in the morning at the Y. M. C. E church in the eventation of Negroes took place: "Certain Preliminary Results of a Study of Negro-White Crossing,' by Dr. Melleville J. Herskovitz of 1860'; Dr. R. C. Woods, on 'The Significance of the Association to the Race.' A discussion followed by J. H. Robinson, Forrester B. Washington spoke on 'Program Light' The Council contribution to Civilization; Dr. George E. Haynes on "The Development and Meaning of the Interracial Movement of Negroes" The Council contribution
+Thursday morning was occupied by registration of delegates, introduction of visitors and receiving reports from the field, including Negro folklore, schools and clubs and co-operative efforts. Thursday afternoon a committee reported on the Research association, which included the MSR, the office being presented, projects accepted and plans for other efforts. An address was made in Allen A. M. E. church in the evening by A. A. Taylor on "The Movement of Negroes to the Southwest," which was being presented by Wesley spoke on "The Economic Status of the Negro from 1850 to 1860"; Dr. R. C. Woods, on "The Significance of the Association to the
+
+Friday in the morning at the Y. M. C. A. the following discussions took place: Gerald (Preliminary Results of Study) in her room, Dr. M. Leville J. Herskovitz; "The Present Economic Status of the Negro" by Charles S. Johnson. A. M. Leville J. Herskovitz and S. Johnson. Forrester B. Washington spoke on "A Program of Social Work for Negroes in the Light of Their Contribution to Civilization"; Dr. George W. Leville J. Herskovitz and Meaning of the Interracial Movement"; Prof. R. T. Kerlin on "The Negro's Creative Genius"; Friday evening at Allen House; Dr. Michael A. Leville J. Herskovitz and Points of View in African Scholarship; L. Hollonworth Wood on "Some Happy Results of Race Contact; Mrs. Nannie H. Burroughs on We Should Know Negro History." This association has directed the attention of investigators to Negro titles and documents giving facts which are generally unknown; it has had a number of young men trained in methods of research at accredited society are; J. B. Hawkins, president; S. W. Rutherford, secretary and treasurer; Carter G. Woodson, director. The association collects sources and publishes books on Negro life and history, promotes the study of Negro life and history through clubs and schools, and brings about harmony acquaintance the one with the other.
+
+Do You Know That As Poro Agents thousands of Race Women are happy and prosperous through their PORO profits?
+
+Homes Are Being Acquired!
+Children Are Being Schooled!
+Families Are Being Provided For!
 
 This same opportunity exists for you. For right now, there are openings for ambitious women as our representatives to supply the great demand for PORO Treatments, PORO Products and teach the PORO SYSTEM.
+
+PORO COLLEGE or a nearby PORO AGENT will teach you the PORO SYSTEM OF SCIENTIFIC HAIR AND BEAUTY CULTURE at surprisingly small cost and show you how.
+
+You Make Handsome Profits Right in Your Own Home
+
+IT WILL PAY YOU TO ACT PROMPTLY
+
+WRITE TODAY
+
+PORO COLLEGE
+4300 St. Ferdinand Avenue
+ST. LOUIS, MO., U. S. A.
+DEPT. C-6
 
 ## Man's Hand Is Cut Off; Dies From Gangrene
 
@@ -49,12 +96,16 @@ An operation was performed by Dr. P. B. Hammond, the company's physician, and th
 
 # "NOT GUILTY" IS JURY'S VERDICT IN BENSON CASE
 
-A jury in the criminal court room of Judge Harry Lewis returned a verdict of not guilty Monday afternoon in favor of Walter Benson, 22, 3539 Vernon Ave., who was on trial for the murder of John Blane, a white druggist, who was stabbed to death at 35th St and Indiana Ave. while on a southbound Indiana Ave. car, June 16, 2022. Benson was represented by Attorney Wendell E. Green. According to the testimony of the street car conductor, William Helenius, 35th St. Honore St., Blane, 3544 Michigan Ave., and John Benson, 35th St. and Michigan Ave., boarded the car at 31st and Indiana. After the car had crossed 31st St. and bounded a man of color bound and held the car at 35th St. and bounded the car at 31st and India
+A jury in the criminal court room of Judge Harry Lewis returned a verdict of not guilty Monday afternoon in favor of Walter Benson, 22, 3539 Vernon Ave., who was on trial for the murder of John Blane, a white druggist, who was stabbed to death at 35th St. and Indiana Ave. while on a southbound Indiana Ave. June 16, 2022. Benson was represented by Attorney Wendell E. Green. According to the testimony of the street conductor, William Blane, at 35th St. and Blane, who operated a drug store at 35th St. and Michigan Ave., boarded the car at 35th and Indiana. After the car of color boarded it and had difficulty in getting on because, the man claimed, Blane endeavored to keep him off. He told an argument between the two men and when the car reached 35th St. the man, who had gone to the rear platform, renewed and struck him, according to the conductor. Then the man drew a knife and stabbed Biane to death. The former escaped. On June 15, 2023, Benson was arrested by the Cottage Grove Ave. police, and positively identified by Grantee Jones (white) to the conductor, who partially identified Biane as the stabbing of Biane, as the man who committed the crime. Jones' testimony was the same as that of the conductor, who partially identified Biane as the slayer of the druggist. Policeman John Brody, one of the officers who arrested Benson, stated that he was the conductor, his sister, Mrs. Luella Williams, 3539 Washaburg Ave. told the police that on the night the druggist was slain Benson came home with his hands covered.
+
+Benson's plea was not guilty. He declared he did not stab Blane and had never had any trouble with anyone on a street car that night, nor did he have anything to where he was on at that night he said he "couldn't remember." Attorney Green based his defense of Benson on mistaken identity. This was the second trial of Benson and he was found that resulted in a hung jury, nine for conviction and three for acquittal, after deliberating 22 hours.
 
 ## RAILROAD WORKER IS
 KILLED SHOVELING SNOW
 
 Jersey City, N. J., April 11 — James Campbell, 43, a laborer, was instantly killed while shoveling snow in the Central Railroad yards at Community趴 at 3 o'clock last Wednesday morning. employees in engine of George Sinclair, engineer, and George Shane, conductor, ran him down. The dead man lived in Central Railroad Camp No. 18 at the foot of Clamrove Ave.
+
+THE CHICAGO DEFENDER
 
 # GUNS FLOOD IN CITY OF KU KLUX
 
@@ -85,30 +136,49 @@ When filed the will was contested by Mrs. Virginia W. Armstrong, also city, a si
 
 # PISTOLS BLAZE IN DARK ALLEY; ONE IS KILLED
 
-Syrnease. N. Y., April 11. —Bud Wilson, who is believed to have killed Alonzo Brown in a pistol battle in the early morning at the side of 128° E. Water St., will recover, it was said at the Hospital of the Good Shepherd. The district attorney is invading the hospital which resulted in the death of Brown and serious injury to Wilson, and it is likely a charge of manslaughter will be accepted, when he is released from the hospital. Police are still combing the city in an effort to find the unidentified man who is alleged to have been killed in a collision of stances surrounding the death fight. His name is known to the police. According to the police the fight is the culmination of a deadly feud between Wilson and Brown. **TWO HELD ON CHARGE**
+Syrneuse, N. Y., April 11.--Bul Wilson, who is believed to have killed Alonzo Brown in a pistol battle night at the side of 112 E. Water St., will recover, it was said at the Hospital of the Good Shepherd. It is investigating the light which resulted in the death of Brown and serious injury to Wilson, and it is likely a charge of manslaughter will be obtained when he is released from the hospital. Police are still combing the city in an effort to find the undeniable cause, which is acquainted with all the circumstances surrounding the death light. His name is known to the police, and he is expected to be the culmination of a deadly feud between Wilson and Brown.
 
 ## TWO HELD ON CHARGE
 
 OF RIFLING U. S. MAILS
-Philadelphia, Pa., April 11-Julius
+Philadelphia, Pa., April 11—Julius
 Atwater of Sharwood St. near 20th,
-and Julius Galloway of Galloway,
-for riftlining the United States mails. Both were
-hold under bonds of $500 for a further
-hearing by United States Commissioner Manley.
+and Julius Galloway of Reed St. were
+held in the National Gallery of Fine
+Art in the United States mails. Both were
+held under bonds of $500 for a fur-
+ther hearing by United States Commis-
+sioner Manley.
+
 BREAK STORE WINDOW
 Philadelphia, Pa., April 11—The
-four men escaped with an adding
-a prominent clubman, was smashed Tuesday evening by two
+font windows of the gallery of Fine
+Art in the National Gallery clubman, was
+smashed Tuesday evening by two
 men who escaped with an adding
-machine, and office
-contributed value at $112.
+machine, check protector and office
+equipment valued at $112.
 
-Night's Tonic — fresh air, good sleep and an NR Tablet to make your days bitter.
+TO NIGHT
+TomorrowAlright
+Night's Tonica—fresh air, a good
+sleep and an NR Tablet to make your
+day bright.
+Nature's Remedy (NR Tablets)
+exerts a beneficial influence on the
+digestive system—the
+Stomach, Liver and Bovies.
+Tonight—take an NR Tablet—its
+beauty will you be dolefully purified.
 
-Nature's Remedy (NR Tablets) — a digestive and eliminative system — the Stomach, Liver and Bowels.
-
-Tonight — take an NR Tablet — its design is so different you will be delighted.
+Used for over 70 years
+Malted Rumy
+Chips off the Old Block
+MR JUNIORS—Little Ma
+Malted Rumy
+Made of same ingredi-
+ents, then candy coated.
+For children and adults.
 
 # OVER HUNDRED THOUSAND RACE GIRLS AND WOMEN ARE NOW USING G. F. P.
 
@@ -116,15 +186,9 @@ DEMAND FOR NEW MASTER OF WOMAN'S TROUBLES SO TREMENDOUS AND IS SPREADING TO ALL 
 
 HARDLY BELIEVABLE THAT A MEDICINE UNHEARD OF A SHORT WHILE AGO SHOULD BECOME SO POPULAR IN SUCH A SHORT TIME, BUT ACTUAL SALES PROVE IT TRUE.
 
-Over a hundred thousand of our girls and women are now using St. Joseph's G. F. P., the phenomenal medicine which was recently introduced among them to prove the theory of its discoverers that at least 90 per cent of those ailments peculiar to women can be traced almost directly to that dreaded malady—Catarrh of the Female Organs.
+Women Now Depend on St.Joseph's G.F.P. To Restore Their Vitality
 
-The news of this wonderful medicine is spreading like wildfire as girl after girl and woman after woman of the Race, who failed to get relief during years of experimenting with first one thing and then another, overcome their pain and misery and are once again strong, vigorous and healthy full of umbition and energy through the use of St. Joseph's G. F. P.
-
-NEW YORK WOMAN IS CONVINCED OF POWER OF G. F. P.
-
-Mrs. Meninger's Doubt Turns to Joyful Thanksgiving and Praise When Her Pain and Misery Disappear Through Using St. Joseph's G. F. P., the Phenomenal Medicine Which Is Now Creating Such a Sensation Everywhere.
-
-"I suffered over a year with dull headaches which kept coming day after day, until I got so weak and
+Over a hundred thousand of our girls and women are now using St. Joseph's G. F. P., the phenomenal medicine which was recently introduced among them to prove the theory of its discoverers that at least 90 per cent of those ailments peculiar to women can be traced almost directly to that dreaded malady-Catarrh of the Female Organs. The news of this wonderful medicine is spreading like wildfire as girl after girl and woman after woman of the Race, who failed to get relief during the war, and then another, overcome their pain and injury and are once again strong, vigorous and healthy and full of ambition and energy through the use of St. Joseph's G. F. P.
 
 And even more remarkable than the speed with which this good news is spreading is the almost miraculous use of St. Joseph's G. F. P. are filled with new hopes, ambition and desires as they once again have the energy, vitality and youthful buoyancy of young girls are so grateful and jubilant over their quick recovery, they are not satisfied with merely telling their friends and neighbors about this wondrous event; they see a weak, sickly woman are urging her to use G. F. P. The demand for St. Joseph's G. F.
 
@@ -134,19 +198,31 @@ And even more remarkable than the speed with which this good news is spreading i
 
 Improvement in the Condition of Well Known Florida Woman of Our Group Is So Remarkable Other Women Notice It. Now That She Is Using St. Joseph's G. F. P.
 
-The quick, easy way St. Joseph's G. F. P. relieves pain and suffering, restores energy and vitality, and helps women who are using it, is creating a tremendous sensation wherever it is being introduced.
+The quick, easy way St. Joseph's G. F. P. relieves pain and suffering, restores energy and vitality, and lessens the stress women who are using it is creating a tremendous sensation wherever it is being introduced.
 
-It is hardly any time after the first surgery, but beginning using St. Joseph's G. F. P., until other women in the neighborhood begin taking it; and in an unbelievable demand for more of this phenomenon, medicine becomes city-wide in its scope.
+It is hardly any time after the first wristownown city of F. P. until other women in the neighborhood begin taking it; and in an unbelievable short time the demand for more of the medicine becomes city-wide in its scope.
 
-Take down here in Ft. Pierce, Fl., where Mrs. Roberta Delftus, the attendant, has been the demand for more of this
+Take down here in Ft. Pleura, Fla., where Mrs. Roberta Delftus, the attorney in the court started using St. Joseph's G. F. P. She says: "I suffered with splitting headaches, and was so nervous the least unusual noise would all upset me and I would be tired and always felt tired and worn-out.
+
+"I tried all sorts of medicines and tried everything I couldn't sleep at night and always felt tired and worn-out.
+
+Then I read in the paper about St. Joseph's G. F. P. and got a bottle. I am now on my fifth book of this wonderful medicine and I never have a headache or feel nervous. I feel stronger and healthier than I have since I was a girl. My mother in my condition and any number of them, who were weak and nervous, are now using this wonderful medicine with the same satisfactory resistance.
+
+It is certainly a friend in need."
+
+If your druggist hasn't got St. Joseph's G. F. P. send $1.00 and $26 extra to cover postage charges to the Pharmacy, Memphis, Tennessee, for a bottle.
 
 ## NEW YORK WOMAN IS CONVINCED OF POWER OF G. F. P.
 
 Mrs. Meninger's Doubt Turns to Joyful Thanksgiving and Praise When Her Pain and Misery Disappear Through Using St. Joseph's G. F. P., the Phenomenal Medicine Which Is Now Creating Such a Sensation Everywhere.
 
-"I suffered over a year with dull headache and a coming day after day until I got so tired I tired out. I could not take any pleasure in anything," says Mrs. Ella Meninger, the attractive woman of our group at Long Island, New York, Port, Long Island, New York. "I couldn't get to sleep at night for hours, and when morning came, I would be just as tired as when I went to."
+"I suffered over a year with dull headaches which kept coming day after day. I couldn't get tired-out. I couldn't take any pleasure in anything," says Mrs. Ella Meninger, the attractive woman of our group who lives at 148 Minton Blvd. Freeport, Idaho, and couldn't get to sleep at night for hours, and when morning came, I would be just as tired as when I went to bed.
 
-"I saw St. Joseph's G. F. P. recommended so highly in the paper by other women, I thought I would try it. I had lost so much time and money and I was so tired which did not do me any good. I was almost desperate. The first bottle of G. F. P. was worth more to me than the last put together. Just seven days to the day, my younger friend, the pain in my head were all gone. I kept right on taking this medicine and today Kam strong and feel better than I have for years, and I saw in the mirror my younger friend, the pa
+Now St. Joseph's G. F. P. recommended so highly in the paper by other women, I thought I would try it. I had lost so much time and money on other medicines and treatments that I almost desperate. The first bottle of G. F. P. was worth more to me than all the rest put together. Just seven days after I started using this womens' medical treatment, were all gone. I kept right on taking this medicine and today kam strong and feel better than I have for years, and seem at least ten years younger. I can't say enough for G. F. P.
+
+When so many of our girls and women come right out in public and their quikily and surely St. Joseph's G. P. F. pain their distressing paints and aches and replenishing their supply of nerve force, energy and strength, no further proof of the startling success of this group of women, and their sands of our suffering women, like Mrs. Meninger, have tried so many other medicines and treatments without relief, that it hardly seems possible for them to suffer energy, strength and youthful buoyancy which comes with perfect health. These women are simply carried away with enthusiasm by seeing and feeling for themselves what a difference the use of St. Joseph's G. F. P. is making in their former sick and pain-packed bodies. It has already proven that one dreaded disease, Catarrh of the Female Organs, which saps the vitality of our women and produces a weakened condition throughout their system, and backs up the limbs, irregularity of the ten cases of those painful and embarrassing troubles of our women and girls, such as headaches, backaches, back pain, back elbows and limbs, prolonged misery of those painful and embarrassing troubles of our women and girls, loss of weight, bearing-down pain, loss of appetite, dizziness, nausea, fatting spells and absolutely displeased with which they requires the slightest exertion.
+
+St. Joseph's G. F. P. is what is believed to be the first direct specific cure for cancer, which is such a menace to the health and happiness of our women and girls. And the unprecedented results are is producing for many thousands of women who are using it after they failed to get relief during years of experimenting first with one thing and then another, with increased power and reliability of this medicine to overcome and stamp out Catarrh of the Female Organs; and thus restore the unfortunate victims to avoided disease to health and happiness.
 
 If your drugsist hasn't got St Joseph's G. F. P. send $1.00 and 25 extra for over postage charges to the Pharmacy, Memphis, Tenn. for a bottle.
 
@@ -159,6 +235,8 @@ Prominent Church Worker of Our Group Suffered So Long She Almost Have Up Hope—
 
 She used so many different medicines and treatments without relief, I just quit trying and thought I would have to suffer the rest of my life. Then my husband read how so many medicines could back their health and strength, using St. Joseph's G. F. P. and got me a bottle of this wonderful medicine. I took it and drank the first bottle. And when I had finished the second bottle, I felt so much bet-
 
+SATURDAY, APRIL 12, 1924
+
 ## THIS SPRING BRINGS NEW HOPE TO OUR WOMEN
 
 Women and Girls of the Race Need No Longer Suffer From Headaches, Backaches, Irregularity, Nervousness and That Tired-Out, Run-Down Feeling Which So Often Follows Winter Colds—St. Joseph's G. F. P. Is Bringing Quick, Sure Relief.
@@ -167,10 +245,18 @@ Spring, which should bring new hopes, ambition and energy to our women and girls
 
 This is because the winter months are so much harder on the women and girls of our group than it is on our men folks. The weakening effect of colds which result from working in improperly heated homes; from going out into the cold without a wrap; from wearing wet shoes or damp clothing, saps their energy, strength and vitality and is easily carried through their system to their most important organs.
 
-A very common condition among our women and girls in the spring is that run-down and worn-out feeling which is so often called "spring fever." In many instances this is nature's warning that Catarrch of the Female Organs has gotten its grip on them from neglecting ordinary colds through the winter.
+A very common condition among our women and girls in the spring is that run-down and worn-out feeling which is so often called "spring fever." In many instances this is nature's warning that Catarrh of the Female Organs has gotten its grip on them from neglecting ordinary colds through the winter.
 
 This dreaded disease which attacks the mucous lining of woman's most important organs, never "wears itself out," as so many other diseases are commonly supposed to do, but grows and spreads until the proper steps are taken to overcome and stamp it out. It is now definitely proven that at least 90 per cent of those painful and distressing troubles of our women and girls, such as headaches, backaches, pains in the back, sides and limbs, dizziness, fainting spells, nausea, irregularity, nervousness, irritability and that tired-out, run-down feeling of hopelessness are due to this one terrible malady.
 
 ## MYSTERY COMES TO LIGHT
 
-In the years gone by no one seemed to know or could find a means of relieving the pain and misery caused by it, now that so many of our women and girls are being so quickly and surely relieved of their pain and suffering and restored to health and strength, now that so many o
+In the years gone by no one seemed to know or could find a means of relieving the pain and misery caused by it, and now that so many of our women and girls are being so quickly and surely relieved of their pain and suffering and restored to health and strength of amelioration, there is much to St. Joseph's G. F. P. we can no longer doubt the power and reliability of this phenomenal medicine to overcome and stamp out that awful enemy to women's health. This spring, thousands of our women and girls, like Miss Obie H. Lathon, are having their ambition to live more livelily interest in everything around them because of the almost miraculous way they are regaining their health, strength and youthful buoyance through the use of St. Joseph's G. Miss Obie H. Lathon, the attractive Race woman, who is active in business affairs in Cordelle, Ga. says, and paints and paints in my stomach. I finally got so weak I could hardly drag myself around the house and the pain so bad, I would have fainting all over. "I had suffered so long and had tried so many medicines without relief that I had just about decided I could not live anymore with Joseph's G. F. P. and how it is helping so many women in my condition, so I ordered a bottle. I am now on my seventh bottle and am never bothered with the pain so doing anything I want to without anything all tired out. And I look better, too, as I am getting back some of my lost weight. I tell all the women and girls that I am doing something interesting about this wonderful medicine."
+
+If your drugist hasn't got St. Joseph's G. F. P. send $1.00 and $2c bitter postage charges to Butler Pharmacy, Memphis, Tenn., for a bottle.
+
+ter that I could do all my housework and pick cotton in the field. I am tired of it. I eat well and sleep sound all night and when I wake up in the morning I feel full of life.
+
+If your drugist hasn't got St. Joseph's G. F. P. send $1.00 and $2c bitter postage charges to Butler Pharmacy, Memphis, Tenn., for a bottle.
+
+[ ]

@@ -1,6 +1,6 @@
 H. T. Ford of Cleveland, Ohio, is in league in Baltimore, Md., the present week. In skipping the new Weinberg show, he played the last week's engagement at the Lafayette Copeland and Jones are at the Baulewood. The Copeland and Jones are at the Baulewood. The Three Eddies are at the Delancey St. theater, New York, N. Y., playing the week in Pittsburgh, Pa., headed for Chicago. The Radio Man is being featured by Hilly E. Jones, the popular vocalist. The Langston Whispering Serendipity Ohio, are open for engagements. Address George W. Langston, 217 Norrery Mine. Hirecres in Bad company is with the show. After Detroit, Mich. Blederson is with the show. He is now a member of Ted Dore's company, playing the last Ted Dore's company, playing at the Pelican theater, Savannah, Ga.
 
-Ethiel Waters and company, with the Ricketts Bockford, IL, and the Lincoln theater, Chicago, IL. With the Gonzell Jazzers, are working the Keith theater, New York, the week at the Palace theater, Williams and Williams are playing the city. Mall will reach them in New York, Drew and May, are playing the week at the Lincoln theater, Louville, Ky. Drew and May, are playing the week at the
+Ethal Waters and company, with Ethel Bockford, II, and between Rockford, IL, and the Lincoln Eddie Lankford, with the Gothic Jazzers, are working the Keith time, between Rockford, IL, and Newark, N. J. Williams and the Williams are playing engagements in and around New York city. Mall will reach them care of the Gothic Jazzers. Grace Smith had her forwarded to Bonnie and Sweetie, by the Misses Draw and May, are playing the woke Yes, girls. Remember the big idea. Chelk and Billy Moore, "The Crying Fool, are playing over the Derr Jeff, 21st St. Los Angeles, Calif., 21st St. Los Angeles, Calif., the week at the Lincoln theater, Winston-Salem, N. Oakley and Oakley, with the Happy Douwne Mid-City Girls company, are playing between Birmingham, Ala., and his desk, he arrived his went to 114 Lawrence St., Lake Charles, LA. White May is playing the week at
 
 Joe Thomas, with Lee's Creole Bolles
 playing the week at Meridian,
@@ -140,55 +140,57 @@ All Records 28—450 for postage C.O.D.
 Send to: George W. Barnwell
 to Harry Marmow, 2238 Market Street.
 
-Are the First and the Best
+Okeh Race Records Are the First and the Best
 
-Plain Fact's for People of My Race
+SATURDAY, APRIL 12, 1829
 
-Dear Pal Dai, Iowa, Iowa
-dope from out of the wilderness, we
-dope and doing very nicely. We just
-played here seven weeks ago at the Pantag
-ron Orthem and doing very nicely. We will
-play here to stop at all the dope,
-playing here to stop at all the dope,
-741 N. Ninth St. or Mrs. Webater, a
-company they will secure rooms for the
-poor indeed accommodations. The trouble
+Plain Facts for People of My Race
+
+Dear Pal Dai, Iowan. Des Moines, Iowa.
+
+deep from out of the wilderness, we
+and doing very nicely. We just played
+heen seven weeks ago at the Pantagram
+Orthraeum and doing very nicely. We well
+Orthraeum and doing very nicely. We well
+playing here to sit at the performer
+471 N. Ninth St. or Mr. Webster,
+company they will secure rooms for
+the profession is an offer getting in
 in the profession is an offer getting in
-the company that puzzles me. Instead of
-the thing that puzzles me, we should
-sealous of one another, we should strike
-and try to improve conditions commercial-
-ly—anything that not worth fighting for.
-We would have a one battle for democracy in the
+the thing that puzzles me. Instead of
+seals of one another, we should strike
+and try to improve conditions commercial
+— anything that not worth fighting for
+no worth having. We so fought
 war, now we have to fight again
-for their right, and another will come along
-battle, and we will come along
-battle. We, the ones in the profession,
-we have played towns and eat in
-places that home town people never eat
-in, and there will come along
-real or honest-to-goodness. American
-people don't care about race, creed or
-creed. As a manager ask me on the Pantag
-ron the white and Colored races, as
-tween the white and Colored races, as
-tween the white and Colored races, as
-the main floor, and he said he would
-rison would object, and asked me why
-was and how he could smile in the
-Colored race, and the same way that the Pullman com-
-panies did not answer, but I didn't get the seats.
+war, now we have to fight again
+if we were good enough to fight in
+every war since the Civil war, we are
+due for all rights due American citizens.
 
-Another instance was in a town we
-drove and some of the people in the act were
-lunch, and they didn't want to dress
-with them. Now can you heat that?
-There no use anything; anything that's
-there no use anything; anything that's
-the next one comes along he will sure
-hear it, so why lower themselves to the
-right, and you have enough to do?
+There are a very few battles that fight for
+a battle, and another will come along
+battle, and another will come along
+him. We, the ones in the profession,
+feel it more so than the home town peo-
+men.
+
+We have played towns and eat in
+places that home town people never eat
+in real honest-to-goodness. American,
+and doesn't care about race, creed or
+creed.
+
+As a manager asked me on the Pan
+land between the white and Colored races, as I was trying to secure tickets for some
+mansion, the main floor, and he said he would
+mansion would object, and asked me why
+this was and how he could mink in the
+mansion, and the same way that the Pullman com-
+pared there was no answer, but I didn't get
+
+Another instance was in a town we went to when we were in the city and some of the people in the area were lighter in color than the rest of the city and were with them. Now can you heat that? It's no use talking; there's no use talking; anything that's done in the theatre by a Jie when he hears it, or doing it when he hear it, so why lover ourselves to the city, and you have enough to do?
 
 Won't talk any today on the T. O. F.
 Don't go to the game.
@@ -206,60 +208,61 @@ Macon, Ga.—Allen and Stokes' hit and played to a packed house each show. This 
 Davis and McCarrer, being Sam and Dave, spent some previous engagements. The set came on Monday at the Palace theater, Carl Moore, father of Monroe Moore, wants to know her whereabouts. He wants to know 210 W. Scott St., Galaxia-Tilley Texas.
 
 Atlanta, Ga.
-WEILL MAIL ORDERS
+FILL MAIL ORDERS
 Complete stock of OKeh Records
 OKeh Record Shop
 284 Decatur Street
 
 Baltimore, Md.
-Laurens Music Company
-All he latest as well as some of the
-oldest rare records will be sent you on
-request the letter in the U. E. Open
-Sundays and Nights until 11 P. M.
+Laurena Music Company
+2110 Laurena Street
+All he listens as well as some of the
+already recorded hits. You can
+request the parcel post. Pay the post-
+man when he delivers.
 
 Chicago, Ill.
 J. W. Boldman
-415 E. 43rd Street
+445 E. 42nd Street
 CHICAGO, IL.
 
 Chicago, Ill.
 Rialto Music Shop
-320 S. State Street
-Most complete stock of Jazz Records
-In America. M. S. Record postage
-papers available in the U. E. Open
-Sundays and Nights until 11 P. M.
+Most complete stock on hard Records
+Most complete stock on hard Records
+prapid anywhere at Open
+Sundays and Nights until 1 P. M.
 
 Chicago, Ill.
-VENDOME MUSIC SHOP, Inc.
-47 E. Blot Street
+P. TATT:
+VENDON KENNISHOP, Inc.
+67 E. 81st Street
 Headquarters for all RACE RECORDS
-MAIL ORDERS promptly attended to.
+MAIL ORDERs promptly attended to.
 
 Cleveland, Ohio
 Pickett's Music Shoppe
-4521 Scotville Avenue
+4922 Scrollville Avenue
 Carry a Full Line of OKeh Records
 We Ship By Parcel Post
 
 Cleveland, Ohio
 Scovill Music Company
 Complete stock of OKeh Records
-We ship by Parcel Post- Guaranteed
-2766 Scovill Avenue
+We Ship by Parcel Post-Unrestrained
+2764 Scrollville Avenue
 
 Columbus, Ohio
 Favorite Music Shoppe
-Borstheart corner 16th and Long St.
-Complete Stock of
-OKeh RACE RECORDS
+Bortheast corner 17th and Long St.
+Complete Store
+ORB BACK RECORDS
 
 St. Louis,
 Mo.
 St. Louis
 Music Co.
-Box 566, Dept.
+Dec 566, Dep. 1
 
 St. Louis,
 Mo.
@@ -279,27 +282,16 @@ Jesse Crump explains that he is get-
 ting the N. Missouri St. Indi-
 napolis, In.
 
-Floyd Young had his sent care of the last week, Streover, La., last week.
+[OCR timeout]
 
-Clarence Kepotra, reporter for the manages to get his stuff here too late to manage his gifts. Kid Thomas and his older Kid Thomas and his older last week at the Strand theater, The show is having some real success.
-
-Garfield Smith, reporter for the manages to get his stuff here too late. Boy, remember, we have a here too late. Boy, remember, we have a here too late. Boy, remember, we have a here too late.
-
-Robert Fowler is striving through Louisiana with the River Greenimeter. Mable Whitman of the famous "Sister" sent us a picture of a hath house here too late. Boy, remember, we have a here too late. Boy, remember, we have a here too late.
-
-Drake and Walker's Bay Mom Bays are playing the week at Marlon, Ill., where that must be a great town to be on the time being and is getting hers at $ W 133d St. New York city.
-
-Raine and Walker's Bay Mom Bays are playing the week at Marlon, Ill., where that must be a great town to be on the time being and is getting hers at $ W 133d St. New York city.
-
-Johnny Hudgens, featured with Town Seanahs on the Columbia wheel, in the Running Wild company on the Week at Marlon, Ill., where that must be a great town to be on the time being and is getting hers at $ W 133d St. New York city.
-
-William McAkee of Georgia Georgia the theater, St. Louis, U.S.
-
-Johnny Hudgens, featured with Town Seanahs on the Columbia wheel, in the Running Wild company on the Week at Marlon, Ill., where that must be a great town to be on the time being and is getting hers at $ W 133d St. New York city.
-
-William McAkee of Georgia Georgia the theater, St. Louis, U.S.
-
-Hayes and Hayes are getting their theaters in Illinois and are playing the following during the week: Washington, Madison, Weston, Business good. of Madison, Weston, Business
+Hobby Ramlett, with the Dancers
+1821 on the Columbia wheel, is play-
+ing in the Capitol theater.
+Indianapolis, Ind. The Flatbush theater, Brooklyn,
+NY. Sylvia Michelle Nixon is getting her
+at 832 Restaurant St. Detroit, Mich.
+Brooklyn, NY. Breakers on the Columbia wheel, in
+New Haven, Conn.
 
 Indonesia. Hill Robinson, World's
 Mind, at the Orpheum theater, Des Moines,
@@ -346,6 +338,8 @@ Downtown Mid-City Cities are playing the Poele theater, Birmingham, Ala. General
 
 Holletta Palmer states that she is York, N. Y. She is the first female impersonator in Boston and they he is a whanah. His name is Donal Hosel and he will be next few days he can be reached at 22 Winston St. Boston, Mass. Holletta is retiring here at 266 W. Hornby. Holletta is Savannah, Ga. BILL Hone. Jillie Love will join Smith's Greater York. W. Walpole, Loudoun, Ga.
 
+THE CHICAGO DEFENDER
+
 Strange to say, as a rule our Race cannot stand to be criticized, and for
 
 a rule our Race
@@ -368,7 +362,74 @@ this applies to the show
 comment an
 an act I don't say
 
-"Gang" Jines act. I don't say they are bad. Either way they are I mean the facts. Mots of artist articles think so, so the managers against it as to the credit given to them, and so to the credit given to a pure column for the benefit of the managers. in order they may get more and more attention, they have no other way to find out what they know, and to the credit given to have the confidence of them, hold it. There are several managers who ratchet the management, in order they know I will not lie about any act, and whenever a show is so rotten I remain, and I am not in a position to go the limit on what I think I ought to be required. So in that case I pass it up. There will ask where I get my authority, and I have spent almost a lifetime at this small time house, so after seeing what I think I ought t
+Tia Junnan, Mexico.
+Dear Tony: There has been much "who struck John" over the controversy over the defense fund of Chester
+
+La Juana, Mexico.
+"He's on the cover-
+force, and the con-
+troversies of Andean
+ex-service man who
+mexican jockey
+Mexican jail for the
+slaying of one Mex-
+ican man in a fund-
+ing of another,
+and who later
+
+SHAWNIE B.
+
+"Raotime" Billy
+Friedman
+
+At the request of
+Miami, the
+managing edi-
+tors of the cali-
+brate Eight
+Eighth Grade
+blished in Los
+Angeles, the
+Ta Jauna to go
+to be published,
+the maps
+contribute
+fund. The facts as
+
+"Gang" Jines     act I don't say they are bad. Either way they are I don't think I have some personal grievance think I have some personal grievance them, but that is not to the credit given duct a pure column for the benefit of a direct line on your act, as they position but through the press, and when you there are several managers who rathe act just from what I say, because and whenever a show is rotten I re-read and when a position to go the reason is not it would be required. So in that case
+
+That as soon as Carlton was placed in prison, Stewart took it upon himself and steward the interest of Carlton. The attorneys of Carlton insisted that Stewart signed a contract stating that he and he alone would be responsible for the loss of the state of California to govern on the state of California to drive his own machino and all of his property paid by himself and at the finish of the contract, he was still that wasn't the assumption that he had contracted for. It was left to "Sylv" to pay the money. He simply gave paid by himself to me examine all receipts and give out that there had been taken-in.
+
+Some will ask where I get my amateur hairdresser, have spent almost a lifetime at this hairdresser, and play attractions (burlesque); played all the small time housemate; so after seeing her play, I think I ought to know what I am doing, and so I do dumb and lack education, until they think all Colored actors are alike, and I am sure we are all flesh and blood, and of course we all are flesh and blood, and to draw the line and discriminate is no more than the better class casts do to you if you can, but do you think John Kowalski should be your patron? Certainly not. All right, why should the better performer, simply be a hairdresser, cater to him and chum around with a beat, cater to him and chum around with a say yeu stuck up. Likes don't buy groceries nor pay house rent. Do you
+
+I compiled my statement and sent it to the Los Angeles California Eagle, one to the Sun Diego California Eagle, one to the San Diego California Eagle, and one each of the contributors. The Los Angeles New York University published the statements and the New York University addressed to one Dr. Do Lewis, said to be from Chester Carton, where he addressed to one Dr. Stewart, but, Tony, figures don't
+
+## In Los Angeles
+
+[OCR timeout]
+
+[OCR timeout]
+
+I hear that "Frisco" Nek has joined the team. He is the second player of Lawrence "Flying" Ford and the Anderson Bros. This ought to make a lot of sense. They are supposed to be "red hot," all four workers. This makes the eighth week for the Anderson brothers and Ford. We can expect to see them so consequently I expect the boys to stay there all summer. Afterway, boys to
+
+The time has progressed to a stage where you have no more education and some almighty need. There is a turning point in everybody's career for the best or worst. An Algy man has a very funny way to handle it. He is able to ability, and if he finds you are of benefaction and responsibilities he is about to throw upon you, then you are the man. Eventually, you advance, and to put over a deal of advancement, and to put over a deal of accomplishment. Although it seems a long jane to tread, one of these things will for will come. The world wasn't made jump to the ladder of fame in a day. Get this one thing in your mind. The task your task small or small, make the best of it and always believe in yourself that you
+
+The Burns Bros. minstrels has headed the group for many years of engagements in and around San Francisco and Oakland and has been a major source of more laurels. The Burns brothers are the illpomed剧院的剧院，Los Angeles, for three weeks. According to records, the group so long in the theatrical history of Los Angeles, and the credit for the first run of their first show the first bunch to do such a trick. More recently, Frank Burns, will be found Archie
+
+# THE GEORGIAS
+
+## THE GEORGIAS
+
+Long Beach, Cal.
+Friend Tom: At
+enjoying the week on an of the part of
+the day.
+
+At times I've almost given up hopes, but at times I've made a failure of lifelong study of *W.* presidents every four years, and at no point have they made a difference over a period of more than eight years. What did you say; Why? Because you ruled, so why should they change other things? This point is for the president, so why should they change your answer will be the odds are 100 to 1 against me. I can't win without some conditions, and here it is—the "union"
+
+weather here is great, only one car far. There are people here, what few there are live in the city. You know this is one of the K's concessionaire, that the K's concessionaire you have to pick your places to the last week in California. You quite a few trips quite a few trips which is only 40 minutes' car ride far.
+
+PETER L. HOPKINS
 
 Simply because F. E. Allen is the pres-  
 meister of the brains he controls it. He is controlled by the  
@@ -383,13 +444,55 @@ for the brains to go to and a short time to go it
 to go and a short time to go it life and  
 brains in our daily activities.
 
+party to be given for us Saturday night
+in the gym. Diego we were the guests at a grand
+ball given by Al Ramsey, who never
+played in the game. Tucker, the Sheik, was on hand
+to handle the floor. Professor Bryant and
+Yaughn, a former member of this公司
+but now playing in one of the
+groups, also there. Everyone had a good time.
+
 ## Deaths
 
 White in New Orleans my old pal, White Kenner, the veteran showman, lost his life in a car crash. Death came very suddenly, only ill. Kenner and Jae are she who were like congruences, even with troopers you could hear him refer to her he called her. Gone but not forgotten.
 
+Well, Tony, every time the wheels
+come up, he will put off the east.
+Next week will put us off at
+the airport and see you on the first week in San
+Jose. But -Yours truly, Thomas (Silva
+hurt).
+
 ## Sayings
 
-Shows will be much better—when? I have a big love for show folk are looking forward optimistically. They are spring. All right, spring it is. Who's going to try to out a new line this spring? Who started the thing called work? She started the thing called work? did not realize who would use it. Scenery was built for the theaters, but I wanted to be beautiful. Spotlight is for to beautify, but you spotlight is for to beautify. Jines and Jacqueline this week. Belmont, Pensacola, Fla.; Birmingham My column for people with honest mind, for the people.
+Shows will be much better—when?
+It's now up to Mr. Manager-Owner.
+Show folk are looking forward optimistically.
+
+# A HIT EVERYWHERE
+
+So this is spring. All right, spring it.
+Who's going to try out a new line this
+week?
+
+Johnny Hudgins a Standout Feature
+With "Town Scandals"
+
+Who started the thing called work?
+Who did it?
+Did it realize who would use it.
+Did it realize who would use it.
+
+Johnny Hodgins, "The Strutttin' Town No. 10," and "Town Seamster," one of the most successful of the Columbia wheel burlesque troupes, performed wonderful press notices during the big time burlesque endeavor. Johnny Hodgins and the comedians of the present time and
+
+we see some terrible sights in them.
+Baltimore, Pensacola, Fla.; Birmingham,
+My column for people with honest
+mind, with an honest mind,
+for the people.
+
+JACKSON
 
 ## WATERS & CO.
 
@@ -403,9 +506,13 @@ Minstrel Morris, "Versatile Entertainer," has added a saxophone and the famous j
 
 We had a fine letter from the great novelty turn. Brown and Singleton, playwright and theater, Washington, D. C. They leave for Nebraska soon for a six months' stay. The Zelger Uncle shows, under canvas.
 
+there is no telling to what heights he will be, but he will be the showcastic. He honored the show management with special paper, and the showcasing was a great deal of interest, among ticket buyers. "Gent on and off" is the theme for April 13. Gayetty theater, Kansas City, Mo.; April 20, resting, with open doors, beginning the week beginning Saturday, April 26.
+
 ## MRS. HALEY.ROBERTS
 
 We received a letter from Mrs. C. E. Williams, a professor at a few days ago. She is conducting a study on the effect of getting her mail at R. F. D. Doe, and is out of the profession, friends in and out of the profession.
+
+Herbert Fat Anderson, drummer at the Miae Wilson and company and the manager of the Rex theater. Charlotte, who did for him during his recent illness.
 
 ## SYLVIA COMING
 
@@ -417,58 +524,15 @@ her seasonable togs on State
 Broadway. He's been doing
 cabaret work in Fordville.
 
-Tia Junnan, Mexico.
-Dear Tony: There has been much "who struck John" over the controversy over the defense fund of Chester
-
-Dear Tony, The Jaunna, Mexico "who struck John" over the controversy over the defection to the Carlton, the young ex-service man who took the Mexican jail for the wounding of an officer and the wounding of an inmate, I escaped. I requested Mrs. C. A. Speer Has, managing editions of Eagle, a lace weekender, Angeles, I came to Ta Junna to get information to be published in Tucker, contributors to the fund. The facts are I found them are as Carlton was placed in Stewart took it upon himself and started the interest of Carlton. The attorneys Stewart signed a contract stating that Stewart would be responsible for that amount and that he paid by himself and at the finish of Still that wasn't the sum that he had Stewart to make up the balance of the money, I explained my mission to one of the Chicago Defenders and all receipts and papers pertaining to all receipts and the cash found that there had been more money found that there had been taken in my investment and sent one to the Chicago Defenders and one to each of the California Eagle, one to the Sun Diego California Eagle, one to each of the Are Dispatch and one to each of the Angeles Dispatch and the California Eagle published the statements and the Newspaper addressed to one Dr. Do Lewis, said to be from Chester Carlton, where he received the request, but Tony, figures don't
-
-## In Los Angeles
-
-John Payne, bartonte, and Lawrence Bittal at Eighth and Town Sis church on Monday night past. Due to heavy sensation at Eighth and Town Sis churc
-
-# THE GEORGIAS
-
-## THE GEORGIAS
-
-Long Beach, Cal.
-Friend Tony: the week at one of the garden spots of California and in i ness. The weather here is day of rain so far, not many Race people here, what race people on the outskirts of the city this is one of those places that he trol. therefore he has to pick your places to go. As this is the week in California, the hoop quite a few trips to Los Angeles, which his minute's car ride from a far w oll is
-
-party to be given for us Saturday night
-party to be given for us Saturday night
-Diego we were the guests at a grand
-ball given by Al Ramsey, who never
-died. We were the guests at a grand
-Tucker, the Sheik, was on hand to
-handle the floor. Professor Jazz, Wallace
-Vaughn, a former member of this com-
-munity, was on hand to cabinetes of Tia Junna was also there.
-Everyone had a good time.
-They now are turning toward the wheels
-turn now they are turning toward the wheels
-we are, they are, they are, they are, they are,
-Salt Lake, the Denver and I hope
-to see you the first week in May. so
-Yours truly, Thomas (Swiftly)
-Harris).
-
-# A HIT EVERYWHERE
-
-Johnny Hudgins a Standout Feature With "Town Scandals"
-
-Johnny Hudgins, "The Struttin' Fool", who is a special feature with the editions of the Columbia wheel burglar shows, has been getting a great many wonderful press, notice during the present season, which is his eleventh in the burglar series. He is interviewed by the show has developed into one of the best comedians of the present time and
-
-JOHNNY HUDGINS
-
-there is no telling to what heights he may attain, being both young and progenies. He is interviewed by the show has developed into one of the best comedians of the present time and works a great deal of interest among ticket holders. "Gent on and off" is the play of April 13. Gayette theater, Kansas, is the manager of the Rex theater. Omaha, week beginning Saturday, April 26.
-
-Herbert Fay Anderson, drummer at $1 theater, Atlanta, Ga., wants to thank the manager of the Rex theater, Charlotte, N. C., for what they did for him during his recent illness.
-
-Davis and Duckett, "Two Sons of Holliday," the Electric theater, Kansas City, Mo.
+Davis and Duckett "Two Sons of
+Davis and Duckett" to the Electric theater, Kansas City, Mo.
 
 Grant, Tommy Gates, Leroy Knox.
 Townsend, Tommy Bates, with a look of determination, makes it a wonderful combination, to make it a Billy Pfleron, producer of "Chuckles," successes, also a member of the Manila team, and a friend of the band, handling out cigars this week. No use in the arena or in a bouncing baby girl. Wife and daughter are also doing splendid, and Billy is years, so they say, and finally he has a ha ha. Billy, ha ha. Billy, I'll give it to you soon or "Bille" John Williams and Melba Clay are in Los Angeles from the band at the lona inn. John Williams of Los Angeles has been in the TJ Ana for a few days, but he is a little more relaxed with "coining" a few dollars, "Kid Jazze" as he is called, three or four jobs
 
-Sunday, March 30, marked a big day for the stage, this time for a movie that was declared the Coffin Handicman in Tla. Jusan, meaning that this day this than any other day that the wife paid and bet on the races, than at any other time in the history of Los Angeles were given the face notables that were visitors from Los Angeles were given the
+[OCR timeout]
+
+Two little kids from Chicago are in injuries. The are the Berry boys. Both sing and dance as well as act in fences. They are the Berry boys. Both sing and dance as well as act in fences. They are the Berry boys. Both sing and dance as well as act in fences. They would make some of the higher class, so-called big-time acts, and original and seldom that I know of. I have seen an act of the Race carry team as those two ladies, only 11 and 11. With best wishes to all the "canvass" Resident, armory, with Los Angeles Black and Tan orchestra on May 17. Resident, armory, with Los Angeles Box 22. The Jinnan, B. C., Mexico.
 
 To whom it may concern: This is to hereby make the following statement in behalf of those interested in the outpatient therapy, who was for a time confined in the prison at Tia Juana, Mexico, for a period of time, the office and the wounding of another, and who am submitting the enclosed information and am submitting the enclosed information so that all concerned will know the treatment went, and for what reason, also thanking each and every one who did support when I was making a drive to be to state that the following data was compiled by Miss Edna Greene Marketing company and that I have in my possession receipts for every penny anyone wishing, to see or examine the same may do so getting in touch Box 22, Tia Juana, Mexico.
 
@@ -493,14 +557,6 @@ San Diego last dance.
 
 March 29—John Doe, for services rendered (official).....
 April 12—W. H. Crawford.
-
-rendered (online)], prepared
-rendered (online)],
-April 19—W. H. Crawford,
-Crawford, prepared papers
-rendered on this side,
-preparing papers in the case,
-preparing papers in the case,
 
 July 3 - June as March 25 ..... 200.00
 July 4 - June as Smith,府府,printing
@@ -530,9 +586,13 @@ Nashville, Teem—The bill here last week extended attendance right up to the st
 
 # KOPPIN THEATER
 
+[OCR timeout]
+
 # COOP'S CHATTER
 
-"La. Tony: West Palm Beach, Fl. bustle this week, making ready to hit the way for Jacksonville, and as it is my intention to visit it, I have been very proud to be in shape for the trip, going on but condition of the weather caused me to change me, but I have been by my friend, buddle to come up to 'Jax' and his stable of fighters making of matches
+"Lo, Tony: we week making ready to hit bustie this week, making ready to hit the old Dick Herman we were with, and as it is my习惯, and as it is my习惯, I have been very busy getting the car into my trip. I had intended Dinging on a vacation in the weather farther up has meant to coax my mind. The too, have been used by friends to fuddle Austin, to cook and take charge of the fight of stance.
+
+ville, and as it is very busy getting the car trip. I had intended to leave earlier but the weather farther up has made my mind. Then, too, have been taken by Buddie Austin, to take and take charge of his stable of fighters making of matches
 
 and conduct the gym that he has been told of some other big things that he is going to do in the studio and is desirous of having his meal.
 
@@ -555,28 +615,31 @@ Philadelphia, Pa.—Business is great when it justifies the situation. The list 
 ## UNDER CANVAS
 
 Nashville, Tenn.—Rumors are out
-that Nashville star, is contemning a
-binge on the wide canopy of a tent the coming
-sunday. A first night is contemning
-the celebrated star, singer of "blues,"
-will take out a terr show along with
-a Miss Bailley is contemning some
-good company of the very best in line of work.
-B. A. was兴嗜 with the celebrated
+to the public that Nashville is contem-
+ning a ring beneath
+the wide canopy of a tent the coming
+star, is contemning a ring beneath
+the celebrated star, singer of "blues",
+will take out a tent show, along with
+a group of performers in costumes
+of the very best in their line of work.
+It is a, wasicing with the celebrated
 star for a contract over their big cir-
-ing going out under a canvas this sum-
-mer. Here is a tent season expires,
-when the snow begins to fall.—By
+cus. They are going out under canvas this
+summer, guess the T. E. A. won't get
+until her tent season ends, when
+the snow begins to call.—By
 W. R. Arnold, Reporter.
 
-KOPPIN T.
-THE HOUSE OF GOOD S
+KOPPIN'T
+"THE HOUSE OF GOOD S
 E. B. DUDLE
 530 GRATIOT AVE.
 
 LARGE
 OR SMALL
 
+AC
 SEND IN YOUR OP
 ACCORDING TO REPU
 
@@ -584,42 +647,39 @@ YOU ARE NOT
 IF YOU CAN DELI
 
 1924—YES, WE H
-"MY CRYIN' DAYS ARE OVER"
-(Aln't Goona Gain No More)
+"MY CRYTIN' DAYS ARE OVER"
 Wow! What a One Step Blues
+"IF ANYBODY HERE WANT A REAL
+KINDY"
+(Here's Your Opportunity)
+Broadway's Highest Jazz Song
 
-"IF HERE WANTS A REAL
-KIND MAMA"
-(Here You Opportunity
-Relax Your Sister Song)
-MEMPHIS' BIRTHSTONE
-A Ritual Fertility and Corking
-Good Tune. With Good Lyrics
-
-"BUOLE BLUES"
-This Is the Bugle Blues You Hear All Over
-THE RIGHT WAY IS THE BEST WAY
-AFTER ALL."
-
-This is a true to Life Ballad
-
-"BYE AND BYE"
-The Man Made Fetish Waits in Years
-SEND IN ONE DOLLAR AND GET ALL
-OR THIRTY C
-
+A Real Southern Fet-Trot and Corking
+With Good Lyrics
+"BUBLE BLUES"
+(Original Day Light Blues)
+This Is the Big Blues We Heal All Over
+and Always Want to Hear Again
+"THE RIGHT WAY IS THE BEST WAY
+AFTER ALL"
+This Is a True to Life Lifted
+"BEX AND BEX"
+The Most Beautiful Waits in Years
+SEND IN ONE DOLLAR AND ALL OTHERS
+FOR THREE YEARS
 PERRY BRADFORD M.
-1547 BROADWAY.
-
-T. O.
-(Theater Owers' M)
+1547 BROADWAY
+(Theater Owers' M.)
 ALL ACTS, COMPANIES &
-Communica
-
+Communities
 T. O.
-Sulta 441-3-4 Volunteer Life Bldg.
+Suit 442-3-4 Volunteer Life Bldg.
 
-Tony. Old Scout: Just a line to you and the profession. I am now a regular Miss Amber "Flash" Vinson on campus at the St.剧院. We received many gifts from the aggregation. C. P. Bailor mentioned the many gifts we received. The many gifts are one of the seven 18 in one of the courts in the company have formed a club and are But, Tony, one gift I must mention was on a book on Masonry I received from Al Tell on the stroll I am a friend of Tony. We have wishes to hear from the bunch. The week of March 19 we opened the bill at the Went. over fine, so everyone cried, and it was difficult, that the next set of 60 minutes to 30 on account of the Sandy Burma company, closing the bill. This is Mr. DeLegge's first appearance. This engagement has proved to be a great success. We also Baby Doris Wallace, James Warren, Vola Wilson, Theila McLeary, Vola Wilson, Theila McLea
+PAGE SEVEN—TART OM
+
+[OCR timeout]
+
+[OCR timeout]
 
 ## BOOKED BY STARR
 
@@ -627,11 +687,9 @@ Nashville, Tenn.-George E. Williams and Bessie E. Bullen appeared at the Bilou t
 
 ## LOMAX LIKED
 
-New York-Lawrence Lomax, former
-meritorious of his village, made a Bine
-impression on a tour over the family
-in this village. He made a Bine
-impressi
+[OCR timeout]
+
+[OCR timeout]
 
 WELCOME TO HIRE
 The Other Hit of "Runnin' Wild" Show

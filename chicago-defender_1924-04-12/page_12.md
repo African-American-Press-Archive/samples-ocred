@@ -1,5 +1,8 @@
 # EDITORIAL PAGE OF THE CHICAGO DEFENDER SATURDAY, APRIL 12, 1924
 
+Chicago Defender
+WORLD'S GREATEST FED WEEKLY
+
 DEFENDER'S PLATFORM FOR AMERICA
 1. The Opening Up of All Trades and Trade
 Unions to Blacks as Well as Whites.
@@ -17,15 +20,6 @@ hand of sun and flowers, just plait sense lacks.
 but one sure sign of springtime—discounting facts—in boys start playing marbles and playing jacks.
 
 Why, the fellows must be crazy who dope out the almanacs.
-Or they wouldn't call this springtime with snow hanging 'round in packs;
-Overcoats and wraps feel comfort, flannels, too, this season.
-Of the one who'd keep pneumonia from unwarranted attacks.
-And the robin that files northward when rich folks are making tracks
-For the land of sun and flowers, just plain, common, horse sense lacks.
-There's but one sure sign of springtime—and there's no point in it.
-It's when boys start playing marbles and when girls start playing jackets.
-
-Why, the fellows must be crazy who dope out the almanacs.
 
 It's when boys start playing marbles and when girls start playing jackets.
 
@@ -39,11 +33,11 @@ THERE IS but one thing remarkable in the fact that a Pullman porter gave a lectu
 
 ALTHOUGH the press throughout the country made much of the incident, from the general tone of the comments it was evident that they regarded this particular porter as a shining exception to the rule, when as a matter of fact he is perhaps but one of several hundred exceptionally well educated men to be found in the service. Many are college and university graduates who, because of the peculiar and unjust economical conditions in this country, have been forced to run on the road in the capacity of porter as a means to an end.
 
-IT IS A SAD COMMENTARY on the boasted American democracy when the door of higher opportunity is closed in the face of young college men simply on account of their difference in color. The traveling public has long since discovered that the average porter is "wise" on most important subjects. In fact he is what might be called a walking encyclopedia. He has to be to answer the fool questions pounded to him by passengers. The editor of the New York Herald-Herald seems to think the porter's sole aim in life is to hustle for tips and that he has no time to improve his mind. In commenting on the porter-lecturer he says:
+IT IS A SAD COMMENTARY on the boasted American democracy when the door of higher opportunity is closed in the face of young college men simply on account of their difference in color. The traveling public has long since discovered that the average porter is "wife" on most important subjects. In fact he is what might be called a walking encyclopedia. He has to be to answer the fool questions propounded to him by passengers. The editor of the New York Herald-Tribune seems to think the porter's sole aim in life is to hustle for tips and that he must to prepare his mind. In commenting on the porter-lecturer he says:
 
-"NONDISCOUNTING is expert in question is to give only one lecture. His duties in the sleeper have given him no time to acquire a degree, and without a degree he is ineligible for membership in a college faculty. If he could give a whole series of talks instead of one, going into human peculiarities under trying conditions, into the effect of disposition on the pocket nerve and the amount of moral suasion necessary to extract from the passengers the largest share of money, he would aid vastly in fitting his young hearers for the problems they must face when they begin their journey on the railroad of life."
+"UNFORTUNATELY the expert in question is to give only one lecture. His duties on the sleeper have given him no time to acquire a degree, and without a degree he is ineligible for membership in a college faculty. If he could give a whole series of talks instead of one, going into human peculiarities under trying conditions, into the effect of disposition on the mind, he would not be an informant. He may extract from the passengers the largess without which no porter is expected to prosper, he would vastly in fitting his young hearers for the problems they must face when they begin their journey on the railroad of life."
 
-THERE IS NO DISCOUNTING the value of brains whether they be in the head of a black, white, brown, yellow or red man, and the darker races have evidence to prove that the Caucasian race has no monopoly on the brains of the man made requisites. Other universities might with profit follow the example set by Dartmouth.
+THERE IS NO DISCOUNTING the value of brains whether they be in the head of a black, white, brown, yellow or red man, and the darker races have civilized brains. The darker race has no monly on brains—if they have a non-made requisites. Other universities might with profit follow the example set by Dartmouth.
 
 ## INVITING TROUBLE
 
@@ -122,6 +116,10 @@ IN THE BOOK OF HISTORY, the Shu Ching, composed of fragments collected by Confuc
 
 EVERY VOTER who is oblique and abhorring the overcrowded in high places ought to ask himself how many times in his last ten chances he has cast his balloon.
 
+The Race Question
+
+"WHITE SUPREMACY" BUNK
+
 ## Editor's Mail
 
 RED, WHITE AND BLACK
@@ -131,20 +129,12 @@ No country can speak of having within its domain a more patriotic, intellectual 
 
 Such articles as "Rouge et Nolr" are good—good for nothing. Better to have devoted the space to—well—say, cure and prevention of influenza by chlorine gas, perfectly operating complete radio set within an English walnut shell, to have a radio set with less city—or was our good editor asleep on these topics and had to publish something to receive pay?
 
-Thanks for a few educated men like Millerand and Coolidge. The former with the resources of France is rapidly attempting to educate the blacks, so is Coolidge. He meets the white people. He attempts to appropriate $500,000, a comparatively small sum, for the medical education of blacks at Howard. Efficient Negroes, reappointed, are working without pay. Why? It is not due to inefficiency or they would not be there. Surely they have utilized the labor and the more keenly it is prosecuted the greater the final success; but will this alone pay their taxes? If so the circulation of currency is no longer necessary.
+Thanks for a few educated men like Millerand and Coolidge. The former with the resources of France is rapidly attempting to educate the blacks, so is Coolidge, but he meets him with satisfaction. He提携 to appropriate $500,000, a comparatively small sum, for the medical education of blacks at Howard. Efficient Negroes, reappointed, are working without pay. Why? It is not due to inefficiency or they would not be there. Surely they haveimized the blacks, and the more keenly it is prosecuted the greater the final success; but will this alone pay their taxes? If so the circulation of currency is no longer necessary. A country such as ours which aims high and persistently pursues high ideals merits and obtains recognition of confidence from minds of the world. Who could truthfully say that our blacks are wanting in attempting to keep this pace? Yes, Mr. Editor, it is true that we have police, fire and other protection, but is this a privilege to be granted in such a manner as a citizen to be demanded? In conclusion let the Negro continue to strive, for the ever rand advancement of his country, the foremost of the world, and let his country give him willingly every protection.
 
-A country such as ours which aims high and persistently pursues high ideals merits and obtains recognition and confidence from minds of the world.
+ST. PRENELLI'S CARSON.
+6446 St. Lawrence Ave. Chicago.
 
-Who could truthfully say that our blacks are wanting in attempting to keep this pace?
-
-Yes, Mr. Editor, it is true that we have police, fire and other protection, but is this a privilege to be granted as a citizen to be demanded?
-
-In conclusion let the Negro continue to strive, for the ever rand advancement of his country, the foremost of the world, and let his country give him willingly every protection.
-
-PRENELLYS CARSON.
-6146 St. Lawrence Ave. Chicago.
-
-A 100-year-old clapper says that the only difference between the girl of 1542 and 1924 is the formers' habit of taking an evening spin at the spinning wheel. But she must not forget that the up-to-date does the same thing at the steering wheel and her head continues it the next morn-
+A 100-year-old flapper says that the only difference between the girl of 1842 and 1924 is the former's fliht of taking an evening spin at the spinning wheel. But she must not forget that the up-to-date thesis does the same thing at the steering wheel and her head continues it the next morm-
 
 ## ---
 
@@ -171,38 +161,35 @@ Church
 What INJUSTICE has been
 Committed in THY NAME?
 E-V-I-D-R-N-T!
-And YET—It IS the
+And YET—It is the
 ONLY way that man
 CAN judge the GUILTY
-in ABSENCE of the
-YOUR TRUTH.
-When it is EVIDENT—
+in INSTANCE of the
+FACT
+—BRAIN.
+When it is INJUSTEN-
 CHARACTER—GOOD character—
-ALONE-CAN PREVENT
+ALONE—CAN PREVENT
 HASTY—conclusive patuer
-From PHONOUNCING—
+FROM PHONOUNCING—
 EVIDENT—
-G-U-L-L-T
-But you have
-Given PAIN—
-And CAUSE DOURT,
-By WORD OR ACTION—
+G-U-L-L-T.
+But—If you have
+GAIN PAIN—
+And Cause DOUBT—
+As you have FELLOCTION—
 To YOUR FELLOW MAN—
 As SURE as the SUN SHINES
-As THE STARS in HEAVEN
+And the STARS in HEAVEN
 TWINKLE;
-If there were a crime—
-and YOU have been SEEN near 11 hours LARGER and LARGER,
-Mental RESERVATION finds NO bother—
-IT IS
-
-AND YOU HAVE BEEN SEEN near IT
-IT booms LARGER and LARGER.
+If there is a crime—
+And YOU have been SEEN near IT
+It booms LARGER and LARGER,
 Mental RESERVATION finds NO
-bother.
-'I IS
+bother—
+IT IS
 EVIDENT!
-J STEPHEN AGENOR
+—J STEPHEN AGENOR
 
 WINTER-MOON
 
@@ -279,8 +266,81 @@ That God can know BOWEN
 
 CONSTITUTIONAL SYPHILIS
 
-G. W. writes: "Through which have been made acquaintance valuable articles in the Defender taking ques- trust will fa- with an intent to con- through many of De- doctor, I do- when I little girl will fa- with an int
+Wasserman or 100 per cent syphilic constitutional infection. In constitutional syphilis you may have your first sign in the falling or losing of eyesight, headache and total blindness without any sores or external fractures.
 
+2. The symptoms of constitutional syphilis are many and varied. Only a good, skilful and astute physician will be able to detect some of these masked signs and symptoms of constitutional syphilis—and this is found out by examination of reflexes both sensory and motor. Among the common symptoms may be headaches, sores in mouth and on tongue known as mucous patches, loss of knee jerk and various reflexes. There is often stiffness and soreness throughout the body. A person often thinks that he has chronic rheumatism when the body is stiffened, and that one syphilic rheumatism and constitutional syphilis.
+
+3. The meaning of infantile womb is that the womb falls to develop commensurate with other parts of the body. There is a persistence of the baby size in character of the womb.
+
+No. Such a womb never becomes pregnant, because it is undeveloped. There are cases in which by massage and other mechanical methods in a young woman who has not completed her full development the uterus may be developed to such an extent that she may conceive, but it is very doubtful that such wombs result because it is too equilateral.
+
+ous, and I must say they
+tested to a certain extent.
+It is always that little dis-
+pour people' meaning.
+I diseases in Colored people
+from them do not mean
+agree with him in many
+not the way they think,
+he had the opportunity to
+myself and find that in
+many cases among certain
+the blacks are far superior
+necessity than the same class
+1. Constitutional syphilis
+that has spread from local
+genitalized in the body. It is
+general as secondary or tertiary
+the disease. In fact it is
+the latent stage.
+Person can have this dread-
+without sores on some
+body. In constitutional
+here may be no sore or ex-
+mersion of an acute
+infection of a central
+system such as the brain
+one of the brain, the brain
+heart, blood vessels, and in
+there are no sores or any-
+you could see; but a blood
+m might reveal a 4-plus
+
+5. That will depend; if all infa-
+mulation, pain, tenderness and signs
+of infection have subdued and dis-
+appeared and the individual is able
+to perform the usual functions or is
+restored to his full working capacity
+for a period of from 8 to 10 years
+we know no reason why it should
+be disturbed or removed by operation;
+but as a general proposition
+it is greatly inflamed, painful
+and is given to frequent attacks it is
+the part of wisdom to rid yourself of
+the inflamed appendix by operative
+procedure.
+6. Yes. it is harmful to use arsenic
+tattoo in any form indiscriminately
+for improving or beautifying one's
+complexion. The reason is because
+arsenic is a poisonous, dangerous
+drug and has accumulating effect
+in the system; it becomes stored in
+certain internal organs and when
+there is an overdose there is a general
+degeneration of the powers of
+the system and the oncoming of
+show misbehaving and dead.
+Arsenic often causes blindness,
+and other tissues of the body
+are injured. It should only be taken
+through and by the advice or sup-
+vision of a good doctor. This drug
+must be watched for dangerous signs.
+
+THE ONLOOKER
 By A. L. JACKSON
 
 that others besides yourself suffer as much and sometimes more than you do from race prejudice, then you ought to read "Silberman" and keep it in your library. We think, however, that there is a better reason to do this than the sacrifice and pain which the real hero of the story runs into in his endeavor to protect the young Jew from his own people are worth considerable emphasis. Some of us have a habit, and a perfectly natural one, of demanding things from our neighbors to cost them of the things we ask. Moreover, we are very apt to forget to express our thanks when they have paid up and accomplish the things we demand. We forget and desert friends too easily. We were reminded of this fact not so long ago, and we were reported to have testified on the witness, stand in a fashion which either did not please the auditors or which was a bit beyond the depth of some of them. At any rate indication and complaint was the result. This person for 25 years has worked in eight places where there were no cheering sections and no reward to be expected other than the condemnation of her friends, who did not see her point of view and did not hesitate to tell her so. Yet some of them were more than a third of the testimonies of this tried and true friend of many battles were benefiences of the work and sacrifice of this friend. We drive our friends away from us by insisting that they shall live up to our ideal. Then we wait turn of the dead. Gentle it is when we seem to be short on, at least in ways of expressing it. We must learn to do better.
@@ -297,24 +357,18 @@ Mrs. M. G. W. writes: "Through a friend I have been made acquainted with your va
 
 Chicago Detention and am talking to opportunity to ask a few questions, and trust that you will favor me with an answer, at your earliest convenience through the columns of the Chicago Dept. of believe you doctored me when I was a little girl for typhoid fever.
 
-tored me when I
-dr. Williams
-felt ill for
-typhoid fever.
-"I would like to know just what
-is constitutional syphilis. Can a
-person have this dreadful disease with-
-holding sores on some part of the body?"
+and am taking advantage of this opportunity to ask a few questions, and trust that you will favor me with an answer at your request or experience through the columns of the Chicago Defender. Doctor, I believe you doctored me when I was a little girl for typhoid fever. I would like to know just what is constitutional syphilis. Can a person have this dreadful disease without having sores on some part of the body?
 
 2. What are the symptoms of constitutional syphilis?
 
 "3. What is meant by the term infantile womb?
 "4. Can such a womb become pregnant?
-"5. If a neon has has and chronicle a membranous period of years is it absolutely necessary for operation—that is, after a period of from $8 to 10 years?
+"5. If a neon has had chrode appenditis for a long period of years necessary for operation—that is, after a period of from 8 to 10 years?
 "6. Do you think it harmful to use arsenic tablets to give a clear complexion?
-"Doctor, I am a little greedy for advice, I am a doctor who belongs to your faces. Of course there are good physicians (white) here in Canada, and at times they are nice and courteous, and I must say they are interested in a certain extent, but there is always that little distinctive 'your people' meaning: suppose diseases in Colored whites; though I agree with him in many ways it is not the way they think, for I have had the opportunity to judge for myself and find that in the majority of cases among certain classes the blacks are far superior in cleanliness than the same class of whites."
-Date: 1. Constitutional syphilis is syphilis that has spread from local lesions and has become generalized throughout the body. It is generally known as secondary or tertiary stage of the disease. In fact it is known as the latent stage.
-Yes. A person can have this disease on some part of the body. In constitutional syphilis there may be no sore or external manifestation of an ocular character. This disease may attack the nervous system such as the brain or membrane of the brain, the spinal cord, the heart, blood vessels, and in some cases the brain, the heart, and the spinal cord thing that you could see; but a blood examination might reveal a 4-plus
+"Doctor. I am a little greedy for advice from a doctor who belongs to our race. Of course there are good physicians (the appropriate in-hand at times they are nice and courteous, and I must say they are interested to a certain extent, but there is always that little distinctive 'your people' meaning. I suppose diseases in Colored people differ from those in the whites; though I agree with him in many ways it is not the way they think. In the opinion, justice for myself and find that in the majority of cases among certain classes the blacks are far superior in cleanliness than the same class of whites."
+Reply: 1. Constitutional syphilis that has spread from local lesions and has become generalized throughout the body. It is generally known as the disease. In fact it is known as the latent stage.
+
+Yes. A person can have this dreadful disease without sores on some part of the body. In constitutional syphilis there may be no sore or ulcer. In constitutional rheumatoid character. This disease may attack the nervous system such as the brain or membrane of the brain, the spinal cord, the heart, blood vessels, and in particular the muscles. This thing that you could see; but a blood examination might reveal a 4-plus
 
 ANOTHER DORMITORY SCRAP
 COLUMBIA UNIVERSITY has
@@ -331,3 +385,5 @@ have been spared a deal of chagrin and have wielded the bad passives the courage
 "SIBERMAN" is the title of a
 
 "Snow written by Jacques De La Crette and published by Boni & Liveritz of New York. It is based upon race prejudice in France between Jew and Christian. The author is represented as a Christian. His portrait of the effects of prejudice both upon the one possessed of it and upon its helplessness would have been willing to waer a mother sum that the author was blessed by a Jew. For most of us the story told will not be new. We could in all probability supply most of the material for such a story from our own experiences or from the experiences of our friends. But, we still must an author will be replicated by the way that we have translated and traditions back of them in this particular story. If you get any encouragement out of the knowledge
+
+---

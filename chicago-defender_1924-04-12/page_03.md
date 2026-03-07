@@ -2,7 +2,15 @@
 
 # Baptist Pastor Regains Vigor of Youth by an Easy Method
 
-The statement made by Jesse Blinga, president of the Blinga State bank, and successful real estate firm, doubledless rent checks of dismay into office hours those who have written letters to the editor of the Chicago Defender asking when will cheap rent returns. The bank sent a letter when a Chicago Defender reporter approached and asked him the following questions: Is there any hope in the near future for rent checks to be the high rent problem? He made the following reply: "The days of cheap rent have gone forever. However, more real estate generally governed by the demand and vacancies. The building permits show that huge building programs are being financed by operators on the streets that will undoubtedly have their effect on the rental property in this community. The building programs combine attractive bungalows, affordable houses and are certain to attract thousands and leave many vacancies for the wary to take advantage of as freedom from the pressure of housing and soaring rent values.
+SATURDAY, APRIL 12, 1924
+
+RENTS TO GO
+THIS YEAR
+OF TENA
+
+The statement made by Jesse Binga, president of the Blinga State bank, and successful real estate broker, will doubtless send a chill of dismay into the anxious hearts of those who have written letters to the editor of the Chicago Defender asking when will cheap rents return. The banker was sitting in his office reading a letter written by Chicago Defender reporter approached and asked him the following questions: Is there any hope in the near future for cheaper rent? What would you do to solve the high rent problem? He made the following reply:
+
+"The days of cheap rents have gone forever. However, more real estate is being generated generally governed by the demand and vacancies. The building permits show that huge building programs are undergoing at the Northwest, South and Southwest slides that will undoubtedly have a effect on the rental property in this community. The programs embrace attractive bungalows, two-flat buildings and apartments that attract thousands and leave many vacancies for the wary to take advantage of as freedom from the prraming congestion and soaring rent values.
 
 "We recommend cautious waiting as the safe and sane policy and the grasping of the opportunity when it is hot, high rents, that are now harnessed upon our community." Corroborating Mr. Bimma's statement, Mr. Watkins, head of a real estate firm at 3510 Indiana Ave., Mr. Watkins stated that the building boom is in full swing, the result of which has forced the city to move out of the congested districts to the suburbs, leaving many vacancies for us. "In six months," declared Mr. Watkins, "more buildings in the districts largely inhabited by our people have been vacated by the movement of the white population if the building room keeps up."
 
@@ -12,22 +20,27 @@ The report comes from Commissioner Doberty's office that more building permits w
 
 Friday Wagner Brothers broke ground for 72 apartments covering the north frontage in 78th I. from the northwest corner of the ready building a 12-flat building at the southwest corner of Throop and 78th Sts, and they have recently built a 12-flat building at 78th St at Throop. In that district contractors are busy constructing houses. Ninety-seven two-flat buildings are being constructed in the southwest corner of the William Zelosky. Mr. Zelosky has 200 more two-flat buildings on his building program for the spring and summer. The North Side Realty Company has its Niles Center subdivision of 40 acres at Oakley Ave, and Grass Point Rd. House building will be completed at the streets east corner of Shipman Ave and Torrance Ave, are opened to builders. Chicago has begun one of the largest building programs in its history. It is sure to affect the high rent crisis.
 
-Chicago has begun one of the largest building programs in its history. It carried through this boom is sure to affect the high rent crisis.
-
 ## Pessimistic Views
 
-Attorney T. G. Vance of the Tenants' Protective league takes a pessimistic view of the rental situation. He considers the account of the revaluation of taxes to an upward readjustment of rental value. He predicted that there will be a general increase in rent from the previous year to the over the city. However, in Second Ward, he thinks that the rent increase will be as high as 100 percent. The high mark in rent will be the first of May. After that there is no increase this year unless there is a complete cessation of the building program, with those people who are buying homes on the installment rent will remain high for the next two or three years. On taking over
+Attorney T. G. Vance of the Tenants' Protective league takes a pessimistic view of the rental situation. He thinks that on Account of the revolution of taxes there must be an upward readjustment of rental value. He predicted that there will be a total interest in rent from 5 to 15 per cent all over the city. However, in the Second and Third wards he thinks that the rent increase this year unless there is a complete cessation of the building program. "With those people who are buying homes on the installment plan rent will remain high for the next two or three years. On taking over
 
-M ADE vigorous again after being on the down grade 14 years. Made "young" again after he had almost surrendered to "old age." Made strong, capable and happy again, after he had given up all hope. This has been the joyous experience of the Rev. George B. Pinckney, acclaimed statement issued by this prominent Baptist pastor of New Jersey. No "gland operation" was performed; no expensive methods were used; no ambulance or civil powers of his prime, the Rev. Mr. Pinckney explains. Instead, he says, he regained the vigor, vitality and ambition of youth by a simple method of secretly treating his neck and secretly. This is the recently discovered korex treatment, the basic principles of which were developed by famous European specialists. My decline, says Dr. Pinckney, "I tried everything recommended for such cases—every operation and treatment a person would, or couldn't afford—but I could not decline to decline more swiftly each day until decline brought korex treatment on its wings. It is certainly scapegled of korex when a brother told me about it, but an "inner voice" urged me to try the compound. Is it, I am back to normal. I am in as good shape as my case seeming to hopeful, may have an equal in the medical world, but I doubt it. Countless thousands in my race, as well as other races are suffering as I did, not involving that relief is within their reach." Strangely enough, an important ingredient of korex compound comes from my Negro Race. European physicians say this substance acts directly and powerfully on lower spinal nerve centers, improving the circulation and the animation, sometimes within a few hours. Another ingredient is extracted in Europe. Others are prepared in America and are combined in tablets. Contain a "dope" or illiterate drug.
+Baptist Pastor R. of Youth by a MADE vigorous again after being on the down grade 14 years! Made "young" again after he had almost surrendered to "old age," which had come to him too soon! Made strong, capable and happy customer, he had given up the job. This has been the joyous experience of the Rev. George B. Pinkney, according to a recent statement issued by this prominent Baptist pastor of
 
-a house the buyer agrees to pay just about everything he can rake and scrape. It will be about two years the house will be rented to the house to cheapen the rent." thinks F. M. Thompson, manager of the Thompson Real Estate company, "The people brought this high rent on themselves," declared S. H. Sumner, head of the real estate firm at the house. "They have to stay on them until they stop voting for every bond issue at the elections. Every time they vote for a bond they increase taxes. The land passes the buck to the tenant. The tenant has no one to pass it to, therefore he has to pay it. He works such as widening the streets, building playgrounds and constructing subways, but not at a time when it works a hardship on the citizens. There is no labor trouble, and while there is so much labor trouble, it is foolish to tear down so many comfortable homes and not already there is a rumor that it will be checked. Edward M. Craig, secretary of the building construction, erased an agitation among the bricklayers and plasterers for higher wages. In the opinion of Mr. Craig the granting of a pay increase to the existing $1.25 an hour rate to a $12 daily scale for the former and a $14 one for the latter would automatically increase the other basic trades to that level. "The wage increase demands of the bricklayers and plas
+No "gland operation" was performed: no expensive methods were employed to restore to him the physical appearance of Pinckney explains. Instead, he says, he regained the vigor, vitality and ambition of youth by a simple method anybody can use at home, safely and effectively. Pinckney explains, the basic principles of which were developed by famous European specialists. In the course years of my decline I tried everything recommended for such cases—every operation and treatment a poor man could, or couldn't afford—but I never told about it, an inner voice urged me to try the compound. The result is, I am back to normal. I am in as good shape as I ever was, although I had considered that I may have an equal in the medical world, but I doubt it. Countless thousands in my race, as well as other races, are suffering as I did, not that relief is within their reach. Strangely enough, an important ingredient of korean compound comes from the Negro Race. European physicians say this substance acts directly and powerfully on lower spinal nerve centers, improving the circulation and animation, sometimes within a few hours. Another ingredient is extracted in Europe. Others are prepared in America. All are combined with korean compound to contain no "dope" or illegal drugs.
+
+---
+
+a house the buver agrees to pay just about everything he can rake and scrape. It will be about three years before the house to cheapen the rent." thinks P. M. Thompson, manager of the Thompson Real Estate company, "The people brought this high rent on themselves," declared H. S. Sumner, head of the real estate firm at the house to increase the rent. Stay on them until they stop voting for every bond issue at the elections. Every time they vote for, therefore has to pay it. The landowner increases the passes the buck to the tenant. The tenant has no one to pass it to, therefore he has to pay it. The work such as widening the streets, building playgrounds and constructing subways, but not at a time when it works a hardship on the citizens. The people there is no labor trouble, and while there is so much labor trouble it is foolish to tear down so many comfortable homes and not rebuilt to widen the streets." Chicago's building program for this year is estimated at more than $100 million; there is no labor trouble. The building is a rumor that it will be checked. Edward M. Craig, secretary of the Building Construction Department, agreed an agitation among the bricklayers and plasterers for higher wages. In the opinion of Mr. Craig, the buver pays an increase to the bricklayers and the existing $1.25 an hour rate to a $12 daily scale for the former and a $14 one for the latter would automatically decrease the other basic trades to that level.
+
+"The wage increase demands of the bricklayers and plasterers have had a noticeable effect on their prospectivity Mr. Craig. "Constructionors report a falling off of requests for estimates and in many cases where estimates have been submitted owners stave off action pending adjustment of wage matters. "There are approximately 70,000 building mechanics in Chicago. They must be paid a 25-cent increase an hour wage the building industry would be taxed $140,000 daily to meet the expense. This tax is more than can be paid by the industry. It would without question result in a shutdown of construction work."
 
 # MORRIS, YOUNG ORATOR, IS HERE AFTER EXTENSIVE TOUR
 
-## MORRIS, YOUNG ORATOR, IS
-HERE AFTER EXTENSIVE TOUR
+## MORRIS, YOUNG ORATOR, IS HERE AFTER EXTENSIVE TOUR
 
 Charles Satchell Morris, Jr., of Norfolk, N. J., the brilliant youthful student reached Columbia following an extensive tour that lasted for 19 months and carried him through 23 states and visited Columbia. Young Morris was enthusiastic over the results of his trip on his arrival here Thursday afternoon. That the people of the South are making magnificent success in spite of limitation, restraint and resistance to his statement of his sutton statement. Defender representative. Great audiences of the members of the business community in distinguished speaker, many of the men of the South, including Dean Sutton of the University of Texas, Mayor Coleman of Columbia, N. C. Mr. Coleman was plauded the eloquence of the orator, Seven thousand persons jammed the City auditorium at Richmond, Va., to hear his farewell message. Honors were given wherever he appeared. Uppreceded was his address before a body of 500 young white women at the Flora McDonald college. Hed Springs, N. C., was told that at least half a million people attended the spokesman on his tour. Mr. Morris is taking special courses in sociology at his alma mater. However, he is scheduled for more than 20 addresses between now and June 15. His first speech will be delivered at a monster meeting in Chicago on July 21. Hundreds are expected to hear him. His only Chicago address will be delivered in May, when he speaks on 'The Bright Side of a Dark Sub
+
+Thousands have written in praise of korea. Among them prominent in business, social, professional and political races of the Hwacheon Yiheon felt "old" too soon say korea has renewed their govt activity. Mei 50 to $3 declare the compound has made them truly "young"
 
 Thousands have written in praise of korea. Among them persons prominent in business, social, professional and political circles of the Race. Some of the folks who felt to own and say korea has renewed their strength, vigor and durability. Men 60 to 65 days old compound has made them truly "young" again.
 
@@ -69,56 +82,29 @@ TWENTY-FIFTH ANNIVERSARY
 # NORTH CAROLINA MUTUAL IN
 TWENTY-FIFTH ANNIVERSARY
 
-BY SADIE MOSSELL-ALEXANDER
-Durham, N. C., April 11.—The North
-Carolina Mutual Life Insurance
-company of Durham, N. C., which passed
-its 55th anniversary on April 1, 1924
-with the support of the National con-
-trol insurance departments of three state
-North Carolina, South Carolina and
-Virginia, in order that an official
-report can be made to the committee
-on examinations of the National con-
-trol insurance departments. The work of the examination included
-a test check of the income and dis-
-bursements of the company from the
-original vouchers to the journal cash
-which contains the entire financial
-transactions and assets and liabilities were carefully
-checked. The claim records were
-investigated as was the manner of settle-
-ment with policyholders. The re-
-search findings contain many striking facts to which
-intention of the public should be called.
-The examiner's state that "the com-
-pany is owned and managed exclu-
-sively with policyholders. This is
-indeed battering." The mutual life organization of any size in
-the state of North Carolina being
-managed exclusively for their well-being.
+[OCR timeout]
 
-The examiners state that "the company is located in North Carolina of any size which is owned and managed exclusively in North Carolina being owned by our people and managed exclusivel
+These are figures so stupendous that they million, million overweave us. Forty-one million seven hundred thousand dollars, million seven hundred thousand dollars, premium income! One million nine hundred and the examiners found every coin of it in place. This is not what the cost of what the examiners found is true. In addition the examiners state that books and records very accurately kept, the usual recommendation for the conduct of a million dollar business in the state, it takes just such an institution as the North Carolina Mutual to prove what are doing, and what Negroes can do and are doing. How did the examiners find the North Carolina Mutual was investing its assets, amounting to nearly $2,000,000? Here is what the examiners find that subject has in their subject, referring to the bonds and stocks, "were verified by actual inspection of the company and by certifications from the states of North Carolina, South Carolina, and municipal governments, and found to consist of bonds and bank and utility stocks. There are no bonds in default and promptly." In reference to the mortgage loans on real estate amounting to $150 million, "This item was verified by actual inspection with these loans were inspected and it was found that this item repreens first mortgage loans on real estate.
 
-"This item was verified by actual inspection and is as reported. All papers in connection with these loans were inspected as reported. This item represents first mortgage loans on real estate."
+[OCR timeout]
 
-"The North Carolina Mutual did not attempt this position like usual, but not just almostly sleeps. It has taken exactly 25 years of unselfish labor to mark its first milestone. We are pleased to note in the report of the man who has been behind the heim for every year and day of these 25 years of unselfish labor. We are pleased to mark the burden with him for 21 years. We refer to C. C. Squailing, president of the order, Mr. Mutual and J. M. Squailing, vice president and副ary. Of these two men the examiners say in their written report: "These loans with the company from the beginning, are the active officials, who should be credit for its efficient management."
-
-"What more crowning success could be achieved on than its 25th anniversary day to be presented with such a report, as the official examination of the National Association."
+[OCR timeout]
 
 # FIND SLAYER DIDN'T HAVE A DARK FACE
 
 ## Bare Fake Posse Hunt Thru Confession
 
-Gastonia, N. C., April 11., Judge A. M. Stuck in Memphis court in charge of the lease of Ransom Killinn and John Orr, charged with the murder of John Ford, under hond of $10,000 each. The decision follow conference with Solicitor John T. Carpenter and attorney Patricia T. L. Kirkpatrick, county; Attorneys T. L. Kirkpatrick, R. G. Cherry and T. G. Gutherie, representing Joe Orr; Kemp Nixon, representing Arthur Crowder, and J. Frank, representing Griffin Grice and Essie Beautie. The bonds were made and the defendants released. The two girls will probably be released on their own recognition. The action came as the climax of a young developments in the notorious Ford mystery. All parties are white.
+Gastonia, N. C. April 11.—Judge A. M. Stack in Mecklenburg court in habeas proceedings ordered the release of Iransom Killian and John Orr. Judge Iransom Killian and John Ford, under bond of $10,000 each.
 
-## Warranta Issued
+The decision followed conference with Solicitor John T. Carpenter and A. G. Mangin, representing tasion R. G. Cherry and T. G. Gutherle, representing Joe Orr; Kemp Nixon, representing Arthur Crowder, and J. Frank Flowers, representing Effe R. G. Cherry and T. G. Gutherle were mute and the defendants released. The two girls will probably be released on their own recognition. The action came as the climax of a day of startling developments in the various Ford mystery. All parties are white.
 
-Warrants for the four charging the murder of John Ford were issued recently. Three were arrested last late winter, the former chief of police of Gastonia, now night desergent in Charlotte, was not arrested. His attorneys appeared for him before Judge Stack in the courtroom. Following is the wording of the warrant: "F. B. Ford, being duly sworn, complains and says that at and in the County of Gaston, Gastonia November, 1920, Ransom Killen, Elifie Griece, Essie Beatty, Joe Orr did he guilty of the killing of John Ford, contrary to the form of the statute beginning that the peace and dignity of the State." Killen, Ford and the two girls formed the party that was held up and shot on the evening of November 7, 1920. The police began that "two Negrees" were the guilty parties. Crowder's testimony alleges that he, Orr and another unnamed person followed the party that encountered the others, a quarrel and gun battle ensued in which Ford was killed, and the Beatty girl desperately wounded. A hunt that occurred near the men of our Race proved fruitless. A year ago the Beatty girl suffered an alleged change of heart and implicated Bob Griece and John Carwell, father of the girl parties. A刑事 resulted
+Warrants Issued
 
-## Makes Confession
+Warrants for the four charging the murder of John Ford were issued recently. Friday afternoon, Orr, a son of a former chief of police of Gastonia, now night sergeant in Charlotte, was not arrested. His attorneys appealed to the store. Judge Stack and arranged bond.
 
-Nothing more was heard of the case until a month ago, when Arthur Crowder, well-known young white man of this age, attended the cura, Ala, for forgery, confessed to the murder and implicated Joe Orr, whose father at the time of the crime number, 1920, was chief of police here. Crowder tells that he, Orr and another drove to Greensboro that night, the helen car broke down and that they arrived at the train, arriving here at 4:35 a.m. in time to take part in the hunt for the supposed Negroes "part of Crowder's gang" to fact that he and young Orr were in Greensboro that night, although other members of the party claim that Crowder's Greensboro earlier in the day. Crowder is held in jail here without bond.
+Following is the wording of the warrant: "F. B. Ford, being duly sworn, complains and says that at and in township, in or about 7th day of November, 1920, Kansil Killian, Idle Grice, Essie Benttle, Joe Orr did he guilty of the killing of John Ford, contrary to the form of the statute to the peace and dignity of the State."
+
+[OCR timeout]
 
 ## SIMON RHOADES LOSES CASE
 AGAINST STREET RAILWAY GO
@@ -128,27 +114,25 @@ AGAINST STREET RAILWAY GO
 
 Simon H. Rhodes, 4446 Calumet Ave., a former cook employed by the dining car department of the Chicago Great Western railroad, lost his job after a car cage surface lines when a jury in Judge Joseph B. David's court returned a verdict of not guilty in favor of the street car company because the street car company because the street car failed to get protection from officials of an eneathound W. Roosevelt Rd. car which he boarded at 46th Ave. and he was never beaten by three men he boarded while boarded the car at a point where it was not supposed to stop. Rhodes was beaten Aug. 20, 1922, during the time when railroad employees in yards were on strike, he said. According to his story, he boarded the car, paid his fare and stood on the back platform. Only four passengers under a vajuad, an alleged nonstop point, where three men got on and beat him up, believing him to be a strikebreaker. The conductor, Rhodes said, neither the conductor, Alex McGuire, 5228 W. 5414 St., nor the motorman, John McMann, did anything help him. When he complained that the McGuire replied: "Why should I help you? You're just as bad as they are—taking bread from our kitchen." Because the car officials assumed this attitude toward him and denied him protection while on the car Rhodes brought suit against the company. He was represented by white Richard Perendgras (white)
 
-## KILLS BURGLAR
+Evansville, Ind., April 11—Two murders occurred in this city Saturday. George Carter, 35 years old, worked at a fellow workman. William Townes, 30. 38 Michelle St. Fred Downing, 35 years old, 11 Hendle Johnson, 35 years old, 11 Johnson, 20 years old, when he caught the latter trying to break in his home.
 
-Evansville, Ind., April 11—Two
-males occur in Carter's city Saturday,
-matter of interest. Carter is 37,
-was stabbed to death while at work
-by a fellow workman. William
-Brown, 35 years old, Downing,
-35 years old, 312 Hendle-
-back Ave., shot and killed Albert
-Johnson, 20 years old, when he
-hit the latter trying to break in
-his home.
+CANNING FACTORY
 
-## CANNING FACTORY
-
-Dr. M. Pryer, president of the Japo industrial Manufacturing association, will present a intensive trin through the South in quest of a suitable location to establish a warehouse. The class selected Nashville, Tenn., as the center for this great enterprise, where vegetables and fruits will be canned heartily and the picture of a person of our Race.
+Dr. M. Pryor, president of the Japo Industrial Manufacturing association, has returned to the city after an ex-convict who was a victim of a suitable location to establish a canning factory. This organization has worked for this great enterprise, where vegetables and fruits will be canned hear the picture of a person of our Race.
 
 # "SHE'S A GOOD LOOKING GIRL!"
 
 You can't expect people to say that about you as long as your appearance shows you are careless about keeping your skin free from pimples, or "breakfasting." You may feel like you have no hope of getting rid of these things, but you should not give up because Black and White Ointment is proves that they can depend on people every time that they can depend on their skin clear, smooth and lovely. Black and White Ointment is economically priced, in liberal packages. The 50c size contains three times as much oil as 25c size. All dealers have it...Adv
+
+---
+
+## Warranta Issued
+
+## Makes Confession
+
+## KILLS BURGLAR
+
+## CANNING FACTORY
 
 # Summer Is Just Around the Corner Here Is Your Opportunity to Enjoy it to the Fullest
 
@@ -158,18 +142,16 @@ Who would not enjoy spending their sum-
 
 # Just Such a Place Is The New Near Chicago Summer Resort
 
+RIVERWOOD
+ON THE BEAUTIFUL KANKAKEE
+
 There will be no attempt to make this ideal little country spot "citified." It is now charming in its rustic simplicity. Why spoil it? When it is taken into consideration that there are only about three hundred lots in "River wood" and that many of the most prominent people in the country have purchased lots, it can readily be seen that if you wish to secure one of the remaining lots it will be necessary to make your application immediately. The lots are 30x100 feet AND RANGE IN PRICE FROM $100 to $240. TERMS, ONE-FOURTH DOWN, BALANCE IN TEN EQUAL MONTHLY INSTALLMENTS. The right is reserved to return the remittance of any applicant found undesirable. ALL CHECKS MUST BE MADE PAYABLE TO J. L. LE CLAIRE, Owner, and sent to the
 
 Phone Douglas 7415 and a representative will call and give you full particulars ALFRED ANDERSON of the Chicago Defender has been duly authorized to represent J. L. LeClaire in matters pertaining to "Riverwood."
 
 MRS. JENNIE CARTER
-An automobile driven by John
-Crope, 229 E. 30th St. ran down
-and killed Mrs. Jennie Crope, 3753
-Vernon Ave. Saturday afternoon at
-32d and Stata Sts. Mrs. Carter was
-dragged 40 feet after being struck.
-She died at the County hospital.
+
+An automobile driven by John Crope, 229 E. 30th St., ran down and killed Mrs. Jennie Carter, 3753 Vernon Ave., Saturday afternoon at 321 and State Sts. Mrs. Carter was dragged 40 feet after being struck. She died at the County hospital.
 
 # OUTCRY A FAKE, GIRL TELLS COP
 
@@ -180,25 +162,13 @@ It was the desire to possess this locket that caused the girl to stage the fake 
 ## CLAIM WOMAN PRISONER
 
 IS ESCAPED MURDERESS
-Newark, N. J. April 11.-Helen
-Jenson, in pursuit, three-month sentence at Caldwell, has been desolued
-the Philadelphia police to be Miss Agnes Williams, alias Viola Haywood,
-who was tried for murder in that city in 1934 sentenced to from five to seven years for manslaughter, and escaped July from the Asylum for Criminal Insane at Alentown.
+Newark, N. J. April H.-Helen Johnson, serving a three-month sentence on Calthwish, has been declared by the judge Agnes Williams, alias Vilas Haywood, who was tried for murder in that city in 1919, sentenced for from five to seven years for manslaughter, and from the Asylum for Criminal Institution. A letter received by Police Chief Long Thursday, signed by Joseph A. LeStrange, acting captain of detectives, Philadelphia, says the woman's fingerprints, copies of which were Philadelphia, show her identity. She will be held for the police of that city.
 
-A letter received by Police Chief Long Thursday, signed by Joseph A. LeStrange, acting captain of detectives, Philadelphia, says the woman's fingerprints, copies of which were sent to Philadelphia, show her identity. She will be held for the police of the city.
-
-Summer Is
-Here Is Your Opinion
-
-As the bright, warm, sunshiny days come most of us who live in cities get that tired, languid feeling, the result of being housed up all winter.
-
-We want to get out in the open where the birds are singing, wild flowers blooming; where there are long stretches of velvety grass, glorious shade trees, clear, cool, glistening streams invite bathing, boating and fishing. Who would not enjoy spend
-
-The New Nea
+As the bright, warm, sunshiny days come most of us who live in cities get that tired, languid feeling, the result of being housed up all winter. We want to get out in the open where the birds are singing, wild flowers blooming; where there are long stretches of velvety grass, glorious shade trees,
 
 # CHILDREN CRY FOR "CASTORIA"
 
-mother and the kiddies to spend the summer months. Dad can motor down every night or week-end; just a couple of hours' drive
+mer vacation in a little cottage—say like the one pictured—which can be erected for a few hundred dollars—situated in a little garden spot only 58 miles from Chicago, surrounded by a small group of friends and associates? "Nothing could be sweeter." A real touch of the simple life; an ideal place for streams of water that bring and fishing. Boy spending their summer mother and the kiddies to spend the summer months. Dad can motor down every night or week-end; just a couple of hours' drive
 
 # HOWARD LAW SCHOOL GETS BIG LIBRARY
 
@@ -242,7 +212,7 @@ Miss Richardson replied that she was not in Georgia and that it would be advisab
 
 ## GETS 20 YEARS
 
-Philadelphia, Pa., April 11.—Robert Savage, 48 S. Eighth St. Camden, voyaged to 20 to 20 years in the state prison by Justice Katzenbach after he had been convicted of slaying Henry Daniels three months ago in a quarrel over a woman in a dance hall.
+Philadelphia, Pa., April 11.—Robert Savage, 48 S. Eighth St., Camden, voyaged to 20 to 30 years in the state prison by Justice Katzenbach after he had been convicted of slaying Henry Daniels three months ago in a quarrel over a woman in a dance hall.
 
 FOR "CASTORIA"
 
@@ -250,30 +220,42 @@ Castor Oil, Paregoric, Drops — No Narcotics!
 
 sleep without oplates. The genuine bears signature of
 
-Chas H. Hutchers
+Chast. H. Fletcher
 
-At the Corner it to the Fullest
+the Corner
+it to the Fullest
 
-mer vacation in a little cottage—say like the one pictured—which can be erected for a few hundred dollars—situated in a little garden spot only 58 miles from Chicago, surrounded by a small group of friends and associates? "Nothing could be sweeter." A real touch of the simple life; an ideal place for kiddies to spend the summer on motor down every night or a couple of hours' drive
+mer vacation in a little cottage—say like the one pictured—which can be erected for a few hundred dollars—situated in a little garden spot only 58 miles from Chicago, surrounded by a small group of friends and associates? "Nothing could be sweeter." A real touch of the simple life; an ideal place for
+
+kiddies to spend the summer
+an motor down every night or
+a couple of hours' drive
 
 Summer Resort
 
-58 miles to CHICAGO
+56 miles TO
+CHICAGO
 
-try spot "citified." It is now into consideration that there many of the most prominent seen that if you wish to secure application immediately. The 1240. TERMS, ONE-FOURTH ENTS. The right is reserved ALL CHECKS MUST BE
+try spot "citified." It is now
+into consideration that there
+many of the most prominent
+seen that if you wish to secure
+application immediately. The
+240. TERMS, ONE-FOURTH
+ENTS. The right is reserved
+ALL CHECKS MUST BE
 
-RESORT
-CHICAGO, ILLINOIS
+ESORT
 
-live you full particulars
+CHICAGO, ILLINOIS vive you full particulars duly authorized to represent
 
-duly authorized to represent
+PAGE THREE- PART ONE
 
 35c "Danderine" does Wonders for Any Girl's Hair
 
-Girl! Try this! When combing and dressing your hair, just moisten your hair brush with a little "Danderine" and brush it through your hair, the effect is wearing. You can do your hair up immediately and it will appear twice as thick and heavy—a mass of gleamy hair, sparkling with life and possessing that incompatible softness, freshness and luxuriance.
+Girls! Try this! When combing and dressing your hair, just moisten your hair brush with a little "Danderino" and brush it through your hair. The effect is startling! You can do your hair up immediately and it will appear twice as thick and heavy-a mass of gleamy hair, sparkling with life and possessing that incomparable softness, freshness
 
-While beautifying the hair "Danderine" is also toning and stimulation each hair, it holds a thick, long and dandruff disappears. Get a bottle of delightful, refreshing "Danderine" on the toilet counter and just see how healthy and youthful your hair becomes.
+While beautifying the hair "Dandermine" is also toning and stimulating each single hair to grow thick, long and strong. Hair stops falling out and dandruff disappears. Get a new haircut. "Dandermine" at any drug toilet counter and just see how healthy and youthful your hair becomes.
 
 ## VALUABLE REWARD
 
@@ -290,44 +272,25 @@ antique. Wear this
 antique. Wear this
 ant
 
-Men's Sizes Only. with two intrinsic gems set in cataclysmic histories reputed to be the most beautiful men in theaters delighted, gain strange power, and wear an upper star. Ring is charmed to ward away a lucky star. Write today. A great surprise awaits you.
+UCK comes your first choice for wear this emblem of success in love and business sunny side of the moon sweetheart, health and friends. We can ship this emblem of beautiful terrace of beautiful garden. With admiration from all. Ring in gold effect. Mounted set in caballic hieroglyphs, sequenced to be taken from an ancient Abyssinian ear. Wear. Hinge under a lucky star. Hinge is charmed to ward off evil and bestow good. Write today. A
 
-Don't Send a Penny
-Only your name and address. When your ring comes, deposit in trust with the millman $12.8. Or if you like send $12.8 in cash or gift card. When your ring comes, a special price. Ring will sell vry soon for $10.00 that rich man wish to buy. If you are not delighted. Money you receive is not delicately. Money you receive is not delicately. Questions. Your word is good with us. But do not put it off. Money you receive is not delicately. Money you receive is not delicately. Those who act at once will be given this special price. Nothing like it will be. Wear by the time you get lucky. Write today. The old reliable house. 800, 649 E. Jackson Blvd. Chicago, IL 609-649
-
-given this special price. Nothing like it.
-Won by New York City. May 22
-JACKY. Write today. The old reliable house.
-FELIX PROSPER COMPANY. Room $60, 64
-k. Jackson Bldd., Chicago, Illinois.
+given this special price. Nothing like it
+given this special price. Nothing like it
+Luke, write today. The old reliable house-
+er. E. Jackson Blvd., Chicago, Illinois.
 Have Happiness, Love, Money!
 
 Revealed at Last!
+
 Beauty Secrets
-Now the Youth and
-Beauty Secrets of
-Government.
-May be Yours
-
+Now the Youth and Beauty Secrets of Society's "400" May Be Yours
 Get a Copy of the Amazing Treatise
-HOW TO BE BEAUTIFUL AND
-KEEP YOUTHFUL
-By Adeen C. E. Minott, D. M.
-
-Begin Today to Grow Young—
-acquire the youthful appearance
-and beauty that you may
-admit and envied by all. Write
-immediately for this wonderful
-treatise. SEND NO MONEY—
-simply pay the postman $2.00 on
-delivered mail. Money back if not satisfied.
-Edition strictly limited. WRITE US
-TODAY.
+HOW TO BE BEAUTIFUL AND KEEP YOUTHEUL
+By Aden C. E. M. Minot, D. M.
+Begin Today to Grow Younger—to acquire the youthful appearance and beauty that make you admired and envied by all. Write immediately for this wonderful trentise. SOME JOY to simplify, pay the postman $2.00 on delivery, plus a few cents postage. Money back if not satisfied. Edition strictly limited. WRITE US TODAY.
 
 CLIO SCHOOL
-Suite 14, 246 W. 129th St.
-New York City
+Suite 14, 246 W. 129th St. New York City
 
 ## GET WELL
 
@@ -339,20 +302,19 @@ IVEY LABORATORY CO., Inc.
 Desk A. Memphis, Tennessee
 Agents Wanted Everywhere
 
-HISTORICAL PHOTOS
-Of men that have carved their
-names in fame to live forever.
+HISTORICAL PHOTOS Of men that have carved their names in fame to live forever.
+
+O
 
 COL. CHAS. YOUNG, U. S. Army
-DR. ROBERTY WARDHURST
-DR. LAWRANGE DUNBAR, Post
-LAWRANGE DLLLAMPS, Attor
-BURETT PHILLIPS. Attor
-Photos Bx10—High Grade Photopage Finish
-50 CALL POETRY TID
+PAUL LAWRANCE DUNBUR, Post
+PAUL LAWRANCE DUNBUR, Post
+AURT HURT, WILLIAMS, Actor
+Photos #1-10 - High Grade Photographs Finish
+DOCUMENTS
 FOSTER HISTORICAL
 PHOTO SUPPLY
 BOX 202, CHICAGO DEFENDER OFFICE
-CHICAGO, IL.
+CHICAGO, ILL.
 
 USE DEFENDER WANT ADS

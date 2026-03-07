@@ -1,10 +1,6 @@
 g. Mich., July 21.—A garden is given on Wednesday, 10th of the trustees of the A. M. K. on the spacious lawn of the me of Mr. and Mrs. Wilbur Ricks at Logan street. *Rev. Mr. Jarkend joined the meeting of the trustee, the Handy Home at Jackson on July. *Miss Rhoda James filled the role of the A. M. E. Church on last Sunday morning very acceptably. *A feature service was held at night, the occasion being in honor of marriage. During the past four years of the pastor, Rev. Mr. Jarvis, has united in wedlock fourteen persons (couples). Special invitations were extended to all married persons and all male numbered. Special internal programme was rendered by the choir. Appropriate remarks are made by the pastor. Wardling I are still ringing. Men's day July promises to be a grand feature. Twelve Race men are in the field raising funds to make the occasion a financial success.
 
-Thu, Handy Home at Jackson on July 21. *Miss Rhoda James filled the耳 of the A. M. E. Church on last Sunday morning very acceptably. *A feature service was held at night, the occasion being in honor of marriage. During the past four years of the pastor, Rev. Mr. Marvis, has united in wedlock fourteen persons (couples). Special invitations were extended to all married persons and all age numbers. Special special programme was rendered by the choir. Appropriate remarks are made by the pastor. Awarding are still ringing. Men's day July promises to be a grand feature. Twelve Race men are in the field raising funds to make the occasion a financial success.
-
-Jackson, Mich., July 21.—The board of trustees of the Handy Home of Jackson Mich., met on July 4 in regular annu- session. The following trustees were present: President, J. M. Henderson; Mendesias M. Allen, Cornelia Henderson, T. P. Wright, Eliza Freeman, P. V. Wright, Christina Wesley, Revs. J. E. Jones, T. A. Reid and J. W. Jarvis. The president of the board addressed the members of that body in a very nent speech, setting forth the great importance of building for the future and of taking great care in discussing the schemes that might be brought up for consideration. Ways and means formed a great part of his brief address. Rev. J. W. Jarvis of Lansing was elected secretary for the year: the election was contested, two ballots being necessary. Mrs. P. V. Wright, solicitor, reported. Total receipts were $224; total expenditures, $150; balance in the bank, $201. These reports were turned over to the auditing committee; the reports were verified. The trustees took a step in advance by assessing themselves at the rate of $5 per year. The treasurer's report showed that $10 had been turned over to him. This was verified by the auditing committee. It was decided by the board, on a question asked by Mrs. Allen, that all was in Northern Indian, within it, funds of the Michigan Annual Conference, were eligible to admittance into the Handy Home, the charter having made the position clear. Ms. W. Jarvis, secretary.
-
-## By Mrs. L. F. Ash
+Jackson, Mich., July 21.—The board of trustees of the Handy Home of Jackson, Mich., met on July 16 in regular annual session. The following trustees were present: President, J. M. Henderson; Madems idaho M. Allen, Cornellia Henderson, T. P. Wright, Eliza Freeman, P. V. Wright, Christina Wesley; Revs. J. E. Jones, T. A. Reid and J. W. Jarvis. The president of the board addressed the members of that body in a very pensive speech, setting forth the great importance of building for the future and of taking great care in discussing the schemes that might be brought up for consideration. Ways and means formed a great part of his brief address. Revs. J. W. Jarvis of Lansing was elected secretary for the year; the election was contested, two ballots being necessary. Mrs. P. V. Wright, solicitor, reported. Total receipts were $224; total expenditures, $150; balance in the bank, $201. These reports were turned over to the auditing committee; the reports were verified. The trustees took a step in advance by assessing themselves at the rate of $5 per year. The treasurer's report showed that $10 had been turned over to him. This was verified by the auditing committee. It was decided by the board, on a question asked by Mrs. Allen, that all was in Northern Indiana, within the lands of the Michigan Annual Conference, were eligible to admittance into the Handy Home, the charter having made the position clear. Ms. W. Jarvis, secretary.
 
 ## By Mrs. L. F. Ash
 
@@ -18,8 +14,6 @@ andalla, Mich., July 21.—H. C. Newman and family and Mrs. Asa Stewart and son 
 
 Kalamazoo, Mich., July 21.—The fourth and last quarterly issue of this conference year was held at A. M. E. Church last Sunday. Of the extreme heat there was a good attendance. Rev. Dungill pured a soul reviving sermon in the afternoon and Rev. E. E. Gregory of Battle Creek poke in the evening. His text, "Ye Must Be Born again," was ably handled. *Special services were held by the Second Baptist Sunday school Sunday afternoon, during which an interesting programme was re-lered. Mr. R. Sutton, superintendent, Miss Frieda Scott of Richard Street, bishop oflegate to the South Bond district, conferring sentencing the Women's Missionary Department, held at the A. M. E. Church, Jackson. Mich., reports a busy, successful session and a pleasant visit. The convention was largely attended. * Miss Theresa Smith of Oberlin, Ohio, was the guest of Mrs. Jess L. Graine the past two weeks. She was returning from Oakland
 
-list Sunday school Sunday afternoon, during which an interesting programme was relied on. Mr. R. Sutton, superintendent. * Miss Frieda Scott of Richardson street, who was a delegate to the South Bend district conference, representing the Women's Missionary Department, held at the A. M. E. Church, Jackson, Mich., reports a busy, successful session and a pleasant visit. The convention was largely attended. * Miss Theresa Smith of Oberlin, Ohio, was the guest of Mrs. Jess L. Graine the past two weeks. She was returning from Oakland
-
 # Cheapest Light and Fuel
 
 The U. S. Bureau of Standards announces, in an official bulletin, that the mantle gas light is the cheapest of all house lights.
@@ -32,23 +26,43 @@ Since "candle power" is useless in mantle lighting, isn't it perfectly plain tha
 
 Heroic fighting men from Algiers who were wounded during the recent success of the allies against Germany. They are seen sunning themselves on the balconies of the leading hotels of Paris. First man on right is Bob Jones, of Savannah, Ga., at one time a member of the boys' company of the Georgia cadets. He left America when the state of Georgia refused to let Race men use guns or form military companies in the state. He went to France.
 
-and San Francisco, Cal., where she spent a year and visited the exposition. Mrs. Minnie Simmons of 100 North Burdick street is quite ill, under the attendance of her physician. We wish for her a speedy recovery. *Miss Cecilia Parker and her father, Parker, are in Kent City, Mich.* Mrs. W. E. Hyatt of Dow Paw, Mich. was the guest Saturday of Mrs. E. W. Edwards. Among the progressive young women of the city will be found Miss Marie Boyd and Mrs. Jonnie Gons-Evans, who are employed by one of the largest paper box factories and they are adding back to their race. *Miss Traine and Mestham John and Jess Ginske gave out at Oakwood Park July 14 in honor of Mrs Smith.* The American Civic League held their regular meeting Friday night and an enjoyable evening spent. This organization is attempting to better the existing conditions among the Race men of this city. The following gentleman, all race men, are its officers: Rev. E. W. Edwards, president; Mr. C. A. Evans vice president; Mr. J. N. Befford secretary; Rev. S. T. Byrd, treasurer. Among the men are Rev. Clark, Jesse L. Graine, Mr. Lester Bowlin, Mr. Morgan, J. Russell and others. *Mr. George Singer of Pitcher and Richard Street has been suffering for some time with rheumatism in his feet and is not much improved at this writing.* Mrs. S. Bass of North Edwards street is also a sufferer from rheumatism. *Mr. W. P. Henson of North Edwards street has just returned from a glorious trip through Indiana, Kentucky and Cincinnati, Ohio.* In each city visited in the above named states he was royally entertained by old friends and relatives and regulated to his entire satisfaction with spring chicken. *All of the other good things that the people know how to prepare.* Mr. Henson was the guest part of the time of his son, Dr. Paul Henson, and of his daughter, Mrs. Chamons. *Mr. Frank Scott, an enterprising young man of this city, is employed as steward at the Country club, one of the largest clubs of its kind in this part of the country.* Mr. Lester Bowlin entered into the waste paper and rag business last fall in Plainwell, Mich., and so successful his venture proved to be that he has purchased a Ford auto truck. Mr. Bowlin is a thorny Race man and does all his power to help his own deeds. *Miss Jessica Hackley, Jr., of Jeffries, were recently joined together in weeck.* Mrs. Mery Pollard and daughter, Miss Sarah Leets, entertained at dinner Thursday the 15th, complimentary to Miss Theresa Smith and Mr. B. Thurran gave a theater party for Misses Smith, Graine, Lettis and Mr. and Mrs. J. Graine. *Miss Lucille Harris was quietly married recently to Mr. Jackson of Chicago, B. H.* Mrs. Graine, who has been on the sick list, is much better at this time. *A big joint picnic will be given Thursday by the various churches at Gull Lake.* Mr. and Mrs. Cox and children are visiting in Indianapolis. *Mrs. Vera WhiteTabern is the guest of her mother, Mrs. P. White, on West Ransom street.* The following programme was given at the B. Y. P. U. of the Second Baptist church last Sunday under the leadership of Mrs. P. White: Paper by Miss Johns, solo by Mr. S. Phillips, paper by Mrs. Vera Tabern, solo by Miss D. McDonald, paper by Mr. E. Shepherd. *Rev. Mr. Gregory, who has been conducting a series of meetings for the past month at the Second Baptist church, is meeting with wonderful success. Quite a number added to the church and one baptism.* *Little Morris Sutton, who has been the past nine weeks, is regaining his health and hopes to amalgamate his little playmate soon. Please see him at City, political news to 363 City, Mr. Jeffries and wife were called to Valencia last Sunday to attend the funeral of their daughter-in-law, Mrs Chester Jeffries, who died last Friday morning. Her husband died just a few weeks ago. They left six little children.* *Miss Cecilia Russell and brother, Rev. Byrd and family, attended the union picnic given by the Benton Huron Sunday school at Indian Lake.* Rev. E. E. Gregory and wife, Mrs. Golden and daughter, and Mr. Chandler of Battle Creek drove to Kalamazoo and spent Sunday, Rev. Mr. Gregory is very proud of his new car.* The drama entitled "A Woman's Honor," that was given so successfully in May by the Missionary society, will be repeated July 26 at the A. M. E. Church.
+Heroic fighting men from Algiers who were wounded during the recent success of the allies against Germany. They are seen sunning themselves on the balconies of the leading hotels of Paris. First man on right is Bob Jones, of Savannah, Ga., at one time a member of the boys' company of the Georgia cadets. He left America when the state of Georgia refused to let Race men use guns or form military companies in the state. He went to France.
 
-By Walter A. Smith
+Watches, Clocks, Diamonds and Jewelry
 
-Port Huron, Mich., July 21.—Mrs. Ernest Wayer left for her home in Detroit, Mich. Tuesday after a pleasant two weeks' visit. Mr. and Mrs. David Griffin, Detroit, entertained Mr. and Mrs. Henry Harris of Sarnia, Ont., to dinner at "The Pines"; Edison Beach, Saturday evening. *Miss Katherine Waynes gave a very delightful function at her home on Howard street Friday, evening, July 14, honoring her sister-in-law, Mrs. Ernest K. Wayner of Detroit and Mrs. Kenneth J. Wayner of Ann Arbor, Mich.* Mr. and Mrs. Wm. Shelby entertained guests at dinner Sunday. *Miss Katherine Williams, Mrs. Harry Harris and Mrs. K. J. Wayner attended the picnic at Sugar Island from Detroit Tuesday, July 11th. *The Prisella club, composed of Port Huron and Sarnia indies, will hold a picnic at Tashnueh Park July 25th. Miss Katherine L. Wayner left Tuesday for Toronto, Ont., where she will spend several weeks the guest of her cousins Mrs. D'arcy Marshall and Mrs. Shirley Jackson. *Little Virginia and Marceline Ford spent the week end with Mrs. Wm. Caldwell, Twenty-second street.*
+Expert at the Trado
+Right on the Dot
 
-By Claude Johnson
+YOU CAN DEPEND UPON IT
 
-Battle Creek, Mich., July 21.—W. R. Roberts of Lansing was the guest of Mr. and Mrs. Rev. Ampy Saturday and Sunday. Mr. Roberts is secretary of the Board of Correction of Charity. *Mrs Nelson Curtis and sister, Mrs. Briggs spent a four-week allogam, Mich. visit with their mother. *Miss Emilie Cartier is visiting relatives in the City, Mitten Williams has gone to his home in Pawlville, Ky., to spend the remainder in the summer. *Mrs. Bell Dean Wesley has resumed her duties at the Hicks drug store after about six months' vacation. *Leave items at Beverly's Barber shop or phone 609 W. *Mr. Henry Clark, one of our well-known old rural citizens, had the misfortune to lose one of his horses, a valuable 3-year-old coat. He had it tied down to keep from jumping feaces and in some unknown manner it got its foot over the rope and was drowned in less than two feet of water. The horse weighed 1500 pounds and was considered worth about $200. Neal Charies, the son of Mr. and Mrs. Max Chase, is visiting his grandfather at the Guide board. *The outing party will be held at Gormac Lake Thursday July 25. Davidson's orchestra. *Miss Hazel Conley is the guest of Miss Maxine Chase over Sunday.* Mr. James Goodall, who has been employed at the Nichols & Shepard for the past 12 years, has resigned and accepted a similar position at the M. Rumely Co. Messrs. Earl and Horan Jackson spent a few hours at St. Mary's Lake last Thursday morning and succeeded in catching the full number of perch and bluegills the law allows. Also a nice black bass.
+Because
 
-CITIZENS ORGANIZE LEAGUE
+this is the way she runs
 
-Hamilton, Ohio, July 21.—The citizens of this city are preparing to organize a protective association for the best interest of the Race. The organization is expected to extend throughout the state Hon. R. B. Moseley is directing the movement with the assistance of others.
+after handled by Martin
 
-MRS. G. ALLEN ENTERTAINED
+Your watch can be made to keep time if handled by Martin. Don't let it be ruined because of neglect. When Martin dies the worriedous it is. When you will be interested in our assortment, and will give you a square deal in everything.
 
-St. Paul, Minn., July 21.—Mrs. M. R. Hardy was the hostess Thursday afternoon in honor of her house guest, Mrs Gilbert Allen, and a delightful time was spent. Mrs. Hardy and Mrs. Allen spent a day socializing at Minneapolis.
+15 YEARS EXPERIENCE
+MARTIN & MARTIN
+ALL WORK GUARANTEED
+GRADUATED WATCHMAKER, JEWELER AND OPTICIAN
+3338 South State Street Phone Douglas 5528 CHICAGO
+
+GEO, M. WILLIAMS, PRESIDENT
+JOHN S. WILLIAMS, VICE-PRESIDENT
+
+The Mount Glenwood Cemetery Association
+(Incorporated)
+
+OFFERS
+
+Choice burial lots at very reasonable prices and on easy terms. Mount Glenwood Cemetery is the ideal cemetery for the last resting place of your loved ones. Why pay infinitely prices for obliteration places? Select a lot in Mount Glenwood today. Make a small cash payment, pay the balance in small monthly payments, and have the assurance that yourself and family will have final resting place in the most beautiful cemetery in the vicinity of Chicago. These lots also offer splendid opportunity to invest. Ask for our booklet on prices and terms.
+
+Mount Glenwood Cemetery
+3125 State S
+
+and San Francisco, Cal., where she spent a year and visited the expedition. Mrs. Minnie Simmons of Belle North Burberry street is quite ill, under the attendance of her physician. We wish for her a speedy recovery. * Miss Cecilia Parker and her father, Parker, are in Kent City, Mich. * Mrs. W. E. Hyatt of Bow Law, Mich. was the guest Saturday of Mrs. E. W. Edwards. * Among the progressive young women of the city will be found Miss Marie Boyd and Mrs. Jennie Gons-Evans, who are employed by one of the largest paper box factories in the city. Their work is giving satisfaction and they are adding knacks to their Race. * Miss Graine and Meshames John and Jess Gress gave an outing at Oakwood Park July 11th in honor of Mrs. Smith. * The Afro-American Civic League held their regular meeting Friday night and an enjoyable evening spent. This organization is attempting to better the existing conditions among the Race men of this city. The following gentlemens, all Race men, are its officers: Rev. E. W. Edwards, president; Mr. C. A. Evans, vice president; Mr. J. N. Bedford, secretary; Rev. S. T. Bryd, treasurer. Among their members are Rev. Clark, Mr. Jesse Dermin, Mr. Lester Bowlier, Mr. H. M. George Singer of Pittenborough and Mr. George Singer of Pittenborough and Richardson streets has been suffering for some time with rheumatism in his feet and is not much improved at this time. Mrs. S. Bass of North Edwards street is also a sufferer from rheumatism. * W. P. Henson of North Edwards street has just returned from a glorious trip through Indiana, Kentucky and Cincinnati. Ohio. In each city visited in the above named states he was royally entertained by old friends and relatives and regulated to his entire satisfaction with spring chicken. * all the other good things that the people know how to prepare. * Mr. Henson was the guest part of the time of his son, Dr. Paul Henson, and of his daughter, Mrs. Chalmons. * Mr. Frank Scott, an enterprising young man of this city, is employed as steward at the Country club, one of the largest clubs of its kind in this part of the country. * Mr. Lester Bowlin entered into the waste paper and rag business last fall in Plainwell, Mich. and so successful his venture proved to be that he has purchased a Ford auto truck. Mr. Howlin is a thorough Race man and does all in his power to help his own people. * Miss Evalline Hackley and Mrs. Jeannie Jeffries were recently joined together in wedlock. * Mrs. Mary Pollard and daughter, Miss Sarah Letts, entertained at dinner Thursday the 10th, complimentary to Miss Theresa Smith and Mr. B. Thurman gave a theater party for Miss Smith, Graine Lettis and Mr. and Mrs. Gress, Mr. Lucille Harris was quietly married to Mr. Jackson of Chicago, B. Mr. Graine, who has been on the sick list is much better at this time. * A big joint picnic will be given Thursday by the various churches at Gall Lake. * Mr. and Mrs. Cox and children are visiting in Indianapolis. * Mrs. Vera White-Tabison is the guest of her mother, Mrs. P. White, on West Ransom street. * The following programme was given at the B. Y. P. U. of the Second Baptist church last Sunday under the leadership of Mrs. F. White: Paper by Miss Robins, solo by Mr. S. Phillips, paper by Mrs. Vera Tabison, solo by Miss D. McDonald, paper by Mr. E. Shepherd. * Rev. Mr. Gregory, who has been conducting a series of meetings for the past month at the Second Baptist church, is meeting with wonderful success. Quite a number added to the church and one baptism. * Little Morris Sutton, who has been the past nine weeks, is regaining his health and hopes to be among his little playmates soon. * religious political moves to B. Y. P. U. of the Second Baptist church. * Mr. Jeffries and wife were called to Volenia last Sunday to attend the funeral of their daughter-in-law, Mrs Chester Jeffries, who died last Friday morning. Her husband died just a few weeks ago. They left six children. * Miss Cecilia Russell and brother,
 
 Rev. Byrd and family, attended the union picnic given by the Benton Hill bar Sunday school at Indian Lake. "Rev. E. E. Gregory and wife, Mrs. Golden and daughter, and Mr. Chandler of Battle Creek drove to Kalamazoo and spent Sunday, Rev. Mr. Gregory is very proud of his new car." The drama entitled "A Woman's Honor," that was given so successfully in May by the Missionary society, will be repeated July 26 at the A. M. E. Church.
 
@@ -67,9 +81,9 @@ Hamilton, Ohio. July 21.—The citizens of this city are preparing to organize a
 MRS. C. ALLEN ENTERTAINED
 St. Paul, Minn. July 21.—Mrs. M. R. Hardy was the hostess Thursday afternoon in honor of her house guest, Mrs. Gilbert Allen, and a delightful time was spent. Mrs. Hardy and Mrs. Allen spent a day socializing at Minneapolis.
 
-Tupelo, Miss. July 21.—Mr. Walter Abbott of Oakland was the guest of Mrs. Mandee Lee Sunday. *Miss Hazel Younter* entertained the Happy Hour club Tuesday Dr. Thompson, A.M. E. church, was honored guest. Miss Gertie Robinson, president. *Mrs. Dan Marshall and her daughter, Miss Callie Mae, and little Josephine Hunter spent Sunday in Verona. *Miss Jessie E. Shannon is on the sick night. Miss Gertie Scott died Friday night. *Mr. Ned Bracy, a barber, died Thursday night. *Mr. John Q. Harper has returned after spending several weeks in Chicago and Lake Geneva, Wis.**
+Tupelo, Miss. July 21.—Mr. Walter Abbott of Oakland was the guest of Mrs. Mandee Lee Sunday. *Miss Hazel Younor entertained the Happy Hour club Tuesday. Dr. Thompson, A.M. E. church, was honored guest. Miss Curtie Robinson, president. *Miss Luan Marshall and her daughter. Miss Callie Mae, and little Josephine Hunter spent Sunday in Verona. *Miss Jessie L. Shannon is on the sick list. *Miss Curtie Scott died Friday night. *Mr. Ned Bracy, a barber, died Thursday night. *Mr. John Q. Harper has returned after spending several weeks in Chicago and Lake Geneva, Wis.
 
-Summit, Miss. July 21.—The revival at the A. M. E. church closed Wednesday night with 16 accessions. The meeting was conducted by R. H. Williams, Crystal Springs, Miss. Each service was largely attended. The contract of the M. L. church was let to J. M. Watts last Monday and reimbining began at once. *Mrs. Hilary Reed while returning from church in Fernwood Sunday night was hit by train No. 6 on the Sam Berry's crossing. Mrs. Reed was carried to the hospital at McCormt. Doctors state she is in serious condition. *Rev. M. Hunt, state missionary, preached at the First Baptist church last Sunday evening. *Ms. Ida Euckley, who has been on the sick last week, is up again. *Mrs. Aaron Robinson and son are spending the summer with her niece, Mrs. L. Wilchid. *Mrs. Alle Bridges after turned home last Wednesday after spending two weeks in New Orleans. *L. C. Wilchir and Guy Dillion spent the week end in New Orleans, La. *Will Woods is still on the sick list. *Aaron Robinson and Chance Evans, New Orleans, were the guests of Mrs. A. Bridges Sunday. *Alphonse Mongenery and Willie West Brooks, Chicago, spent Sunday with relatives. *Alex A. Wilchir left for Chicago to stay indefinitely.
+Summit, Miss, July 21.—The revival at the A. M. E. church closed Wednesday night with 17 accessions. The meeting was conducted by K. H. Williams, Crystal Springs, Miss. Each service was largely attended. The contract of the M. L. church was to let J. M. Watt's last Monday and rebuilding began at once. Mrs. Ellery Reed while returning from church in Fernwood Sunday night was hit by train No. 6 on the Sam Berry's crossing. Mrs. Reed was carried to the hospital at McComb. Doctors state she is in serious condition. *Kev, M. Hunt, state missionary, preached at the First Baptist church last Sunday evening.* *Mrs Isa Euckley, who has been on the sick last week, is up augur.* *Mrs. Aaron Robinson and son are spending the summer with her mother, Mrs. L. Wichid.* *Mrs. Allie Bridges after turned home last Wednesday after spending two weeks in New Orleans.* *L. C. Wichirh and Guy Dillion spent the week end in New Orleans, La.* *Will Woods is still on the sick list.* *Aaron Robinson and Chance Evans, New Orleans, were the guests of Mrs. A. Bridges Sunday.* *Alphonse Mongoose and Willie West Brooks, Chicago, spent Sunday with relatives.* *Alex A. Wichirh left for Chicago to stay indefinitely.*
 
 ## By Miss Hunter
 
@@ -81,28 +95,30 @@ Corinth, Miss, July 21.—Mrs. Jessie Usher, and niece Gussie Lee, William and M
 
 Pass Christian, Miss, July 21.—Monday night the Goodville Baptist church was honored with the presence of the great gospel contralto songster, Mrs. E. Stewart. She was introduced to the audience by Rev. Louis Johnson. *Mr. Richard Shilman departed Sunday, July 16, for the Crescent City. * Mrs. Marle Holman, after a month's stay with her sister, Mrs. Lovena Dallis, returned to her home in Texarkana, Tex., on July 11. * Miss Jennie Johnson, after a two years' stay in San Francisco, Cal., is visiting her mother, Mrs. Jennie Johnson. * Mr. Troy Hooper, a business visitor to the Pass Wednesday, the 12th. * Miss Gladys Bowser was over from New Orleans Sunday and spent the day with her parents, Mr. and Mrs. Tom Bowser. * Mrs. O. Ross and Mrs. Carrie Hicks, after a two weeks' visit to Mrs. Louis Payne, left Sunday, July 16, for their home, Jackson, Miss. * Mrs. Florence Payne after a two weeks' visit with her sister-in-law, Mrs. Reuben Hall, returned to her home, Jackson, Miss, on the 16th inst. * Miss Josephine and Bertha Quezuelo, who attended the wedding of Miss Eugenia Dominguez, left for their respective homes in New Orleans, La. Sunday. * Miss Helen Quentant, who acted as bridemaid at the nuptials of Miss Eugenia Dominguez, returned to her home. * Mr. Reuben Hall, a wedding of much interest was that of Miss Eugenia Dominguez to Mr. David Bazille of New Orleans, La., which took place Wednesday, July 12 at 7:30 a.m. The marriage was celebrated at nuptial mass at St. Philomena's church. Rev. Father Plunket officiating. Those desiring to secure the Defender will apply at box office, Dixie theater.
 
+[Signature]
+
 20 were baptized Sun
 the back waters, near
-Howard, Howard
-Baptist church in
-present.  
-A party.
-Mr. B. S. Randall, ar
+Pearl B. H. Howard
+Baptist church out
+present.    A party
+Mr. B. S. Randall, nr
 country to West Po-
 nol's car, to attend
-Monday.  
-Mesda
-Eunice Lenor, We
-Charity Gemerson he
-saturday for Memp
+Monday.    Mesdan
+Eunice Lenoir, We
+Charity Gemerson le
+Saturday for Memp
 return reported a ve
-Littleton Turner hals
-bed for several dispe
-spendings a few wee
-relatives.  
-Mrs. H
+Littleton Turner him
+his bed for several dis
+speddy recovery.
+spending a few wee
+relatives.  Mrs. H
 Sunday to spend a
-homa.
+home.
+
+Out in Mo
 
 By W. H.
 Rev. Merritt spotted from the Corinthian in. In the event theme "Truth." O. McKinnon 21st president of A. M. E. Chicago annual corp Arnett Chapel, Mortory by Dr. R. E. Thomas Stowers, snett Chapel Sund much to bring the Chapel, made the Merritt, members lated themselves cates and visitors * Rev. Rogers of Church, made a巾 Corinthian, staff talk on Sunday ssel P. Jones of board and recordi P. U., made a sh * Wednesday morl Allenworth capt with her song seing the spirit move of S. E. Cooper of gave diplomas to mail Department. to Mrs. Cooper a Superintendent officer and memorial officers and memorial in the corp Benjamin has resplit, but not alt M. Tucker was last week. * Mr. are not well at t Charge, represent the convention, in Sunday school. * Ill. who has be the Parcel for fo Dr. Patrin (Eighth came horilable discharge joyed to have him * Mr. Winfrey dece the convention. M Winfrey. * Mr. Frer hurt on a job; is a Mr. Jewricks had from his home tow Aurelia Carthel, *4 was visiting in the Weldon Ray had in day it presents. The day school elected Young People's Co. Tenn., Aug. 2- 19, 1997 was elected de Payton is a member per Choir now.
@@ -118,12 +134,23 @@ C. J. Walker Mfg. Co., and the Lella C.
 640 North West Street, Indianapolis It
 
 These remedies are
-THE MADAM C. J.
-640 North West St
+
+THE MADAM G. J
+
+640 North West St.
 
 THE MILTON MER
 
-Have you bought your COAL for no
-not delay, but order from us today, lion
-is the theft of time, and you may
-too late.
+Have you bought your COAL for you
+not delay, but order from us today, let
+tion is the thief of time, and you may
+to late.
+
+are very anxious to have you bo
+bo, a regular customer, and s
+wb, that you use our Mr. B
+it that you get a con that you
+DUCER, that is CLANB AND W
+IGNITES WELL, but is ST
+ING, FLASHY, and that is I
+UTY, or to use

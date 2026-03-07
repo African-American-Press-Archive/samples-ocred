@@ -50,8 +50,6 @@ Douglas, Ga., Jan. 2. — Henry Thomas, employed on the plantation hitched. He h
 
 # ARREST RECALLS RIOT OF 24TH INFANTRYMEN
 
-Ex-Policeman, Who Caused Conflict, Nabbed for Making Moonshine Whisky
-
 ## Ex-Policeman, Who Caused Conflict, Nabbed for Making Moonshine Whisky
 
 (BY CONTINENTAL PRESS)**
@@ -103,6 +101,8 @@ Washington, D. C. Jan. 21.—The will of the late Dr. R. W. Brown, who was shot 
 CHILDREN DIE IN FIRE
 Monroe, La. Jan. 21. - Robbery is believed to have been the motive for the killing of Elder Nencoy, his wife of children, who were found burned to a coal heap by Guy P'Bush's plantation, in what is known as the colony neighborhood of Ouacha in parish, ten miles east of this city. Seven shots were fired at Nencoy's house and later the dwelling was in flames. Coal oil is believed to have been used in the building to make it run out quickly.
 
+THE OVERWATCH
+
 Native African mon watching their women build houses. The follow who wrote "Let the Women Do the Work" must have visited that part of the world before he got the inspiration for the words of his song.
 
 # Coolness of Pastor Saves Many Lives at Church Fire
@@ -113,24 +113,21 @@ Cleveland, O., Jan. 21. "What might have been the greatest catastrophe in church
 
 Brooklyn, N. Y., Jan. 21.—Social circles were greatly stirred here on when January 12 Dr. Gladstone M. Hinson, 313 Cumberland street, has his wife,
 
-Mrs. Eva E Hinkley
-fourth floor court
-charging her with
-malicious mischief.
-He further
-several occults
-his life had been
-threatened.
+Mrs. Eva E. Hinckley, hailed to the hall for charging her with malicious mis-sheet. He further stated that on several occasions he had been threatened.
+
+1
+
 A box of candy,
-sent to his house
+the claim was
 recently, and when
 analyzed was
 found to contain
-kill three persons.
+enough arsenic to
+kill a cow.
 All of this is the
-cultivation, the
-physician assures
-unsuccessful at-
+culmination, the
+physician assers-
+tion unsuccessful at-
 
 tempt to obtain a divorce from him last March. In an affidavit he states that he has been sent on bogus calls to patients for medical care from Mrs. Hinton plied a guilty and was paroled until this week, when she will appear for a hearing.
 
@@ -145,9 +142,6 @@ Tuscaloosa, Ala. Jan. 21—A manta for military buttons put Tobe Horne, ex-soldi
 is on the second floor. As the smoke seemed to become more dense, Dr. Redmond, requested the worshippers to stay in the office and dredge-obeyed the pastor, but several impatient and skeptic ones in the rear tried to get out through the windows, and as the result were more or less dredged in the office's story to the ground or pavement below.
 
 The fire department arrived and a second dredged the whole second floor to be heated caused by an over-heated furnace. They subdued the flames and it was found that the basement, which included the rooms, had been damaged to the amount of $15,000. Most of the damage on the second floor was caused by water and smoke and several windows were damaged by fire. The injuries he jumped through a window and missed the firemen's net below; Miss Mary Hines, 2255 E. 43rd St; Charles Sexon, 2255 E. 43rd St; and Jill St. injuries when he jumped back when she jumped from a second-story window, missing the firemen's net. The pastor and wife and officers of the worked faithfully, saving many lives.
-
-## WHITE BANDITS BLACK
-FACES TO POP STOP
 
 ## WHITE BANDITS BLACK
 
@@ -197,19 +191,19 @@ New York, Jan. 21—According to the station of the East 126th street police sta
 
 ## DESPERADQ NABBED
 
-Springfield, Mass. Jan. 21. —Charged with assault rifle officer and with carrying a loaded revolver. William Hood, 35, said to be in custody was last week held in bonds of $2,000.
+Springfield, Mass., Jan. 21.—Charged with assault with intent to kill a police officer, and with carrying a loaded revolver, William Good, 35, mid to have a long police record, was last week held in bonds of $24,000.
+
+A Buyer of Facts
 
 Reason enough why he buys the CHICAGO DEFENDER every week—He wants—THE TRUTH
 
-The journalistic fad of imaginative reporters to rewrite fact into fiction to make a "good story" may be a form of entertainment, but the men and women who prepare the news for the CHICAGO DEFENDER have but one idea in mind: to tell—
+The journalistic fad of imaginative reporters to rewrite fact into fiction to make an "good story" may be romantic and sensational, but the men and women who prepare the news for the CHICAGO DEFENDER have but one idea in mind: to tell—
 
 ALL THE TRUTH
 
 "No Matter Whom It Hurts"
 
 ALL THE TIME
-
-Politician Wounded by Orchestra Leader in Cleo Quinn's House
 
 ## Politician Wounded by Orchestra Leader in Cleo Quinn's House
 
@@ -224,6 +218,8 @@ The shooting took place in the Quinn woman's bedroom, where several of Brassfiel
 All of the witnesses questioned thus far by detectives say the bullet was not aimed at Alderman Moran, but that Quinn woman's room and attempted to separate quarreling members of the musician's troupe. Brassfield says when he came to the house he found the woman's company by the woman. Policifans together with ministers of the city, are endeavoring to have Moran unseated as alderman because of his connection with Miles that has been frequently discussed prior to the Brassfield is being held pending the outcome of the alderman's condition.
 
 Little Russeul LaSieurie, 11 years old, the store owned by Hyman Rolsteinis, the store owned by Hyman Rolsteinis.
+
+(white), 2816 State street, when he saw three men, who ripped over, dash from the place and fade away into the darkness. He had purchased a package of Gold Dust for a barber at State street. Russel thought they were "playing" and dnl laughed heartily at the chase. In the house, saw Rotstein on the floor with a bullet wound in his head. He had by the fleeing highwaymen who only a few minutes previous had ridden by Russell.
 
 (white), 2816 State street, when he
 tried to drive one with a revolver,
@@ -275,10 +271,13 @@ To Build Hospital
 Bristol, Pa., Jan. 21. Citizens here are soliciting a building a hospital. Several thousand dollars has been raised.
 
 PRICE TEN CENTS
+NGER
 
 # Member Charges Pastor With Fraud
 
-Omaha, Neb. Jan. 21.—A suit has been filed in the District court here against Rev. William C. Williams, pastor of St. John's A. M. E. church, by Attorney Harrison J. Pinkett, member of the congregation, and until recently n member of the official board of the church, charging the pastor with the diversion of the church funds to his own personal use.
+Attorney Files Suit Against Prelate in Factory Deal
+
+Omaha, Neb., Jan. 21.—A suit has been filed in the District court here against Rev. William C. Williams, pastor of St. John's A. M. E. church, by Attorney Harrison J. Pinkett, member of the congregation, and until recently a member of the official board of the church, charging the pastor with the diversion of the church funds to his own personal use.
 
 ## Purchase Factory
 

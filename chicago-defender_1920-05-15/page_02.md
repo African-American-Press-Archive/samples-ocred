@@ -1,49 +1,3 @@
-# WIDER SCOPE OF A.M.E. CHURCH
-
-(Continued From First Page)
-
-the fraternal delegate from Zion, whose general conference is now meeting at Knoxville, is also here, and lively here, with an armful of statistics.
-
-Among the candidates for office Dr. F. C. Durden of Mound Bayou, Miss., is looming large for missionary secretary. He is a young man of fine poise and attainments.
-
-## Col. Simmons Coming
-
-The general regret of the conference is that Bishop Parks' invitation to Roscoe Conkling Simmons to deliver a speech to the other officer into for acceptance. However, it is likely that he will speak to the great body before the close of the sessions. Col. Simmons has a spot in the men that no other Race man ins, and it would be like depriving a man of his rights to fall to have him speak before this body. The bishops are that "will Roscoe speak" to what time will "that Roscoe speak."
-
-## Candidates for Bishop Active
-
-The election of bishops from all indications is likely to occur Friday, the 14th. W. A. Fountain, president of Morris Brown College, Atlanta, Ga., is very likely to be numbered among the bishops who are as being a man of unusual ability, energy and vigor. He enjoys the unique distinction of being held in high esteem by those who know him as a man of wisdom and humility. Among others who are seeking the bishopric are Rev. C. Runsam, W. T. Vernon, William Docker-Johnson, Bennie C. Caldwell, E. M. Hines, P. P. Peterson, W. W. G. Alexander, and last but by no means least, the matchless financier and church builder, whose name appears to be upon every longo-Dr. Election, and whose election is assured without a doubt.
-
-The foremost candidate for the missionary department, C. M. Tauer, has issued a statement directing the at-terrorism services which could be rendered by a more liberal extension of the work to foreign fields through training courses thereby connecting correspondence and manpower America, West Indies and Abysalia.
-
-## SIDELIGHTS OF CONVENTION
-
-The Poro college has been the mecca of social events during the conference. It is the home of the great and near-great. Mr. and Mrs. Aaron Malone, the business sagacity and intelligence, the institution has been made famous, are leaving no stone unturned to facilitate the pleasure of their many guests, the success of a conspicuous sample of race pride, the importance of Mr. Malone, who was elected permanent president of the Lay Delegates association, tendered a sumptuous banquet a few nights ago to the visiting doctores. Speeches were made by a number of representative men, all paying great deference to the builders of the Poro institution, especially Mrs. Aaron Malone, the business woman is unquired and unpassed by any member of our group.
-
-Mme. Patti Brown Arrives
-Mme. Patti Brown, the international song bird, arrived Sunday morning, not唱歌, but to present Patti's beauty and improvement. W. S. Evelyn Horton and Mme. W. S. Winston of St. Louis are in evidence at the Coliseum, acquainting the delegates with the virtual audience.
-
-Mass Meeting Thursday Night
-Dr. Leroy N. Bundy, formerly of East St. Leroy N. was presented for the conference Thursday night. Others who took part in the program were Attorney Dr. Charles L. Phillips, St. Louis; W. C. Linton, Attorney Joseph D. Bibb and A. N. Fields of Chicago; Bishop Joshua H. Jones, Willberforce; W. T. Vernon, the musical face of the occasion was directed by Prof. Gorin of Gorin. Hon. W. W. Fisher of Evanson is mon. in evidence at the general conference and is exerting every possible effort of Gov. Frank O. Lowden, Mr. Fisher is connected with the office of the attorney general and is one of the right hand men of Hon. Charles G. Rives, a possible presidential candidate.
-
-## Repudiates Race Superiority
-
-Hepatulates Race Superiority
-Washington D. C., introduced a resolution the afternoon session Monday which met the unanimous approval of the general conference. The purport of the resolution was, "That there is but one matter how much the people of this earth may vary as to color, hair, language, customs, laws or geographical locations, that the Creator hats indoors upon the earth." The resolution that welcomes as false and pernicious the doctrine of the superior race and superman, and declared that opportunities and
-
-People suffering from headaches and nervous diseases—they take over every known romody, but give their temporary gibt. To note the cause in the work of a.
-
-I have cared numbers given up as hostess, and I can prove it by letters in my office. I want you to read a few—see how I remove Cataracts, Growths, Drooping Eyes, Scums on Eyesight, Cross Eyes.
-Nose diseases are responsible not only for ear and other diseases; they are responsible for many of disturbances. Hence, when your eyes are ill, your eyes, it is well to discover if there is some disease present. If so, this should be corrected, and then the eyes cared for. In many cases, after the nose disease is clear, the eyeycases are no longer needed.
-
-## DR. F. O. CARTER
-
-Specialist in Ego, Ear, Nose and Throat
-Dentist, Chicago, St. Joseph
-Floor, Chicago, One door
-growth of The Fair.
-Hours: 0 to 8; Sundays 10 to 12.
-
 environments, coupled with education, were the only essential elements to hold away over and dominate other forms of education nationally, and that equal opportunities have always been the keynote for equal capacity and improvement.
 
 ## Nightly Concerts Featured
@@ -83,39 +37,123 @@ the Republican national convention,
 and Ald. F. Hardin, senate-monate
 speech" of the convention and delegates said it reminded them of the old days of Chauncey Depow.
 
-## Kiamst Triumpha Again
+Brooklyn, N. Y., May 14—As usual, the fourth annual vaudeville and dance of the popular Kismet club lived up to its previous reputation when it held most successful affair at Lobby Hall last month, last one thousand of the younger set were present and danced until the woefull hours of the morning after witnessing the usual vaudeville at the Amphitheater and White, Slither and Groen, Andy Pendleton's Jazzy Four, featuring Milford Smallwood, the wonderful little toon dancer; Dave Watkins from the association's midnight show, Parrell and the Amphitheater, accented by Miss Andrudes and Groen, all the acts were good, each receiving their share of applause. Wm. Brown's society orchestra furnished the music in their usual jazzy style. The Kismet club for the pleasure of their patrons and credit is their for this high class affair.
 
-Brooklyn, N. Y., May 14—As usual, the fourth annual vaudeville and dance of the popular Kismet club lived up to its previous reputation when they stage their most successful affair last month at the last lust. One thousand of the younger set were present and danced until the wee small hours of the morning after witnessing the usual vaudeville attractions. Among the acts were Shaw and Wendell, the children of Pendleton's Jazzy Four, featuring Milford Smallwood, the wonderful little toe dance; Dave Watkins from the association's midnight show, Farrell and Hatch and Paul Robison, accompanying Lindsay. All the acts were good, and their share of applause, Wm. Brown's society orchestra furnished the music in their usual jazzy style. The Kismet members did all in their power for the pleasure of their patrons and is theirs for this high class affair.
+Brooklynite Drops Dead
+Brooklyn, N. Y., May 14—Thophilus Fletcher, a younger brother of W. W. Fletcher, president of the Progressive Improvement association, dropped dead home Monday, May 5, at his home in Montgomery heart disease. Fletcher was a member of the chauffeurs and other organizations. The body was shipped to Elizabeth, Pa., for burial and was acceded a brother of the deceased. A widow and numerous other relatives are left.
+
+Flushing, N. Y., May 14—Because their home was neglected and because they wore without proper guardian-ship, James Lloyd and I. Henry Garner of Wocks avenue, Bayside, were placed in the New York Juvenile asylum. Their father was in court and apparently does a little trucking business, so the court ordered him to pay $2 per week for each child.
+
+Chocolate Brown Candy Company
+(Incorporated)
+
+324 East 39th Street, Chicago, IL
+Manufacturers and Brokers of Candies
+
+PRICE LIST
+
+Wrigley Chewing Gum, 1 box lot. 660
+Doublemint ... 650
+Spearmint ... 650
+Icely Fruit ... 650
+
+Canelo Chocolate Puddings... $1.05
+Brach Chocolate, 1 lb. boxes... 650
+Brach Chocolate, 1/2 lb. boxes... 320
+Brach Almond Bars, 2 doz... $1.20
+Brach Milk Chocolate Bars... $1.20
+Bulk Chocolates in 5 lb. lots... $2.75
+Spanish Pear Bars, 2 doz... $1.10
+
+We are in a position to ship R.O.B. to your city or town by parcel post at any time. In sending in your order mail us a postal money order to take care of same.
+
+Now Is the Time
+
+We repair and in-stall steam and hot water plants of all kinds.
+If your furnaces smoke and won't burn fire of coal call J. BARRETT, Diesel 1673, THE COAL SAVER.
+
+A. A. BOYD
+1807 S. WABASH AVE., CHICAGO
+Telephone Calumet 4073
+Representing
+N. ZAKED & BRO.
+Incorporated
+IMPORTERS OF
+ORIENTAL GOODS READY
+MADE AND JAPANESE
+KIMONOS
+AT WHOLESALE PRICES
+SPECIAL SALE EVERY SAT.
+
+---
+
+PAGE TWO
+
+# WIDER SCOPE OF A.M.E. CHURCH
+
+(Continued From First Page)
+
+the fraternal delegate from Zion, whose general conference is now meeting at Knoxville, is also here, and lively here, with an armful of statistics.
+
+Among the candidates for office Dr. F. C. Durden of Mound Bayou, Miss., is looming large for missionary secretary. He is a young man of fine poise and attainments.
+
+## Col. Simmons Coming
+
+The general regret of the conference is that Bishop Parks' invitation to Roscoe Conkling Simmons to deliver a speech to the other officer into for acceptance. However, it is likely that he will speak to the great body before the close of the sessions. Col. Simmons has a spot in the men that no other Race man ins, and it would be like depriving a man of his rights to fall to have him speak before this body. The bishops are that "will Roscoe speak" to what time will "that Roscoe speak."
+
+## Candidates for Bishop Active
+
+The election of bishops from all indications is likely to occur Friday, the 14th. W. A. Fountain, president of Morris Brown College, Atlanta, Ga., is very likely to be numbered among the bishops who are as being a man of unusual ability, energy and vigor. He enjoys the unique distinction of being held in high esteem by those who know him as a man of wisdom and humility. Among others who are seeking the bishopric are Rev. C. Runsam, W. T. Vernon, William Docker-Johnson, Bennie C. Caldwell, E. M. Hines, P. P. Peterson, W. W. G. Alexander, and last but by no means least, the matchless financier and church builder, whose name appears to be upon every longo-Dr. Election, and whose election is assured without a doubt.
+
+The foremost candidate for the missionary department, C. M. Tauer, has issued a statement directing the at-terrorism services which could be rendered by a more liberal extension of the work to foreign fields through training courses thereby connecting correspondence and manpower America, West Indies and Abysalia.
+
+## SIDELIGHTS OF CONVENTION
+
+The Poro college have been the mecca of social events during the conference. It is the home of the great and near-great. Mr. and Mrs. Aaron Malone, the chairperson of the conference, business sagacity and intelligence, the institution has been made famous, a leaving no stone unturned to facilitate the pleasure of their many guests. The institution is a conspicuous example of Malone, who was elected permanent president of the Lay Delegates association, tendered a sumptuous banquet a few nights ago to the visiting doctores of the conference. Speeches were made by a number of representative men, all paying great deference to the builders of the Poro institution, especially Mrs. Aaron Malone, a prominent business woman is unbounded and unpassed by any member of our group.
+
+Mme. Patti Brown Arrives
+Mme. Patti Brown, the international song bird, arrived Sunday morning, not to shup, but to present Patti's beauty improvement. W. Mee, Evolven Horton and Mme. W. S. Winston of St. Louis are much in evidence at the Coliseum, acquainting the delegates with the virtues of the group.
+
+Meeting Thursday Night
+Dr. Leroy N. Bundy, formerly of East St. Leroy, was presented to the conference Thursday night. Others who took part in the program were Attoroye H., Charles H. Phillips, St. Liesh; C. Linton, Attorney Joseph D. Bibb and A. N. Fields of Chicago; Bishop Joshua H. Jones, Wilberforce; W. T. Vernon, Tennessee. The musical feature of the conference is directed by Prof. Gourg. Gourg of Chicago.
+
+Hon. W. W. Fisher of Evanson is much in evidence at the general convention in is exerting every possible role of Gov. Frank O. Lowden, Mr. Fisher is connected with the office of the attorney general and is one of the right hand men of Hon. Charles G. James, a possible presidential candidate.
+
+## Repudiates Race Superiority
+
+Hepatulates Race Superiority
+Washington D. C., introduced a resolution the afternoon session Monday which met the unanimous approval of the general conference. The purport of the resolution was, "That there is but one matter how much the people of this earth may vary as to color, hair, language, customs, laws or geographical locations, that the Creator hats indoors upon the earth." The resolution that welcomes as false and pernicious the doctrine of the superior race and superman, and declared that opportunities and
+
+```markdown
+
+```
+
+People suffering from headaches and nervous diseases—they take over every known romody, but give their temporary gibt. To note the cause in the work of a.
+
+I have cared numbers given up as hostess, and I can prove it by letters in my office. I want you to read a few—see how I remove Cataracts, Growths, Drooping Eyes, Scums on Eyesight, Cross Eyes.
+Nose diseases are responsible not only for ear and other diseases; they are responsible for many of disturbances. Hence, when your eyes are ill, your eyes, it is well to discover if there is some disease present. If so, this should be corrected, and then the eyes cared for. In many cases, after the nose disease is clear, the eyeycases are no longer needed.
+
+## DR. F. O. CARTER
+
+Specialist in Ego, Ear, Nose and Throat
+Dentist, Chicago, St. Joseph
+Floor, Chicago, One door
+growth of The Fair.
+Hours: 0 to 8; Sundays 10 to 12.
+
+## Kiamst Triumpha Again
 
 ## Brooklynite Drone Road
 
-Brooklyn, N. Y, May 14—Theophilus Fletcher, a younger brother of W. W. Fletcher, president of the Progressive Hospital, visited Wednesday evening, May 6 at his home in Horkimer place, a victim of heart disease. Fletcher was a memorial organizer for the organizations. The body was shipped to Elizabeth, Pa. for burial and was accompanied by the brother of the deceased wife and numerous other relatives are left.
-
 ## Placed in Asylum
-
-Flushing, N. Y., May 14—Because their home was neglected and because they were without proper guardian care, the Worcester Worcestershire of Wocks area, Bayside, were placed in the New York Juvenile asylum. Their father was in court and apparently had been living business, so the court ordered him to pay $2 per week for each child.
 
 ## PRICE LIST
 
-Wrigley Chewing Gum, 1 box lot, 650
-Doublemint ..... 650
-Spearmint ..... 650
-Juicy Fruit ..... 650
-Cunco Chocolate Puddings.....$1.05
-Brach Chocolate, 1 lb. boxes.....650
-Brach Chocolate, ½ lb. boxes.....320
-Brach Almond Bars, 2 doz.....$1.20
-Brach Milk Chocolate Bars.....$1.20
-Bulk Chocolates in 5 lb. lots.....$2.75
-Spanish Peanut Bars, 2 doz.....$1.10
+THE CHICAGO DEFENDER
 
 # NEVERKINK
 
-Very few Race men or women applied for or took the recent Brooklyn postoffice examination for clerks or jobs. He had recently held recently. It has been said that it required high wages obtained in private jobs. *Lawyer Frances F. Giles was the principal speaker at a large reception given at two evenings ago, *Evelyn of the early evening Rev. J. E. Sheppard, president of the National Training School at Durham, N. C. Rev. S. Parks Cudman (white), N. C. Rev. J. M. Congrangional church, has calculated that the commencement day orater at the school on May 27th. *Winfield Holland, one of the popular young men of the city, has come on once more coming to town recently from
-
 Very few Race men or women applied for or took the recent Brooklyn postoffice examination for clerks or carriers, which was held recently. It required a background check, and wages obtained in private jobs. *Lawyer Frances F. Gilles was the principal speaker at a large reception given at Macedonia church, Flushing, a few evening age. *Through the efforts of the national Training School, Dennis N. C. Rev. S. Parks Cudman (white), the famous pastor of Central Congregational church, has consented to he commencement day orator at the National Training School,
-
-* Leonard Moody, 161 Dulufold street, had the misfortune to give his car "too much gas" and also of being a second offender and was fired $100 in the traffic violation. Because they went on strike for poor treatment, Davis Post No. 116 of the American Legion will first the smoker at the Universal Republican Club on this Saturday evening, May 15th. It will be under the management of the member's office. Because they went on
 
 mother of Mrs. Dolaney, a prominent member of Bridge Street church. G. H. Harris was the undertaker. * The mother of the exclusive neighborhood on Franklin avenue between Pacific and Dean streets by our group is almost complete, for the apartment houses purchased by them are all emplied of the exclusive neighborhood filled. * Mrs. Rachol Tucker, 413 Carlin avenue, is still on the slick list, but slowly improving. * The League Forum's Sunday afternoon meetings purchased by them feature is the high character of subjects discussed and the musical programs. * Boys' week was brought to a litting close Sunday, May 9, after a meeting of the faculty interested in themselves. The work was full of big events, which embraced everything from religion, education and athletics to social entertainments. * Harris Borchacno No. 8 of the Galileo Theater, for successful reception, May 3, at Labor Lycium. Mrs. C. Rafford was chairman of the entertainment committee. Mrs. L. J. Johnson is president of the school Company, F. Second Attendance of the 154 fantasy, of which Lout. Luther Evans is president, is planning a big event for the latter part of the month, to be Summer half. * Anniversary day, that Summer half. * Will take part in the event. * Wesley Friend and Matilda Michaelson, both of 1594 Dean street, took out marriage licenses last week. * Mothers' day was celebrated in the churches in an appropriate manner, carriage was in evidence everywhere.
 
@@ -124,6 +162,10 @@ Miss Eather Bradley, president of the Concord Linen Shower club, will head a com
 ## MT. VERNON MATTERS
 
 Mt. Vernon, N. Y., May 14—Rov. and Mrs. G. S. Boyd were given a surprise party by many of their church friends recently. The shower consisted of many donations. *Rev. and Mrs. Boyd have gone to Knoxville, Tenn., to attend the general conference. Their daughter, Miss Mary E. C., has resigned from Westinghouse College, Salisbury, N. C., and has attended among her friends again. The donate last Thursday evening at Macdonald church was in every way a success. Mr. Whitney was the winner. Rev. Nelson is well pleased at the way the members are striving to raise the funds for the Macdonald avenue, is very ill. Mr. Brown of South Seventh avenue is still very sick. Mrs. Hunt, West Third street, who has been ill, is able to be up. *George Wood, 37, 46 West Lincoln avenue, who was alleged to have stabbed Lawrences, was given the grand jury last week, in the course of special sessions on a charge of second degree assault.
+
+```markdown
+
+```
 
 ## NEW YORK CITY NEWS
 
@@ -136,10 +178,11 @@ The Hillcrest Monograph Co., the Howard Manufacture Co., the National and local 
 ## Mrs. Alice Jackson's Recital
 
 Mrs. Alice Jackson's Recital
-Mrs. Conrad Jackson announces the birth of one of his music pupils to take place on Tuesday evening, May 18, at Harlem Casino, 116th street and Lonox avenue. Upon this occasion Mrs. Jackson will have a private teacher, Mrs. S. Gitterman, the school lecturer and reader. Among Mrs. Gitterman's pupils are such prominent artists as Mina, M. N. Currie, soprano, co-star for two seasons with John M. Currie, 129th street, U. S. Community chorus, and others. The concert will be followed by dancing, Admission, 60 cents, Boxes, seating 8 persons, $2.50, and on sale at M. Currie, 129th street, U. S. Community chorus, furnished by Prof. W. H. Clair—Advt.
+Mrs. Alice Conrad Jackson announces her musical take to place of her music pupil to take place on Monday evening, May 18, at Harlem Casino, 116th street and Lonox avenue. Upon this occasion Mrs. Jackson will have the assistance of her vocal teacher, Mrs. A. S. Gitterman, the well known Mrs. Gitterman, among Mrs. Gitterman's pupils are among the artists as Mina, M. N. Currie, soprano, co-star for two seasons with John McCormack; Harry Barrhart, leader of U. S. Community chorus, and others. The concert will be followed by dance classes, 8 boxes, seating 8 persons, $2.50 each, at A. C. Jackson's, 129 W, 138th street, Music for dancing furnished by Prof. W, H. Clair.-Advt.
 
-United Homes Club Collation
-Brooklyn, N. Y. May 14—The United Homes Club reception Friday evening, April 14, the residence of Mr. and Mrs. Joseph Askew, 169 Lexington avenue. A fine collection was enjoyed by all present, the officers installed were; President, P. Askew, president of the treasurer, Joseph Askew; chaplain, J. Simmons; Joseph Askew, vice president; J. Rold, assistant secretary, and Wm. Smith, assistant treasurer. The members are Mr. and Mrs. V. Toppins, P. Askew, president
+United Homes Club Collation Brooklyn. N. T. Clark co-founded Homes club holds its installation reception Friday evening, April 30, at the residence of Mr. and Mrs. Joseph Askew, 169 Lexington avenue. A fine collation was enjoyed by all present. The officers installed were: President, James secretary, J. H. Smith; treasurer, Joseph Askew; Simmons; Joseph Askew, vice president; J. Rold, assistant secretary, and Wm. Smith, assistant treasurer. The members are Mr. and Mrs. V. Toppins, Mrs. M. Duffy, Mrs. H. Smith, Mrs. J. B along with the guests present were Mr. and Mrs. Massele; Mrs. W. Kemp, Mrs. Blanche Ward, Mr. and Mrs. J. H. Williams and W. H. Smith.-Advt.
+
+C. Marcolus Dorsey writes in the May Crisis: The average white priest and many of the Catholic bishops readily agree that there should be a priesthood in the gro priesthood—supposedly to conform to American prejudice. What the Negro youth demands and the Raco must have is a priesthood according to the same moral standards as the slim one that provided for all other peoples in the Catholic church.
 
 ## Dr. Bouafield Here
 
@@ -268,57 +311,60 @@ TAME RAIL
 We buy a
 Price Bul
 
-Bola E. Grayson
-Park Av., Chicago, Ill.
-MRS. LOLA E. GRAYS
-Boalp Speciali
+Park Av, Chicago, Ill.
+
+MRS. LOLA P. GRAN
+Boalp Speciall
 
 WANTED
 AME RABBIT SK
-We buy all you can send; Write
-Price Bulletin "W" and free Bo
+We buy all you can send: Write
+Price Bulletin "W" and free Box
+"How to Raise Rabbits for Pa
+VANDEWEGHE BROTH
 
 Men's hair can be straightened by simply wiping a little liquid Creoline Hair Trainer upon it. It can be washed without kinking. By mail 686. Creoline Hair Trainer, 686. Creoline Lustre Oil, 32k. Combination, $1.00. Stamps, Money Order or Draft.
 
-Ottawa News Stand
-author, known to Harlemites
-as Chicago Defender, man,
-opened a shrine booth and news
-paper stand at the southwest corner.
-He is a resident and 5th avenue. He
+Others News Stand
+Others, known to Harlemites
+and the Chicago Defender" man, has
+opened hoo shining booth and news
+paper stand at the southwest corner
+133d street in Chicago. He
 be pleased to see and serve his new
 patrons at his new place in the
-turore.
+ture.
 
 Postal Employees Hold Meeting
 An interesting meeting attended by
 many of our people was held last
-Sunday afternoon in St. Mark's hall,
-West 9th street. Plans were formulated
+Sunday afternoon in Los Angeles hall
+West of the city by the postal employees
+at New York. Plans were formulated
 for a big parade of clerks and carriers
-to be held soon in this city as a pro-
-test against the present low salaries of
+to be held soon in this city as a protest
+against the present low salaries of
 these employees.
 
-NE—WITH YOUR HELP WE
+LINE—WITH YOUR HELP WE
 ANYTHING"
 
-MY LIFE
-Company
+ITY LIFE
+to Company
 $100,000.00
-
 AT $30.00 PER SHARE
 
-OLD LINE or LEGAL RESERVE
-or incorporated under the laws of
-CONTROLLED BY NEGROES.
+OT OLD LINE or LEGAL RESERVE
+ever incorporated under the laws of
+OD CONTROLLED BY NEGROES.
 
-FOR YOUR INVESTMENT
+ALL OF YOUR INVESTMENT
+
 for stock is deposited with a bank which is
-not remain there until the organization is
-opened. By Jan. 30 1927, the
-company to the Stockholders. The remi-
-nial organization expenses.
+will remain there until the organization is
+the organization by June 30, 1927, the
+be returned to the Stockholders. The remain-
+organization expenses.
 
 for ONE MILLION DOLLARS every
 and they have repeatedly refused to
@@ -328,3 +374,20 @@ ing for one or more shares of stock
 
 part, will thank you to send me
 ing stock in your company.
+paper in your reply.
+
+Your Own Hair
+RN how to care, treat and beautify
+and grow other people's hair can do
+WAYSON'S Correspondence Course
+as the
+
+Q
+
+MRS. LOLA E. GRAYSON.
+Boalp Specialist
+
+RABBIT SKINS
+All you can send: Write for
+detin "W" and free Booklet
+Raise Rabbits for Profit"

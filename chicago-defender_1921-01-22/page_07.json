@@ -3,6 +3,17 @@
   "image": "images/page_07.jpg",
   "width": 1836,
   "height": 2520,
+  "processed_at": "2026-03-07T01:10:36.653424+00:00",
+  "pipeline": {
+    "layout_model": "PP-DocLayout_plus-L",
+    "ocr_model": "mlx-community/GLM-OCR-bf16",
+    "ocr_timeout": 25,
+    "cleanup_reprocess": true
+  },
+  "layout": {
+    "raw_detections": 164,
+    "after_merge": 102
+  },
   "regions": [
     {
       "bbox": [
@@ -12,17 +23,30 @@
         1821
       ],
       "label": "doc_title",
-      "text": "THE STAR HAIR GROWER A Wonderful Hair Dressing and Grower. 1,000 AGENTS WANTED."
+      "text": "THE STAR HAIR GROWER A Wonderful Hair Dressing and Grower. 1,000 AGENTS WANTED.",
+      "status": "ok"
     },
     {
       "bbox": [
         71,
-        2366,
+        1830,
         521,
+        2402
+      ],
+      "label": "text",
+      "text": "Good Money\nMade\nWe want agents in every city and village to sell\n\nTHE\nSTAR HAIR\nCROWER.\nThis is a wonderful preparation. Can be used with or without straightening irons and by any person.\n\nOne 25 contes box proves its value. Any person that will use a 250 box will be convinced.\n\nNo matter what has failed to grow your hair, just give THE\nSTAR HAIR\nCROWER\na trial and be convinced.\n\nSend 250 for full also box.\nIf you wish to become an agent for this wonderful preparation.\n\nSend $1.00 and we will send you a full supply that you can begin work with at once; also agent's terms.\n\nSend all money by money order to",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        71,
+        2406,
+        520,
         2450
       ],
       "label": "text",
-      "text": "send $1.00 and we will send you a full supply that you can begin work with at once; also agent's terme.\nSend all money by money order to\nTHE STAR HAIR CROWER MF'R.,\nP. O. Box 812,\nGreensboro, N. G."
+      "text": "THE STAR HAIR CROWER MF'R.,\nP. O. Box 812,\nGreensboro, N. C.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -32,7 +56,8 @@
         168
       ],
       "label": "doc_title",
-      "text": "EXPELLED MINISTER\nSUES A. M. E. BISHOP"
+      "text": "EXPELLED MINISTER\nSUES A. M. E. BISHOP",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -42,7 +67,8 @@
         469
       ],
       "label": "text",
-      "text": "Declares Church Broke Contract by Ousting Him After Appointment\n\nBaltimore, Md., Jan. 21.\u2014Attorneys Hawkins and McMechen, representing Rev. John O. Custis, former pastor of Tyson A. M. E. church, West Roland Park, have filed suit in the Superior court for $5,000 damages, naming Bishop J. Albert Johnson, Rev. A. L. Galnes and Rev. James G. Martin as defendants. The expulsion of Rev. Custis from the Baltimore conference and his subsequent removal from the church pastorate brought about the"
+      "text": "Declares Church Broke Contract by Ousting Him After Appointment\n\nBaltimore, Md., Jan. 21.\u2014Attorneys Hawkins and McMechen, representing Rev. John O. Custis, former pastor of Tyson A. M. E. church, West Roland Park, have filed suit in the Superior court for $5,000 damages, naming Bishop J. Albert Johnson, Rev. A. L. Galnes and Rev. James G. Martin as defendants. The expulsion of Rev. Custis from the Baltimore conference and his subsequent removal from the church pastorate brought about the",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -52,7 +78,8 @@
         483
       ],
       "label": "paragraph_title",
-      "text": "Offered to Realign"
+      "text": "Offered to Realign",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -62,7 +89,8 @@
         662
       ],
       "label": "text",
-      "text": "His case was aired in Washington last April during the annual session of the National Conference, forced to resign, according to reports, but the conference expelled him. His charges that this action on the part of the president of the breach of contract which caused him injury of character and humiliation. Curtis was removed as pastor of Tyson's Church of Tyson, had been connected with the A. M. E. church as minister for the past 30 years. Complaints by members of the church had to have caused his removal as pastor."
+      "text": "His case was aired in Washington last April during the annual session of the National Conference, forced to resign, according to reports, but the conference expelled him. His charges that this action on the part of the president of the breach of contract which caused him injury of character and humiliation. Curtis was removed as pastor of Tyson's Church of Tyson, had been connected with the A. M. E. church as minister for the past 30 years. Complaints by members of the church had to have caused his removal as pastor.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -72,7 +100,8 @@
         944
       ],
       "label": "text",
-      "text": "Wilson, Ark., Jan. 21. \u2014Posses are searching the woods near here for Howard Lyons, farm hand, who shot 62, a plater living on the island Craig's daughter, Mrs. C. G. Williamson, and wounded Craig's two sons. The woman named Lily when a woman ran into the house that Lyons was chasing her. Craig went to the porch armed with a shotgun, and hid Lyons, who fired when he saw them coming. Mrs. Williamson ran to her father's assistance, but was shot down when they came in to house. Craig died almost instantly. Friends of Craig formed a party and they came in to hops to Lynons if he is caught."
+      "text": "Wilson, Ark., Jan. 21. \u2014Posses are searching the woods near here for Howard Lyons, farm hand, who shot 62, a plater living on the island Craig's daughter, Mrs. C. G. Williamson, and wounded Craig's two sons. The woman named Lily when a woman ran into the house that Lyons was chasing her. Craig went to the porch armed with a shotgun, and hid Lyons, who fired when he saw them coming. Mrs. Williamson ran to her father's assistance, but was shot down when they came in to house. Craig died almost instantly. Friends of Craig formed a party and they came in to hops to Lynons if he is caught.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -82,7 +111,8 @@
         963
       ],
       "label": "paragraph_title",
-      "text": "Struck with Bottle"
+      "text": "Struck with Bottle",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -92,7 +122,8 @@
         1075
       ],
       "label": "text",
-      "text": "Charley Boyd, 21 years old, 2250\nDearborn street, and Nathaniel Davis,\n2331 Dearborn street, became involved\nin the construction of the streets,\nand Davis struck Boyd over the\nwith a bottle. When arraigned before\nJudge Stewart of the Harrison street\nwas given six months in the\nHouse of Correction, and Davis\nwas discharged."
+      "text": "Charley Boyd, 21 years old, 2250\nDearborn street, and Nathaniel Davis,\n2331 Dearborn street, became involved\nin the construction of the streets,\nand Davis struck Boyd over the\nwith a bottle. When arraigned before\nJudge Stewart of the Harrison street\nwas given six months in the\nHouse of Correction, and Davis\nwas discharged.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -102,7 +133,8 @@
         1095
       ],
       "label": "paragraph_title",
-      "text": "Foot Is Crushed"
+      "text": "Foot Is Crushed",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -112,7 +144,8 @@
         1362
       ],
       "label": "text",
-      "text": "George Alfred, 21 years old, 6300 State street, is confined at Provident Hospital suffering with a crushed foot, and he sustained when he was in an automobile collision at 33d and State streets.\n\nProminent Hawaiian Here\nThe Rt. Rev. Alakolia Akana of Honolulu is guest of Ella and Mrs. Robert S. Abbott. He is a graduate of the Yale University divinity school and is in this country making an appeal for the betterment of natives of Hawaii protecting the treatment accustomed to island by United States dictatorship.\n\nCalled to Funeral of Cousin Mrs. Frank Daniels, 626 E. 38th street was called to Lincoln, Neb., to attend of her cousin, L. E. McGee, brother of the late F. L. McGee, attorney."
+      "text": "George Alfred, 21 years old, 6300 State street, is confined at Provident Hospital suffering with a crushed foot, and he sustained when he was in an automobile collision at 33d and State streets.\n\nProminent Hawaiian Here\nThe Rt. Rev. Alakolia Akana of Honolulu is guest of Ella and Mrs. Robert S. Abbott. He is a graduate of the Yale University divinity school and is in this country making an appeal for the betterment of natives of Hawaii protecting the treatment accustomed to island by United States dictatorship.\n\nCalled to Funeral of Cousin Mrs. Frank Daniels, 626 E. 38th street was called to Lincoln, Neb., to attend of her cousin, L. E. McGee, brother of the late F. L. McGee, attorney.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -122,7 +155,8 @@
         1382
       ],
       "label": "paragraph_title",
-      "text": "Shot at Card Game"
+      "text": "Shot at Card Game",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -132,7 +166,8 @@
         1461
       ],
       "label": "text",
-      "text": "During an argument over a game of cards William B. Williams, 48 years old, 2248 Dearborn street, was shot by the Taylor in this home at 2222 Dearborn street. The Taylor charged with assault, pending the outcome of Williams' injuries."
+      "text": "During an argument over a game of cards William B. Williams, 48 years old, 2248 Dearborn street, was shot by the Taylor in this home at 2222 Dearborn street. The Taylor charged with assault, pending the outcome of Williams' injuries.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -142,7 +177,8 @@
         1481
       ],
       "label": "paragraph_title",
-      "text": "Freed of Robbery"
+      "text": "Freed of Robbery",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -152,7 +188,8 @@
         1583
       ],
       "label": "text",
-      "text": "Eugene Hutchinson, 155 East 38th street, and Joe Liggins, 1412 Prairie avenue, were acquitted of robbery by a jury in Judge Francis Wilson's criminal court. The men were accused of the murder. The D.C. telephone collector, in a hallway at 157 East 39th street. The men were represented by Attorney J. Gray Lucas."
+      "text": "Eugene Hutchinson, 155 East 38th street, and Joe Liggins, 1412 Prairie avenue, were acquitted of robbery by a jury in Judge Francis Wilson's criminal court. The men were accused of the murder. The D.C. telephone collector, in a hallway at 157 East 39th street. The men were represented by Attorney J. Gray Lucas.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -162,7 +199,8 @@
         1602
       ],
       "label": "paragraph_title",
-      "text": "Luke Mazon Dead"
+      "text": "Luke Mazon Dead",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -172,7 +210,8 @@
         1900
       ],
       "label": "text",
-      "text": "Luke Mason, 37 years old, 3664 Wabash avenue, died suddenly Jan. 11, at 9 p. m. The inquest has been continued till Feb. 15, to ascertain if his death was from natural causes.\n\nSTAR HAIR\nA Wonderful Hair Dye\n1,000 AGENT"
+      "text": "Luke Mason, 37 years old, 3664 Wabash avenue, died suddenly Jan. 11, at 9 p. m. The inquest has been continued till Feb. 15, to ascertain if his death was from natural causes.\n\nSTAR HAIR\nA Wonderful Hair Dye\n1,000 AGENT",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -182,7 +221,8 @@
         292
       ],
       "label": "text",
-      "text": "at St. Mark's Lyceum\nJudge John P. McGorty was the speaker at St. Mark's Lyceum on Sunday, Jan. 16th. While his address was in a Lincolnian line, he spoke of the power of our Race politically and advocated a degree of independence in their voting. The judge was as usual, most prominent. Owing to illness, the musical program was not rendered, in lieu of which Mrs. C. M. B. Mason spoke briefly on the advantage of voting. Mary Waring attended. The later will address the Lyceum on Sunday, Jan. 30th, on her trip abroad."
+      "text": "at St. Mark's Lyceum\nJudge John P. McGorty was the speaker at St. Mark's Lyceum on Sunday, Jan. 16th. While his address was in a Lincolnian line, he spoke of the power of our Race politically and advocated a degree of independence in their voting. The judge was as usual, most prominent. Owing to illness, the musical program was not rendered, in lieu of which Mrs. C. M. B. Mason spoke briefly on the advantage of voting. Mary Waring attended. The later will address the Lyceum on Sunday, Jan. 30th, on her trip abroad.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -192,7 +232,8 @@
         314
       ],
       "label": "paragraph_title",
-      "text": "Community Center"
+      "text": "Community Center",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -202,7 +243,8 @@
         701
       ],
       "label": "text",
-      "text": "South Side Community Center is attracting wide interest and attendance from organizations at over the city, including public bystanders, committee, headed by Mrs. Jessie Jones. The immediate activities are under the direction of L. V. Alexia. Organizations at the community center are invited to hold their meetings in its spacious parlors and auditorium. Citizens generally are invited to inspect the work in the community carnival, admission free, will be held at the Community House Saturday, Jan. 22. It will be a big event, with many of the clubs in the city taking part. The public is encouraged to attend the event by Miss Biance Wright, who comes arrange for the recreational institute, Jan. 24-28, evenings. E. T. Attwell, Miss Alice Chiles, George T. Dickerson, and the staff of the workers will take part in the school, which will be the first of its blind in the middle west. The institute will teach free of charge the delegates from all clubs or demonstrations how to create interest in their organizations through the medium of music, dancing and athletics. Register at the Community Center for free avenue, before Jan. 34. There will be no registration fee."
+      "text": "South Side Community Center is attracting wide interest and attendance from organizations at over the city, including public bystanders, committee, headed by Mrs. Jessie Jones. The immediate activities are under the direction of L. V. Alexia. Organizations at the community center are invited to hold their meetings in its spacious parlors and auditorium. Citizens generally are invited to inspect the work in the community carnival, admission free, will be held at the Community House Saturday, Jan. 22. It will be a big event, with many of the clubs in the city taking part. The public is encouraged to attend the event by Miss Biance Wright, who comes arrange for the recreational institute, Jan. 24-28, evenings. E. T. Attwell, Miss Alice Chiles, George T. Dickerson, and the staff of the workers will take part in the school, which will be the first of its blind in the middle west. The institute will teach free of charge the delegates from all clubs or demonstrations how to create interest in their organizations through the medium of music, dancing and athletics. Register at the Community Center for free avenue, before Jan. 34. There will be no registration fee.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -212,17 +254,8 @@
         724
       ],
       "label": "paragraph_title",
-      "text": "Y. M. C. A. NEWS"
-    },
-    {
-      "bbox": [
-        303,
-        726,
-        546,
-        896
-      ],
-      "label": "text",
-      "text": "Last Sunday was a busy day at the Y. M. C. A. The lobby and rooms were crowded with people who came to attend the various events held were held in the building. * Harry T. Williams, inter-church secretary of the Chicago Y. M. C. A. will speak on behalf of the late John noon at 3:30. Subject, \"The Transmission of Power.\" Musical numbers will be rendered by the Y. M. C. A. quartet, Armour Glee Club. Numbers will be rendered by the Y. M. C. Washington. B. R. Johnson, W. Y. Parker, W. B. Butler, Misses Carle"
+      "text": "Y. M. C. A. NEWS",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -232,7 +265,8 @@
         1163
       ],
       "label": "text",
-      "text": "Last Sunday was a busy day at the Y. M. C. A. The lobby and rooms were ranged with people who came in to watch games with those who came were held in the building. * Harry T. Williams, inter-church secretary of the Chicago Y. M. C. A. will speak at the men meeting Sunday after the Transmission of Power\". Musical will be rendered by the Y. M. C. A. Quartet, Armour Glee Club. Numbers will be rendered by Messrs. F. O. Washington, P. R. Johnson, W. J. Watkins, E. Watkins, B. Watkins, Goodgame, solisters furnished by the Chicago Opera Club. * The Armour Glee Club and the Y. W. C. A. Glee Club held a dual concert at the auditorium for the Chicago Opera Club. C. J. Cruddock president, met at the Y. M. C. A. Monday evening. * A meeting of the Citizens' Relief Association was held at the Y. W. C. A. Glee Club morning, Jan. 18. * George W. Johnson, J. W. Cruddock, retary, is attending a boys work conference at Aurora. * I. W. M. Davis of Riapool, India, accompanied by a group of singers, will speak in the Y. W. C. A. Glee Club, Jan. 27. * Recent arrivals: George Thomas, Indianapolis, Ind.; W. L. T. Lockett, Detroit, Mich.; Dr. W. M. Lytle, Oakland, Calif.; Dr. H. J. Ferrell, Detroit, Mich.; * A. W. Walker, Minneapolis, Minn.; A. B. Zinn, St. Paul, Minn."
+      "text": "Last Sunday was a busy day at the Y. M. C. A. The lobby and rooms were ranged with people who came in to watch games with those who came were held in the building. * Harry T. Williams, inter-church secretary of the Chicago Y. M. C. A. will speak at the men meeting Sunday after the Transmission of Power\". Musical will be rendered by the Y. M. C. A. Quartet, Armour Glee Club. Numbers will be rendered by Messrs. F. O. Washington, P. R. Johnson, W. J. Watkins, E. Watkins, B. Watkins, Goodgame, solisters furnished by the Chicago Opera Club. * The Armour Glee Club and the Y. W. C. A. Glee Club held a dual concert at the auditorium for the Chicago Opera Club. C. J. Cruddock president, met at the Y. M. C. A. Monday evening. * A meeting of the Citizens' Relief Association was held at the Y. W. C. A. Glee Club morning, Jan. 18. * George W. Johnson, J. W. Cruddock, retary, is attending a boys work conference at Aurora. * I. W. M. Davis of Riapool, India, accompanied by a group of singers, will speak in the Y. W. C. A. Glee Club, Jan. 27. * Recent arrivals: George Thomas, Indianapolis, Ind.; W. L. T. Lockett, Detroit, Mich.; Dr. W. M. Lytle, Oakland, Calif.; Dr. H. J. Ferrell, Detroit, Mich.; * A. W. Walker, Minneapolis, Minn.; A. B. Zinn, St. Paul, Minn.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -242,7 +276,8 @@
         1184
       ],
       "label": "paragraph_title",
-      "text": "Enlarge Printing Department"
+      "text": "Enlarge Printing Department",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -252,7 +287,8 @@
         1345
       ],
       "label": "text",
-      "text": "The printing department of Wendell Phillips high school, under the direction of Prof. A. B. Lovett, graduate of Fisk University and former instructor of the Jesuese institute, has been enlarged to accommodate pupils in the evening school class. The department by printing shops throughout the city seeking pressfeeders and other helpers, largely crested by and increased facilities. Instruction is in Classes hold from 7 to 9 o'clock, and are open to women as well as men."
+      "text": "The printing department of Wendell Phillips high school, under the direction of Prof. A. B. Lovett, graduate of Fisk University and former instructor of the Jesuese institute, has been enlarged to accommodate pupils in the evening school class. The department by printing shops throughout the city seeking pressfeeders and other helpers, largely crested by and increased facilities. Instruction is in Classes hold from 7 to 9 o'clock, and are open to women as well as men.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -262,7 +298,8 @@
         1365
       ],
       "label": "paragraph_title",
-      "text": "Boy's Leg Fractured"
+      "text": "Boy's Leg Fractured",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -272,7 +309,8 @@
         1412
       ],
       "label": "text",
-      "text": "Little 5-year-old Aaron Carter, 3746 Indiana avenue, was struck by an automobile and sustained a fracture of his right leg above the knee."
+      "text": "Little 5-year-old Aaron Carter, 3746 Indiana avenue, was struck by an automobile and sustained a fracture of his right leg above the knee.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -282,7 +320,8 @@
         1430
       ],
       "label": "paragraph_title",
-      "text": "Injured by Auto"
+      "text": "Injured by Auto",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -292,7 +331,8 @@
         1494
       ],
       "label": "text",
-      "text": "E. C. Robinson, 35 years old, 3833\nB. Robinson, Fort Dearborn\nhospital suffering with a\ncelved when struck by an automobile\nat 35th street and South Park avenue."
+      "text": "E. C. Robinson, 35 years old, 3833\nB. Robinson, Fort Dearborn\nhospital suffering with a\ncelved when struck by an automobile\nat 35th street and South Park avenue.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -302,7 +342,8 @@
         1553
       ],
       "label": "text",
-      "text": "Albert Toney, recently married\nplayer, was married recently to Mrs. Bet-\npeoples. Montgomery, Ala., at the\nhome of Mrs. Harris, 442 East 45th\nhome."
+      "text": "Albert Toney, recently married\nplayer, was married recently to Mrs. Bet-\npeoples. Montgomery, Ala., at the\nhome of Mrs. Harris, 442 East 45th\nhome.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -312,27 +353,41 @@
         1573
       ],
       "label": "paragraph_title",
-      "text": "Slashed. by Brother"
+      "text": "Slashed. by Brother",
+      "status": "ok"
     },
     {
       "bbox": [
         303,
         1573,
-        547,
-        1665
-      ],
-      "label": "text",
-      "text": "Joseph and Lee Smith, brothers, 2811\nDenver street, became engaged in\nhis left hand by his brother that no\nhad to be carried to the Emergency\nhospital.\nBRAZIL. SEE ADVT. ON PAGE 11"
-    },
-    {
-      "bbox": [
-        403,
-        2061,
-        524,
+        549,
         2145
       ],
       "label": "text",
-      "text": "One 25 conte\nbox proves its\nvalue. Any per-\nson that\nwants 50 box\nwill be con-\nvinced."
+      "text": "Joseph and Lee Smith, brothers, 2811\nDearborn street, became engaged in\na quarrel and he was cut so badly on\nhis left hand by his brother that he\nhad to be carried to the Emergency\nhospital.\n\nBRAZIL, SEE ADVT. ON PAGE 11\n\nTHE\nHAR GROWER\nPressing and Grower.\nITS WANTED.\n\nGood Money\nMade\nWe want agents in every\ncity and village\nto sell\n\nTHE\nSTAR HAIR\nGROWER.\nThis is a wonderful preparation.\nCan be used with or without\nstraightening irons and by\nany person.\n\nOne 25 conte box proves its value. Any por-\nson that will use a 250 box will be con-\nvinced.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        303,
+        2145,
+        549,
+        2451
+      ],
+      "label": "text",
+      "text": "No matter what has failed to grow your hair, just give THE STAR HAIR GROWER a trial and be convinced. Send 250 for full size box. If you wish to become an agent for this wonderful preparation. a full supply that you can begin to GROWER MF'R., Greensboro, N. C.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        744,
+        38,
+        1083,
+        56
+      ],
+      "label": "text",
+      "text": "THE CHICAGO DEFENDER",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -342,17 +397,30 @@
         96
       ],
       "label": "paragraph_title",
-      "text": "CITY NEWS BRIEFES"
+      "text": "CITY NEWS BRIEFES",
+      "status": "ok"
     },
     {
       "bbox": [
         548,
         99,
+        794,
+        672
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        550,
+        672,
         795,
         926
       ],
       "label": "text",
-      "text": "HUNDREDS OF PEOPLE are to meet at Unity Hall, 3140 Avenue avenue, in the way evening, Jan. 31, to witness the may day event, of several lodges and thirty-two temples of U. B. F. and S. M. T. Preceded by the installation a fine program will be held at many prominent speakers are to take part.\nMR. AND MRS. HILLIIS SETTLES, 11346 Troop street, Morgan Park, enclosed. Friends last Sunday in honor of Mrs. U. B. F. Among those present were Mr. T. Bentley, 3612 Elm avenue, and M. T. Bailey, 3638 State street. A very pleasant day was spent.\nMR. AND MRS. EDGIE HILL was installed as worthy princes of Ruth Temple. No. 72, S. M. T., and advised the officers and members that they may go over the top\" during 1921.\nMR. AND MRS. EDGIE HILL is the Wells Fraternal Book of 3710 Indiana avenue, is en route to Chicago after spending some weeks in Callahoe, which is widely known in fraternal circles.\nTHE ANNUAL committee of A. D. K. and D. of A., of which Rev. L. L. Scott is general chairman, in charge of the coming of the grand lodge in Jan. 31, at Saturday evening, Jan. 22, at Grant Memorial Chapel, 4600 Evans avenue.\nMR. AND MRS. BENJAMIN SULINGER, 3838 Federal town, were in Morgan. Mr. and Mrs. A. W. Williams are home and the selected spot for their future home.\nM. T. BAILEY, 3638 State street, is now president of the Alumni Association and at Petersburg, Vn. after a thrust study of the progress of his alma mater during the administration of President John M. Sandy, is proud of the success of his work. It was last may when Mr. Bentley met with hundreds of other graduates, met at Petersburg and raised almost $3,000 for their alma mater.\nMr. Hughson of Ruth, No. 5651, G. U. O. O. F., which had been worked up by Mrs. Ida M. Nelson, was organized on Jan. 12 by Mrs. Louse Young, D. G. M. N. G. with seventy-Young. D. G. M. N. G. with the initiating team of Headmistress No. 44, of which Mrs. Marshet Womack is president. On Wednesday evening, Jan. 26, the public installation was completed. Mrs. St. Louis, after spending days in the city visiting their mother, Mrs. Sallie McAney, 2835 Vernon avenue, and Mrs. Sarah R. Benton, 2835 Elm avenue, have returned to their home much pleased with their stay in the city."
+      "text": "ST. AUGUSTA Household of Ruth, 1657 G. U. O. O. F., which had been organized in Jan. 12 by Nelson, was organized on Jan. 12 by Ella Young. D. G. M. N. G., with seventy-three members, assisted by the Household Ruth. No. 44, of which Mr. McCann mack is president. On Wednesday evening, Jan. 26, the public installation and banquet will be held at the Movement Club, 3140 Indiana avenue, at which time the public is invited.\n\nMISS MARK MCAMEY and Mrs. PENNY Collins, 3501 Lawton avenue, St. Louis, days in the city visiting their mother, Mrs. Sallio McCamey, 2825 Vernon avenue, and Mrs. Sarnah R. Benton, 4255 avenue, have returned to their home, pleased with their stay in the city.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -362,7 +430,8 @@
         944
       ],
       "label": "paragraph_title",
-      "text": "At County Hospital"
+      "text": "At County Hospital",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -372,7 +441,8 @@
         1156
       ],
       "label": "text",
-      "text": "The following persons were carried to the County hospital this week: James Perman, 5 years old, 52 West 25th Street, with 16 tuberculosis; Mrs. Mara Smith, 57 West 25th Street, wabash Avenue, with senility; Mrs Carrie Bradley, 37 years old, with spinal meningitis; John McKinney, 7 years old, 320 East 30th street, fractured leg; Emma Scott, 24 years old, with an old hip, 320 East 30th street, years old, Detroit, Mich, wood elmcohol; Joseph Beaumont, 34 years old, 2801 Dearbear street, organic heart trouble; Andy Jones, 45 years old, 2716 48 years old, 3006 Pierre avenue; James Moore, 26 years old, 730 East 41st street."
+      "text": "The following persons were carried to the County hospital this week: James Perman, 5 years old, 52 West 25th Street, with 16 tuberculosis; Mrs. Mara Smith, 57 West 25th Street, wabash Avenue, with senility; Mrs Carrie Bradley, 37 years old, with spinal meningitis; John McKinney, 7 years old, 320 East 30th street, fractured leg; Emma Scott, 24 years old, with an old hip, 320 East 30th street, years old, Detroit, Mich, wood elmcohol; Joseph Beaumont, 34 years old, 2801 Dearbear street, organic heart trouble; Andy Jones, 45 years old, 2716 48 years old, 3006 Pierre avenue; James Moore, 26 years old, 730 East 41st street.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -382,7 +452,8 @@
         1175
       ],
       "label": "paragraph_title",
-      "text": "Beg Pardon"
+      "text": "Beg Pardon",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -392,7 +463,8 @@
         1222
       ],
       "label": "text",
-      "text": "The in memorial last week signed John W. Webb and Mrs. Corrine E. Thomas should have read John H. Webb and Mrs. Corrine E. Thomas."
+      "text": "The in memorial last week signed John W. Webb and Mrs. Corrine E. Thomas should have read John H. Webb and Mrs. Corrine E. Thomas.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -402,7 +474,8 @@
         1299
       ],
       "label": "paragraph_title",
-      "text": "Velvet Brown Preparations"
+      "text": "Velvet Brown Preparations",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -412,17 +485,41 @@
         1299
       ],
       "label": "doc_title",
-      "text": "Velvet Brown Preparations"
+      "text": "Velvet Brown Preparations",
+      "status": "ok"
     },
     {
       "bbox": [
         565,
         1302,
+        680,
+        1364
+      ],
+      "label": "text",
+      "text": "For SKIN and\nHAIR are the\nresult of years\nof study.\nstudy, my.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        685,
+        1307,
+        778,
+        1474
+      ],
+      "label": "text",
+      "text": "PETER M. MAYER",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        565,
+        1365,
         781,
         1587
       ],
       "label": "text",
-      "text": "For SKIN and HAIR are the result of years of experiment and study by me. The one that I am a graduate in Medicine and Dentistry is a GUARANTEE that the best drugs properly can be used in my preparations. In less than a year on the market, most goods have followed this DEFENDED thousands of homes and made good.\n\nTHE CREAM positively BLEACHES: removes every blemish, powder perfectly all day and keeps the skin soft and tender as a spring coat."
+      "text": "The fact that I am a graduate in Medicine and Dentistry is a GUARANTEE that I have had drugs, properly combined, are used in my preparations.\n\nIn less than a year on the market we have followed this DEFENDER ad into thousands of homes and made good.\n\nTHE CREAM positively BLEACHES: removes every bleam powder perfectly all day and keeps the skin soft and tender as a spring soft.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -432,7 +529,8 @@
         1622
       ],
       "label": "text",
-      "text": "Half mulsified by nature or banal grease\nThe purifying OIL gives a fless gloss and\nthe purifying OIL gives a fless gloss and"
+      "text": "Half mulsified by nature or banal grease\nThe purifying OIL gives a fless gloss and\nthe purifying OIL gives a fless gloss and",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -442,7 +540,8 @@
         1640
       ],
       "label": "text",
-      "text": "USE these preparations and you will catch this smile:"
+      "text": "USE these preparations and you will catch this smile:",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -452,7 +551,8 @@
         1776
       ],
       "label": "text",
-      "text": "Velvet Brown Face Cream.....$110\nVelvet Brown Hair Grower.....\nVelvet Brown Pressing Oil.....52\nVelvet Brown Hair Color.....52\nAgents wanted. Liberal commission.\nInformation given and orders filled by\nDR. FRANK J. HAWKINS\nM. D., D. D. S.\nSUITE 102, PYTHIAN TEMPLE,\nDALLAS, TEXAS."
+      "text": "Velvet Brown Face Cream.....$110\nVelvet Brown Hair Grower.....\nVelvet Brown Pressing Oil.....52\nVelvet Brown Hair Color.....52\nAgents wanted. Liberal commission.\nInformation given and orders filled by\nDR. FRANK J. HAWKINS\nM. D., D. D. S.\nSUITE 102, PYTHIAN TEMPLE,\nDALLAS, TEXAS.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -462,27 +562,30 @@
         1828
       ],
       "label": "paragraph_title",
-      "text": "CROUP"
-    },
-    {
-      "bbox": [
-        553,
-        1842,
-        790,
-        2101
-      ],
-      "label": "text",
-      "text": "Group comes like a thief in the dead of the night when least expected. It may take hours for a doctor to arrive, and immediate treatment is necessary. That is why the careful mother always prepares a glass of Gliesco has stood the test of time. It has been used in millions of homes for years. It is a reliable remedy. Safe and sure in action, immediate in relief. Gliesco is guaranteed to relieve an aching sore throat and Gliesco has out vomitted. It carries the offending mucous out of the system and does not upset the stomach.\n\nAsk your doctor about Gliesco. Your druggist will tell you that there is more of it sold every year than all bottles combined, which costs 500 per bottle and is worth ten times as much in time of need."
+      "text": "CROUP",
+      "status": "ok"
     },
     {
       "bbox": [
         548,
-        2190,
+        1842,
         792,
         2356
       ],
       "label": "text",
-      "text": "ANCIENT ORDER OF\nETHIOPIAN PRINCES\n(INCORPORATED)\nA lodge founded upon 5,000 years of\nEthiopian history.\nRegalia\u2014Lectures, meetings, Funeral,\n$160.00\nCommissions issued to qualified\norganizers.\nFor information address,\nATTORNEY N. W. JOHNSON\n184 W. Washington St. Rm. 707,\nChicago, Ill."
+      "text": "Group comes like a thief in the dead of the night when least expected. It may take hours for a doctor to arrive, and immediate treatment is necessary. That is why the careful mother always keeps a bottle of Glessco in the living room. Glessco has stood the test of time. It has been used in millions of homes for years. It is a reliable remedy. Safe and sure in action, immediate in relief. Glessco is guaranteed to relieve an attack of group in fifteen minutes with the following mucous out of the system and does not upset the stomach. Ask your doctor about Glessco. Your druggist will tell you that there is more of it sold every year than all other group medicines. It costs 500 per bottle and is worth ten times as much in time of need.\n\nDr. Drake's GLESSCO\n\nANCIENT ORDER OF ETHIOPIAN PRINCES\n(INCORPORATED)\nA lodge founded upon 5,000 years of Ethiopian history.\nRegalia\u2014Lectures\u2014Benefits, Funeral,\nCommissions issued to qualified organizers.\nFor information address,\nATTORNEY W. JOHNSON\n184 W. Washington St. J. ROW 707,\nChicago, Ill.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        548,
+        2360,
+        658,
+        2478
+      ],
+      "label": "text",
+      "text": "...",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -492,7 +595,8 @@
         2476
       ],
       "label": "text",
-      "text": "PERCELL, HAIR\nPERCELL, SOAP\nWill do. Chances are.\ncray hair black; hair\nburned. Stud today for forsale.\nStud today for forsale.\nwanted. MORE. PERCELL,\nMichigan Ave. Chicago"
+      "text": "PERCELL, HAIR\nPERCELL, SOAP\nWill do. Chances are.\ncray hair black; hair\nburned. Stud today for forsale.\nStud today for forsale.\nwanted. MORE. PERCELL,\nMichigan Ave. Chicago",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -502,7 +606,8 @@
         192
       ],
       "label": "text",
-      "text": "New York, Jan. 21.\u2014The appointment of Arthur West Little to be colonel of the Fifteenth Regiment, N. G. N. X., created considerable interest. He was appointed by Governor Miller Jan. 4."
+      "text": "New York, Jan. 21.\u2014The appointment of Arthur West Little to be colonel of the Fifteenth Regiment, N. G. N. X., created considerable interest. He was appointed by Governor Miller Jan. 4.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -512,7 +617,8 @@
         699
       ],
       "label": "text",
-      "text": "Colonel Little, who was born in New York and who resides at the Populist club, has had a wide military experience. He was a private in the Seventh Regiment, N.G., N.Y., and worked up to major, and he was assigned. He was appointed a captain in the Fifteenth and went overseas with that captain returning with the rank of major, after going through much of the struggles of the famous regiment became glorious.\n\nHis first general order, as issued to the regiment is as follows: 1. The governor of the state of New York, he commanded the accommodation of the commanding officer, relatively, of the First Brigade and the Division, New York Guard, has honored the command of the Fifteenth Regiment the commander of the one William Jay Schloffin, assigned, at his own request, to the officers reserve list. It is a responsibility of the officers for good and for evil running in it and actions and to greater lengths than are ordinarily associated in our minds with the fields of activity of a military organization.\n\nIt is an opportunity for work of staggering proportions. I have accepted the responsibility and the opportunity as calls of duty. Hereby I am responsible for the spirit in a spirit of solemn appreciation, but with eagerness and confidence in the future. Coupled with this sense ofibility, a sense of pride and happiness in being a member of more of the regiment of glorious history, and tradition, which I learned to live during my service with it, covering no entire period of its war activities."
+      "text": "Colonel Little, who was born in New York and who resides at the Populist club, has had a wide military experience. He was a private in the Seventh Regiment, N.G., N.Y., and worked up to major, and he was assigned. He was appointed a captain in the Fifteenth and went overseas with that captain returning with the rank of major, after going through much of the struggles of the famous regiment became glorious.\n\nHis first general order, as issued to the regiment is as follows: 1. The governor of the state of New York, he commanded the accommodation of the commanding officer, relatively, of the First Brigade and the Division, New York Guard, has honored the command of the Fifteenth Regiment the commander of the one William Jay Schloffin, assigned, at his own request, to the officers reserve list. It is a responsibility of the officers for good and for evil running in it and actions and to greater lengths than are ordinarily associated in our minds with the fields of activity of a military organization.\n\nIt is an opportunity for work of staggering proportions. I have accepted the responsibility and the opportunity as calls of duty. Hereby I am responsible for the spirit in a spirit of solemn appreciation, but with eagerness and confidence in the future. Coupled with this sense ofibility, a sense of pride and happiness in being a member of more of the regiment of glorious history, and tradition, which I learned to live during my service with it, covering no entire period of its war activities.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -522,7 +628,8 @@
         801
       ],
       "label": "text",
-      "text": "We have seen war. We have tasted of the intoxication of those public plaudits of the crowd, generously extended to returned fighters men of our war. We enjoyed the thrill of those plaudits of the battles of generations may never again be called upon to fight the battles of bloodshed. If the call should come, I have"
+      "text": "We have seen war. We have tasted of the intoxication of those public plaudits of the crowd, generously extended to returned fighters men of our war. We enjoyed the thrill of those plaudits of the battles of generations may never again be called upon to fight the battles of bloodshed. If the call should come, I have",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -532,27 +639,41 @@
         863
       ],
       "label": "doc_title",
-      "text": "There Is No Death!\nLife Is Eternal"
+      "text": "There Is No Death!\nLife Is Eternal",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        798,
+        870,
+        935,
+        980
+      ],
+      "label": "text",
+      "text": "Do not grieve over those who have departed. Life never ends \u2014 God's door is always open between earth and sky, where those who love one another will be united forever.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        940,
+        873,
+        1035,
+        1014
+      ],
+      "label": "text",
+      "text": "God's World\nFREE",
+      "status": "ok"
     },
     {
       "bbox": [
         797,
-        870,
+        982,
         1045,
         1325
       ],
       "label": "text",
-      "text": "Do not grieve over those who have departed. Life never ends\u2014God's door is always open to life and eternal life and eternal life, where those who love one another will be united forever.\n\nThrough God'sownlaw the spirit of those who have passed through with church communicate with those on earth. There are millions of persons right here in America who have the courage to believe that the life, the personality, the love which knew in their dear ones has not come to an end by death. The Wm. T. Stead Memorial Center wishes to place before you its remarkable evidence of something to decide for yourself that There are no free booklets, COMMUNICATION 32 pages, beyond the grave. It will help you to understand God's World, our first book. Life will bring you it. We wish it were possible to place a copy of our right thoughts. God's World will aid you. We wish it were possible to place a copy of our breathing soul. Send now-fill this Coupon.\n\nTHE STEAD CENTER\nDept.73 Rand-McNally, Bldg., Chicago, IL.\nSEND NO MONEY\u2014Mall Coupon NO.\n\nTHE STEAD CENTER\nDate.....Ill.\nDept.73 Rand-McNally, Bldg., Chicago, IL.\nPlease do not use my free illustrated book. COMMUNITY, World, without obligation on my part. Your truly."
-    },
-    {
-      "bbox": [
-        797,
-        1279,
-        1042,
-        1325
-      ],
-      "label": "text",
-      "text": "Date. Date.\n\nDay 73. Rend-Monkey Widow-Child. CHRISTMAS.\n\nPlease send me your free illustrated book, COMUNI-\nGATION, and let me know all about \"God's World\"\nwithout obligation on my part. Your truly,\nreally."
+      "text": "Through God's downlaw the spirit of those who have passed through the portals of Death can communicate with the portals of Life can communicate with the hearts where we are where we all of persons right here are where we all of courage to believe that the life, the personality, the love which they knew in their dear ones, has not come to an end by death. The Wm. T. Stead Memorial Center wishes to place before your its remarkable evidence\u2014enabling you to decide for yourself that\u2014our free booklet, COMMUNICATION 32 pages, our own view of life here and beyond the realm of Reality. Life will bring \"God's World,\" our first book. Life will bring the right thoughts, God's World will aid you. We wish it were possible to place a copy of our booklet in your breathful soul. Send now-fill this Coupon.\n\nTHE STEAD CENTER\nDept. 73 Rand-McNally, Bldg., Chicago, IL\nSend NO MONEY\u2014Malt Coupon NOW!\n\nTHE STEAD CENTER\nDate.....\nDept. 73 Rand-McNally Bldg., Chicago, IL\nPlease send no your free illustrated booklet, COMMUNICATION, \"God's World,\" without obligation on my part. Your truly.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -562,47 +683,85 @@
         1449
       ],
       "label": "doc_title",
-      "text": "Stop Guessing Try Pyramid"
+      "text": "Stop Guessing Try Pyramid",
+      "status": "ok"
     },
     {
       "bbox": [
-        796,
+        805,
         1452,
-        1045,
+        1035,
         1802
       ],
       "label": "text",
-      "text": "If You have Come to Such Misser\nme Itching or Protruding Piles\nTry Pyramid Pile Supposi-\ntories\n\nPyramid Pile Suppositories have\nbeen the household reliance for\nmore than two decades. You've no\nidea what these are like, but\nyou use Pyramid. Get a 60s box\ntoday. No drug store anywhere\nin the U.S. or Canada, but do not\ntake any substitute."
+      "text": "If You have Come to Such Misser\nme Itching or Protruding Piles\nTry Pyramid Pile Supposi-\ntories\n\nPyramid Pile Suppositories have\nbeen the household reliance for\nmore than two decades. You've no\nidea what these are like, but\nyou use Pyramid. Get a 60s box\ntoday. No drug store anywhere\nin the U.S. or Canada, but do not\ntake any substitute.",
+      "status": "ok"
     },
     {
       "bbox": [
-        796,
+        800,
         1801,
-        1045,
+        1039,
+        2040
+      ],
+      "label": "text",
+      "text": "YOU are used in the privacy of\nyour own information. You can have\na free trial by adding your name\nand address to Pyramid Drugs.\n607 Pyramid Blue, Marshall, Mich.\n\nJUST YOUR NAME\nWILL BRAVE\nYOU A FREE SUIT\n\nUda to Two\nDon't send email. Wendell you\nwonderful offer FREE of charge.\n\nMastery\n\nWith patience and tenacity you can\nwear a Free Suit EXPRESS PREPAID\nYou can't afford to overlook this\ncheck. We will see you in our own suit\n--We'll see you your own suit\nFriday. We will pay you big money\nbesides",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        800,
+        2354,
+        1040,
         2477
       ],
       "label": "text",
-      "text": "YOUR NAME WE DRINK YOU A.\nWill bring you extra money besides your free trial by sending you a memo and address to Pyramid Drug Co. 67 Pyramid Blue, Marshall, Mich.\n\nJUST YOUR NAME FREE SUIT\n\nWill bring you extra money besides your free trial by sending you a memo and address to Pyramid Drug Co. 67 Pyramid Blue, Marshall, Mich.\n\nYour Suit FREE EXPRESS PREPAID\nYou can't afford to overlook this chance. We will give you our own free suit. We will pay you big money besides\nEARN $2,600 A YEAR\nYou can specialize in beautiful samples. Pick out your suit and earn your money back.\nAUTOMATIC DELIVERY\nQUICK-DON'T-DELIVER.\n\nSPENCER MEAD COMPANY, Dep. 200, CHICAGO WHOLESAIL TALKS\n\nThe Mast Comprehensive Comprehensive Course Given in\nHair Dressing and Beauty Culture\nEnough Improved Hair and Skin to earn your money back\nLearn to be a Hair Dresser, Scalp and Skin Specialist\n\nI teach you how either by mail or person.\nDiplomas are given.\n\nI. M. S.MUMMERS\nTen years' experienced graduate Specialist\n\nWILMINGTON, DELAWARE\n\nLEG SORES\nHealed by ANTI-FLAMMA Poultrees Plaster. Stops the itching around sores. Heals while you work. Describe caso and get Free Sample. Bake Desk Refrigerator, Co., 1832 Grand, Kansas City, Mo."
+      "text": "LEG SORES\nHeaded by ANTL-FLAMMA Poultice\nPlaster. Stops the blows around\nsores. Heals while you work.\nDescribe case and get Free Sample.\nShop by coating, Co., 1832 Grand,\nKansas City, Mo.",
+      "status": "ok"
     },
     {
       "bbox": [
         1045,
         83,
-        1317,
-        983
+        1292,
+        344
       ],
       "label": "text",
-      "text": "no fears for the record to be made again by this regiment.\n\nWhile we are keeping ourselves prepared for a possible call, however, I desire to bring you its place as one of the best institutions of the community for civic usefulness and righteousness.\n\nI make of the Fifteenth Regiment of the Army tonight a tour of those comrades of ours the Old Fifteenth, those brothers in arms who sleep today in France the long sleep of their long tongue on earth woman, our standard, our purpose and our goal.\n\n\"Take up our quarrel with the foe To you from falling hands we throw the torch. Be yours to bear it high. If he burns us with who die. We shall not sleep, though poppies blow In Flanders fields.\"\n\nI have no illusions on leadership. Single handed\n\nOLD KENYA\nHOMESPUN\nCream of the finest C\nMellow as M\nRadarr as S\n\nSEN\nNO MO\n\nRIPE, RICH, OLD-\n\nThe choice of Kentucky's finest district Old KENTUCKY HOMESPUN is no more like a night-free from chemicals and all other adult substances and delicate the sense of the finest-smoking. Like old wine in the cellar, it is rich, man \"awestred\" by the same method as employed in the smoking tobacco for our own use\u2014\"bite\" your throat here in the greatest tobacco bank on it you have been in your age, no decorations\u2014just QUALITY and lot of it. South and West, men have tested this fine old tobacco between your teeth. Smoke or chaw, it will give you it between your teeth. Have you ever have it in Canada any as good as your Old Kentucky tobacco?\n\nGive the old \"obt\" a treat\u2014\"feal\" ear\" up to the bumps between your teeth. Smoke or chaw, it will give you it between your teeth. Have you ever have it in Canada any as good as your Old Kentucky tobacco?\n\nI am retired physician, 88 years old. Have used but do not smoke. None give me such satisfaction as any of the high priced but excellent but goes for effects.\n\nS. S. Sutton, Ark, Ark\n\nYour tobacco is every thing a person can desire. We grow our crop of our crops, placing them in our warehouses deciding which one to make. The tobacco comes in forms that make of high priced, doped up trash called tobacco.\n\nREDUCE YOUR TOB\n\nWe are growers of tobacco and sell none but our own crop of our crops, placing them in our warehouses deciding which one to make. The tobacco comes in forms that make of high priced, doped up trash called tobacco."
+      "text": "no fears for the record to be made again by this regiment. While we are keeping ourselves prepared, we are also better, I desire to see this regiment take its place as one of the best institutions of the community for civic usefulness and righteousness.\n\nTo the Fifteenth Regiment of the future a splendid memorial to those comrades of ours of the Old Fifteenth, those brothers in arms who have been long sleep of eternity! That must be our standard, our purpose and our goal. Take up our quarrel with the foe The Torch, the foe The torch. Be yours to bear it high. If ye break faith with us who die. We shall not sleep, though poppies blow in the wind. I have no illusions as to my own abilities of leadership. Single handed",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1045,
+        344,
+        1318,
+        981
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         1158,
         344,
         1422,
-        983
+        981
       ],
       "label": "text",
-      "text": "OLD KENTUCKY\nMIESPUN TOBACCO\nof the Kineest Crops Direct\nMallowows Moonlight\nKing James the Rose\nSEND\nNO MONEY\n\nRICH, OLD-FASHION\nKentucky's finest crops direct from our farms to the\nmarket. We no more like the manufactured\ntobacco than all other subtertations that under-\nstand and deduce. We do not proper time, carefully selected, aged and mellon\nin the cellar, its rich, rare fragrance permea-\nsion method as employed in the early days, the me-\ntal of the tobacco industry. We do not taste a liner dwarfed more girthy than\n\u2014just QUALITY and lots of it. Throughout the ocea\nwe have tested this fine old tobacco and spread the\nsmoke or chaw, it will give you the keenest joy since\nwe never tasted a linear dwarfed more girth"
+      "text": "OLD KENTUCKY\nMIESPUN TOBACCO\nof the Kineest Crops Direct\nMallowows Moonlight\nKing James the Rose\nSEND\nNO MONEY\n\nRICH, OLD-FASHION\nKentucky's finest crops direct from our farms to the\nmarket. We no more like the manufactured\ntobacco than all other subtertations that under-\nstand and deduce. We do not proper time, carefully selected, aged and mellon\nin the cellar, its rich, rare fragrance permea-\nsion method as employed in the early days, the me-\ntal of the tobacco industry. We do not taste a liner dwarfed more girthy than\n\u2014just QUALITY and lots of it. Throughout the ocea\nwe have tested this fine old tobacco and spread the\nsmoke or chaw, it will give you the keenest joy since\nwe never tasted a linear dwarfed more girth",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1052,
+        360,
+        1531,
+        576
+      ],
+      "label": "text",
+      "text": "OLD KENTUCKY\nHOMESPUN TOBACCO\nCream of the Finest Crope Direct to You\nMellow as Moonlight\nKnugent as the Rose\n\u2014SEND\u2014\nNO MONEY",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -612,27 +771,19 @@
         781
       ],
       "label": "text",
-      "text": "The choice of Kentucky's finest crop direct from our farms to you. This FAMOUS OLD KENTUCKY HONEYSPUN is no more like the manufactured tobacco than is day like the french oak, chemicals and all other adulterations that undermine the health, that conceal imperfections in your mouth, that nurture in Kentucky's finest soil, cut at the proper time, carefully selected, aged, and smoked. Like old wine in the cellar, its rich, rare fragrance permeates the air. Cured and \"awaked\" by the same method as employed in the early days, the method our grandfathers \"to bite\" your tongue with tobacco for their own use\u2014every trace of harmless leaves it\u2014nothing to \"blime\" your taste. You won't be your taste. No fancy packages, no decorations\u2014just QUALITY and lots of it. The only difference is South and West, men have tested this old tobacco and spread the news of its immutable quality. Grown right here in the greatest tobacco producing district in the world. We never tested it a time favored, more satisfying tobacco in all your life. Give the old \"okb\" you never tested a time favored, cut off a \"bunk\" as big as your fist and fit between your teeth. Smoke or charcoal."
-    },
-    {
-      "bbox": [
-        1049,
-        779,
-        1533,
-        881
-      ],
-      "label": "text",
-      "text": "\"I have used the best tobacco they have in Canada, England and not ever tasted any as good as your Old Kentucky Homepan.\" J. P. O'Connor, Gold Ench. Organs\n\"I am retired physician, 85 years old. Have used tobacco ever since I can remember. I chew but not smoke. I am not such an satisfaction. Have used Old Kentucky Homepan. It is not only the most pleasant experience but goes further than any other kind and produces no effects.\" S. S. Sutton, Kirky, Ark\n\"Your tobacco is every thing a person can desire. Even my wife its pleasant areas in the house.\" A. C. Evering, Grand Center. In\n\"The tobacco is in good shape and I like it fine.\" Have been impaired upon long exposure by the makers of high-quality tobacco."
+      "text": "The choice of Kentucky's finest crop direct from our farms to you. This FAMOUS OLD KENTUCKY HONEYSPUN is no more like the manufactured tobacco than is day like the french oak, chemicals and all other adulterations that undermine the health, that conceal imperfections in your mouth, that nurture in Kentucky's finest soil, cut at the proper time, carefully selected, aged, and smoked. Like old wine in the cellar, its rich, rare fragrance permeates the air. Cured and \"awaked\" by the same method as employed in the early days, the method our grandfathers \"to bite\" your tongue with tobacco for their own use\u2014every trace of harmless leaves it\u2014nothing to \"blime\" your taste. You won't be your taste. No fancy packages, no decorations\u2014just QUALITY and lots of it. The only difference is South and West, men have tested this old tobacco and spread the news of its immutable quality. Grown right here in the greatest tobacco producing district in the world. We never tested it a time favored, more satisfying tobacco in all your life. Give the old \"okb\" you never tested a time favored, cut off a \"bunk\" as big as your fist and fit between your teeth. Smoke or charcoal.",
+      "status": "ok"
     },
     {
       "bbox": [
         1050,
-        865,
-        1530,
+        779,
+        1533,
         883
       ],
       "label": "text",
-      "text": "\"The tobacco came in good shape and I like it fine. Have been imposed upon long enough by the makers of high priced, doped up trash called tobacco.\" L. Gates, Macdonald, NY."
+      "text": "\"I have used the best tobacco they have in Canada, England and not ever tasted any as good as your Old Kentucky Homepan.\" J. P. O'Connor, Gold Ench. Organs\n\"I am retired physician, 85 years old. Have used tobacco ever since I can remember. I chew but not smoke. I am not such an satisfaction. Have used Old Kentucky Homepan. It is not only the most pleasant experience but goes further than any other kind and produces no effects.\" S. S. Sutton, Kirky, Ark\n\"Your tobacco is every thing a person can desire. Even my wife its pleasant areas in the house.\" A. C. Evering, Grand Center. In\n\"The tobacco is in good shape and I like it fine.\" Have been impaired upon long exposure by the makers of high-quality tobacco.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -642,17 +793,30 @@
         928
       ],
       "label": "paragraph_title",
-      "text": "REDUCE YOUR TOBACCO BILL 75%"
+      "text": "REDUCE YOUR TOBACCO BILL 75%",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1050,
+        931,
+        1532,
+        1196
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
         1045,
-        931,
-        1532,
+        1196,
+        1318,
         1675
       ],
       "label": "text",
-      "text": "We are grown of tobacco and sell none but our own crops, therefore exempt from all revenue tax. We pool our crops, placing them in our own storage in the minimum amount we can afford our business. This our oversees in order to minimize our expense plus eliminates all misdeed; you deal directly with the grower, thereby effecting a saving to you of 15 per cach or more.\n\nBEE HOW SIMPLE IT IS TO MAKE THE OLD FAZION PIPHINE ABOUT SMOKE TWIST. Care, we pool our crops, placing them in our own storage in the minimum amount we can afford our business. This our oversees in order to minimize our expense plus eliminates all misdeed; you deal directly with the grower, thereby effecting a saving to you of 15 per cach or more.\n\nREAD THESE MONEY-SAVING PRICES\n\nWe Pay Postage\n\n5 pounds $ 2.98\n10 pounds 5.85\n20 pounds 11.40\n\n5 pounds manufactured tobacco that has been adulterated, swerted, chemically treated or otherwise \"dood\" in order to minimize the amount of real tobacco used, or you want the Old Washington Kentucky. You open that brings to you the cream of the crop, an obvious harvest in all its natural growth.\n\nJUST SEND THE COUPON--NO MONEY\n\nMay pay the price above when tobacco arrives, doesn't please you. If it doesn't suit your taste\u2014if it doesn't save you money\u2014every cent of your money will be returned without quibble or question. YOU RISK NOTHING.\n\nSign and mail the coupon today and enjoy the coupon treat of your life.\n\nTOBACCO GROWERS ASSOCIATION OF KY. Warehouse V-1\nHayfield, Kentucky\n\nSend me.... pounds of Old Kentucky Homespun Tobacco by parcel post prepaid. I will pay the price of $.... on arrival. If not satisfied after a 10-DAY TRIAL I will return the tobacco and you will refund my money.\n\nName.....\n\nAddress.....\n\n(State whether chewing or smoking, strong, medium or mild.)\n\nCOLDS RELIEVED BY TURPO\n\nThe Turpentine Cointment That Gives Immediate Relief in All Cold Troubles and Congestion. Mothers Use it to Prevent Development of Children's Colds."
+      "text": "JUST SEND THE COUPON--NO MONEY\ndoesn't please you--if it doesn't suit your taste--if it\nsurvives part of your money will be paused without quail\nSign and mail the coupon today and enjoy the\u4f18\u60e0\n\nTOBACCO GROWERS ASSOCIATION\nHayfield, Kentucky\n\nTOBACCO GROWERS ASSOCIATION\nHayfield, Kentucky\n\nSend me.... pounds of O\nparcel post prepaid. I will pay the price of $.\nfied after a 10-DAY TRIAL. I will return the to\nName.....\n\nAddress.....\n\n(State whether chewing or smoking\n\nCOLDS RELIEVE\n\nThe Turpentine Ointment That Gives\nCold Troubles and Congestion\nPrevent Development of",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -662,7 +826,8 @@
         1253
       ],
       "label": "text",
-      "text": "JUST SEND THE COUPON--NO MONEY You only pay the price above when the coupon arrives. TRY THE TBUCOBAC 10 DAYS and if it doesn't please you, if it doesn't save you your taste. If it doesn't save you money--back it comes and every cent of your money will enjoy the rewards. YOU RISK NOTHING. Sirai and me the coupon today and enjoy the tethered benefits of your life."
+      "text": "JUST SEND THE COUPON--NO MONEY You only pay the price above when the coupon arrives. TRY THE TBUCOBAC 10 DAYS and if it doesn't please you, if it doesn't save you your taste. If it doesn't save you money--back it comes and every cent of your money will enjoy the rewards. YOU RISK NOTHING. Sirai and me the coupon today and enjoy the tethered benefits of your life.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -672,7 +837,8 @@
         1675
       ],
       "label": "text",
-      "text": "COUPON--NO MONEY. Pay only the price above.\nIt doesn't suit your taste--if it doesn't save you money will be returned without quibble or question. You can today and enjoy the tobacco treat of your life.\n\nGROWERS ASSOCIATION OF KY.\nGO GROWERS ASSOCIATION OF KY, Warrohouh\nMayfield, Kentucky\n\n...pounds of Old Kentucky Homep...\npaid. I will pay the price of $... on arrival.\nTODAY TRIAL I will return the tobacco and you will ref...\nother chewing or smoking, strong, medium.\n\nIS RELIEVED BY T\n\nOne Gintment That Gives Immediate\nTroubles and Congestion. Mothers Un-\nvent Development of Children's Co"
+      "text": "COUPON--NO MONEY. Pay only the price above.\nIt doesn't suit your taste--if it doesn't save you money will be returned without quibble or question. You can today and enjoy the tobacco treat of your life.\n\nGROWERS ASSOCIATION OF KY.\nGO GROWERS ASSOCIATION OF KY, Warrohouh\nMayfield, Kentucky\n\n...pounds of Old Kentucky Homep...\npaid. I will pay the price of $... on arrival.\nTODAY TRIAL I will return the tobacco and you will ref...\nother chewing or smoking, strong, medium.\n\nIS RELIEVED BY T\n\nOne Gintment That Gives Immediate\nTroubles and Congestion. Mothers Un-\nvent Development of Children's Co",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -682,7 +848,8 @@
         1407
       ],
       "label": "text",
-      "text": "TOBACCO GROWERS ASSOCIATION OF KY. Warhouse V-1\nHayfield, Kentucky\n\nTOBACCO GROWERS ASSOCIATION of KY. Warhouse V-1\nHayfield, Kentucky\n\nSend me.....pounds of Old Kentucky Homemoney Tobacco by\nparcel post prepaid. I will pay the price of $.....on arrival. If not ratis-\nfied after a 10-DAY TRIAL, I will return the tobacco and you will refund my money.\n\nName....."
+      "text": "TOBACCO GROWERS ASSOCIATION OF KY. Warhouse V-1\nHayfield, Kentucky\n\nTOBACCO GROWERS ASSOCIATION of KY. Warhouse V-1\nHayfield, Kentucky\n\nSend me.....pounds of Old Kentucky Homemoney Tobacco by\nparcel post prepaid. I will pay the price of $.....on arrival. If not ratis-\nfied after a 10-DAY TRIAL, I will return the tobacco and you will refund my money.\n\nName.....",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -692,7 +859,8 @@
         1492
       ],
       "label": "text",
-      "text": "(State whether chewing or smoking, strong, medium or mild.) ....."
+      "text": "(State whether chewing or smoking, strong, medium or mild.) .....",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -702,7 +870,8 @@
         1564
       ],
       "label": "doc_title",
-      "text": "COLDS RELIEVED BY TURPO"
+      "text": "COLDS RELIEVED BY TURPO",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -712,27 +881,63 @@
         1654
       ],
       "label": "doc_title",
-      "text": "The Turpentine Ciment That Gives Immediate Relief in All Cold Troubles and Congestion. Mothers Use it to Prevent Development of Children's Colds."
+      "text": "The Turpentine Ciment That Gives Immediate Relief in All Cold Troubles and Congestion. Mothers Use it to Prevent Development of Children's Colds.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1051,
+        1675,
+        1286,
+        1958
+      ],
+      "label": "text",
+      "text": "For several winters a large number of people, especially mothers of small children, have prevented the serious effects from neglected colds by using Turpo\u2014the new Turpentine Ointment which, applied externally, drives a cold overnight, relieves congestion of all tissues, and has valuable antiseptic property. There is nothing mysterious or secret about Turpo\u2014it is a scientific combination of distilled Turpentine, Camphor and Menthol, in saline or ointment which, being readily sorbed through the skin, carries the recognized and beneficial effects of these medicines to the root of the trouble. Turpo, applied up the nostril at the first sign of a cold, relieves congestion and headache, clears the air passages, checking the cold at the very root, and",
+      "status": "ok"
     },
     {
       "bbox": [
         1045,
-        1675,
-        1317,
+        1958,
+        1318,
         2335
       ],
       "label": "text",
-      "text": "For several winters a large number of people, especially mothers of small children, have prevented the serious effects from neglected colds by using Turpo\u2014the new Turpentine Ointment which, applied externally, drives a cold away overnight, relieves congestion of all kinds, and has valuable antiseptic properties.\n\nThere is nothing mysterious or secret about Turpo\u2014it is a scientific combination of distilled Turpentine, Camphor and Menthol, in a salve or ointment which, being readily absorbed through the skin, carries the recognized and beneficial effects of these medicines to the root of the trouble. Turpo, applied up the nostrils at the first sign of a cold, relieves congestion and headache, clears the air passages, checking the cold at the very root, and\n\nFor every Cold and\n\nCOME AND HAVE A REAL\n\nTHE D\n\nBELLMAN"
+      "text": "TUR\nFor every Cold and\nCOME AND HAVE A RE\nTHE D\nBELLMAN",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1158,
+        1961,
+        1422,
+        2335
+      ],
+      "label": "text",
+      "text": "URPO\nfor every Cold and Congestion\nAND HAVE A REAL GOOD\nTHE D & C\nLLMAN'S B",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1060,
+        1969,
+        1523,
+        2139
+      ],
+      "label": "text",
+      "text": "TURPO For every Cold and Congestion",
+      "status": "ok"
     },
     {
       "bbox": [
         1045,
-        1961,
+        2335,
         1422,
         2500
       ],
       "label": "text",
-      "text": "TURPO\nFor every Cold and Congestion\n\nCOME AND HAVE A REAL GOOD T\nTHE D & C\nBELLMAN'S B\nMAJESTIC INSTITUTE\nWoodward and Watson Sts.\nMonday, January 31, 1\nDETROIT, MICH.\nLeRoy Smith's Famous Orchestra. Floor Mgr., Prof. R. B.\nPrice $1.00, Plus War Tax"
+      "text": "MAJESTIC INSTITUTE\nWoodward and Watson Sta.\n\nMonday, January 31, 1\n\nDETROIT, MICH.\n\nLeRoy Smith's Famous Orchostra. Floor Mgr., Prof. R. Ba\nPrice $1.00, Plus War Tax",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -742,7 +947,8 @@
         2500
       ],
       "label": "text",
-      "text": "Sunday, January 31, 19\nDETROIT, MICH.\nFamous Orchostra. Floor Mgr. Prof. R. B.\nPrice $1.00. Plus War Tax"
+      "text": "Sunday, January 31, 19\nDETROIT, MICH.\nFamous Orchostra. Floor Mgr. Prof. R. B.\nPrice $1.00. Plus War Tax",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -752,17 +958,63 @@
         2465
       ],
       "label": "text",
-      "text": "LeRoy Smith's Famous Orchstra. Floor Mgr., Prof. R. Barron M. White\nPrice $1.00, Plus War Tax"
+      "text": "LeRoy Smith's Famous Orchstra. Floor Mgr., Prof. R. Barron M. White\nPrice $1.00, Plus War Tax",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1292,
+        83,
+        1538,
+        334
+      ],
+      "label": "text",
+      "text": "I can do but little. I appeal for cooperation to the full membership of the regiment, and to the veterans. I am not a soldier, and all good citizens, and particularly of those women and men of the community centers to which we must look and upon which we must depend for our survival in such support, both sentimental and material. Based upon the experience of my service, I shall endeavor to command this regiment in such a manner as may best support and assist for which I have devote my most intelligent effort to the development of a regiment which must win recognition as a bulwark of strength to the law abiding citizen. I am also an institution of pride to the Colored Race. ARTHUR LITTLE",
+      "status": "ok"
     },
     {
       "bbox": [
         1289,
-        83,
+        334,
+        1538,
+        1093
+      ],
+      "label": "text",
+      "text": "KENTUCKY\nIN TOBACCO\nThe Crops Direct to you.\nThis FAMOUS\nlike the manufacturer and the\nadultations that undermine the health,\nthat of taste. Grown and nurtured in Kentucky\nis the manufacturer and the developer of\ntobacco and spread the news of its inimitable\ntobacco producing district in the world. We\nword, more satisfying tobacco in all your life.\nCate Gaffney, Gold Beach, Oregom.\nI chowked as Old Kentucky Homestead Leaf Tobacco.\nIt seems further than any other kind and produces no ill\nintuition. Even my wife enjoys its pleasant aroma in\nfine. Have been imposed upon long enough by the\n\"C. J. Gatts, Morrisville, Vt.\"\n\nTOBACCO BILL 75%\nour own crop, therefore comes from all avenues\nbranches and shares equally all the expense of con-\nceded to the minimum. This co-operative marketing\nwith the grower, thereby effecting a saving to you\n\nREAD THESE MONEY-\nSAVING PRICES\nWe Pay Postage\n\n5 pounds $ 2.98\n10 pounds 5.85\n20 pounds 11.40",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1289,
+        1093,
+        1538,
+        1680
+      ],
+      "label": "text",
+      "text": "5 pounds of our tobacco will\nbe manufactured to you in a\n68 chewing or smoking tube.\nWhich do you prefer? The high-priced\nmanufactured tobacco that has been adul-\ntured, sweetened, flavored, or\notherwise \"dosed\" in order to minimiz-\ne the amount of real tobacco used, or do you\nmeet the Old Johnson. Known as the cream\nof Kentucky's famous harvest in all its\nmanufactured forms.\nKEY only the price above when tobacco arrives.\nKEY THE TOBACCO 10 DAYS and if it\ndoesn't sell you please buy locally. No taxes\nand not quibble or question. YOU RISK NOTHING.\nSMOOTHON OF OXYGEN\nNOTION OF KY. Warhouse V-1\nKentucky\nOf Old Kentucky Homespun Tobacco by\nof $.... on arrival. If not ratias-\nthe tobacco and you will refund my money.\nlooking, strong, medium or mild.)\n\nLIVED BY TURPO\nGives Immediate Relief in All\nAction. Mothers Use it to\nat Children's Colds.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1289,
+        1680,
+        1528,
+        1961
+      ],
+      "label": "text",
+      "text": "prevents its developing into more serious trouble.\n\nPneumonia and influenza may develop from a neglected cold\u2014especially in children and careful mothers are now using Turpox, a broad-spectrum application, to be used at the first step of \"sniffles\" in the child. For severe colds, Turpox rubbed on the throat and chest gets under the skin, clearing up the congestion, without blistering the skin or staining the clothing.\n\nIn catarrh, hacking off of value to give relief in catarrh, hacking off of value to give relief and as an antiseptic application cuts, wounds and burns. Ask your doctor or drugstreet at Turpox\u2014they will confirm that it is a good, honest remedy.\n\nGold in white opal jars with the orange and black block 30c and 60c. Your money will be returned, funded if you are not entirely satisfied.",
+      "status": "ok"
+    },
+    {
+      "bbox": [
+        1289,
+        1961,
         1538,
         2335
       ],
       "label": "text",
-      "text": "I can do but little. I appeal for cooperation to the full membership of the regiment, and to the veterans. I am not a citizen of the good citizens, and particularly of those women and men of the community centers to which we must look and upon it we must depend for our ownership and our support, both sentimental and material.\n\nBased upon the experience of my service, I shall endeavor to command this regiment in such a manner as good citizens, and particularly of those women and men of the community centers to which we must look and upon it we must depend for our ownership and our support, both sentimental and material.\n\nI shall devote my most intelligent effort to the development of a regiment which must win recognition as a prominent and worthy institution of pride to the Colored Race.\n\nARTHUR LITTLE.\n\nColonel.\n\nKENTUCKY\nN TOBACCO\nCrops Direct to You\nas Moonlight\nas the Rose\n\nDOD-FASHION LEAF\ndirect from our farms to you. This FAMOUS like the manufacture of tobacco than is like adulterations that undermine the health, that of the mature trees. Grown and nurtured in Kentucky, it must satisfy tobacco in all your life, and, pure fragrance permitted by the Curuce, lies in the early days, the grandest of tobacco and spread the news of its innermost tobacco producing district in the world. We do not mistify tobacco in all your life, and, oftentimes the country, Kentucky, has you the keeper Joy since the days of Old Houston, Canada, England and Ireland but has never tasted tobacco producing district since I came in. I thank as often as any other kind and produce no illness. Even my wife enjoys its pleasant aroma in it.\n\nWe have been impured upon your enough by theaco: G. L. Gates, Mortierville, Vt.\n\nOBACCO BILL 75%\nyour own crop, therefore exempt from all revenue rebates and share equally the expense of convenience? 'doped' in order to minimize otherwise 'doped' on tobacco, or do you want the old-Pashmina tobacco that brings to you the cream of Kentucky harvest in all its natural goodness?\n\nOnly the price above when tobacco arrives.\n\nIf it doesn't save you money - lack it comes and quibble or question. YOU RISK NOTHING. Snace treat of your life.\n\nASSOCIATION OF KY.\n\nNATION OF KY. Warhouse V-1\nKentucky\n\nOf Old Kentucky Homemoney Tobacco by of $..... on arrival. If not ratified the tobacco and you will refund my money.\n\nlooking, strong, medium or mild.)\n\nWED BY TURPO\n\nGives immediate Relief in All Situation. Mothers Use it to treat of Children's Colds.\n\nprevents its developing into more serious trouble.\n\nPneumonia and influenza may develop from a neglected cold\u2014especially in children, and careful mothers are now using Turpo as a standard household application, to be used at the first sign of cold. Turpo rubbed on the throat and chest or dressed about Turpo\u2014they will confirm that it is a good, honest remedy.\n\nSold in white opal jars with the orange and black label, 30c and 60c. Your money will be cheerfully refunded if you are not entirely satisfied.\n\nand Congestion\n\nREAL GOOD TIME AT\n& C\nN'S BALL"
+      "text": "2PO\nand Congestion\nREAL GOOD TIME AT\n& C\nN'S BALL",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -772,7 +1024,8 @@
         2500
       ],
       "label": "text",
-      "text": "January 31, 1921\nT, MICH.\nFloor Mgr., Prof. R. Barron M. White\nPlus War Tax"
+      "text": "January 31, 1921\nT, MICH.\nFloor Mgr., Prof. R. Barron M. White\nPlus War Tax",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -782,7 +1035,8 @@
         346
       ],
       "label": "text",
-      "text": "Colonel."
+      "text": "Colonel.",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -792,17 +1046,19 @@
         143
       ],
       "label": "doc_title",
-      "text": "Don't Wear A Truss!"
+      "text": "Don't Wear A Truss!",
+      "status": "ok"
     },
     {
       "bbox": [
-        1538,
+        1539,
         154,
         1785,
-        797
+        680
       ],
       "label": "text",
-      "text": "After Thirty Years' Experience We Have Produced an Appliance for Men, Women or Children That Cures Rupture.\n\nWE SEND IT ON TRIAL\n\nIf you have tried most everything else, come to where others fall is where we have our greatest success. Send attached coupon and we\n\nThe Above is O. E. Brooks, Kawater of the Appliance. Mr. Brooks, Curve Kawater of Rupture Over 30 Years Age and Patented on the International Experiences. If Rupture, We need today to the Brooks Appliance Company, Marshall, Mich.\n\nwill send you free our illustrated book on Rupture and give you an appended book on Patented Experiences. If Rupture, we use no salves, no barraces, no lies.\n\nis true. You are the Judge and once have seen our illustrated book and read if you will be on instructed book and read if you will be on instructed letters you can also read. Fill our free coupon and worth your time whether you try our Appliance or not.\n\nFREE INFORMATION COUPON\nBrooks Appliance Company\n894 A State St., Marshall, Mich.\nPlease send me by mail, in plain wrapper, your instructed book and full information about your Appliance for the cure of rupture.\n\nName\n\nAddress\n\nCity"
+      "text": "[OCR timeout]",
+      "status": "timeout"
     },
     {
       "bbox": [
@@ -812,17 +1068,30 @@
         850
       ],
       "label": "doc_title",
-      "text": "FREE TO ASTHMA SUFFERERS"
+      "text": "FREE TO ASTHMA SUFFERERS",
+      "status": "ok"
     },
     {
       "bbox": [
         1538,
         862,
-        1785,
+        1784,
+        1230
+      ],
+      "label": "text",
+      "text": "[OCR timeout]",
+      "status": "timeout"
+    },
+    {
+      "bbox": [
+        1553,
+        1290,
+        1775,
         1450
       ],
       "label": "text",
-      "text": "Free Trial of a Method That Any One Can Use Without Discomfort or Loss of Time\n\nWe have here for the counsel of Asthma, and we want you to try your experience. No matter whether your case is of long standing or recent development, whether it is present as occasional or chronic Asthma, you should send for a free trial of our method. No matter in what climate you live, no matter what your age is, if you are troubled with asthma, our method should relict you prescript. We especially want to send it to those apparently hopeless cases, where all forms of hinkness, inadmissible fauses, \"patient smokers,\" etc., have failed. We every one at our expense, that our method is designed to end all difficult breathing, wheeze and all possible attacks. This free offer is too important to neglect a single day. Write now and begin the method at once. Send no money. Simply mail coupon below. Do it today\u2014you do not even pay postage.\n\nFREE TRIAL COUPON\nFRONTIER ASTHINA CO., Room 655-N, Nigura and Hidden Streets, Buffalo, N. Y.\nSend free trial of your method to:\n\nMcKISSICK'S FAMOUS HAIR GROWER\nGrow Mino and it Will We Grow Yours"
+      "text": "```markdown\n\n```",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -832,17 +1101,19 @@
         1588
       ],
       "label": "text",
-      "text": "5000 Hair Grooming's Famous Improved Hair Grooming's Vertise the wonderful merits of the goods. A Three-month Treatment for $1.00, including a 25c box of O.K. Shampoo and a 50c box of McKissel's Lusherine or goodness for the treatment $1.75 worth of goods for the treatment $0.00. Order today for your get your treatments. Wet 10c extra for postage. 15-day limit. W. T. McKISSICK & CO."
+      "text": "5000 Hair Grooming's Famous Improved Hair Grooming's Vertise the wonderful merits of the goods. A Three-month Treatment for $1.00, including a 25c box of O.K. Shampoo and a 50c box of McKissel's Lusherine or goodness for the treatment $1.75 worth of goods for the treatment $0.00. Order today for your get your treatments. Wet 10c extra for postage. 15-day limit. W. T. McKISSICK & CO.",
+      "status": "ok"
     },
     {
       "bbox": [
-        1538,
+        1541,
         1585,
-        1785,
-        1888
+        1782,
+        1930
       ],
       "label": "text",
-      "text": "P. O. BOX 102. WILMINGTON, DEL.\n\n100 Style Book\nFREE\nSend for\nYour Copy\nToday\nSave\n33 1/2 %\n\nJust off the press. WRIGHT'S latest Big City Style. If you want to dress correctly for your city you can buy your clothes on everybike you wear, send for this book. If you want to buy your can buy your clothes from the manufacturer's bed-rock wholesale prices.\n\nFREE\nOffer to book online a woodful\nbook that will enable you to dress\nfor your city and make a new purchase. This book is free and makes a new purchase. WRIGHT & COMPANY"
+      "text": "P.O. BOX 102. WILMINGTON, DEL.\n\n$100 Style Book FREE\nSend for Your Copy Today\nSave 33\u00bd%\n\nwow! when the price is WRIGHT'S latest Big City Style you want to dress gravelly, look your very best, and save 33\u00bd% to buy a book now. If shoes how you can buy your foot from the manufacturer as a bird-rock wohalsale prices.\n\nFREE after that will enable you to dress yourself from hand to foot, foot coat, free shoes, free stock, free shoes, free stock. Order later.\n\nWRIGHT & COMPANY\nDepot, 9421 800 B. Throop St. CHICAGO\n\nWholesale Prices",
+      "status": "ok"
     },
     {
       "bbox": [
@@ -852,17 +1123,19 @@
         1967
       ],
       "label": "paragraph_title",
-      "text": "CURED HIS RUPTURE"
+      "text": "CURED HIS RUPTURE",
+      "status": "ok"
     },
     {
       "bbox": [
-        1538,
+        1534,
         1973,
-        1785,
-        2500
+        1803,
+        2489
       ],
       "label": "text",
-      "text": "I was badly ruptured while lifting a trunk several years ago. Doctors said my only hope of cure was an operation. I was completely hurt and hold of something that quickly and completely cured me. Years have passed and the rupture has never returned although I am doing hard work and a complete recovery has been achieved, no lost time, no trouble. I have nothing to sell, but will give full information about how you may find a complete treatment for me. I write to me. Eugene M. Pullen, Carpenter, 1070-G Marcelus Avenue, Manasquan, N. J. Better cut out this notice and show it to any other who needs it. We have reported impending results. My wife has been taking medication as well, but this is not the case. We have taken medication as well, but this is not the case. I concluded to try it, and after using it, I have regained full confidence. I do not tolerate other drugs. Do not tolerate other drugs. Send Coupon today for $1.50 Test Treatment.\n\nS2.50 FREE COUPON\nThis coupon is good for E.P.S. Test Treatment mailed free in gift box if second mailed. 10c to cover purchase for First M.W. L.A. Lowe's Bank, Oak Creek, Mich.\nAge:\nNew to Georgetown\nNew to Handa Tremland\nNew to Handa Tremland\nNew"
+      "text": "I was badly ruptured while lifting a trunk several years ago. Doctors said the rupture was an operation. Trusses did me no good. Finally I hold of something that quickly and completely cured me. Years have passed and the rupture has never re-returned. I must have had no as a carpenter. There was no operation, no lost time, no trouble. I have nothing to soil, but will give full information about the rupture and complete cure without operation, if you write to me. Eugene M. Pullen, carpenter, 1070-G Marcellus Avenue, Manhattan, M.I. I must be notified and show it to any others who are ruptured--you may save a life, or at least stop the misery of rupture and the worry and danger of an operation.\n\nGOITRE\n\nRamaged at Home Without Operation or Danger\n\nThis alarming and horrible inconvenience or danger. Hundreds of afflicted children have reported injuries. My guests have reported injurie",
+      "status": "repetition"
     }
   ]
 }
