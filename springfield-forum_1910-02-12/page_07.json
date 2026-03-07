@@ -8,7 +8,8 @@
     "layout_model": "PP-DocLayout_plus-L",
     "ocr_model": "mlx-community/GLM-OCR-bf16",
     "ocr_timeout": 25,
-    "cleanup_reprocess": true
+    "cleanup_reprocess": true,
+    "version": "2025-03-07-col-fix"
   },
   "layout": {
     "raw_detections": 54,

@@ -66,8 +66,9 @@
     padding: 2px 6px; border-radius: 3px; margin-top: 6px; letter-spacing: 0.3px;
   }
   .issue-card .pipeline-badge.current { background: #d4edda; color: #155724; }
-  .issue-card .pipeline-badge.old { background: #fff3cd; color: #856404; }
-  .issue-card.stale { opacity: 0.55; }
+  .issue-card .pipeline-badge.outdated { background: #fff3cd; color: #856404; }
+  .issue-card .pipeline-badge.old { background: #f8d7da; color: #721c24; }
+  .issue-card.stale { opacity: 0.5; }
   .issue-card.stale:hover { opacity: 1; }
 
   /* Empty state */
@@ -136,11 +137,17 @@ function renderGrid(filtered) {
   }
   grid.innerHTML = filtered.map(issue => {
     const info = parseIssue(issue.name);
-    const isCurrent = !!issue.processed_at;
-    const cardClass = isCurrent ? 'issue-card' : 'issue-card stale';
-    const badge = isCurrent
-      ? `<div class="pipeline-badge current">OCR ${issue.processed_at}</div>`
-      : `<div class="pipeline-badge old">Needs reprocessing</div>`;
+    const hasVersion = !!issue.version;
+    const hasDate = !!issue.processed_at;
+    const cardClass = hasVersion ? 'issue-card' : 'issue-card stale';
+    let badge;
+    if (hasVersion) {
+      badge = `<div class="pipeline-badge current">OCR ${issue.processed_at}</div>`;
+    } else if (hasDate) {
+      badge = `<div class="pipeline-badge outdated">Old pipeline — ${issue.processed_at}</div>`;
+    } else {
+      badge = `<div class="pipeline-badge old">Needs reprocessing</div>`;
+    }
     return `<div class="${cardClass}">
       <a href="${issue.name}/index.html">
         <div class="thumb"><img src="${cdnUrl(issue.name, 'page_01.jpg')}" loading="lazy" alt="${info.paper}"></div>
@@ -153,10 +160,10 @@ function renderGrid(filtered) {
       </a>
     </div>`;
   }).join('');
-  const current = filtered.filter(i => i.processed_at).length;
-  const stale = filtered.length - current;
-  const staleText = stale > 0 ? ` (${current} current, ${stale} old)` : '';
-  document.getElementById('count').textContent = `${filtered.length} issues${staleText}`;
+  const current = filtered.filter(i => i.version).length;
+  const outdated = filtered.filter(i => i.processed_at && !i.version).length;
+  const old = filtered.length - current - outdated;
+  document.getElementById('count').textContent = `${filtered.length} issues — ${current} current, ${outdated} old pipeline, ${old} unprocessed`;
 }
 
 function sortIssues(list, mode) {
